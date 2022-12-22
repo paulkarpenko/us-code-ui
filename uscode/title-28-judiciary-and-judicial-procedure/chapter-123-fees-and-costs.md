@@ -438,7 +438,7 @@ In Alberty v. U.S., C.C.A.9, 1937, 91 F.2d 461, the defendant was fined $100 on 
 Changes were made in phraseology.
 
 #### References in Text
-The Comprehensive Forfeiture Act of 1984, referred to in subsec. (c)(1), is chapter III of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2040, as amended. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 1961 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1961&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
+The Comprehensive Forfeiture Act of 1984, referred to in subsec. (c)(1), is chapter III of title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 2040. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 1961 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1961&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 1990—Subsec. (c)(1). Pub. L. 101–647 substituted “if the property is not disposed of by marshal’s sale” for “If the property is to be disposed of by marshal’s sale”.

@@ -131,11 +131,11 @@ Section 20102(2), referred to in subsec. (a)(1), was redesignated section 20102(
 
 The Railroad Retirement Act of 1974, referred to in subsec. (c), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (c), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 367 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section367&num=0&edition=prelim) and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (c), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 367 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section367&num=0&edition=prelim) and Tables.
 
-The Railroad Retirement Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§ 3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, as amended, which is classified generally to chapter 22 (§ 3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3233 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3233&num=0&edition=prelim) and Tables.
+The Railroad Retirement Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§ 3201, 3202, 3211, 3212, 3221, and 3231 to 3233, 68A Stat. 431, which is classified generally to chapter 22 (§ 3201 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3233 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3233&num=0&edition=prelim) and Tables.
 
-The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (e), is act June 8, 1954, ch. 269, 68 Stat. 179, which is not classified to the Code.
 
 The date of the enactment of this subsection, referred to in subsec. (o), is the date of enactment of Pub. L. 110–53, which was approved Aug. 3, 2007.
 
@@ -1043,7 +1043,7 @@ In subsection (a)(2), the words “provided for” and “and pursuant to” are
 In subsection (b)(1), the words “Except as provided in paragraph (2) of this subsection” are omitted as surplus.
 
 #### References in Text
-The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsec. (c)(1), is the date of enactment of title II of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
@@ -1762,7 +1762,7 @@ Subsec. (b)(2)(H). Pub. L. 117–58, § 22207(a)(3)(C)(vi), redesignated subpar.
 
 Pub. L. 117–58, § 22204(b)(1), redesignated subpar. (G) as (H). Former subpar. (H) redesignated (I).
 
-Subsec. (b)(2)(I). Pub. L. 117–58, § 22207(a)(3)(C)(vii), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follow: “financial performance for each route within each business line, including descriptions of the cash operating loss or contribution and productivity for each route;”.
+Subsec. (b)(2)(I). Pub. L. 117–58, § 22207(a)(3)(C)(vii), amended subpar. (I) generally. Prior to amendment, subpar. (I) read as follows: “financial performance for each route within each business line, including descriptions of the cash operating loss or contribution and productivity for each route;”.
 
 Pub. L. 117–58, § 22207(a)(3)(C)(vi), redesignated subpar. (J) as (I). Former subpar. (I) redesignated (H).
 

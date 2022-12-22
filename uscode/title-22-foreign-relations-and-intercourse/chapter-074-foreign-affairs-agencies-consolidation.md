@@ -202,7 +202,7 @@ Congress finds that—
 #### References in Text
 This part, referred to in par. (3), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 
-The United States International Broadcasting Act of 1994, referred to in par. (3), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, as amended, which is classified principally to chapter 71 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+The United States International Broadcasting Act of 1994, referred to in par. (3), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to chapter 71 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 
 <a id="section-6542"></a>
@@ -499,7 +499,7 @@ In this part, the term “United States assistance” means development and othe
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in pars. (1) to (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapters 1, 10, and 11 of part I of the Act are classified generally to parts I (§ 2151 et seq.), X (§ 2293 et seq.), and XI (§ 2295 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in pars. (1) to (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapters 1, 10, and 11 of part I of the Act are classified generally to parts I (§ 2151 et seq.), X (§ 2293 et seq.), and XI (§ 2295 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 The Support for East European Democracy Act, referred to in par. (5), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
 
@@ -539,9 +539,9 @@ The Administrator of the Agency for International Development, appointed pursuan
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-The Arms Export Control Act, referred to in subsec. (b)(2), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(2), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
 
 <a id="section-6601"></a>
@@ -717,7 +717,7 @@ Subchapter III, referred to in subsecs. (a) and (b), was in the original “titl
 
 This chapter, referred to in subsec. (b), was in the original “this subdivision”, meaning subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–765, known as the Foreign Affairs Agencies Consolidation Act of 1998. For complete classification of this subdivision to the Code, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501) and Tables.
 
-This Act, referred to in subsec. (c), probably means division G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–761, as amended, known as the Foreign Affairs Reform and Restructuring Act of 1998. For complete classification of division G to the Code, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501) and Tables.
+This Act, referred to in subsec. (c), probably means division G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–761, known as the Foreign Affairs Reform and Restructuring Act of 1998. For complete classification of division G to the Code, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501) and Tables.
 
 [Section 4102 of this title](./chapter-052-foreign-service.md#section-4102), referred to in subsec. (c), was in the original “section 1002 of the Foreign Service Act”, and was translated as meaning section 1002 of the Foreign Service Act of 1980 to reflect the probable intent of Congress.
 

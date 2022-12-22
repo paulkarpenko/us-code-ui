@@ -208,7 +208,7 @@ For purposes of this subchapter—
 ### Statutory Notes
 
 #### References in Text
-Act of March 2, 1867, referred to in par. (5), is act Mar. 2, 1867, ch. 162, 14 Stat. 438, as amended. Section 8 of this Act is classified to [section 123 of this title](./chapter-008-howard-university.md#section-123). For complete classification of this Act to the Code, see Tables.
+Act of March 2, 1867, referred to in par. (5), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Section 8 of this Act is classified to [section 123 of this title](./chapter-008-howard-university.md#section-123). For complete classification of this Act to the Code, see Tables.
 
 #### Effective Date
 Pub. L. 98–480, title II, § 209, Oct. 17, 1984, 98 Stat. 2247, provided that: “This title [see Short Title note below] shall take effect on October 1, 1984.”

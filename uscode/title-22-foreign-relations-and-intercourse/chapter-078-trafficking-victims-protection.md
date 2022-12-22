@@ -65,6 +65,9 @@ source: >-
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out below and Tables.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–211, § 1, Oct. 17, 2022, 136 Stat. 2248, provided that: “This Act [amending [section 7104b of this title](./chapter-078-trafficking-victims-protection.md#section-7104b)] may be cited as the ‘End Human Trafficking in Government Contracts Act of 2022’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–92, div. F, title LXXI, § 7151, Dec. 20, 2019, 133 Stat. 2257, provided that: “This subtitle [subtitle B (§§ 7151–7155) of title LXXI of div. F of Pub. L. 116–92, amending [section 7103 of this title](./chapter-078-trafficking-victims-protection.md#section-7103) and [section 312 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section312&num=0&edition=prelim), Money and Finance, and enacting provisions set out as a note under [section 3305 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3305&num=0&edition=prelim), Banks and Banking] may be cited as the ‘Financial Industry Guidance to Halt Trafficking Act’ or the ‘FIGHT Act’.”
 
@@ -940,7 +943,7 @@ Pub. L. 112–239, div. A, title XVII, § 1701, Jan. 2, 2013, 126 Stat. 2092, pr
 
 **(c) Remedial actions**
 
-(1) **In general** — Upon receipt of an Inspector General’s report substantiating an allegation that the recipient of a contract, grant, or cooperative agreement; any subgrantee or subcontractor of the recipient; or any agent of the recipient or of a subgrantee or subcontractor, engaged in any of the activities described in [section 7104(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7104/g&num=0&edition=prelim), as amended by section 1702, or notification of an indictment, information, or criminal complaint for an offense under subsection (a)(3), the head of agency shall consider taking one or more of the following remedial actions:
+(1) **In general** — Upon receipt of an Inspector General’s report substantiating an allegation that the recipient of a contract, grant, or cooperative agreement; any subgrantee or subcontractor of the recipient; or any agent of the recipient or of a subgrantee or subcontractor, engaged in any of the activities described in [section 7104(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7104/g&num=0&edition=prelim), as amended by section 1702, or notification of an indictment, information, or criminal complaint for an offense under subsection (a)(3), the head of agency shall refer the matter to the agency suspension and debarment official and consider taking one or more of the following remedial actions:
 
   (A) Requiring the recipient to remove an employee from the performance of work under the grant, contract, or cooperative agreement.
 
@@ -953,8 +956,6 @@ Pub. L. 112–239, div. A, title XVII, § 1701, Jan. 2, 2013, 126 Stat. 2092, pr
   (E) Declining to exercise available options under the contract.
 
   (F) Terminating the contract for default or cause, in accordance with the termination clause for the contract.
-
-  (G) Referring the matter to the agency suspension and debarment official.
 
 (2) **Savings clause** — Nothing in this subsection shall be construed as limiting the scope of applicable remedies available to the Federal Government.
 
@@ -977,6 +978,11 @@ Pub. L. 112–239, div. A, title XVII, § 1701, Jan. 2, 2013, 126 Stat. 2092, pr
 Section is comprised of section 1704 of Pub. L. 112–239. Subsec. (d)(2) of section 1704 of Pub. L. 112–239 amended [section 2313 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2313&num=0&edition=prelim), Public Contracts.
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2013, and not as part of the Trafficking Victims Protection Act of 2000 which comprises this chapter.
+
+#### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–211, § 2(a)(1), which directed insertion of “refer the matter to the agency suspension and debarment official and” before “consider taking one of the following actions”, was executed in introductory provisions by making the insertion before “consider taking one or more of the following remedial actions” to reflect the probable intent of Congress.
+
+Subsec. (c)(1)(G). Pub. L. 117–211, § 2(a)(2), struck out subpar. (G) which read as follows: “Referring the matter to the agency suspension and debarment official.”
 
 #### Effective Date
 Requirements of subsec. (c) and second sentence of subsec. (a)(1) of this section applicable to grants, contracts, and cooperative agreements entered into on or after the date that is 270 days after Jan. 2, 2013, and to task and delivery orders awarded on or after Jan. 2, 2013, pursuant to contracts entered before, on, or after such date, see [section 7104d(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7104d/c/1/B&num=0&edition=prelim).
@@ -1886,7 +1892,7 @@ Memorandum of President of the United States, Feb. 3, 2012, 77 F.R. 11375.—Bur
 ## § 7108. Actions against significant traffickers in persons
 **(a) Authority to sanction significant traffickers in persons**
 
-(1) **In general** — The President may exercise the authorities set forth in [section 1702 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim) without regard to [section 1701 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), or section 1263 of the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; [22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note), in the case of any of the following persons:
+(1) **In general** — The President may exercise the authorities set forth in [section 1702 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim) without regard to [section 1701 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), or [section 10102 of this title](./chapter-108-global-magnitsky-human-rights-accountability.md#section-10102), in the case of any of the following persons:
 
   (A) Any foreign person that plays a significant role in a severe form of trafficking in persons, directly or indirectly in the United States.
 
@@ -1966,9 +1972,9 @@ Subsec. (a)(1)(D). Pub. L. 115–425, § 124(2), added subpar. (D).
 ### Statutory Notes
 
 #### References in Text
-The Fair Labor Standards Act, referred to in subsec. (b)(1), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act, referred to in subsec. (b)(1), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
-The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (b)(1), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1801&num=0&edition=prelim) and Tables.
+The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (b)(1), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1801&num=0&edition=prelim) and Tables.
 
 The Sentencing Act of 1987, referred to in subsec. (b)(3), is Pub. L. 100–182, Dec. 7, 1987, 101 Stat. 1266. Section 21(a) of the Act is set out as a note under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
 
@@ -2116,7 +2122,7 @@ For delegation of functions of President under this section, see section 6 of Ex
 
 This chapter, referred to in subsec. (g), was in the original “this division”, meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
-This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
+This Act, referred to in subsec. (g)(1), is the Victims of Trafficking and Violence Protection Act of 2000, Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1464. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-078-trafficking-victims-protection.md#section-7101) and Tables.
 
 [Section 7102(9)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/9/A&num=0&edition=prelim), referred to in subsec. (g)(2), was redesignated [section 7102(11)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/11/A&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 

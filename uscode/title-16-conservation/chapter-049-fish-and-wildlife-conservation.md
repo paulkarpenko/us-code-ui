@@ -354,11 +354,11 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Treaty Act, referred to in subsec. (a), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act, referred to in subsec. (a), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
-The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(3), (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(3), (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Codification
 November 14, 1988, referred to in subsec. (b), was in the original “the date of enactment of this Act” which was translated as meaning the date of enactment of Pub. L. 100–653, which enacted this section, to reflect the probable intent of Congress.

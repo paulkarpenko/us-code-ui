@@ -116,7 +116,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (q) and (r), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -188,7 +188,7 @@ Meat and meat food products are an important source of the Nation’s total supp
 ### Statutory Notes
 
 #### References in Text
-Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
+Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
 
 Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note below.
 
@@ -397,7 +397,7 @@ No person, firm, or corporation shall, with respect to any cattle, sheep, swine,
 ### Statutory Notes
 
 #### References in Text
-Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
+Act of August 27, 1958, referred to in subsec. (b), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Tables.
 
 Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under [section 603 of this title](./chapter-012-meat-inspection.md#section-603).
 
@@ -642,9 +642,9 @@ Amendment by Pub. L, 90–201 effective Dec. 15, 1967, except that with respect 
 ### Statutory Notes
 
 #### References in Text
-Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under [section 603 of this title](./chapter-012-meat-inspection.md#section-603). For complete classification of this Act to the Code, see Tables.
+Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, which is classified generally to chapter 48 (§ 1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, § 5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under [section 603 of this title](./chapter-012-meat-inspection.md#section-603). For complete classification of this Act to the Code, see Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Codification
 Subsec. (e) of this section, which required the Secretary to submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a comprehensive and detailed written annual report on the administration of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 46 of House Document No. 103–7.
@@ -1050,7 +1050,7 @@ Requirements within the scope of this chapter with respect to premises, faciliti
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Amendments
 2009—Subsec. (a). Pub. L. 111–31 substituted “section 1002(b)” for “section 902(b)”.
@@ -1112,11 +1112,11 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act Jun
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Food and Agriculture Act of 1977, referred to in subsec. (h), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (h), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
 
-The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 451 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-451) and Tables.
+The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 451 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-451) and Tables.
 
 #### Prior Provisions
 A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to [section 680 of this title](./chapter-012-meat-inspection.md#section-680).
@@ -1354,7 +1354,7 @@ Annual appropriations of the sum of $3,000,000 from the general fund of the Trea
 This Act, referred to in text, is act June 30, 1906, ch. 3913, 34 Stat. 669, which made appropriations for the Department of Agriculture for the fiscal year ending June 30, 1907.
 
 #### Codification
-Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts as made permanent appropriations to be be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(3) of such Act provides as follows: “Meat inspection, Bureau of Animal Industry (fiscal year) (3–114).” Section 2(a) of such Act also authorized to be appropriated such other sums as necessary in the enforcement of the meat inspection laws. See 1934 Amendment note below.
+Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts as made permanent appropriations to be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(3) of such Act provides as follows: “Meat inspection, Bureau of Animal Industry (fiscal year) (3–114).” Section 2(a) of such Act also authorized to be appropriated such other sums as necessary in the enforcement of the meat inspection laws. See 1934 Amendment note below.
 
 Section was not enacted as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.
 

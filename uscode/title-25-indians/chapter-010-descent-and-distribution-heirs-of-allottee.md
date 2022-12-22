@@ -14,7 +14,7 @@ For the purpose of determining the descent of land to the heirs of any deceased 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Feb. 28, 1891, ch. 383, 26 Stat. 794, as amended, which enacted sections 336, 371, and 397 of this title and amended [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Feb. 28, 1891, ch. 383, 26 Stat. 794, which enacted sections 336, 371, and 397 of this title and amended [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 A further provision of section 5 of act Feb. 28, 1891, “that no allotment of lands shall be made or annuities of money paid to any of the Sac and Fox of the Missouri Indians who were not enrolled as members of said tribe on January first, eighteen hundred and ninety; but this shall not be held to impair or otherwise affect the rights or equities of any person whose claim to membership in said tribe is now pending and being investigated,” was repealed by a provision of the Indian Appropriation Act of Mar. 2, 1895, ch. 188, § 1, 28 Stat. 902.
@@ -123,7 +123,7 @@ Any persons of the age of eighteen years or older having any right, title, or in
 ### Statutory Notes
 
 #### References in Text
-The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, as amended, which is classified generally to chapter 24 (§ 2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-024-indian-land-consolidation.md#section-2201) and Tables.
+The Indian Land Consolidation Act, referred to in text, is title II of Pub. L. 97–459, Jan. 12, 1983, 96 Stat. 2517, which is classified generally to chapter 24 (§ 2201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of this title](./chapter-024-indian-land-consolidation.md#section-2201) and Tables.
 
 #### Amendments
 2000—Pub. L. 106–462 substituted “with the Indian Land Consolidation Act or a tribal probate code approved under such Act and regulations to be prescribed by the Secretary of the Interior:” for “with regulations to be prescribed by the Secretary of the Interior:”.

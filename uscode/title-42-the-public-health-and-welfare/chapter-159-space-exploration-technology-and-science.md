@@ -511,7 +511,7 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (b)(3), i
 
 <a id="section-18353"></a>
 ## § 18353. Continuation of the International Space Station
-**(a) Policy of the United States** It shall be the policy of the United States, in consultation with its international partners in the ISS program, to support full and complete utilization of the ISS through at least 2024.
+**(a) Policy of the United States** It shall be the policy of the United States, in consultation with its international partners in the ISS program, to support full and complete utilization of the ISS through at least September 30, 2030.
 
 **(b) NASA action** In furtherance of the policy set forth in subsection (a), NASA shall—
 
@@ -524,6 +524,8 @@ The National Aeronautics and Space Act of 1958, referred to in subsec. (b)(3), i
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–167 substituted “September 30, 2030” for “2024”.
+
 2017—Pub. L. 115–10 amended section generally. Prior to amendment, section read as follows:
 
 “(a) Policy of the United States.—It shall be the policy of the United States, in consultation with its international partners in the ISS program, to support full and complete utilization of the ISS through at least 2024.
@@ -550,7 +552,7 @@ Subsec. (a). Pub. L. 114–90, § 114(b)(1)(B), substituted “through at least 
 
 <a id="section-18361"></a>
 ## § 18361. Maintenance of the United States segment and assurance of continued operations of the International Space Station.
-**(a) In general** The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2024.
+**(a) In general** The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2030.
 
 **(b) Vehicle and component review**
 
@@ -610,7 +612,7 @@ Subsec. (a). Pub. L. 114–90, § 114(b)(1)(B), substituted “through at least 
 
   (B) The findings of the study required by paragraph (2).
 
-(4) **Funds** — Amounts authorized to be appropriated by section 101(2)(B) 11 See References in Text note below. shall be available for the mission authorized by paragraph (1).
+(4) **Funds** — Amounts authorized to be appropriated by section 101(2)(B) 1 shall be available for the mission authorized by paragraph (1).
 
 **(f) Space Shuttle manifest flight assurance**
 
@@ -626,6 +628,8 @@ Reference to September 30, 2020, referred to in subsec. (b)(1), was not amended 
 Section 101(2)(B), referred to in subsec. (e)(4), is Pub. L. 111–267, title I, § 101(2)(B), Oct. 11, 2010, 124 Stat. 2809, which is not classified to the Code.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–167 substituted “September 30, 2030” for “September 30, 2024”.
+
 2015—Subsec. (a). Pub. L. 114–90, § 114(b)(2)(A), substituted “through at least September 30, 2024” for “through at least September 30, 2020”.
 
 Subsec. (b)(1). Pub. L. 114–90, § 114(b)(2)(B), substituted “The Administrator” for “In carrying out subsection (a), the Administrator”.
@@ -665,9 +669,9 @@ Subsec. (b)(1). Pub. L. 114–90, § 114(b)(2)(B), substituted “The Administra
 
 **(d) Research capacity allocation and integration of research payloads**
 
-(1) **Allocation of ISS research capacity** — As soon as practicable after October 11, 2010, but not later than October 1, 2011, ISS national laboratory managed experiments shall be guaranteed access to, and utilization of, not less than 50 percent of the United States research capacity allocation, including power, cold stowage, and requisite crew time onboard the ISS through at least September 30, 2024. Access to the ISS research capacity includes provision for the adequate upmass and downmass capabilities to utilize the ISS research capacity, as available. The Administrator may allocate additional capacity to the ISS national laboratory should such capacity be in excess of NASA research requirements.
+(1) **Allocation of ISS research capacity** — The ISS national laboratory managed experiments shall be guaranteed access to, and utilization of, not less than 50 percent of the United States research capacity allocation, including power, cold stowage, and requisite crew time onboard the ISS through at least September 30, 2030. Access to the ISS research capacity includes provision for the adequate upmass and downmass capabilities to utilize the ISS research capacity, as available. The Administrator may allocate additional capacity to the ISS national laboratory should such capacity be in excess of NASA research requirements.
 
-(2) **Additional research capabilities** — If any NASA research plan is determined to require research capacity onboard the ISS beyond the percentage allocated under paragraph (1), such research plan shall be prepared in the form of a requested research opportunity to be submitted to the process established under this section for the consideration of proposed research within the capacity allocated to the ISS national laboratory. A proposal for such a research plan may include the establishment of partnerships with non-NASA institutions eligible to propose research to be conducted within the ISS national laboratory capacity. Until at least September 30, 2024, the official or employee designated under subsection (b) may grant an exception to this requirement in the case of a proposed experiment considered essential for purposes of preparing for exploration beyond low-Earth orbit, as determined by joint agreement between the organization with which the Administrator enters into a cooperative agreement under subsection (a) and the official or employee designated under subsection (b).
+(2) **Additional research capabilities** — If any NASA research plan is determined to require research capacity onboard the ISS beyond the percentage allocated under paragraph (1), such research plan shall be prepared in the form of a requested research opportunity to be submitted to the process established under this section for the consideration of proposed research within the capacity allocated to the ISS national laboratory. A proposal for such a research plan may include the establishment of partnerships with non-NASA institutions eligible to propose research to be conducted within the ISS national laboratory capacity. Until at least September 30, 2030, the official or employee designated under subsection (b) may grant an exception to this requirement in the case of a proposed experiment considered essential for purposes of preparing for exploration beyond low-Earth orbit, as determined by joint agreement between the organization with which the Administrator enters into a cooperative agreement under subsection (a) and the official or employee designated under subsection (b).
 
 (3) **Research priorities and enhanced capacity** — The organization with which the Administrator enters into the cooperative agreement shall consider recommendations of the National Academies Decadal Survey on Biological and Physical Sciences in Space in establishing research priorities and in developing proposed enhancements of research capacity and opportunities for the ISS national laboratory.
 
@@ -679,6 +683,10 @@ Subsec. (b)(1). Pub. L. 114–90, § 114(b)(2)(B), substituted “The Administra
 In subsec. (c)(3), “[section 70906 of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section70906&num=0&edition=prelim)” substituted for “section 602 of the National Aeronautics and Space Administration Authorization Act of 2008 ([42 U.S.C. 17752](./chapter-155-aeronautics-and-space-activities.md#section-17752))” on authority of Pub. L. 111–314, § 5(e), Dec. 18, 2010, 124 Stat. 3443, which Act enacted Title 51, National and Commercial Space Programs.
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–167, § 10815(c)(1), substituted “The ISS” for “As soon as practicable after October 11, 2010, but not later than October 1, 2011, ISS” and “September 30, 2030” for “September 30, 2024”.
+
+Subsec. (d)(2). Pub. L. 117–167, § 10815(c)(2), substituted “September 30, 2030” for “September 30, 2024”.
+
 2015—Subsec. (d)(1), (2). Pub. L. 114–90 substituted “at least September 30, 2024” for “September 30, 2020”.
 
 

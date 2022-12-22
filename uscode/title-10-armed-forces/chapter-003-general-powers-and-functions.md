@@ -56,9 +56,12 @@ The Secretary of a military department may have published, annually or at such o
 
   (D) any other type of information that the Secretary of Defense determines should not be made available to the public in the interest of national security.
 
-**(c) Semi-annual Summaries.—** Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
+**(c) 11 See Applicability of Amendment note below. Semi-annual Summaries.—** Not later than January 1 and July 1 of each year, the Secretary of Defense shall make publicly available on an appropriate internet website a summary of all reports submitted to Congress by the Department of Defense for the preceding six-month period that are required to be submitted by statute. Each such summary shall include, for each report covered by the summary, the title of report, the date of delivery, and the section of law under which such report is required.
 
 ### Statutory Notes
+
+#### Applicability of Amendment
+Subsec. (c) of this section as added by section 1062(a) of Pub. L. 117–81 applicable one year after Dec. 27, 2021. See Effective Date of 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (c). Pub. L. 117–81 added subsec. (c).
@@ -109,7 +112,7 @@ Pub. L. 115–232, div. A, title V, § 595, Aug. 13, 2018, 132 Stat. 1789, provi
 In subsection (b), the words “the same as” are substituted for the word “comparable”, since any necessary differences in the recommended legislation between Reserves and Regulars are fully taken account of in the words “So far as practicable”.
 
 #### References in Text
-The National Emergencies Act, referred to in subsec. (b), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended. Title II of the Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+The National Emergencies Act, referred to in subsec. (b), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255. Title II of the Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 644 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-644) prior to repeal by Pub. L. 103–337, § 1622(b).
@@ -1264,7 +1267,7 @@ Pub. L. 104–106, div. A, title V, § 564(b), Feb. 10, 1996, 110 Stat. 326, pro
 #### References in Text
 The Export Administration Act of 1979, referred to in subsec. (a), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
-The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
+The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2016—Subsec. (a). Pub. L. 114–328 substituted “([50 U.S.C. 4601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4601&num=0&edition=prelim) et seq.)” for “(50 U.S.C. App. 2401–2420)”.
@@ -1408,7 +1411,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 ### Statutory Notes
 
 #### References in Text
-The International Organizations Immunities Act, referred to in subsec. (h)(3)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
+The International Organizations Immunities Act, referred to in subsec. (h)(3)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2002—Subsec. (h)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -1495,7 +1498,7 @@ The National Security Act of 1947, referred to in subsecs. (c) and (e), is act J
 The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under [section 1541 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2021—Subsec. (d). Pub. L. 117–81, § 1042(1)–(3), struck out par. (1) designation before “Except”, substituted “In” for “Except as provided in paragraph (2), in”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2), which read as follows: “ For purposes of this section, the term ‘sensitive military operation’ does not include any operation conducted within Afghanistan, Syria, or Iraq.”
+2021—Subsec. (d). Pub. L. 117–81, § 1042(1)–(3), substituted “In” for “(1) Except as provided in paragraph (2), in”, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “ For purposes of this section, the term ‘sensitive military operation’ does not include any operation conducted within Afghanistan, Syria, or Iraq.”
 
 Subsec. (d)(3). Pub. L. 117–81, § 1042(4)–(6), added par. (3).
 
@@ -1584,7 +1587,7 @@ Pub. L. 114–328, § 1081(a)(1), substituted “subsections (a) and (b)” for 
 
 Subsec. (e). Pub. L. 114–328, § 1682(a)(1)(A), (b), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, text read as follows: “The prohibitions in subsections (a) and (b) shall expire on January 1, 2017.”
 
-#### Certification Required for Russia and China to Tour Certain Missile Defense Sites
+#### Certification Required for Russia and China To Tour Certain Missile Defense Sites
 Pub. L. 117–81, div. A, title XVI, § 1667, Dec. 27, 2021, 135 Stat. 2106, provided that: “(a) Certification.—Before the Secretary of Defense makes a determination with respect to allowing a foreign national of Russia or China to tour a covered site, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a certification that—“(1) the Secretary has determined that such tour is in the national security interest of the United States, including the justifications for such determination; and “(2) the Secretary will not share any technical data relating to the covered site with the foreign nationals. “(b) Timing.—The Secretary may not conduct a tour described in subsection (a) until a period of 45 days has elapsed following the date on which the Secretary submits the certification for that tour under such subsection. “(c) Construction With Other Requirements.—Nothing in this section shall be construed to supersede or otherwise affect [section 130h of title 10](./chapter-003-general-powers-and-functions.md#section-130h), United States Code. “(d) Covered Site.—In this section, the term ‘covered site’ means any of the following:“(1) The combat information center of a naval ship equipped with the Aegis ballistic missile defense system. “(2) An Aegis Ashore site. “(3) A terminal high altitude area defense battery. “(4) A ground-based midcourse defense interceptor silo.”
 
 

@@ -655,7 +655,7 @@ The requirements of [section 1553 of this title](./chapter-009-housing-of-person
 #### References in Text
 [Section 1575 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1575&num=0&edition=prelim), referred to in subsec. (a), has been omitted from the Code.
 
-Section 4 of the Housing and Rent Act of 1947, as amended, referred to in subsec. (c), is section 4 of act June 30, 1947, ch. 163, title I, 61 Stat. 195, which was formerly classified to section 1884 of the former Appendix to Title 50, War and National Defense, and has been omitted from the Code.
+Section 4 of the Housing and Rent Act of 1947, referred to in subsec. (c), is section 4 of act June 30, 1947, ch. 163, title I, 61 Stat. 195, which was formerly classified to section 1884 of the former Appendix to Title 50, War and National Defense, and has been omitted from the Code.
 
 #### Amendments
 1951—Subsec. (c). Act Oct. 26, 1951, struck “of World War II” thus making section applicable to veterans of Korean war.
@@ -818,7 +818,7 @@ Subject to the above order of preference, the Secretary of Housing and Urban Dev
 #### References in Text
 Section 4 of the Housing and Rent Act of 1947, as amended, referred to in subsec. (e), is section 4 of act June 30, 1947, ch. 163, title I, 61 Stat. 195, which was formerly classified to section 1884 of the former Appendix to Title 50, War and National Defense, and has been omitted from the Code.
 
-The Housing Act of 1950, referred to in subsec. (g), is act Apr. 20, 1950, ch. 94, 64 Stat. 48, as amended. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking, and Tables.
+The Housing Act of 1950, referred to in subsec. (g), is act Apr. 20, 1950, ch. 94, 64 Stat. 48. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking, and Tables.
 
 #### Amendments
 1991—Subsec. (b). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration” in last sentence.
@@ -1018,7 +1018,7 @@ Previously, reference to Board of Commissioners of District of Columbia had been
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a), (c), and (d), means act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. Title II of this Act enacted subchapter X (§ 1750 et seq.) of chapter 13 of Title 12, Banks and Banking, and amended sections 371, 1430, 1702, 1706, 1715c, 1715f, 1716, and 1743 of Title 12. Title III of this Act is classified generally to subchapter IX (§ 1592 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
+This Act, referred to in subsecs. (a), (c), and (d), means act Sept. 1, 1951, ch. 378, 65 Stat. 293, known as the Defense Housing and Community Facilities and Services Act of 1951. Title II of this Act enacted subchapter X (§ 1750 et seq.) of chapter 13 of Title 12, Banks and Banking, and amended sections 371, 1430, 1702, 1706, 1715c, 1715f, 1716, and 1743 of Title 12. Title III of this Act is classified generally to subchapter IX (§ 1592 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
 
 #### Amendments
 1953—Subsec. (a). Act June 30, 1953, substituted “titles II or III” for “titles II, III, or IV”.
@@ -1048,7 +1048,7 @@ In order to assure that private enterprise shall be afforded full opportunity to
 #### References in Text
 The Defense Production Act of 1950, referred to in subsec. (b), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified to chapter 55 (§ 4501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-This Act, referred to in subsecs. (c) and (d), means act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. Title II of this Act enacted subchapter X (§ 1750 et seq.) of chapter 13 of Title 12, Banks and Banking, and amended sections 371, 1430, 1702, 1706, 1715c, 1715f, 1716, and 1743 of Title 12. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
+This Act, referred to in subsecs. (c) and (d), means act Sept. 1, 1951, ch. 378, 65 Stat. 293, known as the Defense Housing and Community Facilities and Services Act of 1951. Title II of this Act enacted subchapter X (§ 1750 et seq.) of chapter 13 of Title 12, Banks and Banking, and amended sections 371, 1430, 1702, 1706, 1715c, 1715f, 1716, and 1743 of Title 12. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
 
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1581 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1581).
@@ -1080,7 +1080,7 @@ After June 30, 1953, no construction of permanent housing may be begun under sub
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title IX of the National Housing Act is title IX of act June 27, 1934, ch. 847, as added by act Sept. 1, 1951, ch. 378, title II, § 201, 65 Stat. 295, which is classified generally to subchapter X (§ 1750 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Title IX of the National Housing Act is title IX of act June 27, 1934, ch. 847, as added by act Sept. 1, 1951, ch. 378, title II, § 201, 65 Stat. 295, which is classified generally to subchapter X (§ 1750 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 [Section 1701g–1 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701g–1&num=0&edition=prelim), referred to in text, has been omitted from the Code.
 
@@ -1107,7 +1107,7 @@ Except as may be otherwise expressly provided in this Act, all powers and author
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
+This Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
 
 #### Codification
 Section constitutes the first sentence of section 618 of act Sept. 1, 1951. Remainder of section 618 is set out in Separability note under [section 1591 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1591).
@@ -1171,7 +1171,7 @@ Public Law 725, Seventy-ninth Congress, approved Aug. 13, 1946, as amended, refe
 
 Public Law 380, Eighty-first Congress, approved Oct. 25, 1949, referred to in text, means act Oct. 25, 1949, ch. 722, 63 Stat. 898, known as the Hospital Survey and Construction Amendments of 1949, which amended sections 291, 291d, 291f, 291g, 291h, 291i, 291j, 291n, and enacted provisions set out as notes under [section 291 of this title](./chapter-6a-public-health-service.md#section-291). For complete classification of this Act to the Code, see Tables.
 
-This Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
+This Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
 
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1581 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1581).
@@ -1195,7 +1195,7 @@ This Act, referred to in subsecs. (a) and (c), means act Sept. 1, 1951, ch. 378,
 
 Section 322 of the Act of June 30, 1932, referred to in subsec. (a), is section 322 of act June 30, 1932, ch. 314, 47 Stat. 412, which was classified to section 278a of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 100–678, § 7, Nov. 17, 1988, 102 Stat. 4052.
 
-Subchapter X, referred to in subsecs. (a), (b), and (c), was in the original, title IV, meaning title IV of act Sept. 1, 1951, ch. 378, 65 Stat. 310, as amended, which enacted sections 1593 to 1593d of this title and was repealed by act June 30, 1953, ch. 170, § 19, 67 Stat. 126.
+Subchapter X, referred to in subsecs. (a), (b), and (c), was in the original, title IV, meaning title IV of act Sept. 1, 1951, ch. 378, 65 Stat. 310, which enacted sections 1593 to 1593d of this title and was repealed by act June 30, 1953, ch. 170, § 19, 67 Stat. 126.
 
 #### Codification
 In subsec. (a), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes, as amended” and “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949, as amended” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -1233,7 +1233,7 @@ Notwithstanding any other provisions of law, the acquisition by the United State
 ### Statutory Notes
 
 #### References in Text
-Subchapter X of this chapter, referred to in text, was in the original “title IV of this Act”, meaning title IV of act Sept. 1, 1951, ch. 378, 65 Stat. 310, as amended, which enacted sections 1593 to 1593d of this title and was repealed by act June 30, 1953, ch. 170, § 19, 67 Stat. 126.
+Subchapter X of this chapter, referred to in text, was in the original “title IV of this Act”, meaning title IV of act Sept. 1, 1951, ch. 378, 65 Stat. 310, hich enacted sections 1593 to 1593d of this title and was repealed by act June 30, 1953, ch. 170, § 19, 67 Stat. 126.
 
 
 <a id="section-1592g"></a>
@@ -1327,7 +1327,7 @@ Subject to all of the limitations and restrictions of this Act, including, speci
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment set out as a note under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
+This Act, referred to in text, means act Sept. 1, 1951, ch. 378, 65 Stat. 293, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment set out as a note under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
 
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1581 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1581).
@@ -1387,7 +1387,7 @@ As used in this subchapter, the following terms shall have the meanings respecti
 ### Statutory Notes
 
 #### References in Text
-The Mutual Defense Assistance Act of 1949, referred to in subsec. (e), is act Oct. 6, 1949, ch. 626, 63 Stat. 714, as amended, which was classified generally to chapter 20 (§ 1571 et seq.) of Title 22, Foreign Relations and Intercourse, prior to its repeal by act Aug. 26, 1954, ch. 937, title V, § 542(a)(5), (9) to (11), 68 Stat. 861. For complete classification of this Act to the Code, see Tables.
+The Mutual Defense Assistance Act of 1949, referred to in subsec. (e), is act Oct. 6, 1949, ch. 626, 63 Stat. 714, which was classified generally to chapter 20 (§ 1571 et seq.) of Title 22, Foreign Relations and Intercourse, prior to its repeal by act Aug. 26, 1954, ch. 937, title V, § 542(a)(5), (9) to (11), 68 Stat. 861. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1991—Subsec. (h). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
@@ -1438,7 +1438,7 @@ Upon a finding by the Secretary of Housing and Urban Development that the acquis
 #### References in Text
 The Defense Production Act of 1950, referred to in text, is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which is classified to chapter 55 (§ 4501 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-This Act and herein, referred to in text, mean act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
+This Act and herein, referred to in text, mean act Sept. 1, 1951, ch. 378, 65 Stat. 293, known as the Defense Housing and Community Facilities and Services Act of 1951. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1501) and Tables.
 
 #### Transfer of Functions
 For transfer of functions to Secretary of Housing and Urban Development, see note set out under [section 1581 of this title](./chapter-009-housing-of-persons-engaged-in-national-defense.md#section-1581).
@@ -1457,7 +1457,7 @@ For transfer of functions to Secretary of Housing and Urban Development, see not
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsecs. (c) and (d), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title VIII of the National Housing Act is classified generally to subchapter VIII (§ 1748 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsecs. (c) and (d), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title VIII of the National Housing Act is classified generally to subchapter VIII (§ 1748 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 [Section 1594a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1594a/g&num=0&edition=prelim), referred to in subsec. (d), was repealed by Pub. L. 87–554, title V, § 501(d), July 27, 1962, 76 Stat. 237.
 
@@ -1503,7 +1503,7 @@ Subsec. (b). Act Aug. 7, 1956, § 506(b), substituted “eligible bidder” for 
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title VIII of the National Housing Act is classified generally to subchapter VIII (§ 1748 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title VIII of the National Housing Act is classified generally to subchapter VIII (§ 1748 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (c)(1), “[section 3113 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3113&num=0&edition=prelim)” substituted for “the Act of August 1, 1888 (25 Stat. 357; [40 U.S.C. 257](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section257&num=0&edition=prelim)), as amended”, in subsec. (c)(2), “section 3114(a) to (d) of title 40” substituted for “the first section of the Act of February 26, 1931 (46 Stat. 1421)”, “sections 3114 to 3116 and 3118 of title 40” substituted for “the Act of February 26, 1931 (46 Stat. 1421)” and for “such Act of February 26, 1931”, and, in subsec. (d), “sections 3111 and 3112 of title 40” substituted for “section 355 of the Revised Statutes, as amended”, on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -1615,9 +1615,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in subsec. (a), means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, as amended, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title 12, Banks and Banking, and enacted provisions set out as a note under [section 1748 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1748&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+This title, referred to in subsec. (a), means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title 12, Banks and Banking, and enacted provisions set out as a note under [section 1748 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1748&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
-The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title VIII of the National Housing Act is classified generally to subchapter VIII (§ 1748 et seq.) of chapter 13, Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title VIII of the National Housing Act is classified generally to subchapter VIII (§ 1748 et seq.) of chapter 13, Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1967—Subsec. (a). Pub. L. 90–19 struck out “or Secretary” after “Secretary of Defense”.
@@ -1636,9 +1636,9 @@ In the construction of housing under the authority of this title and title VIII 
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in text, means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, as amended, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title 12, Banks and Banking, and enacted provisions set out as a note under [section 1748 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1748&num=0&edition=prelim).
+This title, referred to in text, means title IV of act Aug. 11, 1955, ch. 783, 69 Stat. 646, which enacted sections 1594 and 1594a, 1594b to 1594f of this title, amended sections 1720, 1748, and 1748a to 1748g of Title 12, Banks and Banking, and enacted provisions set out as a note under [section 1748 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1748&num=0&edition=prelim).
 
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title VIII of the National Housing Act is classified generally to subchapter VIII (§ 1748 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Title VIII of the National Housing Act is classified generally to subchapter VIII (§ 1748 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1957—Pub. L. 85–104 substituted “limitations prescribed by law (at the time plans and specifications for such construction are begun) for public quarters built with appropriated funds under military construction authority” for “permanent limitations prescribed in the second, third, and fourth provisos of section 3 of the act of June 12, 1948 (62 Stat. 375), or section 3 of the act of June 16, 1948 (62 Stat. 459), other than the first, second, and third provisos thereof”.

@@ -32,7 +32,7 @@ source: >-
 
 (3) **Program.—** — The term “program” means the program established by subsection (b).
 
-(4) **Secretary.—** — The term “Secretary”’ means the Secretary of Transportation.
+(4) **Secretary.—** — The term “Secretary” means the Secretary of Transportation.
 
 (5) **State.—** — The term “State” means—
 
@@ -584,7 +584,11 @@ The Civil Rights Act of 1964, referred to in subsec. (n)(1)(B), is Pub. L. 88–
 
 (3) **Multimodal and geographical considerations.—** — In selecting projects to receive grants under the program, the Secretary shall take into consideration geographical and modal diversity.
 
-**(g) Project Planning.—** Of the amounts made available to carry out the program for each fiscal year, not less than 5 percent shall be made available for the planning, preparation, or design of eligible projects.
+**(g) Project Planning.—**
+
+(1) **In general.—** — Of the amounts made available to carry out the program for each fiscal year, not less than 5 percent shall be made available for the planning, preparation, or design of eligible projects.
+
+(2) **Nonapplicability of certain limitations.—** — Subparagraphs (A) and (B) of subsection (c)(2) shall not apply with respect to amounts made available for planning, preparation, or design under paragraph (1).
 
 **(h) Transfer of Authority.—** Of the amounts made available to carry out the program for each fiscal year, the Secretary may transfer not more than 2 percent for a fiscal year to the Administrator of any of the Federal Highway Administration, the Federal Transit Administration, the Federal Railroad Administration, or the Maritime Administration to award and oversee grants and credit assistance in accordance with this section.
 
@@ -622,6 +626,9 @@ The Civil Rights Act of 1964, referred to in subsec. (n)(1)(B), is Pub. L. 88–
 
 #### References in Text
 The date of enactment of this chapter, referred to in subsec. (a)(1)(A), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.
+
+#### Amendments
+2022—Subsec. (g). Pub. L. 117–146 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 
 <a id="section-6703"></a>

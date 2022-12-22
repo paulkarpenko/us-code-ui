@@ -381,7 +381,7 @@ the Secretary shall immediately discontinue any further funding under subchapter
 ### Statutory Notes
 
 #### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title III of the Act is classified generally to subchapter IV (§ 1851 et seq.) of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331. Title III of the Act is classified generally to subchapter IV (§ 1851 et seq.) of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 1996—Subsec. (a). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
@@ -413,4 +413,4 @@ In addition to other authorizations of appropriations contained in this chapter,
 ### Statutory Notes
 
 #### References in Text
-The Public Works and Economic Development Act, referred to in text, probably means the Public Works and Economic Development Act of 1965, Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
+The Public Works and Economic Development Act, referred to in text, probably means the Public Works and Economic Development Act of 1965, Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.

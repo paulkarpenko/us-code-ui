@@ -727,10 +727,46 @@ Barack Obama.
 
 (2) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $75,000,000 for each of fiscal years 2014 through 2023.
 
+**(h) Additional funding for electric loans for renewable energy**
+
+(1) **Appropriations** — Notwithstanding subsections (a) through (e), and (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $1,000,000,000, to remain available until September 30, 2031, for the cost of loans under [section 940g of title 7](./chapter-031-rural-electrification-and-telephone-service.md#section-940g), including for projects that store electricity that support the types of eligible projects under that section, which shall be forgiven in an amount that is not greater than 50 percent of the loan based on how the borrower and the project meets the terms and conditions for loan forgiveness consistent with the purposes of that section established by the Secretary, except as provided in paragraph (3).
+
+(2) **Limitation** — The Secretary shall not enter into any loan agreement pursuant this subsection that could result in disbursements after September 30, 2031.
+
+(3) **Exception** — The Secretary shall establish criteria for waiving the 50 percent limitation described in paragraph (1).
+
+**(i) Biofuel infrastructure and agriculture product market expansion**
+
+(1) **Appropriation** — Notwithstanding subsections (a) through (e) and subsection (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $500,000,000, to remain available until September 30, 2031, to carry out this subsection.
+
+(2) **Use of funds** — The Secretary shall use the amounts made available by paragraph (1) to provide grants, for which the Federal share shall be not more than 75 percent of the total cost of carrying out a project for which the grant is provided, on a competitive basis, to increase the sale and use of agricultural commodity-based fuels through infrastructure improvements for blending, storing, supplying, or distributing biofuels, except for transportation infrastructure not on location where such biofuels are blended, stored, supplied, or distributed—
+
+  (A) by installing, retrofitting, or otherwise upgrading fuel dispensers or pumps and related equipment, storage tank system components, and other infrastructure required at a location related to dispensing certain biofuel blends to ensure the increased sales of fuels with high levels of commodity-based ethanol and biodiesel that are at or greater than the levels required in the Notice of Funding Availability for the Higher Blends Infrastructure Incentive Program for Fiscal Year 2020, published in the Federal Register (85 Fed. Reg. 26656), as determined by the Secretary; and
+
+  (B) by building and retrofitting home heating oil distribution centers or equivalent entities and distribution systems for ethanol and biodiesel blends.
+
+**(j) USDA assistance for rural electric cooperatives**
+
+(1) **Appropriation** — Notwithstanding subsections (a) through (e) and (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $9,700,000,000, to remain available until September 30, 2031, for the long-term resiliency, reliability, and affordability of rural electric systems by providing to an eligible entity (defined as an electric cooperative described in section 501(c)(12) or 1381(a)(2) of title 26 and is or has been a Rural Utilities Service electric loan borrower pursuant to the Rural Electrification Act of 1936 or serving a predominantly rural area or a wholly or jointly owned subsidiary of such electric cooperative) loans, modifications of loans, the cost of loans and modifications, and other financial assistance to achieve the greatest reduction in carbon dioxide, methane, and nitrous oxide emissions associated with rural electric systems through the purchase of renewable energy, renewable energy systems, zero-emission systems, and carbon capture and storage systems, to deploy such systems, or to make energy efficiency improvements to electric generation and transmission systems of the eligible entity after August 16, 2022.
+
+(2) **Limitation** — No eligible entity may receive an amount equal to more than 10 percent of the total amount made available by this subsection.
+
+(3) **Requirement** — The amount of a grant under this subsection shall be not more than 25 percent of the total project costs of the eligible entity carrying out a project using a grant under this subsection.
+
+(4) **Prohibition** — Nothing in this subsection shall be interpreted to authorize funds of the Commodity Credit Corporation for activities under this subsection if such funds are not expressly authorized or currently expended for such purposes.
+
+(5) **Disbursements** — The Secretary shall not enter into, pursuant to this subsection—
+
+  (A) any loan agreement that may result in a disbursement after September 30, 2031; or
+
+  (B) any grant agreement that may result in any outlay after September 30, 2031.
+
 ### Statutory Notes
 
 #### References in Text
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (f)(2), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+The Rural Electrification Act of 1936, referred to in subsec. (j)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
@@ -739,6 +775,12 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8103, Pub. L. 107–171, title IX, § 9003, May 13, 2002, 116 Stat. 478, related to biorefinery development grants, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–169, § 22201, added subsec. (h).
+
+Subsec. (i). Pub. L. 117–169, § 22203, added subsec. (i).
+
+Subsec. (j). Pub. L. 117–169, § 22204, added subsec. (j).
+
 2018—Subsec. (b)(3)(A). Pub. L. 115–334, § 9003(1)(A), substituted “produces any 1 or more, or a combination, of—” and cls. (i) to (iii) for “produces an advanced biofuel; and”.
 
 Subsec. (b)(3)(B). Pub. L. 115–334, § 9003(1)(B), substituted “produces any 1 or more, or a combination, of—” and cls. (i) to (iii) for “produces an advanced biofuel.”

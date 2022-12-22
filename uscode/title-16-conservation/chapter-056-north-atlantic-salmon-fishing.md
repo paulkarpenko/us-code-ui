@@ -32,7 +32,7 @@ As used in this chapter, the term—
 ### Statutory Notes
 
 #### References in Text
-An Act to provide for the conservation and management of the fisheries, and for other purposes, approved April 13, 1976 ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+An Act to provide for the conservation and management of the fisheries, and for other purposes, approved April 13, 1976 ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Section 3 of the Act of 1976 ([16 U.S.C. 1802](./chapter-038-fishery-conservation-and-management.md#section-1802)), referred to in pars. (6) and (8), was subsequently amended, and section 3(10) and (19) no longer defines the terms “fishing” and “person”. However, such terms are defined elsewhere in that section.
 
@@ -58,7 +58,7 @@ Pub. L. 97–389, title III, § 301, Dec. 29, 1982, 96 Stat. 1951, provided that
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act (5 U.S.C. App. et seq.), referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act (5 U.S.C. App. et seq.), referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1983—Subsec. (c). Pub. L. 98–44 substituted “shall not be considered” for “shall be considered”.

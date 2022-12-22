@@ -124,7 +124,7 @@ Words “This section” were substituted in subsection (b) for the words “The
 Minor changes were made in phraseology.
 
 #### References in Text
-Act June 6, 1941, ch. 174, 55 Stat. 242, as amended, referred to in subsec. (a), expired July 1, 1953.
+Act June 6, 1941, ch. 174, 55 Stat. 242, referred to in subsec. (a), expired July 1, 1953.
 
 [Section 191 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section191&num=0&edition=prelim), referred to in subsec. (a), was redesignated and transferred to [section 70051 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70051&num=0&edition=prelim), Shipping, by Pub. L. 115–282, title IV, § 407(b)(1), (5), Dec. 4, 2018, 132 Stat. 4267.
 
@@ -153,7 +153,7 @@ Mandatory punishment provision was rephrased in the alternative.
 Minor changes were made in phraseology.
 
 #### References in Text
-[Section 151 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section151&num=0&edition=prelim), referred to in text, which was based on section 1 of act Aug. 2, 1882, ch. 374, 22 Stat. 186, as amended, was repealed by Pub. L. 98–89, Aug. 26, 1983, § 4(b), 97 Stat. 599.
+[Section 151 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section151&num=0&edition=prelim), referred to in text, which was based on section 1 of act Aug. 2, 1882, ch. 374, 22 Stat. 186, was repealed by Pub. L. 98–89, Aug. 26, 1983, § 4(b), 97 Stat. 599.
 
 #### Amendments
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.

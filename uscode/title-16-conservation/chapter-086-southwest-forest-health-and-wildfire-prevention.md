@@ -185,7 +185,7 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in par. (1)(B), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in par. (1)(B), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
 
 <a id="section-6704"></a>

@@ -15,14 +15,14 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
-2021—Pub. L. 116–283, as amended by Pub. L. 117–81, § 1701(v)(2)(A), renumbered [section 2304e of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304e) as this section.
+2021—Pub. L. 116–283, § 1838(b), as amended by Pub. L. 117–81, § 1701(v)(2)(A), renumbered [section 2304e of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304e) as this section.
 
 2018—Subsec. (b). Pub. L. 115–232 substituted “other than” for “other than—”, struck out par. (1) designation before “small business”, and struck out par. (2) which read as follows: “entities described in subsection (a)(1) of [section 2323 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2323) in furtherance of the goal specified in that subsection.”
 
 1996—Pub. L. 104–106 renumbered [section 2304a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304a) as this section.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -78,7 +78,7 @@ Pub. L. 103–160, div. A, title VIII, § 848(b), Nov. 30, 1993, 107 Stat. 1725,
 Section, as added by Pub. L. 102–484, consists of text of Pub. L. 101–189, div. A, title VIII, § 832, Nov. 29, 1989, 103 Stat. 1508, revised by Pub. L. 102–484 by substituting “[section 2323 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2323)” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 ([10 U.S.C. 2301](./chapter-chapter-137-chapter-chapter-137.md#section-2301) note)” in subsec. (a). Section 832 of Pub. L. 101–189, which was formerly set out as a note under [section 2301 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2301), was repealed by Pub. L. 102–484, div. A, title VIII, § 801(h)(5), Oct. 23, 1992, 106 Stat. 2445.
 
 #### Amendments
-2021—Pub. L. 116–283, § 1838(b), as amended by Pub. L. 117–81, § 171(v)(2)(A), renumbered [section 2323a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2323a) as this section.
+2021—Pub. L. 116–283, § 1838(b), as amended by Pub. L. 117–81, § 1701(v)(2)(A), renumbered [section 2323a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2323a) as this section.
 
 2019—Pub. L. 116–92, § 1731(a)(39)(B)(i), struck out “and certain institutions of higher education” after “businesses” in section catchline.
 
@@ -93,7 +93,7 @@ Subsec. (e)(3). Pub. L. 116–92, § 1731(a)(39)(B)(ii)(III), substituted “([2
 1996—Subsec. (a). Pub. L. 104–201, which directed amendment of subsec. (a) by substituting “[section 2323 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2323)” for “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 ([10 U.S.C. 2301](./chapter-chapter-137-chapter-chapter-137.md#section-2301) note)”, could not be executed because the language “section 1207 of the National Defense Authorization Act for Fiscal Year 1987 ([10 U.S.C. 2301](./chapter-chapter-137-chapter-chapter-137.md#section-2301) note)” did not appear. See Codification note above.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -138,7 +138,7 @@ Subsec. (b)(3), (4). Pub. L. 103–337, § 804(1)(B), (C), redesignated par. (4)
 Subsec. (c). Pub. L. 103–337, § 804(2), substituted “September 30, 1997” for “September 30, 1994”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -146,10 +146,41 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Pub. L. 105–85, div. A, title VIII, § 835, Nov. 18, 1997, 111 Stat. 1843, provided that the amendment made by that section is effective as of Sept. 30, 1997.
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of this title](./chapter-131-planning-and-coordination.md#section-2220).
 
 #### Effective Date
 Pub. L. 102–484, div. A, title VIII, § 808(c), Oct. 23, 1992, 106 Stat. 2450, provided that: “Sections 2301(d) [repealed] and 2410d [now [10 U.S.C. 3903](./chapter-287-other-contracting-programs.md#section-3903)] of title 10, United States Code (as added by subsections (a) and (b), respectively), shall take effect on October 1, 1993.”
+
+#### Contract Participation by Agencies for the Blind or Other Severely Handicapped
+Pub. L. 108–87, title VIII, § 8025, Sept. 30, 2003, 117 Stat. 1077, as amended by Pub. L. 113–291, div. A, title X, § 1071(b)(6), Dec. 19, 2014, 128 Stat. 3507, provided that: “(a) Of the funds for the procurement of supplies or services appropriated by this Act [see Tables for classification] and hereafter, qualified nonprofit agencies for the blind or other severely handicapped shall be afforded the maximum practicable opportunity to participate as subcontractors and suppliers in the performance of contracts let by the Department of Defense. “(b) During the current fiscal year and hereafter, a business concern which has negotiated with a military service or defense agency a subcontracting plan for the participation by small business concerns pursuant to section 8(d) of the Small Business Act ([15 U.S.C. 637(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/d&num=0&edition=prelim)) shall be given credit toward meeting that subcontracting goal for any purchases made from qualified nonprofit agencies for the blind or other severely handicapped. “(c) For the purpose of this section, the phrase ‘qualified nonprofit agency for the blind or other severely handicapped’ means a nonprofit agency for the blind or other severely handicapped that has been approved by the Committee for the Purchase from the Blind and Other Severely Handicapped under chapter 85 of title 41, United States Code.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–248, title VIII, § 8025, Oct. 23, 2002, 116 Stat. 1542.
+
+Pub. L. 107–117, div. A, title VIII, § 8028, Jan. 10, 2002, 115 Stat. 2253.
+
+Pub. L. 106–259, title VIII, § 8028, Aug. 9, 2000, 114 Stat. 680.
+
+Pub. L. 106–79, title VIII, § 8030, Oct. 25, 1999, 113 Stat. 1237.
+
+Pub. L. 105–262, title VIII, § 8030, Oct. 17, 1998, 112 Stat. 2303.
+
+Pub. L. 105–56, title VIII, § 8031, Oct. 8, 1997, 111 Stat. 1226.
+
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8033], Sept. 30, 1996, 110 Stat. 3009–71, 3009–95.
+
+Pub. L. 104–61, title VIII, § 8042, Dec. 1, 1995, 109 Stat. 660.
+
+Pub. L. 103–335, title VIII, § 8048, Sept. 30, 1994, 108 Stat. 2628.
+
+Pub. L. 103–139, title VIII, § 8055, Nov. 11, 1993, 107 Stat. 1452.
+
+Pub. L. 102–396, title IX, § 9077, Oct. 6, 1992, 106 Stat. 1918.
+
+Pub. L. 102–172, title VIII, § 8082, Nov. 26, 1991, 105 Stat. 1190.
+
+Pub. L. 101–511, title VIII, § 8117, Nov. 5, 1990, 104 Stat. 1905.
 
 
 <a id="section-3904"></a>
@@ -158,7 +189,7 @@ Pub. L. 102–484, div. A, title VIII, § 808(c), Oct. 23, 1992, 106 Stat. 2450,
 ### Statutory Notes
 
 #### Codification
-Pub. L. 116–283, div. A, title XVIII, § 1838(b), Jan. 1, 2021, 134 Stat. 4242, initially transferred [section 2362 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2362) to this section, to become effective Jan. 1, 2022. Pub. L. 117–81, div. A, title XVII, § 1701(v)(2)(A), Dec. 27, 2021, 135 Stat. 2154, amended section 1838(b) of Pub. L. 116–283, effective as if included therein, by striking out the directive to make the transfer, thereby omitting this section before it took effect. Another amendment by Pub. L. 117–81 resulted in the transfer of section 2362 to [section 4144 of this title](./chapter-305-universities.md#section-4144).
+Pub. L. 116–283, div. A, title XVIII, § 1838(b), Jan. 1, 2021, 134 Stat. 4242, initially transferred [section 2362 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2362) to this section, to become effective Jan. 1, 2022. Subsequently, Pub. L. 117–81, div. A, title XVII, § 1701(v)(2)(A), Dec. 27, 2021, 135 Stat. 2154, amended section 1838(b) of Pub. L. 116–283, effective as if included therein, by striking out the directive to make the transfer, thereby omitting this section before it took effect. Another amendment by Pub. L. 117–81 resulted in the transfer of section 2362 to [section 4144 of this title](./chapter-305-universities.md#section-4144).
 
 
 <a id="section-3905"></a>
@@ -288,7 +319,7 @@ Subsec. (b). Pub. L. 107–314, § 819(a)(1)(B), added subsec. (b) and struck ou
 Subsecs. (c) to (g). Pub. L. 107–314, § 819(a)(1)(C), added subsecs. (c) to (g).
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -300,3 +331,9 @@ Pub. L. 107–314, div. A, title VIII, § 819(a)(2), Dec. 2, 2002, 116 Stat. 261
 
 #### Effective Date
 Pub. L. 107–107, div. A, title VIII, § 811(b), Dec. 28, 2001, 115 Stat. 1181, provided that: “[Section 2410n of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410n), United States Code [now [10 U.S.C. 3905](./chapter-287-other-contracting-programs.md#section-3905)] (as added by subsection (a)), shall apply to purchases initiated on or after October 1, 2001.”
+
+#### Regulatory Implementation
+Pub. L. 107–314, div. A, title VIII, § 819(b), Dec. 2, 2002, 116 Stat. 2613, provided that: “(1) Proposed revisions to the Department of Defense Supplement to the Federal Acquisition Regulation to implement this section shall be published not later than 90 days after the date of the enactment of this Act [Dec. 2, 2002], and not less than 60 days shall be provided for public comment on the proposed revisions. “(2) Final regulations shall be published not later than 180 days after the date of the enactment of this Act and shall be effective on the date that is 30 days after the date of the publication.”
+
+#### List of Products for Which Federal Prison Industries Has Significant Market Share
+Pub. L. 110–181, div. A, title VIII, § 827(b), Jan. 28, 2008, 122 Stat. 228, provided that: “(1) Initial list.—Not later than 60 days after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Defense shall publish a list of product categories for which Federal Prison Industries’ share of the Department of Defense market is greater than 5 percent, based on the most recent fiscal year for which data is available. “(2) Modification.—The Secretary may modify the list published under paragraph (1) at any time if the Secretary determines that new data require adding a product category to the list or omitting a product category from the list. “(3) Consultation.—The Secretary shall carry out this subsection in consultation with the Administrator for Federal Procurement Policy.”

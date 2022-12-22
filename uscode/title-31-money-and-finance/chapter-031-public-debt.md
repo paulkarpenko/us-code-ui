@@ -769,7 +769,7 @@ In subsection (b), the text of 31:804 is omitted as unnecessary. The word “con
 #### References in Text
 The First Liberty Bond Act, referred to in subsec. (a)(1), is act Apr. 24, 1917, ch. 4, 40 Stat. 35, which enacted sections 746, 755, 755a, 759, 764, 774, and 804 of former Title 31 and [section 462a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section462a&num=0&edition=prelim), Banks and Banking, and amended sections 745 and 768 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1072.
 
-The Second Liberty Bond Act, referred to in subsec. (a)(2), is act Sept. 24, 1917, ch. 56, 40 Stat. 288, as amended, which enacted sections 747, 752 to 754b, 757, 757b, 757c to 757e, 758, 760, 765, 766, 771, 773, and 801 and amended sections 745, 764, 769, and 774 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1072.
+The Second Liberty Bond Act, referred to in subsec. (a)(2), is act Sept. 24, 1917, ch. 56, 40 Stat. 288, which enacted sections 747, 752 to 754b, 757, 757b, 757c to 757e, 758, 760, 765, 766, 771, 773, and 801 and amended sections 745, 764, 769, and 774 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1072.
 
 Section 7(a) of the Victory Liberty Loan Act, referred to in subsec. (a)(3), is section 7(a) of act Mar. 3, 1919, ch. 100, 40 Stat. 1309, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1072.
 
@@ -824,7 +824,7 @@ In subsection (c), the word “conditions” is substituted for “terms and con
 #### References in Text
 The First Liberty Bond Act, referred to in subsec. (b)(2), is act Apr. 24, 1917, ch. 4, 40 Stat. 35, which enacted sections 746, 755, 755a, 759, 764, 774, and 804 of former Title 31 and [section 462a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section462a&num=0&edition=prelim), Banks and Banking, and amended sections 745 and 768 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1072.
 
-The Second Liberty Bond Act, referred to in subsec. (b)(2), is act Sept. 24, 1917, ch. 56, 40 Stat. 288, as amended, which enacted sections 747, 752 to 754b, 757, 757b, 757c to 757e, 758, 760, 765, 766, 771, 773, and 801 and amended sections 745, 764, 769, and 774 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1072.
+The Second Liberty Bond Act, referred to in subsec. (b)(2), is act Sept. 24, 1917, ch. 56, 40 Stat. 288, which enacted sections 747, 752 to 754b, 757, 757b, 757c to 757e, 758, 760, 765, 766, 771, 773, and 801 and amended sections 745, 764, 769, and 774 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1072.
 
 The Third Liberty Bond Act, referred to in subsec. (b)(2), is act Apr. 4, 1918, ch. 44, 40 Stat. 502, which enacted sections 765, 766, and 774 and amended sections 752, 752a, 754, and 771 of former Title 31, and was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1072.
 

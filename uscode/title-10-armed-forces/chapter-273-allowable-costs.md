@@ -228,6 +228,9 @@ Subsec. (d)(3). Pub. L. 116–283, § 1832(d)(5)(E), inserted heading and substi
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
+#### Regulations
+Pub. L. 99–145, title IX, § 911(b), Nov. 8, 1985, 99 Stat. 685, provided that: “(1) Not later than 150 days after the date of the enactment of this Act [Nov. 8, 1985], the Secretary of Defense shall prescribe the regulations required by subsections (e) and (f) of [former] [section 2324 of title 10](./chapter-chapter-137-chapter-chapter-137.md#section-2324), United States Code [see [10 U.S.C. 3744](./chapter-273-allowable-costs.md#section-3744), 3745], as added by subsection (a). Such regulations shall be published in accordance with section 22 of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 418b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section418b&num=0&edition=prelim)) [now [41 U.S.C. 1707](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1707&num=0&edition=prelim)]. “(2) The Secretary shall review such regulations at least once every five years. The results of each such review shall be made public.”
+
 
 <a id="section-3745"></a>
 ## § 3745. Required regulations
@@ -302,6 +305,9 @@ Subsec. (c). Pub. L. 116–283, § 1832(e)(1)(D), (E), (4), redesignated pars. (
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Regulations
+For requirement to prescribe and periodically review regulations required by this section (formerly subsec. (f) of [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324)), see section 911(b) of Pub. L. 99–145, set out as a note under [section 3744 of this title](./chapter-273-allowable-costs.md#section-3744).
 
 
 <a id="section-3746"></a>
@@ -510,10 +516,13 @@ Subsec. (f)(2)(B). Pub. L. 116–283, § 1832(i)(7)(D)(iv), (E), inserted headin
 Subsec. (f)(3). Pub. L. 116–283, § 1832(i)(7)(F), as amended by Pub. L. 117–81, § 1701(b)(11), inserted heading, substituted “paragraph (1)” for “subparagraph (A)” and “under this subsection” for “under this paragraph”, inserted dash after “not allowable if”, redesignated inline cls. (i) and (ii) as subpars. (A) and (B), respectively, and reformatted text, and, in subpar. (B), substituted “subsection (b)” for “paragraph (1)”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Regulations
+Pub. L. 100–700, § 8(d), Nov. 19, 1988, 102 Stat. 4638, provided that: “The regulations necessary for the implementation of section 306(e) of the Federal Property and Administrative Services Act of 1949 [now [41 U.S.C. 4304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4304&num=0&edition=prelim)] (as added by subsection (a)) and [section 2324(k)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2324/k/5&num=0&edition=prelim), United States Code [see [10 U.S.C. 3750(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3750/f&num=0&edition=prelim)] (as added by subsection (b))— “(1) shall be prescribed not later than 120 days after the date of the enactment of this Act [Nov. 19, 1988]; and “(2) shall apply to contracts entered into more than 30 days after the date on which such regulations are issued.”
 
 
 <a id="section-3761"></a>
@@ -599,10 +608,13 @@ Subsec. (d)(2)(B). Pub. L. 102–25 substituted “subsection (b), including” 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of this title](./chapter-131-planning-and-coordination.md#section-2220).
 
 #### Effective Date of 1991 Amendment
 Pub. L. 102–190, div. A, title VIII, § 802(e), Dec. 5, 1991, 105 Stat. 1414, provided that: “The amendments made by this section [amending this section and [section 4501 of this title](./chapter-341-acquisition-of-services-generally.md#section-4501)] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date.”
+
+#### Regulations
+Pub. L. 102–190, div. A, title VIII, § 802(b), Dec. 5, 1991, 105 Stat. 1414, provided that: “The Secretary of Defense shall prescribe proposed regulations to implement the amendment made by subsection (a)(1) [amending this section] not later than April 1, 1992, and shall prescribe final regulations for that purpose not later than June 1, 1992.”
 
 
 <a id="section-3763"></a>

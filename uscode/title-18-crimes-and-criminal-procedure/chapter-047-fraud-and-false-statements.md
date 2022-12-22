@@ -659,7 +659,7 @@ Words “upon conviction thereof” were omitted as surplusage, because punishme
 Changes in phraseology were made.
 
 #### References in Text
-The Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), referred to in text, is act July 11, 1916, ch. 241, 39 Stat. 355, as amended, which was repealed by Pub. L. 85–767, § 2(1), Aug. 27, 1958, 72 Stat. 919. See section 101 et seq. of Title 23, Highways.
+The Federal-Aid Road Act approved July 11, 1916 (39 Stat. 355), referred to in text, is act July 11, 1916, ch. 241, 39 Stat. 355, which was repealed by Pub. L. 85–767, § 2(1), Aug. 27, 1958, 72 Stat. 919. See section 101 et seq. of Title 23, Highways.
 
 #### Amendments
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in last par.
@@ -806,7 +806,7 @@ Whoever, in any document required by title I of the Employee Retirement Income S
 ### Statutory Notes
 
 #### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
@@ -1128,9 +1128,9 @@ Pub. L. 98–473, title II, § 609L, Oct. 12, 1984, 98 Stat. 2103, provided that
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in subsec. (c)(10), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Chapter 8 of title II of the Act is classified generally to part VIII (§ 1321 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c)(10), is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 8 of title II of the Act is classified generally to part VIII (§ 1321 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsec. (c)(11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (c)(11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1029"></a>
@@ -1225,7 +1225,7 @@ shall, if the offense affects interstate or foreign commerce, be punished as pro
 #### References in Text
 Section 413 of the Controlled Substances Act, referred to in subsec. (c)(2), is classified to [section 853 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim), Food and Drugs.
 
-The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended. Title III of the Act is classified generally to subchapter III (§ 301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
+The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964. Title III of the Act is classified generally to subchapter III (§ 301 et seq.) of chapter 5 of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Subsec. (h). Pub. L. 114–113 substituted “title if the offense involves an access device issued, owned, managed, or controlled by a financial institution, account issuer, credit card system member, or other entity organized under the laws of the United States, or any State, the District of Columbia, or other territory of the United States.” for “title if—
@@ -1541,9 +1541,9 @@ Section 11 of the Atomic Energy Act of 1954, referred to in subsec. (a)(1), is c
 
 [Section 1602(n) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602/n&num=0&edition=prelim), referred to in subsec. (a)(2)(A), was redesignated section 1602(o) of title 15 by Pub. L. 111–203, title X, § 1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (a)(2)(A), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (e)(4)(E), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
 
 Section 15 of the Securities Exchange Act of 1934, referred to in subsec. (e)(4)(F), is classified to section 78o of Title 15, Commerce and Trade.
 

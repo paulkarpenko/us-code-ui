@@ -46,6 +46,16 @@ The Attorney General may appoint a Director of the Federal Bureau of Investigati
 #### Historical and Revision Notes
 The section is supplied for convenience and clarification and is based on section 3 of Executive Order No. 6166 of June 10, 1933, which provided for the transfer of the functions of the Bureau of Investigation together with the investigative functions of the Bureau of Prohibition to a “Division of Investigation in the Department of Justice, at the head of which shall be a Director of Investigation”. The Division of Investigation was first designated as the “Federal Bureau of Investigation” by the Act of Mar. 22, 1935, ch. 39, title II, 49 Stat. 77, and has been so designated in statutes since that date. The title of “Director of the Federal Bureau of Investigation” was recognized by statute in the Act of June 5, 1936, ch. 529, 49 Stat. 1484, and has been used in statutes since that date.
 
+#### Limitation on Procurement by Federal Bureau of Investigation of People’s Republic of China Products and Services
+Pub. L. 117–103, div. X, title IV, § 414, Mar. 15, 2022, 136 Stat. 977, provided that: “(a) Security Assessment.—The Director of the Federal Bureau of Investigation may not procure a People’s Republic of China product or service unless, before such procurement—“(1) the Federal Bureau of Investigation conducts a security assessment of such product or service, including with respect to any physical, counterintelligence, or cyber vulnerabilities; “(2) there is included in the process of conducting such security assessment a formal mechanism through which input shall be submitted by the Counterintelligence Division and Cyber Division of the Federal Bureau of Investigation regarding such security assessment, including with respect to any such vulnerabilities; and “(3) the Director (or a designee of the Director) approves a recommendation, based on the results of such security assessment, to procure such product or service. “(b) Submission.—Not later than 30 days after the date on which the Director (or a designee of the Director, as applicable) approves a recommendation pursuant to subsection (a)(3), the Director shall submit to the appropriate congressional committees the recommendation and a copy of the security assessment upon which the recommendation was based. “(c) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the congressional intelligence committees; and “(B) the Subcommittees on Commerce, Justice, Science, and Related Agencies of the Committees on Appropriations of the House of Representatives and the Senate. “(2) People’s republic of china product or service.—The term ‘People’s Republic of China product or service’ means an information or communication technology product manufactured in China, Hong Kong, or Macau, or a product or service provided by an entity that is fully or partially owned or controlled by, or otherwise connected to, the government of China.”
+
+[For definition of “congressional intelligence committees” as used in section 414 of div. X of Pub. L. 117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under [section 3003 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim), War and National Defense.]
+
+#### Counterintelligence Units at Non-intelligence Community Federal Departments and Agencies
+Pub. L. 117–103, div. X, title IV, § 415, Mar. 15, 2022, 136 Stat. 978, provided that: “(a) Establishment.—The Director of the Federal Bureau of Investigation shall establish counterintelligence units in the departments and agencies described in subsection (b). Such units shall be composed of officers of the Counterintelligence Division of the Federal Bureau of Investigation. “(b) Departments and Agencies Described.—The departments and agencies described in this subsection are the following departments and agencies of the United States Government:“(1) The Department of Agriculture. “(2) Any other department or agency that the Director, in coordination with the Director of National Intelligence, determines appropriate. “(c) Duties.—The Director of the Federal Bureau of Investigation shall ensure that each counterintelligence unit established under subsection (a) in a department or agency described in subsection (b) carries out the following duties:“(1) Conducts assessments, in coordination with the leadership of the department or agency, to determine the counterintelligence posture of the department or agency, including any components thereof. “(2) Informs and consults with the leadership of the department or agency, including any components thereof, and provides recommendations with respect to any counterintelligence threats identified by the intelligence community. “(3) Provides such administrative and technical support as is necessary to develop, in coordination with the leadership of the department or agency, a plan to eliminate or reduce the threats described in paragraph (2). “(4) Serves as the primary point of contact for the department or agency with respect to counterintelligence for the intelligence community. “(d) Intelligence Community Support.—The heads of the elements of the intelligence community shall ensure that relevant counterintelligence information is provided to counterintelligence units established under subsection (a) in a manner that is consistent with the need to protect sources and methods. “(e) Report.—Not later than 120 days after the date of the enactment of this Act [Mar. 15, 2022], the Director of National Intelligence, in consultation with the heads of such other departments and agencies of the Federal Government as the Director determines appropriate, shall submit to the appropriate congressional committees a report detailing options for the intelligence community to improve intelligence support to the Department of Agriculture and the Department of Commerce. The report shall be submitted in unclassified form, but may include a classified annex. “(f) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional intelligence committees; and “(2) the Subcommittees on Commerce, Justice, Science, and Related Agencies of the Committees on Appropriations of the House of Representatives and the Senate.”
+
+[For definitions of “congressional intelligence committees” and “intelligence community” as used in section 415 of div. X of Pub. L. 117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under [section 3003 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim), War and National Defense.]
+
 #### Findings
 Pub. L. 112–24, § 1, July 26, 2011, 125 Stat. 238, provided that: “Congress finds that— “(1) on May 12, 2011, the President requested that Congress extend the term of Robert S. Mueller III as Director of the Federal Bureau of Investigation by 2 years, citing the critical need for continuity and stability at the Federal Bureau of Investigation in the face of ongoing threats to the United States and leadership transitions at the Federal agencies charged with protecting national security; “(2) in light of the May 1, 2011, successful operation against Osama bin Laden, the continuing threat to national security, and the approaching 10th anniversary of the attacks of September 11, 2001, the President’s request for a limited, 1-time exception to the term limit of the Director of the Federal Bureau of Investigation, in these exceptional circumstances, is appropriate; and “(3) this Act [amending provisions set out as a note under this section] is intended to provide a 1-time exception to the 10-year statutory limit on the term of the Director of the Federal Bureau of Investigation in light of the President’s request and existing exceptional circumstances, and is not intended to create a precedent.”
 
@@ -154,19 +164,31 @@ Pub. L. 96–132, § 7(d), Nov. 30, 1979, 93 Stat. 1046, provided that: “(1) T
 
 (2) acquire, collect, classify, and preserve any information which would assist in the identification of any deceased individual who has not been identified after the discovery of such deceased individual;
 
-(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
+(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin);
 
-(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions.
+(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, including State sentencing commissions, Indian tribes, cities, and penal and other institutions; and
 
-**(b)** The exchange of records and information authorized by subsection (a)(4) of this section is subject to cancellation if dissemination is made outside the receiving departments or related agencies.
+(5) provide a person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of title 18 with information necessary to verify whether firearms offered for sale to such licensees have been stolen.
+
+**(b)** The exchange of records and information authorized by subsection (a)(4) of this section is subject to cancellation if dissemination is made outside the receiving departments or related agencies, except for dissemination authorized under subsection (a)(5) of this section.
 
 **(c)** The Attorney General may appoint officials to perform the functions authorized by this section.
 
-**(d) Indian Law Enforcement Agencies.—** The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—
+**(d) Indian Law Enforcement Agencies.—**
 
-(1) to access and enter information into Federal criminal information databases; and
+(1) **In general.—** — The Attorney General shall permit tribal and Bureau of Indian Affairs law enforcement agencies—
 
-(2) to obtain information from the databases.
+  (A) to access and enter information into Federal criminal information databases; and
+
+  (B) to obtain information from the databases.
+
+(2) **Tribal Access Program.—**
+
+  (A) *In general.—* — The Attorney General shall establish a program, to be known as the “Tribal Access Program”, to enhance the ability of tribal governments and their authorized agencies to access, enter information into, and obtain information from national criminal information databases under this section.
+
+  (B) *Authorization of appropriations.—* — There is authorized to be appropriated to carry out the Tribal Access Program under subparagraph (A) $6,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+
+(3) **Information sharing.—** — To the extent otherwise permitted by law, any report issued as a result of the analysis of information entered into national criminal information databases or obtained from Federal criminal databases shall be shared with each Indian tribe of jurisdiction, including Indian tribes located in the State of Maine.
 
 **(e)** For purposes of this section, the term “other institutions” includes—
 
@@ -209,6 +231,12 @@ In subsection (a), the word “shall” is substituted for “has the duty” as
 In subsection (c), the authority to appoint officials for the cited purposes is implied.
 
 #### Amendments
+2022—Subsec. (a)(5). Pub. L. 117–159, § 12004(h)(2)(A), added par. (5).
+
+Subsec. (b). Pub. L. 117–159, § 12004(h)(2)(B), inserted “, except for dissemination authorized under subsection (a)(5) of this section” before period at end.
+
+Subsec. (d). Pub. L. 117–103 designated existing provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added pars. (2) and (3).
+
 2011—Subsec. (a)(4). Pub. L. 111–369 inserted “, including State sentencing commissions” after “, the States”.
 
 2010—Subsec. (a)(4). Pub. L. 111–211, § 233(a)(1), inserted “Indian tribes,” after “the States,”.
@@ -243,8 +271,16 @@ Subsec. (a). Pub. L. 97–292, § 2(a), added pars. (2) and (3), redesignated fo
 
 Subsec. (b). Pub. L. 97–292, § 2(b), substituted “exchange of records and information authorized by subsection (a)(4)” for “exchange of records authorized by subsection (a)(2)”.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Regulations
 Pub. L. 103–322, title IV, § 40601(b), Sept. 13, 1994, 108 Stat. 1951, provided that: “The Attorney General may make rules to carry out the subsection added to [section 534 of title 28](./chapter-033-federal-bureau-of-investigation.md#section-534), United States Code, by subsection (a), after consultation with the officials charged with managing the National Crime Information Center and the Criminal Justice Information Services Advisory Policy Board.”
+
+#### Statutory Construction; Evidence
+Pub. L. 117–159, div. A, title II, § 12004(h)(4), June 25, 2022, 136 Stat. 1331, provided that: “(A) Statutory construction.—Nothing in this subsection [amending this section and [section 40901 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901&num=0&edition=prelim), Crime Control and Law Enforcement, and enacting provisions set out as a note preceding [section 41101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41101&num=0&edition=prelim)] or the amendments made by this subsection shall be construed—“(i) to create a cause of action against any person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of title 18, United States Code, or any other person for any civil liability; or “(ii) to establish any standard of care. “(B) Evidence.—Notwithstanding any other provision of law, evidence regarding the use or non-use by a person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of title 18, United States Code, of the systems, information, or records made available under this subsection or the amendments made by this subsection shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity.”
+
+Nothing in amendment made by Pub. L. 117–159 to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a Rule of Construction note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Improving Department of Justice Data Collection on Mental Illness Involved in Crime
 Pub. L. 114–255, div. B, title XIV, § 14015, Dec. 13, 2016, 130 Stat. 1306, which requires inclusion of data with respect to the involvement of mental illness in incidences of certain crimes in data prepared by or submitted to the Attorney General or the FBI Director, was editorially reclassified as [section 41311 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41311&num=0&edition=prelim), Crime Control and Law Enforcement.

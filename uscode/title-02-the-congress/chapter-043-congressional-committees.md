@@ -2,7 +2,7 @@
 title: 2
 chapter: '43'
 heading: CONGRESSIONAL COMMITTEES
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -354,6 +354,28 @@ The Federal Bureau of Investigation, notwithstanding any other provision of law,
 
 #### Codification
 Section was formerly classified as a note under [section 72a of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-72a) prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-4316"></a>
+## § 4316. Allowances for compensation of interns in House committee offices
+**(a) Establishment of allowances** There are established for the House of Representatives the following allowances:
+
+(1) An allowance which shall be available for the compensation of interns who serve in offices of a standing, special, or select committee of the House (other than the Committee on Appropriations).
+
+(2) An allowance which shall be available for the compensation of interns who serve in offices of the Committee on Appropriations.
+
+**(b) Benefit exclusion** [Section 5321(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5321/b&num=0&edition=prelim) shall apply with respect to an intern who is compensated under an allowance under this section in the same manner as such section applies with respect to an intern who is compensated under the Members’ Representational Allowance.
+
+**(c) Definitions** In this section, the term “intern”, with respect to a committee of the House, has the meaning given such term with respect to a Member of the House of Representatives in [section 5321(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5321/c/2&num=0&edition=prelim).
+
+**(d) Omitted**
+
+**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section such sums as may be necessary for fiscal year 2022 and each succeeding fiscal year.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 113 of div. I of Pub. L. 117–103. Subsec. (d) of section 113 of div. I of Pub. L. 117–103 amended [section 5507 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5507).
 
 
 <a id="section-4331"></a>

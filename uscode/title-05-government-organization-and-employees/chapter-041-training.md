@@ -668,9 +668,9 @@ Exception of Central Intelligence Agency from provisions of this section, see Ex
 
 (2) pay, or reimburse the employee for, all or a part of the necessary expenses of the training, without regard to section 3324(a) and (b) of title 31, including among the expenses the necessary costs of—
 
-  (A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 474 and 475 of title 37,11 See References in Text below. and the Joint Travel Regulations for the Uniformed Services;
+  (A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 474 and 475 11 See References in Text note below. of title 37, and the Joint Travel Regulations for the Uniformed Services;
 
-  (B) transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under [section 5724 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5724) or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 476 and 479 of title 37,1 and the Joint Travel Regulations for the Uniformed Services, when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training;
+  (B) transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under [section 5724 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5724) or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 476 and 479 1 of title 37, and the Joint Travel Regulations for the Uniformed Services, when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training;
 
   (C) tuition and matriculation fees;
 
@@ -704,11 +704,11 @@ In subsection (a)(2)(B), the words “under [section 5724 of this title](./chapt
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
-[Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec.(a)(2)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+[Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (a)(2)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 [Section 475 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475&num=0&edition=prelim), referred to in subsec. (a)(2)(A), was transferred to [section 405 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section405&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
 
-Sections 476 and 479 of title 37, referred to in subsec.(a)(2)(B), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+Sections 476 and 479 of title 37, referred to in subsec. (a)(2)(B), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Amendments
 2013—Subsec. (a)(2)(A), (B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.

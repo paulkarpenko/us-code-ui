@@ -212,6 +212,16 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 117–256, Dec. 21, 2022, 136 Stat. 2368, recognizing Glen Doherty, J. Christopher Stevens, Sean Smith, and Tyrone Woods, killed in the attack on the United States consulate in Benghazi, Libya, on September 11, 2012, for their contributions to the nation.
+
+Pub. L. 117–132, June 7, 2022, 136 Stat. 1232, recognizing United States Army Rangers Veterans of World War II.
+
+Pub. L. 117–97, Mar. 14, 2022, 136 Stat. 36, recognizing the service of the women of the 6888th Central Postal Directory Battalion, known as the “Six Triple Eight”.
+
+Pub. L. 117–85, Feb. 1, 2022, 136 Stat. 11, recognizing the service of the 23d Headquarters Special Troops and the 3133d Signal Services Company, known collectively as the “Ghost Army”, during World War II.
+
+Pub. L. 117–84, Jan. 31, 2022, 136 Stat. 8, recognizing Willie O’Ree, the first Black player to compete in the National Hockey League.
+
 Pub. L. 117–72, Dec. 16, 2021, 135 Stat. 1511, recognizing the 13 United States servicemembers killed at the Hamid Karzai International Airport in Kabul, Afghanistan, on Aug. 26, 2021.
 
 Pub. L. 117–38, Aug. 25, 2021, 135 Stat. 333, recognizing the 369th Infantry Regiment, commonly known as the “Harlem Hellfighters”, for service during World War I.
@@ -226,13 +236,13 @@ Pub. L. 116–170, Oct. 17, 2020, 134 Stat. 775, recognizing Merrill’s Maraude
 
 Pub. L. 116–125, Mar. 13, 2020, 134 Stat. 171, recognizing the United States merchant mariners of World War II.
 
-Pub. L. 116–68, Nov. 8, 2019, 133 Stat. 1129, recognizing Katherine Johnson, Dr. Christine Darden, Dorothy Vaughan, Mary Jackson, and all women who served as computers, mathematicians, and engineers at the National Advisory Committee for Aeronautics and the National Aeronautics and Space Administration between the 1930s and the 1970s.
+Pub. L. 116–68, Nov. 8, 2019, 133 Stat. 1129; Pub. L. 117–103, div. HH, title IV, § 401, Mar. 15, 2022, 136 Stat. 1113, recognizing Katherine Johnson, Dr. Christine Darden, Dorothy Vaughan, Mary Jackson, and all women who served as computers, mathematicians, and engineers at the National Advisory Committee for Aeronautics and the National Aeronautics and Space Administration between the 1930s and the 1970s.
 
 Pub. L. 115–415, Jan. 3, 2019, 132 Stat. 5433, recognizing Stephen Michael Gleason.
 
 Pub. L. 115–338, Dec. 20, 2018, 132 Stat. 5033, recognizing the crew of the USS Indianapolis.
 
-Pub. L. 115–337, Dec. 20, 2018, 132 Stat. 5029, recognizing Chinese-American Veterans of World II.
+Pub. L. 115–337, Dec. 20, 2018, 132 Stat. 5029, recognizing Chinese-American Veterans of World War II.
 
 Pub. L. 115–322, Dec. 17, 2018, 132 Stat. 4440, recognizing Larry Doby.
 
@@ -1591,6 +1601,10 @@ Pub. L. 99–185, § 2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The S
 #### Commemorative Coins
 Provisions authorizing commemorative coins were contained in the following acts:
 
+Pub. L. 117–163, Aug. 3, 2022, 136 Stat. 1353.—Harriet Tubman Bicentennial.
+
+Pub. L. 117–162, Aug. 3, 2022, 136 Stat. 1349.—National World War II Memorial.
+
 Pub. L. 116–247, Dec. 22, 2020, 134 Stat. 1120.—National Purple Heart Hall of Honor.
 
 Pub. L. 116–209, Dec. 4, 2020, 134 Stat. 1011.—Negro Leagues Baseball 100th Anniversary.
@@ -2844,7 +2858,7 @@ Pub. L. 102–390, title II, § 221(b), Oct. 6, 1992, 106 Stat. 1627, provided t
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2003—Pub. L. 108–15 amended section catchline and text generally. Prior to amendment, text provided for the establishment of the Citizens Commemorative Coin Advisory Committee and contained provisions concerning its oversight, membership, duties, and funding, the term of each membership, and the compensation of each member.

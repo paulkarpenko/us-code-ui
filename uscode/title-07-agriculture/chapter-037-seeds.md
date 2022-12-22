@@ -14,7 +14,7 @@ It shall be unlawful in the United States or in interstate or foreign commerce t
 ### Statutory Notes
 
 #### References in Text
-The Plant Variety Protection Act, referred to in text, is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§ 2321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2321 of this title](./chapter-057-plant-variety-protection.md#section-2321) and Tables.
+The Plant Variety Protection Act, referred to in text, is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2321 of this title](./chapter-057-plant-variety-protection.md#section-2321) and Tables.
 
 #### Amendments
 1981—Pub. L. 97–98 substituted “sell or offer for sale or advertise, by variety name, seed” for “sell by variety name seed”, “certifying agency, when” for “certifying agency when”, and “owners of the variety” for “owner of the variety”.
@@ -184,7 +184,7 @@ Any labeling, advertisement, or other representation subject to this chapter whi
 ### Statutory Notes
 
 #### References in Text
-The Plant Variety Protection Act, referred to in text, is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§ 2321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2321 of this title](./chapter-057-plant-variety-protection.md#section-2321) and Tables.
+The Plant Variety Protection Act, referred to in text, is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2321 of this title](./chapter-057-plant-variety-protection.md#section-2321) and Tables.
 
 #### Amendments
 1970—Pub. L. 91–577 inserted provisions setting out conditions for certification of seed of any variety for which a certificate of plant variety protection under the Plant Variety Protection Act specifies sale only as a class of certified seed.

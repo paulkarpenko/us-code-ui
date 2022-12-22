@@ -66,7 +66,7 @@ The Secretary, acting in accordance with authority provided in the Federal Non-N
 ### Statutory Notes
 
 #### References in Text
-The Federal Non-Nuclear Research and Development Act of 1974, referred to in text, probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
+The Federal Non-Nuclear Research and Development Act of 1974, referred to in text, probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
 
 
 <a id="section-5304"></a>

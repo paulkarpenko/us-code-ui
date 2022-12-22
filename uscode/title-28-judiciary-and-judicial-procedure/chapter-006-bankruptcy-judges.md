@@ -293,9 +293,6 @@ Amendment by section 103 of Pub. L. 99–554 effective Oct. 27, 1986, and amendm
 
 ### Statutory Notes
 
-#### Constitutionality
-For information regarding constitutionality of certain provisions of this section, as added by section 104(a) of Pub. L. 98–353, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Amendments
 2005—Subsec. (b)(2)(P). Pub. L. 109–8 added subpar. (P).
 

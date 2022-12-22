@@ -202,7 +202,7 @@ Upon application by an Indian individual who has reached the age of eighteen and
 ### Statutory Notes
 
 #### References in Text
-Act of August 15, 1953, referred to in subsec. (a), is act Aug. 15, 1953, ch. 505, 67 Stat. 588, as amended, which enacted [section 1162 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim), Crimes and Criminal Procedure, [section 1360 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim), Judiciary and Judicial Procedure, and provisions set out as notes under [section 1360 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+Act of August 15, 1953, referred to in subsec. (a), is act Aug. 15, 1953, ch. 505, 67 Stat. 588, which enacted [section 1162 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim), Crimes and Criminal Procedure, [section 1360 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim), Judiciary and Judicial Procedure, and provisions set out as notes under [section 1360 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1922"></a>
@@ -261,7 +261,7 @@ None of the provisions of this subchapter, except sections 1911(a), 1918, and 19
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV–B and XX of the Social Security Act are classified generally to part B (§ 620 et seq.) of subchapter IV and subchapter XX (§ 1397 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles IV–B and XX of the Social Security Act are classified generally to part B (§ 620 et seq.) of subchapter IV and subchapter XX (§ 1397 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1951"></a>

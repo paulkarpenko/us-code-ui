@@ -709,7 +709,7 @@ Functions, powers, and duties of Secretary of the Army and other offices and off
 ### Statutory Notes
 
 #### Codification
-Section, act June 7, 1924, ch. 316, § 9, 43 Stat. 606, directed Secretary of War to investigate depositing of polluting substances into navigable streams and report the results to Congress not later than two years from June 7, 1924.
+Section, act June 7, 1924, ch. 316, § 9, 43 Stat. 606, directed Secretary of War to investigate depositing of polluting substances into navigable streams and report the results to Congress not later than two years from June 7, 1924. Subsequent to editorial omission of this section as obsolete, Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1252–1254, amended act June 7, 1924, generally, after which such Act consisted only of sections 1 to 7, resulting in the statutory omission of section 9.
 
 
 <a id="section-426"></a>
@@ -1452,19 +1452,19 @@ Section 430, act June 26, 1936, ch. 849, § 4, 49 Stat. 1983, related to payment
 
 ### Statutory Notes
 
-Section 431, acts June 7, 1924, ch. 316, § 1, 43 Stat. 604; Nov. 3, 1966, Pub. L. 89–753, title II, § 211(a), 80 Stat. 1252, related to the short title for this subchapter.
+Section 431, act June 7, 1924, ch. 316, § 1, 43 Stat. 604; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1252, related to the short title for this subchapter.
 
-Section 432, acts June 7, 1924, ch. 316, § 2, 43 Stat. 604; Nov. 3, 1966, Pub. L. 89–753, title II, § 211(a), 80 Stat. 1252, defined “oil,” “person”, “coastal navigable waters of the United States”, and “Secretary”.
+Section 432, act June 7, 1924, ch. 316, § 2, 43 Stat. 604; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1252, defined “oil,” “person”, “coastal navigable waters of the United States”, and “Secretary”.
 
-Section 433, acts June 7, 1924, ch. 316, § 3, 43 Stat. 605; Nov. 3, 1966, Pub. L. 89–753, title II, § 211(a), 80 Stat. 1253, related to prohibition against discharge of oil generally.
+Section 433, act June 7, 1924, ch. 316, § 3, 43 Stat. 605; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1253, related to prohibition against discharge of oil generally.
 
-Section 434, acts June 7, 1924, ch. 316, § 4, 43 Stat. 605; Nov. 3, 1966, Pub. L. 89–753, title II, § 211(a), 80 Stat. 1253, related to penalties for violation of oil discharge prohibition and liability of vessel.
+Section 434, act June 7, 1924, ch. 316, § 4, 43 Stat. 605; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1253, related to penalties for violation of oil discharge prohibition and liability of vessel.
 
-Section 435, act June 7, 1924, ch. 316, § 5, 43 Stat. 605; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; act Nov. 3, 1966, Pub. L. 89–753, title II, § 211(a), 80 Stat. 1254, related to revocation or suspension of licenses of officers of offending vessels.
+Section 435, act June 7, 1924, ch. 316, § 5, 43 Stat. 605; 1946 Reorg. Plan No. 3, §§ 101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1254, related to revocation or suspension of licenses of officers of offending vessels.
 
-Section 436, acts June 7, 1924, ch. 316, § 7, 43 Stat. 605; Nov. 3, 1966, Pub. L. 89–753, title II, § 211(a), 80 Stat. 1254, related to authorization of use of certain personnel in enforcement of this subchapter and arrest of offenders.
+Section 436, act June 7, 1924, ch. 316, § 6, as added Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1254, related to authorization of use of certain personnel in enforcement of this subchapter and arrest of offenders.
 
-Section 437, acts June 7, 1924, ch. 316, § 8, 43 Stat. 606; Nov. 3, 1966, Pub. L. 89–753, title II, § 211(a), 80 Stat. 1254, related to affect of this subchapter on preexisting laws for preservation and protection of navigable waters.
+Section 437, act June 7, 1924, ch. 316, § 7, 43 Stat. 606; Pub. L. 89–753, title II, § 211(a), Nov. 3, 1966, 80 Stat. 1254, related to affect of this subchapter on preexisting laws for preservation and protection of navigable waters.
 
 See section 1251 et seq. of this title.
 

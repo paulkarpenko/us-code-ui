@@ -31,7 +31,7 @@ Pub. L. 102–25, title VII, § 705(f)(1), Apr. 6, 1991, 105 Stat. 120, provided
 The provisions of the National Emergencies Act [see Short Title note set out under [section 1601 of this title](./chapter-034-national-emergencies.md#section-1601)] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see [section 1651(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1651/a/4&num=0&edition=prelim).
 
 #### Obligations Entered Into Before November 16, 1973
-Amendment by Pub. L. 93–155 not affecting the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to Nov. 16, 1973, see section 807(e) of Pub. L. 93–155, set out as a note under [section 2307 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307&num=0&edition=prelim), Armed Forces.
+Pub. L. 93–155, title VIII, § 807(e), Nov. 16, 1973, 87 Stat. 616, provided that: “The amendments made by this section [amending this section, sections 3816 and 4532 of this title, and [section 2307 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307&num=0&edition=prelim), Armed Forces] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section [Nov. 16, 1973].”
 
 #### Ex. Ord. No. 10789. Contracting Authority of Government Agencies in Connection With National Defense Functions
 Ex. Ord. No. 10789, Nov. 14, 1958, 23 F.R. 8897, as amended by Ex. Ord. No. 11051, Sept. 27, 1962, 27 F.R. 9683; Ex. Ord. No. 11382, Nov. 28, 1967, 32 F.R. 16247; Ex. Ord. No. 11610, July 22, 1971, 36 F.R. 13755; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12919, § 904(b), June 3, 1994, 59 F.R. 29534; Ex. Ord. No. 13232, Oct. 20, 2001, 66 F.R. 53941; Ex. Ord. No. 13286, § 73, Feb. 28, 2003, 68 F.R. 10630, provided:
@@ -151,7 +151,7 @@ Department of Homeland Security.
 
 (a) in the case of the Department of Defense, the Secretary of Defense has, after consideration of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 [[6 U.S.C. 441](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section441&num=0&edition=prelim) et seq.], determined that the exercise of authority under this order is necessary for the timely and effective conduct of United States military or intelligence activities; and
 
-(b) in the case of any other executive department or agency that has authority under this order, (i) the Secretary of Homeland Security has advised whether the use of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 would be appropriate, and (ii) the Director of the Office and Management and Budget has approved the exercise of authority under this order.
+(b) in the case of any other executive department or agency that has authority under this order, (i) the Secretary of Homeland Security has advised whether the use of the authority provided under subtitle G of title VIII of the Homeland Security Act of 2002 would be appropriate, and (ii) the Director of the Office and [sic] Management and Budget has approved the exercise of authority under this order.
 
 #### Authorizing the Exercise of Authority Under Public Law 85–804
 Memorandum of President of the United States, Apr. 10, 2020, 85 F.R. 21735, provided:

@@ -996,7 +996,7 @@ Pub. L. 110–181, div. A, title X, § 1072(b)(3), Jan. 28, 2008, 122 Stat. 330,
 ### Statutory Notes
 
 #### References in Text
-The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 The Servicemembers Civil Relief Act, referred to in subsec. (e)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 3901 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) and Tables.
 

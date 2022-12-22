@@ -2,7 +2,7 @@
 title: 38
 chapter: '11'
 heading: COMPENSATION FOR SERVICE-CONNECTED DISABILITY OR DEATH
-section_count: 43
+section_count: 53
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -317,6 +317,12 @@ shall be considered to have been incurred in or aggravated by such service, notw
 
     (iv) Service in a capacity which, if performed as an employee of the Department of Energy, would qualify the individual for inclusion as a member of the Special Exposure Cohort under section 3621(14) of the Energy Employees Occupational Illness Compensation Program Act of 2000 ([42 U.S.C. 7384](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7384&num=0&edition=prelim)l(14)).
 
+    (v) Cleanup of Enewetak Atoll during the period beginning on January 1, 1977, and ending on December 31, 1980.
+
+    (vi) Onsite participation in the response effort following the collision of a United States Air Force B–52 bomber and refueling plane that caused the release of four thermonuclear weapons in the vicinity of Palomares, Spain, during the period beginning January 17, 1966, and ending March 31, 1967.
+
+    (vii) Onsite participation in the response effort following the on-board fire and crash of a United States Air Force B–52 bomber that caused the release of four thermonuclear weapons in the vicinity of Thule Air Force Base, Greenland, during the period beginning January 21, 1968, and ending September 25, 1968.
+
 (4) A radiation-exposed veteran who receives a payment under the provisions of the Radiation Exposure Compensation Act of 1990 ([42 U.S.C. 2210](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim) note) shall not be deprived, by reason of the receipt of that payment, of receipt of compensation to which that veteran is entitled by reason of paragraph (1), but there shall be deducted from payment of such compensation the amount of the payment under that Act.
 
 ### Statutory Notes
@@ -325,6 +331,10 @@ shall be considered to have been incurred in or aggravated by such service, notw
 The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under [section 2210 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2022—Subsec. (c)(3)(B)(v). Pub. L. 117–168, § 401(b), added cl. (v).
+
+Subsec. (c)(3)(B)(vi), (vii). Pub. L. 117–168, § 402(b), added cls. (vi) and (vii).
+
 2021—Subsec. (b)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service” in subpars. (A) and (B).
 
 Subsec. (c)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
@@ -454,13 +464,15 @@ Pub. L. 87–645, § 4, Sept. 7, 1962, 76 Stat. 442, provided that: “This Act 
 
 <a id="section-1113"></a>
 ## § 1113. Presumptions rebuttable
-**(a)** Where there is affirmative evidence to the contrary, or evidence to establish that an intercurrent injury or disease which is a recognized cause of any of the diseases or disabilities within the purview of section 1112, 1116, 1117, or 1118 of this title, has been suffered between the date of separation from service and the onset of any such diseases or disabilities, or the disability is due to the veteran’s own willful misconduct, service-connection pursuant to section 1112, 1116, or 1118 of this title, or payments of compensation pursuant to [section 1117 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1117), will not be in order.
+**(a)** Where there is affirmative evidence to the contrary, or evidence to establish that an intercurrent injury or disease which is a recognized cause of any of the diseases or disabilities within the purview of section 1112, 1116, 1117, 1118, or 1120 of this title, has been suffered between the date of separation from service and the onset of any such diseases or disabilities, or the disability is due to the veteran’s own willful misconduct, service-connection pursuant to section 1112, 1116, 1118, or 1120 of this title, or payments of compensation pursuant to [section 1117 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1117), will not be in order.
 
-**(b)** Nothing in section 1112, 1116, 1117, or 1118 of this title, subsection (a) of this section, or section 5 of Public Law 98–542 ([38 U.S.C. 1154](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1154) note) shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, air, or space service.
+**(b)** Nothing in section 1112, 1116, 1117, 1118, or 1120 of this title, subsection (a) of this section, or section 5 of Public Law 98–542 ([38 U.S.C. 1154](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1154) note) shall be construed to prevent the granting of service-connection for any disease or disorder otherwise shown by sound judgment to have been incurred in or aggravated by active military, naval, air, or space service.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–168 substituted “1118, or 1120” for “or 1118” wherever appearing.
+
 2021—Subsec. (b). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “1117, or 1118” for “or 1117” and “, 1116, or 1118” for “or 1116”.
@@ -478,6 +490,9 @@ Pub. L. 103–446, § 106(b)(1), substituted “section 1112, 1116, or 1117” f
 Pub. L. 102–83, § 5(c)(1), substituted “1112 or 1116” for “312 or 316” wherever appearing.
 
 Pub. L. 102–4 inserted “or 316” after “section 312” wherever appearing.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–168 effective Aug. 10, 2022, with additional provisions for different applicability dates applying to various categories of veterans and claimants for compensation, see section 406(d) of Pub. L. 117–168, set out as an Effective Date note under [section 1120 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1120).
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–446, title V, § 501(b)(2), Nov. 2, 1994, 108 Stat. 4663, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to applications for veterans benefits that are submitted to the Secretary of Veterans Affairs after the date of the enactment of this Act [Nov. 2, 1994].”
@@ -1658,11 +1673,11 @@ Pub. L. 85–782, § 2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment
 Pub. L. 97–253, title IV, § 405, Sept. 8, 1982, 96 Stat. 803, [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as notes under this section] was repealed by Pub. L. 97–306, title I, § 107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390, provided that:
+Pub. L. 117–191, §§ 2(a)–(c), 3, Oct. 10, 2022, 136 Stat. 2207, 2208, provided that:
 
 SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.
 
-“(a) Rate Adjustment.—Effective on December 1, 2021, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2021, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
+“(a) Rate Adjustment.—Effective on December 1, 2022, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2022, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
 
 “(b) Amounts To Be Increased.—The dollar amounts to be increased pursuant to subsection (a) are the following:
 
@@ -1676,19 +1691,21 @@ SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNIT
 
 “(5) Dependency and indemnity compensation to children.—Each of the dollar amounts under sections 1313(a) and 1314 of such title.
 
-“(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2021, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)).
+“(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2022, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)).
 
 SEC. 3. PUBLICATION OF ADJUSTED RATES.
 
-“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2022.”
+“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2023.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390.
 
 Pub. L. 116–178, §§ 2(a)–(c), 3, Oct. 20, 2020, 134 Stat. 853, 854.
 
 Pub. L. 116–58, §§ 2(a)–(c), 3, Sept. 26, 2019, 133 Stat. 1091, 1092.
 
-Pub. L. 115–258, §§ 2(a)–(c), (3), Oct. 9, 2018, 132 Stat. 3662, 3663.
+Pub. L. 115–258, §§ 2(a)–(c), 3, Oct. 9, 2018, 132 Stat. 3662, 3663.
 
 Pub. L. 115–75, §§ 2(a)–(c), 3, Nov. 2, 2017, 131 Stat. 1244, 1245.
 
@@ -1731,9 +1748,11 @@ Pub. L. 103–418, §§ 2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337.
 Pub. L. 102–510, § 2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 #### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
-Pub. L. 117–45, § 2(d), Oct. 8, 2021, 135 Stat. 389, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
+Pub. L. 117–191, § 2(d), Oct. 10, 2022, 136 Stat. 2207, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 117–45, § 2(d), Oct. 8, 2021, 135 Stat. 389.
 
 Pub. L. 116–178, § 2(d), Oct. 20, 2020, 134 Stat. 853.
 
@@ -2287,14 +2306,14 @@ For increases in rates and limitations on Department of Veterans Affairs disabil
 
 
 <a id="section-1116"></a>
-## § 1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam
+## § 1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in certain locations
 **(a)**
 
 (1) For the purposes of [section 1110 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1110), and subject to [section 1113 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1113)—
 
-  (A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975; and
+  (A) a disease specified in paragraph (2) of this subsection becoming manifest as specified in that paragraph in a veteran who performed covered service; and
 
-  (B) each additional disease (if any) that (i) the Secretary determines in regulations prescribed under this section warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent, and (ii) becomes manifest within the period (if any) prescribed in such regulations in a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, and while so serving was exposed to that herbicide agent,
+  (B) each additional disease (if any) that (i) the Secretary determines in regulations prescribed under this section warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent, and (ii) becomes manifest within the period (if any) prescribed in such regulations in a veteran who performed covered service, and while so serving was exposed to that herbicide agent,
   shall be considered to have been incurred in or aggravated by such service, notwithstanding that there is no record of evidence of such disease during the period of such service.
 
 (2) The diseases referred to in paragraph (1)(A) of this subsection are the following:
@@ -2303,11 +2322,11 @@ For increases in rates and limitations on Department of Veterans Affairs disabil
 
   (B) Each soft-tissue sarcoma becoming manifest to a degree of disability of 10 percent or more other than osteosarcoma, chondrosarcoma, Kaposi’s sarcoma, or mesothelioma.
 
-  (C) Chloracne or another acneform disease consistent with chloracne becoming manifest to a degree of disability of 10 percent or more within one year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
+  (C) Chloracne or another acneform disease consistent with chloracne becoming manifest to a degree of disability of 10 percent or more within one year after the last date on which the veteran performed covered service.
 
   (D) Hodgkin’s disease becoming manifest to a degree of disability of 10 percent or more.
 
-  (E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date on which the veteran performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
+  (E) Porphyria cutanea tarda becoming manifest to a degree of disability of 10 percent or more within a year after the last date on which the veteran performed covered service.
 
   (F) Respiratory cancers (cancer of the lung, bronchus, larynx, or trachea) becoming manifest to a degree of disability of 10 percent or more.
 
@@ -2321,42 +2340,58 @@ For increases in rates and limitations on Department of Veterans Affairs disabil
 
   (K) Hypothyroidism.
 
+  (L) Monoclonal gammopathy of undetermined significance.
+
+  (M) Hypertension.
+
 (3) For purposes of this section, the term “herbicide agent” means a chemical in an herbicide used in support of the United States and allied military operations in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975.
 
-**(b)**
+**(b)** The Secretary shall ensure that any determination made on or after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 regarding a presumption of service connection based on exposure to an herbicide agent under this section is made pursuant to subchapter VII of this chapter, including with respect to assessing reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991 (Public Law 102–4).
 
-(1) Whenever the Secretary determines, on the basis of sound medical and scientific evidence, that a positive association exists between (A) the exposure of humans to an herbicide agent, and (B) the occurrence of a disease in humans, the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for that disease for the purposes of this section.
+**(c)** For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who performed covered service, shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
-(2) In making determinations for the purpose of this subsection, the Secretary shall take into account (A) reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, and (B) all other sound medical and scientific information and analyses available to the Secretary. In evaluating any study for the purpose of making such determinations, the Secretary shall take into consideration whether the results are statistically significant, are capable of replication, and withstand peer review.
+**(d)** In this section, the term “covered service” means active military, naval, air, or space service—
 
-(3) An association between the occurrence of a disease in humans and exposure to an herbicide agent shall be considered to be positive for the purposes of this section if the credible evidence for the association is equal to or outweighs the credible evidence against the association.
+(1) performed in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975;
 
-**(c)**
+(2) performed in Thailand at any United States or Royal Thai base during the period beginning on January 9, 1962, and ending on June 30, 1976, without regard to where on the base the veteran was located or what military job specialty the veteran performed;
 
-(1)
+(3) performed in Laos during the period beginning on December 1, 1965, and ending on September 30, 1969;
 
-  (A) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, the Secretary shall determine whether a presumption of service connection is warranted for each disease covered by the report. If the Secretary determines that such a presumption is warranted, the Secretary, not later than 60 days after making the determination, shall issue proposed regulations setting forth the Secretary’s determination.
+(4) performed in Cambodia at Mimot or Krek, Kampong Cham Province during the period beginning on April 16, 1969, and ending on April 30, 1969; or
 
-  (B) If the Secretary determines that a presumption of service connection is not warranted, the Secretary, not later than 60 days after making the determination, shall publish in the Federal Register a notice of that determination. The notice shall include an explanation of the scientific basis for that determination. If the disease already is included in regulations providing for a presumption of service connection, the Secretary, not later than 60 days after publication of the notice of a determination that the presumption is not warranted, shall issue proposed regulations removing the presumption for the disease.
-
-(2) Not later than 90 days after the date on which the Secretary issues any proposed regulations under this subsection, the Secretary shall issue final regulations. Such regulations shall be effective on the date of issuance.
-
-**(d)** Whenever a disease is removed from regulations prescribed under this section—
-
-(1) a veteran who was awarded compensation for such disease on the basis of the presumption provided in subsection (a) before the effective date of the removal shall continue to be entitled to receive compensation on that basis; and
-
-(2) a survivor of a veteran who was awarded dependency and indemnity compensation for the death of a veteran resulting from such disease on the basis of such presumption shall continue to be entitled to receive dependency and indemnity compensation on such basis.
-
-**(e)** Subsections (b) through (d) shall cease to be effective on September 30, 2015.
-
-**(f)** For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
+(5) performed on Guam or American Samoa, or in the territorial waters thereof, during the period beginning on January 9, 1962, and ending on July 31, 1980, or served on Johnston Atoll or on a ship that called at Johnston Atoll during the period beginning on January 1, 1972, and ending on September 30, 1977.
 
 ### Statutory Notes
 
 #### References in Text
-Section 3 of the Agent Orange Act of 1991, referred to in subsecs. (b)(2) and (c)(1)(A), is section 3 of Pub. L. 102–4, which is set out below.
+The date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, referred to in subsec. (b), is the date of enactment of Pub. L. 117–168, which was approved Aug. 10, 2022.
+
+Section 3 of the Agent Orange Act of 1991, referred to in subsec. (b), is section 3 of Pub. L. 102–4, which is set out as a note below.
 
 #### Amendments
+2022—Pub. L. 117–168, § 403(d), substituted “certain locations” for “the Republic of Vietnam” in section catchline.
+
+Subsec. (a)(1). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975”, wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” in subpars. (A) and (B) to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(C), (E). Pub. L. 117–168, § 403(b)(2), which directed substitution of “performed covered service” for “performed active military, naval, air, or space service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” wherever appearing in section, was executed by making the substitution for “performed active military, naval, or air service in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” to reflect the probable intent of Congress.
+
+Subsec. (a)(2)(L). Pub. L. 117–168, § 404(b), added subpar. (L).
+
+Subsec. (a)(2)(M). Pub. L. 117–168, § 404(c), added subpar. (M).
+
+Subsec. (b). Pub. L. 117–168, § 202(d)(1)(A), (B), added subsec. (b) and struck out former subsec. (b) which required the Secretary to prescribe regulations based on determination of a positive association between the occurrence of a disease in humans and exposure to an herbicide agent.
+
+Subsec. (c). Pub. L. 117–168, § 403(b)(1), which directed substitution of “performed covered service” for “, during active military, naval, air, or space service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975”, wherever appearing in section, was executed by making the substitution for “, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975” to reflect the probable intent of Congress.
+
+Pub. L. 117–168, § 202(d)(1)(A), (C), redesignated subsec. (f) as (c) and struck out former subsec. (c) which related to determinations of presumption of service connection between diseases and exposure to herbicide agents and issuance of regulations based on such determinations.
+
+Subsec. (d). Pub. L. 117–168, §§ 202(d)(1)(A), 403(b)(3), added subsec. (d) and struck out former subsec. (d) which provided for continuation of compensation if a disease was determined no longer to be presumed as service connected.
+
+Subsec. (e). Pub. L. 117–168, § 202(d)(1)(A), struck out subsec. (e). Text read as follows: “Subsections (b) through (d) shall cease to be effective on September 30, 2015.”
+
+Subsec. (f). Pub. L. 117–168, § 202(d)(1)(C), redesignated subsec. (f) as (c).
+
 2021—Subsec. (a)(2)(I) to (K). Pub. L. 116–283 added subpars. (I) to (K).
 
 2001—Pub. L. 107–103, § 201(c)(2)(A), amended section catchline generally. Prior to amendment, catchline read as follows: “Presumptions of service connection for diseases associated with exposure to certain herbicide agents”.
@@ -2390,6 +2425,11 @@ Subsec. (a)(2)(D) to (G). Pub. L. 103–446, § 505, added subpars. (D) to (G).
 1991—Pub. L. 102–83, § 5(a), renumbered [section 316 of this title](./chapter-003-department-of-veterans-affairs.md#section-316) as this section.
 
 Subsec. (a)(1). Pub. L. 102–83, § 5(c)(1), substituted “1110” for “310” and “1113” for “313” in introductory provisions.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–168, title IV, § 403(e), Aug. 10, 2022, 136 Stat. 1781, provided that: “The amendments made by this section [amending this section and [section 1710 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710)] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and shall apply as follows: “(1) On the date of the enactment of this Act for claimants for dependency and indemnity compensation under chapter 13 of title 38, United States Code, and for veterans whom the Secretary of Veterans Affairs determines are—“(A) terminally ill; “(B) homeless; “(C) under extreme financial hardship; “(D) more than 85 years old; or “(E) capable of demonstrating other sufficient cause. “(2) On October 1, 2022, for everyone not described in paragraph (1).”
+
+Pub. L. 117–168, title IV, § 404(d), Aug. 10, 2022, 136 Stat. 1782, provided that: “(1) Monoclonal gammopathy of undetermined significance.—“(A) In general.—The amendment made by subsection (b) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and shall apply as follows:“(i) On the date of the enactment of this Act for claimants for dependency and indemnity compensation under chapter 13 of title 38, United States Code, and for veterans whom the Secretary of Veterans Affairs determines are—“(I) terminally ill; “(II) homeless; “(III) under extreme financial hardship; “(IV) more than 85 years old; or “(V) capable of demonstrating other sufficient cause. “(ii) On October 1, 2022, for everyone not described in clause (i). “(B) Retroactive application.—Notwithstanding any Federal court decisions or settlements in effect on the day before the date of the enactment of this Act, the Secretary of Veterans Affairs shall award retroactive claims for a condition under [section 1116(a)(2)(L) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1116/a/2/L&num=0&edition=prelim), United States Code, as added by subsection (b) of this section, only to claimants for dependency and indemnity compensation under chapter 13 of such title described in subparagraph (A)(i) of this paragraph. “(2) Hypertension.—“(A) In general.—The amendment made by subsection (c) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and shall apply as follows:“(i) On the date of the enactment of this Act for claimants for dependency and indemnity compensation under chapter 13 of title 38, United States Code, and for veterans whom the Secretary of Veterans Affairs determines are—“(I) terminally ill; “(II) homeless; “(III) under extreme financial hardship; “(IV) more than 85 years old; or “(V) capable of demonstrating other sufficient cause. “(ii) On October 1, 2026, for everyone not described in subparagraph (A). “(B) Retroactive application.—Notwithstanding any Federal court decisions or settlements in effect on the day before the date of the enactment of this Act, the Secretary of Veterans Affairs shall award retroactive claims for a condition under [section 1116(a)(2)(M) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1116/a/2/M&num=0&edition=prelim), United States Code, as added by subsection (c) of this section, only to claimants for dependency and indemnity compensation under chapter 13 of such title described in subparagraph (A)(i) of this paragraph.”
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–103, title II, § 201(a)(1)(B), Dec. 27, 2001, 115 Stat. 987, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect January 1, 2002.”
@@ -2478,13 +2518,16 @@ Pub. L. 116–23, § 2(d), June 25, 2019, 133 Stat. 968, provided that: “(1) R
 
 (2) any additional disease that—
 
-  (A) the Secretary determines in regulations warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent; and
+  (A) pursuant to subchapter VII of this chapter, the Secretary determines in regulations warrants a presumption of service-connection by reason of having positive association with exposure to an herbicide agent; and
 
   (B) becomes manifest within any period prescribed in such regulations.
 
 **(c) Herbicide Agent.—** For purposes of this section, the term “herbicide agent” has the meaning given such term in [section 1821(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1821/d&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Amendments
+2022—Subsec. (b)(2)(A). Pub. L. 117–168 inserted “pursuant to subchapter VII of this chapter,” before “the Secretary determines”.
 
 #### Effective Date
 Pub. L. 116–23, § 3(d), June 25, 2019, 133 Stat. 970, provided that: “The amendments made by this section [enacting this section] shall take effect on January 1, 2020.”
@@ -2497,11 +2540,7 @@ Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that: “(1) G
 ## § 1117. Compensation for disabilities occurring in Persian Gulf War veterans
 **(a)**
 
-(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteran with a qualifying chronic disability that became manifest—
-
-  (A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
-
-  (B) to a degree of 10 percent or more during the presumptive period prescribed under subsection (b).
+(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteran with a qualifying chronic disability that became manifest to any degree at any time.
 
 (2) For purposes of this subsection, the term “qualifying chronic disability” means a chronic disability resulting from any of the following (or any combination of any of the following):
 
@@ -2509,13 +2548,11 @@ Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that: “(1) G
 
   (B) A medically unexplained chronic multisymptom illness (such as chronic fatigue syndrome, fibromyalgia, and irritable bowel syndrome) that is defined by a cluster of signs or symptoms.
 
-  (C) Any diagnosed illness that the Secretary determines in regulations prescribed under subsection (d) warrants a presumption of service-connection.
+  (C) Any diagnosed illness that the Secretary determines in regulations prescribed under subsection (c) warrants a presumption of service-connection.
 
-**(b)** The Secretary shall prescribe by regulation the period of time following service in the Southwest Asia theater of operations during the Persian Gulf War that the Secretary determines is appropriate for presumption of service connection for purposes of this section. The Secretary’s determination of such period of time shall be made following a review of any available credible medical or scientific evidence and the historical treatment afforded disabilities for which manifestation periods have been established and shall take into account other pertinent circumstances regarding the experiences of veterans of the Persian Gulf War.
+**(b)**
 
-**(c)**
-
-(1) Whenever the Secretary determines under [section 1118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1118/c&num=0&edition=prelim) that a presumption of service connection previously established under this section is no longer warranted—
+(1) Whenever the Secretary determines under section 1118(c) 11 See References in Text note below. of this title that a presumption of service connection previously established under this section is no longer warranted—
 
   (A) a veteran who was awarded compensation under this section on the basis of the presumption shall continue to be entitled to receive compensation under this section on that basis; and
 
@@ -2523,7 +2560,7 @@ Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that: “(1) G
 
 (2) This subsection shall cease to be effective on September 30, 2011.
 
-**(d)**
+**(c)**
 
 (1) The Secretary shall prescribe regulations to carry out this section.
 
@@ -2535,9 +2572,11 @@ Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that: “(1) G
 
   (C) A description of any relevant medical characteristic (such as a latency period) associated with each such illness.
 
+**(d)** If a Persian Gulf veteran at a medical facility of the Department presents with any one symptom associated with Gulf War Illness, the Secretary shall ensure that health care personnel of the Department use a disability benefits questionnaire, or successor questionnaire, designed to identify Gulf War Illness, in addition to any other diagnostic actions the personnel determine appropriate.
+
 **(e)** A disability for which compensation under this subchapter is payable shall be considered to be service connected for purposes of all other laws of the United States.
 
-**(f)** For purposes of this section, the term “Persian Gulf veteran” means a veteran who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War.
+**(f)** For purposes of this section, the term “Persian Gulf veteran” means a veteran who served on active duty in the Armed Forces in the Southwest Asia theater of operations, Afghanistan, Israel, Egypt, Turkey, Syria, or Jordan, during the Persian Gulf War.
 
 **(g)** For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness or a chronic multisymptom illness include the following:
 
@@ -2579,9 +2618,34 @@ Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that: “(1) G
 
 (3) The Secretary shall publish in the Federal Register a list of medical research projects sponsored by the Department for which service connection granted under this section or [section 1118 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1118) may not be terminated pursuant to paragraph (1).
 
+**(i)**
+
+(1) The Secretary shall take such actions as may be necessary to ensure that health care personnel of the Department are appropriately trained to effectively carry out this section.
+
+(2) Not less frequently than once each year, the Secretary shall submit to Congress a report on the actions taken by the Secretary to carry out paragraph (1).
+
 ### Statutory Notes
 
+#### References in Text
+[Section 1118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1118/c&num=0&edition=prelim), referred to in subsec. (b)(1), was repealed by Pub. L. 117–168, title II, § 202(d)(3)(A), Aug. 10, 2022, 136 Stat. 1775.
+
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–168, § 405(a), substituted “became manifest to any degree at any time.” for “became manifest—”
+
+“(A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
+
+“(B) to a degree of 10 percent or more during the presumptive period prescribed under subsection (b).”
+
+Subsec. (a)(2)(C). Pub. L. 117–168, § 405(b)(3), substituted “under subsection (c)” for “under subsection (d)”.
+
+Subsecs. (b), (c). Pub. L. 117–168, § 405(b)(1), (2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “The Secretary shall prescribe by regulation the period of time following service in the Southwest Asia theater of operations during the Persian Gulf War that the Secretary determines is appropriate for presumption of service connection for purposes of this section. The Secretary’s determination of such period of time shall be made following a review of any available credible medical or scientific evidence and the historical treatment afforded disabilities for which manifestation periods have been established and shall take into account other pertinent circumstances regarding the experiences of veterans of the Persian Gulf War.”
+
+Subsec. (d). Pub. L. 117–168, § 405(b)(2), (c), added subsec. (d) and redesignated former subsec. (d) as (c).
+
+Subsec. (f). Pub. L. 117–168, § 405(d), inserted “, Afghanistan, Israel, Egypt, Turkey, Syria, or Jordan,” after “operations”.
+
+Subsec. (i). Pub. L. 117–168, § 405(e), added subsec. (i).
+
 2006—Subsec. (h)(1). Pub. L. 109–233 substituted “notwithstanding” for “nothwithstanding”.
 
 2001—Subsec. (a). Pub. L. 107–103, § 202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
@@ -2620,7 +2684,7 @@ Pub. L. 105–368, title I, § 105, Nov. 11, 1998, 112 Stat. 3324, provided that
 Pub. L. 105–277, div. C, title XVI, §§ 1603–1605, Oct. 21, 1998, 112 Stat. 2681–745 to 2681–748, as amended by Pub. L. 107–103, title II, § 202(d)(2), Dec. 27, 2001, 115 Stat. 989; Pub. L. 111–275, title VIII, § 806(a), (b)(3), Oct. 13, 2010, 124 Stat. 2890, 2893, provided that: “SEC. 1603. AGREEMENT WITH NATIONAL ACADEMY OF SCIENCES.“(a) Purpose.—The purpose of this section is to provide for the National Academy of Sciences, an independent nonprofit scientific organization with appropriate expertise, to review and evaluate the available scientific evidence regarding associations between illnesses and exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with Gulf War service. “(b) Agreement.—The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences for the Academy to perform the activities covered by this section. The Secretary shall seek to enter into the agreement not later than two months after the date of enactment of this Act [Oct. 21, 1998]. “(c) Identification of Agents and Illnesses.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall—“(A) identify the biological, chemical, or other toxic agents, environmental or wartime hazards, or preventive medicines or vaccines to which members of the Armed Forces who may have been exposed by reason of service in the Southwest Asia theater of operations during the Persian Gulf War or, after September 11, 2001, in another Post-9/11 Global Theater of Operations; and “(B) identify the illnesses (including diagnosed illnesses and undiagnosed illnesses) that are manifest in such members. “(2) In identifying illnesses under paragraph (1)(B), the Academy shall review and summarize the relevant scientific evidence regarding illnesses among the members described in paragraph (1)(A) and among other appropriate populations of individuals, including mortality, symptoms, and adverse reproductive health outcomes among such members and individuals. “(d) Initial Consideration of Specific Agents.—(1) In identifying under subsection (c) the agents, hazards, or preventive medicines or vaccines to which members of the Armed Forces may have been exposed for purposes of the first report under subsection (i), the National Academy of Sciences shall consider, within the first six months after the date of enactment of this Act [Oct. 21, 1998], the following:“(A) The following organophosphorous pesticides:“(i) Chlorpyrifos. “(ii) Diazinon. “(iii) Dichlorvos. “(iv) Malathion. “(B) The following carbamate pesticides:“(i) Proxpur. “(ii) Carbaryl. “(iii) Methomyl. “(C) The carbamate pyridostigmine bromide used as nerve agent prophylaxis. “(D) The following chlorinated hydrocarbon and other pesticides and repellents:“(i) Lindane. “(ii) Pyrethrins. “(iii) Permethrins. “(iv) Rodenticides (bait). “(v) Repellent (DEET). “(E) The following low-level nerve agents and precursor compounds at exposure levels below those which produce immediately apparent incapacitating symptoms:“(i) Sarin. “(ii) Tabun. “(F) The following synthetic chemical compounds:“(i) Mustard agents at levels below those which cause immediate blistering. “(ii) Volatile organic compounds. “(iii) Hydrazine. “(iv) Red fuming nitric acid. “(v) Solvents. “(vi) Uranium. “(G) The following ionizing radiation:“(i) Depleted uranium. “(ii) Microwave radiation. “(iii) Radio frequency radiation. “(H) The following environmental particulates and pollutants:“(i) Hydrogen sulfide. “(ii) Oil fire byproducts. “(iii) Diesel heater fumes. “(iv) Sand micro-particles. “(I) Diseases endemic to the region (including the following):“(i) Leishmaniasis. “(ii) Sandfly fever. “(iii) Pathogenic escherechia coli. “(iv) Shigellosis. “(J) Time compressed administration of multiple live, ‘attenuated’, and toxoid vaccines. “(2) The consideration of agents, hazards, and medicines and vaccines under paragraph (1) shall not preclude the Academy from identifying other agents, hazards, or medicines or vaccines to which members of the Armed Forces may have been exposed for purposes of any report under subsection (i). “(3) Not later than six months after the date of enactment of this Act [Oct. 21, 1998], the Academy shall submit to the designated congressional committees a report specifying the agents, hazards, and medicines and vaccines considered under paragraph (1). “(e) Determinations of Associations Between Agents and Illnesses.—(1) For each agent, hazard, or medicine or vaccine and illness identified under subsection (c), the National Academy of Sciences shall determine, to the extent that available scientific data permit meaningful determinations—“(A) whether a statistical association exists between exposure to the agent, hazard, or medicine or vaccine and the illness, taking into account the strength of the scientific evidence and the appropriateness of the scientific methodology used to detect the association; “(B) the increased risk of the illness among human or animal populations exposed to the agent, hazard, or medicine or vaccine; and “(C) whether a plausible biological mechanism or other evidence of a causal relationship exists between exposure to the agent, hazard, or medicine or vaccine and the illness. “(2) The Academy shall include in its reports under subsection (i) a full discussion of the scientific evidence and reasoning that led to its conclusions under this subsection. “(f) Review of Potential Treatment Models for Certain Illnesses.—Under the agreement under subsection (b), the National Academy of Sciences shall separately review, for each chronic undiagnosed illness identified under subsection (c)(1)(B) and for any other chronic illness that the Academy determines to warrant such review, the available scientific data in order to identify empirically valid models of treatment for such illnesses which employ successful treatment modalities for populations with similar symptoms. “(g) Recommendations for Additional Scientific Studies.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall make any recommendations that it considers appropriate for additional scientific studies (including studies relating to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of exposure to toxic agents, environmental or wartime hazards, or preventive medicines or vaccines associated with service described in subsection (c)(1)(A). “(2) In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies. “(h) Subsequent Reviews.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall conduct on a periodic and ongoing basis additional reviews of the evidence and data relating to its activities under this section. “(2) As part of each review under this subsection, the Academy shall—“(A) conduct as comprehensive a review as is practicable of the evidence referred to in subsection (c) and the data referred to in subsections (e), (f), and (g) that became available since the last review of such evidence and data under this section; and “(B) make determinations under the subsections referred to in subparagraph (A) on the basis of the results of such review and all other reviews previously conducted for purposes of this section. “(i) Reports.—(1) Under the agreement under subsection (b), the National Academy of Sciences shall submit to the committees and officials referred to in paragraph (6) periodic written reports regarding the Academy’s activities under the agreement. “(2) The first report under paragraph (1) shall be submitted not later than 18 months after the date of enactment of this Act [Oct. 21, 1998]. That report shall include—“(A) the determinations and discussion referred to in subsection (e); “(B) the results of the review of models of treatment under subsection (f); and “(C) any recommendations of the Academy under subsection (g). “(3) Reports shall be submitted under this subsection at least once every two years, as measured from the date of the report under paragraph (2). “(4) In any report under this subsection (other than the report under paragraph (2)), the Academy may specify an absence of meaningful developments in the scientific or medical community with respect to the activities of the Academy under this section during the 2-year period ending on the date of such report. “(5) In each report under this subsection submitted after the date of the enactment of this paragraph [Oct. 13, 2010], any determinations, results, and recommendations as described in paragraph (2) shall be submitted separately as follows:“(A) For the Southwest Asia theater of operations for the period of the Persian Gulf War ending on September 11, 2001. “(B) For the Post-9/11 Global Theaters of Operations for the period of the Persian Gulf War beginning on September 11, 2001. “(6) Reports under this subsection shall be submitted to the following:“(A) The designated congressional committees. “(B) The Secretary of Veterans Affairs. “(C) The Secretary of Defense. “(j) Sunset.—This section shall cease to be effective on October 1, 2015. “(k) Alternative Contract Scientific Organization.—(1) If the Secretary is unable within the time period set forth in subsection (b) to enter into an agreement with the National Academy of Sciences for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for purposes of this section with another appropriate scientific organization that is not part of the Government, operates as a not-for-profit entity, and has expertise and objectivity comparable to that of the National Academy of Sciences. “(2) If the Secretary enters into an agreement with another organization under this subsection, any reference in this section and [section 1118 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1118), United States Code (as added by section 1602(a)), to the National Academy of Sciences shall be treated as a reference to such other organization. “(l) Definitions.—In this section:“(1) The term ‘Persian Gulf War’ has the meaning given that term in [section 101(33) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/33&num=0&edition=prelim), United States Code. “(2) The term ‘Post-9/11 Global Theater of Operations’ means Afghanistan, Iraq, and any other theater of operations for which the Global War on Terrorism Expeditionary Medal is awarded for service. “[SEC. 1604. Repealed. Pub. L. 111–275, title VIII, § 806(b)(3), Oct. 13, 2010, 124 Stat. 2893.] “SEC. 1605. DEFINITIONS.“In this title [enacting [section 1118 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1118), amending this section and [section 1113 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1113), and enacting this note and provisions set out as a note under [section 101 of this title](./chapter-001-general.md#section-101)]:“(1) The term ‘toxic agent, environmental or wartime hazard, or preventive medicine or vaccine associated with Gulf War service’ means a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine that is known or presumed to be associated with service in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War, whether such association arises as a result of single, repeated, or sustained exposure and whether such association arises through exposure singularly or in combination. “(2) The term ‘designated congressional committees’ means the following:“(A) The Committees on Veterans’ Affairs and Armed Services of the Senate. “(B) The Committees on Veterans’ Affairs and National Security [now Armed Services] of the House of Representatives. “(3) The term ‘Persian Gulf War’ has the meaning given that term in [section 101(33) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/33&num=0&edition=prelim), United States Code.”
 
 #### Persian Gulf War Veterans’ Benefits
-Pub. L. 103–446, title I, §§ 102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat. 4647–4650, 4652–4654, as amended by Pub. L. 104–262, title III, § 352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, § 107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, § 205(b), (c), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 115–182, title I, § 144(a)(3), June 6, 2018, 132 Stat. 1430, provided that: “SEC. 102. FINDINGS.“The Congress makes the following findings:“(1) During the Persian Gulf War, members of the Armed Forces were exposed to numerous potentially toxic substances, including fumes and smoke from military operations, oil well fires, diesel exhaust, paints, pesticides, depleted uranium, infectious agents, investigational drugs and vaccines, and indigenous diseases, and were also given multiple immunizations. It is not known whether these servicemembers were exposed to chemical or biological warfare agents. However, threats of enemy use of chemical and biological warfare heightened the psychological stress associated with the military operation. “(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs. “(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined. “(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay. “(5) In response to concerns regarding the health-care needs of Persian Gulf War veterans, particularly those who suffer from illnesses or conditions for which no diagnosis has been made, the Congress, in Public Law 102–585 [see Short Title of 1992 Amendments note under [section 101 of this title](./chapter-001-general.md#section-101)], directed the establishment of a Persian Gulf War Veterans Health Registry, authorized health examinations for veterans of the Persian Gulf War, and provided for the National Academy of Sciences to conduct a comprehensive review and assessment of information regarding the health consequences of military service in the Persian Gulf theater of operations and to develop recommendations on avenues for research regarding such health consequences. In Public Law 103–210 [see Tables for classification], the Congress authorized the Department of Veterans Affairs to provide health care services on a priority basis to Persian Gulf War veterans. The Congress also provided in Public Law 103–160 (the National Defense Authorization Act for Fiscal Year 1994) [see Tables for classification] for the establishment of a specialized environmental medical facility for the conduct of research into the possible health effects of exposure to low levels of hazardous chemicals, especially among Persian Gulf veterans, and for research into the possible health effects of battlefield exposure in such veterans to depleted uranium. “(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 [Pub. L. 103–337, see Tables for classification], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children. “(7) Further research and studies must be undertaken to determine the underlying causes of the illnesses suffered by Persian Gulf War veterans and, pending the outcome of such research, veterans who are seriously ill as the result of such illnesses should be given the benefit of the doubt and be provided compensation benefits to offset the impairment in earnings capacities they may be experiencing. “SEC. 103. PURPOSES.“The purposes of this title [see Short Title of 1994 Amendments note under [section 101 of this title](./chapter-001-general.md#section-101)] are—“(1) to provide compensation to Persian Gulf War veterans who suffer disabilities resulting from illnesses that cannot now be diagnosed or defined, and for which other causes cannot be identified; “(2) to require the Secretary of Veterans Affairs to develop at the earliest possible date case assessment strategies and definitions or diagnoses of such illnesses; “(3) to promote greater outreach to Persian Gulf War veterans and their families to inform them of ongoing research activities, as well as the services and benefits to which they are currently entitled; and “(4) to ensure that research activities and accompanying surveys of Persian Gulf War veterans are appropriately funded and undertaken by the Department of Veterans Affairs. “SEC. 104. DEVELOPMENT OF MEDICAL EVALUATION PROTOCOL.“(a) Uniform Medical Evaluation Protocol.—(1) The Secretary of Veterans Affairs shall develop and implement a uniform and comprehensive medical evaluation protocol that will ensure appropriate medical assessment, diagnosis, and treatment of Persian Gulf War veterans who are suffering from illnesses the origins of which are (as of the date of the enactment of this Act [Nov. 2, 1994]) unknown and that may be attributable to service in the Southwest Asia theater of operations during the Persian Gulf War. The protocol shall include an evaluation of complaints relating to illnesses involving the reproductive system. “(2) If such a protocol is not implemented before the end of the 120-day period beginning on the date of the enactment of this Act [Nov. 2, 1994], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such a protocol has not yet been developed. “(3)(A) The Secretary shall ensure that the evaluation under the protocol developed under this section is available at all Department medical centers that have the capability of providing the medical assessment, diagnosis, and treatment required under the protocol. “(B) The Secretary may enter into contracts with non-Department medical facilities for the provision of the evaluation under the protocol. “(C) In the case of a veteran whose residence is distant from a medical center described in subparagraph (A), the Secretary may provide the evaluation through a Department medical center described in that subparagraph and, in such a case, may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of [section 111 of title 38](./chapter-001-general.md#section-111), United States Code. “(4)(A) If the Secretary is unable to diagnose the symptoms or illness of a veteran provided an evaluation, or if the symptoms or illness of a veteran do not respond to treatment provided by the Secretary, the Secretary may use the authority in [section 1703 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), United States Code, in order to provide for the veteran to receive diagnostic tests or treatment at a non-Department medical facility that may have the capability of diagnosing or treating the symptoms or illness of the veteran. The Secretary may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of [section 111 of title 38](./chapter-001-general.md#section-111), United States Code. “(B) The Secretary shall request from each non-Department medical facility that examines or treats a veteran under this paragraph such information relating to the diagnosis or treatment as the Secretary considers appropriate. “(5) In each year after the implementation of the protocol, the Secretary shall enter into an agreement with the National Academy of Sciences under which agreement appropriate experts shall review the adequacy of the protocol and its implementation by the Department of Veterans Affairs. “(b) Relationship to Other Comprehensive Clinical Evaluation Protocols.—The Secretary, in consultation with the Secretary of Defense, shall ensure that the information collected through the protocol described in this section is collected and maintained in a manner that permits the effective and efficient cross-reference of that information with information collected and maintained through the comprehensive clinical protocols of the Department of Defense for Persian Gulf War veterans. “(c) Case Definitions and Diagnoses.—The Secretary shall develop case definitions or diagnoses for illnesses associated with the service described in subsection (a)(1). The Secretary shall develop such definitions or diagnoses at the earliest possible date.[Pub. L. 115–182, title I, § 144(a)(3), (b), June 6, 2018, 132 Stat. 1430, provided that, effective on the date described in section 101(b), set out as an Effective Date of 2018 Amendment note under [section 1703 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), section 104(a)(4)(A) of Pub. L. 103–446, set out above, is amended by substituting “in sections 1703A, 8111, and 8153” for “in section 1703”.] “SEC. 105. OUTREACH TO PERSIAN GULF VETERANS.“(a) In General.—The Secretary of Veterans Affairs shall implement a comprehensive outreach program to inform Persian Gulf War veterans and their families of the medical care and other benefits that may be provided by the Department of Veterans Affairs and the Department of Defense arising from service in the Persian Gulf War. “(b) Newsletter.—(1) The outreach program shall include a newsletter which shall be updated and distributed at least semi-annually and shall be distributed to the veterans listed on the Persian Gulf War Veterans Health Registry. The newsletter shall include summaries of the status and findings of Government sponsored research on illnesses of Persian Gulf War veterans and their families, as well as on benefits available to such individuals through the Department of Veterans Affairs. The newsletter shall be prepared in consultation with veterans service organizations. “(2) The requirement under this subsection for the distribution of the newsletter shall terminate on December 31, 2003. “(c) Toll-Free Number.—The outreach program shall include establishment of a toll-free telephone number to provide Persian Gulf War veterans and their families information on the Persian Gulf War Veterans Health Registry, health care and other benefits provided by the Department of Veterans Affairs, and such other information as the Secretary considers appropriate. Such toll-free telephone number shall be established not later than 90 days after the date of the enactment of this Act [Nov. 2, 1994]. “SEC. 107. EVALUATION OF HEALTH STATUS OF SPOUSES AND CHILDREN OF PERSIAN GULF WAR VETERANS.“(a) Evaluation Program.—Subject to subsection (c), the Secretary of Veterans Affairs shall conduct a program to evaluate the health status of spouses and children of Persian Gulf War veterans. Under the program, the Secretary shall provide for the conduct of diagnostic testing and appropriate medical examinations of any individual—“(1) who is the spouse or child of a veteran who—“(A) is listed in the Persian Gulf War Veterans Registry established under section 702 of Public Law 102–585 [set out in a note under [section 527 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-527)]; and “(B) is suffering from an illness or disorder; “(2) who is apparently suffering from, or may have suffered from, an illness or disorder (including a birth defect, miscarriage, or stillbirth) which cannot be disassociated from the veteran’s service in the Southwest Asia theater of operations; and “(3) who, in the case of a spouse, has granted the Secretary permission to include in the Registry relevant medical data (including a medical history and the results of diagnostic testing and medical examinations) and such other information as the Secretary considers relevant and appropriate with respect to such individual. “(b) Duration of Program.—The program shall be carried out during the period beginning on November 1, 1994, and ending on December 31, 2003. “(c) Funding Limitation.—The amount spent for the program under subsection (a) may not exceed $2,000,000. “(d) Contracting.—The Secretary may provide for the conduct of testing and examinations under subsection (a) through appropriate contract arrangements, including fee arrangements described in [section 1703 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), United States Code. “(e) Standard Protocols and Guidelines.—The Secretary shall seek to ensure uniform development of medical data through the development of standard protocols and guidelines for such testing and examinations. If such protocols and guidelines have not been adopted before the end of the 120-day period beginning on the date of the enactment of this Act [Nov. 2, 1994], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such protocols and guidelines have not yet been developed. “(f) Entry of Results in Registry.—The results of diagnostic tests, medical histories, and medical examinations conducted under subsection (a) shall be entered into the Persian Gulf War Veterans Health Registry. “(g) Outreach.—The Secretary shall conduct such outreach activities as the Secretary determines necessary for the purposes of the program. In conducting such outreach activities, the Secretary shall advise that medical treatment is not available under the program. “(h) Use Outside Department of Standard Protocols and Guidelines.—The Secretary shall—“(1) make the standard protocols and guidelines developed under this section available to any entity which requests a copy of such protocols and guidelines; and “(2) enter into the registry the results of any examination of the spouse or child of a veteran who served in the Persian Gulf theater which a licensed physician certifies was conducted using those standard protocols and guidelines. “(i) Report to Congress.—Not later than July 31, 1999, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on activities with respect to the program, including the provision of services under subsection (d). “(j) Definitions.—For purposes of this section, the terms ‘child’ and ‘spouse’ have the meanings given those terms in paragraphs (4) and (31), respectively, of [section 101 of title 38](./chapter-001-general.md#section-101), United States Code. “SEC. 109. SURVEY OF PERSIAN GULF VETERANS.“(a) In General.—The Secretary of Veterans Affairs may carry out a survey of Persian Gulf veterans to gather information on the incidence and nature of health problems occurring in Persian Gulf veterans and their families. “(b) Coordination With Department of Defense.—Any survey under subsection (a) shall be carried out in coordination with the Secretary of Defense. “(c) Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War as defined in [section 101(33) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/33&num=0&edition=prelim), United States Code. “SEC. 110. AUTHORIZATION FOR EPIDEMIOLOGICAL STUDIES.“(a) Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) [set out in a note under [section 527 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-527)] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of such a study or studies, the Secretary of Veterans Affairs is authorized to carry out such study. “(b) Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings. “(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement. “(c) Access to Data.—The Secretary shall enter into agreements with the Secretary of Defense and the Secretary of Health and Human Services to make available for the purposes of any study described in subsection (a) all data that the Secretary, in consultation with the National Academy of Sciences and the contractor for the study, considers relevant to the study. “(d) Authorization.—There are authorized to be appropriated to the Department such sums as are necessary for the conduct of studies described in subsection (a).”
+Pub. L. 103–446, title I, §§ 102–105, 107, 109, 110, Nov. 2, 1994, 108 Stat. 4647–4650, 4652–4654, as amended by Pub. L. 104–262, title III, § 352(a), Oct. 9, 1996, 110 Stat. 3210; Pub. L. 105–368, title I, § 107, Nov. 11, 1998, 112 Stat. 3325; Pub. L. 106–117, title II, § 205(b), (c), Nov. 30, 1999, 113 Stat. 1563; Pub. L. 115–182, title I, § 144(a)(3), June 6, 2018, 132 Stat. 1430, provided that: “SEC. 102. FINDINGS.“The Congress makes the following findings:“(1) During the Persian Gulf War, members of the Armed Forces were exposed to numerous potentially toxic substances, including fumes and smoke from military operations, oil well fires, diesel exhaust, paints, pesticides, depleted uranium, infectious agents, investigational drugs and vaccines, and indigenous diseases, and were also given multiple immunizations. It is not known whether these servicemembers were exposed to chemical or biological warfare agents. However, threats of enemy use of chemical and biological warfare heightened the psychological stress associated with the military operation. “(2) Significant numbers of veterans of the Persian Gulf War are suffering from illnesses, or are exhibiting symptoms of illness, that cannot now be diagnosed or clearly defined. As a result, many of these conditions or illnesses are not considered to be service connected under current law for purposes of benefits administered by the Department of Veterans Affairs. “(3) The National Institutes of Health Technology Assessment Workshop on the Persian Gulf Experience and Health, held in April 1994, concluded that the complex biological, chemical, physical, and psychological environment of the Southwest Asia theater of operations produced complex adverse health effects in Persian Gulf War veterans and that no single disease entity or syndrome is apparent. Rather, it may be that the illnesses suffered by those veterans result from multiple illnesses with overlapping symptoms and causes that have yet to be defined. “(4) That workshop concluded that the information concerning the range and intensity of exposure to toxic substances by military personnel in the Southwest Asia theater of operations is very limited and that such information was collected only after a considerable delay. “(5) In response to concerns regarding the health-care needs of Persian Gulf War veterans, particularly those who suffer from illnesses or conditions for which no diagnosis has been made, the Congress, in Public Law 102–585 [see Short Title of 1992 Amendments note under [section 101 of this title](./chapter-001-general.md#section-101)], directed the establishment of a Persian Gulf War Veterans Health Registry, authorized health examinations for veterans of the Persian Gulf War, and provided for the National Academy of Sciences to conduct a comprehensive review and assessment of information regarding the health consequences of military service in the Persian Gulf theater of operations and to develop recommendations on avenues for research regarding such health consequences. In Public Law 103–210 [see Tables for classification], the Congress authorized the Department of Veterans Affairs to provide health care services on a priority basis to Persian Gulf War veterans. The Congress also provided in Public Law 103–160 (the National Defense Authorization Act for Fiscal Year 1994) [see Tables for classification] for the establishment of a specialized environmental medical facility for the conduct of research into the possible health effects of exposure to low levels of hazardous chemicals, especially among Persian Gulf veterans, and for research into the possible health effects of battlefield exposure in such veterans to depleted uranium. “(6) In response to concerns about the lack of objective research on Gulf War illnesses, Congress included research provisions in the National Defense Authorization Act for Fiscal Year 1995 [Pub. L. 103–337, see Tables for classification], which was passed by the House and Senate in September 1994. This legislation requires the Secretary of Defense to provide research grants to non-Federal researchers to support three types of studies of the Gulf War syndrome. The first type of study will be an epidemiological study or studies of the incidence, prevalence, and nature of the illness and symptoms and the risk factors associated with symptoms or illnesses. This will include illnesses among spouses and birth defects and illnesses among offspring born before and after the Gulf War. The second group of studies shall be conducted to determine the health consequences of the use of pyridostigmine bromide as a pretreatment antidote enhancer during the Persian Gulf War, alone or in combination with exposure to pesticides, environmental toxins, and other hazardous substances. The final group of studies shall include clinical research and other studies on the causes, possible transmission, and treatment of Gulf War syndrome, and will include studies of veterans and their spouses and children. “(7) Further research and studies must be undertaken to determine the underlying causes of the illnesses suffered by Persian Gulf War veterans and, pending the outcome of such research, veterans who are seriously ill as the result of such illnesses should be given the benefit of the doubt and be provided compensation benefits to offset the impairment in earnings capacities they may be experiencing. “SEC. 103. PURPOSES.“The purposes of this title [see Short Title of 1994 Amendments note under [section 101 of this title](./chapter-001-general.md#section-101)] are—“(1) to provide compensation to Persian Gulf War veterans who suffer disabilities resulting from illnesses that cannot now be diagnosed or defined, and for which other causes cannot be identified; “(2) to require the Secretary of Veterans Affairs to develop at the earliest possible date case assessment strategies and definitions or diagnoses of such illnesses; “(3) to promote greater outreach to Persian Gulf War veterans and their families to inform them of ongoing research activities, as well as the services and benefits to which they are currently entitled; and “(4) to ensure that research activities and accompanying surveys of Persian Gulf War veterans are appropriately funded and undertaken by the Department of Veterans Affairs. “SEC. 104. DEVELOPMENT OF MEDICAL EVALUATION PROTOCOL.“(a) Uniform Medical Evaluation Protocol.—(1) The Secretary of Veterans Affairs shall develop and implement a uniform and comprehensive medical evaluation protocol that will ensure appropriate medical assessment, diagnosis, and treatment of Persian Gulf War veterans who are suffering from illnesses the origins of which are (as of the date of the enactment of this Act [Nov. 2, 1994]) unknown and that may be attributable to service in the Southwest Asia theater of operations during the Persian Gulf War. The protocol shall include an evaluation of complaints relating to illnesses involving the reproductive system. “(2) If such a protocol is not implemented before the end of the 120-day period beginning on the date of the enactment of this Act [Nov. 2, 1994], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such a protocol has not yet been developed. “(3)(A) The Secretary shall ensure that the evaluation under the protocol developed under this section is available at all Department medical centers that have the capability of providing the medical assessment, diagnosis, and treatment required under the protocol. “(B) The Secretary may enter into contracts with non-Department medical facilities for the provision of the evaluation under the protocol. “(C) In the case of a veteran whose residence is distant from a medical center described in subparagraph (A), the Secretary may provide the evaluation through a Department medical center described in that subparagraph and, in such a case, may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of [section 111 of title 38](./chapter-001-general.md#section-111), United States Code. “(4)(A) If the Secretary is unable to diagnose the symptoms or illness of a veteran provided an evaluation, or if the symptoms or illness of a veteran do not respond to treatment provided by the Secretary, the Secretary may use the authority in sections 1703A, 8111, and 8153 of title 38, United States Code, in order to provide for the veteran to receive diagnostic tests or treatment at a non-Department medical facility that may have the capability of diagnosing or treating the symptoms or illness of the veteran. The Secretary may provide the veteran the travel and incidental expenses therefor pursuant to the provisions of [section 111 of title 38](./chapter-001-general.md#section-111), United States Code. “(B) The Secretary shall request from each non-Department medical facility that examines or treats a veteran under this paragraph such information relating to the diagnosis or treatment as the Secretary considers appropriate. “(5) In each year after the implementation of the protocol, the Secretary shall enter into an agreement with the National Academy of Sciences under which agreement appropriate experts shall review the adequacy of the protocol and its implementation by the Department of Veterans Affairs. “(b) Relationship to Other Comprehensive Clinical Evaluation Protocols.—The Secretary, in consultation with the Secretary of Defense, shall ensure that the information collected through the protocol described in this section is collected and maintained in a manner that permits the effective and efficient cross-reference of that information with information collected and maintained through the comprehensive clinical protocols of the Department of Defense for Persian Gulf War veterans. “(c) Case Definitions and Diagnoses.—The Secretary shall develop case definitions or diagnoses for illnesses associated with the service described in subsection (a)(1). The Secretary shall develop such definitions or diagnoses at the earliest possible date. “SEC. 105. OUTREACH TO PERSIAN GULF VETERANS.“(a) In General.—The Secretary of Veterans Affairs shall implement a comprehensive outreach program to inform Persian Gulf War veterans and their families of the medical care and other benefits that may be provided by the Department of Veterans Affairs and the Department of Defense arising from service in the Persian Gulf War. “(b) Newsletter.—(1) The outreach program shall include a newsletter which shall be updated and distributed at least semi-annually and shall be distributed to the veterans listed on the Persian Gulf War Veterans Health Registry. The newsletter shall include summaries of the status and findings of Government sponsored research on illnesses of Persian Gulf War veterans and their families, as well as on benefits available to such individuals through the Department of Veterans Affairs. The newsletter shall be prepared in consultation with veterans service organizations. “(2) The requirement under this subsection for the distribution of the newsletter shall terminate on December 31, 2003. “(c) Toll-Free Number.—The outreach program shall include establishment of a toll-free telephone number to provide Persian Gulf War veterans and their families information on the Persian Gulf War Veterans Health Registry, health care and other benefits provided by the Department of Veterans Affairs, and such other information as the Secretary considers appropriate. Such toll-free telephone number shall be established not later than 90 days after the date of the enactment of this Act [Nov. 2, 1994]. “SEC. 107. EVALUATION OF HEALTH STATUS OF SPOUSES AND CHILDREN OF PERSIAN GULF WAR VETERANS.“(a) Evaluation Program.—Subject to subsection (c), the Secretary of Veterans Affairs shall conduct a program to evaluate the health status of spouses and children of Persian Gulf War veterans. Under the program, the Secretary shall provide for the conduct of diagnostic testing and appropriate medical examinations of any individual—“(1) who is the spouse or child of a veteran who—“(A) is listed in the Persian Gulf War Veterans Registry established under section 702 of Public Law 102–585 [set out in a note under [section 527 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-527)]; and “(B) is suffering from an illness or disorder; “(2) who is apparently suffering from, or may have suffered from, an illness or disorder (including a birth defect, miscarriage, or stillbirth) which cannot be disassociated from the veteran’s service in the Southwest Asia theater of operations; and “(3) who, in the case of a spouse, has granted the Secretary permission to include in the Registry relevant medical data (including a medical history and the results of diagnostic testing and medical examinations) and such other information as the Secretary considers relevant and appropriate with respect to such individual. “(b) Duration of Program.—The program shall be carried out during the period beginning on November 1, 1994, and ending on December 31, 2003. “(c) Funding Limitation.—The amount spent for the program under subsection (a) may not exceed $2,000,000. “(d) Contracting.—The Secretary may provide for the conduct of testing and examinations under subsection (a) through appropriate contract arrangements, including fee arrangements described in [section 1703 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), United States Code. “(e) Standard Protocols and Guidelines.—The Secretary shall seek to ensure uniform development of medical data through the development of standard protocols and guidelines for such testing and examinations. If such protocols and guidelines have not been adopted before the end of the 120-day period beginning on the date of the enactment of this Act [Nov. 2, 1994], the Secretary shall, before the end of such period, submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report as to why such protocols and guidelines have not yet been developed. “(f) Entry of Results in Registry.—The results of diagnostic tests, medical histories, and medical examinations conducted under subsection (a) shall be entered into the Persian Gulf War Veterans Health Registry. “(g) Outreach.—The Secretary shall conduct such outreach activities as the Secretary determines necessary for the purposes of the program. In conducting such outreach activities, the Secretary shall advise that medical treatment is not available under the program. “(h) Use Outside Department of Standard Protocols and Guidelines.—The Secretary shall—“(1) make the standard protocols and guidelines developed under this section available to any entity which requests a copy of such protocols and guidelines; and “(2) enter into the registry the results of any examination of the spouse or child of a veteran who served in the Persian Gulf theater which a licensed physician certifies was conducted using those standard protocols and guidelines. “(i) Report to Congress.—Not later than July 31, 1999, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on activities with respect to the program, including the provision of services under subsection (d). “(j) Definitions.—For purposes of this section, the terms ‘child’ and ‘spouse’ have the meanings given those terms in paragraphs (4) and (31), respectively, of [section 101 of title 38](./chapter-001-general.md#section-101), United States Code. “SEC. 109. SURVEY OF PERSIAN GULF VETERANS.“(a) In General.—The Secretary of Veterans Affairs may carry out a survey of Persian Gulf veterans to gather information on the incidence and nature of health problems occurring in Persian Gulf veterans and their families. “(b) Coordination With Department of Defense.—Any survey under subsection (a) shall be carried out in coordination with the Secretary of Defense. “(c) Persian Gulf Veteran.—For purposes of this section, a Persian Gulf veteran is an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War as defined in [section 101(33) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/33&num=0&edition=prelim), United States Code. “SEC. 110. AUTHORIZATION FOR EPIDEMIOLOGICAL STUDIES.“(a) Study of Health Consequences of Persian Gulf Service.—If the National Academy of Sciences includes in the report required by section 706(b) of the Veterans Health Care Act of 1992 (Public Law 102–585) [set out in a note under [section 527 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-527)] a finding that there is a sound basis for an epidemiological study or studies on the health consequences of service in the Persian Gulf theater of operations during the Persian Gulf War and recommends the conduct of such a study or studies, the Secretary of Veterans Affairs is authorized to carry out such study. “(b) Oversight.—(1) The Secretary shall seek to enter into an agreement with the Medical Follow-Up Agency (MFUA) of the Institute of Medicine of the National Academy of Sciences for (A) the review of proposals to conduct the research referred to in subsection (a), (B) oversight of such research, and (C) review of the research findings. “(2) If the Secretary is unable to enter into an agreement under paragraph (1) with the entity specified in that paragraph, the Secretary shall enter into an agreement described in that paragraph with another appropriate scientific organization which does not have a connection to the Department of Veterans Affairs. In such a case, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, at least 90 days before the date on which the agreement is entered into, notice in writing identifying the organization with which the Secretary intends to enter into the agreement. “(c) Access to Data.—The Secretary shall enter into agreements with the Secretary of Defense and the Secretary of Health and Human Services to make available for the purposes of any study described in subsection (a) all data that the Secretary, in consultation with the National Academy of Sciences and the contractor for the study, considers relevant to the study. “(d) Authorization.—There are authorized to be appropriated to the Department such sums as are necessary for the conduct of studies described in subsection (a).”
 
 [Pub. L. 104–262, title III, § 352(b), Oct. 9, 1996, 110 Stat. 3211, provided that: “Any diagnostic testing and medical examinations undertaken by the Secretary of Veterans Affairs for the purpose of the study required by subsection (a) of such section [section 107(a) of Pub. L. 103–446, set out above] during the period beginning on October 1, 1996, and ending on the date of the enactment of this Act [Oct. 9, 1996] is hereby ratified.” ]
 
@@ -2674,64 +2738,164 @@ William J. Clinton.
 
 (4) For purposes of this section, signs or symptoms that may be a manifestation of an undiagnosed illness include the signs and symptoms listed in [section 1117(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1117/g&num=0&edition=prelim).
 
-**(b)**
-
-(1)
-
-  (A) Whenever the Secretary makes a determination described in subparagraph (B), the Secretary shall prescribe regulations providing that a presumption of service connection is warranted for the illness covered by that determination for purposes of this section.
-
-  (B) A determination referred to in subparagraph (A) is a determination based on sound medical and scientific evidence that a positive association exists between—
-
-    (i) the exposure of humans or animals to a biological, chemical, or other toxic agent, environmental or wartime hazard, or preventive medicine or vaccine known or presumed to be associated with service in the Southwest Asia theater of operations during the Persian Gulf War; and
-
-    (ii) the occurrence of a diagnosed or undiagnosed illness in humans or animals.
-
-(2)
-
-  (A) In making determinations for purposes of paragraph (1), the Secretary shall take into account—
-
-    (i) the reports submitted to the Secretary by the National Academy of Sciences under section 1603 of the Persian Gulf War Veterans Act of 1998; and
-
-    (ii) all other sound medical and scientific information and analyses available to the Secretary.
-
-  (B) In evaluating any report, information, or analysis for purposes of making such determinations, the Secretary shall take into consideration whether the results are statistically significant, are capable of replication, and withstand peer review.
-
-(3) An association between the occurrence of an illness in humans or animals and exposure to an agent, hazard, or medicine or vaccine shall be considered to be positive for purposes of this subsection if the credible evidence for the association is equal to or outweighs the credible evidence against the association.
-
-**(c)**
-
-(1) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 1603 of the Persian Gulf War Veterans Act of 1998, the Secretary shall determine whether or not a presumption of service connection is warranted for each illness, if any, covered by the report.
-
-(2) If the Secretary determines under this subsection that a presumption of service connection is warranted, the Secretary shall, not later than 60 days after making the determination, issue proposed regulations setting forth the Secretary’s determination.
-
-(3)
-
-  (A) If the Secretary determines under this subsection that a presumption of service connection is not warranted, the Secretary shall, not later than 60 days after making the determination, publish in the Federal Register a notice of the determination. The notice shall include an explanation of the scientific basis for the determination.
-
-  (B) If an illness already presumed to be service connected under this section is subject to a determination under subparagraph (A), the Secretary shall, not later than 60 days after publication of the notice under that subparagraph, issue proposed regulations removing the presumption of service connection for the illness.
-
-(4) Not later than 90 days after the date on which the Secretary issues any proposed regulations under this subsection, the Secretary shall issue final regulations. Such regulations shall be effective on the date of issuance.
-
-**(d)** Whenever the presumption of service connection for an illness under this section is removed under subsection (c)—
-
-(1) a veteran who was awarded compensation for the illness on the basis of the presumption before the effective date of the removal of the presumption shall continue to be entitled to receive compensation on that basis; and
-
-(2) a survivor of a veteran who was awarded dependency and indemnity compensation for the death of a veteran resulting from the illness on the basis of the presumption before that date shall continue to be entitled to receive dependency and indemnity compensation on that basis.
-
-**(e)** Subsections (b) through (d) shall cease to be effective on September 30, 2011.
+**(b)** The Secretary shall ensure that any determination made on or after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 regarding a presumption of service connection based on a toxic exposure under this section is made pursuant to subchapter VII of this chapter.
 
 ### Statutory Notes
 
 #### References in Text
-Section 1603 of the Persian Gulf War Veterans Act of 1998, referred to in subsecs. (b)(2)(A)(i) and (c)(1), is section 1603 of Pub. L. 105–277, which is set out in a note under [section 1117 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1117).
+The date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, referred to in subsec. (b), is the date of enactment of Pub. L. 117–168, which was approved Aug. 10, 2022.
 
 #### Amendments
+2022—Subsecs. (b) to (e). Pub. L. 117–168 added subsec. (b) and struck out former subsecs. (b) to (e) which related to determinations of presumptions of service connection between illnesses and exposure to toxic agents during the Persian Gulf War.
+
 2001—Subsec. (a)(4). Pub. L. 107–103, § 202(b)(2), added par. (4).
 
 Subsec. (e). Pub. L. 107–103, § 202(d)(1), substituted “on September 30, 2011” for “10 years after the first day of the fiscal year in which the National Academy of Sciences submits to the Secretary the first report under section 1603 of the Persian Gulf War Veterans Act of 1998”.
 
 #### Effective Date of 2001 Amendment
 Amendment by section 202(b)(2) of Pub. L. 107–103 effective Mar. 1, 2002, see section 202(c) of Pub. L. 107–103, set out as a note under [section 1117 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1117).
+
+
+<a id="section-1119"></a>
+## § 1119. Presumptions of toxic exposure
+**(a) Consideration of Records.—** If a veteran submits to the Secretary a claim for compensation for a service-connected disability under [section 1110 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1110) with evidence of a disability and a toxic exposure that occurred during active military, naval, air, or space service, the Secretary may, in adjudicating such claim, consider—
+
+(1) any record of the veteran in an exposure tracking record system; and
+
+(2) if no record of the veteran in an exposure tracking record system indicates that the veteran was subject to a toxic exposure during active military, naval, air, or space service, the totality of the circumstances of the service of the veteran.
+
+**(b) Presumption of Specific Toxic Exposure for Members Who Served in Certain Locations.—**
+
+(1) The Secretary shall, for purposes of section 1110 and chapter 17 of this title, presume that any covered veteran was exposed to the substances, chemicals, and airborne hazards identified in the list under paragraph (2) during the service of the covered veteran specified in subsection (c)(1), unless there is affirmative evidence to establish that the covered veteran was not exposed to any such substances, chemicals, or hazards in connection with such service.
+
+(2) The Secretary shall—
+
+  (A) establish and maintain a list that contains an identification of one or more such substances, chemicals, and airborne hazards as the Secretary, in collaboration with the Secretary of Defense, may determine appropriate for purposes of this section; and
+
+  (B) determine, using procedures consistent with [section 1172 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1172) and through the conduct of a formal evaluation under [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173), whether to establish an end date for a covered veteran to qualify for presumptions of exposure under this section, if appropriate, but in no case establish an end date earlier than the last day of the period specified in section 101(33) for the Persian Gulf War.
+
+(3) Beginning not later than two years after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, and not less frequently than once every two years thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report identifying any additions or removals to the list under paragraph (2) during the period covered by the report.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “covered veteran” means any veteran who—
+
+  (A) on or after August 2, 1990, performed active military, naval, air, or space service while assigned to a duty station in, including airspace above—
+
+    (i) Bahrain;
+
+    (ii) Iraq;
+
+    (iii) Kuwait;
+
+    (iv) Oman;
+
+    (v) Qatar;
+
+    (vi) Saudi Arabia;
+
+    (vii) Somalia; or
+
+    (viii) United Arab Emirates; or
+
+  (B) on or after September 11, 2001, performed active military, naval, air, or space service while assigned to a duty station in, including airspace above—
+
+    (i) Afghanistan;
+
+    (ii) Djibouti;
+
+    (iii) Egypt;
+
+    (iv) Jordan;
+
+    (v) Lebanon;
+
+    (vi) Syria;
+
+    (vii) Yemen;
+
+    (viii) Uzbekistan; or
+
+    (ix) any other country determined relevant by the Secretary.
+
+(2) The term “exposure tracking record system”—
+
+  (A) means any system, program, or pilot program used by the Secretary of Veterans Affairs or the Secretary of Defense to track how veterans or members of the Armed Forces have been exposed to various occupational or environmental hazards; and
+
+  (B) includes the Individual Longitudinal Exposure Record, or successor system.
+
+(3) The term “toxic exposure risk activity” has the meaning given such term in [section 1710(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1710/e/4&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, referred to in subsec. (b)(3), is the date of enactment of Pub. L. 117–168, which was approved Aug. 10, 2022.
+
+
+<a id="section-1120"></a>
+## § 1120. Presumption of service connection for certain diseases associated with exposure to burn pits and other toxins
+**(a) Presumption of Service Connection.—** For the purposes of [section 1110 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1110), and subject to [section 1113 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1113), a disease specified in subsection (b) becoming manifest in a covered veteran shall be considered to have been incurred in or aggravated during active military, naval, air, or space service, notwithstanding that there is no record of evidence of such disease during the period of such service.
+
+**(b) Diseases Specified.—** The diseases specified in this subsection are the following:
+
+(1) Asthma that was diagnosed after service of the covered veteran as specified in subsection (c).
+
+(2) The following types of cancer:
+
+  (A) Head cancer of any type.
+
+  (B) Neck cancer of any type.
+
+  (C) Respiratory cancer of any type.
+
+  (D) Gastrointestinal cancer of any type.
+
+  (E) Reproductive cancer of any type.
+
+  (F) Lymphoma cancer of any type.
+
+  (G) Lymphomatic cancer of any type.
+
+  (H) Kidney cancer.
+
+  (I) Brain cancer.
+
+  (J) Melanoma.
+
+  (K) Pancreatic cancer.
+
+(3) Chronic bronchitis.
+
+(4) Chronic obstructive pulmonary disease.
+
+(5) Constrictive bronchiolitis or obliterative bronchiolitis.
+
+(6) Emphysema.
+
+(7) Granulomatous disease.
+
+(8) Interstitial lung disease.
+
+(9) Pleuritis.
+
+(10) Pulmonary fibrosis.
+
+(11) Sarcoidosis.
+
+(12) Chronic sinusitis.
+
+(13) Chronic rhinitis.
+
+(14) Glioblastoma.
+
+(15) Any other disease for which the Secretary determines, pursuant to regulations prescribed under subchapter VII that a presumption of service connection is warranted based on a positive association with a substance, chemical, or airborne hazard identified in the list under [section 1119(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1119/b/2&num=0&edition=prelim).
+
+**(c) Covered Veteran Defined.—** In this section, the term “covered veteran” has the meaning given that term in [section 1119(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1119/c&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 117–168, title IV, § 406(d), Aug. 10, 2022, 136 Stat. 1784, provided that: “The amendments made by this section [enacting this section and amending [section 1113 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1113)] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and shall apply as follows: “(1) On the date of the enactment of this Act for claimants for dependency and indemnity compensation under chapter 13 of title 38, United States Code, and veterans whom the Secretary of Veterans Affairs determines are—“(A) terminally ill; “(B) homeless; “(C) under extreme financial hardship; “(D) more than 85 years old; or “(E) capable of demonstrating other sufficient cause. “(2) On the date of the enactment of this Act for everyone not described in paragraph (1), with respect to paragraphs (1), (2)(C), (2)(I), (5), (6), (7), (8), (9), (10), (11), (12), (13), and (14), of [section 1120(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1120/b&num=0&edition=prelim), United States Code, as added by subsection (b). “(3) On October 1, 2023, for everyone not described in paragraph (1), with respect to paragraphs (3) and (4) of section 1120(b) of such title, as so added. “(4) On October 1, 2024, for everyone not described in paragraph (1), with respect to subparagraphs (A), (B), (D), (E), (F), (G), and (K) of section 1120(b)(2) of such title, as so added. “(5) On October 1, 2025, for everyone not described in paragraph (1), with respect to subparagraphs (H) and (J) of section 1120(b)(2) of such title, as so added.”
 
 
 <a id="section-1121"></a>
@@ -3705,3 +3869,346 @@ Another section 1164 was renumbered [section 1166 of this title](./chapter-011-c
 2021—Pub. L. 117–16, § 7(b)(4)(A), made technical correction to directory language of Pub. L. 116–315, § 5501(a)(1), which enacted this section.
 
 Pub. L. 117–16, § 7(a)(1), renumbered [section 1164 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1164), relating to specialized teams to evaluate claims involving military sexual trauma, as this section.
+
+
+<a id="section-1167"></a>
+## § 1167. Outreach pursuant to changes in presumptions of service connection
+**(a) In General.—** Whenever a law, including through a regulation or Federal court decision or settlement, establishes or modifies a presumption of service connection, the Secretary shall—
+
+(1) identify all claims for compensation under this chapter that—
+
+  (A) were submitted to the Secretary;
+
+  (B) were evaluated and denied by the Secretary before the date on which such provision of law went into effect; and
+
+  (C) might have been evaluated differently had the establishment or modification been applicable to the claim; and
+
+(2) pursuant to subsection (b), conduct outreach to the claimants.
+
+**(b) Outreach.—**
+
+(1) The Secretary shall conduct outreach to inform claimants identified under subsection (a) that they may submit a supplemental claim in light of the establishment or modification of a presumption of service connection described in subsection (a).
+
+(2) Outreach under paragraph (1) shall include the following:
+
+  (A) The Secretary shall publish on the internet website of the Department a notice that such veterans may elect to file a supplemental claim.
+
+  (B) The Secretary shall notify, in writing or by electronic means, veterans service organizations of the ability of such veterans to file a supplemental claim.
+
+  (C) The Secretary shall contact each claimant identified under subsection (a) in the same manner that the Department last provided notice of a decision.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 117–168, title II, § 203(b), Aug. 10, 2022, 136 Stat. 1776, provided that: “[Section 1167 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1167), United States Code, as added by subsection (a), shall apply with respect to presumptions of service connection established or modified on or after the date of the enactment of this Act [Aug. 10, 2022], including pursuant to amendments made by this Act [see Short Title of 2022 Amendment set out under [section 101 of this title](./chapter-001-general.md#section-101)].”
+
+#### Rule of Construction
+Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provided that: “Nothing in this section [enacting this section and provisions set out as a note above] shall be construed as— “(1) modifying the obligations of the Department of Veterans Affairs under Federal court decisions or settlements in effect as of the date of the enactment of this Act [Aug. 10, 2022]; or “(2) requiring a retroactively applied effective date of a supplemental claim earlier than the date a presumption of service connection is established or modified.”
+
+
+<a id="section-1168"></a>
+## § 1168. Medical nexus examinations for toxic exposure risk activities
+**(a) Medical Examinations and Medical Opinions.—**
+
+(1) Except as provided in subsection (b), if a veteran submits to the Secretary a claim for compensation for a service-connected disability under [section 1110 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1110) with evidence of a disability and evidence of participation in a toxic exposure risk activity during active military, naval, air, or space service, and such evidence is not sufficient to establish a service connection for the disability, the Secretary shall—
+
+  (A) provide the veteran with a medical examination under [section 5103A(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5103A/d&num=0&edition=prelim); and
+
+  (B) obtain a medical opinion (to be requested by the Secretary in connection with the medical examination under subparagraph (A)) as to whether it is at least as likely as not that there is a nexus between the disability and the toxic exposure risk activity.
+
+(2) When providing the Secretary with a medical opinion under paragraph (1)(B) for a veteran, the health care provider shall consider—
+
+  (A) the total potential exposure through all applicable military deployments of the veteran; and
+
+  (B) the synergistic, combined effect of all toxic exposure risk activities of the veteran.
+
+(3) The requirement under paragraph (2)(B) shall not be construed as requiring a health care provider to consider the synergistic, combined effect of each of the substances, chemicals, and airborne hazards identified in the list under [section 1119(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1119/b/2&num=0&edition=prelim).
+
+**(b) Exception.—** Subsection (a) shall not apply if the Secretary determines there is no indication of an association between the disability claimed by the veteran and the toxic exposure risk activity for which the veteran submitted evidence.
+
+**(c) Toxic Exposure Risk Activity Defined.—** In this section, the term “toxic exposure risk activity” has the meaning given that term in [section 1710(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1710/e/4&num=0&edition=prelim).
+
+
+<a id="section-1171"></a>
+## § 1171. Procedures to determine presumptions of service connection based on toxic exposure; definitions
+**(a) Procedures.—** The Secretary shall determine whether to establish, or to remove, presumptions of service connection based on toxic exposure pursuant to this subchapter, whereby—
+
+(1) under [section 1172 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1172)—
+
+  (A) the Secretary provides—
+
+    (i) public notice regarding what formal evaluations the Secretary plans to conduct; and
+
+    (ii) the public an opportunity to comment on the proposed formal evaluations;
+
+  (B) the working group established under subsection (b) of such section provides—
+
+    (i) advice to the Secretary on toxic-exposed veterans and cases in which veterans who, during active military, naval, air, or space service, may have experienced a toxic exposure or their dependents may have experienced a toxic exposure while the veterans were serving in the active military, naval, air, or space service;
+
+    (ii) recommendations to the Secretary on corrections needed in the Individual Longitudinal Exposure Record to better reflect veterans and dependents described in clause (i); and
+
+    (iii) recommendations to the Secretary regarding which cases of possible toxic exposure should be reviewed;
+
+(2) the Secretary provides for formal evaluations of such recommendations under [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173) and takes into account reports received by the Secretary from the National Academies of Sciences, Engineering, and Medicine under [section 1176 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1176); and
+
+(3) the Secretary issues regulations under [section 1174 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1174).
+
+**(b) Definitions.—** In this subchapter:
+
+(1) The term “illness” includes a disease or other condition affecting the health of an individual, including mental and physical health.
+
+(2) The term “Individual Longitudinal Exposure Record” includes—
+
+  (A) service records;
+
+  (B) any database maintained by the Department of Defense and shared with the Department of Veterans Affairs to serve as a central portal for exposure-related data that compiles, collates, presents, and provides available occupational and environmental exposure information to support the needs of the Department of Defense and the Department of Veterans Affairs; or
+
+  (C) any successor system to a database described in subparagraph (B).
+
+### Statutory Notes
+
+#### Correction of Exposure Records by Members of the Armed Forces and Veterans
+Pub. L. 117–168, title VIII, § 803, Aug. 10, 2022, 136 Stat. 1802, provided that: “(a) In General.—The Secretary of Veterans Affairs shall coordinate with the Secretary of Defense to provide a means for veterans to update their records as necessary to reflect exposures to occupational or environmental hazards by such member or veteran in the Individual Longitudinal Exposure Record. “(b) Evidence.—“(1) Provision of evidence.—To update a record under subsection (a), a veteran shall provide such evidence as the Secretary of Veterans Affairs considers necessary. “(2) Regulations.—The Secretary of Veterans Affairs shall prescribe by regulation the evidence considered necessary under paragraph (1). “(c) Definitions.—In this section:“(1) Individual longitudinal exposure record.—The term ‘Individual Longitudinal Exposure Record’ has the meaning given such term in [section 1171 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1171), United States Code, as added by section 202. “(2) Toxic exposure.—The term ‘toxic exposure’ has the meaning given such term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code, as amended by section 102(b).”
+
+
+<a id="section-1172"></a>
+## § 1172. Annual notice and opportunity for public comment
+**(a) Notice Required.—**
+
+(1)
+
+  (A) Not less frequently than once each year, the Secretary shall publish in the Federal Register notice of the formal evaluations that the Secretary plans to conduct pursuant to [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173).
+
+  (B) Each notice published under subparagraph (A) shall include, for each formal evaluation referred to in the notice, an explanation as to why the military environmental exposures and adverse health outcomes that are the subject of the formal evaluation were chosen by the Secretary for formal evaluation under [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173).
+
+(2)
+
+  (A) With each notice published under paragraph (1), the Secretary shall seek public comment on the military environmental exposures and adverse health outcomes that are the subject of the formal evaluations referred to in the notice.
+
+  (B) The Secretary shall—
+
+    (i) consider all public comment received under subparagraph (A); and
+
+    (ii) publish in the Federal Register a response to the comments received under subparagraph (A).
+
+(3)
+
+  (A) For each notice published under paragraph (1), the Secretary shall hold an open meeting for members of the public to voice their comments in response to the notice.
+
+  (B) To help evaluate presumptions of service connection, the Secretary shall, not less frequently than quarterly, collaborate with, partner with, and give weight to the advice of veterans service organizations and such other stakeholders as the Secretary considers appropriate.
+
+(4) Failure to include a military environmental exposure or adverse health effect in a Federal Register notice published pursuant to subsection (a) shall not preclude the Secretary from initiating a formal evaluation of such exposure or health effect.
+
+**(b) Working Group.—**
+
+(1) The Secretary shall establish a working group within the Department (in this section referred to as the “Working Group”).
+
+(2) The Working Group shall include personnel of the Veterans Health Administration and the Veterans Benefits Administration.
+
+(3) The Secretary shall consult with, and seek the advice of, the Working Group with respect to cases in which—
+
+  (A) a veteran may have, during active military, naval, air, or space service, experienced a toxic exposure; or
+
+  (B) a dependent of a veteran may have experienced a toxic exposure during the active military, naval, air, or space service of the veteran.
+
+**(c) Assessments.—**
+
+(1) The Working Group shall assess cases of the toxic exposure of veterans and their dependents that occurred during active military, naval, air, or space service, including by conducting ongoing surveillance and reviewing such exposure described in scientific literature, media reports, information from veterans, and information from Congress.
+
+(2) The assessments under paragraph (1) shall cover suspected and known toxic exposures occurring during active military, naval, air, or space service, including by identifying and evaluating new and emerging toxic exposures that are not recognized under existing presumptions of service connection.
+
+(3) The Working Group may conduct an assessment under paragraph (1) in response to a comment received under paragraph (2) or (3) of subsection (a).
+
+(4) The Working Group shall, in consultation with the Secretary of Defense, on a periodic basis, assess the Individual Longitudinal Exposure Record to ensure the accuracy of data collected.
+
+**(d) Development of Recommendations.—**
+
+(1) Following an assessment of a case of the toxic exposure of veterans that occurred during active military, naval, air, or space service under subsection (c), or their dependents, the Working Group may develop a recommendation for formal evaluation under [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173) to conduct a review of the health effects related to the case of exposure if the Working Group determines that the research may change the current understanding of the relationship between an exposure to an environmental hazard and adverse health outcomes in humans.
+
+(2) Upon receipt of evidence suggesting that previous findings regarding the periods and locations of exposure covered by an existing presumption of service connection are no longer supported, the Working Group may nominate such evidence for formal evaluation under [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173) to modify the periods and locations.
+
+**(e) Reports by the Working Group.—** Not less frequently than once each year, the Working Group shall submit to the Secretary, the Committee on Veterans’ Affairs of the Senate, and the Committee on Veterans’ Affairs of the House of Representatives, and make publicly available, a report on—
+
+(1) recommendations developed under subsection (d), if any; and
+
+(2) recommendations for such legislative or administrative action as the Working Group considers necessary for the Working Group to be more effective in carrying out the requirements of this section.
+
+**(f) Responses by Secretary.—** In response to each report submitted under subsection (e), the Secretary shall, not later than 30 days after receiving the report, initiate a formal evaluation pursuant to [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173).
+
+
+<a id="section-1173"></a>
+## § 1173. Formal evaluation of recommendations
+**(a) Formal Evaluations.—** The Secretary shall establish a process to conduct a formal evaluation with respect to each recommendation made by the Working Group under [section 1172 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1172).
+
+**(b) Evidence, Data, and Factors.—** The Secretary shall ensure that each formal evaluation under subsection (a) covers the following:
+
+(1) Scientific evidence, based on the review of available scientific literature, including human, toxicological, animal, and methodological studies, and other factors.
+
+(2) Claims data, based on the review of claim rate, grant rate, and service connection prevalence, and other factors.
+
+(3) Other factors the Secretary determines appropriate, such as—
+
+  (A) the level of disability and mortality caused by the health effects related to the case of toxic exposure being evaluated;
+
+  (B) the quantity and quality of the information available and reviewed;
+
+  (C) the feasibility of and period for generating relevant information and evidence;
+
+  (D) whether such health effects are combat- or deployment-related;
+
+  (E) the ubiquity or rarity of the health effects; and
+
+  (F) any time frame during which a health effect must become manifest.
+
+**(c) Conduct of Evaluations.—**
+
+(1) The Secretary shall ensure that each formal evaluation under subsection (a)—
+
+  (A) reviews scientific evidence in a manner that—
+
+    (i) conforms to principles of scientific and data integrity;
+
+    (ii) is free from suppression or distortion of scientific or technological findings, data, information, conclusions, or technical results; and
+
+  (B)
+
+    (i) evaluates the likelihood that a positive association exists between an illness and a toxic exposure while serving in the active military, naval, air, or space service; and
+
+    (ii) assesses the toxic exposures and illnesses and determines whether the evidence supports a finding of a positive association between the toxic exposure and the illness.
+
+(2) In carrying out paragraph (1)(B)(ii), a formal evaluation under subsection (a) shall include reviewing all relevant data to determine the strength of evidence for a positive association based on the following four categories:
+
+  (A) The “sufficient” category, where the evidence is sufficient to conclude that a positive association exists.
+
+  (B) The “equipoise and above” category, where the evidence is sufficient to conclude that a positive association is at least as likely as not, but not sufficient to conclude that a positive association exists.
+
+  (C) The “below equipoise” category, where the evidence is not sufficient to conclude that a positive association is at least as likely as not, or is not sufficient to make a scientifically informed judgment.
+
+  (D) The “against” category, where the evidence suggests the lack of a positive association.
+
+**(d) Recommendation for Establishing a Presumption of Service Connection.—** Not later than 120 days after the date on which a formal evaluation is commenced, the element of the Department that conducts the evaluation shall submit to the Secretary a recommendation with respect to establishing a presumption of service connection for the toxic exposure and illness, or modifying an existing presumption of service connection, covered by the evaluation.
+
+
+<a id="section-1174"></a>
+## § 1174. Regulations regarding presumptions of service connection based on toxic exposure
+**(a) Action Upon Recommendation.—** Not later than 160 days after the date on which the Secretary receives a recommendation to establish or modify a presumption of service connection under [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173)—
+
+(1) if the Secretary determines, in the discretion of the Secretary, that the presumption, or modification, is warranted, the Secretary shall—
+
+  (A) commence issuing regulations in accordance with the provisions of subchapter II of chapter 5 of title 5 (commonly referred to as the Administrative Procedures Act) setting forth the presumption or commence revising regulations to carry out such modification; and
+
+  (B) include in such regulations any time frame during which a health effect must become manifest; or
+
+(2) if the Secretary determines, in the discretion of the Secretary, that the presumption, or modification, is not warranted, the Secretary shall publish in the Federal Register a notice of the determination, including the reasons supporting the determination.
+
+**(b) Removal of Presumption.—**
+
+(1)
+
+  (A) The Secretary may—
+
+    (i) issue a regulation to remove an illness from a presumption of service connection previously established pursuant to a regulation issued under subsection (a); and
+
+    (ii) issue a regulation to remove a presumption of service connection established pursuant to title IV of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 if the Secretary concludes that evidence suggests the lack of a positive association between the disease and the toxic exposure.
+
+  (B) Under subparagraph (A)(ii), the Secretary shall not consider the lack of evidence as sufficient to support a decision for removal of a presumption.
+
+(2) Whenever an illness is removed from regulations pursuant to paragraph (1), or the periods and locations of exposure covered by a presumption of service connection are modified under subsection (a)—
+
+  (A) a veteran who was awarded compensation under chapter 11 of this title for such illness on the basis of the presumption provided under such regulations before the effective date of the removal or modification shall continue to be entitled to receive compensation on that basis;
+
+  (B) a survivor of a veteran who was awarded dependency and indemnity compensation under chapter 13 of this title for the death of a veteran resulting from such illness on the basis of such presumption shall continue to be entitled to receive dependency and indemnity compensation on such basis; and
+
+  (C) no veteran or survivor covered under subparagraph (A) or (B) shall have their compensation reduced solely because of the removal of an illness pursuant to paragraph (1).
+
+### Statutory Notes
+
+#### References in Text
+Title IV of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, referred to in subsec. (b)(1)(A)(ii), is title IV of Pub. L. 117–168, Aug. 10, 2022, 136 Stat. 1780, which enacted [section 1120 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1120), amended sections 1112, 1113, 1116, 1117, and 1710 of this title, and enacted provisions set out as notes under sections 101, 1116, and 1120 of this title. For complete classification of title IV to the Code, see Tables.
+
+
+<a id="section-1175"></a>
+## § 1175. Authority to modify process; congressional oversight
+**(a) In General.—** The Secretary may modify the process under which the working group established under subsection (b) of [section 1172 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1172) conducts assessments under such section, the Secretary conducts formal evaluations under [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173), and issues regulations under [section 1174 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1174) if—
+
+(1) such evaluations cover the evidence, data, and factors required by subsection (b) of such section 1173; and
+
+(2) a period of 180 days has elapsed following the date on which the Secretary submits the notice under subsection (b) regarding the modification.
+
+**(b) Notice.—** If the Secretary proposes to modify the process under which the working group established under subsection (b) of [section 1172 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1172) conducts assessments under such section, the process under which the Secretary conducts formal evaluations under [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173), or issues regulations under [section 1174 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1174), the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a notice of the proposed modifications containing the following:
+
+(1) A description of the proposed modifications.
+
+(2) A description of any exceptions to the requirements of such sections that are proposed because of limited available scientific evidence, and a description of how such evaluations will be conducted.
+
+
+<a id="section-1176"></a>
+## § 1176. Agreement with National Academies of Sciences, Engineering, and Medicine concerning toxic exposures
+**(a) Purpose.—** The purpose of this section is to provide for the National Academies of Sciences, Engineering, and Medicine (in this section referred to as the “Academies”), an independent nonprofit scientific organization with appropriate expertise that is not part of the Federal Government, to review and evaluate the available scientific evidence regarding associations between diseases and toxic exposures.
+
+**(b) Agreement.—**
+
+(1) The Secretary shall seek to enter into a five-year agreement with the Academies to perform the services covered by this section.
+
+(2) The Secretary shall seek to enter into an agreement described in paragraph (1) not later than 60 days after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022.
+
+(3) An agreement under this section may be extended in five-year increments.
+
+**(c) Review of Scientific Evidence.—** Under an agreement between the Secretary and the Academies under this section, the Academies shall review and summarize the scientific evidence, and assess the strength thereof, concerning the association between toxic exposures during active military, naval, air, or space service and each disease suspected to be associated with such exposure in the human population.
+
+**(d) Scientific Determinations Concerning Diseases.—** For each disease reviewed under subsection (c), the Academies shall determine, to the extent that available scientific data permit meaningful determinations—
+
+(1) whether an association exists between toxic exposures and the occurrence of the disease, taking into account the strength of the scientific evidence and the appropriateness of the statistical and epidemiological methods used to detect the association;
+
+(2) the increased risk of the disease among those reporting toxic exposures during active military, naval, air, or space service;
+
+(3) whether there exists a plausible biological mechanism or other evidence of a positive association between the toxic exposure and the occurrence of the disease; and
+
+(4) determine the strength of evidence for a positive association based on categories furnished under [section 1173 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1173).
+
+**(e) Cooperation of Federal Agencies.—** The head of each relevant Federal agency, including the Secretary of Defense, shall cooperate fully with the Academies in performing the services covered by this section.
+
+**(f) Recommendations for Additional Scientific Studies.—**
+
+(1) Under an agreement between the Secretary and the Academies under this section, the Academies shall make any recommendations for additional scientific studies to resolve areas of continuing scientific uncertainty relating to toxic exposures.
+
+(2) In making recommendations under paragraph (1), the Academies shall consider—
+
+  (A) the scientific information that is available at the time of the recommendation;
+
+  (B) the value and relevance of the information that could result from additional studies; and
+
+  (C) the cost and feasibility of carrying out such additional studies.
+
+**(g) Reports.—**
+
+(1)
+
+  (A) Under an agreement between the Secretary and the Academies under this section, not later than one year after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, the Academies shall submit to the Secretary, the Committee on Veterans’ Affairs of the Senate, and the Committee on Veterans’ Affairs of the House of Representatives an initial report on the activities of the Academies under the agreement.
+
+  (B) The report submitted under subparagraph (A) shall include the following:
+
+    (i) The determinations described in subsection (d).
+
+    (ii) A full explanation of the scientific evidence and reasoning that led to such determinations.
+
+    (iii) Any recommendations of the Academies under subsection (f).
+
+(2) Under an agreement between the Secretary and the Academies under this section, not less frequently than once every two years after the date on which the initial report is submitted under paragraph (1)(A), the Academies shall submit to the Secretary, the Committee on Veterans’ Affairs of the Senate, and the Committee on Veterans’ Affairs of the House of Representatives an updated report on the activities of the Academies under the agreement.
+
+**(h) Alternative Contract Scientific Organization.—**
+
+(1) If the Secretary is unable within the time period prescribed in subsection (b)(2) to enter into an agreement with the Academies for the purposes of this section on terms acceptable to the Secretary, the Secretary shall seek to enter into an agreement for the purposes of this section with another appropriate scientific organization that—
+
+  (A) is not part of the Federal Government;
+
+  (B) operates as a not-for-profit entity; and
+
+  (C) has expertise and objectivity comparable to that of the Academies.
+
+(2) If the Secretary enters into an agreement with another organization as described in paragraph (1), any reference in this subchapter to the Academies shall be treated as a reference to the other organization.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, referred to in subsecs. (b)(2) and (g)(1)(A), is the date of enactment of Pub. L. 117–168, which was approved Aug. 10, 2022.

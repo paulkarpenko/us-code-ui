@@ -43,7 +43,7 @@ As used in this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Par. (2). Pub. L. 104–303 made technical amendment to reference in original act which appears in text as reference to [section 467 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section467&num=0&edition=prelim).

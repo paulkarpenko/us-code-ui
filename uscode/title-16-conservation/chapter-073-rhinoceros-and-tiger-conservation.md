@@ -38,7 +38,7 @@ The Congress finds the following:
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Short Title of 2002 Amendment
 Pub. L. 107–112, § 1, Jan. 8, 2002, 115 Stat. 2097, provided that: “This Act [enacting [section 5305c of this title](./chapter-073-rhinoceros-and-tiger-conservation.md#section-5305c) and amending sections 4246, 5303 to 5305, and 5306 of this title] may be cited as the ‘Rhinoceros and Tiger Conservation Reauthorization Act of 2001’.”
@@ -188,7 +188,7 @@ The Secretary may accept and use donations to provide assistance under [section 
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in subsec. (b)(2)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (b)(2)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Prior Provisions
 A prior section 7 of Pub. L. 103–391 was renumbered section 10 and is classified to [section 5306 of this title](./chapter-073-rhinoceros-and-tiger-conservation.md#section-5306).
@@ -233,7 +233,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 9 of Pub. L. 103–391 was renumbered section 10 and is classified to [section 5306 of this title](./chapter-073-rhinoceros-and-tiger-conservation.md#section-5306).

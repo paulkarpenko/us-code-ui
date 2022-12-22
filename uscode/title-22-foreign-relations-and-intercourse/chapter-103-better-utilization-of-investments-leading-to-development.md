@@ -282,7 +282,7 @@ Donald J. Trump.
 #### References in Text
 This chapter, referred to in subsecs. (a), (b)(1)(A), and (c)(1), (3)(A), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (i)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (i)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section is comprised of section 1413 of Pub. L. 115–254. Par. (4) of subsec. (d) of section 1413 of Pub. L. 115–254 amended [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
@@ -708,7 +708,7 @@ Subchapter VI of this chapter, referred to in subsec. (i), was in the original �
 
 This chapter, referred to in subsec. (j), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Authorization for Collections
 Pub. L. 116–94, div. G, title VI, Dec. 20, 2019, 133 Stat. 2841, provided in part: “That in this fiscal year, and each fiscal year thereafter, the Corporation shall collect the amounts described in section 1434(h) of the BUILD Act of 2018 [[22 U.S.C. 9634(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9634/h&num=0&edition=prelim)]”.
@@ -1090,7 +1090,7 @@ Donald J. Trump.
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 This chapter, referred to in subsec. (e)(2), was in the original “this division”, meaning division F of Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3485, which is classified principally to this chapter. For complete classification of division F to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9601) and Tables.
 

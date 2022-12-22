@@ -45,7 +45,7 @@ Not less than ten Agricultural Counselors shall be appointed within three years 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (d), is act Aug. 28, 1954, ch. 1041, 68 Stat. 897, as amended, known as the Agricultural Act of 1954. For complete classification of this Act to the Code, see Short Title note set out under [section 1741 of this title](./chapter-042-agricultural-commodity-set-aside.md#section-1741) and Tables.
+This Act, referred to in subsec. (d), is act Aug. 28, 1954, ch. 1041, 68 Stat. 897, known as the Agricultural Act of 1954. For complete classification of this Act to the Code, see Short Title note set out under [section 1741 of this title](./chapter-042-agricultural-commodity-set-aside.md#section-1741) and Tables.
 
 #### Amendments
 1978—Subsec. (a). Pub. L. 95–501, § 301(4), substituted “this subchapter” for “this chapter”.
@@ -212,7 +212,7 @@ Upon the request of the Secretary of Agriculture, the Secretary of State may use
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Buildings Act, 1926, as amended, referred to in text, is act May 7, 1926, ch. 250, 44 Stat. 403, as amended, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see [section 299 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section299&num=0&edition=prelim) and Tables.
+The Foreign Service Buildings Act, 1926, as amended, referred to in text, is act May 7, 1926, ch. 250, 44 Stat. 403, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see [section 299 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section299&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1765d-1"></a>
@@ -389,7 +389,7 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 #### References in Text
 [Section 961(d) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section961/d&num=0&edition=prelim), referred to in subsec. (c), was in the original “section 571(d) of the Foreign Service Act of 1946, as amended” and was repealed by section 2205(l) of the Foreign Service Act of 1980, Pub. L. 96–465, title II, Oct. 17, 1980, 94 Stat. 2159. The Foreign Service Act of 1980 is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. Section 2401(c) of the 1980 Act ([22 U.S.C. 4172(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4172/c&num=0&edition=prelim)) provides in part that references in law to provisions of the Foreign Service Act of 1946 shall be deemed to include reference to the corresponding provisions of the 1980 Act. For provisions corresponding to section 571(d) of the 1946 Act, see section 503(b)(2) of the 1980 Act ([22 U.S.C. 3983(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3983/b/2&num=0&edition=prelim)).
 
-This Act, referred to in subsec. (c), is act Aug. 28, 1954, ch. 1041, 68 Stat. 897, as amended, known as the Agricultural Act of 1954. For complete classification of this Act to the Code, see Short Title note set out under [section 1741 of this title](./chapter-042-agricultural-commodity-set-aside.md#section-1741) and Tables.
+This Act, referred to in subsec. (c), is act Aug. 28, 1954, ch. 1041, 68 Stat. 897, known as the Agricultural Act of 1954. For complete classification of this Act to the Code, see Short Title note set out under [section 1741 of this title](./chapter-042-agricultural-commodity-set-aside.md#section-1741) and Tables.
 
 #### Transfer of Functions
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President by section 101 of 1970 Reorg. Plan No. 2. Section 102 of 1970 Reorg. Plan No. 2, redesignated Bureau of the Budget as Office of Management and Budget and offices of Director, Deputy Director, and Assistant Directors of Bureau of the Budget as Director, Deputy Director, and Assistant Directors of Office of Management and Budget, respectively. Section 103 of 1970 Reorg. Plan No. 2, transferred records, property, personnel, and funds of Bureau of the Budget to Office of Management and Budget. See Part I of Reorganization Plan 2 of 1970, set out in the Appendix to Title 5, Government Organization and Employees.

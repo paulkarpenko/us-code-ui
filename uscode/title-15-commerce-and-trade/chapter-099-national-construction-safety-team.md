@@ -57,7 +57,7 @@ source: >-
 #### References in Text
 This chapter, referred to in subsecs. (a) and (c)(1)(E), (G), was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, as amended, which is classified generally to chapter 86 (§ 7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7701&num=0&edition=prelim) and Tables.
+The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c)(1)(J), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, which is classified generally to chapter 86 (§ 7701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2002—Subsec. (c)(1)(D). Pub. L. 107–305, which directed the substitution of “[section 7306 of this title](./chapter-099-national-construction-safety-team.md#section-7306);” for “[section 7307 of this title](./chapter-099-national-construction-safety-team.md#section-7307);” in subsec. (c)(1)(d), was executed to subsec. (c)(1)(D), to reflect the probable intent of Congress.
@@ -100,9 +100,11 @@ Each Team shall be composed of individuals selected by the Director and led by a
 
 (4) **With State and local authorities** — A Team shall cooperate with State and local authorities carrying out any activities related to a Team’s investigation.
 
-**(d) Interagency priorities**
+(5) **Civil suits** — Where practicable, a Team shall cooperate with civil litigants without compromising a Team’s investigation or the evidence preservation activities as described in this section.
 
-(1) **In general** — Except as provided in paragraph (2) or (3), a Team investigation shall have priority over any other investigation of any other Federal agency.
+**(d) Investigation priorities**
+
+(1) **In general** — Except as provided in paragraph (2) or (3), a Team investigation shall have priority over any other investigation of any other Federal agency or any civil suit or civil action.
 
 (2) **National Transportation Safety Board** — If the National Transportation Safety Board is conducting an investigation related to an investigation of a Team, the National Transportation Safety Board investigation shall have priority over the Team investigation. Such priority shall not otherwise affect the authority of the Team to continue its investigation under this chapter.
 
@@ -114,6 +116,13 @@ Each Team shall be composed of individuals selected by the Director and led by a
 
 #### References in Text
 This chapter, referred to in subsecs. (a) and (d)(2) to (4), was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7301 of this title](./chapter-099-national-construction-safety-team.md#section-7301) and Tables.
+
+#### Amendments
+2022—Subsec. (c)(5). Pub. L. 117–167, § 10246(h)(1), added par. (5).
+
+Subsec. (d). Pub. L. 117–167, § 10246(h)(2)(A), substituted “Investigation” for “Interagency” in heading.
+
+Subsec. (d)(1). Pub. L. 117–167, § 10246(h)(2)(B), inserted “or any civil suit or civil action” after “Federal agency”.
 
 
 <a id="section-7304"></a>

@@ -1007,7 +1007,7 @@ For definition of “this chapter”, referred to in subsecs. (a) to (h), see Re
 
 The Small Business Act, referred to in subsec. (f), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631) and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (g)(2)(L), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (g)(2)(L), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
 #### Codification
 Section 204 of Pub. L. 96–161, cited as a credit to this section, was repealed by section 529 of Pub. L. 96–221 effective at the close of Mar. 31, 1980. The amendment of this section by that repealed provision, described in the 1979 Amendment note set out under this section, shall continue to apply to any loan made, any deposit made, or any obligation issued in any State during any period when the amendment was in effect in such State.
@@ -1208,7 +1208,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 #### References in Text
 For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661).
 
-The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
 #### Amendments
 2000—Subsec. (c)(4). Pub. L. 106–554 substituted “1 year” for “five years”.

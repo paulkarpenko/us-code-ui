@@ -2,7 +2,7 @@
 title: 31
 chapter: '63'
 heading: USING PROCUREMENT CONTRACTS AND GRANT AND COOPERATIVE AGREEMENTS
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31&num=0&edition=prelim
 ---
@@ -203,3 +203,33 @@ This chapter does not require an executive agency to establish only one relation
 | 6308 | 41:509. | Feb. 3, 1978, Pub. L. 95–224, § 10(c), 92 Stat. 6. |
 
 The word “financed” is substituted for “funded”, and the word “amounts” is substituted for “funds”, for consistency in the revised title.
+
+
+<a id="section-6309"></a>
+## § 6309. Non-propagation of core-based statistical area delineations
+**(a) In General.—** Beginning on the date of enactment of the MAPS Act of 2021, and notwithstanding any other provision of law, any change to the standards of core-based statistical area delineations pursuant to [section 3504(e) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504/e&num=0&edition=prelim)—
+
+(1) shall not propagate automatically for any non-statistical use by any domestic assistance program, including any such use as required through—
+
+  (A) statutory reference to any core-based statistical area delineation; or
+
+  (B) administrative or regulatory reference to any core-based statistical area delineation; and
+
+(2) shall propagate for any non-statistical use by any domestic assistance program only—
+
+  (A) if a relevant agency determines that such a propagation—
+
+    (i) supports the purposes of the program; and
+
+    (ii) is in the public interest; and
+
+  (B) through affirmative adoption through notice-and-comment rulemaking pursuant to [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+
+**(b) Definitions.—** The definitions in section 4 of the MAPS Act of 2021 shall apply to this section.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the MAPS Act of 2021, referred to in subsec. (a), is the date of enactment of Pub. L. 117–219, which was approved Dec. 5, 2022.
+
+Section 4 of the MAPS Act of 2021, referred to in subsec. (b), is section 4 of Pub. L. 117–219, which is set out as a note under [section 6102 of this title](./chapter-061-program-information.md#section-6102).

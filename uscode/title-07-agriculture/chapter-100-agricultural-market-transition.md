@@ -79,7 +79,7 @@ In this chapter:
 #### References in Text
 For definition of “this chapter”, referred to in text, see note set out under [section 7201 of this title](./chapter-100-agricultural-market-transition.md#section-7201).
 
-The Agricultural Act of 1949, referred to in pars. (1), (2), and (4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in pars. (1), (2), and (4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 Section 505 of the Agricultural Act of 1949 ([7 U.S.C. 1465](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1465&num=0&edition=prelim)), referred to in par. (9), was omitted from the Code.
 
@@ -127,7 +127,7 @@ Section 505 of the Agricultural Act of 1949 ([7 U.S.C. 1465](https://uscode.hous
 ### Statutory Notes
 
 #### References in Text
-The Food Security Act of 1985, referred to in subsec. (a)(1), (2), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food Security Act of 1985, referred to in subsec. (a)(1), (2), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 This subchapter, referred to in subsec. (c), was in the original “this subtitle”, meaning subtitle B (§§ 111–118) of title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 898, which enacted this subchapter and amended sections 1308, 1308–1, and 1308–3 of this title. For complete classification of subtitle B to the Code, see Tables.
 
@@ -356,7 +356,7 @@ Pub. L. 105–86, title VII, § 734, Nov. 18, 1997, 111 Stat. 2110.
 ### Statutory Notes
 
 #### References in Text
-The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food Security Act of 1985, referred to in subsec. (c), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 
 <a id="section-7232"></a>
@@ -925,7 +925,7 @@ The Secretary of Agriculture shall, consistent with the obligations of the Unite
 ### Statutory Notes
 
 #### References in Text
-The Export Trading Company Act of 1982, referred to in text, is title I of Pub. L. 97–290, Oct. 8, 1982, 96 Stat. 1233, as amended, which is classified generally to subchapter I (§ 4001 et seq.) of chapter 66 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4001&num=0&edition=prelim) and Tables.
+The Export Trading Company Act of 1982, referred to in text, is title I of Pub. L. 97–290, Oct. 8, 1982, 96 Stat. 1233, which is classified generally to subchapter I (§ 4001 et seq.) of chapter 66 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4001&num=0&edition=prelim) and Tables.
 
 
 <a id="section-7258"></a>
@@ -943,7 +943,7 @@ The Export Trading Company Act of 1982, referred to in text, is title I of Pub. 
 ### Statutory Notes
 
 #### References in Text
-The Export Trading Company Act of 1982, referred to in subsec. (a)(1), is title I of Pub. L. 97–290, Oct. 8, 1982, 96 Stat. 1233, as amended, which is classified generally to subchapter I (§ 4001 et seq.) of chapter 66 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4001&num=0&edition=prelim) and Tables.
+The Export Trading Company Act of 1982, referred to in subsec. (a)(1), is title I of Pub. L. 97–290, Oct. 8, 1982, 96 Stat. 1233, which is classified generally to subchapter I (§ 4001 et seq.) of chapter 66 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4001&num=0&edition=prelim) and Tables.
 
 
 <a id="section-7259"></a>
@@ -1271,7 +1271,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 
 <a id="section-7286"></a>
@@ -1434,11 +1434,11 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Parts II through V and VII of subtitle B of title III of the Act are classified generally to subparts II (§ 1321 et seq.), III (§ 1331 et seq.), IV (§ 1341 et seq.), V (§ 1351, which was omitted from the Code), and VII (§ 1359aa et seq.), respectively, of part B of subchapter II of chapter 35 of this title. Part I of subtitle C of title III of the Act is classified generally to subpart I (§ 1361 et seq.) of part C of subchapter II of chapter 35 of this title. Subtitle D of title III of the Act is classified generally to part D (§ 1379a et seq.) of subchapter II of chapter 35 of this title. Title IV of the Act was classified generally to subchapter III (§ 1401 et seq.) of chapter 35 of this title, and was omitted from the Code. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(1), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. Parts II through V and VII of subtitle B of title III of the Act are classified generally to subparts II (§ 1321 et seq.), III (§ 1331 et seq.), IV (§ 1341 et seq.), V (§ 1351, which was omitted from the Code), and VII (§ 1359aa et seq.), respectively, of part B of subchapter II of chapter 35 of this title. Part I of subtitle C of title III of the Act is classified generally to subpart I (§ 1361 et seq.) of part C of subchapter II of chapter 35 of this title. Subtitle D of title III of the Act is classified generally to part D (§ 1379a et seq.) of subchapter II of chapter 35 of this title. Title IV of the Act was classified generally to subchapter III (§ 1401 et seq.) of chapter 35 of this title, and was omitted from the Code. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 Sections 1358, 1358a, and 1359 of this title, referred to in subsec. (a)(1)(B)–(D), were repealed by Pub. L. 107–171, title I, § 1309(a)(1), May 13, 2002, 116 Stat. 179.
 
-The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§ 1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§ 1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title III of the Act is classified generally to sections 1447 to 1449 of this title. Title IV of the Act is classified principally to subchapter I (§ 1421 et seq.) of chapter 35A of this title. Title V of the Act, which was classified generally to subchapter IV (§ 1461 et seq.) of chapter 35A of this title, was omitted from the Code. Title VI of the Act is classified generally to subchapter V (§ 1471 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Codification
 Section is comprised of section 171 of Pub. L. 104–127. Subsec. (a)(2) of section 171 of Pub. L. 104–127 amended [section 1373 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1373) and enacted provisions set out as a note under [section 1373 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1373). Subsec. (b)(3) of section 171 of Pub. L. 104–127 amended [section 1441 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1441).
@@ -1609,7 +1609,7 @@ The Commission shall terminate on submission of the final report required by [se
 #### References in Text
 For definition of “this chapter”, referred to in subsecs. (a) and (c)(1), see note set out under [section 7201 of this title](./chapter-100-agricultural-market-transition.md#section-7201).
 
-The Commodity Exchange Act, referred to in subsec. (f), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
+The Commodity Exchange Act, referred to in subsec. (f), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
 
 #### Codification
 Section is comprised of section 191 of Pub. L. 104–127. Subsec. (i) of section 191 of Pub. L. 104–127 repealed provisions set out as a note under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421).
@@ -1898,7 +1898,7 @@ The Federal Crop Insurance Act, referred to in subsec. (a)(1)(C)(i), is subtitle
 
 The date of enactment of this paragraph, referred to in subsec. (a)(4)(A)(ii), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§ 1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle C of the Act is classified generally to subchapter III (§ 1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 [Section 1308–3a of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308-3a), referred to in subsec. (i)(4), was amended by Pub. L. 113–79, title I, § 1605(a)–(e), Feb. 7, 2014, 128 Stat. 707, 708, and, as so amended, provisions which formerly appeared in subsec. (b)(1)(A) of section 1308–3a were struck out. See subsec. (b)(1) of [section 1308–3a of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1308-3a).
 

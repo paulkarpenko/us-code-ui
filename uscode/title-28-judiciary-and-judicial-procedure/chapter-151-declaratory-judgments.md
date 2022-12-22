@@ -62,7 +62,7 @@ Subsec. (b). Pub. L. 100–670 inserted “or 512” after “505”.
 1949—Act May 24, 1949, corrected spelling of “or” in second sentence.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force, but not applicable to certain determinations under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim), Customs Duties, or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim).
+Amendment by Pub. L. 116–113 effective on the date on which the USMCA enters into force (July 1, 2020), but not applicable to certain determinations under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim), Customs Duties, or binational panel reviews under NAFTA, see section 432 of Pub. L. 116–113, set out as a note under [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim).
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–182 effective on the date the North American Free Trade Agreement enters into force with respect to the United States [Jan. 1, 1994], but not applicable to any final determination described in section 1516a(a)(1)(B) or (2)(B)(i), (ii), or (iii) of Title 19, Customs Duties, notice of which is published in the Federal Register before such date, or to a determination described in [section 1516a(a)(2)(B)(vi) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a/a/2/B/vi&num=0&edition=prelim), notice of which is received by the Government of Canada or Mexico before such date, or to any binational panel review under the United States-Canada Free-Trade Agreement, or to any extraordinary challenge arising out of any such review that was commenced before such date, see section 416 of Pub. L. 103–182, formerly set out as an Effective Date note under former [section 3431 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3431&num=0&edition=prelim).
@@ -78,6 +78,9 @@ Amendment by Pub. L. 94–455 applicable with respect to pleadings filed with th
 
 #### Effective Date of 1958 Amendment
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under [section 81A of this title](./chapter-005-district-courts.md#section-81a) and preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
+
+#### Effect of Termination of USMCA Country Status
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4601&num=0&edition=prelim), Customs Duties.
 
 #### Amount in Controversy
 Jurisdictional amount in diversity of citizenship cases, see [section 1332 of this title](./chapter-085-district-courts-jurisdiction.md#section-1332).

@@ -590,7 +590,7 @@ subject to approval by the Government official responsible for appointment to hi
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in subsec. (i)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 10 of title I of the Act is classified generally to subchapter X (§ 4101 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (i)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 10 of title I of the Act is classified generally to subchapter X (§ 4101 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 205, act June 25, 1948, ch. 645, 62 Stat. 692, related to the acceptance by a Member of Congress of anything of value to influence him, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
@@ -1194,11 +1194,11 @@ For provisions relating to treatment of agencies within the Executive Office of 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Ethics in Government Act of 1978, referred to in subsecs. (b)(3) and (d)(1), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsecs. (b)(3) and (d)(1), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (b)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (b)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 208, act June 25, 1948, ch. 645, 62 Stat. 693, related to the acceptance of solicitation of a bribe by a judicial officer, prior to the general amendment of this chapter by Pub. L. 87–849 and is substantially covered by revised section 201.
@@ -1603,7 +1603,7 @@ Ronald Reagan.
 ### Statutory Notes
 
 #### References in Text
-The Foreign Agents Registration Act of 1938, as amended, referred to in subsec. (a), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. Section 6 of the Foreign Agents Registration Act of 1938 is classified to [section 616 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section616&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 611 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611&num=0&edition=prelim) and Tables.
+The Foreign Agents Registration Act of 1938, as amended, referred to in subsec. (a), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of Title 22, Foreign Relations and Intercourse. Section 6 of the Foreign Agents Registration Act of 1938 is classified to [section 616 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section616&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 611 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section611&num=0&edition=prelim) and Tables.
 
 The Lobbying Disclosure Act of 1995, referred to in subsec. (a), is Pub. L. 104–65, Dec. 19, 1995, 109 Stat. 691, which is classified principally to chapter 26 (§ 1601 et seq.) of Title 2, The Congress. Section 3(6) of the Act is classified to [section 1602(6) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1602/6&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1601&num=0&edition=prelim) and Tables.
 

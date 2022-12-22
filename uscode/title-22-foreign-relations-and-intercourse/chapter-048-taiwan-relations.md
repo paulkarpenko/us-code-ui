@@ -172,7 +172,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (b)(5), is act Aug. 1, 194
 
 The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (b)(5), is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201) and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (b)(6), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(6), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set out as a note under [section 3301 of this title](./chapter-048-taiwan-relations.md#section-3301).
@@ -247,7 +247,7 @@ Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set o
 ### Statutory Notes
 
 #### References in Text
-The Federal Insurance Contributions Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§ 3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3128 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3128&num=0&edition=prelim) and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3128 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3128&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1986—Pub. L. 99–514 substituted in subsecs. (a) and (b) “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
@@ -313,7 +313,7 @@ Section effective as of January 1, 1979, see section 18 of Pub. L. 96–8, set o
 
 Chapter 21 (§ 3101 et seq.) of title 26, referred to in subsec. (d)(2), is known as the Federal Insurance Contributions Act.
 
-The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1986—Subsec. (d)(1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.

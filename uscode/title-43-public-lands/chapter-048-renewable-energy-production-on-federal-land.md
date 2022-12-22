@@ -2,7 +2,7 @@
 title: 43
 chapter: '48'
 heading: RENEWABLE ENERGY PRODUCTION ON FEDERAL LAND
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -178,3 +178,53 @@ This chapter, referred to in text, was in the original “this subtitle”, mean
 The Federal Land Policy and Management Act of 1976, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701) and Tables.
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in text, is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim) and Tables.
+
+
+<a id="section-3006"></a>
+## § 3006. Ensuring energy security
+**(a) Definitions** In this section:
+
+(1) **Federal land** — The term “Federal land” means public lands (as defined in [section 1702 of this title](./chapter-035-federal-land-policy-and-management.md#section-1702)).
+
+(2) **Offshore lease sale** — The term “offshore lease sale” means an oil and gas lease sale—
+
+  (A) that is held by the Secretary in accordance with the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](./chapter-029-submerged-lands.md#section-1331) et seq.); and
+
+  (B) that, if any acceptable bids have been received for any tract offered in the lease sale, results in the issuance of a lease.
+
+(3) **Onshore lease sale** — The term “onshore lease sale” means a quarterly oil and gas lease sale—
+
+  (A) that is held by the Secretary in accordance with [section 226 of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section226&num=0&edition=prelim); and
+
+  (B) that, if any acceptable bids have been received for any parcel offered in the lease sale, results in the issuance of a lease.
+
+**(b) Limitation on issuance of certain leases or rights-of-way** During the 10-year period beginning on August 16, 2022—
+
+(1) the Secretary may not issue a right-of-way for wind or solar energy development on Federal land unless—
+
+  (A) an onshore lease sale has been held during the 120-day period ending on the date of the issuance of the right-of-way for wind or solar energy development; and
+
+  (B) the sum total of acres offered for lease in onshore lease sales during the 1-year period ending on the date of the issuance of the right-of-way for wind or solar energy development is not less than the lesser of—
+
+    (i) 2,000,000 acres; and
+
+    (ii) 50 percent of the acreage for which expressions of interest have been submitted for lease sales during that period; and
+
+(2) the Secretary may not issue a lease for offshore wind development under [section 1337(p)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1337/p/1/C&num=0&edition=prelim) unless—
+
+  (A) an offshore lease sale has been held during the 1-year period ending on the date of the issuance of the lease for offshore wind development; and
+
+  (B) the sum total of acres offered for lease in offshore lease sales during the 1-year period ending on the date of the issuance of the lease for offshore wind development is not less than 60,000,000 acres.
+
+**(c) Savings** Except as expressly provided in paragraphs (1) and (2) of subsection (b), nothing in this section supersedes, amends, or modifies existing law.
+
+### Statutory Notes
+
+#### References in Text
+The Outer Continental Shelf Lands Act, referred to in subsec. (a)(2)(A), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-029-submerged-lands.md#section-1301) and Tables.
+
+#### Codification
+Section was enacted as part of Pub. L. 117–169, and not as part of subtitle B of title III of div. Z of Pub. L. 116–260 which comprises this chapter.
+
+#### Definitions
+Pub. L. 117–169, title V, § 50211, Aug. 16, 2022, 136 Stat. 2052, provided that: “In this subtitle [enacting this section, [section 1356c of this title](./chapter-029-submerged-lands.md#section-1356c), and [section 1727 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1727&num=0&edition=prelim), Mineral Lands and Mining, and amending sections 1331, 1337, and 1344 of this title and sections 188 and 226 of Title 30]: “(1) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(2) United states insular areas.—The term ‘United States Insular Areas’ means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, the Commonwealth of Puerto Rico, and the United States Virgin Islands.”

@@ -2,7 +2,7 @@
 title: 42
 chapter: '162'
 heading: ENERGY INFRASTRUCTURE
-section_count: 42
+section_count: 48
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -16,13 +16,13 @@ source: >-
 
   (B) is authorized under—
 
-    (i) this chapter; or
+    (i) this division; or
 
     (ii) the Energy Act of 2020 (Public Law 116–260; 134 Stat. 1182).11 See References in Text note below.
 
 (2) **Program** — The term “program” means the program established under subsection (b).
 
-**(b) Establishment** The Secretary, in coordination with the heads of relevant program offices of the Department, shall establish a program to conduct project management and oversight of covered projects, including by—
+**(b) Establishment** The Secretary, in coordination with the heads of relevant program offices of the Department, including the Office of Technology Transitions, the Loan Program Office, and all applied program offices, shall establish a program to conduct project management and oversight of covered projects, including by—
 
 (1) conducting evaluations of proposals for covered projects before the selection of a covered project for funding;
 
@@ -48,17 +48,21 @@ source: >-
 
 (6) assess the lessons learned in overseeing covered projects and implement improvements in the process of evaluating and overseeing covered projects.
 
-**(d) Employees** To carry out the program, the Secretary may hire appropriate personnel to perform the duties of the program.
+**(d) Employees** To carry out the program, the Secretary may hire appropriate personnel, including by using the authorities in [section 19321 of this title](./chapter-163-research-and-development-competition-and-innovation.md#section-19321), to perform the duties of the program.
 
-**(e) Coordination** In carrying out the program, the head of the program shall coordinate with—
+**(e) Additional authority** The Secretary may solicit, select, and manage covered projects directly through the program.
+
+**(f) Project termination** Should an ongoing covered project receive an unfavorable review under subsection (c)(5), the Secretary or their designee may cease funding the covered project and reallocate the remaining funds to new or existing covered projects carried out by that program office.
+
+**(g) Coordination** In carrying out the program, the head of the program shall coordinate with—
 
 (1) project management and acquisition management entities with the Department, including the Office of Project Management; and
 
 (2) professional organizations in project management, construction, cost estimation, and other relevant fields.
 
-**(f) Reports**
+**(h) Reports**
 
-(1) **Report by Secretary** — The Secretary shall include in each updated technology transfer execution plan submitted under subsection (h)(2) of [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391) information on the implementation of and progress made under the program, including, for the year covered by the report—
+(1) **Report by Secretary** — In accordance with [section 16391a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391a), the Secretary shall include in each updated technology transfer execution plan submitted under subsection (h)(2) of [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391) information on the implementation of and progress made under the program, including, for the year covered by the report—
 
   (A) the covered projects under the purview of the program; and
 
@@ -74,34 +78,47 @@ source: >-
 
     (ii) the structure of the program, for the purpose of better carrying out the program.
 
-**(g) Omitted**
+**(i) Omitted**
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a)(1)(B)(i), was in the original “this division”, meaning div. D of Pub. L. 117–58, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D of Pub. L. 117–58 to the Code, see Tables.
+This division, referred to in subsec. (a)(1)(B)(i), is div. D of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 923, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D to the Code, see Tables.
 
 The Energy Act of 2020, referred to in subsec. (a)(1)(B)(ii), is div. Z of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2418. For complete classification of div. Z to the Code, see Short Title of 2020 Amendment note under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001) and Tables.
 
 #### Codification
 Section is comprised of section 41201 of div. D of Pub. L. 117–58. Subsec. (g) of section 41201 of div. D of Pub. L. 117–58 amended [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391).
 
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–167, § 10723(1), inserted “including the Office of Technology Transitions, the Loan Program Office, and all applied program offices,” after “Department,” in introductory provisions.
+
+Subsec. (d). Pub. L. 117–167, § 10723(2), inserted “, including by using the authorities in [section 19321 of this title](./chapter-163-research-and-development-competition-and-innovation.md#section-19321),” after “personnel”.
+
+Subsecs. (e) to (i). Pub. L. 117–167, § 10723(3)–(5), added subsecs. (e) and (f), redesignated former subsecs. (e) to (g) as (g) to (i), respectively, and in introductory provisions of subsec. (h)(1), as redesignated, substituted “In accordance with [section 16391a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391a), the Secretary” for “The Secretary”.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18711"></a>
 ## § 18711. Definitions
 
-In this chapter:
+In this division:
 
 (1) **Department** — The term “Department” means the Department of Energy.
 
-(2) **Indian tribe** — The term “Indian Tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+(2) **Indian Tribe** — The term “Indian Tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 (3) **Secretary** — The term “Secretary” means the Secretary of Energy.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this division”, meaning div. D of Pub. L. 117–58, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D of Pub. L. 117–58 to the Code, see Tables.
+This division, referred to in text, is div. D of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 923, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D to the Code, see Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18712"></a>
@@ -250,7 +267,7 @@ This chapter, referred to in text, was in the original “this division”, mean
 
   (J) advanced modeling technologies;
 
-  (K) hardening of power lines, facilities, substations, of other systems; and
+  (K) hardening of power lines, facilities, substations, of 11 So in original. other systems; and
 
   (L) the replacement of old overhead conductors and underground cables.
 
@@ -313,6 +330,11 @@ This chapter, referred to in text, was in the original “this division”, mean
   (C) the extent to which the ability of the power grid to withstand disruptive events has increased.
 
 **(j) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out the program $5,000,000,000 for the period of fiscal years 2022 through 2026.
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18713"></a>
@@ -423,9 +445,14 @@ This chapter, referred to in text, was in the original “this division”, mean
 
   (C) *Report* — Not later than 180 days after November 15, 2021, the Secretary shall submit to Congress a report describing the results of the assessment carried out under subparagraph (A).
 
+### Statutory Notes
 
-<a id="section-18721"></a>
-## § 18721. Transmission facilitation program
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
+
+<a id="section-18715"></a>
+## § 18715. Transmission facilitation program
 **(a) Definitions** In this section:
 
 (1) **Capacity contract** — The term “capacity contract” means a contract entered into by the Secretary and an eligible entity under subsection (e)(1)(A) for the right to the use of the transmission capacity of an eligible project.
@@ -616,7 +643,7 @@ This chapter, referred to in text, was in the original “this division”, mean
 
 (4) **Effect on ancillary services authority and obligations** — Nothing in this section confers on the Secretary or any Federal power marketing administration any additional authority or obligation to provide ancillary services to users of transmission facilities constructed or upgraded under this section.
 
-(5) **Effect on western area power administration projects** — Nothing in this section affects—
+(5) **Effect on Western Area Power Administration projects** — Nothing in this section affects—
 
   (A) any pending project application before the Western Area Power Administration under [section 16421a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16421a); or
 
@@ -647,14 +674,151 @@ This chapter, referred to in text, was in the original “this division”, mean
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsecs. (f)(4)(D), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (f)(4)(D), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
+
+<a id="section-18715a"></a>
+## § 18715a. Transmission facility financing
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $2,000,000,000, to remain available through September 30, 2030, to carry out this section: Provided, That the Secretary shall not enter into any loan agreement pursuant to this section that could result in disbursements after September 30, 2031.
+
+**(b) Use of funds** The Secretary shall use the amounts made available by subsection (a) to carry out a program to pay the costs of direct loans to non-Federal borrowers, subject to the limitations that apply to loan guarantees under section 50141(d) and under such terms and conditions as the Secretary determines to be appropriate, for the construction or modification of electric transmission facilities designated by the Secretary to be necessary in the national interest under [section 824p(a) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824p/a&num=0&edition=prelim).
+
+**(c) Loans** A direct loan provided under this section—
+
+(1) shall have a term that does not exceed the lesser of—
+
+  (A) 90 percent of the projected useful life, in years, of the eligible transmission facility; and
+
+  (B) 30 years;
+
+(2) shall not exceed 80 percent of the project costs; and
+
+(3) shall, on first issuance, be subject to the condition that the direct loan is not subordinate to other financing.
+
+**(d) Interest rates** A direct loan provided under this section shall bear interest at a rate determined by the Secretary, taking into consideration market yields on outstanding marketable obligations of the United States of comparable maturities as of the date on which the direct loan is made.
+
+**(e) Definition of direct loan** In this section, the term “direct loan” has the meaning given the term in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+Section 50141(d), referred to in subsec. (b), is section 50141(d) of Pub. L. 117–169, title V, Aug. 16, 2022, 136 Stat. 2043, which is not classified to the Code.
+
+#### Codification
+Section was enacted as part of Pub. L. 117–169, and not as part of div. D of Pub. L. 117–58, which enacted this chapter.
+
+#### Definition of “Secretary”
+“Secretary” means the Secretary of Energy, see section 50111 of Pub. L. 117–169, set out as a note under [section 17113b of this title](./chapter-152-energy-independence-and-security.md#section-17113b).
+
+
+<a id="section-18715b"></a>
+## § 18715b. Grants to facilitate the siting of interstate electricity transmission lines
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $760,000,000, to remain available through September 30, 2029, for making grants in accordance with this section and for administrative expenses associated with carrying out this section.
+
+**(b) Use of funds**
+
+(1) **In general** — The Secretary may make a grant under this section to a siting authority for, with respect to a covered transmission project, any of the following activities:
+
+  (A) Studies and analyses of the impacts of the covered transmission project.
+
+  (B) Examination of up to 3 alternate siting corridors within which the covered transmission project feasibly could be sited.
+
+  (C) Participation by the siting authority in regulatory proceedings or negotiations in another jurisdiction, or under the auspices of a Transmission Organization (as defined in [section 796 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796&num=0&edition=prelim)) that is also considering the siting or permitting of the covered transmission project.
+
+  (D) Participation by the siting authority in regulatory proceedings at the Federal Energy Regulatory Commission or a State regulatory commission for determining applicable rates and cost allocation for the covered transmission project.
+
+  (E) Other measures and actions that may improve the chances of, and shorten the time required for, approval by the siting authority of the application relating to the siting or permitting of the covered transmission project, as the Secretary determines appropriate.
+
+(2) **Economic development** — The Secretary may make a grant under this section to a siting authority, or other State, local, or Tribal governmental entity, for economic development activities for communities that may be affected by the construction and operation of a covered transmission project, provided that the Secretary shall not enter into any grant agreement pursuant to this section that could result in any outlays after September 30, 2031.
+
+**(c) Conditions**
+
+(1) **Final decision on application** — In order to receive a grant for an activity described in subsection (b)(1), the Secretary shall require a siting authority to agree, in writing, to reach a final decision on the application relating to the siting or permitting of the applicable covered transmission project not later than 2 years after the date on which such grant is provided, unless the Secretary authorizes an extension for good cause.
+
+(2) **Federal share** — The Federal share of the cost of an activity described in subparagraph (C) or (D) of subsection (b)(1) shall not exceed 50 percent.
+
+(3) **Economic development** — The Secretary may only disburse grant funds for economic development activities under subsection (b)(2)—
+
+  (A) to a siting authority upon approval by the siting authority of the applicable covered transmission project; and
+
+  (B) to any other State, local, or Tribal governmental entity upon commencement of construction of the applicable covered transmission project in the area under the jurisdiction of the entity.
+
+**(d) Returning funds** If a siting authority that receives a grant for an activity described in subsection (b)(1) fails to use all grant funds within 2 years of receipt, the siting authority shall return to the Secretary any such unused funds.
+
+**(e) Definitions** In this section:
+
+(1) **Covered transmission project** — The term “covered transmission project” means a high-voltage interstate or offshore electricity transmission line—
+
+  (A) that is proposed to be constructed and to operate—
+
+    (i) at a minimum of 275 kilovolts of either alternating-current or direct-current electric energy by an entity; or
+
+    (ii) offshore and at a minimum of 200 kilovolts of either alternating-current or direct-current electric energy by an entity; and
+
+  (B) for which such entity has applied, or informed a siting authority of such entity’s intent to apply, for regulatory approval.
+
+(2) **Siting authority** — The term “siting authority” means a State, local, or Tribal governmental entity with authority to make a final determination regarding the siting, permitting, or regulatory status of a covered transmission project that is proposed to be located in an area under the jurisdiction of the entity.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub. L. 117–169, and not as part of div. D of Pub. L. 117–58, which enacted this chapter.
+
+#### Definitions
+For definitions of “Secretary” and “State” as used in this section, see section 50111 of Pub. L. 117–169, set out as a note under [section 17113b of this title](./chapter-152-energy-independence-and-security.md#section-17113b).
+
+
+<a id="section-18721"></a>
+## § 18721. Interregional and offshore wind electricity transmission planning, modeling, and analysis
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $100,000,000, to remain available through September 30, 2031, to carry out this section.
+
+**(b) Use of funds** The Secretary shall use amounts made available under subsection (a)—
+
+(1) to pay expenses associated with convening relevant stakeholders to address the development of interregional electricity transmission and transmission of electricity that is generated by offshore wind; and
+
+(2) to conduct planning, modeling, and analysis regarding interregional electricity transmission and transmission of electricity that is generated by offshore wind, taking into account the local, regional, and national economic, reliability, resilience, security, public policy, and environmental benefits of interregional electricity transmission and transmission of electricity that is generated by offshore wind, including planning, modeling, and analysis, as the Secretary determines appropriate, pertaining to—
+
+  (A) clean energy integration into the electric grid, including the identification of renewable energy zones;
+
+  (B) the effects of changes in weather due to climate change on the reliability and resilience of the electric grid;
+
+  (C) cost allocation methodologies that facilitate the expansion of the bulk power system;
+
+  (D) the benefits of coordination between generator interconnection processes and transmission planning processes;
+
+  (E) the effect of increased electrification on the electric grid;
+
+  (F) power flow modeling;
+
+  (G) the benefits of increased interconnections or interties between or among the Western Interconnection, the Eastern Interconnection, the Electric Reliability Council of Texas, and other interconnections, as applicable;
+
+  (H) the cooptimization of transmission and generation, including variable energy resources, energy storage, and demand-side management;
+
+  (I) the opportunities for use of nontransmission alternatives, energy storage, and grid-enhancing technologies;
+
+  (J) economic development opportunities for communities arising from development of interregional electricity transmission and transmission of electricity that is generated by offshore wind;
+
+  (K) evaluation of existing rights-of-way and the need for additional transmission corridors; and
+
+  (L) a planned national transmission grid, which would include a networked transmission system to optimize the existing grid for interconnection of offshore wind farms.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub. L. 117–169, and not as part of div. D of Pub. L. 117–58, which enacted this chapter.
+
+#### Definition of “Secretary”
+“Secretary” means the Secretary of Energy, see section 50111 of Pub. L. 117–169, set out as a note under [section 17113b of this title](./chapter-152-energy-independence-and-security.md#section-17113b).
 
 
 <a id="section-18722"></a>
 ## § 18722. Enhancing grid security through public-private partnerships
 **(a) Definitions** In this section:
 
-(1) **Bulk-power system; electric reliability organization** — The terms “bulk-power system” and “Electric Reliability Organization” has the meaning given the terms in section 824o(a) of title 16.
+(1) **Bulk-power system; Electric Reliability Organization** — The terms “bulk-power system” and “Electric Reliability Organization” has the meaning given the terms in section 824o(a) of title 16.
 
 (2) **Electric utility; State regulatory authority** — The terms “electric utility” and “State regulatory authority” have the meanings given the terms in [section 796 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796&num=0&edition=prelim).
 
@@ -712,6 +876,11 @@ The Federal Power Act, referred to in subsecs. (f)(4)(D), is act June 10, 1920, 
 
 (2) shall not be made available by any Federal agency, State, political subdivision of a State, or Tribal authority pursuant to any Federal, State, political subdivision of a State, or Tribal law, respectively, requiring public disclosure of information or records.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18723"></a>
 ## § 18723. Energy cyber sense program
@@ -748,6 +917,11 @@ The Federal Power Act, referred to in subsecs. (f)(4)(D), is act June 10, 1920, 
 (2) shall not be made available by any Federal agency, State, political subdivision of a State, or Tribal authority pursuant to any Federal, State, political subdivision of a State, or Tribal law, respectively, requiring public disclosure of information or records.
 
 **(e) Federal Government liability** Nothing in this section authorizes the commencement of an action against the United States with respect to the testing of a product or technology under the program.
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18724"></a>
@@ -808,12 +982,17 @@ The Federal Power Act, referred to in subsecs. (f)(4)(D), is act June 10, 1920, 
 
 **(f) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $250,000,000 for the period of fiscal years 2022 through 2026.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18725"></a>
 ## § 18725. Enhanced grid security
 **(a) Definitions** In this section:
 
-(1) **Electric utility** — The term “electric utility” has the meaning given the term in [section 796 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796&num=0&edition=prelim)).
+(1) **Electric utility** — The term “electric utility” has the meaning given the term in [section 796 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796&num=0&edition=prelim).
 
 (2) **E-ISAC** — The term “E-ISAC” means the Electricity Information Sharing and Analysis Center.
 
@@ -907,10 +1086,15 @@ The Federal Power Act, referred to in subsecs. (f)(4)(D), is act June 10, 1920, 
 
 (5) **Authorization of appropriations** — There is authorized to be appropriated to the Secretary to carry out this subsection $50,000,000 for the period of fiscal years 2022 through 2026.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18726"></a>
 ## § 18726. Cybersecurity plan
-**(a) In general** The Secretary may require, as the Secretary determines appropriate, a recipient of any award or other funding under this chapter—
+**(a) In general** The Secretary may require, as the Secretary determines appropriate, a recipient of any award or other funding under this division—
 
 (1) to submit to the Secretary, prior to the issuance of the award or other funding, a cybersecurity plan that demonstrates the cybersecurity maturity of the recipient in the context of the project for which that award or other funding was provided; and
 
@@ -938,7 +1122,7 @@ The Federal Power Act, referred to in subsecs. (f)(4)(D), is act June 10, 1920, 
 
   (B) the Framework for Improving Critical Infrastructure Cybersecurity of the National Institute of Standards and Technology; and
 
-(2) document —
+(2) document—
 
   (A) any deviation from open standards; and
 
@@ -955,7 +1139,10 @@ The Federal Power Act, referred to in subsecs. (f)(4)(D), is act June 10, 1920, 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this division”, meaning div. D of Pub. L. 117–58, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D of Pub. L. 117–58 to the Code, see Tables.
+This division, referred to in subsec. (a), is div. D of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 923, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D to the Code, see Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18741"></a>
@@ -967,6 +1154,9 @@ Nothing in this part affects the authority, existing on the day before November 
 
 #### References in Text
 The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified generally to subchapter XVIII (§651 et seq.) of chapter 1 of Title 6, Domestic Security. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18742"></a>
@@ -1151,7 +1341,7 @@ The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, No
 
 (4) any other information the Secretary determines necessary.
 
-**(e) Lithium-ion battery recycling prize competition**
+**(e) Lithium-Ion Battery Recycling Prize Competition**
 
 (1) **In general** — The Secretary shall continue to carry out the Lithium-Ion Battery Recycling Prize Competition of the Department established pursuant to [section 3719 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3719&num=0&edition=prelim) (referred to in this subsection as the “competition”).
 
@@ -1358,6 +1548,9 @@ The International Emergency Economic Powers Act, referred to in subsec. (a)(5)(D
 
 The Mercury-Containing and Rechargeable Battery Management Act, referred to in subsec. (f)(6), is Pub. L. 104–142, May 13, 1996, 110 Stat. 1329, which is classified generally to chapter 137 (§ 14301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 14301 of this title](./chapter-137-management-of-rechargeable-batteries-and-batteries-containing-mercury.md#section-14301) and Tables.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18743"></a>
 ## § 18743. Advanced energy manufacturing and recycling grant program
@@ -1501,6 +1694,11 @@ The Mercury-Containing and Rechargeable Battery Management Act, referred to in s
 
 **(h) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out the Program $750,000,000 for the period of fiscal years 2022 through 2026.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18744"></a>
 ## § 18744. Critical minerals mining and recycling research
@@ -1520,7 +1718,7 @@ The Mercury-Containing and Rechargeable Battery Management Act, referred to in s
 
   (B) included on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury (commonly known as the SDN list);
 
-  (C) owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is a covered nation (as defined in section 2533c(d 11 See References in Text note below.) of title 10);
+  (C) owned by, controlled by, or subject to the jurisdiction or direction of a government of a foreign country that is a covered nation (as defined in section 2533c(d) 11 See References in Text note below. of title 10);
 
   (D) alleged by the Attorney General to have been involved in activities for which a conviction was obtained under—
 
@@ -1675,6 +1873,9 @@ The Export Control Reform Act of 2018, referred to in subsec. (a)(5)(D)(vi), is 
 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(5)(D)(vii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18751"></a>
 ## § 18751. 21st Century Energy Workforce Advisory Board
@@ -1804,6 +2005,11 @@ The International Emergency Economic Powers Act, referred to in subsec. (a)(5)(D
 
 (2) **Extensions** — The Secretary may renew the Board for 1 or more 5-year periods by submitting, not later than the date described in subsection (d), a report described in that subsection that contains a determination by the Secretary that the Board should be renewed.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18752"></a>
 ## § 18752. Infrastructure planning for micro and small modular nuclear reactors
@@ -1857,10 +2063,15 @@ The International Emergency Economic Powers Act, referred to in subsec. (a)(5)(D
 
 (3) **Limitation** — The Secretary shall not disburse more than 50 percent of the amounts available for financial assistance under this subsection to the National Laboratories.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18753"></a>
 ## § 18753. Property interests relating to certain projects and protection of information relating to certain agreements
-**(a) Property interests relating to federally funded advanced nuclear reactor projects**
+**(a) 11 So in original. No subsec. (b) has been enacted. Property interests relating to federally funded advanced nuclear reactor projects**
 
 (1) **Definitions** — In this section:
 
@@ -1893,7 +2104,10 @@ The International Emergency Economic Powers Act, referred to in subsec. (a)(5)(D
 ### Statutory Notes
 
 #### References in Text
-The Further Consolidated Appropriations Act, 2020, referred to in subsec. (a)(3)(B), is Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 1198. Title III of division C of the Act is title III of div. C of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2669, which enacted [section 825s–8 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section825s–8&num=0&edition=prelim), Conservation, and provisions set out as notes under [section 6939f of this title](./chapter-082-solid-waste-disposal.md#section-6939f) and 838i of Title 16, and provisions set out in a table under sections 6241 and 7171 of this title. For complete classification of this Act to the Code, see Tables.
+The Further Consolidated Appropriations Act, 2020, referred to in subsec. (a)(3)(B), is Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2534. Title III of division C of the Act is title III of div. C of Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2669, which enacted [section 825s–8 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section825s–8&num=0&edition=prelim), Conservation, and provisions set out as notes under [section 6939f of this title](./chapter-082-solid-waste-disposal.md#section-6939f) and 838i of Title 16, and provisions set out in a table under sections 6241 and 7171 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18761"></a>
@@ -1970,7 +2184,7 @@ The Further Consolidated Appropriations Act, 2020, referred to in subsec. (a)(3)
 
       (III) the Nuclear Regulatory Commission has reasonable assurance that the nuclear reactor—
 
-        (aa) will continue to be operated in accordance with the current licensing basis (as defined in section 54.3 of title 10, Code of Federal Regulations (or successor regulations) of the nuclear reactor; and
+        (aa) will continue to be operated in accordance with the current licensing basis (as defined in section 54.3 of title 10, Code of Federal Regulations (or successor regulations) 11 So in original. Probably should be followed by a second closing parenthesis. of the nuclear reactor; and
 
         (bb) poses no significant safety hazards.
 
@@ -2031,6 +2245,11 @@ The Further Consolidated Appropriations Act, 2020, referred to in subsec. (a)(3)
 (3) any recommendations to renew or expand the credits.
 
 **(i) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $6,000,000,000 for the period of fiscal years 2022 through 2026.
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18771"></a>
@@ -2114,6 +2333,9 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (
 
 The Mining Law of 1872, referred to in subsec. (a)(3)(B), is act May 10, 1872, ch. 152, 17 Stat. 91, which was incorporated into the Revised Statutes of 1878 as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of Title 30, Mineral Lands and Mining. For complete classification of such Revised Statutes sections to the Code, see Tables.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18772"></a>
 ## § 18772. Definitions
@@ -2155,6 +2377,11 @@ In this subchapter:
 (9) **Regional Transmission Organization** — The term “Regional Transmission Organization” has the meaning given the term in [section 796 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796&num=0&edition=prelim).
 
 (10) **Rural area** — The term “rural area” has the meaning given the term in [section 918c(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section918c/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18773"></a>
@@ -2283,6 +2510,11 @@ In this subchapter:
 
     (iv) for any portion of the generation resource mix of a load-serving entity that is otherwise unaccounted for, develop a methodology to assign to the load-serving entity a share of the otherwise unaccounted for resource mix of the relevant balancing authority.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18774"></a>
 ## § 18774. Expansion of energy consumption surveys
@@ -2380,6 +2612,11 @@ In this subchapter:
 
         (ff) other factors, as determined by the Administrator.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18775"></a>
 ## § 18775. Data collection on electric vehicle integration with the electricity grids
@@ -2412,6 +2649,11 @@ In this subchapter:
 (4) States or State agencies; and
 
 (5) private entities.
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18776"></a>
@@ -2448,6 +2690,11 @@ In this subchapter:
 
   (C) to align the analysis of demand with data and analysis of where the minerals are produced, refined, and subsequently processed into materials and parts that are used to build energy technologies.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18777"></a>
 ## § 18777. Expansion of international energy data
@@ -2475,6 +2722,11 @@ In this subchapter:
 
 (4) provide tools that allow for straightforward country-to-country comparisons of energy production and consumption across economic sectors and end uses.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18791"></a>
 ## § 18791. Harmonization of efforts and data
@@ -2492,6 +2744,11 @@ Not later than 1 year after November 15, 2021, the Administrator shall establish
 (2) the data collected under this subchapter, including the operating data on electricity generation collected under [section 18772(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18772/a&num=0&edition=prelim), with data collected by the entities described in subparagraphs (A) through (C) of paragraph (1), including any measurements of greenhouse gas and other pollutant emissions collected by the Environmental Protection Agency, as the Administrator determines to be appropriate; and
 
 (3) the efforts of the Administrator to identify and report relevant impacts, opportunities, and patterns with respect to energy use, including the identification of community-level economic and environmental impacts required under [section 18773(b)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18773/b/1/C&num=0&edition=prelim), with the efforts of the Environmental Protection Agency and other relevant Federal agencies, as determined by the Administrator, to identify similar impacts, opportunities, and patterns.
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18792"></a>
@@ -2518,7 +2775,10 @@ In this part:
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part D of title III of the Act is classified generally to part B (§ 6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part D of title III of the Act is classified generally to part B (§ 6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18793"></a>
@@ -2625,7 +2885,7 @@ The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94�
 
     (ii) *Residential energy audit requirements* — A residential energy audit conducted using a loan under clause (i) shall—
 
-      (I) utilize the same evaluation criteria as the Home Performance Assessment used in the Energy Star program established under section 324A of the Energy Policy and Conservation Act ([42 U.S.C. 6294a](./chapter-077-energy-conservation.md#section-6294a));
+      (I) utilize the same evaluation criteria as the Home Performance Assessment used in the Energy Star program established under [section 6294a of this title](./chapter-077-energy-conservation.md#section-6294a);
 
       (II) recommend lifecycle cost-effective opportunities to reduce energy consumption within the residential building of the eligible recipient, including through energy efficient—
 
@@ -2729,7 +2989,7 @@ The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94�
 
       (II) has fewer than 500 employees; or
 
-    (ii) a low-income individual (as defined in [section 3102 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3102&num=0&edition=prelim)) that owns a residential building.
+    (ii) a low-income individual (as defined in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)) that owns a residential building.
 
 (4) **Final assessment** — A State that provides a capitalization grant under paragraph (2)(C) to an eligible recipient described in clause (ii) of that paragraph may, not later than 1 year after the date on which the upgrades or retrofits funded by the grant under that paragraph are completed, provide to the eligible recipient a loan or, in accordance with paragraph (3), a grant to conduct a final energy audit that assesses the total energy savings from the upgrades or retrofits.
 
@@ -2759,9 +3019,14 @@ The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94�
 
 **(j) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $250,000,000 for fiscal year 2022, to remain available until expended.
 
+### Statutory Notes
 
-<a id="section-18801"></a>
-## § 18801. Energy auditor training grant program
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
+
+<a id="section-18795"></a>
+## § 18795. Energy auditor training grant program
 **(a) Definitions** In this section:
 
 (1) **Covered certification** — The term “covered certification” means any of the following certifications:
@@ -2828,6 +3093,342 @@ The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94�
 
 **(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $40,000,000 for the period of fiscal years 2022 through 2026.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
+
+<a id="section-18795a"></a>
+## § 18795a. Home energy performance-based, whole-house rebates
+**(a) Appropriation**
+
+(1) **In general** — In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $4,300,000,000, to remain available through September 30, 2031, to carry out a program to award grants to State energy offices to develop and implement a HOMES rebate program.
+
+(2) **Allocation of funds**
+
+  (A) *In general* — The Secretary shall reserve funds made available under paragraph (1) for each State energy office—
+
+    (i) in accordance with the allocation formula for the State Energy Program in effect on January 1, 2022; and
+
+    (ii) to be distributed to a State energy office if the application of the State energy office under subsection (b) is approved.
+
+  (B) *Additional funds* — Not earlier than 2 years after August 16, 2022, any money reserved under subparagraph (A) but not distributed under clause (ii) of that subparagraph shall be redistributed to the State energy offices operating a HOMES rebate program using a grant received under this section in proportion to the amount distributed to those State energy offices under subparagraph (A)(ii).
+
+(3) **Administrative expenses** — Of the funds made available under paragraph (1), the Secretary shall use not more than 3 percent for—
+
+  (A) administrative purposes; and
+
+  (B) providing technical assistance relating to activities carried out under this section.
+
+**(b) Application** A State energy office seeking a grant under this section shall submit to the Secretary an application that includes a plan to implement a HOMES rebate program, including a plan—
+
+(1) to use procedures, as approved by the Secretary, for determining the reductions in home energy use resulting from the implementation of a home energy efficiency retrofit that are calibrated to historical energy usage for a home consistent with BPI 2400, for purposes of modeled performance home rebates;
+
+(2) to use open-source advanced measurement and verification software, as approved by the Secretary, for determining and documenting the monthly and hourly (if available) weather-normalized energy use of a home before and after the implementation of a home energy efficiency retrofit, for purposes of measured performance home rebates;
+
+(3) to value savings based on time, location, or greenhouse gas emissions;
+
+(4) for quality monitoring to ensure that each home energy efficiency retrofit for which a rebate is provided is documented in a certificate that—
+
+  (A) is provided by the contractor and certified by a third party to the homeowner; and
+
+  (B) details the work performed, the equipment and materials installed, and the projected energy savings or energy generation to support accurate valuation of the retrofit;
+
+(5) to provide a contractor performing a home energy efficiency retrofit or an aggregator who has the right to claim a rebate $200 for each home located in a disadvantaged community that receives a home energy efficiency retrofit for which a rebate is provided under the program; and
+
+(6) to ensure that a homeowner or aggregator does not receive a rebate for the same upgrade through both a HOMES rebate program and any other Federal grant or rebate program, pursuant to subsection (c)(7).
+
+**(c) HOMES rebate program**
+
+(1) **In general** — A HOMES rebate program carried out by a State energy office receiving a grant pursuant to this section shall provide rebates to homeowners and aggregators for whole-house energy saving retrofits begun on or after August 16, 2022, and completed by not later than September 30, 2031.
+
+(2) **Amount of rebate** — Subject to paragraph (3), under a HOMES rebate program, the amount of a rebate shall not exceed—
+
+  (A) for individuals and aggregators carrying out energy efficiency upgrades of single-family homes—
+
+    (i) in the case of a retrofit that achieves modeled energy system savings of not less than 20 percent but less than 35 percent, the lesser of—
+
+      (I) $2,000; and
+
+      (II) 50 percent of the project cost;
+
+    (ii) in the case of a retrofit that achieves modeled energy system savings of not less than 35 percent, the lesser of—
+
+      (I) $4,000; and
+
+      (II) 50 percent of the project cost; and
+
+    (iii) for measured energy savings, in the case of a home or portfolio of homes that achieves energy savings of not less than 15 percent—
+
+      (I) a payment rate per kilowatt hour saved, or kilowatt hour-equivalent saved, equal to $2,000 for a 20 percent reduction of energy use for the average home in the State; or
+
+      (II) 50 percent of the project cost;
+
+  (B) for multifamily building owners and aggregators carrying out energy efficiency upgrades of multifamily buildings—
+
+    (i) in the case of a retrofit that achieves modeled energy system savings of not less than 20 percent but less than 35 percent, $2,000 per dwelling unit, with a maximum of $200,000 per multifamily building;
+
+    (ii) in the case of a retrofit that achieves modeled energy system savings of not less than 35 percent, $4,000 per dwelling unit, with a maximum of $400,000 per multifamily building; or
+
+    (iii) for measured energy savings, in the case of a multifamily building or portfolio of multifamily buildings that achieves energy savings of not less than 15 percent—
+
+      (I) a payment rate per kilowatt hour saved, or kilowatt hour-equivalent saved, equal to $2,000 for a 20 percent reduction of energy use per dwelling unit for the average multifamily building in the State; or
+
+      (II) 50 percent of the project cost; and
+
+  (C) for individuals and aggregators carrying out energy efficiency upgrades of a single-family home occupied by a low- or moderate-income household or a multifamily building not less than 50 percent of the dwelling units of which are occupied by low- or moderate-income households—
+
+    (i) in the case of a retrofit that achieves modeled energy system savings of not less than 20 percent but less than 35 percent, the lesser of—
+
+      (I) $4,000 per single-family home or dwelling unit; and
+
+      (II) 80 percent of the project cost;
+
+    (ii) in the case of a retrofit that achieves modeled energy system savings of not less than 35 percent, the lesser of—
+
+      (I) $8,000 per single-family home or dwelling unit; and
+
+      (II) 80 percent of the project cost; and
+
+    (iii) for measured energy savings, in the case of a single-family home, multifamily building, or portfolio of single-family homes or multifamily buildings that achieves energy savings of not less than 15 percent—
+
+      (I) a payment rate per kilowatt hour saved, or kilowatt hour-equivalent saved, equal to $4,000 for a 20 percent reduction of energy use per single-family home or dwelling unit, as applicable, for the average single-family home or multifamily building in the State; or
+
+      (II) 80 percent of the project cost.
+
+(3) **Rebates to low- or moderate-income households** — On approval from the Secretary, notwithstanding paragraph (2), a State energy office carrying out a HOMES rebate program using a grant awarded pursuant to this section may increase rebate amounts for low- or moderate-income households.
+
+(4) **Use of funds** — A State energy office that receives a grant pursuant to this section may use not more than 20 percent of the grant amount for planning, administration, or technical assistance related to a HOMES rebate program.
+
+(5) **Data access guidelines** — The Secretary shall develop and publish guidelines for States relating to residential electric and natural gas energy data sharing.
+
+(6) **Exemption** — Activities carried out by a State energy office using a grant awarded pursuant to this section shall not be subject to the expenditure prohibitions and limitations described in section 420.18 of title 10, Code of Federal Regulations.
+
+(7) **Prohibition on combining rebates** — A rebate provided by a State energy office under a HOMES rebate program may not be combined with any other Federal grant or rebate, including a rebate provided under a high-efficiency electric home rebate program (as defined in [section 18795a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18795a/d&num=0&edition=prelim)), for the same single upgrade.
+
+**(d) Definitions** In this section:
+
+(1) **Disadvantaged community** — The term “disadvantaged community” means a community that the Secretary determines, based on appropriate data, indices, and screening tools, is economically, socially, or environmentally disadvantaged.
+
+(2) **HOMES rebate program** — The term “HOMES rebate program” means a Home Owner Managing Energy Savings rebate program established by a State energy office as part of an approved State energy conservation plan under the State Energy Program.
+
+(3) **Low- or moderate-income household** — The term “low- or moderate-income household” means an individual or family the total annual income of which is less than 80 percent of the median income of the area in which the individual or family resides, as reported by the Department of Housing and Urban Development, including an individual or family that has demonstrated eligibility for another Federal program with income restrictions equal to or below 80 percent of area median income.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub. L. 117–169, and not as part of div. D of Pub. L. 117–58, which enacted this chapter.
+
+#### Definitions
+For definitions of “greenhouse gas”, “Secretary”, “State”, “State energy office”, and “State Energy Program” as used in this section, see section 50111 of Pub. L. 117–169, set out as a note under [section 17113b of this title](./chapter-152-energy-independence-and-security.md#section-17113b).
+
+
+<a id="section-18795b"></a>
+## § 18795b. High-efficiency electric home rebate program
+**(a) Appropriations**
+
+(1) **Funds to State energy offices and Indian Tribes** — In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, to carry out a program—
+
+  (A) to award grants to State energy offices to develop and implement a high-efficiency electric home rebate program in accordance with subsection (c), $4,275,000,000, to remain available through September 30, 2031; and
+
+  (B) to award grants to Indian Tribes to develop and implement a high-efficiency electric home rebate program in accordance with subsection (c), $225,000,000, to remain available through September 30, 2031.
+
+(2) **Allocation of funds**
+
+  (A) *State energy offices* — The Secretary shall reserve funds made available under paragraph (1)(A) for each State energy office—
+
+    (i) in accordance with the allocation formula for the State Energy Program in effect on January 1, 2022; and
+
+    (ii) to be distributed to a State energy office if the application of the State energy office under subsection (b) is approved.
+
+  (B) *Indian Tribes* — The Secretary shall reserve funds made available under paragraph (1)(B)—
+
+    (i) in a manner determined appropriate by the Secretary; and
+
+    (ii) to be distributed to an Indian Tribe if the application of the Indian Tribe under subsection (b) is approved.
+
+  (C) *Additional funds* — Not earlier than 2 years after August 16, 2022, any money reserved under—
+
+    (i) subparagraph (A) but not distributed under clause (ii) of that subparagraph shall be redistributed to the State energy offices operating a high-efficiency electric home rebate program in proportion to the amount distributed to those State energy offices under that clause; and
+
+    (ii) subparagraph (B) but not distributed under clause (ii) of that subparagraph shall be redistributed to the Indian Tribes operating a high-efficiency electric home rebate program in proportion to the amount distributed to those Indian Tribes under that clause.
+
+(3) **Administrative expenses** — Of the funds made available under paragraph (1), the Secretary shall use not more than 3 percent for—
+
+  (A) administrative purposes; and
+
+  (B) providing technical assistance relating to activities carried out under this section.
+
+**(b) Application** A State energy office or Indian Tribe seeking a grant under the program shall submit to the Secretary an application that includes a plan to implement a high-efficiency electric home rebate program, including—
+
+(1) a plan to verify the income eligibility of eligible entities seeking a rebate for a qualified electrification project;
+
+(2) a plan to allow rebates for qualified electrification projects at the point of sale in a manner that ensures that the income eligibility of an eligible entity seeking a rebate may be verified at the point of sale;
+
+(3) a plan to ensure that an eligible entity does not receive a rebate for the same qualified electrification project through both a high-efficiency electric home rebate program and any other Federal grant or rebate program, pursuant to subsection (c)(8); and
+
+(4) any additional information that the Secretary may require.
+
+**(c) High-efficiency electric home rebate program**
+
+(1) **In general** — Under the program, the Secretary shall award grants to State energy offices and Indian Tribes to establish a high-efficiency electric home rebate program under which rebates shall be provided to eligible entities for qualified electrification projects.
+
+(2) **Guidelines** — The Secretary shall prescribe guidelines for high-efficiency electric home rebate programs, including guidelines for providing point of sale rebates in a manner consistent with the income eligibility requirements under this section.
+
+(3) **Amount of rebate**
+
+  (A) *Appliance upgrades* — The amount of a rebate provided under a high-efficiency electric home rebate program for the purchase of an appliance under a qualified electrification project shall be—
+
+    (i) not more than $1,750 for a heat pump water heater;
+
+    (ii) not more than $8,000 for a heat pump for space heating or cooling; and
+
+    (iii) not more than $840 for—
+
+      (I) an electric stove, cooktop, range, or oven; or
+
+      (II) an electric heat pump clothes dryer.
+
+  (B) *Nonappliance upgrades* — The amount of a rebate provided under a high-efficiency electric home rebate program for the purchase of a nonappliance upgrade under a qualified electrification project shall be—
+
+    (i) not more than $4,000 for an electric load service center upgrade;
+
+    (ii) not more than $1,600 for insulation, air sealing, and ventilation; and
+
+    (iii) not more than $2,500 for electric wiring.
+
+  (C) *Maximum rebate* — An eligible entity receiving multiple rebates under this section may receive not more than a total of $14,000 in rebates.
+
+(4) **Limitations** — A rebate provided using funding under this section shall not exceed—
+
+  (A) in the case of an eligible entity described in subsection (d)(1)(A)—
+
+    (i) 50 percent of the cost of the qualified electrification project for a household the annual income of which is not less than 80 percent and not greater than 150 percent of the area median income; and
+
+    (ii) 100 percent of the cost of the qualified electrification project for a household the annual income of which is less than 80 percent of the area median income;
+
+  (B) in the case of an eligible entity described in subsection (d)(1)(B)—
+
+    (i) 50 percent of the cost of the qualified electrification project for a multifamily building not less than 50 percent of the residents of which are households the annual income of which is not less than 80 percent and not greater than 150 percent of the area median income; and
+
+    (ii) 100 percent of the cost of the qualified electrification project for a multifamily building not less than 50 percent of the residents of which are households the annual income of which is less than 80 percent of the area median income; or
+
+  (C) in the case of an eligible entity described in subsection (d)(1)(C)—
+
+    (i) 50 percent of the cost of the qualified electrification project for a household—
+
+      (I) on behalf of which the eligible entity is working; and
+
+      (II) the annual income of which is not less than 80 percent and not greater than 150 percent of the area median income; and
+
+    (ii) 100 percent of the cost of the qualified electrification project for a household—
+
+      (I) on behalf of which the eligible entity is working; and
+
+      (II) the annual income of which is less than 80 percent of the area median income.
+
+(5) **Amount for installation of upgrades**
+
+  (A) *In general* — In the case of an eligible entity described in subsection (d)(1)(C) that receives a rebate under the program and performs the installation of the applicable qualified electrification project, a State energy office or Indian Tribe shall provide to that eligible entity, in addition to the rebate, an amount that—
+
+    (i) does not exceed $500; and
+
+    (ii) is commensurate with the scale of the upgrades installed as part of the qualified electrification project, as determined by the Secretary.
+
+  (B) *Treatment* — An amount received under subparagraph (A) by an eligible entity described in that subparagraph shall not be subject to the requirement under paragraph (6).
+
+(6) **Requirement** — An eligible entity described in subparagraph (C) of subsection (d)(1) shall discount the amount of a rebate received for a qualified electrification project from any amount charged by that eligible entity to the eligible entity described in subparagraph (A) or (B) of that subsection on behalf of which the qualified electrification project is carried out.
+
+(7) **Exemption** — Activities carried out by a State energy office using a grant provided under the program shall not be subject to the expenditure prohibitions and limitations described in section 420.18 of title 10, Code of Federal Regulations.
+
+(8) **Prohibition on combining rebates** — A rebate provided by a State energy office or Indian Tribe under a high-efficiency electric home rebate program may not be combined with any other Federal grant or rebate, including a rebate provided under a HOMES rebate program (as defined in [section 18795(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18795/d&num=0&edition=prelim)), for the same qualified electrification project.
+
+(9) **Administrative costs** — A State energy office or Indian Tribe that receives a grant under the program shall use not more than 20 percent of the grant amount for planning, administration, or technical assistance relating to a high-efficiency electric home rebate program.
+
+**(d) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a low- or moderate-income household;
+
+  (B) an individual or entity that owns a multifamily building not less than 50 percent of the residents of which are low- or moderate-income households; and
+
+  (C) a governmental, commercial, or nonprofit entity, as determined by the Secretary, carrying out a qualified electrification project on behalf of an entity described in subparagraph (A) or (B).
+
+(2) **High-efficiency electric home rebate program** — The term “high-efficiency electric home rebate program” means a rebate program carried out by a State energy office or Indian Tribe pursuant to subsection (c) using a grant received under the program.
+
+(3) **Indian Tribe** — The term “Indian Tribe” has the meaning given the term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(4) **Low- or moderate-income household** — The term “low- or moderate-income household” means an individual or family the total annual income of which is less than 150 percent of the median income of the area in which the individual or family resides, as reported by the Department of Housing and Urban Development, including an individual or family that has demonstrated eligibility for another Federal program with income restrictions equal to or below 150 percent of area median income.
+
+(5) **Program** — The term “program” means the program carried out by the Secretary under subsection (a)(1).
+
+(6) **Qualified electrification project**
+
+  (A) *In general* — The term “qualified electrification project” means a project that—
+
+    (i) includes the purchase and installation of—
+
+      (I) an electric heat pump water heater;
+
+      (II) an electric heat pump for space heating and cooling;
+
+      (III) an electric stove, cooktop, range, or oven;
+
+      (IV) an electric heat pump clothes dryer;
+
+      (V) an electric load service center;
+
+      (VI) insulation;
+
+      (VII) air sealing and materials to improve ventilation; or
+
+      (VIII) electric wiring;
+
+    (ii) with respect to any appliance described in clause (i), the purchase of which is carried out—
+
+      (I) as part of new construction;
+
+      (II) to replace a nonelectric appliance; or
+
+      (III) as a first-time purchase with respect to that appliance; and
+
+    (iii) is carried out at, or relating to, a single-family home or multifamily building, as applicable and defined by the Secretary.
+
+  (B) *Exclusions* — The term “qualified electrification project” does not include any project with respect to which the appliance, system, equipment, infrastructure, component, or other item described in subclauses (I) through (VIII) of subparagraph (A)(i) is not certified under the Energy Star program established by [section 6294a of this title](./chapter-077-energy-conservation.md#section-6294a), if applicable.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub. L. 117–169, and not as part of div. D of Pub. L. 117–58, which enacted this chapter.
+
+#### Definitions
+For definitions of “Secretary”, “State energy office”, and “State Energy Program” as used in this section, see section 50111 of Pub. L. 117–169, set out as a note under [section 17113b of this title](./chapter-152-energy-independence-and-security.md#section-17113b).
+
+
+<a id="section-18801"></a>
+## § 18801. State-based home energy efficiency contractor training grants
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $200,000,000, to remain available through September 30, 2031, to carry out a program to provide financial assistance to States to develop and implement a State program described in [section 6322(d)(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6322/d/13&num=0&edition=prelim), which shall provide training and education to contractors involved in the installation of home energy efficiency and electrification improvements, including improvements eligible for rebates under a HOMES rebate program (as defined in [section 18795(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18795/d&num=0&edition=prelim)) or a high-efficiency electric home rebate program (as defined in [section 18795a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18795a/d&num=0&edition=prelim)), as part of an approved State energy conservation plan under the State Energy Program.
+
+**(b) Use of funds** A State may use amounts received under subsection (a)—
+
+(1) to reduce the cost of training contractor employees;
+
+(2) to provide testing and certification of contractors trained and educated under a State program developed and implemented pursuant to subsection (a); and
+
+(3) to partner with nonprofit organizations to develop and implement a State program pursuant to subsection (a).
+
+**(c) Administrative expenses** Of the amounts received by a State under subsection (a), a State shall use not more than 10 percent for administrative expenses associated with developing and implementing a State program pursuant to that subsection.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub. L. 117–169, and not as part of div. D of Pub. L. 117–58, which enacted this chapter.
+
+#### Definitions
+For definitions of “Secretary”, “State”, and “State Energy Program” as used in this section, see section 50111 of Pub. L. 117–169, set out as a note under [section 17113b of this title](./chapter-152-energy-independence-and-security.md#section-17113b).
+
 
 <a id="section-18802"></a>
 ## § 18802. Building, training, and assessment centers
@@ -2853,6 +3454,11 @@ The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94�
 
 **(c) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2022, to remain available until expended.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18803"></a>
 ## § 18803. Career skills training
@@ -2876,6 +3482,11 @@ The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94�
 
 **(d) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for fiscal year 2022, to remain available until expended.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18811"></a>
 ## § 18811. Commercial building energy consumption information sharing
@@ -2887,9 +3498,9 @@ The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94�
 
 (3) **Survey** — The term “Survey” means the Commercial Building Energy Consumption Survey.
 
-**(b) Authorization of agreement** Not later than 120 days after November 15, 2021, the Administrator and the Administrator of the Environmental Protection Agency shall sign, and submit to Congress, an information sharing agreement relating to commercial building energy consumption data.
+**(b) Authorization of Agreement** Not later than 120 days after November 15, 2021, the Administrator and the Administrator of the Environmental Protection Agency shall sign, and submit to Congress, an information sharing agreement relating to commercial building energy consumption data.
 
-**(c) Content of agreement** The Agreement shall—
+**(c) Content of Agreement** The Agreement shall—
 
 (1) provide, to the extent permitted by law, that—
 
@@ -2929,11 +3540,16 @@ The Energy Policy and Conservation Act, referred to in par. (4), is Pub. L. 94�
 
 **(e) Protection of information** In carrying out the agreement, the Administrator and the Administrator of the Environmental Protection Agency shall protect information in accordance with—
 
-(1) [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) (commonly known as the “Freedom of Information Act” 11 See References in Text note below. );
+(1) [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”);
 
 (2) subchapter III of chapter 35 of title 44; and
 
 (3) any other applicable law (including regulations).
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18812"></a>
@@ -2955,7 +3571,7 @@ In this part:
 
 (4) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1001(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim).
 
-(5) **North american industry classification system** — The term “North American Industry Classification System” means the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data relating to the business economy of the United States.
+(5) **North American Industry Classification System** — The term “North American Industry Classification System” means the standard used by Federal statistical agencies in classifying business establishments for the purpose of collecting, analyzing, and publishing statistical data relating to the business economy of the United States.
 
 (6) **Small and medium manufacturers** — The term “small and medium manufacturers” means manufacturing firms—
 
@@ -2989,9 +3605,14 @@ In this part:
 
   (F) digitally connect the supply chain network.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18813"></a>
-## § 18813. Leveraging Existing Agency Programs To Assist Small and Medium Manufacturers
+## § 18813. Leveraging existing agency programs to assist small and medium manufacturers
 
 The Secretary shall expand the scope of technologies covered by the industrial research and assessment centers of the Department—
 
@@ -2999,9 +3620,14 @@ The Secretary shall expand the scope of technologies covered by the industrial r
 
 (2) to equip the directors of the industrial research and assessment centers with the training and tools necessary to provide technical assistance in smart manufacturing technologies and practices, including energy management systems, to manufacturers.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18814"></a>
-## § 18814. Leveraging Smart Manufacturing Infrastructure at National Laboratories
+## § 18814. Leveraging smart manufacturing infrastructure at National Laboratories
 **(a) Study**
 
 (1) **In general** — Not later than 180 days after November 15, 2021, the Secretary shall conduct a study on how the Department can increase access to existing high-performance computing resources in the National Laboratories, particularly for small and medium manufacturers.
@@ -3018,7 +3644,12 @@ The Secretary shall expand the scope of technologies covered by the industrial r
 
 (3) **Report** — Not later than 1 year after November 15, 2021, the Secretary shall submit to Congress a report describing the results of the study.
 
-**(b) Actions for Increased Access** The Secretary shall facilitate access to the National Laboratories studied under subsection (a) for small and medium manufacturers so that small and medium manufacturers can fully use the high-performance computing resources of the National Laboratories to enhance the manufacturing competitiveness of the United States.
+**(b) Actions for increased access** The Secretary shall facilitate access to the National Laboratories studied under subsection (a) for small and medium manufacturers so that small and medium manufacturers can fully use the high-performance computing resources of the National Laboratories to enhance the manufacturing competitiveness of the United States.
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18815"></a>
@@ -3061,11 +3692,21 @@ The Secretary shall expand the scope of technologies covered by the industrial r
 
 **(f) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $50,000,000 for the period of fiscal years 2022 through 2026.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18831"></a>
 ## § 18831. Report
 
 The Secretary annually shall submit to Congress and make publicly available a report on the progress made in advancing smart manufacturing in the United States.
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18832"></a>
@@ -3219,6 +3860,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(7), is classified 
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(1)(B)(i), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18841"></a>
 ## § 18841. Energy efficiency materials pilot program
@@ -3268,6 +3912,9 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(1)(
 
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3), is classified generally to Title 26, Internal Revenue Code.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-18842"></a>
@@ -3371,6 +4018,9 @@ The Internal Revenue Code of 1986, referred to in subsec. (a)(3), is classified 
 #### References in Text
 The Confidential Information Protection and Statistical Efficiency Act of 2002, referred to in subsec. (c)(2)(B)(ii), is title V of Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2962, which is set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18851"></a>
 ## § 18851. Model guidance for combined heat and power systems and waste heat to power systems
@@ -3437,17 +4087,20 @@ The Confidential Information Protection and Statistical Efficiency Act of 2002, 
 #### References in Text
 The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a)(3)(A), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. Title I (§ 101 et seq.) of the Act enacted subchapters I to IV of chapter 46 (§ 2611 et seq.) of Title 16, Conservation, and [section 6808 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6808), and amended sections 6802 to 6807 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim) and Tables.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-18861"></a>
 ## § 18861. Wage rate requirements
-**(a) Davis-Bacon** All laborers and mechanics employed by contractors or subcontractors in the performance of construction, alteration, or repair work on a project assisted in whole or in part by funding made available under this chapter or an amendment made by this chapter shall be paid wages at rates not less than those prevailing on similar projects in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40 (commonly referred to as the “Davis-Bacon Act”).
+**(a) Davis-Bacon** All laborers and mechanics employed by contractors or subcontractors in the performance of construction, alteration, or repair work on a project assisted in whole or in part by funding made available under this division or an amendment made by this division shall be paid wages at rates not less than those prevailing on similar projects in the locality, as determined by the Secretary of Labor in accordance with subchapter IV of chapter 31 of title 40 (commonly referred to as the “Davis-Bacon Act”).
 
 **(b) Authority** With respect to the labor standards specified in subsection (a), the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267; 5 U.S.C. App.) and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this division”, meaning div. D of Pub. L. 117–58, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D of Pub. L. 117–58 to the Code, see Tables.
+This division, referred to in subsec. (a), is div. D of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 923, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of div. D to the Code, see Tables.
 
 The Davis-Bacon Act, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 

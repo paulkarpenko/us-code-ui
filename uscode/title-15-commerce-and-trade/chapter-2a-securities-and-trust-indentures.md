@@ -205,9 +205,9 @@ Any condition, stipulation, or provision binding any person to waive compliance 
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(15)(i), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(15)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(15)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Codification
 Words “Philippine Islands” deleted from definition of term “Territory” under authority of Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, which granted independence to the Philippine Islands. Proc. No. 2695 was issued pursuant to [section 1394 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1394&num=0&edition=prelim), Foreign Relations and Intercourse, and is set out as a note under that section.
@@ -421,13 +421,13 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 #### References in Text
 [Section 103 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section103&num=0&edition=prelim), referred to in subsec. (a)(2), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, § 1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(2) (formerly section 103(c)(2)), which prior to the general amendment defined industrial development bond, relates to the applicability of the interest exclusion to arbitrage bonds.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
 Section 926 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (b)(2)(G)(ii), is section 926 of Pub. L. 111–203, which is set out as a note under [section 77d of this title](./chapter-2a-securities-and-trust-indentures.md#section-77d).
 
 April 5, 2012, referred to in subsec. (b)(5), was in the original “the date of enactment of the Small Company Capital Formation Act of 2011”, and was translated as meaning the date of enactment of the Jumpstart Our Business Startups Act, Pub. L. 112–106, which enacted subsec. (b)(5), to reflect the probable intent of Congress.
 
-The Small Business Investment Act of 1958, referred to in subsec. (c), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
 
 #### Amendments
 2012—Subsec. (a)(2). Pub. L. 112–142 inserted “(other than a retirement income account described in [section 403(b)(9) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b/9&num=0&edition=prelim), to the extent that the interest or participation in such single trust fund or collective trust fund is issued to a church, a convention or association of churches, or an organization described in [section 414(e)(3)(A) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/e/3/A&num=0&edition=prelim) establishing or maintaining the retirement income account or to a trust established by any such entity in connection with the retirement income account)” after “403(b) of title 26” and “(other than a person participating in a church plan who is described in [section 414(e)(3)(B) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/e/3/B&num=0&edition=prelim))” after “(ii) which covers employees some or all of whom are employees within the meaning of [section 401(c)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/c/1&num=0&edition=prelim)”.
@@ -1168,7 +1168,7 @@ The information and documents required by paragraph (1) of this subsection with 
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsec. (b)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsec. (b)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
 1990—Subsec. (a)(1). Pub. L. 101–550, § 404(1), struck out “or has a conflicting interest as defined in subsection (b) of [section 77jjj of this title](./chapter-2a-securities-and-trust-indentures.md#section-77jjj)” after “[section 77jjj of this title](./chapter-2a-securities-and-trust-indentures.md#section-77jjj)”.
@@ -1283,6 +1283,8 @@ Pub. L. 101–515, title V, Nov. 5, 1990, 104 Stat. 2139.
 Pub. L. 101–162, title V, Nov. 21, 1989, 103 Stat. 1022.
 
 #### Adjustment of Registration Fee Rate
+By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.70 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
+
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
@@ -1332,7 +1334,7 @@ The board of directors shall cause accounts to be kept of all matters relating t
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsecs. (a) to (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsecs. (a) to (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
 1954—Subsec. (b). Act Aug. 10, 1954, authorized the Commission to prescribe the extent to which summaries of indenture provisions must be used in the sale of specified types of securities.
@@ -1451,7 +1453,7 @@ The Corporation shall make, print, and make public an annual report of its opera
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsecs. (a) and (c), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
 2002—Subsec. (b). Pub. L. 107–123 substituted “Commission” for “Commission, but, in the case of an application, only if it is accompanied or preceded by payment to the Commission of a filing fee in the amount of $100, such payment to be made in cash or by United States postal money order or certified or bank check, or in such other medium of payment as the Commission may authorize by rule and regulation”.
@@ -2025,7 +2027,7 @@ This subchapter may be cited as the “Corporation of Foreign Bondholders Act, 1
 
 (2) the character and amount of any advances made by it as such since the date of the last report transmitted pursuant to the provisions of subsection (a) (or if no such report has yet been so transmitted, since the date of execution of the indenture), for the reimbursement of which it claims or may claim a lien or charge, prior to that of the indenture securities, on the trust estate or on property or funds held or collected by it as such trustee, and which it has not previously reported pursuant to this paragraph, if such advances remaining unpaid at any time aggregate more than 10 per centum of the principal amount of indenture securities outstanding at such time, such report to be so transmitted within 90 days after such time.
 
-**(c) Additional parties to whom reports to be trans­mitted** Reports pursuant to this section shall be transmitted by mail—
+**(c) Additional parties to whom reports to be transmitted** Reports pursuant to this section shall be transmitted by mail—
 
 (1) to all registered holders of indenture securities, as the names and addresses of such holders appear upon the registration books of the obligor upon the indenture securities;
 
@@ -2288,13 +2290,21 @@ Pub. L. 105–353, title I, § 101(c), Nov. 3, 1998, 112 Stat. 3233, provided th
 (2) may contain provisions authorizing the holders of not less than 75 per centum in principal amount of the indenture securities or if expressly specified in such indenture, of any series of securities at the time outstanding to consent on behalf of the holders of all such indenture securities to the postponement of any interest payment for a period not exceeding three years from its due date.
 For the purposes of this subsection and paragraph (3) of subsection (d) of section 77ooo of this title, in determining whether the holders of the required principal amount of indenture securities have concurred in any such direction or consent, indenture securities owned by any obligor upon the indenture securities, or by any person directly or indirectly controlling or controlled by or under direct or indirect common control with any such obligor, shall be disregarded, except that for the purposes of determining whether the indenture trustee shall be protected in relying on any such direction or consent, only indenture securities which such trustee knows are so owned shall be so disregarded.
 
-**(b) Prohibition of impairment of holder’s right to payment** Notwithstanding any other provision of the indenture to be qualified, the right of any holder of any indenture security to receive payment of the principal of and interest on such indenture security, on or after the respective due dates expressed in such indenture security, or to institute suit for the enforcement of any such payment on or after such respective dates, shall not be impaired or affected without the consent of such holder, except as to a postponement of an interest payment consented to as provided in paragraph (2) of subsection (a), and except that such indenture may contain provisions limiting or denying the right of any such holder to institute any such suit, if and to the extent that the institution or prosecution thereof or the entry of judgment therein would, under applicable law, result in the surrender, impairment, waiver, or loss of the lien of such indenture upon any property subject to such lien.
+**(b) Prohibition of impairment of holder’s right to payment** Notwithstanding any other provision of the indenture to be qualified, the right of any holder of any indenture security to receive payment of the principal of and interest on such indenture security, on or after the respective due dates expressed in such indenture security, or to institute suit for the enforcement of any such payment on or after such respective dates, shall not be impaired or affected without the consent of such holder, except—
+
+(1) as to a postponement of an interest payment consented to as provided in paragraph (2) of subsection (a);
+
+(2) that such indenture may contain provisions limiting or denying the right of any such holder to institute any such suit, if and to the extent that the institution or prosecution thereof or the entry of judgment therein would, under applicable law, result in the surrender, impairment, waiver, or loss of the lien of such indenture upon any property subject to such lien; and
+
+(3) that the right of any holder of any indenture security to receive payment of the principal of and interest on such indenture security shall not be deemed to be impaired or affected by any change occurring by the application of [section 5803 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5803&num=0&edition=prelim) to any indenture security.
 
 **(c) Record date** The obligor upon any indenture qualified under this subchapter may set a record date for purposes of determining the identity of indenture security holders entitled to vote or consent to any action by vote or consent authorized or permitted by subsection (a) of this section. Unless the indenture provides otherwise, such record date shall be the later of 30 days prior to the first solicitation of such consent or the date of the most recent list of holders furnished to the trustee pursuant to section 77lll of this title prior to such solicitation.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–103 substituted “such holder, except—” for “such holder, except”, designated remainder of existing provisions as pars. (1) and (2), and added par. (3).
+
 1990—Subsec. (a). Pub. L. 101–550, § 415(1)–(3), in introductory provisions struck out “may contain provisions” after “qualified”, in par. (1) inserted “shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”, and in par. (2) inserted “may contain provisions” before “authorizing the holders” and “or if expressly specified in such indenture, of any series of securities” after “principal amount of the indenture securities”.
 
 Subsec. (b). Pub. L. 101–550, § 415(5), which directed the substitution of “of the indenture to be qualified” for “thereof”, was executed by making the substitution for “thereof” the first time appearing, as the probable intent of Congress.
@@ -2475,7 +2485,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
 Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b)(4)(A) to (C), (E) and (c)(1)(B), were redesignated section 77d(a)(1), (2), (3), (4), and (6), respectively, of this title by Pub. L. 112–106, title II, § 201(b)(1), (c)(1), Apr. 5, 2012, 126 Stat. 314.
 
@@ -2959,7 +2969,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 ### Statutory Notes
 
 #### References in Text
-Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+Such Act, referred to in subsec. (a), means the Securities Act of 1933, approved May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
 1990—Subsec. (b). Pub. L. 101–550 inserted “or duty” after “any liability”.

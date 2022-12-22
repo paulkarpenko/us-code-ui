@@ -2,7 +2,7 @@
 title: 15
 chapter: '47'
 heading: CONSUMER PRODUCT SAFETY
-section_count: 50
+section_count: 54
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -39,6 +39,13 @@ Pub. L. 110–314, title II, § 239(a), Aug. 14, 2008, 122 Stat. 3076, provided 
 
 #### Effective Date
 Pub. L. 92–573, § 34, Oct. 27, 1972, 86 Stat. 1233, provided that: “This Act [enacting this chapter] shall take effect on the sixtieth day following the date of its enactment [Oct. 27, 1972], except— “(1) sections 4 and 32 [sections 2053 and 2081 of this title] shall take effect on the date of enactment of this Act [Oct. 27, 1972], and “(2) section 30 [[section 2079 of this title](./chapter-047-consumer-product-safety.md#section-2079)] shall take effect on the later of (A) 150 days after the date of enactment of this Act [Oct. 27, 1972], or (B) the date on which at least three members of the Commission first take office.”
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–171, § 1, Aug. 16, 2022, 136 Stat. 2094, provided that: “This Act [enacting [section 2056e of this title](./chapter-047-consumer-product-safety.md#section-2056e) and provisions set out as notes under [section 2056e of this title](./chapter-047-consumer-product-safety.md#section-2056e)] may be cited as ‘Reese’s Law’.”
+
+Pub. L. 117–126, § 1, May 16, 2022, 136 Stat. 1208, provided that: “This Act [enacting sections 2057d and 2057e of this title] may be cited as the ‘Safe Sleep for Babies Act of 2021’.”
+
+Pub. L. 117–103, div. Q, title II, § 201, Mar. 15, 2022, 136 Stat. 812, provided that: “This title [enacting [section 2090 of this title](./chapter-047-consumer-product-safety.md#section-2090) and provisions set out as notes under [section 2090 of this title](./chapter-047-consumer-product-safety.md#section-2090)] may be cited as the ‘Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2022’.”
 
 #### Short Title of 2013 Amendment
 Pub. L. 112–266, § 1, Jan. 14, 2013, 126 Stat. 2437, provided that: “This Act [enacting [section 2056c of this title](./chapter-047-consumer-product-safety.md#section-2056c) and provisions set out as notes under [section 2056c of this title](./chapter-047-consumer-product-safety.md#section-2056c)] may be cited as the ‘Drywall Safety Act of 2012’.”
@@ -487,13 +494,13 @@ Pub. L. 98–567, Oct. 30, 1984, 98 Stat. 2925, as amended by Pub. L. 100–418,
 ### Statutory Notes
 
 #### References in Text
-The Consumer Product Safety Act, referred to in subsec. (d)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051) and Tables.
+The Consumer Product Safety Act, referred to in subsec. (d)(1), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051) and Tables.
 
-The Flammable Fabrics Act, referred to in subsec. (d)(1), is act June 30, 1953, ch. 164, 67 Stat. 111, as amended, which is classified generally to chapter 25 (§ 1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1191 of this title](./chapter-025-flammable-fabrics.md#section-1191) and Tables.
+The Flammable Fabrics Act, referred to in subsec. (d)(1), is act June 30, 1953, ch. 164, 67 Stat. 111, which is classified generally to chapter 25 (§ 1191 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1191 of this title](./chapter-025-flammable-fabrics.md#section-1191) and Tables.
 
 The Poison Prevention Packaging Act, referred to in subsec. (d)(1), probably means the Poison Prevention Packaging Act of 1970, Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, which is classified principally to chapter 39A (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-39a-special-packaging-of-household-substances-for-protection-of-children.md#section-1471) and Tables.
 
-The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1261 of this title](./chapter-030-hazardous-substances.md#section-1261) and Tables.
+The Federal Hazardous Substances Act, referred to in subsec. (d)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to chapter 30 (§ 1261 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1261 of this title](./chapter-030-hazardous-substances.md#section-1261) and Tables.
 
 #### Amendments
 2008—Subsec. (a)(3). Pub. L. 110–314, § 211(1), inserted “A manufacturer or private labeler shall submit any such mark within 15 calendar days after the date on which it receives the Commission’s offer.” after “paragraph (2).”
@@ -1131,6 +1138,82 @@ Section was enacted as the Portable Fuel Container Safety Act of 2020, and not a
 Section is comprised of section 901 of div. FF of Pub. L. 116–260. Subsec. (c)(1) of section 901 of div. FF of Pub. L. 116–260 amended section 2 of Pub. L. 110–278, which is set out in a note under [section 2056 of this title](./chapter-047-consumer-product-safety.md#section-2056).
 
 
+<a id="section-2056e"></a>
+## § 2056e. Consumer product safety standard for button cell or coin batteries and consumer products containing such batteries
+**(a) In general** Not later than 1 year after August 16, 2022, the Commission shall, in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), promulgate a final consumer product safety standard for button cell or coin batteries and consumer products containing button cell or coin batteries that shall only contain—
+
+(1) a performance standard requiring the button cell or coin battery compartments of a consumer product containing button cell or coin batteries to be secured in a manner that would eliminate or adequately reduce the risk of injury from button or coin cell battery ingestion by children that are 6 years of age or younger during reasonably foreseeable use or misuse conditions; and
+
+(2) warning label requirements—
+
+  (A) to be included on the packaging of button cell or coin batteries and the packaging of a consumer product containing button cell or coin batteries;
+
+  (B) to be included in any literature, such as a user manual, that accompanies a consumer product containing button cell or coin batteries; and
+
+  (C) to be included, as practicable—
+
+    (i) directly on a consumer product containing button cell or coin batteries in a manner that is visible to the consumer upon installation or replacement of the button cell or coin battery; or
+
+    (ii) in the case of a product for which the battery is not intended to be replaced or installed by the consumer, to be included directly on the consumer product in a manner that is visible to the consumer upon access to the battery compartment, except that if it is impracticable to label the product, this information shall be placed on the packaging or instructions.
+
+**(b) Requirements for warning labels** Warning labels required under subsection (a)(2) shall—
+
+(1) clearly identify the hazard of ingestion; and
+
+(2) instruct consumers, as practicable, to keep new and used batteries out of the reach of children, to seek immediate medical attention if a battery is ingested, and to follow any other consensus medical advice.
+
+**(c) Treatment of standard for enforcement purposes** A consumer product safety standard promulgated under subsection (a) shall be treated as a consumer product safety rule promulgated under [section 2058 of this title](./chapter-047-consumer-product-safety.md#section-2058).
+
+**(d) Exception for reliance on voluntary standard**
+
+(1) **Before promulgation of standard by Commission** — Subsection (a) shall not apply if the Commission determines, before the Commission promulgates a final consumer product safety standard under such subsection, that—
+
+  (A) with respect to any consumer product for which there is a voluntary consumer product safety standard that meets the requirements for a standard promulgated under subsection (a) with respect to such product; and
+
+  (B) the voluntary standard described in subparagraph (A)—
+
+    (i) is in effect at the time of the determination by the Commission; or
+
+    (ii) will be in effect not later than the date that is 180 days after August 16, 2022.
+
+(2) **Determination required to be published in Federal Register** — Any determination made by the Commission under this subsection shall be published in the Federal Register.
+
+**(e) Treatment of voluntary standard for enforcement purposes**
+
+(1) **In general** — If the Commission makes a determination under subsection (d) with respect to a voluntary standard, the requirements of such voluntary standard shall be treated as a consumer product safety rule promulgated under [section 2058 of this title](./chapter-047-consumer-product-safety.md#section-2058) beginning on the date described in paragraph (2).
+
+(2) **Date described** — The date described in this paragraph is the later of—
+
+  (A) the date of the determination of the Commission under subsection (d) with respect to the voluntary standard described in paragraph (1); or
+
+  (B) the effective date contained in the voluntary standard described in paragraph (1).
+
+**(f) Revision of voluntary standard**
+
+(1) **Notice to Commission** — If a voluntary standard with respect to which the Commission has made a determination under subsection (d) is subsequently revised, the organization that revised the standard shall notify the Commission after the final approval of the revision.
+
+(2) **Effective date of revision** — Beginning on the date that is 180 days after the Commission is notified of a revised voluntary standard described in paragraph (1) (or such later date as the Commission determines appropriate), such revised voluntary standard in whole or in part shall be considered to be a consumer product safety rule promulgated under [section 2058 of this title](./chapter-047-consumer-product-safety.md#section-2058), in place of the prior version, unless, within 90 days after receiving the notice, the Commission notifies the organization that the revised voluntary standard, in whole or in part, does not improve the safety of the consumer product covered by the standard and that the Commission is retaining all or part of the existing consumer product safety standard.
+
+**(g) Future rulemaking** At any time after the promulgation of a final consumer product safety standard under subsection (a), a voluntary standard is treated as a consumer product safety rule under subsection (e), or a revised voluntary standard becomes enforceable as a consumer product safety rule under subsection (f), the Commission may initiate a rulemaking in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) to modify the requirements of the standard or revised standard. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under [section 2058 of this title](./chapter-047-consumer-product-safety.md#section-2058).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Reese’s Law, and not as part of the Consumer Product Safety Act which comprises this chapter.
+
+#### Child-Resistant Packaging for Button Cell or Coin Batteries
+Pub. L. 117–171, § 3, Aug. 16, 2022, 136 Stat. 2096, provided that: “(a) Requirement.—Not later than 180 days after the date of the enactment of this Act [Aug. 16, 2022], any button cell or coin battery sold, offered for sale, manufactured for sale, distributed in commerce, or imported into the United States, or included separately with a consumer product sold, offered for sale, manufactured for sale, distributed in commerce, or imported into the United States, shall be packaged in accordance with the standards provided in section 1700.15 of title 16, Code of Federal Regulations (or any successor regulation), as determined through testing in accordance with the method described in section 1700.20 of title 16, Code of Federal Regulations (or any successor regulation), or another test method for button cell or coin battery packaging specified, by rule, by the Commission. “(b) Applicability.—The requirement of subsection (a) shall be treated as a standard for the special packaging of a household substance established under section 3(a) of the Poison Prevention Packaging Act of 1970 ([15 U.S.C. 1472(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1472/a&num=0&edition=prelim)).”
+
+#### Exemption for Compliance With Existing Standard
+Pub. L. 117–171, § 4, Aug. 16, 2022, 136 Stat. 2096, provided that: “The standards promulgated under this Act [see Short Title of 2022 Amendment note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051)] shall not apply with respect to any toy product that is in compliance with the battery accessibility and labeling requirements of part 1250 of title 16, Code of Federal Regulations, and in reference to section 3(a) [set out in a note above], shall not apply with respect to button cell or coin batteries that are in compliance with the marking and packaging provisions of the ANSI Safety Standard for Portable Lithium Primary Cells and Batteries (ANSI C18.3M).”
+
+#### Applicability Date of Standard and Requirements
+Pub. L. 117–171, § 6, Aug. 16, 2022, 136 Stat. 2097, provided that: “The standard promulgated under section 2(a) [[15 U.S.C. 2056e(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2056e/a&num=0&edition=prelim)] and the requirements of section 3(a) [set out in a note above] shall only apply to a product that is manufactured or imported after the effective date of such standard or requirement.”
+
+#### Definitions
+Pub. L. 117–171, § 5, Aug. 16, 2022, 136 Stat. 2096, provided that: “In this Act [see Short Title of 2022 Amendment note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051)]: “(1) Button cell or coin battery.—The term ‘button cell or coin battery’ means—“(A) a single cell battery with a diameter greater than the height of the battery; or “(B) any other battery, regardless of the technology used to produce an electrical charge, that is determined by the Commission to pose an ingestion hazard. “(2) Commission.—The term ‘Commission’ means the Consumer Product Safety Commission. “(3) Consumer product.—The term ‘consumer product’ has the meaning given such term in section 3(a) of the Consumer Product Safety Act ([15 U.S.C. 2052(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a&num=0&edition=prelim)). “(4) Consumer product containing button cell or coin batteries.—The term ‘consumer product containing button cell or coin batteries’ means a consumer product containing or designed to use one or more button cell or coin batteries, regardless of whether such batteries are intended to be replaced by the consumer or are included with the product or sold separately. “(5) Toy product.—The term ‘toy product’ means any object designed, manufactured, or marketed as a plaything for children under 14 years of age.”
+
+
 <a id="section-2057"></a>
 ## § 2057. Banned hazardous products
 
@@ -1170,7 +1253,7 @@ Section effective on the sixtieth day following Oct. 27, 1972, see section 34 of
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Anti-Drug Abuse Act of 1988, and not as part of the Consumer Product Safety Act which comprises this chapter.
@@ -1189,7 +1272,7 @@ Section was enacted as part of the Anti-Drug Abuse Act of 1988, and not as part 
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Crime Control Act of 1990, and not as part of the Consumer Product Safety Act which comprises this chapter.
@@ -1295,6 +1378,36 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 #### Definition
 For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
+
+<a id="section-2057d"></a>
+## § 2057d. Banning of inclined sleepers for infants
+**(a) In general** Not later than 180 days after May 16, 2022, inclined sleepers for infants, regardless of the date of manufacture, shall be considered a banned hazardous product under [section 2057 of this title](./chapter-047-consumer-product-safety.md#section-2057).
+
+**(b) Inclined sleeper for infants defined** In this section, the term “inclined sleeper for infants” means a product with an inclined sleep surface greater than ten degrees that is intended, marketed, or designed to provide sleeping accommodations for an infant up to 1 year old.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Safe Sleep for Babies Act of 2021, and not as part of the Consumer Product Safety Act which comprises this chapter.
+
+
+<a id="section-2057e"></a>
+## § 2057e. Banning of crib bumpers
+**(a) In general** Not later than 180 days after May 16, 2022, crib bumpers, regardless of the date of manufacture, shall be considered a banned hazardous product under [section 2057 of this title](./chapter-047-consumer-product-safety.md#section-2057).
+
+**(b) Crib bumper defined** In this section, the term “crib bumper”—
+
+(1) means any material that is intended to cover the sides of a crib to prevent injury to any crib occupant from impacts against the side of a crib or to prevent partial or complete access to any openings in the sides of a crib to prevent a crib occupant from getting any part of the body entrapped in any opening;
+
+(2) includes a padded crib bumper, a supported and unsupported vinyl bumper guard, and vertical crib slat covers; and
+
+(3) does not include a non-padded mesh crib liner.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Safe Sleep for Babies Act of 2021, and not as part of the Consumer Product Safety Act which comprises this chapter.
 
 
 <a id="section-2058"></a>
@@ -3004,15 +3117,15 @@ Section effective on the later of 150 days after Oct. 27, 1972, or the date on w
 ### Statutory Notes
 
 #### References in Text
-The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (a), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
-The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart 3 of part F of title III of the Public Health Service Act, which was classified to subpart 3 (§ 263b et seq.) of part F of subchapter II of chapter 6A of Title 42, was redesignated as subchapter C of chapter V of act June 25, 1938, ch. 675, the Federal Food, Drug, and Cosmetic Act, by Pub. L. 101–629, § 19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and was transferred to part C ([21 U.S.C. 360hh](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360hh&num=0&edition=prelim) et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. Section 355 of the Public Health Service Act, which was classified to [section 263c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section263c&num=0&edition=prelim), was renumbered as section 531 of act June 25, 1938, ch. 675, by Pub. L. 101–629, § 19(a)(3), (4), 104 Stat. 4530, and transferred to [section 360hh of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360hh&num=0&edition=prelim). For complete classification of the Public Health Service Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart 3 of part F of title III of the Public Health Service Act, which was classified to subpart 3 (§ 263b et seq.) of part F of subchapter II of chapter 6A of Title 42, was redesignated as subchapter C of chapter V of act June 25, 1938, ch. 675, the Federal Food, Drug, and Cosmetic Act, by Pub. L. 101–629, § 19(a)(4), Nov. 28, 1990, 104 Stat. 4530, and was transferred to part C ([21 U.S.C. 360hh](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360hh&num=0&edition=prelim) et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. Section 355 of the Public Health Service Act, which was classified to [section 263c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section263c&num=0&edition=prelim), was renumbered as section 531 of act June 25, 1938, ch. 675, by Pub. L. 101–629, § 19(a)(3), (4), 104 Stat. 4530, and transferred to [section 360hh of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360hh&num=0&edition=prelim). For complete classification of the Public Health Service Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(2)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(2)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1983—Subsec. (b)(1). Pub. L. 97–414 struck out introductory text “an advance notice of proposed rulemaking for” after “issue”, inserted in subpar. (A) “an advance notice of proposed rulemaking for” before “a consumer” and in subpar. (B) “a notice of proposed rulemaking for” before “a rule”, and substituted in subpar. (C) “an advance notice of proposed rulemaking for regulations” for “a regulation”.
@@ -3439,3 +3552,74 @@ Subsec. (c) of this section effective on the date that is 30 days after Aug. 14,
 
 #### Deadline for Rule by Consumer Product Safety Commission on Standards for All Terrain Vehicles
 Pub. L. 112–28, § 9, Aug. 12, 2011, 125 Stat. 282, provided that: “The Commission shall issue the final rule described in section 42(d) of the Consumer Product Safety Act ([15 U.S.C. 2089(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2089/d&num=0&edition=prelim)) not later than 1 year after the date of enactment of this Act [Aug. 12, 2011].”
+
+
+<a id="section-2090"></a>
+## § 2090. Grant program for carbon monoxide poisoning prevention
+**(a) In general** Subject to the availability of appropriations authorized under subsection (f), the Commission shall establish a grant program to provide assistance to States and Tribal organizations that are eligible under subsection (b) to carry out the carbon monoxide poisoning prevention activities described in subsection (e).
+
+**(b) Eligibility** For the purposes of this section, an eligible State or Tribal organization is any State or Tribal organization that—
+
+(1) demonstrates to the satisfaction of the Commission that the State or Tribal organization has adopted a statute or a rule, regulation, or similar measure with the force and effect of law, requiring compliant carbon monoxide alarms to be installed in dwelling units in accordance with NFPA 72, the IFC, or the IRC; and
+
+(2) submits an application—
+
+  (A) to the Commission at such time, in such form, and containing such additional information as the Commission may require; and
+
+  (B) that may be filed on behalf of the State or Tribal organization by the fire safety code enforcement agency of that State or Tribal organization.
+
+**(c) Grant amount** The Commission shall determine the amount of each grant awarded under this section.
+
+**(d) Selection of grant recipients** In selecting eligible States and Tribal organizations for the award of grants under this section, the Commission shall give favorable consideration to an eligible State or Tribal organization that demonstrates a reasonable need for funding under this section and that—
+
+(1) requires the installation of one or more compliant carbon monoxide alarms in a new or existing educational facility, childcare facility, health care facility, adult dependent care facility, government building, restaurant, theater, lodging establishment, or dwelling unit—
+
+  (A) within which a fuel-burning appliance, including a furnace, boiler, water heater, fireplace, or any other apparatus, appliance, or device that burns fuel, is installed; or
+
+  (B) that has an attached garage; and
+
+(2) has developed a strategy to protect vulnerable populations, such as children, the elderly, or low-income households, from exposure to unhealthy levels of carbon monoxide.
+
+**(e) Use of grant funds**
+
+(1) **In general** — Subject to paragraph (2), an eligible State or Tribal organization to which a grant is awarded under this section may use the grant—
+
+  (A) to purchase and install compliant carbon monoxide alarms in the dwelling units of low-income families or elderly individuals, facilities that commonly serve children or the elderly (including childcare facilities, public schools, and senior centers);
+
+  (B) for the development and dissemination of training materials, instructors, and any other costs relating to the training sessions authorized under this subsection; or
+
+  (C) to educate the public about—
+
+    (i) the risk associated with carbon monoxide as a poison; and
+
+    (ii) the importance of proper carbon monoxide alarm use.
+
+(2) **Limitations**
+
+  (A) *Administrative costs* — An eligible State or Tribal organization to which a grant is awarded under this section may use not more than 5 percent of the grant amount to cover administrative costs that are not directly related to training described in paragraph (1)(B).
+
+  (B) *Public outreach* — An eligible State or Tribal organization to which a grant is awarded under this section may use not more than 25 percent of the grant amount to cover the costs of activities described in paragraph (1)(C).
+
+  (C) *State contributions* — An eligible State to which a grant is awarded under this section shall, with respect to the costs incurred by the State in carrying out activities under the grant, provide non-Federal contributions in an amount equal to not less than 25 percent of the amount of Federal funds provided under the grant to administer the program. This subparagraph shall not apply to Tribal organizations.
+
+**(f) Funding**
+
+(1) **In general** — The Commission shall carry out this title 11 See References in Text note below. using amounts appropriated to the Commission for each of fiscal years 2022 through 2026, to extent such funds are available.
+
+(2) **Limitation on administrative expenses** — In a fiscal year, not more than 10 percent of the amounts appropriated or otherwise made available to carry out this title 1 may be used for administrative expenses.
+
+**(g) Report** Not later than 1 year after the last day of each fiscal year in which grants are awarded under this section, the Commission shall submit to Congress a report that evaluates the implementation of the grant program required under this section.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (f), is title II of div. Q of Pub. L. 117–103, which enacted this section and provisions set out as notes under this section and [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051).
+
+#### Codification
+Section was enacted as part of the Nicholas and Zachary Burt Memorial Carbon Monoxide Poisoning Prevention Act of 2022 and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Consumer Product Safety Act which comprises this chapter.
+
+#### Findings and Sense of Congress
+Pub. L. 117–103, div. Q, title II, § 202, Mar. 15, 2022, 136 Stat. 813, provided that: “(a) Findings.—Congress finds the following:“(1) Carbon monoxide is a colorless, odorless gas produced by burning any fuel. Exposure to unhealthy levels of carbon monoxide can lead to carbon monoxide poisoning, a serious health condition that could result in death. “(2) Unintentional carbon monoxide poisoning from motor vehicles and improper operation of fuel-burning appliances, such as furnaces, water heaters, portable generators, and stoves, annually kills more than 400 individuals and sends approximately 15,000 individuals to hospital emergency rooms for treatment. “(3) Research shows that installing carbon monoxide alarms close to the sleeping areas in residential homes and other dwelling units can help avoid fatalities. “(b) Sense of Congress.—It is the sense of Congress that Congress should promote the installation of carbon monoxide alarms in residential homes and dwelling units across the United States in order to promote the health and public safety of citizens throughout the United States.”
+
+#### Definitions
+Pub. L. 117–103, div. Q, title II, § 203, Mar. 15, 2022, 136 Stat. 813, provided that: “In this title [enacting this section and provisions set out as notes under this section and [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051)]: “(1) Carbon monoxide alarm.—The term ‘carbon monoxide alarm’ means a device or system that—“(A) detects carbon monoxide; and “(B) is intended to sound an alarm at a carbon monoxide concentration below a concentration that could cause a loss of the ability to react to the dangers of carbon monoxide exposure. “(2) Commission.—The term ‘Commission’ means the Consumer Product Safety Commission. “(3) Compliant carbon monoxide alarm.—The term ‘compliant carbon monoxide alarm’ means a carbon monoxide alarm that complies with the most current version of—“(A) the Standard for Single and Multiple Station Carbon Monoxide Alarms of the American National Standards Institute and UL (ANSI/UL 2034), or any successor standard; and “(B) the Standard for Gas and Vapor Detectors and Sensors of the American National Standards Institute and UL (ANSI/UL 2075), or any successor standard. “(4) Dwelling unit.—The term ‘dwelling unit’—“(A) means a room or suite of rooms used for human habitation; and “(B) includes—“(i) a single family residence; “(ii) each living unit of a multiple family residence, including an apartment building; and “(iii) each living unit in a mixed use building. “(5) Fire code enforcement officials.—The term ‘fire code enforcement officials’ means officials of the fire safety code enforcement agency of a State or local government or a Tribal organization. “(6) International fire code.—The term ‘IFC’ means—“(A) the 2015 or 2018 edition of the International Fire Code published by the International Code Council; or “(B) any amended or similar successor code pertaining to the proper installation of carbon monoxide alarms in dwelling units. “(7) International residential code.—The term ‘IRC’ means—“(A) the 2015 or 2018 edition of the International Residential Code published by the International Code Council; or “(B) any amended or similar successor code pertaining to the proper installation of carbon monoxide alarms in dwelling units. “(8) NFPA 720.—The term ‘NFPA 720’ means—“(A) the Standard for the Installation of Carbon Monoxide Detection and Warning Equipment issued by the National Fire Protection Association in 2012; and “(B) any amended or similar successor standard relating to the proper installation of carbon monoxide alarms in dwelling units. “(9) State.—The term ‘State’—“(A) has the meaning given the term in section 3(a) of the Consumer Product Safety Act ([15 U.S.C. 2052(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a&num=0&edition=prelim)); and “(B) includes—“(i) the Commonwealth of the Northern Mariana Islands; and “(ii) any political subdivision of a State. “(10) Tribal organization.—The term ‘Tribal organization’ has the meaning given the term in section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)(l)).”

@@ -199,7 +199,7 @@ Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: �
 
 **(c) Department of Energy loan guarantee program**
 
-(1) Subject to paragraphs (2) and (4), the Secretary of Energy may provide loan guarantees (as defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)) for an amount equal to not more than 90 percent of the unpaid principal and interest due on any loan made to an Indian tribe or a tribal energy development organization for energy development.
+(1) Subject to paragraphs (2) and (4), the Secretary of Energy may provide loan guarantees (as defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim), except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations)) for the unpaid principal and interest due on any loan made to an Indian tribe or a tribal energy development organization for energy development.
 
 (2) In providing a loan guarantee under this subsection for an activity to provide, or expand the provision of, electricity on Indian land, the Secretary of Energy shall encourage cooperative arrangements between Indian tribes and utilities that provide service to Indian tribes, as the Secretary determines to be appropriate.
 
@@ -211,7 +211,7 @@ Pub. L. 109–58, title V, § 504, Aug. 8, 2005, 119 Stat. 778, provided that: �
 
   (C) a tribal energy development organization, from funds of the tribal energy development organization.
 
-(4) The aggregate outstanding amount guaranteed by the Secretary of Energy at any time under this subsection shall not exceed $2,000,000,000.
+(4) The aggregate outstanding amount guaranteed by the Secretary of Energy at any time under this subsection shall not exceed $20,000,000,000.
 
 (5) Not later than 1 year after December 18, 2018, the Secretary of Energy shall issue such regulations as the Secretary of Energy determines are necessary to carry out this subsection.
 
@@ -238,6 +238,10 @@ August 8, 2005, referred to in subsec. (c)(7), was in the original “the date o
 A prior section 3502, Pub. L. 102–486, title XXVI, § 2602, Oct. 24, 1992, 106 Stat. 3113, related to tribal consultation in implementing provisions, prior to the general amendment of this chapter by Pub. L. 109–58.
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–169 substituted “, except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations)) for” for “) for an amount equal to not more than 90 percent of”.
+
+Subsec. (c)(4). Pub. L. 117–169, § 50145(b)(2), substituted “$20,000,000,000” for “$2,000,000,000”.
+
 2020—Subsec. (b)(5)(D), (E). Pub. L. 116–260, § 8013(b), added subpars. (D) and (E).
 
 Subsec. (b)(7). Pub. L. 116–260, § 8013(c), substituted “$30,000,000 for each of fiscal years 2021 through 2025” for “$20,000,000 for each of fiscal years 2006 through 2016”.
@@ -667,7 +671,7 @@ Subsec. (c)(2)(B). Pub. L. 115–325, § 102(2), inserted “or tribal energy de
 #### References in Text
 The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (e)(2)(B)(iii)(XII)(aa) and (h)(2)(A)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203. Titles I and IV of the Act are classified principally to subchapter I (§ 5321 et seq.) and generally to subchapter IV (§ 5361 et seq.), respectively, of chapter 46 of this title. For complete classification of this Act to the Code, see section 1 of Pub. L. 93–638, set out as a Short Title note under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f)(2), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f)(2), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
 
 The Indian Mineral Development Act of 1982, referred to in subsec. (f)(3), is Pub. L. 97–382, Dec. 22, 1982, 96 Stat. 1938, which is classified generally to chapter 23 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-023-development-of-tribal-mineral-resources.md#section-2101) and Tables.
 

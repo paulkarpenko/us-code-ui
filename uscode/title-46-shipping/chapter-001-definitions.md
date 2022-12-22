@@ -20,6 +20,9 @@ In this title, the term “agency” means a department, agency, or instrumental
 
 A definition of “agency” is added to avoid having to repeat the substance of the definition at various places in the revised title.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–146, § 1, June 16, 2022, 136 Stat. 1272, provided that: “This Act [see Tables for classification] may be cited as the ‘Ocean Shipping Reform Act of 2022’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 117–14, § 1, May 24, 2021, 135 Stat. 273, provided that: “This Act [enacting [section 3510 of this title](./chapter-035-carriage-of-passengers.md#section-3510)] may be cited as the ‘Alaska Tourism Restoration Act’.”
 

@@ -488,7 +488,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (1) The Secretary shall implement a system in cooperation with the States to monitor effectively for not less than five years the status of all species which have recovered to the point at which the measures provided pursuant to this chapter are no longer necessary and which, in accordance with the provisions of this section, have been removed from either of the lists published under subsection (c).
 
-(2) The Secretary shall make prompt use of the authority under paragraph 7 22 So in original. Probably should be paragraph “(7)”. of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
+(2) The Secretary shall make prompt use of the authority under paragraph 7 1 of subsection (b) of this section to prevent a significant risk to the well being of any such recovered species.
 
 **(h) Agency guidelines; publication in Federal Register; scope; proposals and amendments: notice and opportunity for comments** The Secretary shall establish, and publish in the Federal Register, agency guidelines to insure that the purposes of this section are achieved efficiently and effectively. Such guidelines shall include, but are not limited to—
 
@@ -982,9 +982,9 @@ This chapter, referred to in subsecs. (a)(1), (i), and (j), was in the original 
 
 The Privacy Act, referred to in subsec. (e)(7)(C), is probably a reference to [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees. See Short Title note set out under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim).
 
-The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (p), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (p), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1988—Subsec. (p). Pub. L. 100–707 substituted “the Disaster Relief and Emergency Assistance Act” for “the Disaster Relief Act of 1974” and “section 405 or 406 of the Disaster Relief and Emergency Assistance Act” for “section 401 or 402 of the Disaster Relief Act of 1974”.
@@ -1773,7 +1773,7 @@ Except as otherwise provided in this chapter, no provision of this chapter shall
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in text, is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act of 1972, referred to in text, is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
 
 <a id="section-1544"></a>

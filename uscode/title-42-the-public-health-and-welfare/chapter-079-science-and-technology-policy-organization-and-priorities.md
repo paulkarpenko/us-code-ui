@@ -2,7 +2,7 @@
 title: 42
 chapter: '79'
 heading: 'SCIENCE AND TECHNOLOGY POLICY, ORGANIZATION AND PRIORITIES'
-section_count: 31
+section_count: 32
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -171,7 +171,7 @@ Ex. Ord. No. 12882, Nov. 23, 1993, 58 F.R. 62493, as amended by Ex. Ord. No. 129
 Ex. Ord. No. 12975, Oct. 3, 1995, 60 F.R. 52063, as amended by Ex. Ord. No. 13018, Sept. 16, 1996, 61 F.R. 49045; Ex. Ord. No. 13046, May 16, 1997, 62 F.R. 27685; Ex. Ord. No. 13137, Sept. 15, 1999, 64 F.R. 50733, which provided for the protection of human research subjects and created the National Bioethics Advisory Commission, was revoked by Ex. Ord. No. 13316, § 3(b), Sept. 17, 2003, 68 F.R. 55256, eff. Sept. 30, 2003.
 
 #### Executive Order No. 13226
-Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323; Ex. Ord. No. 13349, July 23, 2004, 69 F.R. 44891; Ex. Ord. No. 13385, § 8, Sept. 29, 2005, 70 F.R. 57991, which established the President’s Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13539, § 6, Apr. 21, 2010, 75 F.R. 21975, set out below.
+Ex. Ord. No. 13226, Sept. 30, 2001, 66 F.R. 50523, as amended by Ex. Ord. No. 13305, May 28, 2003, 68 F.R. 32323; Ex. Ord. No. 13349, July 23, 2004, 69 F.R. 44891; Ex. Ord. No. 13385, § 8, Sept. 29, 2005, 70 F.R. 57991, which established the President’s Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13539, § 6, Apr. 21, 2010, 75 F.R. 21975, formerly set out below.
 
 #### Extension of Term of President’s Council of Advisors on Science and Technology
 Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
@@ -260,7 +260,7 @@ Sec. 6. General Provisions.
 Barack Obama.
 
 #### Extension of Term of Presidential Commission for the Study of Bioethical Issues
-Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Presidential Commission for the Study of Bioethical Issues were contained in the following prior Executive Orders:
 
@@ -272,7 +272,7 @@ Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 
 Ex. Ord. No. 13539, Apr. 21, 2010, 75 F.R. 21973, as amended by Ex. Ord. No. 13596, § 2, Dec. 19, 2011, 76 F.R. 80725, which established the President’s Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 13895, § 7, Oct. 22, 2019, 84 F.R. 57311, formerly set out below.
 
 #### Extension of Term of President’s Council of Advisors on Science and Technology
-Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President’s Council of Advisors on Science and Technology were contained in the following prior Executive Orders:
 
@@ -438,10 +438,10 @@ Sec. 10. General Provisions.
 Donald J. Trump.
 
 #### Executive Order No. 13895
-Ex. Ord. No. 13895, Oct. 22, 2019, 84 F.R. 57309, which established the The President’s Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 14007, § 6, Jan. 27, 2021, 86 F.R. 7616, set out below.
+Ex. Ord. No. 13895, Oct. 22, 2019, 84 F.R. 57309, which established the President’s Council of Advisors on Science and Technology, was revoked by Ex. Ord. No. 14007, § 6, Jan. 27, 2021, 86 F.R. 7616, set out below.
 
 #### Ex. Ord. No. 14007. President’s Council of Advisors on Science and Technology
-Ex. Ord. No. 14007, Jan. 27, 2021, 86 F.R. 7615, provided:
+Ex. Ord. No. 14007, Jan. 27, 2021, 86 F.R. 7615, as amended by Ex. Ord. No. 14044, Sept. 13, 2021, 86 F.R. 51579, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to establish an advisory council on science, technology, and innovation, it is hereby ordered as follows:
 
@@ -449,7 +449,7 @@ Section 1. Policy. As directed in the Presidential Memorandum of January 27, 202
 
 Sec. 2. Establishment. (a) There is hereby established the President’s Council of Advisors on Science and Technology (PCAST).
 
-(b) The PCAST shall be composed of not more than 26 members. The Assistant to the President for Science and Technology (the “Science Advisor”) shall be a member of the PCAST. The Science Advisor, if also serving as the Director of the Office of Science and Technology Policy, may designate the U.S. Chief Technology Officer as a member. The remaining members shall be distinguished individuals and representatives from sectors outside of the Federal Government appointed by the President. These non-Federal members shall have diverse perspectives and expertise in science, technology, and innovation.
+(b) The PCAST shall be composed of not more than 32 members. The Assistant to the President for Science and Technology (the “Science Advisor”) shall be a member of the PCAST. The Science Advisor, if also serving as the Director of the Office of Science and Technology Policy, may designate the U.S. Chief Technology Officer as a member. The remaining members shall be distinguished individuals and representatives from sectors outside of the Federal Government appointed by the President. These non-Federal members shall have diverse perspectives and expertise in science, technology, and innovation.
 
 (c) The Science Advisor shall serve as a Co-Chair of the PCAST. The President shall also designate at least one, but not more than two, of the non-Federal members to serve as a Co-Chair, or Co-Chairs, of the PCAST with the Science Advisor. The Science Advisor may designate up to three Vice Chairs of the PCAST from among the non-Federal members of the PCAST, to support the Co-Chairs in the leadership and organization of the PCAST.
 
@@ -495,6 +495,9 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 
 J.R. Biden, Jr.
 
+#### Extension of Term of President’s Council of Advisors on Science and Technology
+Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Strengthened Protections for Human Subjects of Classified Research
 Memorandum of President of the United States, Mar. 27, 1997, 62 F.R. 26369, provided:
 
@@ -502,7 +505,7 @@ Memorandum for the Secretary of Defense, the Attorney General, the Secretary of 
 
 I have worked hard to restore trust and ensure openness in government. This memorandum will further our progress toward these goals by strengthening the Federal Government’s protections for human subjects of classified research.
 
-In January 1994, I established the Advisory Committee on Human Radiation Experiments (the “Advisory Committee”) to examine reports that the government had funded and conducted unethical human radiation experiments during the Cold War [see Ex. Ord. No. 12891, set out as a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210)]. I directed the Advisory Committee to uncover the truth, recommend steps to right past wrongs, and propose ways to prevent unethical human subjects research from occurring in the future. In its October 1995 final report, the Advisory Committee recommended, among other things, that the government modify its policy governing classified research on human subjects (“Recommendations for Balancing National Security Interests and the Rights of the Public,” Recommendation 15, Final Report, Advisory Committee on Human Radiation Experiments). This memorandum sets forth policy changes in response to those recommendations.
+In January 1994, I established the Advisory Committee on Human Radiation Experiments (the “Advisory Committee”) to examine reports that the government had funded and conducted unethical human radiation experiments during the Cold War [see Ex. Ord. No. 12891, formerly set out as a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210)]. I directed the Advisory Committee to uncover the truth, recommend steps to right past wrongs, and propose ways to prevent unethical human subjects research from occurring in the future. In its October 1995 final report, the Advisory Committee recommended, among other things, that the government modify its policy governing classified research on human subjects (“Recommendations for Balancing National Security Interests and the Rights of the Public,” Recommendation 15, Final Report, Advisory Committee on Human Radiation Experiments). This memorandum sets forth policy changes in response to those recommendations.
 
 The Advisory Committee acknowledged that it is in the Nation’s interest to continue to allow the government to conduct classified research involving human subjects where such research serves important national security interests. The Advisory Committee found, however, that classified human subjects research should be a “rare event” and that the “subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections.” The Advisory Committee was concerned about “exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified.” The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
 
@@ -625,7 +628,7 @@ Sec. 5. Evidence-Based Policymaking. (a) Heads of agencies shall ensure that the
 
 (b) Within 120 days of the date of this memorandum, after consultation with the Director, the Director of the Office of Management and Budget (OMB) shall issue guidance to improve agencies’ evidence-building plans and annual evaluation plans. Specifically, the Director of OMB shall consider whether, consistent with, and building upon, Executive Order 13707 of September 15, 2015 (Using Behavioral Science Insights to Better Serve the American People) [[5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note], agencies’ evidence-building plans and annual evaluation plans shall include a broad set of methodological approaches for the evidence-based and iterative development and the equitable delivery of policies, programs, and agency operations. Relevant approaches might include use of pilot projects, randomized control trials, quantitative-survey research and statistical analysis, qualitative research, ethnography, research based on data linkages in which records from two or more datasets that refer to the same entity are joined, well-established processes for community engagement and inclusion in research, and other approaches that may be informed by the social and behavioral sciences and data science.
 
-(c) The statutory positions required to be designated by agencies by the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115—435) [see Tables for classification], which include the Evaluation Officer, the Chief Data Officer, and a senior statistical official, shall incorporate scientific-integrity principles consistent with this memorandum into agencies’ data governance and evaluation approaches. Similarly, the Chief Data Officers Council shall incorporate scientific-integrity principles consistent with this memorandum into its efforts to establish government-wide best practices for the use, protection, dissemination, and generation of data, and both the Chief Data Officers Council and the Evaluation Officer Council shall identify ways in which agencies can improve upon the production of evidence for use in policymaking.
+(c) The statutory positions required to be designated by agencies by the Foundations for Evidence-Based Policymaking Act of 2018 (Public Law 115–435) [see Tables for classification], which include the Evaluation Officer, the Chief Data Officer, and a senior statistical official, shall incorporate scientific-integrity principles consistent with this memorandum into agencies’ data governance and evaluation approaches. Similarly, the Chief Data Officers Council shall incorporate scientific-integrity principles consistent with this memorandum into its efforts to establish government-wide best practices for the use, protection, dissemination, and generation of data, and both the Chief Data Officers Council and the Evaluation Officer Council shall identify ways in which agencies can improve upon the production of evidence for use in policymaking.
 
 (d) Consistent with the provisions of the Foundations for Evidence-Based Policymaking Act of 2018, heads of agencies shall, as appropriate and consistent with applicable law, expand open and secure access to Federal data routinely collected in the course of administering Federal, State, local, Tribal, or territorial government programs or fulfilling Federal, State, local, Tribal, or territorial government mandates, such as tax data, vital records, other statistical data, and Social Security Administration earnings and employment reports, to ensure governmental and non-governmental researchers can use Federal data to assess and evaluate the effectiveness and equitable delivery of policies and to suggest improvements. In implementing this provision, heads of agencies shall:
 
@@ -1050,7 +1053,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
   (B) The Panel shall perform such functions as the Chairman may prescribe, and shall meet at the call of the Chairman.
 
-(4) Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) 22 See References in Text note below. of title 5 for persons in government service employed intermittently.
+(4) Each member of the Panel shall, while serving on business of the Panel, be entitled to receive compensation at a rate not to exceed the daily rate prescribed for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), including traveltime, and, while so serving away from his home or regular place of business, he may be allowed travel expenses, including per diem in lieu of subsistence in the same manner as the expenses authorized by section 5703(b) 1 of title 5 for persons in government service employed intermittently.
 
 ### Statutory Notes
 
@@ -1079,36 +1082,122 @@ The Intergovernmental Science, Engineering, and Technology Advisory Panel, estab
 
 
 <a id="section-6615"></a>
-## § 6615. Science and technology report and outlook
-**(a) Contents of report** Notwithstanding the provisions of Reorganization Plan Number 1 of 1977, the Director shall render to the President for submission to the Congress no later than January 15 of each odd numbered year, a science and technology report and outlook (hereinafter referred to as the “report”) which shall be prepared under the guidance of the Office and with the cooperation of the Director of the National Science Foundation, with appropriate assistance from other Federal departments and agencies as the Office or the Director of the National Science Foundation deems necessary. The report shall include—
+## § 6615. National science and technology strategy
+**(a) In general** Not later than December 31 of the year immediately after the calendar year in which a review under [section 6615b of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6615b) is completed, the Director of the Office of Science and Technology Policy shall, in coordination with the National Science and Technology Council, develop and submit to Congress a comprehensive national science and technology strategy of the United States to meet national research and development objectives for the following 4-year period (in this section referred to as “the national science and technology strategy”).
 
-(1) a statement of the President’s current policy for the maintenance of the Nation’s leadership in science and technology;
+**(b) Requirements** In developing each national science and technology strategy described in subsection (a), the Director of the Office of Science and Technology Policy shall—
 
-(2) a review of developments of national significance in science and technology;
+(1) **consider—**
 
-(3) a description of major Federal decisions and actions related to science and technology that have occurred since the previous such report;
+  (A) the recommendations and priorities developed by the review under [section 6615b of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6615b);
 
-(4) a discussion of currently important national issues in which scientific or technical considerations are of major significance;
+  (B) the most recently published interim or final national security strategy report submitted pursuant to [section 3043 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim));
 
-(5) a forecast of emerging issues of national significance resulting from, or identified through, scientific research or in which scientific or technical considerations are of major importance; and
+  (C) other relevant national plans, reports, and strategies; and
 
-(6) a discussion of opportunities for, and constraints on, the use of new and existing scientific and technological information, capabilities, and resources, including manpower resources, to make significant contributions to the achievement of Federal program objectives and national goals.
+  (D) the strategic plans of relevant Federal departments and agencies; and
 
-**(b) Printing; availability to public** The Office shall insure that the report, in the form approved by the President, is printed and made available as a public document.
+(2) **include a description of—**
+
+  (A) strategic objectives and research priorities necessary to maintain and advance—
+
+    (i) the leadership of the United States in science and technology, including in the key technology focus areas, including near-term, medium-term, and long-term economic competitiveness; and
+
+    (ii) the leadership of the United States in technologies required to address societal and national challenges, including a transition to a circular economy;
+
+  (B) programs, policies, and activities that the President recommends across all Federal departments and agencies to achieve the strategic objectives and research priorities described in subparagraph (A);
+
+  (C) plans to promote sustainability practices and strategies for increasing jobs in the United States;
+
+  (D) global trends in science and technology, including potential threats to the leadership of the United States in science and technology and opportunities for international collaboration in science and technology; and
+
+  (E) plans to foster the development of international partnerships to reinforce domestic policy actions, build new markets, engage in collaborative research, and create an international environment that reflects United States values and protects United States interests.
+
+**(c) Consultation** The Director of the Office of Science and Technology Policy shall consult as necessary with the Office of Management and Budget and other appropriate elements of the Executive Office of the President to ensure that the recommendations and priorities delineated in the science and technology strategy are incorporated in the development of annual budget requests.
+
+**(d) Bi-annual briefing to Congress** The Director of the Office of Science and Technology Policy shall provide on a bi-annual basis, after each release of the national science and technology strategy, a briefing to the relevant congressional committees, which may include updates on the following:
+
+(1) The status and development of the national science and technology strategy, including any significant changes.
+
+(2) The implementation of the national science and technology strategy.
+
+(3) Any other information about the national science and technology strategy, as determined by the Director of the Office of Science and Technology Policy.
+
+**(e) Publication** The Director of the Office of Science and Technology Policy shall, consistent with the protection of national security and other sensitive matters to the maximum extent practicable, make each national science and technology strategy publicly available on an internet website of the Office. Each report may include a classified annex if the Director of the Office of Science and Technology Policy determines such is appropriate.
+
+**(f) Termination** This section terminates on the date that is ten years after August 9, 2022.
 
 ### Statutory Notes
-
-#### References in Text
-Reorganization Plan Number 1 of 1977, referred to in subsec. (a), is Reorg. Plan No. 1 of 1977, 42 F.R. 56101, 91 Stat. 1633, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 6618 of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6618), Pub. L. 94–282, title II, § 209, May 11, 1976, 90 Stat. 468, prior to repeal by Pub. L. 97–375, title II, § 215(1), Dec. 21, 1982, 96 Stat. 1826.
 
 #### Amendments
+2022—Pub. L. 117–167 amended section generally. Prior to amendment, section related to biennial science and technology report and outlook.
+
 1982—Pub. L. 97–375 substituted provisions requiring the President to submit to Congress in odd numbered years a science and technology report and outlook for provisions which required the Office of Science and Technology Policy to create a five-year science and technology outlook, dealing with current and emerging problems and with opportunities for and constraints on new and existing capabilities, to be revised annually, composed with the consultation of officials of departments and agencies having related programs and responsibilities, and with officials of the Office of Management and Budget and other appropriate elements of the Executive Office of the President.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (a) of this section relating to submission of biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 16th item on page 42 of House Document No. 103–7.
+
+
+<a id="section-6615b"></a>
+## § 6615b. Quadrennial science and technology review
+**(a) Requirements**
+
+(1) **Quadrennial reviews required** — Not later than December 31, 2023, and every four years thereafter, the Director of the Office of Science and Technology Policy shall complete a review of the science and technology enterprise of the United States (in this section referred to as the “quadrennial science and technology review”).
+
+(2) **Scope** — The quadrennial science and technology review shall be a comprehensive examination of the science and technology strategy of the United States, including recommendations for maintaining global leadership in science and technology and advancing science and technology to address the societal and national challenges and guidance regarding the coordination of programs, assets, capabilities, budget, policies, and authorities across all Federal research and development programs.
+
+(3) **Consultation** — The Director of the Office of Science and Technology Policy shall conduct each quadrennial science and technology review in consultation with the following:
+
+  (A) The National Science and Technology Council.
+
+  (B) The President’s Council of Advisors on Science and Technology.
+
+  (C) The National Science Board.
+
+  (D) The National Security Council.
+
+  (E) The heads of other relevant Federal agencies.
+
+  (F) Other relevant governmental and nongovernmental entities, including representatives from industry, institutions of higher education, nonprofit organizations, Members of Congress, and other policy experts.
+
+(4) **Coordination** — The Director of the Office of Science and Technology Policy shall ensure that each quadrennial science and technology review is coordinated with other relevant statutorily required reviews, and to the maximum extent practicable incorporates information and recommendations from existing reviews to avoid duplication.
+
+**(b) Contents** In each quadrennial science and technology review, the Director of the Office of Science and Technology Policy shall—
+
+(1) provide an integrated view of, and recommendations for, science and technology policy across the Federal Government, while considering economic and national security and other societal and national challenges;
+
+(2) assess and recommend priorities for research, development, and demonstration programs to maintain United States leadership in science and technology, including in manufacturing and industrial innovation;
+
+(3) assess and recommend priorities for research, development, and demonstration programs to address societal and national challenges;
+
+(4) assess the global competition in science and technology and identify potential threats to the leadership of the United States in science and technology and opportunities for international collaboration;
+
+(5) assess and make recommendations on the science, technology, engineering, mathematics, and computer science workforce of the United States;
+
+(6) assess and make recommendations to improve regional innovation across the United States;
+
+(7) identify and assess sectors critical for the long-term resilience of United States innovation leadership across design, manufacturing, supply chains, and markets;
+
+(8) assess and make recommendations to improve translation of basic and applied research and the enhancement of technology transfer of federally funded research;
+
+(9) identify, assess, and make recommendations to address science and technology gaps that would not be met without Federal investment;
+
+(10) review administrative and legislative policies and funding opportunities that affect private sector science and technology activities, and identify and make recommendations regarding policies that maintain and grow the participation and competitiveness of small- and medium-sized businesses;
+
+(11) assess and identify the infrastructure and tools needed to maintain the leadership of the United States in science and technology and address other societal and national challenges; and
+
+(12) review administrative or legislative policies that affect the science and technology enterprise and identify and make recommendations regarding policies that hinder research and development in the United States.
+
+**(c) Reporting**
+
+(1) **In general** — Not later than December 31 of the year in which a quadrennial science and technology review is conducted, the Director of the Office of Science and Technology Policy shall submit to Congress a report relating to such review.
+
+(2) **Publication** — The Director of the Office of Science and Technology Policy shall, consistent with the protection of national security and other sensitive matters to the maximum extent practicable, make each report submitted under paragraph (1) publicly available on an internet website of the Office of Science and Technology Policy. Each report may include a classified annex if the Director of the Office of Science and Technology Policy determines such appropriate.
+
+**(d) Termination** This section shall terminate on the date that is ten years after August 9, 2022.
 
 
 <a id="section-6616"></a>
@@ -1134,11 +1223,11 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 #### Codification
 In subsec. (c)(3), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-#### Abolition of the Federal Coordinating Council for Science, Engineering, and Technology; Transfer of Functions
-See note set out under [section 6651 of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6651).
-
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+#### Abolition of the Federal Coordinating Council for Science, Engineering, and Technology; Transfer of Functions
+See note set out under [section 6651 of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6651).
 
 
 <a id="section-6617"></a>
@@ -1267,19 +1356,27 @@ Section was enacted as part of the America COMPETES Act, also known as the Ameri
 
 (6) a description of all consolidations and terminations of Federal STEM education programs and activities implemented in the previous fiscal year, including an explanation for the consolidations and terminations;
 
-(7) recommendations for reforms, consolidations, and terminations of STEM education programs or activities in the upcoming fiscal year; and
+(7) recommendations for reforms, consolidations, and terminations of STEM education programs or activities in the upcoming fiscal year;
 
-(8) a description of any significant new STEM education public-private partnerships.
+(8) a description of any significant new STEM education public-private partnerships 11 So in original. Probably should be followed by a semicolon.
+
+(9) an account of Federal research agency investments in HBCUs, TCUs, and MSIs, including, to the degree practicable, data on the level of participation of HBCUs, TCUs, and MSIs as prime recipients, contractors, subrecipients, or subcontractors of an award, or reasonable estimates thereof; and
+
+(10) a description of material changes to the implementation of section 10522 of the Research and Development, Competition, and Innovation Act.
 
 ### Statutory Notes
 
 #### References in Text
 Section 303 of the American Innovation and Competitiveness Act, referred to in subsec. (b)(7), is section 303 of Pub. L. 114–329, which is set out as a note under this section.
 
+Section 10522 of the Research and Development, Competition, and Innovation Act, referred to in subsec. (d)(10), is section 10522 of div. B of Pub. L. 117–167, which enacted [section 19181 of this title](./chapter-163-research-and-development-competition-and-innovation.md#section-19181) and amended this section.
+
 #### Codification
 Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and not as part of the National Science and Technology Policy, Organization, and Priorities Act of 1976 which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (d)(9), (10). Pub. L. 117–167 added pars. (9) and (10).
+
 2017—Subsec. (b)(7) to (10). Pub. L. 114–329, § 304(a), added pars. (7) to (10).
 
 Subsec. (c). Pub. L. 114–329, § 304(b)(2), redesignated subsec. (b) relating to responsibilities of OSTP as (c). Former subsec. (c) redesignated (d).
@@ -1589,11 +1686,11 @@ The President’s Committee on Science and Technology, established pursuant to t
 #### References in Text
 [Section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), referred to in subsec. (d), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 95, and, as so amended, does not contain a subsec. (b).
 
-#### Abolition of President’s Committee on Science and Technology; Transfer of Functions
-See note set out under [section 6631 of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6631).
-
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+#### Abolition of President’s Committee on Science and Technology; Transfer of Functions
+See note set out under [section 6631 of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6631).
 
 
 <a id="section-6633"></a>

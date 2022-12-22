@@ -120,7 +120,7 @@ Where any Indian not residing upon a reservation, or for whose tribe no reservat
 ### Statutory Notes
 
 #### References in Text
-This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
+This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
 
 The words “provided in sections 348 and 349 of this title”, referred to in text, were in the original “as herein provided”.
 
@@ -199,7 +199,7 @@ The provisions of this act shall not extend to the territory occupied by the Che
 ### Statutory Notes
 
 #### References in Text
-This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
+This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
 
 #### Sacs and Foxes; Missouri Indians
 No allotment of lands was to be made or annuities of money to be paid to any of the Sacs and Foxes of the Missouri Indians who were not enrolled as members of the tribe on Jan. 1, 1890, by a proviso annexed to act Feb. 28, 1891, ch. 383, § 5, 26 Stat. 796.
@@ -224,7 +224,7 @@ Nothing in this act shall be so construed as to affect the right and power of Co
 ### Statutory Notes
 
 #### References in Text
-This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
+This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
 
 
 <a id="section-342"></a>
@@ -235,7 +235,7 @@ Nothing in this act shall be so construed as to prevent the removal of the South
 ### Statutory Notes
 
 #### References in Text
-This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
+This act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
 
 
 <a id="section-343"></a>
@@ -358,7 +358,7 @@ At the expiration of the trust period and when the lands have been conveyed to t
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, and is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
+This Act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
 
 #### Codification
 Provisions relating to the grant of citizenship to certain Indians born within the territorial limits of the United States were omitted in view of act June 2, 1924, ch. 233, 43 Stat. 253, which granted citizenship to all non-citizen Indians born within the territorial limits of the United States. See [section 1401 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1401&num=0&edition=prelim), Aliens and Nationality.
@@ -440,7 +440,7 @@ No lands acquired under the provisions of this Act shall, in any event, become l
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, as amended, and is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
+This Act, referred to in text, is act Feb. 8, 1887, ch. 119, 24 Stat. 388, and is popularly known as the Indian General Allotment Act. For classification of this Act to the Code, see Short Title note set out under [section 331 of this title](./chapter-009-allotment-of-indian-lands.md#section-331) and Tables.
 
 
 <a id="section-355"></a>

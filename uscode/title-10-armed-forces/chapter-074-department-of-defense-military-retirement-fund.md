@@ -80,7 +80,7 @@ Pub. L. 116–283, § 924(b)(1)(L), substituted “Marine Corps, and Space Force
 
 Subsec. (a)(2). Pub. L. 116–283, § 8223(2), struck out “(other than retired pay payable by the Secretary of Homeland Security)” after “armed forces”.
 
-Subsec. (a)(4). Pub. L. 117–81 struck out the second “that” after “and the Department of Homeland Security that”.
+Subsec. (a)(4). Pub. L. 117–81 substituted “Homeland Security that provide” for “Homeland Security that that provide”.
 
 Pub. L. 116–283, § 8223(3), inserted “and the Department of Homeland Security that” after “Department of Defense”.
 
@@ -197,7 +197,7 @@ Subsec. (b)(1)(A)(ii). Pub. L. 116–283, § 8224(2)(A)(ii), substituted “memb
 
 Subsec. (b)(1)(B)(ii). Pub. L. 116–283, § 8224(2)(A)(iii), struck out “(other than the Coast Guard)” after “armed forces”.
 
-Subsec. (b)(2). Pub. L. 117–81 struck out the second “the” after “the Coast Guard Retired Pay account and the”.
+Subsec. (b)(2). Pub. L. 117–81 substituted “account and the Department” for “account and the the Department”.
 
 Pub. L. 116–283, § 8224(2)(B), inserted “the Coast Guard Retired Pay account and the” after “appropriated to”.
 

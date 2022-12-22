@@ -216,7 +216,7 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Codification
 Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
@@ -300,7 +300,7 @@ Section is comprised of section 2514 of Pub. L. 101–624. Subsec. (d) of sectio
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Amendments
 1990—Pub. L. 101–624 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -332,7 +332,7 @@ Functions of Corporations of Department of Agriculture, boards of directors and 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Amendments
 1990—Pub. L. 101–624, § 2011, inserted at end of subsec. (a) “Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors in addition to any other premiums or discounts related to quality.”
@@ -558,7 +558,7 @@ Section, acts Oct. 31, 1949, ch. 792, title IV, § 406, 63 Stat. 1055; Dec. 23, 
 ### Statutory Notes
 
 #### References in Text
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 308 of act July 10, 1954, ch. 469, title III, as added Sept. 21, 1959, Pub. L. 86–341, title I, § 13, 73 Stat. 609; amended Sept. 27, 1962, Pub. L. 87–703, title II, § 203, 76 Stat. 611, cited as a credit to this section, which enacted [section 1697 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1697&num=0&edition=prelim), was repealed by Pub. L. 89–808, § 2(D), Nov. 11, 1966, 80 Stat. 1535.
@@ -715,7 +715,7 @@ Lyndon B. Johnson.
 #### References in Text
 This Act, referred to in subsec. (a), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, known as the Agricultural Act of 1970. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
-The Disaster Relief and Emergency Assistance Act and the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), are Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§ 5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Disaster Relief and Emergency Assistance Act and the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), are Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. Title VI of the Act is classified generally to subchapter IV–B (§ 5195 et seq.) of chapter 68 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 Act of September 21, 1959, referred to in subsec. (d), is Pub. L. 86–299, Sept. 21, 1959, 73 Stat. 574, as amended, which is set out as a note under [section 1427 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1427).
 
@@ -803,7 +803,7 @@ For the purposes of this Act—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 [Section 1441(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1441/g&num=0&edition=prelim), referred to in subsec. (b), was omitted from the Code.
 
@@ -891,7 +891,7 @@ Determinations made by the Secretary under this Act shall be final and conclusiv
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
 
@@ -904,7 +904,7 @@ This Act shall not be effective with respect to price support operations for any
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Inapplicability of Section
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see [section 9092(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9092/b/10&num=0&edition=prelim).
@@ -1053,7 +1053,7 @@ The Food for Peace Act, referred to in subsec. (b)(1), (6), (7)(D)(iii), is act 
 
 The Food for Progress Act of 1985, referred to in subsec. (b)(1), (7)(D)(iii), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
 
-This Act, referred to in subsec. (b)(3)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in subsec. (b)(3)(A), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 Section 2226 of the American Aid to Poland Act of 1988, referred to in subsec. (b)(7)(D)(ii), is section 2226 of Pub. L. 100–418, which is set out as a note below.
 
@@ -1278,9 +1278,9 @@ Pub. L. 89–808, § 3(a), Nov. 11, 1966, 80 Stat. 1538, provided that the amend
 #### References in Text
 [Section 1431(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/3&num=0&edition=prelim), referred to in subsec. (a), was redesignated as [section 1431(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1431/a/3&num=0&edition=prelim) by Pub. L. 98–258, title V, § 502(1), Apr. 10, 1984, 98 Stat. 137.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was not enacted as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
@@ -1322,7 +1322,7 @@ Section was enacted as part of the Food and Agriculture Act of 1962, and not as 
 ### Statutory Notes
 
 #### References in Text
-The Older Americans Act of 1965, referred to in text, is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Section 311 of the Act, which is classified to [section 3030a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3030a&num=0&edition=prelim), was amended by Pub. L. 106–501, title III, § 309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, provisions which formerly appeared in subsec. (a)(4) were struck out. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
+The Older Americans Act of 1965, referred to in text, is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Section 311 of the Act, which is classified to [section 3030a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3030a&num=0&edition=prelim), was amended by Pub. L. 106–501, title III, § 309, Nov. 13, 2000, 114 Stat. 2246, and, as so amended, provisions which formerly appeared in subsec. (a)(4) were struck out. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1483,7 +1483,7 @@ Notwithstanding any other provision of this Act, the Secretary may make advance 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Effective and Termination Dates
 Pub. L. 99–198, title X, § 1003, Dec. 23, 1985, 99 Stat. 1447, provided that this section is effective for the 1986 through 1990 crops.
@@ -1540,7 +1540,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Codification
 Section was enacted as part of the Food Security Improvements Act of 1986, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
@@ -1614,7 +1614,7 @@ Section was enacted as part of the Agricultural Act of 1970 as added by the Agri
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in subsecs. (a) and (b)(1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsecs. (a) and (b)(1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Codification
 Section was enacted as part of the Food and Agriculture Act of 1977 as added by the Biomass Energy and Alcohol Fuels Act of 1980 which is title II of the Energy and Security Act, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
@@ -1898,7 +1898,7 @@ Section, act Oct. 31, 1949, ch. 792, title I, § 101B, as added Nov. 28, 1990, P
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Adjustment Act of 1938, as amended, referred to in subsec. (b), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (b), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Section was enacted as part of the Agricultural Act of 1956, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
@@ -2055,9 +2055,9 @@ Section, act Oct. 31, 1949, ch. 792, title I, § 102, as added Aug. 28, 1958, Pu
 #### References in Text
 [Section 1441(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1441/d&num=0&edition=prelim), referred to in subsec. (a), was redesignated [section 1441(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1441/c&num=0&edition=prelim) by Pub. L. 108–357, title VI, § 612(b)(4), Oct. 22, 2004, 118 Stat. 1524.
 
-This Act, referred to in subsecs. (d)(1), (11), (12) and (h)(5)(A)(ii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in subsecs. (d)(1), (11), (12) and (h)(5)(A)(ii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(14), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(14), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
 
 [Section 1426 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1426), referred to in subsec. (h)(15), was repealed by Pub. L. 104–127, title I, § 171(b)(2)(I), Apr. 4, 1996, 110 Stat. 938.
 
@@ -2239,9 +2239,9 @@ Pub. L. 95–113, title VI, § 604(c), Sept. 29, 1977, 91 Stat. 939, provided th
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Adjustment Act of 1938, as amended, referred to in subsec. (a), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Agricultural Adjustment Act of 1938, as amended, referred to in subsec. (a), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
-This Act, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Codification
 Subsec. (b)(1) of this section, as added by section 201 of Pub. L. 85–835, enacted section 330 of Agricultural Adjustment Act of 1938, which is classified as [section 1329a of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1329a).
@@ -3024,7 +3024,7 @@ Notwithstanding any other provision of this Act—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in provision preceding subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in provision preceding subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Inapplicability of Section
 Section inapplicable to 2014 through 2018 crops of covered commodities, cotton, and sugar and inapplicable to milk during period beginning Feb. 7, 2014, through Dec. 31, 2018, see [section 9092(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9092/b/6&num=0&edition=prelim).
@@ -3123,7 +3123,7 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in subsec. (a)(1), (2)(G), (H), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Codification
 Section was classified to [section 1445b–2 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1445b-2) prior to its renumbering by Pub. L. 101–624.
@@ -3560,7 +3560,7 @@ The order issued by the President on February 1, 1986, referred to in subsec. (d
 
 Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(2)(E)(i), (F)(i)(I), is classified to [section 902 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section902&num=0&edition=prelim), The Congress, and was amended generally by Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–581. Provisions relating to Presidential orders are contained in [section 904(f)(5) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904/f/5&num=0&edition=prelim).
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(2)(F)(i)(I), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(2)(F)(i)(I), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1991—Subsecs. (b), (c). Pub. L. 102–237 redesignated subsec. (b), relating to price supports for milk, as (c).
@@ -3936,9 +3936,9 @@ In order to prevent the accumulation of excessive inventories of dairy products 
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Agricultural Adjustment Act of 1938, referred to in text, is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
-The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Codification
 Section was enacted as part of the Agricultural Act of 1954, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
@@ -4390,7 +4390,7 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, known as the Agricultural Act of 1949, which is classified principally to this chapter (§ 1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Amendments
 1989—Subsec. (b). Pub. L. 101–82, § 201, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation.”

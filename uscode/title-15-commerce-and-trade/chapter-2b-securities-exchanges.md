@@ -171,7 +171,7 @@ shall be reinstated on motion by the plaintiff not later than 60 days after Dece
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 
 <a id="section-78b"></a>
@@ -4553,7 +4553,7 @@ Section, act June 6, 1934, ch. 404, title II, § 211, 48 Stat. 909, provided for
 #### References in Text
 This chapter, referred to in subsecs. (a), (b)(1), (e), (g), (k), and (l), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
-The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsec. (f), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
 2010—Subsec. (i)(1)(B). Pub. L. 111–203 substituted “minimis” for “minimus” in heading and “the non-audit” for “the nonaudit” in cl. (i).
@@ -5037,7 +5037,7 @@ Section effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as
 #### References in Text
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2012—Subsec. (c)(6). Pub. L. 112–106 added par. (6).
@@ -6190,6 +6190,8 @@ Pub. L. 111–203, title XV, § 1502, July 21, 2010, 124 Stat. 2213, as amended 
 Pub. L. 106–102, title II, § 241, Nov. 12, 1999, 113 Stat. 1407, provided that: “(a) In General.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve. “(b) Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act [[12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)].”
 
 #### Adjustment of Registration Fee Rate
+By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.71 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
+
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
@@ -6563,9 +6565,9 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 #### References in Text
 This chapter, referred to in subsecs. (b) and (h)(1)(A), (2), (3), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
-The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1), and (g)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1), and (g)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
-The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
 2012—Subsec. (i). Pub. L. 112–106 inserted “, for any issuer other than an emerging growth company,” after “including”.
@@ -6648,6 +6650,8 @@ Pub. L. 104–290, title V, § 510(b), Oct. 11, 1996, 110 Stat. 3450, provided t
 Pub. L. 103–202, title III, § 302(c), Dec. 17, 1993, 107 Stat. 2363, provided that the Comptroller General of the United States should, within 18 months after Dec. 17, 1993, conduct a study of the use of fairness opinions in limited partnership rollup transactions, the standards which preparers use in making determinations of fairness, the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers, the nature and quality of disclosures provided with respect to such opinions, any conflicts of interest concerning such opinions, and the usefulness of the opinions to limited partners, with a report required to be sent to Congress by the end of the 18-month period.
 
 #### Adjustment of Registration Fee Rate
+By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.71 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
+
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 
 By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
@@ -6685,7 +6689,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Codification note below.
 
-The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 108–447, which directed amendment of the Securities Exchange Act of 1934 by adding this section at the end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
@@ -7402,7 +7406,7 @@ Pub. L. 100–704, § 9, Nov. 19, 1988, 102 Stat. 4684, provided that: “The am
 Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see section 401 of Pub. L. 99–571, set out as an Effective Date note under section 78o–5 of this title.
 
 #### Effective Date of 1984 Amendment
-Amendment Pub. L. 98–376 effective Aug. 10, 1984, see section 7 of Pub. L. 98–376, set out as a note under [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c).
+Amendment by Pub. L. 98–376 effective Aug. 10, 1984, see section 7 of Pub. L. 98–376, set out as a note under [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c).
 
 #### Effective Date of 1983 Amendment
 Pub. L. 98–38, § 3(b), June 6, 1983, 97 Stat. 207, provided that: “The amendments made by subsection (a) [amending this section] shall become effective six months after the date of enactment of this Act [June 6, 1983].”
@@ -9609,7 +9613,7 @@ Pub. L. 107–204, title V, § 501(c), July 30, 2002, 116 Stat. 793, provided th
 #### References in Text
 This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), (3), (g), and (m)(1), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
-The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to this chapter (§ 78a et seq.). For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to this chapter (§ 78a et seq.). For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 #### Amendments
 2010—Subsec. (b)(1)(A). Pub. L. 111–203, § 932(a)(1)(A), substituted “filed” for “furnished” and “filing” for “furnishing”.
@@ -10107,7 +10111,7 @@ This chapter, referred to in subsecs. (a)(1), (b), (d)(1)(A), (B), (e)(2), (g), 
 
 The Sarbanes-Oxley Act of 2002, referred to in subsec. (e)(1)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745. For complete classification of this Act to the Code, see Short Title note set out under [section 7201 of this title](./chapter-098-public-company-accounting-reform-and-corporate-responsibility.md#section-7201) and Tables.
 
-Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Subchapter VIII of chapter 3 of title 12, referred to in subsec. (h)(3)(B), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 [Section 3401(6) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401/6&num=0&edition=prelim), referred to in subsec. (h)(4)(A), was redesignated [section 3401(7) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401/7&num=0&edition=prelim) by Pub. L. 101–73, title IX, § 941(1), Aug. 9, 1989, 103 Stat. 496.
 
@@ -10861,11 +10865,11 @@ This chapter, referred to in subsec. (a), was in the original “this title”. 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1), (b)(2)(C)(i), (3)(C), (7)(C), (8), (c), (d)(1), (e)(1)(A), (2), (f), (g), and (h), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
-The Securities Act of 1933, referred to in subsec. (h), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsec. (h), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (h), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80b–20 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-20) and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (h), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80b–20 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80b-20) and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (h), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (h), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
 #### Amendments
 2010—Subsec. (b)(1). Pub. L. 111–203, § 916(b)(2), substituted “as soon as practicable after the date of the filing” for “upon the filing”.

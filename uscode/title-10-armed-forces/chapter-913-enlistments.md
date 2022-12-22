@@ -143,9 +143,9 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 The words “former” and “as an enlisted member” are inserted for clarity. The words “credit for service” are substituted for the words “of service”. The words “in his grade” are substituted for the words “in the appropriate enlisted grade”. The words “he applies” are substituted for the words “application * * * shall be made”. The words “Hereafter” and “while on active duty” are omitted as surplusage.
 
 #### Amendments
-2021—Pub. L. 117–81, which directed redesignation of section 9132 (relating to Regular Air Force and Regular Space Force: reenlistment after service as an officer) as section 9138, was executed by substituting “9138” for “9132” in the numerator of this section to reflect the probable intent of Congress.
+2021—Pub. L. 117–81 renumbered [section 9132 of this title](./chapter-913-enlistments.md#section-9132) relating to Regular Air Force and Regular Space Force: reenlistment after service as an officer as this section.
 
-Pub. L. 116–283, § 923(c)(2)(B), which directed amending section 9132 by amending the section number and catchline generally, was executed by substituting “Regular Air Force and Regular Space Force: reenlistment after service as an officer” for “Regular Air Force: reenlistment after service as an officer” in the catchline for this section to reflect the probable intent of Congress.
+Pub. L. 116–283, § 923(c)(2)(B), which directed the amendment of “such section 9132” by substituting “9132” for “9138” as the section designation and “Regular Air Force and Regular Space Force: reenlistment after service as an officer” for “Regular Air Force: reenlistment after service as an officer” as the section catchline, was executed to this section to reflect the probable intent of Congress.
 
 Subsec. (a). Pub. L. 116–283, § 923(c)(2)(A), inserted “or the Regular Space Force” after “Regular Air Force” in two places and “or the Space Force” after “officer of the Air Force” in two places.
 

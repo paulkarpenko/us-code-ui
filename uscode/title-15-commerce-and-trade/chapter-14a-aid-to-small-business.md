@@ -201,6 +201,17 @@ Pub. L. 97–35, title XIX, § 1918, Aug. 13, 1981, 95 Stat. 781, provided that:
 #### Effective Date of 1980 Amendment
 Pub. L. 96–302, title V, § 507, July 2, 1980, 94 Stat. 854, provided that: “This Act [enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section] shall take effect October 1, 1980.”
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–259, § 1, Dec. 21, 2022, 136 Stat. 2387, provided that: “This Act [amending [section 639 of this title](./chapter-14a-aid-to-small-business.md#section-639)] may be cited as the ‘SBA Cyber Awareness Act’.”
+
+Pub. L. 117–249, § 1, Dec. 20, 2022, 136 Stat. 2350, provided that: “This Act [amending [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636) and enacting provisions set out as a note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636)] may be cited as the ‘Disaster Assistance for Rural Communities Act’.”
+
+Pub. L. 117–188, § 1, Oct. 10, 2022, 136 Stat. 2203, provided that: “This Act [amending [section 657 of this title](./chapter-14a-aid-to-small-business.md#section-657)] may be cited as the ‘One Stop Shop for Small Business Compliance Act of 2021’.”
+
+Pub. L. 117–183, § 1, Sept. 30, 2022, 136 Stat. 2180, provided that: “This Act [amending [section 638 of this title](./chapter-14a-aid-to-small-business.md#section-638) and enacting provisions set out as notes under [section 638 of this title](./chapter-14a-aid-to-small-business.md#section-638)] may be cited as the ‘SBIR and STTR Extension Act of 2022’.”
+
+Pub. L. 117–166, § 1, Aug. 5, 2022, 136 Stat. 1365, provided that: “This Act [amending [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636)] may be cited as the ‘PPP and Bank Fraud Enforcement Harmonization Act of 2022’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 117–6, § 1, Mar. 30, 2021, 135 Stat. 250, provided that: “This Act [amending [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636) and enacting provisions set out as a note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636)] may be cited as the ‘PPP Extension Act of 2021’.”
 
@@ -821,11 +832,11 @@ For short title of title III of Pub. L. 96–302, as the Small Business Economic
 #### References in Text
 The Internal Revenue Code, referred to in subsec. (a)(4), is classified to Title 26, Internal Revenue Code.
 
-The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act, referred to in subsec. (a)(4), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
-The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(4), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 [Section 632(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim), referred to in subsec. (e)(3), was redesignated [section 657a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b&num=0&edition=prelim) by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
@@ -1115,7 +1126,7 @@ Section was enacted as part of the Small Business Reauthorization and Manufactur
 
 **(n) “Small business concern owned and controlled by women” defined** For the purposes of this chapter, a small business concern is a small business concern owned and controlled by women if—
 
-(1) at least 51 percent of small business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
+(1) at least 51 percent of small 33 So in original. Probably should be preceded by “the”. business concern is owned by one or more women or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
 
 (2) the management and daily business operations of the business are controlled by one or more women.
 
@@ -1583,7 +1594,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 Pub. L. 104–208, div. D, title I, § 104(b)(2), Sept. 30, 1996, 110 Stat. 3009–731, provided that: “The amendment made by paragraph (1) [amending this section] shall be effective with respect to any disaster occurring on or after March 1, 1994.”
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1987 Amendment
 Pub. L. 100–26, § 12(c), Apr. 21, 1987, 101 Stat. 289, provided that: “The amendments made by sections 5 [amending [section 2365 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2365&num=0&edition=prelim), Armed Forces, and amending provisions set out as notes under sections 1621, 2326, and 2437 of Title 10] and 10 [amending this section, sections 637 and 644 of this title, and provisions set out as a note under this section] shall apply as if included in each instance of the Defense Acquisition Improvement Act (as specified in section 2) [title X of section 101(c) of Pub. L. 99–500 and Pub. L. 99–591, and title IX of div. A of Pub. L. 99–661] when each was enacted [Oct. 18, 1986, Oct. 30, 1986, and Nov. 14, 1986, respectively].”
@@ -1850,7 +1861,7 @@ Pub. L. 111–240, title I, § 1001, Sept. 27, 2010, 124 Stat. 2507, provided th
 #### References in Text
 The effective date of this paragraph, referred to in subsec. (c)(3), is July 1, 1966, pursuant to Pub. L. 89–409, § 2.
 
-The Small Business Investment Act of 1958, referred to in subsecs. (b)(3)(A) and (c)(1), (2), (5)(C), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended. Titles III, IV, and V of the Act are classified generally to subchapters III (§ 681 et seq.), IV (§ 692 et seq.), and V (§ 695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
+The Small Business Investment Act of 1958, referred to in subsecs. (b)(3)(A) and (c)(1), (2), (5)(C), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689. Titles III, IV, and V of the Act are classified generally to subchapters III (§ 681 et seq.), IV (§ 692 et seq.), and V (§ 695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
 
 Section 636(l) of this title, referred to in subsec. (c)(2)(B), was amended generally to read “[RESERVED].” by Pub. L. 104–208, div. D, title I, § 107(d), Sept. 30, 1996, 110 Stat. 3009–732. Subsequently, Pub. L. 111–240, title I, § 1131(a), Sept. 27, 2010, 124 Stat. 2512, struck out that subsec. (l) and added a new subsec. (l).
 
@@ -3798,6 +3809,8 @@ Prior similar provisions were contained in section 206 of act July 30, 1953, ch.
 
       (II) provide the covered recipient with additional covered loan amounts based on that recalculation.
 
+  (W) *Fraud enforcement harmonization.—* — Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to a covered loan guaranteed under this paragraph shall be filed not later than 10 years after the offense was committed.
+
 (37) **Paycheck protection program second draw loans.—**
 
   (A) *Definitions.—* — In this paragraph—
@@ -3999,6 +4012,8 @@ Prior similar provisions were contained in section 206 of act July 30, 1953, ch.
     (i) has received a loan under paragraph (36); and
 
     (ii) on or before the expected date on which the covered loan under this paragraph is disbursed to the eligible entity, has used, or will use, the full amount of the loan received under paragraph (36).
+
+  (P) *Fraud enforcement harmonization.—* — Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to a covered loan guaranteed under this paragraph shall be filed not later than 10 years after the offense was committed.
 
 **(b) Disaster loans; authorization, scope, terms and conditions, etc.** Except as to agricultural enterprises as defined in [section 647(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section647/b/1&num=0&edition=prelim), the Administration also is empowered to the extent and in such amounts as provided in advance in appropriation Acts—
 
@@ -4225,6 +4240,30 @@ Prior similar provisions were contained in section 206 of act July 30, 1953, ch.
   (A) scheduled site visits to ensure borrower eligibility and compliance with requirements established by the Administrator; and
 
   (B) reviews of the use of the loan proceeds by an entity described in paragraph (2) to ensure compliance with requirements established by the Administrator.
+
+(16) **1212 So in original. Two pars. (16) have been enacted. Disaster declaration in rural areas.—**
+
+  (A) *Definitions.—* — In this paragraph—
+
+    (i) the term “rural area” means any county or other political subdivision of a State, the District of Columbia, or a territory or possession of the United States that is designated as a rural area by the Bureau of the Census; and
+
+    (ii) the term “significant damage” means, with respect to property, uninsured losses of not less than 40 percent of the estimated fair replacement value or pre-disaster fair market value of the damaged property, whichever is lower.
+
+  (B) *Disaster declaration.—* — For the purpose of making loans under paragraph (1) or (2), the Administrator may declare a disaster in a rural area for which a major disaster was declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)) and for which individual assistance was not authorized under section 408 of such Act ([42 U.S.C. 5174](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5174&num=0&edition=prelim)) if—
+
+    (i) the Governor of the State or the Chief Executive of the Indian tribal government in which the rural area is located requests such a declaration; and
+
+    (ii) any home, small business concern, private nonprofit organization, or small agricultural cooperative has incurred significant damage in the rural area.
+
+  (C) *SBA report.—* — Not later than 120 days after December 20, 2022, and every year thereafter, the Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report on, with respect to the 1-year period preceding submission of the report—
+
+    (i) any economic injury that resulted from a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)) in a rural area;
+
+    (ii) each request for assistance made by the Governor of a State or the Chief Executive of an Indian tribal government under subparagraph (B)(i) and the response of the Administrator, including the timeline for each response; and
+
+    (iii) any regulatory changes that will impact the ability of communities in rural areas to obtain disaster assistance under this subsection.
+
+(16) **12 Statute of limitations.—** — Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to a loan made under this subsection in response to COVID–19 during the covered period (as defined in [section 9009(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009/a&num=0&edition=prelim)) shall be filed not later than 10 years after the offense was committed.
 No loan under this subsection, including renewals and extensions thereof, may be made for a period or periods exceeding thirty years: Provided, That the Administrator may consent to a suspension in the payment of principal and interest charges on, and to an extension in the maturity of, the Federal share of any loan under this subsection for a period not to exceed five years, if (A) the borrower under such loan is a homeowner or a small business concern, (B) the loan was made to enable (i) such homeowner to repair or replace his home, or (ii) such concern to repair or replace plant or equipment which was damaged or destroyed as the result of a disaster meeting the requirements of clause (A) or (B) of paragraph (2) of this subsection, and (C) the Administrator determines such action is necessary to avoid severe financial hardship: Provided further, That the provisions of paragraph (1) of subsection (d) of this section shall not be applicable to any such loan having a maturity in excess of twenty years. Notwithstanding any other provision of law, and except as provided in subsection (d), the interest rate on the Administration’s share of any loan made under subsection (b) shall not exceed the average annual interest rate on all interest-bearing obligations of the United States then forming a part of the public debt as computed at the end of the fiscal year next preceding the date of the loan and adjusted to the nearest one-eighth of 1 per centum plus one-quarter of 1 per centum: Provided, however, That the interest rate for loans made under paragraphs (1) and (2) hereof shall not exceed the rate of interest which is in effect at the time of the occurrence of the disaster. In agreements to participate in loans on a deferred basis under this subsection, such participation by the Administration shall not be in excess of 90 per centum of the balance of the loan outstanding at the time of disbursement. Notwithstanding any other provision of law, the interest rate on the Administration’s share of any loan made pursuant to paragraph (1) of this subsection to repair or replace a primary residence and/or replace or repair damaged or destroyed personal property, less the amount of compensation by insurance or otherwise, with respect to a disaster occurring on or after July 1, 1976, and prior to October 1, 1978, shall be: 1 per centum on the amount of such loan not exceeding $10,000, and 3 per centum on the amount of such loan over $10,000 but not exceeding $40,000. The interest rate on the Administration’s share of the first $250,000 of all other loans made pursuant to paragraph (1) of this subsection, with respect to a disaster occurring on or after July 1, 1976, and prior to October 1, 1978, shall be 3 per centum. All repayments of principal on the Administration’s share of any loan made under the above provisions shall first be applied to reduce the principal sum of such loan which bears interest at the lower rates provided in this paragraph. The principal amount of any loan made pursuant to paragraph (1) in connection with a disaster which occurs on or after April 1, 1977, but prior to January 1, 1978, may be increased by such amount, but not more than $2,000, as the Administration determines to be reasonable in light of the amount and nature of loss, damage, or injury sustained in order to finance the installation of insulation in the property which was lost, damaged, or injured, if the uninsured, damaged portion of the property is 10 per centum or more of the market value of the property at the time of the disaster. Not later than June 1, 1978, the Administration shall prepare and transmit to the Select Committee on Small Business of the Senate, the Committee on Small Business of the House of Representatives, and the Committees of the Senate and House of Representatives having jurisdiction over measures relating to energy conservation, a report on its activities under this paragraph, including therein an evaluation of the effect of such activities on encouraging the installation of insulation in property which is repaired or replaced after a disaster which is subject to this paragraph, and its recommendations with respect to the continuation, modification, or termination of such activities.
 In the administration of the disaster loan program under paragraphs (1) and (2) of this subsection, in the case of property loss or damage or injury resulting from a major disaster as determined by the President or a disaster as determined by the Administrator which occurs on or after January 1, 1971, and prior to July 1, 1973, the Small Business Administration, to the extent such loss or damage or injury is not compensated for by insurance or otherwise—
 
@@ -4240,7 +4279,7 @@ In the administration of the disaster loan program under paragraphs (1) and (2) 
 
   (ii) with respect to a loan made in connection with a disaster occurring on or after January 1, 1972 but prior to July 1, 1973, the total amount so canceled shall not exceed $5,000 and the interest on the balance of the loan shall be at a rate of 1 percentum per annum.
 
-(E) 1212 See 1980 Amendment note below. A State grant made on or prior to July 1, 1979, shall not be considered compensation for the purpose of applying the provisions of section 312(a) of the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5155(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5155/a&num=0&edition=prelim)] to a disaster loan under paragraph (1) (2) 1313 So in original. Probably should be “or (2)”. of this subsection.
+(E) 1313 See 1980 Amendment note below. A State grant made on or prior to July 1, 1979, shall not be considered compensation for the purpose of applying the provisions of section 312(a) of the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5155(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5155/a&num=0&edition=prelim)] to a disaster loan under paragraph (1) (2) 1414 So in original. Probably should be “or (2)”. of this subsection.
 With respect to any loan referred to in clause (D) which is outstanding on August 16, 1972, the Administrator shall—
 
 (i) make such change in the interest rate on the balance of such loan as is required under that clause effective as of August 16, 1972; and
@@ -4334,7 +4373,7 @@ Whoever wrongfully misapplies the proceeds of a loan obtained under this subsect
 
 (2) During any period in which principal and interest charges are suspended on the Federal share of any loan, as provided in subsection (b), the Administrator shall, upon the request of any person, firm, or corporation having a participation in such loan, purchase such participation, or assume the obligation of the borrower, for the balance of such period, to make principal and interest payments on the non-Federal share of such loan: Provided, That no such payments shall be made by the Administrator in behalf of any borrower unless (i) the Administrator determines that such action is necessary in order to avoid a default, and (ii) the borrower agrees to make payments to the Administration in an aggregate amount equal to the amount paid in its behalf by the Administrator, in such manner and at such times (during or after the term of the loan) as the Administrator shall determine having due regard to the purposes sought to be achieved by this paragraph.
 
-(3) With respect to a disaster occurring on or after October 1, 1978, and prior 1414 So in original. Probably should be “prior to”. August 13, 1981, on the Administration’s share of loans made pursuant to paragraph (1) of subsection (b)—
+(3) With respect to a disaster occurring on or after October 1, 1978, and prior 1515 So in original. Probably should be “prior to”. August 13, 1981, on the Administration’s share of loans made pursuant to paragraph (1) of subsection (b)—
 
   (A) if the loan proceeds are to repair or replace a primary residence and/or repair or replace damaged or destroyed personal property, the interest rate shall be 3 percent on the first $55,000 of such loan;
 
@@ -4362,7 +4401,7 @@ Whoever wrongfully misapplies the proceeds of a loan obtained under this subsect
 
   (D) in the case of a business concern able to obtain credit elsewhere, the rate prescribed by the Administration but not in excess of the lowest of (i) the rate prevailing in the private market for similar loans, (ii) the rate prescribed by the Administration as the maximum interest rate for deferred participation (guaranteed) loans under subsection (a), or (iii) 8 per centum per annum. Loans under this subparagraph shall be limited to a maximum term of 7 years.
 
-(6) Notwithstanding the provisions of any other law, such loans, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall be in amounts equal to 100 per centum of loss. The interest rates for loans made under subsection (b)(1) and (2), as determined pursuant to paragraph (5), shall be the rate of interest which is in effect on the date of the disaster commenced: Provided, That no loan under subsection (b)(1) and (2) shall be made, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis, if the total amount outstanding and committed to the borrower under subsection (b) would exceed $500,000 for each disaster unless an applicant constitutes a major source of employment in an area suffering a disaster, in which case the Administration, in its discretion, may waive the $500,000 limitation: Provided further, That the Administration, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall not reduce the amount of eligibility for any homeowner on account of loss of real estate to less than $100,000 for each disaster nor for any homeowner or lessee on account of loss of personal property to less than $20,000 for each disaster, such sums being in addition to any eligible refinancing: Provided further, That the Administration shall not require collateral for loans of $25,000 or less (or such higher amount as the Administrator determines appropriate in the event of a disaster) which are made under paragraph (1) of subsection (b): Provided further, That the Administrator, in obtaining the best available collateral for a loan of not more than $200,000 under paragraph (1) or (2) of subsection (b) relating to damage to or destruction of the property of, or economic injury to, a small business concern, shall not require the owner of the small business concern to use the primary residence of the owner as collateral if the Administrator determines that the owner has other assets of equal quality and with a value equal to or greater than the amount of the loan that could be used as collateral for the loan: Provided further, That nothing in the preceding proviso may be construed to reduce the amount of collateral required by the Administrator in connection with a loan described in the preceding proviso or to modify the standards used to evaluate the quality (rather than the type) of such collateral. Employees of concerns sharing a common business premises shall be aggregated in determining “major source of employment” status for nonprofit applicants owning such premises.
+(6) Notwithstanding the provisions of any other law, such loans, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall be in amounts equal to 100 per centum of loss. The interest rates for loans made under subsection (b)(1) and (2), as determined pursuant to paragraph (5), shall be the rate of interest which is in effect on the date of the disaster commenced: Provided, That no loan under subsection (b)(1) and (2) shall be made, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis, if the total amount outstanding and committed to the borrower under subsection (b) would exceed $500,000 for each disaster unless an applicant constitutes a major source of employment in an area suffering a disaster, in which case the Administration, in its discretion, may waive the $500,000 limitation: Provided further, That the Administration, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall not reduce the amount of eligibility for any homeowner on account of loss of real estate to less than $100,000 for each disaster nor for any homeowner or lessee on account of loss of personal property to less than $20,000 for each disaster, such sums being in addition to any eligible refinancing: Provided further, That the Administration shall not require collateral for loans of $14,000 or less (or such higher amount as the Administrator determines appropriate in the event of a major disaster) which are made under paragraph (1) of subsection (b): Provided further, That the Administrator, in obtaining the best available collateral for a loan of not more than $200,000 under paragraph (1) or (2) of subsection (b) relating to damage to or destruction of the property of, or economic injury to, a small business concern, shall not require the owner of the small business concern to use the primary residence of the owner as collateral if the Administrator determines that the owner has other assets of equal quality and with a value equal to or greater than the amount of the loan that could be used as collateral for the loan: Provided further, That nothing in the preceding proviso may be construed to reduce the amount of collateral required by the Administrator in connection with a loan described in the preceding proviso or to modify the standards used to evaluate the quality (rather than the type) of such collateral. Employees of concerns sharing a common business premises shall be aggregated in determining “major source of employment” status for nonprofit applicants owning such premises.
 With respect to any loan which is outstanding on April 18, 1984, and which was made on account of a disaster commencing on or after October 1, 1982, the Administrator shall make such change in the interest rate on the balance of such loan as is required herein effective as of April 18, 1984.
 
 (7) The Administration shall not withhold disaster assistance pursuant to this paragraph to nurseries who are victims of drought disasters. As used in subsection (b)(2) the term “an area affected by a disaster” includes any county, or county contiguous thereto, determined to be a disaster by the President, the Secretary of Agriculture or the Administrator of the Small Business Administration.
@@ -4383,7 +4422,7 @@ With respect to any loan which is outstanding on April 18, 1984, and which was m
 
 **(f) Additional requirements for subsection (b) loans**
 
-(1) **1515 So in original. No par. (2) has been enacted. Increased deferment authorized**
+(1) **1616 So in original. No par. (2) has been enacted. Increased deferment authorized**
 
   (A) *In general* — In making loans under subsection (b), the Administrator may provide, to the person receiving the loan, an option to defer repayment on the loan.
 
@@ -4469,7 +4508,7 @@ With respect to any loan which is outstanding on April 18, 1984, and which was m
 
   (A) The Program shall—
 
-    (i) assist small business concerns participating in the Program (either through public or private organizations) to develop and maintain comprehensive business plans which set forth the Program Participant’s specific business targets, objectives, and goals developed and maintained in conformity with subparagraph (D).1616 So in original. The period probably should be a semicolon.
+    (i) assist small business concerns participating in the Program (either through public or private organizations) to develop and maintain comprehensive business plans which set forth the Program Participant’s specific business targets, objectives, and goals developed and maintained in conformity with subparagraph (D).1717 So in original. The period probably should be a semicolon.
 
     (ii) provide for such other nonfinancial services as deemed necessary for the establishment, preservation, and growth of small business concerns participating in the Program, including but not limited to (I) loan packaging, (II) financial counseling, (III) accounting and bookkeeping assistance, (IV) marketing assistance, and (V) management assistance;
 
@@ -4643,7 +4682,7 @@ With respect to any loan which is outstanding on April 18, 1984, and which was m
 
   (C) The transitional stage of program participation shall be designed to overcome, insofar as practicable, the remaining elements of economic disadvantage and to prepare such concern for graduation from the program.
 
-(13) A Program Participant, if otherwise eligible, shall be qualified to receive the following assistance during the stages of program participation specified in paragraph 12: 1717 So in original. Probably should be “paragraph (12):”.
+(13) A Program Participant, if otherwise eligible, shall be qualified to receive the following assistance during the stages of program participation specified in paragraph 12: 1818 So in original. Probably should be “paragraph (12):”.
 
   (A) Contract support pursuant to [section 637(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim).
 
@@ -4909,13 +4948,13 @@ With respect to any loan which is outstanding on April 18, 1984, and which was m
 
       (II) *Review of loan loss reserve* — After the initial 5 years of an intermediary’s participation in the program authorized by this subsection, the Administrator shall, at the request of the intermediary, conduct a review of the annual loss rate of the intermediary. Any intermediary in operation under this subsection prior to October 1, 1994, that requests a reduction in its loan loss reserve shall be reviewed based on the most recent 5-year period preceding the request.
 
-      (III) *Reduction of loan loss reserve* — Subject to the requirements of clause IV,1818 So in original. Probably should be “subclause (IV),”. the Administrator may reduce the annual loan loss reserve requirement of an intermediary to reflect the actual average loan loss rate for the intermediary during the preceding 5-year period, except that in no case shall the loan loss reserve be reduced to less than 10 percent of the outstanding balance of the notes receivable owed to the intermediary.
+      (III) *Reduction of loan loss reserve* — Subject to the requirements of clause IV,1919 So in original. Probably should be “subclause (IV),”. the Administrator may reduce the annual loan loss reserve requirement of an intermediary to reflect the actual average loan loss rate for the intermediary during the preceding 5-year period, except that in no case shall the loan loss reserve be reduced to less than 10 percent of the outstanding balance of the notes receivable owed to the intermediary.
 
       (IV) *Requirements* — The Administrator may reduce the annual loan loss reserve requirement of an intermediary only if the intermediary demonstrates to the satisfaction of the Administrator that—
 
         (aa) the average annual loss rate for the intermediary during the preceding 5-year period is less than 15 percent; and
 
-        (bb) that 1919 So in original. The word “that” probably should not appear. no other factors exist that may impair the ability of the intermediary to repay all obligations owed to the Administration under this subsection.
+        (bb) that 2020 So in original. The word “that” probably should not appear. no other factors exist that may impair the ability of the intermediary to repay all obligations owed to the Administration under this subsection.
 
   (E) *Unavailability of comparable credit* — An intermediary may make a loan under this subsection of more than $20,000 to a small business concern only if such small business concern demonstrates that it is unable to obtain credit elsewhere at comparable interest rates and that it has good prospects for success. In no case shall an intermediary make a loan under this subsection of more than $50,000, or have outstanding or committed to any 1 borrower more than $50,000.
 
@@ -4935,7 +4974,7 @@ With respect to any loan which is outstanding on April 18, 1984, and which was m
 
       (II) be based in the second and subsequent years of an intermediary’s participation in the program, upon the actual lending practices of the intermediary during the term of the intermediary’s participation in the program.
 
-    (vii) *2020 So in original. Probably should be “(vi)”. Covered intermediaries* — The interest rates prescribed in this subparagraph shall apply to all loans made to intermediaries under this subsection on or after October 28, 1991.
+    (vii) *2121 So in original. Probably should be “(vi)”. Covered intermediaries* — The interest rates prescribed in this subparagraph shall apply to all loans made to intermediaries under this subsection on or after October 28, 1991.
 
   (G) *Delayed payments* — The Administration shall not require repayment of interest or principal of a loan made to an intermediary under this subsection during the first year of the loan.
 
@@ -5041,7 +5080,7 @@ With respect to any loan which is outstanding on April 18, 1984, and which was m
 
   (A) *In general* — The Administration may procure technical assistance for intermediaries participating in the Microloan Program to ensure that such intermediaries have the knowledge, skills, and understanding of microlending practices necessary to operate successful microloan programs.
 
-  (B) *Assistance amount* — The Administration shall transfer 7 percent of its annual appropriation for loans and loan guarantees under this subsection to the Administration’s Salaries and Expense Account for the specific purpose of providing 1 or more technical assistance grants to experienced microlending organizations and national and regional nonprofit organizations that have demonstrated experience in providing training support for microenterprise development and financing.2121 So in original. The period probably should not appear. to achieve the purpose set forth in subparagraph (A).
+  (B) *Assistance amount* — The Administration shall transfer 7 percent of its annual appropriation for loans and loan guarantees under this subsection to the Administration’s Salaries and Expense Account for the specific purpose of providing 1 or more technical assistance grants to experienced microlending organizations and national and regional nonprofit organizations that have demonstrated experience in providing training support for microenterprise development and financing.2222 So in original. The period probably should not appear. to achieve the purpose set forth in subparagraph (A).
 
   (C) *Welfare-to-work microloan initiative* — Of amounts made available to carry out the welfare-to-work microloan initiative under paragraph (1)(A)(iv) in any fiscal year, the Administration may use not more than 5 percent to provide technical assistance, either directly or through contractors, to welfare-to-work microloan initiative grantees, to ensure that, as grantees, they have the knowledge, skills, and understanding of microlending and welfare-to-work transition, and other related issues, to operate a successful welfare-to-work microloan initiative.
 
@@ -5086,7 +5125,7 @@ With respect to any loan which is outstanding on April 18, 1984, and which was m
 
     (i) in a nonmetropolitan county (as defined by the Secretary of Agriculture) or its equivalent thereof; or
 
-    (ii) in a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural.2222 So in original. The period probably should be “; and”.
+    (ii) in a metropolitan county or its equivalent that has a resident population of less than 20,000 if the Small Business Administration has determined such political subdivision or area to be rural.2323 So in original. The period probably should be “; and”.
 
   (D) the term “economically distressed area”, as used in paragraph (4), means a county or equivalent division of local government of a State in which the small business concern is located, in which, according to the most recent data available from the Bureau of the Census, Department of Commerce, not less than 40 percent of residents have an annual income that is at or below the poverty level.
 
@@ -5135,9 +5174,6 @@ With respect to any loan which is outstanding on April 18, 1984, and which was m
     (ii) implement a program to provide for the deferral of repayment or other relief to any intermediary providing relief to a small business borrower under this paragraph.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)(6)
-Pub. L. 114–88, div. B, title I, § 2102(b), Nov. 25, 2015, 129 Stat. 690, as amended by Pub. L. 115–280, § 1, Nov. 29, 2018, 132 Stat. 4190; Pub. L. 116–70, § 2, Nov. 22, 2019, 133 Stat. 1145, provided that, effective on the date that is 7 years after Nov. 25, 2015, subsection (d)(6) of this section is amended in the third proviso by striking “$25,000” and inserting “$14,000” and by inserting “major” before “disaster”. See 2015 Amendment note below.
 
 #### References in Text
 Subsections (b) and (c) of [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631), referred to in subsecs. (a)(11) and (i)(1), were redesignated subsections (c) and (d), respectively, and a new subsection (b) was added by Pub. L. 100–418, title VIII, § 8002, Aug. 23, 1988, 102 Stat. 1553.
@@ -5215,6 +5251,14 @@ Provisions similar to those comprising subsec. (e) of this section were containe
 Prior similar provisions were contained in section 207 of act July 30, 1953, ch. 282, title II, 67 Stat. 235, as amended by acts Aug. 9, 1955, ch. 628, §§ 2, 5, 69 Stat. 547; Feb. 2, 1956, ch. 29, §§ 2, 3, 70 Stat. 10; Pub. L. 85–335, Feb. 22, 1958, 72 Stat. 27, which was previously classified to this section. See Codification note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2022—Subsec. (a)(36)(W). Pub. L. 117–166, § 2(a), added subpar. (W).
+
+Subsec. (a)(37)(P). Pub. L. 117–166, § 2(b), added subpar. (P).
+
+Subsec. (b)(16). Pub. L. 117–249 added par. (16) relating to disaster declaration in rural areas
+
+Pub. L. 117–165 added par. (16) relating to statute of limitations.
+
 2021—Subsec. (a)(36)(A)(iii). Pub. L. 117–6 substituted “June 30, 2021” for “March 31, 2021”.
 
 Subsec. (a)(36)(A)(xvii). Pub. L. 117–2, § 5001(a)(1)(A), added cl. (xvii).
@@ -6356,6 +6400,8 @@ Amendment by Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L.
 Pub. L. 89–409, § 3(c), May 2, 1966, 80 Stat. 133, provided that: “This section [amending this section, repealing [section 637a of this title](./chapter-14a-aid-to-small-business.md#section-637a), and enacting provisions set out as a note under [section 633 of this title](./chapter-14a-aid-to-small-business.md#section-633)] shall take effect on July 1, 1966.”
 
 #### Regulations
+Pub. L. 117–249, § 2(b), Dec. 20, 2022, 136 Stat. 2351, provided that: “Not later than 120 days after the date of enactment of this Act [Dec. 20, 2022], the Administrator of the Small Business Administration shall issue regulations to carry out the amendment made by subsection (a) [amending this section].”
+
 Pub. L. 116–136, div. A, title I, § 1102(e), Mar. 27, 2020, 134 Stat. 294, provided that: “On and after the date of enactment of this Act [Mar. 27, 2020], the interim final rule published by the Administrator entitled ‘Express Loan Programs: Affiliation Standards’ (85 Fed. Reg. 7622 (February 10, 2020)) is permanently rescinded and shall have no force or effect.”
 
 Pub. L. 111–240, title I, § 1131(b), Sept. 27, 2010, 124 Stat. 2514, provided that: “Not later than 180 days after the date of enactment of this Act [Sept. 27, 2010], the Administrator [of the Small Business Administration] shall issue regulations to carry out section 7(l) of the Small Business Act [[15 U.S.C. 636](./chapter-14a-aid-to-small-business.md#section-636)(l)], as amended by subsection (a).”
@@ -8707,13 +8753,13 @@ Pub. L. 106–398, § 1 [[div. A], title VIII, § 810(e)], Oct. 30, 2000, 114 St
 #### Effective Date of 1997 Amendments
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
-Amendment by Pub. L. 105–85 effective 180 days after Nov. 18, 1997, see section 850(g) of Pub. L. 105–85, set out as a note under [section 2304 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim), Armed Forces.
+Pub. L. 105–85, div. A, title VIII, § 850(g), Nov. 18, 1997, 111 Stat. 1850, provided that: “(1) Except as provided in paragraph (2), the amendments made by this section [amending this section, former sections 2302c and 2304 of Title 10, Armed Forces, section 1501 of former Title 40, Public Buildings, Property, and Works, and sections 252c, 253, 416, 426, and 427 of Title 41, Public Contracts, repealing [section 426a of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section426a&num=0&edition=prelim), amending provisions set out as a note under [section 413 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section413&num=0&edition=prelim), and repealing provisions set out as a note under [section 426a of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section426a&num=0&edition=prelim)] shall take effect 180 days after the date of the enactment of this Act [Nov. 18, 1997]. “(2) The repeal made by subsection (c) of this section [repealing provisions set out as a note under [section 426a of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section426a&num=0&edition=prelim)] shall take effect on the date of the enactment of this Act.”
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–37 applicable as if included in Pub. L. 100–656, see section 32 of Pub. L. 101–37, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
@@ -8991,9 +9037,21 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (F) an accounting of funds, initiatives, and outcomes under the Commercialization Readiness Program;
 
-  (G) a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k); and
+  (G) a description of the extent to which Federal agencies are providing in a timely manner information needed to maintain the database described in subsection (k);
 
   (H) with respect to a Federal agency to which subsection (f)(1) or (n)(1) applies, whether the Federal agency has complied with the applicable subsection for the year covered by the report;
+
+  (I) the number of applications submitted to each Federal agency participating in the SBIR or STTR program in innovation open topics as compared to conventional topics, and how many small business concerns receive funding from open topics compared to conventional topics;
+
+  (J) the total number and dollar amount, and average size, of awards made by each Federal agency participating in the SBIR or STTR program, by phase, from—
+
+    (i) open topics; and
+
+    (ii) conventional topics;
+
+  (K) the minimum performance standards established under subsection (qq), including any applicable modifications under paragraph (3) of such subsection, and the number of small business concerns that did not meet those minimum performance standards, provided that the Administrator does not publish any personally identifiable information, the identity of each such small business concern, or any otherwise sensitive information; and
+
+  (L) the aggregate number and dollar amount of SBIR and STTR awards made pursuant to waivers under subsection (qq)(3)(E), provided that the Administrator does not publish any personally identifiable information, the identity of each such small business concern, or any otherwise sensitive information;
 
 (8) to provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing);
 
@@ -9093,9 +9151,23 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (A) with respect to the SBIR program, the third phase described in paragraph (4)(C); and
 
-  (B) with respect to the STTR program, the third phase described in paragraph (6)(C); and
+  (B) with respect to the STTR program, the third phase described in paragraph (6)(C);
 
-(14) the term “senior procurement executive” means an official designated under [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim) as the senior procurement executive of a Federal agency participating in a SBIR or STTR program.
+(14) the term “senior procurement executive” means an official designated under [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim) as the senior procurement executive of a Federal agency participating in a SBIR or STTR program;
+
+(15) the term “covered individual” means an individual who—
+
+  (A) contributes in a substantive, meaningful way to the scientific development or execution of a research and development project proposed to be carried out with a research and development award from a Federal research agency; and
+
+  (B) is designated as a covered individual by the Federal research agency concerned;
+
+(16) the term “foreign affiliation” means a funded or unfunded academic, professional, or institutional appointment or position with a foreign government or government-owned entity, whether full-time, part-time, or voluntary (including adjunct, visiting, or honorary);
+
+(17) the term “foreign country of concern” means the People’s Republic of China, the Democratic People’s Republic of Korea, the Russian Federation, the Islamic Republic of Iran, or any other country determined to be a country of concern by the Secretary of State;
+
+(18) the term “malign foreign talent recruitment program” has the meaning given such term in [section 19237 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section19237&num=0&edition=prelim); and
+
+(19) the term “federally funded award” means a Phase I, Phase II (including a Phase II award under subsection (cc)), or Phase III SBIR or STTR award made using a funding agreement.
 
 **(f) Federal agency expenditures for SBIR program**
 
@@ -9190,9 +9262,65 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (10) include, as part of its annual performance plan as required by subsections (a) and (b) of [section 1115 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115&num=0&edition=prelim), a section on its SBIR program, which section shall describe whether or not the Federal agency complied with the requirements of subsection (f) for the year covered by that plan and include a justification for failure to comply (if applicable),,33 So in original. and shall submit such section to the Committee on Small Business of the Senate, and the Committee on Science and the Committee on Small Business of the House of Representatives;
 
-(11) provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing); and
+(11) provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing);
 
-(12) provide timely notice to the Administrator of any case or controversy before any Federal judicial or administrative tribunal concerning the SBIR program of the Federal agency.
+(12) provide timely notice to the Administrator of any case or controversy before any Federal judicial or administrative tribunal concerning the SBIR program of the Federal agency;
+
+(13) require each small business concern submitting a proposal or application for a federally funded award to disclose in the proposal or application—
+
+  (A) the identity of all owners and covered individuals of the small business concern who are a party to any foreign talent recruitment program of any foreign country of concern, including the People’s Republic of China;
+
+  (B) the existence of any joint venture or subsidiary of the small business concern that is based in, funded by, or has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
+
+  (C) any current or pending contractual or financial obligation or other agreement specific to a business arrangement, or joint venture-like arrangement with an enterprise owned by a foreign state or any foreign entity;
+
+  (D) whether the small business concern is wholly owned in the People’s Republic of China or another foreign country of concern;
+
+  (E) the percentage, if any, of venture capital or institutional investment by an entity that has a general partner or individual holding a leadership role in such entity who has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
+
+  (F) any technology licensing or intellectual property sales to a foreign country of concern, including the People’s Republic of China, during the 5-year period preceding submission of the proposal; and
+
+  (G) any foreign business entity, offshore entity, or entity outside the United States related to the small business concern;
+
+(14) after reviewing the disclosures of a small business concern under paragraph (13), and if determined appropriate by the head of such Federal agency, request such small business concern to provide true copies of any contractual or financial obligation or other agreement specific to a business arrangement, or joint-venture like arrangement with an enterprise owned by a foreign state or any foreign entity in effect during the 5-year period preceding submission of the proposal with respect to which such small business concern made such disclosures;
+
+(15) not make an award under the SBIR program of the Federal agency to a small business concern if the head of the Federal agency determines that—
+
+  (A) the small business concern submitting the proposal or application—
+
+    (i) has an owner or covered individual that is party to a malign foreign talent recruitment program;
+
+    (ii) has a business entity, parent company, or subsidiary located in the People’s Republic of China or another foreign country of concern; or
+
+    (iii) has an owner or covered individual that has a foreign affiliation with a research institution located in the People’s Republic of China or another foreign country of concern; and
+
+  (B) the relationships and commitments described in clauses (i) through (iii) of subparagraph (A)—
+
+    (i) interfere with the capacity for activities supported by the Federal agency to be carried out;
+
+    (ii) create duplication with activities supported by the Federal agency;
+
+    (iii) present concerns about conflicts of interest;
+
+    (iv) were not appropriately disclosed to the Federal agency;
+
+    (v) violate Federal law or terms and conditions of the Federal agency; or
+
+    (vi) pose a risk to national security;
+
+(16) require a small business concern receiving an award under its SBIR program to repay all amounts received from the Federal agency under the award if—
+
+  (A) the small business concern makes a material misstatement that the Federal agency determines poses a risk to national security; or
+
+  (B) there is a change in ownership, change to entity structure, or other substantial change in circumstances of the small business concern that the Federal agency determines poses a risk to national security; and
+
+(17) require a small business concern receiving an award under its SBIR program to regularly report to the Federal agency and the Administration throughout the duration of the award on—
+
+  (A) any change to a disclosure required under subparagraphs (A) through (G) of paragraph (13);
+
+  (B) any material misstatement made under paragraph (16)(A); and
+
+  (C) any change described in paragraph (16)(B).
 
 **(h) Establishment of goals for funding agreements for research or research and development to small business concerns by agencies having budg­ets for research and development** In addition to the requirements of subsection (f), each Federal agency which has a budget for research or research and development in excess of $20,000,000 for any fiscal year beginning with fiscal year 1983 or subsequent fiscal year shall establish goals specifically for funding agreements for research or research and development to small business concerns, and no goal established under this subsection shall be less than the percentage of the agency’s research or research and development budget expended under funding agreements with small business concerns in the immediately preceding fiscal year.
 
@@ -9394,13 +9522,13 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (3) **Critical technology awards** — An agency referred to in paragraph (1) shall include in its next annual report required under subsection (g)(8), an accounting of the number of awards it has made to critical technology topics, as defined in subsection (g)(3), including an identification of the specific critical technologies topics, and the percentage by number and dollar amount of the agency’s total SBIR awards to such critical technology topics.
 
-**(m) Termination** The authorization to carry out the Small Business Innovation Research Program established under this section shall terminate on September 30, 2022.
+**(m) Termination** The authorization to carry out the Small Business Innovation Research Program established under this section shall terminate on September 30, 2025.
 
 **(n) Required expenditures for STTR by Federal agencies**
 
 (1) **Required expenditure amounts**
 
-  (A) *In general* — With respect to each fiscal year through fiscal year 2022, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, shall expend with small business concerns not less than the percentage of that extramural budget specified in subparagraph (B), specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.
+  (A) *In general* — With respect to each fiscal year through fiscal year 2025, each Federal agency that has an extramural budget for research, or research and development, in excess of $1,000,000,000 for that fiscal year, shall expend with small business concerns not less than the percentage of that extramural budget specified in subparagraph (B), specifically in connection with STTR programs that meet the requirements of this section and any policy directives and regulations issued under this section.
 
   (B) *Expenditure amounts* — The percentage of the extramural budget required to be expended by an agency in accordance with subparagraph (A) shall be—
 
@@ -9504,9 +9632,65 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (14) implement an outreach program to research institutions and small business concerns for the purpose of enhancing its STTR program, in conjunction with any such outreach done for purposes of the SBIR program;
 
-(15) provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing); and
+(15) provide for and fully implement the tenets of Executive Order No. 13329 (Encouraging Innovation in Manufacturing);
 
-(16) provide timely notice to the Administrator of any case or controversy before any Federal judicial or administrative tribunal concerning the STTR program of the Federal agency.
+(16) provide timely notice to the Administrator of any case or controversy before any Federal judicial or administrative tribunal concerning the STTR program of the Federal agency;
+
+(17) require each small business concern submitting a proposal or application for a federally funded award to disclose in the proposal or application—
+
+  (A) the identity of all owners and covered individuals of the small business concern who are a party to any foreign talent recruitment program of any foreign country of concern, including the People’s Republic of China;
+
+  (B) the existence of any joint venture or subsidiary of the small business concern that is based in, funded by, or has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
+
+  (C) any current or pending contractual or financial obligation or other agreement specific to a business arrangement, or joint venture-like arrangement with an enterprise owned by a foreign state or any foreign entity;
+
+  (D) whether the small business concern is wholly owned in the People’s Republic of China or another foreign country;
+
+  (E) the percentage, if any, of venture capital or institutional investment by an entity that has a general partner or individual holding a leadership role in such entity who has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
+
+  (F) any technology licensing or intellectual property sales to a foreign country of concern, including the People’s Republic of China, during the 5-year period preceding submission of the proposal; and
+
+  (G) any foreign business entity, offshore entity, or entity outside the United States related to the small business concern;
+
+(18) after reviewing the disclosures of a small business concern under paragraph (17), and if determined appropriate by the head of such Federal agency, request such small business concern to provide true copies of any contractual or financial obligation or other agreement specific to a business arrangement, or joint-venture like arrangement with an enterprise owned by a foreign state or any foreign entity in effect during the 5-year period preceding submission of the proposal with respect to which such small business concern made such disclosures;
+
+(19) not make an award under the STTR program of the Federal agency to a small business concern if the head of the Federal agency determines that—
+
+  (A) the small business concern submitting the proposal or application—
+
+    (i) has an owner or covered individual that is party to a malign foreign talent recruitment program;
+
+    (ii) has a business entity, parent company, or subsidiary located in the People’s Republic of China or another foreign country of concern; or
+
+    (iii) has an owner or covered individual that has a foreign affiliation with a research institution located in the People’s Republic of China or another foreign country of concern; and
+
+  (B) the relationships and commitments described in clauses (i) through (iii) of subparagraph (A)—
+
+    (i) interfere with the capacity for activities supported by the Federal agency to be carried out;
+
+    (ii) create duplication with activities supported by the Federal agency;
+
+    (iii) present concerns about conflicts of interest;
+
+    (iv) were not appropriately disclosed to the Federal agency;
+
+    (v) violate Federal law or terms and conditions of the Federal agency; or
+
+    (vi) pose a risk to national security;
+
+(20) require a small business concern receiving an award under its STTR program to repay all amounts received from the Federal agency under the award if—
+
+  (A) the small business concern makes a material misstatement that the Federal agency determines poses a risk to national security; or
+
+  (B) there is a change in ownership, change to entity structure, or other substantial change in circumstances of the small business concern that the Federal agency determines poses a risk to national security; and
+
+(21) require a small business concern receiving an award under its STTR program to regularly report to the Federal agency and the Administration throughout the duration of the award on—
+
+  (A) any change to a disclosure required under subparagraphs (A) through (G) of paragraph (17);
+
+  (B) any material misstatement made under paragraph (20)(A); and
+
+  (C) any change described in paragraph (20)(B).
 
 **(p) STTR policy directive**
 
@@ -9682,7 +9866,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (2) **Utilization of plans** — The criteria and procedures described in paragraph (1) shall be developed through the use of the most current versions of the following plans:
 
-  (A) The Joint Warfighting Science and Technology Plan required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; [10 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501&num=0&edition=prelim) note).
+  (A) The Joint Warfighting Science and Technology Plan required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; [10 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501&num=0&edition=prelim) note).1
 
   (B) The Defense Technology Area Plan of the Department of Defense.
 
@@ -9808,7 +9992,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (3) **Preventing duplicative awards** — The head of a Federal agency shall verify that any activity to be performed with respect to a project with a Phase I or Phase II SBIR or STTR award has not been funded under the SBIR program or STTR program of another Federal agency.
 
-**(cc) Phase flexibility** During fiscal years 2012 through 2022, the National Institutes of Health, the Department of Defense, and the Department of Education may each provide to a small business concern an award under Phase II of the SBIR program with respect to a project, without regard to whether the small business concern was provided an award under Phase I of an SBIR program with respect to such project, if the head of the applicable agency determines that the small business concern has completed the determinations described in subsection (e)(4)(A) with respect to such project despite not having been provided a Phase I award.
+**(cc) Phase flexibility** During fiscal years 2012 through 2025, the National Institutes of Health, the Department of Defense, and the Department of Education may each provide to a small business concern an award under Phase II of the SBIR program with respect to a project, without regard to whether the small business concern was provided an award under Phase I of an SBIR program with respect to such project, if the head of the applicable agency determines that the small business concern has completed the determinations described in subsection (e)(4)(A) with respect to such project despite not having been provided a Phase I award.
 
 **(dd) Participation of small business concerns majority-owned by venture capital operating companies, hedge funds, or private equity firms in the SBIR program**
 
@@ -9916,7 +10100,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (6) **Report** — The head of each covered Federal agency shall include in the annual report of the covered Federal agency to the Administrator an analysis of the various activities considered for inclusion in the pilot program of the covered Federal agency and a statement of the reasons why each activity considered was included or not included, as the case may be.
 
-(7) **Termination** — The authority to establish a pilot program under this section expires at the end of fiscal year 2022.
+(7) **Termination** — The authority to establish a pilot program under this section expires at the end of fiscal year 2025.
 
 (8) **Definitions** — In this subsection—
 
@@ -9950,7 +10134,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (B) *Consultation* — In carrying out the pilot program under subparagraph (A), the Director of Defense Procurement and Acquisition Policy of the Department of Defense shall consult with the Director of the Office of Small Business Programs of the Department of Defense.
 
-  (C) *Termination* — The pilot program under subparagraph (A) shall terminate on September 30, 2022.
+  (C) *Termination* — The pilot program under subparagraph (A) shall terminate on September 30, 2025.
 
 **(ii) Reporting on timing**
 
@@ -10046,7 +10230,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (E) an analysis of the program’s effectiveness with supporting data.
 
-(7) **Sunset** — The pilot program under this subsection shall terminate at the end of fiscal year 2022.
+(7) **Sunset** — The pilot program under this subsection shall terminate at the end of fiscal year 2025.
 
 **(kk) Phase III reporting** The annual SBIR or STTR report to Congress by the Administration under subsection (b)(7) shall include, for each Phase III award—
 
@@ -10068,7 +10252,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **(mm) Assistance for administrative, oversight, and contract processing costs**
 
-(1) **In general** — Subject to paragraph (3) and until September 30, 2022, the Administrator shall allow each Federal agency required to conduct an SBIR program to use not more than 3 percent of the funds allocated to the SBIR program of the Federal agency for—
+(1) **In general** — Subject to paragraph (3) and until September 30, 2025, the Administrator shall allow each Federal agency required to conduct an SBIR program to use not more than 3 percent of the funds allocated to the SBIR program of the Federal agency for—
 
   (A) the administration of the SBIR program or the STTR program of the Federal agency;
 
@@ -10180,13 +10364,119 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (B) *Consequence of failure to meet minimum commercialization rate* — If the head of a Federal agency determines that a small business concern that received a Phase I SBIR or STTR award from the agency is not meeting the minimum performance standard established under subparagraph (A)(ii), such concern may not participate in Phase I (or Phase II if under the authority of subsection (cc)) of the SBIR or STTR program of that agency during the 1-year period beginning on the date on which such determination is made.
 
-(3) **Administration oversight**
+(3) **Increased minimum performance standards for experienced firms**
+
+  (A) *Progress to Phase II success*
+
+    (i) *In general* — With respect to a small business concern that received or receives more than 50 Phase I awards during a covered period, each minimum performance standard established under paragraph (1)(A)(ii) shall be doubled for such covered period.
+
+    (ii) *Consequence of failure to meet standard* — If the head of a Federal agency determines that a small business concern that received a Phase I award from the Federal agency is not meeting an applicable increased minimum performance standard modified under clause (i), the small business concern may not receive more than 20 total Phase I awards and Phase II awards under subsection (cc) from each Federal agency during the 1-year period beginning on the date on which such determination is made.
+
+    (iii) *Covered period defined* — In this subparagraph, the term “covered period” means a consecutive period of 5 fiscal years preceding the most recent fiscal year.
+
+  (B) *Progress to Phase III success*
+
+    (i) *In general* — Each minimum performance standard established under paragraph (2)(A)(ii) shall—
+
+      (I) with respect to a small business concern that received or receives more than 50 Phase II awards during a covered period, require an average of $250,000 of aggregate sales and investments per Phase II award received during such covered period; and
+
+      (II) with respect to a small business concern that received or receives more than 100 Phase II awards during a covered period, require an average of $450,000 of aggregate sales and investments per Phase II award received during such covered period.
+
+    (ii) *Consequence of failure to meet standard* — If the head of a Federal agency determines that a small business concern that received a Phase I award from the agency is not meeting an applicable increased minimum performance standard modified under clause (i), the small business concern may not receive more than 20 total Phase I awards and Phase II awards under subsection (cc) from each agency during the 1-year period beginning on the date on which such determination is made.
+
+    (iii) *Documentation*
+
+      (I) *In general* — A small business concern that is subject to an increased minimum performance standard described in clause (i) shall submit to the Administrator supporting documentation evidencing that all covered sales of the small business concern were properly used to meet the increased minimum performance standard.
+
+      (II) *Covered sale defined* — In this clause, the term “covered sale” means a sale by a small business concern—
+
+        (aa) that the small business concern claims to be attributable to an SBIR or STTR award;
+
+        (bb) for which no amount of the payment was or is made using Federal funds;
+
+        (cc) which the small business concern uses to meet an applicable increased minimum performance standard under clause (i); and
+
+        (dd) that was or is received during the 5 fiscal years immediately preceding the fiscal year in which the small business concern uses the sale to meet the increased minimum performance standard.
+
+    (iv) *Covered period defined* — In this subparagraph, the term “covered period” means a consecutive period of 10 fiscal years preceding the most recent 2 fiscal years.
+
+  (C) *Patents for increased minimum performance standards* — A small business concern with respect to which an increased minimum performance standard under subparagraph (B) applies may not meet the increased minimum performance standard by obtaining patents.
+
+  (D) *Effective date* — Subparagraphs (A) through (C) shall take effect on April 1, 2023.
+
+  (E) *Waiver*
+
+    (i) *In general* — The Administrator may, upon the request of a senior official of a Federal agency, grant a waiver with respect to a topic for the SBIR or STTR program of the Federal agency if—
+
+      (I) the topic is critical to the mission of the Federal agency or relates to national security; and
+
+      (II) the official submits to the Administrator a request for the waiver in accordance with clause (iii).
+
+    (ii) *Waiver effects* — If the Administration grants a waiver with respect to a topic for the SBIR or STTR program of a Federal agency, subparagraphs (A)(ii) and (B)(ii) shall not prohibit any covered small business concern from receiving an SBIR or STTR award under such topic.
+
+    (iii) *Agency request and congressional notification* — Not later than 15 days before the release of a solicitation including a topic for which a senior official of a Federal agency is requesting a waiver under clause (i), the senior official shall submit to the Administrator, the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate a request for the waiver.
+
+    (iv) *Administrator determination and congressional notification* — Not later than 15 days after receiving a request for a waiver under clause (i), the Administrator shall make a determination with respect to the request and notify the senior official at the Federal agency that made the request, the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Small Business and Entrepreneurship of the Senate of the determination.
+
+    (v) *Definitions* — In this subparagraph:
+
+      (I) *Covered small business concern* — The term “covered small business concern” means a small business concern that is subject to the consequences under subparagraph (A)(ii) or (B)(ii) pursuant to a determination by the head of a Federal agency that such small business concern did not meet an increased minimum performance standard that was applicable to such small business concern.
+
+      (II) *Senior official* — The term “senior official” means an individual appointed to a position in a Federal agency that is classified above GS–15 pursuant [section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), or any equivalent position, as determined by the Administrator.
+
+  (F) *Reporting*
+
+    (i) *In general* — Not later than July 1, 2023, and annually thereafter, the Administrator shall submit to Congress a list of the small business concerns that did not meet—
+
+      (I) an applicable minimum performance standard established under paragraph (1)(A)(ii) or (2)(A)(ii); or
+
+      (II) an applicable increased minimum performance standard.
+
+    (ii) *Waivers* — Each list submitted under clause (i) shall identify each small business concern that received an SBIR or STTR award pursuant to a waiver granted under subparagraph (E) by the Administrator during the period covered by the list.
+
+    (iii) *Confidentiality* — Each list submitted under clause (i) shall be confidential and exempt from disclosure under [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”).
+
+  (G) *Implementation* — Not later than April 1, 2023, the Administration shall implement the increased minimum performance standards under this paragraph.
+
+  (H) *Rules of construction* — Nothing in this paragraph shall be construed—
+
+    (i) to prohibit a small business concern from participating in a Phase I (or Phase II if under the authority of subsection (cc)) of an SBIR or STTR program under paragraph (1)(B) or (2)(B) solely on the basis of a determination by the head of a Federal agency that the small business concern is not meeting an increased minimum performance standard; or
+
+    (ii) to prevent the head of a Federal agency from implementing more restrictive limitations on the number of federally funded Phase I awards and direct to Phase II awards under subsection (cc) that may be awarded to a small business concern than the limitations described in subparagraphs (A)(ii) and (B)(ii).
+
+  (I) *Termination* — This paragraph shall terminate on September 30, 2025.
+
+(4) **Administration oversight**
 
   (A) *Approval and publication of systems and minimum performance standards* — Each system and minimum performance standard established under paragraph (1) or paragraph (2) shall be submitted by the head of the applicable Federal agency to the Administrator and shall be subject to the approval of the Administrator. In making a determination with respect to approval, the Administrator shall ensure that the minimum performance standard exceeds a de minimis level. The Administrator shall publish on the Internet Web site of the Administration the systems and minimum performance standards approved.
 
   (B) *Submission of evaluation results by agency* — The head of each covered Federal agency shall submit to the Administrator the results of each evaluation conducted under paragraph (1) or paragraph (2).
 
-(4) **Requirement of notice and comment** — Each system and minimum performance standard established under paragraph (1) or paragraph (2) and each approval provided by the Administrator under paragraph (3)(A), at least 60 days before becoming effective, shall be preceded by the provision of notice of and an opportunity for public comment on such system, standard, or approval.
+(5) **Requirement of notice and comment** — Each system and minimum performance standard established under paragraph (1) or paragraph (2) and each approval provided by the Administrator under paragraph (4)(A), at least 60 days before becoming effective, shall be preceded by the provision of notice of and an opportunity for public comment on such system, standard, or approval.
+
+(6) **Inspector general audit** — Not later than 1 year after the date on which the Administrator implements the increased minimum performance standards under paragraph (3), and periodically thereafter, the Inspector General of the Administration shall—
+
+  (A) conduct an audit on whether the small business concerns subject to increased minimum performance standards under paragraph (3)(B) verified—
+
+    (i) the sales by and investments in the small business concerns—
+
+      (I) during the 5 fiscal years immediately preceding the fiscal year in which the small business concern used such sales and investments to meet an applicable increased performance standard; and
+
+      (II) as a direct result of a Phase I award or Phase II award made under subsection (cc) during the covered period (as defined in paragraph (3)(B)(iv)), consistent with the definition of Phase III, as applicable;
+
+    (ii) any third-party revenue the small business concerns list as investments or incomes to meet the increased minimum performance standard—
+
+      (I) is a direct result of a Phase I award or Phase II award made under subsection (cc) during the covered period (as defined in paragraph (3)(B)(iv)); and
+
+      (II) consistent with the requirements of the Administrator as in effect on September 30, 2022, or any successor requirements; and
+
+    (iii) any dollar amounts such small business concerns list as investments or income to meet such increased minimum performance standard the providence of which is unclear and that is not directly attributable to a Phase I award or Phase II award made under subsection (cc) during the covered period (as defined in paragraph (3)(B)(iv)), consistent with the definition of Phase III, as applicable;
+
+  (B) assess the self-certification requirements for the minimum performance standards established under paragraph (2)(A)(ii) and the increased minimum performance standards under paragraph (3)(B); and
+
+  (C) submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives a report on the audit conducted under subparagraph (A) and the assessment conducted under subparagraph (B).
+
+(7) **Increased minimum performance standard defined** — In this subsection, the term “increased minimum performance standard” means a minimum performance standard established under paragraph (1)(A)(ii) or (2)(A)(ii) as modified under subparagraph (A) or (B), respectively, of paragraph (3) with respect to a small business concern.
 
 **(rr) Publication of certain information** In order to increase the number of small businesses receiving awards under the SBIR or STTR programs of participating agencies, and to simplify the application process for such awards, the Administrator shall establish and maintain a public Internet Web site on which the Administrator shall publish such information relating to notice of and application for awards under the SBIR program and STTR program of each participating Federal agency as the Administrator determines appropriate.
 
@@ -10222,7 +10512,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 (2) **Percent of agency funds** — The head of each covered agency may allocate not more than 5 percent of the funds allocated to the SBIR program of the covered agency for the purpose of making a subsequent Phase II SBIR award under the commercialization assistance pilot program.
 
-(3) **Termination** — A commercialization assistance pilot program established under this subsection shall terminate on September 30, 2022.
+(3) **Termination** — A commercialization assistance pilot program established under this subsection shall terminate on September 30, 2025.
 
 (4) **Application** — To be selected to receive a subsequent Phase II SBIR award under a commercialization assistance pilot program, an eligible entity shall submit to the covered agency implementing such pilot program an application at such time, in such manner, and containing such information as the covered agency may require, including—
 
@@ -10300,6 +10590,62 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (E) *Subsequent Phase II SBIR award* — The term “subsequent Phase II SBIR award” means an award granted to an eligible entity under this subsection to carry out further commercialization activities for research conducted pursuant to an SBIR program.
 
+**(vv) Due diligence program to assess security risks**
+
+(1) **Establishment** — The head of each Federal agency required to establish an SBIR or STTR program, in coordination with the Administrator, shall establish and implement a due diligence program to assess security risks presented by small business concerns seeking a federally funded award.
+
+(2) **Risks** — Each program established under paragraph (1) shall—
+
+  (A) assess, using a risk-based approach as appropriate, the cybersecurity practices, patent analysis, employee analysis, and foreign ownership of a small business concern seeking an award, including the financial ties and obligations (which shall include surety, equity, and debt obligations) of the small business concern and employees of the small business concern to a foreign country, foreign person, or foreign entity; and
+
+  (B) assess awards and proposals or applications, as applicable, using a risk-based approach as appropriate, including through the use of open-source analysis and analytical tools, for the nondisclosures of information required under (g)(13).55 So in original. Probably should be preceded by “subsection”.
+
+(3) **Administrative costs**
+
+  (A) *In general* — In addition to the amount allocated under subsection (mm)(1), each Federal agency required to establish an SBIR program may allocate not more than 2 percent of the funds allocated to the SBIR program of the Federal agency for the cost of establishing the due diligence program required under this subsection.
+
+  (B) *Reporting*
+
+    (i) *In general* — Not later than December 31 of the year in which this subparagraph is enacted, and not later than December 31 of each year thereafter, the head of a Federal agency that exercises the authority under subparagraph (A) shall submit to the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives, the Committee on Small Business and Entrepreneurship of the Senate, and the Administrator, for the covered year—
+
+      (I) the total funds allowed to be allocated for the cost of establishing the due diligence program required under this subsection;
+
+      (II) the total amount of funds obligated or expended under subparagraph (A); and
+
+      (III) the due diligence activities carried out or to be carried out using amounts allocated under subparagraph (A).
+
+    (ii) *Annual report inclusion* — The Administrator shall include the information submitted by head of a Federal agency under clause (i) in the next annual report submitted under subsection (b)(7) after the Administrator receives such information.
+
+    (iii) *Covered year* — In this subparagraph, the term “covered year” means, with respect to the information required under clause (i), the year covered by the annual report submitted under subsection (b)(7) in which the Administrator is required to include such information by clause (ii).
+
+  (C) *Termination date* — This paragraph shall terminate on September 30, 2025.
+
+**(ww) Program on innovation open topics**
+
+(1) **Establishment** — Not later than 180 days after September 30, 2022, the Secretary of Defense shall establish innovation open topic activities using the SBIR and STTR programs of the Department of Defense in order to—
+
+  (A) increase the transition of commercial technology to the Department of Defense;
+
+  (B) expand the small business nontraditional industrial base;
+
+  (C) increase commercialization derived from investments of the Department of Defense; and
+
+  (D) expand the ability for qualifying small business concerns to propose technology solutions to meet the needs of the Department of Defense.
+
+(2) **Frequency** — The Secretary of Defense shall conduct not less than 1 open topic announcement at each component of the Department of Defense per fiscal year.
+
+(3) **Briefing** — Not later than 180 days after September 30, 2022, the Secretary of Defense shall provide a briefing on the establishment of the program required under paragraph (1) to—
+
+  (A) the Committee on Armed Services and the Committee on Small Business and Entrepreneurship of the Senate; and
+
+  (B) the Committee on Small Business, the Committee on Armed Services, and the Committee on Science, Space, and Technology of the House of Representatives.
+
+**(xx) Additional provisions relating to solicitation topics**
+
+(1) **In general** — A Federal agency required to establish an SBIR or STTR program shall implement a multi-level review and approval process within the Federal agency for solicitation topics to ensure adequate competition and that no private individual or entity is shaping the requirements for eligibility for the solicitation topic after the selection of the solicitation topic, except that the Federal agency may amend the requirements to clarify the solicitation topic.
+
+(2) **Referral** — A Federal agency that does not comply with paragraph (1) shall be referred to the Inspector General of the Administration for further investigation.
+
 ### Statutory Notes
 
 #### References in Text
@@ -10319,6 +10665,10 @@ Section 105 of the Small Business Research and Development Enhancement Act of 19
 
 The enactment of this paragraph, referred to in subsec. (j)(4), means the enactment of subsec. (j)(4) by Pub. L. 116–92, which was approved Dec. 20, 2019.
 
+Section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; [10 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501&num=0&edition=prelim) note), referred to in subsec. (x)(2)(A), was formerly set out as a note under [section 2501 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2501&num=0&edition=prelim), Armed Forces, prior to repeal by Pub. L. 111–84, div. A, title II, § 241, Oct 28, 2009, 123 Stat. 2237.
+
+The year in which this subparagraph is enacted, referred to in subsec. (vv)(3)(B)(i), is the year of enactment of Pub. L. 117–183, which was approved in 2022.
+
 #### Codification
 In subsec. (e)(8), “[section 1303(a)(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim)” substituted for “section 35(c)(1) of the Office of Federal Procurement Policy Act”, which probably should have been a reference to “section 25(c)(1) of the Office of Federal Procurement Policy Act” because that Act does not contain a section 35 and section 25(c) of that Act relates to issuance of the Federal Acquisition Regulation, on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -10327,6 +10677,38 @@ In subsec. (n)(2)(A), “[section 1303(a)(1) of title 41](https://uscode.house.g
 Section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, was previously classified to this section. See [section 645 of this title](./chapter-14a-aid-to-small-business.md#section-645) and Codification note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2022—Pub. L. 117–183, § 3, substituted “2025” for “2022” wherever appearing.
+
+Subsec. (b)(7)(I), (J). Pub. L. 117–183, § 7(a)(1), added subpars. (I) and (J).
+
+Subsec. (b)(7)(K), (L). Pub. L. 117–183, § 8(1), added subpars. (K) and (L).
+
+Subsec. (e)(15) to (19). Pub. L. 117–183, § 4(a), added pars. (15) to (19).
+
+Subsec. (g)(13), (14). Pub. L. 117–183, § 4(c)(1), added pars. (13) and (14).
+
+Subsec. (g)(15). Pub. L. 117–183, § 4(d)(1), added par. (15).
+
+Subsec. (g)(16), (17). Pub. L. 117–183, § 5(a), added pars. (16) and (17).
+
+Subsec. (o)(17), (18). Pub. L. 117–183, § 4(c)(2), added pars. (17) and (18).
+
+Subsec. (o)(19). Pub. L. 117–183, § 4(d)(2), added par. (19).
+
+Subsec. (o)(20), (21). Pub. L. 117–183, § 5(b), added pars. (20) and (21).
+
+Subsec. (qq)(3), (4). Pub. L. 117–183, § 8(2)(A), (B), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (qq)(5). Pub. L. 117–183, § 8(2)(A), (C), redesignated par. (4) as (5) and substituted “paragraph (4)(A)” for “paragraph (3)(A)”.
+
+Subsec. (qq)(6), (7). Pub. L. 117–183, § 8(2)(D), added pars. (6) and (7).
+
+Subsec. (vv). Pub. L. 117–183, § 4(b)(1), added subsec. (vv).
+
+Subsec. (ww). Pub. L. 117–183, § 7(a)(2), added subsec. (ww).
+
+Subsec. (xx). Pub. L. 117–183, § 9(a), added subsec. (xx).
+
 2021—Subsec. (b)(7)(H). Pub. L. 116–283, § 865(1), added subpar. (H).
 
 Subsec. (g)(10). Pub. L. 116–283, § 865(2), inserted ‘, which section shall describe whether or not the Federal agency complied with the requirements of subsection (f) for the year covered by that plan and include a justification for failure to comply (if applicable),” after “a section on its SBIR program”.
@@ -10820,6 +11202,23 @@ For effective and termination dates of amendment by Pub. L. 102–484, see secti
 #### Termination Date of 1982 Amendment
 Pub. L. 97–219, § 5, July 22, 1982, 96 Stat. 221, as amended by Pub. L. 99–443, § 2, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 102–484, div. D, title XLII, § 4237(a), Oct. 23, 1992, 106 Stat. 2691, which provided that effective Oct. 1, 1993, subsecs. (b)(4) through (7) and (e) through (k) of this section were to be repealed, was repealed by Pub. L. 102–564, title I, § 104(a), Oct. 28, 1992, 106 Stat. 4254.
 
+#### Rule of Construction
+Pub. L. 117–183, § 4(b)(5), Sept. 30, 2022, 136 Stat. 2183, provided that: “Nothing in subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by paragraph (1), shall be construed to— “(A) apply to any Federal agency with a due diligence program that applies to the SBIR or STTR programs required under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by paragraph (1), in existence as of the date of enactment of this Act [Sept. 30, 2022]; or “(B) restrict any Federal agency from taking due diligence measures in addition to those required under such subsection (vv) at the Federal agency.”
+
+[For definitions of “Federal agency”, “SBIR”, and “STTR” as used in section 4(b)(5) of Pub. L. 117–183, set out above, see section 2 of Pub. L. 117–183, set out as a note below.]
+
+#### Implementation of 2022 Amendment
+Pub. L. 117–183, § 4(b)(2), Sept. 30, 2022, 136 Stat. 2182, provided that: “(A) In general.—Not later than 270 days after the date of enactment of this Act [Sept. 30, 2022], the head of a Federal agency required to establish an SBIR or STTR program shall implement a due diligence program under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by paragraph (1), at the Federal agency that, to the extent practicable, incorporates the applicable best practices disseminated under paragraph (3) [set out as a note below]. “(B) Paperwork reduction act.—Chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’), shall not apply to the implementation of a due diligence program under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by paragraph (1). “(C) Briefing.—Not later than 30 days after the date of enactment of this Act, and on a recurring basis until implementation is complete, each Federal agency required to establish a due diligence program under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by paragraph (1), shall brief the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives on the implementation of the due diligence program.”
+
+[For definitions of “Federal agency”, “SBIR”, and “STTR” as used in section 4(b)(2) of Pub. L. 117–183, set out above, see section 2 of Pub. L. 117–183, set out as a note below.]
+
+Pub. L. 117–183, § 5(c), Sept. 30, 2022, 136 Stat. 2187, provided that: “Chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’), shall not apply to the implementation of paragraphs (16) and (17) of subsection (g) or paragraphs (20) and (21) of subsection (o) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by subsections (a) and (b).”
+
+#### Best Practices
+Pub. L. 117–183, § 4(b)(3), Sept. 30, 2022, 136 Stat. 2182, provided that: “Not later than 180 days after the date of enactment of this Act [Sept. 30, 2022], the Administrator shall— “(A) in coordination with the Director of the Office of Science and Technology Policy and in consultation with the Committee on Foreign Investment in the United States, disseminate among Federal agencies required to establish an SBIR or STTR program best practices of those Federal agencies for due diligence programs required under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by paragraph (1); and “(B) in consultation with the Committee on Foreign Investment in the United States, provide to Federal agencies described in subparagraph (A) guidance on the business relationships required to be disclosed under paragraph (13)(G) of subsection (g) and paragraph (17)(G) of subsection (o) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by this Act.”
+
+[For definitions of terms used in section 4(b)(3) of Pub. L. 117–183, set out above, see section 2 of Pub. L. 117–183, set out as a note below.]
+
 #### Cybersecurity Technical Assistance for SBIR and STTR Programs
 Pub. L. 116–92, div. A, title VIII, § 881, Dec. 20, 2019, 133 Stat. 1533, provided that: “(a) In General.—The Secretary of Defense may enter into an agreement with 1 or more vendors selected under section 9(q)(2) of the Small Business Act ([15 U.S.C. 638(q)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/q/2&num=0&edition=prelim)) to provide small business concerns engaged in SBIR or STTR projects with cybersecurity technical assistance, such as access to a network of cybersecurity experts and engineers engaged in designing and implementing cybersecurity practices. “(b) Amounts.—In carrying out subsection (a), the Secretary of Defense may provide the amounts described under section 9(q)(3) of such Act ([15 U.S.C. 638(q)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/q/3&num=0&edition=prelim)) to a recipient that meets the eligibility requirements under the such [sic] paragraph, if the recipient requests to seek cybersecurity technical assistance from an individual or entity other than a vendor selected as described in subsection (a).”
 
@@ -10885,6 +11284,9 @@ Pub. L. 102–564, title I, § 105, Oct. 28, 1992, 106 Stat. 4254, required the 
 Pub. L. 102–564, title II, § 202(e), Oct. 28, 1992, 106 Stat. 4260, required the Comptroller General to submit a report to Congress and the head of each agency required to make expenditures under the Small Business Technology Transfer Program setting forth the Comptroller General’s assessment of various aspects of the program and with the agencies’ compliance with procedural requirements.
 
 Pub. L. 97–219, § 6, July 22, 1982, 96 Stat. 221, as amended by Pub. L. 99–443, § 3, Oct. 6, 1986, 100 Stat. 1120; Pub. L. 100–418, title VIII, § 8008, Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–647, title IX, § 9003, Nov. 10, 1988, 102 Stat. 3808, required the Comptroller General, by Dec. 31, 1988, to transmit a report to appropriate Congressional committees evaluating the effectiveness of the initial phases of the Small Business Innovation Research Program, by Dec. 31, 1991, to transmit to such committees an update of the earlier report, and by July 1, 1989, to transmit to such committees recommendations as to the advisability of certain amendments to the Small Business Innovation Research Program.
+
+#### Definitions
+Pub. L. 117–183, § 2, Sept. 30, 2022, 136 Stat. 2180, provided that: “In this Act [amending this section and enacting provisions set out as notes under this section and [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631)]: “(1) Administration; administrator.—The terms ‘Administration’ and ‘Administrator’ mean the Small Business Administration and the Administrator thereof, respectively. “(2) Federal agency; phase i; phase ii; phase iii; sbir; sttr.—The terms ‘Federal agency’, ‘Phase I’, ‘Phase II’, ‘Phase III’, ‘SBIR’, and ‘STTR’ have the meanings given those terms, respectively, in section 9(e) of the Small Business Act ([15 U.S.C. 638(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638/e&num=0&edition=prelim)).”
 
 #### Ex. Ord. No. 13329. Encouraging Innovation in Manufacturing
 Ex. Ord. No. 13329, Feb. 24, 2004, 69 F.R. 9181, provided:
@@ -11030,7 +11432,39 @@ Pub. L. 112–81, div. E, title L, § 5002, Dec. 31, 2011, 125 Stat. 1823, provi
 ## § 639. Reporting requirements and agency cooperation
 **(a) Annual reports to President and Congressional officers and committees** The Administration shall, as soon as practicable each fiscal year make a comprehensive annual report to the President, the President of the Senate, the Senate Select Committee on Small Business, and the Speaker of the House of Representatives. Such report shall include a description of the state of small business in the Nation and the several States, and a description of the operations of the Administration under this chapter, including, but not limited to, the general lending, disaster relief, Government regulation relief, procurement and property disposal, research and development, technical assistance, dissemination of data and information, and other functions under the jurisdiction of the Administration during the previous fiscal year. Such report shall contain recommendations for strengthening or improving such programs, or, when necessary or desirable to implement more effectively congressional policies and proposals, for establishing new or alternative programs. In addition, such report shall include the names of the business concerns to whom contracts are let and for whom financing is arranged by the Administration, together with the amounts involved. With respect to minority small business concerns, the report shall include the proportion of loans and other assistance under this chapter provided to such concerns, the goals of the Administration for the next fiscal year with respect to such concerns, and recommendations for improving assistance to minority small business concerns under this chapter.
 
-**(b) Repealed. Pub. L. 115–189, § 7, June 21, 2018, 132 Stat. 1498**
+**(b) Cybersecurity reports**
+
+(1) **Annual report** — Not later than 180 days after December 21, 2022, and every year thereafter, the Administrator shall submit a report to the appropriate congressional committees that includes—
+
+  (A) a strategy to increase the cybersecurity of information technology infrastructure of the Administration;
+
+  (B) a supply chain risk management strategy and an implementation plan to address the risks of foreign manufactured information technology equipment utilized by the Administration, including specific risk mitigation activities for components originating from entities with principal places of business located in the People’s Republic of China; and
+
+  (C) an account of—
+
+    (i) any incident that occurred at the Administration during the 2-year period preceding the date on which the first report is submitted, and, for subsequent reports, the 1-year period preceding the date of submission; and
+
+    (ii) any action taken by the Administrator to respond to or remediate any such incident.
+
+(2) **FISMA reports** — Each report required under paragraph (1) may be submitted as part of the report required under [section 3554 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3554&num=0&edition=prelim).
+
+(3) **Rule of construction** — Nothing in this subsection shall be construed to affect the reporting requirements of the Administrator under chapter 35 of title 44, in particular the requirement to notify the Federal information security incident center under section 3554(b)(7)(C)(ii) of such title, any guidance issued by the Office of Management and Budget, or any other provision of law or Federal policy.
+
+(4) **Definitions** — In this subsection:
+
+  (A) *Appropriate congressional committees* — The term “appropriate congressional committees” means—
+
+    (i) the Committee on Small Business and Entrepreneurship of the Senate;
+
+    (ii) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+    (iii) the Committee on Small Business of the House of Representatives; and
+
+    (iv) the Committee on Oversight and Reform of the House of Representatives.
+
+  (B) *Incident* — The term “incident” has the meaning given the term in [section 3552 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim).
+
+  (C) *Information technology* — The term “information technology” has the meaning given the term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim).
 
 **(c) Repealed. Pub. L. 104–66, title I, § 1091(f), Dec. 21, 1995, 109 Stat. 722**
 
@@ -11058,6 +11492,8 @@ Pub. L. 112–81, div. E, title L, § 5002, Dec. 31, 2011, 125 Stat. 1823, provi
 Prior similar provisions were contained in sections 211 and 215 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, 238, as amended by act Aug. 9, 1955, ch. 628, §§ 6, 10, 11, 69 Stat. 550, 551, which were previously classified to sections 640 and 644 of this title. The provisions of section 210 of act July 30, 1953, formerly classified to this section, were transferred to section 2 [8] of Pub. L. 85–536, and are classified to [section 637(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/b/2&num=0&edition=prelim). See Codification note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–259 added subsec. (b).
+
 2018—Subsec. (b). Pub. L. 115–189 struck out subsec. (b). Text read as follows: “The Administration shall make a report to the President, the President of the Senate, and the Speaker of the House of Representatives, to the Senate Select Committee on Small Business and to the Committee on Small Business of the House of Representatives, as soon as practicable each fiscal year, showing as accurately as possible for each such period the amount of funds appropriated to it that it has expended in the conduct of each of its principal activities such as lending, procurement, contracting, and providing technical and managerial aids. Such report shall contain the number and amount of loans, the number of applications, the total amount applied for, and the number and amount of defaults for each type of equipment or service for which loans are authorized by this this chapter. Such report shall provide such information separately on each type of loan made under paragraphs (10) through (15) of [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim) and separately for all other loan programs. In addition, the information on loans shall be supplied on a monthly basis to the Committee on Small Business of the Senate and the Committee on Small Business of the House of Representatives.”
 
 1995—Subsec. (c). Pub. L. 104–66 struck out subsec. (c) which related to surveys, and their corresponding reports and recommendations, for the determination of factors tending to injure small businesses.
@@ -11204,7 +11640,7 @@ Section effective on Dec. 27, 2020, and applicable to loans and grants made on o
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Prior Provisions
 Prior similar provisions were contained in section 217 of act July 30, 1953, ch. 282, title II, 67 Stat. 239, which was previously classified to [section 646 of this title](./chapter-14a-aid-to-small-business.md#section-646). The provisions of section 211 of act July 30, 1953, formerly classified to this section, were transferred to section 2[10] of Pub. L. 85–536, and are classified to section 639(d), (f) of this title. See Codification note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
@@ -12427,10 +12863,10 @@ Pub. L. 115–91, div. A, title XVII, § 1703(b), Dec. 12, 2017, 131 Stat. 1806,
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by sections 4004 and 7106(a) of Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by sections 4004 and 7106(a) of Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–37 applicable as if included in Pub. L. 100–656, see section 32 of Pub. L. 101–37, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
@@ -12761,9 +13197,9 @@ Subsec. (d). Pub. L. 112–239, § 1692(c), inserted “(or the designee of the 
 ### Statutory Notes
 
 #### References in Text
-The Program Fraud Civil Remedies Act of 1986 ([31 U.S.C. 3801–381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801–381&num=0&edition=prelim)2), referred to in subsec. (d)(2)(B), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, as amended, which is classified generally to chapter 38 (§ 3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under [section 3801 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801&num=0&edition=prelim) and Tables.
+The Program Fraud Civil Remedies Act of 1986 ([31 U.S.C. 3801–381](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801–381&num=0&edition=prelim)2), referred to in subsec. (d)(2)(B), is subtitle B of title VI of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1934, which is classified generally to chapter 38 (§ 3801 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under [section 3801 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3801&num=0&edition=prelim) and Tables.
 
-The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (d)(2)(D), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
 
 #### Prior Provisions
 Prior similar provisions were contained in section 209 of act July 30, 1953, ch. 282, title II, 67 Stat. 237, which was previously classified to [section 638 of this title](./chapter-14a-aid-to-small-business.md#section-638). The provisions of section 216 of act July 30, 1953, formerly classified to this section, were transferred to section 2[8] of Pub. L. 85–536, which was classified to [section 637(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/c&num=0&edition=prelim) prior to repeal by Pub. L. 102–191. See [section 656 of this title](./chapter-14a-aid-to-small-business.md#section-656).
@@ -12809,7 +13245,7 @@ Subsec. (f). Pub. L. 100–656, § 405(b), added subsec. (f).
 Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 105–135, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Regulations
 Pub. L. 112–239, div. A, title XVI, § 1681(b), Jan. 2, 2013, 126 Stat. 2085, provided that: “Not later than 270 days after the date of enactment of this part [Jan. 2, 2013], the Administrator of the Small Business Administration shall issue rules defining what constitutes an adequate advisory opinion for purposes of section 16(d)(3) of the Small Business Act [[15 U.S.C. 645(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section645/d/3&num=0&edition=prelim)].”
@@ -13266,7 +13702,7 @@ Pub. L. 95–507, § 207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothin
 #### References in Text
 Section 1841(a) of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsecs. (a)(1) and (c)(2)(G), is section 1841(a) of Pub. L. 114–328, div. A, title XVIII, Dec. 23, 2016, 130 Stat. 2662, which is not classified to the Code.
 
-Section 20(a), referred to in subsec. (a)(4)(C)(i)(I), (v), means section 2[20(a)] of Pub. L. 85–536, as amended, which is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
+Section 20(a), referred to in subsec. (a)(4)(C)(i)(I), (v), means section 2[20(a)] of Pub. L. 85–536, which is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 Section 312(a) of the Small Business Regulatory Enforcement Fairness Act of 1996, referred to in subsec. (c)(3)(R), probably means section 212(a) of Pub. L. 104–121, which is set out in a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees, because Pub. L. 104–121 does not contain a section 312.
 
@@ -14583,7 +15019,7 @@ Pub. L. 101–574, title III, § 311, Nov. 15, 1990, 104 Stat. 2832, provided th
 ### Statutory Notes
 
 #### References in Text
-The National Narcotics Leadership Act of 1988, referred to in subsec. (a)(2)(D)(ii), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181, as amended. Chapter 2 of the Act is classified generally to subchapter II (§ 1521 et seq.) of chapter 20 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under former [section 1501 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1501&num=0&edition=prelim) and Tables.
+The National Narcotics Leadership Act of 1988, referred to in subsec. (a)(2)(D)(ii), is subtitle A of title I of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4181. Chapter 2 of the Act is classified generally to subchapter II (§ 1521 et seq.) of chapter 20 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under former [section 1501 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1501&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2004—Subsec. (a)(2)(D). Pub. L. 108–447, § 125, amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “the purpose of which is—
@@ -15059,13 +15495,26 @@ Pub. L. 105–135, title III, § 308(b), Dec. 2, 1997, 111 Stat. 2615, provided 
 
 (4) Members of the Board shall serve without compensation, provided that, members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Board.
 
+**(e) Centralized website** Not later than 6 months after October 10, 2022, the Ombudsman shall maintain a publicly available website that includes—
+
+(1) hyperlinks to small entity compliance guides described under section 212(a)(1) of the Small Business Regulatory Enforcement Fairness Act of 1996; and
+
+(2) with respect to each such small entity compliance guide, the contact information for an individual who can offer assistance to small entities with respect to the rules that are the subject of such guide.
+
+**(f) Report on agency compliance** The Ombudsman shall include in the annual report required under subsection (b)(2)(C) an assessment of agency compliance with the requirements of section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996 for the year covered by such annual report.
+
 ### Statutory Notes
 
 #### References in Text
 Section 7 of the Inspector General Act of 1978, referred to in subsec. (b)(2)(B), is section 7 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+Section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996, referred to in subsecs. (e)(1) and (f), is section 212 of title II of Pub. L. 104–121, which is set out in a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees.
+
 #### Prior Provisions
 A prior section 2[30] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
+
+#### Amendments
+2022—Subsecs. (e), (f). Pub. L. 117–188 added subsecs. (e) and (f).
 
 #### Change of Name
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
@@ -15683,9 +16132,11 @@ Sec. 4. General Provisions. (a) The Small Business Administration shall provide 
 Barack Obama.
 
 #### Extension of Term of Interagency Task Force on Veterans Small Business Development
-Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Interagency Task Force on Veterans Small Business Development were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -16845,7 +17296,7 @@ Subsec. (d)(4), (5). Pub. L. 115–232, § 861(d)(2), added pars. (4) and (5).
 2015—Subsec. (a)(4). Pub. L. 114–92 substituted “which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction” for “for supplies from a regular dealer in such supplies” in introductory provisions.
 
 #### Inapplicability of Requirement To Review and Justify Certain Contracts
-Pub. L. 113–66, div. A, title XVI, § 1615, Dec. 26, 2013, 127 Stat. 950, provided that: “In the case of a contract to which the provisions of section 46 of the Small Business Act ([15 U.S.C. 657s](./chapter-14a-aid-to-small-business.md#section-657s)) apply, the requirements under section 802 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1824; [10 U.S.C. 2304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim) note) do not apply.”
+Pub. L. 113–66, div. A, title XVI, § 1615, Dec. 26, 2013, 127 Stat. 950, provided that: “In the case of a contract to which the provisions of section 46 of the Small Business Act ([15 U.S.C. 657s](./chapter-14a-aid-to-small-business.md#section-657s)) apply, the requirements under section 802 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1824; [10 U.S.C. 2304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim) note [now 10 U.S.C. note prec.]) do not apply.”
 
 
 <a id="section-657t"></a>

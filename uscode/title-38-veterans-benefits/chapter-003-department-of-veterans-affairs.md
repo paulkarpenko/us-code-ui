@@ -2,7 +2,7 @@
 title: 38
 chapter: '3'
 heading: DEPARTMENT OF VETERANS AFFAIRS
-section_count: 24
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -136,9 +136,11 @@ Pub. L. 116–136, div. B, title X, § 20009, Mar. 27, 2020, 134 Stat. 588, prov
 [For definition of “public health emergency” as used in section 20009 of Pub. L. 116–136, set out above, see section 20003 of Pub. L. 116–136, set out below.]
 
 #### Secretary’s Approval of Research Using Canines, Felines, or Non-Human Primates
-Pub. L. 116–260, div. J, title II, § 247, Dec. 27, 2020, 134 Stat. 1682, provided that: “(a) None of the funds appropriated or otherwise made available by this Act [div. J of Pub. L. 116–260, see Tables for classification] may be used to conduct research commencing on or after October 1, 2019, that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b). “(b)(1) The Secretary of Veterans Affairs may approve the conduct of research commencing on or after October 1, 2019, using canines, felines, or non-human primates if the Secretary determines that—“(A) the scientific objectives of the research can only be met by using such canines, felines, or non-human primates; “(B) such scientific objectives are directly related to an illness or injury that is combat-related; and “(C) the research is consistent with the revised Department of Veterans Affairs canine research policy document dated December 15, 2017, including any subsequent revisions to such document. “(2) The Secretary may not delegate the authority under this subsection. “(c) If the Secretary approves any new research pursuant to subsection (b), not later than 30 days before the commencement of such research, the Secretary shall submit to the Committees on Appropriations of the Senate and House of Representatives a report describing—“(1) the nature of the research to be conducted using canines, felines, or non-human primates; “(2) the date on which the Secretary approved the research; “(3) the justification for the determination of the Secretary that the scientific objectives of such research could only be met using canines, felines, or non-human primates; “(4) the frequency and duration of such research; and “(5) the protocols in place to ensure the necessity, safety, and efficacy of the research; and “(d) Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2020], and biannually thereafter, the Secretary shall submit to such Committees a report describing—“(1) any research being conducted by the Department of Veterans Affairs using canines, felines, or non-human primates as of the date of the submittal of the report; “(2) the circumstances under which such research was conducted using canines, felines, or non-human primates; “(3) the justification for using canines, felines, or non-human primates to conduct such research; and “(4) the protocols in place to ensure the necessity, safety, and efficacy of such research. “(e) Not later than December 31, 2021, the Secretary shall submit to such Committees an updated plan under which the Secretary will eliminate or reduce the research conducted using canines, felines, or non-human primates by not later than 5 years after the date of enactment of Public Law 116–94 [Dec. 20, 2019].”
+Pub. L. 117–103, div. J, title II, § 247, Mar. 15, 2022, 136 Stat. 558, provided that: “(a) None of the funds appropriated or otherwise made available by this Act [div. J of Pub. L. 117–103, see Tables for classification] may be used to conduct research commencing on or after October 1, 2019, that uses any canine, feline, or non-human primate unless the Secretary of Veterans Affairs approves such research specifically and in writing pursuant to subsection (b). “(b)(1) The Secretary of Veterans Affairs may approve the conduct of research commencing on or after October 1, 2019, using canines, felines, or non-human primates if the Secretary determines that—“(A) the scientific objectives of the research can only be met by using such canines, felines, or non-human primates; “(B) such scientific objectives are directly related to an illness or injury that is combat-related; and “(C) the research is consistent with the revised Department of Veterans Affairs canine research policy document dated December 15, 2017, including any subsequent revisions to such document. “(2) The Secretary may not delegate the authority under this subsection. “(c) If the Secretary approves any new research pursuant to subsection (b), not later than 30 days before the commencement of such research, the Secretary shall submit to the Committees on Appropriations of the Senate and House of Representatives a report describing—“(1) the nature of the research to be conducted using canines, felines, or non-human primates; “(2) the date on which the Secretary approved the research; “(3) the justification for the determination of the Secretary that the scientific objectives of such research could only be met using canines, felines, or non-human primates; “(4) the frequency and duration of such research; and “(5) the protocols in place to ensure the necessity, safety, and efficacy of the research. “(d) Not later than 180 days after the date of the enactment of this Act [Mar. 15, 2022], and biannually thereafter, the Secretary shall submit to such Committees a report describing—“(1) any research being conducted by the Department of Veterans Affairs using canines, felines, or non-human primates as of the date of the submittal of the report; “(2) the circumstances under which such research was conducted using canines, felines, or non-human primates; “(3) the justification for using canines, felines, or non-human primates to conduct such research; and “(4) the protocols in place to ensure the necessity, safety, and efficacy of such research. “(e) The Department shall implement a plan under which the Secretary will eliminate or reduce the research conducted using canines, felines, or non-human primates by not later than 5 years after the date of enactment of Public Law 116–94 [Dec. 20, 2019].”
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. J, title II, § 247, Dec. 27, 2020, 134 Stat. 1682.
 
 Pub. L. 116–94, div. F, title II, § 249, Dec. 20, 2019, 133 Stat. 2806.
 
@@ -484,10 +486,58 @@ Provisions similar to those in this section were contained in section 8(a) of Pu
 
 (2) Nothing in this subsection shall be construed to authorize the public disclosure of information that is specifically prohibited from disclosure by any other provision of law.
 
+**(d)**
+
+(1)
+
+  (A) In addition to the authority otherwise provided by the Inspector General Act of 1978 (5 U.S.C. App.) and in accordance with the requirements of this subsection, the Inspector General, in carrying out the provisions of this section, may require by subpoena the attendance and testimony of witnesses as necessary in the performance of the functions assigned to the Inspector General by the Inspector General Act of 1978 (5 U.S.C. App.) and this section, which in the case of contumacy or refusal to obey, such subpoena shall be enforceable by order of any appropriate district court of the United States.
+
+  (B) The Inspector General may not require by subpoena the attendance and testimony under subparagraph (A) of—
+
+    (i) any current Federal employee; or
+
+    (ii) any witness as part of any criminal proceeding.
+
+(2) The authority to issue a subpoena under paragraph (1) may not be delegated.
+
+(3)
+
+  (A) The Inspector General shall notify the Attorney General of the intent to issue a subpoena under paragraph (1).
+
+  (B) Not later than 10 days after the date on which the Attorney General is notified pursuant to subparagraph (A), the Attorney General may object in writing to the issuance of the subpoena if the subpoena will interfere with an ongoing investigation and, if the Attorney General makes such an objection, the Inspector General may not issue the subpoena.
+
+  (C) If the Attorney General does not object in writing to the issuance of the subpoena during the 10-day period described in subparagraph (B), the Inspector General may issue the subpoena.
+
+(4) Before requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the degree practicable—
+
+  (A) notify the witness of the intent of the Inspector General to issue the subpoena; and
+
+  (B) provide the witness an opportunity to attend and testify voluntarily.
+
+(5) Whenever requiring by subpoena under paragraph (1) the attendance and testimony of a witness, the Inspector General shall, to the greatest extent practicable, travel to residence of the witness, the principal place of business of the witness, or other similar location that is in proximity to the residence of the witness.
+
+(6) 11 See Effective Date of 2022 Amendment note below. (A) Along with each semiannual report submitted by the Inspector General pursuant to section 5(b) of the Inspector General Act of 1978 (5 U.S.C. App. 5(b)), the Inspector General shall include a report on the exercise of the authority provided by paragraph (1).
+
+  (B) Each report submitted under subparagraph (A) shall include, for the most recently completed six-month period, the following:
+
+    (i) The number of testimonial subpoenas issued and the number of individuals interviewed pursuant to such subpoenas.
+
+    (ii) The number of proposed testimonial subpoenas with respect to which the Attorney General objected under paragraph (3)(B).
+
+    (iii) A discussion of any challenges or concerns that the Inspector General has encountered exercising the authority provided by paragraph (1).
+
+    (iv) Such other matters as the Inspector General considers appropriate.
+
+(7)
+
+  (A) The authority provided by paragraph (1)(A) shall terminate on May 31, 2025.
+
+  (B) The termination of authority by subparagraph (A) shall not affect the enforceability of a subpoena issued under paragraph (1)(A) before the date of such termination.
+
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsecs. (a) and (c)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsecs. (a), (c)(1), and (d)(1)(A), (6)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 Prior section 312 was renumbered [section 1112 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1112).
@@ -495,6 +545,8 @@ Prior section 312 was renumbered [section 1112 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 9(b) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, § 3(3).
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–136 added subsec. (d).
+
 2016—Subsec. (c)(1). Pub. L. 114–223, in introductory provisions, struck out “that makes a recommendation or otherwise suggests corrective action,” after “work product”.
 
 2015—Subsec. (c). Pub. L. 114–113 added subsec. (c).
@@ -505,6 +557,9 @@ Subsec. (b)(3). Pub. L. 103–446, § 1201(g)(1), struck out par. (3) which read
 
 #### Change of Name
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–136, § 2(b), June 7, 2022, 136 Stat. 1252, provided that: “(1) In general.—Subsection (d) of [section 312 of title 38](./chapter-003-department-of-veterans-affairs.md#section-312), United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act [June 7, 2022]. “(2) Semiannual report.—Paragraph (6) of subsection (d)- [sic] of such section, as so added, shall apply beginning on the date that is seven months after the first day of the first fiscal year beginning after the date of the enactment of this Act.”
 
 
 <a id="section-312a"></a>
@@ -584,7 +639,7 @@ Provisions similar to those in this section were contained in [section 230(a) of
 ## § 315. Regional offices
 **(a)** The Secretary may establish such regional offices and such other field offices within the United States, its Territories, Commonwealths, and possessions, as the Secretary considers necessary.
 
-**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2022.
+**(b)** The Secretary may maintain a regional office in the Republic of the Philippines until September 30, 2024.
 
 ### Statutory Notes
 
@@ -594,6 +649,8 @@ Prior section 315 was renumbered [section 1115 of this title](./chapter-011-comp
 Provisions similar to those in this section were contained in section 230(a), (b) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
+
 2020—Subsec. (b). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.
 
 2019—Subsec. (b). Pub. L. 116–61 substituted “September 30, 2020” for “September 30, 2019”.
@@ -1000,7 +1057,7 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 
 (3) In providing assistance under this subsection, the Secretary shall give priority to veterans with service-connected disabilities.
 
-(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2022.
+(4) There is authorized to be appropriated to carry out this subsection $2,000,000 for each of fiscal years 2010 through 2026.
 
 **(e) Applicability to Commonwealths and Territories of the United States.—** The provisions of this subsection shall apply in the same manner and to the same degree as to the United States Olympic Committee to the Paralympic sport entities the Secretary considers appropriate to represent the interests of each of the following:
 
@@ -1022,6 +1079,8 @@ Pub. L. 108–136, div. A, title VII, § 727, Nov. 24, 2003, 117 Stat. 1537, pro
 The date of the enactment of this section, referred to in subsec. (f), is the date of enactment of Pub. L. 110–389, which was approved Oct. 10, 2008.
 
 #### Amendments
+2022—Subsec. (d)(4). Pub. L. 117–180 substituted “2026” for “2022”.
+
 2020—Subsec. (d)(4). Pub. L. 116–159 substituted “2022” for “2020”.
 
 2018—Subsec. (d)(4). Pub. L. 115–251 substituted “2020” for “2019”.
@@ -1141,3 +1200,54 @@ Pub. L. 110–389, title VII, § 701, Oct. 10, 2008, 122 Stat. 4180, provided th
   (A) a violation of a law, rule, or regulation; or
 
   (B) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety.
+
+
+<a id="section-324"></a>
+## § 324. Cost of War Toxic Exposures Fund
+**(a) Establishment.—** There is hereby established in the Treasury of the United States an account to be known as the “Cost of War Toxic Exposures Fund” (the “Fund”), to be administered by the Secretary.
+
+**(b) Deposits.—** There shall be deposited in the Fund such amounts as may be appropriated to the Fund pursuant to subsection (c).
+
+**(c) Authorization of Appropriations.—** There is authorized to be appropriated to the Fund for fiscal year 2023 and each subsequent fiscal year such sums as are necessary to increase funding, over the fiscal year 2021 level, for investment in—
+
+(1) the delivery of veterans’ health care associated with exposure to environmental hazards in the active military, naval, air, or space service in programs administered by the Under Secretary for Health;
+
+(2) any expenses incident to the delivery of veterans’ health care and benefits associated with exposure to environmental hazards in the active military, naval, air, or space service, including administrative expenses, such as information technology and claims processing and appeals, and excluding leases as authorized or approved under [section 8104 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8104); and
+
+(3) medical and other research relating to exposure to environmental hazards.
+
+**(d) Budget Scorekeeping.—**
+
+(1) Immediately upon enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, expenses authorized to be appropriated to the Fund in subsection (c) shall be estimated for fiscal year 2023 and each subsequent fiscal year and treated as budget authority that is considered to be direct spending—
+
+  (A) in the baseline for purposes of section 257 of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 907](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section907&num=0&edition=prelim));
+
+  (B) by the Chairman of the Committee on the Budget of the Senate and the Chair of the Committee on the Budget of the House of Representatives, as appropriate, for purposes of budget enforcement in the Senate and the House of Representatives;
+
+  (C) under the Congressional Budget Act of 1974 ([2 U.S.C. 621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) et seq.), including in the reports required by section 308(b) of such Act ([2 U.S.C. 639](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section639&num=0&edition=prelim)); 11 So in original. Probably should be “639(b));”. and
+
+  (D) for purposes of the Statutory Pay-As-You-Go Act of 2010 ([2 U.S.C. 931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section931&num=0&edition=prelim) et seq.).
+
+(2) No amount appropriated to the Fund in fiscal year 2023 or any subsequent fiscal year pursuant to this section shall be counted as discretionary budget authority and outlays or as direct spending for any estimate of an appropriation Act under the Congressional Budget and Impoundment Control Act of 1974 ([2 U.S.C. 621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) et seq.) and any other Act.
+
+(3) Notwithstanding the Budget Scorekeeping Guidelines and the accompanying list of programs and accounts set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217, and for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 900](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) et seq.) and the Congressional Budget Act of 1974 ([2 U.S.C. 621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) et seq.), the Fund shall be treated as if it were an account designated as “Appropriated Entitlements and Mandatories for Fiscal Year 1997” in the joint explanatory statement of the committee of conference accompanying Conference Report 105–217.
+
+**(e) Estimates for Congressional Consideration.—** The Secretary shall include in documents submitted to Congress in support of the President’s budget submitted pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) detailed estimates of the sums described in subsection (c) for the applicable fiscal year.
+
+**(f) Procedures for Estimates.—** The Secretary may, after consultation with the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives, establish policies and procedures for developing the annual detailed estimates required by subsection (e).
+
+### Statutory Notes
+
+#### References in Text
+The Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022, referred to in subsec. (d)(1), is Pub. L. 117–168, Aug. 10, 2022, 136 Stat. 1759, also known as the Honoring our PACT Act of 2022. For complete classification of this Act to the Code, see Short Title of 2022 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101) and Tables.
+
+The Congressional Budget Act of 1974, referred to in subsec. (d)(1)(C), (3), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 298. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
+
+The Statutory Pay-As-You-Go Act of 2010, referred to in subsec. (d)(1)(D), is title I of Pub. L. 111–139, Feb. 12, 2010, 124 Stat. 8, which is classified principally to chapter 20A (§ 931 et seq.) of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 931 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section931&num=0&edition=prelim) and Tables.
+
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
+
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(3), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+
+#### Authority To Use Appropriations To Enhance Claims Processing Capacity and Automation
+Pub. L. 117–168, title VII, § 701(a), Aug. 10, 2022, 136 Stat. 1794, provided that: “The Secretary of Veterans Affairs may use, from amounts appropriated to the Cost of War Toxic Exposures Fund established by [section 324 of title 38](./chapter-003-department-of-veterans-affairs.md#section-324), United States Code, as added by section 805 of this Act, such amounts as may be necessary to continue the modernization, development, and expansion of capabilities and capacity of information technology systems and infrastructure of the Veterans Benefits Administration, including for claims automation, to support expected increased claims processing for newly eligible veterans pursuant to this Act [see Short Title of 2022 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101)].”

@@ -254,9 +254,11 @@ Section appears under the heading “Consular and Border Security Programs” in
 Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim), Foreign Relations and Intercourse, and subsec. (g) of section 7081 amended provisions set out as a note under [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim).
 
 #### Transfer of Balances
-Pub. L. 116–260, div. K, title VII, § 7034(l)(9), Dec. 27, 2020, 134 Stat. 1750, provided that: “Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) [[8 U.S.C. 1715(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1715/h&num=0&edition=prelim)] shall continue in effect during fiscal year 2021.”
+Pub. L. 117–103, div. K, title VII, § 7034(l)(9), Mar. 15, 2022, 136 Stat. 624, provided that: “Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) [[8 U.S.C. 1715(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1715/h&num=0&edition=prelim)] shall continue in effect during fiscal year 2022.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 116–260, div. K, title VII, § 7034(l)(9), Dec. 27, 2020, 134 Stat. 1750.
 
 Pub. L. 116–94, div. G, title VII, § 7034(l)(9), Dec. 20, 2019, 133 Stat. 2873.
 

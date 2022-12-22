@@ -286,7 +286,7 @@ Pub. L. 104–291, § 206(2), inserted “, or the owner or beneficial owner of 
 | 5906 | 49:508(g)(2)(C). |  |
 
 #### References in Text
-The Perishable Agricultural Commodities Act, 1930, referred to in text, is act June 10, 1930, ch. 436, 46 Stat. 531, as amended, which is classified generally to chapter 20A (§ 499a et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 499a(a) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section499a/a&num=0&edition=prelim) and Tables.
+The Perishable Agricultural Commodities Act, 1930, referred to in text, is act June 10, 1930, ch. 436, 46 Stat. 531, which is classified generally to chapter 20A (§ 499a et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 499a(a) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section499a/a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–291 substituted “[Section 5905 of this title](./chapter-059-intermodal-safe-container-transportation.md#section-5905) does” for “Sections 5904(a)(2) and 5905 of this title do”.

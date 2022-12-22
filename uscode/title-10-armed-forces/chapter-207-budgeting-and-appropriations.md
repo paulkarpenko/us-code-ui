@@ -34,14 +34,14 @@ Subsection (b) is based on Pub. L. 99–190, § 101(b) [title VIII, § 8015], De
 #### Amendments
 2021—Pub. L. 116–283, § 1809(b), renumbered [section 2351 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2351) as this section.
 
-Subsec. (b)(1). Pub. L. 117–81, which directed the substitution of “section 4141” for “section 2353”, could not be executed because of the intervening amendment by Pub. L. 116—283, § 1883(b)(2). See note below.
+Subsec. (b)(1). Pub. L. 117–81, which directed the substitution of “section 4141” for “section 2353”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
 
 Pub. L. 116–283, § 1883(b)(2), substituted “section 4141” for “section 2353”.
 
 1988—Pub. L. 100–370 renumbered [section 2361 of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2361) as section 2351, designated such provisions as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -150,7 +150,7 @@ Subsec. (c). Pub. L. 116–283, § 1809(e)(2)(B), which directed adding subsec. 
 1982—Subsec. (b). Pub. L. 97–258 substituted “disbursing official” for “disbursing officer”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -392,7 +392,7 @@ Pub. L. 104–106, div. A, title IX, § 912(b), Feb. 10, 1996, 110 Stat. 410, pr
 ### Statutory Notes
 
 #### Codification
-Pub. L. 116–283, div. A, title XVIII, § 1809(h)(1), Jan. 1, 2021, 134 Stat. 4162, initially transferred [section 235 of this title](./chapter-009-defense-budget-matters.md#section-235) to this section, to become effective Jan. 1, 2022. Pub. L. 117–81, div. A, title VIII, § 815(b)(1), Dec. 27, 2021, 135 Stat. 1825, repealed [section 235 of this title](./chapter-009-defense-budget-matters.md#section-235), effectively eliminating that transfer and omitting this section before it took effect.
+Pub. L. 116–283, div. A, title XVIII, § 1809(h)(1), Jan. 1, 2021, 134 Stat. 4162, directed the transfer of [section 235 of this title](./chapter-009-defense-budget-matters.md#section-235) to this section, which was to take effect Jan. 1, 2022. However, Pub. L. 117–81, div. A, title VIII, § 815(b)(1), Dec. 27, 2021, 135 Stat. 1825, subsequently repealed [section 235 of this title](./chapter-009-defense-budget-matters.md#section-235) effective Dec. 27, 2021, effectively eliminating that transfer and omitting this section before it took effect.
 
 
 <a id="section-3138"></a>

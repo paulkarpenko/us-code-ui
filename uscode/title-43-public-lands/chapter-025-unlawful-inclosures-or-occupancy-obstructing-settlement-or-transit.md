@@ -22,13 +22,13 @@ It shall be the duty of the United States attorney for the proper district, on a
 #### Amendments
 1984—Pub. L. 98–620 struck out provision that any suit brought under this section had precedence for hearing and trial over other cases on the civil docket of the court, and had to be tried and determined at the earliest practicable day.
 
-#### Effective Date of 1984 Amendment
-Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as a note under [section 1657 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1657&num=0&edition=prelim), Judiciary and Judicial Procedure.
-
 #### Change of Name
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney of the United States.” See [section 541 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section541&num=0&edition=prelim), Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
 The words “district court” substituted for “district or circuit court” in two places to conform to act Mar. 3, 1911, which abolished the circuit courts and transferred their powers and duties to the district courts.
+
+#### Effective Date of 1984 Amendment
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as a note under [section 1657 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1657&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 
 <a id="section-1063"></a>

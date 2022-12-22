@@ -31,6 +31,9 @@ For purposes of this chapter—
 
 ### Statutory Notes
 
+#### Constitutionality
+For information regarding the constitutionality of certain provisions of this chapter, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
+
 #### Effective Date
 Pub. L. 102–559, § 3, Oct. 28, 1992, 106 Stat. 4229, provided that: “This Act [enacting this chapter and provisions set out as a note under [section 1 of this title](./chapter-001-supreme-court.md#section-1)] shall take effect on January 1, 1993.”
 
@@ -48,7 +51,7 @@ a lottery, sweepstakes, or other betting, gambling, or wagering scheme based, di
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of par. (1) of this section, as added by section 2(a) of Pub. L. 102–559, see Government Publishing Office, The Constitution of the United States of America: Analysis and Interpretation, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States, 2018 Supplement, prepared by the Congressional Research Service.
+For information regarding constitutionality of par. (1) of this section, as added by section 2(a) of Pub. L. 102–559, see note under [section 3701 of this title](./chapter-178-professional-and-amateur-sports-protection.md#section-3701).
 
 #### Effective Date
 Section effective Jan. 1, 1993, see section 3 of Pub. L. 102–559, set out as a note under [section 3701 of this title](./chapter-178-professional-and-amateur-sports-protection.md#section-3701).

@@ -196,7 +196,7 @@ Ex. Ord. No. 12856, Aug. 3, 1993, 58 F.R. 41981, which provided for Federal comp
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and CERCLA, referred to in subsec. (a)(1), (3), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and CERCLA, referred to in subsec. (a)(1), (3), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
 
 The Safe Drinking Water Act, referred to in subsec. (e)(3)(B), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -305,7 +305,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### References in Text
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), (2)(A)(i), (B) and (d)(1)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), (2)(A)(i), (B) and (d)(1)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 
 <a id="section-11022"></a>
@@ -395,7 +395,7 @@ The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1), 
 ### Statutory Notes
 
 #### References in Text
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) and (d)(1)(A), (C)(i), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1) and (d)(1)(A), (C)(i), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (e)(1). Pub. L. 115–270, § 2018(b)(1), substituted “State emergency response commission” for “State emergency planning commission”.
@@ -902,7 +902,7 @@ Immediately following such a request, the owner or operator to whom such request
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (e), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, as amended, known as the Superfund Amendments and Reauthorization Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
+This Act, referred to in subsec. (e), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, known as the Superfund Amendments and Reauthorization Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

@@ -231,7 +231,7 @@ In subsection (d), the words “officer or” are omitted as included within “
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
-The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (c)(1)(C), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2013—Subsec. (c). Pub. L. 113–66 substituted “Navy Ships Stores Program” for “Army and Air Force Motion Picture Service, Navy Ship’s Stores Ashore” in introductory provisions.

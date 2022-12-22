@@ -113,7 +113,7 @@ The purposes of this chapter are as follows:
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–559, Dec. 21, 2000, 114 Stat. 2778, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3651 of this title](./chapter-38a-indian-tribal-justice-technical-and-legal-assistance.md#section-3651) and Tables.
 
-The Indian Tribal Justice Act, referred to in par. (5), is Pub. L. 103–176, Dec. 3, 1993, 107 Stat. 2004, as amended, which is classified generally to chapter 38 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-038-indian-tribal-justice-support.md#section-3601) and Tables.
+The Indian Tribal Justice Act, referred to in par. (5), is Pub. L. 103–176, Dec. 3, 1993, 107 Stat. 2004, which is classified generally to chapter 38 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-038-indian-tribal-justice-support.md#section-3601) and Tables.
 
 
 <a id="section-3663"></a>

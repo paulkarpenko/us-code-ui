@@ -234,7 +234,7 @@ Section effective Oct. 1, 2000, with exceptions relating to record retention and
 #### References in Text
 The Government Paperwork Elimination Act, referred to in subsec. (c)(2), is title XVII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–749, which amended [section 3504 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504&num=0&edition=prelim), Public Printing and Documents, and enacted provisions set out as a note under [section 3504 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d)(2), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
 #### Effective Date
 Section effective Oct. 1, 2000, with exceptions relating to record retention and certain loans, see section 107 of Pub. L. 106–229, set out as a note under [section 7001 of this title](./chapter-096-electronic-signatures-in-global-and-national-commerce.md#section-7001).

@@ -50,7 +50,7 @@ This section inserts commas in certain parts of the text of subsection (b) of [s
 Section 1005(e) of the Detainee Treatment Act of 2005, referred to in subsec. (e)(2), is section 1005(e) of title X of div. A of Pub. L. 109–148, which is set out as a note under [section 801 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801&num=0&edition=prelim), Armed Forces.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, as added and amended by section 1005(e)(1) of Pub. L. 109–148 and section 7(a) of Pub. L. 109–366, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding the constitutionality of certain provisions of this section, as added and amended by section 1005(e)(1) of Pub. L. 109–148 and section 7(a) of Pub. L. 109–366, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 2008—Subsec. (e). Pub. L. 110–181 amended directory language of Pub. L. 109–366, § 7(a). See 2006 Amendment note below.
@@ -427,7 +427,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 | RULES GOVERNING SECTION 2254 CASES IN THE UNITED STATES DISTRICT COURTS |  |
 | --- | --- |
-| ( Effective Feb. 1, 1977 , as amended to Jan. 13, 2021 ) |  |
+| (Effective Feb. 1, 1977 , as amended to Dec. 1, 2022 ) |  |
 | Rule |  |
 | 1. | Scope. |
 | 2. | The Petition. |
@@ -1303,7 +1303,7 @@ Rules and forms governing proceedings under sections 2254 and 2255 of this title
 
 | RULES GOVERNING SECTION 2255 PROCEEDINGS FOR THE UNITED STATES DISTRICT COURTS |  |
 | --- | --- |
-| (Effective Feb. 1, 1977 , as amended to Jan. 13, 2021 ) |  |
+| (Effective Feb. 1, 1977 , as amended to Dec. 1, 2022 ) |  |
 | Rule |  |
 | 1. | Scope. |
 | 2. | The Motion. |

@@ -54,7 +54,7 @@ Provisions similar to those in this section were contained in [section 223(c) of
 
 **(b)** If the Secretary determines that a veteran, surviving spouse, child of a veteran, or other person has suffered loss as a consequence of reliance upon a determination by the Department of eligibility or entitlement to benefits, without knowledge that it was erroneously made, the Secretary may provide such relief on account of such error as the Secretary determines is equitable, including the payment of moneys to any person whom the Secretary determines is equitably entitled to such moneys.
 
-**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2022.
+**(c)** Not later than April 1 of each year, the Secretary shall submit to Congress a report containing a statement as to the disposition of each case recommended to the Secretary for equitable relief under this section during the preceding calendar year. No report shall be required under this subsection after December 31, 2024.
 
 ### Statutory Notes
 
@@ -64,6 +64,8 @@ Prior sections 503 and 504 were renumbered sections 1503 and 1504 of this title,
 Provisions similar to those in this section were contained in section 210(c)(2), (3) of this title prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–180 substituted “December 31, 2024” for “December 31, 2022”.
+
 2020—Subsec. (c). Pub. L. 116–159 substituted “December 31, 2022” for “December 31, 2020”.
 
 2018—Subsec. (c). Pub. L. 115–251 substituted “December 31, 2020” for “December 31, 2018”.
@@ -459,9 +461,9 @@ Provisions similar to those in this section were contained in [section 216 of th
 
 (1) There is authorized to be appropriated amounts as follows:
 
-  (A) $8,000,000 for each of fiscal years 2010 through 2020. for each of fiscal years 2010 through 2020.11 So in original. The words “for each of fiscal years 2010 through 2020.” probably should not appear twice.
+  (A) $8,000,000 for each of fiscal years 2010 through 2020.
 
-  (B) $16,000,000 for each of fiscal years 2021 and 2022.
+  (B) $16,000,000 for each of fiscal years 2021 through 2026.
 
 (2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
@@ -479,11 +481,17 @@ Provisions similar to those in this section were contained in [section 216 of th
 
 **(k) Annual Report to Congress.—** For any fiscal year during which the Secretary provides assistance under this section, the Secretary shall submit to Congress a report on the use of funds provided under this section.
 
-**(l) Termination.—** The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2022.
+**(l) Termination.—** The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2026.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (g)(1)(A). Pub. L. 117–180, § 402(c), struck out “. for each of fiscal years 2010 through 2020” before period at end.
+
+Subsec. (g)(1)(B). Pub. L. 117–180, § 402(a), substituted “through 2026” for “and 2022”.
+
+Subsec. (l). Pub. L. 117–180, § 402(b), substituted “2026” for “2022”.
+
 2020—Subsec. (g)(1). Pub. L. 116–159, § 5403(a), substituted “appropriated amounts as follows:” for “appropriated $8,000,000”, inserted “(A) $8,000,000 for each of fiscal years 2010 through 2020.” before “for each of fiscal years 2010 through 2020.”, and added subpar. (B).
 
 Subsec. (l). Pub. L. 116–159, § 5403(b), substituted “2022” for “2020”.
@@ -611,6 +619,15 @@ Provisions similar to those in this section were contained in [section 215 of th
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 219 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section219&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
 
+#### Analysis and Report on Treatment of Veterans for Medical Conditions Related to Toxic Exposure
+Pub. L. 117–168, title V, § 502, Aug. 10, 2022, 136 Stat. 1786, provided that: “(a) In General.—The Secretary of Veterans Affairs shall analyze, on a continuous basis, all clinical data that—“(1) is obtained by the Department of Veterans Affairs in connection with hospital care, medical services, and nursing home care furnished under [section 1710(a)(2)(F) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1710/a/2/F&num=0&edition=prelim), United States Code; and “(2) is likely to be scientifically useful in determining the association, if any, between the medical condition of a veteran and a toxic exposure. “(b) Annual Report.—Not later than one year after the date of the enactment of this Act [Aug. 10, 2022], and annually thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing the following:“(1) The aggregate data compiled under subsection (a). “(2) An analysis of such data. “(3) A description of the types and incidences of medical conditions identified by the Department under such subsection. “(4) The explanation of the Secretary for the incidence of such medical conditions and other explanations for the incidence of such conditions as the Secretary considers reasonable. “(5) The views of the Secretary on the scientific validity of drawing conclusions from the incidence of such medical conditions, as evidenced by the data compiled under subsection (a), regarding any association between such conditions and toxic exposures. “(c) Toxic Exposure Defined.—In this section, the term ‘toxic exposure’ has the meaning given such term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code, as amended by section 102(b).”
+
+#### Department of Veterans Affairs Public Website for Toxic Exposure Research
+Pub. L. 117–168, title V, § 509, Aug. 10, 2022, 136 Stat. 1791, provided that: “(a) Website.—Not later than one year after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs shall establish, and maintain thereafter, a publicly accessible internet website of the Department of Veterans Affairs that serves as a clearinghouse for the publication of all toxic exposure research carried out or funded by the executive branch of the Federal Government. “(b) Coordination.—In carrying out subsection (a), the Secretary shall coordinate with—“(1) the heads of each Federal agency carrying out or funding toxic exposure research; “(2) the War Related Illness and Injury Study Center of the Department of Veterans Affairs, or successor center; and “(3) any working group of the Department of Veterans Affairs or other similar entity responsible for coordinating toxic exposure research. “(c) Definitions.—In this section:“(1) Toxic exposure.—The term ‘toxic exposure’ has the meaning given that term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code, as added [probably should be “amended”] by section 102(b). “(2) Toxic exposure research.—The term ‘toxic exposure research’ means research on the health consequences of toxic exposures experienced during service in the Armed Forces.”
+
+#### Burn Pit Transparency
+Pub. L. 117–168, title VIII, § 808, Aug. 10, 2022, 136 Stat. 1806, provided that: “(a) Annual Report on Disability Claims.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act, [Aug. 10, 2022] and annually thereafter, the Secretary of Veterans Affairs shall submit to the appropriate congressional committees a report detailing the following:“(A) The total number of covered veterans. “(B) The total number of claimed issues for disability compensation under chapter 11 of title 38, United States Code, approved and the total number denied by the Secretary of Veterans Affairs with respect to a covered veteran, and a breakdown of the reasons for the denials. “(C) A comprehensive list of the top 10 conditions from each body system for which the Secretary awarded service connection for covered veterans. “(D) Any updates or trends with respect to the information described in subparagraphs (A), (B), and (C), that the Secretary determines appropriate. “(2) Covered veteran defined.—In this subsection, the term ‘covered veteran’ means a veteran who deployed to the Southwest Asia theater of operations any time after August 1990, or Afghanistan, Syria, Djibouti, or Uzbekistan after September 19, 2001, and who submits a claim for disability compensation under chapter 11 of title 38, United States Code. “(b) Information Regarding the Airborne Hazards and Open Burn Pit Registry.—“(1) Notice.—The Secretary of Veterans Affairs shall ensure that a medical professional of the Department of Veterans Affairs informs a veteran of the Airborne Hazards and Open Burn Pit Registry if the veteran presents at a medical facility of the Department for treatment that the veteran describes as being related to, or ancillary to, the exposure of the veteran to toxic airborne chemicals and fumes caused by open burn pits. “(2) Display.—In making information public regarding the number of participants in the Airborne Hazards and Open Burn Pit Registry, the Secretary shall display such numbers by both State and by congressional district. “(c) Definitions.—In this section:“(1) Airborne hazards and open burn pit registry.—The term ‘Airborne Hazards and Open Burn Pit Registry’ means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note). “(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Veterans’ Affairs and the Committee on Armed Services of the Senate; and “(B) The Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives. “(3) Open burn pit.—The term ‘open burn pit’ has the meaning given that term in section 201(c) of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note).”
+
 #### Requirement for Collection and Analysis of Data on Department of Veterans Affairs Benefits and Services and Disaggregation of Such Data by Gender, Race, and Ethnicity
 Pub. L. 116–315, title V, § 5401, Jan. 5, 2021, 134 Stat. 5045, provided that: “The Secretary of Veterans Affairs shall— “(1) collect and analyze data on each program of the Department of Veterans Affairs that provides a service or benefit to a veteran, including the program carried out under [section 1144 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1144&num=0&edition=prelim), United States Code; “(2) disaggregate such data by gender, race, and ethnicity, when the data lends itself to such disaggregation; and “(3) publish the data collected and analyzed under paragraph (1), except for such cases in which the Secretary determines that some portions of the data would undermine the anonymity of a veteran.”
 
@@ -682,11 +699,33 @@ Prior sections 532 to 537 were renumbered sections 1532 to 1537 of this title, r
 
 
 <a id="section-531"></a>
-## § 531. Requirement relating to naming of Department property
+## § 531. Requirements relating to naming of Department property
+**(a) Naming Limitation.—** Except as expressly provided by law or as authorized under subsection (b), a facility, structure, or real property of the Department, and a major portion (such as a wing or floor) of any such facility, structure, or real property, may be named only for the geographic area in which the facility, structure, or real property is located.
 
-Except as expressly provided by law, a facility, structure, or real property of the Department, and a major portion (such as a wing or floor) of any such facility, structure, or real property, may be named only for the geographic area in which the facility, structure, or real property is located.
+**(b) Transfer of Names.—**
+
+(1) **In general.—** — The Secretary may transfer the name of covered property of the Department to other covered property of the Department if—
+
+  (A) the original covered property was designated with that name by law;
+
+  (B) the Department no longer offers benefits or services at the original covered property;
+
+  (C) the other covered property is similar in type and purpose as the original covered property;
+
+  (D) the other covered property is located in a different location or at a different address from the original covered property within the town, city, or other local government area specified in the designation made by such law; and
+
+  (E) such transfer occurs not less than 30 days after the Secretary notifies the Committee on Veterans’ Affairs of the Senate, the Committee on Veterans’ Affairs of the House of Representatives, and each member of Congress representing the State in which the original covered property and other covered property are located of the intent of the Secretary to transfer the name of the original covered property to the other covered property.
+
+(2) **References.—** — If the Secretary transfers the name of covered property under paragraph (1), any reference in a law, regulation, map, document, paper, or other record of the United States to the covered property originally named by law shall be deemed to be a reference to the covered property to which the name has been transferred under such paragraph.
+
+(3) **Covered property.—** — In this subsection, the term “covered property” means a facility, structure, or real property of the Department or a major portion (such as a wing or floor) of any such facility, structure, or real property.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–137, § 1(a)(2), (3), designated existing provisions as subsec. (a), inserted heading, inserted “or as authorized under subsection (b)” after “Except as expressly provided by law”, and added subsec. (b).
+
+Pub. L. 117–137, § 1(a)(1), substituted “Requirements” for “Requirement” in section catchline.
 
 #### Effective Date
 Pub. L. 105–368, title X, § 1001(b), Nov. 11, 1998, 112 Stat. 3363, provided that: “[Section 531 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-531), United States Code, as added by subsection (a)(1), shall apply with respect to the assignment or designation of the name of a facility, structure, or real property of the Department of Veterans Affairs (or of a major portion thereof) after the date of the enactment of this Act [Nov. 11, 1998].”
@@ -1079,7 +1118,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (5) Pacific-Islander American.
 
-**(e)** The Committee shall cease to exist September 30, 2022.
+**(e)** The Committee shall cease to exist September 30, 2026.
 
 ### Statutory Notes
 
@@ -1089,6 +1128,8 @@ Prior section 544, added Pub. L. 90–77, title I, § 108(a), Aug. 31, 1967, 81 
 Another prior section 544, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, § 4, Aug. 29, 1950, 73 Stat. 434. See sections 1542 and 1543 of this title.
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–180 substituted “September 30, 2026” for “September 30, 2022”.
+
 2018—Subsec. (c)(1). Pub. L. 115–251, § 166(b), substituted “every other year” for “each year” in introductory provisions.
 
 Subsec. (e). Pub. L. 115–251, § 166(a), substituted “September 30, 2022” for “September 30, 2018”.

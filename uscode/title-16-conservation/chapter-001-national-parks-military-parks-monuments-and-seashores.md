@@ -2,7 +2,7 @@
 title: 16
 chapter: '1'
 heading: 'NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES'
-section_count: 2308
+section_count: 2315
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -786,6 +786,7 @@ Section, act July 19, 1940, ch. 642, § 3, 54 Stat. 773; Pub. L. 93–193, § 2,
 
 ### Statutory Notes
 
+#### Codification
 Section, act July 19, 1940, ch. 642, § 4, 54 Stat. 774; Oct. 28, 1949, ch. 782, title XI, § 1106(a), 63 Stat. 972; Pub. L. 93–193, § 2, Dec. 19, 1973, 87 Stat. 765, which related to rules and regulations and employees, was transferred to [section 1547 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1547&num=0&edition=prelim), Commerce and Trade.
 
 
@@ -794,6 +795,7 @@ Section, act July 19, 1940, ch. 642, § 4, 54 Stat. 774; Oct. 28, 1949, ch. 782,
 
 ### Statutory Notes
 
+#### Codification
 Section, act July 19, 1940, ch. 642, § 5, 54 Stat. 774; Pub. L. 91–549, Dec. 14, 1970, 84 Stat. 1437; Pub. L. 94–55, § 2(a), July 9, 1975, 89 Stat. 262, which authorized appropriations, was transferred to [section 1548 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1548&num=0&edition=prelim), Commerce and Trade.
 
 
@@ -1973,7 +1975,7 @@ Pub. L. 105–277, div. A, § 101(e) [title I, § 146], Oct. 21, 1998, 112 Stat.
 ### Statutory Notes
 
 #### References in Text
-Act of October 21, 1976 (90 Stat. 2743), referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+Act of October 21, 1976 (90 Stat. 2743), referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2005—Subsec. (a). Pub. L. 109–131 designated existing provisions of first sentence as par. (1), in par. (1) substituted “The Redwood National Park consists of the land generally depicted on the map entitled ‘Redwood National Park, Revised Boundary’, numbered 167/60502, and dated February, 2003.” for “The area to be included within the Redwood National Park is that generally depicted on the maps entitled ‘Redwood National Park,’ numbered NPS–RED–7114–A and NPS–RED–7114–B, and dated September 1968, and the area indicated as ‘Proposed Additions’ on the map entitled ‘Additional Lands, Redwood National Park, California,’ numbered 167–80005–D and dated March 1978, copies of which maps shall be kept available for public inspection in the offices of the National Park Service, Department of the Interior, and shall be filed with appropriate officers of Del Norte and Humboldt Counties.”, added par. (2), designated existing provisions of second sentence as par. (3), and in par. (3) substituted “The Secretary;” for “The Secretary” and “133,000 acres” for “one hundred and six thousand acres”.
@@ -2782,9 +2784,9 @@ Pub. L. 113–137, July 25, 2014, 128 Stat. 1741, provided that: “SECTION 1. S
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act of February 25, 1920, as amended, referred to in subsec. (c), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act of February 25, 1920, as amended, referred to in subsec. (c), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
-The Acquired Lands Mineral Leasing Act of August 7, 1947, referred to in subsec. (c), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§ 351 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section351&num=0&edition=prelim) and Tables.
+The Acquired Lands Mineral Leasing Act of August 7, 1947, referred to in subsec. (c), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§ 351 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section351&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1988—Subsec. (a). Pub. L. 100–668, § 205, amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary shall administer the recreation areas in a manner which in his judgment will best provide for (1) public outdoor recreation benefits; (2) conservation of scenic, scientific, historic, and other values contributing to public enjoyment; and (3) such management, utilization, and disposal of renewable natural resources and the continuation of such existing uses and developments as will promote or are compatible with, or do not significantly impair, public recreation and conservation of the scenic, scientific, historic, or other values contributing to public enjoyment. In administering the recreation areas, the Secretary may utilize such statutory authorities pertaining to the administration of the national park system, and such statutory authorities otherwise available to him for the conservation and management of natural resources as he deems appropriate for recreation and preservation purposes and for resource development compatible therewith.”
@@ -2824,7 +2826,7 @@ Nothing in this subchapter shall be construed to supersede, repeal, modify, or i
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, is act June 20, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, is act June 20, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Amendments
 1988—Pub. L. 100–668 substituted “in the lands and waters within the Skagit River Hydroelectric Project, Federal Energy and Regulatory Commission Project 553, including the proposed Copper Creek, High Ross, and Thunder Creek elements of the Project; and the Newhalem Project, Federal Energy and Regulatory Commission Project 2705, within the Ross Lake National Recreation Area; the lands and waters within the Lake Chelan Project, Federal Energy and Regulatory Commission Project 637; the Company Creek small hydroelectric project at Stehekin within the Lake Chelan National Recreation Area; and existing hydrologic monitoring stations necessary for the proper operation of the hydroelectric projects listed herein” for “in the recreation areas”.
@@ -2853,7 +2855,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 
 <a id="section-90e-1"></a>
@@ -2878,7 +2880,7 @@ Effective date of the Wilderness Act, referred to in text, means the date of ena
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 Effective date of the Wilderness Act, referred to in subsec. (b), means the date of enactment, Sept. 3, 1964, of such Act.
 
@@ -3987,11 +3989,11 @@ In sentence beginning “Nothing herein contained”, the words “before May 11
 #### Amendments
 1931—Act Jan. 26, 1931, struck out provision that right of way through the valleys of the North and Middle Forks of the Flathead River might be acquired within Glacier National Park for steam or electric railways.
 
-#### Change of Name
-The Reclamation Service, established in July 1902, changed to the Bureau of Reclamation on June 20, 1923, then to the Water and Power Resources Service on Nov. 6, 1979, and then back to the Bureau of Reclamation on May 18, 1981. See 155 Dep’t of the Interior, Departmental Manual 1.1 (2008 repl.); Sec’y Hubert Work, Dep’t of the Interior, Order (June 20, 1923); Sec’y Cecil D. Andrus, Dep’t of the Interior, Secretarial Order 3042, §§ 1, 4 (Nov. 6, 1979); Sec’y James G. Watt, Dep’t of the Interior, Secretarial Order 3064, §§ 3, 5 (May 18, 1981).
-
 #### Permits for Existing Natural Gas Pipelines
 Pub. L. 112–268, § 1, Jan. 14, 2013, 126 Stat. 2441, provided that: “(a) In General.—The Secretary of the Interior may issue right-of-way permits for each natural gas pipeline (including all appurtenances used in the operation of the natural gas pipeline) that, as of March 1, 2012, is located within the boundary of Glacier National Park. “(b) Terms and Conditions.—A permit issued under subsection (a) shall be—“(1) issued as a right-of-way renewal, consistent with laws (including regulations) generally applicable to utility rights-of-way within units of the National Park System; “(2) for a width of not more than 25 feet on either side of the centerline of the natural gas pipeline; and “(3) subject to any terms and conditions that the Secretary of the Interior determines to be necessary.”
+
+#### Change of Name
+The Reclamation Service, established in July 1902, changed to the Bureau of Reclamation on June 20, 1923, then to the Water and Power Resources Service on Nov. 6, 1979, and then back to the Bureau of Reclamation on May 18, 1981. See 155 Dep’t of the Interior, Departmental Manual 1.1 (2008 repl.); Sec’y Hubert Work, Dep’t of the Interior, Order (June 20, 1923); Sec’y Cecil D. Andrus, Dep’t of the Interior, Secretarial Order 3042, §§ 1, 4 (Nov. 6, 1979); Sec’y James G. Watt, Dep’t of the Interior, Secretarial Order 3064, §§ 3, 5 (May 18, 1981).
 
 
 <a id="section-161a"></a>
@@ -4216,9 +4218,6 @@ The tract of land in the State of Colorado particularly described by and include
 #### Codification
 A statement in this section as originally enacted that the tract described was then a part of certain counties in Colorado has been omitted as historically obsolete.
 
-#### Change of Name
-The Reclamation Service, established in July 1902, changed to the Bureau of Reclamation on June 20, 1923, then to the Water and Power Resources Service on Nov. 6, 1979, and then back to the Bureau of Reclamation on May 18, 1981. See 155 Dep’t of the Interior, Departmental Manual 1.1 (2008 repl.); Sec’y Hubert Work, Dep’t of the Interior, Order (June 20, 1923); Sec’y Cecil D. Andrus, Dep’t of the Interior, Secretarial Order 3042, §§ 1, 4 (Nov. 6, 1979); Sec’y James G. Watt, Dep’t of the Interior, Secretarial Order 3064, §§ 3, 5 (May 18, 1981).
-
 #### Additions to Rocky Mountain National Park
 The following provisions authorized the addition of lands to Rocky Mountain National Park:
 
@@ -4229,6 +4228,9 @@ Pub. L. 116–301, Jan. 5, 2021, 134 Stat. 4910.
 Pub. L. 109–93, Oct. 26, 2005, 119 Stat. 2104.
 
 Pub. L. 104–158, § 2(b)(1), July 9, 1996, 110 Stat. 1406.
+
+#### Change of Name
+The Reclamation Service, established in July 1902, changed to the Bureau of Reclamation on June 20, 1923, then to the Water and Power Resources Service on Nov. 6, 1979, and then back to the Bureau of Reclamation on May 18, 1981. See 155 Dep’t of the Interior, Departmental Manual 1.1 (2008 repl.); Sec’y Hubert Work, Dep’t of the Interior, Order (June 20, 1923); Sec’y Cecil D. Andrus, Dep’t of the Interior, Secretarial Order 3042, §§ 1, 4 (Nov. 6, 1979); Sec’y James G. Watt, Dep’t of the Interior, Secretarial Order 3064, §§ 3, 5 (May 18, 1981).
 
 
 <a id="section-192"></a>
@@ -4355,7 +4357,7 @@ The aforesaid parcels A, C, and D, and the combined parcels A and B are, subject
 #### References in Text
 This Act, referred to in subsecs. (a) and (b), is Pub. L. 96–560, Dec. 22, 1980, 94 Stat. 3265, which enacted this section and enacted provisions set out as notes under sections 1132 and 1133 of this title. For complete classification of this Act to the Code, see Tables.
 
-Public Law 95–450 (92 Stat. 1099), referred to in subsec. (a), is Pub. L. 95–450, Oct. 11, 1978, 92 Stat. 1095, as amended, known as the Indian Peaks Wilderness Area, the Arapaho National Recreation Area and the Oregon Islands Wilderness Area Act, which is classified principally to subchapter XCIV (§ 460jj et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460jj of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460jj) and Tables.
+Public Law 95–450 (92 Stat. 1099), referred to in subsec. (a), is Pub. L. 95–450, Oct. 11, 1978, 92 Stat. 1095, known as the Indian Peaks Wilderness Area, the Arapaho National Recreation Area and the Oregon Islands Wilderness Area Act, which is classified principally to subchapter XCIV (§ 460jj et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460jj of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460jj) and Tables.
 
 #### Encouragement of Land Exchanges
 Pub. L. 104–333, div. I, title IV, § 408(b), Nov. 12, 1996, 110 Stat. 4153, provided that: “(1) Lands inside rocky mountain national park.—Promptly following enactment of this Act [Nov. 12, 1996], the Secretary of the Interior shall seek to acquire by donation or exchange those lands within the boundaries of Rocky Mountain National Park owned by the city of Longmont, Colorado, that are referred to in section 111(d) of the Act commonly referred to as the ‘Colorado Wilderness Act of 1980’ (Public Law 96–560; 94 Stat. 3272; [16 U.S.C. 192b–9(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section192b–9/d&num=0&edition=prelim)). “(2) Other lands.—The Secretary of Agriculture shall immediately and actively pursue negotiations with the city of Longmont, Colorado, concerning the city’s proposed exchange of lands owned by the city and located in and near Coulson Gulch for other lands owned by the United States. The Secretary shall report to Congress 2 calendar years after the date of enactment of this Act [Nov. 12, 1996], and every 2 years thereafter on the progress of such negotiations until negotiations are complete.”
@@ -5150,6 +5152,9 @@ Pub. L. 111–11, title VII, § 7105(f)(1), Mar. 30, 2009, 123 Stat. 1193, provi
 
 “Chalmette Unit of the Jean Lafitte National Historical Park” substituted for “Chalmette National Historical Park” pursuant to [section 230h of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-230h).
 
+#### Save the Liberty Theatre
+Pub. L. 117–112, Apr. 19, 2022, 136 Stat. 1171, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Save the Liberty Theatre Act of 2021’. “SEC. 2. DEFINITIONS.“In this Act:“(1) City.—The term ‘City’ means the City of Eunice, Louisiana. “(2) Map.—The term ‘map’ means the map entitled ‘Jean Lafitte National Historical Park and Preserve, Proposed Boundary Revision and Disposal’, numbered 467/168813, and dated December 2020. “(3) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “SEC. 3. LAND CONVEYANCE.“(a) Conveyance Authority.—The Secretary shall convey to the City, by quitclaim deed and without consideration, all right, title, and interest of the United States in and to the parcels of land described in subsection (b). “(b) Description of Land.—The parcels of land referred to in subsection (a) are Lots 5 and 6, less the North 27 feet of Lot 5, Block 22, of the Original Townsite of Eunice, generally depicted as ‘Proposed Disposal Area’ on the map. “(c) Availability of Map.—The map shall be on file and available for public inspection in the appropriate offices of the National Park Service. “SEC. 4. BOUNDARY ADJUSTMENTS.“Upon the conveyance to the City of the land described in section 3(b), the boundary of the Jean Lafitte National Historical Park and Preserve shall be adjusted to exclude—“(1) the conveyed land; and “(2) Lots 7 and 8 of the Original Townsite of Eunice generally depicted as ‘Non-NPS in Current Boundary’ on the map.”
+
 #### Laura C. Hudson Visitor Center
 Pub. L. 104–333, div. I, title VIII, § 808, Nov. 12, 1996, 110 Stat. 4188, as amended by Pub. L. 111–11, title VII, § 7105(f)(1)(B), Mar. 30, 2009, 123 Stat. 1193, provided that: “(a) Designation.—The visitor center at Jean Lafitte National Historical Park and Preserve, located at 419 Rue Decatur in New Orleans, Louisiana, is hereby designated as the ‘Laura C. Hudson Visitor Center’. “(b) Legal References.—Any reference in any law, regulation, paper, record, map, or any other document of the United States to the visitor center referred to in subsection (a) shall be deemed to be a reference to the ‘Laura C. Hudson Visitor Center’.”
 
@@ -5530,7 +5535,7 @@ The Secretary of the Interior is authorized to make further adjustments in the b
 ### Statutory Notes
 
 #### References in Text
-The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was not enacted as part of act Apr. 25, 1947, ch. 41, 61 Stat. 52, which comprises this subchapter.
@@ -6030,7 +6035,7 @@ Section was not enacted as part of act June 11, 1940, ch. 304, 54 Stat. 262, whi
 ### Statutory Notes
 
 #### References in Text
-The act of June 11, 1940, referred to in subsec. (a), is act June 11, 1940, ch. 304, 54 Stat. 262, as amended, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
+The act of June 11, 1940, referred to in subsec. (a), is act June 11, 1940, ch. 304, 54 Stat. 262, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Omnibus Parks and Public Lands Management Act of 1996, and not as part of act June 11, 1940, ch. 304, 54 Stat. 262, which comprises this subchapter.
@@ -6095,7 +6100,7 @@ Section was enacted as part of the Omnibus Parks and Public Lands Management Act
 #### References in Text
 This section and the section, referred to in subsecs. (a) and (b)(2), were in the original “This Act” and “the Act”, which were translated as meaning section 150 of Pub. L. 108–199, div. H, Jan. 23, 2004, 118 Stat. 446, to reflect the probable intent of Congress.
 
-The act of June 11, 1940, referred to in subsecs. (b)(1)(A) and (c)(1)(C), is act June 11, 1940, ch. 304, 54 Stat. 262, as amended, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
+The act of June 11, 1940, referred to in subsecs. (b)(1)(A) and (c)(1)(C), is act June 11, 1940, ch. 304, 54 Stat. 262, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as the Fern Lake Conservation and Recreation Act, and also as part of the Miscellaneous Appropriations and Offsets Act, 2004, and Consolidated Appropriations Act, 2004, and not as part of act June 11, 1940, ch. 304, 54 Stat. 262, which comprises this subchapter.
@@ -6126,7 +6131,7 @@ Date of enactment of this Act or any amendment thereto, referred to in text, mea
 1971—Pub. L. 92–154 struck out “described in [section 271 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-271)” after “Within the area”, inserted in third sentence “or any amendment thereto” after “the date of enactment of this Act”, and inserted in fifth sentence “or any amendment thereto” after “this subchapter”.
 
 #### Transfer of Functions
-The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions whcih were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 
 <a id="section-271b"></a>
@@ -6245,7 +6250,7 @@ Pub. L. 105–329, § 1, Oct. 30, 1998, 112 Stat. 3060, provided that: “This A
 ### Statutory Notes
 
 #### References in Text
-The Taylor Grazing Act, referred to in subsec. (b)(5), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315&num=0&edition=prelim) and Tables.
+The Taylor Grazing Act, referred to in subsec. (b)(5), is act June 28, 1934, ch. 865, 48 Stat. 1269, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Pub. L. 105–329 inserted section catchline and subsec. (a) designation and heading and added subsec. (b).
@@ -6391,7 +6396,7 @@ Nothing in this subchapter shall be construed as affecting in any way rights of 
 #### References in Text
 The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 535) as amended and supplemented ([16 U.S.C. 1–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1–4&num=0&edition=prelim)), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Wilderness Act, referred to in subsec. (c), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (c), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 
 <a id="section-273e"></a>
@@ -6627,7 +6632,7 @@ There are hereby authorized to be appropriated such sums, but not more than $13,
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act for Acquired Lands, referred to in subsec. (c), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§ 351 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section351&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act for Acquired Lands, referred to in subsec. (c), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§ 351 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section351&num=0&edition=prelim) and Tables.
 
 
 <a id="section-283c"></a>
@@ -6856,7 +6861,7 @@ As used in this subchapter, the term—
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Nonprofit Corporation Act, referred to in par. (4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in par. (4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Amendments
 2002—Par. (2). Pub. L. 107–219 substituted “Wolf Trap National Park for the Performing Arts” for “Wolf Trap Farm Park”.
@@ -7749,7 +7754,7 @@ The governor of the Territory of Hawaii is authorized to acquire, at the expense
 ### Statutory Notes
 
 #### References in Text
-Section 73 of an Act approved April 30, 1900, as amended, referred to in text, was classified to sections 663, 664, 665 to 677b, 1509 to 1512 of Title 48, Territories and Insular Possessions. Those sections were omitted from the Code as obsolete.
+Section 73 of an Act approved April 30, 1900, referred to in text, was classified to sections 663, 664, 665 to 677b, 1509 to 1512 of Title 48, Territories and Insular Possessions. Those sections were omitted from the Code as obsolete.
 
 #### Codification
 Section 1 of act Feb. 27, 1920, is the source of that portion of this section preceding “but the provisions of section 73”; remainder being from section 2 of that Act.
@@ -7764,7 +7769,7 @@ Establishment of detached portion of Hawaii National Park lying on island of Mau
 Act Apr. 11, 1928, ch. 359, § 2, 45 Stat. 426, extended provisions of this section and made them applicable to lands added to the park and included within boundary established by [section 391 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-391).
 
 #### Admission of Hawaii as State
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 FR 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
 
 
 <a id="section-392a"></a>
@@ -9801,7 +9806,7 @@ The Congress hereby finds that—
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 #### Short Title
 Pub. L. 103–433, § 1, Oct. 31, 1994, 108 Stat. 4471, as amended by Pub. L. 116–9, title I, § 1458(a), Mar. 12, 2019, 133 Stat. 718, provided that: “Sections 1, 2, and 3, titles I through IX, and titles XIII and XIV of this Act [enacting this subchapter, part E of subchapter LIX–Y of this chapter, subchapters CXLII and CXLIII of this chapter, provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132), provisions set out as notes under this section, [section 410aaa–82 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-82), and [section 1781 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1781&num=0&edition=prelim), Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 431 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-431) and a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132)] may be cited as the ‘California Desert Protection Act of 1994’.”
@@ -9923,7 +9928,7 @@ The Congress finds that—
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 
 <a id="section-410aaa-22"></a>
@@ -9994,7 +9999,7 @@ Act of June 18, 1932 (47 Stat. 324), referred to in text, is not classified to t
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-410aaa-28"></a>
@@ -10049,9 +10054,9 @@ The Congress hereby finds that—
 #### References in Text
 This Act, referred to in par. (1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
-The Wilderness Act referred to in par. (4), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act referred to in par. (4), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in par. (5), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in par. (5), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-410aaa-42"></a>
@@ -10182,7 +10187,7 @@ Within three years after October 31, 1994, the Secretary shall submit to the Com
 ### Statutory Notes
 
 #### References in Text
-The Americans with Disabilities Act of 1990, referred to in text, is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in text, is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-410aaa-53"></a>
@@ -10245,7 +10250,7 @@ Any lands acquired by the Secretary under this part shall become part of the Moj
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-410aaa-59"></a>
@@ -10258,7 +10263,7 @@ Unless and until acquired by the United States, no lands within the boundaries o
 #### References in Text
 This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Codification
 In text, “[section 100903 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100903&num=0&edition=prelim)” substituted for “[16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–22(c)” and “[section 1865(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/b&num=0&edition=prelim), subchapter III of chapter 1007 of title 54” substituted for “the Mining in the Parks Act ([16 U.S.C. 1901](./chapter-039-mining-activity-within-national-park-system-areas.md#section-1901) et seq.)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
@@ -10281,7 +10286,7 @@ In text, “[section 100903 of title 54](https://uscode.house.gov/view.xhtml?req
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-410aaa-7"></a>
@@ -10330,7 +10335,7 @@ Except as provided in [section 410aaa–26 of this title](./chapter-001-national
 #### References in Text
 This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
-The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 617t of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section617t&num=0&edition=prelim) and Tables.
+The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 617t of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section617t&num=0&edition=prelim) and Tables.
 
 
 <a id="section-410aaa-74"></a>
@@ -10413,7 +10418,7 @@ This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, whi
 #### References in Text
 This Act, referred to in subsecs. (a) and (b)(1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
-The American Indian Religious Freedom Act, referred to in subsecs. (a), (b)(1), and (d)(3)(B)(ii), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
+The American Indian Religious Freedom Act, referred to in subsecs. (a), (b)(1), and (d)(3)(B)(ii), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (d)(3)(B)(iii), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title](./chapter-1b-archaeological-resources-protection.md#section-470aa) and Tables.
 
@@ -10493,9 +10498,9 @@ This Act, referred to in subsecs. (a), (c), and (d), is defined in section 3 of 
 #### References in Text
 This Act, referred to in subsecs. (a)(1) and (b)(1), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
-The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (d), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and Tables.
+The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (d), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623. Title II of the Act is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and Tables.
 
 The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which amended [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and enacted provisions set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim).
 
@@ -10539,7 +10544,7 @@ Lands and interests in lands acquired pursuant to this Act shall be appraised wi
 #### References in Text
 This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
-The Endangered Species Act of 1973, referred to in text, is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in text, is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 
 <a id="section-410aaa-81"></a>
@@ -10734,7 +10739,7 @@ Section 103 of Pub. L. 103–433 provided in part that in this subchapter “Sec
 #### References in Text
 This Act, referred to in subsecs. (a), (b), and (d), is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
-The Wilderness Act, referred to in subsecs. (a) and (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsecs. (a) and (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 #### Amendments
 2019—Subsecs. (a), (b). Pub. L. 116–9, § 1460(b)(1), (2), inserted “, scenic areas, off-highway vehicle recreation areas, or special management areas” before “designated by this Act”.
@@ -13163,7 +13168,7 @@ The Federal Energy Regulatory Commission shall not license the construction of a
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act (41 Stat. 1063) as amended ([16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.), referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act (41 Stat. 1063) as amended ([16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.), referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 Section was formerly classified to [section 460m–21 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460m–21&num=0&edition=prelim).
@@ -13725,7 +13730,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsecs. (b) and (c), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsecs. (b) and (c), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The effective date of the Wilderness Act, referred to in subsec. (b), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
@@ -14115,7 +14120,7 @@ The Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1–4](https://uscode.house
 
 The effective date of this subchapter, referred to in subsec. (a), probably means the date of enactment of Pub. L. 96–287, which was approved on June 28, 1980.
 
-Act of October 18, 1968, referred to in subsec. (b), is Pub. L. 90–606, Oct. 18, 1968, 82 Stat. 1188, as amended, which was classified to sections 450qq to 450qq–4 of this title, and was omitted from the Code in view of the abolition of the Biscayne National Monument and its incorporation within the Biscayne National Park pursuant to subsec. (b).
+Act of October 18, 1968, referred to in subsec. (b), is Pub. L. 90–606, Oct. 18, 1968, 82 Stat. 1188, which was classified to sections 450qq to 450qq–4 of this title, and was omitted from the Code in view of the abolition of the Biscayne National Monument and its incorporation within the Biscayne National Park pursuant to subsec. (b).
 
 
 <a id="section-410gg-3"></a>
@@ -14191,11 +14196,11 @@ The following areas are hereby established as units of the National Park System 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in provision preceding par. (1) and par. (8)(b)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in provision preceding par. (1) and par. (8)(b)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
-That Act, referred to in par. (4)(d), meaning the National Environmental Policy Act of 1969, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+That Act, referred to in par. (4)(d), meaning the National Environmental Policy Act of 1969, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (8)(b)(1)(A), (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (8)(b)(1)(A), (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Par. (8)(a). Pub. L. 104–333 substituted “approximately 6,477,168 acres” for “approximately six million four hundred and sixty thousand acres” and inserted “and the map entitled ‘Noatak National Preserve and Noatak Wilderness Addition’ dated September 1994” after “July 1980”.
@@ -14518,7 +14523,7 @@ On Sept. 13, 2004, the Secretary of the Interior made the determination under su
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsec. (a)(3), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (a)(3), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The Colorado Wilderness Act of 1993, referred to in subsec. (a)(3), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756. For complete classification of this Act to the Code, see Short Title note set out under [section 539i of this title](./chapter-002-national-forests.md#section-539i) and Tables.
 
@@ -14786,7 +14791,7 @@ Section is comprised of section 9 of Pub. L. 106–530. Subsec. (a) of section 9
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-410hhh-9"></a>
@@ -14831,7 +14836,7 @@ Subject to valid existing rights, the Secretary shall administer the lands, wate
 #### References in Text
 The Act of August 25, 1916 (39 Stat. 535), as amended and supplemented ([16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.), referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 #### Environmental Impact Statement on Effects of 1996 Increases in Vessel Entries for Glacier Bay National Park and Preserve
 Pub. L. 107–63, title I, § 130, Nov. 5, 2001, 115 Stat. 442, provided that: “From within funds available to the National Park Service, such sums as may be necessary shall be used for expenses necessary to complete and issue, no later than January 1, 2004, an Environmental Impact Statement (EIS) to identify and analyze the possible effects of the 1996 increases in the number of vessel entries issued for Glacier Bay National Park and Preserve: Provided, That such EIS, upon its completion, shall be used by the Secretary to set the maximum level of vessel entries: Provided further, That until the Secretary sets the level of vessel entries based on the new EIS, the number of vessel entries into the Park shall be the same as that in effect during the 2000 calendar year and the National Park Service approval of modified Alternative 5 and promulgation of the final rule issued on May 30, 1996, relating to vessel entries, including the number of such entries, for Glacier Bay National Park and Preserve are hereby approved and shall be in effect notwithstanding any other provision of law until the Secretary sets the maximum level of vessel entries consistent with this section: Provided further, That nothing in this section shall preclude the Secretary from suspending or revoking any vessel entry if the Secretary determines that it is necessary to protect Park resources.”
@@ -14845,9 +14850,9 @@ Valid Native Corporation selections, or lands identified for selection by Region
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-410hh-4"></a>
@@ -14938,6 +14943,258 @@ The purpose of this subchapter is to establish the Cedar Creek and Belle Grove N
 
 #### Short Title
 Pub. L. 107–373, § 1, Dec. 19, 2002, 116 Stat. 3104, provided that: “This Act [enacting this subchapter] may be cited as the ‘Cedar Creek and Belle Grove National Historical Park Act’.”
+
+
+<a id="section-410iiii"></a>
+## § 410iiii. Definitions
+
+In this subchapter:
+
+(1) **Affiliated area** — The term “affiliated area” means a site associated with a court case included in Brown v. Board of Education of Topeka described in paragraph (8), (9), or (10) of [section 410iiii–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410iiii–1/a&num=0&edition=prelim) that is designated as an affiliated area of the National Park System by [section 410iiii–5(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410iiii–5/a&num=0&edition=prelim).
+
+(2) **Historical park** — The term “historical park” means the Brown v. Board of Education National Historical Park as established in [section 410iiii–2 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410iiii-2).
+
+(3) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–123, § 3(b)(1), substituted “In this subchapter:” for “As used in this subchapter—” in introductory provisions.
+
+Par. (1). Pub. L. 117–123, § 3(b)(5), added par. (1). Former par. (1) redesignated (3).
+
+Pub. L. 117–123, § 3(b)(2)–(4), inserted heading, substituted “The term” for “the term”, and subsequently redesignated par. (1) as (3).
+
+Par. (2). Pub. L. 117–123, § 3(b)(3), inserted heading.
+
+Pub. L. 117–123, § 2(c)(2), (4), substituted “historical park” for “historic site” and “National Historical Park” for “National Historic Site”.
+
+Par. (3). Pub. L. 117–123, § 3(b)(4), redesignated par. (1) as (3).
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–123, § 1, May 12, 2022, 136 Stat. 1196, provided that: “This Act [enacting [section 410iiii–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410iiii-5), amending this section and sections 410iiii–1 to 410iiii–4 and 410iiii–6 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘Brown v. Board of Education National Historical Park Expansion and Redesignation Act’.”
+
+#### Redesignation of the Brown v. Board of Education National Historical Park; References
+Pub. L. 117–123, § 2(a), (b), May 12, 2022, 136 Stat. 1196, provided that: “(a) In General.—The Brown v. Board of Education National Historic Site established by section 103(a) of Public Law 102–525 (106 Stat. 3439) [[16 U.S.C. 410iiii–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410iiii–2/a&num=0&edition=prelim)] shall be known and designated as the ‘Brown v. Board of Education National Historical Park’. “(b) References.—Any reference in any law, regulation, document, record, map, or other paper of the United States to the Brown v. Board of Education National Historic Site shall be considered to be a reference to the ‘Brown v. Board of Education National Historical Park’.”
+
+#### Purpose for Expansion of the Brown v. Board of Education National Historical Park and Establishment of Affiliated Areas
+Pub. L. 117–123, § 3(a), May 12, 2022, 136 Stat. 1196, provided that: “The purpose of this section [enacting [section 410iiii–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410iiii-5) and amending this section and sections 410iiii–1 to 410iiii–4 and 410iiii–6 of this title] is to honor the civil rights stories of struggle, perseverance, and activism in the pursuit of education equity.”
+
+
+<a id="section-410iiii-1"></a>
+## § 410iiii–1. Findings and purposes
+**(a) Findings** The Congress finds as follows:
+
+(1) The Supreme Court, in 1954, ruled that the earlier 1896 Supreme Court decision in Plessy v. Ferguson that permitted segregation of races in elementary schools violated the fourteenth amendment to the United States Constitution, which guarantees all citizens equal protection under the law.
+
+(2) In the 1954 proceedings, Oliver Brown and twelve other plaintiffs successfully challenged an 1879 Kansas law that had been patterned after the law in question in Plessy v. Ferguson after the Topeka, Kansas, Board of Education refused to enroll Mr. Brown’s daughter, Linda.
+
+(3) The Brown case was joined by 4 other cases relating to school segregation pending before the Supreme Court (Briggs v. Elliott, filed in South Carolina, Davis v. County School Board of Prince Edward County, filed in Virginia, Gebhart v. Belton, filed in Delaware, and Bolling v. Sharpe, filed in the District of Columbia) that were consolidated into the case of Brown v. Board of Education of Topeka.
+
+(4) A 1999 historic resources study examined the 5 cases included in Brown v. Board of Education of Topeka and found that each case—
+
+  (A) is nationally significant; and
+
+  (B) contributes unique stories to the case for educational equity.
+
+(5) Sumner Elementary, the all-white school that refused to enroll Linda Brown, and Monroe Elementary, the segregated school she was forced to attend, have subsequently been designated National Historic Landmarks in recognition of their national significance.
+
+(6) Sumner Elementary, an active school, is administered by the Topeka Board of Education; Monroe Elementary, closed in 1975 due to declining enrollment, is privately owned and stands vacant.
+
+(7) With respect to the case of Briggs v. Elliott—
+
+  (A) Summerton High School in Summerton, South Carolina, the all-White school that refused to admit the plaintiffs in the case—
+
+    (i) has been listed on the National Register of Historic Places in recognition of the national significance of the school; and
+
+    (ii) is used as administrative offices for Clarendon School District 1; and
+
+  (B) the former Scott’s Branch High School, an “equalization school” in Summerton, South Carolina constructed for African-American students in 1951 to provide facilities comparable to those of White students, is now the Community Resource Center owned by Clarendon School District 1.
+
+(8) Robert Russa Moton High School, the all-Black school in Farmville, Virginia, which was the location of a student-led strike leading to Davis v. County School Board of Prince Edward County—
+
+  (A) has been designated as a National Historic Landmark in recognition of the national significance of the school; and
+
+  (B) is now the Robert Russa Moton Museum, which is administered by the Moton Museum, Inc., and affiliated with Longwood University.
+
+(9) With respect to the case of Belton v. Gebhart—
+
+  (A) Howard High School in Wilmington, Delaware, an all-Black school to which the plaintiffs in the case were forced to travel—
+
+    (i) has been designated as a National Historic Landmark in recognition of the national significance of the school; and
+
+    (ii) is now the Howard High School of Technology, an active school administered by the New Castle County Vocational-Technical School District;
+
+  (B) the all-White Claymont High School, which denied admission to the plaintiffs, is now the Claymont Community Center administered by the Brandywine Community Resource Council, Inc.; and
+
+  (C) the Hockessin School #107C (Hockessin Colored School)—
+
+    (i) is the all-Black school in Hockessin, Delaware, that 1 of the plaintiffs in the case was required to attend with no public transportation provided; and
+
+    (ii) is now used as a community facility by Friends of Hockessin Colored School #107, Inc.
+
+(10) John Philip Sousa Junior High School in the District of Columbia, the all-White school that refused to admit plaintiffs in Bolling v. Sharpe—
+
+  (A) has been designated as a National Historic Landmark in recognition of the national significance of the school;
+
+  (B) is now known as the “John Philip Sousa Middle School”; and
+
+  (C) is owned by the District of Columbia Department of General Services and administered by the District of Columbia Public Schools.
+
+**(b) Purposes** The purposes of this subchapter are—
+
+(1) to preserve, protect, and interpret for the benefit and enjoyment of present and future generations, the places that contributed materially to the landmark United States Supreme Court decision that brought an end to segregation in public education; and 11 So in original. The word “and” probably should not appear.
+
+(2) to interpret the integral role of the Brown v. Board of Education case in the civil rights movement.22 So in original. The period probably should be “; and”.
+
+(3) to assist in the preservation, protection, and interpretation of related resources within Topeka, Kansas, Summerton, South Carolina, Farmville, Virginia, Wilmington, Claymont, and Hockessin, Delaware, and the District of Columbia that further the understanding of the civil rights movement and the context of Brown v. Board of Education.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a)(3) to (10). Pub. L. 117–123, § 3(c), added pars. (3), (4), and (7) to (10) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+
+Subsec. (b)(3). Pub. L. 117–123, § 3(d), inserted “, protection,” after “preservation” and “and the context of Brown v. Board of Education” after “civil rights movement” and substituted “Topeka, Kansas, Summerton, South Carolina, Farmville, Virginia, Wilmington, Claymont, and Hockessin, Delaware, and the District of Columbia” for “the city of Topeka”.
+
+
+<a id="section-410iiii-2"></a>
+## § 410iiii–2. Establishment of the Civil Rights in Education: Brown v. Board of Education National Historical Park
+**(a) In general** There is hereby established as a unit of the National Park System the Brown v. Board of Education National Historical Park in the State of Kansas.
+
+**(b) Description** The historical park shall consist of the Monroe Elementary School site in the city of Topeka, Shawnee County, Kansas, as generally depicted on a map entitled “Brown v. Board of Education National Historic Site,” numbered Appendix A and dated June 1992. Such map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+**(c) Boundary adjustment**
+
+(1) **Additions** — In addition to the land described in subsection (b), the historical park shall include the land and interests in land, as generally depicted on the map entitled “Brown v. Board of Education National Historical Park Boundary Additions and Affiliated Areas”, numbered 462/178,449, and dated February 2022, and more particularly described as—
+
+  (A) the Summerton High School site in Summerton, Clarendon County, South Carolina;
+
+  (B) the former Scott’s Branch High School site in Summerton, Clarendon County, South Carolina; and
+
+  (C) approximately 1 acre of land adjacent to Monroe Elementary School in Topeka, Shawnee County, Kansas.
+
+(2) **Map** — The map described in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–123, § 2(c)(3), substituted “Historical Park” for “Historic Site” in section catchline.
+
+Subsec. (a). Pub. L. 117–123, § 2(c)(2), substituted “National Historical Park” for “National Historic Site”.
+
+Subsec. (b). Pub. L. 117–123, § 2(c)(4), substituted “historical park” for “historic site”.
+
+Subsec. (c). Pub. L. 117–123, § 3(e), added subsec. (c).
+
+
+<a id="section-410iiii-3"></a>
+## § 410iiii–3. Property acquisition
+
+The Secretary is authorized to acquire by donation, exchange, or purchase with donated or appropriated funds the real property described in subsections (b) and (c) of [section 410iiii–2 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410iiii-2). Any property owned by the State of Kansas or South Carolina or any political subdivision thereof may be acquired only by donation. The Secretary may also acquire by the same methods personal property associated with, and appropriate for, the interpretation of the historical park. The Secretary may not acquire such personal property without the consent of the owner or by condemnation of any land or interest in land within the boundaries of the historical park.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–123 substituted “subsections (b) and (c) of section 410iiii–2” for “section 410iiii–2(b)”, “State of Kansas or South Carolina” for “States of Kansas”, and “historical park. The Secretary” for “historic site: Provided, however, That the Secretary” and inserted “or by condemnation of any land or interest in land within the boundaries of the historical park” after “without the consent of the owner”.
+
+
+<a id="section-410iiii-4"></a>
+## § 410iiii–4. Administration of historical park
+**(a) In general** The Secretary shall administer the historical park in accordance with this subchapter and the laws generally applicable to units of the National Park System, including the Act of August 25, 1916 (39 Stat. 535), and the Act of August 21, 1935 (49 Stat. 666).
+
+**(b) Cooperative agreements** The Secretary is authorized to enter into cooperative agreements with private as well as public agencies, organizations, and institutions in furtherance of the purposes of this subchapter.
+
+**(c) Amendment to general management plan** The Secretary shall prepare and submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives an amendment to the management plan for the historical park to include the portions of the historical park in Summerton, Clarendon County, South Carolina.
+
+### Statutory Notes
+
+#### References in Text
+The Act of August 25, 1916, referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 35, popularly known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+The Act of August 21, 1935, referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites, Buildings and Antiquities Act and also as the Historic Sites Act of 1935, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
+
+#### Amendments
+2022—Pub. L. 117–123, § 2(c)(3), substituted “historical park” for “historic site” in section catchline.
+
+Subsec. (a). Pub. L. 117–123, § 2(c)(4), substituted “historical park” for “historic site”.
+
+Subsec. (c). Pub. L. 117–123, § 3(g), added subsec. (c) and struck out former subsec. (c) which required submission of a general management plan within two fiscal years after funds were made available.
+
+
+<a id="section-410iiii-5"></a>
+## § 410iiii–5. Establishment of the Brown v. Board of Education affiliated areas
+**(a) In general** On the date on which the Secretary determines that an appropriate management entity has been identified for the applicable affiliated area, as generally depicted on the map described in [section 410iiii–2(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410iiii–2/c/1&num=0&edition=prelim), the following shall be established as affiliated areas of the National Park System:
+
+(1) The Robert Russa Moton Museum in Farmville, Virginia.
+
+(2) The Delaware Brown v. Board of Education Civil Rights Sites, to include—
+
+  (A) the former Howard High School in Wilmington, Delaware;
+
+  (B) Claymont High School in Claymont, Delaware; and
+
+  (C) Hockessin Colored School #107 in Hockessin, Delaware.
+
+(3) The John Philip Sousa Middle School in the District of Columbia.
+
+**(b) Administration** Each affiliated area shall be managed in a manner consistent with—
+
+(1) this subchapter; and
+
+(2) the laws generally applicable to units of the National Park System.
+
+**(c) Management plans**
+
+(1) **In general** — The Secretary, in consultation with the management entity for the applicable affiliated area, shall develop a management plan for each affiliated area.
+
+(2) **Requirements** — A management plan under paragraph (1) shall—
+
+  (A) be prepared in consultation and coordination with interested State, county, and local governments, management entities, organizations, and interested members of the public associated with the affiliated area;
+
+  (B) identify, as appropriate, the roles and responsibilities of the National Park Service and the management entity in administering and interpreting the affiliated area in a manner that does not interfere with existing operations and continued use of existing facilities; and
+
+  (C) require the Secretary to coordinate the preparation and implementation of the management plan and interpretation of the affiliated area with the historical park.
+
+(3) **Public comment** — The Secretary shall—
+
+  (A) hold not less than 1 public meeting in the general proximity of each affiliated area on the proposed management plan, which shall include opportunities for public comment; and
+
+  (B)
+
+    (i) publish the draft management plan on the internet; and
+
+    (ii) provide an opportunity for public comment on the draft management plan.
+
+(4) **Submission** — Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives the management plan for each affiliated area developed under paragraph (1).
+
+**(d) Cooperative agreements** The Secretary may provide technical and financial assistance to, and enter into cooperative agreements with, the management entity for each affiliated area to provide financial assistance for the marketing, marking, interpretation, and preservation of the applicable affiliated area.
+
+**(e) Land use** Nothing in this section affects—
+
+(1) land use rights of private property owners within or adjacent to an affiliated area, including activities or uses on private land that can be seen or heard within an affiliated area; or
+
+(2) the authority of management entities to operate and administer the affiliated areas.
+
+**(f) Limited role of the Secretary**
+
+(1) **In general** — Nothing in this section authorizes the Secretary—
+
+  (A) to acquire land in an affiliated area; or
+
+  (B) to assume financial responsibility for the operation, maintenance, or management of an affiliated area.
+
+(2) **Ownership** — Each affiliated area shall continue to be owned, operated, and managed by the applicable public or private owner of the land in the affiliated area.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 106 of Pub. L. 102–525 was renumbered section 107 and is classified to [section 410iiii–6 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410iiii-6).
+
+
+<a id="section-410iiii-6"></a>
+## § 410iiii–6. Authorization of appropriations
+
+There are authorized to be appropriated $1,250,000 to carry out the purposes of this subchapter including land acquisition and initial development.
 
 
 <a id="section-410iii-1"></a>
@@ -15212,7 +15469,7 @@ Section, Pub. L. 96–550, title V, § 503, Dec. 19, 1980, 94 Stat. 3228, relate
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1995—Subsec. (c)(2). Pub. L. 104–11 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall attempt to enter into cooperative agreements pursuant to [section 410ii–4 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410ii-4) with owners of private property for those archeological protection sites described in [section 410ii–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410ii–1/b&num=0&edition=prelim). The Secretary shall acquire fee title to any such private property only if it is necessary to prevent direct and material damage to, or destruction of, Chaco cultural resources and no cooperative agreement with the owner of the private property interest can be affected.”
@@ -15472,7 +15729,7 @@ The boundaries of the park shall include the lands, waters, and interests therei
 ### Statutory Notes
 
 #### References in Text
-The Hawaiian Homes Commission Act of 1920, referred to in subsec. (a), probably means the Hawaiian Homes Commission Act, 1920, act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act of 1920, referred to in subsec. (a), probably means the Hawaiian Homes Commission Act, 1920, act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 #### Codification
 In subsec. (a), “sections 102901(b) and (c) of title 54” substituted for “sections 5(b) and (c) of the Act approved July 15, 1968 (82 Stat. 354)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs. Subsection (c) of section 5 of the Act approved July 15, 1968, meaning section 5(c) of Pub. L. 90–401, was redesignated subsection (d) and a new subsection (c) was added by Pub. L. 98–506, § 2, Oct. 19, 1984, 98 Stat. 2338.
@@ -15553,7 +15810,7 @@ The following provisions are made with respect to additional needs of the lepros
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (c), is Pub. L. 96–565, Dec. 22, 1980, 94 Stat. 3321, as amended, which enacted this subchapter and provisions set out as a note under [section 2991a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991a&num=0&edition=prelim), The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c), is Pub. L. 96–565, Dec. 22, 1980, 94 Stat. 3321, which enacted this subchapter and provisions set out as a note under [section 2991a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2991a&num=0&edition=prelim), The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2005—Subsec. (e). Pub. L. 109–54 substituted “on the date that is 45 years after” for “twenty-five years from”.
@@ -16565,7 +16822,7 @@ Any member of the Commission appointed for a definite term may serve after the e
 #### References in Text
 This subchapter, referred to in subsecs. (a) and (e), was in the original “this Act”, meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 410nn of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410nn) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsecs. (d) and (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsecs. (d) and (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-410nn-4"></a>
@@ -18307,7 +18564,7 @@ The Act entitled “An Act to establish a National Park Service, and for other p
 
 The Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461–467](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–467&num=0&edition=prelim)), referred to in subsec. (a), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (c)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title](./chapter-1b-archaeological-resources-protection.md#section-470aa) and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (c)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title](./chapter-1b-archaeological-resources-protection.md#section-470aa) and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (c)(2)(C), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
@@ -18353,7 +18610,7 @@ Initial appointments made under this subsection shall be made within 120 days af
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-410tt-5"></a>
@@ -19260,7 +19517,7 @@ Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (i),
 ### Statutory Notes
 
 #### References in Text
-Grade GS–15 of the General Schedule, referred to in subsec. (g), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+Grade GS–15 of the General Schedule, referred to in subsec. (g), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-410ww-25"></a>
@@ -20300,7 +20557,7 @@ For the acquisition of lands or interests in lands designated by [section 410z o
 
 ### Statutory Notes
 
-#### Editorial Notes
+#### Codification
 Section, act May 15, 1896, ch. 182, § 1, 29 Stat. 120; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501, related to military maneuvers. Section was restated as [section 103301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section103301&num=0&edition=prelim), National Park Service and Related Programs, by Pub. L. 113–287, § 3, Dec. 19, 2014, 128 Stat. 3165.
 
 
@@ -21392,7 +21649,7 @@ The Act of August 25, 1916 (39 Stat. 535), entitled “An Act to establish a Nat
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec. (b)(2)(B), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec. (b)(2)(B), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1994—Subsec. (b)(2)(A). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
@@ -23772,7 +24029,7 @@ Administrative jurisdiction over all Federal lands eliminated from the park, by 
 ### Statutory Notes
 
 #### References in Text
-The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. Title IV thereof, referred to in text, which was classified to sections 1014 to 1029 of title 7, was repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, and by Pub. L. 87–128, title III, § 341(a), Aug. 8, 1961, 75 Stat. 318. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. Title IV thereof, referred to in text, which was classified to sections 1014 to 1029 of title 7, was repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, and by Pub. L. 87–128, title III, § 341(a), Aug. 8, 1961, 75 Stat. 318. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
 
 #### Change of Name
 Word “park” substituted in text for “monument” pursuant to Pub. L. 95–625, § 611, which is classified to [section 441e–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-441e-1) and which redesignated Badlands National Monument as Badlands National Park.
@@ -23786,7 +24043,7 @@ In order that exchanges of land may be effectuated for the purposes of sections 
 ### Statutory Notes
 
 #### References in Text
-The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
 
 #### Codification
 “Sections 3111 and 3112 of title 40” substituted in text for “section 355 of the Revised Statutes” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -23863,7 +24120,7 @@ In provision preceding subsec. (a) and in subsec. (a), “Park” and “park”
 ### Statutory Notes
 
 #### References in Text
-The National Industrial Recovery Act of June 16, 1933, referred to in subsec. (a), is act June 16, 1933, ch. 90, 48 Stat. 195, as amended. Title II of the Act was classified principally to subchapter I (§ 401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943 by act June 27, 1942, ch. 450, § 1, 56 Stat. 410. Provisions of title II of the Act which were classified to former Title 40 were repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. For complete classification of this Act to the Code, see Tables.
+The National Industrial Recovery Act of June 16, 1933, referred to in subsec. (a), is act June 16, 1933, ch. 90, 48 Stat. 195. Title II of the Act was classified principally to subchapter I (§ 401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943 by act June 27, 1942, ch. 450, § 1, 56 Stat. 410. Provisions of title II of the Act which were classified to former Title 40 were repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. For complete classification of this Act to the Code, see Tables.
 
 Executive Order Numbered 7868, dated April 15, 1938, referred to in subsec. (a), was not classified to the Code.
 
@@ -25683,7 +25940,7 @@ The Act of August 25, 1916 (39 Stat. 535), entitled “An Act to establish a Nat
 
 The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
-The Migratory Bird Treaty Act of July 3, 1918, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act of July 3, 1918, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
 #### Change of Name
 Words “national seashore recreational area” substituted in text for “national seashore” pursuant to act June 29, 1940.
@@ -26934,7 +27191,7 @@ The Secretary shall permit hunting, fishing, and trapping on lands and waters un
 #### References in Text
 The Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Wilderness Act, referred to in subsec. (c)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (c)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 Public Law 97–250, referred to in subsec. (c)(3), is Pub. L. 97–250, Sept. 8, 1982, 96 Stat. 709, which enacted [section 122a of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-122a), amended [section 121 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-121), and enacted provisions set out as a note under [section 121 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-121) and listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132). For complete classification of this Act to the Code, see Tables.
 
@@ -27034,7 +27291,7 @@ The Secretary shall permit hunting, fishing, and trapping on lands and waters un
 #### References in Text
 The Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The National Wildlife Refuge System Administration Act, as amended, referred to in subsec. (b), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd, 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
+The National Wildlife Refuge System Administration Act, referred to in subsec. (b), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd, 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
 
 #### Clothing-Optional Areas Prohibited
 Pub. L. 108–108, title I, § 126, Nov. 10, 2003, 117 Stat. 1269, provided that: “None of the funds made available in this or any other Act for any fiscal year may be used to designate, or to post any sign designating, any portion of Canaveral National Seashore in Brevard County, Florida, as a clothing-optional area or as an area in which public nudity is permitted, if such designation would be contrary to county ordinance.”
@@ -27462,7 +27719,7 @@ In text, “sections 100506(c) and 200306 of title 54” substituted for “sect
 ### Statutory Notes
 
 #### References in Text
-Act of March 4, 1915, referred to in subsec. (b)(8), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086, as amended. For complete classification of this Act to the Code, see Tables.
+Act of March 4, 1915, referred to in subsec. (b)(8), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-460aaa-3"></a>
@@ -27580,7 +27837,7 @@ Advisory commissions established after Jan. 5, 1973, to terminate not later than
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The effective date of the Wilderness Act, referred to in subsec. (b), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
@@ -28845,7 +29102,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-460ccc-3"></a>
@@ -29183,9 +29440,9 @@ Pub. L. 108–43, § 1, July 1, 2003, 117 Stat. 841, provided that: “This Act 
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
-The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§ 211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987, as amended. For complete classification of chapter II to the Code, see Short Title note set out under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
+The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§§ 211–239) of Pub. L. 98–473, title II, Oct. 12, 1984, 98 Stat. 1987. For complete classification of chapter II to the Code, see Short Title note set out under [section 3551 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3551&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 1994—Subsecs. (c), (k). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
@@ -29356,9 +29613,9 @@ Act of September 2, 1958 (72 Stat. 1686), referred to in subsec. (b), provided f
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act of February 25, 1920, as amended, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act of February 25, 1920, as amended, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
-The Acquired Lands Mineral Leasing Act of August 7, 1947, referred to in text, is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§ 351 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section351&num=0&edition=prelim) and Tables.
+The Acquired Lands Mineral Leasing Act of August 7, 1947, referred to in text, is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§ 351 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section351&num=0&edition=prelim) and Tables.
 
 
 <a id="section-460dd-3"></a>
@@ -29371,7 +29628,7 @@ The Secretary shall administer, protect, and develop the recreation area in acco
 #### References in Text
 The Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1) et seq.), referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-Public Law 485, Eighty-fourth Congress, second session, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is popularly known as the Colorado River Storage Project Act, and which is classified generally to chapter 12B (§ 620 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620&num=0&edition=prelim) and Tables.
+Public Law 485, Eighty-fourth Congress, second session, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, which is popularly known as the Colorado River Storage Project Act, and which is classified generally to chapter 12B (§ 620 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620&num=0&edition=prelim) and Tables.
 
 
 <a id="section-460dd-4"></a>
@@ -29413,7 +29670,7 @@ Within two years from October 27, 1972, the Secretary shall report to the Presid
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 
 <a id="section-460dd-9"></a>
@@ -29548,7 +29805,7 @@ Section 218 of the Flood Control Act of 1968, referred to in subsec. (a), is sec
 
 The Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4), referred to in subsec. (b), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in subsec. (f), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in subsec. (f), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 In subsec. (c)(1), “public ownership on October 22, 1976,” substituted for “public ownership at the time of enactment of this section” for purposes of codification, Oct. 22, 1976, being date of approval of Pub. L. 94–587.
@@ -30260,7 +30517,7 @@ Pub. L. 94–199, § 17, Dec. 31, 1975, 89 Stat. 1123, provided that: “If any 
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 Section 2(2) of the Georgia Wilderness Act of 1986, referred to in subsec. (a)(3), is section 2(2) of Pub. L. 99–555, Oct. 27, 1986, 100 Stat. 3129, which enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).
 
@@ -30353,7 +30610,7 @@ As soon as practicable after December 11, 1991, the Secretary of Agriculture sha
 #### References in Text
 This subchapter, referred to in subsec. (b), was in the original “this Act”, which is Pub. L. 94–199, Dec. 31, 1975, 89 Stat. 1117, which enacted sections 460gg to 460gg–13 of this title, amended sections 1274 and 1276 of this title, and enacted provisions set out as notes under sections 460gg and 1274 of this title.
 
-The Wilderness Act, referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The effective date of the Wilderness Act, referred to in subsec. (b), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
@@ -30403,7 +30660,7 @@ Section 5 of this Act, referred to in subsec. (c), is section 5 of Pub. L. 94–
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Transfer of Functions
 “Federal Energy Regulatory Commission” substituted for “Federal Power Commission” in subsec. (a) pursuant to Pub. L. 95–91, § 402(a)(1)(A), which is classified to [section 7172(a)(1)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7172/a/1/A&num=0&edition=prelim), The Public Health and Welfare.
@@ -30420,7 +30677,7 @@ The Federal Power Commission was terminated, and its functions with regard to li
 ### Statutory Notes
 
 #### References in Text
-The Wild and Scenic Rivers Act, referred to in text, is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1271) and Tables.
+The Wild and Scenic Rivers Act, referred to in text, is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1271) and Tables.
 
 
 <a id="section-460gg-4"></a>
@@ -30636,7 +30893,7 @@ The purposes of this subchapter are to—
 ### Statutory Notes
 
 #### References in Text
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title](./chapter-1b-archaeological-resources-protection.md#section-470aa) and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title](./chapter-1b-archaeological-resources-protection.md#section-470aa) and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (a)(2)(C), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
@@ -30894,7 +31151,7 @@ As used in this subchapter:
 ### Statutory Notes
 
 #### References in Text
-Act of March 3, 1877, referred to in subsec. (d), is act Mar. 3, 1877, ch. 107, 19 Stat. 377, as amended, which is classified generally to sections 321 to 323, 325, and 327 to 329 of Title 43. For complete classification of this Act to the Code, see Tables.
+Act of March 3, 1877, referred to in subsec. (d), is act Mar. 3, 1877, ch. 107, 19 Stat. 377, which is classified generally to sections 321 to 323, 325, and 327 to 329 of Title 43. For complete classification of this Act to the Code, see Tables.
 
 Act of July 3, 1890, referred to in subsec. (d), is not classified to the Code.
 
@@ -30969,7 +31226,7 @@ Act of July 3, 1890, referred to in subsec. (d), is not classified to the Code.
 ### Statutory Notes
 
 #### References in Text
-Act of June 28, 1934, referred to in subsec. (f), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315&num=0&edition=prelim) and Tables.
+Act of June 28, 1934, referred to in subsec. (f), is act June 28, 1934, ch. 865, 48 Stat. 1269, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315&num=0&edition=prelim) and Tables.
 
 The Federal Power Act, referred to in subsec. (i), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
@@ -31032,9 +31289,9 @@ Pub. L. 115–31, div. G, title IV, § 431(a)(1) [§ 2], May 5, 2017, 131 Stat. 
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The National Trails System Act, referred to in subsec. (a)(1), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, as amended, which is classified generally to chapter 27 (§ 1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1241 of this title](./chapter-027-national-trails-system.md#section-1241) and Tables.
+The National Trails System Act, referred to in subsec. (a)(1), is Pub. L. 90–543, Oct. 2, 1968, 82 Stat. 919, which is classified generally to chapter 27 (§ 1241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1241 of this title](./chapter-027-national-trails-system.md#section-1241) and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (a)(2), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
@@ -31124,7 +31381,7 @@ Subsec. (b). Pub. L. 106–154, § 2(c), added subsec. (b) and struck out former
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act ([16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.), referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act ([16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.), referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Amendments
 1999—Subsec. (b). Pub. L. 106–154, § 2(e)(2), substituted “this subchapter” for “this subchapter and chapter 43 of this title” wherever appearing.
@@ -31201,9 +31458,9 @@ The Land and Water Conservation Fund Act (78 Stat. 897), referred to in subsec. 
 
 The convening of the Ninety-sixth Congress, referred to in subsec. (a)(1), took place on Jan. 15, 1979.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in subsec. (d)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (d)(6), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (a)(1), “[section 200306(a)(4) of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/4&num=0&edition=prelim)” substituted for “section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9(a)(3))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
@@ -31383,7 +31640,7 @@ The National Historic Preservation Act, referred to in subsec. (c), is Pub. L. 8
 
 The American Indian Religious Freedom Act, referred to in subsecs. (c) and (d)(1), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 
 <a id="section-460jjj-2"></a>
@@ -32017,9 +32274,9 @@ Section, Pub. L. 88–29, § 1, May 28, 1963, 77 Stat. 49, related to congressio
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131)), referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131)), referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
-The National Forest Management Act of 1976 ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600)), referred to in subsec. (b), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+The National Forest Management Act of 1976 ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600)), referred to in subsec. (b), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
 #### Short Title
 Pub. L. 96–476, § 1, Oct. 19, 1980, 94 Stat. 2271, provided in part: “That this Act [enacting this subchapter] may be cited as the ‘Rattlesnake National Recreation Area and Wilderness Act of 1980’.”
@@ -32056,7 +32313,7 @@ Pub. L. 96–476, § 1, Oct. 19, 1980, 94 Stat. 2271, provided in part: “That 
 ### Statutory Notes
 
 #### References in Text
-The Tennessee Valley Authority Act of 1933, referred to in subsec. (b), is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, which is classified generally to chapter 12A (§ 831 et seq.) of this title. For complete classification of this Act to the Code, see [section 831 of this title](./chapter-12a-tennessee-valley-authority.md#section-831) and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (b), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of this title. For complete classification of this Act to the Code, see [section 831 of this title](./chapter-12a-tennessee-valley-authority.md#section-831) and Tables.
 
 
 <a id="section-460lll-1"></a>
@@ -32141,7 +32398,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in par. (5)(B)(i), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in par. (5)(B)(i), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 The Solid Waste Disposal Act, referred to in par. (5)(B)(ii), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) and Tables.
 
@@ -32151,13 +32408,13 @@ The Clean Air Act, referred to in par. (5)(B)(iv), is act July 14, 1955, ch. 360
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (5)(B)(v), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
-The Toxic Substances Control Act, referred to in par. (5)(B)(vi), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in par. (5)(B)(vi), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
-The Safe Drinking Water Act, referred to in par. (5)(B)(vii), is title XIV of act July 1, 1944, as added Pub. L. 93–523, § 2(a), Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Safe Drinking Water Act, referred to in par. (5)(B)(vii), is title XIV of act July 1, 1944, as added Pub. L. 93–523, § 2(a), Dec. 16, 1974, 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in par. (5)(B)(viii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in par. (5)(B)(viii), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Endangered Species Act of 1973, referred to in par. (5)(B)(ix), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in par. (5)(B)(ix), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 [Section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), referred to in par. (6), was subsequently amended, and section 101(a) no longer defines “forest highway”.
 
@@ -32266,7 +32523,7 @@ The National Forest System Drug Control Act of 1986, referred to in subsec. (c),
 ### Statutory Notes
 
 #### References in Text
-The National Forest Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+The National Forest Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
 
 <a id="section-460lll-24"></a>
@@ -32706,7 +32963,7 @@ Any costs incurred by Tennessee Valley Authority associated with the transfer un
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The effective date of the Wilderness Act, referred to in subsec. (b), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
@@ -32969,7 +33226,7 @@ Nothing herein shall be construed as preventing or discouraging postauthorizatio
 #### References in Text
 This part, referred to in subsecs. (a), (d), (f), and (h), was in the original “this Act”, meaning Pub. L. 89–72, which enacted sections 460l–12 to 460l–21 of this title and amended former section 460l–5(a) and [section 662(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section662/d&num=0&edition=prelim).
 
-The Small Reclamation Projects Act, referred to in subsec. (d), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§ 422a et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 422k of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section422k&num=0&edition=prelim) and Tables.
+The Small Reclamation Projects Act, referred to in subsec. (d), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, which is classified generally to subchapter IV (§ 422a et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 422k of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section422k&num=0&edition=prelim) and Tables.
 
 The Watershed Protection and Flood Prevention Act, referred to in subsec. (d), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1001) and Tables.
 
@@ -33090,7 +33347,7 @@ The Congress finds and declares the following:
 ### Statutory Notes
 
 #### References in Text
-The Federal Water Project Recreation Act, referred to in pars. (2) to (4) and (7), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§ 460l–12 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of this title and Tables.
+The Federal Water Project Recreation Act, referred to in pars. (2) to (4) and (7), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460l–12 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of this title and Tables.
 
 This part, referred to in par. (6), was in the original “this title”, meaning title XXVIII of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460l–31 to 460l–34 of this title and amended sections 460l–13 to 460l–15 and 460l–18 of this title.
 
@@ -33186,7 +33443,7 @@ Act of June 17, 1902, referred to in subsec. (d), is act June 17, 1902, ch. 1093
 #### References in Text
 This part, referred to in text, was in the original “this title”, meaning title XXVIII of Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4690, which enacted sections 460l–31 to 460l–34 of this title and amended sections 460l–13 to 460l–15 and 460l–18 of this title.
 
-The Federal Water Project Recreation Act, referred to in subsec. (b), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§ 460l–12 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of this title and Tables.
+The Federal Water Project Recreation Act, referred to in subsec. (b), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460l–12 et seq.) of this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of this title and Tables.
 
 
 <a id="section-460l-4"></a>
@@ -33578,7 +33835,7 @@ Nothing in this subsection shall be construed to affect discretionary authority 
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 The Wilderness Act, referred to in subsec. (e), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
@@ -33633,9 +33890,9 @@ The effective date of the Wilderness Act, referred to in subsec.(e), means Sept.
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2004—Subsec. (a). Pub. L. 108–400 substituted “McInnis Canyons” for “Colorado Canyons”.
@@ -33665,7 +33922,7 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 The Mineral Leasing Act of 1920, as amended, and supplemented, referred to in subsec. (b), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
@@ -33680,9 +33937,9 @@ There is hereby established the White Mountains National Recreation Area contain
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-460mm-3"></a>
@@ -33702,7 +33959,7 @@ The Federal Land Policy and Management Act of 1976, referred to in text, is Pub.
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-460mm-4"></a>
@@ -33749,7 +34006,7 @@ The Federal Energy Regulatory Commission shall not license the construction of a
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the United States House of Representatives and the United States Senate”.
@@ -34225,7 +34482,7 @@ This subchapter, referred to in text, was in the original “this Act”, meanin
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 This subchapter, referred to in subsecs. (a) and (b)(1), was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460nnn of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460nnn) and Tables.
 
@@ -34379,7 +34636,7 @@ The Secretary may renew a special recreational use permit applicable to lands in
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460nnn of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460nnn) and Tables.
 
@@ -34460,9 +34717,9 @@ This subchapter, referred to in subsecs. (a), (b), and (d), was in the original 
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-460nnn-63"></a>
@@ -34512,7 +34769,7 @@ Section is comprised of section 201 of Pub. L. 106–399. Section 201 also enact
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The effective date of the Wilderness Act, referred to in subsec. (a), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
@@ -34555,7 +34812,7 @@ This subchapter, referred to in subsec. (a), was in the original “this Act”,
 #### References in Text
 For the amendments made by this section, referred to in subsec. (c), see Codification note below.
 
-The Wild and Scenic Rivers Act, referred to in subsec. (c), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1271) and Tables.
+The Wild and Scenic Rivers Act, referred to in subsec. (c), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1271) and Tables.
 
 #### Codification
 Section is comprised of section 301 of Pub. L. 106–399. Subsecs. (a) and (b) of section 301 of Pub. L. 106–399 amended [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274).
@@ -34594,9 +34851,9 @@ Section is comprised of section 301 of Pub. L. 106–399. Subsecs. (a) and (b) o
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsec. (e)(1), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (e)(1), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
-The Wild and Scenic Rivers Act, referred to in subsec. (e)(1), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1271) and Tables.
+The Wild and Scenic Rivers Act, referred to in subsec. (e)(1), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1271) and Tables.
 
 
 <a id="section-460nn-1"></a>
@@ -34867,7 +35124,7 @@ For the purposes of this subchapter, the following definitions apply:
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-460ooo-3"></a>
@@ -34952,7 +35209,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), 
 ### Statutory Notes
 
 #### References in Text
-The Archaeological Resources Protection Act of 1979, referred to in subsec. (b)(4), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title](./chapter-1b-archaeological-resources-protection.md#section-470aa) and Tables.
+The Archaeological Resources Protection Act of 1979, referred to in subsec. (b)(4), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of this title](./chapter-1b-archaeological-resources-protection.md#section-470aa) and Tables.
 
 The National Historic Preservation Act, referred to in subsec. (b)(4), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
@@ -35191,7 +35448,7 @@ As used in this subchapter:
 #### References in Text
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
-The Materials Act of 1947, referred to in subsec. (h), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
+The Materials Act of 1947, referred to in subsec. (h), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2001—Subsec. (h). Pub. L. 107–63 added subsec. (h).
@@ -35256,7 +35513,7 @@ The Congress does not intend for the establishment of the conservation area to l
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsecs. (a), (b), (d), (e)(2), and (f), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsecs. (a), (b), (d), (e)(2), and (f), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The effective date of the Wilderness Act, referred to in subsec. (b), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
@@ -36052,7 +36309,7 @@ Pub. L. 109–479, title I, § 113(b), Jan. 12, 2007, 120 Stat. 3602, provided t
 #### References in Text
 This Act, referred to in subsec. (b)(2), is Pub. L. 109–362, Oct. 17, 2006, 120 Stat. 2064, known as the Northern California Coastal Wild Heritage Wilderness Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -36584,7 +36841,7 @@ Nothing in this subchapter shall be construed as prohibiting governmental jurisd
 ### Statutory Notes
 
 #### References in Text
-Act of July 23, 1942, referred to in subsec. (a), is act July 23, 1942, ch. 520, 56 Stat. 703, as amended. See National Defense Pipe Lines note set out preceding [section 715 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section715&num=0&edition=prelim), Commerce and Trade.
+Act of July 23, 1942, referred to in subsec. (a), is act July 23, 1942, ch. 520, 56 Stat. 703. See National Defense Pipe Lines note set out preceding [section 715 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section715&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments
 1992—Subsecs. (f), (g). Pub. L. 102–580 added subsec. (f) and redesignated former subsec. (f) as (g).
@@ -36905,7 +37162,7 @@ the Secretary, notwithstanding any other provision of law, shall allow the perso
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 #### Change of Name
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
@@ -36920,7 +37177,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The effective date of the Wilderness Act, referred to in subsec. (a), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
@@ -37009,7 +37266,7 @@ The fiscal year of enactment of this subchapter, referred to in text, is the fis
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(3)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 #### Change of Name
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
@@ -37042,7 +37299,7 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-460uu-46"></a>
@@ -37076,7 +37333,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(1
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 Act of September 5, 1962, referred to in subsec. (g)(3), is Pub. L. 87–635, Sept. 5, 1962, 76 Stat. 436, which enacted provisions listed in the National Monuments Established Under Presidential Proclamation table set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.
 
@@ -37100,9 +37357,9 @@ Act of September 5, 1962, referred to in subsec. (g)(3), is Pub. L. 87–635, Se
 ### Statutory Notes
 
 #### References in Text
-The American Indian Religious Freedom Act, referred to in subsecs. (a) and (c), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
+The American Indian Religious Freedom Act, referred to in subsecs. (a) and (c), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
 
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 #### Amendments
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “Committee of the House”.
@@ -37769,7 +38026,7 @@ In furtherance of the purposes of the Wilderness Act of 1964 (78 Stat. 890, [16 
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act of 1964, referred to in text, probably means the Wilderness Act, Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act of 1964, referred to in text, probably means the Wilderness Act, Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 
 <a id="section-460vv-10"></a>
@@ -37797,7 +38054,7 @@ Pursuant to the Federal Advisory Committee Act (Public Law 92–463), no later t
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Termination of Advisory Committees
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -37818,7 +38075,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 ### Statutory Notes
 
 #### References in Text
-The National Forest Management Act, referred to in subsec. (a), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+The National Forest Management Act, referred to in subsec. (a), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
 #### Termination of Advisory Groups
 Advisory groups established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a group established by the President or an officer of the Federal Government, such group is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a group established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -37892,7 +38149,7 @@ Subject to valid existing rights, each wilderness area designated by [section 46
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act of 1964, referred to in text, probably means the Wilderness Act, Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act of 1964, referred to in text, probably means the Wilderness Act, Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The effective date of the Wilderness Act of 1964, referred to in text, means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
@@ -37930,9 +38187,9 @@ The effective date of this subchapter, referred to in text, means Oct. 18, 1988,
 ### Statutory Notes
 
 #### References in Text
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b)(2), (4), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b)(2), (4), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
-The National Forest Management Act of 1976, referred to in subsecs. (b)(2)–(4) and (c), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+The National Forest Management Act of 1976, referred to in subsecs. (b)(2)–(4) and (c), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
 
 <a id="section-460vv-5"></a>
@@ -39068,7 +39325,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 **(e) Withdrawal of management and administration from State or local units of government** If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this subchapter, he shall so notify the appropriate officers of the State or local unit of government to which such transfer was made and provide for a one hundred and eighty-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such one hundred and eighty-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this subchapter.
 
-**(f) Water rights** Congress finds that there are unique circumstances with respect to the water and water related resources within the Reserve 11 So in original. Probably should not be capitalized. designated by this subchapter. The Congress recognizes that the management of this area may be transferred to the State of Idaho, that the State has committed to providing the water necessary to fulfill the purposes of this subchapter, and that there is little or no water or water-related resources that require the protection of a Federal reserved water right. Nothing in this subchapter, nor any action taken pursuant thereto, shall constitute either an express or implied reservation of water or water right for any purpose: Provided, That the United States shall retain that reserved water right which is associated with the initial establishment and withdrawal of the national forest lands which will be transferred to the Reserve 1 under this subchapter.
+**(f) Water rights** Congress finds that there are unique circumstances with respect to the water and water related resources within the Reserve 22 So in original. Probably should not be capitalized. designated by this subchapter. The Congress recognizes that the management of this area may be transferred to the State of Idaho, that the State has committed to providing the water necessary to fulfill the purposes of this subchapter, and that there is little or no water or water-related resources that require the protection of a Federal reserved water right. Nothing in this subchapter, nor any action taken pursuant thereto, shall constitute either an express or implied reservation of water or water right for any purpose: Provided, That the United States shall retain that reserved water right which is associated with the initial establishment and withdrawal of the national forest lands which will be transferred to the Reserve 2 under this subchapter.
 
 **(g) Withdrawal of lands from disposition under other laws** Subject to valid existing rights, Federal lands and interests therein, within the reserve, are hereby withdrawn from disposition under the public land laws and from entry or appropriation under the mining laws of the United States, from the operation of the mineral leasing laws of the United States, and from operation of the Geothermal Steam Act of 1970, as amended [[30 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) et seq.].
 

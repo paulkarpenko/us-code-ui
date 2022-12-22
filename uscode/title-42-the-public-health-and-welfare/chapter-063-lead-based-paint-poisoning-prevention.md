@@ -222,7 +222,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (f) of this se
 Pub. L. 102–139, title III, Oct. 28, 1991, 105 Stat. 765, 766, which provided for regulations governing lead-based paint abatement activities to ensure that individuals engaged in such activities are properly trained, that training programs are accredited, that contractors are certified, and that laboratories engaged in testing for substances are certified, and which also provided for grants for training and education of workers who are or may be directly engaged in lead-based paint abatement activities, was omitted as superseded by [section 2682(a)(1) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2682/a/1&num=0&edition=prelim), Commerce and Trade, which provided in part that on Oct. 28, 1992, the provisions of law formerly set out in this note would cease to have any force and effect.
 
 #### Lead-Based Paint Technical Guidelines; Draft Guidelines
-Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 853, provided that if the Secretary of the Department of Housing and Urban Development had not issued the lead-based paint technical guidelines on reliable testing protocols by April 1, 1990, the Department’s Sept. 29, 1989, draft guidelines would take effect until revised by the Secretary.
+Pub. L. 101–144, title II, Nov. 9, 1989, 103 Stat. 853, provided that if the Secretary of the Department of Housing and Urban Development had not issued the lead-based paint technical guidelines on reliable testing protocols by Apr. 1, 1990, the Department’s Sept. 29, 1989, draft guidelines would take effect until revised by the Secretary.
 
 #### Prerequisites to Implementation of Regulations Regarding Testing and Abatement of Lead-Based Paint in Public Housing
 Pub. L. 100–404, title I, Aug. 19, 1988, 102 Stat. 1021, provided that: “None of the funds provided in this Act [see Tables for classification] or heretofore provided may be used to implement or enforce the regulations promulgated by the Department of Housing and Urban Development on June 6, 1988, with respect to the testing and abatement of lead-based paint in public housing until the Secretary develops comprehensive technical guidelines on reliable testing protocols, safe and effective abatement techniques, cleanup methods, and acceptable post-abatement lead dust levels.”
@@ -275,7 +275,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-The National Health Promotion and Disease Prevention Act of 1976, referred to in par. (3)(B)(i), probably means Pub. L. 94–317, June 23, 1976, 90 Stat. 695, as amended, which enacted sections 300u to 300u–5 of this title, amended sections 201, 243, 247b, 247c, 264, 300f, 4801, 4831, and 4841 to 4843 of this title, and enacted provisions set out as notes under sections 201, 247b, and 247c of this title. For complete classification of this Act to the Code, see Tables.
+The National Health Promotion and Disease Prevention Act of 1976, referred to in par. (3)(B)(i), probably means Pub. L. 94–317, June 23, 1976, 90 Stat. 695, which enacted sections 300u to 300u–5 of this title, amended sections 201, 243, 247b, 247c, 264, 300f, 4801, 4831, and 4841 to 4843 of this title, and enacted provisions set out as notes under sections 201, 247b, and 247c of this title. For complete classification of this Act to the Code, see Tables.
 
 Such date of enactment, referred to in par. (3)(B)(ii), probably means the date of approval of Pub. L. 94–317, which was June 23, 1976.
 

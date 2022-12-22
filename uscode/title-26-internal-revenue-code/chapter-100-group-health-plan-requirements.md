@@ -835,7 +835,7 @@ Pub. L. 110–381, § 2(d), Oct. 9, 2008, 122 Stat. 4086, provided that: “The 
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§ 300gg et seq.) of subchapter XXV of chapter 6A of Title 42, The Public Health and Welfare. Sections 2716 and 2718 of title XXVII of the Act are classified to sections 300gg–16 and 300gg–18, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this Title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section201&num=0&edition=prelim) 42 and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§ 300gg et seq.) of subchapter XXV of chapter 6A of Title 42, The Public Health and Welfare. Sections 2716 and 2718 of title XXVII of the Act are classified to sections 300gg–16 and 300gg–18, respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 The Patient Protection and Affordable Care Act, referred to in text, is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18001&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
@@ -1285,9 +1285,6 @@ An entity selected pursuant to the previous sentence to make a determination des
   (B) *Specified item or service defined* — For purposes of subparagraph (A), the term “specified item or service” means an item or service that has low utilization or significant variation in costs (such as when furnished as part of a complex treatment), as specified by the Secretary.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 107(c) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
 
 #### References in Text
 Section 2704 of the Public Health Service Act, referred to in subsec. (a)(1)(D), is classified to [section 300gg–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–3&num=0&edition=prelim), The Public Health and Welfare.

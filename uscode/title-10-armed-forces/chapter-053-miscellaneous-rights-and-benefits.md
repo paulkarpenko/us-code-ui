@@ -1325,7 +1325,7 @@ Subsec. (f). Pub. L. 113–291, § 533(b), substituted “described in subsectio
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
-#### Civilian Positions to Support Special Victims’ Counsel
+#### Civilian Positions To Support Special Victims’ Counsel
 Pub. L. 117–81, div. A, title V, § 546, Dec. 27, 2021, 135 Stat. 1712, provided that: “(a) Civilian Support Positions.—Each Secretary of a military department may establish one or more civilian positions within each office of the Special Victims’ Counsel under the jurisdiction of such Secretary. “(b) Duties.—The duties of each position under subsection (a) shall be—“(1) to provide support to Special Victims’ Counsel, including legal, paralegal, and administrative support; and “(2) to ensure the continuity of legal services and the preservation of institutional knowledge in the provision of victim legal services notwithstanding transitions in the military personnel assigned to offices of the Special Victims’ Counsel. “(c) Special Victims’ Counsel Defined.—In this section, the term ‘Special Victims’ Counsel’ means Special Victims’ Counsel described in [section 1044e of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1044e), United States Code, and in the case of the Navy and Marine Corps, includes counsel designated as ‘Victims’ Legal Counsel’.”
 
 #### Notification of Significant Events and Documentation of Preference for Prosecution Jurisdiction for Victims of Sexual Assault
@@ -2621,7 +2621,7 @@ Pub. L. 103–160, div. A, title XIV, § 1433(a), Nov. 30, 1993, 107 Stat. 1833,
 #### References in Text
 Chapter 137 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2002—Subsec. (e)(1)(A). Pub. L. 107–314, § 324(a), inserted “or Navy Exchange Markets” after “commissary stores”.

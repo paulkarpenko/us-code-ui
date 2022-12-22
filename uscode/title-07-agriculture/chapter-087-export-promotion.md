@@ -1018,7 +1018,7 @@ the Secretary shall compensate producers of the commodity involved by making pay
 #### References in Text
 The Export Administration Act of 1979, referred to in subsec. (a)(1), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
-The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Act is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b)(1), (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. Title I of the Act is classified generally to subchapter II (§ 1441 et seq.) of chapter 35A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 
 <a id="section-5672"></a>

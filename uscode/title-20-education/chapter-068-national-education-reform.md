@@ -1327,7 +1327,7 @@ Another section 1011 of Pub. L. 103–227 was classified to [section 6054 of thi
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Codification
 Another section 1012 of Pub. L. 103–227 was classified to [section 6054a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6054a&num=0&edition=prelim), prior to repeal by Pub. L. 107–279.
@@ -1362,7 +1362,7 @@ Another section 1012 of Pub. L. 103–227 was classified to [section 6054a of th
 ### Statutory Notes
 
 #### References in Text
-The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), as amended, which is classified principally to this chapter (except subchapters V (§ 5931 et seq.) and IX (§ 6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-068-national-education-reform.md#section-5801) and Tables.
+The Goals 2000: Educate America Act, referred to in subsecs. (a)(1) and (b)(4), is Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 125 (except titles V and IX), which is classified principally to this chapter (except subchapters V (§ 5931 et seq.) and IX (§ 6001 et seq.)). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-068-national-education-reform.md#section-5801) and Tables.
 
 
 <a id="section-6066"></a>
@@ -1450,8 +1450,8 @@ As used in this part:
 ### Statutory Notes
 
 #### References in Text
-The Child Nutrition Act of 1966, referred to in par. (2), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) and Tables.
+The Child Nutrition Act of 1966, referred to in par. (2), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in par. (2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in par. (2)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 This subchapter, referred to in par. (2)(B), was in the original “this title”, meaning title X of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 265, which enacted this subchapter and [section 3351 of this title](./chapter-047-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-3351), amended sections 1107, 1232h, 2421, 3381 to 3384, and 3386 of this title, sections 1632, 1633, and 1635 of Title 29, Labor, and [section 11903a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11903a&num=0&edition=prelim), and enacted provisions set out as notes under [section 2701 of this title](./chapter-047-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-2701) and [section 11901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11901&num=0&edition=prelim).

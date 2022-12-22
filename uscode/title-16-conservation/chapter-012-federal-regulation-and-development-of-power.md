@@ -395,7 +395,7 @@ The Federal Energy Regulatory Commission shall keep the Committee on Energy and 
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended. Part I of the Federal Power Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Federal Power Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 Section was enacted as part of the Electric Consumers Protection Act of 1986, and not as part of the Federal Power Act which generally comprises this chapter.
@@ -412,7 +412,7 @@ After October 24, 1992, the Federal Energy Regulatory Commission may not issue a
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended. Part I of the Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Federal Power Act which generally comprises this chapter.
@@ -429,9 +429,9 @@ Section was enacted as part of the Energy Policy Act of 1992, and not as part of
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Federal Power Act, referred to in subsecs. (a) and (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended. Part I of the Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in subsecs. (a) and (b), is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Act is classified generally to this subchapter (§ 791a et seq.). For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Federal Power Act which generally comprises this chapter.
@@ -480,7 +480,7 @@ Pub. L. 104–106 struck out at end “Copies of all licenses issued under the p
 1935—Act Aug. 26, 1935, § 204, amended section generally, substituting “thirty days” for “ninety days” in third sentence and inserting last sentence.
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-800"></a>
@@ -1204,7 +1204,7 @@ Section applicable to licenses, permits, and exemptions without regard to when i
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act, referred to in subsec. (a)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act, referred to in subsec. (a)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (a)(1), (3)(C), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
@@ -1483,7 +1483,7 @@ The Endangered Species Act of 1973, referred to in subsec. (g)(2)(B), is Pub. L.
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsec. (f), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (f), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
 
 The Public Utility Holding Company Act of 2005, referred to in subsec. (g)(5), is subtitle F of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which is classified principally to part D (§ 16451 et seq.) of subchapter XII of chapter 149 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801&num=0&edition=prelim) and Tables.
 
@@ -1607,9 +1607,9 @@ For provisions relating to performance of functions by Secretary of Energy respe
 #### References in Text
 This Act, referred to in subsec. (b)(2), means Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the “Public Utility Regulatory Policies Act of 1978”. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
 
-The Federal Power Act, referred to in subsec. (b)(2), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in subsec. (b)(2), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
-The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7101&num=0&edition=prelim) and Tables.
+The Department of Energy Organization Act, referred to in subsec. (b)(2), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7101&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
@@ -1720,7 +1720,7 @@ No such rule prescribed under subsection (a) shall provide for a rate which exce
 
   (A) The Commission may enforce the requirements of subsection (f) against any State regulatory authority or nonregulated electric utility. For purposes of any such enforcement, the requirements of subsection (f)(1) shall be treated as a rule enforceable under the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) et seq.]. For purposes of any such action, a State regulatory authority or nonregulated electric utility shall be treated as a person within the meaning of the Federal Power Act. No enforcement action may be brought by the Commission under this section other than—
 
-    (i) an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) 33 So in original. Probably should be followed by a comma. or
+    (i) an action against the State regulatory authority or nonregulated electric utility for failure to comply with the requirements of subsection (f) 1 or
 
     (ii) an action under paragraph (1).
 
@@ -1740,7 +1740,7 @@ No such rule prescribed under subsection (a) shall provide for a rate which exce
 
 (3) **Fish and wildlife terms and conditions** — The project meets the terms and conditions set by fish and wildlife agencies under the same procedures as provided for under section 30(c) of the Federal Power Act [[16 U.S.C. 823a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section823a/c&num=0&edition=prelim)].
 
-**(k) “New dam or diversion” defined** For purposes of this section, the term “new dam or diversion” means a dam or diversion which requires, for purposes of installing any hydroelectric power project, any construction, or enlargement of any impoundment or diversion structure (other than repairs or reconstruction or the addition of flashboards or similar adjustable devices) 44 So in original. Probably should be followed by a period.
+**(k) “New dam or diversion” defined** For purposes of this section, the term “new dam or diversion” means a dam or diversion which requires, for purposes of installing any hydroelectric power project, any construction, or enlargement of any impoundment or diversion structure (other than repairs or reconstruction or the addition of flashboards or similar adjustable devices) 33 So in original. Probably should be followed by a period.
 
 **(l) Definitions** For purposes of this section, the terms “small power production facility”, “qualifying small power production facility”, “qualifying small power producer”, “primary energy source”, “cogeneration facility”, “qualifying cogeneration facility”, and “qualifying cogenerator” have the respective meanings provided for such terms under section 3(17) and (18) of the Federal Power Act [[16 U.S.C. 796(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796/17&num=0&edition=prelim), (18)].
 
@@ -1809,13 +1809,13 @@ No such rule prescribed under subsection (a) shall provide for a rate which exce
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to this chapter (§ 791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§ 791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§ 824 et seq.). For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in subsecs. (e), (h), (j)(1), and (m)(7)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to this chapter (§ 791a et seq.). Part I of the Federal Power Act is classified generally to subchapter I (§ 791a et seq.) of this chapter. Part II of the Federal Power Act is classified generally to this subchapter (§ 824 et seq.). For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
-The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act, referred to in subsec. (e), probably means the Public Utility Holding Company Act of 1935, title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 The Electric Consumers Protection Act of 1986, referred to in subsec. (j)(1), is Pub. L. 99–495, Oct. 16, 1986, 100 Stat. 1243. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
-This Act, referred to in subsecs. (m)(6) and (n)(1)(B), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
+This Act, referred to in subsecs. (m)(6) and (n)(1)(B), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
 
 #### Codification
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
@@ -2073,7 +2073,7 @@ Section 207(b) of Pub. L. 95–617 directed chairman of Federal Energy Regulator
 ### Statutory Notes
 
 #### References in Text
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2005—Subsec. (a). Pub. L. 109–58, § 1295(b)(1), substituted “hearing held” for “hearing had” in first sentence.
@@ -2393,9 +2393,9 @@ Nothing in this subsection shall affect any authority of any State or local gove
 ### Statutory Notes
 
 #### References in Text
-The TVA Act, referred to in subsec. (f)(1), means act May 18, 1933, ch. 32, 48 Stat. 58, as amended, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of this title. For complete classification of this Act to the Code, see [section 831 of this title](./chapter-12a-tennessee-valley-authority.md#section-831) and Tables.
+The TVA Act, referred to in subsec. (f)(1), means act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of this title. For complete classification of this Act to the Code, see [section 831 of this title](./chapter-12a-tennessee-valley-authority.md#section-831) and Tables.
 
-The Rural Electrification Act of 1936, referred to in subsec. (h)(2)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (h)(2)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
 
 The Energy Policy Act of 1992, referred to in subsec. (i)(2)(A)(III), (B)(i), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13201&num=0&edition=prelim), The Public Health and Welfare and Tables.
 
@@ -2937,20 +2937,20 @@ The Secretary may, in consultation with appropriate Federal agencies and appropr
 ### Statutory Notes
 
 #### References in Text
-The National Forest Management Act of 1976, referred to in subsec. (h)(6)(D)(i), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+The National Forest Management Act of 1976, referred to in subsec. (h)(6)(D)(i), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (h)(6)(D)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (h)(6)(D)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (h)(6)(D)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (h)(6)(D)(iv) and (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (h)(6)(D)(iv) and (j), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6)(D)(v), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (h)(6)(D)(v), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2021—Subsec. (a)(1). Pub. L. 117–58, § 40105(a)(1), inserted “and Indian Tribes” after “affected States” and “capacity constraints and” before “congestion”.
 
-Subsec. (a)(2). Pub. L. 117–58, § 40105(a)(2), substituted “Not less frequently than once every 3 years, the Secretary, after” for “After”, and “affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—” for “affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.” and added (i) and (ii).
+Subsec. (a)(2). Pub. L. 117–58, § 40105(a)(2), substituted “Not less frequently than once every 3 years, the Secretary, after” for “After” and “affected States and Indian Tribes), shall issue a report, based on the study under paragraph (1) or other information relating to electric transmission capacity constraints and congestion, which may designate as a national interest electric transmission corridor any geographic area that—” for “affected States), the Secretary shall issue a report, based on the study, which may designate any geographic area experiencing electric energy transmission capacity constraints or congestion that adversely affects consumers as a national interest electric transmission corridor.” and added subpars. (i) and (ii).
 
 Subsec. (a)(3). Pub. L. 117–58, § 40105(a)(3), substituted “Not less frequently than once every 3 years, the Secretary, in conducting the study under paragraph (1) and issuing the report under paragraph (2), shall consult” for “The Secretary shall conduct the study and issue the report in consultation”.
 
@@ -2960,13 +2960,16 @@ Subsec. (a)(4)(F) to (H). Pub. L. 117–58, § 40105(a)(4)(B)–(D), added subpa
 
 Subsec. (b)(1)(A)(ii). Pub. L. 117–58, § 40105(b)(1)(A), inserted “or interregional benefits” after “interstate benefits”.
 
-Subsec. (b)(1)(C). Pub. L. 117–58, § 40105(b)(1)(B), added subpar. (C) and struck out former subpar. (C), which related to State commission or other authority withholding approval of construction or giving conditional approval that will not result in significant reduction of transmission congestion in interstate commerce or is not economically feasible.
+Subsec. (b)(1)(C). Pub. L. 117–58, § 40105(b)(1)(B), added subpar. (C) and struck out former subpar. (C) which related to State commission or other authority withholding approval of construction or giving conditional approval that will not result in significant reduction of transmission congestion in interstate commerce or is not economically feasible.
 
 Subsec. (e)(1). Pub. L. 117–58, § 40105(c), substituted “modify, and operate and maintain, the transmission facilities and, in the determination of the Commission, the permit holder has made good faith efforts to engage with landowners and other stakeholders early in the applicable permitting process, the” for “modify the transmission facilities, the”.
 
 Subsec. (i)(2). Pub. L. 117–58, § 40105(d)(1), substituted “shall provide” for “may provide”.
 
 Subsec. (i)(4). Pub. L. 117–58, § 40105(d)(2), substituted “the Secretary determines that the members of the compact are in disagreement after the later of—” and subpars. (A) and (B) for “the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C).”
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-824q"></a>
@@ -3117,6 +3120,11 @@ Pub. L. 109–58, title XII, § 1233(b), Aug. 8, 2005, 119 Stat. 960, provided t
 
 **(g) Protection of information** Advanced cybersecurity technology information that is provided to, generated by, or collected by the Federal Government under subsection (b), (c), or (f) shall be considered to be critical electric infrastructure information under section 824o–1 of this title.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-824t"></a>
 ## § 824t. Electricity market transparency rules
@@ -3159,7 +3167,7 @@ Pub. L. 109–58, title XII, § 1233(b), Aug. 8, 2005, 119 Stat. 960, provided t
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 
 <a id="section-824u"></a>
@@ -3269,7 +3277,7 @@ All agencies of the United States engaged in the generation and sale of electric
 ### Statutory Notes
 
 #### References in Text
-The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1999—Subsec. (b). Pub. L. 106–102 inserted subsec. heading, designated existing provisions as par. (1), inserted heading, and substituted “After 6” for “After six”, and added par. (2).
@@ -3544,11 +3552,14 @@ Repeal effective 6 months after Aug. 8, 2005, with provisions relating to effect
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a)(2)(A). Pub. L. 117–58, § 40432(1)(A), struck out third sentence, which read as follows: “The Director may be removed during his term of office by the Chairman, with the approval of the Commission, only for inefficiency, neglect of duty, or malfeasance in office.”
+2021—Subsec. (a)(2)(A). Pub. L. 117–58, § 40432(1)(A), struck out third sentence which read as follows: “The Director may be removed during his term of office by the Chairman, with the approval of the Commission, only for inefficiency, neglect of duty, or malfeasance in office.”
 
-Subsec. (a)(2)(B). Pub. L. 117–58, § 40432(1)(B), struck out first sentence, which provided for a 4-year term for the Director, and substituted “The Director shall be compensated at a rate of pay not greater than the maximum rate of pay prescribed for a senior executive in the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim).” for “He shall be appointed and compensated at a rate not in excess of the maximum rate prescribed for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).”
+Subsec. (a)(2)(B). Pub. L. 117–58, § 40432(1)(B), struck out first sentence which provided for a 4-year term for the Director and substituted “The Director shall be compensated at a rate of pay not greater than the maximum rate of pay prescribed for a senior executive in the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim).” for “He shall be appointed and compensated at a rate not in excess of the maximum rate prescribed for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).”
 
-Subsec. (b)(4). Pub. L. 117–58, § 40432(2), struck out par. (4), which read as follows: “There are authorized to be appropriated to the Secretary of Energy to be used by the Office for purposes of compensation of persons under the provisions of this subsection not to exceed $500,000 for the fiscal year 1978, not to exceed $2,000,000 for the fiscal year 1979, not to exceed $2,200,000 for the fiscal year 1980, and not to exceed $2,400,000 for the fiscal year 1981.”
+Subsec. (b)(4). Pub. L. 117–58, § 40432(2), struck out par. (4) which read as follows: “There are authorized to be appropriated to the Secretary of Energy to be used by the Office for purposes of compensation of persons under the provisions of this subsection not to exceed $500,000 for the fiscal year 1978, not to exceed $2,000,000 for the fiscal year 1979, not to exceed $2,200,000 for the fiscal year 1980, and not to exceed $2,400,000 for the fiscal year 1981.”
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).

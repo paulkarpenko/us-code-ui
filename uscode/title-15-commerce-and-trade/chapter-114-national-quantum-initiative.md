@@ -2,96 +2,150 @@
 title: 15
 chapter: '114'
 heading: NATIONAL QUANTUM INITIATIVE
-section_count: 13
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
 <a id="section-8801"></a>
-## § 8801. Quantum information science research program
-**(a) In general** The Secretary of Energy shall carry out a basic research program on quantum information science.
+## § 8801. Department of Energy quantum network infrastructure research and development program
+**(a) In general** The Secretary of Energy (referred to in this section as the “Secretary”) shall carry out a research, development, and demonstration program to accelerate innovation in quantum network infrastructure in order to—
 
-**(b) Program components** In carrying out the program under subsection (a), the Secretary of Energy shall—
+(1) facilitate the advancement of distributed quantum computing systems through the internet and intranet;
 
-(1) formulate goals for quantum information science research to be supported by the Department of Energy;
+(2) improve the precision of measurements of scientific phenomena and physical imaging technologies;
 
-(2) leverage the collective body of knowledge from existing quantum information science research;
+(3) develop secure national quantum communications technologies and strategies;
 
-(3) provide research experiences and training for additional undergraduate and graduate students in quantum information science, including in the fields of—
+(4) demonstrate quantum networking utilizing the Department of Energy’s Energy Sciences Network User Facility; and
 
-  (A) quantum information theory;
+(5) advance the relevant domestic supply chains, manufacturing capabilities, and associated simulations or modeling capabilities.
 
-  (B) quantum physics;
+**(b) Program** In carrying out this section, the Secretary shall—
 
-  (C) quantum computational science;
+(1) coordinate with—
 
-  (D) applied mathematics and algorithm development;
+  (A) the Director of the National Science Foundation;
 
-  (E) quantum networking;
+  (B) the Director of the National Institute of Standards and Technology;
 
-  (F) quantum sensing and detection; and
+  (C) the Chair of the Subcommittee on Quantum Information Science of the National Science and Technology Council established under [section 8813(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8813/a&num=0&edition=prelim); and
 
-  (G) materials science and engineering;
+  (D) the Chair of the Subcommittee on the Economic and Security Implications of Quantum Science;
 
-(4) coordinate research efforts funded through existing programs across the Department of Energy, including—
+(2) conduct cooperative research with industry, National Laboratories, institutions of higher education, and other research institutions to facilitate new quantum infrastructure methods and technologies, including—
 
-  (A) the Nanoscale Science Research Centers;
+  (A) quantum-limited detectors, ultra-low loss optical channels, space-to-ground connections, and classical networking and cybersecurity protocols;
 
-  (B) the Energy Frontier Research Centers;
+  (B) entanglement and hyper-entangled state sources and transmission, control, and measurement of quantum states;
 
-  (C) the Energy Innovation Hubs;
+  (C) quantum interconnects that allow short range local connections between quantum processors;
 
-  (D) the National Laboratories;
+  (D) transducers for quantum sources and signals between optical wavelength regimes, including telecommunications regimes and quantum computer-relevant domains, including microwaves;
 
-  (E) the Advanced Research Projects Agency; and
+  (E) development of quantum memory buffers and small-scale quantum computers that are compatible with photon-based quantum bits in the optical or telecommunications wavelengths;
 
-  (F) the National Quantum Information Science Research Centers; and
+  (F) long-range entanglement distribution, including allowing entanglement-based protocols between small- and large 11 So in original. Probably should be followed by a hyphen. scale quantum processors, at the terrestrial and space-based level using quantum repeaters and optical or laser communications;
 
-(5) coordinate with other Federal departments and agencies, research communities, and potential users of information produced under this section.
+  (G) quantum routers, multiplexers, repeaters, and related technologies necessary to create secure long-distance quantum communication; and
+
+  (H) integration of systems across the quantum technology stack into traditional computing networks, including the development of remote controlled, high-performance, and reliable implementations of key quantum network components by leveraging the expertise, infrastructure and supplemental investments at the National Laboratories in the Energy Sciences Network User Facility;
+
+(3) engage with the Quantum Economic Development Consortium and other organizations, as applicable, to transition component technologies to help facilitate as appropriate the development of a quantum supply chain for quantum network technologies;
+
+(4) advance basic research in advanced scientific computing, particle and nuclear physics, and material science to enhance the understanding, prediction, and manipulation of materials, processes, and physical phenomena relevant to quantum network infrastructure;
+
+(5) develop experimental tools and testbeds in collaboration with the Energy Sciences Network User Facility necessary to support cross-cutting fundamental research and development activities with diverse stakeholders from industry, National Laboratories, and institutions of higher education; and
+
+(6) consider quantum network infrastructure applications that span the Department of Energy’s missions in energy, environment, and national security.
+
+**(c) Leveraging** In carrying out this section, the Secretary shall leverage resources, infrastructure, and expertise across the Department of Energy and from—
+
+(1) the National Institute of Standards and Technology;
+
+(2) the National Science Foundation;
+
+(3) the National Aeronautics and Space Administration;
+
+(4) other relevant Federal agencies;
+
+(5) the National Laboratories;
+
+(6) industry stakeholders;
+
+(7) institutions of higher education; and
+
+(8) the National Quantum Information Science Research Centers.
+
+**(d) Research plan** Not later than 180 days after August 9, 2022, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a 4-year research plan that identifies and prioritizes basic research needs relating to quantum network infrastructure.
+
+**(e) Standard of review** The Secretary shall review activities carried out under this section to determine the achievement of technical milestones.
+
+**(f) Funding** Of the funds authorized to be appropriated for the Department of Energy’s Office of Science, there is authorized to be appropriated to the Secretary to carry out the activities under this section $100,000,000 for each of fiscal years 2023 through 2027.
 
 
 <a id="section-8802"></a>
-## § 8802. National Quantum Information Science Research Centers
-**(a) Establishment**
+## § 8802. Department of Energy Quantum User Expansion for Science and Technology program
+**(a) In general** The Secretary of Energy (referred to in this section as the “Secretary”) shall establish and carry out a program, to be known as the “Quantum User Expansion for Science and Technology program” or “QUEST program”, to encourage and facilitate access to United States quantum computing hardware and quantum computing clouds for research purposes—
 
-(1) **In general** — The Secretary of Energy, acting through the Director of the Office of Science (referred to in this section as the “Director”), shall ensure that the Office of Science carries out a program, in consultation with other Federal departments and agencies, as appropriate, to establish and operate at least 2, but not more than 5, National Quantum Information Science Research Centers (referred to in this section as “Centers”) to conduct basic research to accelerate scientific breakthroughs in quantum information science and technology and to support research conducted under [section 8851 of this title](./chapter-114-national-quantum-initiative.md#section-8851).
+(1) to enhance the United States quantum research enterprise;
 
-(2) **Requirements**
+(2) to educate the future quantum computing workforce;
 
-  (A) *Competitive, merit-reviewed process* — The Centers shall be established through a competitive, merit-reviewed process.
+(3) to accelerate the advancement of United States quantum computing capabilities; and
 
-  (B) *Applications* — An eligible applicant under this subsection shall submit to the Director an application at such time, in such manner, and containing such information as the Director determines to be appropriate.
+(4) to advance the relevant domestic supply chains, manufacturing processes, and associated simulations or modeling capabilities.
 
-  (C) *Eligible applicants* — The Director shall consider applications from National Laboratories, institutions of higher education, research centers, multi-institutional collaborations, and any other entity that the Secretary of Energy determines to be appropriate.
+**(b) Program** In carrying out this section, the Secretary shall—
 
-**(b) Collaborations** A collaboration that receives an award under this section may include multiple types of research institutions and private sector entities.
+(1) coordinate with—
 
-**(c) Requirements** To the maximum extent practicable, the Centers developed, constructed, operated, or maintained under this section shall serve the needs of the Department of Energy, industry, the academic community, and other relevant entities to create and develop processes for the purpose of advancing basic research in quantum information science and improving the competitiveness of the United States.
+  (A) the Director of the National Science Foundation;
 
-**(d) Coordination** The Secretary of Energy shall ensure the coordination, and avoid unnecessary duplication, of the activities of each Center with the activities of—
+  (B) the Director of the National Institute of Standards and Technology;
 
-(1) other research entities of the Department of Energy, including—
+  (C) the Chair of the Subcommittee on Quantum Information Science of the National Science and Technology Council established under [section 8813(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8813/a&num=0&edition=prelim); and
 
-  (A) the Nanoscale Science Research Centers;
+  (D) the Chair of the Subcommittee on the Economic and Security Implications of Quantum Science;
 
-  (B) the Energy Frontier Research Centers;
+(2) provide researchers based within the United States with access to, and use of, United States quantum computing resources through a competitive, merit-reviewed process;
 
-  (C) the Energy Innovation Hubs; and
+(3) consider applications from the National Laboratories, multi-institutional collaborations, institutions of higher education, industry stakeholders, and any other entities that the Secretary determines are appropriate to provide national leadership on quantum computing related issues;
 
-  (D) the National Laboratories;
+(4) coordinate with private sector stakeholders, the user community, and interagency partners on program development and best management practices; and
 
-(2) institutions of higher education; and
+(5) to the extent practicable, balance user access to commercial prototypes available for use across a broad class of applications and Federal research prototypes that enable benchmarking a wider variety of early-stage devices.
 
-(3) industry.
+**(c) Leveraging** In carrying out this section, the Secretary shall leverage resources and expertise across the Department of Energy and from—
 
-**(e) Duration**
+(1) the National Institute of Standards and Technology;
 
-(1) **In general** — Each Center established under this section is authorized to carry out activities for a period of 5 years.
+(2) the National Science Foundation;
 
-(2) **Reapplication** — An awardee may reapply for additional, subsequent periods of 5 years. The Director shall approve or disapprove of each reapplication on a competitive, merit-reviewed basis.
+(3) the National Aeronautics and Space Administration;
 
-(3) **Termination** — Consistent with the authorities of the Department of Energy, the Secretary of Energy may terminate an underperforming Center for cause during the performance period.
+(4) other relevant Federal agencies;
 
-**(f) Funding** The Secretary of Energy shall allocate up to $25,000,000 for each Center established under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the Department of Energy.
+(5) the National Laboratories;
+
+(6) industry stakeholders;
+
+(7) institutions of higher education; and
+
+(8) the National Quantum Information Science Research Centers.
+
+**(d) Security** In carrying out the activities authorized by this section, the Secretary, in consultation with the Director of the National Science Foundation and the Director of the National Institute of Standards and Technology, shall ensure proper security controls are in place to protect sensitive information, as appropriate.
+
+**(e) Funding** Of the funds authorized to be appropriated for the Department of Energy’s Office of Science, there are authorized to be appropriated to the Secretary to carry out the activities under this section—
+
+(1) $30,000,000 for fiscal year 2023;
+
+(2) $31,500,000 for fiscal year 2024;
+
+(3) $33,075,000 for fiscal year 2025;
+
+(4) $34,728,750 for fiscal year 2026; and
+
+(5) $36,465,188 for fiscal year 2027.
 
 
 <a id="section-8811"></a>
@@ -117,14 +171,18 @@ In this chapter:
 
 (6) **Quantum information science** — The term “quantum information science” means the use of the laws of quantum physics for the storage, transmission, manipulation, computing, or measurement of information.
 
-(7) **Subcommittee on Economic and Security Implications** — The term “Subcommittee on Economic and Security Implications” means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under [section 8814a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8814a/a&num=0&edition=prelim).
+(7) **Quantum network infrastructure** — The term “quantum network infrastructure” means any facility, expertise, or capability that is necessary to enable the development and deployment of scalable and diverse quantum network technologies.
 
-(8) **Subcommittee on Quantum Information Science** — The term “Subcommittee on Quantum Information Science” means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under [section 8813(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8813/a&num=0&edition=prelim).
+(8) **11 So in original. Two pars. (8) have been enacted. Subcommittee on Economic and Security Implications** — The term “Subcommittee on Economic and Security Implications” means the Subcommittee on the Economic and Security Implications of Quantum Information Science established under [section 8814a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8814a/a&num=0&edition=prelim).
+
+(8) **1 Subcommittee on Quantum Information Science** — The term “Subcommittee on Quantum Information Science” means the Subcommittee on Quantum Information Science of the National Science and Technology Council established under [section 8813(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8813/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendments
-2021—Pars. (7), (8). Pub. L. 117–81 added pars. (7) and (8) and struck out former par. (7), which defined “Subcommittee”.
+2022—Pars. (7), (8). Pub. L. 117–167 added par. (7) and redesignated former par. (7) relating to Subcommittee on Economic and Security Implications as (8).
+
+2021—Pars. (7), (8). Pub. L. 117–81 added pars. (7) and (8) and struck out former par. (7) which defined “Subcommittee”.
 
 #### Short Title
 Pub. L. 115–368, § 1(a), Dec. 21, 2018, 132 Stat. 5092, provided that: “This Act [enacting this chapter] may be cited as the ‘National Quantum Initiative Act’.”
@@ -230,7 +288,7 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 
 
 <a id="section-8814a"></a>
-## § 8814a. Subcommittee on Quantum Information Science.
+## § 8814a. Subcommittee on Quantum Information Science
 **(a) Establishment** The President shall establish, through the National Science and Technology Council, the Subcommittee on Quantum Information Science.
 
 **(b) Membership** The Subcommittee shall include a representative of—
@@ -293,10 +351,31 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 
   (C) An analysis of the progress made toward achieving the goals and priorities established under subsection (d)(2).
 
+**(h) Report on quantum networking and communications**
+
+(1) **In general** — Not later than January 1, 2026, the Quantum Networking Working Group within the Subcommittee on Quantum Information Science of the National Science and Technology Council, in coordination with the Subcommittee on the Economic and Security Implications of Quantum Information Science, shall submit to the appropriate committees of Congress a report detailing a plan for the advancement of quantum networking and communications technology in the United States, building on the report entitled A Strategic Vision for America’s Quantum Networks and A Coordinated Approach for Quantum Networking Research.
+
+(2) **Requirements** — The report under paragraph (1) shall include the following:
+
+  (A) An update to the report entitled Coordinated Approach to Quantum Networking Research Report focusing on a framework for interagency collaboration regarding the advancement of quantum networking and communications research.
+
+  (B) A plan for Federal Government partnership with the private sector and interagency collaboration regarding engagement in international standards for quantum networking and communications technology, including a list of Federal priorities for standards relating to such networking and technology.
+
+  (C) A proposal for the protection of national security interests relating to the advancement of quantum networking and communications technology.
+
+  (D) An assessment of the relative position of the United States with respect to other countries in the global race to develop, demonstrate, and utilize quantum networking and communications technology.
+
+  (E) Recommendations to Congress for legislative action relating to the matters considered under subparagraphs (A), (B), (C), and (D).
+
+  (F) Such other matters as the Quantum Network Working Group considers necessary to advance the security of communications and network infrastructure, remain at the forefront of scientific discovery in the quantum information science domain, and transition quantum information science research into the emerging quantum technology economy.
+
 ### Statutory Notes
 
 #### Termination of Section
 For termination of section, see [section 8815 of this title](./chapter-114-national-quantum-initiative.md#section-8815).
+
+#### Amendments
+2022—Subsec. (h). Pub. L. 117–167 added subsec. (h).
 
 
 <a id="section-8815"></a>
@@ -344,34 +423,47 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g), is
 #### Amendments
 2021—Subsec. (d)(1). Pub. L. 117–81 substituted “, the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications” for “and the Subcommittee”.
 
-#### Ex. Ord. No. 13885. Establishing the National Quantum Initiative Advisory Committee
-Ex. Ord. No. 13885, Aug. 30, 2019, 84 F.R. 46873, provided:
+#### Executive Order No. 13885
+Ex. Ord. No. 13885, Aug. 30, 2019, 84 F.R. 46873, which established the National Quantum Initiative Advisory Committee, was revoked by Ex. Ord. No. 14073, § 5, May 4, 2022, 87 F.R. 27910, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 104(a) of the National Quantum Initiative Act (Public Law 115–368) (Act) [[15 U.S.C. 8814(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8814/a&num=0&edition=prelim)], and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and in order to ensure continued American leadership in quantum information science and technology applications, it is hereby ordered as follows:
+#### Ex. Ord. No. 14073. Enhancing the National Quantum Initiative Advisory Committee
+Ex. Ord. No. 14073, May 4, 2022, 87 F.R. 27909, provided:
 
-Section 1. Establishment. The National Quantum Initiative Advisory Committee (Committee) is hereby established. The Committee shall consist of the Director of the Office of Science and Technology Policy or the Director’s designee (Director) and not more than 22 members appointed by the Secretary of Energy (Secretary). Committee members shall represent industry, universities, Federal laboratories, and other Federal Government agencies. Committee members must be qualified to provide advice and information on quantum information science and technology research, development, demonstrations, standards, education, technology transfers, commercial application, and national security economic concerns. The Director shall serve as a Co-Chair of the Committee. The Secretary shall designate at least one of the Committee members to serve as Co-Chair with the Director.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 104(a) of the National Quantum Initiative Act (Public Law 115–368) (NQI Act) [[15 U.S.C. 8814(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8814/a&num=0&edition=prelim)], and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and in order to ensure continued American leadership in quantum information science and its technology applications, it is hereby ordered as follows:
 
-Sec. 2. Functions. (a) The Committee shall advise the Secretary and the Subcommittee on Quantum Information Science of the National Science and Technology Council (Subcommittee) and make recommendations to the Secretary to consider when reviewing and revising the National Quantum Initiative Program (Program) established pursuant to section 101 of the Act [[15 U.S.C. 8811](./chapter-114-national-quantum-initiative.md#section-8811)]. The Committee shall also carry out all responsibilities set forth in section 104 of the Act.
+Section 1. Purpose. Quantum information science (QIS) can enable transformative advances in knowledge and technology for industry, academia, and government. Accordingly, the National Quantum Initiative (NQI), which aims to ensure the continued leadership of the United States in QIS and its technology applications, is a substantial and sustained national priority. The NQI Program, established pursuant to section 101 of the NQI Act [[15 U.S.C. 8811](./chapter-114-national-quantum-initiative.md#section-8811)], encompasses contributions from across the Federal Government, as exemplified by the QIS research, development, demonstration, and training activities pursued by executive departments and agencies (agencies) with membership on either the National Science and Technology Council (NSTC) Subcommittee on Quantum Information Science (SCQIS) or the NSTC Subcommittee on Economic and Security Implications of Quantum Science (ESIX).
+
+Sec. 2. Establishment. (a) To ensure that the NQI Program and the Nation are informed by evidence, data, and perspectives from a diverse group of experts and stakeholders, the National Quantum Initiative Advisory Committee (Committee) is hereby established. Consistent with the NQI Act [[15 U.S.C. 8801](./chapter-114-national-quantum-initiative.md#section-8801) et seq.], the Committee shall advise the President, the SCQIS, and the ESIX on the NQI Program.
+
+(b) The Committee shall consist of the Director of the Office of Science and Technology Policy (Director) or the Director’s designee and not more than 26 members, appointed by the President, who are United States citizens representative of industry, universities, and Federal laboratories, and who are qualified to provide advice and information on QIS and technology research, development, demonstrations, standards, education, technology transfer, commercial application, or national security and economic concerns.
+
+(c) The Committee shall have two Co-Chairs. The Director or the Director’s designee shall serve as one Co-Chair of the Committee. The President shall designate another Co-Chair from among the appointed members to serve as Co-Chair with the Director.
+
+Sec. 3. Functions. (a) The Committee shall advise the President and the SCQIS and the ESIX (Subcommittees) and make recommendations for the President to consider when reviewing and revising the NQI Program. The Committee shall also carry out all responsibilities set forth in section 104 of the NQI Act.
 
 (b) The Committee shall meet at least twice a year and shall:
 
-(i) respond to requests from the Co-Chairs of the Committee for information, analysis, evaluation, or advice relating to quantum information science and technology applications;
+(i) respond to requests from the President or the Co-Chairs of the Committee for information, analysis, evaluation, or advice relating to QIS and its technology applications;
 
-(ii) solicit information and ideas from a broad range of stakeholders on quantum information science in order to inform policy making. Stakeholders include the research community, the private sector, universities, national laboratories, executive departments and agencies (agencies), State and local governments, foundations, and nonprofit organizations; and
+(ii) solicit information and ideas from a broad range of stakeholders on QIS, including the research community, the private sector, academia, national laboratories, agencies, State and local governments, foundations, and nonprofit organizations;
 
-(iii) respond to requests from the Subcommittee.
+(iii) review the national strategy for QIS; and
 
-Sec. 3. Administration. (a) The heads of agencies shall, to the extent permitted by law, provide the Committee with information concerning quantum information science and supporting technologies and applications when requested by a Co-Chair of the Committee.
+(iv) respond to requests from the Subcommittees.
 
-(b) In consultation with the Director, the Committee may create standing subcommittees and ad hoc groups, including technical advisory groups, to assist and provide preliminary information to the Committee.
+Sec. 4. Administration. (a) The heads of agencies shall, to the extent permitted by law, provide the Committee with information concerning QIS and its technology applications when requested by a Committee Co-Chair.
 
-(c) The Director may request that members of the Committee, its standing subcommittees, or ad hoc groups who do not hold a current clearance for access to classified information, receive appropriate clearances and access determinations pursuant to Executive Order 13526 of December 29, 2009 (Classified National Security Information) [[50 U.S.C. 3161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim) note], as amended, or any successor order.
+(b) The Co-Chairs of the Committee may establish standing subcommittees and ad hoc groups, including technical advisory groups, to assist and provide information to the Committee.
 
-(d) The Department of Energy shall provide such funding and administrative and technical support as the Committee may require.
+(c) The Director may request that members of the Committee, standing subcommittees, or ad hoc groups who do not hold a current clearance for access to classified information receive appropriate clearances and access determinations pursuant to Executive Order 13526 of December 29, 2009 (Classified National Security Information) [[50 U.S.C. 3161](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim) note], as amended, or any successor order.
+
+(d) The National Quantum Coordination Office shall provide technical and administrative support to the Committee, pursuant to section 102(b) of the NQI Act [[15 U.S.C. 8812(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8812/b&num=0&edition=prelim)].
 
 (e) Committee members shall serve without any compensation for their work on the Committee, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
 
-Sec. 4. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the Committee, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Secretary of Energy, in consultation with the Director, in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 5. Revocation. Executive Order 13885 of August 30, 2019 (Establishing the National Quantum Initiative Advisory Committee) [formerly set out above], is hereby revoked.
+
+Sec. 6. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended [Pub. L. 92–463] (5 U.S.C. App.) (FACA), may apply to the Committee, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Secretary of Energy, in consultation with the Director, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -383,7 +475,7 @@ Sec. 4. General Provisions. (a) Insofar as the Federal Advisory Committee Act, a
 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-Donald J. Trump.
+J.R. Biden, Jr.
 
 
 <a id="section-8831"></a>
@@ -416,7 +508,7 @@ Donald J. Trump.
 
 **(c) Responsibilities** The Subcommittee shall—
 
-(1) in coordination with the Director of the Office and Management and Budget, the Director of the National Quantum Coordination Office, and the Subcommittee on Quantum Information Science, track investments of the Federal Government in quantum information science research and development;
+(1) in coordination with the Director of the Office and 11 So in original. Probably should be “of”. Management and Budget, the Director of the National Quantum Coordination Office, and the Subcommittee on Quantum Information Science, track investments of the Federal Government in quantum information science research and development;
 
 (2) review and assess any economic or security implications of such investments;
 
@@ -440,6 +532,9 @@ Donald J. Trump.
 
 ### Statutory Notes
 
+#### Termination of Section
+For termination of section, see [section 8815 of this title](./chapter-114-national-quantum-initiative.md#section-8815).
+
 #### Prior Provisions
 A prior section 105 of Pub. L. 115–368 was renumbered section 106 and is classified to [section 8815 of this title](./chapter-114-national-quantum-initiative.md#section-8815).
 
@@ -459,7 +554,7 @@ Pub. L. 117–81, div. F, title LXVI, § 6606(b)(2), Dec. 27, 2021, 135 Stat. 24
 2021—Pub. L. 117–81, § 6606(b)(1), substituted “8813, 8814, and 8814a” for “8813, and 8814”.
 
 #### Effective Date of 2021 Amendment
-Amendment by section 6606(a) of Pub. L. 117–81 effective as if included in the enactment of the National Quantum Initiative Act, see section 6606(b)(2) of Pub. L. 117–81, set out as an Effective Date note under [section 8814a of this title](./chapter-114-national-quantum-initiative.md#section-8814a).
+Amendment by section 6606(a)(1) of Pub. L. 117–81 effective as if included in the enactment of the National Quantum Initiative Act, see section 6606(b)(2) of Pub. L. 117–81, set out as an Effective Date note under [section 8814a of this title](./chapter-114-national-quantum-initiative.md#section-8814a).
 
 
 <a id="section-8842"></a>
@@ -470,9 +565,15 @@ Amendment by section 6606(a) of Pub. L. 117–81 effective as if included in the
 
 (2) shall use the existing programs of the National Institute of Standards and Technology, in collaboration with other Federal departments and agencies, as appropriate, to train scientists in quantum information science and technology to increase participation in the quantum fields;
 
-(3) shall establish or expand collaborative ventures or consortia with other public or private sector entities, including industry, universities, and Federal laboratories for the purpose of advancing the field of quantum information science and engineering; and
+(3) shall carry out research to facilitate the development and standardization of quantum cryptography and post-quantum classical cryptography;
 
-(4) may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this chapter.
+(4) shall carry out research to facilitate the development and standardization of quantum networking, communications, and sensing technologies and applications;
+
+(5) for quantum technologies determined by the Director of the National Institute of Standards and Technology to be at a readiness level sufficient for standardization, shall provide technical review and assistance to such other Federal agencies as the Director considers appropriate for the development of quantum networking infrastructure standards;
+
+(6) shall establish or expand collaborative ventures or consortia with other public or private sector entities, including industry, universities, and Federal laboratories for the purpose of advancing the field of quantum information science and engineering; and
+
+(7) may enter into and perform such contracts, including cooperative research and development arrangements and grants and cooperative agreements or other transactions, as may be necessary in the conduct of the work of the National Institute of Standards and Technology and on such terms as the Director considers appropriate, in furtherance of the purposes of this chapter.
 
 **(b) Quantum consortium**
 
@@ -489,6 +590,11 @@ Amendment by section 6606(a) of Pub. L. 117–81 effective as if included in the
 (3) **Report to Congress** — Not later than 2 years after December 21, 2018, the Director of the National Institute of Standards and Technology shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report summarizing the findings of the consortium.
 
 **(c) Funding** The Director of the National Institute of Standards and Technology shall allocate up to $80,000,000 to carry out the activities under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Institute of Standards and Technology.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a)(3) to (7). Pub. L. 117–167 added pars. (3) to (5) and redesignated former pars. (3) and (4) as (6) and (7), respectively.
 
 
 <a id="section-8851"></a>
@@ -520,6 +626,33 @@ Amendment by section 6606(a) of Pub. L. 117–81 effective as if included in the
   (E) engaging with other Federal departments and agencies, research communities, and potential users of information produced under this section.
 
 **(c) Graduate traineeships** The Director of the National Science Foundation may establish a program to provide traineeships to graduate students at institutions of higher education within the United States who are citizens of the United States and who choose to pursue masters or doctoral degrees in quantum information science.
+
+**(d) Incorporating QISE into STEM curriculum**
+
+(1) **In general** — The Director of the National Science Foundation shall, through programs carried out or supported by the National Science Foundation, seek to increase the integration of quantum information science and engineering (referred to in this subsection as “QISE”) into the STEM curriculum at all education levels, including community colleges, as considered appropriate by the Director.
+
+(2) **Curriculum integration** — The curriculum integration under paragraph (1) may include the following:
+
+  (A) Methods to conceptualize QISE for elementary, middle, and high school curricula.
+
+  (B) Methods for strengthening foundational mathematics and science curricula.
+
+  (C) Methods for integrating students who are underserved or historically underrepresented groups in STEM.
+
+  (D) Age-appropriate materials that apply the principles of quantum information science in STEM fields.
+
+  (E) Recommendations for the standardization of key concepts, definitions, and curriculum criteria across government, academia, and industry.
+
+  (F) Materials that specifically address the findings and outcomes of the study to evaluate and make recommendations for the quantum information science workforce pursuant to subsection (d) of [section 19261 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section19261&num=0&edition=prelim) and strategies to account for the skills and workforce needs identified through such study.
+
+(3) **Coordination** — In carrying out this subsection, the Director shall coordinate with relevant Federal agencies, and consult with nongovernmental entities with expertise in QISE, as appropriate, which may include institutions eligible to participate in the Established Program to Stimulate Competitive Research (EPSCoR).
+
+(4) **Definition** — In this subsection, the term “STEM” means the academic and professional disciplines of science, technology, engineering, and mathematics, including computer science.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (d). Pub. L. 117–167 added subsec. (d).
 
 
 <a id="section-8852"></a>
@@ -561,3 +694,91 @@ Amendment by section 6606(a) of Pub. L. 117–81 effective as if included in the
 (3) **Termination** — Consistent with the authorities of the National Science Foundation, the Director of the National Science Foundation may terminate an underperforming Center for cause during the performance period.
 
 **(f) Funding** The Director of the National Science Foundation shall allocate up to $10,000,000 for each Center established under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the National Science Foundation.
+
+
+<a id="section-8853"></a>
+## § 8853. Quantum information science research program
+**(a) In general** The Secretary of Energy shall carry out a basic research program on quantum information science.
+
+**(b) Program components** In carrying out the program under subsection (a), the Secretary of Energy shall—
+
+(1) formulate goals for quantum information science research to be supported by the Department of Energy;
+
+(2) leverage the collective body of knowledge from existing quantum information science research;
+
+(3) provide research experiences and training for additional undergraduate and graduate students in quantum information science, including in the fields of—
+
+  (A) quantum information theory;
+
+  (B) quantum physics;
+
+  (C) quantum computational science;
+
+  (D) applied mathematics and algorithm development;
+
+  (E) quantum networking;
+
+  (F) quantum sensing and detection; and
+
+  (G) materials science and engineering;
+
+(4) coordinate research efforts funded through existing programs across the Department of Energy, including—
+
+  (A) the Nanoscale Science Research Centers;
+
+  (B) the Energy Frontier Research Centers;
+
+  (C) the Energy Innovation Hubs;
+
+  (D) the National Laboratories;
+
+  (E) the Advanced Research Projects Agency; and
+
+  (F) the National Quantum Information Science Research Centers; and
+
+(5) coordinate with other Federal departments and agencies, research communities, and potential users of information produced under this section.
+
+
+<a id="section-8854"></a>
+## § 8854. National Quantum Information Science Research Centers
+**(a) Establishment**
+
+(1) **In general** — The Secretary of Energy, acting through the Director of the Office of Science (referred to in this section as the “Director”), shall ensure that the Office of Science carries out a program, in consultation with other Federal departments and agencies, as appropriate, to establish and operate at least 2, but not more than 5, National Quantum Information Science Research Centers (referred to in this section as “Centers”) to conduct basic research to accelerate scientific breakthroughs in quantum information science and technology and to support research conducted under [section 8851 of this title](./chapter-114-national-quantum-initiative.md#section-8851).
+
+(2) **Requirements**
+
+  (A) *Competitive, merit-reviewed process* — The Centers shall be established through a competitive, merit-reviewed process.
+
+  (B) *Applications* — An eligible applicant under this subsection shall submit to the Director an application at such time, in such manner, and containing such information as the Director determines to be appropriate.
+
+  (C) *Eligible applicants* — The Director shall consider applications from National Laboratories, institutions of higher education, research centers, multi-institutional collaborations, and any other entity that the Secretary of Energy determines to be appropriate.
+
+**(b) Collaborations** A collaboration that receives an award under this section may include multiple types of research institutions and private sector entities.
+
+**(c) Requirements** To the maximum extent practicable, the Centers developed, constructed, operated, or maintained under this section shall serve the needs of the Department of Energy, industry, the academic community, and other relevant entities to create and develop processes for the purpose of advancing basic research in quantum information science and improving the competitiveness of the United States.
+
+**(d) Coordination** The Secretary of Energy shall ensure the coordination, and avoid unnecessary duplication, of the activities of each Center with the activities of—
+
+(1) other research entities of the Department of Energy, including—
+
+  (A) the Nanoscale Science Research Centers;
+
+  (B) the Energy Frontier Research Centers;
+
+  (C) the Energy Innovation Hubs; and
+
+  (D) the National Laboratories;
+
+(2) institutions of higher education; and
+
+(3) industry.
+
+**(e) Duration**
+
+(1) **In general** — Each Center established under this section is authorized to carry out activities for a period of 5 years.
+
+(2) **Reapplication** — An awardee may reapply for additional, subsequent periods of 5 years. The Director shall approve or disapprove of each reapplication on a competitive, merit-reviewed basis.
+
+(3) **Termination** — Consistent with the authorities of the Department of Energy, the Secretary of Energy may terminate an underperforming Center for cause during the performance period.
+
+**(f) Funding** The Secretary of Energy shall allocate up to $25,000,000 for each Center established under this section for each of fiscal years 2019 through 2023, subject to the availability of appropriations. Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the Department of Energy.

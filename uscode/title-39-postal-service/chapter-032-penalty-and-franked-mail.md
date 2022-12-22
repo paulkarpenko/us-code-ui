@@ -184,7 +184,7 @@ Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board o
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Transfer of Functions
-Federal Power Commission terminated and its functions, personnel, property, funds, etc., transferred to Secretary of Energy (except for certain functions transferred to Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
+The Federal Power Commission was terminated, and its functions, personnel, property, funds, etc., were transferred to the Secretary of Energy (except for certain functions which were transferred to the Federal Energy Regulatory Commission) by sections 7151(b), 7171(a), 7172(a), 7291, and 7293 of Title 42, The Public Health and Welfare.
 
 
 <a id="section-3205"></a>

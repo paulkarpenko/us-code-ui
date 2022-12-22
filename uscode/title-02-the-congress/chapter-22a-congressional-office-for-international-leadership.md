@@ -1,18 +1,18 @@
 ---
 title: 2
 chapter: 22A
-heading: OPEN WORLD LEADERSHIP CENTER
+heading: CONGRESSIONAL OFFICE FOR INTERNATIONAL LEADERSHIP
 section_count: 1
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
 <a id="section-1151"></a>
-## § 1151. Open World Leadership Center
+## § 1151. Congressional Office for International Leadership
 **(a) Establishment**
 
-(1) **In general** — There is established in the legislative branch of the Government a center to be known as the “Open World Leadership Center 11 So in original. Probably should be followed by closing quotation marks. (the “Center”).
+(1) **In general** — There is established in the legislative branch of the Government an office to be known as the “Congressional Office for International Leadership” (the “Office”).
 
-(2) **Board of Trustees** — The Center shall be subject to the supervision and direction of a Board of Trustees (the “Board”) which shall be composed of 11 members as follows:
+(2) **Board of Trustees** — The Office shall be subject to the supervision and direction of a Board of Trustees (the “Board”) which shall be composed of 11 members as follows:
 
   (A) Two Members of the House of Representatives appointed by the Speaker of the House of Representatives, one of whom shall be designated by the Majority Leader of the House of Representatives and one of whom shall be designated by the Minority Leader of the House of Representatives.
 
@@ -25,11 +25,11 @@ source: >-
   (E) The chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives and the chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the Senate.
   Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of the term. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
-**(b) Purpose and authority of the Center**
+**(b) Purpose and authority of the Office**
 
-(1) **Purpose** — The purpose of the Center is to establish, in accordance with the provisions of paragraph (2), a program to enable emerging political leaders of eligible foreign states at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions.
+(1) **Purpose** — The purpose of the Office is to establish, in accordance with the provisions of paragraph (2), a program to enable emerging political and civic leaders of eligible foreign states at all levels of government to gain significant, firsthand exposure to the American free market economic system and the operation of American democratic institutions through visits to governments and communities at comparable levels in the United States and to establish and administer a program to enable cultural leaders of Russia to gain significant, firsthand exposure to the operation of American cultural institutions.
 
-(2) **Grant program** — Subject to the provisions of paragraphs (3) and (4), the Center shall establish a program under which the Center annually awards grants to government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political leaders at any level of government.
+(2) **Grant program** — Subject to the provisions of paragraphs (3) and (4), the Office shall establish a program under which the Office annually awards grants to government or community organizations in the United States that seek to establish programs under which those organizations will host nationals of eligible foreign states who are emerging political and civic leaders at any level of government.
 
 (3) **Restrictions**
 
@@ -43,11 +43,11 @@ source: >-
 
     (ii) the costs of providing lodging in the United States to each program participant, whether in public accommodations or in private homes; and
 
-    (iii) such additional administrative expenses incurred by organizations in carrying out the program as the Center may prescribe.
+    (iii) such additional administrative expenses incurred by organizations in carrying out the program as the Office may prescribe.
 
 (4) **Application**
 
-  (A) *In general* — Each organization in the United States desiring a grant under this section shall submit an application to the Center at such time, in such manner, and accompanied by such information as the Center may reasonably require.
+  (A) *In general* — Each organization in the United States desiring a grant under this section shall submit an application to the Office at such time, in such manner, and accompanied by such information as the Office may reasonably require.
 
   (B) *Contents* — Each application submitted pursuant to subparagraph (A) shall—
 
@@ -57,27 +57,27 @@ source: >-
 
     (iii) describe the qualifications of the individuals who will be participating in the program; and
 
-    (iv) provide such additional assurances as the Center determines to be essential to ensure compliance with the requirements of this section.
+    (iv) provide such additional assurances as the Office determines to be essential to ensure compliance with the requirements of this section.
 
 **(c) Establishment of Fund**
 
-(1) **In general** — There is established in the Treasury of the United States a trust fund to be known as the “Open World Leadership Center Trust Fund” (the “Fund”) which shall consist of amounts which may be appropriated, credited, or transferred to it under this section.
+(1) **In general** — There is established in the Treasury of the United States a trust fund to be known as the “Congressional Office for International Leadership Fund” (the “Fund”), which shall consist of amounts which may be appropriated, credited, or transferred to it under this section.
 
-(2) **Donations** — Any money or other property donated, bequeathed, or devised to the Center under the authority of this section shall be credited to the Fund.
+(2) **Donations** — Any money or other property donated, bequeathed, or devised to the Office under the authority of this section shall be credited to the Fund.
 
 (3) **Fund management**
 
   (A) *In general* — The provisions of subsections (b), (c), and (d) of [section 1105 of this title](./chapter-022-john-c-stennis-center-for-public-service-training-and-development.md#section-1105), and the provisions of [section 1106(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1106/b&num=0&edition=prelim), shall apply to the Fund.
 
-  (B) *Expenditures* — The Secretary of the Treasury is authorized to pay to the Center from amounts in the Fund such sums as the Board determines are necessary and appropriate to enable the Center to carry out the provisions of this section.
+  (B) *Expenditures* — The Secretary of the Treasury is authorized to pay to the Office from amounts in the Fund such sums as the Board determines are necessary and appropriate to enable the Office to carry out the provisions of this section.
 
-**(d) Executive Director** On behalf of the Board, the Librarian of Congress shall appoint an Executive Director who shall be the chief executive officer of the Center and who shall carry out the functions of the Center subject to the supervision and direction of the Board of Trustees. The Executive Director of the Center shall be compensated at the annual rate specified by the Board, but in no event shall such rate exceed level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
+**(d) Executive Director** On behalf of the Board, the Librarian of Congress shall appoint an Executive Director who shall be the chief executive officer of the Office and who shall carry out the functions of the Office subject to the supervision and direction of the Board of Trustees. The Executive Director of the Office shall be compensated at the annual rate specified by the Board, but in no event shall such rate exceed level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
 
 **(e) Administrative provisions**
 
-(1) **In general** — The provisions of [section 1108 of this title](./chapter-022-john-c-stennis-center-for-public-service-training-and-development.md#section-1108) shall apply to the Center.
+(1) **In general** — The provisions of [section 1108 of this title](./chapter-022-john-c-stennis-center-for-public-service-training-and-development.md#section-1108) shall apply to the Office.
 
-(2) **Support provided by Library of Congress** — The Library of Congress may disburse funds appropriated to the Center, compute and disburse the basic pay for all personnel of the Center, provide administrative, legal, financial management, and other appropriate services to the Center, and collect from the Fund the full costs of providing services under this paragraph, as provided under an agreement for services ordered under sections 1535 and 1536 of title 31.
+(2) **Support provided by Library of Congress** — The Library of Congress may disburse funds appropriated to the Office, compute and disburse the basic pay for all personnel of the Office, provide administrative, legal, financial management, and other appropriate services to the Office, and collect from the Fund the full costs of providing services under this paragraph, as provided under an agreement for services ordered under sections 1535 and 1536 of title 31.
 
 **(f) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
@@ -89,7 +89,7 @@ source: >-
 
 (2) **Transfer** — Subsection (g) shall only apply to amounts which remain unexpended on and after the date the Board certifies to the Librarian of Congress that grants are ready to be made under the program established under this section.
 
-**(j) 22 So in original. No subsec. (i) has been enacted. Eligible foreign state defined** In this section, the term “eligible foreign state” means—
+**(j) 11 So in original. No subsec. (i) has been enacted. Eligible foreign state defined** In this section, the term “eligible foreign state” means—
 
 (1) any country specified in [section 5801 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section5801&num=0&edition=prelim);
 
@@ -103,6 +103,30 @@ source: >-
 Section 3011 of the 1999 Emergency Supplemental Appropriations Act, referred to in subsec. (g), is section 3011 of Pub. L. 106–31, which is set out as a note below.
 
 #### Amendments
+2022—Pub. L. 117–103, § 150(a)(1)(A), substituted “Congressional Office for International Leadership” for “Open World Leadership Center” in section catchline.
+
+Subsec. (a)(1). Pub. L. 117–103, § 150(a)(1)(B), amended par. (1) generally. Prior to amendment, text read as follows: “There is established in the legislative branch of the Government a center to be known as the ‘Open World Leadership Center (the ‘Center’).”
+
+Subsec. (a)(2). Pub. L. 117–103, § 150(a)(1)(C), substituted “The Office” for “The Center” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 117–103, § 150(a)(2)(A), (b), substituted “the Office” for “the Center” and “political and civic leaders” for “political leaders”.
+
+Subsec. (b)(2). Pub. L. 117–103, § 150(a)(2)(B), (b), substituted “the Office” for “the Center” in two places and “political and civic leaders” for “political leaders”.
+
+Subsec. (b)(3)(C)(iii). Pub. L. 117–103, § 150(a)(2)(C), substituted “the Office” for “the Center”.
+
+Subsec. (b)(4)(A). Pub. L. 117–103, § 150(a)(2)(D), substituted “the Office” for “the Center” in two places.
+
+Subsec. (b)(4)(B)(iv). Pub. L. 117–103, § 150(a)(2)(E), substituted “the Office” for “the Center”.
+
+Subsec. (c)(1). Pub. L. 117–103, § 150(a)(3)(A), amended par. (1) generally. Prior to amendment, text read as follows: “There is established in the Treasury of the United States a trust fund to be known as the ‘Open World Leadership Center Trust Fund’ (the ‘Fund’) which shall consist of amounts which may be appropriated, credited, or transferred to it under this section.”
+
+Subsec. (c)(2), (3)(B). Pub. L. 117–103, § 150(a)(3)(B), substituted “the Office” for “the Center” wherever appearing.
+
+Subsec. (d). Pub. L. 117–103, § 150(a)(4), substituted “the Office” for “the Center” wherever appearing.
+
+Subsec. (e). Pub. L. 117–103, § 150(a)(5), substituted “the Office” for “the Center” wherever appearing.
+
 2009—Subsec. (a)(2)(A). Pub. L. 111–68, § 1601(a)(1), substituted “Members of the House of Representatives” for “members”.
 
 Subsec. (a)(2)(B). Pub. L. 111–68, § 1601(a)(2), substituted “Senators” for “members”.
@@ -142,6 +166,12 @@ Subsec. (c)(3)(B). Pub. L. 108–7, § 1401(a)(4)(B), struck out “of Trustees 
 Subsec. (h)(2). Pub. L. 108–7, § 1401(a)(5), struck out “of Trustees of the Center” after “Board”.
 
 Subsec. (j). Pub. L. 108–7, § 1401(a)(6), added subsec. (j).
+
+#### Change of Name
+Pub. L. 117–103, div. I, title I, § 150(c), Mar. 15, 2022, 136 Stat. 523, provided that: “Any reference in any law, rule, or regulation— “(1) to the Open World Leadership Center shall be deemed to refer to the Congressional Office for International Leadership; and “(2) to the Open World Leadership Center Trust Fund shall be deemed to refer to the Congressional Office for International Leadership Fund.”
+
+#### Effective Date of 2022 Amendment; Transition
+Pub. L. 117–103, div. I, title I, § 150(d), Mar. 15, 2022, 136 Stat. 523, provided that: “(1) Effective date.—This section [amending this section and enacting provisions set out as a note under this section] and the amendments made by this section shall take effect on or after the later of October 1, 2021, or the date of the enactment of this Act [Mar. 15, 2022]. “(2) Service of current executive director.—The individual serving as the Executive Director of the Open World Leadership Center as of the day before the date of the enactment of this Act shall be deemed to have been appointed by the Librarian of Congress to serve as the Executive Director of the Congressional Office for International Leadership.”
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–68, div. A, title I, § 1601(c), Oct. 1, 2009, 123 Stat. 2041, provided that: “The amendments made by this subsection [probably means section 1601 of Pub. L. 111–68, which amended this section] shall apply with respect to— “(1) appointments made on and after the date of enactment of this Act [Oct. 1, 2009]; and “(2) the remainder of the fiscal year in which enacted, and each fiscal year thereafter.”

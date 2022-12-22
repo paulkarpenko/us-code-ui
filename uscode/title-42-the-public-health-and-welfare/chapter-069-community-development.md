@@ -265,7 +265,7 @@ Sec. 4. Reports. The Assistant to the President for Domestic Policy shall, on be
 
 (e) Any subsequent reports that the President may request or that the Council may deem appropriate.
 
-Sec. 5. Amendments to Executive Order 13845. [Amended Ex. Ord. No. 13845, set out as a note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.]
+Sec. 5. Amendments to Executive Order 13845. [Amended Ex. Ord. No. 13845, formerly set out as a note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.]
 
 Sec. 6. General Provisions. (a) The heads of agencies shall assist and provide information to the Council, consistent with applicable law, as may be necessary for the Council to carry out its functions.
 
@@ -1955,7 +1955,7 @@ Pub. L. 101–235, title VII, § 702(c), Dec. 15, 1989, 103 Stat. 2057, which re
 
 **(e) Satisfactory assurances required, special assurances required of Indian tribes**
 
-(1) Except as provided in paragraph (2), no grant may be made under this section or [section 5318 of this title](./chapter-069-community-development.md#section-5318) and no assistance may be made available under section 1437o 33 See References in Text note below. of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 [[42 U.S.C. 2000a](./chapter-021-civil-rights.md#section-2000a) et seq.] and the Fair Housing Act [[42 U.S.C. 3601](./chapter-045-fair-housing.md#section-3601) et seq.].
+(1) Except as provided in paragraph (2), no grant may be made under this section or [section 5318 of this title](./chapter-069-community-development.md#section-5318) and no assistance may be made available under section 1437o 1 of this title unless the grantee provides satisfactory assurances that its program will be conducted and administered in conformity with the Civil Rights Act of 1964 [[42 U.S.C. 2000a](./chapter-021-civil-rights.md#section-2000a) et seq.] and the Fair Housing Act [[42 U.S.C. 3601](./chapter-045-fair-housing.md#section-3601) et seq.].
 
 (2) No grant may be made to an Indian tribe under this section, [section 5306(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5306/a/1&num=0&edition=prelim), or [section 5318 of this title](./chapter-069-community-development.md#section-5318) unless the applicant provides satisfactory assurances that its program will be conducted and administered in conformity with title II of Public Law 90–284 [[25 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1301&num=0&edition=prelim) et seq.]. The Secretary may waive, in connection with grants to Indian tribes, the provisions of [section 5309 of this title](./chapter-069-community-development.md#section-5309) and [section 5310 of this title](./chapter-069-community-development.md#section-5310).
 
@@ -2265,7 +2265,7 @@ Subsec. (b). Pub. L. 95–128, § 108(1), (3), added subsec. (b) and struck out 
 
 Subsecs. (c) to (e). Pub. L. 95–128, § 108(3), added subsecs. (c) to (e). Former subsecs. (c) to (e) redesignated (f) to (h).
 
-Subsecs. (f), (g). Pub. L. 95–128, § 108(2), redesig­nated former subsecs. (c) and (d) as (f) and (g).
+Subsecs. (f), (g). Pub. L. 95–128, § 108(2), redesignated former subsecs. (c) and (d) as (f) and (g).
 
 Subsec. (h). Pub. L. 95–128, § 108(2), (4), (5), redesignated former subsec. (e) as (h) and substituted in first sentence “subsection (j)” for “subsection (g)”; substituted in first sentence “shall” for “may, at the option of the issuing unit of general local government or designated agency,”; and in second sentence “The Secretary is authorized to make, and to contract to make, grants, in such amounts as may be approved in appropriations Acts,” for “In the event that taxable obligations are issued and guaranteed, the Secretary is authorized to make, and to contract to make, grants”.
 
@@ -2372,7 +2372,7 @@ Pub. L. 109–364, div. A, title X, § 1071(f)(2), Oct. 17, 2006, 120 Stat. 2402
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -2559,15 +2559,15 @@ This chapter, referred to in text, was in the original “this title”, meaning
 ### Statutory Notes
 
 #### References in Text
-The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255, as amended. Title I of the Act was classified principally to subchapter I (§ 3301 et seq.) of chapter 41 of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 3331 of this title](./chapter-041-demonstration-cities-and-metropolitan-development-program.md#section-3331) and Tables.
+The Demonstration Cities and Metropolitan Development Act of 1966, referred to in subsec. (a), is Pub. L. 89–754, Nov. 3, 1966, 80 Stat. 1255. Title I of the Act was classified principally to subchapter I (§ 3301 et seq.) of chapter 41 of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 3331 of this title](./chapter-041-demonstration-cities-and-metropolitan-development-program.md#section-3331) and Tables.
 
-The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413. Title I of the Housing Act of 1949 was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
 Sections 702 and 703 of the Housing and Urban Development Act of 1965 [[42 U.S.C. 3102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3102&num=0&edition=prelim), 3103], referred to in subsec. (a), were omitted from the Code pursuant to this section which terminated the authority to make grants or loans under those sections after Jan. 1, 1975.
 
 The Housing Amendments of 1955, referred to in subsec. (a), is act Aug. 11, 1955, ch. 783, 69 Stat. 645, as amended. Title II of the Housing Amendments of 1955 was classified generally to chapter 8B (§ 1491 et seq.) of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title II after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking, and Tables.
 
-The Housing Act of 1961, referred to in subsec. (a), is Pub. L. 87–70, June 30, 1961, 87 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§ 1500 et seq.) of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking, and Tables.
+The Housing Act of 1961, referred to in subsec. (a), is Pub. L. 87–70, June 30, 1961, 87 Stat. 149. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§ 1500 et seq.) of this title, and was omitted from the Code pursuant to this section which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking, and Tables.
 
 #### Codification
 Subsecs. (c), (d), and (e) of section 116 of Pub. L. 93–383 were omitted from this section. Subsec. (c) amended [section 1453(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1453/b&num=0&edition=prelim), subsec. (d) amended section 3311(b) and (c) of this title, and subsec. (e) amended section 1452b(a) and (h) of this title.
@@ -3055,11 +3055,11 @@ Pub. L. 98–181, title I [title I, § 123], Nov. 30, 1983, 97 Stat. 1172, which
 ### Statutory Notes
 
 #### References in Text
-The Federal Deposit Insurance Act, referred to in subsec. (a)(3)(A), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(3)(A), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
 
-The Federal Credit Union Act, referred to in subsec. (a)(3)(A), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see [section 1751 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(3)(A), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12. For complete classification of this Act to the Code, see [section 1751 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (e)(5)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§ 2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (e)(5)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§ 2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Codification
 Section was enacted as the John Heinz Neighborhood Development Act and also as part of the Housing and Urban-Rural Recovery Act of 1983, the Domestic Housing and International Recovery and Financial Stability Act, and the Supplemental Appropriations Act, 1984, and not as part of title I of the Housing and Community Development Act of 1974 which comprises this chapter.
@@ -3180,7 +3180,7 @@ For funds designated under this chapter by a recipient to address the damage in 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. Title IV of the Act is classified generally to subchapter IV (§ 5170 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143. Title IV of the Act is classified generally to subchapter IV (§ 5170 et seq.) of chapter 68 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Effective Date
 Section applicable with respect to any amounts made available to carry out subchapter II (§ 12721 et seq.) of chapter 130 of this title after Apr. 11, 1994, and any amounts made available to carry out that subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out this section not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as an Effective Date of 1994 Amendment note under [section 5301 of this title](./chapter-069-community-development.md#section-5301).

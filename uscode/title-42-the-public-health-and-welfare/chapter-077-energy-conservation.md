@@ -415,13 +415,13 @@ As used in this chapter:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in introductory clause, was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in introductory clause, was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
-Act approved July 2, 1890, referred to in par. (9)(A), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
+Act approved July 2, 1890, referred to in par. (9)(A), is act July 2, 1890, ch. 647, 26 Stat. 209, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
-Act approved October 15, 1914, referred to in par. (9)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
+Act approved October 15, 1914, referred to in par. (9)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
 
-The Federal Trade Commission Act, referred to in par. (9)(C), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act, referred to in par. (9)(C), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 Act of June 19, 1936, chapter 592, referred to in par. (9)(E), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended [section 13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim) and Tables.
 
@@ -663,7 +663,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Amendments
 2000—Subsec. (b). Pub. L. 106–469 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “It is hereby declared to be the policy of the United States to provide for the creation of a Strategic Petroleum Reserve for the storage of up to 1 billion barrels of petroleum products, but not less than 150 million barrels of petroleum products by the end of the 3-year period which begins on December 22, 1975, for the purpose of reducing the impact of disruptions in supplies of petroleum products or to carry out obligations of the United States under the international energy program. It is further declared to be the policy of the United States to provide for the creation of an Early Storage Reserve, as part of the Reserve, for the purpose of providing limited protection from the impact of near-term disruptions in supplies of petroleum products or to carry out obligations of the United States under the international energy program.”
@@ -1172,7 +1172,7 @@ Jimmy Carter.
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Amendments
 2021—Subsec. (h)(2)(C), (D). Pub. L. 117–58 substituted “252,400,000” for “340,000,000”.
@@ -1389,7 +1389,7 @@ Funds available to the Secretary of Energy for obligation under this subsection 
 ### Statutory Notes
 
 #### References in Text
-Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974. Title III of that Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
+Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, known as the Congressional Budget and Impoundment Control Act of 1974. Title III of that Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Subsec. (b). Pub. L. 106–469, § 103(19)(A)(i), substituted “for test sales of petroleum products from the Reserve, and for the drawdown, sale,” for “and the drawdown” in introductory provisions.
@@ -1606,7 +1606,7 @@ Section, Pub. L. 94–163, title I, § 173, as added Pub. L. 101–383, § 6(a)(
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Prior Provisions
 A prior section 181 of Pub. L. 94–163 was renumbered section 191 and was classified to [section 6251 of this title](./chapter-077-energy-conservation.md#section-6251), prior to repeal by Pub. L. 109–58.
@@ -2017,7 +2017,7 @@ if the President determines with respect to a particular meeting, (A) that such 
 ### Statutory Notes
 
 #### References in Text
-The Federal Energy Administration Act of 1974, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, as amended, which is classified generally to chapter 16B (§ 761 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim) and Tables.
+The Federal Energy Administration Act of 1974, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, which is classified generally to chapter 16B (§ 761 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim) and Tables.
 
 Sections 10 and 11 of the Federal Advisory Committee Act, referred to in subsec. (c)(1), are sections 10 and 11 of Pub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -2026,11 +2026,11 @@ Section 17 of the Federal Energy Administration Act of 1974, referred to in subs
 #### Amendments
 1978—Subsecs. (a), (c). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 
-#### Classification of Certain Information and Material
-For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim), War and National Defense.
-
 #### Termination of Advisory Committees
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Classification of Certain Information and Material
+For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-6276"></a>
@@ -3151,7 +3151,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in subsec. (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Amendments
 2007—Subsec. (a)(14). Pub. L. 110–140, § 321(a)(2), inserted “, general service incandescent lamps,” after “fluorescent lamps”.
@@ -3211,7 +3211,7 @@ Pub. L. 102–486, title I, § 125, Oct. 24, 1992, 106 Stat. 2833, provided that
 Pub. L. 102–486, title I, § 126, Oct. 24, 1992, 106 Stat. 2834, provided that: “(a) In General.—(1) The Secretary shall, after consulting with the National Electric Manufacturers Association, the American Lighting Association, and other interested organizations, provide financial and technical assistance to support a voluntary national testing and information program for those types of luminaires that are widely used and for which there is a potential for significant energy savings as a result of such program. “(2) Such program shall—“(A) consistent with the objectives of paragraph (1), determine the luminaires to be covered under such program; “(B) include specifications for testing procedures that will enable purchasers of such luminaires to make more informed decisions about the energy efficiency and costs of alternative products; and “(C) include information, which may be disseminated through catalogs, trade publications, labels, or other mechanisms, that will allow consumers to assess the energy consumption and potential cost savings of alternative products. “(3) Such program shall be developed by an appropriate organization (composed of interested parties) according to commonly accepted procedures for the development of national testing procedures and labeling programs. “(b) Monitoring.—The Secretary shall monitor and evaluate the efforts to develop the program described in subsection (a) and, not later than three years after the date of the enactment of this Act [Oct. 24, 1992], shall make a determination as to whether the program developed is consistent with the objectives of subsection (a). “(c) Alternative System.—(1) If the Secretary makes a determination under subsection (b) that a voluntary national testing and information program for luminaires consistent with the objectives of subsection (a) has not been developed, the Secretary shall, after consultation with the National Institute of Standards and Technology, develop, not later than two years after such determination, test procedures under section 323 of the Energy Policy and Conservation Act ([42 U.S.C. 6293](./chapter-077-energy-conservation.md#section-6293)) for such luminaires. “(2) Not later than one year after the Secretary develops test procedures under paragraph (1), the Federal Trade Commission (hereafter in this section referred to as the ‘Commission’) shall prescribe labeling rules under section 324 of such Act ([42 U.S.C. 6294](./chapter-077-energy-conservation.md#section-6294)) for those luminaires for which the Secretary has prescribed test procedures under paragraph (1) except that, with respect to any type of luminaire (or class thereof), the Secretary may determine that such labeling is not technologically feasible or economically justified or is not likely to assist consumers in making purchasing decisions. “(3) For purposes of sections 323, 324, and 327 of such Act [[42 U.S.C. 6293](./chapter-077-energy-conservation.md#section-6293), 6294, 6297], each product for which the Secretary has established test procedures or labeling rules pursuant to this subsection shall be considered a new covered product under section 322 of such Act ([42 U.S.C. 6292](./chapter-077-energy-conservation.md#section-6292)) to the extent necessary to carry out this subsection. “(4) For purposes of section 327(a) of such Act, the term ‘this part’ includes this subsection to the extent necessary to carry out this subsection.”
 
 #### Report on Potential of Cooperative Advanced Appliance Development
-Pub. L. 102–486, title I, § 127, Oct. 24, 1992, 106 Stat. 2835, provided that not later than 18 months after Oct. 24, 1992, the Secretary would, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, submit to Congress, a report, based on certain criteria, on the potential for the development and commercialization of appliances substantially more efficient than required by Federal or State law.
+Pub. L. 102–486, title I, § 127, Oct. 24, 1992, 106 Stat. 2835, provided that not later than 18 months after Oct. 24, 1992, the Secretary would, in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, submit to Congress a report, based on certain criteria, on the potential for the development and commercialization of appliances substantially more efficient than required by Federal or State law.
 
 #### Evaluation of Utility Early Replacement Programs for Appliances
 Pub. L. 102–486, title I, § 128, Oct. 24, 1992, 106 Stat. 2836, required the Secretary, within 18 months after Oct. 24, 1992, and in consultation with the Administrator of the Environmental Protection Agency, utilities, and appliance manufacturers, to evaluate and report to Congress on the energy savings and environmental benefits of programs directed to the early replacement of older, less efficient appliances (as defined in subsec. (a) of this section) in use by consumers with products more efficient than required by Federal law.
@@ -3597,7 +3597,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 #### References in Text
 This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (g), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (g), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Pub. L. 115–115 substituted “(20) of section 6292(a)” for “(19) of section 6292(a)” wherever appearing.
@@ -7197,7 +7197,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (k), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2007—Subsec. (e). Pub. L. 110–140 inserted “walk-in coolers and walk-in freezers,” after “commercial clothes washers,” in two places in introductory provisions.
@@ -7524,7 +7524,7 @@ Pub. L. 102–486, title I, § 124(c), Oct. 24, 1992, 106 Stat. 2833, directed t
 ### Statutory Notes
 
 #### Codification
-Pars. (1) to (8) of [section 6326 of this title](./chapter-077-energy-conservation.md#section-6326), which was transferred to subsec. (c) of this section by Pub. L. 117–58, div. D, title I, § 40108(a)(3), Nov. 15, 2021, 135 Stat. 942, was based on Pub. L. 94–163, title III, § 366, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, § 431, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title VI, § 691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, § 2(b), Oct. 18, 1990, 104 Stat. 1006; Pub. L. 117–58, div. D, title I, § 40108(a)(2), Nov. 15, 2021, 135 Stat. 941.
+Pars. (1) to (8) of [section 6326 of this title](./chapter-077-energy-conservation.md#section-6326), which were transferred to subsec. (c) of this section by Pub. L. 117–58, div. D, title I, § 40108(a)(3), Nov. 15, 2021, 135 Stat. 942, were based on Pub. L. 94–163, title III, § 366, Dec. 22, 1975, 89 Stat. 935; Pub. L. 94–385, title IV, § 431, Aug. 14, 1976, 90 Stat. 1158; Pub. L. 95–619, title VI, § 691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 101–440, § 2(b), Oct. 18, 1990, 104 Stat. 1006; Pub. L. 117–58, div. D, title I, § 40108(a)(2), Nov. 15, 2021, 135 Stat. 941.
 
 #### Amendments
 2021—Pub. L. 117–58, § 40108(a)(1)(A), substituted “Findings; purpose; definitions” for “Congressional findings and declaration of purpose” in section catchline and, in subsec. (a), inserted heading and substituted “Congress” for “The Congress” in introductory provisions.
@@ -7536,6 +7536,9 @@ Subsec. (c). Pub. L. 117–58, § 40108(a)(1)(C), added subsec. (c).
 Subsec. (c)(1) to (8). Pub. L. 117–58, § 40108(a)(3), transferred pars. (1) to (8) of [section 6326 of this title](./chapter-077-energy-conservation.md#section-6326) to subsec. (c) of this section. See Codification note above.
 
 1978—Subsec. (b). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 #### Report on Coordination of Energy Conservation Programs
 Pub. L. 95–619, title VI, § 623, Nov. 9, 1978, 92 Stat. 3283, provided that not later than 6 months after Nov. 9, 1978, the Secretary of Energy submit a report on the coordination of Federal energy conservation programs involving State and local government.
@@ -7706,6 +7709,9 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 #### Effective Date of 1992 Amendment
 Pub. L. 102–486, title I, § 141(c)(2), Oct. 24, 1992, 106 Stat. 2841, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect January 1, 1995.”
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 #### Study Regarding Impact of Permitting Right and Left Turns on Red Lights
 Pub. L. 102–486, title I, § 141(d), Oct. 24, 1992, 106 Stat. 2841, required the Administrator of the National Highway Traffic Safety Administration, in consultation with State agencies with jurisdiction over traffic safety issues, to conduct a study on the safety impact of the requirement specified in subsec. (c)(5) of this section, particularly with respect to the impact on pedestrian safety, and to report the findings of the study to Congress and the Secretary by not later than 2 years after Oct. 24, 1992.
 
@@ -7752,7 +7758,7 @@ Pub. L. 102–486, title I, § 141(d), Oct. 24, 1992, 106 Stat. 2841, required t
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Amendments
 2021—Subsecs. (e), (f). Pub. L. 117–58 redesignated subsec. (f) as (e) and struck out former subsec. (e) which related to energy emergency planning program as prerequisite to assistance.
@@ -7767,6 +7773,9 @@ This chapter, referred to in subsec. (b)(2)(B), (3)(C), was in the original “t
 
 Subsec. (c). Pub. L. 94–385, § 432(c), inserted references to plan, measures, or systems wherever appearing and required that examinations be at reasonable times and under reasonable conditions.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-6325"></a>
 ## § 6325. Matching State contributions
@@ -7776,7 +7785,7 @@ For the base State Energy Conservation Program (part D of the Energy Policy and 
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part D of title III of the Energy Policy and Conservation Act, as amended, is classified generally to this part (§ 6321 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part D of title III of the Energy Policy and Conservation Act, as amended, is classified generally to this part (§ 6321 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Codification
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1985, as enacted by Pub. L. 98–473, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
@@ -7869,9 +7878,9 @@ Each State energy conservation plan with respect to which assistance is made ava
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (d), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
-The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§ 6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
+The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125. Part A of title IV of the Act is classified generally to part A (§ 6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
 
 #### Amendments
 2021—Subsec. (f). Pub. L. 117–58 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For the purpose of carrying out this part, there are authorized to be appropriated $125,000,000 for each of fiscal years 2007 through 2012.”
@@ -7909,6 +7918,9 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the 16th item on page 87 identifies a reporting provision which, as subsequently amended, is contained in subsec. (c) of this section and in which the 14th item on page 91 identifies a reporting provision in subsec. (g)(8) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-6341"></a>
@@ -8017,6 +8029,9 @@ Pars. (6), (7). Pub. L. 117–58, § 40108(a)(2)(C), redesignated pars. (6) and 
 1978—Pars. (1), (3)(A), (B)(ii), (4), (A), (6), (B), (B)(i). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 1976—Pub. L. 94–385 redesignated former pars. (1) and (2) as (7) and (8), respectively, and added pars. (1) to (6).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-6342"></a>
@@ -8569,6 +8584,9 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 #### Prior Provisions
 A prior section 6346, Pub. L. 94–163, title III, § 376, Dec. 22, 1975, 89 Stat. 938; Pub. L. 95–619, title IV, § 461(d)(1), title VI, § 691(b)(2), Nov. 9, 1978, 92 Stat. 3275, 3288, set forth general provisions relating to compliance with former part C reporting requirements, use of information, and absence of liability for failure to meet energy efficiency improvement targets, prior to repeal by Pub. L. 99–509, title III, § 3101(b), Oct. 21, 1986, 100 Stat. 1888.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-6349"></a>
@@ -9577,9 +9595,9 @@ No grant for a project (other than so much of a grant as is used for a prelimina
 ### Statutory Notes
 
 #### References in Text
-This part, referred to in text, means part 2 (§§ 310–312) of title III of Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3248, as amended, which enacted sections 6371j and 6372 to 6372i of this title and enacted provisions set out as a note under [section 6372 of this title](./chapter-077-energy-conservation.md#section-6372). For complete classification of this part to the Code, see Tables.
+This part, referred to in text, means part 2 (§§ 310–312) of title III of Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3248, which enacted sections 6371j and 6372 to 6372i of this title and enacted provisions set out as a note under [section 6372 of this title](./chapter-077-energy-conservation.md#section-6372). For complete classification of this part to the Code, see Tables.
 
-Part 1, referred to in text, means part 1 (§§ 301–304) of title III of Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3238, as amended, which enacted sections 6371 to 6371i of this title, amended sections 300k–2 and 300n–1 of this title, and enacted provisions set out as notes under sections 6371 of this title. For complete classification of this part to the Code, see Tables.
+Part 1, referred to in text, means part 1 (§§ 301–304) of title III of Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3238, which enacted sections 6371 to 6371i of this title, amended sections 300k–2 and 300n–1 of this title, and enacted provisions set out as notes under sections 6371 of this title. For complete classification of this part to the Code, see Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in text, is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -10320,7 +10338,7 @@ The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c)(3), i
 Section, Pub. L. 94–163, title V, § 522, Dec. 22, 1975, 89 Stat. 961; Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–619, title VI, § 691(b)(2), Nov. 9, 1978, 92 Stat. 3288, related to conflicts of interest.
 
 #### Effective Date of Repeal
-For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-6395"></a>
@@ -10409,7 +10427,7 @@ This title, referred to in par. (1), is title V of Pub. L. 94–163, Dec. 22, 19
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (d) and (e), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (d) and (e), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 [Section 6262 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6262&num=0&edition=prelim), referred to in subsec. (e)(2)(A), was repealed by Pub. L. 106–469, title I, § 104(1), Nov. 9, 2000, 114 Stat. 2033.
 
@@ -10443,7 +10461,7 @@ Any authorization of appropriations in this Act, or in any amendment to any othe
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act, which is classified principally to this chapter (§ 6201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This Act, referred to in text, means Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act, which is classified principally to this chapter (§ 6201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 
 <a id="section-6401"></a>
@@ -10454,7 +10472,7 @@ No provision of this chapter shall permit the imposition of any price controls o
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Transfer of Functions
 “Secretary or the Federal Energy Regulatory Commission” substituted for “Federal Power Commission” pursuant to sections 301(a), 402, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7172, 7293, and 7297 of this title and which terminated the Federal Power Commission and transferred its functions to the Federal Energy Regulatory Commission and the Secretary of Energy.
@@ -10468,7 +10486,7 @@ Loan guarantees and obligation guarantees under this Act or any amendment to ano
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act, which is classified principally to this chapter (§ 6201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+This Act, referred to in text, means Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, known as the Energy Policy and Conservation Act, which is classified principally to this chapter (§ 6201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 
 <a id="section-6422"></a>

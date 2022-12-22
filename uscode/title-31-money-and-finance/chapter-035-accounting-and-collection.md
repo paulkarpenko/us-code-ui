@@ -558,7 +558,7 @@ In subsection (b), the words “the Mayor of the District of Columbia” are omi
 In subsection (c), the words “made by him” are omitted as surplus. The words “head of the” are added for consistency. The words “to recover the illegal, improper, or incorrect payment in accordance with procedures” are omitted as surplus.
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2008—Subsec. (i). Pub. L. 110–323 added subsec. (i).
@@ -1360,10 +1360,10 @@ Amendment by Pub. L. 110–161 applicable with respect to fiscal year 2008 and e
 Pub. L. 108–375, div. A, title III, § 326(d), Oct. 28, 2004, 118 Stat. 1848, provided that: “The amendments made by this section [amending this section and sections 3552 and 3553 of this title] shall apply to protests filed under subchapter V of chapter 35 of title 31, United States Code, that relate to studies initiated under Office of Management and Budget Circular A–76 on or after the end of the 90-day period beginning on the date of the enactment of this Act [Oct. 28, 2004].”
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date
 Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
@@ -1398,10 +1398,10 @@ Amendment by Pub. L. 108–375 applicable to protests filed under this subchapte
 Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, div. E, title LVII, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 4751 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4751&num=0&edition=prelim), Armed Forces.
 
 #### Construction of 2004 Amendment
 Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapter with regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under [section 3551 of this title](./chapter-035-accounting-and-collection.md#section-3551).
@@ -1534,15 +1534,15 @@ Subsec. (f). Pub. L. 103–355, § 1403(c), designated existing provisions as pa
 Amendment by Pub. L. 108–375 applicable to protests filed under this subchapter that relate to studies initiated under Office of Management and Budget Circular A–76 on or after the end of the 90-day period beginning on Oct. 28, 2004, see section 326(d) of Pub. L. 108–375, set out as a note under [section 3551 of this title](./chapter-035-accounting-and-collection.md#section-3551).
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by section 4321(d)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by section 4321(d)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 Amendment by section 5501(1) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, div. E, title LVII, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 4751 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4751&num=0&edition=prelim), Armed Forces.
 
 #### Construction of 2004 Amendment
 Amendment by Pub. L. 108–375 not to be construed to authorize the use of a protest under this subchapter with regard to a decision made by an agency tender official, see section 326(e) of Pub. L. 108–375, set out as a note under [section 3551 of this title](./chapter-035-accounting-and-collection.md#section-3551).
@@ -1679,15 +1679,15 @@ Committee on Government Reform and Oversight of House of Representatives changed
 Amendment by Pub. L. 111–84 applicable to any protest or civil action that relates to a public-private competition conducted after Oct. 28, 2009, under Office of Management and Budget Circular A–76, or any successor circular, and to a decision made after Oct. 28, 2009, to convert a function performed by Federal employees to private sector performance without a competition under Office of Management and Budget Circular A–76, see section 327(d) of Pub. L. 111–84, set out as a note under [section 3551 of this title](./chapter-035-accounting-and-collection.md#section-3551).
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by section 4321(d)(3) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by section 4321(d)(3) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 Amendment by section 5501(2) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, div. E, title LVII, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 4751 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4751&num=0&edition=prelim), Armed Forces.
 
 #### Inclusion of Information on Common Grounds for Sustaining Bid Protests in Annual Government Accountability Office Reports to Congress
 Pub. L. 114–328, div. A, title VIII, § 889, Dec. 23, 2016, 130 Stat. 2323, provided that: “The Comptroller General of the United States shall include in the annual report to Congress on the Government Accountability Office each year a list of the most common grounds for sustaining protests relating to bids for contracts during such year.”
@@ -1744,10 +1744,10 @@ Pub. L. 103–355, title I, § 1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, provid
 Subsecs. (b) to (d). Pub. L. 103–355, § 1404(a), (b), added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 4751 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4751&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-3556"></a>
@@ -1769,7 +1769,7 @@ Amendment by Pub. L. 104–320 effective Jan. 1, 2001, see section 12(f) of Pub.
 Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under [section 171 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section171&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
 #### Effective Date
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under [section 4751 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4751&num=0&edition=prelim), Armed Forces.
 
 #### Nonexclusivity of GAO Remedies
 Pub. L. 104–320, § 12(f), Oct. 19, 1996, 110 Stat. 3876, provided that: “In the event that the bid protest jurisdiction of the district courts of the United States is terminated pursuant to subsection (d) [set out as a Sunset Provision note under [section 1491 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1491&num=0&edition=prelim), Judiciary and Judicial Procedure], then [section 3556 of title 31](./chapter-035-accounting-and-collection.md#section-3556), United States Code, shall be amended by striking ‘a court of the United States or’ in the first sentence.” [Bid protest jurisdiction of the district courts of the United States terminated on Jan. 1, 2001, pursuant to section 12(d) of Pub. L. 104–320.]

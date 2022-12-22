@@ -6508,14 +6508,11 @@ Section, Pub. L. 92–181, title VIII, § 8.7, as added Pub. L. 100–233, title
 
 (1) **In general** — A loan secured by agricultural real estate may not be treated as a qualified loan if the principal amount of such loan exceeds $2,500,000, adjusted for inflation, except as provided in paragraph (2).
 
-(2) **Acreage exception** — Paragraph (1) shall not apply with respect to any agricultural mortgage loan described in such paragraph if such loan is secured by agricultural real estate that, in the aggregate, comprises not more than 1,000 acres.
+(2) **Acreage exception** — Paragraph (1) shall not apply with respect to any agricultural mortgage loan described in such paragraph if such loan is secured by agricultural real estate that, in the aggregate, comprises not more than 2,000 acres.
 
 **(d) Nondiscrimination requirement** The standards established under subsection (a) shall not discriminate against small originators or small agricultural mortgage loans that are at least $50,000. The Board shall promote and encourage the inclusion of qualified loans for small farms and family farmers in the agricultural mortgage secondary market.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(2)
-Pub. L. 115–334, title V, § 5410, Dec. 20, 2018, 132 Stat. 4678, provided that, effective 1 year after the date a report submitted in accordance with section 5414 of Pub. L. 115–334 indicates that it is feasible to increase the acreage limitation in subsection (c)(2) of this section to 2,000 acres, subsection (c)(2) of this section is amended by striking “1,000” and inserting “2,000”. See 2018 Amendment note below.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

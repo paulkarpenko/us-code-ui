@@ -291,7 +291,7 @@ After September 30, 1985, no part of any appropriation (except trust funds) to t
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Sections 6(b)(2), 6(i), and 9(b) of the Maine Indian Claims Settlement Act of 1980, referred to in text, are sections 6(b)(2), (i) and 9(b) of Pub. L. 96–420, which were classified to sections 1725(b)(2), (i) and 1728(b) of this title prior to omission from the Code as being of special and not general application.
 
@@ -309,7 +309,7 @@ except that where a State ratably reduces its AFDC or State program payments, th
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in par. (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in par. (2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–193, § 110(k), which directed the general amendment of the “4th proviso of chapter VII of title I of Public Law 99–88 ([25 U.S.C. 13d–1](./chapter-001-bureau-of-indian-affairs.md#section-13d-1))”, was executed by amending this section, which is the 4th proviso under heading “Bureau of Indian Affairs” of chapter VII of title I of Pub. L. 99–88, to reflect the probable intent of Congress. Prior to amendment, this section read as follows: “General assistance payments made by the Bureau of Indian Affairs after April 29, 1985, shall be made on the basis of Aid to Families with Dependent Children (AFDC) standards of need except where a State ratably reduces AFDC payments in which event the Bureau shall reduce general assistance payments in such State by the same percentage as the State has reduced the AFDC payment.”

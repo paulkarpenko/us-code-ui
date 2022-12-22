@@ -29,7 +29,7 @@ A prior section 7501, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 527, related to 
 2015—Par. (1). Pub. L. 114–92 substituted “or, except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), who” for “or who”.
 
 #### Effective Date of 2021 Amendment
-For repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), effective Dec. 31, 2022, which effective date is applied to the amendment by Pub. L. 117–81 to this section to reflect the probable intent of Congress, see Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 117–81 applied as if effective Dec. 31, 2022, to correspond to the effective date of the repeal of [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces, to reflect the probable intent of Congress. See Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).
 
 #### Effective Date
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
@@ -156,7 +156,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 ### Statutory Notes
 
 #### Amendment of Subsection (a)(1)(A)(ii)
-Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(D), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), provided that subsection (a)(1)(A)(ii) of this section is amended by striking out “except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim),” before “who has completed 1 year”. See 2021 Amendment note below.
+Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(D), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), provided that subsection (a)(1)(A)(ii) of this section is amended by striking out “except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim),”. See 2021 Amendment note below.
 
 #### References in Text
 Section 103 of the Foreign Service Act of 1980, referred to in subsec. (b)(6), is classified to [section 3903 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3903&num=0&edition=prelim), Foreign Relations and Intercourse.
@@ -216,7 +216,7 @@ Subsec. (b)(10). Pub. L. 102–378, § 6(a)(2)–(4), added par. (10).
 “(c) The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office.”
 
 #### Effective Date of 2021 Amendment
-For repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), effective Dec. 31, 2022, which effective date is applied to the amendment by Pub. L. 117–81 to this section to reflect the probable intent of Congress, see Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 117–81 applied as if effective Dec. 31, 2022, to correspond to the effective date of the repeal of [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces, to reflect the probable intent of Congress. See Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. L. 104–201, set out as a note under [section 1593 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1593&num=0&edition=prelim), Armed Forces.
@@ -557,7 +557,7 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(E), Dec. 27, 2021, 135
 2015—Par. (1)(A). Pub. L. 114–92 inserted “or [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)” after “this title”.
 
 #### Effective Date of 2021 Amendment
-For repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), effective Dec. 31, 2022, which effective date is applied to the amendment by Pub. L. 117–81 to this section to reflect the probable intent of Congress, see Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 117–81 applied as if effective Dec. 31, 2022, to correspond to the effective date of the repeal of [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces, to reflect the probable intent of Congress. See Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).
 
 #### Effective Date
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415 of Pub. L. 95–454, set out as a note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).

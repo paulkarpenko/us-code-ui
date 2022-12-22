@@ -148,7 +148,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(14), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 2018—Subsec. (c)(12). Pub. L. 115–254 added par. (12) and struck out former par. (12). Prior to amendment, text read as follows: “Programs of the Overseas Private Investment Corporation.”
@@ -465,7 +465,7 @@ Functions of President under this section relating to Enterprise Funds for Polan
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 In subsec. (c)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) and following)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -523,7 +523,7 @@ There are authorized to be appropriated to carry out programs in Poland and Hung
 ### Statutory Notes
 
 #### References in Text
-The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 
 <a id="section-5441"></a>
@@ -634,7 +634,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (i), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
@@ -674,7 +674,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 
 <a id="section-5461"></a>
@@ -708,7 +708,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Foreign Assistance Act of 1961 are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 
 <a id="section-5462"></a>
@@ -728,7 +728,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 The Foreign Operations, Export Financing, and Related Programs Appropriations Act, referred to in subsec. (b)(2), is for fiscal year 1990, Pub. L. 101–167, Nov. 21, 1989, 103 Stat. 1195. For complete classification of this and other Foreign Operations, Export Financing, and Related Programs Appropriations Acts to the Code, see Tables.
 
@@ -896,7 +896,7 @@ Section 634A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2394–1](./chapt
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
 

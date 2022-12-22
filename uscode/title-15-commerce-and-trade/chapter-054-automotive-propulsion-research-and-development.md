@@ -140,9 +140,9 @@ The Secretary of Transportation, in furtherance of the purposes of this chapter,
 ### Statutory Notes
 
 #### References in Text
-The Energy Reorganization Act of 1974 ([42 U.S.C. 5801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5801&num=0&edition=prelim) et seq.), referred to in subsec. (e), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§ 5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5801&num=0&edition=prelim) and Tables.
+The Energy Reorganization Act of 1974 ([42 U.S.C. 5801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5801&num=0&edition=prelim) et seq.), referred to in subsec. (e), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5801&num=0&edition=prelim) and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974 ([42 U.S.C. 5901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) et seq.), referred to in subsec. (e), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974 ([42 U.S.C. 5901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) et seq.), referred to in subsec. (e), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
 
 
 <a id="section-2706"></a>
@@ -156,9 +156,9 @@ The Federal Nonnuclear Energy Research and Development Act of 1974 ([42 U.S.C. 5
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
-The Noise Control Act of 1972 ([42 U.S.C. 4901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4901&num=0&edition=prelim) et seq.), referred to in subsec. (b), is Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified principally to chapter 65 (§ 4901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 4901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4901&num=0&edition=prelim) and Tables.
+The Noise Control Act of 1972 ([42 U.S.C. 4901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4901&num=0&edition=prelim) et seq.), referred to in subsec. (b), is Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, which is classified principally to chapter 65 (§ 4901 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 4901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4901&num=0&edition=prelim) and Tables.
 
 
 <a id="section-2707"></a>

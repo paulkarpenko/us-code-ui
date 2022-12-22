@@ -2,7 +2,7 @@
 title: 35
 chapter: '2'
 heading: PROCEEDINGS IN THE PATENT AND TRADEMARK OFFICE
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title35&num=0&edition=prelim
 ---
@@ -171,3 +171,35 @@ The Director may establish procedures, including the requirement for payment of 
 
 #### Effective Date
 Pub. L. 112–211, title II, § 203, Dec. 18, 2012, 126 Stat. 1536, provided that: “(a) In General.—The amendments made by this title [enacting this section and [section 151 of this title](./chapter-014-issue-of-patent.md#section-151), amending sections 41, 111, 119, 120, 122, 133, 171, 261, 361, 364, 365, and 371 of this title, and repealing [section 151 of this title](./chapter-014-issue-of-patent.md#section-151)]—“(1) shall take effect on the date that is 1 year after the date of the enactment of this Act [Dec. 18, 2012]; and “(2) shall apply to—“(A) any patent issued before, on, or after the effective date set forth in paragraph (1); and “(B) any application for patent that is pending on or filed after the effective date set forth in paragraph (1). “(b) Exceptions.—“(1) Section 201(a).—The amendments made by section 201(a) [amending [section 111 of this title](./chapter-011-application-for-patent.md#section-111)] shall apply only to applications that are filed on or after the effective date set forth in subsection (a)(1). “(2) Patents in litigation.—The amendments made by this title shall have no effect with respect to any patent that is the subject of litigation in an action commenced before the effective date set forth in subsection (a)(1).”
+
+
+<a id="section-28"></a>
+## § 28. Award of certificates to accelerate certain matters at the Patent and Trademark Office
+**(a) Definition.—** In this section, the term “eligible entity” means an entity that—
+
+(1) submits an application under subsection (d) for a patent that addresses a humanitarian issue; and
+
+(2) meets the requirements specified by the Director.
+
+**(b) Establishment.—** There is established a competition, to be held not less frequently than biennially, to award eligible entities certificates that can be redeemed to accelerate one of the following matters:
+
+(1) An ex parte reexamination proceeding, including 1 appeal to the Patent Trial and Appeal Board from that proceeding.
+
+(2) An application for a patent, including 1 appeal to the Patent Trial and Appeal Board from that application.
+
+(3) An appeal to the Patent Trial and Appeal Board of a claim twice rejected in a patent application or reissue application or finally rejected in an ex parte reexamination, without accelerating the underlying matter that generated the appeal.
+
+(4) A matter identified by the Director.
+
+**(c) Administration.—** The Director shall administer the competition established under subsection (b).
+
+**(d) Application.—** An entity seeking an award under subsection (b) shall submit to the Director an application at such time, in such manner, and containing such information as the Director may require.
+
+**(e) Promotion of Competition.—** The Director shall promote the competition established under subsection (b) through the satellite offices established pursuant to section 1.
+
+**(f) Treatment as Successor.—** The competition established under subsection (b) shall be treated as a successor to the Patents for Humanity Program (established in the notice entitled “Humanitarian Awards Pilot Program”, published at 77 Fed. Reg. 6544 (February 8, 2012)).
+
+### Statutory Notes
+
+#### Rule of Construction
+Pub. L. 117–245, § 2(b), Dec. 20, 2022, 136 Stat. 2344, provided that: “Nothing in this section [enacting this section], or the amendments made by this section, may be construed as affecting any action taken by the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office before the date of enactment of this Act [Dec. 20, 2022] with respect to the administration of the Patents for Humanity Program established in the notice entitled ‘Humanitarian Awards Pilot Program’, published at 77 Fed. Reg. 6544 (February 8, 2012).”

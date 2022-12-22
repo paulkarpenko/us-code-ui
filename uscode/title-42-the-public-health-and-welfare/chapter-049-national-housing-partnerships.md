@@ -23,7 +23,7 @@ The Congress finds that the volume of housing being produced for families and in
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Business Corporation Act, referred to in subsec. (a), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (a), is act June 8, 1954, ch. 269, 68 Stat. 179, which is not classified to the Code.
 
 
 <a id="section-3933"></a>
@@ -82,7 +82,7 @@ The corporation shall have the power to create and issue the number of shares st
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Business Corporation Act, referred to in subsec. (c), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (c), is act June 8, 1954, ch. 269, 68 Stat. 179, which is not classified to the Code.
 
 #### Codification
 In subsec. (d), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act ([40 U.S.C. 267a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section267a&num=0&edition=prelim)—276a–5)”, meaning [40 U.S.C. 276a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276a&num=0&edition=prelim)—276a–5, on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -116,9 +116,9 @@ Subsec. (e). Pub. L. 98–479, § 104(c)(2), added subsec. (e).
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Uniform Limited Partnership Act, referred to in subsecs. (a) and (h), is Pub. L. 87–716, Sept. 28, 1962, 76 Stat. 655, as amended, which is not classified to the Code.
+The District of Columbia Uniform Limited Partnership Act, referred to in subsecs. (a) and (h), is Pub. L. 87–716, Sept. 28, 1962, 76 Stat. 655, which is not classified to the Code.
 
-The District of Columbia Uniform Partnership Act, referred to in subsec. (b), is Pub. L. 87–709, Sept. 27, 1962, 76 Stat. 636, as amended, which is not classified to the Code.
+The District of Columbia Uniform Partnership Act, referred to in subsec. (b), is Pub. L. 87–709, Sept. 27, 1962, 76 Stat. 636, which is not classified to the Code.
 
 
 <a id="section-3938"></a>

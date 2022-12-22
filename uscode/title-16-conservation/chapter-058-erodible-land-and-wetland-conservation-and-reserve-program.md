@@ -268,9 +268,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### References in Text
 The Agricultural Market Transition Act, referred to in subsec. (a)(1)(A), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 7201 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7201&num=0&edition=prelim) and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (a)(1)(E), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1501 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1501&num=0&edition=prelim) and Tables.
 
@@ -438,7 +438,7 @@ Section 2611(a) of the Agricultural Act of 2014, referred to in subsec. (a)(2)(C
 
 This chapter, referred to in subsec. (c)(1)(B), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former [section 2005a of this title](./chapter-040-soil-and-water-resources-conservation.md#section-2005a) and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under [section 1981 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1981&num=0&edition=prelim).
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Title X of the Act enacted [section 1446h of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1446h&num=0&edition=prelim) and amended [section 1425a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1425a&num=0&edition=prelim). Title XII of the Act, known as the Forest Stewardship Act of 1990, is classified principally to amended chapter 41 (§ 2101 et seq.) of this title. Title XIII of the Act enacted sections 138 to 138i and 499b–1 of Title 7, amended sections 499c, 608c, and 608e–1 of Title 7, and enacted provisions set out as notes under sections 499a and 1622 of Title 7. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (g)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359. Title X of the Act enacted [section 1446h of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1446h&num=0&edition=prelim) and amended [section 1425a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1425a&num=0&edition=prelim). Title XII of the Act, known as the Forest Stewardship Act of 1990, is classified principally to amended chapter 41 (§ 2101 et seq.) of this title. Title XIII of the Act enacted sections 138 to 138i and 499b–1 of Title 7, amended sections 499c, 608c, and 608e–1 of Title 7, and enacted provisions set out as notes under sections 499a and 1622 of Title 7. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -689,9 +689,9 @@ The Secretary shall, as soon as is practicable after December 23, 1985, complete
 #### References in Text
 The Agricultural Market Transition Act, referred to in subsec. (b)(1), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 7201 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7201&num=0&edition=prelim) and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (c)(1)(A), (3)(A), (E)(i), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1501 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1501&num=0&edition=prelim) and Tables.
 
@@ -2862,7 +2862,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 <a id="section-3839aa-2"></a>
 ## § 3839aa–2. Establishment and administration
-**(a) Establishment** During each of the 2002 through 2023 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.
+**(a) Establishment** During each of the 2002 through 2031 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.
 
 **(b) Practices and term**
 
@@ -2960,7 +2960,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) *Fiscal years 2014 through 2018* — For each of fiscal years 2014 through 2018, at least 5 percent of the funds made available for payments under the program shall be targeted at practices benefitting wildlife habitat under subsection (g).
 
-  (B) *Fiscal years 2019 through 2023* — For each of fiscal years 2019 through 2023, at least 10 percent of the funds made available for payments under the program shall be targeted at practices benefitting wildlife habitat under subsection (g).
+  (B) *Fiscal years 2019 through 2031* — For each of fiscal years 2019 through 2031, at least 10 percent of the funds made available for payments under the program shall be targeted at practices benefitting wildlife habitat under subsection (g).
 
 **(g) Wildlife habitat incentive program**
 
@@ -3132,6 +3132,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3839aa–2, Pub. L. 99–198, title XII, § 1240B, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 998, related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–169, § 21001(c)(1)(A), substituted “2031” for “2023”.
+
+Subsec. (f)(2)(B). Pub. L. 117–169, § 21001(c)(1)(B), substituted “2031” for “2023” in heading and text.
+
 2018—Subsec. (a). Pub. L. 115–334, § 2304(a), substituted “2023” for “2019”.
 
 Pub. L. 115–123 added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “During each of the 2002 through 2018 fiscal years, the Secretary shall provide payments to producers that enter into contracts with the Secretary under the program.”
@@ -3317,7 +3321,7 @@ Pub. L. 113–79, title II, § 2101(b), Feb. 7, 2014, 128 Stat. 728, provided th
 
 <a id="section-3839aa-22"></a>
 ## § 3839aa–22. Conservation stewardship program
-**(a) Establishment and purpose** During each of fiscal years 2019 through 2023, the Secretary shall carry out a conservation stewardship program to encourage producers to address priority resource concerns and improve and conserve the quality and condition of natural resources in a comprehensive manner—
+**(a) Establishment and purpose** During each of fiscal years 2019 through 2031, the Secretary shall carry out a conservation stewardship program to encourage producers to address priority resource concerns and improve and conserve the quality and condition of natural resources in a comprehensive manner—
 
 (1) by undertaking additional conservation activities; and
 
@@ -3351,6 +3355,8 @@ Section was formerly classified to [section 3838e of this title](https://uscode.
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–169 substituted “2031” for “2023” in introductory provisions.
+
 2018—Subsec. (a). Pub. L. 115–334, § 2308(b)(1), substituted “2019 through 2023” for “2014 through 2018” in introductory provisions.
 
 Subsec. (b)(1)(C). Pub. L. 115–334, § 2301(d)(1)(C), struck out subpar. (C) which read as follows: “Land enrolled in the conservation security program.”
@@ -3635,7 +3641,7 @@ Subsec. (e)(3)(B). Pub. L. 115–334, § 2308(c)(4)(D), substituted “to adopt 
 
 (2) **Allocation**
 
-  (A) *In general* — Using funds made available for the program for each of fiscal years 2019 through 2023, the Secretary shall allocate funding to States to support organic production and transition to organic production through paragraph (1).
+  (A) *In general* — Using funds made available for the program for each of fiscal years 2019 through 2031, the Secretary shall allocate funding to States to support organic production and transition to organic production through paragraph (1).
 
   (B) *Determination* — The Secretary shall determine the allocation to a State under subparagraph (A) based on—
 
@@ -3666,6 +3672,8 @@ Section was formerly classified to [section 3838g of this title](https://uscode.
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (h)(2)(A). Pub. L. 117–169 substituted “2031” for “2023”.
+
 2018—Subsec. (b). Pub. L. 115–334, § 2308(d)(1), substituted “allocate funding” for “allocate acres” in introductory provisions.
 
 Subsec. (c). Pub. L. 115–334, § 2308(d)(2), (3), redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “During the period beginning on February 7, 2014, and ending on September 30, 2022, the Secretary shall, to the maximum extent practicable—
@@ -3995,7 +4003,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 (1) **Implementation assistance** — The Secretary shall provide payments under this subsection to producers to implement practices to address air quality concerns from agricultural operations and to meet Federal, State, and local regulatory requirements. The funds shall be made available on the basis of air quality concerns in a State and shall be used to provide payments to producers that are cost effective and reflect innovative technologies.
 
-(2) **Funding** — Of the funds made available to carry out this subpart, the Secretary shall carry out this subsection using $37,500,000 for each of fiscal years 2019 through 2023.
+(2) **Funding** — Of the funds made available to carry out this subpart, the Secretary shall carry out this subsection using $37,500,000 for each of fiscal years 2019 through 2031.
 
 **(c) On-farm conservation innovation trials**
 
@@ -4029,7 +4037,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
     (ii) any other conservation approach approved by the Secretary as new or innovative.
 
-(2) **Testing new or innovative conservation approaches** — Using $25,000,000 of the funds made available to carry out this subpart for each of fiscal years 2019 through 2023, the Secretary shall carry out on-farm conservation innovation trials, on eligible land of producers, to test new or innovative conservation approaches—
+(2) **Testing new or innovative conservation approaches** — Using $25,000,000 of the funds made available to carry out this subpart for each of fiscal years 2019 through 2031, the Secretary shall carry out on-farm conservation innovation trials, on eligible land of producers, to test new or innovative conservation approaches—
 
   (A) directly with producers; or
 
@@ -4120,6 +4128,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3839aa–8, Pub. L. 99–198, title XII, § 1240H, as added Pub. L. 104–127, title III, § 334, Apr. 4, 1996, 110 Stat. 1002, related to temporary administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 
 #### Amendments
+2022—Subsecs. (b)(2), (c)(2). Pub. L. 117–169 substituted “2031” for “2023”.
+
 2018—Subsec. (a)(1). Pub. L. 115–334, § 2301(d)(1)(J), substituted “this subpart” for “this part”.
 
 Subsec. (a)(2)(A). Pub. L. 115–334, § 2307(a)(1), substituted “program or community colleges (as defined in [section 3319e(a) of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3319e/a&num=0&edition=prelim)) carrying out demonstration projects on land of the community college;” for “program;”.
@@ -4270,7 +4280,7 @@ Pub. L. 113–79, title II, § 2706, Feb. 7, 2014, 128 Stat. 769, provided that:
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section601&num=0&edition=prelim) and Tables.
+The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -4601,7 +4611,7 @@ Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that n
 
 <a id="section-3841"></a>
 ## § 3841. Commodity Credit Corporation
-**(a) Annual funding** For each of fiscal years 2014 through 2023, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
+**(a) Annual funding** For each of fiscal years 2014 through 2031, the Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out the following programs under this chapter (including the provision of technical assistance):
 
 (1) The conservation reserve program under subpart B of part I of subchapter IV, including, to the maximum extent practicable—
 
@@ -4621,7 +4631,7 @@ Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that n
 
   (E) $250,000,000 for fiscal year 2018; and
 
-  (F) $450,000,000 for each of fiscal years 2019 through 2023.
+  (F) $450,000,000 for each of fiscal years 2019 through 2031.
 
 (3) The programs under part IV of subchapter IV, using, to the maximum extent practicable—
 
@@ -4635,7 +4645,7 @@ Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that n
 
     (iv) $1,850,000,000 for fiscal year 2022; and
 
-    (v) $2,025,000,000 for fiscal year 2023; and
+    (v) $2,025,000,000 for each of fiscal years 2023 through 2031; and
 
   (B) for the conservation stewardship program under subpart B of part IV of subchapter IV—
 
@@ -4647,11 +4657,11 @@ Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that n
 
     (iv) $800,000,000 for fiscal year 2022; and
 
-    (v) $1,000,000,000 for fiscal year 2023.
+    (v) $1,000,000,000 for each of fiscal years 2023 through 2031.
 
 (4) The conservation stewardship program under subpart B of part II of subchapter IV (as in effect on the day before December 20, 2018), using such sums as are necessary to administer contracts entered into before December 20, 2018.
 
-**(b) Availability of funds** Amounts made available by subsection (a) for fiscal years 2014 through 2023 shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
+**(b) Availability of funds** Amounts made available by subsection (a) for fiscal years 2014 through 2031 shall be used by the Secretary to carry out the programs specified in such subsection and shall remain available until expended.
 
 **(c) Technical assistance**
 
@@ -4727,13 +4737,13 @@ Pub. L. 107–206, title I, § 103, Aug. 2, 2002, 116 Stat. 823, provided that n
 
     (ii) 5 percent to assist socially disadvantaged farmers or ranchers.
 
-  (B) *Fiscal years 2019 through 2023* — Of the funds made available for each of fiscal years 2019 through 2023 to carry out the environmental quality incentives program under subpart A of part IV of subchapter IV and the conservation stewardship program under subpart B of part IV of subchapter IV, the Secretary shall use, to the maximum extent practicable—
+  (B) *Fiscal years 2019 through 2031* — Of the funds made available for each of fiscal years 2019 through 2031 to carry out the environmental quality incentives program under subpart A of part IV of subchapter IV and the conservation stewardship program under subpart B of part IV of subchapter IV, the Secretary shall use, to the maximum extent practicable—
 
     (i) 5 percent to assist beginning farmers or ranchers; and
 
     (ii) 5 percent to assist socially disadvantaged farmers or ranchers.
 
-(2) **Repooling of funds** — In any fiscal year, amounts not obligated under paragraph (1) by a date determined by the Secretary shall be available for payments and technical assistance to all persons eligible for payments or technical assistance in that fiscal year under the environmental quality incentives program and, in the case of fiscal years 2019 through 2023, under the conservation stewardship program under subpart B of part IV of subchapter IV.
+(2) **Repooling of funds** — In any fiscal year, amounts not obligated under paragraph (1) by a date determined by the Secretary shall be available for payments and technical assistance to all persons eligible for payments or technical assistance in that fiscal year under the environmental quality incentives program and, in the case of fiscal years 2019 through 2031, under the conservation stewardship program under subpart B of part IV of subchapter IV.
 
 (3) **Repooling of acres** — In any fiscal year through fiscal year 2018, acres not obligated under paragraph (1)(A) by a date determined by the Secretary shall be available for use in that fiscal year under the conservation stewardship program.
 
@@ -4795,6 +4805,18 @@ A prior section 3841, Pub. L. 99–198, title XII, § 1241, as added Pub. L. 104
 Another prior section 3841, Pub. L. 99–198, title XII, § 1241, Dec. 23, 1985, 99 Stat. 1514, related to use of Commodity Credit Corporation, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–169, § 21001(c)(5)(A)(i), substituted “2031” for “2023” in introductory provisions.
+
+Subsec. (a)(2)(F). Pub. L. 117–169, § 21001(c)(5)(A)(ii), substituted “2031” for “2023”.
+
+Subsec. (a)(3)(A)(v), (B)(v). Pub. L. 117–169, § 21001(c)(5)(A)(iii), substituted “each of fiscal years 2023 through 2031” for “fiscal year 2023”.
+
+Subsec. (b). Pub. L. 117–169, § 21001(c)(5)(B), substituted “2031” for “2023”.
+
+Subsec. (h). Pub. L. 117–169, § 21001(c)(5)(C)(ii), substituted “2031” for “2023” wherever appearing in text.
+
+Subsec. (h)(1)(B). Pub. L. 117–169, § 21001(c)(5)(C)(i), substituted “2031” for “2023” in heading.
+
 2018—Subsec. (a). Pub. L. 115–334, § 2501(a)(1), substituted “2023” for “2018 (and fiscal year 2019 in the case of the program specified in paragraph (5))” in introductory provisions.
 
 Pub. L. 115–123, § 60102(b)(1)(A), substituted “2018 (and fiscal year 2019 in the case of the program specified in paragraph (5))” for “2018” in introductory provisions.
@@ -5162,7 +5184,6 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Section, Pub. L. 99–198, title XII, § 1243, as added Pub. L. 104–127, title III, § 341, Apr. 4, 1996, 110 Stat. 1008; amended Pub. L. 107–171, title II, §§ 2003, 2006(d), May 13, 2002, 116 Stat. 233, 237; Pub. L. 110–234, title II, § 2707, May 22, 2008, 122 Stat. 1077; Pub. L. 110–246, § 4(a), title II, § 2707, June 18, 2008, 122 Stat. 1664, 1805, related to cooperative conservation partnership initiative.
 
-#### Prior Provisions
 A prior section 3843, Pub. L. 99–198, title XII, § 1243, Dec. 23, 1985, 99 Stat. 1515; Pub. L. 101–624, title XIV, § 1442, Nov. 28, 1990, 104 Stat. 3602, which related to administration of this chapter, was omitted in the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Repeal; Transitional Provisions
@@ -5385,7 +5406,7 @@ Pub. L. 113–79, title II, § 2710, Feb. 7, 2014, 128 Stat. 770, provided that:
 
 (3) **Reservation of funds**
 
-  (A) *In general* — In each of fiscal years 2019 through 2023, the Secretary shall use to carry out this subsection not less than 10 percent of any funds available for conservation programs administered by the Secretary under this chapter (other than the conservation reserve program established under subpart B of part I of subchapter IV).
+  (A) *In general* — In each of fiscal years 2019 through 2031, the Secretary shall use to carry out this subsection not less than 10 percent of any funds available for conservation programs administered by the Secretary under this chapter (other than the conservation reserve program established under subpart B of part I of subchapter IV).
 
   (B) *Limitation* — Funds available for a specific conservation program shall not be transferred to fund a different conservation program under this chapter.
 
@@ -5459,6 +5480,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 3844, Pub. L. 99–198, title XII, § 1244, Dec. 23, 1985, 99 Stat. 1515, related to issuance of regulations to carry out subchapters I to V of this chapter, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 #### Amendments
+2022—Subsec. (n)(3)(A). Pub. L. 117–169 substituted “2031” for “2023”.
+
 2018—Subsec. (b)(4)(B). Pub. L. 115–334, § 2821(f), substituted “Government Accountability Office” for “General Accounting Office”.
 
 Subsec. (c)(3). Pub. L. 115–334, § 2301(d)(1)(K), inserted “subpart A of” before “part IV”.
@@ -6944,7 +6967,7 @@ Subsec. (d). Pub. L. 115–334, § 2704(3), added subsec. (d).
 
 <a id="section-3871d"></a>
 ## § 3871d. Funding
-**(a) Availability of funds** The Secretary shall use $300,000,000 of the funds of the Commodity Credit Corporation for each of fiscal years 2019 through 2023 to carry out the program.
+**(a) Availability of funds** The Secretary shall use $300,000,000 of the funds of the Commodity Credit Corporation for each of fiscal years 2019 through 2031 to carry out the program.
 
 **(b) Duration of availability** Funds made available under subsection (a) shall remain available until expended.
 
@@ -6977,6 +7000,8 @@ Subsec. (d). Pub. L. 115–334, § 2704(3), added subsec. (d).
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–169 substituted “2031” for “2023”.
+
 2018—Subsec. (a). Pub. L. 115–334, § 2705(1), substituted “$300,000,000” for “$100,000,000” and “2019 through 2023” for “2014 through 2018”.
 
 Subsec. (c). Pub. L. 115–334, § 2705(2)–(4)(A), redesignated subsec. (d) as (c), struck out “and acres” after “funds” and “and reserved for the program under subsection (c)” after “under subsection (a)” in introductory provisions, and struck out former subsec. (c) which related to reservation of additional funding and acres for each of fiscal years 2014 through 2018.

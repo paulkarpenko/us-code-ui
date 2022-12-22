@@ -2,7 +2,7 @@
 title: 35
 heading: PATENTS
 positive_law: true
-sections: 174
+sections: 175
 chapters: 25
 ---
 # Title 35. PATENTS

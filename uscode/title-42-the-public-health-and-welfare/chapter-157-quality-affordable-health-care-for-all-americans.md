@@ -115,7 +115,7 @@ Pub. L. 111–148, § 1(a), Mar. 23, 2010, 124 Stat. 119, provided that: “This
 Ex. Ord. No. 13765, Jan. 20, 2017, 82 F.R. 8351, which related to minimizing the economic burden of the Patient Protection and Affordable Care Act (Pub. L. 111–148) pending repeal, was revoked by Ex. Ord. No. 14009, § 4(a), Jan. 28, 2021, 86 F.R. 7794, set out below.
 
 #### Executive Order No. 13813
-Ex. Ord. No. 13813, Oct. 12, 2017, 82 F.R. 48385, which related to promoting association health plans, short-term, limited-duration insurance, and health reimbursement arrangements, was revoked by Ex. Ord. No. 13009, § 4(a), Jan. 28, 2021, 86 F.R. 7794, set out below.
+Ex. Ord. No. 13813, Oct. 12, 2017, 82 F.R. 48385, which related to promoting association health plans, short-term, limited-duration insurance, and health reimbursement arrangements, was revoked by Ex. Ord. No. 14009, § 4(a), Jan. 28, 2021, 86 F.R. 7794, set out below.
 
 #### Ex. Ord. No. 13877. Improving Price and Quality Transparency in American Healthcare To Put Patients First
 Ex. Ord. No. 13877, June 24, 2019, 84 F.R. 30849, provided:
@@ -124,7 +124,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. Purpose. My Administration seeks to enhance the ability of patients to choose the healthcare that is best for them. To make fully informed decisions about their healthcare, patients must know the price and quality of a good or service in advance. With the predominant role that third-party payers and Government programs play in the American healthcare system, however, patients often lack both access to useful price and quality information and the incentives to find low-cost, high-quality care. Opaque pricing structures may benefit powerful special interest groups, such as large hospital systems and insurance companies, but they generally leave patients and taxpayers worse off than would a more transparent system.
 
-Pursuant to Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) [set out above], my Administration issued a report entitled “Reforming America’s Healthcare System Through Choice and Competition.” The report recommends developing price and quality transparency initiatives to ensure that healthcare patients can make well-informed decisions about their care. In particular, the report describes the characteristics of the most effective price transparency efforts: they distinguish between the charges that providers bill and the rates negotiated between payers and providers; they give patients proper incentives to seek information about the price of healthcare services; and they provide useful price comparisons for “shoppable” services (common services offered by multiple providers through the market, which patients can research and compare before making informed choices based on price and quality).
+Pursuant to Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) [formerly set out above], my Administration issued a report entitled “Reforming America’s Healthcare System Through Choice and Competition.” The report recommends developing price and quality transparency initiatives to ensure that healthcare patients can make well-informed decisions about their care. In particular, the report describes the characteristics of the most effective price transparency efforts: they distinguish between the charges that providers bill and the rates negotiated between payers and providers; they give patients proper incentives to seek information about the price of healthcare services; and they provide useful price comparisons for “shoppable” services (common services offered by multiple providers through the market, which patients can research and compare before making informed choices based on price and quality).
 
 Shoppable services make up a significant share of the healthcare market, which means that increasing transparency among these services will have a broad effect on increasing competition in the healthcare system as a whole. One study, cited by the Council of Economic Advisers in its 2019 Annual Report, examined a sample of the highest-spending categories of medical cases requiring inpatient and outpatient care. Of the categories of medical cases requiring inpatient care, 73 percent of the 100 highest-spending categories were shoppable. Among the categories of medical cases requiring outpatient care, 90 percent of the 300 highest-spending categories were shoppable. Another study demonstrated that the ability of patients to price-shop imaging services, a particularly fungible and shoppable set of healthcare services, was associated with a per-service savings of up to approximately 19 percent.
 
@@ -142,7 +142,7 @@ Sec. 3. Informing Patients About Actual Prices. (a) Within 60 days of the date o
 
 Sec. 4. Establishing a Health Quality Roadmap. Within 180 days of the date of this order, the Secretaries of Health and Human Services, Defense, and Veterans Affairs shall develop a Health Quality Roadmap (Roadmap) that aims to align and improve reporting on data and quality measures across Medicare, Medicaid, the Children’s Health Insurance Program, the Health Insurance Marketplace, the Military Health System, and the Veterans Affairs Health System. The Roadmap shall include a strategy for establishing, adopting, and publishing common quality measurements; aligning inpatient and outpatient measures; and eliminating low-value or counterproductive measures.
 
-Sec. 5. Increasing Access to Data to Make Healthcare Information More Transparent and Useful to Patients. Within 180 days of the date of this order, the Secretary of Health and Human Services, in consultation with the Secretaries of the Treasury, Defense, Labor, and Veterans Affairs, and the Director of the Office of Personnel Management, shall increase access to de-identified claims data from taxpayer-funded healthcare programs and group health plans for researchers, innovators, providers, and entrepreneurs, in a manner that is consistent with applicable law and that ensures patient privacy and security. Providing access to this data will facilitate the development of tools that empower patients to be better informed as they make decisions related to healthcare goods and services. Access to this data will also enable researchers and entrepreneurs to locate inefficiencies and opportunities for improvement, such as patterns of performance of medical procedures that are outside the recommended standards of care. Such data may be derived from the Transformed Medicaid Statistical Information System (T-MSIS) and other sources. As part of this process, the Secretary of Health and Human Services shall make a list of priority datasets that, if de-identified, could advance the policies set forth by this order, and shall report to the President on proposed plans for future release of these priority datasets and on any barriers to their release.
+Sec. 5. Increasing Access to Data to Make Healthcare Information More Transparent and Useful to Patients. Within 180 days of the date of this order, the Secretary of Health and Human Services, in consultation with the Secretaries of the Treasury, Defense, Labor, and Veterans Affairs, and the Director of the Office of Personnel Management, shall increase access to de-identified claims data from taxpayer-funded healthcare programs and group health plans for researchers, innovators, providers, and entrepreneurs, in a manner that is consistent with applicable law and that ensures patient privacy and security. Providing access to this data will facilitate the development of tools that empower patients to be better informed as they make decisions related to healthcare goods and services. Access to this data will also enable researchers and entrepreneurs to locate inefficiencies and opportunities for improvement, such as patterns of performance of medical procedures that are outside the recommended standards of care. Such data may be derived from the Transformed Medicaid Statistical Information System (T–MSIS) and other sources. As part of this process, the Secretary of Health and Human Services shall make a list of priority datasets that, if de-identified, could advance the policies set forth by this order, and shall report to the President on proposed plans for future release of these priority datasets and on any barriers to their release.
 
 Sec. 6. Empowering Patients by Enhancing Control Over Their Healthcare Resources. (a) Within 120 days of the date of this order, the Secretary of the Treasury, to the extent consistent with law, shall issue guidance to expand the ability of patients to select high-deductible health plans that can be used alongside a health savings account, and that cover low-cost preventive care, before the deductible, for medical care that helps maintain health status for individuals with chronic conditions.
 
@@ -173,7 +173,7 @@ Section 1. Purpose. Since January 20, 2017, my Administration has been committed
 
 (a) My Administration has been committed to restoring choice and control to the American patient.
 
-On December 22, 2017, I signed into law the repeal of the burdensome individual-mandate penalty, liberating millions of low-income Americans from a tax that penalized them for not purchasing health-insurance coverage they did not want or could not afford. Through Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) [set out above], my Administration has expanded coverage options for millions of Americans in several ways. My Administration increased the availability of renewable short-term, limited-duration healthcare plans, providing options that are up to 60 percent cheaper than the least expensive alternatives under the Patient Protection and Affordable Care Act (ACA) [Pub. L. 111–148] and are projected to cover 500,000 individuals who would otherwise be uninsured. My Administration expanded health reimbursement arrangements, which have been projected by the Department of the Treasury to reach 800,000 businesses and over 11 million employees and to expand coverage to more than 800,000 individuals who would otherwise be uninsured. My Administration also issued a rule to increase the availability of association health plans for small businesses, which, upon implementation of the rule, are projected to cover up to 400,000 previously uninsured individuals for on average 30 percent less cost.
+On December 22, 2017, I signed into law the repeal of the burdensome individual-mandate penalty, liberating millions of low-income Americans from a tax that penalized them for not purchasing health-insurance coverage they did not want or could not afford. Through Executive Order 13813 of October 12, 2017 (Promoting Healthcare Choice and Competition Across the United States) [formerly set out above], my Administration has expanded coverage options for millions of Americans in several ways. My Administration increased the availability of renewable short-term, limited-duration healthcare plans, providing options that are up to 60 percent cheaper than the least expensive alternatives under the Patient Protection and Affordable Care Act (ACA) [Pub. L. 111–148] and are projected to cover 500,000 individuals who would otherwise be uninsured. My Administration expanded health reimbursement arrangements, which have been projected by the Department of the Treasury to reach 800,000 businesses and over 11 million employees and to expand coverage to more than 800,000 individuals who would otherwise be uninsured. My Administration also issued a rule to increase the availability of association health plans for small businesses, which, upon implementation of the rule, are projected to cover up to 400,000 previously uninsured individuals for on average 30 percent less cost.
 
 As set forth in the Economic Report of the President (February 2020), my Administration’s expansion of health savings accounts will further help millions of Americans pay for health expenditures by allowing them to save more of their own money free from Federal taxation, and will especially help Americans with chronic conditions who now have more flexibility to enroll in plans that fit their complicated care needs and can be paired with a tax-advantaged account.
 
@@ -315,6 +315,69 @@ Sec. 4. Revocation of Certain Presidential Actions and Review of Associated Agen
 (b) As part of the review required under section 3 of this order, heads of agencies shall identify existing agency actions related to or arising from Executive Orders 13765 and 13813. Heads of agencies shall, as soon as practicable, consider whether to suspend, revise, or rescind—and, as applicable, publish for notice and comment proposed rules suspending, revising, or rescinding—any such agency actions, as appropriate and consistent with applicable law and the policy set forth in section 1 of this order.
 
 Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 14070. Continuing To Strengthen Americans’ Access to Affordable, Quality Health Coverage
+Ex. Ord. No. 14070, Apr. 5, 2022, 87 F.R. 20689, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. On January 28, 2021, I signed Executive Order 14009 (Strengthening Medicaid and the Affordable Care Act) [set out above], establishing that it is the policy of my Administration to protect and strengthen Medicaid and the Affordable Care Act (ACA) and to make high-quality healthcare accessible and affordable for every American. It directs executive departments and agencies (agencies) with authorities and responsibilities related to Medicaid and the ACA to review existing regulations, orders, guidance documents, policies, and any other similar agency actions (collectively, agency actions) to determine whether such agency actions are inconsistent with this policy.
+
+Consistent with Executive Order 14009, agencies have taken numerous actions to protect and strengthen Medicaid and the ACA, including:
+
+(a) facilitating the expansion of Medicaid in Missouri and Oklahoma to individuals below 138 percent of the Federal poverty level, which is projected to cover nearly half a million people;
+
+(b) extending Medicaid eligibility to new populations in order to allow pregnant individuals to retain their Medicaid coverage for up to 1 year postpartum, including through initiatives in Illinois, New Jersey, Virginia, and Louisiana;
+
+(c) operating a Special Enrollment Period during 2021 that allowed 2.8 million Americans to newly enroll in coverage under the ACA;
+
+(d) extending the length of the HealthCare.gov Open Enrollment Period by 1 month and operating the most successful Open Enrollment Period ever, with a historic 14.5 million Americans enrolling in coverage through the ACA Marketplaces and an additional 1 million people enrolling in Basic Health Program coverage, resulting in a 20 percent increase over the prior year across both programs combined;
+
+(e) increasing outreach and enrollment funding for organizations that help Americans apply for ACA and Medicaid coverage, including quadrupling the number of trained Navigators to more than 1,500 people in States using HealthCare.gov;
+
+(f) lowering maximum out-of-pocket costs for consumers with employer and ACA coverage by $400 in 2022;
+
+(g) reducing paperwork burdens for people enrolling in Medicaid and the ACA by eliminating unnecessary documentation requirements;
+
+(h) allowing low-income Americans to enroll in affordable ACA coverage year-round;
+
+(i) strengthening Medicaid and ACA section 1332 [[42 U.S.C. 18052](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18052)] waiver policies to partner with States to develop innovative coverage options, strengthen benefits, and lower costs;
+
+(j) proposing rules that would better ensure comprehensive and standardized coverage and improve the adequacy of ACA provider networks; and
+
+(k) making efforts to improve the affordability of ACA coverage for families by proposing rules to correct a regulatory gap that prevents family members from accessing ACA subsidies despite very high premiums for coverage through an employer.
+
+On March 11, 2021, I signed into law the American Rescue Plan Act of 2021 (Public Law 117–2), which will further strengthen Medicaid and the ACA in numerous ways, including by making ACA coverage more affordable for 9 million Americans through enhanced ACA subsidies, incentivizing States to adopt the ACA’s Medicaid expansion, making it easier for States to extend postpartum Medicaid coverage, establishing new options for States to establish mobile crisis intervention services teams to help provide services to Medicaid beneficiaries experiencing a behavioral health crisis, and increasing Medicaid funding for home- and community-based services to strengthen and expand access to services for millions of seniors and people with disabilities who need care as well as to help States strengthen their programs.
+
+My Administration has made significant progress in making healthcare more affordable and accessible to millions of Americans. From the end of 2020 to September 2021, one in seven uninsured Americans gained coverage, leaving the uninsured rate at nearly an all-time low. Despite this progress, nearly 4 million Americans continue to be locked out of Medicaid expansion because they reside in 1 of the 12 States that have failed to adopt the ACA’s Medicaid expansion. In addition, millions more continue to struggle to obtain the care they need, to go without health coverage, or to be enrolled in coverage that is insufficient to meet their needs. The effects of being uninsured or underinsured can be devastating financially, as families without access to affordable coverage may accrue high levels of medical debt.
+
+It remains the policy of my Administration to protect and strengthen Medicaid and the ACA and to make high-quality healthcare accessible and affordable for every American. Agencies with authorities and responsibilities related to Medicaid and the ACA are continuing their review of existing agency actions under Executive Order 14009.
+
+Sec. 2. Agency Responsibilities. In addition to taking the actions directed pursuant to Executive Order 14009, agencies (as described in [section 3502(1) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/1&num=0&edition=prelim), United States Code, except for the agencies described in [section 3502(5) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim), United States Code) with responsibilities related to Americans’ access to health coverage shall review agency actions to identify ways to continue to expand the availability of affordable health coverage, to improve the quality of coverage, to strengthen benefits, and to help more Americans enroll in quality health coverage. As part of this review, the heads of such agencies shall examine the following:
+
+(a) policies or practices that make it easier for all consumers to enroll in and retain coverage, understand their coverage options, and select appropriate coverage;
+
+(b) policies or practices that strengthen benefits and improve access to healthcare providers;
+
+(c) policies or practices that improve the comprehensiveness of coverage and protect consumers from low-quality coverage;
+
+(d) policies or practices that expand eligibility and lower costs for coverage in the ACA Marketplaces, Medicaid, Medicare, and other programs;
+
+(e) policies or practices that help improve linkages between the healthcare system and other stakeholders to address health-related needs; and
+
+(f) policies or practices that help reduce the burden of medical debt on households.
+
+Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
@@ -504,9 +567,6 @@ Subsec. (a)(2). Pub. L. 111–148, § 10102(b)(2), added par. (2) and struck out
 **(e) Definition** In this title,1 the term “grandfathered health plan” means any group health plan or health insurance coverage to which this section applies.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 102(d)(2) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
 
 #### References in Text
 This Act, referred to in subsec. (a)(1), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of this title](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18001) and Tables.

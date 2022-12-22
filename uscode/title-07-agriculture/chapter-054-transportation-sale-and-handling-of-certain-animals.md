@@ -536,7 +536,7 @@ Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see sectio
 #### References in Text
 The last paragraph of [section 49 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section49&num=0&edition=prelim), referred to in subsec. (c), which related to immunity of witnesses, was repealed by section 211 of Pub. L. 91–452, Oct. 15, 1970, title II, 84 Stat. 929. For provisions relating to immunity of witnesses, see section 6001 et seq. of Title 18, Crimes and Criminal Procedure.
 
-Title II of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title II of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 926, as amended, which created a general Federal immunity statute set out in section 6001 et seq. of Title 18, and repealed the individual immunity provisions formerly contained in various Federal regulatory schemes.
+Title II of the Organized Crime Control Act of 1970, referred to in subsec. (c), is title II of Pub. L. 91–452, Oct. 15, 1970, 84 Stat. 926, which created a general Federal immunity statute set out in section 6001 et seq. of Title 18, and repealed the individual immunity provisions formerly contained in various Federal regulatory schemes.
 
 #### Amendments
 1990—Subsec. (c). Pub. L. 101–624 inserted “and the regulations and standards promulgated under this chapter” after first reference to “this chapter”.
@@ -563,27 +563,36 @@ The Animal and Plant Health Inspection Service shall, notwithstanding any other 
 
 **(a)** within 60 calendar days, restore on its website the searchable database and its contents that were available on January 30, 2017, and all content generated since that date; and
 
-**(b)** hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records after enactment of this Act for a subsequent period of three years:
+**(b)** hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records:
 
-(1) all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act non-compliances observed by USDA officials and all animal inventories;
+(1) all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act violations and non-compliances observed by USDA officials and all animal inventories for the current year and the preceding three years;
 
-(2) all final Animal Welfare Act and Horse Protection Act enforcement records;
+(2) all final Animal Welfare Act and Horse Protection Act enforcement records for the current year and the preceding three years;
 
-(3) all reports or other materials documenting any non-compliances observed by USDA officials; and
+(3) all reports or other materials documenting any violations and non-compliances observed by USDA officials for the current year and the preceding three years; and
 
 (4) within six months of receipt by the agency, all final Animal Welfare Act research facility annual reports, including their attachments with appropriate redactions made for confidential business information that USDA could withhold under FOIA Exemption 4.
 
 ### Statutory Notes
 
 #### References in Text
-Enactment of this Act, referred to in subsec. (b), means the enactment of div. B of Pub. L. 116–94, which was approved Dec. 20, 2019.
-
-The Animal Welfare Act, referred to in subsec. (b)(1), (2), (4) is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2131 of this title](./chapter-054-transportation-sale-and-handling-of-certain-animals.md#section-2131) and Tables.
+The Animal Welfare Act, referred to in subsec. (b)(1), (2), (4), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2131 of this title](./chapter-054-transportation-sale-and-handling-of-certain-animals.md#section-2131) and Tables.
 
 The Horse Protection Act, referred to in subsec. (b)(2), is Pub. L. 91–540, Dec. 9, 1970, 84 Stat. 1404, which is classified generally to chapter 44 (§ 1821 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1821 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1821&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2020, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Animal Welfare Act which comprises this chapter.
+
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–103 amended subsec. (b) generally. Prior to amendment, text read as follows: “hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records after enactment of this Act for a subsequent period of three years:
+
+“(1) all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act non-compliances observed by USDA officials and all animal inventories;
+
+“(2) all final Animal Welfare Act and Horse Protection Act enforcement records;
+
+“(3) all reports or other materials documenting any non-compliances observed by USDA officials; and
+
+“(4) within six months of receipt by the agency, all final Animal Welfare Act research facility annual reports, including their attachments with appropriate redactions made for confidential business information that USDA could withhold under FOIA Exemption 4.”
 
 
 <a id="section-2147"></a>

@@ -569,7 +569,7 @@ As used in this subsection, the term “product” includes an approved product.
 ### Statutory Notes
 
 #### References in Text
-The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 151 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section151&num=0&edition=prelim) and Tables.
+The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 828, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 151 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section151&num=0&edition=prelim) and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), (g)(2)(B), (3)(B)(ii), (6)(C), and (i)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 

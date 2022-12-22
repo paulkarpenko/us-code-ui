@@ -113,7 +113,7 @@ The Congress declares that, in addition to the programs under the Comprehensive 
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970, referred to in text, is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, which is classified principally to this chapter (§ 4541 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4541 of this title](./chapter-060-comprehensive-alcohol-abuse-and-alcoholism-prevention-treatment-and-rehabilitation-program.md#section-4541) and Tables.
+The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970, referred to in text, is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, which is classified principally to this chapter (§ 4541 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4541 of this title](./chapter-060-comprehensive-alcohol-abuse-and-alcoholism-prevention-treatment-and-rehabilitation-program.md#section-4541) and Tables.
 
 #### Codification
 Section was not enacted as part of the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 which comprises this chapter.
@@ -298,7 +298,7 @@ For purposes of [section 4577 of this title](./chapter-060-comprehensive-alcohol
 #### Amendments
 1981—Pub. L. 97–35 inserted provisions respecting authorization and obligation of funds for fiscal year ending Sept. 30, 1982, and struck out reference to [section 4576 of this title](./chapter-060-comprehensive-alcohol-abuse-and-alcoholism-prevention-treatment-and-rehabilitation-program.md#section-4576).
 
-1980—Pub. L. 96–180 authorized appropriation of $102,500,000 and $115,000,000 and prescribed minimum of 8 and 10 percent of the funds for preventative proj­ects, programs, and services for fiscal years ending Sept. 30, 1980, and 1981.
+1980—Pub. L. 96–180 authorized appropriation of $102,500,000 and $115,000,000 and prescribed minimum of 8 and 10 percent of the funds for preventative projects, programs, and services for fiscal years ending Sept. 30, 1980, and 1981.
 
 #### Effective Date
 Pub. L. 94–371, § 4(c), July 26, 1976, 90 Stat. 1035, provided in part that this section is effective July 1, 1976.

@@ -383,7 +383,7 @@ Pub. L. 116–94, div. B, title VII, § 756, Dec. 20, 2019, 133 Stat. 2654, prov
 ### Statutory Notes
 
 #### References in Text
-The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Safe Drinking Water Act, referred to in subsec. (a)(7), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2005—Subsec. (a)(1). Pub. L. 109–97 inserted “not appearing on the National List” after “ingredient”.
@@ -725,7 +725,7 @@ Subsec. (d)(6). Pub. L. 109–97, § 797(b)(2), added par. (6).
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2018—Subsec. (b)(1). Pub. L. 115–334, § 10104(e)(1), inserted “, or employees of such individuals” after “operation”.
@@ -1087,7 +1087,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-The Organic Foods Production Act of 1990, referred to in subsec. (a), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title](./chapter-094-organic-certification.md#section-6501) and Tables.
+The Organic Foods Production Act of 1990, referred to in subsec. (a), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title](./chapter-094-organic-certification.md#section-6501) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

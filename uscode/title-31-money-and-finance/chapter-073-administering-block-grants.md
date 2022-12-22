@@ -50,7 +50,7 @@ In this chapter—
 In clause (1)(A), the word “Federal” is omitted as surplus because of section 101 of the revised title.
 
 #### References in Text
-The Omnibus Budget Reconciliation Act of 1981, referred to in par. (1)(B), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357, as amended. For complete classification of this Act to the Code, see Tables.
+The Omnibus Budget Reconciliation Act of 1981, referred to in par. (1)(B), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-7303"></a>
@@ -100,7 +100,7 @@ To evaluate and review the use of block grant amounts, consolidated assistance, 
 The words “records . . . shall be made available to” are substituted for “shall have access to any books, accounts, records, correspondence, or other documents” for consistency in the revised title and with other titles of the United States Code.
 
 #### References in Text
-The Omnibus Budget Reconciliation Act of 1981, referred to in text, is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357, as amended. For complete classification of this Act to the Code, see Tables.
+The Omnibus Budget Reconciliation Act of 1981, referred to in text, is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-7305"></a>
@@ -121,4 +121,4 @@ In subsection (a), the word “prescribes” is substituted for “established�
 In subsection (b), the words “of funds” and “conducted” are omitted as surplus.
 
 #### References in Text
-The Omnibus Budget Reconciliation Act of 1981, referred to in text, is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357, as amended. For complete classification of this Act to the Code, see Tables.
+The Omnibus Budget Reconciliation Act of 1981, referred to in text, is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357. For complete classification of this Act to the Code, see Tables.

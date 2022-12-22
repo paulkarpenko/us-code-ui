@@ -15,7 +15,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 1985—Pub. L. 99–83 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -163,7 +163,7 @@ Ex. Ord. No. 12468, Mar. 22, 1984, 49 F.R. 11139, which established the Presiden
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Amendments
 1978—Subsec. (b)(1). Pub. L. 95–331, § 7, substituted provisions limiting activities to furnishing technical assistance, etc., in support of volunteer programs, and conducting demonstration projects and provisions relating to payment of costs of any program or project for provisions limiting activities to furnishing of knowledge and skills relating to the selection, training, and programming of voluntary manpower and provisions relating to use of available funds.
@@ -230,7 +230,7 @@ Pub. L. 97–113, title VI, § 601(g), Dec. 29, 1981, 95 Stat. 1542, provided th
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Amendments
 1999—Subsec. (b). Pub. L. 106–30 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated to carry out the purposes of this chapter $218,146,000 for fiscal year 1993, which are authorized to remain available until September 30, 1994.”
@@ -351,7 +351,7 @@ Functions of President under this section delegated to and funds available to Pr
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Amendments
 1981—Subsec. (b). Pub. L. 97–113 substituted provision authorizing the President to exercise functions vested in him under this chapter through the Director of the Peace Corps and the Director of the Peace Corps to promulgate rules and regulations as deemed appropriate for provision authorizing the President to exercise functions vested in him under this chapter through such agency or officer of the United States Government as he directs and the head of such agency or such officer to promulgate rules and regulations as deemed appropriate.
@@ -461,19 +461,19 @@ Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (e) to (i), and (n), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in subsecs. (a), (e) to (i), and (n), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
 
 The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e), is Pub. L. 105–12, Apr. 30, 1997, 111 Stat. 23, which is classified principally to chapter 138 (§ 14401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 14401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14401&num=0&edition=prelim) and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (g)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (g)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 Subsection (l) of this section, referred to in subsec. (n)(4), was redesignated as subsec. (m) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
-The Inspector General Act of 1978, referred to in subsec. (p)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (p)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2018—Subsec. (e). Pub. L. 115–256, § 101(a)(1)(A), substituted “receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f)” for “receive such immunization and dental care preparatory to their service”.
@@ -653,7 +653,7 @@ The President may enroll in the Peace Corps qualified citizens or nationals of t
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Amendments
 1982—Par. (1). Pub. L. 97–387 substituted “not less than $125” for “not to exceed $125”.
@@ -750,9 +750,9 @@ Appointment of former volunteer leaders to civilian career services, see Ex. Ord
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(1), (2), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Codification
 Amendment by Pub. L. 98–473 is based on section 703 of H.R. 5119, Ninety-eighth Congress, as passed by the House of Representatives May 10, 1984, which was enacted into permanent law by Pub. L. 98–473.
@@ -845,7 +845,7 @@ Persons appointed, employed, or assigned under subsec. (a) of this section are n
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–256, § 201(1) substituted “the President deems” for “he deems” and inserted at end “As part of the training provided to all volunteers under subsection (a), and in coordination with the Inspector General of the Peace Corps, the President shall provide all volunteers with information regarding the mandate of the Inspector General and the availability (including contact information) of the Inspector General and the Office of Victim Advocacy as a resource for volunteers. The President shall ensure that volunteers receive such information at least once during training that occurs prior to enrollment and at least once during each significant instance of training after enrollment.”
@@ -1184,9 +1184,9 @@ In order to provide for assistance by foreign nationals in the training of volun
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Chapter 4 of title II of the Act is classified generally to part IV (§ 1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 4 of title II of the Act is classified generally to part IV (§ 1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–208 substituted “removed pursuant to chapter 4 of title II of the Immigration and Nationality Act” for “deported pursuant to sections 1251, 1252, and 1253 of title 8. Deportation”.
@@ -1250,7 +1250,7 @@ Functions of President under this section delegated to Director of Peace Corps b
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
@@ -1385,7 +1385,7 @@ Section, Pub. L. 87–293, title I, § 11, Sept. 22, 1961, 75 Stat. 619; Pub. L.
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b)(1) and (d)(1)(A), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in subsecs. (b)(1) and (d)(1)(A), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Prior Provisions
 A prior section 2511, Pub. L. 87–293, title I, § 12, Sept. 22, 1961, 75 Stat. 619, established Peace Corps National Advisory Council and set forth its composition, functions, and terms of members, prior to repeal by Pub. L. 92–352, title IV, § 403, July 13, 1972, 86 Stat. 495, effective 90 days after July 13, 1972.
@@ -1412,7 +1412,7 @@ Pub. L. 99–83, title XI, § 1104(b), Aug. 8, 1985, 99 Stat. 275, provided that
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 [Section 2511 of this title](./chapter-034-the-peace-corps.md#section-2511), referred to in subsec. (b), was repealed by Pub. L. 92–352, title IV, § 403, July 13, 1972, 86 Stat. 495.
 
@@ -1461,7 +1461,7 @@ Functions of President under this section delegated to Director of Peace Corps b
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Amendments
 1980—Subsec. (b). Pub. L. 96–465 substituted “[section 4085 of this title](./chapter-052-foreign-service.md#section-4085)” for “[section 1131 of this title](./chapter-014-foreign-service.md#section-1131)”.
@@ -1514,9 +1514,9 @@ Functions of President under this section delegated to Director of Peace Corps b
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (d)(11), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d)(11), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Amendments
 1999—Subsec. (c). Pub. L. 106–30, § 2(b)(5), substituted “subchapter VI of chapter 33 of title 5” for “sections 1881 to 1888 of title 7”.
@@ -1613,7 +1613,7 @@ Whenever possible, expenditures incurred in carrying out functions under this ch
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 
 <a id="section-2517"></a>
@@ -1646,7 +1646,7 @@ Pub. L. 106–309, title IV, § 408, Oct. 17, 2000, 114 Stat. 1100, provided tha
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Amendments
 1963—Pub. L. 88–200 designated existing provisions as subsec. (a) and added subsec. (b).
@@ -1663,7 +1663,7 @@ All persons employed or assigned to duties under this chapter shall be investiga
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Delegation of Functions
 Functions of President under this section delegated to Director of Peace Corps by section 1–103 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).
@@ -1688,7 +1688,7 @@ No person shall be assigned to duty as a volunteer under this chapter in any for
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 
 <a id="section-2521a"></a>
@@ -1703,7 +1703,7 @@ In carrying out this chapter, no political test or political qualification may b
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Prior Provisions
 A prior section 25 of Pub. L. 87–293 was renumbered section 26 and is classified to [section 2522 of this title](./chapter-034-the-peace-corps.md#section-2522).
@@ -1740,7 +1740,7 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in introductory provisions and par. (8), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in introductory provisions and par. (8), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 [Section 2504(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2504/m&num=0&edition=prelim), referred to in par. (5), was redesignated section 2504(n) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
@@ -1765,7 +1765,7 @@ If any provision of this chapter or the application of any provision to any circ
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
 #### Prior Provisions
 A prior section 27 of Pub. L. 87–293 was renumbered section 28 and is set out as an Effective Date note under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501).

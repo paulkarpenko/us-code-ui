@@ -2,7 +2,7 @@
 title: 38
 chapter: '13'
 heading: DEPENDENCY AND INDEMNITY COMPENSATION FOR SERVICE-CONNECTED DEATHS
-section_count: 16
+section_count: 17
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -141,6 +141,43 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 #### Effective Date of 1967 Amendment
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under [section 101 of this title](./chapter-001-general.md#section-101).
+
+
+<a id="section-1305"></a>
+## § 1305. Reevaluation of dependency and indemnity compensation determinations pursuant to changes in presumptions of service connection
+**(a) Reevaluation.—** Whenever a law, including through a regulation or Federal court decision or settlement, establishes or modifies a presumption of service connection, the Secretary shall—
+
+(1) identify all claims for dependency and indemnity compensation under this chapter that—
+
+  (A) were submitted to the Secretary;
+
+  (B) were evaluated and denied by the Secretary before the date on which such provision of law went into effect; and
+
+  (C) might have been evaluated differently had the establishment or modification been applicable to the claim;
+
+(2) allow for the reevaluation of such claims at the election of the claimant; and
+
+(3) notwithstanding [section 5110 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5110), with respect to claims approved pursuant to such reevaluation, provide compensation under this chapter effective as if the establishment or modification of the presumption of service connection had been in effect on the date of the submission of the original claim described in paragraph (1).
+
+**(b) Outreach.—**
+
+(1) The Secretary shall conduct outreach to inform relevant claimants that they may elect to have a claim be reevaluated in light of the establishment or modification of a presumption of service connection described in subsection (a).
+
+(2) Outreach under paragraph (1) shall include the following:
+
+  (A) The Secretary shall publish on the internet website of the Department a notice that such claimants may elect to have a claim so reevaluated.
+
+  (B) The Secretary shall notify, in writing or by electronic means, veterans service organizations of the ability of such claimants to elect to have a claim so reevaluated.
+
+  (C) The Secretary shall contact each claimant identified under subsection (a) in the same manner that the Department last provided notice of a decision.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 117–168, title II, § 204(b), Aug. 10, 2022, 136 Stat. 1777, provided that: “[Section 1305 of title 38](./chapter-013-dependency-and-indemnity-compensation-for-service-connected-deaths.md#section-1305), United States Code, as added by subsection (a), shall apply with respect to presumptions of service connection established or modified on or after the date of the enactment of this Act [Aug. 10, 2022], including pursuant to amendments made by this Act [see Short Title of 2022 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101)].”
+
+#### Rule of Construction
+Pub. L. 117–168, title II, § 204(c), Aug. 10, 2022, 136 Stat. 1777, provided that: “Nothing in this section [enacting this section and provisions set out as a note above] shall be construed as modifying the obligations of the Department of Veterans Affairs under Federal court decisions or settlements in effect as of the date of the enactment of this Act [Aug. 10, 2022].”
 
 
 <a id="section-1310"></a>

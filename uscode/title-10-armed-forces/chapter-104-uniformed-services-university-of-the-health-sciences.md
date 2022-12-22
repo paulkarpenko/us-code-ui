@@ -142,9 +142,6 @@ Provisions similar to those in subsec. (b) of this section were contained in Pub
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
-
 #### References in Text
 [Section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304), referred to in subsec. (g)(1)(G), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (l) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
 

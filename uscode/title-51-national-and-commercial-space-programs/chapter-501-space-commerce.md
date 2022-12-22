@@ -134,7 +134,7 @@ Donald J. Trump.
 
 (1) **In general.—** — The Administrator, in coordination with the ISS management entity (as defined in section 2 of the National Aeronautics and Space Administration Transition Authorization Act of 2017), ISS partners, the scientific user community, and the commercial space sector, shall develop a plan to transition in a step-wise approach from the current regime that relies heavily on NASA sponsorship to a regime where NASA could be one of many customers of a low-Earth orbit non-governmental human space flight enterprise.
 
-(2) **Reports.—** — Not later than December 1, 2017, and biennially thereafter until 2023, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
+(2) **Reports.—** — Not later than December 1, 2017, and biennially thereafter until 2028, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
 
   (A) a description of the progress in achieving the Administration’s deep space human exploration objectives on ISS and prospects for accomplishing future mission requirements, space exploration objectives, and other research objectives on future commercially supplied low-Earth orbit platforms or migration of those objectives to cis-lunar space;
 
@@ -154,7 +154,7 @@ Donald J. Trump.
 
   (I) the cost estimates for extending operations of the ISS to 2024, 2028, and 2030;
 
-  (J) an evaluation of the feasible and preferred service life of the ISS beyond the period described in section 503 of the National Aeronautics and Space Administration Authorization Act of 2010 ([42 U.S.C. 18353](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18353&num=0&edition=prelim)), through at least 2028, as a unique scientific, commercial, and space exploration-related facility, including—
+  (J) an evaluation of the feasible and preferred service life of the ISS beyond the period described in section 503 of the National Aeronautics and Space Administration Authorization Act of 2010 ([42 U.S.C. 18353](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18353&num=0&edition=prelim)), through at least 2030, as a unique scientific, commercial, and space exploration-related facility, including—
 
     (i) a general discussion of international partner capabilities and prospects for extending the partnership;
 
@@ -200,6 +200,10 @@ Section 101(3)(A) of the National Aeronautics and Space Administration Authoriza
 The National Aeronautics and Space Administration Transition Authorization Act of 2017, referred to in subsec. (c)(1), (2)(E), (G), is Pub. L. 115–10, Mar. 21, 2017, 131 Stat. 18. Section 2 of the Act is set out as a note under [section 10101 of this title](./chapter-101-definitions.md#section-10101), section 301(b)(2) of the Act is set out in a note under this section, and section 432 of the Act is set out in a note under [section 20302 of this title](./chapter-203-responsibilities-and-vision.md#section-20302).
 
 #### Amendments
+2022—Subsec. (c)(2). Pub. L. 117–167, § 10815(e)(1), substituted “2028” for “2023” in introductory provisions.
+
+Subsec. (c)(2)(J). Pub. L. 117–167, § 10815(e)(2), substituted “2030” for “2028” in introductory provisions.
+
 2017—Subsec. (c). Pub. L. 115–10 added subsec. (c).
 
 #### Maximizing Utilization of ISS

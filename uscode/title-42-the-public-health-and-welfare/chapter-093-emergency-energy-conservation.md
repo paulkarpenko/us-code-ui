@@ -313,7 +313,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
   (C) is a tax, tariff, or user fee, or
 
-  (D) is a program for the assignment of rights for end-user purchases of gasoline or diesel fuel, as described in section 6263(a)(1)(A) and (B) 33 See References in Text note below. of this title.
+  (D) is a program for the assignment of rights for end-user purchases of gasoline or diesel fuel, as described in section 6263(a)(1)(A) and (B) 1 of this title.
 
 **(i) Plan may not authorize weekend closings of retail gasoline stations**
 

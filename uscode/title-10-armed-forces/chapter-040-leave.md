@@ -124,6 +124,22 @@ Leave accumulated while in missing status shall be accounted for separately. It 
 
 (2) in the interest of national security, as determined by the Secretary of Defense.
 
+**(m)**
+
+(1)
+
+  (A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in subparagraph (B) is allowed up to two weeks of leave to be used in connection with the death of an immediate family member.
+
+  (B) Subparagraph (A) applies to the following members: (A) 11 So in original. Cls. (A), (B), and (C) under subpar. (B) probably should be designated (i), (ii), and (iii). A member on active duty. (B) 1 A member of a reserve component performing active Guard and Reserve duty. (C) 1 A member of a reserve component subject to an active duty recall or mobilization order in excess of 12 months.
+
+(2) Under the regulations prescribed for purposes of this subsection, a member taking leave under paragraph (1) shall not have his or her leave account reduced as a result of taking such leave if such member’s accrued leave is fewer than 30 days. Members with 30 or more days of accrued leave shall be charged for bereavement leave until such point that the member’s accrued leave is less than 30 days. Any remaining bereavement leave taken by such member in accordance with paragraph (1) after such point shall not be chargeable to the member.
+
+(3) In this section, the term “immediate family member”, with respect to a member of the armed forces, means—
+
+  (A) the member’s spouse; or
+
+  (B) a child of the member.
+
 ### Statutory Notes
 
 #### Amendment of Section
@@ -173,28 +189,6 @@ Pub. L. 117–81, div. A, title VI, § 621(a), (b), Dec. 27, 2021, 135 Stat. 177
 
 See 2021 Amendment notes below.
 
-Pub. L. 117–81, div. A, title VI, § 622, Dec. 27, 2021, 135 Stat. 1771, provided that, effective 180 days after Dec. 27, 2021, this section is amended by adding at the end the following new subsection:
-
-(m)(1)(A) Under regulations prescribed by the Secretary of Defense, a member of the armed forces described in subparagraph (B) is allowed up to two weeks of leave to be used in connection with the death of an immediate family member.
-
-(B) Subparagraph (A) applies to the following members:
-
-(A) A member on active duty.
-
-(B) A member of a reserve component performing active Guard and Reserve duty.
-
-(C) A member of a reserve component subject to an active duty recall or mobilization order in excess of 12 months.
-
-(2) Under the regulations prescribed for purposes of this subsection, a member taking leave under paragraph (1) shall not have his or her leave account reduced as a result of taking such leave if such member’s accrued leave is fewer than 30 days. Members with 30 or more days of accrued leave shall be charged for bereavement leave until such point that the member’s accrued leave is less than 30 days. Any remaining bereavement leave taken by such member in accordance with paragraph (1) after such point shall not be chargeable to the member.
-
-(3) In this section, the term “immediate family member”, with respect to a member of the armed forces, means—
-
-(A) the member’s spouse; or
-
-(B) a child of the member.
-
-See 2021 Amendment note below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -243,7 +237,9 @@ Subsec. (i)(9), (10). Pub. L. 117–81, § 621(a)(1)(B), redesignated par. (9) a
 
 “(B) Under the regulations for purposes of this subsection, the Secretary concerned may waive, whether in whole or in part, the applicability of subparagraph (A) to a member who reenlists at the end of the member’s period of obligated service described in that subparagraph if the Secretary determines that the waiver is in the interests of the armed force concerned.”
 
-Subsec. (j) to (l). Pub. L. 117–81, § 621(a)(2), (3), added subsec. (l), redesignated former subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j) which related to leave for secondary caregivers in case of birth of child or adoption of child.
+Subsecs. (j), (k). Pub. L. 117–81, § 621(a)(2), redesignated subsecs. (k) and (l) as (j) and (k), respectively, and struck out former subsec. (j) which related to leave for secondary caregivers in case of birth of child or adoption of child.
+
+Subsec. (l). Pub. L. 117–81, § 621(a)(3), added subsec. (l). Former subsec. (l) redesignated (k).
 
 Subsec. (m). Pub. L. 117–81, § 622(a), added subsec. (m).
 

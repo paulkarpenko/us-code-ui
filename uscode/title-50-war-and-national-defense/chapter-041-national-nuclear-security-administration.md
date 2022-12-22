@@ -924,7 +924,7 @@ Pub. L. 111–84, div. C, title XXXI, § 3141, Oct. 28, 2009, 123 Stat. 2715, pr
 Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 #### First Report on Assessment of Prior Plans; GAO Report
-Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–469, provided that the first report submitted subsec. (c)(2) of this section was to be the report prepared with respect to the budget submitted in calendar year 2001, and that, not later than Mar. 15, 2001, the Comptroller General would submit to Congress an assessment of the adequacy of the planning, programming, and budgeting processes of the National Nuclear Security Administration.
+Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–469, provided that the first report submitted under subsec. (c)(2) of this section was to be the report prepared with respect to the budget submitted in calendar year 2001, and that, not later than Mar. 15, 2001, the Comptroller General would submit to Congress an assessment of the adequacy of the planning, programming, and budgeting processes of the National Nuclear Security Administration.
 
 
 <a id="section-2453"></a>

@@ -159,7 +159,7 @@ This Act, referred to in subsec. (d)(7), means Pub. L. 92–532, which enacted t
 ### Statutory Notes
 
 #### References in Text
-The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2), is Pub. L. 95–273, May 8, 1978, 92 Stat. 228, as amended, which was classified generally to chapter 31 (§ 1701 et seq.) of Title 33, Navigation and Navigable Waters, and was repealed by Pub. L. 102–567, title II, § 204, Oct. 29, 1992, 106 Stat. 4282.
+The National Ocean Pollution Planning Act of 1978, referred to in subsec. (a)(2), is Pub. L. 95–273, May 8, 1978, 92 Stat. 228, which was classified generally to chapter 31 (§ 1701 et seq.) of Title 33, Navigation and Navigable Waters, and was repealed by Pub. L. 102–567, title II, § 204, Oct. 29, 1992, 106 Stat. 4282.
 
 
 <a id="section-1447d"></a>

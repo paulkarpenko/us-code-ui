@@ -169,15 +169,15 @@ For purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, and such Act, referred to in pars. (15), (16), (18)(A)(ii), (B)(i), (iii)(II), (23), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, and such Act, referred to in pars. (15), (16), (18)(A)(ii), (B)(i), (iii)(II), (23), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 Section 6 of the Emergency Natural Gas Act of 1977, referred to in par. (18)(B)(i)(I), is Pub. L. 95–2, § 6, Feb. 2, 1977, 91 Stat. 7, which was formerly set out in a note under [section 717 of this title](./chapter-15b-natural-gas.md#section-717).
 
-The Sherman Act ([15 U.S.C. 1](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1) et seq.), referred to in par. (37), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1) and Tables.
+The Sherman Act ([15 U.S.C. 1](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1) et seq.), referred to in par. (37), is act July 2, 1890, ch. 647, 26 Stat. 209, which is classified to sections 1 to 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-1) and Tables.
 
-The Clayton Act ([15 U.S.C. 12](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12), 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
+The Clayton Act ([15 U.S.C. 12](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12), 13, 14–19, 20, 21, 22–27), referred to in par. (37), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
 
-The Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.), referred to in par. (37), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act ([15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.), referred to in par. (37), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 Act of June 19, 1936, chapter 592, referred to in par. (37), means act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended [section 13 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-13). For complete classification of this Act to the Code, see Short Title note set out under [section 13 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-13) and Tables.
 
@@ -295,7 +295,7 @@ Functions of President under this subchapter, except for authority to declare, e
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 
 <a id="section-3364"></a>
@@ -613,7 +613,7 @@ Jimmy Carter.
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 
 <a id="section-3373"></a>
@@ -627,7 +627,7 @@ The Natural Gas Act, referred to in subsec. (a)(1)(B), is act June 21, 1938, ch.
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 #### Amendments
 1989—Subsec. (c). Pub. L. 101–60 substituted “any natural gas” for “any natural gas—
@@ -694,7 +694,7 @@ Amendment by Pub. L. 101–60 effective Jan. 1, 1993, see section 3(b) of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, referred to in subsec. (a)(1), (2), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (a)(1), (2), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 
 <a id="section-3391"></a>
@@ -766,7 +766,7 @@ For the purposes of [section 3391 of this title](./chapter-060-natural-gas-polic
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in par. (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
+The Agricultural Act of 1949, referred to in par. (2), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Biomass Energy and Alcohol Fuels Act of 1980 which is title II of the Energy Security Act, and not as part of the Natural Gas Policy Act of 1978 which comprises this chapter.
@@ -802,9 +802,9 @@ Section was enacted as part of the Biomass Energy and Alcohol Fuels Act of 1980 
 ### Statutory Notes
 
 #### References in Text
-The Department of Energy Organization Act, referred to in subsecs. (a) and (b), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7101&num=0&edition=prelim) and Tables.
+The Department of Energy Organization Act, referred to in subsecs. (a) and (b), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7101&num=0&edition=prelim) and Tables.
 
-The Natural Gas Act, referred to in subsecs. (a) and (b), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsecs. (a) and (b), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 
 <a id="section-3411"></a>
@@ -816,7 +816,7 @@ The Natural Gas Act, referred to in subsecs. (a) and (b), is act June 21, 1938, 
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 
 <a id="section-3412"></a>
@@ -1056,7 +1056,7 @@ In order to obtain information for the purpose of carrying out its functions und
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, referred to in subsec. (a)(1), (2)(A), (B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (a)(1), (2)(A), (B), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 #### Amendments
 1989—Subsec. (a)(1)(A). Pub. L. 101–60, § 3(b)(7)(A), in heading substituted “Application to first sales” for “Natural gas not committed or dedicated” and amended text generally. Prior to amendment, text read as follows: “For purposes of section 1(b) of the Natural Gas Act, effective on the first day of the first month beginning after November 9, 1978, the provisions of the Natural Gas Act and the jurisdiction of the Commission under such Act shall not apply to natural gas which was not committed or dedicated to interstate commerce as of November 8, 1978, solely by reason of any first sale of such natural gas.”

@@ -246,11 +246,29 @@ Pub. L. 115–282, title VII, § 712, Dec. 4, 2018, 132 Stat. 4298, provided tha
 
 (4) any recommendations for additional legislation to offset those conditions;
 
-(5) a list of petitions filed under [section 42302(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section42302/b&num=0&edition=prelim) that the Commission rejected and the reasons for each rejection; and
+(5) a list of petitions filed under [section 42302(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section42302/b&num=0&edition=prelim) that the Commission rejected and the reasons for each rejection;
 
-(6) an analysis of the impacts on competition for the purchase of certain covered services by alliances of ocean common carriers acting pursuant to an agreement under this part 11 So in original. between or among ocean common carriers, including a summary of actions, including corrective actions, taken by the Commission to promote such competition.
+(6) an analysis of the impacts on competition for the purchase of certain covered services by alliances of ocean common carriers acting pursuant to an agreement under this part 11 See References in Text note below. between or among ocean common carriers, including a summary of actions, including corrective actions, taken by the Commission to promote such competition; and
+
+(7) an identification of any otherwise concerning practices by ocean common carriers, particularly such carriers that are controlled carriers, that are—
+
+  (A) State-owned or State-controlled enterprises; or
+
+  (B) owned or controlled by, a subsidiary of, or otherwise related legally or financially (other than a minority relationship or investment) to a corporation based in a country—
+
+    (i) identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 ([19 U.S.C. 1677(18)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/18&num=0&edition=prelim))) as of the date of enactment of this paragraph;
+
+    (ii) identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 ([19 U.S.C. 2242](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2242&num=0&edition=prelim)) as a priority foreign country under subsection (a)(2) of that section; or
+
+    (iii) subject to monitoring by the United States Trade Representative under section 306 of the Trade Act of 1974 ([19 U.S.C. 2416](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2416&num=0&edition=prelim)).
 
 **(c) Definition of Certain Covered Services.—** In this section, the term “certain covered services” has the meaning given the term in section 40102.
+
+**(d) Public Disclosures.—** The Federal Maritime Commission shall publish, and annually update, on the website of the Commission—
+
+(1) all findings by the Commission of false detention and demurrage invoice information by common carriers under [section 41104(a)(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a/15&num=0&edition=prelim); and
+
+(2) all penalties imposed or assessed against common carriers, as applicable, under sections 41107, 41108, and 41109, listed by each common carrier.
 
 ### Statutory Notes
 
@@ -262,7 +280,16 @@ Pub. L. 115–282, title VII, § 712, Dec. 4, 2018, 132 Stat. 4298, provided tha
 
 In subsection (a), the words “a statement of all receipts under this chapter” are omitted as inapplicable to the Commission.
 
+#### References in Text
+The reference to “this part”, referred to in subsec. (b)(6), was added when this section was numbered as [section 306 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section306&num=0&edition=prelim) and was in subtitle I, which does not contain parts. After section 306 was renumbered as this section, it was transferred into part D of subtitle IV, but it is unclear whether the reference to “this part” was intended to take on the reference to such part D upon the transfer.
+
+The date of enactment of this paragraph, referred to in subsec. (b)(7)(B)(i), is the date of enactment of Pub. L. 117–146, which was approved June 16, 2022.
+
 #### Amendments
+2022—Subsec. (b)(7). Pub. L. 117–146, § 14, added par. (7).
+
+Subsec. (d). Pub. L. 117–146, § 6, added subsec. (d).
+
 2021—Pub. L. 116–283 renumbered [section 306 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section306&num=0&edition=prelim) as this section.
 
 2018—Subsec. (b)(6). Pub. L. 115–282, § 703(1), added par. (6).
@@ -294,11 +321,13 @@ The words “by this chapter”, “after June 29, 1936”, and “further” ar
 <a id="section-46108"></a>
 ## § 46108. Authorization of appropriations
 
-There is authorized to be appropriated to the Federal Maritime Commission $29,086,888 for fiscal year 2020 and $29,639,538 for fiscal year 2021 for the activities of the Commission authorized under this chapter and subtitle IV.
+There is authorized to be appropriated to the Federal Maritime Commission $32,869,000 for fiscal year 2022, $38,260,000 for fiscal year 2023, $43,720,000 for fiscal year 2024, and $49,200,000 for fiscal year 2025 for the activities of the Commission authorized under this chapter and subtitle IV.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–146 substituted “$32,869,000 for fiscal year 2022, $38,260,000 for fiscal year 2023, $43,720,000 for fiscal year 2024, and $49,200,000 for fiscal year 2025” for “$29,086,888 for fiscal year 2020 and $29,639,538 for fiscal year 2021”.
+
 2021—Pub. L. 116–283, § 8605(a)(3), renumbered [section 308 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section308&num=0&edition=prelim) as this section.
 
 Pub. L. 116–283, § 8602, substituted “$29,086,888 for fiscal year 2020 and $29,639,538 for fiscal year 2021” for “$28,012,310 for fiscal year 2018 and $28,544,543 for fiscal year 2019”.

@@ -567,7 +567,7 @@ For the purposes of this subchapter and the Migratory Bird Treaty Act ([16 U.S.C
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
 #### Amendments
 1978—Pub. L. 95–616 defined migratory birds for purposes of the Migratory Bird Treaty Act and to include those defined in the Convention of Mar. 4, 1972, concluded with Government of Japan and the Convention of Nov. 19, 1976, concluded with Union of Soviet Socialist Republics.
@@ -600,7 +600,7 @@ In the execution of this Act, the Secretary of the Interior is authorized to mak
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, probably means the act of June 15, 1935, ch. 261, 49 Stat. 378, as amended, which is classified in part to certain sections of this subchapter and of subchapter IV of this chapter. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, probably means the act of June 15, 1935, ch. 261, 49 Stat. 378, which is classified in part to certain sections of this subchapter and of subchapter IV of this chapter. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Act June 15, 1935, in addition to the provisions set out in the text, made an appropriation for the acquisition of lands necessary to provide for the restoration, rehabilitation and protection of migratory waterfowl and other wildlife and for the erection and construction of necessary buildings, dikes, dams, canals, and other works.
@@ -1208,7 +1208,7 @@ For the efficient execution of this subchapter, the judges of the several courts
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Treaty Act, and “that Act”, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act, and “that Act”, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
 #### Amendments
 2006—Pub. L. 109–266 inserted section catchline, substituted “Secretary to” for “Secretary of Agriculture to” and “Department of the Interior” for “Department of Agriculture”, and inserted “([16 U.S.C. 703](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-703) et seq.)” after “Migratory Bird Treaty Act”.

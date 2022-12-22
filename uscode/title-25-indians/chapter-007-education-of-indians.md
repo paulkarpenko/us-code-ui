@@ -153,7 +153,7 @@ The Indians or persons conducting schools or missions in the Territory of Alaska
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act June 6, 1900, ch. 786, 31 Stat. 321, as amended. For complete classification of Title I of this act to the Code, see Tables. Title III of this act provided for the Alaska Civil Code.
+This Act, referred to in text, means act June 6, 1900, ch. 786, 31 Stat. 321. For complete classification of Title I of this act to the Code, see Tables. Title III of this act provided for the Alaska Civil Code.
 
 #### Codification
 Section was formerly classified to [section 356 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section356&num=0&edition=prelim), Territories and Insular Possessions.

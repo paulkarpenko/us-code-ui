@@ -349,7 +349,7 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 #### References in Text
 This chapter, referred to in subsecs. (a), (b), (d)(1)(B), and (e)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(12), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(12), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -446,7 +446,7 @@ Pub. L. 116–283, § 625(b)(2)(B), which directed the substitution of “this p
 
 Subsec. (b)(2)(B), (C). Pub. L. 117–81, § 641(2)(B)(ii), added subpars. (B) and (C) and struck out former subpar. (B) which read as follows: “Any veteran who has been found to have a service-connected disability under title 38.”
 
-Subsec. (b)(3). Pub. L. 117–81, § 641(2)(C), substituted “Annual passes” for “Gold Star Families parks pass” in heading and “members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary.” for “members of Gold Star Families who meet the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).”.
+Subsec. (b)(3). Pub. L. 117–81, § 641(2)(C), substituted “Annual passes” for “Gold Star Families parks pass” in heading and “members of the Armed Forces and their dependents who provide adequate proof of eligibility for such pass as determined by the Secretary.” for “members of Gold Star Families who meet the eligibility requirements of section 3.2 of Department of Defense Instruction 1348.36 (or a successor instruction).” in text.
 
 Pub. L. 116–283, § 625(a), added par. (3).
 
@@ -549,7 +549,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, an
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in subsec. (b), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (b), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 This chapter, referred to in subsecs. (c) and (d), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
 
@@ -585,9 +585,11 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 2014—Pub. L. 113–235 substituted “on September 30, 2016” for “10 years after December 8, 2004”. Amendment was executed as the probable intent of Congress, notwithstanding error in directory language which referenced the editorial translation of “December 8, 2004” rather than “the date of the enactment of this Act” which appeared in the original.
 
 #### Recreation Fees
-Pub. L. 116–260, div. G, title IV, § 423, Dec. 27, 2020, 134 Stat. 1541, provided that: “Section 810 of the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6809](./chapter-087-federal-lands-recreation-enhancement.md#section-6809)) shall be applied by substituting ‘October 1, 2022’ for ‘September 30, 2019’.”
+Pub. L. 117–103, div. G, title IV, § 421, Mar. 15, 2022, 136 Stat. 415, provided that: “Section 810 of the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6809](./chapter-087-federal-lands-recreation-enhancement.md#section-6809)) shall be applied by substituting ‘October 1, 2023’ for ‘September 30, 2019’.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. G, title IV, § 423, Dec. 27, 2020, 134 Stat. 1541.
 
 Pub. L. 116–94, div. D, title IV, § 425, Dec. 20, 2019, 133 Stat. 2748.
 
@@ -747,15 +749,15 @@ The Act of May 24, 1939, referred to in subsec. (b)(5), is act May 24, 1939, ch.
 
 The Secure Rural Schools and Community Self-Determination Act of 2000, referred to in subsec. (b)(9), is Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607. Sections 1 to 3 and titles I to IV of the Act were set out as notes under [section 500 of this title](./chapter-002-national-forests.md#section-500) prior to the repeal and reenactment of sections 1 to 403 of the Act by Pub. L. 110–343, div. C, title VI, § 601(a), Oct. 3, 2008, 122 Stat. 3893–3910. The new sections 1 to 403 of the Act are classified generally to chapter 90 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7101) and Tables.
 
-The Federal Water Project Recreation Act, referred to in subsec. (b)(11), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of this title and Tables.
+The Federal Water Project Recreation Act, referred to in subsec. (b)(11), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of this title and Tables.
 
-The Act of February 25, 1920, referred to in subsec. (b)(13), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Act of February 25, 1920, referred to in subsec. (b)(13), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
 Section 4(e) of the Southern Nevada Public Land Management Act of 1998, referred to in subsec. (b)(14), is section 4(e) of Pub. L. 105–263, Oct. 19, 1998, 112 Stat. 2345, which is not classified to the Code.
 
 Section 5(a) of the Lincoln County Land Act of 2000, referred to in subsec. (b)(15), is section 5(a) of Pub. L. 106–298, Oct. 13, 2000, 114 Stat. 1047, which is not classified to the Code.
 
-The Migratory Bird Hunting Stamp Act, referred to in subsec. (f), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, as amended, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 718 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718) and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in subsec. (f), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 718 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718) and Tables.
 
 
 <a id="section-6814"></a>

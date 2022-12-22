@@ -347,7 +347,7 @@ A prior section 9084 was successively renumbered section 9068, then 9083, of thi
 ### Statutory Notes
 
 #### References in Text
-Section 1645 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(2), is section 1645 of Pub. L. 116–283, div. A, title XVI, Jan. 1, 2021, 134 Stat. 4064. Subsec. (g) of section 1645 amended provisions set out as a note under [section 2431 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2431). Subsecs. (a) to (f) of section 1645 are not classified to the Code.
+Section 1645 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (b)(2), is section 1645 of Pub. L. 116–283, div. A, title XVI, Jan. 1, 2021, 134 Stat. 4064. Subsec. (g) of section 1645 amended provisions formerly set out as a note under [section 2431 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2431). Subsecs. (a) to (f) of section 1645 are not classified to the Code.
 
 #### Amendments
 2021—Pub. L. 117–81, § 1081(a)(33), renumbered [section 9084 of this title](./chapter-908-the-space-force.md#section-9084), as added by section 1601(a) of Pub. L. 116–283, as this section.

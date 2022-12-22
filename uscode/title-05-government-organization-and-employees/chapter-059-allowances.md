@@ -556,7 +556,7 @@ In paragraph (1), the word “Washington” is omitted as covered by “District
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in par. (4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (4)(A), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2007—Par. (4)(A). Pub. L. 109–472, § 3(1), inserted “United States” after “nearest” in first sentence.
@@ -1153,7 +1153,7 @@ Sections 4104 and 4114 of title 38, referred to in subsec. (a), were repealed by
 
 The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title II of the Public Health Service Act is classified generally to subchapter I (§ 201 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (g)(1)(E), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 4 of title I of the Act is classified generally to subchapter IV (§ 3961 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (g)(1)(E), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 4 of title I of the Act is classified generally to subchapter IV (§ 3961 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 The Central Intelligence Agency Act of 1949, referred to in (g)(1)(F), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in chapter 46 (§ 3501 et seq.) of Title 50. Section 10 of the Act, which was renumbered as section 8 of that Act by Pub. L. 85–507, § 21(b)(2), July 7, 1958, 72 Stat. 337, is now classified to [section 3510 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3510&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 

@@ -457,7 +457,7 @@ The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (
 
 The Foreign Service Act of 1980, referred to in subsecs. (b)(2)(A)(i)(II), (ii)(II) and (d)(1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapters I and II of chapter 8 of title I of the Act are classified generally to parts I (§ 4041 et seq.) and II (§ 4071 et seq.), respectively, of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
-Section 10 of the Federal Reserve Act, referred to in subsecs. (b)(2)(A)(i)(III), (ii)(III) and (d)(1)(B), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260, as amended. For classification of section 10 to the Code, see Codification note set out under [section 241 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section241&num=0&edition=prelim), Banks and Banking, and Tables.
+Section 10 of the Federal Reserve Act, referred to in subsecs. (b)(2)(A)(i)(III), (ii)(III) and (d)(1)(B), is section 10 of act Dec. 23, 1913, ch. 6, 38 Stat. 260. For classification of section 10 to the Code, see Codification note set out under [section 241 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section241&num=0&edition=prelim), Banks and Banking, and Tables.
 
 Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsec. (e), is section 2(c) of Pub. L. 100–659, which is set out as a note under [section 377 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section377&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
@@ -528,7 +528,7 @@ Except as otherwise provided in this chapter, the benefits payable under the Sys
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
 <a id="section-8410"></a>
@@ -788,11 +788,47 @@ Pub. L. 107–228, div. A, title III, § 321, Sept. 30, 2002, 116 Stat. 1380, pr
 
 **(c)** An employee or Member who is separated from the service after becoming 62 years of age and completing 5 years of service is entitled to an annuity.
 
-**(d)** An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
+**(d)**
 
-(1) after completing 25 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 25 years, or
+(1) An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
 
-(2) after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 20 years,
+  (A) after completing 25 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 25 years, or
+
+  (B) after becoming 50 years of age and completing 20 years of service as a law enforcement officer, member of the Capitol Police or Supreme Court Police, firefighter, nuclear materials courier, or customs and border protection officer, or any combination of such service totaling at least 20 years,
+
+(2)
+
+  (A) In this paragraph—
+
+    (i) the term “affected individual” means an individual covered under this chapter who—
+
+      (I) is performing service in a covered position;
+
+      (II) while on duty, becomes ill or is injured as a direct result of the performance of such duties before the date on which the individual becomes entitled to an annuity under paragraph (1) of this subsection or subsection (e), as applicable;
+
+      (III) because of the illness or injury described in subclause (II), is permanently unable to render useful and efficient service in the employee’s covered position, as determined by the agency in which the individual was serving when such individual incurred the illness or injury; and
+
+      (IV) is appointed to a position in the civil service that—
+
+        (aa) is not a covered position; and
+
+        (bb) is within an agency that regularly appoints individuals to supervisory or administrative positions related to the activities of the former covered position of the individual;
+
+    (ii) the term “covered position” means a position as a law enforcement officer, customs and border protection officer, firefighter, air traffic controller, nuclear materials courier, member of the Capitol Police, or member of the Supreme Court Police.
+
+  (B) Unless an affected individual files an election described in subparagraph (E), creditable service by the affected individual in a position described in subparagraph (A)(i)(IV) shall be treated as creditable service in a covered position for purposes of this chapter and determining the amount to be deducted and withheld from the pay of the affected individual under section 8422.
+
+  (C) Subparagraph (B) shall only apply if the affected employee transitions to a position described in subparagraph (A)(i)(IV) without a break in service exceeding 3 days.
+
+  (D) The service of an affected individual shall no longer be eligible for treatment under subparagraph (B) if such service occurs after the individual—
+
+    (i) is transferred to a supervisory or administrative position related to the activities of the former covered position of the individual; or
+
+    (ii) meets the age and service requirements that would subject the individual to mandatory separation under section 8425 if such individual had remained in the former covered position.
+
+  (E) In accordance with procedures established by the Director of the Office of Personnel Management, an affected individual may file an election to have any creditable service performed by the affected individual treated in accordance with this chapter without regard to subparagraph (B).
+
+  (F) Nothing in this paragraph shall be construed to apply to such affected individual any other pay-related laws or regulations applicable to a covered position.
 
 **(e)** An employee who is separated from the service, except by removal for cause on charges of misconduct or delinquency—
 
@@ -837,7 +873,12 @@ is entitled to an annuity.
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
+
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–225 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
 2007—Subsec. (d)(1), (2). Pub. L. 110–161 substituted “nuclear materials courier, or customs and border protection officer,” for “or nuclear materials courier,”.
 
 2000—Subsec. (d). Pub. L. 106–553 inserted “or Supreme Court Police” after “Capitol Police” in pars. (1) and (2).
@@ -848,6 +889,9 @@ is entitled to an annuity.
 
 1986—Subsec. (g). Pub. L. 99–556 designated existing provisions as par. (1) and added par. (2).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
+
 #### Effective Date of 2007 Amendment; Transition Rules
 Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under [section 3307 of this title](./chapter-033-examination-selection-and-placement.md#section-3307).
 
@@ -856,6 +900,9 @@ Amendment by Pub. L. 106–553 effective on the first day of the first applicabl
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331).
+
+#### Regulations
+For provisions relating to promulgation of regulations to carry out the amendments made by Pub. L. 117–225, see section 3(e) of Pub. L. 117–225, set out as a note under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 
 <a id="section-8412a"></a>
@@ -1085,7 +1132,7 @@ Section effective on Nov. 6, 2014, see section 100121(d) of Pub. L. 112–141, s
 
 (2) An employee under paragraph (1) who is separated as described in subparagraph (A) of such paragraph is not entitled to an annuity under this subsection if the employee has declined a reasonable offer of another position in the employee’s agency for which the employee is qualified, and the offered position is not lower than 2 grades (or pay levels) below the employee’s grade (or pay level) and is within the employee’s commuting area.
 
-(3) Paragraph (1) shall not apply to an employee entitled to an annuity under subsection (d) or (e) of section 8412.
+(3) Paragraph (1) shall not apply to an employee entitled to an annuity under subsection (d)(1) or (e) of section 8412.
 
 **(c)**
 
@@ -1168,7 +1215,12 @@ Section effective on Nov. 6, 2014, see section 100121(d) of Pub. L. 112–141, s
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
+
 #### Amendments
+2022—Subsec. (b)(3). Pub. L. 117–225 inserted “(1)” after “subsection (d)”.
+
 2002—Subsec. (a)(1). Pub. L. 107–296, § 1321(a)(5)(A), struck out “for failure to be recertified as a senior executive under section 3393a or” before “for less than fully”.
 
 Subsec. (b)(1)(B). Pub. L. 107–296, § 1313(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “except in the case of an employee who is separated from the service under a program carried out under subsection (d), while serving in a geographic area designated by the Director, is separated from the service voluntarily during a period in which (as determined by the Director)—
@@ -1197,6 +1249,9 @@ Subsec. (a)(2), (3). Pub. L. 101–194, § 506(b)(9)(B), (C), substituted “for
 
 1988—Subsec. (a)(3). Pub. L. 100–325 added par. (3).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
+
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
@@ -1220,7 +1275,7 @@ Pub. L. 105–174, title III, § 7001(b), May 1, 1998, 112 Stat. 91, as amended 
 
 **(d)** Notwithstanding any other provision of law, the annuity of an individual described in subsection (b) or (c) who is a revised annuity employee or a further revised annuity employee shall be computed in the same manner as in the case of an individual described in subsection (a).
 
-**(e)** The annuity of an employee retiring under subsection (d) or (e) of section 8412 or under subsection (a), (b), or (c) of section 8425 is—
+**(e)** The annuity of an employee retiring under subsection (d)(1) or (e) of section 8412 or under subsection (a), (b), or (c) of section 8425 is—
 
 (1) 17⁄10 percent of that individual’s average pay multiplied by so much of such individual’s total service as does not exceed 20 years; plus
 
@@ -1251,7 +1306,7 @@ so much of the annuity as is computed with respect to such type of service shall
 
 (2)
 
-  (A) Paragraph (1) does not apply in the case of an employee or Member retiring under section 8412(g) or 8413(b) if the employee or Member would satisfy the age and service requirements for title to an annuity under section 8412(a), (b), (d)(2), (e)(2), or (f)(2), determined as if the employee or Member had, as of the date of separation, attained the age specified in subparagraph (B).
+  (A) Paragraph (1) does not apply in the case of an employee or Member retiring under section 8412(g) or 8413(b) if the employee or Member would satisfy the age and service requirements for title to an annuity under section 8412(a), (b), (d)(1)(B), (e)(2), or (f)(2), determined as if the employee or Member had, as of the date of separation, attained the age specified in subparagraph (B).
 
   (B) A determination under subparagraph (A) shall be based on how old the employee or Member will be as of the date on which the annuity under section 8412(g) or 8413(b) is to commence.
 
@@ -1307,12 +1362,19 @@ The amount of the reduction shall be computed under regulations prescribed by th
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
+
 #### References in Text
 The date of the enactment of this subsection, referred to in subsec. (k), is the date of enactment of Pub. L. 106–571, which was approved Dec. 28, 2000.
 
 The date of enactment of this paragraph, referred to in subsec. (m)(2)(B)(i), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–225, § 3(b)(2)(A)(ii)(I), inserted “(1)” after “subsection (d)” in introductory provisions.
+
+Subsec. (h)(2)(A). Pub. L. 117–225, § 3(b)(2)(A)(ii)(II), substituted “(d)(1)(B)” for “(d)(2)”.
+
 2016—Subsec. (f). Pub. L. 114–190 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The annuity of an air traffic controller or former air traffic controller retiring under section 8412(a) is computed under subsection (a), except that if the individual has had at least 5 years of service as an air traffic controller as defined by section 2109(1)(A)(i), so much of the annuity as is computed with respect to such type of service shall be computed by multiplying 17⁄10 percent of the individual’s average pay by the years of such service.”
 
 2013—Subsec. (d). Pub. L. 113–67 inserted “or a further revised annuity employee” after “a revised annuity employee”.
@@ -1356,6 +1418,9 @@ Subsec. (i). Pub. L. 106–571 added subsec. (i).
 1994—Subsec. (d). Pub. L. 103–283 substituted “(a), (b), or (c)” for “(a) or (b)”.
 
 1986—Subsec. (f)(2). Pub. L. 99–556 inserted “8412(g) or” in subpars. (A) and (B).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–190, title II, § 2304(b), July 15, 2016, 130 Stat. 640, provided that: “The amendment made by subsection (a) [amending this section] shall be deemed to be effective on December 12, 2003.”
@@ -1623,7 +1688,7 @@ For provisions relating to deferred payment of lump-sum credit for certain indiv
 ## § 8421. Annuity supplement
 **(a)**
 
-(1) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under subsection (a), (b), (d), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
+(1) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under subsection (a), (b), (d)(1), or (e) of section 8412, or under section 8414(c), also be entitled to an annuity supplement under this section.
 
 (2) Subject to paragraph (3), an individual shall, if and while entitled to an annuity under section 8412(f), or under subsection (a) or (b) of section 8414, also be entitled to an annuity supplement under this section if such individual is at least the applicable minimum retirement age under section 8412(h).
 
@@ -1675,15 +1740,23 @@ For provisions relating to deferred payment of lump-sum credit for certain indiv
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
+
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(3)(B) and (b)(2), (4)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 202, 203, 214, and 215 of the Social Security Act are classified to sections 402, 403, 414, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(B) and (b)(2), (4)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 202, 203, 214, and 215 of the Social Security Act are classified to sections 402, 403, 414, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–225 inserted “(1)” after “(d)”.
+
 2002—Subsec. (a)(2). Pub. L. 107–296, which directed amendment of par. (2) by striking “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable retirement age”, was executed by striking out “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” before period at end, to reflect the probable intent of Congress.
 
 1992—Subsec. (a)(2). Pub. L. 102–378 inserted period at end.
 
 1989—Subsec. (a)(2). Pub. L. 101–194 substituted “, except that an individual entitled to an annuity under section 8414(a) for failure to be recertified as a senior executive shall be entitled to an annuity supplement without regard to such applicable minimum retirement age” for period at end.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
@@ -1724,7 +1797,7 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
     (i) in determining the excess earnings of any individual, only earnings attributable to periods during which such individual was entitled to an annuity supplement under section 8421 shall be considered; and
 
-    (ii) any earnings attributable to a period before attaining the applicable retirement age under section 8412(h) shall not be considered in determining the excess earnings of an individual who retires under section 8412(d) or (e), or section 8414(c).
+    (ii) any earnings attributable to a period before attaining the applicable retirement age under section 8412(h) shall not be considered in determining the excess earnings of an individual who retires under section 8412(d)(1) or (e), or section 8414(c).
 
 (5) Notwithstanding paragraphs (1) through (4), the reduction required by subsection (a) shall be effective with respect to the annuity supplement payable for each month in the 12-month period beginning on the first day of the seventh month after the end of the calendar year in which the excess earnings were earned.
 
@@ -1734,10 +1807,15 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
+
 #### References in Text
 Section 203 of the Social Security Act, referred to in subsec. (b)(4)(A), is classified to [section 403 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section403&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2022—Subsec. (b)(4)(B)(ii). Pub. L. 117–225 inserted “(1)” after “section 8412(d)”.
+
 2019—Subsec. (c). Pub. L. 116–92 substituted “as an air traffic control instructor, or supervisor thereof,” for “full-time as an air traffic control instructor” and inserted “or supervisor” after “an instructor”.
 
 2016—Subsec. (a). Pub. L. 114–251, § 1(1), substituted “Except as provided in subsection (c), the amount” for “The amount”.
@@ -1747,6 +1825,9 @@ Subsecs. (c), (d). Pub. L. 114–251, § 1(2), (3), added subsec. (c) and redesi
 2000—Subsec. (b)(5). Pub. L. 106–394 added par. (5).
 
 1986—Subsecs. (c), (d). Pub. L. 99–556 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “If, after an individual ceases to be entitled to an annuity supplement under section 8421 by reason of subsection (a)(3)(B) of such section, any portion of the individual’s excess earnings remains outstanding, an amount not to exceed 25 percent of the amount otherwise payable to such individual under this chapter for each month shall be deducted from such monthly payment until the full amount of that outstanding portion has been accounted for. To the extent practicable, reductions under this subsection shall be made by a level percentage.”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–394, § 3(b), Oct. 30, 2000, 114 Stat. 1630, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to reductions required to be made in calendar years beginning after the date of the enactment of this Act [Oct. 30, 2000].”
@@ -2188,19 +2269,24 @@ the lump-sum credit shall be paid.
 
 **(b)**
 
-(1) A law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which that law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer 11 So in original. Probably should be followed by a comma. as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. If the head of the agency judges that the public interest so requires, that agency head may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days before that date. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
+(1) A law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer who is otherwise eligible for immediate retirement under section 8412(d)(1) shall be separated from the service on the last day of the month in which that law enforcement officer, firefighter, nuclear materials courier, or customs and border protection officer 11 So in original. Probably should be followed by a comma. as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. If the head of the agency judges that the public interest so requires, that agency head may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days before that date. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
 
 (2) In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting “65 years of age” for “60 years of age”. The authority to grant exemptions in accordance with the preceding sentence shall cease to be available after December 31, 2011.
 
-**(c)** A member of the Capitol Police who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Capitol Police Board, when in its judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Board shall notify the member in writing of the date of separation at least 60 days before that date. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
+**(c)** A member of the Capitol Police who is otherwise eligible for immediate retirement under section 8412(d)(1) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Capitol Police Board, when in its judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Board shall notify the member in writing of the date of separation at least 60 days before that date. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
-**(d)** A member of the Supreme Court Police who is otherwise eligible for immediate retirement under section 8412(d) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Marshal of the Supreme Court of the United States, when in his judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Marshal shall notify the member in writing of the date of separation at least 60 days before the date. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
+**(d)** A member of the Supreme Court Police who is otherwise eligible for immediate retirement under section 8412(d)(1) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Marshal of the Supreme Court of the United States, when in his judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Marshal shall notify the member in writing of the date of separation at least 60 days before the date. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
 **(e)** The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or Supreme Court Police) from automatic separation under this section if the President determines the public interest so requires.
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
+
 #### Amendments
+2022—Subsecs. (b)(1), (c), (d). Pub. L. 117–225 inserted “(1)” after “section 8412(d)”.
+
 2010—Subsec. (b)(2). Pub. L. 111–259, § 444(b)(2), struck out par. (2) added by section 2005(b)(2) of Pub. L. 108–458 which read as follows: “In the case of employees of the Federal Bureau of Investigation, the second sentence of paragraph (1) shall be applied by substituting ‘65 years of age’ for ‘60 years of age’. The Federal Bureau of Investigation may not grant more than 50 exemptions in any fiscal year in accordance with the preceding sentence, and the authority to grant such exemptions shall cease to be available after September 30, 2007.”
 
 Pub. L. 111–259, § 444(b)(1), amended par. (2) relating to employees of the Federal Bureau of Investigation and providing that authority to grant exemptions shall cease to be available after Dec. 31, 2009, by substituting “2011” for “2009”.
@@ -2236,6 +2322,9 @@ Pub. L. 101–509, § 529 [title IV, § 409(b)(2)], inserted after first sentenc
 Pub. L. 101–428, § 3(b)(1)(A), substituted “officer, member of the Capitol Police, or” for “officer or” in two places.
 
 Subsec. (c). Pub. L. 101–428, § 3(b)(2), inserted “(other than a member of the Capitol Police)” after “employee”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 #### Effective Date of 2007 Amendment; Transition Rules
 Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under [section 3307 of this title](./chapter-033-examination-selection-and-placement.md#section-3307).
@@ -2710,7 +2799,7 @@ Pub. L. 101–335, § 2(b), July 17, 1990, 104 Stat. 320, provided that: “The 
 Subsec. (c). Pub. L. 106–65, § 661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 #### Effective Date of 2017 Amendment
-Pub. L. 115–84, § 2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: “The amendments made by this section [amending this section and [section 8433 of this title](./chapter-084-federal-employees-retirement-system.md#section-8433)] shall take effect on the date on which the regulations prescribed under subsection (f) [section 2(f) of Pub. L. 115–84, set out as a Regulations note under [section 8433 of this title](./chapter-084-federal-employees-retirement-system.md#section-8433)] take effect [Sept. 15, 2019; see 84 FR 46419].”
+Pub. L. 115–84, § 2(g), Nov. 17, 2017, 131 Stat. 1273, provided that: “The amendments made by this section [amending this section and [section 8433 of this title](./chapter-084-federal-employees-retirement-system.md#section-8433)] shall take effect on the date on which the regulations prescribed under subsection (f) [section 2(f) of Pub. L. 115–84, set out as a Regulations note under [section 8433 of this title](./chapter-084-federal-employees-retirement-system.md#section-8433)] take effect [Sept. 15, 2019; see 84 F.R. 46419].”
 
 #### Effective Date of 2015 Amendment; Implementation
 Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementation requirements, see section 635 of Pub. L. 114–92, set out as a note under [section 8432 of this title](./chapter-084-federal-employees-retirement-system.md#section-8432).
@@ -2767,7 +2856,7 @@ Pub. L. 103–353, § 4(e), (f), Oct. 13, 1994, 108 Stat. 3172, 3173, provided t
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in subsec. (a)(1), (3), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Subchapters I and II of chapter 8 of the Act probably mean subchapters I and II of chapter 8 of title I of the Act which are classified generally to parts I (§ 4041 et seq.) and II (§ 4071 et seq.), respectively, of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(1), (3), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapters I and II of chapter 8 of the Act probably mean subchapters I and II of chapter 8 of title I of the Act which are classified generally to parts I (§ 4041 et seq.) and II (§ 4071 et seq.), respectively, of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 334(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–441, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to persons reemployed on or after the date of enactment of this Act [Nov. 29, 1999].”
@@ -4110,7 +4199,7 @@ Section 5(b) of Pub. L. 102–82, as amended by Pub. L. 102–198, § 7(c)(4)(C)
 ### Statutory Notes
 
 #### References in Text
-Section 663 of the National Defense Authorization Act for Fiscal Year 2000, referred to in subsec. (b)(2)(B)(i), is section 663 of Pub. L. 106–65, as amended, which is set out as an Effective Date note below.
+Section 663 of the National Defense Authorization Act for Fiscal Year 2000, referred to in subsec. (b)(2)(B)(i), is section 663 of Pub. L. 106–65, which is set out as an Effective Date note below.
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(3), is classified generally to Title 26, Internal Revenue Code.
 
@@ -4354,7 +4443,7 @@ For the purpose of this subchapter—
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42. Sections 202, 203, and 215 are classified to sections 402, 403, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (f)(3), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42. Sections 202, 203, and 215 are classified to sections 402, 403, and 415, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1997—Subsec. (d)(1)(B). Pub. L. 105–61, § 518(b)(1)(B), substituted “except as provided in paragraph (3), remarries” for “remarries”.
@@ -4408,7 +4497,7 @@ whichever occurs first. On the death of the surviving wife or husband, or former
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (b). Pub. L. 104–208 inserted at end “If the annuity of a child under this subchapter terminates under subparagraph (E) because of marriage, then, if such marriage ends, such annuity shall resume on the first day of the month in which it ends, but only if any lump sum paid is returned to the Fund, and that individual is not otherwise ineligible for such annuity.”
@@ -4912,7 +5001,7 @@ For provisions relating to the deductions and contributions required with respec
 
     (i) Except as provided in clause (ii), this paragraph applies only with respect to an annuitant under section 8412, 8413, or 8414.
 
-    (ii) This paragraph does not apply with respect to an annuitant under subsection (d) or (e) of section 8412 or (in the case of an annuitant separated from service as a military reserve technician as a result of disability) under section 8414(c).
+    (ii) This paragraph does not apply with respect to an annuitant under subsection (d)(1) or (e) of section 8412 or (in the case of an annuitant separated from service as a military reserve technician as a result of disability) under section 8414(c).
 
 (4) The first increase (if any) made under subsection (b) to an annuity which is payable from the Fund to a widow or widower whose annuity is computed under section 8442(g) shall be equal to the product (adjusted to the nearest one-tenth of 1 percent) of—
 
@@ -4930,8 +5019,16 @@ For provisions relating to the deductions and contributions required with respec
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
+
 #### Amendments
+2022—Subsec. (c)(3)(B)(ii). Pub. L. 117–225 inserted “(1)” after “subsection (d)”.
+
 1986—Subsec. (b)(3). Pub. L. 99–556 inserted provision relating to the computation of any amount under section 8443(a)(2).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of this title](./chapter-083-retirement.md#section-8336).
 
 #### Delay in Cost-of-Living Adjustments During Fiscal Years 1994, 1995, and 1996
 Any cost-of-living increase scheduled to take effect during fiscal year 1994, 1995, or 1996 under subsec. (b) of this section delayed until first day of third calendar month after date such increase would otherwise take effect, see section 11001 of Pub. L. 103–66, set out as a note under [section 8340 of this title](./chapter-083-retirement.md#section-8340).

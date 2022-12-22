@@ -1523,9 +1523,15 @@ Section was formerly classified to [section 15453 of Title 42](https://uscode.ho
 ## § 21061. Payments for protection and advocacy systems
 **(a) In general** In addition to any other payments made under this part, the Secretary of Health and Human Services shall pay the protection and advocacy system (as defined in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15002&num=0&edition=prelim))) of each State to ensure full participation in the electoral process for individuals with disabilities, including registering to vote, casting a vote and accessing polling places. In providing such services, protection and advocacy systems shall have the same general authorities as they are afforded under subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15041](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15041&num=0&edition=prelim) et seq.).
 
-**(b) Minimum grant amount** The minimum amount of each grant to a protection and advocacy system shall be determined and allocated as set forth in subsections (c)(3), (c)(4), (c)(5), (e), and (g) of [section 794e of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794e&num=0&edition=prelim), except that the amount of the grants to systems referred to in subsections (c)(3)(B) and (c)(4)(B) of that section shall be not less than $70,000 and $35,000, respectively.
+**(b) Minimum grant amount** The minimum amount of each grant to a protection and advocacy system shall be determined and allocated as set forth in subsections (c)(1)(B), (c)(3), (c)(4), (c)(5), (e), and (g) of [section 794e of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794e&num=0&edition=prelim), except that the amount of the grants to systems referred to in subsection (c)(3)(B) 11 So in original. Probably should be followed by “of that section”. shall not be less than $70,000, and the amount of the grants to systems referred to in subsections (c)(1)(B) and (c)(4) 1 shall not be less than $35,000.
 
-**(c) Training and technical assistance program**
+**(c) Eligible grant recipients**
+
+(1) **Definition of State** — For the purposes of this section, the term “State” shall have the meaning given such term in section 102 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 ([42 U.S.C. 15002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15002&num=0&edition=prelim)).
+
+(2) **American Indian consortium eligible** — A system serving the American Indian consortium for which funds have been reserved under [section 794e(c)(1)(B) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794e/c/1/B&num=0&edition=prelim) shall be eligible for payments under subsection (a) in the same manner as a protection and advocacy system of a State.
+
+**(d) Training and technical assistance program**
 
 (1) **In general** — Not later than 90 days after the date on which the initial appropriation of funds for a fiscal year is made pursuant to the authorization under [section 21062 of this title](./chapter-209-election-administration-improvement.md#section-21062), the Secretary shall set aside 7 percent of the amount appropriated under such section and use such portion to make payments to eligible entities to provide training and technical assistance with respect to the activities carried out under this section.
 
@@ -1546,6 +1552,14 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 #### Codification
 Section was formerly classified to [section 15461 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15461&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–182, § 2(b), inserted “(c)(1)(B),” after “as set forth in subsections” and substituted “subsection (c)(3)(B) shall not be less than $70,000, and the amount of the grants to systems referred to in subsections (c)(1)(B) and (c)(4) shall not be less than $35,000.” for “subsections (c)(3)(B) and (c)(4)(B) of that section shall be not less than $70,000 and $35,000, respectively.”
+
+Subsecs. (c), (d). Pub. L. 117–182, § 2(a), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–182, § 3, Sept. 30, 2022, 136 Stat. 2179, provided that: “The amendments made by section 2 [amending this section] shall take effect at the start of the first fiscal year starting after the date of the enactment of this Act [Sept. 30, 2022].”
 
 
 <a id="section-21062"></a>

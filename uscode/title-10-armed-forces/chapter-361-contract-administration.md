@@ -126,7 +126,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of this title](./chapter-131-planning-and-coordination.md#section-2220).
 
-#### Effective Date of 1992 Amendment
+#### Effective Date
 Pub. L. 102–484, div. A, title VIII, § 840(b), Oct. 23, 1992, 106 Stat. 2467, provided that: “[Section 2410g of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410g), United States Code [now [10 U.S.C. 4603](./chapter-361-contract-administration.md#section-4603)] (as added by subsection (a)), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”

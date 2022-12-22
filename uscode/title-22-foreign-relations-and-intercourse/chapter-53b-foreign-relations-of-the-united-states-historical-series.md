@@ -201,7 +201,7 @@ Pub. L. 102–138, title I, § 198(c)(1), Oct. 28, 1991, 105 Stat. 691, provided
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Termination of Previous Advisory Committee on Historical Diplomatic Documentation
 Pub. L. 102–138, title I, § 198(b), Oct. 28, 1991, 105 Stat. 691, provided that: “The Advisory Committee on Historical Documentation for the Department of State established before the date of enactment of this Act [Oct. 28, 1991] shall terminate on such date.”

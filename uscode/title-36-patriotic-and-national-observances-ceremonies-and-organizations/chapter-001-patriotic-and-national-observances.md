@@ -2,7 +2,7 @@
 title: 36
 chapter: '1'
 heading: PATRIOTIC AND NATIONAL OBSERVANCES
-section_count: 46
+section_count: 47
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36&num=0&edition=prelim
 ---
@@ -25,6 +25,9 @@ The President is requested to issue each year a proclamation—
 | 101 | 36:169b. | Dec. 30, 1963, Pub. L. 88–254, 77 Stat. 843. |
 
 In clause (2), the words “chief executive officers” are substituted for “Governors”, and the words “territories, and possessions” are substituted for “territories”, for clarity and consistency in the revised title and with other titles of the United States Code.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–103, div. W, title XIII, § 1310(a), Mar. 15, 2022, 136 Stat. 931, provided that: “This section [enacting [section 146 of this title](./chapter-001-patriotic-and-national-observances.md#section-146) relating to Choose Respect Day and [section 20131 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20131&num=0&edition=prelim), Crime Control and Law Enforcement] may be cited as the ‘Choose Respect Act’.”
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–282, § 1, Dec. 31, 2020, 134 Stat. 3386, provided that: “This Act [amending provisions set out as a note preceding this section] may be cited as the ‘United States Semiquincentennial Commission Amendments Act of 2020’.”
@@ -935,3 +938,15 @@ The President shall issue each year a proclamation calling on the people of the 
 (1) observe Atomic Veterans Day with appropriate ceremonies and activities; and
 
 (2) remember and honor the atomic veterans of the United States whose brave service and sacrifice played an important role in the defense of the Nation.
+
+
+<a id="section-146"></a>
+## § 146. Choose Respect Day
+**(a) Designation.—** October 1 is Choose Respect Day.
+
+**(b) Recognition.—** All private citizens, organizations, and Federal, State, and local governmental and legislative entities are encouraged to recognize Choose Respect Day through proclamations, activities, and educational efforts in furtherance of changing the culture around the tolerance of violence against women.
+
+### Statutory Notes
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.

@@ -68,13 +68,13 @@ Subsec. (b). Pub. L. 98–369, § 2725(2), amended subsec. (b) generally, striki
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 #### Effective Date of 1984 Amendment
-Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+Pub. L. 98–369, div. B, title VII, § 2751, July 18, 1984, 98 Stat. 1203, provided that: “(a) Except as provided in subsection (b), the amendments made by this title [see Tables for classification] shall apply with respect to any solicitation for bids or proposals issued after March 31, 1985. “(b) The amendments made by section 2713 [amending section 759 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as a note under section 759 of former Title 40] and subtitle D [enacting sections 3551 to 3556 of Title 31, Money and Finance] shall apply with respect to any protest filed after January 14, 1985.”
 
 #### Effective Date of 1962 Amendment
-For effective date of amendment by Pub. L. 87–653, see section 1(h) of Pub. L. 87–653, set out as a note under [section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304).
+For effective date of amendment by Pub. L. 87–653, see section 1(h) of Pub. L. 87–653, set out as a note under [section 3065 of this title](./chapter-203-general-matters.md#section-3065).
 
 
 <a id="section-4752"></a>
@@ -164,10 +164,10 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of this title](./chapter-131-planning-and-coordination.md#section-2220).
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 #### Effective Date of 1986 Amendment
 Pub. L. 99–500, § 101(c) [title X, § 928(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–156, Pub. L. 99–591, § 101(c) [title X, § 928(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–156, and Pub. L. 99–661, Pub. L. 99–661, div. A, title IX, formerly title IV, § 928(b), Nov. 14, 1986, 100 Stat. 3936, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to contracts entered into after the end of the 180-day period beginning on the date of the enactment of this Act [Oct. 18, 1986].”
@@ -274,3 +274,12 @@ Subsec. (c). Pub. L. 107–314, § 1007(a)(2), added subsec. (c).
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Regulations
+Pub. L. 106–65, div. A, title IX, § 933(b)(1), Oct. 5, 1999, 113 Stat. 730, provided that: “Regulations under [section 2784 of title 10](./chapter-165-accountability-and-responsibility.md#section-2784), United States Code [now [10 U.S.C. 4754](./chapter-367-other-administrative-matters.md#section-4754)], as added by subsection (a), shall be prescribed not later than 180 days after the date of the enactment of this Act [Oct. 5, 1999].”
+
+#### Crediting of Refunds
+Pub. L. 110–116, div. A, title VIII, § 8067, Nov. 13, 2007, 121 Stat. 1329, provided that: “Beginning in the current fiscal year and hereafter, refunds attributable to the use of the Government travel card, refunds attributable to the use of the Government Purchase Card and refunds attributable to official Government travel arranged by Government Contracted Travel Management Centers may be credited to operation and maintenance, and research, development, test and evaluation accounts of the Department of Defense which are current when the refunds are received.”
+
+#### Government Charge Card Accounts: Limitation on Number; Requirements for Issuance; Disciplinary Action for Misuse; Report
+Pub. L. 107–248, title VIII, § 8149, Oct. 23, 2002, 116 Stat. 1572, as amended by Pub. L. 108–87, title VIII, § 8144, Sept. 30, 2003, 117 Stat. 1108, provided that: “(a) Limitation on Number of Government Charge Card Accounts during Fiscal Year 2003.—The total number of accounts for government purchase charge cards and government travel charge cards for Department of Defense personnel during fiscal year 2003 may not exceed 1,500,000 accounts. “(b) Requirement for Creditworthiness for Issuance of Government Charge Card.—(1) The Secretary of Defense shall evaluate the creditworthiness of an individual before issuing the individual a government purchase charge card or government travel charge card. “(2) An individual may not be issued a government purchase charge card or government travel charge card if the individual is found not credit worthy as a result of the evaluation under paragraph (1). “(3) This subsection shall remain in effect for fiscal year 2004. “(c) Disciplinary Action for Misuse of Government Charge Card.—(1) The Secretary shall establish guidelines and procedures for disciplinary actions to be taken against Department personnel for improper, fraudulent, or abusive use of government purchase charge cards and government travel charge cards. “(2) The guidelines and procedures under this subsection shall include appropriate disciplinary actions for use of charge cards for purposes, and at establishments, that are inconsistent with the official business of the Department or with applicable standards of conduct. “(3) The disciplinary actions under this subsection may include—“(A) the review of the security clearance of the individual involved; and “(B) the modification or revocation of such security clearance in light of the review. “(4) The guidelines and procedures under this subsection shall apply uniformly among the Armed Forces and among the elements of the Department. “(d) Report.—Not later than June 30, 2003, the Secretary shall submit to the congressional defense committees [Committees on Armed Services of the Senate and the House of Representatives and Subcommittees on Defense of the Committees on Appropriations of the Senate and the House of Representatives] a report on the implementation of the requirements and limitations in this section, including the guidelines and procedures established under subsection (c).”

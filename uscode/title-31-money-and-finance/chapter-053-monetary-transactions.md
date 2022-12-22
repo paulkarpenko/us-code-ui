@@ -456,11 +456,11 @@ Pub. L. 116–283, div. F, title LXI, § 6110(a), Jan. 1, 2021, 134 Stat. 4561, 
 See 2021 Amendment note and Rulemaking note below.
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(2)(G), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
-The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to [section 2703(6) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2703/6&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section2701&num=0&edition=prelim) and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (a)(2)(X)(ii), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of Title 25, Indians. Section 4(6) of the Act is classified to [section 2703(6) of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2703/6&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section2701&num=0&edition=prelim) and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2021—Subsec. (a)(1). Pub. L. 116–283, § 6102(d)(1)(A), substituted “, a transaction in money, credit, securities or gold, or a service provided with respect to money, securities, futures, precious metals, stones and jewels, or value that substitutes for currency” for “, or a transaction in money, credit, securities, or gold”.
@@ -3004,7 +3004,7 @@ Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a
 
       (III) has an operating presence at a physical office within the United States;
 
-    (xxii) any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) (xix), or (xxi);
+    (xxii) any corporation, limited liability company, or other similar entity of which the ownership interests are owned or controlled, directly or indirectly, by 1 or more entities described in clause (i), (ii), (iii), (iv), (v), (vii), (viii), (ix), (x), (xi), (xii), (xiii), (xiv), (xv), (xvi), (xvii) 11 So in original. Probably should be followed by a comma. (xix), or (xxi);
 
     (xxiii) any corporation, limited liability company, or other similar entity—
 
@@ -3046,9 +3046,9 @@ Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a
 
     (i) the necessity of a requirement for corporations, limited liability companies, or other similar entities to update the report on beneficial ownership information in paragraph (2), related to a change in ownership, within a shorter period of time than required under subparagraph (D), taking into account the updating requirements under subparagraph (D) and the information contained in the reports;
 
-    (ii) the benefit to law enforcement and national security officials that might be derived from,11 So in original. and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
+    (ii) the benefit to law enforcement and national security officials that might be derived from,22 So in original. and the burden that a requirement to update the list of beneficial owners within a shorter period of time after a change in the list of beneficial owners would impose on corporations, limited liability companies, or other similar entities; and
 
-    (iii) not later than 2 years after the date of enactment of this section, incorporate 1 into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
+    (iii) not later than 2 years after the date of enactment of this section, incorporate 2 into the regulations, as appropriate, any changes necessary to implement the findings and determinations based on the review required under this subparagraph.
 
   (F) *Regulation requirements.—* — In promulgating the regulations required under subparagraphs (A) through (D), the Secretary of the Treasury shall, to the greatest extent practicable—
 
@@ -3272,9 +3272,9 @@ Section 6003 of the Anti-Money Laundering Act of 2020, referred to in subsec. (a
 
       (II) provide for robust and effective implementation and enforcement of the provisions of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
-    (iii) strengthen 1 FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
+    (iii) strengthen 2 FinCEN management efforts, as necessary and as identified by the Director, to meet the requirements of the Anti-Money Laundering Act of 2020 and the amendments made by that Act;
 
-    (iv) provide 1 for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
+    (iv) provide 2 for the necessary public outreach to ensure the broad dissemination of information regarding any new program requirements provided for in the Anti-Money Laundering Act of 2020 and the amendments made by that Act, including—
 
       (I) educating the business community on the goals and operations of the new beneficial ownership database; and
 

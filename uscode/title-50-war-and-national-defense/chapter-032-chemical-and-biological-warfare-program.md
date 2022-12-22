@@ -30,7 +30,7 @@ None of the funds authorized to be appropriated by this Act or any other Act may
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in provision preceding par. (1), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204, as amended. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in provision preceding par. (1), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1970—Pub. L. 91–441 inserted reference to the disposal of lethal chemical or biological warfare agents in the United States.
@@ -98,7 +98,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in pars. (1) and (2), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204, as amended. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in pars. (1) and (2), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1970—Par. (1). Pub. L. 91–441, § 506(b)(2), inserted reference to disposal of lethal chemical or biological warfare agents or delivery systems for such agents.
@@ -163,7 +163,7 @@ Section was not enacted as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 94–106, Oct. 7, 1975, 89 Stat. 531, as amended, known as the Department of Defense Appropriation Authorization Act, 1976. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 94–106, Oct. 7, 1975, 89 Stat. 531, known as the Department of Defense Appropriation Authorization Act, 1976. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was not enacted as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.

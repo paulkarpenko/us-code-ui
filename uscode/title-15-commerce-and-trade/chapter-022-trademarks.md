@@ -71,12 +71,9 @@ source: >-
 
 **(e) Designation of resident for service of process and notices** If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
+**(f) Third-party submission of evidence** A third party may submit for consideration for inclusion in the record of an application evidence relevant to a ground for refusal of registration. The third-party submission shall identify the ground for refusal and include a concise description of each piece of evidence submitted in support of each identified ground for refusal. Not later than 2 months after the date on which the submission is filed, the Director shall determine whether the evidence should be included in the record of the application. The Director shall establish by regulation appropriate procedures for the consideration of evidence submitted by a third party under this subsection and may prescribe a fee to accompany the submission. If the Director determines that the third-party evidence should be included in the record of the application, only the evidence and the ground for refusal to which the evidence relates may be so included. Any determination by the Director whether or not to include evidence in the record of an application shall be final and non-reviewable, and a determination to include or to not include evidence in the record shall not prejudice any party’s right to raise any issue and rely on any evidence in any other proceeding.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–260, div. Q, title II, § 223(a), (c), Dec. 27, 2020, 134 Stat. 2201, provided that, effective 1 year after Dec. 27, 2020, this section is amended by adding at the end the following: “(f) Third-party submission of evidence“A third party may submit for consideration for inclusion in the record of an application evidence relevant to a ground for refusal of registration. The third-party submission shall identify the ground for refusal and include a concise description of each piece of evidence submitted in support of each identified ground for refusal. Not later than 2 months after the date on which the submission is filed, the Director shall determine whether the evidence should be included in the record of the application. The Director shall establish by regulation appropriate procedures for the consideration of evidence submitted by a third party under this subsection and may prescribe a fee to accompany the submission. If the Director determines that the third-party evidence should be included in the record of the application, only the evidence and the ground for refusal to which the evidence relates may be so included. Any determination by the Director whether or not to include evidence in the record of an application shall be final and non-reviewable, and a determination to include or to not include evidence in the record shall not prejudice any party’s right to raise any issue and rely on any evidence in any other proceeding.”
-
-See 2020 Amendment note below.
 
 #### Prior Provisions
 Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§ 1, 2, 33 Stat. 724; May 4, 1906, ch. 2081, § 1, 34 Stat. 168; Feb. 18, 1909, ch. 144, 35 Stat. 628; Apr. 11, 1930, ch. 132, § 4, 46 Stat. 155; June 10, 1938, ch. 332, § 1, 52 Stat. 638.
@@ -230,7 +227,7 @@ No trademark by which the goods of the applicant may be distinguished from the g
 Acts March 3, 1881, and February 20, 1905, referred to in subsec. (d), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 Acts Feb. 20, 1905, ch. 592, § 5, 33 Stat. 725; Mar. 2, 1907, ch. 2573, § 1, 34 Stat. 1251; Feb. 18, 1911, ch. 113, 36 Stat. 918; Jan. 8, 1913, ch. 7, 37 Stat. 649; Mar. 19, 1920, ch. 104, § 9, 41 Stat. 535; June 7, 1924, ch. 341, 43 Stat. 647.
@@ -844,22 +841,11 @@ A petition to cancel a registration of a mark, stating the grounds relied upon, 
 
 (4) At any time if the mark is registered under the Act of March 3, 1881, or the Act of February 20, 1905, and has not been published under the provisions of subsection (c) of [section 1062 of this title](./chapter-022-trademarks.md#section-1062).
 
-(5) At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately to exercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies:
+(5) At any time in the case of a certification mark on the ground that the registrant (A) does not control, or is not able legitimately to exercise control over, the use of such mark, or (B) engages in the production or marketing of any goods or services to which the certification mark is applied, or (C) permits the use of the certification mark for purposes other than to certify, or (D) discriminately refuses to certify or to continue to certify the goods or services of any person who maintains the standards or conditions which such mark certifies.
+
+(6) At any time after the 3-year period following the date of registration, if the registered mark has never been used in commerce on or in connection with some or all of the goods or services recited in the registration:
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–260, div. Q, title II, § 225(b), (g), Dec. 27, 2020, 134 Stat. 2204, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended as follows:
-
-(1) by striking the colon at the end of paragraph (5) and inserting a period;
-
-(2) by inserting after paragraph (5) the following:
-
-“(6) At any time after the 3-year period following the date of registration, if the registered mark has never been used in commerce on or in connection with some or all of the goods or services recited in the registration:”; and
-
-(3) in the flush text following paragraph (6), as added, by inserting “Nothing in paragraph (6) shall be construed to limit the timing applicable to any other ground for cancellation. A registration under section 1126(e) or 1141f of this title shall not be cancelled pursuant to paragraph (6) if the registrant demonstrates that any nonuse is due to special circumstances that excuse such nonuse.” after “identical certification mark is applied.”
-
-See 2020 Amendment notes below.
 
 #### References in Text
 Acts March 3, 1881 and February 20, 1905, referred to in opening par. and pars. (2) and (4), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
@@ -929,7 +915,7 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 <a id="section-1065"></a>
 ## § 1065. Incontestability of right to use mark under certain conditions
 
-Except on a ground for which application to cancel may be filed at any time under paragraphs (3) and (5) of [section 1064 of this title](./chapter-022-trademarks.md#section-1064), and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the owner to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: Provided, That—
+Except on a ground for which application to cancel may be filed at any time under paragraphs (3), (5), and (6) of [section 1064 of this title](./chapter-022-trademarks.md#section-1064), and except to the extent, if any, to which the use of a mark registered on the principal register infringes a valid right acquired under the law of any State or Territory by use of a mark or trade name continuing from a date prior to the date of registration under this chapter of such registered mark, the right of the owner to use such registered mark in commerce for the goods or services on or in connection with which such registered mark has been in continuous use for five consecutive years subsequent to the date of such registration and is still in use in commerce, shall be incontestable: Provided, That—
 
 (1) there has been no final decision adverse to the owner’s claim of ownership of such mark for such goods or services, or to the owner’s right to register the same or to keep the same on the register; and
 
@@ -942,9 +928,6 @@ Subject to the conditions above specified in this section, the incontestable rig
 The Director shall notify any registrant who files the above-prescribed affidavit of the filing thereof.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–260, div. Q, title II, § 225(e)(1), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended by striking “paragraphs (3) and (5)” and inserting “paragraphs (3), (5), and (6)”. See 2020 Amendment note below.
 
 #### References in Text
 Acts March 3, 1881 and February 20, 1905, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502 and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
@@ -1292,12 +1275,9 @@ For transfer of functions of other officers, employees, and agencies of Departme
 <a id="section-1070"></a>
 ## § 1070. Appeals to Trademark Trial and Appeal Board from decisions of examiners
 
-An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks upon the payment of the prescribed fee. The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.
+An appeal may be taken to the Trademark Trial and Appeal Board from any final decision of the examiner in charge of the registration of marks or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding upon the payment of the prescribed fee. The Director may reconsider, and modify or set aside, a decision of the Trademark Trial and Appeal Board under this section.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–260, div. Q, title II, § 225(d)(1), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended by inserting “or a final decision by an examiner in an ex parte expungement proceeding or ex parte reexamination proceeding” after “registration of marks”. See 2020 Amendment note below.
 
 #### Prior Provisions
 Act Feb. 20, 1905, ch. 592, §§ 8, 13, 33 Stat. 726, 728.
@@ -1332,7 +1312,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 ## § 1071. Appeal to courts
 **(a) Persons entitled to appeal; United States Court of Appeals for the Federal Circuit; waiver of civil action; election of civil action by adverse party; procedure**
 
-(1) An applicant for registration of a mark, party to an interference proceeding, party to an opposition proceeding, party to an application to register as a lawful concurrent user, party to a cancellation proceeding, a registrant who has filed an affidavit as provided in [section 1058 of this title](./chapter-022-trademarks.md#section-1058) or [section 1141k of this title](./chapter-022-trademarks.md#section-1141k), or an applicant for renewal, who is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, may appeal to the United States Court of Appeals for the Federal Circuit thereby waiving his right to proceed under subsection (b) of this section: Provided, That such appeal shall be dismissed if any adverse party to the proceeding, other than the Director, shall, within twenty days after the appellant has filed notice of appeal according to paragraph (2) of this subsection, files notice with the Director that he elects to have all further proceedings conducted as provided in subsection (b) of this section. Thereupon the appellant shall have thirty days thereafter within which to file a civil action under subsection (b) of this section, in default of which the decision appealed from shall govern the further proceedings in the case.
+(1) An applicant for registration of a mark, party to an interference proceeding, party to an opposition proceeding, party to an application to register as a lawful concurrent user, party to a cancellation proceeding, a registrant who has filed an affidavit as provided in [section 1058 of this title](./chapter-022-trademarks.md#section-1058) or [section 1141k of this title](./chapter-022-trademarks.md#section-1141k), an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding, who is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, may appeal to the United States Court of Appeals for the Federal Circuit thereby waiving his right to proceed under subsection (b) of this section: Provided, That such appeal shall be dismissed if any adverse party to the proceeding, other than the Director, shall, within twenty days after the appellant has filed notice of appeal according to paragraph (2) of this subsection, files notice with the Director that he elects to have all further proceedings conducted as provided in subsection (b) of this section. Thereupon the appellant shall have thirty days thereafter within which to file a civil action under subsection (b) of this section, in default of which the decision appealed from shall govern the further proceedings in the case.
 
 (2) When an appeal is taken to the United States Court of Appeals for the Federal Circuit, the appellant shall file in the United States Patent and Trademark Office a written notice of appeal directed to the Director, within such time after the date of the decision from which the appeal is taken as the Director prescribes, but in no case less than 60 days after that date.
 
@@ -1342,7 +1322,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 **(b) Civil action; persons entitled to; jurisdiction of court; status of Director; procedure**
 
-(1) Whenever a person authorized by subsection (a) of this section to appeal to the United States Court of Appeals for the Federal Circuit is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, said person may, unless appeal has been taken to said United States Court of Appeals for the Federal Circuit, have remedy by a civil action if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in subsection (a) of this section. The court may adjudge that an applicant is entitled to a registration upon the application involved, that a registration involved should be canceled, or such other matter as the issues in the proceeding require, as the facts in the case may appear. Such adjudication shall authorize the Director to take any necessary action, upon compliance with the requirements of law. However, no final judgment shall be entered in favor of an applicant under [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim) before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim).
+(1) Whenever a person authorized by subsection (a) of this section to appeal to the United States Court of Appeals for the Federal Circuit, except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding, is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, said person may, unless appeal has been taken to said United States Court of Appeals for the Federal Circuit, have remedy by a civil action if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in subsection (a) of this section. The court may adjudge that an applicant is entitled to a registration upon the application involved, that a registration involved should be canceled, or such other matter as the issues in the proceeding require, as the facts in the case may appear. Such adjudication shall authorize the Director to take any necessary action, upon compliance with the requirements of law. However, no final judgment shall be entered in favor of an applicant under [section 1051(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051/b&num=0&edition=prelim) before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to [section 1057(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1057/c&num=0&edition=prelim).
 
 (2) The Director shall not be made a party to an inter partes proceeding under this subsection, but he shall be notified of the filing of the complaint by the clerk of the court in which it is filed and shall have the right to intervene in the action.
 
@@ -1351,15 +1331,6 @@ For transfer of functions of other officers, employees, and agencies of Departme
 (4) Where there is an adverse party, such suit may be instituted against the party in interest as shown by the records of the United States Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there are adverse parties residing in a plurality of districts not embraced within the same State, or an adverse party residing in a foreign country, the United States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (a)(1) and (b)(1)
-Pub. L. 116–260, div. Q, title II, § 225(d)(2), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended as follows:
-
-(1) in subsection (a)(1), by striking “or an applicant for renewal” and inserting “an applicant for renewal, or a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding”; and
-
-(2) in subsection (b)(1), by inserting “, except for a registrant subject to an ex parte expungement proceeding or an ex parte reexamination proceeding,” before “is dissatisfied”.
-
-See 2020 Amendment notes below.
 
 #### Codification
 Pub. L. 93–596, which provided for the substitution of “Patent and Trademark Office” for “Patent Office” each time appearing in this chapter, became effective Jan. 2, 1975, as did Pub. L. 93–600, which in the course of amending subsec. (a)(3) and (4) of this section, referred merely to “Patent Office”. “Patent and Trademark Office” has been substituted for “Patent Office” in subsec. (a)(3) and (4) on authority of Pub. L. 93–596.
@@ -1599,12 +1570,9 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 <a id="section-1094"></a>
 ## § 1094. Provisions of chapter applicable to registrations on supplemental register
 
-The provisions of this chapter shall govern so far as applicable applications for registration and registrations on the supplemental register as well as those on the principal register, but applications for and registrations on the supplemental register shall not be subject to or receive the advantages of sections 1051(b), 1052(e), 1052(f), 1057(b), 1057(c), 1062(a), 1063 to 1068, inclusive, 1072, 1115 and 1124 of this title.
+The provisions of this chapter shall govern so far as applicable applications for registration and registrations on the supplemental register as well as those on the principal register, but applications for and registrations on the supplemental register shall not be subject to or receive the advantages of sections 1051(b), 1052(e), 1052(f), 1057(b), 1057(c), 1062(a), 1063 to 1068, inclusive, 1072, 1115 and 1124 of this title. Registrations on the supplemental register shall be subject to ex parte expungement and ex parte reexamination under sections 1066a and 1066b of this title, respectively.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–260, div. Q, title II, § 225(e)(2), (g), Dec. 27, 2020, 134 Stat. 2207, 2208, provided that, effective upon the expiration of the 1-year period beginning on Dec. 27, 2020, and applicable to any mark registered before, on, or after that effective date, this section is amended by adding at the end the following: “Registrations on the supplemental register shall be subject to ex parte expungement and ex parte reexamination under sections 1066a and 1066b of this title, respectively.” See 2020 Amendment note below.
 
 #### Prior Provisions
 Act Mar. 19, 1920, ch. 104, § 6, 41 Stat. 535.
@@ -2575,7 +2543,7 @@ Offices of collector of customs, comptroller of customs, surveyor of customs, an
 Acts March 3, 1881, and February 20, 1905, referred to in subsec. (c)(2)(A)(iv), (6), are acts Mar. 3, 1881, ch. 138, 21 Stat. 502, and Feb. 20, 1905, ch. 592, 33 Stat. 724, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, § 46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title.
 
 #### Constitutionality
-For information regarding constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 Act Mar. 19, 1920, ch. 104, § 3, 41 Stat. 534.

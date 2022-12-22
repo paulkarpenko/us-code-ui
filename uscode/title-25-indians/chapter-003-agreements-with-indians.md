@@ -76,7 +76,7 @@ R.S. § 2080 derived from act July 5, 1862, ch. 135, § 1, 12 Stat. 528.
 ### Statutory Notes
 
 #### References in Text
-The Indian Gaming Regulatory Act, referred to in subsec. (f)(2), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
+The Indian Gaming Regulatory Act, referred to in subsec. (f)(2), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, which is classified principally to chapter 29 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-029-indian-gaming-regulation.md#section-2701) and Tables.
 
 #### Codification
 R.S. § 2103 derived from acts Mar. 3, 1871, ch. 120, § 3, 16 Stat. 570; May 21, 1872, ch. 177, §§ 1, 2, 17 Stat. 136.
@@ -167,7 +167,7 @@ Land allotted to any applicant for enrollment as a citizen in the Five Civilized
 ### Statutory Notes
 
 #### References in Text
-Act of March third, nineteen hundred and eleven, referred to in text, is act Mar. 3, 1911, ch. 210, 36 Stat. 1060, as amended, which, insofar as classified to the Code, enacted sections 11, 118, 143, 156, 300, and 301 of this title. For classification of this Act to the Code, see Tables.
+Act of March third, nineteen hundred and eleven, referred to in text, is act Mar. 3, 1911, ch. 210, 36 Stat. 1060, which, insofar as classified to the Code, enacted sections 11, 118, 143, 156, 300, and 301 of this title. For classification of this Act to the Code, see Tables.
 
 #### Amendments
 1948—Act June 25, 1948, struck out provisions relating to prohibiting contracts for compensation for services in relation to enrollment in the Five Civilized Tribes.

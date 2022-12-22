@@ -195,7 +195,7 @@ Donald J. Trump.
 
 (5) **Report to congress.—** — At the same time that the President submits the budget for a fiscal year to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Director shall submit to Congress a report on the net program performance benefits achieved as a result of major capital investments made by executive agencies for information systems and how the benefits relate to the accomplishment of the goals of the executive agencies.
 
-**(d) Information Technology Standards.—** The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under [section 11331 of this title](./chapter-113-responsibility-for-acquisitions-of-information-technology.md#section-11331) and section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3&num=0&edition=prelim)).
+**(d) Information Technology Standards.—** The Director shall oversee the development and implementation of standards and guidelines pertaining to federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under [section 11331 of this title](./chapter-113-responsibility-for-acquisitions-of-information-technology.md#section-11331) 1 and section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3&num=0&edition=prelim)).
 
 **(e) Designation of Executive Agents for Acquisitions.—** The Director shall designate the head of one or more executive agencies, as the Director considers appropriate, as executive agent for Government-wide acquisitions of information technology.
 
@@ -222,6 +222,8 @@ Donald J. Trump.
 [Section 3542 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542&num=0&edition=prelim), referred to in subsec. (c)(1)(C), was repealed by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073. See [section 3552 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim), Public Printing and Documents.
 
 [Section 2445c of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2445c&num=0&edition=prelim), referred to in subsec. (c)(4)(C), was repealed by Pub. L. 114–328, div. A, title VIII, § 846(1), Dec. 23, 2016, 130 Stat. 2292.
+
+The text of [section 11331 of this title](./chapter-113-responsibility-for-acquisitions-of-information-technology.md#section-11331), referred to in subsec. (d), was generally amended by Pub. L. 117–167, div. B, title II, § 10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
 
 #### Amendments
 2017—Subsec. (c)(5). Pub. L. 115–88 and Pub. L. 115–91 amended subsec. (c) identically, striking out par. (5) relating to sunset of certain provisions. Text read as follows: “Paragraphs (1), (3), and (4) shall not be in effect on and after the date that is 5 years after the date of the enactment of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015.”
@@ -477,7 +479,7 @@ Sec. 5. Agency-wide IT Consolidation. Consistent with the purposes of Executive 
 
 (c) increase use of industry best practices, such as the shared use of IT solutions within agencies and across the executive branch.
 
-Sec. 6. Strengthening Cybersecurity. Consistent with the purposes of Executive Order 13800 of May 11, 2017 (Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure) [6 U.S.C. note prec. 1501], the head of each covered agency shall take all necessary and appropriate action to ensure that:
+Sec. 6. Strengthening Cybersecurity. Consistent with the purposes of Executive Order 13800 of May 11, 2017 (Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure) [6 U.S.C. note prec. 1500], the head of each covered agency shall take all necessary and appropriate action to ensure that:
 
 (a) the CIO, as the principal advisor to the agency head for the management of IT resources, works closely with an integrated team of senior executives with expertise in IT, security, budgeting, acquisition, law, privacy, and human resources to implement appropriate risk management measures; and
 
@@ -672,35 +674,45 @@ Committee on Oversight and Government Reform of House of Representatives changed
 
 <a id="section-11331"></a>
 ## § 11331. Responsibilities for Federal information systems standards
-**(a) Definition.—** In this section, the term “information security” has the meaning given that term in section 3532(b)(1) 11 See References in Text note below. of title 44.
+**(a) Standards and Guidelines.—**
 
-**(b) Requirement to Prescribe Standards.—**
+(1) **Authority to prescribe.—** — Except as provided under paragraph (2), the Secretary of Commerce shall, on the basis of standards and guidelines developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3/a&num=0&edition=prelim)), prescribe standards and guidelines pertaining to Federal information systems.
 
-(1) **In general.—**
+(2) **National security systems.—** — Standards and guidelines for national security systems shall be developed, prescribed, enforced, and overseen as otherwise authorized by law and as directed by the President.
 
-  (A) *Requirement.—* — Except as provided under paragraph (2), the Director of the Office of Management and Budget shall, on the basis of proposed standards developed by the National Institute of Standards and Technology pursuant to paragraphs (2) and (3) of section 20(a) of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3/a&num=0&edition=prelim)) and in consultation with the Secretary of Homeland Security, promulgate information security standards pertaining to Federal information systems.
+**(b) Mandatory Requirements.—**
 
-  (B) *Required standards.—* — Standards promulgated under subparagraph (A) shall include—
+(1) **Authority to make mandatory.—** — Except as provided under paragraph (2), the Secretary of Commerce shall make standards prescribed under subsection (a)(1) compulsory and binding to the extent determined necessary by the Secretary to improve the efficiency of operation or security of Federal information systems.
 
-    (i) standards that provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3/b&num=0&edition=prelim)); and
+(2) **Required mandatory standards.—**
 
-    (ii) such standards that are otherwise necessary to improve the efficiency of operation or security of Federal information systems.
+  (A) *In general.—* — Standards prescribed under subsection (a)(1) shall include information security standards that—
 
-  (C) *Required standards binding.—* — Information security standards described under subparagraph (B) shall be compulsory and binding.
+    (i) provide minimum information security requirements as determined under section 20(b) of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3/b&num=0&edition=prelim)); and
 
-(2) **Standards and guidelines for national security systems.—** — Standards and guidelines for national security systems, as defined under section 3532(3) 1 of title 44, shall be developed, promulgated, enforced, and overseen as otherwise authorized by law and as directed by the President.
+    (ii) are otherwise necessary to improve the security of Federal information and information systems.
 
-**(c) Application of More Stringent Standards.—** The head of an agency may employ standards for the cost-effective information security for all operations and assets within or under the supervision of that agency that are more stringent than the standards promulgated by the Director under this section, if such standards—
+  (B) *Requirement.—* — Information security standards described in subparagraph (A) shall be compulsory and binding.
 
-(1) contain, at a minimum, the provisions of those applicable standards made compulsory and binding by the Director; and
+**(c) Authority to Disapprove or Modify.—** The President may disapprove or modify the standards and guidelines referred to in subsection (a)(1) if the President determines such action to be in the public interest. The President’s authority to disapprove or modify such standards and guidelines may not be delegated. Notice of such disapproval or modification shall be published promptly in the Federal Register. Upon receiving notice of such disapproval or modification, the Secretary of Commerce shall immediately rescind or modify such standards or guidelines as directed by the President.
 
-(2) are otherwise consistent with policies and guidelines issued under section 3533 1 of title 44.
+**(d) Exercise of Authority.—** To ensure fiscal and policy consistency, the Secretary of Commerce shall exercise the authority conferred by this section subject to direction by the President and in coordination with the Director of the Office of Management and Budget.
 
-**(d) Requirements Regarding Decisions by Director.—**
+**(e) Application of More Stringent Standards.—** The head of an executive agency may employ standards for the cost-effective information security for Federal information systems within or under the supervision of that agency that are more stringent than the standards the Secretary prescribes under this section if the more stringent standards—
 
-(1) **Deadline.—** — The decision regarding the promulgation of any standard by the Director under subsection (b) shall occur not later than 6 months after the submission of the proposed standard to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3&num=0&edition=prelim)).
+(1) contain at least the applicable standards made compulsory and binding by the Secretary of Commerce; and
 
-(2) **Notice and comment.—** — A decision by the Director to significantly modify, or not promulgate, a proposed standard submitted to the Director by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3&num=0&edition=prelim)), shall be made after the public is given an opportunity to comment on the Director’s proposed decision.
+(2) are otherwise consistent with policies and guidelines issued under [section 3553 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3553&num=0&edition=prelim).
+
+**(f) Decisions on Promulgation of Standards.—** The decision by the Secretary of Commerce regarding the promulgation of any standard under this section shall occur not later than 6 months after the submission of the proposed standard to the Secretary by the National Institute of Standards and Technology, as provided under section 20 of the National Institute of Standards and Technology Act ([15 U.S.C. 278g–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278g–3&num=0&edition=prelim)).
+
+**(g) Definitions.—** In this section:
+
+(1) **Federal information system.—** — The term “Federal information system” means an information system used or operated by an executive agency, by a contractor of an executive agency, or by another organization on behalf of an executive agency.
+
+(2) **Information security.—** — The term “information security” has the meaning given that term in [section 3552(b)(3) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b/3&num=0&edition=prelim).
+
+(3) **National security system.—** — The term “national security system” has the meaning given that term in [section 3552(b)(6) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552/b/6&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -713,6 +725,8 @@ Committee on Oversight and Government Reform of House of Representatives changed
 Sections 3532 and 3533 of title 44, referred to in subsecs. (a), (b)(2), and (c)(2), were repealed by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to sections 3532 and 3533 of title 44 are now contained, respectively, in sections 3552 and 3553 of title 44, as enacted by Pub. L. 113–283.
 
 #### Amendments
+2022—Pub. L. 117–167 amended text generally. Prior to amendment, text related to the definition of “information security”, in subsec. (a); the requirement that the Director of the Office of Management and Budget promulgate information security standards, in subsec. (b); the application of more stringent standards by heads of agencies, in subsec. (c); and requirements regarding decisions by the Director, in subsec. (d).
+
 2002—Pub. L. 107–296 amended text generally. Prior to amendment, text, as amended generally by Pub. L. 107–347, read as follows:
 
 “(a) Standards and Guidelines.—

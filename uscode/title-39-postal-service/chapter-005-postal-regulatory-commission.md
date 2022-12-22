@@ -16,6 +16,11 @@ The Postal Regulatory Commission is an independent establishment of the executiv
 #### Effective Date of 2006 Amendment
 Pub. L. 109–435, title VI, § 601(b), Dec. 20, 2006, 120 Stat. 3239, provided that: “The amendment made by subsection (a)(1) [enacting this section and [section 502 of this title](./chapter-005-postal-regulatory-commission.md#section-502)] shall not affect the appointment or tenure of any person serving as a Commissioner on the Postal Regulatory Commission (as so redesignated by section 604 [see Tables for classification]) under an appointment made before the date of enactment of this Act [Dec. 20, 2006] or any nomination made before that date, but, when any such office becomes vacant, the appointment of any person to fill that office shall be made in accordance with such amendment.”
 
+#### Flats Operations Study and Reform
+Pub. L. 117–108, title II, § 206, Apr. 6, 2022, 136 Stat. 1148, provided that: “(a) Flats Operations Study.—“(1) In general.—The Postal Regulatory Commission, in consultation with the Inspector General of the United States Postal Service, shall conduct a study to—“(A) comprehensively identify the causes of inefficiencies in the collection, sorting, transportation, and delivery of Flats; and “(B) quantify the effects of the volume trends, investments decisions, excess capacity, and operational inefficiencies of the Postal Service on the direct and indirect costs of the Postal Service that are attributable to Flats. “(2) Postal service assistance.—For the purposes of carrying out the study under paragraph (1), the Postal Service shall, upon request by the Postal Regulatory Commission, consult with the Postal Regulatory Commission and provide—“(A) access to Postal Service facilities to personnel of the Postal Regulatory Commission; and “(B) information and records necessary to conduct such study. “(3) Report.—Not later than one year after the date of the enactment of this Act [Apr. 6, 2022], the Postal Regulatory Commission shall submit to Congress and the Postmaster General a report on the findings of the study conducted under paragraph (1). “(4) Flats defined.—In this subsection, the term ‘Flats’ means products that meet the physical standards described in the Domestic Mail Manual (as in effect on the date of the enactment of this Act) for Flats mail for any class of mail. “(b) Flats Operations Reform.—“(1) In general.—Not later than six months after the date on which the Postal Regulatory Commission submits the report described in subsection (a)(3), the Postal Service shall—“(A) develop and implement a plan to remedy each inefficiency identified in the study conducted under subsection (a)(1) to the extent practicable; and “(B) if the Postal Service determines that remedying any such inefficiency is not practicable, provide to Congress and the Postal Regulatory Commission an explanation why remedying such inefficiency is not practicable, including whether it may become practicable to remedy such inefficiency at a later time. “(2) Implementation requirements.—Prior to implementing the plan described in paragraph (1)—“(A) the Postal Regulatory Commission must approve the plan; and “(B) the Postal Service shall provide an adequate opportunity for public comment on the plan. “(3) Completion notice.—On the date on which the plan described in paragraph (1) is fully implemented, as determined by the Postmaster General, the Postmaster General shall submit to Congress and the Postal Regulatory Commission a written notice of such implementation. “(c) Subsequent Rate Adjustments.—During the five-year period beginning on the date on which the Postal Regulatory Commission submits a report under subsection (a)(3), the Postal Service, when making any adjustment to the rate of a market-dominant product (as defined in [section 102 of title 39](./chapter-001-postal-policy-and-definitions.md#section-102), United States Code), shall consider the findings of such report and, after the plan described in subsection (b)(1) is implemented, the plan’s efficacy in remedying the inefficiencies identified in the study conducted under subsection (a)(1).”
+
+[For definitions of “market-dominant product” and “Postal Service” as used in section 206 of Pub. L. 117–108, set out above, see [section 102 of this title](./chapter-001-postal-policy-and-definitions.md#section-102) as made applicable by section 2(b) of Pub. L. 117–108, which is set out as a note below.]
+
 #### Assessments of Ratemaking, Classification, and Other Provisions
 Pub. L. 109–435, title VII, § 701, Dec. 20, 2006, 120 Stat. 3242, provided that: “(a) In General.—The Postal Regulatory Commission shall, at least every 5 years, submit a report to the President and Congress concerning—“(1) the operation of the amendments made by this Act [see Tables for classification]; and “(2) recommendations for any legislation or other measures necessary to improve the effectiveness or efficiency of the postal laws of the United States. “(b) Postal Service Views.—A report under this section shall be submitted only after reasonable opportunity has been afforded to the Postal Service to review the report and to submit written comments on the report. Any comments timely received from the Postal Service under the preceding sentence shall be attached to the report submitted under subsection (a).”
 
@@ -24,6 +29,9 @@ Pub. L. 109–435, title VII, § 702, Dec. 20, 2006, 120 Stat. 3243, provided th
 
 #### Provisions Relating to Cooperative Mailings
 Pub. L. 109–435, title VII, § 711, Dec. 20, 2006, 120 Stat. 3248, provided that: “(a) Study.—“(1) In general.—The Postal Regulatory Commission shall examine section E670.5.3 of the Domestic Mail Manual to determine whether it contains adequate safeguards to protect against—“(A) abuses of rates for nonprofit mail; and “(B) deception of consumers. “(2) Report.—The Commission shall report the results of its examination to the Postal Service, along with any recommendations that the Commission determines appropriate. “(b) Failure to Act.—If the Postal Service fails to act on the recommendations of the Commission, the Commission may take such action as it determines necessary to prevent abuse of rates or deception of consumers.”
+
+#### Definitions
+Pub. L. 117–108, § 2, Apr. 6, 2022, 136 Stat. 1127, provided that: “(a) Commission.—In this Act [see Tables for classification], the term ‘Commission’ means the Postal Regulatory Commission. “(b) Terms Defined in Title 39, United States Code.—In this Act, the terms ‘competitive product’, ‘market-dominant product’, and ‘Postal Service’ have the meanings given those terms in [section 102 of title 39](./chapter-001-postal-policy-and-definitions.md#section-102), United States Code.”
 
 
 <a id="section-502"></a>
@@ -72,7 +80,17 @@ Pub. L. 109–435, § 601(a)(3), renumbered [section 3603 of this title](https:/
 
 **(c)** The Chairman may obtain such facilities and supplies as may be necessary to permit the Commission to carry out its functions. Any officer or employee appointed under this section shall be paid at rates of compensation and shall be entitled to programs offering employee benefits established under chapter 10 or chapter 12 of this title, as appropriate.
 
-**(d)** There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits.
+**(d)**
+
+(1) Not later than September 1 of each fiscal year (beginning with fiscal year 2022), the Postal Regulatory Commission shall submit to the Postal Service a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits, for the following fiscal year. Any such budget shall be deemed approved as submitted if the Governors fail to adjust the budget in accordance with paragraph (2).
+
+(2)
+
+  (A) Not later than 30 days after receiving a budget under paragraph (1), the Governors holding office, by unanimous written decision, may adjust the total amount of funding requested in such budget. Nothing in this subparagraph may be construed to authorize the Governors to adjust any activity proposed to be funded by the budget.
+
+  (B) If the Governors adjust the budget under subparagraph (A), the Postal Regulatory Commission shall adjust the suballocations within such budget to reflect the total adjustment made by the Governors. The budget shall be deemed approved on the date the Commission makes any such adjustments. The Commission may make further adjustments to the suballocations within such budget as necessary.
+
+(3) Expenses incurred under any budget approved under this subsection shall be paid out of the Postal Service Fund established under section 2003.
 
 **(e)** The provisions of section 410 and chapter 10 of this title shall apply to the Commission, as appropriate.
 
@@ -115,12 +133,23 @@ Pub. L. 109–435, § 601(a)(3), renumbered [section 3603 of this title](https:/
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–108, title II, § 209(d), (e), Apr. 6, 2022, 136 Stat. 1152, provided that, effective 180 days after Apr. 6, 2022, this section is amended by striking subsection (h). See 2022 Amendment note below.
+
 #### References in Text
 Rule 26(c) of the Federal Rules of Civil Procedure, referred to subsec. (g)(3)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The Inspector General Act of 1978, referred to in subsec. (h)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–108, § 205(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits.”
+
+Subsec. (h). Pub. L. 117–108, § 209(d), struck out subsec. (h) which read as follows:
+
+“(1) Notwithstanding any other provision of this title or of the Inspector General Act of 1978, the authority to select, appoint, and employ officers and employees of the Office of Inspector General of the Postal Regulatory Commission, and to obtain any temporary or intermittent services of experts or consultants (or an organization of experts or consultants) for such Office, shall reside with the Inspector General of the Postal Regulatory Commission.
+
+“(2) Except as provided in paragraph (1), any exercise of authority under this subsection shall, to the extent practicable, be in conformance with the applicable laws and regulations that govern selections, appointments, and employment, and the obtaining of any such temporary or intermittent services, within the Postal Regulatory Commission.”
+
 2006—Pub. L. 109–435, § 601(a)(3), renumbered [section 3604 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3604&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 109–435, § 604(a), substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
@@ -138,6 +167,9 @@ Subsec. (b). Pub. L. 94–421 added subsec. (b). Former subsec. (b) redesignated
 Subsec. (c). Pub. L. 94–421 redesignated former subsec. (b) as (c), transferred authority to obtain facilities and supplies from the Commission to the chairman, and struck out the authority of the Commission to appoint and fix compensation of officers and employees and requiring them to be responsible to the Commissioners. Former subsec. (c) redesignated (d).
 
 Subsecs. (d), (e). Pub. L. 94–421 redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (d), as so redesignated, made minor changes in phraseology.
+
+#### Effective Date of 2022 Amendment
+Amendment by section 209(d) of Pub. L. 117–108 effective 180 days after Apr. 6, 2022, see section 209(e) of Pub. L. 117–108, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of 2006 Amendment; Savings Provisions
 Amendment by section 603(a) of Pub. L. 109–435 applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subject to savings provisions, see section 603(d) of Pub. L. 109–435, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.

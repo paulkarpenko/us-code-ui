@@ -315,13 +315,17 @@ Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that: “
 
 **(f) Credit for research expenditures of qualified small businesses**
 
-(1) **In general** — In the case of a taxpayer who has made an election under section 41(h) for a taxable year, there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to the payroll tax credit portion determined under section 41(h)(2).
+(1) **In general** — In the case of a taxpayer who has made an election under section 41(h) for a taxable year—
 
-(2) **Limitation** — The credit allowed by paragraph (1) shall not exceed the tax imposed by subsection (a) for any calendar quarter on the wages paid with respect to the employment of all individuals in the employ of the employer.
+  (A) there shall be allowed as a credit against the tax imposed by subsection (a) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to so much of the payroll tax credit portion determined under section 41(h)(2) as does not exceed the limitation of subclause (I) of section 41(h)(4)(B)(i) (applied without regard to subclause (II) thereof), and
 
-(3) **Carryover of unused credit** — If the amount of the credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
+  (B) there shall be allowed as a credit against the tax imposed by subsection (b) for the first calendar quarter which begins after the date on which the taxpayer files the return specified in section 41(h)(4)(A)(ii) an amount equal to so much of the payroll tax credit portion determined under section 41(h)(2) as is not allowed as a credit under subparagraph (A).
 
-(4) **Deduction allowed for credited amounts** — The credit allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a).
+(2) **Limitation** — The credit allowed by paragraph (1)(A) shall not exceed the tax imposed by subsection (a) for any calendar quarter, and the credit allowed by paragraph (1)(B) shall not exceed the tax imposed by subsection (b) for any calendar quarter, on the wages paid with respect to the employment of all individuals in the employ of the employer.
+
+(3) **Carryover of unused credit** — If the amount of any credit under paragraph (1) exceeds the limitation of paragraph (2) for any calendar quarter, such excess shall be carried to the succeeding calendar quarter and allowed as a credit under paragraph (1) for such quarter.
+
+(4) **Deduction allowed for credited amounts** — The credits allowed under paragraph (1) shall not be taken into account for purposes of determining the amount of any deduction allowed under chapter 1 for taxes imposed under subsection (a) or (b).
 
 ### Statutory Notes
 
@@ -329,6 +333,14 @@ Pub. L. 103–387, § 2(a)(4), Oct. 22, 1994, 108 Stat. 4072, provided that: “
 Section 233 of the Social Security Act, referred to in subsec. (c), is classified to [section 433 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section433&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2022—Subsec. (f)(1). Pub. L. 117–169, § 13902(b)(1), substituted “for a taxable year—” for “for a taxable year,” and designated remainder of existing provisions as subpar. (A), substituted “equal to so much of the” for “equal to the” and “as does not exceed the limitation of subclause (I) of section 41(h)(4)(B)(i) (applied without regard to subclause (II) thereof), and” for period at end, and added subpar. (B).
+
+Subsec. (f)(2). Pub. L. 117–169, § 13902(b)(2), substituted “paragraph (1)(A)” for “paragraph (1)” and inserted “, and the credit allowed by paragraph (1)(B) shall not exceed the tax imposed by subsection (b) for any calendar quarter,” after “calendar quarter”.
+
+Subsec. (f)(3). Pub. L. 117–169, § 13902(b)(3), substituted “any credit” for “the credit”.
+
+Subsec. (f)(4). Pub. L. 117–169, § 13902(b)(4), substituted “credits” for “credit” and “subsection (a) or (b)” for “subsection (a)”.
+
 2018—Subsec. (d). Pub. L. 115–141, § 401(b)(34), struck out subsec. (d) which provided for a special exemption for certain individuals hired in 2010.
 
 Subsec. (e)(5)(B). Pub. L. 115–141, § 401(a)(208), substituted “has the meaning” for “has meaning”.
@@ -428,6 +440,9 @@ Subsec. (b). Pub. L. 89–97, § 111(c)(6), struck out “, but without regard t
 1956—Act Aug. 1, 1956, increased rate of tax with respect to wages paid during calendar years 1957 to 1959, and for all calendar years thereafter, by one-quarter percent.
 
 1954—Act Sept. 1, 1954, increased 3¼ percent rate of tax for calendar year 1970 and subsequent years to 3½ percent for calendar years 1970 to 1974 and 4 percent for 1975 and subsequent years.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 13902(d) of Pub. L. 117–169, set out as a note under [section 41 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-41).
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 121(d)(3) of Pub. L. 114–113, set out as a note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
@@ -2525,7 +2540,7 @@ Amendment by Pub. L. 99–509, except as otherwise provided, effective with resp
 
     (iii) are required to be made pursuant to the terms of a collective bargaining agreement in effect with respect to such calendar quarter.
 
-  (B) *Pension contribution rate* — The term “pension contribution rate” means the contribution rate that the employer is obligated to pay on behalf of its employees under the terms of a collective bargaining agreement for benefits under a defined benefit plan under such agreement, as such rate is applied to contribution base units (as defined by section 4001(a)(11) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1301(a)(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1301/a/11&num=0&edition=prelim)).
+  (B) *Pension contribution rate* — The term “pension contribution rate” means the contribution rate that the employer is obligated to pay on behalf of its employees under the terms of a collective bargaining agreement for benefits under a defined benefit plan under such agreement, as such rate is applied to contribution base units (as defined by section 4001(a)(11) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1301(a)(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1301/a/11&num=0&edition=prelim)).11 So in original. Another closing parenthesis probably should precede the period.
 
   (C) *Allocation rules* — The amount of collectively bargained defined benefit pension plan contributions allocated to qualified sick leave wages for any calendar quarter shall be the product of—
 
@@ -2545,7 +2560,7 @@ Amendment by Pub. L. 99–509, except as otherwise provided, effective with resp
 
   (B) *Registered apprenticeship program* — The term “registered apprenticeship program” means an apprenticeship registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; 50 Stat. 664, chapter 663; [29 U.S.C. 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) et seq.) that meets the standards of subpart A of part 29 and part 30 of title 29, Code of Federal Regulations.
 
-  (C) *Apprenticeship program contribution rate* — The term “apprenticeship program contribution rate” means the contribution rate that the employer is obligated to pay on behalf of its employees under the terms of a collective bargaining agreement for benefits under a registered apprenticeship program under such agreement, as such rate is applied to contribution base units (as defined by section 4001(a)(11) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1301(a)(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1301/a/11&num=0&edition=prelim)).
+  (C) *Apprenticeship program contribution rate* — The term “apprenticeship program contribution rate” means the contribution rate that the employer is obligated to pay on behalf of its employees under the terms of a collective bargaining agreement for benefits under a registered apprenticeship program under such agreement, as such rate is applied to contribution base units (as defined by section 4001(a)(11) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1301(a)(11)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1301/a/11&num=0&edition=prelim)).1
 
   (D) *Allocation rules* — The amount of collectively bargained apprenticeship program contributions allocated to qualified sick leave wages for any calendar quarter shall be the product of—
 
@@ -2585,7 +2600,7 @@ Amendment by Pub. L. 99–509, except as otherwise provided, effective with resp
 
     (iii) a restaurant revitalization grant under section 5003 of the American Rescue Plan Act of 2021.
 
-  (B) *Application where ppp loans not forgiven* — The Secretary shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified sick leave wages under this section by reason of subparagraph (A)(i) to the extent that—
+  (B) *Application where PPP loans not forgiven* — The Secretary shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified sick leave wages under this section by reason of subparagraph (A)(i) to the extent that—
 
     (i) a covered loan of the taxpayer under section 7(a)(37) of the Small Business Act is not forgiven by reason of a decision under section 7(a)(37)(J) of such Act, or
 
@@ -2743,7 +2758,7 @@ Pub. L. 117–2, title IX, § 9641(d), Mar. 11, 2021, 135 Stat. 171, provided th
 
     (iii) a restaurant revitalization grant under section 5003 of the American Rescue Plan Act of 2021.
 
-  (B) *Application where ppp loans not forgiven* — The Secretary shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified family leave wages under this section by reason of subparagraph (A)(i) to the extent that—
+  (B) *Application where PPP loans not forgiven* — The Secretary shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified family leave wages under this section by reason of subparagraph (A)(i) to the extent that—
 
     (i) a covered loan of the taxpayer under section 7(a)(37) of the Small Business Act is not forgiven by reason of a decision under section 7(a)(37)(J) of such Act, or
 
@@ -2934,7 +2949,7 @@ Section applicable to amounts paid with respect to calendar quarters beginning a
 
   (C) a restaurant revitalization grant under section 5003 of the American Rescue Plan Act of 2021.
 
-(2) **Application where ppp loans not forgiven** — The Secretary shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified wages under this section by reason of paragraph (1) to the extent that—
+(2) **Application where PPP loans not forgiven** — The Secretary shall issue guidance providing that payroll costs paid during the covered period shall not fail to be treated as qualified wages under this section by reason of paragraph (1) to the extent that—
 
   (A) a covered loan of the taxpayer under section 7(a)(37) of the Small Business Act is not forgiven by reason of a decision under section 7(a)(37)(J) of such Act, or
 
@@ -3000,4 +3015,4 @@ Subsec. (n). Pub. L. 117–58, § 80604(a)(2), substituted “October 1, 2021 (o
 Pub. L. 117–58, div. H, title VI, § 80604(b), Nov. 15, 2021, 135 Stat. 1341, provided that: “The amendments made by this section [amending this section] shall apply to calendar quarters beginning after September 30, 2021.”
 
 #### Effective Date
-Pub. L. 117–2, title IX, § 9651(d), Mar. 11, 2021, 135 Stat. 182, provided that: “The amendments made by this section [enacting this section and amending [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), itle 31, Money and Finance] shall apply to calendar quarters beginning after June 30, 2021.”
+Pub. L. 117–2, title IX, § 9651(d), Mar. 11, 2021, 135 Stat. 182, provided that: “The amendments made by this section [enacting this section and amending [section 1324 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), Money and Finance] shall apply to calendar quarters beginning after June 30, 2021.”

@@ -170,9 +170,9 @@ Section was formerly classified to [section 11605 of Title 42](https://uscode.ho
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b), (c), (e), and (f), was in the original “this Act” meaning Pub. L. 100–300, Apr. 29, 1988, 102 Stat. 437, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-097-international-child-abduction-remedies.md#section-9001) and Tables.
+This chapter, referred to in subsecs. (b), (c), (e), and (f), was in the original “this Act” meaning Pub. L. 100–300, Apr. 29, 1988, 102 Stat. 437, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-097-international-child-abduction-remedies.md#section-9001) and Tables.
 
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 11606 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11606&num=0&edition=prelim), The Public Health and Welfare.

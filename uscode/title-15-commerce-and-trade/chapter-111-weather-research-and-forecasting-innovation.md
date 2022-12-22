@@ -2,38 +2,20 @@
 title: 15
 chapter: '111'
 heading: WEATHER RESEARCH AND FORECASTING INNOVATION
-section_count: 25
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
 <a id="section-8501"></a>
-## § 8501. Improvements to Cooperative Observer Program of National Weather Service
-**(a) In general** The Under Secretary of Commerce for Oceans and Atmosphere, acting through the National Weather Service, shall improve the Cooperative Observer Program by—
+## § 8501. Definitions
 
-(1) providing support to—
+In this subchapter:
 
-  (A) State-coordinated programs relating to the Program; and
+(1) **Administrator** — The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
 
-  (B) States and regions where observations provided through the Program are scarce;
+(2) **National Academies** — The term “National Academies” means the National Academies of Sciences, Engineering, and Medicine.
 
-(2) working with State weather service headquarters to increase participation in the Program and to add stations in States and regions described in paragraph (1)(B);
-
-(3) where feasible, ensuring that data streams from stations that have been contributing data to the Program for more than 50 years are maintained and continually staffed by volunteers;
-
-(4) prioritizing the recruitment of new volunteers for the Program;
-
-(5) ensuring that opportunities exist for automated reporting to lessen the burden on volunteers to collect and report data by hand; and
-
-(6) ensuring that integrated reporting is available for qualitative observations that cannot be automated, such as drought conditions, snow observations, and hazardous weather events, to ensure that volunteers in the Program can report and upload observations quickly and easily.
-
-**(b) Coordination with States and regions** Not less frequently than every 180 days, the National Weather Service shall coordinate with State and regional offices with respect to the status of Cooperative Observer Program stations.
-
-**(c) Coordination with Federal agencies** The National Weather Service shall coordinate with other Federal agencies, including the Forest Service, the Department of Agriculture, and the United States Geological Survey, to leverage opportunities to grow the Cooperative Observer Program network and to more effectively use existing infrastructure, weather stations, and staff of the Program.
-
-### Statutory Notes
-
-#### Codification
-This section was enacted as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Weather Research and Forecasting Innovation Act of 2017, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
+(3) **United States** — The term “United States” means, collectively, each State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands of the United States, and any other territory or possession of the United States.
 
 
 <a id="section-8511"></a>
@@ -55,6 +37,9 @@ In this chapter:
 
 #### References in Text
 This chapter, referred to in text, is Pub. L. 115–25, April 18, 2017, 131 Stat. 91, known as the Weather Research and Forecasting Innovation Act of 2017, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–229, div. D, § 1, Dec. 16, 2022, 136 Stat. 2313, provided that: “This Act [enacting subchapter IV of this chapter] may be cited as the ‘Providing Research and Estimates of Changes In Precipitation Act’ or the ‘PRECIP Act’.”
 
 #### Short Title of 2019 Amendment
 Pub. L. 115–423, § 1, Jan. 7, 2019, 132 Stat. 5454, provided that: “This Act [enacting [section 8550 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8550) and [section 4010 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4010&num=0&edition=prelim), Navigation and Navigable Waters, amending sections 313d, 8512, 8518 to 8521, 8531, and 8532 of this title and sections 4001 to 4002 and 4009 of Title 33, enacting provisions set out as a note under [section 4001 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section4001&num=0&edition=prelim), and amending provisions set out as a note under [section 313d of this title](./chapter-009-national-weather-service.md#section-313d)] may be cited as the ‘National Integrated Drought Information System Reauthorization Act of 2018’.”
@@ -966,3 +951,97 @@ The General Schedule, referred to in subsec. (b), is set out under [section 5332
 **(c) Future technology** The Under Secretary shall continue the development of Airborne Phased Array Radar under the United States Weather Research Program.
 
 **(d) Authorization of appropriations** For each of fiscal years 2017 through 2020, support for implementing subsections (a) and (b) is authorized out of funds appropriated to the Office of Marine and Aviation Operations.
+
+
+<a id="section-8561"></a>
+## § 8561. Improvements to Cooperative Observer Program of National Weather Service
+**(a) In general** The Under Secretary of Commerce for Oceans and Atmosphere, acting through the National Weather Service, shall improve the Cooperative Observer Program by—
+
+(1) providing support to—
+
+  (A) State-coordinated programs relating to the Program; and
+
+  (B) States and regions where observations provided through the Program are scarce;
+
+(2) working with State weather service headquarters to increase participation in the Program and to add stations in States and regions described in paragraph (1)(B);
+
+(3) where feasible, ensuring that data streams from stations that have been contributing data to the Program for more than 50 years are maintained and continually staffed by volunteers;
+
+(4) prioritizing the recruitment of new volunteers for the Program;
+
+(5) ensuring that opportunities exist for automated reporting to lessen the burden on volunteers to collect and report data by hand; and
+
+(6) ensuring that integrated reporting is available for qualitative observations that cannot be automated, such as drought conditions, snow observations, and hazardous weather events, to ensure that volunteers in the Program can report and upload observations quickly and easily.
+
+**(b) Coordination with States and regions** Not less frequently than every 180 days, the National Weather Service shall coordinate with State and regional offices with respect to the status of Cooperative Observer Program stations.
+
+**(c) Coordination with Federal agencies** The National Weather Service shall coordinate with other Federal agencies, including the Forest Service, the Department of Agriculture, and the United States Geological Survey, to leverage opportunities to grow the Cooperative Observer Program network and to more effectively use existing infrastructure, weather stations, and staff of the Program.
+
+### Statutory Notes
+
+#### Codification
+This section was enacted as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Weather Research and Forecasting Innovation Act of 2017, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
+
+
+<a id="section-8562"></a>
+## § 8562. Study on precipitation estimation
+**(a) In general** Not later than 90 days after December 16, 2022, the Administrator, in consultation with other Federal agencies as appropriate, shall seek to enter an agreement with the National Academies—
+
+(1) to conduct a study on the state of practice and research needs for precipitation estimation, including probable maximum precipitation estimation; and
+
+(2) to submit, not later than 24 months after the date on which such agreement is finalized, to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate, and make publicly available on a website, a report on the results of the study under paragraph (1).
+
+**(b) Study** The report under subsection (a) shall include the following:
+
+(1) An examination of the current state of practice for precipitation estimation at scales appropriate for decisionmaker needs, and rationale for further evolution of this field.
+
+(2) An evaluation of best practices for precipitation estimation that are based on the best-available science, include considerations of non-stationarity, and can be utilized by the user community.
+
+(3) A framework for—
+
+  (A) the development of a National Guidance Document for estimating extreme precipitation in future conditions; and
+
+  (B) evaluation of the strengths and challenges of the full spectrum of approaches, including for probable maximum precipitation studies.
+
+(4) A description of existing research needs in the field of precipitation estimation in order to modernize current methodologies and consider non-stationarity.
+
+(5) A description of in-situ, airborne, and space-based observation requirements, that could enhance precipitation estimation and development of models, including an examination of the use of geographic information systems and geospatial technology for integration, analysis, and visualization of precipitation data.
+
+(6) A recommended plan for a Federal research and development program, including specifications for costs, timeframes, and responsible agencies for addressing identified research needs.
+
+(7) An analysis of the respective roles in precipitation estimation of various Federal agencies, academia, State, tribal, territorial, and local governments, and other public and private stakeholders.
+
+(8) Recommendations for data management to promote long-term needs such as enabling retrospective analyses and data discoverability, interoperability, and reuse.
+
+(9) Recommendations for how data and services from the entire enterprise can be best leveraged by the Federal Government.
+
+(10) A description of non-Federal precipitation data, its accessibility by the Federal Government, and ways for National Oceanic and Atmospheric Administration to improve or expand such datasets.
+
+**(c) Authorization of appropriations** There is authorized $1,500,000 to the National Oceanic and Atmospheric Administration to carry out this study.
+
+
+<a id="section-8563"></a>
+## § 8563. Improving probable maximum precipitation estimates
+**(a) In general** Not later than 90 days after the date on which the National Academies makes public the report under [section 8561 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8561), the Administrator, in consideration of the report recommendations, shall consult with relevant partners, including users of the data, on the development of a plan to—
+
+(1) not later than 6 years after the completion of such report and not less than every 10 years thereafter, update probable maximum precipitation estimates for the United States, such that each update considers non-stationarity;
+
+(2) coordinate with partners to conduct research in the field of extreme precipitation estimation, in accordance with the research needs identified in such report;
+
+(3) make publicly available, in a searchable, interoperable format, all probable maximum precipitation studies developed by the National Oceanic and Atmospheric Administration that the Administrator has the legal right to redistribute and deemed to be at an appropriate state of development on an internet website of the National Oceanic and Atmospheric Administration; and
+
+(4) ensure all probable maximum precipitation estimate data, products, and supporting documentation and metadata developed by the National Oceanic and Atmospheric Administration are preserved, curated, and served by the National Oceanic and Atmospheric Administration, as appropriate.
+
+**(b) National guidance document for the development of probable maximum precipitation estimates** The Administrator, in collaboration with Federal agencies, State, territorial, Tribal and local governments, academia, and other partners the Administrator deems appropriate, shall develop a National Guidance Document that—
+
+(1) provides best practices that can be followed by Federal and State regulatory agencies, private meteorological consultants, and other users that perform probable maximum precipitation studies;
+
+(2) considers the recommendations provided in the National Academies study under [section 8561 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8561);
+
+(3) facilitates review of probable maximum precipitation studies by regulatory agencies; and
+
+(4) provides confidence in regional and site-specific probable maximum precipitation estimates.
+
+**(c) Publication** Not later than 2 years after the date on which the National Academies makes public the report under [section 8561 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8561), the Administrator shall make publicly available the National Guidance Document under subsection (b) on an internet website of the National Oceanic and Atmospheric Administration.
+
+**(d) Updates** The Administrator shall update the National Guidance Document not less than once every 10 years after the publication of the National Guidance Document under subsection (c) and publish such updates in accordance with such subsection.

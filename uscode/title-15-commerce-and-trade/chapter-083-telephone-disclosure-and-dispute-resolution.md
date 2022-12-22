@@ -198,7 +198,7 @@ This chapter, referred to in subsecs. (d) and (f), was in the original “this A
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 
 <a id="section-5721"></a>
@@ -259,7 +259,7 @@ For purposes of this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Truth in Lending Act, referred to in subsecs. (a)(2) and (d)(10), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
+The Truth in Lending Act, referred to in subsecs. (a)(2) and (d)(10), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
 
 The Fair Credit Billing Act, referred to in subsecs. (a)(2) and (d)(10), is title III of Pub. L. 93–495, Oct. 28, 1974, 88 Stat. 1511, which is classified principally to part D (§ 1666 et seq.) of subchapter I of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
 
@@ -284,4 +284,4 @@ The Commission shall enforce the requirements of this subchapter. For the purpos
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.

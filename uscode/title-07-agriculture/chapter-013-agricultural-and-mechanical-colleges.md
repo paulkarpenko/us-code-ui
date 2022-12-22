@@ -355,7 +355,7 @@ Pursuant to the recognized obligations of governments to guarantee the social se
 ### Statutory Notes
 
 #### References in Text
-The Act approved July 2, 1862, referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, known as the “Morrill Act” and also known as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of this chapter. “Acts supplementary thereto” include act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890, and also known as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of this chapter. For complete classification of these Acts to the Code, see Short Title notes set out under sections 301 and 321 of this title and Tables.
+The Act approved July 2, 1862, referred to in text, is act July 2, 1862, ch. 130, 12 Stat. 503, as amended, known as the “Morrill Act” and also known as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of this chapter. “Acts supplementary thereto” include act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890, and also known as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of this chapter. For complete classification of these Acts to the Code, see Short Title notes set out under sections 301 and 321 of this title and Tables.
 
 #### Codification
 “Subchapter III of chapter 83 of title 5” substituted in text for “United States Civil Service Retirement Act, as amended” on authority of Pub. L. 89–544, § 7(b), Sept. 6, 1966, 80 Stat. 631, 632, the first section of which enacted Title 5, Government Organization and Employees.
@@ -375,7 +375,7 @@ In order to aid in diffusing among the people of the United States useful and pr
 ### Statutory Notes
 
 #### References in Text
-The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in text, is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in text, is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
 
 #### Codification
 Another section 1447 of Pub. L. 95–113 is classified to [section 3222b of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3222b).

@@ -90,7 +90,7 @@ Prior section 1904 was renumbered [section 3904 of this title](./chapter-039-aut
 Another prior section 1904, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1216, related to prohibition against duplication of benefits, prior to the general revision of chapter 39 of this title by Pub. L. 91–666, § 2(a), Jan. 11, 1971, 84 Stat. 1998. See [section 3903 of this title](./chapter-039-automobiles-and-adaptive-equipment-for-certain-disabled-veterans-and-members-of-the-armed-forces.md#section-3903).
 
 #### Amendments
-1991—Pub. L. 102–83, § 5(a), renumbered [section 704 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section704&num=0&edition=prelim) as this section.
+1991—Pub. L. 102–83, § 5(a), renumbered [section 704 of this title](./chapter-007-employees.md#section-704) as this section.
 
 Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
 
@@ -148,7 +148,7 @@ Provisions for cash, loan, paid-up, and extended values, dividends from gains an
 ### Statutory Notes
 
 #### Amendments
-1991—Pub. L. 102–83 renumbered [section 706 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section706&num=0&edition=prelim) as this section and substituted “Secretary” for “Administrator”.
+1991—Pub. L. 102–83 renumbered [section 706 of this title](./chapter-007-employees.md#section-706) as this section and substituted “Secretary” for “Administrator”.
 
 
 <a id="section-1907"></a>
@@ -1714,7 +1714,7 @@ Subsec. (d). Pub. L. 99–576, § 701(36)(B), substituted “the Administrator�
 
   (A) Subject to subparagraphs (B), (C), and (D), the amount for which a person is insured under this subchapter is as follows:
 
-    (i) In the case of a member, $400,000.
+    (i) In the case of a member, $500,000.
 
     (ii) In the case of a member’s spouse, $100,000.
 
@@ -1792,6 +1792,8 @@ shall be deemed to have been on active duty, active duty for training, or inacti
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(3)(A)(i). Pub. L. 117–209 substituted “$500,000” for “$400,000”.
+
 2021—Subsec. (a)(3)(D). Pub. L. 116–283 inserted a comma after “theater of operations” in introductory provisions.
 
 2018—Subsec. (a)(3)(A). Pub. L. 115–232, § 625(1), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)” in introductory provisions.
@@ -1961,6 +1963,9 @@ Subsec. (c). Pub. L. 93–289, § 4(3), inserted provisions authorizing members 
 Subsec. (b). Pub. L. 91–291 added subsec. (b). Former subsec. (b) redesignated (c).
 
 Subsec. (c). Pub. L. 91–291 redesignated former subsec. (b) as subsec. (c) and inserted provisions reflecting the increase from $10,000 to $15,000 in maximum available insurance for members of uniformed services.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–209, § 2(b), Oct. 17, 2022, 136 Stat. 2243, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the later of— “(1) the date that is 60 days after the date of the enactment of this Act [Oct. 17, 2022]; or “(2) the date on which the Secretary of Veterans Affairs determines that—“(A) the amount for which a member will be insured pursuant to the amendment made by subsection (a) and the premiums for such amount are administratively and actuarially sound for the Servicemembers’ Group Life Insurance program under subchapter III of chapter 19 of title 38, United States Code, and the Veterans’ Group Life Insurance program under section 1977 of such title; and “(B) the increase in such amount carried out pursuant to the amendment will not result in such programs operating at a loss.”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–389, title IV, § 403(e)(1), Oct. 10, 2008, 122 Stat. 4174, provided that: “The amendments made by subsection (a) [amending this section and [section 1969 of this title](./chapter-019-insurance.md#section-1969)] shall take effect on the date of the enactment of this Act [Oct. 10, 2008].”

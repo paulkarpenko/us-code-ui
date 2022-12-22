@@ -272,7 +272,7 @@ The status as a minor use under this subsection shall continue as long as the Ad
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in subsec. (l), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (l), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
 
 [Section 321 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321&num=0&edition=prelim), referred to in subsec. (u), was subsequently amended, and subsecs. (w) and (x) of section 321 no longer define the terms “new animal drug” and “animal feed”, respectively. However, such terms are defined elsewhere in that section.
 
@@ -1489,13 +1489,13 @@ The effective date of this section, referred to in subsecs. (a), (c)(1), (2), an
 
 [Section 136a(c)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136a/c/1/D&num=0&edition=prelim), referred to in subsecs. (e)(1)(I) and (h), was redesignated [section 136a(c)(1)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136a/c/1/F&num=0&edition=prelim) by Pub. L. 102–237, title X, § 1006(a)(3)(B), Dec. 13, 1991, 105 Stat. 1894.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(A)(1), (E)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(A)(1), (E)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 The Endangered Species Act of 1973, referred to in subsec. (k)(2)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
 
 Subsection (i)(1)(C)(ii) of this section, referred to in subsec. (k)(7), was previously a reference to subsec. (i)(5)(C)(ii), which was repealed and a new subsec. (i)(5)(C)(ii) was added by Pub. L. 108–199, § 501(c)(2). Subsec. (i)(5)(C) was amended by Pub. L. 110–94, § 4(a), and, as so amended, related to fees but no longer contained a cl. (ii). Subsec. (i)(5) was redesignated (i)(1) by Pub. L. 112–177, § 2(a)(1)(C).
 
-The Public Health Service Act, referred to in subsec. (n)(6), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (n)(6), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 4 of act June 25, 1947, which was classified to [section 136b of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136b) was transferred to section 11(a)–(c) of act June 25, 1947, which is classified to section 136i(a)–(c) of this title.
@@ -3036,7 +3036,7 @@ Pub. L. 105–276, title III, Oct. 21, 1998, 112 Stat. 2499, provided in part: �
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1988—Pub. L. 100–532, § 801(m), inserted headings for subsecs. (a) to (c) and realigned margins of pars. (1) to (4) of subsec. (c).
@@ -3111,7 +3111,7 @@ The Poison Prevention Packaging Act, referred to in subsec. (c)(3), probably mea
 
 References in subsec. (c)(4) to “section 136(q)(1)” was, in the original, a reference to “paragraph 2(q)(1)” and has been editorially translated as “section 136(q)(1)” as the probable intent of Congress.
 
-The Environmental Research, Development, and Demonstration Authorization Act of 1978, referred to in subsec. (d), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, as amended. Provisions of the Act establishing the Science Advisory Board are classified to [section 4365 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4365&num=0&edition=prelim), The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+The Environmental Research, Development, and Demonstration Authorization Act of 1978, referred to in subsec. (d), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257. Provisions of the Act establishing the Science Advisory Board are classified to [section 4365 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4365&num=0&edition=prelim), The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1996—Subsec. (a)(1). Pub. L. 104–170, § 235, inserted “, including public health pesticides,” after “various classes of pesticides” and substituted “, nonagricultural, and public health pesticides” for “and nonagricultural pesticides”.
@@ -3862,7 +3862,7 @@ Section 1651 of the Food, Agriculture, Conservation, and Trade Act of 1990, refe
 #### References in Text
 The effective date of the Pesticide Registration Improvement Act of 2003, and the effective date of this section, referred to in text, is the effective date of section 501 of Pub. L. 108–199, which is the date that is 60 days after Jan. 23, 2004, unless otherwise provided, see section 501(h) of Pub. L. 108–199, set out as an Effective Date of 2004 Amendment note under [section 136a of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136a).
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2)(B)(ii), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 Section 2 of Public Law 89–106, referred to in subsec. (b)(7)(E)(i), was formerly classified to secton 450i of this title prior to editorial reclassification and renumbering as [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157).
 
@@ -3870,7 +3870,7 @@ The effective date of the Pesticide Registration Improvement Extension Act of 20
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (h)(1)(A), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section501&num=0&edition=prelim), Money and Finance, and Tables.
 
-The Government Management Reform Act of 1994, referred to in subsec. (h)(1)(B), is Pub. L. 103–356, Oct. 13, 1994, 108 Stat. 3410, as amended. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 3301 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3301&num=0&edition=prelim), Money and Finance, and Tables.
+The Government Management Reform Act of 1994, referred to in subsec. (h)(1)(B), is Pub. L. 103–356, Oct. 13, 1994, 108 Stat. 3410. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 3301 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3301&num=0&edition=prelim), Money and Finance, and Tables.
 
 #### Prior Provisions
 A prior section 33 of act June 25, 1947, ch. 125, was renumbered section 34 and is classified to [section 136x of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136x).

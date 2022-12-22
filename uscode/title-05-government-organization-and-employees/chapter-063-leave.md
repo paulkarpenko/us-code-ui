@@ -398,7 +398,7 @@ The words “full biweekly pay period” are substituted for “complete biweekl
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d)(3)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Tables.
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d)(3)(A), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Tables.
 
 Section 112(c)(2) of the Internal Revenue Code of 1986, referred to in subsec. (d)(4)(B)(ii), is classified to [section 112(c)(2) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section112/c/2&num=0&edition=prelim), Internal Revenue Code.
 

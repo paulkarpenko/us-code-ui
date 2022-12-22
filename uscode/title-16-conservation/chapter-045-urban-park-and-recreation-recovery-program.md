@@ -20,6 +20,7 @@ Section, Pub. L. 95–625, title X, § 1002, Nov. 10, 1978, 92 Stat. 3538, which
 
 ### Statutory Notes
 
+#### Codification
 Section, Pub. L. 95–625, title X, § 1003, Nov. 10, 1978, 92 Stat. 3539; Pub. L. 103–322, title III, §§ 31501, 31505(b), Sept. 13, 1994, 108 Stat. 1888, 1890, which related to congressional statement of purpose regarding establishment of urban park and recreation recovery program, was transferred and is set out as a note under [section 200501 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200501&num=0&edition=prelim), National Park Service and Related Programs.
 
 

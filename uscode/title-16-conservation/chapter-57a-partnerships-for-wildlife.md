@@ -44,9 +44,9 @@ The Congress finds the following:
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act referred to in par. (10), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act referred to in par. (10), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The North American Wetlands Conservation Act, referred to in par. (13), is Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, as amended, which is classified principally to chapter 64 (§ 4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4401 of this title](./chapter-064-north-american-wetlands-conservation.md#section-4401) and Tables.
+The North American Wetlands Conservation Act, referred to in par. (13), is Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, which is classified principally to chapter 64 (§ 4401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4401 of this title](./chapter-064-north-american-wetlands-conservation.md#section-4401) and Tables.
 
 #### Short Title
 Pub. L. 102–587, title VII, § 7101, Nov. 4, 1992, 106 Stat. 5094, provided that: “This Title [enacting this chapter] may be cited as the ‘Partnerships for Wildlife Act’.”
@@ -101,7 +101,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in par. (9)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in par. (9)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Amendments
 1994—Par. (2). Pub. L. 103–375, § 6(2)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘designated State agency’ means the State fish and wildlife agency, which shall be construed to mean any department, or any division of any department of another name, of a State that is empowered under its laws to exercise the functions ordinarily exercised by a State fish and wildlife agency.”

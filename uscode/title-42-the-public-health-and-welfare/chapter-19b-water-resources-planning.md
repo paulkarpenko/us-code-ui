@@ -25,7 +25,7 @@ In order to meet the rapidly expanding demands for water throughout the Nation, 
 ### Statutory Notes
 
 #### Short Title of 1974 Amendment
-Pub. L. 93–251, title I, § 109, Mar. 16, 1974, 88 Stat. 49, provided that: “This title [enacting sections 1962d–5c and 1962d–15 to 1962d–17 of this title, [section 460ee of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460ee&num=0&edition=prelim), Conservation, and sections 50c–2, 50k, 579, 701b–11, and 1252a of Title 33, Navigation and Navigable Waters, amending [section 4482 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4482&num=0&edition=prelim), sections 460l–13(a), (a)(3) and 460l–14(b)(1) of Title 16, [section 275a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section275a&num=0&edition=prelim), Foreign Relations and Intercourse, and sections 701g, 701n, 701r, 701r–1(c), 701s, 709a(b), and 1165a(d) of Title 33, and enacting provisions set out as notes under sections 1962d–5 and 1962d–7 of this title and section 460l–13 of Title 16] may be cited as the ‘Water Resources Development Act of 1974’.”
+Pub. L. 93–251, title I, § 109, Mar. 16, 1974, 88 Stat. 49, provided that: “This title [enacting sections 1962d–5c and 1962d–15 to 1962d–17 of this title, [section 460ee of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460ee&num=0&edition=prelim), Conservation, and sections 59c–2, 59k, 579, 701b–11, and 1252a of Title 33, Navigation and Navigable Waters, amending [section 4482 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4482&num=0&edition=prelim), sections 460l–13(a), (a)(3) and 460l–14(b)(1) of Title 16, [section 275a of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section275a&num=0&edition=prelim), Foreign Relations and Intercourse, and sections 701g, 701n, 701r, 701r–1(c), 701s, 709a(b), and 1165a(d) of Title 33, and enacting provisions set out as notes under sections 1962d–5 and 1962d–7 of this title and section 460l–13 of Title 16] may be cited as the ‘Water Resources Development Act of 1974’.”
 
 #### Short Title
 Pub. L. 89–80, § 1, July 22, 1965, 79 Stat. 244, provided that: “This Act [enacting this chapter] may be cited as the ‘Water Resources Planning Act’.”
@@ -1092,7 +1092,7 @@ Subsec. (c). Pub. L. 95–41, § 1(a), substituted “not to exceed the sum of $
 
 1968—Pub. L. 90–547 increased authorization for appropriations to carry out provisions of subchapter I of this chapter from not to exceed $300,000 annually to not to exceed $500,000 annually.
 
-#### Statutory Notes and Related Subsidiaries
+#### Increases in Salary, Pay, Retirement, or Other Benefits for Federal Employees
 Pub. L. 95–404, § 1(e), Sept. 30, 1978, 92 Stat. 864, provided that: “Appropriations authorized by this Act [amending sections 1962c and 1962d of this title] for salary, pay, retirement, or other benefits for Federal employees may be increased by such additional or supplemental amounts as may be necessary for increases authorized by law.”
 
 
@@ -1125,7 +1125,7 @@ The Council may, with the consent of the head of any other department or agency 
 ### Statutory Notes
 
 #### References in Text
-The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, as amended, which is classified generally to this chapter (§ 1962 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1962 of this title](./chapter-19b-water-resources-planning.md#section-1962) and Tables.
+The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, which is classified generally to this chapter (§ 1962 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1962 of this title](./chapter-19b-water-resources-planning.md#section-1962) and Tables.
 
 #### Codification
 Section was not enacted as a part of the Water Resources Planning Act which comprises this chapter.

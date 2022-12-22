@@ -2,7 +2,7 @@
 title: 42
 chapter: '149'
 heading: NATIONAL ENERGY POLICY AND PROGRAMS
-section_count: 282
+section_count: 283
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -165,7 +165,7 @@ source: >-
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the America COMPETES Act, which comprises this subchapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2020, and not as part of the America COMPETES Act which comprises this subchapter.
 
 
 <a id="section-15811"></a>
@@ -228,7 +228,10 @@ Except as otherwise provided, in this Act:
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–167, div. B, title VI, § 10741, Aug. 9, 2022, 136 Stat. 1718, provided that: “This subtitle [subtitle L (§§ 10741–10745) of title VI of div. B of Pub. L. 117–167, amending sections 16274 and 16274a of this title and enacting provisions set out as notes under sections 16274 and 16274a of this title] may be cited as the ‘National Nuclear University Research Infrastructure Reinvestment Act of 2021’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–248, § 1, Sept. 28, 2018, 132 Stat. 3154, provided that: “This Act [enacting sections 16278 to 16280 of this title and amending sections 16021, 16271 to 16274, and 16275 to 16277 of this title] may be cited as the ‘Nuclear Energy Innovation Capabilities Act of 2017’.”
@@ -386,7 +389,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-15831"></a>
@@ -504,7 +507,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy and Conservation Act, referred to in subsec. (a), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (a), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 
 <a id="section-15842"></a>
@@ -757,9 +760,9 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (a), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) and Tables.
 
-This Act, referred to in subsec. (a), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 
 <a id="section-15873"></a>
@@ -783,9 +786,9 @@ Not later than 3 years after August 8, 2005, and thereafter as the availability 
 ### Statutory Notes
 
 #### References in Text
-The Geothermal Steam Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) and Tables.
+The Geothermal Steam Act of 1970, referred to in subsecs. (a) and (b), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) and Tables.
 
-This Act, referred to in subsec. (b), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
+This Act, referred to in subsec. (b), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 
 <a id="section-15881"></a>
@@ -875,6 +878,9 @@ Subsec. (f). Pub. L. 116–260, § 3005(a)(4), substituted “32” for “20”
 
 Subsec. (g). Pub. L. 116–260, § 3005(a)(5), substituted “each of fiscal years 2021 through 2036” for “each of the fiscal years 2006 through 2015”.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-15883"></a>
 ## § 15883. Hydroelectric efficiency improvement incentives
@@ -891,9 +897,12 @@ Subsec. (g). Pub. L. 116–260, § 3005(a)(5), substituted “each of fiscal yea
 
 Subsec. (b). Pub. L. 117–58, § 40332(a)(2), substituted “30 percent” for “10 percent” and “$5,000,000” for “$750,000” and inserted “in any 1 fiscal year” before period.
 
-Subsec. (c). Pub. L. 117–58, § 40332(a)(3), added subsec. (c) and struck out subsec. (c). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section not more than $10,000,000 for each of fiscal years 2021 through 2036.”
+Subsec. (c). Pub. L. 117–58, § 40332(a)(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section not more than $10,000,000 for each of fiscal years 2021 through 2036.”
 
 2020—Subsec. (c). Pub. L. 116–260 substituted “each of fiscal years 2021 through 2036” for “each of the fiscal years 2006 through 2015”.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-15891"></a>
@@ -956,6 +965,9 @@ Subsec. (c). Pub. L. 117–58, § 40332(a)(3), added subsec. (c) and struck out 
 
 #### References in Text
 The Federal Power Act, referred to in subsec. (a)(1)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-15901"></a>
@@ -1207,7 +1219,7 @@ This part, referred to in subsec. (f)(1), was in the original “this subtitle�
 ### Statutory Notes
 
 #### References in Text
-The Outer Continental Shelf Lands Act, referred to in subsecs. (a)(1) and (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsecs. (a)(1) and (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-15906"></a>
@@ -1229,7 +1241,7 @@ The Outer Continental Shelf Lands Act, referred to in subsecs. (a)(1) and (b), i
 ### Statutory Notes
 
 #### References in Text
-The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-15907"></a>
@@ -1303,21 +1315,19 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7
 
   (A) with respect to Federal land or Tribal land, means a well—
 
-    (i)
+    (i) 11 So in original. No cl. (ii) has been enacted. (I) that is not used for an authorized purpose, such as production, injection, or monitoring; and
 
-      (I) 11 So in original. No cl. (ii) enacted. that is not used for an authorized purpose, such as production, injection, or monitoring; and
+  (II)
 
-      (II)
+    (aa) for which no operator can be located;
 
-        (aa) for which no operator can be located;
+    (bb) the operator of which is unable—
 
-        (bb) the operator of which is unable—
+      (AA) to plug the well; and
 
-          (AA) to plug the well; and
+      (BB) to remediate and reclaim the well site; or
 
-          (BB) to remediate and reclaim the well site; or
-
-        (cc) that is within the National Petroleum Reserve–Alaska; and
+    (cc) that is within the National Petroleum Reserve–Alaska; and
 
   (B) with respect to State or private land—
 
@@ -1768,6 +1778,9 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (a), is act Aug. 7
 
 2013—Subsec. (i). Pub. L. 113–40 added subsec. (i).
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-15909"></a>
 ## § 15909. Preservation of geological and geophysical data
@@ -1869,6 +1882,9 @@ The National Geologic Mapping Act of 1992, referred to in subsec. (f)(2), is Pub
 
 2020—Subsec. (k). Pub. L. 116–260 substituted “$5,000,000 for each of fiscal years 2021 through 2029, to remain available until expended” for “$30,000,000 for each of fiscal years 2006 through 2010”.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-15910"></a>
 ## § 15910. Gas hydrate production incentive
@@ -1903,7 +1919,7 @@ The National Geologic Mapping Act of 1992, referred to in subsec. (f)(2), is Pub
 ### Statutory Notes
 
 #### References in Text
-The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2)(A), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2)(A), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-15911"></a>
@@ -2161,7 +2177,7 @@ The Denali Commission Act of 1998, referred to in subsec. (a), is title III of P
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act, referred to in subsec. (b)(1)(A), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act, referred to in subsec. (b)(1)(A), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
 Section 361, referred to in subsec. (b)(2), is section 361 of Pub. L. 109–58, title III, Aug. 8, 2005, 119 Stat. 720, which is not classified to the Code.
 
@@ -2306,15 +2322,15 @@ The Secretary of the Interior shall use the same assessment methodology across a
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (c)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (c)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
-The National Forest Management Act of 1976, referred to in subsec. (c)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim) and Tables.
+The National Forest Management Act of 1976, referred to in subsec. (c)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 The date of enactment of the National Defense Authorization Act for Fiscal Year 2015, referred to in subsec. (e), probably means the date of enactment of the Carl Levin and Howard P. “Buck” McKeon National Defense Authorization Act for Fiscal Year 2015, Pub. L. 113–291, which was approved Dec. 19, 2014.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (f)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (f)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section is comprised of section 365 of Pub. L. 109–58. Subsec. (g) of section 365 of Pub. L. 109–58 amended [section 191 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section191&num=0&edition=prelim), Mineral Lands and Mining.
@@ -2374,7 +2390,7 @@ Subsec. (j)(2). Pub. L. 113–291, § 3021(a)(2), substituted “Project” for 
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended. Title V of the Act is classified generally to subchapter V (§ 1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. Title V of the Act is classified generally to subchapter V (§ 1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-15927"></a>
@@ -2729,9 +2745,9 @@ No Federal or State permit or lease shall be issued for new oil and gas slant, d
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
-The Mineral Leasing Act, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
 
 <a id="section-15951"></a>
@@ -2861,7 +2877,7 @@ Section effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out a
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (a)(5), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (a)(5), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 
 <a id="section-15961"></a>
@@ -3063,7 +3079,7 @@ The Clean Air Act, referred to in subsec. (a)(5), is act July 14, 1955, ch. 360,
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (i), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
+This Act, referred to in subsec. (i), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 #### Amendments
 2007—Subsec. (b)(1)(B)(ii)(I). Pub. L. 110–140 added subcl. (I) and struck out former subcl. (I) which read as follows: “to remove at least 99 percent of sulfur dioxide;”.
@@ -4082,7 +4098,7 @@ There are authorized to be appropriated to the Secretary to carry out this subpa
 
     (iv) any other information that is necessary, as determined by the Administrator; and
 
-  (E) include, as appropriate, information from the annual report required under subsection (b)(7).11 So in original. Probably should be “subsection (b)(8).”.
+  (E) include, as appropriate, information from the annual report required under subsection (b)(7).11 So in original. Probably should be “subsection (b)(8).”
 
 **(d) Administrative costs** The Administrator may use, for the administrative costs of carrying out this section, not more than 3 percent of the amounts made available to carry out this section for any fiscal year.
 
@@ -4545,7 +4561,7 @@ Pub. L. 110–140, title XI, § 1111, Dec. 19, 2007, 121 Stat. 1757, provided th
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (b)(1)(A)(i), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (b)(1)(A)(i), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 #### Codification
 Section is comprised of section 756 of Pub. L. 109–58. Subsec. (c) of section 756 of Pub. L. 109–58 amended [section 127 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section127&num=0&edition=prelim), Highways.
@@ -5190,7 +5206,7 @@ Nothing in this part affects any authority under the Clean Air Act ([42 U.S.C. 7
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 
 <a id="section-16138"></a>
@@ -5264,7 +5280,9 @@ The purposes of this subchapter are—
 For short title of title VIII of Pub. L. 109–58, which enacted this subchapter, as the “Spark M. Matsunaga Hydrogen Act of 2005”, see section 801 of Pub. L. 109–58, set out as a note under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
 
 #### Findings; Purpose
-Pub. L. 117–58, div. D, title III, § 40311, Nov. 15, 2021, 135 Stat. 1005, provided that: “(a) Findings.—Congress finds that—“(1) hydrogen plays a critical part in the comprehensive energy portfolio of the United States; “(2) the use of the hydrogen resources of the United States—“(A) promotes energy security and resilience; and “(B) provides economic value and environmental benefits for diverse applications across multiple sectors of the economy; and “(3) hydrogen can be produced from a variety of domestically available clean energy sources, including—“(A) renewable energy resources, including biomass; “(B) fossil fuels with carbon capture, utilization, and storage; and “(C) nuclear power. “(b) Purpose.—The purpose of this subtitle [Subtitle B (§§ 40311–40315) of title III of Pub. L. 117–58, see Tables for classification] is to accelerate research, development, demonstration, and deployment of hydrogen from clean energy sources by—“(1) providing a statutory definition for the term ‘clean hydrogen’; “(2) establishing a clean hydrogen strategy and roadmap for the United States; “(3) establishing a clearing house for clean hydrogen program information at the National Energy Technology Laboratory; “(4) developing a robust clean hydrogen supply chain and workforce by prioritizing clean hydrogen demonstration projects in major shale gas regions; “(5) establishing regional clean hydrogen hubs; and “(6) authorizing appropriations to carry out the Department of Energy Hydrogen Program Plan, dated November 2020, developed pursuant to title VIII of the Energy Policy Act of 2005 ([42 U.S.C. 16151](./chapter-149-national-energy-policy-and-programs.md#section-16151) et seq.).”
+Pub. L. 117–58, div. D, title III, § 40311, Nov. 15, 2021, 135 Stat. 1005, provided that: “(a) Findings.—Congress finds that—“(1) hydrogen plays a critical part in the comprehensive energy portfolio of the United States; “(2) the use of the hydrogen resources of the United States—“(A) promotes energy security and resilience; and “(B) provides economic value and environmental benefits for diverse applications across multiple sectors of the economy; and “(3) hydrogen can be produced from a variety of domestically available clean energy sources, including—“(A) renewable energy resources, including biomass; “(B) fossil fuels with carbon capture, utilization, and storage; and “(C) nuclear power. “(b) Purpose.—The purpose of this subtitle [subtitle B (§§ 40311–40315) of title III of div. D of Pub. L. 117–58, see Tables for classification] is to accelerate research, development, demonstration, and deployment of hydrogen from clean energy sources by—“(1) providing a statutory definition for the term ‘clean hydrogen’; “(2) establishing a clean hydrogen strategy and roadmap for the United States; “(3) establishing a clearing house for clean hydrogen program information at the National Energy Technology Laboratory; “(4) developing a robust clean hydrogen supply chain and workforce by prioritizing clean hydrogen demonstration projects in major shale gas regions; “(5) establishing regional clean hydrogen hubs; and “(6) authorizing appropriations to carry out the Department of Energy Hydrogen Program Plan, dated November 2020, developed pursuant to title VIII of the Energy Policy Act of 2005 ([42 U.S.C. 16151](./chapter-149-national-energy-policy-and-programs.md#section-16151) et seq.).”
+
+[For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).]
 
 
 <a id="section-16153"></a>
@@ -5301,13 +5319,16 @@ In this subchapter:
 ### Statutory Notes
 
 #### Amendments
-2021—Pars. (1) to (4). Pub. L. 117–58, § 40312(2), (3), added par. (1) and redesignated former pars. (1) to (4) as (2) to (5), respectively.
+2021—Pars. (1) to (4). Pub. L. 117–58, § 40312(2), (3), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively. Former par. (4) redesignated (5).
 
 Par. (5). Pub. L. 117–58, § 40312(2), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
 Pub. L. 117–58, § 40312(1), substituted “Portable; storage” for “Stationary; portable” in heading and “The terms ‘portable’ and ‘storage’, when” for “The terms ‘stationary’ and ‘portable’, when” in introductory provisions.
 
 Pars. (6) to (8). Pub. L. 117–58, § 40312(2), redesignated pars. (5) to (7) as (6) to (8), respectively.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16154"></a>
@@ -5492,6 +5513,9 @@ Subsec. (c)(3). Pub. L. 117–58, § 40313(a)(4), substituted “fossil fuels wi
 Subsec. (e). Pub. L. 117–58, § 40313(a)(5), added subsec. (e) and struck out former subsec. (e) which required Secretary, in partnership with private sector, to conduct programs to address certain activities.
 
 Subsec. (j). Pub. L. 117–58, § 40313(a)(6), added subsec. (j).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16156"></a>
@@ -5838,6 +5862,9 @@ The Secretary shall give preference to projects which address multiple elements 
 #### Prior Provisions
 A prior section 813 of Pub. L. 109–58 was renumbered section 818 and is classified to [section 16162 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16162).
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16161c"></a>
 ## § 16161c. National clean hydrogen strategy and roadmap
@@ -5894,6 +5921,9 @@ A prior section 813 of Pub. L. 109–58 was renumbered section 818 and is classi
 #### Prior Provisions
 A prior section 814 of Pub. L. 109–58 was renumbered section 819 and is classified to [section 16163 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16163).
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16161d"></a>
 ## § 16161d. Clean hydrogen manufacturing and recycling
@@ -5942,10 +5972,13 @@ A prior section 814 of Pub. L. 109–58 was renumbered section 819 and is classi
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to subsecs. (a)(1) and (b)(1), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to subsecs. (a)(1) and (b)(1), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 #### Prior Provisions
 A prior section 815 of Pub. L. 109–58 was renumbered section 820 and is classified to [section 16164 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16164).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16161e"></a>
@@ -6023,6 +6056,9 @@ A prior section 815 of Pub. L. 109–58 was renumbered section 820 and is classi
 #### Prior Provisions
 A prior section 816 of Pub. L. 109–58 was renumbered section 821 and is classified to [section 16165 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16165).
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16162"></a>
 ## § 16162. Laboratory management
@@ -6043,6 +6079,11 @@ A prior section 816 of Pub. L. 109–58 was renumbered section 821 and is classi
   (E) international researchers; and
 
 (2) act as a clearinghouse to collect information from, and distribute information to, the National Laboratories and other entities described in subparagraphs (B) through (E) of paragraph (1).
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16163"></a>
@@ -6126,6 +6167,9 @@ Nothing in this subchapter shall be construed to affect the authority of the Sec
 #### Prior Provisions
 A prior section 16375, Pub. L. 109–58, title IX, § 999E, Aug. 8, 2005, 119 Stat. 923, related to limitations on eligibility for awards, prior to repeal by Pub. L. 113–67, div. A, title III, § 301(a), Dec. 26, 2013, 127 Stat. 1181.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16182"></a>
 ## § 16182. State and local permits
@@ -6143,6 +6187,9 @@ The provision of credit assistance under the CIFIA program with respect to a pro
 #### Prior Provisions
 A prior section 16376, Pub. L. 109–58, title IX, § 999F, Aug. 8, 2005, 119 Stat. 923, terminated the authority provided by former part J on Sept. 30, 2014, prior to repeal by Pub. L. 113–67, div. A, title III, § 301(a), Dec. 26, 2013, 127 Stat. 1181.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16183"></a>
 ## § 16183. Regulations
@@ -6153,6 +6200,9 @@ The Secretary may promulgate such regulations as the Secretary determines to be 
 
 #### Prior Provisions
 A prior section 16377, Pub. L. 109–58, title IX, § 999G, Aug. 8, 2005, 119 Stat. 923, defined terms for former part J, prior to repeal by Pub. L. 113–67, div. A, title III, § 301(a), Dec. 26, 2013, 127 Stat. 1181.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16191"></a>
@@ -6181,6 +6231,9 @@ A prior section 16377, Pub. L. 109–58, title IX, § 999G, Aug. 8, 2005, 119 St
 
 #### Codification
 Section 40315(a) of Pub. L. 117–58, which directed the amendment of the Energy Policy Act of 2005 by adding this section at the end, was executed by adding this section at the end of title VIII of the Act, to reflect the probable intent of Congress.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16192"></a>
@@ -6248,7 +6301,7 @@ In this subchapter:
 #### References in Text
 This subchapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 856, which enacted this subchapter, amended sections 8101 and 8102 of Title 7, Agriculture, and [section 5523 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5523&num=0&edition=prelim), Commerce and Trade, enacted provisions set out as notes under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801), [section 8102 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8102&num=0&edition=prelim), and [section 2001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section2001&num=0&edition=prelim), Mineral Lands and Mining, and amended provisions set out as notes under [section 8101 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8101&num=0&edition=prelim) and [section 1902 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1902&num=0&edition=prelim). For complete classification of title IX to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
-The Department of Energy Organization Act, referred to in par. (1), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+The Department of Energy Organization Act, referred to in par. (1), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 
 <a id="section-16194"></a>
@@ -6466,11 +6519,11 @@ Section was enacted as part of the Energy Act of 2020, and not as part of the En
 ### Statutory Notes
 
 #### References in Text
-The Energy Conservation and Production Act, referred to in subsec. (e)(2), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Part A of title IV of the Act is classified generally to part A (§ 6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
+The Energy Conservation and Production Act, referred to in subsec. (e)(2), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125. Part A of title IV of the Act is classified generally to part A (§ 6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
 
-The Energy Policy and Conservation Act, referred to in subsec. (e)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part D of title III of the Act is classified generally to part B (§ 6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (e)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part D of title III of the Act is classified generally to part B (§ 6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
-The National Energy Conservation Policy Act, referred to in subsec. (e)(4), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 3 of title V of the Act is classified generally to part B (§ 8251 et seq.) of subchapter III of chapter 91 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (e)(4), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206. Part 3 of title V of the Act is classified generally to part B (§ 8251 et seq.) of subchapter III of chapter 91 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
 
 #### Amendments
 2007—Subsec. (a)(2)(E). Pub. L. 110–140 added subpar. (E).
@@ -6594,7 +6647,7 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 ### Statutory Notes
 
 #### References in Text
-Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (c), is section 12(d) of Pub. L. 104–113, as amended, which is set out as a note under [section 272 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272&num=0&edition=prelim), Commerce and Trade.
+Section 12(d) of the National Technology Transfer and Advancement Act of 1995, referred to in subsec. (c), is section 12(d) of Pub. L. 104–113, which is set out as a note under [section 272 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-16211"></a>
@@ -7616,7 +7669,7 @@ The Secretary shall—
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
 #### Application
-Pub. L. 116–260, div. Z, title IX, § 9006(b), Dec. 27, 2020, 134 Stat. 2600, provided that: “The provisions of section 602 of the Public Works and Economic Development Act of 1965 ([42 U.S.C. 3212](./chapter-038-public-works-and-economic-development.md#section-3212)) shall apply with respect to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under sections 3001 [enacting part C of subchapter III of chapter 152 of this title], 3003 [enacting this section], 3004 [enacting [section 16238 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16238)], 5001 [enacting [section 16298d of this title](./chapter-149-national-energy-policy-and-programs.md#section-16298d)], and 8007 [enacting [section 17389 of this title](./chapter-152-energy-independence-and-security.md#section-17389)] and the amendments made by such sections.”
+Pub. L. 116–260, div. Z, title IX, § 9006(b), Dec. 27, 2020, 134 Stat. 2600, provided that: “The provisions of section 602 of the Public Works and Economic Development Act of 1965 ([42 U.S.C. 3212](./chapter-038-public-works-and-economic-development.md#section-3212)) shall apply with respect to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under sections 3001 [enacting part C of subchapter V of chapter 152 of this title], 3003 [enacting this section], 3004 [enacting [section 16238 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16238)], 5001 [enacting [section 16298d of this title](./chapter-149-national-energy-policy-and-programs.md#section-16298d)], and 8007 [enacting [section 17389 of this title](./chapter-152-energy-independence-and-security.md#section-17389)] and the amendments made by such sections.”
 
 
 <a id="section-16254"></a>
@@ -7954,6 +8007,9 @@ Subsec. (b)(6)(B). Pub. L. 117–58, § 40341(2)(A), inserted “, in consultati
 
 Subsec. (b)(6)(B)(iv), (v). Pub. L. 117–58, § 40341(2)(B)–(D), added cl. (iv) and redesignated former cl. (iv) as (v).
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 #### Application
 Provisions of [section 3212 of this title](./chapter-038-public-works-and-economic-development.md#section-3212) applicable to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under this section, see section 9006(b) of div. Z of Pub. L. 116–260, set out as a note under [section 16237 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16237).
 
@@ -8240,6 +8296,9 @@ Provisions of [section 3212 of this title](./chapter-038-public-works-and-econom
 
 2018—Pub. L. 115–248 amended section generally. Prior to amendment, section related to civilian nuclear energy research programs and authorizations of appropriations to carry out such programs.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16275"></a>
 ## § 16275. Reactor concepts research, development, demonstration, and commercial application
@@ -8271,9 +8330,17 @@ Provisions of [section 3212 of this title](./chapter-038-public-works-and-econom
 
   (L) resilience.
 
-(2) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the program under this subsection $55,000,000 for each of fiscal years 2021 through 2025.
+(2) **Isotope demonstration evaluation**
+
+  (A) *In general* — Not later than 1 year after August 9, 2022, the Secretary, acting through the Assistant Secretary for Nuclear Energy, shall evaluate the technical and economic feasibility of the establishment of an isotope demonstration subprogram of the program established under paragraph (1) to support the development and commercial demonstration of critical radioactive and stable isotope production in existing commercial nuclear power plants.
+
+  (B) *Consultation* — The Secretary, acting through the Assistant Secretary for Nuclear Energy, shall consult with the Director of the Office of Science in carrying out the evaluation under subparagraph (A).
+
+  (C) *Definition of critical radioactive and stable isotope* — In this paragraph, the term “critical radioactive and stable isotope” has the meaning given the term in [section 18649(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18649/a&num=0&edition=prelim).
 
 (3) **Report** — The Secretary shall submit annually a public report to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate documenting funds spent under the program that describes program activities, objectives, and outcomes, including those that could benefit the entirety of the existing reactor fleet, such as with respect to aging management and related sustainability concerns, and identifying funds awarded to private entities.
+
+(4) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the program under this subsection $55,000,000 for each of fiscal years 2021 through 2025.
 
 **(b) Advanced reactor technologies**
 
@@ -8388,6 +8455,8 @@ Provisions of [section 3212 of this title](./chapter-038-public-works-and-econom
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(2), (4). Pub. L. 117–167 added par. (2) and redesignated former par. (2) as (4) and transferred it to appear after par. (3).
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to nuclear energy research programs.
 
 2018—Subsecs. (c) to (e). Pub. L. 115–248 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which related to establishment and administration of a Nuclear Power 2010 Program.
@@ -8473,7 +8542,7 @@ Provisions of [section 3212 of this title](./chapter-038-public-works-and-econom
 
   (C) support fundamental nuclear sciences, engineering, and health physics research through a nuclear engineering education and research program;
 
-  (D) encourage collaborative nuclear research among industry, National Laboratories, and universities; and
+  (D) promote collaborations, partnerships, and knowledge sharing between institutions of higher education, National Laboratories, other Federal agencies, industry, and associated labor unions; and
 
   (E) support communication and outreach related to nuclear science, engineering, and health physics.
 
@@ -8483,27 +8552,101 @@ Provisions of [section 3212 of this title](./chapter-038-public-works-and-econom
 
   (B) a visiting scientist program in which National Laboratory staff can spend time in academic nuclear science and engineering departments.
 
-(4) **Strengthening university research and training reactors and associated infrastructure** — In carrying out the program under this subsection, the Secretary may support—
+(4) **Strengthening university research and training reactors and associated infrastructure**
 
-  (A) converting research reactors from high-enrichment fuels to low-enrichment fuels and upgrading operational instrumentation;
+  (A) *In general.—* — In carrying out the program under this subsection, the Secretary may support—
 
-  (B) consortia of universities to broaden access to university research reactors;
+    (i) converting research reactors from high-enrichment fuels to low-enrichment fuels and upgrading operational instrumentation;
 
-  (C) student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
+    (ii) revitalizing and upgrading existing nuclear science and engineering infrastructure that support the development of advanced nuclear technologies and applications;
 
-  (D) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+    (iii) regional or subregional university-led consortia to—
 
-(5) **Radiological facilities management**
+      (I) broaden access to university research reactors;
+
+      (II) enhance existing university-based nuclear science and engineering infrastructure; and
+
+      (III) provide project management, technical support, quality engineering and inspections, manufacturing, and nuclear material support;
+
+    (iv) student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
+
+    (v) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.
+
+  (B) Of any amounts appropriated to carry out the program under this subsection, there is authorized to be appropriated to the Secretary to carry out clauses (ii) and (iii) of subparagraph (A) $55,000,000 for each of fiscal years 2023 through 2027.
+
+(5) **Advanced nuclear research infrastructure enhancement**
+
+  (A) *In general* — The Secretary shall carry out a subprogram to be known as the Advanced Nuclear Research Infrastructure Enhancement Subprogram in order to—
+
+    (i) demonstrate various advanced nuclear reactor and nuclear microreactor concepts;
+
+    (ii) establish medical isotope production reactors or other specialized applications; and
+
+    (iii) advance other research infrastructure that, in the determination of the Secretary, is consistent with the mission of the Department.
+
+  (B) *New nuclear science and engineering facilities* — In carrying out the subprogram, the Secretary shall establish—
+
+    (i) not more than 4 new research reactors; and
+
+    (ii) new nuclear science and engineering facilities, as required to address research demand and identified infrastructure gaps.
+
+  (C) *Locations* — New research reactors and facilities established under subparagraph (B) shall be established in a manner that—
+
+    (i) supports the regional or subregional consortia described in paragraph (4)(C); 11 So in original. Probably means “paragraph (4)(A)(iii)”. and
+
+    (ii) encourages the participation of—
+
+      (I) historically Black colleges and universities;
+
+      (II) Tribal colleges or universities;
+
+      (III) minority-serving institutions;
+
+      (IV) EPSCoR universities; and
+
+      (V) junior or community colleges.
+
+  (D) *Fuel requirements* — New research reactors established under subparagraph (B) shall not use high-enriched uranium, as defined in [section 16281 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16281).
+
+  (E) *Authorization of appropriations* — Of any amounts appropriated to carry out the program under this section, there are authorized to be appropriated to the Secretary to carry out the subprogram under this paragraph—
+
+    (i) $45,000,000 for fiscal year 2023;
+
+    (ii) $60,000,000 for fiscal year 2024;
+
+    (iii) $65,000,000 for fiscal year 2025;
+
+    (iv) $80,000,000 for fiscal year 2026; and
+
+    (v) $140,000,000 for fiscal year 2027.
+
+(6) **Radiological facilities management**
 
   (A) *In general* — The Secretary shall carry out a program under which the Secretary shall provide project management, technical support, quality engineering and inspection, and nuclear material handling support to research reactors located at universities.
 
   (B) *Authorization of appropriations* — Of any amounts appropriated to carry out the program under this subsection, there are authorized to be appropriated to the Secretary to carry out the program under this paragraph $20,000,000 for each of fiscal years 2021 through 2025.
 
-(6) **Nuclear energy university program** — In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually, excluding funds appropriated for the Advanced Reactor Demonstration Program of the Department, to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
+(7) **Nuclear energy university program** — In carrying out the programs under this section, the Department shall, to the maximum extent practicable, allocate 20 percent of funds appropriated to nuclear energy research and development programs annually, excluding funds appropriated for the Advanced Reactor Demonstration Program of the Department, to fund university-led research and university infrastructure projects through an open, competitive solicitation process.
 
-(7) **Operations and maintenance** — Funding for a project provided under this subsection may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
+(8) **Operations and maintenance** — Funding for a project provided under this subsection may be used for a portion of the operating and maintenance costs of a research reactor at a university used in the project.
 
-(8) **Definition** — In this subsection, the term “junior faculty” means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in paragraph (2)(B).
+(9) **Definitions** — In this subsection:
+
+  (A) *Junior faculty* — The term “junior faculty” means a faculty member who was awarded a doctorate less than 10 years before receipt of an award from the grant program described in paragraph (2)(B).
+
+  (B) *Junior or community college* — The term “junior or community college” means—
+
+    (i) a public institution of high education, including additional locations, at which the highest awarded degree, or the predominantly awarded degree, is an associate degree; or
+
+    (ii) any Tribal college or university (as defined in [section 1059c of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c&num=0&edition=prelim)).
+
+  (C) *EPSCoR university* — The term “EPSCoR university” means an institution of higher education located in a State eligible to participate in the program defined in section 502 of the America COMPETES Reauthorization Act of 2010 ([42 U.S.C. 1862p](./chapter-016-national-science-foundation.md#section-1862p) note).
+
+  (D) *Historically Black college or university* — The term “historically Black college or university” has the meaning given the term “part B institution” in [section 1061 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061&num=0&edition=prelim).
+
+  (E) *Minority-serving institution* — The term “minority-serving institution” means a Hispanic-serving institution, an Alaska Native-serving institution, a Native Hawaiian-serving institution, a Predominantly Black Institution, an Asian American and Native American Pacific Islander-serving institution, or a Native American-serving nontribal institution as described in [section 1067q of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q&num=0&edition=prelim).
+
+  (F) *Tribal College or University* — The term “Tribal College or University” has the meaning given such term in [section 1059c of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c&num=0&edition=prelim).
 
 **(b) Nuclear energy graduate traineeship subprogram**
 
@@ -8519,7 +8662,26 @@ Provisions of [section 3212 of this title](./chapter-038-public-works-and-econom
 
 ### Statutory Notes
 
+#### References in Text
+Section 502 of the America COMPETES Reauthorization Act of 2010, referred to in subsec. (a)(9)(C), is section 502 of Pub. L. 111–358, which is set out as a note under [section 1862p of this title](./chapter-016-national-science-foundation.md#section-1862p).
+
 #### Amendments
+2022—Subsec. (a)(2)(D). Pub. L. 117–167, § 10743(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “encourage collaborative nuclear research among industry, National Laboratories, and universities; and”.
+
+Subsec. (a)(4). Pub. L. 117–167, § 10743(2), amended par. (4) generally. Prior to amendment, text read as follows: “In carrying out the program under this subsection, the Secretary may support—
+
+“(A) converting research reactors from high-enrichment fuels to low-enrichment fuels and upgrading operational instrumentation;
+
+“(B) consortia of universities to broaden access to university research reactors;
+
+“(C) student training programs, in collaboration with the United States nuclear industry, in relicensing and upgrading reactors, including through the provision of technical assistance; and
+
+“(D) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.”
+
+Subsec. (a)(5) to (8). Pub. L. 117–167, § 10744(1), (2), added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively. Former par. (8) redesignated (9).
+
+Subsec. (a)(9). Pub. L. 117–167, § 10744(1), (3), redesignated par. (8) as (9) and amended it generally. Prior to amendment, par. defined “junior faculty”.
+
 2021—Subsec. (a)(6). Pub. L. 117–58 inserted “, excluding funds appropriated for the Advanced Reactor Demonstration Program of the Department,” after “annually”.
 
 2020—Pub. L. 116–260, § 2003(c)(1), substituted “Nuclear” for “University nuclear” in section catchline.
@@ -8552,6 +8714,14 @@ Pub. L. 116–260, § 2003(c)(6), substituted “this subsection” for “this 
 
 2018—Subsec. (d)(4). Pub. L. 115–248 substituted “that emphasize” for “as part of a taking into consideration effort that emphasizes”.
 
+#### Purposes
+Pub. L. 117–167, div. B, title VI, § 10742, Aug. 9, 2022, 136 Stat. 1718, provided that: “The purposes of this subtitle [subtitle L (§§ 10741–10745) of title VI of div. B of Pub. L. 117–167, amending this section and [section 16274a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16274a) and enacting provisions set out as notes under sections 15801 and 16274a of this title] are— “(1) to upgrade the nuclear research capabilities of universities in the United States to meet the research requirements of advanced nuclear energy systems; “(2) to ensure the continued operation of university research reactors; “(3) to coordinate available resources to enable the establishment, including the start and efficient completion of construction, of new nuclear science and engineering facilities; and “(4) to support—“(A) workforce development critical to maintaining United States leadership in nuclear science and engineering and related disciplines; and “(B) the establishment or enhancement of nuclear science and engineering capabilities and other, related capabilities at historically Black colleges and universities, Tribal colleges or universities, minority-serving institutions, EPSCoR universities, junior or community colleges, and associate-degree-granting colleges.”
+
+[For definitions of terms used in section 10742 of div. B of Pub. L. 117–167, set out above, see [section 18901 of this title](./chapter-163-research-and-development-competition-and-innovation.md#section-18901).]
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16278"></a>
 ## § 16278. University Nuclear Leadership Program
@@ -8567,7 +8737,7 @@ Pub. L. 116–260, § 2003(c)(6), substituted “this subsection” for “this 
 
   (C) advanced construction, manufacturing, and fabrication methods.
 
-(2) **Exception** — Notwithstanding paragraph (1), amounts made available to carry out the Program may be used to provide financial assistance for a scholarship, fellowship, or multiyear research and development project that does not align directly with a programmatic mission of the Department of Energy, if the activity for which assistance is provided would facilitate the maintenance of the discipline of nuclear science or engineering.
+(2) **Exception** — Notwithstanding paragraph (1), amounts made available to carry out the Program may be used to provide financial assistance for a scholarship, fellowship, or multiyear research and development project that does not align directly with a programmatic mission of the Department of Energy, if the activity for which assistance is provided would facilitate the maintenance of the discipline of nuclear science or engineering, which may include nontechnical nuclear research..11 So in original.
 
 **(c) Definitions** In this section:
 
@@ -8575,9 +8745,11 @@ Pub. L. 116–260, § 2003(c)(6), substituted “this subsection” for “this 
 
 (2) **Program** — The term “Program” means the University Nuclear Leadership Program established under this section.
 
+(3) **Nontechnical nuclear research** — The term “nontechnical nuclear research” means research with specializations such as social sciences or law that can support an increase in community engagement, participation, and confidence in nuclear energy systems, including the navigation of the licensing required for advanced reactor deployment, aligned with the objectives in [section 16271(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16271/a/2&num=0&edition=prelim).
+
 **(d) Authorization of appropriations** There are authorized to be appropriated to carry out the Program for each of fiscal years 2021 through 2025—
 
-(1) $30,000,000 to the Secretary of Energy, of which $15,000,000 shall be for use by the Administrator of the National Nuclear Security Administration; and
+(1) $45,000,000 to the Secretary of Energy, of which $15,000,000 shall be for use by the Administrator of the National Nuclear Security Administration; and
 
 (2) $15,000,000 to the Nuclear Regulatory Commission.
 
@@ -8587,7 +8759,16 @@ Pub. L. 116–260, § 2003(c)(6), substituted “this subsection” for “this 
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–167, § 10745(b)(1), inserted “, which may include nontechnical nuclear research.” after “engineering”.
+
+Subsec. (c)(3). Pub. L. 117–167, § 10745(b)(2), added par. (3).
+
+Subsec. (d)(1). Pub. L. 117–167, § 10745(b)(3), substituted “$45,000,000” for “$30,000,000”.
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to Integrated University Program.
+
+#### Purpose of 2022 Amendment
+Pub. L. 117–167, div. B, title VI, § 10745(a), Aug. 9, 2022, 136 Stat. 1721, provided that: “The purpose of this section [amending this section] is to support a diverse workforce for the complex landscape associated with effective and equitable development of advanced nuclear energy technologies, including interdisciplinary research to enable positive impacts and avoid potential negative impacts across the lifespan of nuclear energy technologies.”
 
 
 <a id="section-16279"></a>
@@ -8689,7 +8870,7 @@ Subsec. (c)(4). Pub. L. 116–260, § 2003(f)(3), substituted “2026” for “
 
 Subsec. (c)(7). Pub. L. 116–260, § 2003(f)(2), added par. (7).
 
-Subsec. (d). Pub. L. 116–260, § 2003(f)(4), added subsec.(d).
+Subsec. (d). Pub. L. 116–260, § 2003(f)(4), added subsec. (d).
 
 2018—Subsecs. (c), (d). Pub. L. 115–248 added subsec. (c) and struck out former subsecs. (c) and (d) which required development of a comprehensive plan for the facilities at the Idaho National Laboratory and transmittal of the plan to Congress.
 
@@ -9348,9 +9529,9 @@ Pub. L. 116–260, § 4001(3), added subpars. (G) to (L) and struck out former s
 
 Pub. L. 116–260, § 4001(2), in subpar. (F), as redesignated, inserted “, including technology development to reduce emissions of carbon dioxide and associated emissions of heavy metals within coal combustion residues and gas streams resulting from fossil fuel use and production” before period at end.
 
-Pub. L. 116–260, § 4001(1), redesignated pars. (1) to (7) of subsec. (a) as subpars. (A) to (G) and realigned margins.
+Pub. L. 116–260, § 4001(1), redesignated pars. (1) to (7) of subsec. (a) as subpars. (A) to (G), respectively, and realigned margins.
 
-Subsec. (a)(3). Pub. L. 116–260, § 4001(6), added par. (3)
+Subsec. (a)(3). Pub. L. 116–260, § 4001(6), added par. (3).
 
 
 <a id="section-16295"></a>
@@ -9703,6 +9884,9 @@ Subsec. (b)(2)(E). Pub. L. 117–58, § 40303(1)(A), (C), added subpar. (E).
 
 Subsec. (d)(1)(E). Pub. L. 117–58, § 40303(2), added subpar. (E).
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 #### Findings
 Pub. L. 117–58, div. D, title III, § 40301, Nov. 15, 2021, 135 Stat. 986, provided that: “Congress finds that— “(1) the industrial sector is integral to the economy of the United States—“(A) providing millions of jobs and essential products; and “(B) demonstrating global leadership in manufacturing and innovation; “(2) carbon capture and storage technologies are necessary for reducing hard-to-abate emissions from the industrial sector, which emits nearly 25 percent of carbon dioxide emissions in the United States; “(3) carbon removal and storage technologies, including direct air capture, must be deployed at large-scale in the coming decades to remove carbon dioxide directly from the atmosphere; “(4) large-scale deployment of carbon capture, removal, utilization, transport, and storage—“(A) is critical for achieving mid-century climate goals; and “(B) will drive regional economic development, technological innovation, and high-wage employment; “(5) carbon capture, removal, and utilization technologies require a backbone system of shared carbon dioxide transport and storage infrastructure to enable large-scale deployment, realize economies of scale, and create an interconnected carbon management market; “(6) carbon dioxide transport infrastructure and permanent geological storage are proven and safe technologies with existing Federal and State regulatory frameworks; “(7) carbon dioxide transport and storage infrastructure share similar barriers to deployment previously faced by other types of critical national infrastructure, such as high capital costs and chicken-and-egg challenges, that require Federal and State support, in combination with private investment, to be overcome; and “(8) each State should take into consideration, with respect to new carbon dioxide transportation infrastructure—“(A) qualifying the infrastructure as pollution control devices under applicable laws (including regulations) of the State; and “(B) establishing a waiver of ad valorem and property taxes for the infrastructure for a period of not less than 10 years.”
 
@@ -9892,6 +10076,9 @@ Subsecs. (c), (d). Pub. L. 110–140, § 702(a)(4), added subsecs. (c) and (d) a
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16298"></a>
@@ -10136,6 +10323,9 @@ The Secretary, in coordination with industry leaders in extended research drilli
 Subsec. (b)(2), (3). Pub. L. 117–58, § 40302(2), added par. (2), redesignated former par. (2) as (3), and, in par. (3), substituted “this subsection” for “paragraph (1)”.
 
 Subsec. (d). Pub. L. 117–58, § 40302(3), added subsec. (d) and struck out former subsec. (d) which provided appropriations for fiscal years 2021 to 2025.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16311"></a>
@@ -10521,6 +10711,9 @@ Subsec. (d). Pub. L. 117–58, § 40302(3), added subsec. (d) and struck out for
 #### Amendments
 2021—Subsecs. (j), (k). Pub. L. 117–58 added subsec. (j) and redesignated former subsec. (j) as (k).
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 #### Application
 Provisions of [section 3212 of this title](./chapter-038-public-works-and-economic-development.md#section-3212) applicable to construction, alteration, or repair work of demonstration projects funded by grants or contracts authorized under this section, see section 9006(b) of div. Z of Pub. L. 116–260, set out as a note under [section 16237 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16237).
 
@@ -10726,9 +10919,17 @@ Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 1
 
 (3) **Authorization of appropriations** — Out of funds authorized to be appropriated under section 18645(o) of this title, there shall be made available to the Secretary to carry out the construction of ITER—
 
-  (A) $374,000,000 for fiscal year 2021; and
+  (A) $374,000,000 for fiscal year 2021;
 
-  (B) $281,000,000 for each of fiscal years 2022 through 2025.
+  (B) $379,700,000 for fiscal year 2023;
+
+  (C) $419,250,000 for fiscal year 2024;
+
+  (D) $415,000,000 for fiscal year 2025;
+
+  (E) $370,500,000 for fiscal year 2026; and
+
+  (F) $411,078,000 for fiscal year 2027.
 
 ### Statutory Notes
 
@@ -10736,6 +10937,8 @@ Section 976, referred to in subsecs. (b) and (c)(6), is section 976 of Pub. L. 1
 The date of enactment of this section, referred to in subsec. (c)(2), probably means the date of enactment of Pub. L. 116–260, which enacted subsec. (c) of this section and was approved Dec. 27, 2020.
 
 #### Amendments
+2022—Subsec. (c)(3)(B) to (F). Pub. L. 117–167 added subpars. (B) to (F) and struck out former subpar. (B) which read as follows: “$281,000,000 for each of fiscal years 2022 through 2025.”
+
 2020—Subsec. (c). Pub. L. 116–260 amended subsec. (c) generally. Prior to amendment, subsec. (c) related to United States participation in ITER.
 
 
@@ -10777,7 +10980,7 @@ The date of enactment of this section, referred to in subsec. (c)(2), probably m
 
 (3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
 
-(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+(4) **Funds** — Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
 
 **(c) Biochemistry, replication of natural photosynthesis, and related processes**
 
@@ -10803,11 +11006,15 @@ The date of enactment of this section, referred to in subsec. (c)(2), probably m
 
 (3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
 
-(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+(4) **Funds** — Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(4). Pub. L. 117–167, § 10102(b)(1), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.”
+
+Subsec. (c)(4). Pub. L. 117–167, § 10102(b)(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.”
+
 2018—Pub. L. 115–246 amended section generally. Prior to amendment, section related to catalysis research program.
 
 
@@ -10828,15 +11035,19 @@ The date of enactment of this section, referred to in subsec. (c)(2), probably m
 
     (i) electrical energy to chemical energy; and
 
-    (ii) chemical energy to electrical energy; and
+    (ii) chemical energy to electrical energy;
 
-  (B) to support scientific inquiry into the practical understanding of chemical and physical processes that occur within systems involving crystalline and amorphous solids, polymers, and organic and aqueous liquids.
+  (B) to support scientific inquiry into the practical understanding of chemical and physical processes that occur within systems involving crystalline and amorphous solids, polymers, and organic and aqueous liquids; and
+
+  (C) to ensure the competitiveness of the United States in energy storage by fostering an ecosystem linking fundamental research and development to deployment of storage solutions while minimizing the environmental impacts of energy storage technologies.
 
 (2) **Leveraging** — In carrying out programs and activities under the Initiative, the Secretary shall leverage expertise and resources from—
 
-  (A) the Basic Energy Sciences Program, the Advanced Scientific Computing Research Program, and the Biological and Environmental Research Program of the Office of Science; and
+  (A) the Basic Energy Sciences Program, the Advanced Scientific Computing Research Program, and the Biological and Environmental Research Program of the Office of Science;
 
-  (B) the Office of Energy Efficiency and Renewable Energy.
+  (B) the Office of Energy Efficiency and Renewable Energy; and
+
+  (C) any other relevant office of the Department.
 
 (3) **Teams**
 
@@ -10860,7 +11071,7 @@ The date of enactment of this section, referred to in subsec. (c)(2), probably m
 
 (3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
 
-(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+(4) **Funding** — Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
 
 **(c) Electrochemistry modeling and simulation**
 
@@ -10874,7 +11085,7 @@ The date of enactment of this section, referred to in subsec. (c)(2), probably m
 
 (3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
 
-(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+(4) **Funding** — Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $50,000,000 for each of fiscal years 2023 through 2027.
 
 **(d) Mesoscale electrochemistry**
 
@@ -10892,11 +11103,21 @@ The date of enactment of this section, referred to in subsec. (c)(2), probably m
 
 (3) **Standard of review** — The Secretary shall review activities carried out under the program described in paragraph (1) to determine the achievement of technical milestones.
 
-(4) **Prohibition** — No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.
+(4) **Funding** — Of the funds authorized to be appropriated for basic energy sciences in a fiscal year, there is authorized to be appropriated to the Secretary to carry out activities under this subsection $20,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(1)(C). Pub. L. 117–167, § 10102(c)(1)(A), added subpar. (C).
+
+Subsec. (a)(2)(C). Pub. L. 117–167, § 10102(c)(1)(B), added subpar. (C).
+
+Subsec. (b)(4). Pub. L. 117–167, § 10102(c)(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.”
+
+Subsec. (c)(4). Pub. L. 117–167, § 10102(c)(3), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.”
+
+Subsec. (d)(4). Pub. L. 117–167, § 10102(c)(4), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “No funds allocated to the program described in paragraph (1) may be obligated or expended for commercial application of energy technology.”
+
 2018—Pub. L. 115–246 amended section generally. Prior to amendment, text read as follows: “The Secretary shall conduct a program of fundamental research on solid state lighting in support of the Next Generation Lighting Initiative carried out under [section 16192 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16192).”
 
 
@@ -10957,23 +11178,87 @@ The American Super Computing Leadership Act of 2017, referred to in par. (1), is
 
 **(f) Bioenergy research centers**
 
-(1) **Establishment of centers** — In carrying out the program under subsection (a), the Secretary shall establish at least 7 bioenergy research centers, which may be of varying size.
+(1) **In general** — In carrying out the program under [section 18644(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18644/a&num=0&edition=prelim), the Director shall support up to 6 bioenergy research centers to conduct fundamental research in plant and microbial systems biology, biological imaging and analysis, and genomics, and to accelerate advanced research and development of advanced biofuels, bioenergy or biobased materials, chemicals, and products that are produced from a variety of regionally diverse feedstocks, and to facilitate the translation of research results to industry. The activities of the centers authorized under this subsection may include—
 
-(2) **Geographic distribution** — The Secretary shall establish at least 1 bioenergy research center in each Petroleum Administration for Defense District or Subdistrict of a Petroleum Administration for Defense District.
+  (A) accelerating the domestication of bioenergy-relevant plants, microbes, and associated microbial communities to enable high-impact, value-added coproduct development at multiple points in the bioenergy supply chain;
 
-(3) **Goals** — The goals of the centers established under this subsection shall be to accelerate basic transformational research and development of biofuels, including biological processes.
+  (B) developing the science and technological advances to ensure process sustainability is considered in the creation of advanced biofuels and bioproducts from lignocellulosic biomass; and
 
-(4) **Selection and duration**
+  (C) using the latest tools in genomics, molecular biology, catalysis science, chemical engineering, systems biology, and computational and robotics technologies to sustainably produce and transform biomass into advanced biofuels and bioproducts.
 
-  (A) *In general* — A center under this subsection shall be selected on a competitive basis for a period of 5 years.
+(2) **Selection and duration**
 
-  (B) *Reapplication* — After the end of the period described in subparagraph (A), a grantee may reapply for selection on a competitive basis.
+  (A) *In general* — A center established under paragraph (1) shall be selected on a competitive, merit-reviewed basis for a period of not more than 5 years, subject to the availability of appropriations, beginning on the date of establishment of that center.
 
-(5) **Inclusion** — A center that is in existence on December 19, 2007—
+  (B) *Applications* — The Director shall consider applications from National Laboratories, multi-institutional collaborations, and other appropriate entities.
 
-  (A) shall be counted towards the requirement for establishment of at least 7 bioenergy research centers; and
+  (C) *Existing centers* — A center already in existence on August 9, 2022, may continue to receive support for a period of not more than 5 years beginning on the date of establishment of that center.
 
-  (B) may continue to receive support for a period of 5 years beginning on the date of establishment of the center.
+  (D) *New centers* — The Director shall select any new center pursuant to paragraph (1) on a competitive, merit-reviewed basis, with special consideration for applications from an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) that is located in an eligible jurisdiction (as defined in [section 13503(b)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13503/b/3/A&num=0&edition=prelim)).
+
+(3) **Renewal** — After the end of the applicable period described in paragraph (2), the Director may renew support for a center for a period of not more than 5 years on a merit-reviewed basis. For a center in operation for 10 years after its previous selection on a competitive, merit-reviewed basis, the Director may renew support for the center on a competitive, merit-reviewed basis for a period of not more than 5 years, and may subsequently provide an additional renewal on a merit-reviewed basis for a period of not more than 5 years.
+
+(4) **Activities** — Centers shall undertake research activities to accelerate the production of advanced biofuels and bioproducts from biomass resources by identifying the most suitable species of plants for use as energy crops; and improving methods of breeding, propagation, planting, producing, harvesting, storage and processing. Activities may include the following:
+
+  (A) Research activities to increase sustainability, including—
+
+    (i) advancing knowledge of how bioenergy crop interactions with biotic and abiotic environmental factors influence crop growth, yield, and quality;
+
+    (ii) identifying the most impactful research areas that address the economics of advanced biofuels and bioproducts production; and
+
+    (iii) utilizing multiscale modeling to advance predictive understanding of advanced biofuel cropping ecosystems.
+
+  (B) Research activities to further feedstock development, including lignocellulosic, algal, gaseous wastes including carbon oxides and methane, and direct air capture of single carbon gases via plants and microbes, including—
+
+    (i) developing genetic and genomic tools, high-throughput analytical tools, and biosystems design approaches to enhance bioenergy feedstocks and their associated microbiomes;
+
+    (ii) conducting field testing of new potential bioenergy feedstock crops under environmentally benign and geographically diverse conditions to assess viability and robustness; and
+
+    (iii) developing quantitative models informed by experimentation to predict how bioenergy feedstocks perform under diverse conditions.
+
+  (C) Research activities to improve lignocellulosic deconstruction and separation methods, including—
+
+    (i) developing feedstock-agnostic deconstruction processes capable of efficiently fractionating biomass into targeted output streams;
+
+    (ii) gaining a detailed understanding of plant cell wall biosynthesis, composition, structure, and properties during deconstruction; and
+
+    (iii) improving enzymes and approaches for biomass breakdown and cellulose, hemicellulose, and lignin processing.
+
+  (D) Research activities to improve the feedstock conversion process for advanced biofuels and bioproducts, including—
+
+    (i) developing high-throughput methods to screen or select high-performance microbial strains and communities to improve product formation rates, yields, and selectivity;
+
+    (ii) establishing a broad set of platform microorganisms and microbial communities suitable for metabolic engineering to produce advanced biofuels and bioproducts and high-throughput methods for experimental validation of gene function;
+
+    (iii) developing techniques to enhance microbial robustness for tolerating toxins to improve advanced biofuel and bioproduct yields and to gain a better understanding of the cellular and molecular bases of tolerance for major chemical classes of inhibitors found in these processes;
+
+    (iv) advancing technologies for the use of batch, continuous, and consolidated bioprocessing;
+
+    (v) identifying, creating, and optimizing microbial and chemical pathways to produce promising, atom-economical intermediates and final bioproducts from biomass with considerations given to environmentally benign processes;
+
+    (vi) developing high-throughput, real-time, in situ analytical techniques to understand and characterize the pre- and post-bioproduct separation streams in detail;
+
+    (vii) creating methodologies for efficiently identifying viable target molecules, identifying high-value bioproducts in existing biomass streams, and utilizing current byproduct streams;
+
+    (viii) identifying and improving plant feedstocks with enhanced extractable levels of desired bioproducts or bioproduct precursors, including lignin streams; and
+
+    (ix) developing integrated biological and chemical catalytic approaches to valorize and produce a diverse portfolio of advanced biofuels and bioproducts.
+
+(5) **Industry partnerships** — Centers shall establish industry partnerships to translate research results to commercial applications.
+
+(6) **Coordination** — In coordination with the Bioenergy Technologies Office of the Department, the Secretary shall support interdisciplinary research activities to improve the capacity, efficiency, resilience, security, reliability, and affordability, of the production and use of advanced biofuels and bioproducts, as well as activities to enable positive impacts and avoid the potential negative impacts that the production and use of advanced biofuels and bioproducts may have on ecosystems, people, and historically marginalized communities.
+
+(7) **Funding** — Of the funds authorized to be appropriated under subsection (k) of [section 18644 of this title](./chapter-161-department-of-energy-research-and-innovation.md#section-18644) for a fiscal year, there is authorized to be appropriated to the Secretary to carry out this subsection $30,000,000 per center established under paragraph (1) for each of fiscal years 2023 through 2027.
+
+(8) **Definitions** — In this subsection:
+
+  (A) *Advanced biofuel* — The term “advanced biofuel” has the meaning given the term in [section 8101 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8101&num=0&edition=prelim).
+
+  (B) *Bioenergy* — The term “bioenergy” means energy derived from biofuels.
+
+  (C) *Biomass* — The term “biomass” has the meaning given the term in [section 15852(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15852/b&num=0&edition=prelim).
+
+  (D) *Bioproduct* — The term “bioproduct” has the meaning given the term “biobased product” in [section 8101 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8101&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -10981,6 +11266,8 @@ The American Super Computing Leadership Act of 2017, referred to in par. (1), is
 This part, referred to in subsec. (d), was in the original “this subtitle”, meaning subtitle G (§§ 971–984A) of title IX of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 898, which enacted this part and amended [section 5523 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5523&num=0&edition=prelim), Commerce and Trade. For complete classification of subtitle G to the Code, see Tables.
 
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–167 added subsec. (f) and struck out former subsec. (f) which related to establishment of at least 7 bioenergy research centers to carry out the program under subsec. (a) of this section.
+
 2007—Subsec. (a)(1). Pub. L. 110–140, § 232(a)(1), substituted “computational biology, and environmental science” for “and computational biology”.
 
 Subsec. (b)(1). Pub. L. 110–140, § 232(a)(2)(A), inserted “in sustainable production systems that reduce greenhouse gas emissions” after “hydrogen”.
@@ -11234,7 +11521,7 @@ Funds authorized to be appropriated to the Department under this Act or an amend
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
+This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 
 <a id="section-16356"></a>
@@ -11253,7 +11540,7 @@ This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594,
 
   (A) *In general* — Paragraph (1) shall not apply to a research or development activity performed by an institution of higher education or nonprofit institution (as defined in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3703](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3703&num=0&edition=prelim))).
 
-  (B) *Termination date* — The exemption under subparagraph (A) shall apply during the 2-year period beginning on September 28, 2018.
+  (B) *Termination date* — The exemption under subparagraph (A) shall apply during the 2-year period beginning on August 9, 2022.
 
 **(c) Demonstration and commercial application**
 
@@ -11300,9 +11587,11 @@ This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594,
 ### Statutory Notes
 
 #### References in Text
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(4)(B). Pub. L. 117–167 substituted “August 9, 2022” for “September 28, 2018”.
+
 2018—Subsec. (b)(1). Pub. L. 115–246, § 108(a)(1), substituted “Except as provided in paragraphs (2), (3), and (4)” for “Except as provided in paragraphs (2) and (3)”.
 
 Subsec. (b)(4). Pub. L. 115–246, § 108(a)(2), added par. (4).
@@ -11329,7 +11618,7 @@ Subsec. (b)(4). Pub. L. 115–246, § 108(a)(2), added par. (4).
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (b), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
+This Act, referred to in subsecs. (a) and (b), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 
 <a id="section-16358"></a>
@@ -11371,9 +11660,9 @@ This Act, referred to in subsecs. (a) and (b), is Pub. L. 109–58, Aug. 8, 2005
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-This Act, referred to in subsec. (e)(1)(A), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
+This Act, referred to in subsec. (e)(1)(A), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 
 <a id="section-16359"></a>
@@ -11509,7 +11798,7 @@ The Administrator of the Environmental Protection Agency, in consultation with t
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 
 <a id="section-16373"></a>
@@ -11656,6 +11945,9 @@ The Federal Credit Reform Act of 1990, referred to in par. (15)(B), is title V o
 
 #### Prior Provisions
 A prior section 16371, Pub. L. 109–58, title IX, § 999A, Aug. 8, 2005, 119 Stat. 916, authorized the Secretary of Energy to carry out a program of research, development, demonstration, and commercial application of technologies for ultra-deepwater and unconventional natural gas and other petroleum resources, prior to repeal by Pub. L. 113–67, div. A, title III, § 301(a), Dec. 26, 2013, 127 Stat. 1181.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16376"></a>
@@ -11818,6 +12110,9 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d)(2), is
 #### Prior Provisions
 A prior section 16372, Pub. L. 109–58, title IX, § 999B, Aug. 8, 2005, 119 Stat. 917, related to administration of the program under former part J, prior to repeal by Pub. L. 113–67, div. A, title III, § 301(a), Dec. 26, 2013, 127 Stat. 1181.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16377"></a>
 ## § 16377. Secured loans
@@ -11960,6 +12255,9 @@ A prior section 16372, Pub. L. 109–58, title IX, § 999B, Aug. 8, 2005, 119 St
 #### Prior Provisions
 A prior section 16373, Pub. L. 109–58, title IX, § 999C, Aug. 8, 2005, 119 Stat. 921, related to additional requirements for awards, prior to repeal by Pub. L. 113–67, div. A, title III, § 301(a), Dec. 26, 2013, 127 Stat. 1181.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16378"></a>
 ## § 16378. Future growth grants
@@ -11985,6 +12283,9 @@ A prior section 16373, Pub. L. 109–58, title IX, § 999C, Aug. 8, 2005, 119 St
 
 #### Prior Provisions
 A prior section 16374, Pub. L. 109–58, title IX, § 999D, Aug. 8, 2005, 119 Stat. 922, related to the Ultra-Deepwater Advisory Committee and Unconventional Resources Technology Advisory Committee, prior to repeal by Pub. L. 113–67, div. A, title III, § 301(a), Dec. 26, 2013, 127 Stat. 1181.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16391"></a>
@@ -12013,6 +12314,9 @@ A prior section 16374, Pub. L. 109–58, title IX, § 999D, Aug. 8, 2005, 119 St
 
 #### Prior Provisions
 A prior section 16378, Pub. L. 109–58, title IX, § 999H, Aug. 8, 2005, 119 Stat. 924; Pub. L. 113–287, § 5(k)(6), Dec. 19, 2014, 128 Stat. 3270, related to the Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Research Fund, prior to repeal by Pub. L. 113–67, div. A, title III, § 301(a), Dec. 26, 2013, 127 Stat. 1181.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16391a"></a>
@@ -12064,6 +12368,10 @@ A prior section 16378, Pub. L. 109–58, title IX, § 999H, Aug. 8, 2005, 119 St
     (iv) efforts to engage private sector entities, including venture capital companies.
 
 (5) **Coordination** — In carrying out the mission and activities of the Office, the Chief Commercialization Officer shall coordinate with the senior leadership of the Department, other relevant program offices of the Department, National Laboratories, the Technology Transfer Working Group established under subsection (b), the Technology Transfer Policy Board, and other stakeholders (including private industry).
+
+(6) **Hiring and management** — To carry out the program authorized in this section, the Under Secretary for Science may appoint personnel using the authorities in [section 19321 of this title](./chapter-163-research-and-development-competition-and-innovation.md#section-19321).
+
+(7) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the activities authorized in this section $20,000,000 for each of fiscal years 2023 through 2027.
 
 **(b) Technology Transfer Working Group** The Secretary shall establish a Technology Transfer Working Group, which shall consist of representatives of the National Laboratories and single-purpose research facilities, to—
 
@@ -12139,7 +12447,9 @@ A prior section 16378, Pub. L. 109–58, title IX, § 999H, Aug. 8, 2005, 119 St
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (d), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2021—Subsecs. (f) to (i). Pub. L. 117–58 redesignated subsecs. (f) relating to planning and reporting and (g) relating to additional technology transfer programs as (h) and (i), respectively.
+2022—Subsec. (a)(6), (7). Pub. L. 117–167, § 10722, added pars. (6) and (7).
+
+2021—Subsecs. (f) to (i). Pub. L. 117–58, § 41201(i), formerly § 41201(g), as renumbered by Pub. L. 117–167, § 10723(3), redesignated subsecs. (f) relating to planning and reporting and (g) relating to additional technology transfer programs as (h) and (i), respectively.
 
 2020—Subsec. (a). Pub. L. 116–260, § 9001(1), added subsec. (a) through par. (4)(B) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall appoint a Technology Transfer Coordinator to be the principal advisor to the Secretary on all matters relating to technology transfer and commercialization.”
 
@@ -12179,25 +12489,31 @@ Subsec. (h). Pub. L. 116–260, § 9001(4), redesignated subsec. (h) as (f) rela
 
 2014—Subsec. (e). Pub. L. 113–291 inserted “based on future planned activities and the amount of the appropriations for the fiscal year” after “each fiscal year”.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 #### Lab Partnering Service Pilot Program
-Pub. L. 116–260, div. Z, title IX, § 9002, Dec. 27, 2020, 134 Stat. 2596, provided that: “(a) Pilot Program.—“(1) In general.—The Secretary of Energy (in this section referred to as the ‘Secretary’), acting through the Chief Commercialization Officer established in section 1001(a) of the Energy Policy Act of 2005 ([42 U.S.C. 16391(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391/a&num=0&edition=prelim)), shall establish a Lab Partnering Service Pilot Program (hereinafter in this section referred to as the ‘pilot program’). “(2) Purposes.—The purposes of the pilot program are to provide services that encourage and support partnerships between the National Laboratories and public and private sector entities, and to improve communication of research, development, demonstration, and commercial application projects and opportunities at the National Laboratories to potential partners through the development of a website and the provision of services, in collaboration with relevant external entities, and to identify and develop metrics regarding the effectiveness of such partnerships. “(3) Activities.—In carrying out this pilot program, the Secretary shall—“(A) conduct outreach to and engage with relevant public and private entities; “(B) identify and disseminate best practices for strengthening connections between the National Laboratories and public and private sector entities; and “(C) develop a website to disseminate information on—“(i) different partnering mechanisms for working with the National Laboratories; “(ii) National Laboratory experts and research areas; and “(iii) National Laboratory facilities and user facilities. “(b) Metrics.—The Secretary shall support the development of metrics, including conversion metrics, to determine the effectiveness of the pilot program in achieving the purposes in subsection (a) and the number and types of partnerships established between public and private sector entities and the National Laboratories compared to baseline data. “(c) Coordination.—In carrying out the activities authorized in this section, the Secretary shall coordinate with the Directors of (and dedicated technology transfer staff at) the National Laboratories, in particular for matchmaking services for individual projects, which should be led by the National Laboratories. “(d) Funding Employee Partnering Activities.—The Secretary shall delegate to the Directors of each National Laboratory and single-purpose research facility of the Department the authority to compensate National Laboratory employees providing services under this section. “(e) Duration.—Subject to the availability of appropriations, the pilot program established in this section shall operate for not less than 3 years and may be built off an existing program. “(f) Evaluation.—Not later than 6 months after the completion of this pilot program, the Secretary shall support the evaluation of the success of the pilot program in achieving the purposes in subsection (a) and shall submit the evaluation to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The assessment shall include analyses of the performance of the pilot program based on the metrics developed under subsection (b). “(g) Definition.—In this section, the term ‘National Laboratory’ has the meaning given such term in section 2(3) of the Energy Policy Act of 2005 ([42 U.S.C. 15801(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim)).”
+Pub. L. 116–260, div. Z, title IX, § 9002, Dec. 27, 2020, 134 Stat. 2596, as amended by Pub. L. 117–167, div. B, title VI, § 10716, Aug. 9, 2022, 136 Stat. 1704, provided that: “(a) Pilot Program.—“(1) In general.—The Secretary of Energy (in this section referred to as the ‘Secretary’), acting through the Chief Commercialization Officer established in section 1001(a) of the Energy Policy Act of 2005 ([42 U.S.C. 16391(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391/a&num=0&edition=prelim)), shall establish a Lab Partnering Service Pilot Program (hereinafter in this section referred to as the ‘pilot program’). “(2) Purposes.—The purposes of the pilot program are to provide services that encourage and support partnerships between the National Laboratories and public and private sector entities, and to improve communication of research, development, demonstration, and commercial application projects and opportunities at the National Laboratories to potential partners through the development of a website and the provision of services, in collaboration with relevant external entities, and to identify and develop metrics regarding the effectiveness of such partnerships. “(3) Activities.—In carrying out this pilot program, the Secretary shall—“(A) conduct outreach to and engage with relevant public and private entities; “(B) identify and disseminate best practices for strengthening connections between the National Laboratories and public and private sector entities; and “(C) develop a website to disseminate information on—“(i) different partnering mechanisms for working with the National Laboratories; “(ii) National Laboratory experts and research areas; and “(iii) National Laboratory facilities and user facilities. “(b) Metrics.—The Secretary shall support the development of metrics, including conversion metrics, to determine the effectiveness of the pilot program in achieving the purposes in subsection (a) and the number and types of partnerships established between public and private sector entities and the National Laboratories compared to baseline data. “(c) Coordination.—In carrying out the activities authorized in this section, the Secretary shall coordinate with the Directors of (and dedicated technology transfer staff at) the National Laboratories, in particular for matchmaking services for individual projects, which should be led by the National Laboratories. “(d) Funding Employee Partnering Activities.—The Secretary shall delegate to the Directors of each National Laboratory and single-purpose research facility of the Department the authority to compensate National Laboratory employees providing services under this section. “(e) Duration.—Subject to the availability of appropriations, the pilot program established in this section shall operate for not less than 3 years and may be built off an existing program. “(f) Evaluation.—Not later than 6 months after the completion of this pilot program, the Secretary shall support the evaluation of the success of the pilot program in achieving the purposes in subsection (a) and shall submit the evaluation to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The assessment shall include analyses of the performance of the pilot program based on the metrics developed under subsection (b). “(g) Definition.—In this section, the term ‘National Laboratory’ has the meaning given such term in section 2(3) of the Energy Policy Act of 2005 ([42 U.S.C. 15801(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim)). “(h) Authorization of Appropriations.—There are authorized to be appropriated to the Secretary $2,000,000 for each of fiscal years 2023 through 2025 to carry out subsections (a), (b), and (c), and $1,700,000 for each of fiscal years 2023 through 2025 for National Laboratory employees to provide services under subsection (d).”
 
 
 <a id="section-16392"></a>
 ## § 16392. Technology transfer reports and evaluation
-**(a) Annual report** As part of the updated technology transfer execution plan required each year under [section 16391(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391/h/2&num=0&edition=prelim), the Secretary of Energy (in this section referred to as the “Secretary”) shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the progress and implementation of programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act.
+**(a) Annual report** As part of the updated technology transfer execution plan required each year under [section 16391(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391/h/2&num=0&edition=prelim), the Secretary of Energy (in this section referred to as the “Secretary”) shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the progress and implementation of programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act and under sections 10714, 10718, 10719, 10720, and 10723 of the Research and Development, Competition, and Innovation Act.
 
-**(b) Evaluation** Not later than 3 years after December 27, 2020, and every 3 years thereafter the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation on the extent to which programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act are achieving success based on relevant short-term and long-term metrics.
-
-**(c) Report on technology transfer gaps** Not later than 3 years after December 27, 2020, the Secretary shall enter into an agreement with the National Academies of Science, Engineering, and Medicine to submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on programmatic gaps that exist to advance the commercial application of technologies developed at the National Laboratories (as defined in [section 15801(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801/3&num=0&edition=prelim)).
+**(b) Evaluation** Not later than 3 years after December 27, 2020, and every 3 years thereafter the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation on the extent to which programs established under sections 9001, 9002, 9003, 9004, and 9005 of this Act and sections 10713, 10714, 10715, and 10717 of the Research and Development, Competition, and Innovation Act are achieving success based on relevant short-term and long-term metrics.
 
 ### Statutory Notes
 
 #### References in Text
-Sections 9001, 9002, 9003, 9004, and 9005 of this Act, referred to in subsecs. (a) and (b), are sections 9001, 9002, 9003, 9004, and 9005 of div. Z of Pub. L. 116–260, known as the Energy Act of 2020. Sections 9001 and 9003 of the Act amended [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391). Section 9002 of the Act enacted provisions set out as a note under [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391). Section 9004 of the Act amended [section 16396 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16396). Section 9005 of the Act enacted [section 7256c of this title](./chapter-084-department-of-energy.md#section-7256c).
+Sections 9001, 9002, 9003, 9004, and 9005 of this Act, referred to in text, are sections 9001, 9002, 9003, 9004, and 9005 of div. Z of Pub. L. 116–260, known as the Energy Act of 2020. Sections 9001 and 9003 of the Act amended [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391). Section 9002 of the Act enacted provisions set out as a note under [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391). Section 9004 of the Act amended [section 16396 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16396). Section 9005 of the Act enacted [section 7256c of this title](./chapter-084-department-of-energy.md#section-7256c).
+
+The Research and Development, Competition, and Innovation Act, referred to in text, is div. B of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1405. Sections 10713, 10714, 10715, 10717, 10719, and 10720 of the Act are classified to sections 19301 to 19303 and 19311 to 19313 of this title, respectively. Section 10718 of the Act amended [section 16393 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16393). Section 10723 of the Act amended sections 16391 and 18861 of this title.
 
 #### Codification
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+#### Amendments
+2022—Pub. L. 117–167 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to an annual report, evaluation, and report on technology transfer gaps, respectively.
 
 
 <a id="section-16393"></a>
@@ -12304,17 +12620,17 @@ In subsec. (e)(3)(C), “[section 1303(a)(1) of title 41](https://uscode.house.g
 
 <a id="section-16394"></a>
 ## § 16394. Small business advocacy and assistance
-**(a) Small business advocate** The Secretary shall require the Director of each National Laboratory, and may require the Director of a single-purpose research facility, to designate a small business advocate to—
+**(a) Small business advocate** The Secretary shall require the Director of each National Laboratory (as defined in [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801)) and the Director of each single-purpose research facility to designate a small business advocate to—
 
-(1) increase the participation of small business concerns, including socially and economically disadvantaged small business concerns (as defined in [section 637(a)(4) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a/4&num=0&edition=prelim)), in procurement, collaborative research, technology licensing, and technology transfer activities conducted by the National Laboratory or single-purpose research facility;
+(1) encourage the participation of small business concerns, including socially and economically disadvantaged small business concerns (as defined in [section 637(a)(4) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a/4&num=0&edition=prelim)), in procurement, research, development, demonstration, and commercial application activities, including product development, technology licensing, and technology transfer activities conducted by the National Laboratory or single-purpose research facility;
 
-(2) report to the Director of the National Laboratory or single-purpose research facility on the actual participation of small business concerns in procurement and collaborative research along with recommendations, if appropriate, on how to improve participation;
+(2) report to the Director of the National Laboratory or single-purpose research facility on the actual participation of small business concerns in the activities described in paragraph (1) along with recommendations, if appropriate, on how to improve participation;
 
-(3) make available to small business concerns training, mentoring, and information on how to participate in procurement and collaborative research activities;
+(3) make available to small business concerns facilities, training, mentoring, and information on how to participate in the activities described in paragraph (1);
 
 (4) increase the awareness inside the National Laboratory or single-purpose research facility of the capabilities and opportunities presented by small business concerns; and
 
-(5) establish guidelines for the program under subsection (b) and report on the effectiveness of the program to the Director of the National Laboratory or single-purpose research facility.
+(5) establish guidelines and metrics for the programs under subsections (b) and (c) and report on the effectiveness of the program to the Director of the National Laboratory or single-purpose research facility.
 
 **(b) Establishment of small business assistance program** The Secretary shall require the Director of each National Laboratory, and may require the Director of a single-purpose research facility, to establish a program to provide small business concerns with—
 
@@ -12322,9 +12638,64 @@ In subsec. (e)(3)(C), “[section 1303(a)(1) of title 41](https://uscode.house.g
 
 (2) general technical assistance, the cost of which shall not exceed $10,000 per instance of assistance, to improve the products or services of the small business concern.
 
-**(c) Use of funds** None of the funds expended under subsection (b) may be used for direct grants to small business concerns.
+**(c) Small business voucher program**
 
-**(d) Authorization of appropriations** There is authorized to be appropriated to the Secretary for activities under this section $5,000,000 for each of fiscal years 2006 through 2008.
+(1) **Definitions** — In this subsection:
+
+  (A) *Director* — The term “Director” means—
+
+    (i) the Director of each National Laboratory; and
+
+    (ii) the Director of each single-purpose research facility.
+
+  (B) *National Laboratory* — The term “National Laboratory” has the meaning given the term in [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
+
+  (C) *Program* — The term “program” means the program established under paragraph (2).
+
+  (D) *Small business concern* — The term “small business concern” has the meaning given such term in [section 632 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim).
+
+(2) **Establishment** — The Secretary, acting through the Chief Commercialization Officer appointed under [section 16391(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391/a&num=0&edition=prelim), and in consultation with the Directors, shall establish a program to provide small business concerns with vouchers under paragraph (3)—
+
+  (A) to achieve the goal described in subsection (a)(1); and
+
+  (B) to improve the products, services, and capabilities of small business concerns in the mission space of the Department.
+
+(3) **Vouchers** — Under the program, the Directors are authorized to provide to small business concerns vouchers to be used at National Laboratories and single-purpose research facilities for—
+
+  (A) research, development, demonstration, technology transfer, skills training and workforce development, or commercial application activities; or
+
+  (B) any other activities that the applicable Director determines appropriate.
+
+(4) **Expedited approval** — The Secretary, working with the Directors, shall establish a stream-lined approval process for financial assistance agreements signed between—
+
+  (A) small business concerns selected to receive a voucher under the program; and
+
+  (B) the National Laboratories and single-purpose research facilities.
+
+(5) **Cost-sharing requirement** — In carrying out the program, the Secretary shall require cost-sharing in accordance with [section 16352 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16352).
+
+(6) **Report** — In accordance with [section 16391a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391a), the Secretary shall report annually on the progress and implementation of the small business voucher program established under this section, including the number and locations of small businesses that received grants under this program.
+
+**(d) Use of funds** None of the funds expended under subsection (b) may be used for direct grants to small business concerns.
+
+**(e) Authorization of appropriations** There is authorized to be appropriated to the Secretary for activities under subsection (b) $5,000,000 for each of fiscal years 2006 through 2008 and for activities under subsection (c) $25,000,000 for each of fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–167, § 10718(1)(A), substituted “(as defined in [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801)) and the Director of each single-purpose research facility” for “, and may require the Director of a single-purpose research facility,” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 117–167, § 10718(1)(B), substituted “encourage” for “increase” and “research, development, demonstration, and commercial application activities, including product development,” for “collaborative research,”.
+
+Subsec. (a)(2). Pub. L. 117–167, § 10718(1)(C), substituted “the activities described in paragraph (1)” for “procurement and collaborative research”.
+
+Subsec. (a)(3). Pub. L. 117–167, § 10718(1)(D), inserted “facilities,” before “training” and substituted “the activities described in paragraph (1)” for “procurement and collaborative research activities”.
+
+Subsec. (a)(5). Pub. L. 117–167, § 10718(1)(E), substituted “and metrics for the programs under subsections (b) and (c)” for “for the program under subsection (b)”.
+
+Subsecs. (c), (d). Pub. L. 117–167, § 10718(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 117–167, § 10718(2), (4), redesignated subsec. (d) as (e), substituted “for activities under subsection (b)” for “for activities under this section”, and inserted before period at end “and for activities under subsection (c) $25,000,000 for each of fiscal years 2023 through 2027”.
 
 
 <a id="section-16395"></a>
@@ -12335,7 +12706,7 @@ The Secretary shall ensure that each program authorized by this Act or an amendm
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
+This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 
 <a id="section-16396"></a>
@@ -12358,15 +12729,15 @@ Except as otherwise provided in this Act or an amendment made by this Act, the S
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, as amended, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
+This Act, referred to in text, is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 The Atomic Energy Act of 1954, referred to in par. (1), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in par. (2), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in par. (2), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
 
-The Energy Policy Act of 1992, referred to in par. (3), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
+The Energy Policy Act of 1992, referred to in par. (3), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in par. (4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in par. (4), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-16411"></a>
@@ -12521,15 +12892,21 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in par. (4),
 
 (8) **Nonsubstitution** — The programs created under this subsection shall not be considered a substitute for Federal research and development programs.
 
+**(h) Report** In accordance with [section 16391a of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391a), the Secretary shall report annually on a description of any prize competitions carried out using the authority under this section, the total amount of prizes awarded along with any private sector contributions, the methods used for solicitation and evaluation, and a description of how each prize competition advanced the mission of the Department.
+
 ### Statutory Notes
 
 #### References in Text
 Section 105 of the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, referred to in subsec. (e), is section 105 of Pub. L. 111–358, title I, Jan. 4, 2011, 124 Stat. 3989, which enacted [section 3719 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3719&num=0&edition=prelim), Commerce and Trade, and amended [section 20144 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section20144&num=0&edition=prelim), National and Commercial Space Programs.
 
 #### Amendments
-2020—Subsec. (e). Pub. L. 116–260 added subsec. (e). Former subsec. (e) redesignated (f) as the probable intent of Congress.
+2022—Subsec. (f). Pub. L. 117–167, § 10724(b), redesignated subsec. (e) relating to authorization of appropriations as (f).
 
-Subsecs. (f) to (h). Pub. L. 116–260, which directed redesignation of subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsecs. (e) and (f) as (f) and (g), respectively, to reflect the probable intent of Congress.
+Subsec. (h). Pub. L. 117–167, § 10724(a), added subsec. (h).
+
+2020—Subsec. (e). Pub. L. 116–260 added subsec. (e) relating to coordination.
+
+Subsecs. (f), (g). Pub. L. 116–260, which directed redesignation of subsecs. (f) and (g) as (g) and (h), respectively, was executed by redesignating subsec. (f) as (g), to reflect the probable intent of Congress.
 
 2007—Subsec. (f). Pub. L. 110–140 added subsec. (f).
 
@@ -12699,9 +13076,9 @@ The Secretary shall support the ongoing activities of and explore opportunities 
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsecs. (a)(2)(A) and (b)(2)(A), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsecs. (a)(2)(A) and (b)(2)(A), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 #### Short Title
 For short title of title XII of Pub. L. 109–58, which enacted this subchapter, as the “Electricity Modernization Act of 2005”, see section 1201 of Pub. L. 109–58, set out as a note under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
@@ -12836,9 +13213,9 @@ Section was enacted as part of the Hoover Power Plant Act of 1984, and not as pa
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsec. (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (b), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim), Conservation, and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (b), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim), Conservation, and Tables.
 
 
 <a id="section-16431"></a>
@@ -13058,7 +13435,7 @@ For short title of subtitle F of title XII of Pub. L. 109–58, which enacted th
 ### Statutory Notes
 
 #### References in Text
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (b), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim), Conservation, and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (b), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim), Conservation, and Tables.
 
 
 <a id="section-16455"></a>
@@ -13082,7 +13459,7 @@ The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (b), 
 #### References in Text
 For the effective date of this part, referred to in subsec. (a), see Effective Date note set out under [section 16451 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16451).
 
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim), Conservation, and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim), Conservation, and Tables.
 
 
 <a id="section-16456"></a>
@@ -13096,7 +13473,7 @@ The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a)(1
 #### References in Text
 This part, referred to in text, was in the original “this subtitle”, meaning subtitle F (§§ 1261–1277) of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, which enacted this part, amended sections 824 and 824m of Title 16, Conservation, repealed chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, and [section 825q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section825q&num=0&edition=prelim), and enacted provisions set out as notes under sections 15801 and 16451 of this title. For complete classification of subtitle F to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
-The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
 
 <a id="section-16457"></a>
@@ -13155,11 +13532,11 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 #### References in Text
 This part, referred to in text, was in the original “this subtitle”, meaning subtitle F (§§ 1261–1277) of title XII of Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 972, known as the Public Utility Holding Company Act of 2005, which enacted this part, amended sections 824 and 824m of Title 16, Conservation, repealed chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, and [section 825q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section825q&num=0&edition=prelim), and enacted provisions set out as notes under sections 15801 and 16451 of this title. For complete classification of subtitle F to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in subsecs. (a) and (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsecs. (a) and (c), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
-The Federal Power Act, referred to in subsec. (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
-The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
+The Natural Gas Act, referred to in subsec. (b), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 [Section 1081 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1081&num=0&edition=prelim), referred to in subsec. (c), was repealed by Pub. L. 109–135, title IV, § 402(a)(1), Dec. 21, 2005, 119 Stat. 2610.
 
@@ -13501,7 +13878,7 @@ In this subchapter:
 
 (4) **Guarantee**
 
-  (A) *In general* — The term “guarantee” has the meaning given the term “loan guarantee” in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim).
+  (A) *In general* — The term “guarantee” has the meaning given the term “loan guarantee” in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim), except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations).
 
   (B) *Inclusion* — The term “guarantee” includes a loan guarantee commitment (as defined in [section 661a of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)).
 
@@ -13522,7 +13899,12 @@ In this subchapter:
 ### Statutory Notes
 
 #### Amendments
+2022—Par. (4)(A). Pub. L. 117–169 inserted “, except that a loan guarantee may guarantee any debt obligation of a non-Federal borrower to any Eligible Lender (as defined in section 609.2 of title 10, Code of Federal Regulations)” before period at end.
+
 2021—Pars. (6), (7). Pub. L. 117–58 added pars. (6) and (7).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16513"></a>
@@ -13538,6 +13920,8 @@ In this subchapter:
   (A) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
 
   (B) a combination of one or more appropriations and one or more payments from the borrower under this subsection has been made that is sufficient to cover the cost of the guarantee.
+
+(3) **Source of payments** — The source of a payment received from a borrower under subparagraph (A) or (B) of paragraph (2) may not be a loan or other debt obligation that is made or guaranteed by the Federal Government.
 
 **(c) Amount** Unless otherwise provided by law, a guarantee by the Secretary shall not exceed an amount equal to 80 percent of the project cost of the facility that is the subject of the guarantee, as estimated at the time at which the guarantee is issued.
 
@@ -13677,7 +14061,7 @@ In this subchapter:
 
 (2) conduct outreach, including through conferences and online programs, to disseminate information to potential applicants;
 
-(3) conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects.
+(3) conduct outreach to encourage participation of supporting finance institutions and private lenders in eligible projects and projects described in [section 16517(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16517/a&num=0&edition=prelim).
 
 **(p) Coordination** In carrying out this subchapter, the Secretary shall coordinate activities under this subchapter with activities of other relevant offices with the Department.
 
@@ -13727,6 +14111,10 @@ Division C of Public Law 108–324, referred to in subsec. (a), is division C of
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (b)(3). Pub. L. 117–169, § 50141(f), added par. (3).
+
+Subsec. (o)(3). Pub. L. 117–169, § 50144(d), inserted “and projects described in [section 16517(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16517/a&num=0&edition=prelim)” before period at end.
+
 2021—Subsec. (a). Pub. L. 117–58, § 40401(c)(2)(A), inserted “, including projects receiving financial support or credit enhancements from a State energy financing institution,” after “for projects”.
 
 Subsec. (d)(1). Pub. L. 117–58, § 40401(a)(1), substituted “Requirement” for “In general” in par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, and added subpar. (B).
@@ -13760,6 +14148,9 @@ Subsecs. (l) to (q). Pub. L. 116–260, § 9010(a)(4), added subsecs. (l) to (q)
 “(2) the Secretary has received from the borrower a payment in full for the cost of the obligation and deposited the payment into the Treasury.”
 
 2009—Subsec. (k). Pub. L. 111–85 added subsec. (k).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-16514"></a>
@@ -13800,7 +14191,7 @@ Subsecs. (l) to (q). Pub. L. 116–260, § 9010(a)(4), added subsecs. (l) to (q)
 
 (12) Technologies or processes for reducing greenhouse gas emissions from industrial applications, including iron, steel, cement, and ammonia production, hydrogen production, and the generation of high-temperature heat.
 
-(13) Projects that increase the domestically produced supply of critical minerals (as defined in [section 1606(a) of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/a&num=0&edition=prelim), including through the production, processing, manufacturing, recycling, or fabrication of mineral alternatives.
+(13) Projects that increase the domestically produced supply of critical minerals (as defined in [section 1606(a) of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/a&num=0&edition=prelim)), including through the production, processing, manufacturing, recycling, or fabrication of mineral alternatives.
 
 **(c) Gasification projects** The Secretary may make guarantees for the following gasification projects:
 
@@ -13890,6 +14281,9 @@ Subsec. (f). Pub. L. 116–260, § 9010(b)(3), added subsec. (f).
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-16515"></a>
 ## § 16515. Authorization of appropriations
@@ -13945,13 +14339,42 @@ Section was enacted as part of the Continuing Appropriations Resolution, 2007, a
 2014—Subsec. (c). Pub. L. 113–76 substituted “a review every three years” for “an annual review”.
 
 
-<a id="section-16521"></a>
-## § 16521. Omitted
+<a id="section-16517"></a>
+## § 16517. Omitted
 
 ### Statutory Notes
 
 #### Codification
 Section, Pub. L. 109–58, title XVII, § 1705, as added Pub. L. 111–5, div. A, title IV, § 406(a), Feb. 17, 2009, 123 Stat. 145, which related to temporary program for rapid deployment of renewable energy and electric power transmission projects, was omitted from the Code due to expiration of authority to enter into guarantees under this section on Sept. 30, 2011.
+
+
+<a id="section-16521"></a>
+## § 16521. Energy infrastructure reinvestment financing
+**(a) In general** Notwithstanding [section 16513 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16513), the Secretary may make guarantees, including refinancing, under this section only for projects that—
+
+(1) retool, repower, repurpose, or replace energy infrastructure that has ceased operations; or
+
+(2) enable operating energy infrastructure to avoid, reduce, utilize, or sequester air pollutants or anthropogenic emissions of greenhouse gases.
+
+**(b) Inclusion** A project under subsection (a) may include the remediation of environmental damage associated with energy infrastructure.
+
+**(c) Requirement** A project under subsection (a)(1) that involves electricity generation through the use of fossil fuels shall be required to have controls or technologies to avoid, reduce, utilize, or sequester air pollutants and anthropogenic emissions of greenhouse gases.
+
+**(d) Application** To apply for a guarantee under this section, an applicant shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including—
+
+(1) a detailed plan describing the proposed project;
+
+(2) an analysis of how the proposed project will engage with and affect associated communities; and
+
+(3) in the case of an applicant that is an electric utility, an assurance that the electric utility shall pass on any financial benefit from the guarantee made under this section to the customers of, or associated communities served by, the electric utility.
+
+**(e) Term** Notwithstanding [section 16512(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16512/f&num=0&edition=prelim), the term of an obligation shall require full repayment over a period not to exceed 30 years.
+
+**(f) Definition of energy infrastructure** In this section, the term “energy infrastructure” means a facility, and associated equipment, used for—
+
+(1) the generation or transmission of electric energy; or
+
+(2) the production, processing, and delivery of fossil fuels, fuels derived from petroleum, or petrochemical feedstocks.
 
 
 <a id="section-16522"></a>
@@ -14053,7 +14476,7 @@ In this subchapter:
 This subchapter, referred to in introductory provisions, was in the original “this title”, meaning title V of Pub. L. 110–69, Aug. 9, 2007, 121 Stat. 600, known as the Protecting America’s Competitive Edge Through Energy Act and also as the PACE–Energy Act, which is classified principally to this subchapter. For complete classification of this title to the Code, see Short Title of 2007 Amendment note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
 #### Short Title
-For short title of title V of Pub. L. 110–69, which enacted this subchapter, as the “Protecting America’s Competitive Edge Through Energy Act” or the “PACE–Energy Act”, see section 5001 of Pub. L. 110–69, set out as a note under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) .
+For short title of title V of Pub. L. 110–69, which enacted this subchapter, as the “Protecting America’s Competitive Edge Through Energy Act” or the “PACE–Energy Act”, see section 5001 of Pub. L. 110–69, set out as a note under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
 
 
 <a id="section-16533"></a>

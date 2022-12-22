@@ -830,7 +830,7 @@ Based on title 18, U.S.C., 1940 ed., § 350 (Mar. 3, 1923, ch. 218, 42 Stat. 143
 Minor changes in phraseology were made.
 
 #### References in Text
-The Migratory Bird Hunting Stamp Act, referred to in par. (1)(i), (ii), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, as amended, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 718 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section718&num=0&edition=prelim) and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in par. (1)(i), (ii), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 718 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section718&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Par. (1). Pub. L. 104–294, § 601(e)(1), substituted “The printing” for “the printing” in introductory provisions.

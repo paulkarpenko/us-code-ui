@@ -639,7 +639,7 @@ Barack Obama.
 ### Statutory Notes
 
 #### References in Text
-The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, as amended, which is classified generally to this chapter (§ 7701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-086-earthquake-hazards-reduction.md#section-7701) and Tables.
+The Earthquake Hazards Reduction Act of 1977, referred to in subsec. (c), is Pub. L. 95–124, Oct. 7, 1977, 91 Stat. 1098, which is classified generally to this chapter (§ 7701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-086-earthquake-hazards-reduction.md#section-7701) and Tables.
 
 #### Codification
 Subsec. (d) of this section, which required the Secretary to submit a report to Congress not less than biennially on the findings of the risk assessment study conducted under this section and the activities undertaken, and the expenditures made, by the Secretary to carry out this section and Executive Order No. 12699, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, the 4th item on page 104 of House Document No. 103–7.

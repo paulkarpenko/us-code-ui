@@ -14,7 +14,7 @@ The Congress declares that the general welfare and security of the Nation and th
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 1967—Pub. L. 90–19 substituted “The Department of Housing and Urban Development” for “The Housing and Home Finance Agency and its constituent agencies”.
@@ -49,7 +49,7 @@ Executive order relating to equal opportunity in housing, see Ex. Ord. No. 11063
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
 #### Codification
 Section was not enacted as part of the Housing Act of 1949 which comprises this chapter.
@@ -105,7 +105,7 @@ Insofar as the provisions of any other law are inconsistent with the provisions 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
 
 <a id="section-1444"></a>
@@ -116,7 +116,7 @@ Except as may be otherwise expressly provided in this Act, all powers and author
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
 
 <a id="section-1445"></a>
@@ -153,7 +153,7 @@ Pub. L. 88–560, title III, § 301(d), Sept. 2, 1964, 78 Stat. 785, provided th
 Act Aug. 2, 1954, ch. 649, title III, § 312, 68 Stat. 629, as amended by Pub. L. 90–19, § 10(a), May 25, 1967, 81 Stat. 22, provided that notwithstanding the amendments by title III of the 1954 Act to this subchapter, the Secretary of Housing and Urban Development was required to continue to extend financial assistance for the completion of any project covered by any Federal aid contract executed, or prior approval granted, by him under this subchapter before Aug. 2, 1954, in accordance with the provisions of this subchapter in force immediately prior to Aug. 2, 1954.
 
 #### Executive Order No. 12075
-Ex. Ord. No. 12075, Aug. 16, 1978, 43 F.R. 36877, as amended by Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Interagency Coordinating Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 14, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12075, Aug. 16, 1978, 43 F.R. 36877, as amended by Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Interagency Coordinating Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 14, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1451a"></a>
@@ -247,7 +247,7 @@ The Secretary of Housing and Urban Development, in processing applications for a
 #### References in Text
 Section 103 of the Housing Act of 1949 [[42 U.S.C. 1453](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1453)], section 111 of the Demonstration Cities and Metropolitan Development Act of 1966 [[42 U.S.C. 3311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3311&num=0&edition=prelim)], sections 702 and 703 of the Housing and Urban Development Act of 1965 [[42 U.S.C. 3102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3102&num=0&edition=prelim), 3103], and section 708 of the Housing Act of 1961 [[42 U.S.C. 1500d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1500d&num=0&edition=prelim)], referred to in text, were omitted from the Code pursuant to [section 5316 of this title](./chapter-069-community-development.md#section-5316) which terminated the authority to make grants or loans under those sections after Jan. 1, 1975.
 
-Section 701 of the Housing Act of 1954, referred to in text, is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat. 640, as amended, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, § 313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701 of the Housing Act of 1954, referred to in text, is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat. 640, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, § 313(b), Aug. 13, 1981, 95 Stat. 398.
 
 #### Codification
 Section was not enacted as part of title I of the Housing Act of 1949 which comprises this subchapter.
@@ -1150,7 +1150,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub.
 #### References in Text
 [Section 2809 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809&num=0&edition=prelim), referred to in subsec. (c)(1), was repealed by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519.
 
-The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(1), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§ 6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
+The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(1), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§ 6861 et seq.) of subchapter III of chapter 81 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified principally to chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
@@ -1249,7 +1249,7 @@ Section was enacted as part of the Department of Agriculture and Related Agencie
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (e), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of that Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+This Act, referred to in subsec. (e), is act July 15, 1949, ch. 338, 63 Stat. 413, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of that Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
 #### Amendments
 1995—Subsec. (b). Pub. L. 104–66 struck out at end “The Secretary shall report to the Congress at the close of each fiscal year on the results of such demonstrations.”
@@ -1408,7 +1408,7 @@ Subsec. (b). Pub. L. 87–70, § 806(b), substituted “certify to the Secretary
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the National Housing Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Subsec. (f)(4)(A). Pub. L. 105–276, in first sentence, substituted “each fiscal year” for “fiscal year 1998” and, in second sentence, substituted “During each fiscal year” for “During such fiscal year” and substituted “from amounts available for assistance under paragraphs (2) and (5) of [section 1490a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1490a/a&num=0&edition=prelim), an amount” for “an amount of section 521 rental assistance”.
@@ -2960,7 +2960,7 @@ Pub. L. 101–625, title VII, § 715(b), Nov. 28, 1990, 104 Stat. 4296, provided
 #### References in Text
 [Section 1487(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1487/a&num=0&edition=prelim), referred to in subsecs. (a)(1)(A) and (b), was amended by Pub. L. 98–181, title I [title V, § 514(a)(1)], Nov. 30, 1983, 98 Stat. 1247, and, as so amended, does not contain a par. (1).
 
-The National Housing Act, referred to in subsec. (a)(1)(C) and (F), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (a)(1)(C) and (F), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (a)(1)(C) and (F), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
@@ -3507,9 +3507,9 @@ The Secretary may also provide tenant-based assistance as provided under [sectio
 ### Statutory Notes
 
 #### References in Text
-Public Law 88–352, referred to in subsec. (e)(1)(C), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX (§ 2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+Public Law 88–352, referred to in subsec. (e)(1)(C), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX (§ 2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
-Public Law 90–284, referred to in subsec. (e)(1)(C), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended, known as the Civil Rights Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
+Public Law 90–284, referred to in subsec. (e)(1)(C), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, known as the Civil Rights Act of 1968. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
 
 #### Amendments
 1998—Subsec. (a). Pub. L. 105–276 substituted “tenant-based assistance as provided under [section 1437f of this title](./chapter-008-low-income-housing.md#section-1437f)” for “assistance payments as provided by section 1437f(o) of this title” in concluding provisions.
@@ -3730,7 +3730,7 @@ Pub. L. 101–235, title IV, § 401(b), Dec. 15, 1989, 103 Stat. 2048, provided 
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, referred to in subsec. (b)(4), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(4), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
 
 <a id="section-1490p-2"></a>
@@ -3745,7 +3745,7 @@ The Housing Act of 1949, referred to in subsec. (b)(4), is act July 15, 1949, ch
 
 (1) consists of 5 or more adequate dwellings;
 
-(2) is available for occupancy only by low or moderate income 11 So in original. Probably should be “low- or moderate-­income”. families or persons, whose incomes at the time of initial occupancy do not exceed 115 percent of the median income of the area, as determined by the Secretary;
+(2) is available for occupancy only by low or moderate income 11 So in original. Probably should be “low- or moderate-income”. families or persons, whose incomes at the time of initial occupancy do not exceed 115 percent of the median income of the area, as determined by the Secretary;
 
 (3) will remain available as provided in paragraph (2), according to such binding commitments as the Secretary may require, for the period of the original term of the loan guaranteed, unless the housing is acquired by foreclosure (or instrument in lieu of foreclosure) or the Secretary waives the applicability of such requirement for the loan only after determining, based on objective information, that—
 
@@ -3870,11 +3870,11 @@ The Housing Act of 1949, referred to in subsec. (b)(4), is act July 15, 1949, ch
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (e)(1)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (e)(1)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 Subpar. (D) of [section 42(i)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section42/i/2&num=0&edition=prelim), referred to in subsec. (f)(5), was repealed by Pub. L. 110–289, div. C, title I, § 3002(b)(2)(C), July 30, 2008, 122 Stat. 2880.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (r)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 The Indian Self-Determination and Education Assistance Act of 1975 ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), referred to in subsec. (r)(4)(A), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
@@ -3945,7 +3945,7 @@ Section to be construed to have become effective Oct. 1, 1995, see section 13(a)
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Amendments
 1992—Subsec. (a)(1). Pub. L. 102–550 substituted “amounts made available to the Secretary by an appropriations Act for such purpose” for “amounts available under this subchapter”.
@@ -4036,8 +4036,8 @@ Title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](./chapter-021-civil-
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
-The Civil Rights Act of 1968, referred to in text, is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
+The Civil Rights Act of 1968, referred to in text, is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
 
-This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, known as the Housing Act of 1949, which is classified principally to this chapter (§ 1441 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.

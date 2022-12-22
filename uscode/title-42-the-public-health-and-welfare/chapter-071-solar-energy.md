@@ -482,7 +482,7 @@ Pub. L. 116–260, div. Z, title III, § 3006(e)(2), Dec. 27, 2020, 134 Stat. 25
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(4), means Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 47, as amended, known as the Department of Energy Act of 1978—Civilian Applications. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(4), means Pub. L. 95–238, Feb. 25, 1978, 92 Stat. 47, known as the Department of Energy Act of 1978—Civilian Applications. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Department of Energy Act of 1978—Civilian Applications, and not as part of the Solar Energy Research, Development, and Demonstration Act of 1974 which formerly comprised this subchapter.

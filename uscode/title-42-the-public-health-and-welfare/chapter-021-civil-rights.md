@@ -102,9 +102,9 @@ Ex. Ord. No. 13050, June 13, 1997, 62 F.R. 32987, which established the Presiden
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in subsec. (d)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (d)(1)(A), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (d)(1)(B) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (d)(1)(B) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
 #### Effective Date
 Section effective Nov. 21, 1991, except as otherwise provided, see section 402 of Pub. L. 102–166, set out as an Effective Date of 1991 Amendment note under [section 1981 of this title](./chapter-021-civil-rights.md#section-1981).
@@ -299,13 +299,13 @@ Title 24 of the Revised Statutes, referred to in subsec. (a), was in the origina
 
 Title 70 of the Revised Statutes, referred to in subsec. (a), was in the original “Title ‘Crimes,’ ” meaning title 70 of the Revised Statutes, consisting of R.S. §§ 5323 to 5550. For complete classification of R.S. §§ 5323 to 5550, see Tables.
 
-Title IX of Public Law 92–318, referred to in subsec. (b), is title IX of Pub. L. 92–318, June 23, 1972, 86 Stat. 373, as amended, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, which is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
+Title IX of Public Law 92–318, referred to in subsec. (b), is title IX of Pub. L. 92–318, June 23, 1972, 86 Stat. 373, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, which is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
 
 The Religious Freedom Restoration Act of 1993, referred to in subsec. (b), is Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§ 2000bb et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000bb of this title](./chapter-21b-religious-freedom-restoration.md#section-2000bb) and Tables.
 
 The Religious Land Use and Institutionalized Persons Act of 2000, referred to in subsec. (b), is Pub. L. 106–274, Sept. 22, 2000, 114 Stat. 803, which is classified principally to chapter 21C (§ 2000cc et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000cc of this title](./chapter-21c-protection-of-religious-exercise-in-land-use-and-by-institutionalized-persons.md#section-2000cc) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Codification
 R.S. § 722 derived from acts Apr. 9, 1866, ch. 31, § 3, 14 Stat. 27; May 31, 1870, ch. 114, § 18, 16 Stat. 144.
@@ -542,7 +542,7 @@ William J. Clinton.
 #### References in Text
 The Religious Freedom Restoration Act, referred to in subsec. (b)(6), (7), probably means the Religious Freedom Restoration Act of 1993, Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§ 2000bb et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000bb of this title](./chapter-21b-religious-freedom-restoration.md#section-2000bb) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1996b"></a>
@@ -560,9 +560,9 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (c)(2), is Pub. 
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in par. (2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in par. (2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
-The Indian Child Welfare Act of 1978, referred to in par. (3), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§ 1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1901&num=0&edition=prelim) and Tables.
+The Indian Child Welfare Act of 1978, referred to in par. (3), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§ 1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1901&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1997"></a>
@@ -609,7 +609,7 @@ As used in this subchapter—
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in par. (2)(B), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI, XVIII, and XIX of the Social Security Act are classified generally to subchapters XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XIX (§ 1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in par. (2)(B), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVI, XVIII, and XIX of the Social Security Act are classified generally to subchapters XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XIX (§ 1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Short Title
 Pub. L. 96–247, § 1, May 23, 1980, 94 Stat. 349, provided: “That this Act [enacting this subchapter] may be cited as the ‘Civil Rights of Institutionalized Persons Act’.”
@@ -1425,11 +1425,11 @@ The Secretary of Education shall not defer action or order action deferred on an
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, as amended, known as the Elementary and Secondary Education Amendments of 1966. For complete classification of that Act to the Code, see Short Title of 1966 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+This Act, referred to in text, is Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1191, known as the Elementary and Secondary Education Amendments of 1966. For complete classification of that Act to the Code, see Short Title of 1966 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
-Act of September 30, 1950, referred to in text, is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§ 236 et seq.) of Title 20 prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950, referred to in text, is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§ 236 et seq.) of Title 20 prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 The Cooperative Research Act, referred to in text, is act July 26, 1954, ch. 576, 68 Stat. 533, which was classified generally to chapter 15 (§ 331 et seq.) of Title 20, and terminated on July 1, 1975, under provisions of section 402(c)(1) of Pub. L. 93–380, title IV, Aug. 21, 1974, 88 Stat. 544. See section 1851 et seq. of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -1463,7 +1463,7 @@ Pub. L. 89–750, title I, § 191, Nov. 3, 1966, 80 Stat. 1210, provided that: �
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in subsecs. (a) and (c), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to this subchapter (§ 2000d et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (a) and (c), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to this subchapter (§ 2000d et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Codification
 Section was enacted as part of the Elementary and Secondary Education Amendments of 1969, and not as part of the Civil Rights Act of 1964, title VI of which comprises this subchapter.
@@ -1485,11 +1485,11 @@ Section was enacted as part of the Elementary and Secondary Education Amendments
 ### Statutory Notes
 
 #### References in Text
-The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
+The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to this subchapter (§ 2000d et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to this subchapter (§ 2000d et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Codification
 Section was enacted as part of the Rehabilitation Act Amendments of 1986, and not as part of the Civil Rights Act of 1964, title VI of which comprises this subchapter.
@@ -2451,7 +2451,7 @@ Section 1. Policy. On my first day in office, I signed Executive Order 13985 (Ad
 
 As the Nation’s largest employer, the Federal Government must be a model for diversity, equity, inclusion, and accessibility, where all employees are treated with dignity and respect. Accordingly, the Federal Government must strengthen its ability to recruit, hire, develop, promote, and retain our Nation’s talent and remove barriers to equal opportunity. It must also provide resources and opportunities to strengthen and advance diversity, equity, inclusion, and accessibility across the Federal Government. The Federal Government should have a workforce that reflects the diversity of the American people. A growing body of evidence demonstrates that diverse, equitable, inclusive, and accessible workplaces yield higher-performing organizations.
 
-Federal merit system principles include that the Federal Government’s recruitment policies should “endeavor to achieve a work force from all segments of society” and that “[a]ll employees and applicants for employment should receive fair and equitable treatment in all aspects of personnel management” ([5 U.S.C. 2301(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2301/b/1&num=0&edition=prelim), (2)). As set forth in Executive Order 13583 of August 18, 2011 (Establishing a Coordinated Government-Wide Initiative to Promote Diversity and Inclusion in the Federal Workforce) [set out above], the Presidential Memorandum of October 5, 2016 (Promoting Diversity and Inclusion in the National Security Workforce) [set out below], Executive Order 13988 of January 20, 2021 (Preventing and Combating Discrimination on the Basis of Gender Identity or Sexual Orientation) [set out above], the National Security Memorandum of February 4, 2021 (Revitalizing America’s Foreign Policy and National Security Workforce, Institutions, and Partnerships) [[22 U.S.C. 2656](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2656&num=0&edition=prelim) note], and Executive Order 14020 of March 8, 2021 (Establishment of the White House Gender Policy Council) [set out above], the Federal Government is at its best when drawing upon all parts of society, our greatest accomplishments are achieved when diverse perspectives are brought to bear to overcome our greatest challenges, and all persons should receive equal treatment under the law. This order reaffirms support for, and builds upon, the procedures established by Executive Orders 13583, 13988, and 14020, the Presidential Memorandum on Promoting Diversity and Inclusion in the National Security Workforce, and the National Security Memorandum on Revitalizing America’s Foreign Policy and National Security Workforce, Institutions, and Partnerships. This order establishes that diversity, equity, inclusion, and accessibility are priorities for my Administration and benefit the entire Federal Government and the Nation, and establishes additional procedures to advance these priorities across the Federal workforce.
+Federal merit system principles include that the Federal Government’s recruitment policies should “endeavor to achieve a work force from all segments of society” and that “[a]ll employees and applicants for employment should receive fair and equitable treatment in all aspects of personnel management” ([5 U.S.C. 2301(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2301/b/1&num=0&edition=prelim), (2)). As set forth in Executive Order 13583 of August 18, 2011 (Establishing a Coordinated Government-Wide Initiative to Promote Diversity and Inclusion in the Federal Workforce) [set out above], the Presidential Memorandum of October 5, 2016 (Promoting Diversity and Inclusion in the National Security Workforce) [set out below], Executive Order 13988 of January 20, 2021 (Preventing and Combating Discrimination on the Basis of Gender Identity or Sexual Orientation) [set out above], the National Security Memorandum of February 4, 2021 (Revitalizing America’s Foreign Policy and National Security Workforce, Institutions, and Partnerships), and Executive Order 14020 of March 8, 2021 (Establishment of the White House Gender Policy Council) [set out above], the Federal Government is at its best when drawing upon all parts of society, our greatest accomplishments are achieved when diverse perspectives are brought to bear to overcome our greatest challenges, and all persons should receive equal treatment under the law. This order reaffirms support for, and builds upon, the procedures established by Executive Orders 13583, 13988, and 14020, the Presidential Memorandum on Promoting Diversity and Inclusion in the National Security Workforce, and the National Security Memorandum on Revitalizing America’s Foreign Policy and National Security Workforce, Institutions, and Partnerships. This order establishes that diversity, equity, inclusion, and accessibility are priorities for my Administration and benefit the entire Federal Government and the Nation, and establishes additional procedures to advance these priorities across the Federal workforce.
 
 Sec. 2. Definitions. For purposes of this order, in the context of the Federal workforce:
 
@@ -2499,7 +2499,9 @@ Sec. 4. Responsibilities of Executive Departments and Agencies. The head of each
 
 (iv) identify areas where evidence is lacking and propose opportunities to build evidence to advance diversity, equity, inclusion, and accessibility and address those gaps identified;
 
-(b) within 120 days of the issuance of the Government-wide DEIA Plan, and annually thereafter, develop and submit to the APDP, the Director of OPM, and the Deputy Director for Management of OMB an Agency Diversity, Equity, Inclusion, and Accessibility Strategic Plan (Agency DEIA Strategic Plan), as described by section 3(b) of Executive Order 13583 and as modified by this order. Agency DEIA Strategic Plans should identify actions to advance diversity, equity, inclusion, and accessibility in the workforce and remove any potential barriers to diversity, equity, inclusion, and accessibility in the workforce identified in the assessments described in subsection (a) of this section. Agency DEIA Strategic Plans should also include quarterly goals and actions to advance diversity, equity, inclusion, and accessibility initiatives in the agency workforce and in the agency’s workplace culture;(c) on an annual basis, report to the President on the status of the agency’s efforts to advance diversity, equity, inclusion, and accessibility within the agency, and the agency’s success in implementing the Agency DEIA Strategic Plan. Consistent with guidance issued as part of the Government-wide DEIA Plan, the agency head shall also make available to the general public information on efforts to advance diversity, equity, inclusion, and accessibility in the agency’s workforce;
+(b) within 120 days of the issuance of the Government-wide DEIA Plan, and annually thereafter, develop and submit to the APDP, the Director of OPM, and the Deputy Director for Management of OMB an Agency Diversity, Equity, Inclusion, and Accessibility Strategic Plan (Agency DEIA Strategic Plan), as described by section 3(b) of Executive Order 13583 and as modified by this order. Agency DEIA Strategic Plans should identify actions to advance diversity, equity, inclusion, and accessibility in the workforce and remove any potential barriers to diversity, equity, inclusion, and accessibility in the workforce identified in the assessments described in subsection (a) of this section. Agency DEIA Strategic Plans should also include quarterly goals and actions to advance diversity, equity, inclusion, and accessibility initiatives in the agency workforce and in the agency’s workplace culture;
+
+(c) on an annual basis, report to the President on the status of the agency’s efforts to advance diversity, equity, inclusion, and accessibility within the agency, and the agency’s success in implementing the Agency DEIA Strategic Plan. Consistent with guidance issued as part of the Government-wide DEIA Plan, the agency head shall also make available to the general public information on efforts to advance diversity, equity, inclusion, and accessibility in the agency’s workforce;
 
 (d) oversee, and provide resources and staffing to support, the implementation of the Agency DEIA Strategic Plan;
 
@@ -2909,7 +2911,7 @@ The provisions of sections 111 and 1114, title 18, shall apply to officers, agen
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+This Act, referred to in text, means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Amendments
 1972—Pub. L. 92–261 inserted provisions which made [section 1114 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1114&num=0&edition=prelim) applicable to officers, etc., of the Commission and set forth punishment for violation of such section 1114.
@@ -2982,7 +2984,7 @@ With respect to employment in the Library of Congress, authorities granted in th
 #### References in Text
 This Act, referred to in subsec. (e), means Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
-Executive Order 11478, as amended, referred to in subsecs. (c) and (e), is set out as a note under [section 2000e of this title](./chapter-021-civil-rights.md#section-2000e).
+Executive Order 11478, referred to in subsecs. (c) and (e), is set out as a note under [section 2000e of this title](./chapter-021-civil-rights.md#section-2000e).
 
 #### Amendments
 2009—Subsec. (f). Pub. L. 111–2 added subsec. (f).
@@ -3662,11 +3664,11 @@ By the authority vested in me as President of the United States of America by Se
 
 “Sec. 5. All departments and agencies shall cooperate with and assist the Equal Employment Opportunity Commission in the performance of its functions under this Order and shall furnish the Commission such reports and information as it may request. The head of each department or agency shall comply with rules, regulations, orders and instructions issued by the Equal Employment Opportunity Commission pursuant to Section 4 of this Order.”
 
-1–103. Executive Order No. 11022, as amended [set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001)], is further amended by revising Section 1(b) to read as follows:
+1–103. Executive Order No. 11022, as amended [formerly set out as a note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001)], is further amended by revising Section 1(b) to read as follows:
 
 “(b) The Council shall be composed of the Secretary of Health, Education, and Welfare [now Health and Human Services], who shall be Chairman, the Secretary of the Treasury, the Secretary of Agriculture, the Secretary of Commerce, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Administrator of Veterans Affairs, the Director of the Office of Personnel Management, the Director of the Community Services Administration, and the Chairman of the Equal Employment Opportunity Commission.”
 
-1–104. Executive Order No. 11480 of September 9, 1969 [set out as a note under [section 791 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section791&num=0&edition=prelim), Labor], is amended by deleting “and the Chairman of the United States Civil Service Commission” in Section 4 and substituting therefor “Director of the Office of Personnel Management, and the Chairman of the Equal Employment Opportunity Commission”.
+1–104. Executive Order No. 11480 of September 9, 1969 [formerly set out as a note under [section 791 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section791&num=0&edition=prelim), Labor], is amended by deleting “and the Chairman of the United States Civil Service Commission” in Section 4 and substituting therefor “Director of the Office of Personnel Management, and the Chairman of the Equal Employment Opportunity Commission”.
 
 1–105. Executive Order No. 11830 of January 9, 1975 [set out as a note under [section 791 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section791&num=0&edition=prelim), Labor], is amended by deleting Section 2 and revising Section 1 to read as follows:
 
@@ -4002,7 +4004,7 @@ In any proceeding for criminal contempt arising under title II, III, IV, V, VI, 
 ### Statutory Notes
 
 #### References in Text
-Title II, III, IV, V, VI, or VII of this Act, referred to in text, mean title II, III, IV, V, VI, or VII of Pub. L. 88–352, July 2, 1964, 78 Stat. 243, as amended. Titles II, III, and IV are classified generally to subchapters II (§ 2000a et seq.), III (§ 2000b et seq.), and IV (§ 2000c et seq.) of this chapter. Title V amended sections 1975a to 1975d of this title. Title VI enacted sections 2000d to 2000d–4 of this title. Title VII enacted sections 2000e to 2000e–15 of this title, amended sections 2204 and 2205 of former Title 5, Executive Departments and Government Officers and Employees, and enacted provisions set out as a note under [section 2000e of this title](./chapter-021-civil-rights.md#section-2000e). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+Title II, III, IV, V, VI, or VII of this Act, referred to in text, mean title II, III, IV, V, VI, or VII of Pub. L. 88–352, July 2, 1964, 78 Stat. 243. Titles II, III, and IV are classified generally to subchapters II (§ 2000a et seq.), III (§ 2000b et seq.), and IV (§ 2000c et seq.) of this chapter. Title V amended sections 1975a to 1975d of this title. Title VI enacted sections 2000d to 2000d–4 of this title. Title VII enacted sections 2000e to 2000e–15 of this title, amended sections 2204 and 2205 of former Title 5, Executive Departments and Government Officers and Employees, and enacted provisions set out as a note under [section 2000e of this title](./chapter-021-civil-rights.md#section-2000e). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 
 <a id="section-2000h-1"></a>
@@ -4013,7 +4015,7 @@ No person should be put twice in jeopardy under the laws of the United States fo
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+This Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 
 <a id="section-2000h-2"></a>
@@ -4035,7 +4037,7 @@ Nothing in this Act shall be construed to deny, impair, or otherwise affect any 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+This Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 
 <a id="section-2000h-4"></a>
@@ -4046,7 +4048,7 @@ Nothing contained in any title of this Act shall be construed as indicating an i
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+This Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 
 <a id="section-2000h-5"></a>
@@ -4057,7 +4059,7 @@ There are hereby authorized to be appropriated such sums as are necessary to car
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+This Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 
 <a id="section-2000h-6"></a>
@@ -4068,4 +4070,4 @@ If any provision of this Act or the application thereof to any person or circums
 ### Statutory Notes
 
 #### References in Text
-This Act and the Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+This Act and the Act, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, known as the Civil Rights Act of 1964, which is classified principally to subchapters II to IX of this chapter (§ 2000a et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.

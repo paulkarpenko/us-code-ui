@@ -33,7 +33,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Education Amendments of 1978, referred to in subsec. (a)(7), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Part B (§§ 1511–1519) of title XV of Pub. L. 95–561, which provided for the Commission on Proposals for the National Academy of Peace and Conflict Resolution, was set out as a note under [section 1123 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1123&num=0&edition=prelim), Education. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Education Amendments of 1978, referred to in subsec. (a)(7), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Part B (§§ 1511–1519) of title XV of Pub. L. 95–561, which provided for the Commission on Proposals for the National Academy of Peace and Conflict Resolution, was set out as a note under [section 1123 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1123&num=0&edition=prelim), Education. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 #### Short Title
 Pub. L. 98–525, title XVII, § 1701, Oct. 19, 1984, 98 Stat. 2649, provided that: “This title [enacting this chapter] may be cited as the ‘United States Institute of Peace Act’.”
@@ -166,7 +166,7 @@ As used in this chapter, the term—
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Amendments
 2008—Subsec. (b)(3). Pub. L. 110–315 struck out “the Arms Control and Disarmament Agency,” after “Defense,”.

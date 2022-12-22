@@ -39,6 +39,9 @@ Amendment by Pub. L. 110–161 effective Oct. 1, 2009, see section 1004(d)(4) of
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–7 applicable to fiscal year 2003 and each fiscal year thereafter, see section 1016(d) of Pub. L. 108–7, set out as a note under [section 1961 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1961&num=0&edition=prelim), The Congress.
 
+#### Designation of David R. Obey Hearing Room
+Pub. L. 117–103, div. I, title I, § 115, Mar. 15, 2022, 136 Stat. 511, provided that: “Hereafter, the hearing room of the Subcommittee on Labor, Health and Human Services, Education, and Related Agencies of the Committee on Appropriations of the House of Representatives (room 2358–C of the Rayburn House Office Building) shall be known and designated as the ‘David R. Obey Room’.”
+
 #### Designating Small House Rotunda as “Freedom Foyer”
 Pub. L. 114–74, title XII, § 1201, Nov. 2, 2015, 129 Stat. 639, provided that: “The first floor of the area of the House of Representatives wing of the United States Capitol known as the small House rotunda is designated the ‘Freedom Foyer’.”
 
@@ -306,7 +309,7 @@ In subsection (e)(1)(A), the plural “explosives” is used for consistency wit
 In subsection (e)(2)(A), the words “unless authorized to do so pursuant to rules adopted, or authorization given, by that House” are substituted for “unless such person is authorized, pursuant to rules adopted by that House or pursuant to authorization given by that House, to enter or to remain upon such floor or in such cloakroom, lobby, or room” to eliminate unnecessary words.
 
 #### References in Text
-The Act of July 8, 1932, referred to in subsec. (a)(2)(A), is act July 8, 1932, ch. 465, 47 Stat. 650, as amended, which is not classified to the Code.
+The Act of July 8, 1932, referred to in subsec. (a)(2)(A), is act July 8, 1932, ch. 465, 47 Stat. 650, which is not classified to the Code.
 
 #### Amendments
 2010—Subsec. (e)(2)(C). Pub. L. 111–145 repealed Pub. L. 110–161, § 1004(d)(2)(A)(iii). See 2007 Amendment note below.

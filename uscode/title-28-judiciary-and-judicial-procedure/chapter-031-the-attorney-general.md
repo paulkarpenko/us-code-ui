@@ -277,8 +277,8 @@ Pub. L. 114–325, § 1, Dec. 16, 2016, 130 Stat. 1965, provided that: “This A
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the Domestic Emergency Support Teams of the Department of Justice, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(4) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
-#### Emergency Preparedness Functions
-For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
+#### Prohibition on Firearms or Ammunition Transfers to Agents of Drug Cartels
+Pub. L. 117–159, div. A, title II, § 12004(g), June 25, 2022, 136 Stat. 1330, provided that: “The Department of Justice, and any of its law enforcement coordinate agencies, shall not conduct or otherwise facilitate the transfer of an operable firearm or ammunition to an individual if any law enforcement officer employed by the Department of Justice involved with the transfer knows or has reasonable cause to believe that the recipient of the firearm or ammunition is an agent of a drug cartel, unless law enforcement personnel of the United States continuously monitor or control the firearm or ammunition at all times.”
 
 #### Unsolved Civil Rights Crimes
 Pub. L. 110–344, Oct. 7, 2008, 122 Stat. 3934, as amended by Pub. L. 114–325, § 2, Dec. 16, 2016, 130 Stat. 1965, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Emmett Till Unsolved Civil Rights Crime Act of 2007’. “SEC. 2. SENSE OF CONGRESS.“It is the sense of Congress that all authorities with jurisdiction, including the Federal Bureau of Investigation and other entities within the Department of Justice, should—“(1) expeditiously investigate unsolved civil rights murders, due to the amount of time that has passed since the murders and the age of potential witnesses; “(2) provide all the resources necessary to ensure timely and thorough investigations in the cases involved; “(3) meet regularly with eligible entities to coordinate the sharing of information and to discuss the status of the Department’s work under this Act; “(4) support the full accounting of all victims whose deaths or disappearances were the result of racially motivated crimes; “(5) hold accountable under Federal and State law all individuals who were perpetrators of, or accomplices in, unsolved civil rights murders and such disappearances; “(6) express the condolences of the authority to the communities affected by unsolved civil rights murders, and to the families of the victims of such murders and such disappearances; “(7) keep families regularly informed about the status of the investigations of such murders and such disappearances of their loved ones; and “(8) expeditiously comply with requests for information received pursuant to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code, (commonly known as the ‘Freedom of Information Act’) and develop a singular, publicly accessible repository of these disclosed documents. “SEC. 3. DEPUTY CHIEF OF THE CRIMINAL SECTION OF THE CIVIL RIGHTS DIVISION.“(a) In General.—The Attorney General shall designate a Deputy Chief in the Criminal Section of the Civil Rights Division of the Department of Justice. “(b) Responsibility.—“(1) In general.—The Deputy Chief shall be responsible for coordinating the investigation and prosecution of violations of criminal civil rights statutes that occurred not later than December 31, 1979, and resulted in a death. “(2) Coordination.—In investigating a complaint under paragraph (1), the Deputy Chief may coordinate investigative activities with State and local law enforcement officials, and eligible entities. “(3) Review of closed cases.—The Deputy Chief may, to the extent practicable, reopen and review any case involving a violation described in paragraph (1) that was closed prior to the date of the enactment of the Emmett Till Unsolved Civil Rights Crimes Reauthorization Act of 2016 [Dec. 16, 2016] without an in-person investigation or review conducted by an officer or employee of the Criminal Section of the Civil Rights Division of the Department of Justice or by an agent of the Federal Bureau of Investigation. “(4) Public engagement.—“(A) In general.—The Department shall hold meetings with representatives of the Civil Rights Division, Federal Bureau of Investigation, the Community Relations Service, eligible entities, and where appropriate, state and local law enforcement to discuss the status of the Department’s work under this Act. “(B) Authorization of appropriations.—In addition to amounts made available to carry out this Act under section 6, there is authorized to be appropriated to the Attorney General $1,500,000 for fiscal year 2017 and each of the next 10 subsequent fiscal years to carry out this paragraph. “(c) Study and Report.—“(1) Study.—The Attorney General shall annually conduct a study of the cases under the jurisdiction of the Deputy Chief or under the jurisdiction of the Supervisory Special Agent and, in conducting the study, shall determine—“(A) the number of open investigations within the Department for violations of criminal civil rights statutes that occurred not later than December 31, 1979; “(B) the number of new cases opened pursuant to this Act since the previous year’s study; “(C) the number of unsealed Federal cases charged within the study period, including the case names, the jurisdiction in which the charges were brought, and the date the charges were filed; “(D) the number of cases referred by the Department to a State or local law enforcement agency or prosecutor within the study period, the number of such cases that resulted in State charges being filed, the jurisdiction in which such charges were filed, the date the charges were filed, and if a jurisdiction declines to prosecute or participate in an investigation of a case so referred, the fact it did so; “(E) the number of cases within the study period that were closed without Federal prosecution, the case names of unsealed Federal cases, the dates the cases were closed, and the relevant federal statutes; “(F) the number of attorneys who worked, in whole or in part, on any case described in subsection (b)(1); “(G) the applications submitted for grants under section 5, the award of such grants, and the purposes for which the grant amount were expended; and “(H) the number of cases referred by an eligible entity or a State or local law enforcement agency or prosecutor to the Department within the study period, the number of such cases that resulted in Federal charges being filed, the date the charges were filed, and if the Department declines to prosecute or participate in an investigation of a case so referred, the fact that it did so, and the outreach, collaboration, and support for investigations and prosecutions of violations of criminal civil rights statutes described in section 2(3), including murders and including disappearances described in section 2(4), within Federal, State, and local jurisdictions. “(2) Report.—Not later than 6 months after the date of enactment of this Act [Oct. 7, 2008], and each year thereafter, the Attorney General shall prepare and submit to Congress a report containing the results of the study conducted under paragraph (1) and a description of the activities conducted under subsection (b)(3). “SEC. 4. SUPERVISORY SPECIAL AGENT IN THE CIVIL RIGHTS UNIT OF THE FEDERAL BUREAU OF INVESTIGATION.“(a) In General.—The Attorney General shall designate a Supervisory Special Agent in the Civil Rights Unit of the Federal Bureau of Investigation of the Department of Justice. “(b) Responsibility.—“(1) In general.—The Supervisory Special Agent shall be responsible for investigating violations of criminal civil rights statutes that occurred not later than December 31, 1979, and resulted in a death. “(2) Coordination.—In investigating a complaint under paragraph (1), the Supervisory Special Agent may coordinate the investigative activities with State and local law enforcement officials, and eligible entities. “SEC. 5. GRANTS TO STATE AND LOCAL LAW ENFORCEMENT.“(a) In General.—The Attorney General may award grants to State or local law enforcement agencies for expenses associated with the investigation and prosecution by them of criminal offenses, involving civil rights, that occurred not later than December 31, 1979, and resulted in a death. “(b) Authorization of Appropriations.—There are authorized to be appropriated $2,000,000 for fiscal year 2017 and each of the 10 subsequent fiscal years to carry out this section. “SEC. 6. AUTHORIZATION OF APPROPRIATIONS.“(a) In General.—There are authorized to be appropriated, in addition to any other amounts otherwise authorized to be appropriated for this purpose, to the Attorney General $10,000,000 for fiscal year 2017 and each of the 10 subsequent fiscal years for the purpose of investigating and prosecuting violations of criminal civil rights statutes that occurred not later than December 31, 1979, and resulted in a death. These funds shall be allocated by the Attorney General to the Deputy Chief of the Criminal Section of the Civil Rights Division and the Supervisory Special Agent of the Civil Rights Unit of the Federal Bureau of Investigation in order to advance the purposes set forth in this Act. “(b) Community Relations Service of the Department of Justice.—Using funds appropriated under section 3(b)(4)(B), the Community Relations Service of the Department of Justice shall provide technical assistance by bringing together law enforcement agencies and communities to address tensions raised by Civil Rights era crimes. “SEC. 7. DEFINITIONS.“In this Act:“(1) Criminal civil rights statutes.—The term ‘criminal civil rights statutes’ means—“(A) [section 241 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section241&num=0&edition=prelim), United States Code (relating to conspiracy against rights); “(B) [section 242 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section242&num=0&edition=prelim), United States Code (relating to deprivation of rights under color of law); “(C) [section 245 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section245&num=0&edition=prelim), United States Code (relating to federally protected activities); “(D) sections 1581 and 1584 of title 18, United States Code (relating to involuntary servitude and peonage); “(E) section 901 of the Fair Housing Act ([42 U.S.C. 3631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3631&num=0&edition=prelim)); and “(F) any other Federal law that—“(i) was in effect on or before December 31, 1969; and “(ii) the Criminal Section of the Civil Rights Division of the Department of Justice enforced, before the date of enactment of this Act [Oct. 7, 2008]. “(2) Eligible entity.—The term ‘eligible entity’ means an organization whose primary purpose is to promote civil rights, an institution of higher education, or another entity, determined by the Attorney General to be appropriate. “[SEC. 8. Repealed. Pub. L. 114–325, § 2(7), Dec. 16, 2016, 130 Stat. 1967.] “SEC. 9. AUTHORITY OF INSPECTORS GENERAL. “[Enacted [section 11298 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11298&num=0&edition=prelim), Crime Control and Law Enforcement.]”
@@ -370,6 +370,9 @@ Pub. L. 96–132, § 12, Nov. 30, 1979, 93 Stat. 1048, provided that: “The Att
 Pub. L. 94–503, title II, § 201, Oct. 15, 1976, 90 Stat. 2425, provided that: “(a) Effective beginning one year after date of the enactment of this Act [Oct. 15, 1976], the following positions in the Drug Enforcement Administration (and individuals holding such positions) are hereby excepted from the competitive service:“(1) positions at GS–16, 17, and 18 of the General Schedule under [section 5332(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332/a&num=0&edition=prelim), United States Code, and “(2) positions at GS–15 of the General Schedule which are designated as—“(A) regional directors, “(B) office heads, or “(C) executive assistants (or equivalent positions) under the immediate supervision of the Administrator (or the Deputy Administrator) of the Drug Enforcement Administration. “(b) Effective during the one year period beginning on the date of the enactment of this Act [Oct. 15, 1976], vacancies in positions in the Drug Enforcement Administration (other than positions described in subsection (a)) at a grade not lower than GS–14 shall be filled—“(1) first, from applicants who have continuously held positions described in subsection (a) since the date of the enactment of this Act and who have applied for, and are qualified to fill, such vacancies, and “(2) then, from other applicants in the order which would have occurred in the absence of this subsection. Any individual placed in a position under paragraph (1) shall be paid in accordance with subsection (d). “(c)(1) Effective beginning one year after the date of the enactment of this Act [Oct. 15, 1976], an individual in a position described in subsection (a) may be removed, suspended for more than 30 days, furloughed without pay, or reduced in rank or pay by the Administrator of the Drug Enforcement Administration if—“(A) such individual has been employed in the Drug Enforcement Administration for less than the one-year period immediately preceding the date of such action, and “(B) the Administrator determines, in his discretion, that such action would promote the efficiency of the service. “(2) Effective beginning one year after the date of the enactment of this Act [Oct. 15, 1976], an individual in a position described in subsection (a) may be reduced in rank or pay by the Administrator within the Drug Enforcement Administration if—“(A) such individual has been continuously employed in such position since the date of the enactment of this Act, and “(B) the Administrator determines, in his discretion, that such action would promote the efficiency of the service. Any individual reduced in rank or pay under this paragraph shall be paid in accordance with subsection (d). “(3) The provisions of sections 7512 and 7701 of title 5, United States Code, and otherwise applicable Executive orders, shall not apply with respect to actions taken by the Administrator under paragraph (1) or any reduction in rank or pay (under paragraph (2) or otherwise) of any individual in a position described in subsection (a). “(d) Any individual whose pay is to be determined in accordance with this subsection shall be paid basic pay at the rate of basic pay he was receiving immediately before he was placed in a position under subsection (b)(1) or reduced in rank or pay under subsection (c)(2), as the case may be, until such time as the rate of basic pay he would receive in the absence of this subsection exceeds such rate of basic pay. The provisions of [section 5337 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5337&num=0&edition=prelim), United States Code, shall not apply in any case in which this subsection applies.”
 
 [References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).]
+
+#### Emergency Preparedness Functions
+For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
 
 #### REORGANIZATION PLAN NO. 1 OF 1968
 Eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, as amended Reorg. Plan No. 2 of 1973, § 3, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091
@@ -929,6 +932,127 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 Sec. 6. Termination. The Task Force shall terminate when directed by the President or, with the approval of the President, by the Attorney General.
 
 Donald J. Trump.
+
+#### Restoring the Department of Justice’s Access-to-Justice Function and Reinvigorating the White House Legal Aid Interagency Roundtable
+Memorandum of President of the United States, May 18, 2021, 86 F.R. 27793, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to increase meaningful access to our legal system and an array of Federal programs, it is hereby ordered as follows:
+
+Section 1. Policy. This Nation was founded on the ideal of equal justice under the law. Everyone in this country should be able to vindicate their rights and avail themselves of the protections that our laws afford on equal footing. Whether we realize this ideal hinges on the extent to which everyone in the United States has meaningful access to our legal system. Legal services are crucial to the fair and effective administration of our laws and public programs, and the stability of our society.
+
+Recognizing the importance of access to justice and the power of legal aid, the Department of Justice (DOJ) in 2010 launched an access-to-justice initiative. In 2016, DOJ formally established the Office for Access to Justice. This office worked in partnership with other DOJ components to coordinate policy initiatives on topics including criminal indigent defense, enforcement of fines and fees, language barriers in access to the courts, and civil legal aid. The DOJ and the White House Domestic Policy Council also launched the Legal Aid Interagency Roundtable (LAIR) in 2012 to work with civil legal aid partners to advance Federal programs; create and disseminate tools to provide information about civil legal aid and Federal funding opportunities; and generate research to inform policy that improves access to justice.
+
+The LAIR’s successes prompted President Obama to issue the memorandum of September 24, 2015 (Establishment of the White House Legal Aid Interagency Roundtable), which formally established LAIR as a White House initiative. Using the White House’s convening power, LAIR examined innovative and evidence-based solutions for access to justice, from medical-legal partnerships to improve health outcomes and decrease health costs to better procedures in court hearings for individuals representing themselves.
+
+But there is much more for the Federal Government to do. According to a 2017 study by the Legal Services Corporation, low-income Americans receive inadequate or no professional legal assistance with regard to over 80 percent of the civil legal problems they face in a given year. All too often, unaddressed legal issues push people into poverty. At the same time, in the criminal legal system, those who cannot afford private counsel often receive a lower-quality defense because public defender caseloads are overburdened.
+
+The coronavirus disease 2019 (COVID–19) pandemic has further exposed and exacerbated inequities in our justice system, as courts and legal service providers have been forced to curtail in-person operations, often without the resources or technology to offer remote-access or other safe alternatives. These access limitations have compounded the effects of other harms wrought by the pandemic. These problems have touched the lives of many persons in this country, particularly low-income people and people of color.
+
+With these immense and urgent challenges comes the opportunity to strengthen access to justice in the 21st century. Through funding, interagency collaboration, and strategic partnerships, the Federal Government can drive development of new approaches and best practices that provide meaningful access to justice today, and into the future, consistent with our foundational ideal of equal justice under the law.
+
+Sec. 2. The Department of Justice’s Access-to-Justice Function. (a) My Administration is committed to promoting equal access to justice and addressing access limitations throughout the criminal and civil legal systems. The DOJ has a critical role to play in improving the justice delivery systems that serve people who cannot afford lawyers, and I am committed to reinvigorating that work.
+
+(b) The Attorney General shall consider expanding DOJ’s planning, development, and coordination of access-to-justice policy initiatives, including in the areas of criminal indigent defense, civil legal aid, and pro bono legal services. As soon as practicable, and no later than 120 days from the date of this memorandum [May 18, 2021], the Attorney General shall—in coordination with the Director of the Office of Management and Budget—submit a report to the President describing the Department’s plan to expand its access-to-justice function, including the organizational placement of this function within the Department, expected staffing and budget, and, if necessary, the timeline for notifying the Congress of any reorganization.
+
+Sec. 3. Reinvigorating the White House Legal Aid Interagency Roundtable. My Administration is committed to ensuring that all persons in this country enjoy the protections and benefits of our legal system. Reinvigorating LAIR as a White House initiative is a key step in this direction.
+
+Accordingly, I direct as follows:
+
+(a) The LAIR is hereby reconvened as a White House initiative in furtherance of the vision set forth in the memorandum of September 24, 2015, by which it was established and in light of today’s most pressing challenges. The September 2015 memorandum is superseded to the extent that it is inconsistent with this memorandum.
+
+(b) The LAIR shall work across executive departments, agencies, and offices to fulfill its mission, including to:
+
+(i) improve coordination among Federal programs, so that programs are more efficient and produce better outcomes by including, where appropriate, legal services among the range of supportive services provided;
+
+(ii) increase the availability of meaningful access to justice for individuals and families, regardless of wealth or status;
+
+(iii) develop policy recommendations that improve access to justice in Federal, State, local, Tribal, and international jurisdictions;
+
+(iv) assist the United States with implementation of Goal 16 of the United Nation’s 2030 Agenda for Sustainable Development to promote peaceful and inclusive societies for sustainable development, provide access to justice for all, and build effective, accountable, and inclusive institutions at all levels; and
+
+(v) advance relevant evidence-based research, data collection, and analysis of civil legal aid and indigent defense, and promulgate best practices.
+
+(c) The Attorney General and the Counsel to the President, or their designees, shall serve as the Co-Chairs of LAIR, which shall also include a representative or designee from each of the following executive departments, agencies, and offices:
+
+(i) the Department of State;
+
+(ii) the Department of the Treasury;
+
+(iii) the Department of Defense;
+
+(iv) the Department of Justice;
+
+(v) the Department of the Interior;
+
+(vi) the Department of Agriculture;
+
+(vii) the Department of Labor;
+
+(viii) the Department of Health and Human Services;
+
+(ix) the Department of Housing and Urban Development;
+
+(x) the Department of Transportation;
+
+(xi) the Department of Education;
+
+(xii) the Department of Veterans Affairs;
+
+(xiii) the Department of Homeland Security;
+
+(xiv) the Environmental Protection Agency;
+
+(xv) the Equal Employment Opportunity Commission;
+
+(xvi) the Corporation for National and Community Service;
+
+(xvii) the Office of Management and Budget;
+
+(xviii) the United States Agency for International Development;
+
+(xix) the Administrative Conference of the United States;
+
+(xx) the National Science Foundation;
+
+(xxi) the United States Digital Service;
+
+(xxii) the Domestic Policy Council;
+
+(xxiii) the Office of the Vice President; and
+
+(xxiv) such other executive departments, agencies, and offices as the Co-Chairs may, from time to time, invite to participate.
+
+(d) The Co-Chairs shall invite the participation of the Bureau of Consumer Financial Protection, the Federal Communications Commission, the Federal Trade Commission, the Legal Services Corporation, and the Social Security Administration, to the extent consistent with their respective statutory authorities and legal obligations.
+
+(e) The LAIR shall report annually to the President on its progress in fulfilling its mission. The report shall include data from participating members on the deployment of Federal resources to foster this mission. The LAIR’s 2021 report shall be due no later than 120 days from the date of this memorandum.
+
+(f) In light of the mission and function set forth in section 3(b) of this memorandum, LAIR shall focus its first annual report on the impact of the COVID–19 pandemic on access to justice in both the criminal and civil legal systems. Moreover, the first convening of LAIR shall, at a minimum, address access-to-justice challenges the pandemic has raised and work towards identifying technological and other solutions that both meet these challenges and fortify the justice system’s capacity to serve the public and be inclusive of all communities.
+
+(g) The Attorney General shall designate an Executive Director of LAIR who shall, as directed by the Co-Chairs, convene regular meetings of LAIR and supervise its work. The DOJ staff designated to support the Department’s access-to-justice function under section 2 of this memorandum shall serve as the staff of LAIR.
+
+(h) The DOJ shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative services, funds, facilities, staff, equipment, and other support services as may be necessary for LAIR to carry out its mission.
+
+(i) The LAIR shall hold meetings at least three times per year. In the course of its work, LAIR should conduct outreach to Federal, State, local, Tribal, and international officials, technical advisors, and nongovernmental organizations, among others, as necessary to carry out its mission (including public defender organizations and offices and legal aid organizations and providers).
+
+(j) The LAIR members are encouraged to provide support, including by detailing personnel, to LAIR. Members of LAIR shall serve without any additional compensation for their work.
+
+Sec. 4. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Independent agencies are strongly encouraged to comply with the provisions in this memorandum.
+
+(d) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(e) The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
 
 
 <a id="section-509a"></a>
@@ -2218,7 +2342,7 @@ Pub. L. 105–277, div. A, § 101(b) [title VIII, § 801(c)], Oct. 21, 1998, 112
 ### Statutory Notes
 
 #### References in Text
-Section 102(b) of Public Law 102–395, referred to in subsec. (a)(5), is section 102(b) of Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1838, as amended, which is set out as a note under [section 533 of this title](./chapter-033-federal-bureau-of-investigation.md#section-533).
+Section 102(b) of Public Law 102–395, referred to in subsec. (a)(5), is section 102(b) of Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1838, which is set out as a note under [section 533 of this title](./chapter-033-federal-bureau-of-investigation.md#section-533).
 
 Section 815(d) of Public Law 104–132, referred to in subsec. (a)(5), is section 815(d) of Pub. L. 104–132, title VIII, Apr. 24, 1996, 110 Stat. 1315, which is set out as a note under [section 533 of this title](./chapter-033-federal-bureau-of-investigation.md#section-533).
 

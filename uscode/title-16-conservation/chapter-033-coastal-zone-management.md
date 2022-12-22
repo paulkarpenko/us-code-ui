@@ -217,9 +217,9 @@ For purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Submerged Lands Act, referred to in par. (1), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Submerged Lands Act, referred to in par. (1), is act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
-Act of March 2, 1917, referred to in par. (1), is act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also as the Jones Act, which is classified principally to chapter 4 (§ 731 et seq.) of Title 48, Territories and Insular Possessions. Section 8 of the Act is classified to [section 749 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section749&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 731 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section731&num=0&edition=prelim) and Tables.
+Act of March 2, 1917, referred to in par. (1), is act Mar. 2, 1917, ch. 145, 39 Stat. 951, known as the Puerto Rican Federal Relations Act and also as the Jones Act, which is classified principally to chapter 4 (§ 731 et seq.) of Title 48, Territories and Insular Possessions. Section 8 of the Act is classified to [section 749 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section749&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 731 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section731&num=0&edition=prelim) and Tables.
 
 The Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in par. (1), is contained in section 1 of Pub. L. 94–241, set out as a note under [section 1801 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1801&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -497,7 +497,7 @@ Pub. L. 104–150, § 2(b)(3), June 3, 1996, 110 Stat. 1380, provided that: “T
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1992—Subsecs. (a) to (d), (e)(2), (3)(A). Pub. L. 102–587 substituted “coastal state” and “coastal states” for “coastal State” and “coastal States”, respectively, wherever appearing, and substituted period for semicolon at end of subsec. (b).
@@ -763,7 +763,7 @@ Pub. L. 101–508, § 6207, inserted before period at end “, or for the purpos
 ### Statutory Notes
 
 #### References in Text
-The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to this chapter (§ 1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsecs. (a)(2) and (i)(3), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter (§ 1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
 
 This Act, referred to in subsecs. (a)(2) and (c)(2)(B), is Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388, known as the Omnibus Budget Reconciliation Act of 1990. For complete classification of this Act to the Code, see Tables.
 
@@ -841,11 +841,11 @@ the Secretary, with the cooperation of the Executive Office of the President, sh
 ### Statutory Notes
 
 #### References in Text
-The Outer Continental Shelf Lands Act, referred to in subsec. (c)(3)(B), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (c)(3)(B), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (f), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (f), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (d), “[section 6506 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6506&num=0&edition=prelim)” substituted for “title IV of the Intergovernmental Coordination [Cooperation] Act of 1968 [[42 U.S.C. 4231](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4231&num=0&edition=prelim) et seq.]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

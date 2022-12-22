@@ -56,7 +56,7 @@ The Secretary is authorized to designate those auction markets where tobacco bou
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1986—Pub. L. 99–272 inserted “late payment penalties, and interest earned from the investment of such funds,” in ninth sentence, substituted “The fees and charges authorized in this section shall be assessed” for “Such fees and charges shall be assessed”, and inserted provision relating to the investment of any funds realized from collection of fees or charges in insured or fully collateralized, interest-bearing accounts or in United States Government debt instruments, the income therefrom to be used to pay expenses incident to providing services under this chapter or reinvested.
@@ -214,9 +214,9 @@ Repeal not to affect the liability of any person under this section with respect
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
-The Tobacco Inspection Act, referred to in par. (2)(B), is act Aug. 23, 1935, ch. 623, 49 Stat. 731, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 511q of this title](./chapter-21a-tobacco-inspection.md#section-511q) and Tables.
+The Tobacco Inspection Act, referred to in par. (2)(B), is act Aug. 23, 1935, ch. 623, 49 Stat. 731, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 511q of this title](./chapter-21a-tobacco-inspection.md#section-511q) and Tables.
 
 #### Codification
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002, and not as part of The Tobacco Inspection Act which comprises this chapter.

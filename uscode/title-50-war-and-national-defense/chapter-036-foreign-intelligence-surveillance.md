@@ -2158,8 +2158,23 @@ Amendment by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, exc
 
 ### Statutory Notes
 
+#### Amendments
+2019—Pub. L. 116–69 amended directory language of Pub. L. 109–177, § 102(b)(1). See 2006 Amendment note below.
+
+2015—Pub. L. 114–23, § 705(a), (c), amended directory language of Pub. L. 109–177, § 102(b)(1). See 2006 Amendment note below.
+
+2011—Pub. L. 112–14 amended directory language of Pub. L. 109–177, § 102(b)(1). See 2006 Amendment note below.
+
+Pub. L. 112–3 amended directory language of Pub. L. 109–177, § 102(b)(1). See 2006 Amendment note below.
+
+2010—Pub. L. 111–141 amended directory language of Pub. L. 109–177, § 102(b)(1). See 2006 Amendment note below.
+
+2009—Pub. L. 111–118 amended directory language of Pub. L. 109–177, § 102(b)(1). See 2006 Amendment note below.
+
+2006—Pub. L. 109–177, § 102(b)(1), revived this section to read as it read on Oct. 25, 2001.
+
 #### Effective Date of Revival
-Revival of section, which had been repealed by Pub. L. 107–56, title II, § 215, Oct. 26, 2001, 115 Stat. 287, by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Mar. 15, 2020, or with respect to any particular offense or potential offense that began or occurred before Mar. 15, 2020, see section 102(b) of Pub. L. 109–177, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805).
+Section, which had been repealed by Pub. L. 107–56, title II, § 215, Oct. 26, 2001, 115 Stat. 287, was revived by section 102(b)(1) of Pub. L. 109–177 effective Mar. 15, 2020, except that former provisions to continue in effect with respect to any particular foreign intelligence investigation that began before Mar. 15, 2020, or with respect to any particular offense or potential offense that began or occurred before Mar. 15, 2020, see section 102(b) of Pub. L. 109–177, set out as an Effective Date of 2006 Amendment note under [section 1805 of this title](./chapter-036-foreign-intelligence-surveillance.md#section-1805).
 
 
 <a id="section-1864"></a>

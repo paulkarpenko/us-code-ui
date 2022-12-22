@@ -72,7 +72,7 @@ Pub. L. 100–690, title V, § 5141, Nov. 18, 1988, 102 Stat. 4303, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Pub. L. 105–276, § 586(c), designated existing provisions as subsec. (a), inserted heading, substituted “recipients of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entities”, inserted “and violent” after “drug-related”, and added subsec. (b).
@@ -125,7 +125,7 @@ Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expre
 ### Statutory Notes
 
 #### References in Text
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a)(7), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (b), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
@@ -225,7 +225,7 @@ Repeal effective and applicable beginning upon Oct. 1, 1999, except as otherwise
 ### Statutory Notes
 
 #### References in Text
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (a), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
 Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, referred to in subsec. (b)(2)(A), is section 503(a) of Pub. L. 105–276, which is set out as an Effective Date of 1998 Amendment note under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437).
 
@@ -293,7 +293,7 @@ For the purposes of this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in par. (5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in par. (5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
 Section 4(12) of the Native American Housing Assistance and Self Determination Act of 1996, referred to in par. (6), was redesignated section 4(13) by Pub. L. 110–411, § 3(2), Oct. 14, 2008, 122 Stat. 4320.
 
@@ -376,7 +376,7 @@ Pub. L. 105–276, title V, § 587, Oct. 21, 1998, 112 Stat. 2650, provided that
 ### Statutory Notes
 
 #### References in Text
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (c), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (c), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 11908, Pub. L. 100–690, title V, § 5129, Nov. 18, 1988, 102 Stat. 4303; Pub. L. 101–625, title V, §§ 520(k), 581(a), Nov. 28, 1990, 104 Stat. 4205, 4248, related to auditing and monitoring of programs funded under this subchapter, prior to repeal by Pub. L. 105–276, title V, §§ 503, 586(g), Oct. 21, 1998, 112 Stat. 2521, 2649, effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement the repeal before such date, except to extent otherwise provided, and with savings provision.

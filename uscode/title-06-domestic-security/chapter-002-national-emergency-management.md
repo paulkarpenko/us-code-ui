@@ -131,7 +131,7 @@ Pub. L. 109–295, title VI, § 699A, Oct. 4, 2006, 120 Stat. 1463, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 
 <a id="section-722"></a>
@@ -254,7 +254,7 @@ In order to prepare the Nation for all hazards, including natural disasters, act
 ### Statutory Notes
 
 #### References in Text
-The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, as amended. Title V of the Act is classified generally to subchapter V (§ 311 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101) and Tables.
+The Homeland Security Act of 2002, referred to in text, is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title V of the Act is classified generally to subchapter V (§ 311 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of this title](./chapter-001-homeland-security-organization.md#section-101) and Tables.
 
 This Act, referred to in text, means title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1394, known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of this Act to the Code, see Short Title and References in Pub. L. 109–295 notes set out under [section 701 of this title](./chapter-002-national-emergency-management.md#section-701) and Tables.
 
@@ -977,7 +977,7 @@ Functions of Administrator of Federal Civil Defense Administration under this se
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 
 <a id="section-774"></a>
@@ -1265,17 +1265,11 @@ Pub. L. 116–272, § 3(b), Dec. 31, 2020, 134 Stat. 3351, provided that: “The
 
 
 <a id="section-793"></a>
-## § 793. Limitations on tiering of subcontractors
-**(a) Regulations** The Secretary shall promulgate regulations applicable to contracts described in subsection (c) to minimize the excessive use by contractors of subcontractors or tiers of subcontractors to perform the principal work of the contract.
-
-**(b) Specific requirement** At a minimum, the regulations promulgated under subsection (a) shall preclude a contractor from using subcontracts for more than 65 percent of the cost of the contract or the cost of any individual task or delivery order (not including overhead and profit), unless the Secretary determines that such requirement is not feasible or practicable.
-
-**(c) Covered contracts** This section applies to any cost-reimbursement type contract or task or delivery order in an amount greater than the simplified acquisition threshold (as defined by [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)) entered into by the Department to facilitate response to or recovery from a natural disaster or act of terrorism or other man-made disaster.
+## § 793. Repealed. Pub. L. 117–253, § 1, Dec. 20, 2022, 136 Stat. 2360
 
 ### Statutory Notes
 
-#### Codification
-In subsec. (c), “[section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim)” substituted for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+Section, Pub. L. 109–295, title VI, § 692, Oct. 4, 2006, 120 Stat. 1458, related to limitations on tiering of subcontractors.
 
 
 <a id="section-794"></a>

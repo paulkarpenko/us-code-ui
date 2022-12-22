@@ -23,7 +23,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (a), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801&num=0&edition=prelim) and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (a), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–141 inserted before period at end “or an order from a foreign government that is subject to an executive agreement that the Attorney General has determined and certified to Congress satisfies section 2523”.

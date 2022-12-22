@@ -389,7 +389,7 @@ Section 103 of the Trafficking Victims Protection Act of 2000, referred to in su
 ### Statutory Notes
 
 #### References in Text
-The Fair Labor Standards Act, referred to in subsec. (b)(3), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act, referred to in subsec. (b)(3), probably means the Fair Labor Standards Act of 1938, act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (b)(3). Pub. L. 115–299 substituted “section 2259(c)(2)” for “section 2259(b)(3)”.

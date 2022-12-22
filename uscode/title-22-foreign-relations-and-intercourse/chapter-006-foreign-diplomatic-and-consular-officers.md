@@ -60,7 +60,7 @@ As used in this Act—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 95–393, Sept. 30, 1978, 92 Stat. 808, as amended, known as the Diplomatic Relations Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, means Pub. L. 95–393, Sept. 30, 1978, 92 Stat. 808, known as the Diplomatic Relations Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Amendments
 1982—Par. (1)(A). Pub. L. 97–241 substituted “those members of a mission who are members of the diplomatic staff or who, pursuant to law, are granted equivalent privileges and immunities” for “members of the diplomatic staff of a mission”.

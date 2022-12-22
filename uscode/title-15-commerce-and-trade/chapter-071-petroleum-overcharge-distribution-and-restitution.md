@@ -39,9 +39,9 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to [section 760g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to [section 760g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
-The Economic Stabilization Act of 1970, referred to in subsec. (a)(1), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under [section 1904 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1904&num=0&edition=prelim), Banks and Banking.
+The Economic Stabilization Act of 1970, referred to in subsec. (a)(1), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, formerly set out as an Economic Stabilization Provisions note under [section 1904 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1904&num=0&edition=prelim), Banks and Banking.
 
 Section 155 of Public Law 97–377, referred to in subsec. (c)(1), is section 155 of Pub. L. 97–377, title I, Dec. 21, 1982, 96 Stat. 1919, which is not classified to the Code.
 
@@ -172,9 +172,9 @@ whichever occurs later.
 ### Statutory Notes
 
 #### References in Text
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to [section 760g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(3), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to [section 760g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
-The Economic Stabilization Act of 1970, referred to in subsec. (a)(3), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under [section 1904 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1904&num=0&edition=prelim), Banks and Banking.
+The Economic Stabilization Act of 1970, referred to in subsec. (a)(3), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, formerly set out as an Economic Stabilization Provisions note under [section 1904 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1904&num=0&edition=prelim), Banks and Banking.
 
 This chapter, referred to in subsec. (b)(3), was in the original “this Act”, which was translated as meaning this subtitle, which enacted this chapter, to reflect the probable intent of Congress.
 
@@ -199,9 +199,9 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 ### Statutory Notes
 
 #### References in Text
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to [section 760g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to [section 760g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
-The Economic Stabilization Act of 1970, referred to in subsec. (a)(1), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, as amended, formerly set out as an Economic Stabilization Provisions note under [section 1904 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1904&num=0&edition=prelim), Banks and Banking.
+The Economic Stabilization Act of 1970, referred to in subsec. (a)(1), is title II of Pub. L. 91–379, Aug. 15, 1970, 84 Stat. 799, formerly set out as an Economic Stabilization Provisions note under [section 1904 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1904&num=0&edition=prelim), Banks and Banking.
 
 Section 155 of Public Law 97–377, referred to in subsecs. (a)(2), (b), is section 155 of Pub. L. 97–377, title I, Dec. 21, 1982, 96 Stat. 1919, which is not classified to the Code.
 
@@ -257,8 +257,8 @@ For purposes of this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Energy Conservation and Existing Buildings Act of 1976, referred to in par. (3)(A), probably means the Energy Conservation and Existing Buildings Act of 1976, which is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation and Existing Buildings Act of 1976, is classified generally to part A (§ 6861 et seq.) of subchapter III of chapter 81 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6801&num=0&edition=prelim) and Tables.
+The Energy Conservation and Existing Buildings Act of 1976, referred to in par. (3)(A), probably means the Energy Conservation and Existing Buildings Act of 1976, which is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150. Part A of the Energy Conservation and Existing Buildings Act of 1976, is classified generally to part A (§ 6861 et seq.) of subchapter III of chapter 81 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6801&num=0&edition=prelim) and Tables.
 
-The Energy Policy and Conservation Act, referred to in par. (3)(B), (C), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Parts D and G of title III of the Energy Policy and Conservation Act are classified generally to parts B (§ 6321 et seq.) and E (§ 6371 et seq.), respectively, of subchapter III of chapter 77 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6201&num=0&edition=prelim) and Tables.
+The Energy Policy and Conservation Act, referred to in par. (3)(B), (C), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Parts D and G of title III of the Energy Policy and Conservation Act are classified generally to parts B (§ 6321 et seq.) and E (§ 6371 et seq.), respectively, of subchapter III of chapter 77 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6201&num=0&edition=prelim) and Tables.
 
-The National Energy Extension Service Act, referred to in par. (3)(D), is title V of Pub. L. 95–39, June 3, 1977, 91 Stat. 191, as amended, which was classified principally to chapter 83 (§ 7001 et seq.) of Title 42 and was repealed by Pub. L. 102–486, title I, § 143(a), Oct. 24, 1992, 106 Stat. 2843. For complete classification of this Act to the Code, see Short Title note set out under [section 7001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7001&num=0&edition=prelim) and Tables.
+The National Energy Extension Service Act, referred to in par. (3)(D), is title V of Pub. L. 95–39, June 3, 1977, 91 Stat. 191, which was classified principally to chapter 83 (§ 7001 et seq.) of Title 42 and was repealed by Pub. L. 102–486, title I, § 143(a), Oct. 24, 1992, 106 Stat. 2843. For complete classification of this Act to the Code, see Short Title note set out under [section 7001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7001&num=0&edition=prelim) and Tables.

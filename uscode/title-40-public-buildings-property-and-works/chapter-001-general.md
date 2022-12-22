@@ -26,6 +26,11 @@ The purpose of this subtitle is to provide the Federal Government with an econom
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 101 | 40:471. | June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 68 Stat. 1126. |
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–202, § 1, Oct. 17, 2022, 136 Stat. 2224, provided that: “This Act [amending [section 3313 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3313) and enacting provisions set out as a note under [section 3313 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3313)] may be cited as the ‘Bulb Replacement Improving Government with High-efficiency Technology Act’ or the ‘BRIGHT Act’.”
+
+Pub. L. 117–148, § 1, June 16, 2022, 136 Stat. 1288, provided that: “This Act [amending [section 6121 of this title](./chapter-061-united-states-supreme-court-building-and-grounds.md#section-6121)] may be cited as the ‘Supreme Court Police Parity Act of 2022’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 116–333, § 1, Jan. 13, 2021, 134 Stat. 5113, provided that: “This Act [enacting [section 3318 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3318)] may be cited as the ‘Transparency in Federal Buildings Projects Act of 2019’.”
 
@@ -360,23 +365,23 @@ In subsection (e)(17), the words “title 44 or any other law” are substituted
 In subsection (e)(19), the words “Secretary of State” are substituted for “Director of the International Communication Agency” [subsequently changed to “Director of the United States Information Agency” because of section 303(b) of the Department of State Authorization Act, Fiscal Years 1982 and 1983 (Public Law 97–241, 96 Stat. 291)] because of 22:6551.
 
 #### References in Text
-The Philippine Property Act of 1946, referred to in subsec. (e)(1), is act July 3, 1946, ch. 536, 60 Stat. 418, as amended, which is classified generally to subchapter V (§ 1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 1381 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1381&num=0&edition=prelim) and Tables.
+The Philippine Property Act of 1946, referred to in subsec. (e)(1), is act July 3, 1946, ch. 536, 60 Stat. 418, which is classified generally to subchapter V (§ 1381 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 1381 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1381&num=0&edition=prelim) and Tables.
 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (e)(6), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim) and Tables.
 
-The Foreign Service Buildings Act, 1926, referred to in subsec. (e)(7), is act May 7, 1926, ch. 250, 44 Stat. 403, as amended, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see [section 299 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section299&num=0&edition=prelim) and Tables.
+The Foreign Service Buildings Act, 1926, referred to in subsec. (e)(7), is act May 7, 1926, ch. 250, 44 Stat. 403, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see [section 299 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section299&num=0&edition=prelim) and Tables.
 
-The Richard B. Russell National School Lunch Act, referred to in subsec. (e)(8)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (e)(8)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
 
 The Farmers Home Administration Act of 1946, referred to in subsec. (e)(8)(B), is act Aug. 14, 1946, ch. 964, 60 Stat. 1062. Such act was substantially repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, and act Aug. 8, 1961, Pub. L. 87–128, title III, § 341(a), 75 Stat. 318. For complete classification of this Act to the Code, see Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (e)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (e)(9), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
 
-The National Housing Act, referred to in subsec. (e)(10)(B)(ii), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (e)(10)(B)(ii), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (e)(10)(B)(ii), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (e)(10)(B)(ii), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
 
-The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§ 832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 832 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section832&num=0&edition=prelim) and Tables.
+The Bonneville Project Act of 1937, referred to in subsec. (e)(18), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 832 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section832&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2021—Subsec. (e)(3). Pub. L. 117–81, § 1702(g)(1)(A), substituted “section 3063” for “chapter 137” and “the provisions of that title referred to in section 3016 of such title as ‘chapter 137 legacy provisions’;” for “that chapter;”.
@@ -822,7 +827,7 @@ Barack Obama.
 | 122 | 40:476. | June 30, 1949, ch. 288, title VI, § 606, as added Pub. L. 94–519, § 8, Oct. 17, 1976, 90 Stat. 2456. |
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 
 <a id="section-123"></a>

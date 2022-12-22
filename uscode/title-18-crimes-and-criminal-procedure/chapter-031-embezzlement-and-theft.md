@@ -766,7 +766,7 @@ Any person who embezzles, steals, or unlawfully and willfully abstracts or conve
 ### Statutory Notes
 
 #### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Employee Retirement Income Security Act of 1974 is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.

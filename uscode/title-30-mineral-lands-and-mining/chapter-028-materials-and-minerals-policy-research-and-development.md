@@ -910,3 +910,6 @@ Pub. L. 117–81, div. A, title VIII, § 845, Dec. 27, 2021, 135 Stat. 1842, pro
 
 #### Codification
 Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the National Materials and Minerals Policy, Research and Development Act of 1980 which comprises this chapter.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.

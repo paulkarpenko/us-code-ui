@@ -1733,7 +1733,7 @@ Subsec. (e). Pub. L. 111–148, § 10221(b)(1)(B), added subsec. (e).
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare, respectively. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare, respectively. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1616q"></a>
@@ -2530,8 +2530,9 @@ The effect of the inter-relationships and interdependencies referred to in parag
 ### Statutory Notes
 
 #### References in Text
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§ 2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under [section 2401 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2401) and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(6)(A), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137,
 
+#### Court Ruleswhich is classified generally to chapter 26 (§ 2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under [section 2401 of this title](./chapter-026-indian-alcohol-and-substance-abuse-prevention-and-treatment.md#section-2401) and Tables.
 This chapter, referred to in subsecs. (b)(6)(A) and (l), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-018-indian-health-care.md#section-1601) and Tables.
 
 The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](./chapter-014-miscellaneous.md#section-450) et seq.), referred to in subsec. (d)(3)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of this title prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
@@ -2646,7 +2647,7 @@ The Secretary, through the Service, shall provide for screening mammography (as 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Codification
 Amendment by Pub. L. 111–148 is based on section 128 of title I of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
@@ -3453,7 +3454,7 @@ on an equal basis with programs that are administered directly by the Service.
 ### Statutory Notes
 
 #### References in Text
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -3785,7 +3786,7 @@ A prior section 1638a, Pub. L. 94–437, title III, § 309, as added Pub. L. 102
 ### Statutory Notes
 
 #### References in Text
-The Trade Agreement Act of 1979, referred to in subsec. (b), probably means the Trade Agreements Act of 1979, Pub. L. 96–39, July 26, 1979, 93 Stat. 144, as amended. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2501&num=0&edition=prelim), Customs Duties, and Tables.
+The Trade Agreement Act of 1979, referred to in subsec. (b), probably means the Trade Agreements Act of 1979, Pub. L. 96–39, July 26, 1979, 93 Stat. 144. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2501&num=0&edition=prelim), Customs Duties, and Tables.
 
 Title III of the Act entitled “An Act making appropriations for the Treasury and Post Office Departments for the fiscal year ending June 30, 1934, and for other purposes”, approved March 3, 1933, referred to in subsec. (d), is title III of act Mar. 3, 1933, ch. 212, 47 Stat. 1520, known as the Buy American Act, which was classified generally to sections 10a, 10b, and 10c of former Title 41, Public Contracts, and was substantially repealed and restated in chapter 83 (§ 8301 et seq.) of Title 41, Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For complete classification of title III to the Code, see Short Title of 1933 Act note set out under [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim) and Tables. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
 
@@ -4097,7 +4098,7 @@ The Secretary shall submit to the President, for inclusion in the report require
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly set out as a note under [section 1671 of this title](./chapter-018-indian-health-care.md#section-1671).
@@ -4568,7 +4569,7 @@ A prior section 1652, Pub. L. 94–437, title V, § 502, Sept. 30, 1976, 90 Stat
 ### Statutory Notes
 
 #### References in Text
-The Indian Child Welfare Act of 1978, referred to in subsec. (f)(4)(A), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-021-indian-child-welfare.md#section-1901) and Tables.
+The Indian Child Welfare Act of 1978, referred to in subsec. (f)(4)(A), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§ 1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-021-indian-child-welfare.md#section-1901) and Tables.
 
 #### Prior Provisions
 A prior section 1653, Pub. L. 94–437, title V, § 503, Sept. 30, 1976, 90 Stat. 1410; Pub. L. 96–537, § 7, Dec. 17, 1980, 94 Stat. 3177, related to contract eligibility, prior to the general revision of this subchapter by Pub. L. 100–713.
@@ -6949,7 +6950,7 @@ Pub. L. 108–170, title II, § 244, Dec. 6, 2003, 117 Stat. 2054, provided that
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XIX of the Public Health Service Act is classified generally to part A (§ 300w et seq.) of subchapter XVII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (b), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XIX of the Public Health Service Act is classified generally to part A (§ 300w et seq.) of subchapter XVII of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1992—Subsec. (d)(1). Pub. L. 102–573, § 808(1)(A), inserted before period at end “, or, in the case of a demonstration project for which a grant is made after September 30, 1990, three years after the date on which such grant is made”.

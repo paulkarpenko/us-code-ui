@@ -79,9 +79,11 @@ Subsection (a) restates the source provisions to eliminate unnecessary words and
 In subsection (b), the words “balance of an appropriation or fund” are substituted for “unexpended funds” for clarity and consistency in the revised chapter.
 
 #### Quarterly Reports
-Pub. L. 116–260, div. H, title V, § 525, Dec. 27, 2020, 134 Stat. 1626, provided that: “Not later than 30 days after the end of each calendar quarter, beginning with the first month of fiscal year 2021 the Departments of Labor, Health and Human Services and Education and the Social Security Administration shall provide the Committees on Appropriations of the House of Representatives and Senate a report on the status of balances of appropriations: Provided, That for balances that are unobligated and uncommitted, committed, and obligated but unexpended, the monthly reports shall separately identify the amounts attributable to each source year of appropriation (beginning with fiscal year 2012, or, to the extent feasible, earlier fiscal years) from which balances were derived.”
+Pub. L. 117–103, div. H, title V, § 524, Mar. 15, 2022, 136 Stat. 500, provided that: “Not later than 30 days after the end of each calendar quarter, beginning with the first month of fiscal year 2022 the Departments of Labor, Health and Human Services and Education and the Social Security Administration shall provide the Committees on Appropriations of the House of Representatives and Senate a report on the status of balances of appropriations: Provided, That for balances that are unobligated and uncommitted, committed, and obligated but unexpended, the monthly reports shall separately identify the amounts attributable to each source year of appropriation (beginning with fiscal year 2012, or, to the extent feasible, earlier fiscal years) from which balances were derived.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. H, title V, § 525, Dec. 27, 2020, 134 Stat. 1626.
 
 Pub. L. 116–94, div. A, title V, § 525, Dec. 20, 2019, 133 Stat. 2611.
 
@@ -217,7 +219,7 @@ In subsection (c)(1)(C), the words “by law” are substituted for “by partic
 In subsection (c)(2), the words “appropriation requests” are substituted for “estimates of appropriations” for consistency with chapter 11 of the revised title.
 
 #### References in Text
-The Impoundment Control Act of 1974, referred to in subsec. (c)(2), is parts A and B of title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, as amended, which is classified principally to subchapters I (§ 681) and II (§ 682 et seq.) of chapter 17B of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 681 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section681&num=0&edition=prelim) and Tables.
+The Impoundment Control Act of 1974, referred to in subsec. (c)(2), is parts A and B of title X of Pub. L. 93–344, July 12, 1974, 88 Stat. 332, which is classified principally to subchapters I (§ 681) and II (§ 682 et seq.) of chapter 17B of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 681 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section681&num=0&edition=prelim) and Tables.
 
 #### Apportionment of Funds Appropriated to District of Columbia Government
 Pub. L. 100–202, § 101(c) [title I, § 135], Dec. 22, 1987, 101 Stat. 1329–90, 1329–102, provided that: “Federal funds hereafter appropriated to the District of Columbia government shall not be subject to apportionment except to the extent specifically provided by statute.”
@@ -275,6 +277,9 @@ In subsection (b)(2), the words “head of the executive agency” are substitut
 In subsection (c), the words “In addition to the apportionment required by [section 665 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section665&num=0&edition=prelim)” are omitted as unnecessary because of the restatement. The words “By the first day” are substituted for “on or before the beginning”, and the words “of the United States Government” are added, for clarity. The words “major organizational unit” are substituted for “office or bureau” for consistency in the revised section. The word “changed” is substituted for “increased or diminished” to eliminate unnecessary words.
 
 In subsection (e), the words “initiation and operation” are substituted for “initiation, operation, and administration” to eliminate unnecessary words.
+
+#### Automated System for Posting Appropriation Apportionment Documents
+Pub. L. 117–103, div. E, title II, § 204(b), Mar. 15, 2022, 136 Stat. 257, provided that: “Not later than 120 days after the date of enactment of this Act [Mar. 15, 2022], the Office of Management and Budget shall complete implementation of an automated system to post each document apportioning an appropriation, pursuant to [section 1513(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1513/b&num=0&edition=prelim), United States Code, including any associated footnotes, in a format that qualifies each such document as an Open Government Data Asset (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), United States Code), not later than 2 business days after the date of approval of such apportionment, and shall place on such website each document apportioning an appropriation, pursuant to such section 1513(b), including any associated footnotes, already approved the current fiscal year, and shall report the date of completion of such requirements to the Committees on Appropriations and the Budget of the House of Representatives and Senate.”
 
 
 <a id="section-1514"></a>
@@ -370,7 +375,7 @@ An official designated in [section 1513 of this title](./chapter-015-appropriati
 In the section, before clause (1), the word “apportionments” is substituted for “apportionments and reapportionments” because of section 1512(a)(last sentence) of the revised title. In subclause (D), the word “law” is substituted for “private relief acts or other laws” to eliminate unnecessary words.
 
 #### References in Text
-The Social Security Act, referred to in par. (4)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in par. (4)(E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1517"></a>

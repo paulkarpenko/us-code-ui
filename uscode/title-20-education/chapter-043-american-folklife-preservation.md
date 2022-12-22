@@ -186,7 +186,7 @@ Pub. L. 105–275, title III, § 312(d), Oct. 21, 1998, 112 Stat. 2460, provided
 ### Statutory Notes
 
 #### References in Text
-The National Foundation on the Arts and the Humanities Act of 1965, referred to in subsec. (a)(6), is Pub. L. 89–209, Sept. 29, 1965, 79 Stat. 845, as amended, which is classified principally to subchapter I (§ 951 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-951) and Tables.
+The National Foundation on the Arts and the Humanities Act of 1965, referred to in subsec. (a)(6), is Pub. L. 89–209, Sept. 29, 1965, 79 Stat. 845, which is classified principally to subchapter I (§ 951 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-951) and Tables.
 
 
 <a id="section-2105"></a>

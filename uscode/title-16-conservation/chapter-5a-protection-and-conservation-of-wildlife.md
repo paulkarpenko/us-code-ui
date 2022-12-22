@@ -993,7 +993,7 @@ Moneys now or hereafter available to the Secretary of the Interior for the admin
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
 
 <a id="section-668dd"></a>
@@ -1537,7 +1537,7 @@ For purposes of this Act:
 #### References in Text
 This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715l, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
-The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1997—Pub. L. 105–57 inserted section catchline and amended text generally. Prior to amendment, text read as follows:

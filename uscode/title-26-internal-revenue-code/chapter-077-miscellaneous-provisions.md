@@ -1763,7 +1763,7 @@ Pub. L. 111–5, div. B, title I, § 1899B(c), Feb. 17, 2009, 123 Stat. 424, pro
 ### Statutory Notes
 
 #### Effective Date
-Section applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as an Effective Date of 2021 note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
+Section applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as an Effective Date of 2021 Amendment note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
 
 #### Establishment of Advance Payment Program
 Pub. L. 117–2, title IX, § 9611(c)(2), Mar. 11, 2021, 135 Stat. 150, provided that: “The Secretary of the Treasury (or the Secretary’s designee) shall establish the program described in section 7527A of the Internal Revenue Code of 1986 as soon as practicable after the date of the enactment of this Act [Mar. 11, 2021], except that the Secretary shall ensure that the timing of the establishment of such program does not interfere with carrying out section 6428B(g) as rapidly as possible.”

@@ -31,6 +31,9 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in par. (1)(
 #### Codification
 Section was formerly classified to [section 14043h of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043h&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Short Title
+For short title of title IV of Pub. L. 114–22, which is classified to this chapter, as the “Rape Survivor Child Custody Act”, see section 401 of Pub. L. 114–22, set out as a Short Title of 2015 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-21302"></a>
 ## § 21302. Findings
@@ -126,9 +129,12 @@ Section was formerly classified to [section 14043h–6 of Title 42](https://usco
 <a id="section-21308"></a>
 ## § 21308. Authorization of appropriations
 
-There is authorized to be appropriated to carry out this chapter $5,000,000 for each of fiscal years 2015 through 2019.
+There is authorized to be appropriated to carry out this chapter $5,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 14043h–7 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14043h–7&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2022—Pub. L. 117–103 substituted “2023 through 2027” for “2015 through 2019”.

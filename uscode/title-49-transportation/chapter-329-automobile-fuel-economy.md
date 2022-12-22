@@ -1090,7 +1090,7 @@ In subsection (f), the words “his duties under” are omitted as surplus.
 This amends 49:32908(b)(1) to clarify the restatement of 15:2006(a)(1) by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 1068).
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (e)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 The date of the enactment of the Ten-in-Ten Fuel Economy Act, referred to in subsec. (g)(1)(A)(i), (4), is the date of enactment of subtitle A (§§ 101–113) of title I of Pub. L. 110–140, which was approved Dec. 19, 2007.
 

@@ -296,7 +296,7 @@ Except for the amendments made by subsections (a) and (b), nothing in this chapt
 #### References in Text
 Amendments made by subsections (a) and (b), referred to in text, means amendments made by section 506(a) and (b) of Pub. L. 106–102, which amended [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s).
 
-This chapter, referred to in text, was in the original “this title”, meaning title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, as amended, which enacted this chapter and amended [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s). For complete classification of title V to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which enacted this chapter and amended [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s). For complete classification of title V to the Code, see Tables.
 
 The Fair Credit Reporting Act, referred to in text, is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
 
@@ -434,7 +434,7 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
-The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
+The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
 
 
 <a id="section-6821"></a>
@@ -491,11 +491,11 @@ The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, De
 ### Statutory Notes
 
 #### References in Text
-The Fair Debt Collection Practices Act, referred to in subsec. (a), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, as amended, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
+The Fair Debt Collection Practices Act, referred to in subsec. (a), is title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, which is classified generally to subchapter V (§ 1692 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), is classified to subchapter I (§ 601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of Title 12.
 
-The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) and Tables.
+The Federal Credit Union Act, referred to in subsec. (b)(1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) and Tables.
 
 #### Transfer of Functions
 Functions vested in Administrator of National Credit Union Administration transferred and vested in National Credit Union Administration Board pursuant to [section 1752a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1752a&num=0&edition=prelim), Banks and Banking.
@@ -564,6 +564,6 @@ For purposes of this subchapter, the following definitions shall apply:
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in par. (4)(D), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in par. (4)(D), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
-The Farm Credit Act of 1971, referred to in par. (4)(D), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
+The Farm Credit Act of 1971, referred to in par. (4)(D), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.

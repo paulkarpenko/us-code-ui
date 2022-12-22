@@ -651,7 +651,7 @@ This part, referred to in subsec. (b), was in the original “this chapter” an
 ### Statutory Notes
 
 #### References in Text
-Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1279, as amended, which was classified to [section 3969 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3969&num=0&edition=prelim) prior to repeal by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
+Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1279, which was classified to [section 3969 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3969&num=0&edition=prelim) prior to repeal by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
 
 
 <a id="section-3996"></a>
@@ -718,7 +718,7 @@ Section 209, referred to in subsec. (a)(1), is section 209 of Pub. L. 98–377, 
 ### Statutory Notes
 
 #### References in Text
-Section 210, referred to in subsec. (a), is section 210 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1280, as amended, which was classified to [section 3970 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3970&num=0&edition=prelim) prior to repeal by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
+Section 210, referred to in subsec. (a), is section 210 of Pub. L. 98–377, title II, Aug. 11, 1984, 98 Stat. 1280, which was classified to [section 3970 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3970&num=0&edition=prelim) prior to repeal by Pub. L. 100–297, title II, § 2303, Apr. 28, 1988, 102 Stat. 324.
 
 
 <a id="section-3998"></a>
@@ -774,7 +774,7 @@ This part, referred to in text, was in the original “this chapter” and was t
 ### Statutory Notes
 
 #### References in Text
-The Education Consolidation and Improvement Act, referred to in subsec. (b)(1), probably means the Education Consolidation and Improvement Act of 1981, which is subtitle D [§§ 551 to 596] of title V of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 463, as amended. Chapter 1 of the Act was classified generally to subchapter I (§ 3801 et seq.) of chapter 51 of this title, prior to repeal by Pub. L. 100–297, title I, § 1003(a), Apr. 28, 1988, 102 Stat. 293. For complete classification of this Act to the Code, see Tables.
+The Education Consolidation and Improvement Act, referred to in subsec. (b)(1), probably means the Education Consolidation and Improvement Act of 1981, which is subtitle D [§§ 551 to 596] of title V of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 463. Chapter 1 of the Act was classified generally to subchapter I (§ 3801 et seq.) of chapter 51 of this title, prior to repeal by Pub. L. 100–297, title I, § 1003(a), Apr. 28, 1988, 102 Stat. 293. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-4012"></a>
@@ -1036,7 +1036,7 @@ Subsec. (c). Pub. L. 101–637, § 5(d), struck out subsec. (c) which read as fo
 ### Statutory Notes
 
 #### References in Text
-The Toxic Substances Control Act, referred to in subsecs. (d)(2) and (g)(2)(B), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§ 2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in subsecs. (d)(2) and (g)(2)(B), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title II of the Act, as added by Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§ 2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1990—Pub. L. 101–637, § 14(a)(5), made technical amendment to section catchline.
@@ -1364,7 +1364,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ### Statutory Notes
 
 #### References in Text
-The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title II of the Act, as added by Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§ 2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in subsec. (b)(2)(A), (3)(A), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title II of the Act, as added by Pub. L. 99–519, § 2, Oct. 22, 1986, 100 Stat. 2970, is classified generally to subchapter II (§ 2641 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1990—Pub. L. 101–637, § 14(a)(12), inserted section catchline.

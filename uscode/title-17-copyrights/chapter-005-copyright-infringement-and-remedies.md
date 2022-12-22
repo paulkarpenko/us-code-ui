@@ -362,7 +362,7 @@ Subsec. (b). Pub. L. 106–113, § 1000(a)(9) [title I, § 1011(a)(3)], substitu
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of subsection (a) of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of subsection (a) of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 2002—Subsec. (a). Pub. L. 107–273 substituted “122” for “121”.

@@ -2,7 +2,7 @@
 title: 18
 chapter: '44'
 heading: FIREARMS
-section_count: 15
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -100,7 +100,7 @@ source: >-
 
   (B) as applied to a manufacturer of ammunition, a person who devotes time, attention, and labor to manufacturing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition manufactured;
 
-  (C) as applied to a dealer in firearms, as defined in section 921(a)(11)(A), a person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business with the principal objective of livelihood and profit through the repetitive purchase and resale of firearms, but such term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
+  (C) as applied to a dealer in firearms, as defined in section 921(a)(11)(A), a person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business to predominantly earn a profit through the repetitive purchase and resale of firearms, but such term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
 
   (D) as applied to a dealer in firearms, as defined in section 921(a)(11)(B), a person who devotes time, attention, and labor to engaging in such activity as a regular course of trade or business with the principal objective of livelihood and profit, but such term shall not include a person who makes occasional repairs of firearms, or who occasionally fits special barrels, stocks, or trigger mechanisms to firearms;
 
@@ -108,7 +108,7 @@ source: >-
 
   (F) as applied to an importer of ammunition, a person who devotes time, attention, and labor to importing ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the ammunition imported.
 
-(22) The term “with the principal objective of livelihood and profit” means that the intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents, such as improving or liquidating a personal firearms collection: Provided, That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this paragraph, the term “terrorism” means activity, directed against United States persons, which—
+(22) The term “to predominantly earn a profit” means that the intent underlying the sale or disposition of firearms is predominantly one of obtaining pecuniary gain, as opposed to other intents, such as improving or liquidating a personal firearms collection: Provided, That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this paragraph, the term “terrorism” means activity, directed against United States persons, which—
 
   (A) is committed by an individual who is not a national or permanent resident alien of the United States;
 
@@ -122,39 +122,53 @@ source: >-
 
     (iii) to affect the conduct of a government by assassination or kidnapping.
 
-(23) The term “machinegun” has the meaning given such term in section 5845(b) of the National Firearms Act ([26 U.S.C. 5845(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5845/b&num=0&edition=prelim)).
+(23) The term “with the principal objective of livelihood and profit” means that the intent underlying the sale or disposition of firearms is predominantly one of obtaining livelihood and pecuniary gain, as opposed to other intents, such as improving or liquidating a personal firearms collection: Provided, That proof of profit shall not be required as to a person who engages in the regular and repetitive purchase and disposition of firearms for criminal purposes or terrorism. For purposes of this paragraph, the term “terrorism” means activity, directed against United States persons, which—
 
-(24) The terms “firearm silencer” and “firearm muffler” mean any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
+  (A) is committed by an individual who is not a national or permanent resident alien of the United States;
 
-(25) The term “school zone” means—
+  (B) involves violent acts or acts dangerous to human life which would be a criminal violation if committed within the jurisdiction of the United States; and
+
+  (C) is intended—
+
+    (i) to intimidate or coerce a civilian population;
+
+    (ii) to influence the policy of a government by intimidation or coercion; or
+
+    (iii) to affect the conduct of a government by assassination or kidnapping.
+
+(24) The term “machinegun” has the meaning given such term in section 5845(b) of the National Firearms Act ([26 U.S.C. 5845(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5845/b&num=0&edition=prelim)).
+
+(25) The terms “firearm silencer” and “firearm muffler” mean any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
+
+(26) The term “school zone” means—
 
   (A) in, or on the grounds of, a public, parochial or private school; or
 
   (B) within a distance of 1,000 feet from the grounds of a public, parochial or private school.
 
-(26) The term “school” means a school which provides elementary or secondary education, as determined under State law.
+(27) The term “school” means a school which provides elementary or secondary education, as determined under State law.
 
-(27) The term “motor vehicle” has the meaning given such term in [section 13102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section13102&num=0&edition=prelim), United States Code.
+(28) The term “motor vehicle” has the meaning given such term in [section 13102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section13102&num=0&edition=prelim), United States Code.
 
-(28) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
+(29) The term “semiautomatic rifle” means any repeating rifle which utilizes a portion of the energy of a firing cartridge to extract the fired cartridge case and chamber the next round, and which requires a separate pull of the trigger to fire each cartridge.
 
-(29) The term “handgun” means—
+(30) The term “handgun” means—
 
   (A) a firearm which has a short stock and is designed to be held and fired by the use of a single hand; and
 
   (B) any combination of parts from which a firearm described in subparagraph (A) can be assembled.
 
-(30) , (31) Repealed. Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000.]
+(31) Repealed. Pub. L. 103–322, title XI, § 110105(2), Sept. 13, 1994, 108 Stat. 2000.]
 
 (32) The term “intimate partner” means, with respect to a person, the spouse of the person, a former spouse of the person, an individual who is a parent of a child of the person, and an individual who cohabitates or has cohabited with the person.
 
 (33)
 
-  (A) Except as provided in subparagraph (C),22 So in original. No subparagraph (C) has been enacted. the term “misdemeanor crime of domestic violence” means an offense that—
+  (A) Except as provided in subparagraphs (B) and (C), the term “misdemeanor crime of domestic violence” means an offense that—
 
-    (i) is a misdemeanor under Federal, State, or Tribal 33 So in original. Probably should not be capitalized. law; and
+    (i) is a misdemeanor under Federal, State, Tribal, or local law; and
 
-    (ii) has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, or by a person similarly situated to a spouse, parent, or guardian of the victim.
+    (ii) has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, committed by a current or former spouse, parent, or guardian of the victim, by a person with whom the victim shares a child in common, by a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, by a person similarly situated to a spouse, parent, or guardian of the victim, or by a person who has a current or recent former dating relationship with the victim.
 
   (B)
 
@@ -170,6 +184,8 @@ source: >-
 
     (ii) A person shall not be considered to have been convicted of such an offense for purposes of this chapter if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had civil rights restored (if the law of the applicable jurisdiction provides for the loss of civil rights under such an offense) unless the pardon, expungement, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms.
 
+  (C) A person shall not be considered to have been convicted of a misdemeanor crime of domestic violence against an individual in a dating relationship for purposes of this chapter if the conviction has been expunged or set aside, or is an offense for which the person has been pardoned or has had firearm rights restored unless the expungement, pardon, or restoration of rights expressly provides that the person may not ship, transport, possess, or receive firearms: Provided, That, in the case of a person who has not more than 1 conviction of a misdemeanor crime of domestic violence against an individual in a dating relationship, and is not otherwise prohibited under this chapter, the person shall not be disqualified from shipping, transport, possession, receipt, or purchase of a firearm under this chapter if 5 years have elapsed from the later of the judgment of conviction or the completion of the person’s custodial or supervisory sentence, if any, and the person has not subsequently been convicted of another such offense, a misdemeanor under Federal, State, Tribal, or local law which has, as an element, the use or attempted use of physical force, or the threatened use of a deadly weapon, or any other offense that would disqualify the person under section 922(g). The national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act ([34 U.S.C. 40901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901&num=0&edition=prelim)) shall be updated to reflect the status of the person. Restoration under this subparagraph is not available for a current or former spouse, parent, or guardian of the victim, a person with whom the victim shares a child in common, a person who is cohabiting with or has cohabited with the victim as a spouse, parent, or guardian, or a person similarly situated to a spouse, parent, or guardian of the victim.
+
 (34) The term “secure gun storage or safety device” means—
 
   (A) a device that, when installed on a firearm, is designed to prevent the firearm from being operated without first deactivating the device;
@@ -180,6 +196,22 @@ source: >-
 
 (35) The term “body armor” means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
 
+(36) The term “local law enforcement authority” means a bureau, office, department or other authority of a State or local government or Tribe that has jurisdiction to investigate a violation or potential violation of, or enforce, a State, local, or Tribal law.
+
+(37)
+
+  (A) The term “dating relationship” means a relationship between individuals who have or have recently had a continuing serious relationship of a romantic or intimate nature.
+
+  (B) Whether a relationship constitutes a dating relationship under subparagraph (A) shall be determined based on consideration of—
+
+    (i) the length of the relationship;
+
+    (ii) the nature of the relationship; and
+
+    (iii) the frequency and type of interaction between the individuals involved in the relationship.
+
+  (C) A casual acquaintanceship or ordinary fraternization in a business or social context does not constitute a dating relationship under subparagraph (A).
+
 **(b)** For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
 ### Statutory Notes
@@ -188,6 +220,24 @@ source: >-
 For definition of Canal Zone, referred to in subsec. (a)(2), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2022—Subsec. (a)(21)(C). Pub. L. 117–159, § 12002(1), substituted “to predominantly earn a profit” for “with the principal objective of livelihood and profit”.
+
+Subsec. (a)(22) to (30). Pub. L. 117–159, § 12002(2), (3), added par. (22) and redesignated former pars. (22) to (29) as (23) to (30), respectively.
+
+Subsec. (a)(33)(A). Pub. L. 117–159, § 12005(c)(1)(A), substituted “subparagraphs (B) and (C)” for “subparagraph (C)” in introductory provisions.
+
+Subsec. (a)(33)(A)(i). Pub. L. 117–159, § 12005(c)(1)(B), which directed substitution of “State,” for “State,,” in cl. (ii) of par. (33)(A), was executed in cl. (i) of par. (33)(A) to reflect the probable intent of Congress.
+
+Pub. L. 117–103, § 1104(a), substituted “, Tribal, or local law” for “or Tribal law”.
+
+Subsec. (a)(33)(A)(ii). Pub. L. 117–159, § 12005(a)(1), substituted “by a person similarly” for “or by a person similarly” and inserted “, or by a person who has a current or recent former dating relationship with the victim” before period at end.
+
+Subsec. (a)(33)(C). Pub. L. 117–159, § 12005(c)(2), added subpar. (C).
+
+Subsec. (a)(36). Pub. L. 117–103, § 1101(b), added par. (36).
+
+Subsec. (a)(37). Pub. L. 117–159, § 12005(a)(2), added par. (37).
+
 2018—Subsec. (a)(4). Pub. L. 115–232 substituted “section 7684(2), 7685, or 7686 of title 10” for “section 4684(2), 4685, or 4686 of title 10” in concluding provisions.
 
 2006—Subsec. (a)(33)(A)(i). Pub. L. 109–162, which directed the general amendment of “[section 921(33)(A)(i) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/33/A/i&num=0&edition=prelim)”, was executed to par. (33)(A)(i) of subsec. (a), to reflect the probable intent of Congress. Prior to amendment, cl. (i) read as follows: “is a misdemeanor under Federal or State law; and”.
@@ -267,6 +317,11 @@ Subsec. (a)(23), (24). Pub. L. 99–308, § 101(6), added pars. (23) and (24).
 1968—Subsec. (a). Pub. L. 90–618 inserted definitions of “collector”, “licensed collector”, and “crime punishable by imprisonment for a term exceeding one year”, amended definitions of “person”, “whoever”, “interstate or foreign commerce”, “State”, “firearm”, “destructive device”, “dealer”, “indictment”, “fugitive from justice”, “antique firearm”, “ammunition”, and “published ordinance”, and reenacted without change definitions of “shotgun”, “short-barreled shotgun”, “rifle”, “short-barreled rifle”, “importer”, “licensed importer”, “manufacturer”, “licensed manufacturer”, “licensed dealer”, “pawnbroker”, and “Secretary” or “Secretary of the Treasury”.
 
 Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member of the armed forces on active duty is a resident of the State in which his permanent duty station is located for provisions defining “firearm”, “destructive device”, and “crime punishable by imprisonment for a term exceeding one year”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–159, div. A, title II, § 12005(b), June 25, 2022, 136 Stat. 1332, provided that: “The amendments made by subsection (a) [amending this section] shall not apply to any conviction of a misdemeanor crime of domestic violence entered before the date of enactment of this Act [June 25, 2022].”
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
@@ -426,7 +481,7 @@ Paragraphs (1), (2), (3), and (4) of this subsection shall not apply to transact
 (3) the transferor has delayed shipment or delivery for a period of at least seven days following receipt of the notification of the acceptance or refusal of delivery of the statement.
 A copy of the sworn statement and a copy of the notification to the local law enforcement officer, together with evidence of receipt or rejection of that notification shall be retained by the licensee as a part of the records required to be kept under section 923(g).
 
-**(d)** It shall be unlawful for any person to sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person—
+**(d)** It shall be unlawful for any person to sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person, including as a juvenile—
 
 (1) is under indictment for, or has been convicted in any court of, a crime punishable by imprisonment for a term exceeding one year;
 
@@ -434,7 +489,7 @@ A copy of the sworn statement and a copy of the notification to the local law en
 
 (3) is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act ([21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim)));
 
-(4) has been adjudicated as a mental defective or has been committed to any mental institution;
+(4) has been adjudicated as a mental defective or has been committed to any mental institution at 16 years of age or older;
 
 (5) who, being an alien—
 
@@ -454,10 +509,14 @@ A copy of the sworn statement and a copy of the notification to the local law en
 
     (i) includes a finding that such person represents a credible threat to the physical safety of such intimate partner or child; or
 
-    (ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury; or
+    (ii) by its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury;
 
-(9) has been convicted in any court of a misdemeanor crime of domestic violence.
-This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 of this chapter is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925 of this chapter.
+(9) has been convicted in any court of a misdemeanor crime of domestic violence;
+
+(10) intends to sell or otherwise dispose of the firearm or ammunition in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking offense (as such terms are defined in section 932(a)); or
+
+(11) intends to sell or otherwise dispose of the firearm or ammunition to a person described in any of paragraphs (1) through (10).
+This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925.
 
 **(e)** It shall be unlawful for any person knowingly to deliver or cause to be delivered to any common or contract carrier for transportation or shipment in interstate or foreign commerce, to persons other than licensed importers, licensed manufacturers, licensed dealers, or licensed collectors, any package or other container in which there is any firearm or ammunition without written notice to the carrier that such firearm or ammunition is being transported or shipped; except that any passenger who owns or legally possesses a firearm or ammunition being transported aboard any common or contract carrier for movement with the passenger in interstate or foreign commerce may deliver said firearm or ammunition into the custody of the pilot, captain, conductor or operator of such common or contract carrier for the duration of the trip without violating any of the provisions of this chapter. No common or contract carrier shall require or cause any label, tag, or other written notice to be placed on the outside of any package, luggage, or other container that such package, luggage, or other container contains a firearm.
 
@@ -748,11 +807,23 @@ to ship or transport in interstate or foreign commerce, or possess in or affecti
 
     (i) the system provides the licensee with a unique identification number; or
 
-    (ii) 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section; and
+    (ii) subject to subparagraph (C), 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law; and
 
-  (C) the transferor has verified the identity of the transferee by examining a valid identification document (as defined in [section 1028(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1028/d&num=0&edition=prelim)) of the transferee containing a photograph of the transferee.
+  (C) in the case of a person less than 21 years of age, in addition to all other requirements of this chapter—
 
-(2) If receipt of a firearm would not violate subsection (g) or (n) or State law, the system shall—
+    (i) the system provides the licensee with a unique identification number;
+
+    (ii) 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that cause exists to further investigate a possibly disqualifying juvenile record under subsection (d); or
+
+    (iii) in the case of such a person with respect to whom the system notifies the licensee in accordance with clause (ii) that cause exists to further investigate a possibly disqualifying juvenile record under subsection (d), 10 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that—
+
+      (I) transferring the firearm to the other person would violate subsection (d) of this section; or
+
+      (II) receipt of a firearm by the other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law; and
+
+  (D) the transferor has verified the identity of the transferee by examining a valid identification document (as defined in [section 1028(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1028/d&num=0&edition=prelim)) of the transferee containing a photograph of the transferee.
+
+(2) If transfer or receipt of a firearm would not violate subsection (d), (g), or (n) (as applicable) or State, local or Tribal law, the system shall—
 
   (A) assign a unique identification number to the transfer;
 
@@ -782,9 +853,9 @@ to ship or transport in interstate or foreign commerce, or possess in or affecti
 
     (iii) there is an absence of telecommunications facilities in the geographical area in which the business premises are located.
 
-(4) If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the receipt of a firearm by such other person would violate subsection (g) or (n) or State law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
+(4) If the national instant criminal background check system notifies the licensee that the information available to the system does not demonstrate that the transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) or State 55 So in original. Probably should be followed by a comma. local, or Tribal law, and the licensee transfers a firearm to such other person, the licensee shall include in the record of the transfer the unique identification number provided by the system with respect to the transfer.
 
-(5) If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that receipt of a firearm by such other person would violate subsection (g) or (n) of this section or State law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
+(5) If the licensee knowingly transfers a firearm to such other person and knowingly fails to comply with paragraph (1) of this subsection with respect to the transfer and, at the time such other person most recently proposed the transfer, the national instant criminal background check system was operating and information was available to the system demonstrating that transfer of a firearm to or receipt of a firearm by such other person would violate subsection (d), (g), or (n) (as applicable) of this section or State 5 local, or Tribal law, the Attorney General may, after notice and opportunity for a hearing, suspend for not more than 6 months or revoke any license issued to the licensee under section 923, and may impose on the licensee a civil fine of not more than $5,000.
 
 (6) Neither a local government nor an employee of the Federal Government or of any State or local government, responsible for providing information to the national instant criminal background check system shall be liable in an action at law for damages—
 
@@ -924,6 +995,8 @@ to ship or transport in interstate or foreign commerce, or possess in or affecti
 ### Statutory Notes
 
 #### Amendment of Section
+For repeal of amendment by section 12001(a)(3) of Pub. L. 117–159, see Effective and Termination Dates of 2022 Amendment note below.
+
 Pub. L. 100–649, § 2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1(1), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.
 
 #### References in Text
@@ -946,6 +1019,32 @@ Section 102 of the Controlled Substances Act, referred to in subsec. (s)(3)(B)(i
 Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec. (t)(1), is section 103 of Pub. L. 103–159, which is classified to [section 40901 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–159, § 12004(b)(3), in concluding provisions, substituted “This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925.” for “This subsection shall not apply with respect to the sale or disposition of a firearm or ammunition to a licensed importer, licensed manufacturer, licensed dealer, or licensed collector who pursuant to subsection (b) of section 925 of this chapter is not precluded from dealing in firearms or ammunition, or to a person who has been granted relief from disabilities pursuant to subsection (c) of section 925 of this chapter.”
+
+Pub. L. 117–159, § 12001(a)(1)(A)(i), inserted “, including as a juvenile” after “such person” in introductory provisions.
+
+Subsec. (d)(4). Pub. L. 117–159, § 12001(a)(1)(A)(ii), inserted “at 16 years of age or older” after “institution”.
+
+Subsec. (d)(10), (11). Pub. L. 117–159, § 12004(b), added pars. (10) and (11).
+
+Subsec. (t)(1)(B)(ii). Pub. L. 117–159, § 12001(a)(1)(B)(i)(I)(aa), (3), temporarily inserted “subject to subparagraph (C),” before “3 business days”. See Effective and Termination Dates of 2022 Amendment note below.
+
+Pub. L. 117–103, § 1104(b)(1), inserted “, or State, local, or Tribal law” after “subsection (g) or (n) of this section”.
+
+Subsec. (t)(1)(C), (D). Pub. L. 117–159, § 12001(a)(1)(B)(i)(I)(bb)–(III), (3), temporarily added subpar. (C) and redesignated former subpar. (C) as (D). See Effective and Termination Dates of 2022 Amendment note below.
+
+Subsec. (t)(2). Pub. L. 117–159, § 12001(a)(1)(B)(ii), (3), temporarily inserted “transfer or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)” in introductory provisions. See Effective and Termination Dates of 2022 Amendment note below.
+
+Pub. L. 117–103, § 1104(b)(2), inserted “, local or Tribal” after “State”.
+
+Subsec. (t)(4). Pub. L. 117–159, § 12001(a)(1)(B)(iii), (3), temporariy inserted “transfer of a firearm to or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)”. See Effective and Termination Dates of 2022 Amendment note below.
+
+Pub. L. 117–103, § 1104(b)(3), inserted “local, or Tribal” after “State”.
+
+Subsec. (t)(5). Pub. L. 117–159, § 12001(a)(1)(B)(iv), (3), temporarily inserted “transfer of a firearm to or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)”. See Effective and Termination Dates of 2022 Amendment note below.
+
+Pub. L. 117–103, § 1104(b)(4), inserted “local, or Tribal” after “State”.
+
 2015—Subsec. (z)(2)(B). Pub. L. 114–94 substituted “directly employed by or contracted by” for “employed by”.
 
 2005—Subsec. (a)(7), (8). Pub. L. 109–92, § 6(a), added pars. (7) and (8) and struck out former pars. (7) and (8) which related to prohibitions on the manufacture, importation, sale, and delivery of armor piercing ammunition.
@@ -1145,6 +1244,11 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Post Office Department, referred to in subsec. (c)(2), redesignated United States Postal Service pursuant to Pub. L. 91–375, § 6(o), Aug. 12, 1970, 84 Stat. 733, set out as a note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
 
+#### Effective and Termination Dates of 2022 Amendment
+Pub. L. 117–159, div. A, title II, § 12001(a)(3), June 25, 2022, 136 Stat. 1324, provided that: “Effective on September 30, 2032, paragraphs (1)(B) and (2) [amending this section and [section 40901 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901&num=0&edition=prelim), Crime Control and Law Enforcement] are repealed, and the provisions of law amended by those paragraphs are restored as if those paragraphs had not been enacted.”
+
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as a note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
@@ -1180,6 +1284,9 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, except subsec. (l) effect
 
 #### Effective Date
 Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
+
+#### Rule of Construction
+Pub. L. 117–159, div. A, title II, § 12004(k), June 25, 2022, 136 Stat. 1332, provided that: “Nothing in this section [enacting sections 932 to 934 of this title, amending this section, sections 924, 1956, 1961, and 2516 of this title, [section 240 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section240&num=0&edition=prelim), Domestic Security, [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, and [section 40901 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901&num=0&edition=prelim), Crime Control and Law Enforcement, and enacting provisions set out as notes under sections 509 and 534 of Title 28, listed in a table relating to sentencing guidelines set out under [section 994 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994&num=0&edition=prelim), and set out as a note preceding [section 41101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41101&num=0&edition=prelim)], or an amendment made by this section, shall be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions.”
 
 #### Purposes
 Pub. L. 109–92, § 5(b), Oct. 26, 2005, 119 Stat. 2099, provided that: “The purposes of this section [amending this section and [section 924 of this title](./chapter-044-firearms.md#section-924) and enacting provisions set out as notes under this section and [section 921 of this title](./chapter-044-firearms.md#section-921)] are— “(1) to promote the safe storage and use of handguns by consumers; “(2) to prevent unauthorized persons from gaining access to or use of a handgun, including children who may not be in possession of a handgun; and “(3) to avoid hindering industry from supplying firearms to law abiding citizens for all lawful purposes, including hunting, self-defense, collecting, and competitive or recreational shooting.”
@@ -1553,7 +1660,7 @@ Pub. L. 108–447, div. B, title I, Dec. 8, 2004, 118 Stat. 2859.
   (D) willfully violates any other provision of this chapter,
   shall be fined under this title, imprisoned not more than five years, or both.
 
-(2) Whoever knowingly violates subsection (a)(6), (d), (g), (h), (i), (j), or (o) of section 922 shall be fined as provided in this title, imprisoned not more than 10 years, or both.
+(2) Whoever knowingly violates subsection (a)(6), (h), (i), (j), or (o) of section 922 shall be fined as provided in this title, imprisoned not more than 10 years, or both.
 
 (3) Any licensed dealer, licensed importer, licensed manufacturer, or licensed collector who knowingly—
 
@@ -1585,6 +1692,8 @@ Pub. L. 108–447, div. B, title I, Dec. 8, 2004, 118 Stat. 2859.
     (ii) if the person sold, delivered, or otherwise transferred a handgun or ammunition to a juvenile knowing or having reasonable cause to know that the juvenile intended to carry or otherwise possess or discharge or otherwise use the handgun or ammunition in the commission of a crime of violence, shall be fined under this title, imprisoned not more than 10 years, or both.
 
 (7) Whoever knowingly violates section 931 shall be fined under this title, imprisoned not more than 3 years, or both.
+
+(8) Whoever knowingly violates subsection (d) or (g) of section 922 shall be fined under this title, imprisoned for not more than 15 years, or both.
 
 **(b)** Whoever, with intent to commit therewith an offense punishable by imprisonment for a term exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceeding one year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
 
@@ -1640,7 +1749,7 @@ Pub. L. 108–447, div. B, title I, Dec. 8, 2004, 118 Stat. 2859.
 
 **(d)**
 
-(1) Any firearm or ammunition involved in or used in any knowing violation of subsection (a)(4), (a)(6), (f), (g), (h), (i), (j), or (k) of section 922, or knowing importation or bringing into the United States or any possession thereof any firearm or ammunition in violation of section 922(l), or knowing violation of section 924, or willful violation of any other provision of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, or any firearm or ammunition intended to be used in any offense referred to in paragraph (3) of this subsection, where such intent is demonstrated by clear and convincing evidence, shall be subject to seizure and forfeiture, and all provisions of the Internal Revenue Code of 1986 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter: Provided, That upon acquittal of the owner or possessor, or dismissal of the charges against him other than upon motion of the Government prior to trial, or lapse of or court termination of the restraining order to which he is subject, the seized or relinquished firearms or ammunition shall be returned forthwith to the owner or possessor or to a person delegated by the owner or possessor unless the return of the firearms or ammunition would place the owner or possessor or his delegate in violation of law. Any action or proceeding for the forfeiture of firearms or ammunition shall be commenced within one hundred and twenty days of such seizure.
+(1) Any firearm or ammunition involved in or used in any knowing violation of subsection (a)(4), (a)(6), (f), (g), (h), (i), (j), or (k) of section 922, or knowing importation or bringing into the United States or any possession thereof any firearm or ammunition in violation of section 922(l), or knowing violation of section 924, 932, or 933, or willful violation of any other provision of this chapter or any rule or regulation promulgated thereunder, or any violation of any other criminal law of the United States, or any firearm or ammunition intended to be used in any offense referred to in paragraph (3) of this subsection, where such intent is demonstrated by clear and convincing evidence, shall be subject to seizure and forfeiture, and all provisions of the Internal Revenue Code of 1986 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter: Provided, That upon acquittal of the owner or possessor, or dismissal of the charges against him other than upon motion of the Government prior to trial, or lapse of or court termination of the restraining order to which he is subject, the seized or relinquished firearms or ammunition shall be returned forthwith to the owner or possessor or to a person delegated by the owner or possessor unless the return of the firearms or ammunition would place the owner or possessor or his delegate in violation of law. Any action or proceeding for the forfeiture of firearms or ammunition shall be commenced within one hundred and twenty days of such seizure.
 
 (2)
 
@@ -1662,9 +1771,11 @@ Pub. L. 108–447, div. B, title I, Dec. 8, 2004, 118 Stat. 2859.
 
   (D) any offense described in [section 922(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922/d&num=0&edition=prelim) where the firearm or ammunition is intended to be used in such offense by the transferor of such firearm or ammunition;
 
-  (E) any offense described in section 922(i), 922(j), 922(l), 922(n), or 924(b) of this title; and
+  (E) any offense described in section 922(i), 922(j), 922(l), 922(n), or 924(b) of this title;
 
-  (F) any offense which may be prosecuted in a court of the United States which involves the exportation of firearms or ammunition.
+  (F) any offense which may be prosecuted in a court of the United States which involves the exportation of firearms or ammunition; and
+
+  (G) any offense under section 932 or 933.
 
 **(e)**
 
@@ -1699,7 +1810,7 @@ Pub. L. 108–447, div. B, title I, Dec. 8, 2004, 118 Stat. 2859.
 (4) constitutes a crime of violence (as defined in subsection (c)(3)),
 travels from any State or foreign country into any other State and acquires, transfers, or attempts to acquire or transfer, a firearm in such other State in furtherance of such purpose, shall be imprisoned not more than 10 years, fined in accordance with this title, or both.
 
-**(h)** Whoever knowingly transfers a firearm, knowing that such firearm will be used to commit a crime of violence (as defined in subsection (c)(3)) or drug trafficking crime (as defined in subsection (c)(2)) shall be imprisoned not more than 10 years, fined in accordance with this title, or both.
+**(h)** Whoever knowingly receives or transfers a firearm or ammunition, or attempts or conspires to do so, knowing or having reasonable cause to believe that such firearm or ammunition will be used to commit a felony, a Federal crime of terrorism, or a drug trafficking crime (as such terms are defined in section 932(a)), or a crime under the Arms Export Control Act ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.), the Export Control Reform Act of 2018 ([50 U.S.C. 4801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4801&num=0&edition=prelim) et seq.), the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.), or the Foreign Narcotics Kingpin Designation Act ([21 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1901&num=0&edition=prelim) et seq.), shall be fined under this title, imprisoned for not more than 15 years, or both.
 
 **(i)**
 
@@ -1713,14 +1824,20 @@ travels from any State or foreign country into any other State and acquires, tra
 
 (2) if the killing is manslaughter (as defined in section 1112), be punished as provided in that section.
 
-**(k)** A person who, with intent to engage in or to promote conduct that—
+**(k)**
 
-(1) is punishable under the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), the Controlled Substances Import and Export Act ([21 U.S.C. 951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) et seq.), or chapter 705 of title 46;
+(1) A person who smuggles or knowingly brings into the United States a firearm or ammunition, or attempts or conspires to do so, with intent to engage in or to promote conduct that—
 
-(2) violates any law of a State relating to any controlled substance (as defined in section 102 of the Controlled Substances Act, [21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim)); or
+  (A) is punishable under the Controlled Substances Import and Export Act ([21 U.S.C. 951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) et seq.), or chapter 705 of title 46; or
 
-(3) constitutes a crime of violence (as defined in subsection (c)(3)),
-smuggles or knowingly brings into the United States a firearm, or attempts to do so, shall be imprisoned not more than 10 years, fined under this title, or both.
+  (B) constitutes a felony, a Federal crime of terrorism, or a drug trafficking crime (as such terms are defined in section 932(a)),
+
+(2) A person who smuggles or knowingly takes out of the United States a firearm or ammunition, or attempts or conspires to do so, with intent to engage in or to promote conduct that—
+
+  (A) would be punishable under the Controlled Substances Import and Export Act ([21 U.S.C. 951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) et seq.), or chapter 705 of title 46, if the conduct had occurred within the United States; or
+
+  (B) would constitute a felony or a Federal crime of terrorism (as such terms are defined in section 932(a)) for which the person may be prosecuted in a court of the United States, if the conduct had occurred within the United States,
+  shall be fined under this title, imprisoned for not more than 15 years, or both.
 
 **(l)** A person who steals any firearm which is moving as, or is a part of, or which has moved in, interstate or foreign commerce shall be imprisoned for not more than 10 years, fined under this title, or both.
 
@@ -1750,18 +1867,46 @@ smuggles or knowingly brings into the United States a firearm, or attempts to do
 Pub. L. 100–649, § 2(f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, § 3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a)(1) of this section is amended by striking “this subsection, subsection (b), (c), or (f) of this section, or in section 929” and inserting “this chapter”, subsection (f) of this section is repealed, and subsections (g) through (o) of this section are redesignated as subsections (f) through (n), respectively, of this section.
 
 #### References in Text
+The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), and (g)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+
+The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1)(A), (2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
+
 The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is set out as Title 26, Internal Revenue Code.
 
 Section 5845(a) of that Code, referred to in subsec. (d)(1), is classified to [section 5845(a) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5845/a&num=0&edition=prelim).
 
-The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Arms Export Control Act, referred to in subsec. (h), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
+The Export Control Reform Act of 2018, referred to in subsec. (h), is subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, which is classified principally to chapter 58 (§ 4801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 4801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4801&num=0&edition=prelim) and Tables.
+
+The International Emergency Economic Powers Act, referred to in subsec. (h), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+
+The Foreign Narcotics Kingpin Designation Act, referred to in subsec. (h), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, which is classified principally to chapter 24 (§ 1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1901&num=0&edition=prelim) and Tables.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, as added by section 1402(b) of Pub. L. 99–570, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, as added by section 1402(b) of Pub. L. 99–570, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–159, § 12004(c)(1), struck out “(d), (g),” after “subsection (a)(6),”.
+
+Subsec. (a)(8). Pub. L. 117–159, § 12004(c)(2), added par. (8).
+
+Subsec. (d)(1). Pub. L. 117–159, § 12004(d)(1), inserted “932, or 933,” after “section 924,”.
+
+Subsec. (d)(3)(G). Pub. L. 117–159, § 12004(d)(2), added subpar. (G).
+
+Subsec. (h). Pub. L. 117–159, § 12004(e), added subsec. (h) and struck out former subsec. (h) which read as follows: “Whoever knowingly transfers a firearm, knowing that such firearm will be used to commit a crime of violence (as defined in subsection (c)(3)) or drug trafficking crime (as defined in subsection (c)(2)) shall be imprisoned not more than 10 years, fined in accordance with this title, or both.”
+
+Subsec. (k). Pub. L. 117–159, § 12004(f), added subsec. (k) and struck out former subsec. (k) which read as follows: “A person who, with intent to engage in or to promote conduct that—
+
+“(1) is punishable under the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), the Controlled Substances Import and Export Act ([21 U.S.C. 951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) et seq.), or chapter 705 of title 46;
+
+“(2) violates any law of a State relating to any controlled substance (as defined in section 102 of the Controlled Substances Act, [21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim)); or
+
+“(3) constitutes a crime of violence (as defined in subsection (c)(3)),
+
+smuggles or knowingly brings into the United States a firearm, or attempts to do so, shall be imprisoned not more than 10 years, fined under this title, or both.”
+
 2018—Subsec. (c)(1)(C). Pub. L. 115–391 substituted “violation of this subsection that occurs after a prior conviction under this subsection has become final” for “second or subsequent conviction under this subsection” in introductory provisions.
 
 2006—Subsecs. (c)(2), (e)(2)(A)(i). Pub. L. 109–304, § 17(d)(3)(A), substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
@@ -1976,6 +2121,9 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 #### Effective Date
 Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–351, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
 
+#### Rule of Construction
+Nothing in amendment made by Pub. L. 117–159 to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).
+
 
 <a id="section-925"></a>
 ## § 925. Exceptions: Relief from disabilities
@@ -2104,6 +2252,96 @@ may bring an action against the State or political subdivision responsible for p
 
 #### References in Text
 Section 103 of the Brady Handgun Violence Prevention Act, referred to in par. (1), is section 103 of Pub. L. 103–159, which is classified to [section 40901 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+
+<a id="section-925b"></a>
+## § 925B. Reporting of background check denials to State authorities
+**(a) In General.—** If the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act ([34 U.S.C. 40901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901&num=0&edition=prelim)) (referred to in this section as “NICS”) provides a notice pursuant to section 922(t) that the receipt of a firearm by a person would violate subsection (g) or (n) of section 922 or State, local, or Tribal law, the Attorney General shall, in accordance with subsection (b) of this section—
+
+(1) report to the local law enforcement authority of the State or Tribe where the person sought to acquire the firearm and, if different, the local law enforcement authorities of the State or Tribe of residence of the person—
+
+  (A) that the notice was provided;
+
+  (B) the Federal, State, local or Tribal prohibition;
+
+  (C) the date and time the notice was provided;
+
+  (D) the location of the licensee where the firearm was sought to be transferred; and
+
+  (E) the identity of the person; and
+
+(2) where practicable, report the incident to State and local prosecutors or Tribal prosecutors in the jurisdiction where the firearm transfer was sought.
+
+**(b) Requirements for Report.—** A report is made in accordance with this subsection if the report is made under subsection (a) within 24 hours after the NICS denies a firearm transfer in accordance with [section 922(t) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922/t&num=0&edition=prelim), United States Code, except that the making of the report may be delayed for so long as is necessary to avoid compromising an ongoing investigation.
+
+**(c) Amendment of Report.—** If a report is made in accordance with subsection (b) and, after such report is made, the Federal Bureau of Investigation determines that the receipt of a firearm by a person for whom the report was made would not violate subsection (g) or (n) of section 922 or State, local, or Tribal law, the Attorney General shall notify any law enforcement authority and any prosecutor to whom the report was made of that determination.
+
+**(d) Rule of Construction.—** Nothing in subsection (a) shall be construed to require a report with respect to a person to be made to the same State authorities that made the original denial determination with respect to the transfer of the firearm.
+
+### Statutory Notes
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+
+<a id="section-925c"></a>
+## § 925C. Annual report to Congress
+
+Not later than 1 year after the date of enactment of this section, and annually thereafter, the Attorney General shall submit to Congress a report detailing the following, broken down by Federal judicial district:
+
+(1) With respect to each category of persons prohibited by subsection (g) or (n) of section 922 or State law from receiving or possessing a firearm who are so denied a firearm—
+
+  (A) the number of denials;
+
+  (B) the number of denials referred to the Bureau of Alcohol, Tobacco, Firearms, and Explosives;
+
+  (C) the number of denials for which the Bureau of Alcohol, Tobacco, Firearms, and Explosives determines that the person denied was not prohibited by subsection (g) or (n) of section 922 or State law from receiving or possessing a firearm;
+
+  (D) the number of denials overturned through the appeals process of the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act ([34 U.S.C. 40901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40901&num=0&edition=prelim));
+
+  (E) the number of denials with respect to which an investigation was opened by a field division of the Bureau of Alcohol, Tobacco, Firearms, and Explosives;
+
+  (F) the number of persons charged with a Federal criminal offense in connection with a denial; and
+
+  (G) the number of convictions obtained by Federal authorities in connection with a denial.
+
+(2) The number of background check notices reported pursuant to section 925B (including the number of the notices that would have been so reported but for section 925B(c)).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 117–103, which was approved Mar. 15, 2022.
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+
+<a id="section-925d"></a>
+## § 925D. Special assistant U.S. attorneys and cross-deputized attorneys
+**(a) In General.—** In order to improve the enforcement of paragraphs (8) and (9) of section 922(g), the Attorney General may—
+
+(1) appoint, in accordance with [section 543 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section543&num=0&edition=prelim), qualified State, Tribal, territorial and local prosecutors and qualified attorneys working for the United States government to serve as special assistant United States attorneys for the purpose of prosecuting violations of such paragraphs; and
+
+(2) deputize State, Tribal, territorial and local law enforcement officers for the purpose of enhancing the capacity of the agents of the Bureau of Alcohol, Tobacco, Firearms, and Explosives in responding to and investigating violations of such paragraphs.
+
+**(b) Improve Intimate Partner and Public Safety.—** The Attorney General shall—
+
+(1) identify not fewer than 75 jurisdictions among States, territories and Tribes where there are high rates of firearms violence and threats of firearms violence against intimate partners and other persons protected under paragraphs (8) and (9) of section 922(g) and where local authorities lack the resources to address such violence;
+
+(2) make such appointments as described in subsection (a) in jurisdictions where enhanced enforcement of such paragraphs is necessary to reduce firearms homicide and injury rates; and
+
+(3) establish, in order to receive and expedite requests for assistance from State, Tribal, territorial, and local law enforcement agencies responding to intimate partner violence cases where such agencies have probable cause to believe that the offenders may be in violation of such paragraphs, points of contact within—
+
+  (A) each Field Division of the Bureau of Alcohol, Tobacco, Firearms, and Explosives; and
+
+  (B) each District Office of the United States Attorneys.
+
+**(c) Qualified Defined.—** For purposes of this section, the term “qualified” means, with respect to an attorney, that the attorney is a licensed attorney in good standing with any relevant licensing authority.
+
+### Statutory Notes
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-926"></a>
@@ -2386,9 +2624,9 @@ Section effective 180 days after June 19, 1968, see section 907 of Pub. L. 90–
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in subsec. (a)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (a)(2), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (a)(2), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (a)(2). Pub. L. 109–304 substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
@@ -2495,3 +2733,84 @@ Pub. L. 101–647, title XXII, § 2205(b), Nov. 29, 1990, 104 Stat. 4858, provid
   (B) the use and possession by the defendant were limited to the course of such performance.
 
 (2) **Employer.—** — In this subsection, the term “employer” means any other individual employed by the defendant’s business that supervises defendant’s activity. If that defendant has no supervisor, prior written certification is acceptable from any other employee of the business.
+
+
+<a id="section-932"></a>
+## § 932. Straw purchasing of firearms
+**(a) Definitions.—** For purposes of this section—
+
+(1) the term “drug trafficking crime”—
+
+  (A) has the meaning given that term in section 924(c)(2); and
+
+  (B) includes a felony punishable under the law of a State for which the conduct constituting the offense would constitute a felony punishable under the Controlled Substances Act ([21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.), the Controlled Substances Import and Export Act ([21 U.S.C. 951](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) et seq.), or chapter 705 of title 46;
+
+(2) the term “Federal crime of terrorism” has the meaning given that term in section 2332b(g)(5); and
+
+(3) the term “felony” means any offense under Federal or State law punishable by imprisonment for a term exceeding 1 year.
+
+**(b) Violation.—** It shall be unlawful for any person to knowingly purchase, or conspire to purchase, any firearm in or otherwise affecting interstate or foreign commerce for, on behalf of, or at the request or demand of any other person, knowing or having reasonable cause to believe that such other person—
+
+(1) meets the criteria of 1 or more paragraphs of section 922(d);
+
+(2) intends to use, carry, possess, or sell or otherwise dispose of the firearm in furtherance of a felony, a Federal crime of terrorism, or a drug trafficking crime; or
+
+(3) intends to sell or otherwise dispose of the firearm to a person described in paragraph (1) or (2).
+
+**(c) Penalty.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), any person who violates subsection (b) shall be fined under this title, imprisoned for not more than 15 years, or both.
+
+(2) **Use in felonies, crimes of terrorism, or drug trafficking crimes.—** — If a violation of subsection (b) is committed knowing or with reasonable cause to believe that any firearm involved will be used to commit a felony, a Federal crime of terrorism, or a drug trafficking crime, the person shall be sentenced to a term of imprisonment of not more than 25 years.
+
+### Statutory Notes
+
+#### References in Text
+The Controlled Substances Act, referred to in subsec. (a)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+
+The Controlled Substances Import and Export Act, referred to in subsec. (a)(1)(B), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of the Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
+
+#### Rule of Construction
+Nothing in section 12004(a)(1) of Pub. L. 117–159, which enacted this section, to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).
+
+
+<a id="section-933"></a>
+## § 933. Trafficking in firearms
+**(a) In General.—** It shall be unlawful for any person to—
+
+(1) ship, transport, transfer, cause to be transported, or otherwise dispose of any firearm to another person in or otherwise affecting interstate or foreign commerce, if such person knows or has reasonable cause to believe that the use, carrying, or possession of a firearm by the recipient would constitute a felony (as defined in section 932(a));
+
+(2) receive from another person any firearm in or otherwise affecting interstate or foreign commerce, if the recipient knows or has reasonable cause to believe that such receipt would constitute a felony; or
+
+(3) attempt or conspire to commit the conduct described in paragraph (1) or (2).
+
+**(b) Penalty.—** Any person who violates subsection (a) shall be fined under this title, imprisoned for not more than 15 years, or both.
+
+### Statutory Notes
+
+#### Rule of Construction
+Nothing in section 12004(a)(1) of Pub. L. 117–159, which enacted this section, to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).
+
+
+<a id="section-934"></a>
+## § 934. Forfeiture and fines
+**(a) Forfeiture.—**
+
+(1) **In general.—** — Any person convicted of a violation of section 932 or 933 shall forfeit to the United States, irrespective of any provision of State law—
+
+  (A) any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, as the result of such violation; and
+
+  (B) any of the person’s property used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, such violation, except that for any forfeiture of any firearm or ammunition pursuant to this section, section 924(d) shall apply.
+
+(2) **Imposition.—** — The court, in imposing sentence on a person convicted of a violation of section 932 or 933, shall order, in addition to any other sentence imposed pursuant to section 932 or 933, that the person forfeit to the United States all property described in paragraph (1).
+
+**(b) Fines.—** A defendant who derives profits or other proceeds from an offense under section 932 or 933 may be fined not more than the greater of—
+
+(1) the fine otherwise authorized by this part; or
+
+(2) the amount equal to twice the gross profits or other proceeds of the offense under section 932 or 933.
+
+### Statutory Notes
+
+#### Rule of Construction
+Nothing in section 12004(a)(1) of Pub. L. 117–159, which enacted this section, to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).

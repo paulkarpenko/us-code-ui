@@ -307,11 +307,11 @@ Amendment by act Oct. 15, 1949, effective on first day of first pay period after
 #### Repeals
 Act July 31, 1956, ch. 804, title I, § 109, 70 Stat. 740, cited as a credit to this section, was repealed by Pub. L. 88–426, title III, § 305(1), Aug. 14, 1964, 78 Stat. 422.
 
-#### Abolition of National Aeronautics and Space Council
-National Aeronautics and Space Council, including office of Executive Secretary of Council, together with functions of Council, abolished by section 3(a)(4) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
+
+#### Abolition of National Aeronautics and Space Council
+National Aeronautics and Space Council, including office of Executive Secretary of Council, together with functions of Council, abolished by section 3(a)(4) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-106"></a>
@@ -496,9 +496,6 @@ All furniture purchased for the use of the Executive Residence at the White Hous
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–570 applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as a note under [section 102 of this title](./chapter-002-office-and-compensation-of-president.md#section-102).
 
-#### Transfer of Functions
-Functions of officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, see Transfer of Functions note set out under [section 109 of this title](./chapter-002-office-and-compensation-of-president.md#section-109).
-
 #### Commission on Renovation of the Executive Mansion
 Act Apr. 14, 1949, ch. 51, 63 Stat. 45, authorized appointment of a commission of six to supervise and approve all construction plans and work necessary to remedy the present unsafe conditions in the Executive Mansion and to modernize same.
 
@@ -506,6 +503,9 @@ Act Apr. 14, 1949, ch. 51, 63 Stat. 45, authorized appointment of a commission o
 Pub. L. 87–286, Sept. 22, 1961, 75 Stat. 586, provided: “That all of that portion of reservation numbered 1 in the city of Washington, District of Columbia, which is within the President’s park enclosure, comprising eighteen and seven one-hundredths acres, shall continue to be known as the White House and shall be administered pursuant to the Act of August 25, 1916 (39 Stat. 535; [former] [16 U.S.C. 1–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1–3&num=0&edition=prelim) [see [18 U.S.C. 1865(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), [54 U.S.C. 100101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101/a&num=0&edition=prelim), 100301 et seq., 100751(a), 100752, 100753, 102101]), and Acts supplementary thereto and amendatory thereof. In carrying out this Act primary attention shall be given to the preservation and interpretation of the museum character of the principal corridor on the ground floor and the principal public rooms on the first floor of the White House, but nothing done under this Act shall conflict with the administration of the Executive offices of the President or with the use and occupancy of the buildings and grounds as the home of the President and his family and for his official purposes. “Sec. 2. Articles of furniture, fixtures, and decorative objects of the White House, when declared by the President to be of historic or artistic interest, together with such similar articles, fixtures, and objects as are acquired by the White House in the future when similarly so declared, shall thereafter be considered to be inalienable and the property of the White House. Any such article, fixture, or object when not in use or on display in the White House shall be transferred by direction of the President as a loan to the Smithsonian Institution for its care, study, and storage or exhibition and such articles, fixtures, and objects shall be returned to the White House from the Smithsonian Institution on notice by the President. “Sec. 3. Nothing in this Act shall alter any privileges, powers, or duties vested in the White House Police and the United States Secret Service, Treasury Department, by [former] [section 202 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section202&num=0&edition=prelim), United States Code, and [section 3056 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim), United States Code.”
 
 [For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
+
+#### Transfer of Functions
+Functions of officers of Department of the Interior and functions of all agencies and employees of such Department, with two exceptions, transferred to Secretary of the Interior, see Transfer of Functions note set out under [section 109 of this title](./chapter-002-office-and-compensation-of-president.md#section-109).
 
 #### Ex. Ord. No. 11145. Curator of White House; Committee for Preservation of White House
 Ex. Ord. No. 11145, Mar. 7, 1964, 29 F.R. 3189, as amended by Ex. Ord. No. 11565, Oct. 13, 1970, 35 F.R. 16155, provided:
@@ -549,9 +549,11 @@ Sec. 3. (a) The Committee shall report to the President and shall advise the Dir
 Sec. 4. Consonant with law, each Federal department and agency represented on the Committee shall furnish necessary assistance to the Committee in accordance with section 214 of the Act of May 3, 1945, 59 Stat. 134 ([31 U.S.C. 691](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section691&num=0&edition=prelim)) [[31 U.S.C. 1346(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1346/b&num=0&edition=prelim)]. The Department of the Interior shall furnish necessary administrative services for the Committee.
 
 #### Extension of Term of Committee for the Preservation of the White House
-Term of Committee for the Preservation of the White House extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Committee for the Preservation of the White House extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Committee for the Preservation of the White House were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

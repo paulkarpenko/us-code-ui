@@ -41,7 +41,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, [section 489 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section489&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and [section 1769b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769b&num=0&edition=prelim), The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, [section 489 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section489&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and [section 1769b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769b&num=0&edition=prelim), The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
 
 #### Amendments
 2002—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income.”
@@ -102,7 +102,7 @@ Pub. L. 104–106, div. A, title III, § 355, Feb. 10, 1996, 110 Stat. 269, prov
 ### Statutory Notes
 
 #### References in Text
-The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (c)(1), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, as amended, which is classified generally to chapter 25 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of this title](./chapter-025-pay-and-personnel-program-for-overseas-teachers.md#section-901) and Tables.
+The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (c)(1), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, which is classified generally to chapter 25 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of this title](./chapter-025-pay-and-personnel-program-for-overseas-teachers.md#section-901) and Tables.
 
 #### Amendments
 2000—Subsec. (c)(6). Pub. L. 106–398 struck out “the” before “the Assistant Secretary of Defense”.
@@ -320,7 +320,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 1759. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Amendments
 2004—Subsec. (c)(2). Pub. L. 108–446 substituted “section 636” for “section 677” and “part C” for “part H”.

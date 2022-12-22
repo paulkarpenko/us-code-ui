@@ -19,7 +19,7 @@ The Administrator of the National Aeronautics and Space Administration (hereinaf
 1958—Pub. L. 85–568 substituted “The Administrator of the National Aeronautics and Space Administration (hereinafter referred to as the ‘Administrator’)” for “The National Advisory Committee for Aeronautics (hereinafter referred to as the ‘Committee’)”, and “Administrator” for “Committee” in second sentence.
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Pub. L. 85–568, title III, § 301(e), July 29, 1958, 72 Stat. 433, provided that: “This section [amending this section and sections 512, 513, and 515 of this title, section 22–1 of former Title 5, and sections 2302 and 2303 of Title 10, Armed Forces, and enacting provisions set out as a note under [section 2472 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2472&num=0&edition=prelim), The Public Health and Welfare] shall take effect ninety days after the date of the enactment of this Act [July 29, 1958], or on any earlier date on which the Administrator [of the National Aeronautics and Space Administration] shall determine, and announce by proclamation published in the Federal Register, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it by this Act.”
 
 #### Short Title
 Act Oct. 27, 1949, ch. 766, title I, § 106, 63 Stat. 937, provided that: “This title [enacting this subchapter] may be cited as the ‘Unitary Wind Tunnel Plan Act of 1949’.”
@@ -38,7 +38,7 @@ The Administrator is authorized, in implementation of the unitary plan, to const
 1958—Pub. L. 85–568 substituted “Administrator” for “Committee” in three places, and “his” for “its”.
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under [section 511 of this title](./chapter-020-wind-tunnels.md#section-511).
 
 
 <a id="section-513"></a>
@@ -59,7 +59,7 @@ Subsec. (c). Pub. L. 106–391, § 312(2)(C), substituted “facility” for “
 1958—Subsecs. (a), (c). Pub. L. 85–568 substituted “Administrator” for “Committee” in subsecs. (a) and (c), and “his” for “its” in subsec. (a).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under [section 511 of this title](./chapter-020-wind-tunnels.md#section-511).
 
 #### Additional Appropriations
 Act June 29, 1950, ch. 405, § 801, 64 Stat. 286, provided in part for an additional appropriation of $75,000,000, to remain available until expended; for the construction and completion and equipment of facilities at the Langley Aeronautical Laboratory, Langley Air Force Base, Virginia.
@@ -82,7 +82,7 @@ The Administrator shall submit semi-annual written reports to the Congress cover
 1958—Pub. L. 85–568 substituted “Administrator” for “Committee” and “Administrator’s” for “Committee’s”.
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 85–568 effective 90 days after July 29, 1958, or on any earlier date on which the Administrator of the National Aeronautics and Space Administration determines, and announces by proclamation, that the Administration has been organized and is prepared to discharge the duties and exercise the powers conferred upon it, see section 301(e) of Pub. L. 85–568, set out as a note under [section 511 of this title](./chapter-020-wind-tunnels.md#section-511).
 
 
 <a id="section-521"></a>

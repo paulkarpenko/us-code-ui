@@ -99,6 +99,8 @@ Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 117–103, div. H, title I, Mar. 15, 2022, 136 Stat. 431.
+
 Pub. L. 116–260, div. H, title I, Dec. 27, 2020, 134 Stat. 1556.
 
 Pub. L. 116—94, div. A, title I, Dec. 20, 2019, 133 Stat. 2545.
@@ -1058,15 +1060,15 @@ Subsec. (b)(2). Pub. L. 117–58, § 80102(e)(1)(A), in heading, substituted “
 
 Subsec. (b)(6)(B). Pub. L. 117–58, § 80101(a)(1), substituted “October 1, 2026” for “October 1, 2021”.
 
-Pub. L. 117–52, § 4(a)(1), (d), temporarily substituted “December 4, 2021” for “November 1, 2021”. See Termination Date of 2021 Amendment note below.
+Pub. L. 117–52, § 4(a)(1), (d), temporarily substituted “December 4, 2021” for “November 1, 2021”. See Effective and Termination Dates of 2021 Amendment note below.
 
-Pub. L. 117–44, § 201(a)(1), (d), temporarily substituted “November 1, 2021” for “October 1, 2021”. See Termination Date of 2021 Amendment note below.
+Pub. L. 117–44, § 201(a)(1), (d), temporarily substituted “November 1, 2021” for “October 1, 2021”. See Effective and Termination Dates of 2021 Amendment note below.
 
 Subsec. (c)(1). Pub. L. 117–58, § 80101(a), substituted “October 1, 2026” for “October 1, 2021” and “Infrastructure Investment and Jobs Act” for “Continuing Appropriations Act, 2021 and Other Extensions Act”.
 
-Pub. L. 117–52, § 4(a), (d), temporarily substituted “December 4, 2021” for “November 1, 2021” and “Further Surface Transportation Extension Act of 2021” for “Surface Transportation Extension Act of 2021”. See Termination Date of 2021 Amendment note below.
+Pub. L. 117–52, § 4(a), (d), temporarily substituted “December 4, 2021” for “November 1, 2021” and “Further Surface Transportation Extension Act of 2021” for “Surface Transportation Extension Act of 2021”. See Effective and Termination Dates of 2021 Amendment note below.
 
-Pub. L. 117–44, § 201(a), (d), temporarily substituted “November 1, 2021” for “October 1, 2021” and “Surface Transportation Extension Act of 2021” for “Continuing Appropriations Act, 2021 and Other Extensions Act”. See Termination Date of 2021 Amendment note below.
+Pub. L. 117–44, § 201(a), (d), temporarily substituted “November 1, 2021” for “October 1, 2021” and “Surface Transportation Extension Act of 2021” for “Continuing Appropriations Act, 2021 and Other Extensions Act”. See Effective and Termination Dates of 2021 Amendment note below.
 
 Subsec. (c)(2). Pub. L. 117–58, § 80102(e)(1)(B), substituted “July 1, 2029” for “July 1, 2023”.
 
@@ -1076,9 +1078,9 @@ Subsec. (c)(4)(A). Pub. L. 117–58, § 80102(e)(2)(A), substituted “October 1
 
 Subsec. (e)(3). Pub. L. 117–58, § 80101(a), substituted “October 1, 2026” for “October 1, 2021” and “Infrastructure Investment and Jobs Act” for “Continuing Appropriations Act, 2021 and Other Extensions Act”.
 
-Pub. L. 117–52, § 4(a), (d), temporarily substituted “December 4, 2021” for “November 1, 2021” and “Further Surface Transportation Extension Act of 2021” for “Surface Transportation Extension Act of 2021”. See Termination Date of 2021 Amendment note below.
+Pub. L. 117–52, § 4(a), (d), temporarily substituted “December 4, 2021” for “November 1, 2021” and “Further Surface Transportation Extension Act of 2021” for “Surface Transportation Extension Act of 2021”. See Effective and Termination Dates of 2021 Amendment note below.
 
-Pub. L. 117–44, § 201(a), (d), temporarily substituted “November 1, 2021” for “October 1, 2021” and “Surface Transportation Extension Act of 2021” for “Continuing Appropriations Act, 2021 and Other Extensions Act”. See Termination Date of 2021 Amendment note below.
+Pub. L. 117–44, § 201(a), (d), temporarily substituted “November 1, 2021” for “October 1, 2021” and “Surface Transportation Extension Act of 2021” for “Continuing Appropriations Act, 2021 and Other Extensions Act”. See Effective and Termination Dates of 2021 Amendment note below.
 
 Subsec. (f)(11), (12). Pub. L. 117–58, § 80103, added par. (11) and redesignated former par. (11) as (12).
 
@@ -2332,7 +2334,7 @@ In the case of the tax imposed by section 4611, paragraph (1) shall apply only t
 
   (A) *In general* — Advances made to the Superfund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary determines that moneys are available for such purposes in the Superfund.
 
-  (B) *Final repayment* — No advance shall be made to the Superfund after December 31, 1995, and all advances to such Fund shall be repaid on or before such date.
+  (B) *Final repayment* — No advance shall be made to the Superfund after December 31, 2032, and all advances to such Fund shall be repaid on or before such date.
 
   (C) *Rate of interest* — Interest on advances made to the Superfund shall be at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding and shall be compounded annually.
 
@@ -2360,11 +2362,16 @@ Section 3005(a) of the Solid Waste Disposal Act, referred to in subsec. (c)(2)(B
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (e)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (d)(3)(B). Pub. L. 117–169 substituted “December 31, 2032” for “December 31, 1995”.
+
 2014—Subsec. (b)(1). Pub. L. 113–295 struck out “59A,” before “4611,”.
 
 1990—Subsec. (d)(3)(B). Pub. L. 101–508 substituted “December 31, 1995” for “December 31, 1991”.
 
 1986—Subsec. (b). Pub. L. 99–509 inserted at end “In the case of the tax imposed by section 4611, paragraph (1) shall apply only to so much of such tax as is attributable to the Hazardous Substance Superfund financing rate under section 4611(c).”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 effective Jan. 1, 2023, see section 13601(c) of Pub. L. 117–169, set out as a note under [section 4611 of this title](./chapter-038-1-1-a-new-chapter-38-4611-et-seq-follows-repealed.md#section-4611).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).

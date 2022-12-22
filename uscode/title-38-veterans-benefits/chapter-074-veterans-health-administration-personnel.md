@@ -2,7 +2,7 @@
 title: 38
 chapter: '74'
 heading: VETERANS HEALTH ADMINISTRATION—PERSONNEL
-section_count: 40
+section_count: 41
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -63,6 +63,15 @@ Par. (3). Pub. L. 108–170, § 301(a)(1)(B), added par. (3) and struck out form
 
 #### Effective Date of 2003 Amendment
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under [section 7316 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7316).
+
+#### National Rural Recruitment and Hiring Plan for Veterans Health Administration
+Pub. L. 117–168, title IX, § 901, Aug. 10, 2022, 136 Stat. 1808, provided that: “(a) In General.—Not later than 18 months after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs, in collaboration with the directors of each community-based outpatient clinic and medical center of the Department of Veterans Affairs, shall develop and implement a national rural recruitment and hiring plan for the Veterans Health Administration to—“(1) recruit health care professionals for rural and highly rural community-based outpatient clinics and rural and highly rural medical centers of the Department; “(2) determine which such clinics or centers have a staffing shortage of health care professionals; “(3) develop best practices and techniques for recruiting health care professionals for such clinics and centers; “(4) not less frequently than annually, provide virtually based, on-demand training to human resources professionals of the Veterans Health Administration on the best practices and techniques developed under paragraph (3); and “(5) provide recruitment resources, such as pamphlets and marketing material to—“(A) Veterans Integrated Service Networks of the Department; “(B) rural and highly rural community-based outpatient clinics of the Department; and “(C) rural and highly rural medical centers of the Department. “(b) Annual Report.—Not later than 18 months after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report that includes—“(1) the plan developed and implemented under subsection (a); and “(2) an assessment of the outcomes related to recruitment and retention of employees of the Veterans Health Administration at rural and highly rural facilities of the Department. “(c) Definitions.—In this section, the terms ‘rural’ and ‘highly rural’ have the meanings given those terms under the rural-urban commuting areas coding system of the Department of Agriculture.”
+
+#### Authority To Buy Out Service Contracts for Certain Health Care Professionals in Exchange for Employment at Rural or Highly Rural Facilities of Department of Veterans Affairs
+Pub. L. 117–168, title IX, § 902, Aug. 10, 2022, 136 Stat. 1808, provided that: “(a) In General.—For any covered health care professional to whom the Secretary of Veterans Affairs has offered employment with the Department of Veterans Affairs, the Secretary may buy out the non-Department service contract of such individual in exchange for such individual agreeing to be employed at a rural or highly rural facility of the Department for a period of obligated service specified in subsection (c). “(b) Payment of Amounts.—“(1) In general.—Payment of any amounts for a buy out of a service contract for a covered health care professional under subsection (a) shall be made directly to the individual or entity with respect to which the covered health care professional has a service obligation under such contract. “(2) Limitation on total amount.—The total amount paid by the Department under this section shall not exceed $40,000,000 per fiscal year. “(c) Obligated Service.—In exchange for a contract buy out under subsection (a), a covered health care professional shall agree to be employed for not less than four years at a rural or highly rural facility of the Department. “(d) Liability.—“(1) In general.—Except as provided in paragraph (2), if a covered health care professional fails for any reason to complete the period of obligated service of the individual under subsection (c), the United States shall be entitled to recover from the individual an amount equal to—“(A) the total amount paid under subsection (a) to buy out the non-Department service contract of the individual; multiplied by “(B) a fraction—“(i) the numerator of which is— “(I) the total number of months in the period of obligated service of the individual; minus “(II) the number of months served by the individual; and “(ii) the denominator of which is the total number of months in the period of obligated service of the individual. “(2) Exception.—Liability shall not arise under paragraph (1) in the case of an individual covered by that paragraph if the individual does not obtain, or fails to maintain, employment as an employee of the Department due to staffing changes approved by the Under Secretary for Health. “(e) Annual Report.—“(1) In general.—Not later than 18 months after the date of the enactment of this Act [Aug. 10, 2022], and not less frequently than annually thereafter, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the use by the Secretary of the authority under this section. “(2) Elements.—Each report required by paragraph (1) shall include the following:“(A) The number of health care professionals for whom a service contract buyout payment was made under subsection (a) in the previous fiscal year, disaggregated by occupation or specialty. “(B) The average, highest, and lowest amount of the service contract buyout payments made under subsection (a) for each occupation or specialty in the previous fiscal year. “(C) Each location where contract buyout authority under subsection (a) was utilized and the number of covered health care professionals who agreed to be employed at such location in the previous fiscal year. “(f) Definitions.—In this section:“(1) Covered health care professional.—The term ‘covered health care professional’ means a physician, nurse anesthetist, physician assistant, or nurse practitioner offered employment with the Department regardless of the authority under which such employment is offered. “(2) Rural; highly rural.—The terms ‘rural’ and ‘highly rural’ have the meanings given those terms under the rural-urban commuting areas coding system of the Department of Agriculture. “(g) Sunset.—This section shall terminate on September 30, 2027.”
+
+#### Qualifications for Human Resources Positions Within Department of Veterans Affairs and Plan To Recruit and Retain Human Resources Employees
+Pub. L. 117–168, title IX, § 903, Aug. 10, 2022, 136 Stat. 1810, provided that: “(a) Establishment of Qualifications.—Not later than 180 days after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs shall—“(1) establish qualifications for each human resources position within the Department of Veterans Affairs in coordination with the Office of Personnel Management; “(2) establish standardized performance metrics for each such position; and “(3) submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing the qualifications and standardized performance metrics established under paragraphs (1) and (2). “(b) Improvement of Human Resources Actions.—Not later than 90 days after the date of the enactment of this Act, the Secretary shall establish or enhance systems of the Department to monitor the hiring and other human resources actions that occur at the local, regional, and national levels of the Department to improve the performance of those actions. “(c) Report.—Not later than one year after the establishment of the qualifications and performance metrics under subsection (a), the Comptroller General of the United States shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing—“(1) a description of the implementation of such qualifications and performance metrics; “(2) an assessment of the quality of such qualifications and performance metrics; “(3) an assessment of performance and outcomes based on such metrics; and “(4) such other matters as the Comptroller General considers appropriate. “(d) Plan to Recruit and Retain Human Resources Employees.—Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a plan for the recruitment and retention of human resources employees within the Department of Veterans Affairs.”
 
 #### Emergency Department of Veterans Affairs Employee Leave Fund
 Pub. L. 117–2, title VIII, § 8008, Mar. 11, 2021, 135 Stat. 116, provided that: “(a) Establishment; Appropriation.—There is established in the Treasury the Emergency Department of Veterans Affairs Employee Leave Fund (in this section referred to as the ‘Fund’), to be administered by the Secretary of Veterans Affairs, for the purposes set forth in subsection (b). In addition to amounts otherwise available, there is appropriated for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $80,000,000, which shall be deposited into the Fund and remain available through September 20, 2022. “(b) Purpose.—Amounts in the Fund shall be available for payment to the Department of Veterans Affairs for the use of paid leave by any covered employee who is unable to work because the employee—“(1) is subject to a Federal, State, or local quarantine or isolation order related to COVID–19; “(2) has been advised by a health care provider to self-quarantine due to concerns related to COVID–19; “(3) is caring for an individual who is subject to such an order or has been so advised; “(4) is experiencing symptoms of COVID–19 and seeking a medical diagnosis; “(5) is caring for a son or daughter of such employee if the school or place of care of the son or daughter has been closed, if the school of such son or daughter requires or makes optional a virtual learning instruction model or requires or makes optional a hybrid of in-person and virtual learning instruction models, or the child care provider of such son or daughter is unavailable, due to COVID–19 precautions; “(6) is experiencing any other substantially similar condition; “(7) is caring for a family member with a mental or physical disability or who is 55 years of age or older and incapable of self-care, without regard to whether another individual other than the employee is available to care for such family member, if the place of care for such family member is closed or the direct care provider is unavailable due to COVID–19; or “(8) is obtaining immunization related to COVID–19 or to recover from any injury, disability, illness, or condition related to such immunization. “(c) Limitations.—“(1) Period of availability.—Paid leave under this section may only be provided to and used by a covered employee during the period beginning on the date of enactment of this Act [Mar. 11, 2021] and ending on September 30, 2021. “(2) Total hours; amount.—Paid leave under this section—“(A) shall be provided to a covered employee in an amount not to exceed 600 hours of paid leave for each full-time employee, and in the case of a part-time employee, employee on an uncommon tour of duty, or employee with a seasonal work schedule, in an amount not to exceed the proportional equivalent of 600 hours to the extent amounts in the Fund remain available for reimbursement; “(B) shall be paid at the same hourly rate as other leave payments; and “(C) may not be provided to a covered employee if the leave would result in payments greater than $2,800 in aggregate for any biweekly pay period for a full-time employee, or a proportionally equivalent biweekly limit for a part-time employee. “(3) Relationship to other leave.—Paid leave under this section—“(A) is in addition to any other leave provided to a covered employee; and “(B) may not be used by a covered employee concurrently with any other paid leave. “(4) Calculation of retirement benefit.—Any paid leave provided to a covered employee under this section shall reduce the total service used to calculate any Federal civilian retirement benefit. “(d) Covered Employee Defined.—In this section, the term ‘covered employee’ means an employee of the Department of Veterans Affairs appointed under chapter 74 of title 38, United States Code.”
@@ -390,9 +399,13 @@ Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day per
 
   (A) The annual rates or ranges of rates of basic pay for positions provided in section 11 So in original. Probably should be “sections”. 7306 and 7401(4) of this title shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law.
 
-  (B) [Section 5377 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5377&num=0&edition=prelim) shall apply to a position under [section 7401(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/4&num=0&edition=prelim) as if such position were included in the definition of “position” in [section 5377(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5377/a&num=0&edition=prelim).
+  (B) [Section 5377 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5377&num=0&edition=prelim) shall apply to a position under section 7306 or 7401(4) of this title as if such position were included in the definition of “position” in [section 5377(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5377/a&num=0&edition=prelim).
 
-(2) The pay of physicians and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
+(2)
+
+  (A) The pay of physicians, podiatrists, and dentists serving in positions to which an Executive order applies under paragraph (1) shall be determined under subchapter III of this chapter instead of such Executive order.
+
+  (B) The basic pay of registered nurses and physician assistants serving in positions to which an Executive order applies under paragraph (1) may be determined under subchapter IV of this chapter instead of such Executive order. Such positions shall not otherwise be covered by such subchapter, except with respect to bonuses under section 7452 or 7458 or special pay under subsection (g) of such section 7452.
 
 (3)
 
@@ -407,7 +420,7 @@ Amendment by section 302(c) of Pub. L. 108–170 effective at end of 180-day per
   (C) Notwithstanding the provisions of subsection (d) of [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim), the Secretary may make any certification under that subsection instead of the Office of Personnel Management and without concurrence of the Office of Management and Budget.
 
 **(b)** The grades for positions provided for in paragraph (1) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) shall be as follows. The annual ranges of rates of basic pay for those grades shall be prescribed from time to time by Executive order as authorized by chapter 53 of title 5 or as otherwise authorized by law:
-physician and surgeon (md/do), podiatrist, and dentist and oral surgeon (dds, dmd) schedule
+physician and surgeon (md/do), podiatrist (dpm), and dentist and oral surgeon (dds, dmd) schedule
 Physician and surgeon grade.
 Podiatrist grade.
 Dentist grade.
@@ -424,11 +437,15 @@ Intermediate grade.
 Full grade.
 Associate grade.
 
-**(c)** Notwithstanding the provisions of [section 7425(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7425/a&num=0&edition=prelim), a person appointed under [section 7306 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7306) who is not eligible for pay under subchapter III shall be deemed to be a career appointee for the purposes of sections 4507 and 5384 of title 5.
+**(c)**
+
+(1) Notwithstanding the provisions of [section 7425(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7425/a&num=0&edition=prelim), a person appointed under section 7306 or 7401(4) of this title or in a covered executive position under [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim) shall be deemed to be a career appointee for the purposes of [section 4507 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4507&num=0&edition=prelim).
+
+(2) In this subsection, the term “covered executive position” means a position that the Secretary has determined is of equivalent rank to a Senior Executive Service position (as such term is defined in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim)) and is subject to an agency performance management system.
 
 **(d)** Except as provided under subsection (e), subchapter III, and [section 7457 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7457), and except for individuals appointed under sections 7401(4) and 7306 of this title, pay for positions for which basic pay is paid under this section may not be paid at a rate in excess of the rate of basic pay authorized by [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim) for positions in Level V of the Executive Schedule.
 
-**(e)** The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of [section 7451 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7451) and shall be paid at a rate determined by the Secretary, not to exceed the maximum rate established for the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim).
+**(e)** The position of Chief Nursing Officer, Office of Nursing Services, shall be exempt from the provisions of [section 7451 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7451) and shall be paid basic pay at a rate determined by the Secretary, not to exceed the maximum rates established under subchapter IV of this chapter.
 
 ### Statutory Notes
 
@@ -444,9 +461,21 @@ Pub. L. 115–182, title V, § 502(b)(1), June 6, 2018, 132 Stat. 1475, which di
 Provisions similar to those in this section were contained in section 4107(a)–(d) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2022—Subsec. (a)(1)(B). Pub. L. 117–168, § 904(b), inserted “7306 or” before “7401(4)”.
+
+Subsec. (a)(2). Pub. L. 117–103, § 102(b)(1), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Pub. L. 117–96, § 1(b)(1), inserted “, podiatrists,” after “physicians”.
+
+Subsec. (b). Pub. L. 117–96, § 1(b)(2), substituted “podiatrist (dpm)” for “podiatrist” in first heading in table.
+
+Subsec. (c). Pub. L. 117–168, § 906(a), designated existing provisions as par. (1), inserted “or 7401(4)” after “section 7306”, substituted “or in a covered executive position under [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim)” for “who is not eligible for pay under subchapter III” and “section 4507” for “sections 4507 and 5384”, and added par. (2).
+
+Subsec. (e). Pub. L. 117–103, § 102(b)(2), inserted “basic pay” after “paid” and substituted “rates established under subchapter IV of this chapter” for “rate established for the Senior Executive Service under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim)”.
+
 2020—Subsec. (d). Pub. L. 116–146 inserted “and except for individuals appointed under sections 7401(4) and 7306 of this title,” after “[section 7457 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7457),”.
 
-2019—Subsec. (b). Pub. L. 116–12 substituted “podiatrist” for “podiatric surgeon (dpm)” as first heading in table and inserted item relating to Podiatrist grade under that heading.
+2019—Subsec. (b). Pub. L. 116–12 substituted “podiatrist” for “podiatric surgeon (dpm)” in first heading in table and inserted item relating to Podiatrist grade under that heading.
 
 2018—Subsec. (b). Pub. L. 115–182 substituted “physician and surgeon (md/do), podiatric surgeon (dpm), and dentist and oral surgeon (dds, dmd) schedule” for “physician and dentist schedule” as first heading in table and “Physician and surgeon grade” for “Physician grade” as first item under that heading and substituted “chiropractor, and” for “podiatrist, chiropractor, and” in third heading in table. See Codification note above.
 
@@ -498,6 +527,28 @@ For adjustment of pay rates under this section, see the executive order detailin
 
 #### Executive Order No. 12438
 Ex. Ord. No. 12438, Aug. 23, 1983, 48 F.R. 39205, which related to review of increases in rates of basic pay for employees of the Veterans’ Administration, was revoked by Ex. Ord. No. 12797, Apr. 3, 1992, 57 F.R. 11671, set out as a note under [section 7455 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7455).
+
+
+<a id="section-7404a"></a>
+## § 7404A. Awards
+**(a) Superior Accomplishments and Performance Awards Program.—** The Secretary may establish an awards program for personnel listed in [section 7421(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7421/b&num=0&edition=prelim) consistent with chapter 45 of title 5, to the extent practicable.
+
+**(b) Executive Performance Awards Program.—** Notwithstanding [section 7425 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7425) or any other provision of law, the Secretary may establish a performance awards program consistent with [section 5384 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5384&num=0&edition=prelim) for—
+
+(1) personnel appointed under [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim) for a position that the Secretary has determined is of equivalent rank to a Senior Executive Service position (as such term is defined in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim)) and is subject to an agency performance management system; and
+
+(2) personnel appointed under section 7306 or 7401(4) of this title.
+
+**(c) Payment of Awards.—** Awards under this section may be paid based on criteria established by the Secretary and shall not be considered in calculating the limitation under [section 7431(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/e/4&num=0&edition=prelim).
+
+**(d) Not Considered Basic Pay.—** Awards under this section shall not be considered basic pay for any purpose.
+
+**(e) Regulations.—** The Secretary may prescribe regulations for the administration of this section.
+
+### Statutory Notes
+
+#### Limitation on Past Awards
+Pub. L. 117–168, title IX, § 906(b)(2), Aug. 10, 2022, 136 Stat. 1812, provided that: “Notwithstanding any other provision of law, awards made by the Secretary of Veterans Affairs for any period on or after January 1, 2017, and before the date of the enactment of this Act [Aug. 10, 2022] for an employee under section 7306 or 7401(4) of title 38, United States Code, or for a position described in section 7401(1) of such title that the Secretary has determined is of equivalent rank to a Senior Executive Service position (as such term is defined in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim), United States Code), may be subject to [section 7404A of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7404a), United States Code, as added by paragraph (1).”
 
 
 <a id="section-7405"></a>
@@ -757,7 +808,11 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 
 <a id="section-7410"></a>
 ## § 7410. Additional pay authorities
-**(a) In General.—** The Secretary may authorize the Under Secretary for Health to pay advance payments, recruitment or relocation bonuses, and retention allowances to the personnel described in paragraph (1) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401), or interview expenses to candidates for appointment as such personnel, in the same manner, and subject to the same limitations, as in the case of the authority provided under sections 5524a, 5706b, 5753, and 5754 of title 5.
+**(a) In General.—**
+
+(1) The Secretary may authorize the Under Secretary for Health to pay advance payments, recruitment or relocation bonuses, and retention allowances to personnel appointed under [section 7306 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7306) or [section 7401(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/4&num=0&edition=prelim), or personnel described in [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim),,11 So in original. or interview expenses to candidates for appointment as such personnel, in a manner consistent with the authority provided under sections 5524a, 5706b, 5753, and 5754 of title 5.
+
+(2) Payments under paragraph (1) shall not be considered in calculating the limitation under [section 7431(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/e/4&num=0&edition=prelim).
 
 **(b) Special Incentive Pay for Department Pharmacist Executives.—**
 
@@ -786,9 +841,14 @@ Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on D
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–168 designated existing provisions as par. (1), substituted “personnel appointed under [section 7306 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7306) or [section 7401(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/4&num=0&edition=prelim), or personnel described in [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim),” for “the personnel described in paragraph (1) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401)” and “in a manner consistent with” for “in the same manner, and subject to the same limitations, as in the case of”, and added par. (2).
+
 2010—Pub. L. 111–163 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1992—Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+
+#### Treatment of Pay Authority Changes
+Pub. L. 117–168, title IX, § 906(c)(4), Aug. 10, 2022, 136 Stat. 1813, provided that: “For the purposes of the amendments made by paragraph (3) [amending this section], the Secretary of Veterans Affairs shall treat any award or payment made by the Secretary between January 1, 2017, and the date of the enactment of this Act [Aug. 10, 2022] to employees appointed under sections 7306, 7401(1), and 7401(4) of title 38, United States Code, that the Secretary has determined are of equivalent rank to a Senior Executive Service position (as such term is defined in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim), United States Code), as if such amendments had been in effect at the time of such award or payment.”
 
 
 <a id="section-7411"></a>
@@ -833,7 +893,7 @@ Section 502(a)(1) of Pub. L. 115–182, which directed that this section be adde
 
 <a id="section-7421"></a>
 ## § 7421. Personnel administration: in general
-**(a)** Notwithstanding any law, Executive order, or regulation, the Secretary shall prescribe by regulation the hours and conditions of employment and leaves of absence of employees appointed under any provision of this chapter in positions in the Veterans Health Administration listed in subsection (b).
+**(a)** Notwithstanding any law, Executive order, or regulation, the Secretary shall prescribe by regulation the hours and conditions of employment and leaves of absence of employees appointed under any provision of this title in positions in the Veterans Health Administration listed in subsection (b).
 
 **(b)** Subsection (a) refers to the following positions:
 
@@ -853,16 +913,25 @@ Section 502(a)(1) of Pub. L. 115–182, which directed that this section be adde
 
 (8) Chiropractors.
 
+(9) Any position for which the employee is appointed under section 7306 or 7401(4) of this title.
+
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 4108(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4108/a&num=0&edition=prelim) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–168, § 906(c)(1)(A), substituted “this title” for “this chapter”.
+
+Subsec. (b)(9). Pub. L. 117–168, § 906(c)(1)(B), added par. (9).
+
 2003—Subsec. (b)(8). Pub. L. 108–170 added par. (8).
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under [section 7316 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7316).
+
+#### Treatment of Prior Leave Balances
+Pub. L. 117–168, title IX, § 906(c)(5), Aug. 10, 2022, 136 Stat. 1813, provided that: “Notwithstanding any other provision of law, the Secretary [of Veterans Affairs] may adjust the leave balance and carryover leave balance of any employee described in [section 7421(b)(9) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7421/b/9&num=0&edition=prelim), United States Code, as amended by paragraph (1)(B), to ensure any leave accrued or carried over before the date of the enactment of this Act [Aug. 10, 2022] remains available to such employee.”
 
 #### Preservation of Existing Collective-Bargaining Arrangements and Pending Actions
 Pub. L. 102–40, title II, § 205, May 7, 1991, 105 Stat. 207, provided that: “(a) Existing Collective-Bargaining Arrangements.—Any determination under chapter 71 of title 5, United States Code, of a collective bargaining unit within the Veterans Health Administration of the Department of Veterans Affairs, and any recognition under that chapter of an employee labor organization as the exclusive bargaining representative for employees in a collective bargaining unit of the Department of Veterans Affairs, that is in effect on the date of the enactment of this Act [May 7, 1991] shall not be affected by the amendments made by this Act [see Tables for classification] and shall continue in effect in accordance with the terms of such determination or regulation. “(b) Pending Cases.—With respect to cases pending on the date of the enactment of this Act [May 7, 1991], or those cases which are brought before the establishment of either an administrative grievance procedure pursuant to [section 7463 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7463), United States Code (as added by the amendments made by this title), or a negotiated grievance procedure established under a collective bargaining agreement, such cases shall proceed in the same manner as they would have if this Act [see Tables for classification] had not been enacted.”
@@ -899,6 +968,8 @@ Pub. L. 102–40, title II, § 205, May 7, 1991, 105 Stat. 207, provided that: �
 
   (C) The Secretary may prescribe regulations to implement this paragraph, including regulations making adjustments to address the annual hours requirement for physicians who are covered by this paragraph for only a portion of a calendar year.
 
+  (D) The Secretary may exclude from the requirements of paragraph (1) employees hired under section 7306 or 7401(4) of this title or for a position described in [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim) that the Secretary has determined is of equivalent rank to a Senior Executive Service position (as such term is defined in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim)).
+
 **(b)** A person covered by subsection (a) may not do any of the following:
 
 (1) Teach or provide consultative services at any affiliated institution if such teaching or consultation will, because of its nature or duration, conflict with such person’s responsibilities under this title.
@@ -925,7 +996,7 @@ Pub. L. 102–40, title II, § 205, May 7, 1991, 105 Stat. 207, provided that: �
 
 **(e)**
 
-(1) The Secretary shall establish a leave transfer program for the benefit of health-care professionals in positions listed in [section 7401(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7401/1&num=0&edition=prelim). The Secretary may also establish a leave bank program for the benefit of such health-care professionals.
+(1) The Secretary shall establish a leave transfer program for the benefit of health-care professionals in positions listed in [section 7421(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7421/b&num=0&edition=prelim). The Secretary may also establish a leave bank program for the benefit of such health-care professionals.
 
 (2) To the maximum extent feasible—
 
@@ -954,6 +1025,10 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 Provisions similar to those in this section were contained in section 4108(a), (c), and (e) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2022—Subsec. (a)(2)(D). Pub. L. 117–168, § 906(c)(2)(A), added subpar. (D).
+
+Subsec. (e)(1). Pub. L. 117–168, § 906(c)(2)(B), substituted “7421(b)” for “7401(1)”.
+
 2016—Subsec. (a). Pub. L. 114–315 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), the hours” for “The hours”, and added par. (2).
 
 1996—Subsec. (b). Pub. L. 104–262, § 347(a), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “Assume responsibility for the medical care of any patient other than a patient admitted for treatment at a Department facility, except in those cases where the person, upon request and with the approval of the Under Secretary for Health, assumes such responsibilities to assist communities or medical practice groups to meet medical needs which would not otherwise be available for a period not to exceed 180 calendar days, which may be extended by the Under Secretary for Health for additional periods not to exceed 180 calendar days each.”
@@ -1145,7 +1220,7 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 
 (3) The sum of the total amount of the annual rate of base pay payable to a physician, podiatrist, or dentist under subsection (b) and the market pay determined for the physician, podiatrist, or dentist under subsection (c) may exceed the maximum amount applicable to the specialty or assignment of the physician, podiatrist, or dentist under paragraph (1) as a result of an adjustment under paragraph (3) or (4) of subsection (b).
 
-(4) In no case may the total amount of compensation paid to a physician, podiatrist, or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
+(4) Except as provided in sections 7404A(c) and 7410(a)(2) of this title, in no case may the total amount of compensation paid to a physician, podiatrist, or dentist under this title in any year exceed the amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim).
 
 **(f) Treatment of Pay.—** Pay under subsections (b) and (c) of this section shall be considered pay for all purposes, including retirement benefits under chapters 83 and 84 of title 5 and other benefits.
 
@@ -1163,6 +1238,8 @@ Provisions similar to those in this section were contained in sections 4107(i) a
 A prior section 7431, added Pub. L. 102–40, title I, § 102, May 7, 1991, 105 Stat. 188; amended Pub. L. 102–405, title III, § 302(c)(1), Oct. 9, 1992, 106 Stat. 1984, related to authority of Secretary to provide for special pay, prior to the general amendment of this subchapter by Pub. L. 108–445.
 
 #### Amendments
+2022—Subsec. (e)(4). Pub. L. 117–168 substituted “Except as provided in sections 7404A(c) and 7410(a)(2) of this title, in no case” for “In no case”.
+
 2019—Pub. L. 116–12, § 1(b)(1)(A)–(E), substituted “physician, podiatrist, or dentist” for “physician or dentist”, “physicians, podiatrists, or dentists” for “physicians or dentists”, “physician, podiatrist, and dentist” for “physician and dentist”, “physicians, podiatrists, and dentists” for “physicians and dentists”, and “Physician, Podiatrist, and Dentist” for “Physician and Dentist” wherever appearing.
 
 Subsec. (e)(1)(A). Pub. L. 116–12, § 1(b)(1)(F), inserted “podiatrists and” before “dentists.”
@@ -1265,7 +1342,7 @@ Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and
 
   (B) Physician assistant.
 
-  (C) Such positions referred to in paragraphs (1) and (3) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) (other than the positions of physician, dentist, registered nurse, and physician assistant) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
+  (C) Such positions referred to in paragraphs (1) and (3) of [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401) (other than the positions of physician, dentist, registered nurse, physician assistant, and podiatrist) as the Secretary may determine upon the recommendation of the Under Secretary for Health.
 
 (3)
 
@@ -1285,7 +1362,19 @@ Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and
 
 (1) For each grade in a covered position, there shall be a range of basic pay. The maximum rate of basic pay for a grade shall be 133 percent of the minimum rate of basic pay for the grade, except that, if the Secretary determines that a higher maximum rate is necessary with respect to any such grade in order to recruit and retain a sufficient number of high-quality health-care personnel, the Secretary may raise the maximum rate of basic pay for that grade to a rate not in excess of 175 percent of the minimum rate of basic pay for the grade. Whenever the Secretary exercises the authority under the preceding sentence to establish the maximum rate of basic pay at a rate in excess of 133 percent of the minimum rate for that grade, the Secretary shall, in the next annual report required by subsection (g),11 See References in Text note below. provide justification for doing so to the Committees on Veterans’ Affairs of the Senate and House of Representatives.
 
-(2) The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under section 5316 1 of title 5. The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.
+(2)
+
+  (A) The maximum rate of basic pay for any grade for a covered position may not exceed—
+
+    (i) in the case of an advanced practice nurse, the maximum rate of basic pay established for positions in level I of the Executive Schedule under [section 5312 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim);
+
+    (ii) in the case of a physician assistant, the maximum rate of basic pay established for positions in level I of the Executive Schedule under [section 5312 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim);
+
+    (iii) in the case of a registered nurse, the maximum rate of basic pay established for positions in level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim); and
+
+    (iv) in the case of any other covered position, the maximum rate of basic pay established for positions in level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
+
+  (B) The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in subparagraph (A).
 
 (3) The range of basic pay for each such grade shall be divided into equal increments, known as “steps”. The Secretary shall prescribe the number of steps. Each grade in a covered position shall have the same number of steps. Rates of pay within a grade may not be established at rates other than whole steps. Any increase (other than an adjustment under subsection (d)) within a grade in the rate of basic pay payable to an employee in a covered position shall be by one or more of such step increments.
 
@@ -1380,11 +1469,13 @@ Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and
 #### References in Text
 Subsection (g), referred to in subsec. (c)(1), was repealed and subsec. (h), which did not relate to annual reports, was redesignated (g) by Pub. L. 106–419, title II, § 201(a)(4), Nov. 1, 2000, 114 Stat. 1840.
 
-Level IV of the Executive Schedule, referred to in subsec. (c)(2), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
-
 The General Schedule, referred to in subsec. (d)(1)(A), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (a)(2)(C). Pub. L. 117–103, § 102(a)(1), substituted “physician assistant, and podiatrist” for “and physician assistant”.
+
+Subsec. (c)(2). Pub. L. 117–103, § 102(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim). The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
+
 2017—Subsec. (a)(2)(B), (C). Pub. L. 115–46 added subpar. (B), redesignated former subpar. (B) as (C), and, in subpar. (C), substituted “registered nurse, and physician assistant” for “and registered nurse”.
 
 2010—Subsec. (c)(2). Pub. L. 111–163, § 601(g), (h), substituted “level IV” for “level V” and inserted at end “The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
@@ -1500,7 +1591,7 @@ Pub. L. 105–368, title IX, § 905, Nov. 11, 1998, 112 Stat. 3361, provided tha
 Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under [section 1710 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710).
 
 #### Nursing Personnel Qualification Standards
-Pub. L. 102–585, title III, § 305, Nov. 4, 1992, 106 Stat. 4952, provided that: “(a) Revision.—The Secretary of Veterans Affairs shall conduct a review of the qualification standards used for nursing personnel at Department health-care facilities and the relationship between those standards and the compression of nursing personnel in the existing intermediate and senior grades. Based upon that review, the Secretary shall revise those qualification standards—“(1) to reflect the five grade levels for nursing personnel under the Nurse Schedule [see [38 U.S.C. 7404(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/b/1&num=0&edition=prelim)], as amended by section 301; and “(2) to reduce the compression of nursing personnel in the existing intermediate and senior grades. “(b) Deadline For Prescribing Standards.—The Secretary shall prescribe revised qualification standards for nursing personnel pursuant to subsection (a) not later than six months after the date of the enactment of this Act [Nov. 4, 1992]. “(c) Report.—The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary’s findings and actions under this section. The report shall be submitted not later than six months after the date on which revised qualification standards for nursing personnel are prescribed pursuant to subsection (b).”
+Pub. L. 102–585, title III, § 305, Nov. 4, 1992, 106 Stat. 4952, provided that: “(a) Revision.—The Secretary of Veterans Affairs shall conduct a review of the qualification standards used for nursing personnel at Department health-care facilities and the relationship between those standards and the compression of nursing personnel in the existing intermediate and senior grades. Based upon that review, the Secretary shall revise those qualification standards—“(1) to reflect the five grade levels for nursing personnel under the Nurse Schedule [see [38 U.S.C. 7404(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/b&num=0&edition=prelim)], as amended by section 301; and “(2) to reduce the compression of nursing personnel in the existing intermediate and senior grades. “(b) Deadline For Prescribing Standards.—The Secretary shall prescribe revised qualification standards for nursing personnel pursuant to subsection (a) not later than six months after the date of the enactment of this Act [Nov. 4, 1992]. “(c) Report.—The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary’s findings and actions under this section. The report shall be submitted not later than six months after the date on which revised qualification standards for nursing personnel are prescribed pursuant to subsection (b).”
 
 #### Report on Pay for Chief Nurse Position
 Pub. L. 102–585, title III, § 306, Nov. 4, 1992, 106 Stat. 4952, required the Secretary of Veterans Affairs to conduct a review of the process for determining the rate of basic pay applicable to the Chief Nurse position at Department of Veterans Affairs health-care facilities and the relationship between the rate of such basic pay and the rate of basic pay applicable to nurses in positions subordinate to the Chief Nurse at the respective Department facilities, including an assessment of the adequacy of the process in determining an equitable pay rate for the Chief Nurse position, with a report to be submitted to Congress not later than 12 months after Nov. 4, 1992.
@@ -1714,7 +1805,7 @@ Pub. L. 107–135, title I, § 121(b), Jan. 23, 2002, 115 Stat. 2450, provided t
 
   (B) may be made—
 
-    (i) for one or more of the grades listed in the schedules in subsection (b)(1) of [section 7404 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7404);
+    (i) for one or more of the grades listed in the schedules in subsection (b)(1) of section 7404 11 See References in Text note below. of this title;
 
     (ii) for one or more of the health personnel fields within such grades; or
 
@@ -1746,9 +1837,15 @@ Pub. L. 107–135, title I, § 121(b), Jan. 23, 2002, 115 Stat. 2450, provided t
 
 **(c)**
 
-(1) Subject to paragraph (2), the amount of any increase under subsection (a) in the minimum rate for any grade may not (except in the case of nurse anesthetists, licensed practical nurses, licensed vocational nurses, nursing positions otherwise covered by title 5, pharmacists, and licensed physical therapists) exceed the maximum rate of basic pay (excluding any locality-based comparability payment under [section 5304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304&num=0&edition=prelim) or similar provision of law) for the grade or level by more than 30 percent.
+(1) Subject to paragraph (2), the amount of any increase under subsection (a) in the minimum rate for any grade may not (except in the case of nurse anesthetists, licensed practical nurses, licensed vocational nurses, nursing positions otherwise covered by title 5, pharmacists, and licensed physical therapists) exceed the maximum rate of basic pay (excluding any locality-based comparability payment under [section 5304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304&num=0&edition=prelim) or similar provision of law) for the grade or level by more than 50 percent.
 
-(2) No rate may be established under this section in excess of the rate of basic pay payable for level IV of the Executive Schedule.
+(2) No rate may be established under this section in excess of the rate of basic pay payable for level II of the Executive Schedule.
+
+(3)
+
+  (A) Notwithstanding [section 5304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304&num=0&edition=prelim) or any other provision of law, but subject to the limitation under paragraph (2), pursuant to an increase under subsection (a), the Secretary may pay a special rate or an adjusted rate of basic pay in excess of the rate of basic pay payable for level IV of the Executive Schedule.
+
+  (B) If an employee is in receipt of a special rate of pay under subparagraph (A) in excess of the rate of basic pay payable for level IV of the Executive Schedule with an established special rate supplement of greater value than a supplement based on the applicable locality-based comparability payment percentage under [section 5304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304&num=0&edition=prelim), but a pay adjustment would cause such established special rate supplement to be of lesser value, the special rate supplement shall be converted to a supplement based on the applicable locality-based comparability percentage unless the Secretary determines that some other action is appropriate.
 
 **(d)**
 
@@ -1761,12 +1858,22 @@ Pub. L. 107–135, title I, § 121(b), Jan. 23, 2002, 115 Stat. 2450, provided t
 ### Statutory Notes
 
 #### References in Text
-Level IV of the Executive Schedule, referred to in subsec. (c)(2), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
+[Section 7404(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/b&num=0&edition=prelim), referred to in subsec. (a)(1)(B)(i), was amended by Pub. L. 108–445, § 3(a)(1), Dec. 3, 2004, 118 Stat. 2636. As so amended, section 7404(b) no longer contains paragraphs. Schedules appear under section 7404(b).
+
+Level II of the Executive Schedule, referred to in subsec. (c)(2), is set out in [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
+
+Level IV of the Executive Schedule, referred to in subsec. (c)(3), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 4107(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4107/g&num=0&edition=prelim) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–168, § 904(a)(1), substituted “50 percent” for “30 percent”.
+
+Subsec. (c)(2). Pub. L. 117–168, § 904(a)(2), substituted “level II” for “level IV”.
+
+Subsec. (c)(3). Pub. L. 117–168, § 904(a)(3), added par. (3).
+
 2010—Subsec. (c). Pub. L. 111–163 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
 “(c)(1) The amount of any increase under subsection (a) in the maximum rate for any grade may not (except in the case of nurse anesthetists, pharmacists, and licensed physical therapists) exceed by two times the amount by which the maximum for such grade (under applicable provisions of law other than this subsection) exceeds the minimum for such grade (under applicable provisions of law other than this subsection), and the maximum rate as so increased may not exceed the rate paid for individuals serving as Assistant Under Secretary for Health.

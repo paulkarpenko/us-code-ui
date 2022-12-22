@@ -257,7 +257,7 @@ Subsecs. (i) to (k). Pub. L. 114–328, § 1661(b), added subsecs. (i) and (j) a
 Subsecs. (f) to (i). Pub. L. 114–92, § 1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
 #### Effective Date of 2021 Amendment
-Amendment by section 1701(b)(14) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out as a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by section 1701(b)(14) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by section 1845(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -583,7 +583,7 @@ Pub. L. 94–361, title VIII, § 811(a), July 14, 1976, 90 Stat. 933, provided t
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1), (4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1), (4), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Amendments
 2013—Subsec. (a)(2). Pub. L. 112–239, § 585(1)(A), substituted “the professional societies and organizations that support the activities of the American Registry of Pathology” for “those professional societies and organizations which sponsor individual registries of pathology at the Armed Forces Institute of Pathology” and struck out at end “Each such sponsor shall appoint one member to the Board for a term of four years.”
@@ -1059,7 +1059,7 @@ Pub. L. 99–661, div. C, title I, § 3137(b), Nov. 14, 1986, 100 Stat. 4066, pr
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (b)(2)–(5). Pub. L. 117–81, § 903(a)(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
+2021—Subsec. (b)(2) to (5). Pub. L. 117–81, § 903(a)(1), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively. Former par. (5) redesignated (6).
 
 Subsec. (b)(6). Pub. L. 117–81, § 903(a)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
@@ -1071,7 +1071,7 @@ Pub. L. 116–283, § 1850(m), which directed amendment of par. (6) by substitut
 
 Subsec. (c)(1)(F). Pub. L. 116–283, § 924(b)(9), added subpar. (F).
 
-Subsec. (d)(1)(D). Pub. L. 117–81, § 903(a)(2), substituted “who shall serve as the Chief Technical Advisor to the Council and—” and cls. (i) and (ii) for period at end.
+Subsec. (d)(1)(D). Pub. L. 117–81, § 903(a)(2), substituted “Engineering who shall serve as the Chief Technical Advisor to the Council and—” and cls. (i) and (ii) for “Engineering.”
 
 Pub. L. 116–283, § 906(b), substituted “The” for “the”.
 
@@ -1500,7 +1500,7 @@ Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348, p
 
 (6) Establishing, in consultation with the heads of appropriate Federal departments and agencies, a requirement for each military department to implement a separate safety management program for ground vehicles and ships.
 
-(7) Reviewing the proposal of each military department for the safety management systems described in paragraphs (9) and (10).11 So in original. No par. (10) has been enacted.
+(7) Reviewing the proposal of each military department for the safety management systems described in paragraphs (9) and (10).11 So in original.
 
 (8) Reviewing the implementation of such systems by each military department.
 

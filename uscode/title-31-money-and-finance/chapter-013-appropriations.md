@@ -300,9 +300,9 @@ This amends 31:1305(6) to conform to the Smithsonian Institution charter as amen
 #### References in Text
 Section 103(b) of the Housing Act of 1949 ([42 U.S.C. 1453(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1453/b&num=0&edition=prelim)), referred to in par. (5), was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim), The Public Health and Welfare, which terminated the authority to make grants or loans under title I of that Act ([42 U.S.C. 1450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1450&num=0&edition=prelim) et seq.) after Jan. 1, 1975.
 
-The Housing Act of 1950, referred to in par. (8), is act Apr. 20, 1950, ch. 94, 64 Stat. 48, as amended. Title IV of the Housing Act of 1950, which was classified generally to subchapter IX (§ 1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by Pub. L. 99–498, title VII, § 702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The Housing Act of 1950, referred to in par. (8), is act Apr. 20, 1950, ch. 94, 64 Stat. 48. Title IV of the Housing Act of 1950, which was classified generally to subchapter IX (§ 1749 et seq.) of chapter 13 of Title 12, Banks and Banking, was repealed by Pub. L. 99–498, title VII, § 702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
-Section 101 of the Housing and Urban Development Act of 1965, as amended, referred to in par. (9), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted [section 1701s of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701s&num=0&edition=prelim), and amended sections 1451 and 1465 of this title.
+Section 101 of the Housing and Urban Development Act of 1965, referred to in par. (9), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted [section 1701s of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701s&num=0&edition=prelim), and amended sections 1451 and 1465 of this title.
 
 #### Amendments
 1984—Pars. (7) to (10). Pub. L. 98–371 added pars. (7) to (10).
@@ -885,7 +885,7 @@ Pub. L. 110–185 inserted “or 6428” after “section 35”.
 #### Effective Date of 2021 Amendment
 Amendment by section 9611(b)(4)(C) of Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as a note under [section 24 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section24&num=0&edition=prelim), Internal Revenue Code.
 
-Amendment by section 9631(c)(2) of Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9631(d) Pub. L. 117–2, set out as a note under [section 21 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section21&num=0&edition=prelim), Internal Revenue Code.
+Amendment by section 9631(c)(2) of Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9631(d) of Pub. L. 117–2, set out as a note under [section 21 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section21&num=0&edition=prelim), Internal Revenue Code.
 
 Amendment by section 9641(b) of Pub. L. 117–2 applicable to amounts paid with respect to calendar quarters beginning after Mar. 31, 2021, see section 9641(d) of Pub. L. 117–2, set out as an Effective Date note under secton 3131 of Title 26, Internal Revenue Code.
 
@@ -1102,9 +1102,11 @@ Pub. L. 100–463, title VIII, § 8086, Oct. 1, 1988, 102 Stat. 2270–32.
 Pub. L. 100–202, § 101(b) [title VIII, § 8119], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
-Pub. L. 116–260, div. E, title VII, § 702, Dec. 27, 2020, 134 Stat. 1430, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with sub[section 1343(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1343/c&num=0&edition=prelim), United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
+Pub. L. 117–103, div. E, title VII, § 702, Mar. 15, 2022, 136 Stat. 293, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with sub[section 1343(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1343/c&num=0&edition=prelim), United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. E, title VII, § 702, Dec. 27, 2020, 134 Stat. 1430.
 
 Pub. L. 116–93, div. C, title VII, § 702, Dec. 20, 2019, 133 Stat. 2484.
 
@@ -1257,7 +1259,7 @@ July 30, 1947, ch. 359, title II, § 201, 61 Stat. 608.
 
   (A) required for the performance of field work, in accordance with regulations prescribed pursuant to subsection (e) of this section, or
 
-  (B) essential for the safe and efficient performance of intelligence, counterintelligence, protective services, or criminal law enforcement duties,
+  (B) essential for the safe and efficient performance of intelligence, counterintelligence, protective services, or criminal law enforcement duties, or transportation of federally owned canines associated with force protection duties of any part of the intelligence community (as defined in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim))),
   is transportation for an official purpose, when approved in writing by the head of the Federal agency.
 
 (3) For purposes of paragraph (1), the transportation of an individual between such individual’s place of employment and a mass transit facility pursuant to subsection (g) is transportation for an official purpose.
@@ -1397,6 +1399,8 @@ Subsection (b)(2)(B) of this section, referred to in subsec. (d)(3), (4), was re
 Amendment by Pub. L. 104–91 is based on section 118 of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+2022—Subsec. (a)(2)(B). Pub. L. 117–103 inserted “, or transportation of federally owned canines associated with force protection duties of any part of the intelligence community (as defined in section 3 of the National Security Act of 1947 ([50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim)))” after “duties”.
+
 2011—Subsec. (h)(2)(A). Pub. L. 111–350 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a department (as such term is defined in section 18 of the Act of August 2, 1946 ([41 U.S.C. 5a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5a&num=0&edition=prelim)));”.
 
 2005—Subsec. (a)(3). Pub. L. 109–59, § 3049(b)(2), added par. (3).
@@ -1892,7 +1896,7 @@ Subsec. (h)(7). Pub. L. 103–272, § 4(f)(1)(F)(iii), inserted periods after �
 1990—Subsec. (e)(2)(C). Pub. L. 101–512 inserted “or the single family maximum mortgage limit for affected programs, whichever is greater,” after “$150,000,”.
 
 #### Effective Date of 1996 Amendment
-For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1995 Amendment
 Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provided, see section 24 of Pub. L. 104–65, set out as an Effective Date note under [section 1601 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1601&num=0&edition=prelim), The Congress.

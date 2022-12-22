@@ -15,9 +15,9 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Public Law 88–552, referred to in subsec. (a), is act Aug. 31, 1964, 78 Stat. 756, as amended, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 88–552, referred to in subsec. (a), is act Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-Public Law 89–448, referred to in subsec. (a), is Pub. L. 89–448, §§ 1–3, June 14, 1966, 80 Stat. 200, as amended, which enacted sections 835j and 835k of this title and amended [section 832h of this title](./chapter-12b-bonneville-project.md#section-832h).
+Public Law 89–448, referred to in subsec. (a), is Pub. L. 89–448, §§ 1–3, June 14, 1966, 80 Stat. 200, which enacted sections 835j and 835k of this title and amended [section 832h of this title](./chapter-12b-bonneville-project.md#section-832h).
 
 Public Law 89–561, referred to in subsec. (a), is Pub. L. 89–561, §§ 1–6, Sept. 7, 1966, 80 Stat. 707, which enacted sections 835l and 835m of this title and [section 1962d–6 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–6&num=0&edition=prelim), The Public Health and Welfare, and amended sections 835j and 835k of this title.
 
@@ -395,6 +395,9 @@ The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1
 #### Codification
 Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-838n"></a>
 ## § 838n. Columbia Basin power management
@@ -454,7 +457,7 @@ Section was enacted as part of the Infrastructure Investment and Jobs Act, and n
 
 (3) **Coordination** — In conducting the study under paragraph (1), the Administrator shall coordinate, to the extent practicable, with—
 
-  (A) the British Columbia or a crown corporation owned by British Columbia;
+  (A) the 11 So in original. The word “the” probably should not appear. British Columbia or a crown corporation owned by British Columbia;
 
   (B) the Assistant Secretary;
 
@@ -468,3 +471,6 @@ Section was enacted as part of the Infrastructure Investment and Jobs Act, and n
 
 #### Codification
 Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.

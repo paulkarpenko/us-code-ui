@@ -34,7 +34,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in par. (j), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in par. (j), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Amendments
 2008—Par. (i). Pub. L. 110–314 added par. (i) and struck out former par. (i) which read as follows: “The term ‘Commission’ means the Federal Trade Commission.”
@@ -79,7 +79,7 @@ Federal Hazardous Substances Act as not modifying this chapter or regulations pr
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Amendments
 1967—Subsec. (a). Pub. L. 90–189 substituted “or the sale or delivery after a sale or shipment in commerce, of any product, fabric, or related material which fails to conform to an applicable standard or regulation issued or amended under the provisions of [section 1193 of this title](./chapter-025-flammable-fabrics.md#section-1193)” for “or for the purpose of sale or delivery after sale in commerce, of any article of wearing apparel which under the provisions of [section 1193 of this title](./chapter-025-flammable-fabrics.md#section-1193) is so highly flammable as to be dangerous when worn by individuals”.
@@ -292,7 +292,7 @@ Pub. L. 94–284, § 20(b), May 11, 1976, 90 Stat. 515, provided that: “The am
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a), (b), and (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Amendments
 2008—Subsec. (e)(1). Pub. L. 110–314, § 217(a)(3)(A), (B), substituted “$100,000” for “$5,000” and “$15,000,000” for “$1,250,000”.
@@ -340,7 +340,7 @@ The Consumer Product Safety Commission to issue a final regulation providing its
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Amendments
 1967—Subsec. (a). Pub. L. 90–189, § 5(a), inserted “, or a rule or regulation prescribed under section 1194 (c) of this title,” after “[section 1192 of this title](./chapter-025-flammable-fabrics.md#section-1192)” and substituted “for the district in which such person resides or transacts business, or, if such person resides or transacts business in Guam or the Virgin Islands, then in the District Court of Guam or in the District Court of the Virgin Islands (as the case may be)” for “or in the United States court of any Territory for the district or Territory in which such person resides or transacts business”.
@@ -383,7 +383,7 @@ Violation of section 1192 or 1197(b) of this title, or failure to comply with [s
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Amendments
 1967—Subsec. (a). Pub. L. 90–189 substituted “product, fabric, or related material” for “wearing apparel or fabric” wherever appearing and “in accordance with standards issued or amended under the provisions of [section 1193 of this title](./chapter-025-flammable-fabrics.md#section-1193) show that the fabric or related material covered by the guaranty, or used in the product covered by the guaranty, conforms with applicable flammability standards issued or amended under the provisions of [section 1193 of this title](./chapter-025-flammable-fabrics.md#section-1193)” for “under the procedures provided in [section 1193 of this title](./chapter-025-flammable-fabrics.md#section-1193) show that the fabric covered by the guaranty, or used in the wearing apparel covered by the guaranty, is not, under the provisions of [section 1193 of this title](./chapter-025-flammable-fabrics.md#section-1193), so highly flammable as to be dangerous when worn by individuals”, added cl. (2), and redesignated former cl. (2) as (3).
@@ -553,7 +553,7 @@ The provisions of this section establishing the extent to which the Flammable Fa
 ### Statutory Notes
 
 #### References in Text
-The Flammable Fabrics Act, referred to in subsec. (b), is act June 30, 1953, ch. 164, 67 Stat. 111, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1191 of this title](./chapter-025-flammable-fabrics.md#section-1191) and Tables.
+The Flammable Fabrics Act, referred to in subsec. (b), is act June 30, 1953, ch. 164, 67 Stat. 111, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1191 of this title](./chapter-025-flammable-fabrics.md#section-1191) and Tables.
 
 #### Prior Provisions
 A prior section 1204, act June 30, 1953, ch. 164, § 17, as added Dec. 14, 1967, Pub. L. 90–189, § 10, 81 Stat. 574; amended May 11, 1976, Pub. L. 94–284, § 19, 90 Stat. 514, related to the National Advisory Committee for Flammable Fabrics Act, prior to repeal by Pub. L. 97–35, title XII, § 1205(b), Aug. 13, 1981, 95 Stat. 716, eff. Aug. 13, 1981.

@@ -5504,7 +5504,7 @@ Section applicable after the end of the 6-month period beginning on Sept. 30, 19
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Effective Date
 Section applicable after the end of the 6-month period beginning on Sept. 30, 1996, except with respect to contracts entered into by a credit repair organization before the end of such period, see section 413 of Pub. L. 90–321, as added by Pub. L. 104–208, set out as a note under [section 1679 of this title](./chapter-041-consumer-credit-protection.md#section-1679).
@@ -6384,7 +6384,7 @@ Pub. L. 104–208, div. A, title II, § 2404(c), Sept. 30, 1996, 110 Stat. 3009�
 ### Statutory Notes
 
 #### References in Text
-The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
+The Bankruptcy Act, referred to in subsec. (a)(1), was act July 1, 1898, ch. 541, 30 Stat. 544, which was classified to section 1 et seq. of former Title 11, Bankruptcy, prior to its repeal by Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2549, section 101 of which enacted revised Title 11.
 
 Section 302(c)(5) of the Economic Growth, Regulatory Relief, and Consumer Protection Act, referred to in subsec. (a)(7), (8), is section 302(c)(5) of Pub. L. 115–174, which is set out as a note below.
 
@@ -6584,7 +6584,7 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 (3) **Victim of trafficking** — The term “victim of trafficking” means a person who is a victim of a severe form of trafficking in persons or sex trafficking.
 
-**(b) Adverse Information** A consumer reporting agency may not furnish a consumer report containing any adverse item of information about a consumer that resulted from a severe form of trafficking in persons or sex trafficking if the consumer has provided trafficking documentation to the consumer reporting agency.
+**(b) Adverse information** A consumer reporting agency may not furnish a consumer report containing any adverse item of information about a consumer that resulted from a severe form of trafficking in persons or sex trafficking if the consumer has provided trafficking documentation to the consumer reporting agency.
 
 **(c) Rulemaking**
 
@@ -6742,7 +6742,7 @@ Section 211(c) of the Fair and Accurate Credit Transactions Act of 2003, referre
 
 [Section 1681a(w) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/w&num=0&edition=prelim), referred to in subsec. (c)(1)(B)(vi), was redesignated [section 1681a(x) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a/x&num=0&edition=prelim) by Pub. L. 111–203, title X, § 1088(a)(1), July 21, 2010, 124 Stat. 2086.
 
-Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
+Public Law 106–102, referred to in subsec. (e)(9)(A), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. Subtitle A of title V of the Act is classified principally to subchapter I (§ 6801 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
 
 #### Amendments
 2010—Pub. L. 111–203 substituted “the Bureau” for “the Commission” wherever appearing.
@@ -8584,7 +8584,7 @@ Section applicable with respect to reports filed or records maintained on, befor
 ### Statutory Notes
 
 #### References in Text
-Public Law 106–102, referred to in subsec. (a)(2)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
+Public Law 106–102, referred to in subsec. (a)(2)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, known as the Gramm-Leach-Bliley Act. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
 
 #### Amendments
 2010—Subsec. (a)(1). Pub. L. 111–203, § 1088(a)(12), substituted “The Federal Trade Commission, the Securities and Exchange Commission, the Commodity Futures Trading Commission, the Federal banking agencies, and the National Credit Union Administration, with respect to the entities that are subject to their respective enforcement authority under [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s),” for “Not later than 1 year after December 4, 2003, the Federal banking agencies, the National Credit Union Administration, and the Commission with respect to the entities that are subject to their respective enforcement authority under [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s), and the Securities and Exchange Commission,”.

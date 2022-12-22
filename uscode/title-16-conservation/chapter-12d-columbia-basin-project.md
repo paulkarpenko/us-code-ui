@@ -14,9 +14,9 @@ In addition to the primary purposes for which the Grand Coulee Dam project (here
 ### Statutory Notes
 
 #### References in Text
-Act of August 30, 1935 (49 Stat. 1028), referred to in text, is act Aug. 30, 1935, ch. 831, 49 Stat. 1028, as amended, which act, by section 2, authorized the construction of the Grand Coulee Dam.
+Act of August 30, 1935 (49 Stat. 1028), referred to in text, is act Aug. 30, 1935, ch. 831, 49 Stat. 1028, which act, by section 2, authorized the construction of the Grand Coulee Dam.
 
-The Reclamation Project Act of 1939, referred to in text, is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, which is classified generally to sections 375a, 387 to 389, 485 to 485h, and 485i to 485k of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 485k of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section485k&num=0&edition=prelim) and Tables.
+The Reclamation Project Act of 1939, referred to in text, is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, which is classified generally to sections 375a, 387 to 389, 485 to 485h, and 485i to 485k of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 485k of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section485k&num=0&edition=prelim) and Tables.
 
 Those two Acts, referred to in text, refer to the act of Aug. 30, 1935, and to the Reclamation Project Act of 1939. See notes above.
 
@@ -73,7 +73,7 @@ Pub. L. 87–728, § 5(a), Oct. 1, 1962, 76 Stat. 679, provided that: “Notwith
 #### References in Text
 This Act, referred to in subsec. (a), is act May 27, 1937, ch. 269, as amended generally by act Mar. 10, 1943, ch. 14, 57 Stat. 14, known as The Columbia Basin Project Act, which enacted this section, sections 835, 835a, 835b, and 835c–1 to 835c–5 of this title, and provisions set out as a note under [section 835 of this title](./chapter-12d-columbia-basin-project.md#section-835). For complete classification of this Act to the Code, see Short Title note set out under [section 835 of this title](./chapter-12d-columbia-basin-project.md#section-835) and Tables.
 
-Act of August 13, 1953, referred to in text, is act Aug. 13, 1953, ch. 428, 67 Stat. 566, as amended, which is classified generally to subchapter VII (§ 451 et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables.
+Act of August 13, 1953, referred to in text, is act Aug. 13, 1953, ch. 428, 67 Stat. 566, which is classified generally to subchapter VII (§ 451 et seq.) of chapter 12 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1962—Subsec. (a). Pub. L. 87–728 struck out provisions stating as a purpose of this section the prevention of speculation in project lands, and deleted from among the duties of the Secretary, those to establish town sites on such lands, and to disseminate information by appropriate means and methods.
@@ -171,7 +171,7 @@ In aid of the construction, operation and maintenance of the Columbia Basin proj
 ### Statutory Notes
 
 #### References in Text
-Act of August 30, 1935 (49 Stat. 1028), referred to in text, is act Aug. 30, 1935, ch. 831, 49 Stat. 1028, as amended, which act, by section 2, authorized the construction of the Grand Coulee Dam.
+Act of August 30, 1935 (49 Stat. 1028), referred to in text, is act Aug. 30, 1935, ch. 831, 49 Stat. 1028, which act, by section 2, authorized the construction of the Grand Coulee Dam.
 
 Act of August 4, 1939, referred to in text, is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, popularly known as the “Reclamation Project Act of 1939”, which is classified to sections 375a, 387 to 389, 485 to 485h, and 485i to 485k of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 485k of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section485k&num=0&edition=prelim) and Tables.
 

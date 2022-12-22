@@ -112,7 +112,7 @@ A contract, and bid specification for a contract, to which this chapter applies 
 Ex. Ord. No. 13495, Jan. 30, 2009, 74 F.R. 6103, which provided for nondisplacement of qualified workers under a successor service contract upon the expiration of the predecessor contract, was revoked by Ex. Ord. No. 13897, § 1, Oct. 31, 2019, 84 F.R. 59709, formerly set out below.
 
 #### Executive Order No. 13897
-Ex. Ord. No. 13897, Oct. 31, 2019, 84 F.R. 59709, which related to the revokation of Ex. Ord. No. 13495, formerly set out above, was revoked by Ex. Ord. No. 14055, § 9, Nov. 18, 2021, 86 F.R. 66400.
+Ex. Ord. No. 13897, Oct. 31, 2019, 84 F.R. 59709, which related to the revocation of Ex. Ord. No. 13495, formerly set out above, was revoked by Ex. Ord. No. 14055, § 9, Nov. 18, 2021, 86 F.R. 66400,set out below.
 
 #### Ex. Ord. No. 14055. Nondisplacement of Qualified Workers Under Service Contracts
 Ex. Ord. No. 14055, Nov. 18, 2021, 86 F.R. 66397, provided:
@@ -123,7 +123,7 @@ Section 1. Policy. When a service contract expires, and a follow-on contract is 
 
 Sec. 2. Definitions.
 
-(a) “Service contract” or “contract” means any contract, contract-like instrument, or subcontract for services entered into by the Federal Government or its contractors that is covered by the Service Contract Act of 1965, as amended, [former] [41 U.S.C. 6701](./chapter-067-service-contract-labor-standards.md#section-6701) et seq. [see [41 U.S.C. 351](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section351&num=0&edition=prelim) et seq.], and its implementing regulations.
+(a) “Service contract” or “contract” means any contract, contract-like instrument, or subcontract for services entered into by the Federal Government or its contractors that is covered by the Service Contract Act of 1965, as amended, [see] [41 U.S.C. 6701](./chapter-067-service-contract-labor-standards.md#section-6701) et seq., and its implementing regulations.
 
 (b) “Employee” means a service employee as defined in the Service Contract Act of 1965, as amended, [41 U.S.C. 6701(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6701/3&num=0&edition=prelim).
 

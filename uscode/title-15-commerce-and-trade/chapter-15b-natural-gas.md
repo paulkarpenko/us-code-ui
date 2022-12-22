@@ -159,9 +159,9 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 ### Statutory Notes
 
 #### References in Text
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (d)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
@@ -235,7 +235,7 @@ Sec. 5. Executive Order No. 8202 of July 13, 1939, is hereby revoked.
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-717c"></a>
@@ -459,9 +459,9 @@ Pub. L. 107–355, § 26, Dec. 17, 2002, 116 Stat. 3012, required the Federal En
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, , which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2005—Pub. L. 109–58 substituted “Process coordination; hearings; rules of procedure” for “Hearings; rules of procedure” in section catchline, added subsecs. (a) to (d), and redesignated former subsecs. (a) and (b) as (e) and (f), respectively.
@@ -528,7 +528,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 ### Statutory Notes
 
 #### References in Text
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), (2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), (2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (b), “[section 1254 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1254&num=0&edition=prelim)” substituted for “sections 239 and 240 of the Judicial Code, as amended [[28 U.S.C. 346](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section346&num=0&edition=prelim), 347]” on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure.
@@ -642,7 +642,7 @@ A prior section 22 of act June 21, 1938, was renumbered section 24 and is classi
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 23 of act June 21, 1938, was renumbered section 25 and is classified to [section 717v of this title](./chapter-15b-natural-gas.md#section-717v).
@@ -707,9 +707,9 @@ Pub. L. 100–474, § 1, Oct. 6, 1988, 102 Stat. 2302, provided that: “This Ac
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Policy Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-060-natural-gas-policy.md#section-3301) and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (c)(3), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-060-natural-gas-policy.md#section-3301) and Tables.
 
-The Natural Gas Act, referred to in subsec. (c)(3), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to this chapter (§ 717 et seq.). For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (c)(3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to this chapter (§ 717 et seq.). For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 #### Codification
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Natural Gas Act which comprises this chapter.
@@ -820,11 +820,11 @@ For definitions of terms used in this section, see [section 2602 of Title 16](ht
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to this chapter (§ 717 et seq.). For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsecs. (a)(2)(A)(i)(II), (b)(1), (c), (e)(5), (9), (11), (12), (f)(2), (3), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to this chapter (§ 717 et seq.). For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
-The Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (e)(10), is Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3291, as amended, which is classified principally to chapter 92 (§ 8301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 8301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8301&num=0&edition=prelim) and Tables.
+The Powerplant and Industrial Fuel Use Act of 1978, referred to in subsec. (e)(10), is Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3291, which is classified principally to chapter 92 (§ 8301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 8301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8301&num=0&edition=prelim) and Tables.
 
-The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-060-natural-gas-policy.md#section-3301) and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (e)(11), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-060-natural-gas-policy.md#section-3301) and Tables.
 
 #### Codification
 Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Natural Gas Act which comprises this chapter.

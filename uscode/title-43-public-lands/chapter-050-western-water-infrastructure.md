@@ -70,11 +70,14 @@ Section 40908, referred to in par. (5)(B), is section 40908 of Pub. L. 117–58,
 
 The Reclamation Safety of Dams Act of 1978, referred to in par. (6), is Pub. L. 95–578, Nov. 2, 1978, 92 Stat. 2471, which is classified generally to subchapter XI–A (§ 506 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title of 1978 note set out under [section 506 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-506) and Tables.
 
-Colorado River Drought Contingency Plan Authorization Act, referred to in par. (8), is Pub. L. 116–14, Apr. 16, 2019, 133 Stat. 850, which is not classified to the Code.
+The Colorado River Drought Contingency Plan Authorization Act, referred to in par. (8), is Pub. L. 116–14, Apr. 16, 2019, 133 Stat. 850, which is not classified to the Code.
 
 The Omnibus Public Land Management Act of 2009, referred to in pars. (9) and (12)(C), is Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 991. Subtitle A of title VI of the Act is classified generally to chapter 18A (§ 1015 et seq.) of Title 16, Conservation. Subtitle E of title IX of the Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-Grand Canyon Protection Act of 1992, referred to in par. (12)(B), is Pub. L. 102–575, title XVIII, Oct. 30, 1992, 106 Stat. 4669, which is not classified to the Code.
+The Grand Canyon Protection Act of 1992, referred to in par. (12)(B), is Pub. L. 102–575, title XVIII, Oct. 30, 1992, 106 Stat. 4669, which is not classified to the Code.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-3202"></a>
@@ -149,6 +152,9 @@ Grand Canyon Protection Act of 1992, referred to in par. (12)(B), is Pub. L. 102
 The Water Infrastructure Improvements for the Nation Act, referred to in subsec. (b)(1)(B), is Pub. L. 114–322, Dec. 16, 2016, 130 Stat. 1628, also known as the WIIN Act. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters, and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-3203"></a>
@@ -226,6 +232,9 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pu
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-3204"></a>
 ## § 3204. Critical maintenance and repair
@@ -261,6 +270,9 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pu
 
 #### References in Text
 The Carey Act, referred to in subsec. (b)(2), is Aug. 18, 1894, ch. 301, § 4, 28 Stat. 422, which is classified to [section 641 of this title](./chapter-014-grants-of-desert-lands-to-states-for-reclamation.md#section-641). For complete classification of this Act to the Code, see Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-3205"></a>
@@ -378,6 +390,9 @@ The Reclamation Wastewater and Groundwater Study and Facilities Act, referred to
 
 The National Environmental Policy Act of 1969, referred to in subsec. (g), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-3206"></a>
 ## § 3206. Drought contingency plan funding requirements
@@ -390,6 +405,11 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g), is Pu
 **(b) Limitation** None of the funds made available under [section 3201(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section3201/8&num=0&edition=prelim) may be used for the operation of the Yuma Desalting Plant.
 
 **(c) Effect** Nothing in [section 3201(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section3201/8&num=0&edition=prelim) limits existing or future opportunities to augment the water supplies of the Colorado River.
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-3207"></a>
@@ -438,6 +458,11 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g), is Pu
 
 (2) in the case of a habitat restoration project that provides benefits to ecological or recreational values in which the nonconsumptive water conservation benefit or habitat restoration benefit accounts for at least 75 percent of the cost of the habitat restoration project, as determined by the Secretary, shall not exceed 75 percent of the cost of the habitat restoration project.
 
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-3208"></a>
 ## § 3208. Federal assistance for groundwater recharge, aquifer storage, and water source substitution projects
@@ -469,3 +494,6 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g), is Pu
 
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (e)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.

@@ -207,7 +207,7 @@ For composition of Interagency Group on Countertrade, see section 2–101 of Ex.
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (c)(4)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of section 2301 of Pub. L. 100–418 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
@@ -913,9 +913,11 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 Barack Obama.
 
 #### Extension of Term of President’s Advisory Council on Doing Business in Africa
-Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extension of term of President’s Advisory Council on Doing Business in Africa was contained in the following prior Executive Order:
+Previous extensions of term of President’s Advisory Council on Doing Business in Africa were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

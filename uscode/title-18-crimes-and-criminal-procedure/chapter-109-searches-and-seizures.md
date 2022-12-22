@@ -63,7 +63,7 @@ The remaining provisions of [section 121 of title 18](https://uscode.house.gov/v
 Minor changes were made in phraseology.
 
 #### References in Text
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801&num=0&edition=prelim) and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to chapter 36 (§ 1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Pub. L. 106–185 added subsecs. (a) to (c), redesignated first and second pars. of former subsec. (c) as subsecs. (d) and (e), respectively, inserted subsec. (e) heading, and struck out former subsecs. (a) and (b) which related to physical interference with search and notice of search, respectively.

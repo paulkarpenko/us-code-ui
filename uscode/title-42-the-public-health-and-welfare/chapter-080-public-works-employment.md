@@ -93,11 +93,11 @@ In addition to the grants otherwise authorized by this chapter, the Secretary is
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in subsec. (e)(2), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (e)(2), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 Act of August 12, 1968, entitled “An Act to insure that certain buildings financed with Federal funds are so designed and constructed as to be accessible to the physically handicapped”, referred to in subsec. (g), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, popularly known as the Architectural Barriers Act of 1968, which is classified generally to chapter 51 (§ 4151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4151 of this title](./chapter-051-design-and-construction-of-public-buildings-to-accommodate-physically-handicapped.md#section-4151) and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (g), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (g), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2016—Subsec. (f)(2). Pub. L. 114–157 substituted “Asian American, Native Hawaiian, Pacific Islanders, African American, Hispanic, Native American, or Alaska Natives” for “Negroes, Spanish-speaking, Orientals, Indians, Eskimos, and Aleuts”.
@@ -190,7 +190,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 <a id="section-6708"></a>
 ## § 6708. Wage standards for laborers and mechanics; enforcement
 
-All laborers and mechanics employed on proj­ects assisted by the Secretary under this chapter shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this chapter for such project without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this provision, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
+All laborers and mechanics employed on projects assisted by the Secretary under this chapter shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this chapter for such project without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this provision, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and [section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -212,7 +212,7 @@ No person shall on the ground of sex be excluded from participation in, be denie
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 
 <a id="section-6710"></a>

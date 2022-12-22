@@ -63,11 +63,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim), Agriculture.
 
-#### Transfer of Functions
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
-
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 Amendment by act Aug. 7, 1956, as applicable to all works of improvements and plans for such works under the provisions of this chapter, see Extension of Benefits note set out under [section 1001 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1001).
+
+#### Transfer of Functions
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 
 <a id="section-1003"></a>
@@ -111,11 +111,11 @@ Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supple
 #### Effective Date of 1981 Amendment
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under [section 4301 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4301&num=0&edition=prelim), Agriculture.
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1002 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1002).
-
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 Amendment by act Aug. 7, 1956, as applicable to all works of improvement and plans for such works under the provisions of this chapter, see Extension of Benefits note set out under [section 1001 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1001).
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1002 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1002).
 
 
 <a id="section-1003a"></a>
@@ -175,14 +175,14 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Effective Date of 1958 Amendment
 Pub. L. 85–865, § 2, Sept. 2, 1958, 72 Stat. 1605, provided that: “The Secretary of Agriculture shall not furnish or agree to furnish financial assistance to local organizations for the institution of works of improvement for fish and wildlife development pursuant to the authority of this Act [amending this section] prior to July 1, 1958.”
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1002 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1002).
-
 #### Public Access to Water Impoundments
 Pub. L. 99–662, title IX, § 930, Nov. 17, 1986, 100 Stat. 4196, provided that: “The Secretary of Agriculture, acting through the Administrator of the Soil Conservation Service, shall study and report to the appropriate committees of the Senate and the House of Representatives by April 1, 1988, on the feasibility, the desirability, and the public interest involved in requiring that public access be provided to any or all water impoundments that have recreation-related potential and that were authorized pursuant to the Watershed Protection and Flood Protection Act (68 Stat. 666; [16 U.S.C. 1001](./chapter-018-watershed-protection-and-flood-prevention.md#section-1001) et seq.).”
 
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 Amendment by act Aug. 7, 1956, as applicable to all works of improvement and plans for such works under the provisions of this chapter, see Extension of Benefits note set out under [section 1001 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1001).
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1002 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1002).
 
 
 <a id="section-1005"></a>
@@ -234,11 +234,11 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim), Agriculture.
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1002 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1002).
-
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 Amendment by act Aug. 7, 1956, as applicable to all works of improvement and plans for such works under the provisions of this chapter, see Extension of Benefits note set out under [section 1001 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1001).
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1002 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1002).
 
 #### Ex. Ord. No. 10584. Rules and Regulations Relating to Administration
 Ex. Ord. No. 10584, Dec. 18, 1954, 19 F.R. 8725, as amended by Ex. Ord. No. 10913, Jan. 18, 1961, 26 F.R. 510, provided:
@@ -350,11 +350,11 @@ Section 13 of the Act of December 22, 1944 (58 Stat. 887), as amended and supple
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under [section 1307 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1307&num=0&edition=prelim), Agriculture.
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1002 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1002).
-
 #### Extension of Benefits to Projects Authorized Before Aug. 7, 1956
 Section as applicable to all works of improvement and plans for such works under the provisions of this chapter, see Extension of Benefits note set out under [section 1001 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1001).
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 1002 of this title](./chapter-018-watershed-protection-and-flood-prevention.md#section-1002).
 
 
 <a id="section-1006b"></a>
@@ -625,11 +625,11 @@ Pub. L. 105–83, title III, § 334, Nov. 14, 1997, 111 Stat. 1601.
 ### Statutory Notes
 
 #### References in Text
-Section 13 of the Act of December 22, 1944, referred to in subsec. (a)(2)(B), is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 905, as amended, which is not classified to the Code.
+Section 13 of the Act of December 22, 1944, referred to in subsec. (a)(2)(B), is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 905, which is not classified to the Code.
 
 The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a)(2)(C), is act July 28, 1953, ch. 251, 67 Stat. 205. Provisions under the heading “Flood Prevention” are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§ 3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
+The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213. Subtitle H of title XV of the Act is classified generally to subchapter V (§ 3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

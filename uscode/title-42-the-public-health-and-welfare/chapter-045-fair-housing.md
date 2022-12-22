@@ -426,7 +426,7 @@ This Act, referred to in subsec. (a), means Pub. L. 90–284, Apr. 11, 1968, 82 
 
 The Civil Rights Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (f)(4), is title III of Pub. L. 94–135, Nov. 28, 1975, 78 Stat. 728, as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (f)(4), is title III of Pub. L. 94–135, Nov. 28, 1975, 78 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
 
 The Equal Credit Opportunity Act, referred to in subsec. (f)(5), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, as amended, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
@@ -673,7 +673,7 @@ J.R. Biden, Jr.
 #### References in Text
 Public Law 88–352, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, known as the Civil Rights Act of 1964. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
-Title VIII of Public Law 90–284, referred to in subsec. (a), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, known as the Fair Housing Act, which is classified principally to subchapter I (§ 3601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
+Title VIII of Public Law 90–284, referred to in subsec. (a), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, known as the Fair Housing Act, which is classified principally to subchapter I (§ 3601 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing and Community Development Act of 1987, and not as part of title VIII of Pub. L. 90–284, popularly known as the Fair Housing Act, which comprises this subchapter.
@@ -1286,7 +1286,7 @@ Any amount appropriated under this section shall remain available until expended
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1968, referred to in subsecs. (a)(1), (b)(1), (2)(C), (c)(1), and (d), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§ 3601 et seq.) of this chapter. For complete classification of these Acts to the Code, see Short Title notes set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
+The Civil Rights Act of 1968, referred to in subsecs. (a)(1), (b)(1), (2)(C), (c)(1), and (d), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§ 3601 et seq.) of this chapter. For complete classification of these Acts to the Code, see Short Title notes set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
 
 The Fair Housing Act Amendments of 1988, referred to in subsec. (d)(1), probably means the Fair Housing Amendments Act of 1988, Pub. L. 100–430, Sept. 13, 1988, 102 Stat. 1619, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
 
@@ -1358,7 +1358,7 @@ If any provision of this subchapter or the application thereof to any person or 
 <a id="section-3631"></a>
 ## § 3631. Violations; penalties
 
-Whoever, whether or not acting under color of law, by force or threat of force willfully injuries, intimidates or interferes with, or attempts to injure, intimidate or interfere with—
+Whoever, whether or not acting under color of law, by force or threat of force willfully injures, intimidates or interferes with, or attempts to injure, intimidate or interfere with—
 
 **(a)** any person because of his race, color, religion, sex, handicap (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), familial status (as such term is defined in [section 3602 of this title](./chapter-045-fair-housing.md#section-3602)), or national origin and because he is or has been selling, purchasing, renting, financing, occupying, or contracting or negotiating for the sale, purchase, rental, financing or occupation of any dwelling, or applying for or participating in any service, organization, or facility relating to the business of selling or renting dwellings; or
 

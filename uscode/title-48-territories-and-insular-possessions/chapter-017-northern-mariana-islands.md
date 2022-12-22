@@ -30,9 +30,6 @@ Pub. L. 115–218, § 1, July 24, 2018, 132 Stat. 1547, provided that: “This A
 #### Short Title of 2017 Amendment
 Pub. L. 115–53, § 1, Aug. 22, 2017, 131 Stat. 1091, provided that: “This Act [amending [section 1806 of this title](./chapter-017-northern-mariana-islands.md#section-1806)] may be cited as the ‘Northern Mariana Islands Economic Expansion Act’.”
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of this title](./chapter-014-trust-territory-of-the-pacific-islands.md#section-1681).
-
 #### Applicability of Requirement of United States Citizenship or Nationality as Prerequisite of Any Benefit, Right, Etc., to Citizens of Northern Mariana Islands
 Pub. L. 98–213, §§ 17–25, Dec. 8, 1983, 97 Stat. 1463–1466, exempted citizens of Northern Mariana Islands from laws prohibiting United States Government from compensating or employing noncitizens and from requirement of United States citizenship in certain Federal laws providing Federal services or financial assistance to Northern Mariana Islands, authorized President to issue proclamations exempting citizens of Northern Mariana Islands from United States citizenship or nationality requirements of certain statutes, provided that if President failed to timely issue a proclamation, the requirement of United States citizenship or nationality as a prerequisite of any benefit, right, privilege, or immunity in any statute made applicable to the Northern Mariana Islands would not apply to citizens of the Northern Mariana Islands, provided that Pub. L. 98–213 did not extend to Northern Mariana Islands any statutory provision or regulation, particularly statutes relating to immigration and nationality, not otherwise applicable to or within Northern Mariana Islands, provided for termination of President’s authority to issue proclamations upon establishment of Commonwealth of the Northern Mariana Islands, defined terms, and provided for merger of benefits acquired under Pub. L. 98–213 into those acquired by virtue of United States citizenship unless recipient exercised his privilege to become a national but not a citizen of United States.
 
@@ -372,6 +369,9 @@ Joannes B. Taimanao.
 Pedro A. Tenorio.”
 
 [Pub. L. 110–229, title VII, § 702(g)(2), May 8, 2008, 122 Stat. 864, provided that: “The amendments made by paragraph (1) [amending Covenant set out above] shall take effect on the transition program effective date described in section 6 of Public Law 94–241 [[48 U.S.C. 1806](./chapter-017-northern-mariana-islands.md#section-1806)] (as added by subsection (a)).” ]
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of this title](./chapter-014-trust-territory-of-the-pacific-islands.md#section-1681).
 
 #### Proc. No. 4534. Constitution of Northern Mariana Islands
 Proc. No. 4534, Oct. 24, 1977, 42 F.R. 56593, provided:
@@ -1091,11 +1091,11 @@ Amendment by Pub. L. 98–454 effective on ninetieth day following Oct. 5, 1984,
 #### Effective Date
 For effective date of this section, see [section 1825 of this title](./chapter-017-northern-mariana-islands.md#section-1825) and Effective Date of Constitution note thereunder.
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of this title](./chapter-014-trust-territory-of-the-pacific-islands.md#section-1681).
-
 #### Extension of Term of District Judges
 Extension of term of district court judges to ten years applicable to judges holding office on Oct. 5, 1984, see section 1004 of Pub. L. 98–454, set out as a note under [section 1424b of this title](./chapter-8a-guam.md#section-1424b).
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of this title](./chapter-014-trust-territory-of-the-pacific-islands.md#section-1681).
 
 
 <a id="section-1822"></a>

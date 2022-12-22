@@ -1369,7 +1369,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2018—Subsec. (b)(2). Pub. L. 115–334, § 12405(c), substituted “Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs” for “Under Secretary of Agriculture for Farm and Foreign Agricultural Services”.
@@ -2305,7 +2305,7 @@ Small businesses shall be provided adequate and fair opportunity to participate 
 ### Statutory Notes
 
 #### References in Text
-The Food for Progress Act of 1985, referred to in subsec. (l)(1)(C), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736o of this title.
+The Food for Progress Act of 1985, referred to in subsec. (l)(1)(C), is Pub. L. 99–198, title XI, § 1110, Dec. 23, 1985, 99 Stat. 1472, which is classified to section 1736o of this title.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–334, § 3109(a)(1), inserted “, food procured outside of the United States, food voucher, or cash transfer for food” after “agricultural commodity” in introductory provisions.
@@ -4722,7 +4722,7 @@ For delegation of functions of President under this section, see section 1 of Ex
 ### Statutory Notes
 
 #### References in Text
-The Global Environmental Protection Assistance Act of 1989, referred to in subsec. (a)(1), is title VII of Pub. L. 101–240, Dec. 19, 1989, 103 Stat. 2521, as amended, which is classified generally to part VII (§ 2281 et seq.) of subchapter I of chapter 32 and chapter 86 (§ 7901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1989 Amendments note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+The Global Environmental Protection Assistance Act of 1989, referred to in subsec. (a)(1), is title VII of Pub. L. 101–240, Dec. 19, 1989, 103 Stat. 2521, which is classified generally to part VII (§ 2281 et seq.) of subchapter I of chapter 32 and chapter 86 (§ 7901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title of 1989 Amendments note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1991—Subsec. (a)(1). Pub. L. 102–237 substituted “2281 et seq.);” for “462), and—”.

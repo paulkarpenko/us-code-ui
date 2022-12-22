@@ -2742,7 +2742,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The Head Start Act, referred to in subsec. (c), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
+The Head Start Act, referred to in subsec. (c), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 6322, Pub. L. 89–10, title I, § 1120A, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3559; amended Pub. L. 104–134, title I, § 101(b) [title II, § 2754], Apr. 26, 1996, 110 Stat. 1321–77, 1321–150; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, related to fiscal requirements, prior to the general amendment of this subchapter by Pub. L. 107–110. See [section 6321 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6321).
@@ -4553,7 +4553,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(A)(iv), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(A)(iv), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Prior Provisions
 A prior section 6398, Pub. L. 89–10, title I, § 1308, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3590, related to coordination of migrant education activities, prior to the general amendment of this subchapter by Pub. L. 107–110.
@@ -5194,7 +5194,7 @@ Each correctional facility entering into an agreement with a local educational a
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in par. (1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in par. (9), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subtitle I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
@@ -8512,7 +8512,7 @@ Except as otherwise provided, in this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 3201 of Pub. L. 89–10 was classified to [section 6891 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6891&num=0&edition=prelim), prior to repeal by Pub. L. 114–95.
@@ -10709,7 +10709,7 @@ To the extent practicable, the Secretary shall ensure that administrators, teach
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in text, is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 
 <a id="section-7221g"></a>
@@ -11003,7 +11003,7 @@ A local educational agency, or consortium of such agencies where appropriate, is
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in par. (2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in par. (2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 4404 of Pub. L. 89–10 was classified to [section 3124 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3124&num=0&edition=prelim), prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
@@ -13240,120 +13240,137 @@ Pub. L. 107–110, title VII, § 703, Jan. 8, 2002, 115 Stat. 1947, provided tha
 Ex. Ord. No. 13096, Aug. 6, 1998, 63 F.R. 42681, which related to American Indian and Alaska Native education, was revoked by Ex. Ord. No. 13336, § 9(b), Apr. 30, 2004, 69 F.R. 25297, formerly set out below.
 
 #### Executive Order No. 13336
-Ex. Ord. No. 13336, Apr. 30, 2004, 69 F.R. 25295, which established the Interagency Working Group on American Indian and Alaska Native Education and required a study, report, and conference relating to American Indian and Alaska Native students’ achievement under the No Child Left Behind Act of 2001, was revoked by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, set out below.
+Ex. Ord. No. 13336, Apr. 30, 2004, 69 F.R. 25295, which established the Interagency Working Group on American Indian and Alaska Native Education and required a study, report, and conference relating to American Indian and Alaska Native students’ achievement under the No Child Left Behind Act of 2001, was revoked by Ex. Ord. No. 13592, § 5(c), Dec. 2, 2011, 76 F.R. 76607, formerly set out below.
 
-#### Ex. Ord. No. 13592. Improving American Indian and Alaska Native Educational Opportunities and Strengthening Tribal Colleges and Universities
-Ex. Ord. No. 13592, Dec. 2, 2011, 76 F.R. 76603, provided:
+#### Executive Order No. 13592
+Ex. Ord. No. 13592, Dec. 2, 2011, 76 F.R. 76603, which established the White House Initiative on American Indian and Alaska Native Education and the Interagency Working Group on AI/AN education and TCUs, was revoked by Ex. Ord. No. 14049, § 4(b), Oct. 11, 2021, 86 F.R. 57317, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
+#### Ex. Ord. No. 14049. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Native Americans and Strengthening Tribal Colleges and Universities
+Ex. Ord. No. 14049, Oct. 11, 2021, 86 F.R. 57313, provided:
 
-Section 1. Policy. The United States has a unique political and legal relationship with the federally recognized American Indian and Alaska Native (AI/AN) tribes across the country, as set forth in the Constitution of the United States, treaties, Executive Orders, and court decisions. For centuries, the Federal Government’s relationship with these tribes has been guided by a trust responsibility—a long-standing commitment on the part of our Government to protect the unique rights and ensure the well-being of our Nation’s tribes, while respecting their tribal sovereignty. In recognition of that special commitment—and in fulfillment of the solemn obligations it entails—Federal agencies must help improve educational opportunities provided to all AI/AN students, including students attending public schools in cities and in rural areas, students attending schools operated and funded by the Department of the Interior’s Bureau of Indian Education (BIE), and students attending postsecondary institutions, including Tribal Colleges and Universities (TCUs). This is an urgent need. Recent studies show that AI/AN students are dropping out of school at an alarming rate, that our Nation has made little or no progress in closing the achievement gap between AI/AN students and their non-AI/AN student counterparts, and that many Native languages are on the verge of extinction.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-It is the policy of my Administration to support activities that will strengthen the Nation by expanding educational opportunities and improving educational outcomes for all AI/AN students in order to fulfill our commitment to furthering tribal self-determination and to help ensure that AI/AN students have an opportunity to learn their Native languages and histories and receive complete and competitive educations that prepare them for college, careers, and productive and satisfying lives.
+Section 1. Policy. The United States has a unique political and legal relationship with federally recognized Tribal Nations, as set forth in the Constitution of the United States, statutes, treaties, Executive Orders, and court decisions. The Federal Government is committed to protecting the rights and ensuring the well-being of Tribal Nations while respecting Tribal sovereignty and inherent rights of self-determination. In recognition of that commitment and to fulfill the solemn obligations it entails, executive departments and agencies (agencies) must help advance educational equity, excellence, and economic opportunity for Native American students, whether they attend public schools in urban, suburban, or rural communities; are homeschooled; attend primary and secondary schools operated or funded by the Bureau of Indian Education (BIE) of the Department of the Interior; or attend postsecondary educational institutions, including Tribal Colleges and Universities (TCUs).
 
-My Administration is also committed to improving educational opportunities for students attending TCUs. TCUs maintain, preserve, and restore Native languages and cultural traditions; offer a high-quality college education; provide career and technical education, job training, and other career-building programs; and often serve as anchors in some of the country’s poorest and most remote areas.
+For more than a century, the United States imposed educational policies designed to assimilate Native peoples into predominant United States culture that devastated Native American students and their families. Beginning with the Indian Civilization Act of 1819, the United States enacted laws and implemented policies establishing and supporting Indian boarding schools across the Nation. From 1871 onward, federally run Indian boarding schools were used to culturally assimilate Native American children who were forcibly removed from their families and communities and relocated to distant residential facilities where their Native identities, languages, traditions, and beliefs were forcibly suppressed. The conditions in these schools were usually harsh, and sometimes abusive and deadly. Although these policies have ended, their effects and resulting trauma reverberate in Native American communities even today, creating specific challenges that merit Federal attention and response.
 
-Sec. 2. Definitions. (a) “Agency” means any executive department or agency designated by the Secretary of Education and the Secretary of the Interior to participate in this order.
+During the global COVID–19 pandemic, Tribal Nations raced to protect Tribal members and their way of life. Tribal elders are often the keepers of Tribal culture and are critical for the preservation of Native languages, as the vitality of Native culture is inseparably tied to Native languages. Accordingly, my Administration is committed to supporting preservation and revitalization of Native languages. This includes honoring the vibrancy, importance, and strength of Native languages and the traditions, values, and cultural practices that accompany them.
 
-(b) “Indian tribe” means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, [25 U.S.C. 479a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section479a&num=0&edition=prelim) [et seq., now [25 U.S.C. 5130](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130&num=0&edition=prelim) et seq.].
+In addition, the COVID–19 pandemic has amplified long-standing educational inequities that disproportionally affect Native American communities and burden Native American students. In particular, Native American children face significant learning disruption as the digital divide and lack of educational resources put remote learning out of reach for too many. Native American students experienced the greatest decline in undergraduate enrollment in higher education from 2020 to 2021 compared to other student groups. These inequities compound the effects of other disparities faced by Native American women and girls in particular. The spike in gender-based violence during the COVID–19 pandemic has intensified safety concerns for Native American women and girls, who were already victimized at higher rates than other women in the United States.
 
-(c) “American Indian and Alaska Native” means a member of an Indian tribe, as membership is defined by the tribe.
+The Federal Government must put strong focus on early childhood and K–12 educational opportunities. These are important to developing and strengthening Native American communities, and they set the stage for educational advancement and career development, including opportunities to attend TCUs.
 
-(d) “Public school” means a Head Start center or a pre-kindergarten, elementary, or secondary school that is predominantly funded by public means through the Federal Government, a State, a local educational agency, or an Indian tribal government, including a school operated directly by or through contract or grant with the BIE, an Indian tribe, or a State, county, or local government.
+TCUs also merit focused attention, as these institutions are integral and essential to Tribal communities. Their foundation, tradition, and mission are unique, and their cultural grounding is invaluable to providing high-quality education and successful outcomes for Native American students. TCUs fulfill a vital role in maintaining and preserving irreplaceable Native languages and cultural traditions; in promoting excellence in Native American education from early childhood through primary and secondary education, into postsecondary education, and throughout graduates’ careers; in offering an entry point for a career in academia, strong technical and trade school opportunities, job training, and other career-building programs to Native Americans; and in supporting Tribal economic development efforts by building and strengthening a highly skilled Native American workforce. Often, they are the only postsecondary institutions within some of our Nation’s most economically disadvantaged and rural areas. As a result, TCUs provide crucial employment opportunities and services in communities that continue to suffer high rates of unemployment and resulting social and economic distress. The Federal Government therefore reaffirms and strengthens our commitment to Native American communities by investing in TCUs to support their continued growth and success.
 
-(e) “Tribal Colleges and Universities” are those institutions that are chartered by their respective Indian tribes through the sovereign authority of the tribes or by the Federal Government, and defined in section 316 of the Higher Education Act of 1965 ([20 U.S.C. 1059c](./chapter-028-higher-education-resources-and-student-assistance.md#section-1059c)).
+It is the policy of my Administration to advance equity, excellence, and justice in our Nation’s education system and to further Tribal self-governance, including by supporting activities that expand educational opportunities and improve educational outcomes for all Native American students. My Administration will help expand opportunities for Native American students to learn their Native languages, histories, and cultural practices; promote indigenous learning through the use of traditional ecological knowledge; and enhance access to complete and competitive educations that prepare Native American students for college, careers, and productive and satisfying lives. This includes supporting educational opportunities for students attending TCUs, given the unique advantages those institutions provide. My Administration is further committed to ensuring all Native American students have the ability to pursue careers that provide economic security for themselves and their families, including Native American women, who currently, on average, earn just 60 cents to every dollar earned by White men. To these ends, my Administration will collaborate with Tribal Nations to collect better data on educational attainment gaps faced by Native American students to help deepen understanding of these gaps, including barriers to workforce participation, and inform solutions.
 
-Sec. 3. White House Initiative on American Indian and Alaska Native Education.
+Sec. 2. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Native Americans and Strengthening Tribal Colleges and Universities. (a) To advance equity in our Nation’s schools, to promote the economic opportunity that follows it, and to fulfill our commitment to furthering Tribal sovereignty, there is established in the Department of Education the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Native Americans and Strengthening Tribal Colleges and Universities (Initiative), of which the Secretary of Education, the Secretary of the Interior, and the Secretary of Labor shall serve as Co-Chairs. The Secretary of Education shall, in consultation with the other Co-Chairs of the Initiative, designate an Executive Director for the Initiative (Executive Director). The Executive Director shall co-chair the Education Committee of the White House Council on Native American Affairs (WHCNAA), established by Executive Order 13647 of June 26, 2013 (Establishing the White House Council on Native American Affairs) [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) note].
 
-(a) Establishment. There is hereby established the White House Initiative on American Indian and Alaska Native Education (Initiative). The Secretary of Education and the Secretary of the Interior will co-chair the Initiative. The Secretary of Education shall appoint an Executive Director who shall be responsible for overseeing implementation of the Initiative. This individual shall be a senior-level, Department of Education official who shall serve as the Secretary of Education’s senior policy advisor on Federal policies affecting AI/AN education.
+(b) The Initiative shall consult and collaborate with Tribal Nations; Alaska Native Entities; TCUs; and State, Tribal, and local educational departments and agencies to advance educational equity, excellence, and economic opportunity for Native Americans by focusing on the following policy goals:
 
-The Executive Director shall work closely with the BIE Director and shall provide periodic reports to the Secretaries of Education and the Interior regarding progress achieved under the Initiative. The Executive Director shall coordinate frequent consultations with tribal officials and shall provide staff support for the National Advisory Council on Indian Education (NACIE), authorized by section 7141 [now 6141] of the Elementary and Secondary Education Act of 1965 (ESEA) ([20 U.S.C. 7471](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7471)).
+(i) increasing the understanding of systemic causes of educational challenges faced by Native American students and working across agencies to address those challenges;
 
-(b) Mission and Functions. (1) The Initiative shall help expand educational opportunities and improve educational outcomes for all AI/AN students, including opportunities to learn their Native languages, cultures, and histories and receive complete and competitive educations that prepare them for college, careers, and productive and satisfying lives, by:
+(ii) supporting and improving data collection related to Native American students and the implementation of evidence-based strategies to increase the participation and success of Native American students in all levels of education and prepare them for careers and civic engagement;
 
-(i) working closely with the Executive Office of the President to help ensure AI/AN participation in the development and implementation of key Administration priorities;
+(iii) increasing the percentage of Native American children and families who participate in high-quality early childhood programs and services that promote healthy development and learning, prepare Native American children for success in school, and affirm the cultural and linguistic identity of Native American children;
 
-(ii) strengthening the relationship between the Department of Education, which has substantial expertise and resources to help improve Indian education, and the Department of the Interior and its BIE, which directly operates or provides grants to tribes to operate an extensive primary, secondary, and college level school system for AI/AN children and young adults;
+(iv) ensuring that all Native American students have access to excellent teachers, school leaders, and other professionals, including by supporting efforts to improve the recruitment, preparation, development, and retention of qualified, diverse teachers, school leaders, and other professionals who understand Native American students’ lived experiences and can effectively meet their students’ academic, social, and emotional needs, particularly in partnership with TCUs;
 
-(iii) coordinating, in consultation with the Department of Education’s Director of Indian Education, programs administered by the Department of Education and other executive branch agencies regarding AI/AN education;
+(v) breaking down barriers that impede the access of higher education institutions that serve Native American students, such as TCUs, to Federal funding, and strengthening the capacity of those institutions to participate in Federal programs and partnerships;
 
-(iv) serving as a liaison with other executive branch agencies on AI/AN issues and advising those agencies on how they might help to promote AI/AN educational opportunities;
+(vi) ensuring that the unique indigenous, cultural, educational, traditional ecological knowledge, and Native language needs of Native American students are met;
 
-(v) reporting on the development, implementation, and coordination of education policy and programs that affect AI/AN students;
+(vii) exploring policies to expand and support career and technical education, job training, and other career-building programs for Native American students and workers; and
 
-(vi) furthering tribal sovereignty by supporting efforts, consistent with applicable law, to build the capacity of tribal educational agencies and TCUs to provide high-quality education services to AI/AN children;
+(viii) furthering Tribal sovereignty by supporting efforts to build the capacity of Tribal educational agencies and TCUs to provide high-quality education services to Native American students.
 
-(vii) developing in partnership with tribal educational agencies a more routine and streamlined process for entering into agreements for educational studies conducted on tribal lands;
+(c) In working to fulfill its mission and objectives, the Initiative shall, consistent with applicable law:
 
-(viii) developing sufficient data resources to inform progress on Federal performance indicators, in close collaboration with the Department of Education’s National Center for Educational Statistics;
+(i) engage in regular, meaningful, and robust consultation with Tribal Nations regarding Native American education and related issues, in accordance with the Presidential Memorandum of January 26, 2021 (Tribal Consultation and Strengthening Nation-to-Nation Relationships) [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) note];
 
-(ix) encouraging and coordinating Federal partnerships with public, private, philanthropic, and nonprofit entities to help increase the readiness of AI/AN students for school, college, and careers, and to help increase the number and percentage of AI/AN students completing college; and
+(ii) identify and promote evidence-based best practices that can provide Native American students with a rigorous and well-rounded education in safe and healthy environments, as well as access to support services, that will improve their educational, professional, economic, and civic opportunities;
 
-(x) developing a national network of individuals, organizations, and communities to share best practices in AI/AN education and encouraging them to implement these practices.
+(iii) advance and coordinate efforts to ensure equitable opportunities for Native American students in the wake of the COVID–19 pandemic, including recovering learning losses and addressing other challenges—academic, financial, social, emotional, mental health, or career development—brought on or exacerbated by the COVID–19 pandemic;
 
-(2) In order to help expand educational opportunities and improve education outcomes for AI/AN students, the Initiative shall promote, encourage, and undertake efforts, consistent with applicable law, to meet the following objectives:
+(iv) encourage and develop Federal partnerships with public, private, philanthropic, and nonprofit entities to improve access to educational equity, excellence, and economic opportunity for Native Americans;
 
-(i) increasing the number and percentage of AI/AN children who enter kindergarten ready for success through improved access to high-quality early learning programs and services, including Native language immersion programs, that encourage the learning and development of AI/AN children from birth through age five;
+(v) monitor and support the development, implementation, and coordination of Federal Government educational, workforce, research, and business development policies, programs, and technical assistance designed to improve outcomes for Native Americans;
 
-(ii) supporting the expanded implementation of education reform strategies that have shown evidence of success in enabling AI/AN students to acquire a rigorous and well-rounded education and increasing their access to the support services that prepare them for college, careers, and civic involvement;
+(vi) create opportunities for strategic partnerships among agencies and work closely with the Executive Office of the President on key Administration priorities related to Native Americans;
 
-(iii) increasing the number and percentage of AI/AN students who have access to excellent teachers and school leaders, including effective science, technology, engineering, and mathematics (STEM), language, and special education teachers, in part by supporting efforts to improve the recruitment, development, and retention of effective AI/AN teachers and other effective teachers and school leaders, particularly through TCUs;
+(vii) serve as a liaison with other agencies on Native American issues, advise those agencies on how they might help to promote Native American educational opportunities, and track their success in doing so; and
 
-(iv) reducing the AI/AN student dropout rate and helping a greater number and percentage of those students who stay in high school to be ready for college and careers by the time of their graduation and college completion, in part by promoting a positive school climate and supporting successful and innovative dropout-prevention and recovery strategies that better engage AI/AN youths in their learning and help them catch up academically;
+(viii) advise the Co-Chairs of the Initiative on issues of importance and policies relating to educational equity, excellence, and economic opportunity for Native American students.
 
-(v) providing pathways that enable those who have dropped out to reenter educational or training programs and acquire degrees, certificates, or industry-recognized credentials and obtain quality jobs, and expanding access to high-quality education programs leading to career advancement, especially in the STEM fields, by supporting adult, career, and technical education;
+(d) To facilitate partnership among agencies to advance educational equity, excellence, and economic opportunity for Native American students, the Executive Director shall work with the Director of the BIE, the Commissioner of the Administration for Native Americans (ANA) of the Department of Health and Human Services, and the Director of the Indian Health Service (IHS) of the Department of Health and Human Services to develop a separate Memorandum of Agreement (MOA) between the Initiative and each of these entities that will take advantage of each agency’s expertise, resources, and facilities. Each MOA shall be completed within 180 days of the date of this order [Oct. 11, 2021], and each shall address how the BIE, ANA, and IHS, respectively, will collaborate with the Initiative in carrying out the policy set forth in section 1 of this order, as appropriate and consistent with applicable law.
 
-(vi) increasing college access and completion for AI/AN students through strategies to strengthen the capacity of postsecondary institutions, particularly TCUs; and
+(e) Each agency with representation on the WHCNAA Education Committee shall prepare a plan (Agency Plan) outlining measurable actions the agency will take to advance educational equity, excellence, and economic opportunity for Native American communities, including the agency’s plans to implement the policy goals and directives outlined in subsection (b) of this section, and other relevant work, in consultation with the Executive Director. These Agency Plans shall be submitted to the Co-Chairs of the Initiative on a date the Co-Chairs shall establish.
 
-(vii) helping to ensure that the unique cultural, educational, and language needs of AI/AN students are met.
+(i) Each agency with representation on the WHCNAA Education Committee shall assess and report to the Co-Chairs of the Initiative on a regular basis, as established by the Co-Chairs of the Initiative, regarding its progress in implementing its Agency Plan.
 
-(3) To facilitate a new partnership between the Department of Education and the Department of the Interior, to improve AI/AN education, the Executive Director shall work with the BIE Director and develop a Memorandum of Understanding (MOU) between the two Departments that will take advantage of both Departments’ expertise, resources, and facilities. The MOU shall be completed within 120 days of the date of this order. Among other things, the MOU shall address how the Departments will collaborate in carrying out the policy set out in section 1 of this order.
+(ii) The Initiative shall monitor and evaluate each agency’s progress towards the goals established in its Agency Plan and shall coordinate with the agency to ensure that its Agency Plan includes measurable and action-oriented goals.
 
-(c) Funding and Administrative Support. Subject to the availability of appropriations, the Department of Education shall fund the Initiative, including NACIE. The Department shall also provide administrative support for the Initiative to the extent permitted by law and within existing appropriations.
+(f) The Department of Education shall provide funding and administrative support for the Initiative, to the extent permitted by law and subject to the availability of appropriations.
 
-(d) Interagency Working Group. There is established the Interagency Working Group on AI/AN education and TCUs, which shall be convened by the Initiative’s Executive Director. The Working Group shall consist of senior officials from the Department of Education and the Department of the Interior and officials from the Departments of Justice, Agriculture, Labor, Health and Human Services, and Energy, the Environmental Protection Agency, and the White House Domestic Policy Council, as well as such additional agencies and offices as the Secretaries of Education and the Interior may designate. Senior officials shall be designated by the heads of their respective agencies and offices. The Secretaries of Education and the Interior shall serve as the co-chairs of the Interagency Working Group.
+(g) To further shared priorities and policies that advance educational equity, excellence, and economic opportunity for underserved communities, the Initiative shall collaborate and coordinate with other White House initiatives related to educational equity, excellence, and economic opportunity.
 
-(e) Federal Agency Plans. (1) Each agency designated by the co-chairs as a member of the Interagency Working Group shall develop and implement a two-part, 4-year plan of the agency’s efforts to fulfill the purposes of this order, with part one of the plan focusing on all AI/AN students except for those attending TCUs, and part two focusing on AI/AN students attending TCUs. Each agency plan shall include:
+(h) The Initiative shall collaborate, as appropriate and consistent with applicable law, with other organizations and entities, including: Urban Indian Organizations; governing bodies of Tribal Nations on Federal and State reservations; State-recognized Tribes; Native Hawaiian and Native American Pacific Islander organizations; and other Native American groups that seek to advance educational equity, excellence, and economic opportunity for Native American students, families, and communities in the United States.
 
-(i) annual performance indicators and appropriate measurable objectives with which the agency will measure its success in meeting the goals of this order;
+(i) No later than 1 year after the date of this order and annually thereafter, the Co-Chairs of the Initiative shall report to the President on the Initiative’s progress in carrying out its mission and objectives under this order.
 
-(ii) information on how the agency intends to increase the capacity of educational agencies and institutions, including our Nation’s public schools and TCUs, to deliver high-quality education and related social services to all AI/AN students; and
+Sec. 3. National Advisory Council. The Department of Education’s National Advisory Council on Indian Education (NACIE), comprised of members appointed by the President under section 6141 of the Elementary and Secondary Education Act of 1965 (ESEA), [20 U.S.C. 7471](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7471), shall serve as the advisory council for the Initiative and shall report to the Initiative, through and as requested by the Executive Director. To the extent appropriate and consistent with applicable law, the NACIE shall include members from across the education spectrum, including members who can provide specific expertise on issues concerning TCUs and other Native American-serving institutions, K–12 and early childhood education, special education, and vocational education.
 
-(iii) agency efforts to enhance the ability of these educational agencies and institutions serving AI/AN students to compete effectively for grants, contracts, cooperative agreements, and other Federal resources with which to serve the education needs of AI/AN students, and to encourage eligible schools and colleges serving those students to apply for Federal grants and participate in Federal education programs, as appropriate. Agency plans may also emphasize access to high-quality educational opportunities for AI/AN students, consistent with requirements of the ESEA, the Individuals with Disabilities Education Act, and other applicable Federal education statutes; the preservation and revitalization of tribal languages and cultural traditions; and innovative approaches to more seamlessly align early learning, elementary, and secondary education programs with the work of TCUs.
+(a) In addition to and consistent with the duties set forth in section 6141(b)(1) of the ESEA, the NACIE shall, in consultation with the Initiative, advise the Co-Chairs of the Initiative on:
 
-(2) Submission. Each agency shall submit its plan to the Initiative by a deadline established by the co-chairs. In consultation with NACIE, the Initiative shall then review agency plans and develop, for submission to the President, a synthesized interagency plan to achieve the aims of this order.
+(i) what is needed for the development, implementation, and coordination of educational programs and initiatives to improve educational opportunities and outcomes for Native Americans;
 
-(3) Annual Performance Reports. Each agency shall submit to the Initiative an Annual Performance Report that measures the agency’s performance against the objectives set forth in its plan. In consultation with NACIE, the Initiative shall review and combine Annual Performance Reports from the various agencies into one annual report, which shall be submitted to the Secretaries of Education and the Interior for review.
+(ii) how to promote career pathways for in-demand jobs for Native American students, including registered apprenticeships as well as internships, fellowships, mentorships, and work-based learning initiatives;
 
-(f) Private Sector. In consultation with NACIE, and consistent with applicable law, the Interagency Working Group, led by the Executive Director, shall encourage the private sector to assist State- and locally-operated public schools that serve large numbers of AI/AN students, including those attending our Nation’s public schools, publicly-funded preschools, and TCUs, through increased use of such strategies as:
+(iii) ways to strengthen TCUs and increase their participation in agency programs;
 
-(1) Providing funds to support the preservation and revitalization of Native languages and cultures;
+(iv) how to increase public awareness of and generate solutions for the educational and training challenges and equity disparities that Native American students face and the causes of these challenges and disparities;
 
-(2) Providing funds to support increased institutional endowments;
+(v) approaches to establish local and national partnerships with public, private, philanthropic, and nonprofit stakeholders to advance the policy set forth in section 1 of this order, consistent with applicable law; and
 
-(3) Helping these schools develop expertise in financial and facilities management, information systems, and curricula; and
+(vi) actions for promoting, improving, and expanding educational opportunities for Native languages, traditions, and practices to be sustained through culturally responsive education.
 
-(4) Providing resources for the hiring and training of effective teachers and administrators.
+(b) The NACIE and the Executive Director shall, as appropriate and consistent with applicable law, facilitate frequent collaborations between the Initiative and Tribal Nations, Alaska Native Entities, and other Tribal organizations.
 
-Sec. 4. Study. In carrying out this order, the Secretaries of Education and the Interior shall study and collect information on the education of AI/AN students.
+(c) The Executive Director shall, in consultation with the NACIE, address the NACIE’s efforts pursuant to subsection (a) of this section in the annual report of the Initiative submitted to the President.
 
-Sec. 5. General Provisions. (a) NACIE shall serve as the Initiative’s advisory committee.
+(d) The Department of Education shall provide staff support for the NACIE.
 
-(b) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Initiative, any functions of the President under that Act, except for those of reporting to the Congress, shall be performed by the Secretary of Education, in consultation with the Secretary of the Interior, in accordance with the guidelines issued by the Administrator of General Services.
+Sec. 4. Administrative Provisions. (a) In carrying out this order, the Secretary of the Interior, the Secretary of Labor, and the Secretary of Education shall study, collect information, and publish reports on the education of Native American students.
 
-(c) This order revokes Executive Order 13270 of July 3, 2002, Executive Order 13336 of April 30, 2004, and section 1(n) of Executive Order 13585 of September 30, 2011.
+(b) This order supersedes Executive Order 13592 of December 2, 2011 (Improving American Indian and Alaska Native Educational Opportunities and Strengthening Tribal Colleges and Universities) [formerly set out above], which is revoked. To the extent that there are other Executive Orders that may conflict with or overlap with the provisions in this order, the provisions in this order shall supersede those other Executive Orders on these subjects.
 
-(d) The heads of agencies shall assist and provide such information to the Initiative as may be necessary to carry out its functions, consistent with applicable law.
+(c) The heads of agencies shall assist and provide information to the Initiative, consistent with applicable law, as may be necessary to carry out the functions of the Initiative.
 
-(e) Nothing in this order shall be construed to impair or otherwise affect:
+(d) Each agency shall bear its own expenses of participating in the Initiative.
 
-(1) authority granted by law to an executive department, agency, or the head thereof; or
+Sec. 5. Definitions. For the purposes of this order:
 
-(2) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+(a) “Tribal Nation” means an American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, [25 U.S.C. 5130](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130&num=0&edition=prelim), 5131.
 
-(f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(b) “Alaska Native Entities” includes “Alaska Native Corporations,” which refer to village and regional Alaska Native corporations organized in accordance with the Alaska Native Claims Settlement Act (ANCSA), as amended, [43 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim), et seq., and the 12 regional nonprofit associations identified under section 7 of ANCSA, [43 U.S.C. 1606](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1606&num=0&edition=prelim), that provide many social services for Alaska Natives, including those related to education.
 
-Barack Obama.
+(c) “Native American” and “Native” mean members of one or more Tribal Nations.
+
+(d) “Public school” means a Head Start center or a prekindergarten, elementary, or secondary school that is predominantly funded through the Federal Government, a State, a local educational agency, a Tribal Nation government, or an Alaska Native Entity, including a school operated directly by, through a contract with, or a grant from the BIE, a Tribal Nation, or a State, county, or local government.
+
+(e) “Tribal Colleges and Universities” means those institutions that are chartered under the sovereign authority of their respective Tribal Nation or by the Federal Government and that: qualify for funding under the Tribally Controlled Colleges and Universities Assistance Act of 1978, [25 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801&num=0&edition=prelim), et seq., or the Navajo Community College Assistance Act of 1978, [25 U.S.C. 640a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section640a&num=0&edition=prelim) note; or are listed in section 532 of the Equity in Educational Land-Grant Status Act of 1994, [7 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section301&num=0&edition=prelim) note.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-7422"></a>
@@ -13569,7 +13586,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 #### References in Text
 The Indian Self-Determination Act, referred to in subsec. (d)(1)(A)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
-The Tribally Controlled Schools Act of 1988, referred to in subsec. (d)(1)(A)(ii), is part B (§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2501&num=0&edition=prelim) and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsec. (d)(1)(A)(ii), is part B (§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2501&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 7423, Pub. L. 89–10, title VII, § 7113, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3720, related to program enhancement projects, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
@@ -13920,7 +13937,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The Education Amendments of 1978, referred to in subsecs. (g)(1) and (p)(1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§ 2001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Education Amendments of 1978, referred to in subsecs. (g)(1) and (p)(1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 #### Prior Provisions
 A prior section 7426, Pub. L. 89–10, title VII, § 7116, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3723, related to applications for grants, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
@@ -15168,7 +15185,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(D)(iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a)(3)(D)(iii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Prior Provisions
 A prior section 7515, Pub. L. 89–10, title VII, § 7205, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3738, related to elementary school foreign language incentive program, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
@@ -16357,7 +16374,7 @@ Pub. L. 113–76, div. H, title III, § 309, Jan. 17, 2014, 128 Stat. 400, allow
 #### References in Text
 [Section 2828(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2828/g&num=0&edition=prelim) (commonly known as the “Build to Lease” program), as added by section 801 of the Military Construction Authorization Act, 1984, referred to in subsec. (a)(5)(A), means the subsection (g) added to [section 2828 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2828&num=0&edition=prelim), Armed Forces, by section 801 of Pub. L. 98–115, which was repealed by Pub. L. 102–190, div. B, title XXVIII, § 2806(b), Dec. 5, 1991, 105 Stat. 1540.
 
-Act of September 30, 1950, referred to in subsec. (b)(1)(C)(iii), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§ 236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950, referred to in subsec. (b)(1)(C)(iii), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, which was classified generally to chapter 13 (§ 236 et seq.) of this title, prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2)(B)(i)(III)(bb)(BB), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
 
@@ -16365,7 +16382,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(2)(
 
 [Section 7703(b)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/b/2/E&num=0&edition=prelim) (as such section was in effect for such fiscal year), referred to in subsec. (b)(2)(B)(i)(IV), (D)(i)(II), was in the original “8003(b)(2)(E) (as such section was in effect for such fiscal year)”, meaning former section 8003(b)(2)(E) of Pub. L. 89–10, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3752, as such section was in effect for fiscal year 2015. Former section 8003 of Pub. L. 89–10 was renumbered section 7003 by Pub. L. 114–95, title VII, § 7001(c)(1), Dec. 10, 2015, 129 Stat. 2074, and is classified to this section.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 Section 386 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (f), is section 386 of Pub. L. 102–484, which is set out as a note below.
 
@@ -16655,7 +16672,7 @@ For provisions requiring Secretary of Defense to identify local educational agen
 #### References in Text
 [Section 7703(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/a/1&num=0&edition=prelim), referred to in subsec. (a), was in the original “section 7003(a)(1)” and was translated as meaning section 7003(a)(1) of the Elementary and Secondary Education Act of 1965, which is classified to [section 7703(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7703/a/1&num=0&edition=prelim), to reflect the probable intent of Congress.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Codification
 Section was enacted as part of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
@@ -16742,7 +16759,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (e)(1), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Tables.
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (e)(1), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section is comprised of section 572 of Pub. L. 109–163. Subsec. (g) of section 572 of Pub. L. 109–163 repealed section 386 of Pub. L. 102–484, formerly set out as a note under [section 7703 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703).
@@ -17009,6 +17026,9 @@ Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1809(2)], ame
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
+#### Supplemental Impact Aid Flexibility
+Pub. L. 117–83, Jan. 21, 2022, 136 Stat. 6, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Supplemental Impact Aid Flexibility Act’. “SEC. 2. IMPACT AID PROGRAM.“Due to the public health emergency directly relating to COVID–19 and notwithstanding sections 7002(j) and 7003(c) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7702(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7702/j&num=0&edition=prelim), 7703(c)), a local educational agency desiring to receive a payment under section 7002 or 7003 of such Act ([20 U.S.C. 7702](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702), 7703) for fiscal year 2023 that also submitted an application for such payment for fiscal year 2022 shall, in the application submitted under section 7005 of such Act ([20 U.S.C. 7705](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7705)) for fiscal year 2023—“(1) with respect to a requested payment under section 7002 of such Act—“(A) use the data described in section 7002(j) of such Act relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2022; or “(B) use the data relating to calculating such payment for the fiscal year required under section 7002(j) of such Act; and “(2) with respect to a requested payment under section 7003 of such Act—“(A) use the student count data relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2022, provided that payments for fiscal year 2023 shall be calculated by the Secretary using the expenditures and rates described in clauses (i), (ii), (iii), and (iv) of section 7003(b)(1)(C) of such Act that would otherwise apply for fiscal year 2023; or “(B) use the student count data relating to calculating such payment for the fiscal year required under section 7003(c) of such Act.”
 
 #### Impact Aid Program
 Pub. L. 116–211, § 2, Dec. 4, 2020, 134 Stat. 1017, provided that: “Due to the public health emergency relating to COVID–19 and notwithstanding sections 7002(j) and 7003(c) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7702(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7702/j&num=0&edition=prelim), 7703(c)), a local educational agency desiring to receive a payment under section 7002 or 7003 of such Act ([20 U.S.C. 7702](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702), 7703) for fiscal year 2022 that also submitted an application for such payment for fiscal year 2021 shall, in the application submitted under section 7005 of such Act ([20 U.S.C. 7705](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7705)) for fiscal year 2022— “(1) with respect to a requested payment under section 7002 of such Act—“(A) use the data described in section 7002(j) of such Act relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2021; or “(B) use the data relating to calculating such payment for the fiscal year required under section 7002(j) of such Act; and “(2) with respect to a requested payment under section 7003 of such Act—“(A) use the student count data relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2021, provided that payments for fiscal year 2022 shall be calculated by the Secretary using the expenditures and rates described in clauses (i), (ii), (iii), and (iv) of section 7003(b)(1)(C) of such Act that would otherwise apply for fiscal year 2022; or “(B) use the student count data relating to calculating such payment for the fiscal year required under section 7003(c) of such Act.”
@@ -17660,13 +17680,13 @@ For purposes of this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim) and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in par. (5)(A)(iii)(III), (F)(i), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in par. (5)(A)(iii)(III), (F)(i), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
-Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in pars. (5)(F)(ii)(II) and (9)(B)(i), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, which was classified generally to chapter 13 (§ 236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. Section 403 of the Act was classified to [section 244 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section244&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in pars. (5)(F)(ii)(II) and (9)(B)(i), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, which was classified generally to chapter 13 (§ 236 et seq.) of this title prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. Section 403 of the Act was classified to [section 244 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section244&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2015—Par. (1). Pub. L. 114–95, § 7012(1), substituted “Marine Corps, and Coast Guard” for “and Marine Corps”.
@@ -18465,7 +18485,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(1), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Subsec. (a)(1). Pub. L. 114–95, § 8007(1)(A), substituted “part A of subchapter VI” for “part A of subchapter VII”.
@@ -19383,9 +19403,11 @@ No funds under this chapter may be used—
 
 (4) to distribute or to aid in the distribution by any organization of legally obscene materials to minors on school grounds;
 
-(5) to provide sex education or HIV-prevention education in schools unless that instruction is age appropriate and includes the health benefits of abstinence; or
+(5) to provide sex education or HIV-prevention education in schools unless that instruction is age appropriate and includes the health benefits of abstinence;
 
-(6) to operate a program of contraceptive distribution in schools.
+(6) to operate a program of contraceptive distribution in schools; or
+
+(7) for the provision to any person of a dangerous weapon, as defined in [section 930(g)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section930/g/2&num=0&edition=prelim), or training in the use of a dangerous weapon.
 
 ### Statutory Notes
 
@@ -19393,6 +19415,8 @@ No funds under this chapter may be used—
 A prior section 7906, Pub. L. 89–10, title IX, § 9206, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3800, authorized grants for a Native Hawaiian higher education program, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
+2022—Par. (7). Pub. L. 117–159 added par. (7).
+
 2015—Pub. L. 114–95, § 8022, substituted “Prohibited uses of funds” for “General prohibitions” in section catchline, in subsec. (a), struck out “(a) Prohibition” before introductory provisions, substituted “No funds under this chapter may be used” for “None of the funds authorized under this chapter shall be used” in introductory provisions, added pars. (1) and (2) and redesignated former pars. (1) to (4) as (3) to (6), respectively, and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Nothing in this section shall be construed to—
 
 “(1) authorize an officer or employee of the Federal Government to mandate, direct, review, or control a State, local educational agency, or school’s instructional content, curriculum, and related activities;
@@ -19583,7 +19607,7 @@ Nothing in this chapter shall be construed to require, authorize, or permit, the
 ### Statutory Notes
 
 #### References in Text
-The Education Amendments of 1972, referred to in subsec. (a), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) and Tables.
+The Education Amendments of 1972, referred to in subsec. (a), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) and Tables.
 
 #### Amendments
 2015—Subsec. (b). Pub. L. 114–95, § 8029, substituted “as defined in [section 6311(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim) and part C of subchapter IV” for “as defined in [section 6316 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316&num=0&edition=prelim) and part B of subchapter V” and “grant under [section 6311(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim) or part C of subchapter IV” for “grant under [section 6316 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316&num=0&edition=prelim) or part B of subchapter V”.

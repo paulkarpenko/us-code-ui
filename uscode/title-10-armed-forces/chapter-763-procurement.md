@@ -232,7 +232,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 99–500, § 101(c) [title IX, § 9036(c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, Pub. L. 99–591, § 101(c) [title IX, § 9036(c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108, and Pub. L. 99–661, div. A, title XII, § 1203(b), Nov. 14, 1986, 100 Stat. 3969, provided that: “Section 4542 [now 7542] of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years after fiscal year 1986.”
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
-For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 
 <a id="section-7543"></a>

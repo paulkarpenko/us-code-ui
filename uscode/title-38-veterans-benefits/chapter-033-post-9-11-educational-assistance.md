@@ -482,11 +482,11 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 (3) **Regulations.—** — The Secretary shall prescribe in regulations methods for determining the number of months (including fractions thereof) of entitlement of an individual to educational assistance under this chapter that are chargeable under this chapter for an advance payment of amounts under paragraphs (1) and (2) for pursuit of a program of education on a quarter, semester, term, or other basis.
 
-**(e) Programs of Education Leading to a Degree Pursued on Active Duty on More Than Half-time Basis.—**
+**(e) Programs of Education Leading to a Degree Pursued on Active Duty for a Period of More Than 30 Days on More Than Half-time Basis.—**
 
-(1) **In general.—** — Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty.
+(1) **In general.—** — Educational assistance is payable under this chapter for pursuit of an approved program of education leading to a degree while on active duty for a period of more than 30 days.
 
-(2) **Amount of assistance.—** — The amounts of educational assistance payable under this chapter to an individual pursuing a program of education leading to a degree while on active duty are as follows:
+(2) **Amount of assistance.—** — The amounts of educational assistance payable under this chapter to an individual pursuing a program of education leading to a degree while on active duty for a period of more than 30 days are as follows:
 
   (A) Subject to subparagraph (C), an amount equal to the lesser of—
 
@@ -711,17 +711,6 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 (4) **Waiver.—** — The Secretary may waive the requirements of this subsection for an educational institution that the Secretary has determined uses a flat tuition and fee structure that would make the use of a second verification under this subsection unnecessary.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)
-Pub. L. 116–315, title I, § 1009, Jan. 5, 2021, 134 Stat. 4941, provided that, effective Aug. 1, 2022, subsection (e) of this section is amended:
-
-(1) in the heading, by inserting “for a Period of More Than 30 Days” after “Active Duty”;
-
-(2) in paragraph (1), by inserting “for a period of more than 30 days” after “active duty”; and
-
-(3) in paragraph (2), in the matter preceding subparagraph (A), by inserting “for a period of more than 30 days” after “active duty”.
-
-See 2021 Amendment notes below.
 
 #### References in Text
 Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(1)(A)(i)(II), (ii)(I)(bb), (e)(2)(A)(i)(II), (ii)(I)(bb), (f)(2)(A)(i)(II), and (g)(3)(A)(i)(I)(bb), (C)(i)(I)(bb), (D)(i)(I)(bb), is classified to [section 1070a(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b&num=0&edition=prelim), Education.
@@ -1074,7 +1063,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 <a id="section-3317"></a>
 ## § 3317. Public-private contributions for additional educational assistance
-**(a) Establishment of Program.—** In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of tuition and fees for a program of education, the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of such tuition and fees not otherwise covered under section 3313(c)(1)(A), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (8), (9), (10), and (11) of section 3311(b).
+**(a) Establishment of Program.—** In instances where the educational assistance provided pursuant to section 3313(c)(1)(A) does not cover the full cost of tuition and fees for a program of education, the Secretary shall carry out a program under which colleges and universities can, voluntarily, enter into an agreement with the Secretary to cover a portion of such tuition and fees not otherwise covered under subsection (c)(1)(A) or (e)(2)(A) of [section 3313 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3313), which contributions shall be matched by equivalent contributions toward such costs by the Secretary. The program shall only apply to covered individuals described in paragraphs (1), (2), (8), (9), (10), and (11) of section 3311(b).
 
 **(b) Designation of Program.—** The program under this section shall be known as the “Yellow Ribbon G.I. Education Enhancement Program”.
 
@@ -1097,9 +1086,6 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 **(e) Outreach.—** The Secretary shall make available on the Internet website of the Department available to the public a current list of the colleges and universities participating in the program under this section. The list shall specify, for each college or university so listed, appropriate information on the agreement between the Secretary and such college or university under subsection (c).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 115–48, title I, § 104, Aug. 16, 2017, 131 Stat. 975, provided that, effective Aug. 1, 2022, subsection (a) of this section is amended, in the first sentence, by striking “section 3313(c)(1)(A)” and inserting “subsection (c)(1)(A) or (e)(2)(A) of [section 3313 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3313)”. See 2017 Amendment note below.
 
 #### Amendments
 2021—Subsec. (a). Pub. L. 116–315, § 1008, substituted “the full cost of tuition and fees for a program of education” for “the full cost of established charges (as specified in section 3313)” and “such tuition and fees” for “those established charges”.

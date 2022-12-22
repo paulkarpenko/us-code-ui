@@ -117,7 +117,7 @@ In clause (9), the word “parish” is omitted as included in county because of
 This amends 31:6501(1)(B) to clarify the section as enacted by the Act of Sept. 13, 1982 (Pub. L. 97–258, 96 Stat. 1005).
 
 #### References in Text
-The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§ 671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9901&num=0&edition=prelim) and Tables.
+The Community Services Block Grant Act, referred to in par. (4)(b), is subtitle B (§§ 671–683) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1997—Par. (1)(C). Pub. L. 105–33 substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.

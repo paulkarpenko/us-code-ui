@@ -746,9 +746,19 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 
   (O) the inclusion on a return of an individual taxpayer identification number issued under section 6109(i) which has expired, been revoked by the Secretary, or is otherwise invalid,
 
-  (P) an omission of information required by section 24(g)(2) or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (g)(1) thereof, and
+  (P) an omission of information required by section 24(g)(2) or an entry on the return claiming the credit under section 24 for a taxable year for which the credit is disallowed under subsection (g)(1) thereof,
 
-  (Q) an omission of information required by section 25A(b)(4)(B) or an entry on the return claiming the American Opportunity Tax Credit for a taxable year for which such credit is disallowed under section 25A(b)(4)(A).
+  (Q) an omission of information required by section 25A(b)(4)(B) or an entry on the return claiming the American Opportunity Tax Credit for a taxable year for which such credit is disallowed under section 25A(b)(4)(A),
+
+  (R) an omission of information or documentation required under section 25C(b)(6)(B) (relating to home energy audits) to be included on a return,
+
+  (S) 11 See Applicability of Amendment note below. an omission of a correct product identification number required under section 25C(h) (relating to credit for nonbusiness energy property) to be included on a return,
+
+  (T) an omission of a correct vehicle identification number required under section 30D(f)(9) (relating to credit for new clean vehicles) to be included on a return,
+
+  (U) an omission of a correct vehicle identification number required under section 25E(d) (relating to credit for previously-owned clean vehicles) to be included on a return, and
+
+  (V) an omission of a correct vehicle identification number required under section 45W(e) (relating to commercial clean vehicle credit) to be included on a return.
   A taxpayer shall be treated as having omitted a correct TIN for purposes of the preceding sentence if information provided by the taxpayer on the return with respect to the individual whose TIN was provided differs from the information the Secretary obtains from the person issuing the TIN.
 
 **(h) Cross references**
@@ -761,9 +771,12 @@ Pub. L. 105–206, title III, § 3504, July 22, 1998, 112 Stat. 771, provided th
 
   (B) Recovery of foreign estate tax, see section 2016.
 
-(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).11 See References in Text note below.
+(3) For provisions relating to application of this subchapter in the case of certain partnership items, etc., see section 6230(a).22 See References in Text note below.
 
 ### Statutory Notes
+
+#### Applicability of Amendment
+Subsec. (g)(2)(S) of this section, as added by section 13301(g)(2) of Pub. L. 117–169, applicable to property placed in service after Dec. 31, 2024. See Effective Date of 2022 Amendment note below.
 
 #### References in Text
 Section 453(h) of the Social Security Act, referred to in subsec. (g)(2)(M), is classified to [section 653(h) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section653/h&num=0&edition=prelim), The Public Health and Welfare.
@@ -774,6 +787,16 @@ Section 6230, referred to in subsec. (h)(3), was repealed by Pub. L. 114–74, t
 Pub. L. 113–295, div. A, title II, § 214(a)(2), Dec. 19, 2014, 128 Stat. 4034, which directed that subsec. (g)(2) of this section be amended by striking “and” at the end of subpar. (O), by striking the period at the end of subpar. (P) and inserting “, and”, and by inserting after subpar. (P) a new subpar. (Q), effective as if included in the provisions of Pub. L. 110–185 to which the amendments relate, could not literally be executed insofar as it directed the amendments to subpars. (O) and (P) because subsec. (g)(2), at the time of enactment of Pub. L. 110–185, did not contain subpars. (N) to (P). However, the amendment was considered to be executed by making the conforming amendments to subpars. (O) and (P) as added by sections 11(h) and 12(d) of Pub. L. 111–92, to reflect the probable intent of Congress and to allow for additional amendments by Pub. L. 113–295, which presume that such conforming amendments had taken place. See 2014 Amendment notes below.
 
 #### Amendments
+2022—Subsec. (g)(2)(R). Pub. L. 117–169, § 13301(f)(4), added subpar. (R).
+
+Subsec. (g)(2)(S). Pub. L. 117–169, § 13301(g)(2), added subpar. (S).
+
+Subsec. (g)(2)(T). Pub. L. 117–169, § 13401(i)(4), added subpar. (T).
+
+Subsec. (g)(2)(U). Pub. L. 117–169, § 13402(c), added subpar. (U).
+
+Subsec. (g)(2)(V). Pub. L. 117–169, § 13403(b)(2), added subpar. (V).
+
 2020—Subsec. (g)(2)(L). Pub. L. 116–260 substituted “6428, or 6428A” for “or 6428” in introductory provisions.
 
 Pub. L. 116–136 substituted “32, or 6428” for “or 32” in introductory provisions.
@@ -909,6 +932,17 @@ Subsec. (e). Pub. L. 93–406, § 1016(a)(11)(B)–(D), substituted “excise ta
 Subsecs. (e), (f). Pub. L. 91–172, § 101(f)(3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 1965—Subsec. (e)(3). Pub. L. 89–44 added par. (3).
+
+#### Effective Date of 2022 Amendment
+Amendment by section 13301(f)(4) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13301(i)(1) of Pub. L. 117–169, set out in a note under [section 25C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25c).
+
+Amendment by section 13301(g)(2) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2024, see section 13301(i)(3) of Pub. L. 117–169, set out in a note under [section 25C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25c).
+
+Amendment by section 13401(i)(4) of Pub. L. 117–169 applicable to vehicles placed in service after Dec. 31, 2022, see section 13401(k)(1) of Pub. L. 117–169, set out in an Effective Date of 2022 Amendment; Transition Rule note under [section 30D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30d).
+
+Amendment by section 13402(c) of Pub. L. 117–169 applicable to vehicles acquired after Dec. 31, 2022, see section 13402(e)(1) of Pub. L. 117–169, set out in an Effective Date note under [section 25E of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25e).
+
+Amendment by section 13403(b)(2) of Pub. L. 117–169 applicable to vehicles acquired after Dec. 31, 2022, see section 13403(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45W of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45w).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 101(l)(18) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).

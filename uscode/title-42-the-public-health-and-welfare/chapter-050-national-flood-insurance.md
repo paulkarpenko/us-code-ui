@@ -92,7 +92,7 @@ Section effective 120 days following Aug. 1, 1968, or such later date prescribed
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+This Act, referred to in text, means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Codification
 Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
@@ -158,7 +158,7 @@ Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 
 
 **(b) Accelerated levee system evaluations**
 
-(1) **In general** — On receipt of a request from a non-Federal interest, the Secretary may carry out a levee system evaluation of a federally authorized levee for purposes of the national flood insurance program established under chapter 1 1 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4011](./chapter-050-national-flood-insurance.md#section-4011) et seq.) if the evaluation will be carried out earlier than such an evaluation would be carried out under subsection (a).
+(1) **In general** — On receipt of a request from a non-Federal interest, the Secretary may carry out a levee system evaluation of a federally authorized levee for purposes of the national flood insurance program established under chapter 1 11 So in original. Probably should be “chapter I”. of the National Flood Insurance Act of 1968 ([42 U.S.C. 4011](./chapter-050-national-flood-insurance.md#section-4011) et seq.) if the evaluation will be carried out earlier than such an evaluation would be carried out under subsection (a).
 
 (2) **Requirements** — A levee system evaluation under paragraph (1) shall—
 
@@ -320,7 +320,7 @@ For provisions relating to the reduction of the risk of flood loss, the minimiza
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b), means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+This Act, referred to in subsec. (b), means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Codification
 Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
@@ -804,7 +804,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### References in Text
-The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(1), and (e)(1), and the Act, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§ 4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(1), and (e)(1), and the Act, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to this chapter (§ 4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, Pub. L. 95–630, title X, Nov. 10, 1978, 92 Stat. 3694, which is classified principally to chapter 34 (§ 3301 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3301&num=0&edition=prelim) and Tables.
 
@@ -1464,7 +1464,7 @@ Section 100230 of the Biggert-Waters Flood Insurance Reform Act of 2012, referre
 
 <a id="section-4020"></a>
 ## § 4020. Financing
-**(a) Authority to issue notes and other obligations** All authority which was vested in the Housing and Home Finance Administrator by virtue of [section 2414(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2414/e&num=0&edition=prelim) (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), and $1,000,000,000 thereafter; except that, through September 30, 2021, clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
+**(a) Authority to issue notes and other obligations** All authority which was vested in the Housing and Home Finance Administrator by virtue of [section 2414(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2414/e&num=0&edition=prelim) (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), and $1,000,000,000 thereafter; except that, through September 30, 2022, clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
 
 **(b) Deposit of borrowed funds** Any funds borrowed by the Administrator under this authority shall, from time to time, be deposited in the National Flood Insurance Fund established under [section 4017 of this title](./chapter-050-national-flood-insurance.md#section-4017).
 
@@ -1492,6 +1492,8 @@ Section 1303 of this Act, referred to in subsec. (a), means section 1303 of Pub.
 This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–103 substituted “September 30, 2022” for “September 30, 2021”.
+
 2020—Subsec. (a). Pub. L. 116–159 substituted “September 30, 2021” for “September 30, 2019”.
 
 2019—Subsec. (a). Pub. L. 116–20 substituted “September 30, 2019” for “June 14, 2019”.
@@ -2005,7 +2007,7 @@ A prior section 4021, Pub. L. 90–448, title XIII, § 1314, Aug. 1, 1968, 82 St
 #### References in Text
 This chapter, referred to in subsecs. (a)(1) and (c)(1), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
-The Flood Disaster Protection Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+The Flood Disaster Protection Act of 1973, referred to in subsec. (c)(1), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
 2012—Subsecs. (a)(1), (2)(B), (C), (b). Pub. L. 112–141 substituted “Administrator” for “Director” wherever appearing.
@@ -2122,7 +2124,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 <a id="section-4029"></a>
 ## § 4029. Expiration of program
 
-No new contract for flood insurance under this chapter shall be entered into after September 30, 2021.
+No new contract for flood insurance under this chapter shall be entered into after September 30, 2022.
 
 ### Statutory Notes
 
@@ -2130,6 +2132,8 @@ No new contract for flood insurance under this chapter shall be entered into aft
 This chapter, referred to in text, was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
+2022—Pub. L. 117–103 substituted “September 30, 2022” for “September 30, 2021”.
+
 2020—Pub. L. 116–159 substituted “September 30, 2021” for “September 30, 2019”.
 
 2019—Pub. L. 116–20 substituted “September 30, 2019” for “June 14, 2019”.
@@ -2481,7 +2485,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### References in Text
-The National Flood Insurance Act, referred to in subsec. (a), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§ 4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+The National Flood Insurance Act, referred to in subsec. (a), probably means the National Flood Insurance Act of 1968, title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to this chapter (§ 4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 [Section 1600c(b)(2) of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1600c/b/2&num=0&edition=prelim), referred to in subsecs. (a) and (c), was struck out and former subsec. (b)(1)(ii) redesignated (b)(2) of section 1600c by Pub. L. 105–362, title IX, § 901(d)(1), Nov. 10, 1998, 112 Stat. 3289. As amended, section 1600c(b)(2) no longer relates to maps required to be prepared and filed by the Secretary.
 
@@ -3044,7 +3048,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 This chapter, referred to in subsecs. (c) and (d), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
@@ -3897,7 +3901,7 @@ Section was enacted as part of the Homeowner Flood Insurance Affordability Act o
 #### References in Text
 This chapter, referred to in subsecs. (a)(1), (2) and (c), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
-The Flood Disaster Protection Act of 1973, referred to in subsec. (a)(1), (2), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, which enacted sections 4002, 4003, 4012a, 4104, 4104a, 4105 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, Banks and Banking, repealed [section 4021 of this title](./chapter-050-national-flood-insurance.md#section-4021), and enacted provision set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001). For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+The Flood Disaster Protection Act of 1973, referred to in subsec. (a)(1), (2), is Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, which enacted sections 4002, 4003, 4012a, 4104, 4104a, 4105 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, Banks and Banking, repealed [section 4021 of this title](./chapter-050-national-flood-insurance.md#section-4021), and enacted provision set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001). For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
 2012—Subsec. (a). Pub. L. 112–141, § 100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
@@ -4225,7 +4229,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b), means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+This Act, referred to in subsec. (b), means Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, known as the Flood Disaster Protection Act of 1973. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Codification
 Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
@@ -4288,9 +4292,9 @@ In carrying out his responsibilities under the provisions of this title 11 See R
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in text, means title II of Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, which enacted sections 4105 to 4107 and 4128 of this title and amended [section 4101 of this title](./chapter-050-national-flood-insurance.md#section-4101) and sections 24 and 1709–1 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+This title, referred to in text, means title II of Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, which enacted sections 4105 to 4107 and 4128 of this title and amended [section 4101 of this title](./chapter-050-national-flood-insurance.md#section-4101) and sections 24 and 1709–1 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
-The National Flood Insurance Act of 1968, referred to in text, is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§ 4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+The National Flood Insurance Act of 1968, referred to in text, is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to this chapter (§ 4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Codification
 Section was enacted as part of the Flood Disaster Protection Act of 1973, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.

@@ -916,7 +916,7 @@ Public Law 110–28, referred to in subsec. (n)(4), is Pub. L. 110–28, May 25,
 #### Amendments
 2021—Subsec. (b)(2)(A). Pub. L. 117–81, § 6420, inserted “and associated backfill” after “security training”.
 
-Subsec. (m), (n). Pub. L. 117–81, § 6421, added subsec. (m) and redesignated former subsec. (m) as (n).
+Subsecs. (m), (n). Pub. L. 117–81, § 6421, added subsec. (m) and redesignated former subsec. (m) as (n).
 
 
 <a id="section-1136"></a>
@@ -1033,7 +1033,7 @@ Subsec. (m), (n). Pub. L. 117–81, § 6421, added subsec. (m) and redesignated 
 
 (2) include tactical instruction tailored to the diverse nature of the surface transportation asset operational environment; and
 
-(3) prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections 2003 or 2004 of the Homeland Security Act of 2002 ([6 U.S.C. 604](./chapter-001-homeland-security-organization.md#section-604) and 11 So in original. 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
+(3) prioritize training officers from law enforcement agencies that are eligible for or receive grants under sections 11 So in original. 2003 or 1 2004 of the Homeland Security Act of 2002 ([6 U.S.C. 604](./chapter-001-homeland-security-organization.md#section-604) and 1 605) and officers employed by railroad carriers that operate passenger service, including interstate passenger service.
 
 **(c) Report** If the Secretary of Homeland Security develops the training program described in subsection (a), not later than one year after the date on which the Secretary first implements the program, and annually thereafter during each year the Secretary carries out the program, the Secretary shall submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the program. Each such report shall include, for the year covered by the report—
 
@@ -1047,7 +1047,7 @@ Subsec. (m), (n). Pub. L. 117–81, § 6421, added subsec. (m) and redesignated 
 
 **(d) Definitions** In this section:
 
-(1) The term “public and private sector stakeholders” has the meaning given such term in [section 114(t)(1)(c) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section114/t/1/c&num=0&edition=prelim).
+(1) The term “public and private sector stakeholders” has the meaning given such term in section 114(t)(1)(c) 22 So in original. Probably should be “114(t)(1)(C)”. of title 49.
 
 (2) The term “surface transportation asset” includes facilities, equipment, or systems used to provide transportation services by—
 
@@ -1074,7 +1074,7 @@ Subsec. (m), (n). Pub. L. 117–81, § 6421, added subsec. (m) and redesignated 
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2022, and not as part of the National Transit Systems Security Act of 2007 which comprises this subchapter.
 
 
 <a id="section-1138"></a>

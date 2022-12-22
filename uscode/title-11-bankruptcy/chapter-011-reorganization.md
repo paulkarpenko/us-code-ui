@@ -2743,27 +2743,36 @@ In this subchapter:
 
   (B) does not include—
 
-    (i) any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $7,500,000 (excluding debt owed to 1 or more affiliates or insiders);
+    (i) any member of a group of affiliated debtors under this title that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $7,500,000 (excluding debt owed to 1 or more affiliates or insiders);
 
     (ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), 78o(d)); or
 
-    (iii) any debtor that is an affiliate of an issuer, as defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim)).
+    (iii) any debtor that is an affiliate of a corporation described in clause (ii).
 
 (2) **Debtor in possession.—** — The term “debtor in possession” means the debtor, unless removed as debtor in possession under [section 1185(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1185/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Amendment of Paragraph (1)
-Pub. L. 116–136, div. A, title I, § 1113(a)(5), Mar. 27, 2020, 134 Stat. 311, as amended by Pub. L. 117–5, § 2(a)(1), Mar. 27, 2021, 135 Stat. 249, provided that, 2 years after Mar. 27, 2020, paragraph (1) of this section is amended to read as follows:
+Pub. L. 117–151, § 2(a)(1)(B), June 21, 2022, 136 Stat. 1300, provided that, effective 2 years after June 21, 2022, paragraph (1) of this section is amended to read as follows:
 
 (1) Debtor.—The term “debtor” means a small business debtor.
 
-See 2020 Amendment note below.
+See 2022 Amendment note below.
 
 #### Amendments
+2022—Par. (1). Pub. L. 117–151, § 2(i)(1)(B), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining “debtor”.
+
+Pub. L. 117–151, § 2(d), amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘debtor’ means a small business debtor.”
+
 2020—Par. (1). Pub. L. 116–136, § 1113(a)(5), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) and (B) defining “debtor”.
 
 Pub. L. 116–136, § 1113(a)(1), temporarily amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘debtor’ means a small business debtor.”
+
+#### Effective Date of 2022 Amendment
+Amendment by section 2(d) of Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and, with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
+Pub. L. 117–151, § 2(i), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(B) is effective on the date that is 2 years after June 21, 2022.
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–136, div. A, title I, § 1113(a)(3), Mar. 27, 2020, 134 Stat. 311, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to cases commenced under title 11, United States Code, on or after the date of enactment of this Act [Mar. 27, 2020].”
@@ -2796,7 +2805,11 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 (4) ensure that the debtor commences making timely payments required by a plan confirmed under this subchapter;
 
-(5) if the debtor ceases to be a debtor in possession, perform the duties specified in section 704(a)(8) and paragraphs (1), (2), and (6) of [section 1106(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1106/a&num=0&edition=prelim), including operating the business of the debtor;
+(5) if the debtor ceases to be a debtor in possession—
+
+  (A) perform the duties specified in section 704(a)(8) and paragraphs (1), (2), and (6) of [section 1106(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1106/a&num=0&edition=prelim); and
+
+  (B) be authorized to operate the business of the debtor;
 
 (6) if there is a claim for a domestic support obligation with respect to the debtor, perform the duties specified in [section 704(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section704/c&num=0&edition=prelim); and
 
@@ -2809,6 +2822,12 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 (2) **Service of notice of substantial consummation.—** — Not later than 14 days after the plan of the debtor is substantially consummated, the debtor shall file with the court and serve on the trustee, the United States trustee, and all parties in interest notice of such substantial consummation.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Subsec. (b)(5). Pub. L. 117–151 substituted “possession—” for “possession,”, designated remainder of existing provisions as subpar. (A), struck out “, including operating the business of the debtor” after “1106(a) of this title”, inserted “and” at end, and added subpar. (B).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and, with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -2938,13 +2957,13 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 (3)
 
-  (A)
+  (A) The debtor will be able to make all payments under the plan; or
 
-    (i) The debtor will be able to make all payments under the plan; or
+  (B)
 
-    (ii) there is a reasonable likelihood that the debtor will be able to make all payments under the plan; and
+    (i) there is a reasonable likelihood that the debtor will be able to make all payments under the plan; and
 
-  (B) the plan provides appropriate remedies, which may include the liquidation of nonexempt assets, to protect the holders of claims or interests in the event that the payments are not made.
+    (ii) the plan provides appropriate remedies, which may include the liquidation of nonexempt assets, to protect the holders of claims or interests in the event that the payments are not made.
 
 **(d) Disposable Income.—** For purposes of this section, the term “disposable income” means the income that is received by the debtor and that is not reasonably necessary to be expended—
 
@@ -2960,22 +2979,26 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 
 ### Statutory Notes
 
-#### Amendment of Section and Termination of Amendment
-Pub. L. 116–260, div. N, title III, § 320(c), (f)(1), Dec. 27, 2020, 134 Stat. 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, this section is amended by adding at the end the following:
-
-(f) Special Provision Related to COVID–19 Pandemic.—Notwithstanding [section 1129(a)(9)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1129/a/9/A&num=0&edition=prelim) and subsection (e) of this section, a plan that provides for payment of a claim of a kind specified in [section 503(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/10&num=0&edition=prelim) may be confirmed under subsection (b) of this section if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.
-
-Pub. L. 116–260, div. N, title III, § 320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, § 320(c), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, this section is amended by striking subsection (f).
-
-See 2020 Amendment notes below.
-
 #### Amendments
+2022—Subsec. (c)(3). Pub. L. 117–151 added par. (3) and struck out former par. (3) which read as follows:
+
+“(3)(A)(i) The debtor will be able to make all payments under the plan; or
+
+“(ii) there is a reasonable likelihood that the debtor will be able to make all payments under the plan; and
+
+“(B) the plan provides appropriate remedies, which may include the liquidation of nonexempt assets, to protect the holders of claims or interests in the event that the payments are not made.”
+
 2020—Subsec. (f). Pub. L. 116–260, § 320(f)(2)(A)(iii), contingent on its addition by Pub. L. 116–260, § 320(c), struck out subsec. (f). Text read as follows: “Notwithstanding [section 1129(a)(9)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1129/a/9/A&num=0&edition=prelim) and subsection (e) of this section, a plan that provides for payment of a claim of a kind specified in [section 503(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/10&num=0&edition=prelim) may be confirmed under subsection (b) of this section if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.”
 
 Pub. L. 116–260, § 320(c), added subsec. (f).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and, with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+
 #### Effective and Termination Dates of 2020 Amendment
 Amendment by section 320(c) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(iii) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under [section 364 of this title](./chapter-003-case-administration.md#section-364).
+
+[Pursuant to [15 U.S.C. 636(a)(36)(A)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36/A/iii&num=0&edition=prelim), the “covered period” for loans under the Paycheck Protection Program ended on June 30, 2021.]
 
 #### Effective Date
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

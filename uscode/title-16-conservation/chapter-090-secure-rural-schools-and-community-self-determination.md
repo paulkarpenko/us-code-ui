@@ -229,6 +229,9 @@ A prior section 3 of Pub. L. 106–393 was set out in a note under [section 500 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–334 effective as if enacted as part of the Wildfire Suppression Funding and Forest Management Activities Act, div. O of Pub. L. 115–141, see section 8704(a)(2) of Pub. L. 115–334, set out as a note under [section 901 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901&num=0&edition=prelim), The Congress.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-7113"></a>
 ## § 7113. Secure payments for States containing Federal land
@@ -280,6 +283,9 @@ Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
 
 2012—Subsecs. (a), (b). Pub. L. 112–141 substituted “2012” for “2011” in introductory provisions.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-7121"></a>
 ## § 7121. Payments to States and counties
@@ -307,7 +313,7 @@ Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
 
   (C) *Effect of late payment for fiscal years 2014 and 2015* — The election otherwise required by subparagraph (A) shall not apply for fiscal year 2014 or 2015.
 
-  (D) *Payments for each of fiscal years 2017 through 2020* — The election otherwise required by subparagraph (A) shall not apply for each of fiscal years 2017 through 2020.
+  (D) *Payments for each of fiscal years 2017 through 2020* — The election otherwise required by subparagraph (A) shall not apply for each of fiscal years 2017 through 2020.11 See County Elections for Fiscal Year 2021 Under the Secure Rural Schools and Community Self-Determination Act of 2000 note below.
 
 (2) **Duration of election**
 
@@ -359,7 +365,7 @@ Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
 
   (E) *Effect of late payment for fiscal year 2014* — The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for fiscal years 2014 and 2015.
 
-  (F) *Payments for each of fiscal years 2017 through 2020* — The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for each of fiscal years 2017 through 2020.
+  (F) *Payments for each of fiscal years 2017 through 2020* — The election made by an eligible county under subparagraph (B), (C), or (D) for fiscal year 2013, or deemed to be made by the county under paragraph (3)(B) for that fiscal year, shall be effective for each of fiscal years 2017 through 2020.1
 
 (2) **Distribution of funds**
 
@@ -383,7 +389,7 @@ Subsec. (c). Pub. L. 114–10, § 524(a)(3), added subsec. (c).
 
   (C) *Effect of late payment for fiscal year 2014* — This paragraph does not apply for fiscal years 2014 and 2015.
 
-  (D) *Payments for each of fiscal years 2017 through 2020* — This paragraph does not apply for each of fiscal years 2017 through 2020.
+  (D) *Payments for each of fiscal years 2017 through 2020* — This paragraph does not apply for each of fiscal years 2017 through 2020.1
 
 **(e) Time for payment** The payments required under this section for a fiscal year shall be made as soon as practicable after the end of that fiscal year.
 
@@ -468,6 +474,9 @@ Subsec. (d)(3)(A). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(I), added subpar. (
 
 Subsec. (d)(3)(B). Pub. L. 112–141, § 100101(a)(3)(C)(ii)(III), added subpar. (B). Former subpar. (B) redesignated subsec. (d)(1)(D).
 
+#### County Elections for Fiscal Year 2021 Under the Secure Rural Schools and Community Self-Determination Act of 2000
+Pub. L. 117–102, § 1, Mar. 15, 2022, 136 Stat. 48, provided that: “Sections 102(b)(1)(D), 102(d)(1)(F), and 102(d)(3)(D) of the Secure Rural Schools and Community Self-Determination Act of 2000 ([16 U.S.C. 7112(b)(1)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7112/b/1/D&num=0&edition=prelim), 7112(d)(1)(F), 7112(d)(3)(D)) shall be applied for fiscal year 2021.”
+
 
 <a id="section-7122"></a>
 ## § 7122. Transition payments to States
@@ -529,6 +538,9 @@ A prior section 103 of Pub. L. 106–393 was set out in a note under [section 50
 2013—Subsec. (d)(2). Pub. L. 113–40 substituted “through 2013” for “and 2012”.
 
 2012—Subsec. (d)(2). Pub. L. 112–141 substituted “each of fiscal years 2011 and 2012” for “fiscal year 2011”.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-7123"></a>
@@ -924,7 +936,7 @@ A prior section 205 of Pub. L. 106–393 was set out in a note under [section 50
 #### Amendments
 2021—Subsec. (a)(4)(A), (B). Pub. L. 117–58, § 41202(d)(1), substituted “December 20, 2023” for “December 20, 2021” wherever appearing.
 
-Subsec. (g). Pub. L. 117–58, § 41202(c), added subsec. (g) and struck out former subsec. (g), which related to the Regional appointment pilot program.
+Subsec. (g). Pub. L. 117–58, § 41202(c), added subsec. (g) and struck out former subsec. (g) which related to the regional appointment pilot program.
 
 2019—Subsec. (a)(4)(A), (B). Pub. L. 116–94 substituted “December 20, 2021” for “September 29, 2018” wherever appearing.
 
@@ -941,6 +953,9 @@ Subsec. (g). Pub. L. 115–334, § 8702(2), added subsec. (g).
 2013—Subsec. (a)(4)(A), (B). Pub. L. 113–40 substituted “2012” for “2011” wherever appearing.
 
 2012—Subsec. (a)(4)(A), (B). Pub. L. 112–141 substituted “2011” for “2006” wherever appearing.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-7128"></a>
@@ -1049,6 +1064,9 @@ Subsec. (b). Pub. L. 113–40, § 10(a)(2)(E)(ii), substituted “2014” for �
 
 Subsec. (b). Pub. L. 112–141, § 100101(a)(8), substituted “2013” for “2012”.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-7143"></a>
 ## § 7143. Definitions
@@ -1111,6 +1129,9 @@ Subsec. (a)(4). Pub. L. 115–141, § 402(3), redesignated par. (3) as (4).
 
 2012—Subsec. (a)(2)(A). Pub. L. 112–141 inserted “and” at end.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-7144"></a>
 ## § 7144. Certification
@@ -1142,6 +1163,9 @@ A prior section 303 of Pub. L. 106–393 was set out in a note under [section 50
 
 #### Prior Provisions
 A prior section 304 of Pub. L. 106–393 was renumbered section 305 and is classified to [section 7144 of this title](./chapter-090-secure-rural-schools-and-community-self-determination.md#section-7144).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-7152"></a>
@@ -1176,6 +1200,9 @@ Subsec. (b). Pub. L. 113–40, § 10(a)(3)(B), substituted “2014” for “201
 2012—Subsec. (a). Pub. L. 112–141, § 100101(a)(2), substituted “2012” for “2011”.
 
 Subsec. (b). Pub. L. 112–141, § 100101(a)(10), substituted “2013” for “2012”.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-7153"></a>

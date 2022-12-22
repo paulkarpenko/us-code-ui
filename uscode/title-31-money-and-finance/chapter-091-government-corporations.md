@@ -313,7 +313,7 @@ In subsection (e), the words “The Comptroller General shall pay the cost of an
 Subsection (g) is substituted for 31:866(a)(words between 1st comma and 1st proviso) for clarity and consistency.
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1993—Subsec. (a)(1). Pub. L. 103–82 inserted “, or under other Federal law,” before “or by an independent”.

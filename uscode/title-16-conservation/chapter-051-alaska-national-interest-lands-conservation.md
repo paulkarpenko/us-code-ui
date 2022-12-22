@@ -21,7 +21,7 @@ source: >-
 #### References in Text
 The following titles, referred to in subsec. (a), mean titles II to XV of Pub. L. 96–487, Dec. 2, 1980, §§ 201–1503, 94 Stat. 2377–2551. For complete classification of these titles to the Code, see Tables.
 
-This Act, referred to in subsecs. (b) to (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in subsecs. (b) to (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 Pub. L. 96–487, § 1, Dec. 2, 1980, 94 Stat. 2371, provided that: “This Act [enacting this chapter, sections 410hh to 410hh–5, 460mm to 460mm–4, 539 to 539e, and 1285b of this title, and sections 1631 to 1641 and 1784 of Title 43, Public Lands, amending sections 410bb, 1274, 1276, 1279, and 1280 of this title and sections 1602, 1606, 1607, 1611, 1613, 1614, 1620, and 1621 of Title 43, enacting provisions set out as notes under this section and sections 431, 668dd, 1132, 1274, and 3145 of this title and sections 1605, 1613, and 1618 of Title 43, and amending provisions set out as notes under sections 1611 and 1613 of Title 43 and preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions] may be cited as the ‘Alaska National Interest Lands Conservation Act’.”
@@ -77,13 +77,13 @@ As used in this Act (except that in titles IX and XIV the following terms shall 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in provision preceding par. (1) and in par. (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under [section 1611 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1611&num=0&edition=prelim) and preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. Title XIV of this Act enacted sections 1639 to 1641 of Title 43, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of Title 43, enacted provisions set out as notes under sections 1605, 1613, and 1618 of Title 43, and amended provisions set out as notes under sections 1611 and 1613 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in provision preceding par. (1) and in par. (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under [section 1611 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1611&num=0&edition=prelim) and preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. Title XIV of this Act enacted sections 1639 to 1641 of Title 43, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of Title 43, enacted provisions set out as notes under sections 1605, 1613, and 1618 of Title 43, and amended provisions set out as notes under sections 1611 and 1613 of Title 43. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in provision preceding par. (1) and in pars. (3)(B), (C)(5), and (11), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in provision preceding par. (1) and in pars. (3)(B), (C)(5), and (11), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-The Alaska Statehood Act, referred to in provision preceding par. (1) and in pars. (3)(A) and (14), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in provision preceding par. (1) and in pars. (3)(A) and (14), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in par. (13), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 #### Amendments
 1997—Par. (2). Pub. L. 105–83, § 316(b)(2), which directed the amendment of par. (2) generally, to read as follows: “The term ‘Federal land’ means lands the title to which is in the United States after December 2, 1980. ‘Federal land’ does not include lands the title to which is in the State, an Alaska Native corporation, or other private ownership.”, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
@@ -144,7 +144,7 @@ The Congress finds and declares that—
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1997—Pub. L. 105–83, § 316(b)(3), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) relating to further congressional findings as to subsistence use of public lands by rural residents of Alaska, was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
@@ -186,7 +186,7 @@ As used in this Act, the term “subsistence uses” means the customary and tra
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 #### Amendments
 1997—Pars. (3) to (5). Pub. L. 105–83, § 316(b)(4), which directed the addition of pars. (3) to (5) was repealed by Pub. L. 105–83, § 316(d). Pars. (3) to (5) read as follows:
@@ -215,7 +215,7 @@ Except as otherwise provided in this Act and other Federal laws, the taking on p
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 #### Amendments
 1997—Pub. L. 105–83, § 316(b)(5), which directed the designation of existing provisions as subsec. (a) and the addition of subsec. (b) reading as follows: “The priority granted by this section is for a reasonable opportunity to take fish and wildlife. For the purposes of this subsection, the term ‘reasonable opportunity’ means an opportunity, consistent with customary and traditional uses (as defined in [section 3113(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3113/3&num=0&edition=prelim)), to participate in a subsistence hunt or fishery with a reasonable expectation of success, and does not mean a guarantee that fish and wildlife will be taken.” was repealed by Pub. L. 105–83, § 316(d). See Effective and Termination Dates of 1997 Amendment note below.
@@ -328,7 +328,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3119"></a>
@@ -356,11 +356,11 @@ The Secretary may enter into cooperative agreements or otherwise cooperate with 
 ### Statutory Notes
 
 #### References in Text
-The Alaska Statehood Act, referred to in subsec. (c), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsec. (c), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set our under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set our under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-This Act, referred to in subsec. (d), is Pub. L 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (d), is Pub. L 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3121"></a>
@@ -372,7 +372,7 @@ This Act, referred to in subsec. (d), is Pub. L 96–487, Dec. 2, 1980, 94 Stat.
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b), is Pub. L 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (b), is Pub. L 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3122"></a>
@@ -437,23 +437,23 @@ Nothing in this subchapter shall be construed as—
 ### Statutory Notes
 
 #### References in Text
-The National Wildlife Refuge System Administration Act of 1966, referred to in par. (4), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
+The National Wildlife Refuge System Administration Act of 1966, referred to in par. (4), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
 
-The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2 1966, 80 Stat. 1091, as amended, which is classified principally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1151 of this title](./chapter-024-conservation-and-protection-of-north-pacific-fur-seals.md#section-1151) and Tables.
+The Fur Seal Act of 1966, referred to in par. (4), is Pub. L. 89–702, Nov. 2 1966, 80 Stat. 1091, which is classified principally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1151 of this title](./chapter-024-conservation-and-protection-of-north-pacific-fur-seals.md#section-1151) and Tables.
 
-The Endangered Species Act of 1973, referred to in par. (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in par. (4), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in par. (4), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act of 1972, referred to in par. (4), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
-The Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940, referred to in par. (4), is act June 8, 1940, ch. 278, 54 Stat. 250, as amended, which is classified generally to subchapter II (§ 668 et seq.) of chapter 5A of this title. For complete classification of this Act to the Code, see Tables.
+The Act entitled “An Act for the Protection of the Bald Eagle”, approved June 8, 1940, referred to in par. (4), is act June 8, 1940, ch. 278, 54 Stat. 250, which is classified generally to subchapter II (§ 668 et seq.) of chapter 5A of this title. For complete classification of this Act to the Code, see Tables.
 
-The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
-The Federal Aid in Wildlife Restoration Act, referred to in par. (4), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669) and Tables.
+The Federal Aid in Wildlife Restoration Act, referred to in par. (4), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669) and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Dingell-Johnson Sport Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777) and Tables.
+The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Dingell-Johnson Sport Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777) and Tables.
 
 #### Amendments
 2014—Par. (4). Pub. L. 113–287 substituted “section 100101(b)(1), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of title 54” for “the National Park Service Organic Act (39 Stat. 535, [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2, 3, 4)” and inserted “or such title” after “such Acts”.
@@ -483,7 +483,7 @@ Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided th
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3141"></a>
@@ -785,7 +785,7 @@ Subsec. (e). Pub. L. 100–203, § 5105(1), struck out subsec. (e) which read as
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
 
 <a id="section-3150"></a>
@@ -801,9 +801,9 @@ The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 192
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
-This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3151"></a>
@@ -829,7 +829,7 @@ Congress finds that—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (c), is Pub. L 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (c), is Pub. L 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3162"></a>
@@ -1053,7 +1053,7 @@ Nothing in this subchapter shall be construed to adversely affect any valid exis
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3171"></a>
@@ -1065,7 +1065,7 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3172"></a>
@@ -1085,7 +1085,7 @@ Congress finds that there is a need to study the effect of this Act upon the abi
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2466, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2466, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3181"></a>
@@ -1184,7 +1184,7 @@ Any vacancy on the Council shall be filled in the same manner in which the origi
 #### References in Text
 [Section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), referred to in subsec. (e)(3), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsecs. (f)(3), (5) and (i)(2)(A)(i), (ii), and (iii), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to submitting report to Congress no later than February 1 of each calendar year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 154 of House Document No. 103–7.
@@ -1310,7 +1310,7 @@ The Mineral Leasing Act, referred to in subsec. (f), is act Feb. 25, 1920, ch. 8
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsecs. (a) and (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 Subchapter LIX–F of chapter 1 of this title, referred to in subsec. (b), commences with [section 410hh of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410hh).
 
@@ -1456,7 +1456,7 @@ Notwithstanding any acreage or boundary limitations contained in this Act with r
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in provision preceding par. (1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3195"></a>
@@ -1490,7 +1490,7 @@ To the extent practicable and desirable, the Secretary shall attempt to locate s
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a)(1) and (b)(3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsecs. (a)(1) and (b)(3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3197"></a>
@@ -1510,7 +1510,7 @@ This Act, referred to in subsecs. (a)(1) and (b)(3), is Pub. L. 96–487, Dec. 2
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (b)(1) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsecs. (b)(1) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 Section 12 of the Act of January 2, 1976 (Public Law 94–204), referred to in subsec. (b)(3), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, which is set out as a note under [section 1611 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1611&num=0&edition=prelim), Public Lands.
 
@@ -1592,9 +1592,9 @@ Pub. L. 105–333, § 11, Oct. 31, 1998, 112 Stat. 3135, provided that not later
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 
 <a id="section-3200"></a>
@@ -1623,7 +1623,7 @@ A National Preserve in Alaska shall be administered and managed as a unit of the
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3202"></a>
@@ -1641,7 +1641,7 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3203"></a>
@@ -1678,7 +1678,7 @@ This Act, referred to in subsecs. (b) to (f), is Pub. L. 96–487, Dec. 2, 1980,
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3205"></a>
@@ -1692,7 +1692,7 @@ This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsecs. (a) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3206"></a>
@@ -1720,7 +1720,7 @@ Nothing in this Act shall be construed as limiting or restricting the power and 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in provision preceding par. (1) and par. (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in provision preceding par. (1) and par. (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3208"></a>
@@ -1744,13 +1744,13 @@ This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371,
 #### References in Text
 Proclamations No. 4611 through 4627, inclusive, of December 1, 1978, referred to in subsec. (a), are Procs. No. 4611 through 4627, Dec. 1, 1978, 93 Stat. 1446–1473, which are listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.
 
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 The effective date of this Act, referred in to subsec. (a), probably means the date of enactment of Pub. L. 96–487, which was approved Dec. 2, 1980.
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
-The Alaska Statehood Act, referred to in subsec. (b), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsec. (b), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-3210"></a>
@@ -1762,7 +1762,7 @@ The Alaska Statehood Act, referred to in subsec. (b), is Pub. L. 85–508, July 
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-3211"></a>
@@ -1773,7 +1773,7 @@ Nothing in this Act or other existing law shall be construed as necessarily proh
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3212"></a>
@@ -1784,9 +1784,9 @@ Nothing in this Act or the National Wildlife Refuge System Administration Act of
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
-The National Wildlife Refuge System Administration Act of 1966, referred to in text, consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
+The National Wildlife Refuge System Administration Act of 1966, referred to in text, consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
 
 
 <a id="section-3213"></a>
@@ -1798,7 +1798,7 @@ The National Wildlife Refuge System Administration Act of 1966, referred to in t
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-3214"></a>
@@ -1809,9 +1809,9 @@ Nothing in this Act shall be construed as imposing any additional requirements i
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
-The Alaska Natural Gas Transportation Act of 1976 (Public Law 94–586; 90 Stat. 2903), referred to in text, is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§ 719 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 719 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719&num=0&edition=prelim) and Tables.
+The Alaska Natural Gas Transportation Act of 1976 (Public Law 94–586; 90 Stat. 2903), referred to in text, is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 719 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719&num=0&edition=prelim) and Tables.
 
 
 <a id="section-3215"></a>
@@ -1855,13 +1855,13 @@ Act of March 3, 1891, referred to in subsec. (a)(1), is act Mar. 3, 1891, ch. 56
 
 The effective date of this Act, referred to in subsecs. (a) to (c), probably means the date of enactment of Pub. L. 96–487, which was approved Dec. 2, 1980.
 
-This Act, referred to in subsec. (a)(2) and (3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (a)(2) and (3)(E), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(2), (3)(A) and (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(2), (3)(A) and (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-The Federal Power Act and that Act, referred to in subsec. (c), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. Part I of the Federal Power Act of June 10, 1920 as amended, is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act and that Act, referred to in subsec. (c), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. Part I of the Federal Power Act of June 10, 1920 as amended, is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
-The Alaska Statehood Act, referred to in subsec. (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsec. (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 Act of May 17, 1906, as amended, referred to in subsec. (d), is act May 17, 1906, ch. 2469, 34 Stat. 197, as amended, which was classified to sections 270–1 to 270–3 of Title 43, Public Lands, prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710. See [section 1617 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1617&num=0&edition=prelim).
 
@@ -1901,9 +1901,9 @@ The process contained in this subchapter shall apply to all public lands within 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-3233"></a>
@@ -1923,4 +1923,4 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.

@@ -2,7 +2,7 @@
 title: 42
 chapter: '7'
 heading: SOCIAL SECURITY
-section_count: 621
+section_count: 632
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -2093,7 +2093,7 @@ Paragraph (3) of subsec. (f), referred to in subsec. (f)(1), was redesignated pa
 
 Section 2201 of the Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (i), is Pub. L. 97–35, title XXII, § 2201, Aug. 13, 1981, 95 Stat. 830, which enacted [section 1382k of this title](./chapter-007-social-security.md#section-1382k), amended sections 402, 403, 415, 417, and 433 of this title, and enacted provisions set out as notes under sections 415 and 1382k of this title.
 
-The Foreign Service Act of 1980, referred to in subsec. (k)(5)(A)(ii)(II), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§ 4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (k)(5)(A)(ii)(II), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§ 4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 Clause (B) of subsection (f)(1) of this section as in effect prior to the Social Security Act Amendments of 1950, and subsection (g) of this section as in effect prior to the Social Security Act Amendments of 1950, referred to in subsec. (p), means such subsections as in effect prior to September 1, 1950, which was the effective date of section 101(a) of act Aug. 28, 1950. See section 101(b), (1), (3) of act Aug. 28, 1950, set out as an Effective Date of 1950 Amendment note below.
 
@@ -8014,7 +8014,7 @@ The Military Selective Service Act, referred to in subsec. (m)(5)(B), is act Jun
 The Peace Corps Act, referred to in subsec. (o), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of that Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 2018—Subsec. (a)(22). Pub. L. 115–243 added par. (22).
@@ -10850,7 +10850,7 @@ except that paragraph (2) of this subsection shall not apply if the Commissioner
 The Internal Revenue Code of 1986, referred to in subsec. (j), is classified generally to Title 26, Internal Revenue Code.
 
 #### Constitutionality
-For constitutionality of section 339(a) of Pub. L. 89–97, amending this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of section 339(a) of Pub. L. 89–97, amending this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 2004—Subsec. (c). Pub. L. 108–203, § 414(a), designated existing provisions as par. (1), redesignated former cls. (1) to (6) as cls. (A) to (F), respectively, of par. (1), in cl. (E) inserted “except as provided in paragraph (2),” before “she was married”, in cl. (F) redesignated former subcls. (A) to (C) as subcls. (i) to (iii), respectively, and added par. (2).
@@ -15576,6 +15576,8 @@ Amendment by Pub. L. 105–33 effective as if included in the provision of Pub. 
 Pub. L. 104–193, title I, § 116, Aug. 22, 1996, 110 Stat. 2181, as amended by Pub. L. 104–327, § 1(a), (c), Oct. 19, 1996, 110 Stat. 4002, 4003; Pub. L. 105–33, title V, §§ 5516(b), 5517, Aug. 5, 1997, 111 Stat. 620, 621, provided that: “(a) Effective Dates.—“(1) In general.—Except as otherwise provided in this title [see Tables for classification], this title and the amendments made by this title shall take effect on July 1, 1997. “(2) Delayed effective date for certain provisions.—Notwithstanding any other provision of this section (but subject to subsection (b)(1)(A)(ii)), paragraphs (2), (3), (4), (5), (8), and (10) of section 409(a) and section 411(a) of the Social Security Act [[42 U.S.C. 609(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section609/a&num=0&edition=prelim), 611(a)] (as added by the amendments made by section 103(a) of this Act) shall not take effect with respect to a State until, and shall apply only with respect to conduct that occurs on or after, the later of—“(A) July 1, 1997; or “(B) the date that is 6 months after the date the Secretary of Health and Human Services receives from the State a plan described in section 402(a) of the Social Security Act [[42 U.S.C. 602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602/a&num=0&edition=prelim)] (as added by such amendment). “(3) Grants to outlying areas.—The amendments made by section 103(b) [amending [section 1308 of this title](./chapter-007-social-security.md#section-1308)] shall take effect on October 1, 1996. “(4) Elimination of child care programs.—The amendments made by section 103(c) [amending sections 602 and 603 of this title] shall take effect on October 1, 1996. “(5) Definitions applicable to new child care entitlement.—Sections 403(a)(1)(C), 403(a)(1)(D), and 419(4) of the Social Security Act [[42 U.S.C. 603(a)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/1/C&num=0&edition=prelim), (D), 619(4)], as added by the amendments made by section 103(a) of this Act, shall take effect on October 1, 1996. “(6) Research, evaluations, and national studies.—Section 413 of the Social Security Act [[42 U.S.C. 613](./chapter-007-social-security.md#section-613)], as added by the amendment made by section 103(a) of this Act, shall take effect on the date of the enactment of this Act [Aug. 22, 1996]. “(b) Transition Rules.—Effective on the date of the enactment of this Act [Aug. 22, 1996]:“(1) State option to accelerate effective date; limitation on fiscal years 1996 and 1997 payments.—“(A) In general.—If the Secretary of Health and Human Services receives from a State a plan described in section 402(a) of the Social Security Act [[42 U.S.C. 602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602/a&num=0&edition=prelim)] (as added by the amendment made by section 103(a)(1) of this Act), then—“(i) on and after the date of such receipt— “(I) except as provided in clause (ii), this title and the amendments made by this title (other than by section 103(c) of this Act [amending sections 602 and 603 of this title]) shall apply with respect to the State; and “(II) the State shall be considered an eligible State for purposes of part A of title IV of the Social Security Act [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.] (as in effect pursuant to the amendments made by such section 103(a)); and “(ii) during the period that begins on the date of such receipt and ends on the later of June 30, 1997, or the day before the date described in subsection (a)(2)(B) of this section, there shall remain in effect with respect to the State— “(I) section 403(h) of the Social Security Act [[42 U.S.C. 603(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/h&num=0&edition=prelim)] (as in effect on September 30, 1995); and “(II) all State reporting requirements under parts A and F of title IV of the Social Security Act [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq., 681 et seq.] (as in effect on September 30, 1995), modified by the Secretary as appropriate, taking into account the State program under part A of title IV of the Social Security Act (as in effect pursuant to the amendments made by such section 103(a)). “(B) Limitations on federal obligations.—“(i) Under afdc program.—The total obligations of the Federal Government to a State under part A of title IV of the Social Security Act (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997 shall not exceed an amount equal to the State family assistance grant. “(ii) Under temporary family assistance program.—Notwithstanding section 403(a)(1) of the Social Security Act [[42 U.S.C. 603(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/1&num=0&edition=prelim)] (as in effect pursuant to the amendments made by section 103(a) of this Act), the total obligations of the Federal Government to a State under such section 403(a)(1)— “(I) for fiscal year 1996, shall be an amount equal to—“(aa) the State family assistance grant; multiplied by “(bb) 1⁄366 of the number of days during the period that begins on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act [[42 U.S.C. 602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602/a&num=0&edition=prelim)] (as added by the amendment made by section 103(a)(1) of this Act) and ends on September 30, 1996; and “(II) for fiscal year 1997, shall be an amount equal to the lesser of—“(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act [[42 U.S.C. 603(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/b&num=0&edition=prelim)] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act [[42 U.S.C. 602(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602/a&num=0&edition=prelim)] (as so amended) if, with respect to such State, the effective date of this Act [title] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or “(bb) the sum of the State family assistance grant, multiplied by 1⁄365 of the number of days during the period that begins on October 1, 1996, or the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as added by the amendment made by section 103(a)(1) of this Act), whichever is later, and ends on September 30, 1997, and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as so amended) if, with respect to such State, the effective date of this Act [title] under subsection (a)(1) were August 22, 1996. “(iii) Child care obligations excluded in determining federal afdc obligations.—As used in this subparagraph, the term ‘obligations of the Federal Government to the State under part A of title IV of the Social Security Act’ does not include any obligation of the Federal Government with respect to child care expenditures by the State. “(C) Submission of state plan for fiscal year 1996 or 1997 deemed acceptance of grant limitations and formula and termination of afdc entitlement.—The submission of a plan by a State pursuant to subparagraph (A) is deemed to constitute—“(i) the State’s acceptance of the grant reductions under subparagraph (B) (including the formula for computing the amount of the reduction); and “(ii) the termination of any entitlement of any individual or family to benefits or services under the State AFDC program. “(D) Definitions.—As used in this paragraph:“(i) State afdc program.—The term ‘State AFDC program’ means the State program under parts A and F of title IV of the Social Security Act (as in effect on September 30, 1995). “(ii) State.—The term ‘State’ means the 50 States and the District of Columbia. “(iii) State family assistance grant.—The term ‘State family assistance grant’ means the State family assistance grant (as defined in section 403(a)(1)(B) of the Social Security Act [[42 U.S.C. 603(a)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/a/1/B&num=0&edition=prelim)], as added by the amendment made by section 103(a)(1) of this Act). “(2) Claims, actions, and proceedings.—The amendments made by this title [see Tables for classification] shall not apply with respect to—“(A) powers, duties, functions, rights, claims, penalties, or obligations applicable to aid, assistance, or services provided before the effective date of this title under the provisions amended; and “(B) administrative actions and proceedings commenced before such date, or authorized before such date to be commenced, under such provisions. “(3) Closing out account for those programs terminated or substantially modified by this title.—In closing out accounts, Federal and State officials may use scientifically acceptable statistical sampling techniques. Claims made with respect to State expenditures under a State plan approved under part A of title IV of the Social Security Act [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.] (as in effect on September 30, 1995) with respect to assistance or services provided on or before September 30, 1995, shall be treated as claims with respect to expenditures during fiscal year 1995 for purposes of reimbursement even if payment was made by a State on or after October 1, 1995. Each State shall complete the filing of all claims under the State plan (as so in effect) within 2 years after the date of the enactment of this Act [Aug. 22, 1996]. The head of each Federal department shall—“(A) use the single audit procedure to review and resolve any claims in connection with the close out of programs under such State plans; and “(B) reimburse States for any payments made for assistance or services provided during a prior fiscal year from funds for fiscal year 1995, rather than from funds authorized by this title. “(4) Continuance in office of assistant secretary for family support.—The individual who, on the day before the effective date of this title, is serving as Assistant Secretary for Family Support within the Department of Health and Human Services shall, until a successor is appointed to such position—“(A) continue to serve in such position; and “(B) except as otherwise provided by law—“(i) continue to perform the functions of the Assistant Secretary for Family Support under section 417 of the Social Security Act [[42 U.S.C. 617](./chapter-007-social-security.md#section-617)] (as in effect before such effective date); and “(ii) have the powers and duties of the Assistant Secretary for Family Support under section 416 of the Social Security Act [[42 U.S.C. 616](./chapter-007-social-security.md#section-616)] (as in effect pursuant to the amendment made by section 103(a)(1) of this Act). “(c) Termination of Entitlement Under AFDC Program.—Effective October 1, 1996, no individual or family shall be entitled to any benefits or services under any State plan approved under part A or F of title IV of the Social Security Act [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq., 681 et seq.] (as in effect on September 30, 1995).”
 
 #### Extension of the Temporary Assistance for Needy Families Program and Related Programs
+Pub. L. 117–103, div. P, title II, § 401, Mar. 15, 2022, 136 Stat. 809, provided that: “Activities authorized by part A of title IV [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.] (other than under section 403(c) or 418 [[42 U.S.C. 603(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section603/c&num=0&edition=prelim), 618]) and section 1108(b) [[42 U.S.C. 1308(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/b&num=0&edition=prelim)] of the Social Security Act shall continue through September 30, 2022, in the manner authorized for fiscal year 2021, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose.”
+
 Pub. L. 116–260, div. CC, title III, § 301, Dec. 27, 2020, 134 Stat. 2992, provided that: “Activities authorized by part A of title IV [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.] and section 1108(b) [[42 U.S.C. 1308(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/b&num=0&edition=prelim)] of the Social Security Act shall continue through September 30, 2021, in the manner authorized for fiscal year 2020, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose. Grants and payments may be made pursuant to this authority on a quarterly basis through the 4th quarter of fiscal year 2021 at the level provided for such activities for the corresponding quarter of fiscal year 2020.”
 
 Pub. L. 116–136, div. A, title III, § 3824, Mar. 27, 2020, 134 Stat. 433, provided that: “Activities authorized by part A of title IV [[42 U.S.C. 601](./chapter-007-social-security.md#section-601) et seq.] and section 1108(b) [[42 U.S.C. 1308(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/b&num=0&edition=prelim)] of the Social Security Act shall continue through November 30, 2020, in the manner authorized for fiscal year 2019, and out of any money in the Treasury of the United States not otherwise appropriated, there are hereby appropriated such sums as may be necessary for such purpose.”
@@ -15656,6 +15658,34 @@ Pub. L. 104–193, title IX, § 901, Aug. 22, 1996, 110 Stat. 2347, provided tha
 
   (B) *“Domestic violence” defined* — For purposes of this paragraph, the term “domestic violence” has the same meaning as the term “battered or subjected to extreme cruelty”, as defined in [section 608(a)(7)(C)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section608/a/7/C/iii&num=0&edition=prelim).
 
+(8) **Certification that the state will provide information to victims of sexual harassment or survivors of domestic violence, sexual assault, or stalking**
+
+  (A) *In general* — A certification by the chief executive officer of the State that the State has established and is enforcing standards and procedures to—
+
+    (i) ensure that applicants and potential applicants for assistance under the State program funded under this part are notified of assistance made available by the State to victims of sexual harassment and survivors of domestic violence, sexual assault, or stalking;
+
+    (ii) ensure that case workers and other agency personnel responsible for administering the State program funded under this part are trained in—
+
+      (I) the nature and dynamics of sexual harassment and domestic violence, sexual assault, and stalking;
+
+      (II) State standards and procedures relating to the prevention of, and assistance for, individuals who are victims of sexual harassment or survivors of domestic violence, sexual assault, or stalking; and
+
+      (III) methods of ascertaining and ensuring the confidentiality of personal information and documentation related to applicants for assistance and their children who have provided notice about their experiences of sexual harassment, domestic violence, sexual assault, or stalking; and
+
+    (iii) ensure that, if a State has elected to establish and enforce standards and procedures regarding the screening for, and identification of, domestic violence, sexual assault, or stalking pursuant to paragraph (7)—
+
+      (I) the State program funded under this part provides information about the options under this part to current and potential beneficiaries; and
+
+      (II) case workers and other agency personnel responsible for administering the State program funded under this part are provided with training regarding State standards and procedures pursuant to paragraph (7).
+
+  (B) *Definitions* — For purposes of this paragraph—
+
+    (i) the term “sexual harassment” means hostile, intimidating, or oppressive behavior based on sex that creates an offensive work environment;
+
+    (ii) the term “domestic violence” has the meaning given such term in paragraph (7); and
+
+    (iii) the terms “sexual assault” and “stalking” have the meanings given such terms in [section 12291 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim).
+
 **(b) Plan amendments** Within 30 days after a State amends a plan submitted pursuant to subsection (a), the State shall notify the Secretary of the amendment.
 
 **(c) Public availability of State plan summary** The State shall make available to the public a summary of any plan or plan amendment submitted by the State under this section.
@@ -15669,6 +15699,8 @@ Pub. L. 104–193, title IX, § 901, Aug. 22, 1996, 110 Stat. 2347, provided tha
 A prior section 602, acts Aug. 14, 1935, ch. 531, title IV, § 402, 49 Stat. 627; Aug. 10, 1939, ch. 666, title IV, § 401, 53 Stat. 1379; Aug. 28, 1950, ch. 809, title III, pt. 2, § 321, pt. 6, § 361(c), (d), 64 Stat. 549, 558; Aug. 1, 1956, ch. 836, title III, § 312(b), 70 Stat. 849; July 25, 1962, Pub. L. 87–543, title I, §§ 103, 104(a)(2), (3)(A), (B), (5)(A), 106(b), 76 Stat. 185, 188; July 30, 1965, Pub. L. 89–97, title IV, §§ 403(b), 410, 79 Stat. 418, 423; Jan. 2, 1968, Pub. L. 90–248, title II, §§ 201(a), (b), 202(a), (b), 204(b), (e), 205(a), 210(a)(2), 211(a), 213(b), 81 Stat. 877, 879, 881, 890, 892, 895, 896, 898; Dec. 28, 1971, Pub. L. 92–223, § 3(a)(1)–(7), 85 Stat. 803, 804; Oct. 30, 1972, Pub. L. 92–603, title II, § 299E(c), title IV, § 414(a), 86 Stat. 1462, 1492; Jan. 4, 1975, Pub. L. 93–647, §§ 3(a)(1), (2), (8), 101(c)(2)–(5), (8), 88 Stat. 2348, 2349, 2359, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §§ 202, 207, 208(a), 209, 89 Stat. 434, 436, 437; Dec. 20, 1977, Pub. L. 95–216, title IV, § 403(c), 91 Stat. 1561; Apr. 1, 1980, Pub. L. 96–222, title I, § 101(a)(2)(A), 94 Stat. 195; June 9, 1980, Pub. L. 96–265, title IV, §§ 401(a)–(f), 403(a), 406(b), 94 Stat. 460–462, 465, 466; June 17, 1980, Pub. L. 96–272, title I, § 101(a)(3)(A), title III, § 302(a), 94 Stat. 512, 528; Oct. 19, 1980, Pub. L. 96–473, § 6(f), 94 Stat. 2266; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §§ 2301–2306(a), 2310, 2313(b), (c)(1), 2314, 2315(a), 2316, 2318, 2320(a), (b)(1), 2353(b)(1), (c), 95 Stat. 843–846, 852, 854–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§ 151(a), 152(a), 154(a), 96 Stat. 395, 396; Oct. 13, 1982, Pub. L. 97–300, title VI, § 603, formerly title V, § 503, 96 Stat. 1398, renumbered title VI, § 603, Nov. 7, 1988, Pub. L. 100–628, title VII, § 712(a)(1), (2), 102 Stat. 3248; Jan. 6, 1983, Pub. L. 97–424, title V, § 545(b), 96 Stat. 2198; Apr. 20, 1983, Pub. L. 98–21, title IV, § 404(b), 97 Stat. 140; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§ 2621–2624(a), 2625(a), 2626, 2628, 2629, 2631–2634, 2636, 2639(a), (c), 2640(a), (c), 2642(a), (b), 2651(b)(1), (2), 2663(c)(1), (3)(B), (l)(1), 98 Stat. 1134–1137, 1141, 1142, 1144–1146, 1149, 1165, 1166, 1171; Aug. 16, 1984, Pub. L. 98–378, § 9(a)(2), 98 Stat. 1316; Apr. 7, 1986, Pub. L. 99–272, title XII, §§ 12303(a), 12304(a), 100 Stat. 292; Oct. 22, 1986, Pub. L. 99–514, § 2, title XVIII, § 1883(a)(5)(B), (b)(1)(A), (2)(A), (B), (3)(A), (4), (5), 100 Stat. 2095, 2916, 2917; Nov. 6, 1986, Pub. L. 99–603, title II, § 201(b)(1), title III, §§ 302(b)(1), 303(e)(1), 100 Stat. 3403, 3422, 3431; Dec. 22, 1987, Pub. L. 100–203, title IX, §§ 9102(b), 9133(b)(1), 101 Stat. 1330–300, 1330–314; Oct. 13, 1988, Pub. L. 100–485, title I, §§ 102(a), 123(d), title II, §§ 201(a), 202(b)(1)–(3), title III, §§ 301, 302(a), (b)(1), (c), 303(b)(3), (f)(2)(B), (C), 304(b)(2), title IV, §§ 401(a)(1), (2)(A), (b)(2), (f), (h), 402(a)–(c), 403(a), 404(a), title VI, §§ 604(a), 605(a), 102 Stat. 2346, 2353, 2356, 2377, 2382–2384, 2392, 2393, 2395–2398, 2409; Dec. 19, 1989, Pub. L. 101–239, title X, § 10403(a)(1)(B)(i), (C)(i), 103 Stat. 2487; Nov. 5, 1990, Pub. L. 101–508, title V, §§ 5051(a), (b), 5053(a), 5054(a), 5055(a), 5060(a), 5081(a), (c), (d), title XI, § 11115(a), 104 Stat. 1388–227 to 1388–229, 1388–231, 1388–233, 1388–236, 1388–414; Aug. 10, 1993, Pub. L. 103–66, title XIII, § 13742(a), 107 Stat. 663; Oct. 20, 1994, Pub. L. 103–382, title III, § 394(k), 108 Stat. 4029; Oct. 31, 1994, Pub. L. 103–432, title II, §§ 235(a), 264(c), 108 Stat. 4466, 4468; Aug. 22, 1996, Pub. L. 104–193, title I, § 103(c)(1), (2)(A), 110 Stat. 2161, related to State plans for aid and services to needy families with children prior to repeal by Pub. L. 104–193, § 103(a)(1), as amended by Pub. L. 105–33, title V, § 5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
+2022—Subsec. (a)(8). Pub. L. 117–103 added par. (8).
+
 2012—Subsec. (a)(1)(A)(vii), (viii). Pub. L. 112–96 added cls. (vii) and (viii).
 
 2010—Subsec. (a)(1)(B)(v). Pub. L. 111–148 added cl. (v).
@@ -15689,6 +15721,9 @@ Subsec. (c). Pub. L. 105–34, § 5501(d)(2), inserted “or plan amendment” a
 
 Pub. L. 105–33, § 5501(d)(1), redesignated subsec. (b) as (c).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Effective Date of 2010 Amendment
 Pub. L. 111–148, title VI, § 6703(a)(2)(B), Mar. 23, 2010, 124 Stat. 798, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect on January 1, 2011.”
 
@@ -15702,6 +15737,16 @@ Pub. L. 105–33, title V, § 5518(a), Aug. 5, 1997, 111 Stat. 621, provided tha
 
 #### Effective Date
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under [section 601 of this title](./chapter-007-social-security.md#section-601).
+
+#### Implementation of 2022 Amendment
+Pub. L. 117–103, div. W, title VII, § 703(a)(2), Mar. 15, 2022, 136 Stat. 893, provided that: “Not later than 1 year after the date of enactment of this Act [Mar. 15, 2022], each State shall submit the certification required under paragraph (8) of subsection (a) of section 402 of the Social Security Act ([42 U.S.C. 602](./chapter-007-social-security.md#section-602)), as added by paragraph (1), in the form of an amendment to the State’s plan submitted under such section. A State shall not be regarded as failing to comply with the requirement of such paragraph (8) before the date that is 1 year after the date of enactment of this Act.”
+
+[For definition of “State” as used in section 703(a)(2) of div. W of Pub. L. 117–103, set out above, see [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim), Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim)].
+
+#### National Grant Program for Developing a Model Training Program for TANF Personnel Training
+Pub. L. 117–103, div. W, title VII, § 703(b), Mar. 15, 2022, 136 Stat. 893, provided that: “(1) Grants authorized.—“(A) Model training program.—The Secretary of Health and Human Services (in this subsection referred to as the ‘Secretary’) shall—“(i) develop and disseminate a model training program (and related materials) for the training required under section 402(a)(8) of the Social Security Act [[42 U.S.C. 602(a)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602/a/8&num=0&edition=prelim)], and if the State so elects, section 402(a)(7) of such Act [[42 U.S.C. 602(a)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602/a/7&num=0&edition=prelim)]; and “(ii) provide technical assistance with respect to such model training program to eligible States (as defined in section 402 of the Social Security Act [[42 U.S.C. 602](./chapter-007-social-security.md#section-602)]). “(B) Grants.—In developing the model training program under subparagraph (A)(i), the Secretary may award grants and contracts and may develop such program in cooperation with an eligible partner. “(2) Eligible partner defined.—For purposes of paragraph (1), the term ‘eligible partner’ means an entity that is—“(A) a State or tribal domestic violence coalition or sexual assault coalition; or “(B) a State or local victim service provider with recognized expertise in the dynamics of domestic violence, sexual assault, or stalking whose primary mission is to provide services to survivors of domestic violence, sexual assault, or stalking, including a rape crisis center or domestic violence program. “(3) Report.—“(A) Report to congress.—Not later than 5 years after the date of the enactment of this Act [Mar. 15, 2022], the Secretary shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the program established under this subsection. “(B) Report available to public.—The Secretary shall establish procedures for the dissemination to the public of the report submitted under subparagraph (A) not later than 10 days after the submission of such report to Congress under such subparagraph. Such procedures shall include the use of the internet to disseminate such report. “(4) Authorization of appropriations.—There are authorized to be appropriated $3,000,000 to carry out this section for each of fiscal years 2023 through 2027.”
+
+[For definitions of terms used in section 703(b) of div. W of Pub. L. 117–103, set out above, see [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim), Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim)].
 
 #### Demonstration of Family Independence Program
 Pub. L. 100–203, title IX, § 9121, Dec. 22, 1987, 101 Stat. 1330–310, authorized State of Washington, upon application of State and approval by Secretary of Health and Human Services, to conduct demonstration project for purpose of testing whether operation of its Family Independence Program enacted in May 1987, as alternative to AFDC program under this subchapter, would more effectively break the cycle of poverty and provide families with opportunities for economic independence and strengthened family functioning, prior to repeal by Pub. L. 104–193, title I, § 110(b), Aug. 22, 1996, 110 Stat. 2171.
@@ -19958,7 +20003,7 @@ The purpose of this program is to enable States to develop and establish, or exp
 ### Statutory Notes
 
 #### References in Text
-The Adoption and Safe Families Act of 1997, referred to in par. (3), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115, as amended. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Adoption and Safe Families Act of 1997, referred to in par. (3), is Pub. L. 105–89, Nov. 19, 1997, 111 Stat. 2115. For complete classification of this Act to the Code, see Short Title of 1997 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 430 of act Aug. 14, 1935, was classified to [section 630 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section630&num=0&edition=prelim) prior to repeal by Pub. L. 100–485, title II, § 202(a), Oct. 13, 1988, 102 Stat. 2377.
@@ -25440,7 +25485,7 @@ Notwithstanding [section 654(20)(B) of this title](https://uscode.house.gov/view
 #### References in Text
 Sections 401(b) and 401(c)(3) of the Child Support Performance and Incentive Act of 1998, Pub. L. 105–200, referred to in subsec. (a)(19)(A), (B)(ii), are set out as notes under sections 651 and 652 of this title, respectively. Sections 401(e) and 401(f) of the Act, referred to in subsec. (a)(19)(A), are set out in a note under [section 1169 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1169&num=0&edition=prelim), Labor.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(19)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(19)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Codification
 October 13, 1988, referred to in subsec. (b)(3)(A), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 100–485, which amended par. (3) of this section generally, to reflect the probable intent of Congress.
@@ -27905,7 +27950,7 @@ Pub. L. 109–239, § 4(c), July 3, 2006, 120 Stat. 512, provided that the repea
 ### Statutory Notes
 
 #### References in Text
-The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, as amended, which is classified principally to chapter 21 (§ 1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1901&num=0&edition=prelim) and Tables.
+The Indian Child Welfare Act of 1978, referred to in subsec. (d)(4), is Pub. L. 95–608, Nov. 8, 1978, 92 Stat. 3069, which is classified principally to chapter 21 (§ 1901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1901&num=0&edition=prelim) and Tables.
 
 [Section 677(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section677/a/6&num=0&edition=prelim), referred to in subsec. (e)(1), was redesignated [section 677(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section677/a/5&num=0&edition=prelim) by Pub. L. 115–123, div. E, title VII, § 50753(d)(2)(D), Feb. 9, 2018, 132 Stat. 265.
 
@@ -30427,11 +30472,11 @@ Provisions similar to those comprising former section 707 were contained in sect
 ### Statutory Notes
 
 #### References in Text
-The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(2), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
+The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(2), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
+The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Prior Provisions
 A prior section 708, act Aug. 14, 1935, ch. 531, title V, § 508, as added Jan. 2, 1968, Pub. L. 90–248, title III, § 301, 81 Stat. 926; amended July 10, 1972, Pub. L. 92–345, § 2(d), 86 Stat. 457; July 1, 1973, Pub. L. 93–53, § 4(a)(6), 87 Stat. 135, related to special project grants for maturity and infant care, prior to the general revision of this subchapter by section 2192(a) of Pub. L. 97–35. For effective date, savings, and transitional provisions, see section 2194 of Pub. L. 97–35, set out as a note under [section 701 of this title](./chapter-007-social-security.md#section-701).
@@ -31136,7 +31181,7 @@ Pub. L. 116–260, div. X, § 10, Dec. 27, 2020, 134 Stat. 2416, provided that: 
 
 (1) as of March 11, 2021, be conducting a program under [section 711 of this title](./chapter-007-social-security.md#section-711);
 
-(2) ensure the modification of grants, contracts, and other agreements, as applicable, executed under [section 711 of this title](./chapter-007-social-security.md#section-711) under which the program is conducted as are necessary to provide that, during the period that begins with March 11, 2021 and ends with the end of the 2nd succeeding fiscal year after the funds are awarded, the entity shall—
+(2) ensure the modification of grants, contracts, and other agreements, as applicable, executed under [section 711 of this title](./chapter-007-social-security.md#section-711) under which the program is conducted as are necessary to provide that, during the period that begins with March 11, 2021, and ends with the end of the 2nd succeeding fiscal year after the funds are awarded, the entity shall—
 
   (A) not reduce funding for, or staffing levels of, the program on account of reduced enrollment in the program; and
 
@@ -31163,7 +31208,7 @@ Pub. L. 116–260, div. X, § 10, Dec. 27, 2020, 134 Stat. 2416, provided that: 
 ### Statutory Notes
 
 #### Effective Date
-Pub. L. 117–2, title IX, § 9101, Mar. 11, 2021, 135 Stat. 123, provided in part that this section is effective 1 day after the date of enactment of this Act [Mar. 11, 2021].
+Pub. L. 117–2, title IX, § 9101, Mar. 11, 2021, 135 Stat. 123, provided in part that this section is effective 1 day after the date of enactment of this Act (Mar. 11, 2021).
 
 
 <a id="section-712"></a>
@@ -31699,7 +31744,7 @@ Act July 1, 1944, ch. 373, title VI, § 611, 58 Stat. 719, which repealed prior 
 
   (C) *Payment* — The Secretary shall pay each Tribal government the total of the amounts allocated for the Tribal government under subparagraph (B) in accordance with paragraph (6).
 
-(3) **Payments to each of the 50 states and the District of Columbia**
+(3) **Payments to each of the 50 States and the District of Columbia**
 
   (A) *In general* — The Secretary shall reserve $195,300,000,000 of the amount appropriated under subsection (a)(1) to make payments to each of the 50 States and the District of Columbia.
 
@@ -31806,7 +31851,7 @@ Act July 1, 1944, ch. 373, title VI, § 611, 58 Stat. 719, which repealed prior 
 
 (6) **Territory** — The term “territory” means the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
 
-(7) **Tribal Government** — The term “Tribal Government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021 pursuant to [section 5131 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim).
+(7) **Tribal Government** — The term “Tribal Government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of March 11, 2021, pursuant to [section 5131 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -31823,6 +31868,9 @@ Another prior section 802, act Aug. 14, 1935, ch. 531, title VI, § 602, 49 Stat
 
 #### Effective Date of 2021 Amendment
 Pub. L. 117–58, div. D, title IX, § 40909(c), Nov. 15, 2021, 135 Stat. 1126, provided that: “The amendments made by this section [amending this section and [section 803 of this title](./chapter-007-social-security.md#section-803)] shall take effect as if included in the enactment of section 9901 of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 223).”
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-803"></a>
@@ -31907,7 +31955,7 @@ Pub. L. 117–58, div. D, title IX, § 40909(c), Nov. 15, 2021, 135 Stat. 1126, 
 
 (3) **Transfer authority** — A metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer funds to a private nonprofit organization (as that term is defined in section 11360(17) 11 See References in Text note below. of this title, a public benefit corporation involved in the transportation of passengers or cargo, or a special-purpose unit of State or local government.
 
-(4) **Transfers to states** — Notwithstanding paragraph (1), a metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer such funds to the State in which such entity is located.
+(4) **Transfers to States** — Notwithstanding paragraph (1), a metropolitan city, nonentitlement unit of local government, or county receiving a payment from funds made available under this section may transfer such funds to the State in which such entity is located.
 
 (5) **Use of funds to satisfy non-Federal matching, maintenance of effort, or other expenditure requirement** — Funds provided under this section for an authorized Bureau of Reclamation project may be used for purposes of satisfying any non-Federal matching requirement required for the project.
 
@@ -31954,6 +32002,9 @@ Another prior section 803, act Aug. 14, 1935, ch. 531, title VI, § 603, 49 Stat
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–58 effective as if included in the enactment of section 9901 of the American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 223), see section 40909(c) of Pub. L. 117–58, set out as a note under [section 802 of this title](./chapter-007-social-security.md#section-802).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-804"></a>
@@ -33328,7 +33379,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-Section 212(b) of Public Law 93–66, referred to in pars. (3) and (4), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
+Section 212(b) of Public Law 93–66, referred to in pars. (3) and (4), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
 
 <a id="section-1013"></a>
@@ -33460,9 +33511,9 @@ There are hereby appropriated for fiscal year 2000 and subsequent fiscal years, 
 ### Statutory Notes
 
 #### References in Text
-The Federal Unemployment Tax Act, referred to in subsecs. (b)(1), (3), (c)(1)(B)(ii), (2)(B), (3)(A), and (d)(1)(A)(i), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 439, as amended, which is classified generally to chapter 23 (§ 3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3311 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3311&num=0&edition=prelim) and Tables.
+The Federal Unemployment Tax Act, referred to in subsecs. (b)(1), (3), (c)(1)(B)(ii), (2)(B), (3)(A), and (d)(1)(A)(i), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 439, which is classified generally to chapter 23 (§ 3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3311 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3311&num=0&edition=prelim) and Tables.
 
-Act of June 6, 1933, as amended ([29 U.S.C. 49–49n](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49–49n&num=0&edition=prelim)), referred to in subsec. (c)(1)(A)(ii), (B)(iii), and (4), probably means act June 6, 1933, ch. 49, 48 Stat. 113, as amended, known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. Sections 49m and 49n were not part of act June 6, 1933. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49&num=0&edition=prelim) and Tables.
+Act of June 6, 1933, as amended ([29 U.S.C. 49–49n](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49–49n&num=0&edition=prelim)), referred to in subsec. (c)(1)(A)(ii), (B)(iii), and (4), probably means act June 6, 1933, ch. 49, 48 Stat. 113, known as the Wagner-Peyser Act, which is classified generally to chapter 4B (§ 49 et seq.) of Title 29, Labor. Sections 49m and 49n were not part of act June 6, 1933. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section49&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 1101, act Aug. 14, 1935, ch. 531, title IX, § 901, 49 Stat. 639, related to imposition of tax. For further details, see Prior Law note set out preceding this section.
@@ -34147,7 +34198,7 @@ Act Aug. 24, 1937, ch. 755, 50 Stat. 754, provided for payments to States of 90 
 ### Statutory Notes
 
 #### References in Text
-The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (c) and (d), is Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, as amended, which is set out as a note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim), Internal Revenue Code. Section 204(e) of that Act is part of that note. For complete classification of this Act to the Code, see Tables.
+The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (c) and (d), is Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, which is set out as a note under [section 3304 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim), Internal Revenue Code. Section 204(e) of that Act is part of that note. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 A prior section 1105, act Aug. 14, 1935, ch. 531, title IX, § 905, as added Pub. L. 87–6, § 13, Mar. 24, 1961, 75 Stat. 14; amended Pub. L. 88–31, § 2(c), May 29, 1963, 77 Stat. 51, related to Federal extended compensation account, prior to repeal by Pub. L. 91–373, title III, § 305(a), Aug. 10, 1970, 84 Stat. 716.
@@ -35524,9 +35575,9 @@ the Commissioner shall comply with such request, except to the extent that compl
 
 **(g) Agreement with Secretary of the Treasury** Notwithstanding any other provision of this section, the Commissioner of Social Security shall enter into an agreement with the Secretary of the Treasury under which—
 
-(1) if the Secretary provides the Commissioner with the information described in [section 6103(k)(15) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103/k/15&num=0&edition=prelim) with respect to any individual, the Commissioner shall indicate to the Secretary as to whether such individual receives disability insurance benefits under [section 423 of this title](./chapter-007-social-security.md#section-423) or supplemental security income benefits under subchapter XVI of this chapter (including State supplementary payments of the type referred to in [section 1382e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382e/a&num=0&edition=prelim) or payments of the type described in section 212(a) of Public Law 93–66 [[42 U.S.C. 1382](./chapter-007-social-security.md#section-1382) note]);
+(1) if the Secretary provides the Commissioner with the information described in section 6103(k)(15) of the Internal Revenue Code of 1986 with respect to any individual, the Commissioner shall indicate to the Secretary as to whether such individual receives disability insurance benefits under [section 423 of this title](./chapter-007-social-security.md#section-423) or supplemental security income benefits under subchapter XVI of this chapter (including State supplementary payments of the type referred to in [section 1382e(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382e/a&num=0&edition=prelim) or payments of the type described in section 212(a) of Public Law 93–66 [[42 U.S.C. 1382](./chapter-007-social-security.md#section-1382) note]);
 
-(2) appropriate safeguards are included to assure that the indication described in paragraph (1) will be used solely for the purpose of determining if tax receivables involving such individual are not eligible for collection pursuant to a qualified tax collection contract by reason of [section 6306(d)(3)(E) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6306/d/3/E&num=0&edition=prelim); and
+(2) appropriate safeguards are included to assure that the indication described in paragraph (1) will be used solely for the purpose of determining if tax receivables involving such individual are not eligible for collection pursuant to a qualified tax collection contract by reason of section 6306(d)(3)(E) of the Internal Revenue Code of 1986; and
 
 (3) the Secretary shall pay the Commissioner of Social Security the full costs (including systems and administrative costs) of providing the indication described in paragraph (1).
 
@@ -35538,6 +35589,8 @@ Title VIII of the Social Security Act, referred to in subsec. (a)(1), probably r
 Subchapter E of chapter 1 and subchapter A of chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (a), were comprised of sections 480 to 482 and 1400 to 1432, respectively, and were repealed (subject to certain exceptions) by section 7851(a)(1)(A), (3) of the Internal Revenue Code of 1954, Title 26. The Internal Revenue Code of 1954 was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code. See also [section 7852(b) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7852/b&num=0&edition=prelim) for provision that references in any other law to a provision of the 1939 Code, unless expressly incompatible with the intent thereof, shall be deemed a reference to the corresponding provision of the 1986 Code.
 
 For provision deeming a reference in other laws to a provision of the 1939 Code as a reference to the corresponding provisions of the 1986 Code, see section 7852(b) of the 1986 Code. For table of comparisons of the 1939 Code to the 1986 Code, see table preceding [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code. The Internal Revenue Code of 1986 is classified generally to Title 26.
+
+Sections 6103(k)(15) and 6306(d)(3)(E) of the Internal Revenue Code of 1986, referred to in subsec. (g)(1) and (2), are classified to sections 6103(k)(15) and 6306(d)(3)(E), respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
 2020—Subsec. (g). Pub. L. 116–260, div. N, § 283(a), and div. FF, § 102(a), made substantially identical amendments, adding subsec. (g). Text is based on amendment by div. N, § 283(a).
@@ -36020,12 +36073,19 @@ Amendment by section 2663(e)(3), (j)(2)(D)(iii), (l)(1) of Pub. L. 98–369 effe
 
     (ii) *Specified territory* — The term “specified territory” means Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa.
 
+(10) **Additional increase for Puerto Rico for fiscal year 2022**
+
+  (A) *In general* — Notwithstanding the preceding provisions of this subsection, the total amount certified for Puerto Rico for fiscal year 2022 under this subsection shall be increased by $200,000,000 if the Secretary certifies that, with respect to such fiscal year, Puerto Rico’s State plan under subchapter XIX (or a waiver of such plan) establishes a reimbursement floor, implemented through a directed payment arrangement plan, for physician services that are covered under the Medicare part B fee schedule in the Puerto Rico locality established under [section 1395w–4(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–4/b&num=0&edition=prelim) that is not less than 70 percent of the payment that would apply to such services if they were furnished under part B of subchapter XVIII during such fiscal year.
+
+  (B) *Application to managed care* — In certifying whether Puerto Rico has established a reimbursement floor under a directed payment arrangement plan that satisfies the requirements of subparagraph (A) for fiscal year 2022, the Secretary shall—
+
+    (i) disregard payments made under sub-capitated arrangements for services such as primary care case management; and
+
+    (ii) if the reimbursement floor for physician services applicable under a managed care contract satisfies the requirements of subparagraph (A) for the fiscal year in which the contract is entered into or renewed, such reimbursement floor shall be deemed to satisfy such requirements for the subsequent fiscal year.
+
 **(h) Exclusion of medical assistance expenditures for citizens of freely associated states** Expenditures for medical assistance provided to an individual described in [section 1641(b)(8) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1641/b/8&num=0&edition=prelim) shall not be taken into account for purposes of applying payment limits under subsections (f) and (g).
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 210(d) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022. See 2020 Amendment note below.
 
 #### References in Text
 Subsection (e), referred to in subsec. (c)(2), was repealed by Pub. L. 105–33, title V, § 5512(c), Aug. 5, 1997, 111 Stat. 619.
@@ -36033,6 +36093,8 @@ Subsection (e), referred to in subsec. (c)(2), was repealed by Pub. L. 105–33,
 Section 202 of division N of the Further Consolidated Appropriations Act, 2020, referred to in subsec. (g)(9)(B)(i), is section 202 of div. N of Pub. L. 116–94, which amended this section and sections 1396a, 1396d, and 1396u–5 of this title, and enacted provisions set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
 #### Amendments
+2022—Subsec. (g)(10). Pub. L. 117–103 added par. (10).
+
 2020—Subsec. (f). Pub. L. 116–260, § 208(d)(1), substituted “subsections (g) and (h) and [section 1396u–5(e)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/e/1/B&num=0&edition=prelim)” for “subsection (g) and [section 1396u–5(e)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/e/1/B&num=0&edition=prelim)” in introductory provisions.
 
 Subsec. (g)(2)(B). Pub. L. 116–127, § 6009(1)(A), substituted “for fiscal year 2020, $128,712,500; and” for “for each of fiscal years 2020 through 2021, $126,000,000;” in cl. (ii) and added cl. (iii).
@@ -39244,7 +39306,7 @@ shall be guilty of a felony and upon conviction thereof shall be fined not more 
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsec. (b)(3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsec. (b)(3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 Section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987, referred to in subsec. (b)(3)(E), is section 14(a) of Pub. L. 100–93, which is set out below.
 
@@ -39405,7 +39467,11 @@ Pub. L. 95–142, § 4(d), Oct. 25, 1977, 91 Stat. 1183, provided that: “The a
 Pub. L. 92–603, title II, § 242(d), Oct. 30, 1972, 86 Stat. 1420, provided that: “The provisions of amendments made by this section [enacting this section and [section 1396h of this title](./chapter-007-social-security.md#section-1396h) and amending [section 1395ii of this title](./chapter-007-social-security.md#section-1395ii)] shall not be applicable to any acts, statements, or representations made or committed prior to the enactment of this Act [Oct. 30, 1972].”
 
 #### Moratorium on Implementation of Rule Relating to Eliminating the Anti-Kickback Statute Safe Harbor Protection for Prescription Drug Rebates
-Pub. L. 117–58, div. I, § 90006, Nov. 15, 2021, 135 Stat. 1346, provided that: “Notwithstanding any other provision of law, the Secretary of Health and Human Services shall not, prior to January 1, 2026, implement, administer, or enforce the provisions of the final rule published by the Office of the Inspector General of the Department of Health and Human Services on November 30, 2020, and titled ‘Fraud and Abuse; Removal of Safe Harbor Protection for Rebates Involving Prescription Pharmaceuticals and Creation of New Safe Harbor Protection for Certain Point-of-Sale Reductions in Price on Prescription Pharmaceuticals and Certain Pharmacy Benefit Manager Service Fees’ (85 Fed. Reg. 76666).”
+Pub. L. 117–169, title I, § 11301, Aug. 16, 2022, 136 Stat. 1896, provided that: “The Secretary of Health and Human Services shall not, prior to January 1, 2032, implement, administer, or enforce the provisions of the final rule published by the Office of the Inspector General of the Department of Health and Human Services on November 30, 2020, and titled ‘Fraud and Abuse; Removal of Safe Harbor Protection for Rebates Involving Prescription Pharmaceuticals and Creation of New Safe Harbor Protection for Certain Point-of-Sale Reductions in Price on Prescription Pharmaceuticals and Certain Pharmacy Benefit Manager Service Fees’ (85 Fed. Reg. 76666).”
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 117–58, div. I, § 90006, Nov. 15, 2021, 135 Stat. 1346, as amended by Pub. L. 117–159, div. A, title III, § 13101, June 25, 2022, 136 Stat. 1333.
 
 #### Rulemaking for Exception for Health Center Entity Arrangements
 Pub. L. 108–173, title IV, § 431(b), Dec. 8, 2003, 117 Stat. 2287, provided that: “(1) Establishment.—“(A) In general.—The Secretary [of Health and Human Services] shall establish, on an expedited basis, standards relating to the exception described in section 1128B(b)(3)(H) [now section 1128B(b)(3)(I)] of the Social Security Act [[42 U.S.C. 1320a–7b(b)(3)(I)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7b/b/3/I&num=0&edition=prelim)], as added by subsection (a), for health center entity arrangements to the antikickback penalties. “(B) Factors to consider.—The Secretary shall consider the following factors, among others, in establishing standards relating to the exception for health center entity arrangements under subparagraph (A):“(i) Whether the arrangement between the health center entity and the other party results in savings of Federal grant funds or increased revenues to the health center entity. “(ii) Whether the arrangement between the health center entity and the other party restricts or limits an individual’s freedom of choice. “(iii) Whether the arrangement between the health center entity and the other party protects a health care professional’s independent medical judgment regarding medically appropriate treatment. The Secretary may also include other standards and criteria that are consistent with the intent of Congress in enacting the exception established under this section. “(2) Deadline.—Not later than 1 year after the date of the enactment of this Act [Dec. 8, 2003] the Secretary shall publish final regulations establishing the standards described in paragraph (1).”
@@ -39699,7 +39765,7 @@ Amendment by Pub. L. 111–148 effective on the first day after the final day of
 #### References in Text
 Section 14(a) of the Medicare and Medicaid Patient and Program Protection Act of 1987, referred to in subsec. (a)(1)(A)(i), is section 14(a) of Pub. L. 100–93, which is set out as a note under [section 1320a–7b of this title](./chapter-007-social-security.md#section-1320a-7b).
 
-Section 5 of the Inspector General Act of 1978, referred to in subsec. (a)(1)(C), is section 5 of Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1103, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 5 of the Inspector General Act of 1978, referred to in subsec. (a)(1)(C), is section 5 of Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1103, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Internal Revenue Code of 1986, referred to in subsec. (b)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
@@ -40116,9 +40182,6 @@ Section was enacted as part of the Supplemental Appropriations Act, 2008, and no
 (11) **Physician** — The term “physician” has the meaning given that term in [section 1395x(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/r&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 6111(a)(1) of Pub. L. 115–271 applicable with respect to information required to be submitted under this section on or after Jan. 1, 2022. See 2018 Amendment notes below.
 
 #### Amendments
 2018—Subsec. (c)(1)(C)(viii). Pub. L. 115–271, § 6111(b), substituted “in the case of information made available under this subparagraph prior to January 1, 2022, does not contain” for “does not contain”.
@@ -40963,7 +41026,7 @@ for each month that begins during the applicable period described in subsection 
 ### Statutory Notes
 
 #### References in Text
-Section 212(b) of Public Law 93–66, referred to in subsec. (e), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
+Section 212(b) of Public Law 93–66, referred to in subsec. (e), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
 #### Amendments
 2004—Subsec. (a). Pub. L. 108–203 substantially rewrote text of subsec. (a). Prior to amendment, text read as follows: “Any person who makes, or causes to be made, a statement or representation of a material fact for use in determining any initial or continuing right to or the amount of—
@@ -41886,7 +41949,7 @@ Pub. L. 105–33, title IV, § 4321(d)(2), Aug. 5, 1997, 111 Stat. 395, provided
 ### Statutory Notes
 
 #### References in Text
-Section 212(b) of Public Law 93–66, referred to in subsec. (e)(3), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 156, as amended, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
+Section 212(b) of Public Law 93–66, referred to in subsec. (e)(3), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 156, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
 #### Amendments
 2004—Pub. L. 108–203 amended section catchline and text generally, substituting provisions relating to recovery of overpayments from benefits under subchapters II, VIII, and XVI of this chapter, consisting of subsecs. (a) to (e), for provisions relating to recovery of overpayments from benefits under subchapter XVI of this chapter, consisting of subsecs. (a) and (b).
@@ -42114,7 +42177,7 @@ Repeal effective Mar. 2, 2004, and effective with respect to overpayments under 
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (c)(1), (2)(A) and (g)(1), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (g)(1), is classified generally to Title 26, Internal Revenue Code.
 
@@ -46085,6 +46148,700 @@ Section effective one year after Nov. 2, 2015, see section 824(e) of Pub. L. 114
 Pub. L. 114–74, title VIII, § 824(d), Nov. 2, 2015, 129 Stat. 610, provided that: “Not later than 1 year after the date of the enactment of this Act [Nov. 2, 2015], the Commissioner of Social Security shall prescribe by regulation procedures for implementing the Commissioner’s access to and use of information held by payroll providers, including— “(1) guidelines for establishing and maintaining information exchanges with payroll providers, pursuant to section 1184 of the Social Security Act [[42 U.S.C. 1320e–3](./chapter-007-social-security.md#section-1320e-3)]; “(2) beneficiary authorizations; “(3) reduced wage reporting responsibilities for individuals who authorize the Commissioner to access information held by payroll data providers through an information exchange; and “(4) procedures for notifying individuals in writing when they become subject to such reduced wage reporting requirements and when such reduced wage reporting requirements no longer apply to them.”
 
 
+<a id="section-1320f"></a>
+## § 1320f. Establishment of program
+**(a) In general** The Secretary shall establish a Drug Price Negotiation Program (in this part referred to as the “program”). Under the program, with respect to each price applicability period, the Secretary shall—
+
+(1) publish a list of selected drugs in accordance with [section 1320f–1 of this title](./chapter-007-social-security.md#section-1320f-1);
+
+(2) enter into agreements with manufacturers of selected drugs with respect to such period, in accordance with [section 1320f–2 of this title](./chapter-007-social-security.md#section-1320f-2);
+
+(3) negotiate and, if applicable, renegotiate maximum fair prices for such selected drugs, in accordance with [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3);
+
+(4) carry out the publication and administrative duties and compliance monitoring in accordance with sections 1320f–4 and 1320f–5 of this title.
+
+**(b) Definitions relating to timing** For purposes of this part:
+
+(1) **Initial price applicability year** — The term “initial price applicability year” means a year (beginning with 2026).
+
+(2) **Price applicability period** — The term “price applicability period” means, with respect to a qualifying single source drug, the period beginning with the first initial price applicability year with respect to which such drug is a selected drug and ending with the last year during which the drug is a selected drug.
+
+(3) **Selected drug publication date** — The term “selected drug publication date” means, with respect to each initial price applicability year, February 1 of the year that begins 2 years prior to such year.
+
+(4) **Negotiation period** — The term “negotiation period” means, with respect to an initial price applicability year with respect to a selected drug, the period—
+
+  (A) beginning on the sooner of—
+
+    (i) the date on which the manufacturer of the drug and the Secretary enter into an agreement under [section 1320f–2 of this title](./chapter-007-social-security.md#section-1320f-2) with respect to such drug; or
+
+    (ii) February 28 following the selected drug publication date with respect to such selected drug; and
+
+  (B) ending on November 1 of the year that begins 2 years prior to the initial price applicability year.
+
+**(c) Other definitions** For purposes of this part:
+
+(1) **Manufacturer** — The term “manufacturer” has the meaning given that term in [section 1395w–3a(c)(6)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/c/6/A&num=0&edition=prelim).
+
+(2) **Maximum fair price eligible individual** — The term “maximum fair price eligible individual” means, with respect to a selected drug—
+
+  (A) in the case such drug is dispensed to the individual at a pharmacy, by a mail order service, or by another dispenser, an individual who is enrolled in a prescription drug plan under part D of subchapter XVIII or an MA–PD plan under part C of such subchapter if coverage is provided under such plan for such selected drug; and
+
+  (B) in the case such drug is furnished or administered to the individual by a hospital, physician, or other provider of services or supplier, an individual who is enrolled under part B of subchapter XVIII, including an individual who is enrolled in an MA plan under part C of such subchapter, if payment may be made under part B for such selected drug.
+
+(3) **Maximum fair price** — The term “maximum fair price” means, with respect to a year during a price applicability period and with respect to a selected drug (as defined in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)) with respect to such period, the price negotiated pursuant to [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3), and updated pursuant to [section 1320f–4(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–4/b&num=0&edition=prelim), as applicable, for such drug and year.
+
+(4) **Reference product** — The term “reference product” has the meaning given such term in [section 262(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/i&num=0&edition=prelim).
+
+(5) **Total expenditures** — The term “total expenditures” includes, in the case of expenditures with respect to part D of subchapter XVIII, the total gross covered prescription drug costs (as defined in [section 1395w–115(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–115/b/3&num=0&edition=prelim)). The term “total expenditures” excludes, in the case of expenditures with respect to part B of such subchapter, expenditures for a drug or biological product that are bundled or packaged into the payment for another service.
+
+(6) **Unit** — The term “unit” means, with respect to a drug or biological product, the lowest identifiable amount (such as a capsule or tablet, milligram of molecules, or grams) of the drug or biological product that is dispensed or furnished.
+
+**(d) Timing for initial price applicability year 2026** Notwithstanding the provisions of this part, in the case of initial price applicability year 2026, the following rules shall apply for purposes of implementing the program:
+
+(1) Subsection (b)(3) shall be applied by substituting “September 1, 2023” for “, with respect to each initial price applicability year, February 1 of the year that begins 2 years prior to such year”.
+
+(2) Subsection (b)(4) shall be applied—
+
+  (A) in subparagraph (A)(ii), by substituting “October 1, 2023” for “February 28 following the selected drug publication date with respect to such selected drug”; and
+
+  (B) in subparagraph (B), by substituting “August 1, 2024” for “November 1 of the year that begins 2 years prior to the initial price applicability year”.
+
+(3) [Section 1320f–1 of this title](./chapter-007-social-security.md#section-1320f-1) shall be applied—
+
+  (A) in subsection (b)(1)(A), by substituting “during the period beginning on June 1, 2022, and ending on May 31, 2023” for “during the most recent period of 12 months prior to the selected drug publication date (but ending not later than October 31 of the year prior to the year of such drug publication date), with respect to such year, for which data are available”; and
+
+  (B) in subsection (d)(1)(A), by substituting “during the period beginning on June 1, 2022, and ending on May 31, 2023” for “during the most recent period for which data are available of at least 12 months prior to the selected drug publication date (but ending no later than October 31 of the year prior to the year of such drug publication date), with respect to such year”.11 So in original. Probably should read as follows: “during the most recent 12-month period for which data are available prior to such selected drug publication date (but ending no later than October 31 of the year prior to the year of such drug publication date).”
+
+(4) [Section 1320f–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–2/a&num=0&edition=prelim) shall be applied by substituting “October 1, 2023” for “February 28 following the selected drug publication date with respect to such selected drug”.
+
+(5) [Section 1320f–3(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/b/2&num=0&edition=prelim) shall be applied—
+
+  (A) in subparagraph (A), by substituting “October 2, 2023” for “March 1 of the year of the selected drug publication date, with respect to the selected drug”;
+
+  (B) in subparagraph (B), by substituting “February 1, 2024” for “the June 1 following the selected drug publication date”; and
+
+  (C) in subparagraph (E), by substituting “August 1, 2024” for “the first day of November following the selected drug publication date, with respect to the initial price applicability year”.
+
+(6) [Section 1320f–4(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–4/a/1&num=0&edition=prelim) shall be applied by substituting “September 1, 2024” for “November 30 of the year that is 2 years prior to such initial price applicability year”.
+
+### Statutory Notes
+
+#### Implementation for 2026 Through 2028
+Pub. L. 117–169, title I, § 11001(c), Aug. 16, 2022, 136 Stat. 1854, provided that: “The Secretary of Health and Human Services shall implement this section [enacting this part and amending sections 1395w–3a, 1395w–22, 1395w–27, 1395w–102, 1395w–104, 1395w–111, 1395w–112, 1395w–115, 1395w–153, and 1396r–8 of this title], including the amendments made by this section, for 2026, 2027, and 2028 by program instruction or other forms of program guidance.”
+
+
+<a id="section-1320f-1"></a>
+## § 1320f–1. Selection of negotiation-eligible drugs as selected drugs
+**(a) In general** Not later than the selected drug publication date with respect to an initial price applicability year, in accordance with subsection (b), the Secretary shall select and publish a list of—
+
+(1) with respect to the initial price applicability year 2026, 10 negotiation-eligible drugs described in subparagraph (A) of subsection (d)(1), but not subparagraph (B) of such subsection, with respect to such year (or, all (if such number is less than 10) such negotiation-eligible drugs with respect to such year);
+
+(2) with respect to the initial price applicability year 2027, 15 negotiation-eligible drugs described in subparagraph (A) of subsection (d)(1), but not subparagraph (B) of such subsection, with respect to such year (or, all (if such number is less than 15) such negotiation-eligible drugs with respect to such year);
+
+(3) with respect to the initial price applicability year 2028, 15 negotiation-eligible drugs described in subparagraph (A) or (B) of subsection (d)(1) with respect to such year (or, all (if such number is less than 15) such negotiation-eligible drugs with respect to such year); and
+
+(4) with respect to the initial price applicability year 2029 or a subsequent year, 20 negotiation-eligible drugs described in subparagraph (A) or (B) of subsection (d)(1), with respect to such year (or, all (if such number is less than 20) such negotiation-eligible drugs with respect to such year).
+Subject to subsection (c)(2) and [section 1320f–3(f)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/f/5&num=0&edition=prelim), each drug published on the list pursuant to the previous sentence and subsection (b)(3) shall be subject to the negotiation process under [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3) for the negotiation period with respect to such initial price applicability year (and the renegotiation process under such section as applicable for any subsequent year during the applicable price applicability period).
+
+**(b) Selection of drugs**
+
+(1) **In general** — In carrying out subsection (a), subject to paragraph (2), the Secretary shall, with respect to an initial price applicability year, do the following:
+
+  (A) Rank negotiation-eligible drugs described in subsection (d)(1) according to the total expenditures for such drugs under parts B and D of subchapter XVIII, as determined by the Secretary, during the most recent period of 12 months prior to the selected drug publication date (but ending not later than October 31 of the year prior to the year of such drug publication date), with respect to such year, for which data are available, with the negotiation-eligible drugs with the highest total expenditures being ranked the highest.
+
+  (B) Select from such ranked drugs with respect to such year the negotiation-eligible drugs with the highest such rankings.
+
+  (C) In the case of a biological product for which the inclusion of the biological product as a selected drug on a list published under subsection (a) has been delayed under subsection (f)(2), remove such biological product from the rankings under subparagraph (A) before making the selections under subparagraph (B).
+
+(2) **High spend part D drugs for 2026 and 2027** — With respect to the initial price applicability year 2026 and with respect to the initial price applicability year 2027, the Secretary shall apply paragraph (1) as if the reference to “negotiation-eligible drugs described in subsection (d)(1)” were a reference to “negotiation-eligible drugs described in subsection (d)(1)(A)” and as if the reference to “total expenditures for such drugs under parts B and D of subchapter XVIII” were a reference to “total expenditures for such drugs under part D of subchapter XVIII”.
+
+(3) **Inclusion of delayed biological products** — Pursuant to subparagraphs (B)(ii)(I) and (C)(i) of subsection (f)(2), the Secretary shall select and include on the list published under subsection (a) the biological products described in such subparagraphs. Such biological products shall count towards the required number of drugs to be selected under subsection (a)(1).
+
+**(c) Selected drug**
+
+(1) **In general** — For purposes of this part, in accordance with subsection (e)(2) and subject to paragraph (2), each negotiation-eligible drug included on the list published under subsection (a) with respect to an initial price applicability year shall be referred to as a “selected drug” with respect to such year and each subsequent year beginning before the first year that begins at least 9 months after the date on which the Secretary determines at least one drug or biological product—
+
+  (A) is approved or licensed (as applicable)—
+
+    (i) under [section 355(j) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim) using such drug as the listed drug; or
+
+    (ii) under [section 262(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim) using such drug as the reference product; and
+
+  (B) is marketed pursuant to such approval or licensure.
+
+(2) **Clarification** — A negotiation-eligible drug—
+
+  (A) that is included on the list published under subsection (a) with respect to an initial price applicability year; and
+
+  (B) for which the Secretary makes a determination described in paragraph (1) before or during the negotiation period with respect to such initial price applicability year;
+  shall not be subject to the negotiation process under [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3) with respect to such negotiation period and shall continue to be considered a selected drug under this part with respect to the number of negotiation-eligible drugs published on the list under subsection (a) with respect to such initial price applicability year.
+
+**(d) Negotiation-eligible drug**
+
+(1) **In general** — For purposes of this part, subject to paragraph (2), the term “negotiation-eligible drug” means, with respect to the selected drug publication date with respect to an initial price applicability year, a qualifying single source drug, as defined in subsection (e), that is described in either of the following subparagraphs (or, with respect to the initial price applicability year 2026 or 2027, that is described in subparagraph (A)):
+
+  (A) *Part D high spend drugs* — The qualifying single source drug is, determined in accordance with subsection (e)(2), among the 50 qualifying single source drugs with the highest total expenditures under part D of subchapter XVIII, as determined by the Secretary in accordance with paragraph (3), during the most recent 12-month period for which data are available prior to such selected drug publication date (but ending no later than October 31 of the year prior to the year of such drug publication date).
+
+  (B) *Part B high spend drugs* — The qualifying single source drug is, determined in accordance with subsection (e)(2), among the 50 qualifying single source drugs with the highest total expenditures under part B of subchapter XVIII, as determined by the Secretary in accordance with paragraph (3), during such most recent 12-month period, as described in subparagraph (A).
+
+(2) **Exception for small biotech drugs**
+
+  (A) *In general* — Subject to subparagraph (C), the term “negotiation-eligible drug” shall not include, with respect to the initial price applicability years 2026, 2027, and 2028, a qualifying single source drug that meets either of the following:
+
+    (i) *Part D drugs* — The total expenditures for the qualifying single source drug under part D of subchapter XVIII, as determined by the Secretary in accordance with paragraph (3)(B), during 2021—
+
+      (I) are equal to or less than 1 percent of the total expenditures under such part D, as so determined, for all covered part D drugs (as defined in [section 1395w–102(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/e&num=0&edition=prelim)) during such year; and
+
+      (II) are equal to at least 80 percent of the total expenditures under such part D, as so determined, for all covered part D drugs for which the manufacturer of the drug has an agreement in effect under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a) during such year.
+
+    (ii) *Part B drugs* — The total expenditures for the qualifying single source drug under part B of subchapter XVIII, as determined by the Secretary in accordance with paragraph (3)(B), during 2021—
+
+      (I) are equal to or less than 1 percent of the total expenditures under such part B, as so determined, for all qualifying single source drugs for which payment may be made under such part B during such year; and
+
+      (II) are equal to at least 80 percent of the total expenditures under such part B, as so determined, for all qualifying single source drugs of the manufacturer for which payment may be made under such part B during such year.
+
+  (B) *Clarifications relating to manufacturers*
+
+    (i) *Aggregation rule* — All persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 shall be treated as one manufacturer for purposes of this paragraph.
+
+    (ii) *Limitation* — A drug shall not be considered to be a qualifying single source drug described in clause (i) or (ii) of subparagraph (A) if the manufacturer of such drug is acquired after 2021 by another manufacturer that does not meet the definition of a specified manufacturer under [section 1395w–114c(g)(4)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114c/g/4/B/ii&num=0&edition=prelim), effective at the beginning of the plan year immediately following such acquisition or, in the case of an acquisition before 2025, effective January 1, 2025.
+
+  (C) *Drugs not included as small biotech drugs* — A new formulation, such as an extended release formulation, of a qualifying single source drug shall not be considered a qualifying single source drug described in subparagraph (A).
+
+(3) **Clarifications and determinations**
+
+  (A) *Previously selected drugs and small biotech drugs excluded* — In applying subparagraphs (A) and (B) of paragraph (1), the Secretary shall not consider or count—
+
+    (i) drugs that are already selected drugs; and
+
+    (ii) for initial price applicability years 2026, 2027, and 2028, qualifying single source drugs described in paragraph (2)(A).
+
+  (B) *Use of data* — In determining whether a qualifying single source drug satisfies any of the criteria described in paragraph (1) or (2), the Secretary shall use data that is aggregated across dosage forms and strengths of the drug, including new formulations of the drug, such as an extended release formulation, and not based on the specific formulation or package size or package type of the drug.
+
+**(e) Qualifying single source drug**
+
+(1) **In general** — For purposes of this part, the term “qualifying single source drug” means, with respect to an initial price applicability year, subject to paragraphs (2) and (3), a covered part D drug (as defined in [section 1395w–102(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/e&num=0&edition=prelim)) that is described in any of the following or a drug or biological product for which payment may be made under part B of subchapter XVIII that is described in any of the following:
+
+  (A) *Drug products* — A drug—
+
+    (i) that is approved under [section 355(c) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim) and is marketed pursuant to such approval;
+
+    (ii) for which, as of the selected drug publication date with respect to such initial price applicability year, at least 7 years will have elapsed since the date of such approval; and
+
+    (iii) that is not the listed drug for any drug that is approved and marketed under section 355(j) of such title.
+
+  (B) *Biological products* — A biological product—
+
+    (i) that is licensed under [section 262(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim) and is marketed under [section 262 of this title](./chapter-6a-public-health-service.md#section-262);
+
+    (ii) for which, as of the selected drug publication date with respect to such initial price applicability year, at least 11 years will have elapsed since the date of such licensure; and
+
+    (iii) that is not the reference product for any biological product that is licensed and marketed under [section 262(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim).
+
+(2) **Treatment of authorized generic drugs**
+
+  (A) *In general* — In the case of a qualifying single source drug described in subparagraph (A) or (B) of paragraph (1) that is the listed drug (as such term is used in [section 355(j) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)) or a product described in clause (ii) of subparagraph (B), with respect to an authorized generic drug, in applying the provisions of this part, such authorized generic drug and such listed drug or such product shall be treated as the same qualifying single source drug.
+
+  (B) *Authorized generic drug defined* — For purposes of this paragraph, the term “authorized generic drug” means—
+
+    (i) in the case of a drug, an authorized generic drug (as such term is defined in [section 355(t)(3) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/t/3&num=0&edition=prelim)); and
+
+    (ii) in the case of a biological product, a product that—
+
+      (I) has been licensed under [section 262(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim); 11 See References in Text note below. and
+
+      (II) is marketed, sold, or distributed directly or indirectly to retail class of trade under a different labeling, packaging (other than repackaging as the reference product in blister packs, unit doses, or similar packaging for use in institutions), product code, labeler code, trade name, or trade mark than the reference product.
+
+(3) **Exclusions** — In this part, the term “qualifying single source drug” does not include any of the following:
+
+  (A) *Certain orphan drugs* — A drug that is designated as a drug for only one rare disease or condition under [section 360bb of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bb&num=0&edition=prelim) and for which the only approved indication (or indications) is for such disease or condition.
+
+  (B) *Low spend medicare drugs* — A drug or biological product with respect to which the total expenditures under parts B and D of subchapter XVIII, as determined by the Secretary in accordance with subsection (d)(3)(B)—
+
+    (i) with respect to initial price applicability year 2026, is less than, during the period beginning on June 1, 2022, and ending on May 31, 2023, $200,000,000;
+
+    (ii) with respect to initial price applicability year 2027, is less than, during the most recent 12-month period applicable under subparagraphs (A) and (B) of subsection (d)(1) for such year, the dollar amount specified in clause (i) increased by the annual percentage increase in the consumer price index for all urban consumers (all items; United States city average) for the period beginning on June 1, 2023, and ending on September 30, 2024; or
+
+    (iii) with respect to a subsequent initial price applicability year, is less than, during the most recent 12-month period applicable under subparagraphs (A) and (B) of subsection (d)(1) for such year, the dollar amount specified in this subparagraph for the previous initial price applicability year increased by the annual percentage increase in such consumer price index for the 12-month period ending on September 30 of the year prior to the year of the selected drug publication date with respect to such subsequent initial price applicability year.
+
+  (C) *Plasma-derived products* — A biological product that is derived from human whole blood or plasma.
+
+**(f) Special rule to delay selection and negotiation of biologics for biosimilar market entry**
+
+(1) **Application**
+
+  (A) *In general* — Subject to subparagraph (B), in the case of a biological product that would (but for this subsection) be an extended-monopoly drug (as defined in [section 1320f–3(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/c/4&num=0&edition=prelim)) included as a selected drug on the list published under subsection (a) with respect to an initial price applicability year, the rules described in paragraph (2) shall apply if the Secretary determines that there is a high likelihood (as described in paragraph (3)) that a biosimilar biological product (for which such biological product will be the reference product) will be licensed and marketed under [section 262(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim) before the date that is 2 years after the selected drug publication date with respect to such initial price applicability year.
+
+  (B) *Request required*
+
+    (i) *In general* — The Secretary shall not provide for a delay under—
+
+      (I) paragraph (2)(A) unless a request is made for such a delay by a manufacturer of a biosimilar biological product prior to the selected drug publication date for the list published under subsection (a) with respect to the initial price applicability year for which the biological product may have been included as a selected drug on such list but for subparagraph (2)(A); or
+
+      (II) paragraph (2)(B)(iii) unless a request is made for such a delay by such a manufacturer prior to the selected drug publication date for the list published under subsection (a) with respect to the initial price applicability year that is 1 year after the initial price applicability year for which the biological product described in subsection (a) would have been included as a selected drug on such list but for paragraph (2)(A).
+
+    (ii) *Information and documents*
+
+      (I) *In general* — A request made under clause (i) shall be submitted to the Secretary by such manufacturer at a time and in a form and manner specified by the Secretary, and contain—
+
+        (aa) information and documents necessary for the Secretary to make determinations under this subsection, as specified by the Secretary and including, to the extent available, items described in subclause (III); and
+
+        (bb) all agreements related to the biosimilar biological product filed with the Federal Trade Commission or the Assistant Attorney General pursuant to subsections (a) and (c) of section 1112 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+
+      (II) *Additional information and documents* — After the Secretary has reviewed the request and materials submitted under subclause (I), the manufacturer shall submit any additional information and documents requested by the Secretary necessary to make determinations under this subsection.
+
+      (III) *Items described* — The items described in this clause are the following:
+
+        (aa) The manufacturing schedule for such biosimilar biological product submitted to the Food and Drug Administration during its review of the application under such [section 262(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim).
+
+        (bb) Disclosures (in filings by the manufacturer of such biosimilar biological product with the Securities and Exchange Commission required under section 78l(b), 78l(g), 78m(a), or 78o(d) of title 15 about capital investment, revenue expectations, and actions taken by the manufacturer that are typical of the normal course of business in the year (or the 2 years, as applicable) before marketing of a biosimilar biological product) that pertain to the marketing of such biosimilar biological product, or comparable documentation that is distributed to the shareholders of privately held companies.
+
+  (C) *Aggregation rule*
+
+    (i) *In general* — All persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986, or in a partnership, shall be treated as one manufacturer for purposes of paragraph (2)(D)(iv).
+
+    (ii) *Partnership defined* — In clause (i), the term “partnership” means a syndicate, group, pool, joint venture, or other organization through or by means of which any business, financial operation, or venture is carried on by the manufacturer of the biological product and the manufacturer of the biosimilar biological product.
+
+(2) **Rules described** — The rules described in this paragraph are the following:
+
+  (A) *Delayed selection and negotiation for 1 year* — If a determination of high likelihood is made under paragraph (3), the Secretary shall delay the inclusion of the biological product as a selected drug on the list published under subsection (a) until such list is published with respect to the initial price applicability year that is 1 year after the initial price applicability year for which the biological product would have been included as a selected drug on such list.
+
+  (B) *If not licensed and marketed during the initial delay*
+
+    (i) *In general* — If, during the time period between the selected drug publication date on which the biological product would have been included on the list as a selected drug pursuant to subsection (a) but for subparagraph (A) and the selected drug publication date with respect to the initial price applicability year that is 1 year after the initial price applicability year for which such biological product would have been included as a selected drug on such list, the Secretary determines that the biosimilar biological product for which the manufacturer submitted the request under paragraph (1)(B)(i)(II) (and for which the Secretary previously made a high likelihood determination under paragraph (3)) has not been licensed and marketed under [section 262(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim), the Secretary shall, at the request of such manufacturer—
+
+      (I) reevaluate whether there is a high likelihood (as described in paragraph (3)) that such biosimilar biological product will be licensed and marketed under such section 262(k) before the date that is 2 years after the selected drug publication date for which such biological product would have been included as a selected drug on such list published but for subparagraph (A); and
+
+      (II) evaluate whether, on the basis of clear and convincing evidence, the manufacturer of such biosimilar biological product has made a significant amount of progress (as determined by the Secretary) towards both such licensure and the marketing of such biosimilar biological product (based on information from items described in subclauses (I)(bb) and (II) of paragraph (1)(B)(ii)) since the receipt by the Secretary of the request made by such manufacturer under paragraph (1)(B)(i)(I).
+
+    (ii) *Selection and negotiation* — If the Secretary determines that there is not a high likelihood that such biosimilar biological product will be licensed and marketed as described in clause (i)(I) or there has not been a significant amount of progress as described in clause (i)(II)—
+
+      (I) the Secretary shall include the biological product as a selected drug on the list published under subsection (a) with respect to the initial price applicability year that is 1 year after the initial price applicability year for which such biological product would have been included as a selected drug on such list but for subparagraph (A); and
+
+      (II) the manufacturer of such biological product shall pay a rebate under paragraph (4) with respect to the year for which such manufacturer would have provided access to a maximum fair price for such biological product but for subparagraph (A).
+
+    (iii) *Second 1-year delay* — If the Secretary determines that there is a high likelihood that such biosimilar biological product will be licensed and marketed (as described in clause (i)(I)) and a significant amount of progress has been made by the manufacturer of such biosimilar biological product towards such licensure and marketing (as described in clause (i)(II)), the Secretary shall delay the inclusion of the biological product as a selected drug on the list published under subsection (a) until the selected drug publication date of such list with respect to the initial price applicability year that is 2 years after the initial price applicability year for which such biological product would have been included as a selected drug on such list but for this subsection.
+
+  (C) *If not licensed and marketed during the year two delay* — If, during the time period between the selected drug publication date of the list for which the biological product would have been included as a selected drug but for subparagraph (B)(iii) and the selected drug publication date with respect to the initial price applicability year that is 2 years after the initial price applicability year for which such biological product would have been included as a selected drug on such list but for this subsection, the Secretary determines that such biosimilar biological product has not been licensed and marketed—
+
+    (i) the Secretary shall include such biological product as a selected drug on such list with respect to the initial price applicability year that is 2 years after the initial price applicability year for which such biological product would have been included as a selected drug on such list; and
+
+    (ii) the manufacturer of such biological product shall pay a rebate under paragraph (4) with respect to the years for which such manufacturer would have provided access to a maximum fair price for such biological product but for this subsection.
+
+  (D) *Limitations on delays*
+
+    (i) *Limited to 2 years* — In no case shall the Secretary delay the inclusion of a biological product on the list published under subsection (a) for more than 2 years.
+
+    (ii) *Exclusion of biological products that transitioned to a long-monopoly drug during the delay* — In the case of a biological product for which the inclusion on the list published pursuant to subsection (a) was delayed by 1 year under subparagraph (A) and for which there would have been a change in status to a long-monopoly drug (as defined in [section 1320f–3(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/c/5&num=0&edition=prelim)) if such biological product had been a selected drug, in no case may the Secretary provide for a second 1-year delay under subparagraph (B)(iii).
+
+    (iii) *Exclusion of biological products if more than 1 year since licensure* — In no case shall the Secretary delay the inclusion of a biological product on the list published under subsection (a) if more than 1 year has elapsed since the biosimilar biological product has been licensed under [section 262(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim) and marketing has not commenced for such biosimilar biological product.
+
+    (iv) *Certain manufacturers of biosimilar biological products excluded* — In no case shall the Secretary delay the inclusion of a biological product as a selected drug on the list published under subsection (a) if Secretary determined that the manufacturer of the biosimilar biological product described in paragraph (1)(A)—
+
+      (I) is the same as the manufacturer of the reference product described in such paragraph or is treated as being the same pursuant to paragraph (1)(C); or
+
+      (II) has, based on information from items described in paragraph (1)(B)(ii)(I)(bb), entered into any agreement described in such paragraph with the manufacturer of the reference product described in paragraph (1)(A) that—
+
+        (aa) requires or incentivizes the manufacturer of the biosimilar biological product to submit a request described in paragraph (1)(B); or
+
+        (bb) restricts the quantity (either directly or indirectly) of the biosimilar biological product that may be sold in the United States over a specified period of time.
+
+(3) **High likelihood** — For purposes of this subsection, there is a high likelihood described in paragraph (1) or paragraph (2), as applicable, if the Secretary finds that—
+
+  (A) an application for licensure under [section 262(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim) for the biosimilar biological product has been accepted for review or approved by the Food and Drug Administration; and
+
+  (B) information from items described in sub clauses 22 So in original. (I)(bb) and (III) of paragraph (1)(B)(ii) submitted to the Secretary by the manufacturer requesting a delay under such paragraph provides clear and convincing evidence that such biosimilar biological product will, within the time period specified under paragraph (1)(A) or (2)(B)(i)(I), be marketed.
+
+(4) **Rebate**
+
+  (A) *In general* — For purposes of subparagraphs (B)(ii)(II) and (C)(ii) of paragraph (2), in the case of a biological product for which the inclusion on the list under subsection (a) was delayed under this subsection and for which the Secretary has negotiated and entered into an agreement under [section 1320f–2 of this title](./chapter-007-social-security.md#section-1320f-2) with respect to such biological product, the manufacturer shall be required to pay a rebate to the Secretary at such time and in such manner as determined by the Secretary.
+
+  (B) *Amount* — Subject to subparagraph (C), the amount of the rebate under subparagraph (A) with respect to a biological product shall be equal to the estimated amount—
+
+    (i) in the case of a biological product that is a covered part D drug (as defined in [section 1395w–102(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/e&num=0&edition=prelim)), that is the sum of the products of—
+
+      (I) 75 percent of the amount by which—
+
+        (aa) the average manufacturer price, as reported by the manufacturer of such covered part D drug under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8) (or, if not reported by such manufacturer under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8), as reported by such manufacturer to the Secretary pursuant to the agreement under [section 1320f–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–2/a&num=0&edition=prelim)) for such biological product, with respect to each of the calendar quarters of the price applicability period that would have applied but for this subsection; exceeds
+
+        (bb) in the initial price applicability year that would have applied but for a delay under—
+
+          (AA) paragraph (2)(A), the maximum fair price negotiated under [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3) for such biological product under such agreement; or
+
+          (BB) paragraph (2)(B)(iii), such maximum fair price, increased as described in [section 1320f–4(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–4/b/1/A&num=0&edition=prelim); and
+
+      (II) the number of units dispensed under part D of subchapter XVIII for such covered part D drug during each such calendar quarter of such price applicability period; and
+
+    (ii) in the case of a biological product for which payment may be made under part B of subchapter XVIII, that is the sum of the products of—
+
+      (I) 80 percent of the amount by which—
+
+        (aa) the payment amount for such biological product under [section 1395w–3a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/b&num=0&edition=prelim), with respect to each of the calendar quarters of the price applicability period that would have applied but for this subsection; exceeds
+
+        (bb) in the initial price applicability year that would have applied but for a delay under—
+
+          (AA) paragraph (2)(A), the maximum fair price negotiated under [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3) for such biological product under such agreement; or
+
+          (BB) paragraph (2)(B)(iii), such maximum fair price, increased as described in [section 1320f–4(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–4/b/1/A&num=0&edition=prelim); and
+
+      (II) the number of units (excluding units that are packaged into the payment amount for an item or service and are not separately payable under such part B) of the billing and payment code of such biological product administered or furnished under such part B during each such calendar quarter of such price applicability period.
+
+  (C) *Special rule for delayed biological products that are long-monopoly drugs*
+
+    (i) *In general* — In the case of a biological product with respect to which a rebate is required to be paid under this paragraph, if such biological product qualifies as a long-monopoly drug (as defined in [section 1320f–3(c)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/c/5&num=0&edition=prelim)) at the time of its inclusion on the list published under subsection (a), in determining the amount of the rebate for such biological product under subparagraph (B), the amount described in clause (ii) shall be substituted for the maximum fair price described in clause (i)(I) or (ii)(I) of such subparagraph (B), as applicable.
+
+    (ii) *Amount described* — The amount described in this clause is an amount equal to 65 percent of the average non-Federal average manufacturer price for the biological product for 2021 (or, in the case that there is not an average non-Federal average manufacturer price available for such biological product for 2021, for the first full year following the market entry for such biological product), increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from September 2021 (or December of such first full year following the market entry), as applicable, to September of the year prior to the selected drug publication date with respect to the initial price applicability year that would have applied but for this subsection.
+
+  (D) *Rebate deposits* — Amounts paid as rebates under this paragraph shall be deposited into—
+
+    (i) in the case payment is made for such biological product under part B of subchapter XVIII, the Federal Supplementary Medical Insurance Trust Fund established under [section 1395t of this title](./chapter-007-social-security.md#section-1395t); and
+
+    (ii) in the case such biological product is a covered part D drug (as defined in [section 1395w–102(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/e&num=0&edition=prelim)), the Medicare Prescription Drug Account under [section 1395w–116 of this title](./chapter-007-social-security.md#section-1395w-116) in such Trust Fund.
+
+(5) **Definitions of biosimilar biological product** — In this subsection, the term “biosimilar biological product” has the meaning given such term in [section 1395w–3a(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/c/6&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+Section 52 of the Internal Revenue Code of 1986, referred to in subsecs. (d)(2)(B)(i) and (f)(1)(C)(i), is classified to [section 52 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section52&num=0&edition=prelim), Internal Revenue Code.
+
+[Section 262(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim), referred to in subsec. (e)(2)(B)(ii)(I), was in the original “section 351(a) of such Act” and was translated as reading “section 351(a) of the Public Health Service Act”, to reflect the probable intent of Congress.
+
+Section 1112 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, referred to in subsec. (f)(1)(B)(ii)(I)(bb), is section 1112 of Pub. L. 108–173, which is set out in a note under [section 355 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim), Food and Drugs.
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–169, § 11002(a)(1)(A), inserted “and subsection (b)(3)” after “the previous sentence” in concluding provisions.
+
+Subsec. (b)(1)(C). Pub. L. 117–169, § 11002(a)(1)(B)(i), added subpar. (C).
+
+Subsec. (b)(3). Pub. L. 117–169, § 11002(a)(1)(B)(ii), added par. (3).
+
+Subsec. (f). Pub. L. 117–169, § 11002(a)(1)(C), added subsec. (f).
+
+#### Implementation for 2026 Through 2028
+Pub. L. 117–169, title I, § 11002(c), Aug. 16, 2022, 136 Stat. 1862, provided that: “The Secretary of Health and Human Services shall implement this section [amending this section and sections 1320f–2, 1320f–5 to 1320f–7, and 1396r–8 of this title], including the amendments made by this section, for 2026, 2027, and 2028 by program instruction or other forms of program guidance.”
+
+
+<a id="section-1320f-2"></a>
+## § 1320f–2. Manufacturer agreements
+**(a) In general** For purposes of [section 1320f(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/a/2&num=0&edition=prelim), the Secretary shall enter into agreements with manufacturers of selected drugs with respect to a price applicability period, by not later than February 28 following the selected drug publication date with respect to such selected drug, under which—
+
+(1) during the negotiation period for the initial price applicability year for the selected drug, the Secretary and the manufacturer, in accordance with [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3), negotiate to determine (and, by not later than the last date of such period, agree to) a maximum fair price for such selected drug of the manufacturer in order for the manufacturer to provide access to such price—
+
+  (A) to maximum fair price eligible individuals who with respect to such drug are described in subparagraph (A) of [section 1320f(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/2&num=0&edition=prelim) and are dispensed such drug (and to pharmacies, mail order services, and other dispensers, with respect to such maximum fair price eligible individuals who are dispensed such drugs) during, subject to paragraph (2), the price applicability period; and
+
+  (B) to hospitals, physicians, and other providers of services and suppliers with respect to maximum fair price eligible individuals who with respect to such drug are described in subparagraph (B) of such section and are furnished or administered such drug during, subject to paragraph (2), the price applicability period;
+
+(2) the Secretary and the manufacturer shall, in accordance with [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3), renegotiate (and, by not later than the last date of the period of renegotiation, agree to) the maximum fair price for such drug, in order for the manufacturer to provide access to such maximum fair price (as so renegotiated)—
+
+  (A) to maximum fair price eligible individuals who with respect to such drug are described in subparagraph (A) of [section 1320f(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/2&num=0&edition=prelim) and are dispensed such drug (and to pharmacies, mail order services, and other dispensers, with respect to such maximum fair price eligible individuals who are dispensed such drugs) during any year during the price applicability period (beginning after such renegotiation) with respect to such selected drug; and
+
+  (B) to hospitals, physicians, and other providers of services and suppliers with respect to maximum fair price eligible individuals who with respect to such drug are described in subparagraph (B) of such section and are furnished or administered such drug during any year described in subparagraph (A);
+
+(3) subject to subsection (d), access to the maximum fair price (including as renegotiated pursuant to paragraph (2)), with respect to such a selected drug, shall be provided by the manufacturer to—
+
+  (A) maximum fair price eligible individuals, who with respect to such drug are described in subparagraph (A) of [section 1320f(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/2&num=0&edition=prelim), at the pharmacy, mail order service, or other dispenser at the point-of-sale of such drug (and shall be provided by the manufacturer to the pharmacy, mail order service, or other dispenser, with respect to such maximum fair price eligible individuals who are dispensed such drugs), as described in paragraph (1)(A) or (2)(A), as applicable; and
+
+  (B) hospitals, physicians, and other providers of services and suppliers with respect to maximum fair price eligible individuals who with respect to such drug are described in subparagraph (B) of such section and are furnished or administered such drug, as described in paragraph (1)(B) or (2)(B), as applicable;
+
+(4) the manufacturer submits to the Secretary, in a form and manner specified by the Secretary, for the negotiation period for the price applicability period (and, if applicable, before any period of renegotiation pursuant to [section 1320f–3(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/f&num=0&edition=prelim)), and for [section 1320f–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f&num=0&edition=prelim), with respect to such drug—
+
+  (A) information on the non-Federal average manufacturer price (as defined in [section 8126(h)(5) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8126/h/5&num=0&edition=prelim)) for the drug for the applicable year or period;
+
+  (B) information that the Secretary requires to carry out the negotiation (or renegotiation process) under this part; and
+
+  (C) information that the Secretary requires to carry out [section 1320f–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f&num=0&edition=prelim), including rebates under paragraph (4) of such section; and
+
+(5) the manufacturer complies with requirements determined by the Secretary to be necessary for purposes of administering the program and monitoring compliance with the program.
+
+**(b) Agreement in effect until drug is no longer a selected drug** An agreement entered into under this section shall be effective, with respect to a selected drug, until such drug is no longer considered a selected drug under [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim).
+
+**(c) Confidentiality of information** Information submitted to the Secretary under this part by a manufacturer of a selected drug that is proprietary information of such manufacturer (as determined by the Secretary) shall be used only by the Secretary or disclosed to and used by the Comptroller General of the United States for purposes of carrying out this part.
+
+**(d) Nonduplication with 340B ceiling price** Under an agreement entered into under this section, the manufacturer of a selected drug—
+
+(1) shall not be required to provide access to the maximum fair price under subsection (a)(3), with respect to such selected drug and maximum fair price eligible individuals who are eligible to be furnished, administered, or dispensed such selected drug at a covered entity described in section 340B(a)(4) of the Public Health Service Act [[42 U.S.C. 256b(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a/4&num=0&edition=prelim)], to such covered entity if such selected drug is subject to an agreement described in section 340B(a)(1) of such Act [[42 U.S.C. 256b(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a/1&num=0&edition=prelim)] and the ceiling price (defined in section 340B(a)(1) of such Act [[42 U.S.C. 256b(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a/1&num=0&edition=prelim)]) is lower than the maximum fair price for such selected drug; and
+
+(2) shall be required to provide access to the maximum fair price to such covered entity with respect to maximum fair price eligible individuals who are eligible to be furnished, administered, or dispensed such selected drug at such entity at such ceiling price in a nonduplicated amount to the ceiling price if such maximum fair price is below the ceiling price for such selected drug.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a)(4). Pub. L. 117–169, § 11002(a)(2)(A), inserted “, and for [section 1320f–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f&num=0&edition=prelim),” after “[section 1320f–3(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/f&num=0&edition=prelim))” in introductory provisions.
+
+Subsec. (a)(4)(C). Pub. L. 117–169, § 11002(a)(2)(B), (C), added subpar. (C).
+
+
+<a id="section-1320f-3"></a>
+## § 1320f–3. Negotiation and renegotiation process
+**(a) In general** For purposes of this part, under an agreement under [section 1320f–2 of this title](./chapter-007-social-security.md#section-1320f-2) between the Secretary and a manufacturer of a selected drug (or selected drugs), with respect to the period for which such agreement is in effect and in accordance with subsections (b), (c), and (d), the Secretary and the manufacturer—
+
+(1) shall during the negotiation period with respect to such drug, in accordance with this section, negotiate a maximum fair price for such drug for the purpose described in [section 1320f–2(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–2/a/1&num=0&edition=prelim); and
+
+(2) renegotiate, in accordance with the process specified pursuant to subsection (f), such maximum fair price for such drug for the purpose described in [section 1320f–2(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–2/a/2&num=0&edition=prelim) if such drug is a renegotiation-eligible drug under such subsection.
+
+**(b) Negotiation process requirements**
+
+(1) **Methodology and process** — The Secretary shall develop and use a consistent methodology and process, in accordance with paragraph (2), for negotiations under subsection (a) that aims to achieve the lowest maximum fair price for each selected drug.
+
+(2) **Specific elements of negotiation process** — As part of the negotiation process under this section, with respect to a selected drug and the negotiation period with respect to the initial price applicability year with respect to such drug, the following shall apply:
+
+  (A) *Submission of information* — Not later than March 1 of the year of the selected drug publication date, with respect to the selected drug, the manufacturer of the drug shall submit to the Secretary, in accordance with [section 1320f–2(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–2/a/4&num=0&edition=prelim), the information described in such section.
+
+  (B) *Initial offer by Secretary* — Not later than the June 1 following the selected drug publication date, the Secretary shall provide the manufacturer of the selected drug with a written initial offer that contains the Secretary’s proposal for the maximum fair price of the drug and a concise justification based on the factors described in subsection (e) that were used in developing such offer.
+
+  (C) *Response to initial offer*
+
+    (i) *In general* — Not later than 30 days after the date of receipt of an initial offer under subparagraph (B), the manufacturer shall either accept such offer or propose a counteroffer to such offer.
+
+    (ii) *Counteroffer requirements* — If a manufacturer proposes a counteroffer, such counteroffer—
+
+      (I) shall be in writing; and
+
+      (II) shall be justified based on the factors described in subsection (e).
+
+  (D) *Response to counteroffer* — After receiving a counteroffer under subparagraph (C), the Secretary shall respond in writing to such counteroffer.
+
+  (E) *Deadline* — All negotiations between the Secretary and the manufacturer of the selected drug shall end prior to the first day of November following the selected drug publication date, with respect to the initial price applicability year.
+
+  (F) *Limitations on offer amount* — In negotiating the maximum fair price of a selected drug, with respect to the initial price applicability year for the selected drug, and, as applicable, in renegotiating the maximum fair price for such drug, with respect to a subsequent year during the price applicability period for such drug, the Secretary shall not offer (or agree to a counteroffer for) a maximum fair price for the selected drug that—
+
+    (i) exceeds the ceiling determined under subsection (c) for the selected drug and year; or
+
+    (ii) as applicable, is less than the floor determined under subsection (d) for the selected drug and year.
+
+**(c) Ceiling for maximum fair price**
+
+(1) **General ceiling**
+
+  (A) *In general* — The maximum fair price negotiated under this section for a selected drug, with respect to the first initial price applicability year of the price applicability period with respect to such drug, shall not exceed the lower of the amount under subparagraph (B) or the amount under subparagraph (C).
+
+  (B) *Subparagraph (B) amount* — An amount equal to the following:
+
+    (i) *Covered part D drug* — In the case of a covered part D drug (as defined in [section 1395w–102(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/e&num=0&edition=prelim)), the sum of the plan specific enrollment weighted amounts for each prescription drug plan or MA–PD plan (as determined under paragraph (2)).
+
+    (ii) *Part B drug or biological* — In the case of a drug or biological product for which payment may be made under part B of subchapter XVIII, the payment amount under [section 1395w–3a(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/b/4&num=0&edition=prelim) for the drug or biological product for the year prior to the year of the selected drug publication date with respect to the initial price applicability year for the drug or biological product.
+
+  (C) *Subparagraph (C) amount* — An amount equal to the applicable percent described in paragraph (3), with respect to such drug, of the following:
+
+    (i) *Initial price applicability year 2026* — In the case of a selected drug with respect to which such initial price applicability year is 2026, the average non-Federal average manufacturer price for such drug for 2021 (or, in the case that there is not an average non-Federal average manufacturer price available for such drug for 2021, for the first full year following the market entry for such drug), increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from September 2021 (or December of such first full year following the market entry), as applicable, to September of the year prior to the year of the selected drug publication date with respect to such initial price applicability year.
+
+    (ii) *Initial price applicability year 2027 and subsequent years* — In the case of a selected drug with respect to which such initial price applicability year is 2027 or a subsequent year, the lower of—
+
+      (I) the average non-Federal average manufacturer price for such drug for 2021 (or, in the case that there is not an average non-Federal average manufacturer price available for such drug for 2021, for the first full year following the market entry for such drug), increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from September 2021 (or December of such first full year following the market entry), as applicable, to September of the year prior to the year of the selected drug publication date with respect to such initial price applicability year; or
+
+      (II) the average non-Federal average manufacturer price for such drug for the year prior to the selected drug publication date with respect to such initial price applicability year.
+
+(2) **Plan specific enrollment weighted amount** — For purposes of paragraph (1)(B)(i), the plan specific enrollment weighted amount for a prescription drug plan or an MA–PD plan with respect to a covered Part D drug is an amount equal to the product of—
+
+  (A) the negotiated price of the drug under such plan under part D of subchapter XVIII, net of all price concessions received by such plan or pharmacy benefit managers on behalf of such plan, for the most recent year for which data is available; and
+
+  (B) a fraction—
+
+    (i) the numerator of which is the total number of individuals enrolled in such plan in such year; and
+
+    (ii) the denominator of which is the total number of individuals enrolled in a prescription drug plan or an MA–PD plan in such year.
+
+(3) **Applicable percent described** — For purposes of this subsection, the applicable percent described in this paragraph is the following:
+
+  (A) *Short-monopoly drugs and vaccines* — With respect to a selected drug (other than an extended-monopoly drug and a long-monopoly drug), 75 percent.
+
+  (B) *Extended-monopoly drugs* — With respect to an extended-monopoly drug, 65 percent.
+
+  (C) *Long-monopoly drugs* — With respect to a long-monopoly drug, 40 percent.
+
+(4) **Extended-monopoly drug defined**
+
+  (A) *In general* — In this part, subject to subparagraph (B), the term “extended-monopoly drug” means, with respect to an initial price applicability year, a selected drug for which at least 12 years, but fewer than 16 years, have elapsed since the date of approval of such drug under [section 355(c) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim) or since the date of licensure of such drug under [section 262(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim), as applicable.
+
+  (B) *Exclusions* — The term “extended-monopoly drug” shall not include any of the following:
+
+    (i) A vaccine that is licensed under [section 262 of this title](./chapter-6a-public-health-service.md#section-262) and marketed pursuant to such section.
+
+    (ii) A selected drug for which a manufacturer had an agreement under this part with the Secretary with respect to an initial price applicability year that is before 2030.
+
+  (C) *Clarification* — Nothing in subparagraph (B)(ii) shall limit the transition of a selected drug described in paragraph (3)(A) to a long-monopoly drug if the selected drug meets the definition of a long-monopoly drug.
+
+(5) **Long-monopoly drug defined**
+
+  (A) *In general* — In this part, subject to subparagraph (B), the term “long-monopoly drug” means, with respect to an initial price applicability year, a selected drug for which at least 16 years have elapsed since the date of approval of such drug under [section 355(c) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim) or since the date of licensure of such drug under [section 262(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim), as applicable.
+
+  (B) *Exclusion* — The term “long-monopoly drug” shall not include a vaccine that is licensed under [section 262 of this title](./chapter-6a-public-health-service.md#section-262) and marketed pursuant to such section.
+
+(6) **Average non-Federal average manufacturer price** — In this part, the term “average non-Federal average manufacturer price” means the average of the non-Federal average manufacturer price (as defined in [section 8126(h)(5) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8126/h/5&num=0&edition=prelim)) for the 4 calendar quarters of the year involved.
+
+**(d) Temporary floor for small biotech drugs** In the case of a selected drug that is a qualifying single source drug described in [section 1320f–1(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/d/2&num=0&edition=prelim) and with respect to which the first initial price applicability year of the price applicability period with respect to such drug is 2029 or 2030, the maximum fair price negotiated under this section for such drug for such initial price applicability year may not be less than 66 percent of the average non-Federal average manufacturer price for such drug (as defined in subsection (c)(6)) for 2021 (or, in the case that there is not an average non-Federal average manufacturer price available for such drug for 2021, for the first full year following the market entry for such drug), increased by the percentage increase in the consumer price index for all urban consumers (all items; United States city average) from September 2021 (or December of such first full year following the market entry), as applicable, to September of the year prior to the selected drug publication date with respect to the initial price applicability year.
+
+**(e) Factors** For purposes of negotiating the maximum fair price of a selected drug under this part with the manufacturer of the drug, the Secretary shall consider the following factors, as applicable to the drug, as the basis for determining the offers and counteroffers under subsection (b) for the drug:
+
+(1) **Manufacturer-specific data** — The following data, with respect to such selected drug, as submitted by the manufacturer:
+
+  (A) Research and development costs of the manufacturer for the drug and the extent to which the manufacturer has recouped research and development costs.
+
+  (B) Current unit costs of production and distribution of the drug.
+
+  (C) Prior Federal financial support for novel therapeutic discovery and development with respect to the drug.
+
+  (D) Data on pending and approved patent applications, exclusivities recognized by the Food and Drug Administration, and applications and approvals under [section 355(c) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim) or [section 262(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/a&num=0&edition=prelim) for the drug.
+
+  (E) Market data and revenue and sales volume data for the drug in the United States.
+
+(2) **Evidence about alternative treatments** — The following evidence, as available, with respect to such selected drug and therapeutic alternatives to such drug:
+
+  (A) The extent to which such drug represents a therapeutic advance as compared to existing therapeutic alternatives and the costs of such existing therapeutic alternatives.
+
+  (B) Prescribing information approved by the Food and Drug Administration for such drug and therapeutic alternatives to such drug.
+
+  (C) Comparative effectiveness of such drug and therapeutic alternatives to such drug, taking into consideration the effects of such drug and therapeutic alternatives to such drug on specific populations, such as individuals with disabilities, the elderly, the terminally ill, children, and other patient populations.
+
+  (D) The extent to which such drug and therapeutic alternatives to such drug address unmet medical needs for a condition for which treatment or diagnosis is not addressed adequately by available therapy.
+  In using evidence described in subparagraph (C), the Secretary shall not use evidence from comparative clinical effectiveness research in a manner that treats extending the life of an elderly, disabled, or terminally ill individual as of lower value than extending the life of an individual who is younger, nondisabled, or not terminally ill.
+
+**(f) Renegotiation process**
+
+(1) **In general** — In the case of a renegotiation-eligible drug (as defined in paragraph (2)) that is selected under paragraph (3), the Secretary shall provide for a process of renegotiation (for years (beginning with 2028) during the price applicability period, with respect to such drug) of the maximum fair price for such drug consistent with paragraph (4).
+
+(2) **Renegotiation-eligible drug defined** — In this section, the term “renegotiation-eligible drug” means a selected drug that is any of the following:
+
+  (A) *Addition of new indication* — A selected drug for which a new indication is added to the drug.
+
+  (B) *Change of status to an extended-monopoly drug* — A selected drug that—
+
+    (i) is not an extended-monopoly or a long-monopoly drug; and
+
+    (ii) for which there is a change in status to that of an extended-monopoly drug.
+
+  (C) *Change of status to a long-monopoly drug* — A selected drug that—
+
+    (i) is not a long-monopoly drug; and
+
+    (ii) for which there is a change in status to that of a long-monopoly drug.
+
+  (D) *Material changes* — A selected drug for which the Secretary determines there has been a material change of any of the factors described in paragraph (1) or (2) of subsection (e).
+
+(3) **Selection of drugs for renegotiation** — For each year (beginning with 2028), the Secretary shall select among renegotiation-eligible drugs for renegotiation as follows:
+
+  (A) *All extended-monopoly negotiation-eligible drugs* — The Secretary shall select all renegotiation-eligible drugs described in paragraph (2)(B).
+
+  (B) *All long-monopoly negotiation-eligible drugs* — The Secretary shall select all renegotiation-eligible drugs described in paragraph (2)(C).
+
+  (C) *Remaining drugs* — Among the remaining renegotiation-eligible drugs described in subparagraphs (A) and (D) of paragraph (2), the Secretary shall select renegotiation-eligible drugs for which the Secretary expects renegotiation is likely to result in a significant change in the maximum fair price otherwise negotiated.
+
+(4) **Renegotiation process**
+
+  (A) *In general* — The Secretary shall specify the process for renegotiation of maximum fair prices with the manufacturer of a renegotiation-eligible drug selected for renegotiation under this subsection.
+
+  (B) *Consistent with negotiation process* — The process specified under subparagraph (A) shall, to the extent practicable, be consistent with the methodology and process established under subsection (b) and in accordance with subsections (c), (d), and (e), and for purposes of applying subsections (c)(1)(A) and (d), the reference to the first initial price applicability year of the price applicability period with respect to such drug shall be treated as the first initial price applicability year of such period for which the maximum fair price established pursuant to such renegotiation applies, including for applying subsection (c)(3)(B) in the case of renegotiation-eligible drugs described in paragraph (3)(A) of this subsection and subsection (c)(3)(C) in the case of renegotiation-eligible drugs described in paragraph (3)(B) of this subsection.
+
+(5) **Clarification** — A renegotiation-eligible drug for which the Secretary makes a determination described in [section 1320f–1(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c/1&num=0&edition=prelim) before or during the period of renegotiation shall not be subject to the renegotiation process under this section.
+
+**(g) Clarification** The maximum fair price for a selected drug described in subparagraph (A) or (B) of paragraph (1) 11 So in original. Probably means subparagraph (A) or (B) of paragraph (1) of [section 1320f–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/e&num=0&edition=prelim). shall take effect no later than the first day of the first calendar quarter that begins after the date described in subparagraph 22 So in original. Probably should be preceded by “such”. (A) or (B), as applicable.
+
+
+<a id="section-1320f-4"></a>
+## § 1320f–4. Publication of maximum fair prices
+**(a) In general** With respect to an initial price applicability year and a selected drug with respect to such year—
+
+(1) not later than November 30 of the year that is 2 years prior to such initial price applicability year, the Secretary shall publish the maximum fair price for such drug negotiated with the manufacturer of such drug under this part; and
+
+(2) not later than March 1 of the year prior to such initial price applicability year, the Secretary shall publish, subject to [section 1320f–2(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–2/c&num=0&edition=prelim), the explanation for the maximum fair price with respect to the factors as applied under [section 1320f–3(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/e&num=0&edition=prelim) for such drug described in paragraph (1).
+
+**(b) Updates**
+
+(1) **Subsequent year maximum fair prices** — For a selected drug, for each year subsequent to the first initial price applicability year of the price applicability period with respect to such drug, with respect to which an agreement for such drug is in effect under [section 1320f–2 of this title](./chapter-007-social-security.md#section-1320f-2), not later than November 30 of the year that is 2 years prior to such subsequent year, the Secretary shall publish the maximum fair price applicable to such drug and year, which shall be—
+
+  (A) subject to subparagraph (B), the amount equal to the maximum fair price published for such drug for the previous year, increased by the annual percentage increase in the consumer price index for all urban consumers (all items; United States city average) for the 12-month period ending with the July immediately preceding such November 30; or
+
+  (B) in the case the maximum fair price for such drug was renegotiated, for the first year for which such price as so renegotiated applies, such renegotiated maximum fair price.
+
+(2) **Prices negotiated after deadline** — In the case of a selected drug with respect to an initial price applicability year for which the maximum fair price is determined under this part after the date of publication under this section, the Secretary shall publish such maximum fair price by not later than 30 days after the date such maximum price is so determined.
+
+
+<a id="section-1320f-5"></a>
+## § 1320f–5. Administrative duties and compliance monitoring
+**(a) Administrative duties** For purposes of [section 1320f(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/a/4&num=0&edition=prelim), the administrative duties described in this section are the following:
+
+(1) The establishment of procedures to ensure that the maximum fair price for a selected drug is applied before—
+
+  (A) any coverage or financial assistance under other health benefit plans or programs that provide coverage or financial assistance for the purchase or provision of prescription drug coverage on behalf of maximum fair price eligible individuals; and
+
+  (B) any other discounts.
+
+(2) The establishment of procedures to compute and apply the maximum fair price across different strengths and dosage forms of a selected drug and not based on the specific formulation or package size or package type of such drug.
+
+(3) The establishment of procedures to carry out the provisions of this part, as applicable, with respect to—
+
+  (A) maximum fair price eligible individuals who are enrolled in a prescription drug plan under part D of subchapter XVIII or an MA–PD plan under part C of such subchapter; and
+
+  (B) maximum fair price eligible individuals who are enrolled under part B of such subchapter, including who are enrolled in an MA plan under part C of such subchapter.
+
+(4) The establishment of a negotiation process and renegotiation process in accordance with [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3).
+
+(5) The establishment of a process for manufacturers to submit information described in [section 1320f–3(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/b/2/A&num=0&edition=prelim).
+
+(6) The sharing with the Secretary of the Treasury of such information as is necessary to determine the tax imposed by section 5000D of the Internal Revenue Code of 1986, including the application of such tax to a manufacturer, producer, or importer or the determination of any date described in section 5000D(c)(1) of such Code. For purposes of the preceding sentence, such information shall include—
+
+  (A) the date on which the Secretary receives notification of any termination of an agreement under the Medicare coverage gap discount program under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a) and the date on which any subsequent agreement under such program is entered into;
+
+  (B) the date on which the Secretary receives notification of any termination of an agreement under the manufacturer discount program under [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c) and the date on which any subsequent agreement under such program is entered into; and
+
+  (C) the date on which the Secretary receives notification of any termination of a rebate agreement described in [section 1396r–8(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/b&num=0&edition=prelim) and the date on which any subsequent rebate agreement described in such section is entered into.
+
+(7) The establishment of procedures for purposes of applying subsections (d)(2)(B) and (f)(1)(C) of [section 1320f–1 of this title](./chapter-007-social-security.md#section-1320f-1).
+
+**(b) Compliance monitoring** The Secretary shall monitor compliance by a manufacturer with the terms of an agreement under [section 1320f–2 of this title](./chapter-007-social-security.md#section-1320f-2) and establish a mechanism through which violations of such terms shall be reported.
+
+### Statutory Notes
+
+#### References in Text
+Section 5000D of the Internal Revenue Code of 1986, referred to in subsec. (a)(6), is classified to [section 5000D of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5000D&num=0&edition=prelim), Internal Revenue Code.
+
+#### Amendments
+2022—Subsec. (a)(7). Pub. L. 117–169, § 11002(a)(3), substituted “subsections (d)(2)(B) and (f)(1)(C) of [section 1320f–1 of this title](./chapter-007-social-security.md#section-1320f-1)” for “[section 1320f–1(d)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/d/2/B&num=0&edition=prelim)”.
+
+
+<a id="section-1320f-6"></a>
+## § 1320f–6. Civil monetary penalties
+**(a) Violations relating to offering of maximum fair price** Any manufacturer of a selected drug that has entered into an agreement under [section 1320f–2 of this title](./chapter-007-social-security.md#section-1320f-2), with respect to a year during the price applicability period with respect to such drug, that does not provide access to a price that is equal to or less than the maximum fair price for such drug for such year—
+
+(1) to a maximum fair price eligible individual who with respect to such drug is described in subparagraph (A) of [section 1320f(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/2&num=0&edition=prelim) and who is dispensed such drug during such year (and to pharmacies, mail order services, and other dispensers, with respect to such maximum fair price eligible individuals who are dispensed such drugs); or
+
+(2) to a hospital, physician, or other provider of services or supplier with respect to maximum fair price eligible individuals who with respect to such drug is described in subparagraph (B) of such section and is furnished or administered such drug by such hospital, physician, or provider or supplier during such year;
+shall be subject to a civil monetary penalty equal to ten times the amount equal to the product of the number of units of such drug so furnished, dispensed, or administered during such year and the difference between the price for such drug made available for such year by such manufacturer with respect to such individual or hospital, physician, provider of services, or supplier and the maximum fair price for such drug for such year.
+
+**(b) Violations relating to providing rebates** Any manufacturer that fails to comply with the rebate requirements under [section 1320f–1(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f/4&num=0&edition=prelim) shall be subject to a civil monetary penalty equal to 10 times the amount of the rebate the manufacturer failed to pay under such section.
+
+**(c) Violations of certain terms of agreement** Any manufacturer of a selected drug that has entered into an agreement under [section 1320f–2 of this title](./chapter-007-social-security.md#section-1320f-2), with respect to a year during the price applicability period with respect to such drug, that is in violation of a requirement imposed pursuant to [section 1320f–2(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–2/a/5&num=0&edition=prelim), including the requirement to submit information pursuant to [section 1320f–2(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–2/a/4&num=0&edition=prelim), shall be subject to a civil monetary penalty equal to $1,000,000 for each day of such violation.
+
+**(d) False information** Any manufacturer that knowingly provides false information pursuant to [section 1320f–5(a)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–5/a/7&num=0&edition=prelim) shall be subject to a civil monetary penalty equal to $100,000,000 for each item of such false information.
+
+**(e) Application** The provisions of [section 1320a–7a of this title](./chapter-007-social-security.md#section-1320a-7a) (other than subsections (a) and (b)) shall apply to a civil monetary penalty under this section in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7a/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsecs. (b) to (e). Pub. L. 117–169, § 11002(a)(4), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
+
+
+<a id="section-1320f-7"></a>
+## § 1320f–7. Limitation on administrative and judicial review
+
+There shall be no administrative or judicial review of any of the following:
+
+(1) The determination of a unit, with respect to a drug or biological product, pursuant to [section 1320f(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/6&num=0&edition=prelim).
+
+(2) The selection of drugs under [section 1320f–1(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/b&num=0&edition=prelim), the determination of negotiation-eligible drugs under [section 1320f–1(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/d&num=0&edition=prelim), and 11 So in original. The word “and” probably should not appear. the determination of qualifying single source drugs under [section 1320f–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/e&num=0&edition=prelim) the 22 So in original. Probably should be preceded by “, and”. application of [section 1320f–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f&num=0&edition=prelim),.33 So in original.
+
+(3) The determination of a maximum fair price under subsection (b) or (f) of [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3).
+
+(4) The determination of renegotiation-eligible drugs under [section 1320f–3(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/f/2&num=0&edition=prelim) and the selection of renegotiation-eligible drugs under [section 1320f–3(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–3/f/3&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2022—Par. (2). Pub. L. 117–169, § 11002(a)(5), which directed the amendment of subsec. (b)(2) of this section by inserting “the application of [section 1320f–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f&num=0&edition=prelim),” after “[section 1320f–1(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/e&num=0&edition=prelim)”, was executed by making the insertion in par. (2) to reflect the probable intent of Congress.
+
+
 <a id="section-1321"></a>
 ## § 1321. Eligibility requirements for transfer of funds; reimbursement by State; application; certification; limitation
 **(a)**
@@ -47049,7 +47806,7 @@ Section 501(a) of Public Law 96–422, referred to in subsec. (c)(5), is section
 
 The Internal Revenue Code of 1986, referred to in subsecs. (d) and (e)(5), is classified generally to Title 26, Internal Revenue Code.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (e)(1)(I)(iv), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of this title](./chapter-007-social-security.md#section-911), repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of this title](./chapter-007-social-security.md#section-911), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (e)(1)(I)(iv), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of this title](./chapter-007-social-security.md#section-911), repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of this title](./chapter-007-social-security.md#section-911), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 1382, act Aug. 14, 1935, ch. 531, title XVI, § 1602, as added July 25, 1962, Pub. L. 87–543, title I, § 141(a), 76 Stat. 198; amended Oct. 13, 1964, Pub. L. 88–650, § 5(b), 78 Stat. 1078; July 30, 1965, Pub. L. 89–97, title II, § 221(d)(3), title IV, § 403(e), 79 Stat. 358, 418; Jan. 2, 1968, Pub. L. 90–248, title II, §§ 210(a)(5), 213(a)(4), 241(d), 81 Stat. 896, 898, 917; Oct. 30, 1972, Pub. L. 92–603, title IV, §§ 405(d), 406(d), 407(d), 410(d), 413(d), 86 Stat. 1488, 1489, 1491, 1492, set forth required contents of State plans for aid to aged, blind, or disabled, and for medical assistance for aged, prior to the general amendment of title XVI of the Social Security Act by Pub. L. 92–603, § 301, but is set out as a note below in view of its continued applicability to Puerto Rico, Guam, and the Virgin Islands.
@@ -48071,13 +48828,13 @@ In determining the resources of an individual (or eligible spouse) an insurance 
 ### Statutory Notes
 
 #### References in Text
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§ 4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, [section 2680 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2680&num=0&edition=prelim), Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894. Title II of the Act enacted subchapter II (§ 4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, [section 2680 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2680&num=0&edition=prelim), Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(11), (13), is classified generally to Title 26, Internal Revenue Code.
 
 Section 203 of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (a)(11)(A), is section 203 of Pub. L. 107–16, which is set out as a note under [section 24 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section24&num=0&edition=prelim), Internal Revenue Code.
 
-Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
+Section 212(b) of Public Law 93–66, referred to in subsec. (c)(1)(A)(iv)(II), (F)(i), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
 [Section 1396p(e)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396p/e/3&num=0&edition=prelim), referred to in subsec. (c)(1)(F)(ii), was redesignated [section 1396p(h)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396p/h/3&num=0&edition=prelim) by Pub. L. 109–171, title VI, §§ 6012(a), 6014(a), 6015(b), Feb. 8, 2006, 120 Stat. 62, 64, 65.
 
@@ -48619,9 +49376,9 @@ the Commissioner of Social Security shall make provision for referral of such in
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Rehabilitation Act of 1973 is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
-Section 212(b) of Public Law 93–66, referred to in subsec. (e)(1)(C), (2)(C), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
+Section 212(b) of Public Law 93–66, referred to in subsec. (e)(1)(C), (2)(C), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
 #### Amendments
 1999—Subsec. (a). Pub. L. 106–170, § 101(b)(2)(A), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In the case of any blind or disabled individual who—
@@ -48958,7 +49715,7 @@ Pub. L. 87–543, § 141(f), July 25, 1962, 76 Stat. 205, provided that: “In t
 ### Statutory Notes
 
 #### References in Text
-Section 211 of Public Law 93–66, referred to in subsecs. (a)(1), (b), and (c)(1), is section 211 of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 154, as amended, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
+Section 211 of Public Law 93–66, referred to in subsecs. (a)(1), (b), and (c)(1), is section 211 of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 154, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
 #### Amendments
 1983—Subsec. (a)(2). Pub. L. 98–21, § 401(b), inserted provision that the amount obtained under par. (1) with respect to each subsection shall be further increased by the percentage by which benefit amounts under subchapter II of this chapter would be increased for such month if the increase had been determined on the basis of the CPI increase percentage, if greater, in any case where the increase under subchapter II of this chapter was determined on the basis of the wage increase percentage rather than the CPI increase percentage.
@@ -49253,7 +50010,7 @@ Pub. L. 96–265, title II, § 201(e), June 9, 1980, 94 Stat. 449, provided that
 ### Statutory Notes
 
 #### References in Text
-Section 212(b) of Public Law 93–66, referred to in subsec. (b)(2), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
+Section 212(b) of Public Law 93–66, referred to in subsec. (b)(2), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
 #### Amendments
 1994—Subsecs. (b) to (f). Pub. L. 103–296, § 107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing, “the Commissioner finds that the Commissioner’s” for “he finds that his” in subsec. (d)(2)(B), and “the Commissioner’s” for “his” in subsec. (f).
@@ -51111,7 +51868,7 @@ such individual shall be treated for purposes of subchapter XIX as receiving ben
 #### References in Text
 Section 134 of the Social Security Amendments of 1983 (Public Law 98–21), referred to in subsec. (b)(2)(C), is section 134 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 97, which amended [section 402 of this title](./chapter-007-social-security.md#section-402) and enacted provisions set out as a note under [section 402 of this title](./chapter-007-social-security.md#section-402).
 
-Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(B), (2), is section 212(a) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
+Section 212(a) of Public Law 93–66, referred to in subsecs. (b)(4) and (d)(1)(B), (2), is section 212(a) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
 The effective date of this subsection, referred to in subsec. (c)(1), is July 1, 1987, except as otherwise provided. See section 10(b) of Pub. L. 99–643, set out as an Effective Date of 1986 Amendments note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
@@ -51209,7 +51966,7 @@ In the case of any individual whose benefits under this subchapter are paid to a
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part B of title XIX of the Act is classified generally to subpart II (§ 300x–21 et seq.) of part B of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart II of part B of title XIX of the Act is classified generally to subpart II (§ 300x–21 et seq.) of part B of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Effective Date
 Section effective July 1, 1996, with respect to any individual whose claim for benefits is finally adjudicated on or after Mar. 29, 1996, or whose eligibility for benefits is based upon eligibility redetermination made pursuant to section 105(b)(5)(C) of Pub. L. 104–121, see section 105(b)(5) of Pub. L. 104–121, as amended, set out as an Effective Date of 1996 Amendment note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
@@ -51651,9 +52408,11 @@ Pub. L. 106–554, § 1(a)(6) [title V, § 506], Dec. 21, 2000, 114 Stat. 2763, 
 
   (B) payments under [section 1395w–115 of this title](./chapter-007-social-security.md#section-1395w-115) (relating to subsidy payments and payments for fallback plans);
 
-  (C) payments to sponsors of qualified retiree prescription drug plans under [section 1395w–132(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–132/a&num=0&edition=prelim); and
+  (C) payments to sponsors of qualified retiree prescription drug plans under [section 1395w–132(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–132/a&num=0&edition=prelim);
 
-  (D) payments with respect to administrative expenses under this part in accordance with [section 401(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401/g&num=0&edition=prelim).
+  (D) payments with respect to administrative expenses under this part in accordance with [section 401(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401/g&num=0&edition=prelim); and
+
+  (E) payments under [section 1395w–114 of this title](./chapter-007-social-security.md#section-1395w-114) (relating to selected drug subsidy payments).
 
 (2) **Transfers to Medicaid account for increased administrative costs** — The Managing Trustee shall transfer from time to time from the Account to the Grants to States for Medicaid account amounts the Secretary certifies are attributable to increases in payment resulting from the application of [section 1396u–5(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/b&num=0&edition=prelim).
 
@@ -51672,6 +52431,11 @@ Pub. L. 106–554, § 1(a)(6) [title V, § 506], Dec. 21, 2000, 114 Stat. 2763, 
 (4) **Initial funding and reserve** — In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part and to provide an initial contingency reserve, there are authorized to be appropriated to the Account, out of any moneys in the Treasury not otherwise appropriated, such amount as the Secretary certifies are required, but not to exceed 10 percent of the estimated total expenditures from such Account in 2006.
 
 (5) **Transfer of any remaining balance from Transitional Assistance Account** — Any balance in the Transitional Assistance Account that is transferred under [section 1395w–141(k)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–141/k/5&num=0&edition=prelim) shall be deposited into the Account.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (b)(1)(E). Pub. L. 117–169 added subpar. (E).
 
 
 <a id="section-1395aaa"></a>
@@ -51944,7 +52708,7 @@ Pub. L. 94–437, title IV, § 401(d), Sept. 30, 1976, 90 Stat. 1409, which prov
 #### References in Text
 Section 204(a)(1) of the Public Health Service Amendments of 1987, referred to in subsec. (a)(1)(B), is section 204(a)(1) of Pub. L. 100–177, title II, Dec. 1, 1987, 101 Stat. 1000, which is set out as a note under section 254o of this title.
 
-The Public Health Service Act, referred to in subsecs. (a)(1)(B)(iii) and (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part D of title III of the Act is classified generally to subpart II (§ 254d et seq.) of part D of subchapter II of chapter 6A of this title. Subpart I of part C of title VII of the Act was classified generally to subpart I (§ 294 et seq.) of part C of subchapter V of chapter 6A of this title and was omitted in the general revision of subchapter V by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§ 292 et seq.) of part A of subchapter V of chapter 6A of this title. Subpart III of part F of title VII of the Public Health Service Act (as in effect before October 1, 1976) was classified to subpart III (§ 295g–21 et seq.) of part F of subchapter V of chapter 6A of this title, prior to repeal by Pub. L. 94–484, title IV, § 409(a), Oct. 12, 1976, 90 Stat. 2290. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsecs. (a)(1)(B)(iii) and (b), is act July 1, 1944, ch. 373, 58 Stat. 682. Subpart II of part D of title III of the Act is classified generally to subpart II (§ 254d et seq.) of part D of subchapter II of chapter 6A of this title. Subpart I of part C of title VII of the Act was classified generally to subpart I (§ 294 et seq.) of part C of subchapter V of chapter 6A of this title and was omitted in the general revision of subchapter V by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§ 292 et seq.) of part A of subchapter V of chapter 6A of this title. Subpart III of part F of title VII of the Public Health Service Act (as in effect before October 1, 1976) was classified to subpart III (§ 295g–21 et seq.) of part F of subchapter V of chapter 6A of this title, prior to repeal by Pub. L. 94–484, title IV, § 409(a), Oct. 12, 1976, 90 Stat. 2290. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
 1988—Pub. L. 100–360, § 411(f)(10)(C)(i)(I), substituted “individuals” for “physicians” and inserted “and loan” in section catchline.
@@ -52065,7 +52829,7 @@ Pub. L. 100–203, title IV, § 4052(c), Dec. 22, 1987, 101 Stat. 1330–97, pro
 
 (6) **Exemption from negotiations** — Subsections (d) and (e)(2)(C) of [section 1395w–111 of this title](./chapter-007-social-security.md#section-1395w-111) shall not apply and the provisions of [section 1395w–24(a)(5)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/a/5/B&num=0&edition=prelim) prohibiting the review, approval, or disapproval of amounts described in such section shall apply to the proposed bid and terms and conditions described in [section 1395w–111(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/d&num=0&edition=prelim).
 
-(7) **Treatment of incurred costs without regard to formulary** — The exclusion of costs incurred for covered part D drugs which are not included (or treated as being included) in a plan’s formulary under [section 1395w–102(b)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B/i&num=0&edition=prelim) shall not apply insofar as the plan does not utilize a formulary.
+(7) **Treatment of incurred costs without regard to formulary** — The exclusion of costs incurred for covered part D drugs which are not included (or treated as being included) in a plan’s formulary under [section 1395w–102(b)(4)(C)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/C/i&num=0&edition=prelim) shall not apply insofar as the plan does not utilize a formulary.
 
 **(e) Application to reasonable cost reimbursement contractors**
 
@@ -52082,6 +52846,11 @@ Pub. L. 100–203, title IV, § 4052(c), Dec. 22, 1987, 101 Stat. 1330–97, pro
 (2) **Limitation on enrollment** — In applying paragraph (1), the organization may not enroll part D eligible individuals who are not enrolled under the PACE program involved.
 
 (3) **Bids not included in determining standardized bid amount** — The bid of an organization offering prescription drug coverage under this subsection is not be taken into account in computing any average benchmark bid amount and low-income benchmark premium amount under this part.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (d)(7). Pub. L. 117–169 substituted “section 1395w–102(b)(4)(C)(i)” for “section 1395w–102(b)(4)(B)(i)”.
 
 
 <a id="section-1395bbb"></a>
@@ -54242,7 +55011,7 @@ Pub. L. 109–13, div. A, title VI, § 6045(c), May 11, 2005, 119 Stat. 295, pro
 
 **(b) Funding**
 
-(1) **In general** — There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2021, $101,000,000.
+(1) **In general** — There shall be available to the Fund, for expenditures from the Fund for services furnished during and after fiscal year 2022, $7,278,000,000.
 
 (2) **Payment from Trust Funds** — The amount specified under paragraph (1) shall be available to the Fund, as expenditures are made from the Fund, from the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund in such proportion as the Secretary determines appropriate.
 
@@ -54253,6 +55022,16 @@ Pub. L. 109–13, div. A, title VI, § 6045(c), May 11, 2005, 119 Stat. 295, pro
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–229 substituted “$7,278,000,000” for “$7,308,000,000”.
+
+Pub. L. 117–180 substituted “$7,308,000,000” for “$7,500,000,000”.
+
+Pub. L. 117–159 substituted “fiscal year 2022, $7,500,000,000” for “fiscal year 2021, $5,000,000”.
+
+Pub. L. 117–103 substituted “$5,000,000” for “$99,000,000”.
+
+Pub. L. 117–86 substituted “$99,000,000” for “$101,000,000”.
+
 2021—Subsec. (b)(1). Pub. L. 117–71 substituted “fiscal year 2021, $101,000,000.” for “fiscal year 2021, $69,000,000.”
 
 Pub. L. 117–70 substituted “$56,000,000” for “$69,000,000”.
@@ -54636,7 +55415,11 @@ Pub. L. 111–148, title III, § 3601, Mar. 23, 2010, 124 Stat. 538, provided th
 
 (2) **Qualified retiree prescription drug plan defined** — For purposes of this subsection, the term “qualified retiree prescription drug plan” means employment-based retiree health coverage (as defined in subsection (c)(1)) if, with respect to a part D eligible individual who is a participant or beneficiary under such coverage, the following requirements are met:
 
-  (A) *Attestation of actuarial equivalence to standard coverage* — The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in [section 1395w–111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/c&num=0&edition=prelim)) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under [section 1395w–102(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/3&num=0&edition=prelim) during the year and the out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim).
+  (A) *Attestation of actuarial equivalence to standard coverage* — The sponsor of the plan provides the Secretary, annually or at such other time as the Secretary may require, with an attestation that the actuarial value of prescription drug coverage under the plan (as determined using the processes and methods described in [section 1395w–111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/c&num=0&edition=prelim)) is at least equal to the actuarial value of standard prescription drug coverage, not taking into account the value of—
+
+    (i) for years prior to 2025, any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under [section 1395w–102(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/3&num=0&edition=prelim) during the year and the out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim); and
+
+    (ii) for 2025 and each subsequent year, any discount provided pursuant to [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c).
 
   (B) *Audits* — The sponsor of the plan, or an administrator of the plan designated by the sponsor, shall maintain (and afford the Secretary access to) such records as the Secretary may require for purposes of audits and other oversight activities necessary to ensure the adequacy of prescription drug coverage and the accuracy of payments made under this section. The provisions of [section 1395w–102(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/d/3&num=0&edition=prelim) shall apply to such information under this section (including such actuarial value and attestation) in a manner similar to the manner in which they apply to financial records of PDP sponsors and MA organizations.
 
@@ -54682,7 +55465,11 @@ Pub. L. 111–148, title III, § 3601, Mar. 23, 2010, 124 Stat. 538, provided th
 
   (D) preventing employers to provide for flexibility in benefit design and pharmacy access provisions, without regard to the requirements for basic prescription drug coverage, so long as the actuarial equivalence requirement of paragraph (2)(A) is met.
 
-**(b) Application of MA waiver authority** The provisions of [section 1395w–27(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–27/i&num=0&edition=prelim) shall apply with respect to prescription drug plans in relation to employment-based retiree health coverage in a manner similar to the manner in which they apply to an MA plan in relation to employers, including authorizing the establishment of separate premium amounts for enrollees in a prescription drug plan by reason of such coverage and limitations on enrollment to part D eligible individuals enrolled under such coverage.
+**(b) Application of MA waiver authority** The provisions of [section 1395w–27(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–27/i&num=0&edition=prelim) shall apply with respect to prescription drug plans in relation to employment-based retiree health coverage in a manner similar to the manner in which they apply to an MA plan in relation to employers, including authorizing the establishment of separate premium amounts for enrollees in a prescription drug plan by reason of such coverage and limitations on enrollment to part D eligible individuals enrolled under such coverage, and shall be applied in a manner to facilitate the offering of prescription drug benefits under a Program plan under [section 8903c of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8903c&num=0&edition=prelim), as required under subsection (h)(2) of such section, through employment-based retiree health coverage through—
+
+(1) a prescription drug plan; or
+
+(2) contracts between such a Program plan and the PDP sponsor of such a prescription drug plan..11 So in original.
 
 **(c) Definitions** For purposes of this section:
 
@@ -54704,6 +55491,10 @@ Pub. L. 111–148, title III, § 3601, Mar. 23, 2010, 124 Stat. 538, provided th
 The Internal Revenue Code of 1986, referred to in subsec. (c)(3)(C), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–169 inserted dash after “the value of” and “(i) for years prior to 2025,” before “any discount” and added cl. (ii).
+
+Subsec. (b). Pub. L. 117–108 inserted before period at end “, and shall be applied in a manner to facilitate the offering of prescription drug benefits under a Program plan under [section 8903c of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8903c&num=0&edition=prelim), as required under subsection (h)(2) of such section, through employment-based retiree health coverage through—” and pars. (1) and (2).
+
 2010—Subsec. (a)(2)(A). Pub. L. 111–152 inserted before period at end “, not taking into account the value of any discount or coverage provided during the gap in prescription drug coverage that occurs between the initial coverage limit under [section 1395w–102(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/3&num=0&edition=prelim) during the year and the out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim)”.
 
 #### Study on Employment-Based Retiree Health Coverage
@@ -55393,7 +56184,7 @@ Pub. L. 108–173, title I, § 105(c), Dec. 8, 2003, 117 Stat. 2166, provided th
 
 (5) **Fallback prescription drug plan** — The term “fallback prescription drug plan” has the meaning given such term in [section 1395w–111(g)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/g/4&num=0&edition=prelim).
 
-(6) **Initial coverage limit** — The term “initial coverage limit” means such limit as established under [section 1395w–102(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/3&num=0&edition=prelim), or, in the case of coverage that is not standard prescription drug coverage, the comparable limit (if any) established under the coverage.
+(6) **Initial coverage limit** — The term “initial coverage limit” means such limit as established under [section 1395w–102(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/3&num=0&edition=prelim) for a year before 2025, or, in the case of coverage that is not standard prescription drug coverage, the comparable limit (if any) established under the coverage for such year.
 
 (7) **Insurance risk** — The term “insurance risk” means, with respect to a participating pharmacy, risk of the type commonly assumed only by insurers licensed by a State and does not include payment variations designed to reflect performance-based measures of activities within the control of the pharmacy, such as formulary compliance and generic drug substitution.
 
@@ -55440,6 +56231,9 @@ Pub. L. 108–173, title I, § 105(c), Dec. 8, 2003, 117 Stat. 2166, provided th
 #### References in Text
 [Section 1395w–101(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–101/a/3&num=0&edition=prelim), referred to in subsec. (a)(4), (8), (9), was in the original “section 1860D–1(a)(4)”, and was translated as meaning section 1860D–1(a)(3) of act Aug. 14, 1935, which is classified to [section 1395w–101(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–101/a/3&num=0&edition=prelim), to reflect the probable intent of Congress, because [section 1395w–101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–101/a&num=0&edition=prelim) does not contain a par. (4) and par. (3) defines terms for purposes of this part.
 
+#### Amendments
+2022—Subsec. (a)(6). Pub. L. 117–169 inserted “for a year before 2025” after “1395w–102(b)(3) of this title” and “for such year” before period at end.
+
 
 <a id="section-1395cc-5"></a>
 ## § 1395cc–5. Miscellaneous provisions
@@ -55473,25 +56267,50 @@ Amendment by Pub. L. 114–198 applicable to prescription drug plans (and MA–P
 ## § 1395cc–6. Condition for coverage of drugs under this part
 **(a) In general** In order for coverage to be available under this part for covered part D drugs (as defined in [section 1395w–102(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/e&num=0&edition=prelim)) of a manufacturer, the manufacturer must—
 
-(1) participate in the Medicare coverage gap discount program under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a);
+(1) participate in—
 
-(2) have entered into and have in effect an agreement described in subsection (b) of such section with the Secretary; and
+  (A) for 2011 through 2024, the Medicare coverage gap discount program under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a); and
 
-(3) have entered into and have in effect, under terms and conditions specified by the Secretary, a contract with a third party that the Secretary has entered into a contract with under subsection (d)(3) of such section.
+  (B) for 2025 and each subsequent year, the manufacturer discount program under [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c);
 
-**(b) Effective date** Subsection (a) shall apply to covered part D drugs dispensed under this part on or after January 1, 2011.
+(2) have entered into and have in effect—
 
-**(c) Authorizing coverage for drugs not covered under agreements** Subsection (a) shall not apply to the dispensing of a covered part D drug if—
+  (A) for 2011 through 2024, an agreement described in subsection (b) of section 1395w–114a with the Secretary; and
 
-(1) the Secretary has made a determination that the availability of the drug is essential to the health of beneficiaries under this part; or
+  (B) for 2025 and each subsequent year, an agreement described in subsection (b) of [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c) with the Secretary; and
 
-(2) the Secretary determines that in the period beginning on January 1, 2011, and 11 So in original. Probably should be followed by “ending on”. December 31, 2011, there were extenuating circumstances.
+(3) have entered into and have in effect, under terms and conditions specified by the Secretary, a contract with a third party that the Secretary has entered into a contract with under subsection (d)(3) of [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a).
+
+**(b) Effective date** Paragraphs (1)(A), (2)(A), and (3) of subsection (a) shall apply to covered part D drugs dispensed under this part on or after January 1, 2011, and before January 1, 2025, and paragraphs (1)(B) and (2)(B) of such subsection shall apply to covered part D drugs dispensed under this part on or after January 1, 2025.
+
+**(c) Authorizing coverage for drugs not covered under agreements**
+
+(1) **In general** — Subject to paragraph (2), subsection (a) shall not apply to the dispensing of a covered part D drug if—
+
+  (A) the Secretary has made a determination that the availability of the drug is essential to the health of beneficiaries under this part; or
+
+  (B) the Secretary determines that in the period beginning on January 1, 2011, and 11 So in original. Probably should be followed by “ending on”. December 31, 2011, there were extenuating circumstances.
+
+(2) **Exception** — Paragraph (1)(A) shall not apply to a covered part D drug of a manufacturer for any period described in section 5000D(c)(1) of the Internal Revenue Code of 1986 with respect to the manufacturer.
 
 **(d) Definition of manufacturer** In this section, the term “manufacturer” has the meaning given such term in [section 1395w–114a(g)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/5&num=0&edition=prelim).
 
 ### Statutory Notes
 
+#### References in Text
+Section 5000D(c)(1) of the Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified to [section 5000D(c)(1) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5000D/c/1&num=0&edition=prelim), Internal Revenue Code.
+
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–169, § 11201(e)(7)(A)(i), added par. (1) and struck out former par. (1) which read as follows: “participate in the Medicare coverage gap discount program under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a);”.
+
+Subsec. (a)(2). Pub. L. 117–169, § 11201(e)(7)(A)(ii), added par. (2) and struck out former par. (2) which read as follows: “have entered into and have in effect an agreement described in subsection (b) of such section with the Secretary; and”.
+
+Subsec. (a)(3). Pub. L. 117–169, § 11201(e)(7)(A)(iii), substituted “[section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a)” for “such section”.
+
+Subsec. (b). Pub. L. 117–169, § 11201(e)(7)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Subsection (a) shall apply to covered part D drugs dispensed under this part on or after January 1, 2011.”
+
+Subsec. (c). Pub. L. 117–169, § 11001(b)(1)(G)(i), designated existing provisions as par. (1) and inserted heading, substituted “Subject to paragraph (2), subsection” for “Subsection” in introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
 2010—Subsec. (b). Pub. L. 111–152, § 1101(b)(1)(A), substituted “January 1, 2011” for “July 1, 2010”.
 
 Subsec. (c)(2). Pub. L. 111–152, § 1101(b)(1)(B), substituted “January 1, 2011, and December 31, 2011,” for “July 1, 2010, and ending on December 31, 2010,”.
@@ -56605,7 +57424,7 @@ Section 2355 of the Deficit Reduction Act of 1984, referred to in subsec. (g)(1)
 
 Section 9412(b) of the Omnibus Budget Reconciliation Act of 1986, referred to in subsec. (g)(1), is section 9412(b) of Pub. L. 99–509, title IX, Oct. 21, 1986, 100 Stat. 2062, which was not classified to the Code, and was repealed by Pub. L. 105–33, title IV, § 4803(d), Aug. 5, 1997, 111 Stat. 550, subject to transition provisions.
 
-The Medicare Catastrophic Coverage Act of 1988, referred to in subsecs. (k)(1)(A), (2)(A) and (l)(4)(A), is Pub. L. 100–360, July 1, 1988, 102 Stat. 683, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Medicare Catastrophic Coverage Act of 1988, referred to in subsecs. (k)(1)(A), (2)(A) and (l)(4)(A), is Pub. L. 100–360, July 1, 1988, 102 Stat. 683. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 The Medicare Catastrophic Coverage Repeal Act of 1989, referred to in subsecs. (m)(1)(A), (2)(A) and (n)(2)(A), (5)(A), is Pub. L. 101–234, Dec. 13, 1989, 103 Stat. 1979. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
@@ -61139,6 +61958,8 @@ Paragraph (7) shall not apply to Federally qualified health center services desc
 
     (iii) *Treatment of self-employed persons as employers* — The term “employer” includes a self-employed person.
 
+    (iv) *Application to certain Postal Service annuitants or family members* — Nothing in this paragraph shall prohibit a group health plan from determining an individual’s eligibility to enroll in a health benefits plan offered under the Postal Service Health Benefits Program under [section 8903c of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8903c&num=0&edition=prelim) in accordance with subsection (e) of such section.
+
   (F) *Limitation on beneficiary liability* — An individual who is entitled to benefits under this subchapter and is furnished an item or service for which such benefits are incorrectly paid is not liable for repayment of such benefits under this paragraph unless payment of such benefits was made to the individual.
 
 (2) **Medicare secondary payer**
@@ -61524,6 +62345,8 @@ Section 107(c)(3) of the Drug Amendments of 1962, referred to in subsec. (c)(1)(
 Amendments by section 301(a) to (c) of Pub. L. 108–173 were executed to this section as it read on the date of enactment of Pub. L. 108–173 to reflect the probable intent of Congress, notwithstanding section 301(d) of Pub. L. 108–173, set out as an Effective Date of 2003 Amendment note below, which provided that the amendments by section 301(a) of Pub. L. 108–173 be effective as if included in the enactment of title III of Pub. L. 98–369 and that the amendments by section 301(b), (c) of Pub. L. 108–173 be effective as if included in the enactment of section 953 of Pub. L. 96–499. The amendments by section 301(a) are incapable of being executed to this section as it read on the effective date of title III of Pub. L. 98–369, and the amendments by section 301(b), (c) are incapable of being executed to this section as it read on the effective date of section 953 of Pub. L. 96–499. See 2003 Amendment notes below.
 
 #### Amendments
+2022—Subsec. (b)(1)(E)(iv). Pub. L. 117–108 added cl. (iv).
+
 2021—Subsec. (g). Pub. L. 117–2 designated existing provisions as par. (1) and added par. (2).
 
 2020—Subsec. (b)(8)(G). Pub. L. 116–215 inserted clause (i) designation and heading and added clause (ii).
@@ -62728,8 +63551,6 @@ Pub. L. 103–432, title I, § 154, Oct. 31, 1994, 108 Stat. 4437, provided that
 #### Applicability of Amendment
 Amendment of section by section 125(d)(2) of Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023. See 2020 Amendment note below.
 
-Amendment of section by section 407(a)(3)(A) of Pub. L. 116–260 applicable with respect to agreements entered into on or after, or in effect as of, the date that is 1 year after Dec. 27, 2020. See 2020 Amendment note below.
-
 #### Amendments
 2020—Subsec. (a). Pub. L. 116–260, § 407(a)(3)(A), inserted “and hospice programs” after “information on home health agencies”, “or the hospice program” after “the home health agency”, “or the hospice program” after “with respect to the agency”, and “and hospice programs” after “with respect to home health agencies”.
 
@@ -62995,7 +63816,7 @@ Pub. L. 101–508, title IV, § 4008(h)(1)(A), Nov. 5, 1990, 104 Stat. 1388–46
 ### Statutory Notes
 
 #### References in Text
-The Older Americans Act, referred to in subsec. (d)(1)(C)(ii), probably means the Older Americans Act of 1965, which is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, and is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act, referred to in subsec. (d)(1)(C)(ii), probably means the Older Americans Act of 1965, which is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, and is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
 #### Codification
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the Social Security Act which comprises this chapter.
@@ -63503,7 +64324,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
     (iv) with respect to discharges occurring in fiscal year 1995 and each subsequent fiscal year, the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
 
-  (D) For cost reporting periods ending on or before September 30, 1994, and for discharges occurring on or after October 1, 1997, and before October 1, 2022, in the case of a hospital that is a medicare-dependent, small rural hospital (as defined in subsection (d)(5)(G)), subject to subparagraph (K), the term “target amount” means—
+  (D) For cost reporting periods ending on or before September 30, 1994, and for discharges occurring on or after October 1, 1997, and before December 24, 2022, in the case of a hospital that is a medicare-dependent, small rural hospital (as defined in subsection (d)(5)(G)), subject to subparagraph (K), the term “target amount” means—
 
     (i) with respect to the first 12-month cost reporting period in which this subparagraph is applied to the hospital—
 
@@ -63515,7 +64336,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
     (iii) with respect to discharges occurring in fiscal year 1994, the target amount for the cost reporting period beginning in fiscal year 1993 increased by the applicable percentage increase under subparagraph (B)(iv), and
 
-    (iv) with respect to discharges occurring during fiscal year 1998 through fiscal year 2022, the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
+    (iv) with respect to discharges occurring during fiscal year 1998 through fiscal year 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, the target amount for the preceding year increased by the applicable percentage increase under subparagraph (B)(iv).
 
   (E) In the case of a hospital described in clause (v) of subsection (d)(1)(B), the term “target amount” means—
 
@@ -64209,13 +65030,13 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
   (G)
 
-    (i) For any cost reporting period beginning on or after April 1, 1990, and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before October 1, 2022, in the case of a subsection (d) hospital which is a medicare-dependent, small rural hospital, payment under paragraph (1)(A) shall be equal to the sum of the amount determined under clause (ii) and the amount determined under paragraph (1)(A)(iii).
+    (i) For any cost reporting period beginning on or after April 1, 1990, and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before December 24, 2022, in the case of a subsection (d) hospital which is a medicare-dependent, small rural hospital, payment under paragraph (1)(A) shall be equal to the sum of the amount determined under clause (ii) and the amount determined under paragraph (1)(A)(iii).
 
     (ii) The amount determined under this clause is—
 
       (I) for discharges occurring during the 36-month period beginning with the first day of the cost reporting period that begins on or after April 1, 1990, the amount by which the hospital’s target amount for the cost reporting period (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii); and
 
-      (II) for discharges occurring during any subsequent cost reporting period (or portion thereof) and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before October 1, 2022, 50 percent (or 75 percent in the case of discharges occurring on or after October 1, 2006) of the amount by which the hospital’s target amount for the cost reporting period or for discharges in the fiscal year (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii).
+      (II) for discharges occurring during any subsequent cost reporting period (or portion thereof) and before October 1, 1994, or discharges occurring on or after October 1, 1997, and before December 24, 2022, 50 percent (or 75 percent in the case of discharges occurring on or after October 1, 2006) of the amount by which the hospital’s target amount for the cost reporting period or for discharges in the fiscal year (as defined in subsection (b)(3)(D)) exceeds the amount determined under paragraph (1)(A)(iii).
 
     (iii) In the case of a medicare dependent, small rural hospital that experiences, in a cost reporting period compared to the previous cost reporting period, a decrease of more than 5 percent in its total number of inpatient cases due to circumstances beyond its control, the Secretary shall provide for such adjustment to the payment amounts under this subsection (other than under paragraph (9)) as may be necessary to fully compensate the hospital for the fixed costs it incurs in the period in providing inpatient hospital services, including the reasonable cost of maintaining necessary core staff and services.
 
@@ -64567,7 +65388,7 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
   (A) *In general.—* — In addition to any payments calculated under this section for a subsection (d) hospital, for discharges occurring during a fiscal year (beginning with fiscal year 2005), the Secretary shall provide for an additional payment amount to each low-volume hospital (as defined in subparagraph (C)(i)) for discharges occurring during that fiscal year that is equal to the applicable percentage increase (determined under subparagraph (B) or (D) for the hospital involved) in the amount paid to such hospital under this section for such discharges (determined without regard to this paragraph).
 
-  (B) *Applicable percentage increase.—* — For discharges occurring in fiscal years 2005 through 2010 and for discharges occurring in fiscal year 2023 and subsequent fiscal years, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) as follows:
+  (B) *Applicable percentage increase.—* — For discharges occurring in fiscal years 2005 through 2010 and for discharges occurring during the portion of fiscal year 2023 beginning on December 24, 2022, and ending on September 30, 2023, and in fiscal year 2024 and subsequent fiscal years, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) as follows:
 
     (i) The Secretary shall determine the empirical relationship for subsection (d) hospitals between the standardized cost-per-case for such hospitals and the total number of discharges of such hospitals and the amount of the additional incremental costs (if any) that are associated with such number of discharges.
 
@@ -64577,15 +65398,15 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
   (C) *Definitions.—*
 
-    (i) *Low-volume hospital.—* — For purposes of this paragraph, the term “low-volume hospital” means, for a fiscal year, a subsection (d) hospital (as defined in paragraph (1)(B)) that the Secretary determines is located more than 25 road miles (or, with respect to fiscal years 2011 through 2022, 15 road miles) from another subsection (d) hospital and has—
+    (i) *Low-volume hospital.—* — For purposes of this paragraph, the term “low-volume hospital” means, for a fiscal year or portion of a fiscal year, a subsection (d) hospital (as defined in paragraph (1)(B)) that the Secretary determines is located more than 25 road miles (or, with respect to fiscal years 2011 through 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, 15 road miles) from another subsection (d) hospital and has—
 
       (I) with respect to each of fiscal years 2005 through 2010, less than 800 discharges during the fiscal year;
 
       (II) with respect to each of fiscal years 2011 through 2018, less than 1,600 discharges of individuals entitled to, or enrolled for, benefits under part A during the fiscal year or portion of fiscal year;
 
-      (III) with respect to each of fiscal years 2019 through 2022, less than 3,800 discharges during the fiscal year; and
+      (III) with respect to each of fiscal years 2019 through 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, less than 3,800 discharges during the fiscal year; and
 
-      (IV) with respect to fiscal year 2023 and each subsequent fiscal year, less than 800 discharges during the fiscal year.
+      (IV) with respect to the portion of fiscal year 2023 beginning on December 24, 2022, and ending on September 30, 2023, and fiscal year 2024 and each subsequent fiscal year, less than 800 discharges during the fiscal year.
 
     (ii) *Discharge.—* — For purposes of subparagraphs (B) and (D) and clause (i), the term “discharge” means an inpatient acute care discharge of an individual regardless (except as provided in clause (i)(II) and subparagraph (D)(i)) of whether the individual is entitled to benefits under part A.
 
@@ -64595,11 +65416,11 @@ Pub. L. 110–275, title I, § 125(c), July 15, 2008, 122 Stat. 2519, provided t
 
       (II) a subsection (d) hospital other than a hospital of the Indian Health Service meets the mileage criterion under clause (i) with respect to fiscal year 2011 or a succeeding fiscal year, the Secretary shall apply the policy described in the regulation at part 88 So in original. Probably should be “section”. 412.101(e) of title 42, Code of Federal Regulations (as in effect on March 23, 2018).
 
-  (D) *Temporary applicable percentage increase.—* — For discharges occurring in fiscal years 2011 through 2022, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals—
+  (D) *Temporary applicable percentage increase.—* — For discharges occurring in fiscal years 2011 through 2022 or during the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals—
 
     (i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year or portion of fiscal year; 99 So in original. and
 
-    (ii) with respect to each of fiscal years 2019 through 2022, with 500 or fewer discharges in the fiscal year to 0 percent for low-volume hospitals with greater than 3,800 discharges in the fiscal year.
+    (ii) with respect to each of fiscal years 2019 through 2022 and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022, with 500 or fewer discharges in the fiscal year to 0 percent for low-volume hospitals with greater than 3,800 discharges in the fiscal year.
 
 (13)
 
@@ -66333,6 +67154,46 @@ The Health Care and Education Reconciliation Act of 2010, referred to in subsec.
 Section 124 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999, referred to in subsec. (s)(1), is section 1000(a)(6) [title I, § 124] of Pub. L. 106–113, which enacted provisions set out as a note under this section.
 
 #### Amendments
+2022—Subsec. (b)(3)(D). Pub. L. 117–229, § 102(b)(1)(A), substituted “December 24, 2022” for “December 17, 2022” in introductory provisions.
+
+Pub. L. 117–180, § 102(b)(1)(A), substituted “December 17, 2022” for “October 1, 2022” in introductory provisions.
+
+Subsec. (b)(3)(D)(iv). Pub. L. 117–229, § 102(b)(1)(B), substituted “December 23, 2022” for “December 16, 2022,”.
+
+Pub. L. 117–180, § 102(b)(1)(B), inserted “and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022,” after “through fiscal year 2022”.
+
+Subsec. (d)(5)(G)(i). Pub. L. 117–229, § 102(a)(1), substituted “December 24, 2022” for “December 17, 2022”.
+
+Pub. L. 117–180, § 102(a)(1), substituted “December 17, 2022” for “October 1, 2022”.
+
+Subsec. (d)(5)(G)(ii)(II). Pub. L. 117–229, § 102(a)(2), substituted “December 24, 2022” for “December 17, 2022”.
+
+Pub. L. 117–180, § 102(a)(2), substituted “December 17, 2022” for “October 1, 2022”.
+
+Subsec. (d)(12)(B). Pub. L. 117–229, § 101(a)(1), substituted “December 24, 2022” for “December 17, 2022” in introductory provisions.
+
+Pub. L. 117–180, § 101(a)(1), substituted “during the portion of fiscal year 2023 beginning on December 17, 2022, and ending on September 30, 2023, and in fiscal year 2024 and subsequent fiscal years” for “in fiscal year 2023 and subsequent fiscal years” in introductory provisions.
+
+Subsec. (d)(12)(C)(i). Pub. L. 117–229, § 101(a)(2)(A), substituted “December 23, 2022” for “December 16, 2022” in introductory provisions.
+
+Pub. L. 117–180, § 101(a)(2)(A), inserted “or portion of a fiscal year” after “for a fiscal year” and “and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022” after “through 2022” in introductory provisions.
+
+Subsec. (d)(12)(C)(i)(III). Pub. L. 117–229, § 101(a)(2)(B), which directed the substitution of “December 23, 2022” for “December 16, 2022’ ”, was executed by making the substitution for “December 16, 2022” to reflect the probable intent of Congress.
+
+Pub. L. 117–180, § 101(a)(2)(B), inserted “and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022” after “through 2022”.
+
+Subsec. (d)(12)(C)(i)(IV). Pub. L. 117–229, § 101(a)(2)(C), substituted “December 24, 2022” for “December 17, 2022”.
+
+Pub. L. 117–180, § 101(a)(2)(C), substituted “the portion of fiscal year 2023 beginning on December 17, 2022, and ending on September 30, 2023, and fiscal year 2024” for “fiscal year 2023”.
+
+Subsec. (d)(12)(D). Pub. L. 117–229, § 101(a)(3)(A), which directed the substitution of “December 23, 2022” for “December 16, 2022’ ” in introductory provisions, was executed by making the substitution for “December 16, 2022” to reflect the probable intent of Congress.
+
+Pub. L. 117–180, § 101(a)(3)(A), inserted “or during the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022” after “through 2022” in introductory provisions.
+
+Subsec. (d)(12)(D)(ii). Pub. L. 117–229, § 101(a)(3)(B), which directed the substitution of “December 23, 2022” for “December 16, 2022’ ”, was executed by making the substitution for “December 16, 2022” to reflect the probable intent of Congress.
+
+Pub. L. 117–180, § 101(a)(3)(B), inserted “and the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 16, 2022” after “through 2022”.
+
 2021—Subsec. (d)(3)(E)(i). Pub. L. 117–2, § 9831(b), substituted “, the amendments” for “and the amendments” and inserted “, and the amendments made by section 9831(a) of the American Rescue Plan Act of 2021” after “the Patient Protection and Affordable Care Act”.
 
 Pub. L. 117–2, § 9831(a)(1), substituted “, (iii), or (iv)” for “or (iii)”.
@@ -68254,6 +69115,12 @@ Pub. L. 111–148, title V, § 5506(c), Mar. 23, 2010, 124 Stat. 662, provided t
 #### Transfer of Functions
 Prospective Payment Assessment Commission (ProPAC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under [section 1395b–6 of this title](./chapter-007-social-security.md#section-1395b-6). Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by ProPAC, and that, for that purpose, any reference in law to ProPAC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.
 
+#### Implementation of Amendment by Pub. L. 117–229
+Pub. L. 117–229, div. C, title I, § 101(b), Dec. 16, 2022, 136 Stat. 2310, provided that: “Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the provisions of, including the amendments made by, this section [amending this section] by program instruction or otherwise.”
+
+#### Implementation of Amendment by Pub. L. 117–180
+Pub. L. 117–180, div. D, title I, § 101(b), Sept. 30, 2022, 136 Stat. 2134, provided that: “Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the provisions of, including the amendments made by, this section [amending this section] by program instruction or otherwise.”
+
 #### Implementation of Amendment by Pub. L. 116–136
 Pub. L. 116–136, div. A, title III, § 3710(b), Mar. 27, 2020, 134 Stat. 422, provided that: “Notwithstanding any other provision of law, the Secretary [probably means Secretary of Health and Human Services] may implement the amendment made by subsection (a) [amending this section] by program instruction or otherwise.”
 
@@ -68554,7 +69421,7 @@ Pub. L. 103–66, title XIII, § 13501(b)(2), Aug. 10, 1993, 107 Stat. 574, prov
 Pub. L. 103–66, title XIII, § 13501(d), Aug. 10, 1993, 107 Stat. 575, provided that: “(1) Extension of classification through fiscal year 1994.—Any hospital that is classified as a regional referral center under section 1886(d)(5)(C) of the Social Security Act [[42 U.S.C. 1395ww(d)(5)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/d/5/C&num=0&edition=prelim)] as of September 30, 1992, shall continue to be so classified for cost reporting periods beginning during fiscal year 1993 or fiscal year 1994, unless the area in which the hospital is located is redesignated as a Metropolitan Statistical Area by the Office of Management and Budget for such a fiscal year. “(2) Permitting hospitals to decline reclassification.—If any hospital fails to qualify as a rural referral center under section 1886(d)(5)(C) of the Social Security Act as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993 or fiscal year 1994, the Secretary of Health and Human Services shall—“(A) notify such hospital of such failure to qualify, “(B) provide an opportunity for such hospital to decline such reclassification, and “(C) if the hospital—“(i) declines such reclassification, administer the Social Security Act [[42 U.S.C. 301](./chapter-007-social-security.md#section-301) et seq.] (other than section 1886(d)(8)(D)) for such fiscal year as if the decision by the Review Board had not occurred, or “(ii) fails to decline such reclassification, administer the Social Security Act without regard to paragraph (1). “(3) Requiring lump-sum retroactive payment for hospitals losing classification.—“(A) In general.—In the case of a hospital described in paragraph (1), the Secretary of Health and Human Services shall make a lump-sum payment to the hospital equal to the difference between the aggregate payment made to the hospital under section 1886 of such Act (excluding outlier payments under subsection (d)(5)(A) of such section) during the period of applicability described in subparagraph (B) and the aggregate payment that would have been made to the hospital under such section if, during the period of applicability, the hospital was classified a regional referral center under section 1886(d)(5)(C) of such Act. “(B) Period of applicability.—In subparagraph (A), the ‘period of applicability’ is the period that begins on October 1, 1992, and ends on the date of the enactment of this Act [Aug. 10, 1993].”
 
 #### Hospitals Declining Urban Area Reclassifications; Retroactive Payments
-Pub. L. 103–66, title XIII, § 13501(e)(2), (3), Aug. 10, 1993, 107 Stat. 576, as amended by Pub. L. 105–33, title IV, § 4204(a)(3), Aug. 5, 1997, 111 Stat. 376; Pub. L. 106–113, div. B, § 1000(a)(6) [title IV, § 404(b)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–372; Pub. L. 109–171, title V, § 5003(a)(2)(B), Feb. 8, 2006, 120 Stat. 32; Pub. L. 111–148, title III, § 3124(b)(2), Mar. 23, 2010, 124 Stat. 425; Pub. L. 112–240, title VI, § 606(b)(2), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, § 1106(b)(2), Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, § 106(b)(2), Apr. 1, 2014, 128 Stat. 1042; Pub. L. 114–10, title II, § 205(b)(2), Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, § 50205(b)(2), Feb. 9, 2018, 132 Stat. 183, provided that: “(2) Permitting hospitals to decline reclassification.—If any hospital fails to qualify as a medicare-dependent, small rural hospital under section 1886(d)(5)(G)(i) of the Social Security Act [[42 U.S.C. 1395ww(d)(5)(G)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/d/5/G/i&num=0&edition=prelim)] as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993, fiscal year 1994, fiscal year 1998, fiscal year 1999, or fiscal year 2000 through fiscal year 2022, the Secretary of Health and Human Services shall—“(A) notify such hospital of such failure to qualify, “(B) provide an opportunity for such hospital to decline such reclassification, and “(C) if the hospital declines such reclassification, administer the Social Security Act [[42 U.S.C. 301](./chapter-007-social-security.md#section-301) et seq.] (other than section 1886(d)(8)(D)) for such fiscal year as if the decision by the Review Board had not occurred. “(3) Requiring lump-sum retroactive payment.—“(A) In general.—In the case of a hospital treated as a medicare-dependent, small rural hospital under section 1886(d)(5)(G) of the Social Security Act, the Secretary of Health and Human Services shall make a lump-sum payment to the hospital equal to the difference between the aggregate payment made to the hospital under section 1886 of such Act (excluding outlier payments under subsection (d)(5)(A) of such section) during the period of applicability described in subparagraph (B) and the aggregate payment that would have been made to the hospital under such section if, during the period of applicability, section 1886(d)(5)(G) of such Act had been applied as if the amendments made by paragraph (1) [amending this section] had been in effect. “(B) Period of applicability.—In subparagraph (A), the ‘period of applicability’ is, with respect to a hospital, the period that begins on the first day of the hospital’s first 12-month cost reporting period that begins after April 1, 1992, and ends on the date of the enactment of this Act [Aug. 10, 1993].”
+Pub. L. 103–66, title XIII, § 13501(e)(2), (3), Aug. 10, 1993, 107 Stat. 576, as amended by Pub. L. 105–33, title IV, § 4204(a)(3), Aug. 5, 1997, 111 Stat. 376; Pub. L. 106–113, div. B, § 1000(a)(6) [title IV, § 404(b)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–372; Pub. L. 109–171, title V, § 5003(a)(2)(B), Feb. 8, 2006, 120 Stat. 32; Pub. L. 111–148, title III, § 3124(b)(2), Mar. 23, 2010, 124 Stat. 425; Pub. L. 112–240, title VI, § 606(b)(2), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, § 1106(b)(2), Dec. 26, 2013, 127 Stat. 1197; Pub. L. 113–93, title I, § 106(b)(2), Apr. 1, 2014, 128 Stat. 1042; Pub. L. 114–10, title II, § 205(b)(2), Apr. 16, 2015, 129 Stat. 145; Pub. L. 115–123, div. E, title II, § 50205(b)(2), Feb. 9, 2018, 132 Stat. 183; Pub. L. 117–180, div. D, title I, § 102(b)(2), Sept. 30, 2022, 136 Stat. 2135; Pub. L. 117–229, div. C, title I, § 102(b)(2), Dec. 16, 2022, 136 Stat. 2311, provided that: “(2) Permitting hospitals to decline reclassification.—If any hospital fails to qualify as a medicare-dependent, small rural hospital under section 1886(d)(5)(G)(i) of the Social Security Act [[42 U.S.C. 1395ww(d)(5)(G)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/d/5/G/i&num=0&edition=prelim)] as a result of a decision by the Medicare Geographic Classification Review Board under section 1886(d)(10) of such Act to reclassify the hospital as being located in an urban area for fiscal year 1993, fiscal year 1994, fiscal year 1998, fiscal year 1999, fiscal year 2000 through fiscal year 2022, or the portion of fiscal year 2023 beginning on October 1, 2022, and ending on December 23, 2022[,] the Secretary of Health and Human Services shall—“(A) notify such hospital of such failure to qualify, “(B) provide an opportunity for such hospital to decline such reclassification, and “(C) if the hospital declines such reclassification, administer the Social Security Act [[42 U.S.C. 301](./chapter-007-social-security.md#section-301) et seq.] (other than section 1886(d)(8)(D)) for such fiscal year as if the decision by the Review Board had not occurred. “(3) Requiring lump-sum retroactive payment.—“(A) In general.—In the case of a hospital treated as a medicare-dependent, small rural hospital under section 1886(d)(5)(G) of the Social Security Act, the Secretary of Health and Human Services shall make a lump-sum payment to the hospital equal to the difference between the aggregate payment made to the hospital under section 1886 of such Act (excluding outlier payments under subsection (d)(5)(A) of such section) during the period of applicability described in subparagraph (B) and the aggregate payment that would have been made to the hospital under such section if, during the period of applicability, section 1886(d)(5)(G) of such Act had been applied as if the amendments made by paragraph (1) [amending this section] had been in effect. “(B) Period of applicability.—In subparagraph (A), the ‘period of applicability’ is, with respect to a hospital, the period that begins on the first day of the hospital’s first 12-month cost reporting period that begins after April 1, 1992, and ends on the date of the enactment of this Act [Aug. 10, 1993].”
 
 #### Adjustment in GME Base-Year Costs of Federal Insurance Contributions Act
 Pub. L. 103–66, title XIII, § 13563(d), Aug. 10, 1993, 107 Stat. 606, provided that: “(1) In general.—In determining the amount of payment to be made under section 1886(h) of the Social Security Act [[42 U.S.C. 1395ww(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/h&num=0&edition=prelim)] in the case of a hospital described in paragraph (2) for cost reporting periods beginning on or after October 1, 1992, the Secretary of Health and Human Services shall redetermine the approved FTE resident amount to reflect the amount that would have been paid the hospital if, during the hospital’s base cost reporting period, the hospital had been liable for FICA taxes or for contributions to the retirement system of a State, a political subdivision of a State, or an instrumentality of such a State or political subdivision with respect to interns and residents in its medical residency training program. “(2) Hospitals affected.—A hospital described in this paragraph is a hospital that did not pay FICA taxes with respect to interns and residents in its medical residency training program during the hospital’s base cost reporting period, but is required to pay FICA taxes or make contributions to a retirement system described in paragraph (1) with respect to such interns and residents because of the amendments made by section 11332(b) of OBRA–1990 [Pub. L. 101–508, amending [section 3121 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3121&num=0&edition=prelim), Internal Revenue Code]. “(3) Definitions.—In this subsection:“(A) The ‘base cost reporting period’ for a hospital is the hospital’s cost reporting period that began during fiscal year 1984. “(B) The term ‘FICA taxes’ means, with respect to a hospital, the taxes under section 3111 of the Internal Revenue Code of 1986 [[26 U.S.C. 3111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3111&num=0&edition=prelim)].”
@@ -69821,7 +70688,7 @@ Pub. L. 99–509, title IX, § 9301(c), Oct. 21, 1986, 100 Stat. 1982, directed 
 
       (I) subject to subclause (II), a hospice physician or nurse practitioner has a face-to-face encounter with the individual to determine continued eligibility of the individual for hospice care prior to the 180th-day recertification and each subsequent recertification under subparagraph (A)(ii) and attests that such visit took place (in accordance with procedures established by the Secretary); and
 
-      (II) during the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a hospice physician or nurse practitioner may conduct a face-to-face encounter required under this clause via telehealth, as determined appropriate by the Secretary; and
+      (II) during the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), and during the 151-day period beginning on the first day after the end of such emergency period, a hospice physician or nurse practitioner may conduct a face-to-face encounter required under this clause via telehealth, as determined appropriate by the Secretary; and
 
     (ii) in the case of hospice care provided an individual for more than 180 days by a hospice program for which the number of such cases for such program comprises more than a percent (specified by the Secretary) of the total number of such cases for all programs under this subchapter, the hospice care provided to such individual is medically reviewed (in accordance with procedures established by the Secretary); and
 
@@ -69947,9 +70814,9 @@ In the case of any State which has had such a demonstration project reimbursemen
 
     (i) Except as provided in clause (ii), for purposes of subparagraph (A), the “cap amount” for a year is $6,500, increased or decreased, for accounting years that end after October 1, 1984, by the same percentage as the percentage increase or decrease, respectively, in the medical care expenditure category of the Consumer Price Index for All Urban Consumers (United States city average), published by the Bureau of Labor Statistics, from March 1984 to the fifth month of the accounting year.
 
-    (ii) For purposes of subparagraph (A) for accounting years that end after September 30, 2016, and before October 1, 2030, the “cap amount” is the cap amount under this subparagraph for the preceding accounting year updated by the percentage update to payment rates for hospice care under paragraph (1)(C) for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year (including the application of any productivity or other adjustment under clause (iv) of that paragraph).
+    (ii) For purposes of subparagraph (A) for accounting years that end after September 30, 2016, and before October 1, 2031, the “cap amount” is the cap amount under this subparagraph for the preceding accounting year updated by the percentage update to payment rates for hospice care under paragraph (1)(C) for services furnished during the fiscal year beginning on the October 1 preceding the beginning of the accounting year (including the application of any productivity or other adjustment under clause (iv) of that paragraph).
 
-    (iii) For accounting years that end after September 30, 2030, the cap amount shall be computed under clause (i) as if clause (ii) had never applied.
+    (iii) For accounting years that end after September 30, 2031, the cap amount shall be computed under clause (i) as if clause (ii) had never applied.
 
   (C) For purposes of subparagraph (A), the “number of medicare beneficiaries” in a hospice program in an accounting year is equal to the number of individuals who have made an election under subsection (d) with respect to the hospice program and have been provided hospice care by (or under arrangements made by) the hospice program under this part in the accounting year, such number reduced to reflect the proportion of hospice care that each such individual was provided in a previous or subsequent accounting year or under a plan of care established by another hospice program.
 
@@ -70097,6 +70964,10 @@ The Patient Protection and Affordable Care Act, referred to in subsec. (i)(1)(C)
 The matter following clause (v) of [section 1395ww(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/d/1/B&num=0&edition=prelim), referred to in subsec. (l)(2), now follows cl. (vi) of [section 1395ww(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/d/1/B&num=0&edition=prelim) following the redesignation of subcl. (II) of cl. (iv) of subsec. (d)(1)(B) as cl. (vi) by Pub. L. 114–255, div. C, title XV, § 15008(a)(2)(B), Dec. 13, 2016, 130 Stat. 1321.
 
 #### Amendments
+2022—Subsec. (a)(7)(D)(i)(II). Pub. L. 117–103, § 306, inserted “, and during the 151-day period beginning on the first day after the end of such emergency period” after “[section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim)”.
+
+Subsec. (i)(2)(B)(ii), (iii). Pub. L. 117–103, § 312, substituted “2031” for “2030”.
+
 2020—Subsec. (a). Pub. L. 116–136, § 3708(a)(4), in fourth sentence of concluding provisions, inserted “or no later than 6 months after March 27, 2020, for purposes of documentation for certification and recertification made under paragraph (2) by a nurse practitioner, clinical nurse specialist, or physician assistant,” after “January 1, 2019” and “, nurse practitioner, clinical nurse specialist, or physician assistant” after “of the physician”.
 
 Pub. L. 116–136, § 3708(a)(3), in third sentence of concluding provisions, inserted “, nurse practitioner, clinical nurse specialist, or physician assistant” after “physician”.
@@ -70592,7 +71463,7 @@ Pub. L. 106–554, § 1(a)(6) [title III, § 321(c)], Dec. 21, 2000, 114 Stat. 2
 Pub. L. 106–113, div. B, § 1000(a)(6) [title I, § 131], Nov. 29, 1999, 113 Stat. 1536, 1501A–333, provided that: “(a) Increase for Fiscal Years 2001 and 2002.—For purposes of payments under section 1814(i)(1)(C) of the Social Security Act ([42 U.S.C. 1395f(i)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395f/i/1/C&num=0&edition=prelim)) for hospice care furnished during fiscal years 2001 and 2002, the Secretary of Health and Human Services shall increase the payment rate in effect (but for this section) for—“(1) fiscal year 2001, by 0.5 percent, and “(2) fiscal year 2002, by 0.75 percent. “(b) Additional Payment Not Built Into the Base.—The Secretary of Health and Human Services shall not include any additional payment made under this subsection (a) in updating the payment rate, as increased by the applicable market basket percentage increase for the fiscal year involved under section 1814(i)(1)(C)(ii) of that Act ([42 U.S.C. 1395f(i)(1)(C)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395f/i/1/C/ii&num=0&edition=prelim)).”
 
 #### Study and Report to Congress Regarding Modification of Payment Rates for Hospice Care
-Pub. L. 106–113, div. B, § 1000(a)(6) [title I, § 132], Nov. 29, 1999, 113 Stat. 1536, 1501A–333, provided that the Comptroller General of the United States would conduct a study, including cost factors, to determine the feasibility and advisability of updating the payment rates and the cap amount determined with respect to a fiscal year under subsec. (i) of this section for routine home care and other services included in hospice care, and provided the the Comptroller General was to submit to Congress a report on the study together with any recommendations for legislation deemed appropriate not later than one year after Nov. 29, 1999.
+Pub. L. 106–113, div. B, § 1000(a)(6) [title I, § 132], Nov. 29, 1999, 113 Stat. 1536, 1501A–333, provided that the Comptroller General of the United States would conduct a study, including cost factors, to determine the feasibility and advisability of updating the payment rates and the cap amount determined with respect to a fiscal year under subsec. (i) of this section for routine home care and other services included in hospice care, and provided the Comptroller General was to submit to Congress a report on the study together with any recommendations for legislation deemed appropriate not later than one year after Nov. 29, 1999.
 
 #### Study of Methods To Compensate Hospices for High-Cost Care
 Pub. L. 101–239, title VI, § 6016, Dec. 19, 1989, 103 Stat. 2164, directed Secretary of Health and Human Services to conduct a study of high-cost hospice care provided to medicare beneficiaries under the medicare program, evaluate the ability of hospice programs participating in the medicare program to provide such high-cost care to such patients, develop methods to compensate such programs for providing such high-cost care, and submit, not later than Apr. 1, 1991, a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate on the study, including in the report any recommendations developed by the Secretary to compensate hospice programs for providing high-cost hospice care to medicare beneficiaries.
@@ -71025,7 +71896,7 @@ Amendment of section by section 125(b)(1), (2)(A) of Pub. L. 116–260 applicabl
 
 Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(O), is section 222(a) of Pub. L. 92–603, which is set out as a note under [section 1395b–1 of this title](./chapter-007-social-security.md#section-1395b-1).
 
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1)(V) and (b)(4)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1)(V) and (b)(4)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 Section 1395l(t)(5) of this title, referred to in subsec. (a)(2)(A), was redesignated section 1395l(t)(8) of this title by Pub. L. 106–113, div. B, § 1000(a)(6) [title II, §§ 201(a)(1), 202(a)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–336, 1501A–342.
 
@@ -73873,7 +74744,7 @@ Section 801(a) of the Medicare Prescription Drug, Improvement, and Modernization
 
 Sections 242(b) and 249(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (k)(2)(A)(ii), are sections 242(b) and 249(b) of Pub. L. 104–191, which are set out as notes under this section.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (k)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (k)(2)(D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Subsec. (k)(3)(A)(i)(III). Pub. L. 111–148, § 6402(i)(2)(A)(i), inserted “and” at the end.
@@ -74344,7 +75215,7 @@ Pub. L. 100–360, title I, § 112(b), July 1, 1988, 102 Stat. 699, which direct
 
   (B) is authorized to prescribe or dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment; and
 
-  (C) has in effect a waiver in accordance with [section 823(g) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) for such purpose and is otherwise in compliance with regulations promulgated by the Substance Abuse and Mental Health Services Administration to carry out such section.
+  (C) has in effect a waiver in accordance with [section 823(h) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h&num=0&edition=prelim) for such purpose and is otherwise in compliance with regulations promulgated by the Substance Abuse and Mental Health Services Administration to carry out such section.
 
 **(d) Participation of applicable beneficiaries**
 
@@ -74432,6 +75303,9 @@ Pub. L. 100–360, title I, § 112(b), July 1, 1988, 102 Stat. 699, which direct
 #### References in Text
 Section 223 of the Protecting Access to Medicare Act of 2014, referred to in subsec. (c)(1)(A)(i)(VII), is section 223 of Pub. L. 113–93, which is set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
+#### Amendments
+2022—Subsec. (c)(3)(C). Pub. L. 117–215 substituted “823(h)” for “823(g)”.
+
 
 <a id="section-1395o"></a>
 ## § 1395o. Hospital insurance benefits for uninsured elderly individuals not otherwise eligible
@@ -74448,7 +75322,7 @@ shall be eligible to enroll in the insurance program established by this part. E
 
 **(b) Time, manner, and form of enrollment** An individual may enroll under this section only in such manner and form as may be prescribed in regulations, and only during an enrollment period prescribed in or under this section.
 
-**(c) Period of enrollment; scope of coverage** The provisions of [section 1395p of this title](./chapter-007-social-security.md#section-1395p) (except subsection (f) thereof), [section 1395q of this title](./chapter-007-social-security.md#section-1395q), subsection (b) of [section 1395r of this title](./chapter-007-social-security.md#section-1395r), and subsections (f) and (h) of [section 1395s of this title](./chapter-007-social-security.md#section-1395s) shall apply to persons authorized to enroll under this section except that—
+**(c) Period of enrollment; scope of coverage** The provisions of [section 1395p of this title](./chapter-007-social-security.md#section-1395p) (except subsections (f) and (o) thereof), [section 1395q of this title](./chapter-007-social-security.md#section-1395q), subsection (b) of [section 1395r of this title](./chapter-007-social-security.md#section-1395r), and subsections (f) and (h) of [section 1395s of this title](./chapter-007-social-security.md#section-1395s) shall apply to persons authorized to enroll under this section except that—
 
 (1) individuals who meet the conditions of subsection (a)(1), (3), and (4) on or before the last day of the seventh month after October 1972 may enroll under this part and (if not already so enrolled) may also enroll under part B during an initial general enrollment period which shall begin on the first day of the second month which begins after October 30, 1972, and shall end on the last day of the tenth month after October 1972;
 
@@ -74563,6 +75437,8 @@ shall be eligible to enroll in the insurance program established by this part. E
 The Internal Revenue Code of 1986, referred to in subsec. (d)(6)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–108 substituted “(except subsections (f) and (o) thereof)” for “(except subsection (f) thereof)” in introductory provisions.
+
 2003—Subsec. (a). Pub. L. 108–173, § 101(e)(5), inserted at end of concluding provisions “Except as otherwise provided, any reference to an individual entitled to benefits under this part includes an individual entitled to benefits under this part pursuant to an enrollment under this section or [section 1395i–2a of this title](./chapter-007-social-security.md#section-1395i-2a).”
 
 Subsec. (d)(6)(A). Pub. L. 108–173, § 736(a)(7)(A), inserted “of such Code” after “3111(b)”.
@@ -78054,7 +78930,7 @@ Pub. L. 90–248, title I, § 141, Jan. 2, 1968, 81 Stat. 855, directed Secretar
 
     (i) be performed by an entity that meets such requirements for independence as the Inspector General of the Department of Health and Human Services may establish; and
 
-    (ii) test the effectiveness of information security control techniques of an appropriate subset of the contractor’s information systems (as defined in [section 3502(8) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/8&num=0&edition=prelim)) relating to such functions under this subchapter and an assessment of compliance with the requirements of this subsection and related information security policies, procedures, standards and guidelines, including policies and procedures as may be prescribed by the Director of the Office of Management and Budget and applicable information security standards promulgated under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim).
+    (ii) test the effectiveness of information security control techniques of an appropriate subset of the contractor’s information systems (as defined in [section 3502(8) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/8&num=0&edition=prelim)) relating to such functions under this subchapter and an assessment of compliance with the requirements of this subsection and related information security policies, procedures, standards and guidelines, including policies and procedures as may be prescribed by the Director of the Office of Management and Budget and applicable information security standards promulgated under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim).1
 
   (B) *Deadline for initial evaluation*
 
@@ -78148,6 +79024,8 @@ Pub. L. 90–248, title I, § 141, Jan. 2, 1968, 81 Stat. 855, directed Secretar
 
 #### References in Text
 [Section 3544 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3544&num=0&edition=prelim), referred to in subsec. (e)(1), (2)(C)(iii), was repealed by Pub. L. 113–283, § 2(a), Dec. 18, 2014, 128 Stat. 3073. Provisions similar to [section 3544 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3544&num=0&edition=prelim) are now contained in [section 3554 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3554&num=0&edition=prelim), as enacted by Pub. L. 113–283.
+
+The text of [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim), referred to in subsec. (e)(2)(A)(ii), was generally amended by Pub. L. 117–167, div. B, title II, § 10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
 
 #### Codification
 In subsec. (b)(1)(B), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “[section 5 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim), United States Code,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -78599,7 +79477,7 @@ Section was enacted as part of the Medicare Access and CHIP Reauthorization Act 
 ## § 1395w. Payment of benefits
 **(a) Amounts** Except as provided in [section 1395mm of this title](./chapter-007-social-security.md#section-1395mm), and subject to the succeeding provisions of this section, there shall be paid from the Federal Supplementary Medical Insurance Trust Fund, in the case of each individual who is covered under the insurance program established by this part and incurs expenses for services with respect to which benefits are payable under this part, amounts equal to—
 
-(1) in the case of services described in [section 1395k(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395k/a/1&num=0&edition=prelim)—80 percent of the reasonable charges for the services; except that (A) an organization which provides medical and other health services (or arranges for their availability) on a prepayment basis (and either is sponsored by a union or employer, or does not provide, or arrange for the provision of, any inpatient hospital services) may elect to be paid 80 percent of the reasonable cost of services for which payment may be made under this part on behalf of individuals enrolled in such organization in lieu of 80 percent of the reasonable charges for such services if the organization undertakes to charge such individuals no more than 20 percent of such reasonable cost plus any amounts payable by them as a result of subsection (b), (B) with respect to items and services described in [section 1395x(s)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/10/A&num=0&edition=prelim), the amounts paid shall be 100 percent of the reasonable charges for such items and services, (C) with respect to expenses incurred for those physicians’ services for which payment may be made under this part that are described in [section 1395y(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395y/a/4&num=0&edition=prelim), the amounts paid shall be subject to such limitations as may be prescribed by regulations, (D) with respect to clinical diagnostic laboratory tests for which payment is made under this part (i)(I) on the basis of a fee schedule under subsection (h)(1) (for tests furnished before January 1, 2017) or [section 1395m(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/d/1&num=0&edition=prelim), the amount paid shall be equal to 80 percent (or 100 percent, in the case of such tests for which payment is made on an assignment-related basis) of the lesser of the amount determined under such fee schedule, the limitation amount for that test determined under subsection (h)(4)(B), or the amount of the charges billed for the tests, or (II) under [section 1395m–1 of this title](./chapter-007-social-security.md#section-1395m-1) (for tests furnished on or after January 1, 2017), the amount paid shall be equal to 80 percent (or 100 percent, in the case of such tests for which payment is made on an assignment-related basis) of the lesser of the amount determined under such section or the amount of the charges billed for the tests, or (ii) for tests furnished before January 1, 2017, on the basis of a negotiated rate established under subsection (h)(6), the amount paid shall be equal to 100 percent of such negotiated rate,,11 So in original. (E) with respect to services furnished to individuals who have been determined to have end stage renal disease, the amounts paid shall be determined subject to the provisions of [section 1395rr of this title](./chapter-007-social-security.md#section-1395rr), (F) with respect to clinical social worker services under [section 1395x(s)(2)(N) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/2/N&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of (i) the actual charge for the services or (ii) 75 percent of the amount determined for payment of a psychologist under clause (L), (G) with respect to facility services furnished in connection with a surgical procedure specified pursuant to subsection (i)(1)(A) and furnished to an individual in an ambulatory surgical center described in such subsection, for services furnished beginning with the implementation date of a revised payment system for such services in such facilities specified in subsection (i)(2)(D), the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by the Secretary under such revised payment system, (H) with respect to services of a certified registered nurse anesthetist under [section 1395x(s)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/11&num=0&edition=prelim), the amounts paid shall be 80 percent of the least of the actual charge, the prevailing charge that would be recognized (or, for services furnished on or after January 1, 1992, the fee schedule amount provided under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4)) if the services had been performed by an anesthesiologist, or the fee schedule for such services established by the Secretary in accordance with subsection (l), (I) with respect to covered items (described in [section 1395m(a)(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/a/13&num=0&edition=prelim)), the amounts paid shall be the amounts described in [section 1395m(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/a/1&num=0&edition=prelim), and 22 So in original. The word “and” probably should not appear. (J) with respect to expenses incurred for radiologist services (as defined in [section 1395m(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/b/6&num=0&edition=prelim)), subject to [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4), the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount provided under the fee schedule established under [section 1395m(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/b&num=0&edition=prelim), (K) with respect to certified nurse-midwife services under [section 1395x(s)(2)(L) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/2/L&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary for the purposes of this subparagraph (but in no event shall such fee schedule exceed 65 percent of the prevailing charge that would be allowed for the same service performed by a physician, or, for services furnished on or after January 1, 1992, 65 percent (or 100 percent for services furnished on or after January 1, 2011) of the fee schedule amount provided under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4) for the same service performed by a physician), (L) with respect to qualified psychologist services under [section 1395x(s)(2)(M) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/2/M&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary for the purposes of this subparagraph, (M) with respect to prosthetic devices and orthotics and prosthetics (as defined in [section 1395m(h)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/h/4&num=0&edition=prelim)), the amounts paid shall be the amounts described in [section 1395m(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/h/1&num=0&edition=prelim), (N) with respect to expenses incurred for physicians’ services (as defined in [section 1395w–4(j)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–4/j/3&num=0&edition=prelim)) other than personalized prevention plan services (as defined in [section 1395x(hhh)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/hhh/1&num=0&edition=prelim)), the amounts paid shall be 80 percent of the payment basis determined under [section 1395w–4(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–4/a/1&num=0&edition=prelim), (O) with respect to services described in [section 1395x(s)(2)(K) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/2/K&num=0&edition=prelim) (relating to services furnished by physician assistants, nurse practitioners, or clinic nurse specialists), the amounts paid shall be equal to 80 percent of (i) the lesser of the actual charge or 85 percent of the fee schedule amount provided under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4), or (ii) in the case of services as an assistant at surgery, the lesser of the actual charge or 85 percent of the amount that would otherwise be recognized if performed by a physician who is serving as an assistant at surgery, (P) with respect to surgical dressings, the amounts paid shall be the amounts determined under [section 1395m(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/i&num=0&edition=prelim), (Q) with respect to items or services for which fee schedules are established pursuant to [section 1395u(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395u/s&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of the actual charge or the fee schedule established in such section, (R) with respect to ambulance services, (i) the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary under section 1395m(l) of this title and (ii) with respect to ambulance services described in section 1395m(l)(8) of this title, the amounts paid shall be the amounts determined under [section 1395m(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/g&num=0&edition=prelim) for outpatient critical access hospital services, (S) with respect to drugs and biologicals (including intravenous immune globulin (as defined in [section 1395x(zz) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/zz&num=0&edition=prelim))) not paid on a cost or prospective payment basis as otherwise provided in this part (other than items and services described in subparagraph (B)), the amounts paid shall be 80 percent of the lesser of the actual charge or the payment amount established in section 1395u(o) of this title (or, if applicable, under section 1395w–3, 1395w–3a, or 1395w–3b of this title), (T) with respect to medical nutrition therapy services (as defined in [section 1395x(vv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/vv&num=0&edition=prelim)), the amount paid shall be 80 percent (or 100 percent if such services are recommended with a grade of A or B by the United States Preventive Services Task Force for any indication or population and are appropriate for the individual) of the lesser of the actual charge for the services or 85 percent of the amount determined under the fee schedule established under [section 1395w–4(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–4/b&num=0&edition=prelim) for the same services if furnished by a physician, (U) with respect to facility fees described in [section 1395m(m)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/m/2/B&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of the actual charge or the amounts specified in such section, (V) notwithstanding subparagraphs (I) (relating to durable medical equipment), (M) (relating to prosthetic devices and orthotics and prosthetics), and (Q) (relating to 1395u(s) items), with respect to competitively priced items and services (described in [section 1395w–3(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3/a/2&num=0&edition=prelim)) that are furnished in a competitive area, the amounts paid shall be the amounts described in [section 1395w–3(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3/b/5&num=0&edition=prelim), (W) with respect to additional preventive services (as defined in [section 1395x(ddd)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ddd/1&num=0&edition=prelim)), the amount paid shall be (i) in the case of such services which are clinical diagnostic laboratory tests, the amount determined under subparagraph (D) (if such subparagraph were applied, by substituting “100 percent” for “80 percent”), and (ii) in the case of all other such services, 100 percent of the lesser of the actual charge for the service or the amount determined under a fee schedule established by the Secretary for purposes of this subparagraph, (X) with respect to personalized prevention plan services (as defined in [section 1395x(hhh)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/hhh/1&num=0&edition=prelim)), the amount paid shall be 100 percent of the lesser of the actual charge for the services or the amount determined under the payment basis determined under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4), (Y) subject to subsection (dd), with respect to preventive services described in subparagraphs (A) and (B) of [section 1395x(ddd)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ddd/3&num=0&edition=prelim) that are appropriate for the individual and, in the case of such services described in subparagraph (A), are recommended with a grade of A or B by the United States Preventive Services Task Force for any indication or population, the amount paid shall be 100 percent of (i) except as provided in clause (ii), the lesser of the actual charge for the services or the amount determined under the fee schedule that applies to such services under this part, and (ii) in the case of such services that are covered OPD services (as defined in subsection (t)(1)(B)), the amount determined under subsection (t), (Z) with respect to Federally qualified health center services for which payment is made under section 1395m(o) of this title, the amounts paid shall be 80 percent of the lesser of the actual charge or the amount determined under such section, (AA) with respect to an applicable disposable device (as defined in paragraph (2) of [section 1395m(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/s&num=0&edition=prelim)) furnished to an individual pursuant to paragraph (1) of such section, the amount paid shall be equal to 80 percent of the lesser of the actual charge or the amount determined under paragraph (3) of such section, (BB) with respect to home infusion therapy, the amount paid shall be an amount equal to 80 percent of the lesser of the actual charge for the services or the amount determined under [section 1395m(u) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/u&num=0&edition=prelim), (CC) with respect to opioid use disorder treatment services furnished during an episode of care, the amount paid shall be equal to the amount payable under [section 1395m(w) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/w&num=0&edition=prelim) less any copayment required as specified by the Secretary, and (DD) with respect to a specified COVID–19 testing-related service described in paragraph (1) of subsection (cc) for which payment may be made under a specified outpatient payment provision described in paragraph (2) of such subsection, the amounts paid shall be 100 percent of the payment amount otherwise recognized under such respective specified outpatient payment provision for such service,; 1
+(1) in the case of services described in [section 1395k(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395k/a/1&num=0&edition=prelim)—80 percent of the reasonable charges for the services; except that (A) an organization which provides medical and other health services (or arranges for their availability) on a prepayment basis (and either is sponsored by a union or employer, or does not provide, or arrange for the provision of, any inpatient hospital services) may elect to be paid 80 percent of the reasonable cost of services for which payment may be made under this part on behalf of individuals enrolled in such organization in lieu of 80 percent of the reasonable charges for such services if the organization undertakes to charge such individuals no more than 20 percent of such reasonable cost plus any amounts payable by them as a result of subsection (b), (B) with respect to items and services described in [section 1395x(s)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/10/A&num=0&edition=prelim), the amounts paid shall be 100 percent of the reasonable charges for such items and services, (C) with respect to expenses incurred for those physicians’ services for which payment may be made under this part that are described in [section 1395y(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395y/a/4&num=0&edition=prelim), the amounts paid shall be subject to such limitations as may be prescribed by regulations, (D) with respect to clinical diagnostic laboratory tests for which payment is made under this part (i)(I) on the basis of a fee schedule under subsection (h)(1) (for tests furnished before January 1, 2017) or [section 1395m(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/d/1&num=0&edition=prelim), the amount paid shall be equal to 80 percent (or 100 percent, in the case of such tests for which payment is made on an assignment-related basis) of the lesser of the amount determined under such fee schedule, the limitation amount for that test determined under subsection (h)(4)(B), or the amount of the charges billed for the tests, or (II) under [section 1395m–1 of this title](./chapter-007-social-security.md#section-1395m-1) (for tests furnished on or after January 1, 2017), the amount paid shall be equal to 80 percent (or 100 percent, in the case of such tests for which payment is made on an assignment-related basis) of the lesser of the amount determined under such section or the amount of the charges billed for the tests, or (ii) for tests furnished before January 1, 2017, on the basis of a negotiated rate established under subsection (h)(6), the amount paid shall be equal to 100 percent of such negotiated rate,,11 So in original. (E) with respect to services furnished to individuals who have been determined to have end stage renal disease, the amounts paid shall be determined subject to the provisions of [section 1395rr of this title](./chapter-007-social-security.md#section-1395rr), (F) with respect to clinical social worker services under [section 1395x(s)(2)(N) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/2/N&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of (i) the actual charge for the services or (ii) 75 percent of the amount determined for payment of a psychologist under clause (L), (G) with respect to facility services furnished in connection with a surgical procedure specified pursuant to subsection (i)(1)(A) and furnished to an individual in an ambulatory surgical center described in such subsection, for services furnished beginning with the implementation date of a revised payment system for such services in such facilities specified in subsection (i)(2)(D), the amounts paid, subject to subsection (i)(9), shall be 80 percent of the lesser of the actual charge for the services or the amount determined by the Secretary under such revised payment system, (H) with respect to services of a certified registered nurse anesthetist under [section 1395x(s)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/11&num=0&edition=prelim), the amounts paid shall be 80 percent of the least of the actual charge, the prevailing charge that would be recognized (or, for services furnished on or after January 1, 1992, the fee schedule amount provided under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4)) if the services had been performed by an anesthesiologist, or the fee schedule for such services established by the Secretary in accordance with subsection (l), (I) with respect to covered items (described in [section 1395m(a)(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/a/13&num=0&edition=prelim)), the amounts paid shall be the amounts described in [section 1395m(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/a/1&num=0&edition=prelim), and 22 So in original. The word “and” probably should not appear. (J) with respect to expenses incurred for radiologist services (as defined in [section 1395m(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/b/6&num=0&edition=prelim)), subject to [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4), the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount provided under the fee schedule established under [section 1395m(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/b&num=0&edition=prelim), (K) with respect to certified nurse-midwife services under [section 1395x(s)(2)(L) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/2/L&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary for the purposes of this subparagraph (but in no event shall such fee schedule exceed 65 percent of the prevailing charge that would be allowed for the same service performed by a physician, or, for services furnished on or after January 1, 1992, 65 percent (or 100 percent for services furnished on or after January 1, 2011) of the fee schedule amount provided under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4) for the same service performed by a physician), (L) with respect to qualified psychologist services under [section 1395x(s)(2)(M) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/2/M&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary for the purposes of this subparagraph, (M) with respect to prosthetic devices and orthotics and prosthetics (as defined in [section 1395m(h)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/h/4&num=0&edition=prelim)), the amounts paid shall be the amounts described in [section 1395m(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/h/1&num=0&edition=prelim), (N) with respect to expenses incurred for physicians’ services (as defined in [section 1395w–4(j)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–4/j/3&num=0&edition=prelim)) other than personalized prevention plan services (as defined in [section 1395x(hhh)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/hhh/1&num=0&edition=prelim)), the amounts paid shall be 80 percent of the payment basis determined under [section 1395w–4(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–4/a/1&num=0&edition=prelim), (O) with respect to services described in [section 1395x(s)(2)(K) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/2/K&num=0&edition=prelim) (relating to services furnished by physician assistants, nurse practitioners, or clinic nurse specialists), the amounts paid shall be equal to 80 percent of (i) the lesser of the actual charge or 85 percent of the fee schedule amount provided under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4), or (ii) in the case of services as an assistant at surgery, the lesser of the actual charge or 85 percent of the amount that would otherwise be recognized if performed by a physician who is serving as an assistant at surgery, (P) with respect to surgical dressings, the amounts paid shall be the amounts determined under [section 1395m(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/i&num=0&edition=prelim), (Q) with respect to items or services for which fee schedules are established pursuant to [section 1395u(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395u/s&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of the actual charge or the fee schedule established in such section, (R) with respect to ambulance services, (i) the amounts paid shall be 80 percent of the lesser of the actual charge for the services or the amount determined by a fee schedule established by the Secretary under section 1395m(l) of this title and (ii) with respect to ambulance services described in section 1395m(l)(8) of this title, the amounts paid shall be the amounts determined under [section 1395m(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/g&num=0&edition=prelim) for outpatient critical access hospital services, (S)(i) except as provided in clause (ii), subject to subparagraph (EE), with respect to drugs and biologicals (including intravenous immune globulin (as defined in [section 1395x(zz) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/zz&num=0&edition=prelim))) not paid on a cost or prospective payment basis as otherwise provided in this part (other than items and services described in subparagraph (B)), the amounts paid shall be 80 percent of the lesser of the actual charge or the payment amount established in section 1395u(o) of this title (or, if applicable, under section 1395w–3, 1395w–3a, or 1395w–3b of this title), and (ii) with respect to insulin furnished on or after July 1, 2023, through an item of durable medical equipment covered under [section 1395x(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/n&num=0&edition=prelim), the amounts paid shall be, subject to the fourth sentence of this subsection, 80 percent of the payment amount established under [section 1395w–3a of this title](./chapter-007-social-security.md#section-1395w-3a) (or [section 1395w–3b of this title](./chapter-007-social-security.md#section-1395w-3b), if applicable) for such insulin, (T) with respect to medical nutrition therapy services (as defined in [section 1395x(vv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/vv&num=0&edition=prelim)), the amount paid shall be 80 percent (or 100 percent if such services are recommended with a grade of A or B by the United States Preventive Services Task Force for any indication or population and are appropriate for the individual) of the lesser of the actual charge for the services or 85 percent of the amount determined under the fee schedule established under [section 1395w–4(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–4/b&num=0&edition=prelim) for the same services if furnished by a physician, (U) with respect to facility fees described in [section 1395m(m)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/m/2/B&num=0&edition=prelim), the amounts paid shall be 80 percent of the lesser of the actual charge or the amounts specified in such section, (V) notwithstanding subparagraphs (I) (relating to durable medical equipment), (M) (relating to prosthetic devices and orthotics and prosthetics), and (Q) (relating to 1395u(s) items), with respect to competitively priced items and services (described in [section 1395w–3(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3/a/2&num=0&edition=prelim)) that are furnished in a competitive area, the amounts paid shall be the amounts described in [section 1395w–3(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3/b/5&num=0&edition=prelim), (W) with respect to additional preventive services (as defined in [section 1395x(ddd)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ddd/1&num=0&edition=prelim)), the amount paid shall be (i) in the case of such services which are clinical diagnostic laboratory tests, the amount determined under subparagraph (D) (if such subparagraph were applied, by substituting “100 percent” for “80 percent”), and (ii) in the case of all other such services, 100 percent of the lesser of the actual charge for the service or the amount determined under a fee schedule established by the Secretary for purposes of this subparagraph, (X) with respect to personalized prevention plan services (as defined in [section 1395x(hhh)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/hhh/1&num=0&edition=prelim)), the amount paid shall be 100 percent of the lesser of the actual charge for the services or the amount determined under the payment basis determined under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4), (Y) subject to subsection (dd), with respect to preventive services described in subparagraphs (A) and (B) of [section 1395x(ddd)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ddd/3&num=0&edition=prelim) that are appropriate for the individual and, in the case of such services described in subparagraph (A), are recommended with a grade of A or B by the United States Preventive Services Task Force for any indication or population, the amount paid shall be 100 percent of (i) except as provided in clause (ii), the lesser of the actual charge for the services or the amount determined under the fee schedule that applies to such services under this part, and (ii) in the case of such services that are covered OPD services (as defined in subsection (t)(1)(B)), the amount determined under subsection (t), (Z) with respect to Federally qualified health center services for which payment is made under section 1395m(o) of this title, the amounts paid shall be 80 percent of the lesser of the actual charge or the amount determined under such section, (AA) with respect to an applicable disposable device (as defined in paragraph (2) of [section 1395m(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/s&num=0&edition=prelim)) furnished to an individual pursuant to paragraph (1) of such section, the amount paid shall be equal to 80 percent of the lesser of the actual charge or the amount determined under paragraph (3) of such section, (BB) with respect to home infusion therapy, the amount paid shall be an amount equal to 80 percent of the lesser of the actual charge for the services or the amount determined under [section 1395m(u) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/u&num=0&edition=prelim), (CC) with respect to opioid use disorder treatment services furnished during an episode of care, the amount paid shall be equal to the amount payable under [section 1395m(w) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/w&num=0&edition=prelim) less any copayment required as specified by the Secretary, (DD) with respect to a specified COVID–19 testing-related service described in paragraph (1) of subsection (cc) for which payment may be made under a specified outpatient payment provision described in paragraph (2) of such subsection, the amounts paid shall be 100 percent of the payment amount otherwise recognized under such respective specified outpatient payment provision for such service,,1 and (EE) with respect to a part B rebatable drug (as defined in paragraph (2) of [section 1395w–3a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i&num=0&edition=prelim)) furnished on or after April 1, 2023, for which the payment amount for a calendar quarter under paragraph (3)(A)(ii)(I) of such section (or, in the case of a part B rebatable drug that is a selected drug (as defined in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim) for which, the payment amount described in [section 1395w–3a(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/b/1/B&num=0&edition=prelim)) for such drug for such quarter exceeds the inflation-adjusted payment under paragraph (3)(A)(ii)(II) of such section for such quarter, the amounts paid shall be equal to the percent of the payment amount under paragraph (3)(A)(ii)(I) of such section or [section 1395w–3a(b)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/b/1/B&num=0&edition=prelim), as applicable, that equals the difference between (i) 100 percent, and (ii) the percent applied under [section 1395w–3a(i)(5)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i/5/B&num=0&edition=prelim);
 
 (2) in the case of services described in [section 1395k(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395k/a/2&num=0&edition=prelim) (except those services described in subparagraphs (C), (D), (E), (F), (G), (H), and (I) of such section and unless otherwise specified in [section 1395rr of this title](./chapter-007-social-security.md#section-1395rr))—
 
@@ -78680,9 +79558,9 @@ Section was enacted as part of the Medicare Access and CHIP Reauthorization Act 
 (9) in the case of services described in [section 1395k(a)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395k/a/2/E&num=0&edition=prelim) that are not described in paragraph (8), the amounts described in [section 1395m(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/k&num=0&edition=prelim); and
 
 (10) with respect to rural emergency hospital services furnished on or after January 1, 2023, the amounts determined under [section 1395m(x) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395m/x&num=0&edition=prelim).
-Paragraph (3)(A) shall not apply to Federally qualified health center services furnished on or after the implementation date of the prospective payment system under section 1395m(o) of this title. For services furnished on or after January 1, 2022, paragraph (1)(Y) shall apply with respect to a colorectal cancer screening test regardless of the code that is billed for the establishment of a diagnosis as a result of the test, or for the removal of tissue or other matter or other procedure that is furnished in connection with, as a result of, and in the same clinical encounter as the screening test.
+Paragraph (3)(A) shall not apply to Federally qualified health center services furnished on or after the implementation date of the prospective payment system under section 1395m(o) of this title. For services furnished on or after January 1, 2022, paragraph (1)(Y) shall apply with respect to a colorectal cancer screening test regardless of the code that is billed for the establishment of a diagnosis as a result of the test, or for the removal of tissue or other matter or other procedure that is furnished in connection with, as a result of, and in the same clinical encounter as the screening test. The Secretary shall make such adjustments as may be necessary to the amounts paid as specified under paragraph (1)(S)(ii) for insulin furnished on or after July 1, 2023, through an item of durable medical equipment covered under [section 1395x(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/n&num=0&edition=prelim), such that the amount of coinsurance payable by an individual enrolled under this part for a month’s supply of such insulin does not exceed $35.
 
-**(b) Deductible provision** Before applying subsection (a) with respect to expenses incurred by an individual during any calendar year, the total amount of the expenses incurred by such individual during such year (which would, except for this subsection, constitute incurred expenses from which benefits payable under subsection (a) are determinable) shall be reduced by a deductible of $75 for calendar years before 1991, $100 for 1991 through 2004, $110 for 2005, and for a subsequent year the amount of such deductible for the previous year increased by the annual percentage increase in the monthly actuarial rate under [section 1395r(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395r/a/1&num=0&edition=prelim) ending with such subsequent year (rounded to the nearest $1); except that (1) such total amount shall not include expenses incurred for preventive services described in subparagraph (A) of [section 1395x(ddd)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ddd/3&num=0&edition=prelim) that are recommended with a grade of A or B by the United States Preventive Services Task Force for any indication or population and are appropriate for the individual.,1 (2) such deductible shall not apply with respect to home health services (other than a covered osteoporosis drug (as defined in [section 1395x(kk) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/kk&num=0&edition=prelim))), (3) such deductible shall not apply with respect to clinical diagnostic laboratory tests for which payment is made under this part (A) under subsection (a)(1)(D)(i) or (a)(2)(D)(i) on an assignment-related basis, or to a provider having an agreement under [section 1395cc of this title](./chapter-007-social-security.md#section-1395cc), or (B) for tests furnished before January 1, 2017, on the basis of a negotiated rate determined under subsection (h)(6), (4) such deductible shall not apply to Federally qualified health center services, (5) such deductible shall not apply with respect to screening mammography (as described in [section 1395x(jj) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/jj&num=0&edition=prelim)), (6) such deductible shall not apply with respect to screening pap smear and screening pelvic exam (as described in [section 1395x(nn) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/nn&num=0&edition=prelim)), (7) such deductible shall not apply with respect to ultrasound screening for abdominal aortic aneurysm (as defined in [section 1395x(bbb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/bbb&num=0&edition=prelim)), (8) such deductible shall not apply with respect to colorectal cancer screening tests (as described in [section 1395x(pp)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/pp/1&num=0&edition=prelim)), (9) such deductible shall not apply with respect to an initial preventive physical examination (as defined in [section 1395x(ww) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ww&num=0&edition=prelim)), (10) such deductible shall not apply with respect to personalized prevention plan services (as defined in [section 1395x(hhh)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/hhh/1&num=0&edition=prelim)), (11) such deductible shall not apply with respect to any specified COVID–19 testing-related service described in paragraph (1) of subsection (cc) for which payment may be made under a specified outpatient payment provision described in paragraph (2) of such subsection, and (12) such deductible shall not apply with respect 44 So in original. Probably should be followed by “to”. a COVID–19 vaccine and its administration described in [section 1395x(s)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/10/A&num=0&edition=prelim). The total amount of the expenses incurred by an individual as determined under the preceding sentence shall, after the reduction specified in such sentence, be further reduced by an amount equal to the expenses incurred for the first three pints of whole blood (or equivalent quantities of packed red blood cells, as defined under regulations) furnished to the individual during the calendar year, except that such deductible for such blood shall in accordance with regulations be appropriately reduced to the extent that there has been a replacement of such blood (or equivalent quantities of packed red blood cells, as so defined); and for such purposes blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual shall be deemed replaced when the institution or other person furnishing such blood (or such equivalent quantities of packed red blood cells, as so defined) is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual with respect to which a deduction is made under this sentence. The deductible under the previous sentence for blood or blood cells furnished an individual in a year shall be reduced to the extent that a deductible has been imposed under [section 1395e(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395e/a/2&num=0&edition=prelim) to blood or blood cells furnished the individual in the year. Paragraph (1) of the first sentence of this subsection shall apply with respect to a colorectal cancer screening test regardless of the code that is billed for the establishment of a diagnosis as a result of the test, or for the removal of tissue or other matter or other procedure that is furnished in connection with, as a result of, and in the same clinical encounter as the screening test.
+**(b) Deductible provision** Before applying subsection (a) with respect to expenses incurred by an individual during any calendar year, the total amount of the expenses incurred by such individual during such year (which would, except for this subsection, constitute incurred expenses from which benefits payable under subsection (a) are determinable) shall be reduced by a deductible of $75 for calendar years before 1991, $100 for 1991 through 2004, $110 for 2005, and for a subsequent year the amount of such deductible for the previous year increased by the annual percentage increase in the monthly actuarial rate under [section 1395r(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395r/a/1&num=0&edition=prelim) ending with such subsequent year (rounded to the nearest $1); except that (1) such total amount shall not include expenses incurred for preventive services described in subparagraph (A) of [section 1395x(ddd)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ddd/3&num=0&edition=prelim) that are recommended with a grade of A or B by the United States Preventive Services Task Force for any indication or population and are appropriate for the individual.,1 (2) such deductible shall not apply with respect to home health services (other than a covered osteoporosis drug (as defined in [section 1395x(kk) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/kk&num=0&edition=prelim))), (3) such deductible shall not apply with respect to clinical diagnostic laboratory tests for which payment is made under this part (A) under subsection (a)(1)(D)(i) or (a)(2)(D)(i) on an assignment-related basis, or to a provider having an agreement under [section 1395cc of this title](./chapter-007-social-security.md#section-1395cc), or (B) for tests furnished before January 1, 2017, on the basis of a negotiated rate determined under subsection (h)(6), (4) such deductible shall not apply to Federally qualified health center services, (5) such deductible shall not apply with respect to screening mammography (as described in [section 1395x(jj) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/jj&num=0&edition=prelim)), (6) such deductible shall not apply with respect to screening pap smear and screening pelvic exam (as described in [section 1395x(nn) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/nn&num=0&edition=prelim)), (7) such deductible shall not apply with respect to ultrasound screening for abdominal aortic aneurysm (as defined in [section 1395x(bbb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/bbb&num=0&edition=prelim)), (8) such deductible shall not apply with respect to colorectal cancer screening tests (as described in [section 1395x(pp)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/pp/1&num=0&edition=prelim)), (9) such deductible shall not apply with respect to an initial preventive physical examination (as defined in [section 1395x(ww) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ww&num=0&edition=prelim)), (10) such deductible shall not apply with respect to personalized prevention plan services (as defined in [section 1395x(hhh)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/hhh/1&num=0&edition=prelim)), (11) such deductible shall not apply with respect to any specified COVID–19 testing-related service described in paragraph (1) of subsection (cc) for which payment may be made under a specified outpatient payment provision described in paragraph (2) of such subsection, (12) such deductible shall not apply with respect 44 So in original. Probably should be followed by “to”. a COVID–19 vaccine and its administration described in [section 1395x(s)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/10/A&num=0&edition=prelim), and (13) such deductible shall not apply with respect to insulin furnished on or after July 1, 2023, through an item of durable medical equipment covered under section 1861(n)..1 The total amount of the expenses incurred by an individual as determined under the preceding sentence shall, after the reduction specified in such sentence, be further reduced by an amount equal to the expenses incurred for the first three pints of whole blood (or equivalent quantities of packed red blood cells, as defined under regulations) furnished to the individual during the calendar year, except that such deductible for such blood shall in accordance with regulations be appropriately reduced to the extent that there has been a replacement of such blood (or equivalent quantities of packed red blood cells, as so defined); and for such purposes blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual shall be deemed replaced when the institution or other person furnishing such blood (or such equivalent quantities of packed red blood cells, as so defined) is given one pint of blood for each pint of blood (or equivalent quantities of packed red blood cells, as so defined) furnished such individual with respect to which a deduction is made under this sentence. The deductible under the previous sentence for blood or blood cells furnished an individual in a year shall be reduced to the extent that a deductible has been imposed under [section 1395e(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395e/a/2&num=0&edition=prelim) to blood or blood cells furnished the individual in the year. Paragraph (1) of the first sentence of this subsection shall apply with respect to a colorectal cancer screening test regardless of the code that is billed for the establishment of a diagnosis as a result of the test, or for the removal of tissue or other matter or other procedure that is furnished in connection with, as a result of, and in the same clinical encounter as the screening test.
 
 **(c) Mental disorders**
 
@@ -79096,6 +79974,8 @@ Paragraph (3)(A) shall not apply to Federally qualified health center services f
   (B) Except as the Secretary may otherwise provide, the provisions of subparagraphs (B), (C), (D), and (E) of paragraph (17) of subsection (t) shall apply with respect to services of ambulatory surgical centers under this paragraph in a similar manner to the manner in which they apply under such paragraph and, for purposes of this subparagraph, any reference to a hospital, outpatient setting, or outpatient hospital services is deemed a reference to an ambulatory surgical center, the setting of such a center, or services of such a center, respectively.
 
 (8) The Secretary shall conduct a similar type of review as required under paragraph (22) of section 1395l(t) of this title),1010 So in original. The closing parenthesis preceding the comma probably should not appear. including the second sentence of subparagraph (C) of such paragraph, to payment for services under this subsection, and make such revisions under this paragraph, in an appropriate manner (as determined by the Secretary).
+
+(9) In the case of a part B rebatable drug (as defined in paragraph (2) of [section 1395w–3a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i&num=0&edition=prelim)) for which payment under this subsection is not packaged into a payment for a service furnished on or after April 1, 2023, under the revised payment system under this subsection, in lieu of calculation of coinsurance and the amount of payment otherwise applicable under this subsection, the provisions of [section 1395w–3a(i)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i/5&num=0&edition=prelim) and paragraph (1)(EE) of subsection (a), shall, as determined appropriate by the Secretary, apply under this subsection in the same manner as such provisions of [section 1395w–3a(i)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i/5&num=0&edition=prelim) and subsection (a) apply under such section and subsection.
 
 **(j) Accrual of interest on balance of excess or deficit not paid** Whenever a final determination is made that the amount of payment made under this part either to a provider of services or to another person pursuant to an assignment under [section 1395u(b)(3)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395u/b/3/B/ii&num=0&edition=prelim) was in excess of or less than the amount of payment that is due, and payment of such excess or deficit is not made (or effected by offset) within 30 days of the date of the determination, interest shall accrue on the balance of such excess or deficit not paid or offset (to the extent that the balance is owed by or owing to the provider) at a rate determined in accordance with the regulations of the Secretary of the Treasury applicable to charges for late payments (or, in the case of such a determination made with respect to a payment made on or after March 27, 2020, and during the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim) under the program described in section 421.214 of title 42, Code of Federal Regulations (or any successor regulation), at a rate of 4 percent).
 
@@ -79609,6 +80489,8 @@ Paragraph (3)(A) shall not apply to Federally qualified health center services f
   (D) *No impact on deductibles* — Nothing in this paragraph shall be construed as affecting a hospital’s authority to waive the charging of a deductible under subsection (b).
 
   (E) *Computation ignoring outlier and pass-through adjustments* — The copayment amount shall be computed under subparagraph (A) as if the adjustments under paragraphs (5) and (6) (and any adjustment made under paragraph (2)(E) in relation to such adjustments) had not occurred.
+
+  (F) *Part B rebatable drugs* — In the case of a part B rebatable drug (as defined in paragraph (2) of [section 1395w–3a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i&num=0&edition=prelim), except if such drug does not have a copayment amount as a result of application of subparagraph (E)) for which payment under this part is not packaged into a payment for a covered OPD service (or group of services) furnished on or after April 1, 2023, and the payment for such drug under this subsection is the same as the amount for a calendar quarter under paragraph (3)(A)(ii)(I) of [section 1395w–3a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i&num=0&edition=prelim), under the system under this subsection, in lieu of calculation of the copayment amount and the amount of payment otherwise applicable under this subsection (other than the application of the limitation described in subparagraph (C)), the provisions of [section 1395w–3a(i)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i/5&num=0&edition=prelim) and paragraph (1)(EE) of subsection (a), shall, as determined appropriate by the Secretary, apply under this subsection in the same manner as such provisions of [section 1395w–3a(i)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i/5&num=0&edition=prelim) and subsection (a) apply under such section and subsection.
 
 (9) **Periodic review and adjustments components of prospective payment system**
 
@@ -80179,7 +81061,7 @@ Paragraph (3)(A) shall not apply to Federally qualified health center services f
 
   (A) The physician or practitioner is employed by or working under contract with a rural health clinic described in paragraph (1) that submits an application under paragraph (2).
 
-  (B) The physician or practitioner first receives a waiver under [section 823(g) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) on or after January 1, 2019.
+  (B) The physician or practitioner first receives a waiver under [section 823(h) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h&num=0&edition=prelim) on or after January 1, 2019.
 
 (4) **Funding** — For purposes of making payments under this subsection, there are appropriated, out of amounts in the Treasury not otherwise appropriated, $2,000,000, which shall remain available until expended.
 
@@ -80255,6 +81137,24 @@ Section 4521 of The Balanced Budget Act of 1997, referred to in subsec. (t)(7)(F
 Pub. L. 111–148, § 10221(a), enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, “[e]xcept as provided in” section 10221(b) of Pub. L. 111–148. Section 201(b) of S. 1790 would have amended this section but was stricken out by section 10221(b)(4) of Pub. L. 111–148.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–169, § 11407(b)(2), inserted at end of concluding provisions “The Secretary shall make such adjustments as may be necessary to the amounts paid as specified under paragraph (1)(S)(ii) for insulin furnished on or after July 1, 2023, through an item of durable medical equipment covered under [section 1395x(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/n&num=0&edition=prelim), such that the amount of coinsurance payable by an individual enrolled under this part for a month’s supply of such insulin does not exceed $35.”
+
+Subsec. (a)(1)(G). Pub. L. 117–169, § 11101(b)(1)(A), inserted “, subject to subsection (i)(9),” after “the amounts paid”.
+
+Subsec. (a)(1)(S). Pub. L. 117–169, § 11407(b)(1), designated existing provisions as cl. (i), inserted “except as provided in clause (ii),” before “with respect to drugs and biologicals”, and added cl. (ii).
+
+. Pub. L. 117–169, § 11101(b)(1)(B), substituted “subject to subparagraph (EE), with respect to” for “with respect to”.
+
+Subsec. (a)(1)(EE). Pub. L. 117–169, § 11101(b)(1)(C), (D), added subpar. (EE).
+
+Subsec. (b)(13). Pub. L. 117–169, § 11407(a), added par. (13).
+
+Subsec. (i)(9). Pub. L. 117–169, § 11101(b)(2), added par. (9).
+
+Subsec. (t)(8)(F). Pub. L. 117–169, § 11101(b)(3), added subpar. (F).
+
+Subsec. (bb)(3)(B). Pub. L. 117–215 substituted “823(h)” for “823(g)”.
+
 2021—Subsec. (f)(3)(A)(i). Pub. L. 117–7, § 2(a)(1)(A)(i), added subcls. (I) and (II) and struck out former subcls. (I) and (II) which read as follows:
 
 “(I) the per visit payment amount applicable to such rural health clinic for rural health clinic services furnished in 2020, increased by the percentage increase in the MEI applicable to primary care services furnished as of the first day of 2021; or
@@ -81912,6 +82812,9 @@ Pub. L. 110–275, title I, § 101(a)(4), July 15, 2008, 122 Stat. 2497, provide
 #### Construction Regarding Limiting Increases in Cost-Sharing
 Pub. L. 106–554, § 1(a)(6) [title I, § 111(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–473, provided that: “Nothing in this Act [H.R. 5661, as enacted by section 1(a)(6) of Pub. L. 106–554, see Tables for classification] or the Social Security Act [this chapter] shall be construed as preventing a hospital from waiving the amount of any coinsurance for outpatient hospital services under the medicare program under title XVIII of the Social Security Act [[42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.] that may have been increased as a result of the implementation of the prospective payment system under section 1833(t) of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395)l(t)).”
 
+#### Implementation of 2022 Amendment
+Pub. L. 117–169, title I, § 11407(c), Aug. 16, 2022, 136 Stat. 1905, provided that: “The Secretary of Health and Human Services shall implement this section [amending this section] for 2023 by program instruction or other forms of program guidance.”
+
 #### Centers for Medicare & Medicaid Services Provider Outreach and Reporting on Cognitive Assessment and Care Plan Services
 Pub. L. 116–260, div. CC, title I, § 116, Dec. 27, 2020, 134 Stat. 2949, provided that: “(a) Outreach.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall conduct outreach to physicians and appropriate non-physician practitioners participating under the Medicare program under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.) with respect to Medicare payment for cognitive assessment and care plan services furnished to individuals with cognitive impairment such as Alzheimer’s disease and related dementias, identified as of January 1, 2018, by HCPCS code 99483, or any successor to such code (in this section referred to as ‘cognitive assessment and care plan services’). Such outreach shall include a comprehensive, one-time education initiative to inform such physicians and practitioners of the addition of such services as a covered benefit under the Medicare program, including the requirements for eligibility for such services. “(b) Reports.—“(1) HHS report on provider outreach.—Not later than one year after the date of enactment of this Act [Dec. 27, 2020], the Secretary of Health and Human Services shall submit to the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report on the outreach conducted under subsection (a). Such report shall include a description of the methods used for such outreach. “(2) GAO report on utilization rates.—Not later than 3 years after such date of enactment, the Comptroller General of the United States shall submit to the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives and the Committee on Finance of the Senate a report on the number of Medicare beneficiaries who were furnished cognitive assessment and care plan services for which payment was made under title XVIII of the Social Security Act ([42 U.S.C. 1395](./chapter-007-social-security.md#section-1395) et seq.). Such report shall include information on barriers Medicare beneficiaries face to access such services, and recommendations for such legislative and administrative action as the Comptroller General deems appropriate.”
 
@@ -83430,7 +84333,7 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
   (F) *Ground ambulance data collection system study*
 
-    (i) *In general* — Not later than March 15, 2023, and as determined necessary by the Medicare Payment Advisory Commission thereafter, such Commission shall assess, and submit to Congress a report on, information submitted by providers and suppliers of ground ambulance services through the data collection system under subparagraph (A), the adequacy of payments for ground ambulance services under this subsection, and geographic variations in the cost of furnishing such services.
+    (i) *In general* — Not later than the second June 15th following the date on which the Secretary transmits data for the first representative sample of providers and suppliers of ground ambulance services to the Medicare Payment Advisory Commission, and as determined necessary by such Commission thereafter,, 55 So in original. such Commission shall assess, and submit to Congress a report on, information submitted by providers and suppliers of ground ambulance services through the data collection system under subparagraph (A), the adequacy of payments for ground ambulance services under this subsection, and geographic variations in the cost of furnishing such services.
 
     (ii) *Contents* — A report under clause (i) shall contain the following:
 
@@ -83454,7 +84357,7 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
 **(m) Payment for telehealth services**
 
-(1) **In general** — Subject to paragraph (8), the Secretary shall pay for telehealth services that are furnished via a telecommunications system by a physician (as defined in [section 1395x(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/r&num=0&edition=prelim)) or a practitioner (described in [section 1395u(b)(18)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395u/b/18/C&num=0&edition=prelim)) to an eligible telehealth individual enrolled under this part notwithstanding that the individual physician or practitioner providing the telehealth service is not at the same location as the beneficiary. For purposes of the preceding sentence, in the case of any Federal telemedicine demonstration program conducted in Alaska or Hawaii, the term “telecommunications system” includes store-and-forward technologies that provide for the asynchronous transmission of health care information in single or multimedia formats.
+(1) **In general** — Subject to paragraphs (8) and (9), the Secretary shall pay for telehealth services that are furnished via a telecommunications system by a physician (as defined in [section 1395x(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/r&num=0&edition=prelim)) or a practitioner (as defined in paragraph (4)(E)) to an eligible telehealth individual enrolled under this part notwithstanding that the individual physician or practitioner providing the telehealth service is not at the same location as the beneficiary. For purposes of the preceding sentence, in the case of any Federal telemedicine demonstration program conducted in Alaska or Hawaii, the term “telecommunications system” includes store-and-forward technologies that provide for the asynchronous transmission of health care information in single or multimedia formats.
 
 (2) **Payment amount**
 
@@ -83462,13 +84365,15 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
   (B) *Facility fee for originating site*
 
-    (i) *In general* — Subject to clause (ii) and paragraph (6)(C), with respect to a telehealth service, subject to section 1395l(a)(1)(U) of this title, there shall be paid to the originating site a facility fee equal to—
+    (i) *In general* — Subject to clauses (ii) and (iii) and paragraph (6)(C), with respect to a telehealth service, subject to section 1395l(a)(1)(U) of this title, there shall be paid to the originating site a facility fee equal to—
 
       (I) for the period beginning on October 1, 2001, and ending on December 31, 2001, and for 2002, $20; and
 
       (II) for a subsequent year, the facility fee specified in subclause (I) or this subclause for the preceding year increased by the percentage increase in the MEI (as defined in [section 1395u(i)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395u/i/3&num=0&edition=prelim)) for such subsequent year.
 
     (ii) *No facility fee if originating site is the home* — No facility fee shall be paid under this subparagraph to an originating site described in paragraph (4)(C)(ii)(X).
+
+    (iii) *No facility fee for new sites* — With respect to telehealth services identified in paragraph (4)(F)(i) as of March 15, 2022, that are furnished during the 151-day period beginning on the first day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a facility fee shall only be paid under this subparagraph to an originating site that is described in paragraph (4)(C)(ii) (other than subclause (X) of such paragraph).
 
   (C) *Telepresenter not required* — Nothing in this subsection shall be construed as requiring an eligible telehealth individual to be presented by a physician or practitioner at the originating site for the furnishing of a service via a telecommunications system, unless it is medically necessary (as determined by the physician or practitioner at the distant site).
 
@@ -83486,7 +84391,7 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
   (C) *Originating site*
 
-    (i) *In general* — Except as provided in paragraphs (5), (6), and (7), the term “originating site” means only those sites described in clause (ii) at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system and only if such site is located—
+    (i) *In general* — Except as provided in clause (iii) and paragraphs (5), (6), and (7), the term “originating site” means only those sites described in clause (ii) at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system and only if such site is located—
 
       (I) in an area that is designated as a rural health professional shortage area under [section 254e(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e/a/1/A&num=0&edition=prelim);
 
@@ -83518,9 +84423,11 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
       (XI) A rural emergency hospital (as defined in [section 1395x(kkk)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/kkk/2&num=0&edition=prelim)).
 
+    (iii) *Expanding access to telehealth services* — With respect to telehealth services identified in subparagraph (F)(i) as of March 15, 2022, that are furnished during the 151-day period beginning on the first day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), the term “originating site” means any site in the United States at which the eligible telehealth individual is located at the time the service is furnished via a telecommunications system, including the home of an individual.
+
   (D) *Physician* — The term “physician” has the meaning given that term in [section 1395x(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/r&num=0&edition=prelim).
 
-  (E) *Practitioner* — The term “practitioner” has the meaning given that term in [section 1395u(b)(18)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395u/b/18/C&num=0&edition=prelim).
+  (E) *Practitioner* — The term “practitioner” has the meaning given that term in [section 1395u(b)(18)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395u/b/18/C&num=0&edition=prelim) and, for the 151-day period beginning on the first day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), shall include a qualified occupational therapist (as such term is used in [section 1395x(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/g&num=0&edition=prelim)), a qualified physical therapist (as such term is used in [section 1395x(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/p&num=0&edition=prelim)), a qualified speech-language pathologist (as defined in section 1395x(ll)(4)(A) of this title), and a qualified audiologist (as defined in section 1395x(ll)(4)(B)).
 
   (F) *Telehealth service*
 
@@ -83540,11 +84447,11 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
 (7) **Treatment of substance use disorder services and mental health services furnished through telehealth**
 
-  (A) *In general* — The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after July 1, 2019, to an eligible telehealth individual with a substance use disorder diagnosis for purposes of treatment of such disorder or co-occurring mental health disorder, as determined by the Secretary, or, on or after the first day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), subject to subparagraph (B), to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder, as determined by the Secretary, at an originating site described in paragraph (4)(C)(ii) (other than an originating site described in subclause (IX) of such paragraph).
+  (A) *In general* — The geographic requirements described in paragraph (4)(C)(i) shall not apply with respect to telehealth services furnished on or after July 1, 2019, to an eligible telehealth individual with a substance use disorder diagnosis for purposes of treatment of such disorder or co-occurring mental health disorder, as determined by the Secretary, or, on or after the first day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), subject to subparagraph (B), to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder, as determined by the Secretary, at an originating site described in paragraph (4)(C)(ii) (other than an originating site described in subclause (IX) of such paragraph) or, for the period for which clause (iii) of paragraph (4)(C) applies, at any site described in such clause.
 
   (B) *Requirements for mental health services furnished through telehealth*
 
-    (i) *In general* — Payment may not be made under this paragraph for telehealth services furnished by a physician or practitioner to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder unless such physician or practitioner furnishes an item or service in person, without the use of telehealth, for which payment is made under this subchapter (or would have been made under this subchapter if such individual were entitled to, or enrolled for, benefits under this subchapter at the time such item or service is furnished)—
+    (i) *In general* — Payment may not be made under this paragraph for telehealth services furnished on or after the day that is the 152nd day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim)) by a physician or practitioner to an eligible telehealth individual for purposes of diagnosis, evaluation, or treatment of a mental health disorder unless such physician or practitioner furnishes an item or service in person, without the use of telehealth, for which payment is made under this subchapter (or would have been made under this subchapter if such individual were entitled to, or enrolled for, benefits under this subchapter at the time such item or service is furnished)—
 
       (I) within the 6-month period prior to the first time such physician or practitioner furnishes such a telehealth service to the eligible telehealth individual; and
 
@@ -83556,9 +84463,9 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
       (II) under this subsection without application of this paragraph.
 
-(8) **Enhancing telehealth services for Federally qualified health centers and rural health clinics during emergency period**
+(8) **Enhancing telehealth services for Federally qualified health centers and rural health clinics**
 
-  (A) *In general* — During the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim)—
+  (A) *In general* — During the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim) and, during the 151-day period beginning on the first day after the end of such emergency period—
 
     (i) the Secretary shall pay for telehealth services that are furnished via a telecommunications system by a Federally qualified health center or a rural health clinic to an eligible telehealth individual enrolled under this part notwithstanding that the Federally qualified health center or rural clinic providing the telehealth service is not at the same location as the beneficiary;
 
@@ -83572,9 +84479,11 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
   (B) *Special payment rule*
 
-    (i) *In general* — The Secretary shall develop and implement payment methods that apply under this subsection to a Federally qualified health center or rural health clinic that serves as a distant site that furnishes a telehealth service to an eligible telehealth individual during such emergency period. Such payment methods shall be based on payment rates that are similar to the national average payment rates for comparable telehealth services under the physician fee schedule under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4). Notwithstanding any other provision of law, the Secretary may implement such payment methods through program instruction or otherwise.
+    (i) *In general* — The Secretary shall develop and implement payment methods that apply under this subsection to a Federally qualified health center or rural health clinic that serves as a distant site that furnishes a telehealth service to an eligible telehealth individual during the periods for which subparagraph (A) applies. Such payment methods shall be based on payment rates that are similar to the national average payment rates for comparable telehealth services under the physician fee schedule under [section 1395w–4 of this title](./chapter-007-social-security.md#section-1395w-4). Notwithstanding any other provision of law, the Secretary may implement such payment methods through program instruction or otherwise.
 
     (ii) *Exclusion from FQHC PPS calculation and RHC air calculation* — Costs associated with telehealth services shall not be used to determine the amount of payment for Federally qualified health center services under the prospective payment system under subsection (o) or for rural health clinic services under the methodology for all-inclusive rates (established by the Secretary) under section 1395l(a)(3) of this title.
+
+(9) **Treatment of telehealth services furnished using audio-only telecommunications technology** — The Secretary shall continue to provide coverage and payment under this part for telehealth services identified in paragraph (4)(F)(i) as of March 15, 2022, that are furnished via an audio-only telecommunications system during the 151-day period beginning on the first day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim). For purposes of the previous sentence, the term “telehealth service” means a telehealth service identified as of March 15, 2022, by a HCPCS code (and any succeeding codes) for which the Secretary has not applied the requirements of paragraph (1) and the first sentence of section 410.78(a)(3) of title 42, Code of Federal Regulations, during such emergency period.
 
 **(n) Authority to modify or eliminate coverage of certain preventive services** Notwithstanding any other provision of this subchapter, effective beginning on January 1, 2010, if the Secretary determines appropriate, the Secretary may—
 
@@ -83620,17 +84529,21 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
     (i) The physician or practitioner is employed by or working under contract with a Federally qualified health center described in subparagraph (A) that submits an application under subparagraph (B).
 
-    (ii) The physician or practitioner first receives a waiver under [section 823(g) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) on or after January 1, 2019.
+    (ii) The physician or practitioner first receives a waiver under [section 823(h) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h&num=0&edition=prelim) on or after January 1, 2019.
 
   (D) *Funding* — For purposes of making payments under this paragraph, there are appropriated, out of amounts in the Treasury not otherwise appropriated, $6,000,000, which shall remain available until expended.
 
-(4) **Payment for attending physician services furnished by federally qualified health centers to hospice patients** — In the case of services described in [section 1395d(d)(2)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395d/d/2/A/ii&num=0&edition=prelim) furnished on or after January 1, 2022, by an attending physician (as defined in [section 1395x(dd)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/dd/3/B&num=0&edition=prelim), other than a physician or practitioner who is employed by a hospice program) who is employed by or working under contract with a Federally qualified health center, a Federally qualified health center shall be paid for such services under the prospective payment system under this subsection.
+(4) **Payment for certain services furnished by federally qualified health centers to hospice patients**
+
+  (A) *Attending physician services for hospice patients* — In the case of services described in [section 1395d(d)(2)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395d/d/2/A/ii&num=0&edition=prelim) furnished on or after January 1, 2022, by an attending physician (as defined in [section 1395x(dd)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/dd/3/B&num=0&edition=prelim), other than a physician or practitioner who is employed by a hospice program) who is employed by or working under contract with a Federally qualified health center, a Federally qualified health center shall be paid for such services under the prospective payment system under this subsection.
+
+  (B) *Mental health visits furnished via telecommunications technology* — In the case of mental health visits furnished via interactive, real-time, audio and video telecommunications technology or audio-only interactions, the in-person mental health visit requirements established under section 405.2463(b)(3) of title 42 of the Code of Federal Regulations (or a successor regulation) shall not apply prior to the day that is the 152nd day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim)).
 
 **(p) Quality incentives to promote patient safety and public health in computed tomography**
 
 (1) **Quality incentives** — In the case of an applicable computed tomography service (as defined in paragraph (2)) for which payment is made under an applicable payment system (as defined in paragraph (3)) and that is furnished on or after January 1, 2016, using equipment that is not consistent with the CT equipment standard (described in paragraph (4)), the payment amount for such service shall be reduced by the applicable percentage (as defined in paragraph (5)).
 
-(2) **Applicable computed tomography services defined** — In this subsection, the term “applicable computed tomography service” means a service billed using diagnostic radiological imaging codes for computed tomography (identified as of January 1, 2014, by HCPCS codes 70450–70498, 71250–71275, 72125–72133, 72191–72194, 73200–73206, 73700–73706, 74150–74178, 74261–74263, and 75571–75574 (and any succeeding codes).55 So in original. The period probably should be preceded by another closing parenthesis.
+(2) **Applicable computed tomography services defined** — In this subsection, the term “applicable computed tomography service” means a service billed using diagnostic radiological imaging codes for computed tomography (identified as of January 1, 2014, by HCPCS codes 70450–70498, 71250–71275, 72125–72133, 72191–72194, 73200–73206, 73700–73706, 74150–74178, 74261–74263, and 75571–75574 (and any succeeding codes).66 So in original. The period probably should be preceded by another closing parenthesis.
 
 (3) **Applicable payment system defined** — In this subsection, the term “applicable payment system” means the following:
 
@@ -83838,7 +84751,7 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
   (A) *Single payment*
 
-    (i) *In general* — Subject to clause (iii) and subparagraphs (B) and (C), the Secretary shall implement a payment system under which a single payment is made under this subchapter to a qualified home infusion therapy supplier for items and services described in subparagraphs (A) and (B) of section 1395x(iii)(2)) 66 So in original. The second closing parenthesis probably should not appear. of this title furnished by a qualified home infusion therapy supplier (as defined in [section 1395x(iii)(3)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/iii/3/D&num=0&edition=prelim)) in coordination with the furnishing of home infusion drugs (as defined in [section 1395x(iii)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/iii/3/C&num=0&edition=prelim)) under this part.
+    (i) *In general* — Subject to clause (iii) and subparagraphs (B) and (C), the Secretary shall implement a payment system under which a single payment is made under this subchapter to a qualified home infusion therapy supplier for items and services described in subparagraphs (A) and (B) of section 1395x(iii)(2)) 77 So in original. The second closing parenthesis probably should not appear. of this title furnished by a qualified home infusion therapy supplier (as defined in [section 1395x(iii)(3)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/iii/3/D&num=0&edition=prelim)) in coordination with the furnishing of home infusion drugs (as defined in [section 1395x(iii)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/iii/3/C&num=0&edition=prelim)) under this part.
 
     (ii) *Unit of single payment* — A unit of single payment under the payment system implemented under this subparagraph is for each infusion drug administration calendar day in the individual’s home. The Secretary shall, as appropriate, establish single payment amounts for types of infusion therapy, including to take into account variation in utilization of nursing services by therapy type.
 
@@ -83894,11 +84807,11 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
   (A) *Temporary transitional payment*
 
-    (i) *In general* — The Secretary shall, in accordance with the payment methodology described in subparagraph (B) and subject to the provisions of this paragraph, provide a home infusion therapy services temporary transitional payment under this part to an eligible home infusion supplier (as defined in subparagraph (F)) for items and services described in subparagraphs (A) and (B) of section 1395x(iii)(2)) 6 of this title furnished during the period specified in clause (ii) by such supplier in coordination with the furnishing of transitional home infusion drugs (as defined in clause (iii)).
+    (i) *In general* — The Secretary shall, in accordance with the payment methodology described in subparagraph (B) and subject to the provisions of this paragraph, provide a home infusion therapy services temporary transitional payment under this part to an eligible home infusion supplier (as defined in subparagraph (F)) for items and services described in subparagraphs (A) and (B) of section 1395x(iii)(2)) 7 of this title furnished during the period specified in clause (ii) by such supplier in coordination with the furnishing of transitional home infusion drugs (as defined in clause (iii)).
 
     (ii) *Period specified* — For purposes of clause (i), the period specified in this clause is the period beginning on January 1, 2019, and ending on the day before the date of the implementation of the payment system under paragraph (1)(A).
 
-    (iii) *Transitional home infusion drug defined* — For purposes of this paragraph, the term “transitional home infusion drug” has the meaning given to the term “home infusion drug” under section 1395x(iii)(3)(C)) 6 of this title, except that clause (ii) of such section shall not apply if a drug described in such clause is identified in clauses (i), (ii), (iii) or (iv) of subparagraph (C) as of February 9, 2018.
+    (iii) *Transitional home infusion drug defined* — For purposes of this paragraph, the term “transitional home infusion drug” has the meaning given to the term “home infusion drug” under section 1395x(iii)(3)(C)) 7 of this title, except that clause (ii) of such section shall not apply if a drug described in such clause is identified in clauses (i), (ii), (iii) or (iv) of subparagraph (C) as of February 9, 2018.
 
   (B) *Payment methodology* — For purposes of this paragraph, the Secretary shall establish a payment methodology, with respect to items and services described in subparagraph (A)(i). Under such payment methodology the Secretary shall—
 
@@ -83960,7 +84873,7 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
 (1) **In general** — The Secretary shall pay to an opioid treatment program (as defined in paragraph (2) of [section 1395x(jjj) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/jjj&num=0&edition=prelim)) an amount that is equal to 100 percent of a bundled payment under this part for opioid use disorder treatment services (as defined in paragraph (1) of such section) that are furnished by such program to an individual during an episode of care (as defined by the Secretary) beginning on or after January 1, 2020. The Secretary shall ensure, as determined appropriate by the Secretary, that no duplicative payments are made under this part or part D for items and services furnished by an opioid treatment program.
 
-(2) **Considerations** — The Secretary may implement this subsection through one or more bundles based on the type of medication provided (such as buprenorphine, methadone, naltrexone, or a new innovative drug), the frequency of services, the scope of services furnished, characteristics of the individuals furnished such services, or other factors as the Secretary determine 77 So in original. Probably should be “determines”. appropriate. In developing such bundles, the Secretary may consider payment rates paid to opioid treatment programs for comparable services under State plans under subchapter XIX or under the TRICARE program under chapter 55 of title 10.
+(2) **Considerations** — The Secretary may implement this subsection through one or more bundles based on the type of medication provided (such as buprenorphine, methadone, naltrexone, or a new innovative drug), the frequency of services, the scope of services furnished, characteristics of the individuals furnished such services, or other factors as the Secretary determine 88 So in original. Probably should be “determines”. appropriate. In developing such bundles, the Secretary may consider payment rates paid to opioid treatment programs for comparable services under State plans under subchapter XIX or under the TRICARE program under chapter 55 of title 10.
 
 (3) **Annual updates** — The Secretary shall provide an update each year to the bundled payment amounts under this subsection.
 
@@ -84000,7 +84913,11 @@ Pub. L. 95–142, § 18, Oct. 25, 1977, 91 Stat. 1202, directed Secretary of Hea
 
   (B) *Additional facility payment and post-hospital extended care services* — Payments under paragraph (2) shall be made from the Federal Hospital Insurance Trust Fund under [section 1395i of this title](./chapter-007-social-security.md#section-1395i).
 
-**(y) Payment for attending physician services furnished by rural health clinics to hospice patients** In the case of services described in [section 1395d(d)(2)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395d/d/2/A/ii&num=0&edition=prelim) furnished on or after January 1, 2022, by an attending physician (as defined in [section 1395x(dd)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/dd/3/B&num=0&edition=prelim), other than a physician or practitioner who is employed by a hospice program) who is employed by or working under contract with a rural health clinic, a rural health clinic shall be paid for such services under the methodology for all-inclusive rates (established by the Secretary) under section 1395l(a)(3) of this title, subject to the limits described in section 1395l(f) of this title.
+**(y) Payment for certain services furnished by rural health clinics to hospice patients**
+
+(1) **Attending physician services for hospice patients** — In the case of services described in [section 1395d(d)(2)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395d/d/2/A/ii&num=0&edition=prelim) furnished on or after January 1, 2022, by an attending physician (as defined in [section 1395x(dd)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/dd/3/B&num=0&edition=prelim), other than a physician or practitioner who is employed by a hospice program) who is employed by or working under contract with a rural health clinic, a rural health clinic shall be paid for such services under the methodology for all-inclusive rates (established by the Secretary) under section 1395l(a)(3) of this title, subject to the limits described in section 1395l(f) of this title.
+
+(2) **Mental health visits furnished via telecommunications technology** — In the case of mental health visits furnished via interactive, real-time, audio and video telecommunications technology or audio-only interactions, the in-person mental health visit requirements established under section 405.2463(b)(3) of title 42 of the Code of Federal Regulations (or a successor regulation) shall not apply prior to the day that is the 152nd day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -84021,6 +84938,38 @@ Amendment of subsec. (a)(4) by Pub. L. 101–508, § 4152(c)(4)(B)(i), did not b
 A prior section 1395m, act Aug. 14, 1935, ch. 531, title XVIII, § 1834, as added July 30, 1965, Pub. L. 89–97, title I, § 102(a), 79 Stat. 303, prescribed limitations on payments for home health services, prior to repeal by Pub. L. 96–499, title IX, § 930(i), Dec. 5, 1980, 94 Stat. 2631, effective with respect to services furnished on or after July 1, 1981.
 
 #### Amendments
+2022—Subsec. (l)(17)(F)(i). Pub. L. 117–103, § 311, substituted “Not later than the second June 15th following the date on which the Secretary transmits data for the first representative sample of providers and suppliers of ground ambulance services to the Medicare Payment Advisory Commission, and as determined necessary by such Commission thereafter,” for “Not later than March 15, 2023, and as determined necessary by the Medicare Payment Advisory Commission thereafter”.
+
+Subsec. (m)(1). Pub. L. 117–103, §§ 302(1), 305(1), substituted “paragraphs (8) and (9)” for “paragraph (8)” and “(as defined in paragraph (4)(E))” for “(described in [section 1395u(b)(18)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395u/b/18/C&num=0&edition=prelim))”.
+
+Subsec. (m)(2)(B)(i). Pub. L. 117–103, § 301(b)(1), substituted “clauses (ii) and (iii)” for “clause (ii)” in introductory provisions.
+
+Subsec. (m)(2)(B)(iii). Pub. L. 117–103, § 301(b)(2), added cl. (iii).
+
+Subsec. (m)(4)(C)(i). Pub. L. 117–103, § 301(a)(1)(A), inserted “clause (iii) and” after “Except as provided in” in introductory provisions.
+
+Subsec. (m)(4)(C)(iii). Pub. L. 117–103, § 301(a)(1)(B), added cl. (iii).
+
+Subsec. (m)(4)(E). Pub. L. 117–103, § 302(2), inserted before period at end: “and, for the 151-day period beginning on the first day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), shall include a qualified occupational therapist (as such term is used in [section 1395x(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/g&num=0&edition=prelim)), a qualified physical therapist (as such term is used in [section 1395x(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/p&num=0&edition=prelim)), a qualified speech-language pathologist (as defined in section 1395x(ll)(4)(A) of this title), and a qualified audiologist (as defined in section 1395x(ll)(4)(B))”.
+
+Subsec. (m)(7)(A). Pub. L. 117–103, § 301(a)(2), inserted “or, for the period for which clause (iii) of paragraph (4)(C) applies, at any site described in such clause” before period at end.
+
+Subsec. (m)(7)(B)(i). Pub. L. 117–103, § 304(a), inserted “on or after the day that is the 152nd day after the end of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim))” after “telehealth services furnished” in introductory provisions.
+
+Subsec. (m)(8). Pub. L. 117–103, § 303(1), struck out “during emergency period” after “clinics” in heading.
+
+Subsec. (m)(8)(A). Pub. L. 117–103, § 303(2), inserted “and, during the 151-day period beginning on the first day after the end of such emergency period” after “[section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim)” in introductory provisions.
+
+Subsec. (m)(8)(B)(i). Pub. L. 117–103, § 303(3), substituted “the periods for which subparagraph (A) applies” for “such emergency period”.
+
+Subsec. (m)(9). Pub. L. 117–103, § 305(2), added par. (9).
+
+Subsec. (o)(3)(C)(ii). Pub. L. 117–215 substituted “823(h)” for “823(g)”.
+
+Subsec. (o)(4). Pub. L. 117–103, § 304(c), substituted “certain” for “attending physician” in par. heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
+
+Subsec. (y). Pub. L. 117–103, § 304(b), substituted “certain” for “attending physician” in heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
+
 2020—Subsec. (a)(9)(D). Pub. L. 116–260, § 121(b)(1), made technical correction to Pub. L. 105–33, § 4552(b). See 1997 Amendment note below.
 
 Subsec. (a)(9)(D)(ii). Pub. L. 116–260, § 121(a), inserted at end “The requirement of the preceding sentence shall not apply beginning with the second calendar quarter beginning on or after December 27, 2020.”
@@ -84945,10 +85894,16 @@ Pub. L. 110–275, title I, § 154(b)(1)(B), July 15, 2008, 122 Stat. 2565, prov
 #### Transfer of Functions
 Physician Payment Review Commission (PPRC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under [section 1395b–6 of this title](./chapter-007-social-security.md#section-1395b-6). Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by PPRC, and that, for that purpose, any reference in law to PPRC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.
 
+#### Implementation of 2022 Amendment
+Pub. L. 117–103, div. P, title II, § 309, Mar. 15, 2022, 136 Stat. 808, provided that: “Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the provisions of, including amendments made by, sections 301 through 306 [amending this section and [section 1395f of this title](./chapter-007-social-security.md#section-1395f)] through program instruction or otherwise.”
+
 #### Implementation of 2020 Amendment
 Pub. L. 116–260, div. CC, title I, § 121(c), Dec. 27, 2020, 134 Stat. 2955, provided that: “Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the amendments made by this section [amending this section and amending Pub. L. 105–33 which amended this section] by program instruction or otherwise.”
 
 Pub. L. 116–260, div. CC, title I, § 123(b), Dec. 27, 2020, 134 Stat. 2957, provided that: “Notwithstanding any other provision of law, the Secretary may implement the provisions of, or amendments made by, this section [amending this section] by interim final rule, program instruction, or otherwise.”
+
+#### Publication of Data
+Pub. L. 117–103, div. P, title II, § 308(b), Mar. 15, 2022, 136 Stat. 808, provided that: “Beginning July 1, 2022, the Secretary of Health and Human Services shall post on the public website of the Centers for Medicare & Medicaid Services on a quarterly basis data with respect to Medicare claims for telemedicine services, including data on utilization and beneficiary characteristics.”
 
 #### Encouraging Use of Telecommunications Systems for Home Health Services Furnished During Emergency Period
 Pub. L. 116–136, div. A, title III, § 3707, Mar. 27, 2020, 134 Stat. 418, provided that: “With respect to home health services (as defined in section 1861(m) of the Social Security Act ([42 U.S.C. 1395x(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/m&num=0&edition=prelim)) that are furnished during the emergency period described in section 1135(g)(1)(B) of such Act ([42 U.S.C. 1320b–5(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim)), the Secretary of Health and Human Services shall consider ways to encourage the use of telecommunications systems, including for remote patient monitoring as described in section 409.46(e) of title 42, Code of Federal Regulations (or any successor regulations) and other communications or monitoring services, consistent with the plan of care for the individual, including by clarifying guidance and conducting outreach, as appropriate.”
@@ -89514,7 +90469,9 @@ Pub. L. 105–33, title IV, § 4018, Aug. 5, 1997, 111 Stat. 346, provided that:
 
       (VI) A COVID–19 vaccine and its administration described in [section 1395x(s)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/10/A&num=0&edition=prelim).
 
-      (VII) Such other services that the Secretary determines appropriate (including services that the Secretary determines require a high level of predictability and transparency for beneficiaries).
+      (VII) A drug or biological product that is a selected drug (as referred to in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)).
+
+      (VIII) Such other services that the Secretary determines appropriate (including services that the Secretary determines require a high level of predictability and transparency for beneficiaries).
 
     (v) *Exception* — In the case of services described in clause (iv), other than subclauses (IV), (V), and (VI) of such clause, for which there is no cost-sharing required under parts A and B, cost-sharing may be required for those services in accordance with clause (i).
 
@@ -89983,11 +90940,13 @@ Pub. L. 105–33, title IV, § 4018, Aug. 5, 1997, 111 Stat. 346, provided that:
 #### References in Text
 Section 2702 of the Public Health Service Act, referred to in subsec. (b)(1), is section 2702 of act July 1, 1944, which was classified to [section 300gg–1 of this title](./chapter-6a-public-health-service.md#section-300gg-1), was amended by Pub. L. 111–148, title I, § 1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of [section 300gg–4 of this title](./chapter-6a-public-health-service.md#section-300gg-4), effective for plan years beginning on or after Jan. 1, 2014. A new section 2702 of act July 1, 1944, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, § 1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title](./chapter-6a-public-health-service.md#section-300gg-1).
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (j)(3)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 [Section 1395w–104(c)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/c/2/E&num=0&edition=prelim), referred to in subsec. (j)(7)(C), was redesignated [section 1395w–104(c)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/c/2/G&num=0&edition=prelim) by Pub. L. 111–148, title X, § 10328(a)(1), Mar. 23, 2010, 124 Stat. 964.
 
 #### Amendments
+2022—Subsec. (a)(1)(B)(iv)(VII), (VIII). Pub. L. 117–169 added subcl. (VII) and redesignated former subcl. (VII) as (VIII).
+
 2020—Subsec. (a)(1)(B)(iv)(IV), (V). Pub. L. 116–127, § 6003(a)(1)(B), added subcls. (IV) and (V). Former subcl. (IV) redesignated (VI).
 
 Subsec. (a)(1)(B)(iv)(VI). Pub. L. 116–136, § 3713(c)(1)(B), added subcl. (VI). Former subcl. (VI) redesignated (VII).
@@ -91817,7 +92776,7 @@ Pub. L. 105–33, title IV, §§ 4011, 4012, Aug. 5, 1997, 111 Stat. 334–336, 
 
     (ii) described in [section 1395w–23(a)(1)(B)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–23/a/1/B/ii&num=0&edition=prelim), the amount (if any) by which the unadjusted MA statutory non-drug monthly bid amount (as defined in subparagraph (E)) exceeds the applicable unadjusted MA area-specific non-drug monthly benchmark amount (as defined in [section 1395w–23(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–23/j&num=0&edition=prelim)).
 
-  (B) *MA monthly prescription drug beneficiary premium* — The term “MA monthly prescription drug beneficiary premium” means, with respect to an MA plan, the base beneficiary premium (as determined under [section 1395w–113(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/2&num=0&edition=prelim) and as adjusted under [section 1395w–113(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/1/B&num=0&edition=prelim)), less the amount of rebate credited toward such amount under subsection (b)(1)(C)(ii)(II).
+  (B) *MA monthly prescription drug beneficiary premium* — The term “MA monthly prescription drug beneficiary premium” means, with respect to an MA plan, the base beneficiary premium (as determined under paragraph (2) or (8) (as applicable) of [section 1395w–113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a&num=0&edition=prelim) and as adjusted under [section 1395w–113(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/1/B&num=0&edition=prelim)), less the amount of rebate credited toward such amount under subsection (b)(1)(C)(ii)(II).
 
   (C) *MA monthly supplemental beneficiary premium*
 
@@ -91969,6 +92928,8 @@ Pub. L. 105–33, title IV, §§ 4011, 4012, Aug. 5, 1997, 111 Stat. 334–336, 
 Cl. (iii) of par. (1)(C), referred to in subsec. (b)(2)(C)(ii), was struck out and a new cl. (iii) was added by Pub. L. 111–152, § 1102(d)(2). See 2010 Amendment note below. As so amended, par. (1)(C)(iii) no longer relates to purposes of rebates and no longer contains a subcl. (III).
 
 #### Amendments
+2022—Subsec. (b)(2)(B). Pub. L. 117–169 substituted “paragraph (2) or (8) (as applicable) of [section 1395w–113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a&num=0&edition=prelim)” for “[section 1395w–113(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/2&num=0&edition=prelim)”.
+
 2018—Subsec. (a)(6)(A)(ii)(I). Pub. L. 115–123 inserted “, including, for plan year 2020 and subsequent plan years, the provision of additional telehealth benefits as described in [section 1395w–22(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–22/m&num=0&edition=prelim)” before semicolon at end.
 
 2010—Subsec. (a)(5)(C). Pub. L. 111–148, § 3209(a), added subpar. (C).
@@ -92332,8 +93293,8 @@ Pub. L. 106–554, § 1(a)(6) [title VI, § 612(b)], Dec. 21, 2000, 114 Stat. 27
 Pub. L. 106–554, § 1(a)(6) [title VI, § 614(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, provided that: “The amendments made by subsection (a) [amending this section] take effect on the date of the enactment of this Act [Dec. 21, 2000].”
 
 
-<a id="section-1395w-115"></a>
-## § 1395w–115. Contracts with Medicare+Choice organizations
+<a id="section-1395w-114b"></a>
+## § 1395w–114b. Contracts with Medicare+Choice organizations
 **(a) In general** The Secretary shall not permit the election under [section 1395w–21 of this title](./chapter-007-social-security.md#section-1395w-21) of a Medicare+Choice plan offered by a Medicare+Choice organization under this part, and no payment shall be made under [section 1395w–23 of this title](./chapter-007-social-security.md#section-1395w-23) to an organization, unless the Secretary has entered into a contract under this section with the organization with respect to the offering of such plan. Such a contract with an organization may cover more than 1 Medicare+Choice plan. Such contract shall provide that the organization agrees to comply with the applicable requirements and standards of this part and the terms and conditions of payment as provided for in this part.
 
 **(b) Minimum enrollment requirements**
@@ -92509,6 +93470,8 @@ Pub. L. 106–554, § 1(a)(6) [title VI, § 614(b)], Dec. 21, 2000, 114 Stat. 27
 
   (D) *Suspension of payments pending investigation of credible allegations of fraud by pharmacies* — [Section 1395w–112(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–112/b/7&num=0&edition=prelim).
 
+  (E) *Provision of information related to maximum fair prices* — [Section 1395w–112(b)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–112/b/8&num=0&edition=prelim).
+
 **(g) Intermediate sanctions**
 
 (1) **In general** — If the Secretary determines that a Medicare+Choice organization with a contract under this section—
@@ -92581,6 +93544,8 @@ Pub. L. 106–554, § 1(a)(6) [title VI, § 614(b)], Dec. 21, 2000, 114 Stat. 27
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (f)(3)(E). Pub. L. 117–169 added subpar. (E).
+
 2018—Subsec. (e)(5). Pub. L. 115–271, § 6063(b), added par. (5).
 
 Subsec. (f)(3)(D). Pub. L. 115–271, § 2008(b), added subpar. (D).
@@ -92700,8 +93665,8 @@ Pub. L. 108–173, title I, § 107(d), Dec. 8, 2003, 117 Stat. 2171, directed th
 Pub. L. 105–33, title IV, § 4002(g), Aug. 5, 1997, 111 Stat. 330, provided that: “Section 1857(e)(2) of the Social Security Act [[42 U.S.C. 1395w–27(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–27/e/2&num=0&edition=prelim)] (requiring contribution to certain costs related to the enrollment process comparative materials) applies to demonstrations with respect to which enrollment is effected or coordinated under section 1851 of such Act [[42 U.S.C. 1395w–21](./chapter-007-social-security.md#section-1395w-21)].”
 
 
-<a id="section-1395w-116"></a>
-## § 1395w–116. Special rules for MA regional plans
+<a id="section-1395w-114c"></a>
+## § 1395w–114c. Special rules for MA regional plans
 **(a) Regional service area; establishment of MA regions**
 
 (1) **Coverage of entire MA region** — The service area for an MA regional plan shall consist of an entire MA region established under paragraph (2) and the provisions of [section 1395w–24(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/h&num=0&edition=prelim) shall not apply to such a plan.
@@ -92933,8 +93898,8 @@ Section applicable with respect to plan years beginning on or after Jan. 1, 2006
 Pub. L. 111–148, title X, § 10327(c)(2), Mar. 23, 2010, 124 Stat. 964, provided that: “Any amount contained in the MA Regional Plan Stabilization Fund as of the date of the enactment of this Act [Mar. 23, 2010] shall be transferred to the Federal Supplementary Medical Insurance Trust Fund.”
 
 
-<a id="section-1395w-131"></a>
-## § 1395w–131. Definitions; miscellaneous provisions
+<a id="section-1395w-114d"></a>
+## § 1395w–114d. Definitions; miscellaneous provisions
 **(a) Definitions relating to Medicare+Choice organizations** In this part—
 
 (1) **Medicare+Choice organization** — The term “Medicare+Choice organization” means a public or private entity that is certified under [section 1395w–26 of this title](./chapter-007-social-security.md#section-1395w-26) as meeting the requirements and standards of this part for such an organization.
@@ -93372,16 +94337,16 @@ Pub. L. 110–275, title I, § 164(h), July 15, 2008, 122 Stat. 2575, provided t
 Secretary of Health and Human Services authorized, in promulgating regulations to carry out subsection (b)(6) of this section, to provide, notwithstanding subsection (b)(6)(A) of this section, for the offering of specialized MA plans for special needs individuals by MA plans that disproportionately serve special needs individuals, see section 231(d) of Pub. L. 108–173, set out as a note under [section 1395w–21 of this title](./chapter-007-social-security.md#section-1395w-21).
 
 
-<a id="section-1395w-132"></a>
-## § 1395w–132. Repealed. Pub. L. 111–152, title I, § 1102(f), Mar. 30, 2010, 124 Stat. 1046
+<a id="section-1395w-115"></a>
+## § 1395w–115. Repealed. Pub. L. 111–152, title I, § 1102(f), Mar. 30, 2010, 124 Stat. 1046
 
 ### Statutory Notes
 
 Section, act Aug. 14, 1935, ch. 531, title XVIII, § 1860C–1, as added Pub. L. 108–173, title II, § 241(a), Dec. 8, 2003, 117 Stat. 2214; amended Pub. L. 111–148, title III, § 3201(a)(2)(D), Mar. 23, 2010, 124 Stat. 444; Pub. L. 111–152, title I, § 1102(a), Mar. 30, 2010, 124 Stat. 1040, related to comparative cost adjustment program.
 
 
-<a id="section-1395w-133"></a>
-## § 1395w–133. Eligibility, enrollment, and information
+<a id="section-1395w-116"></a>
+## § 1395w–116. Eligibility, enrollment, and information
 **(a) Provision of qualified prescription drug coverage through enrollment in plans**
 
 (1) **In general** — Subject to the succeeding provisions of this part, each part D eligible individual (as defined in paragraph (3)(A)) is entitled to obtain qualified prescription drug coverage (described in [section 1395w–102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/a&num=0&edition=prelim)) as follows:
@@ -93554,8 +94519,8 @@ Pub. L. 108–173, title I, § 106, Dec. 8, 2003, 117 Stat. 2168, provided that:
 Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that: “(a) Study.—The Federal Trade Commission shall conduct a study of differences in payment amounts for pharmacy services provided to enrollees in group health plans that utilize pharmacy benefit managers. Such study shall include the following:“(1) An assessment of the differences in costs incurred by such enrollees and plans for prescription drugs dispensed by mail-order pharmacies owned by pharmaceutical benefit managers compared to mail-order pharmacies not owned by pharmaceutical benefit managers, and community pharmacies. “(2) Whether such plans are acting in a manner that maximizes competition and results in lower prescription drug prices for enrollees. “(b) Report.—Not later than 18 months after the date of the enactment of this Act [Dec. 8, 2003], the Commission shall submit to Congress a report on the study conducted under subsection (a). Such report shall include recommendations regarding any need for legislation to ensure the fiscal integrity of the voluntary prescription drug benefit program under part D of title XVIII [[42 U.S.C. 1395w–101](./chapter-007-social-security.md#section-1395w-101) et seq.], as added by section 101, that may be appropriated as the result of such study. “(c) Exemption From Paperwork Reduction Act.—Chapter 35 of title 44, United States Code, shall not apply to the collection of information under subsection (a).”
 
 
-<a id="section-1395w-134"></a>
-## § 1395w–134. Prescription drug benefits
+<a id="section-1395w-131"></a>
+## § 1395w–131. Prescription drug benefits
 **(a) Requirements**
 
 (1) **In general** — For purposes of this part and part C, the term “qualified prescription drug coverage” means either of the following:
@@ -93570,7 +94535,7 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
     (i) *Certain reductions in cost-sharing*
 
-      (I) *In general* — A reduction in the annual deductible, a reduction in the coinsurance percentage, or an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
+      (I) *In general* — A reduction in the annual deductible, a reduction in the coinsurance percentageor, for a year preceding 2025, an increase in the initial coverage limit with respect to covered part D drugs, or any combination thereof, insofar as such a reduction or increase increases the actuarial value of benefits above the actuarial value of basic prescription drug coverage.
 
       (II) *Construction* — Nothing in this paragraph shall be construed as affecting the application of subsection (c)(3).
 
@@ -93592,7 +94557,7 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
 (1) **Deductible**
 
-  (A) *In general* — The coverage has an annual deductible—
+  (A) *In general* — Subject to paragraphs (8) and (9), the coverage has an annual deductible—
 
     (i) for 2006, that is equal to $250; or
 
@@ -93602,7 +94567,7 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
 (2) **Benefit structure**
 
-  (A) *25 percent coinsurance* — Subject to subparagraphs (C) and (D), the coverage has coinsurance (for costs above the annual deductible specified in paragraph (1) and up to the initial coverage limit under paragraph (3)) that is—
+  (A) *25 percent coinsurance* — Subject to subparagraphs (C), (D), and (E) and paragraphs (8) and (9), the coverage has coinsurance (for costs above the annual deductible specified in paragraph (1) and up to the initial coverage limit under paragraph (3) for a year preceding 2025 and for costs above the annual deductible specified in paragraph (1) and up to the annual out-of-pocket threshold specified in paragraph (4)(B) for 2025 and each subsequent year) that is—
 
     (i) equal to 25 percent; or
 
@@ -93612,7 +94577,7 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
   (C) *Coverage for generic drugs in coverage gap*
 
-    (i) *In general* — Except as provided in paragraph (4), the coverage for an applicable beneficiary (as defined in [section 1395w–114a(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/1&num=0&edition=prelim)) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for covered part D drugs that are not applicable drugs under [section 1395w–114a(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/2&num=0&edition=prelim) that is—
+    (i) *In general* — Except as provided in paragraphs (4), (8), and (9), for a year preceding 2025, the coverage for an applicable beneficiary (as defined in [section 1395w–114a(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/1&num=0&edition=prelim)) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for covered part D drugs that are not applicable drugs under [section 1395w–114a(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/2&num=0&edition=prelim) that is—
 
       (I) equal to the generic-gap coinsurance percentage (specified in clause (ii)) for the year; or
 
@@ -93624,17 +94589,17 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
       (II) 2012 and each succeeding year before 2020 is the generic-gap coinsurance percentage under this clause for the previous year decreased by 7 percentage points; and
 
-      (III) 2020 and each subsequent year is 25 percent.
+      (III) 2020 through 2024 is 25 percent.
 
   (D) *Coverage for applicable drugs in coverage gap*
 
-    (i) *In general* — Except as provided in paragraph (4), the coverage for an applicable beneficiary (as defined in [section 1395w–114a(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/1&num=0&edition=prelim)) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for the negotiated price (as defined in [section 1395w–114a(g)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/6&num=0&edition=prelim)) of covered part D drugs that are applicable drugs under [section 1395w–114a(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/2&num=0&edition=prelim) that is—
+    (i) *In general* — Except as provided in paragraphs (4), (8), and (9), for a year preceding 2025, the coverage for an applicable beneficiary (as defined in [section 1395w–114a(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/1&num=0&edition=prelim)) has coinsurance (for costs above the initial coverage limit under paragraph (3) and below the out-of-pocket threshold) for the negotiated price (as defined in [section 1395w–114a(g)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/6&num=0&edition=prelim)) of covered part D drugs that are applicable drugs under [section 1395w–114a(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/2&num=0&edition=prelim) that is—
 
       (I) equal to the difference between—
 
         (aa) the applicable gap percentage (specified in clause (ii) for the year); and
 
-        (bb) the discount percentage specified in [section 1395w–114a(g)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/4/A&num=0&edition=prelim) for such applicable drugs (or, in the case of a year after 2018, 50 percent); or
+        (bb) the discount percentage specified in [section 1395w–114a(g)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/4/A&num=0&edition=prelim) for such applicable drugs (or, in the case of each of years 2019 through 2024, 50 percent); or
 
       (II) actuarially equivalent (using processes and methods established under [section 1395w–111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/c&num=0&edition=prelim)) to an average expected payment of such percentage of such costs, for covered part D drugs that are applicable drugs under [section 1395w–114a(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/2&num=0&edition=prelim).
 
@@ -93648,15 +94613,73 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
       (IV) 2018 is 85 percent; and
 
-      (V) 2019 and each subsequent year is 75 percent.
+      (V) each of years 2019 through 2024 is 75 percent.
+
+  (E) *Maximum monthly cap on cost-sharing payments*
+
+    (i) *In general* — For plan years beginning on or after January 1, 2025, each PDP sponsor offering a prescription drug plan and each MA organization offering an MA–PD plan shall provide to any enrollee of such plan, including an enrollee who is a subsidy eligible individual (as defined in paragraph (3) of [section 1395w–114(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114/a&num=0&edition=prelim)), the option to elect with respect to a plan year to pay cost-sharing under the plan in monthly amounts that are capped in accordance with this subparagraph.
+
+    (ii) *Determination of maximum monthly cap* — For each month in the plan year for which an enrollee in a prescription drug plan or an MA–PD plan has made an election pursuant to clause (i), the PDP sponsor or MA organization shall determine a maximum monthly cap (as defined in clause (iv)) for such enrollee.
+
+    (iii) *Beneficiary monthly payments* — With respect to an enrollee who has made an election pursuant to clause (i), for each month described in clause (ii), the PDP sponsor or MA organization shall bill such enrollee an amount (not to exceed the maximum monthly cap) for the out-of-pocket costs of such enrollee in such month.
+
+    (iv) *Maximum monthly cap defined* — In this subparagraph, the term “maximum monthly cap” means, with respect to an enrollee—
+
+      (I) for the first month for which the enrollee has made an election pursuant to clause (i), an amount determined by calculating—
+
+        (aa) the annual out-of-pocket threshold specified in paragraph (4)(B) minus the incurred costs of the enrollee as described in paragraph (4)(C); divided by
+
+        (bb) the number of months remaining in the plan year; and
+
+      (II) for a subsequent month, an amount determined by calculating—
+
+        (aa) the sum of any remaining out-of-pocket costs owed by the enrollee from a previous month that have not yet been billed to the enrollee and any additional out-of-pocket costs incurred by the enrollee; divided by
+
+        (bb) the number of months remaining in the plan year.
+
+    (v) *Additional requirements* — The following requirements shall apply with respect to the option to make an election pursuant to clause (i) under this subparagraph:
+
+      (I) *Secretarial responsibilities* — The Secretary shall provide information to part D eligible individuals on the option to make such election through educational materials, including through the notices provided under [section 1395b–2(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395b–2/a&num=0&edition=prelim).
+
+      (II) *Timing of election* — An enrollee in a prescription drug plan or an MA–PD plan may make such an election—
+
+        (aa) prior to the beginning of the plan year; or
+
+        (bb) in any month during the plan year.
+
+      (III) *PDP sponsor and MA organization responsibilities* — Each PDP sponsor offering a prescription drug plan or MA organization offering an MA–PD plan—
+
+        (aa) may not limit the option for an enrollee to make such an election to certain covered part D drugs;
+
+        (bb) shall, prior to the plan year, notify prospective enrollees of the option to make such an election in promotional materials;
+
+        (cc) shall include information on such option in enrollee educational materials;
+
+        (dd) shall have in place a mechanism to notify a pharmacy during the plan year when an enrollee incurs out-of-pocket costs with respect to covered part D drugs that make it likely the enrollee may benefit from making such an election;
+
+        (ee) shall provide that a pharmacy, after receiving a notification described in item (dd) with respect to an enrollee, informs the enrollee of such notification;
+
+        (ff) shall ensure that such an election by an enrollee has no effect on the amount paid to pharmacies (or the timing of such payments) with respect to covered part D drugs dispensed to the enrollee; and
+
+        (gg) shall have in place a financial reconciliation process to correct inaccuracies in payments made by an enrollee under this subparagraph with respect to covered part D drugs during the plan year.
+
+      (IV) *Failure to pay amount billed* — If an enrollee fails to pay the amount billed for a month as required under this subparagraph—
+
+        (aa) the election of the enrollee pursuant to clause (i) shall be terminated and the enrollee shall pay the cost-sharing otherwise applicable for any covered part D drugs subsequently dispensed to the enrollee up to the annual out-of-pocket threshold specified in paragraph (4)(B); and
+
+        (bb) the PDP sponsor or MA organization may preclude the enrollee from making an election pursuant to clause (i) in a subsequent plan year.
+
+      (V) *Clarification regarding past due amounts* — Nothing in this subparagraph shall be construed as prohibiting a PDP sponsor or an MA organization from billing an enrollee for an amount owed under this subparagraph.
+
+      (VI) *Treatment of unsettled balances* — Any unsettled balances with respect to amounts owed under this subparagraph shall be treated as plan losses and the Secretary shall not be liable for any such balances outside of those assumed as losses estimated in plan bids.
 
 (3) **Initial coverage limit**
 
-  (A) *In general* — Except as provided in paragraphs (2)(C), (2)(D), and (4), the coverage has an initial coverage limit on the maximum costs that may be recognized for payment purposes (including the annual deductible)—
+  (A) *In general* — Except as provided in paragraphs (2)(C), (2)(D), (4), (8), and (9), for a year preceding 2025, the coverage has an initial coverage limit on the maximum costs that may be recognized for payment purposes (including the annual deductible)—
 
     (i) for 2006, that is equal to $2,250; or
 
-    (ii) for a subsequent year, that is equal to the amount specified in this paragraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved.
+    (ii) for each of years 2007 through 2024, that is equal to the amount specified in this paragraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved.
 
   (B) *Rounding* — Any amount determined under subparagraph (A)(ii) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
 
@@ -93664,13 +94687,17 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
   (A) *In general*
 
-    (i) *In general* — The coverage provides benefits, after the part D eligible individual has incurred costs (as described in subparagraph (C)) for covered part D drugs in a year equal to the annual out-of-pocket threshold specified in subparagraph (B), with cost-sharing that is equal to the greater of—
+    (i) *In general* — Subject to paragraphs (8) and (9), the coverage provides benefits, after the part D eligible individual has incurred costs (as described in subparagraph (C)) for covered part D drugs in a year equal to the annual out-of-pocket threshold specified in subparagraph (B), with cost-sharing that is equal to—
 
-      (I) a copayment of $2 for a generic drug or a preferred drug that is a multiple source drug (as defined in [section 1396r–8(k)(7)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k/7/A/i&num=0&edition=prelim)) and $5 for any other drug; or
+      (I) for a year preceding 2024, the greater of—
 
-      (II) coinsurance that is equal to 5 percent.
+        (aa) a copayment of $2 for a generic drug or a preferred drug that is a multiple source drug (as defined in [section 1396r–8(k)(7)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k/7/A/i&num=0&edition=prelim)) and $5 for any other drug; or
 
-    (ii) *Adjustment of amount* — For a year after 2006, the dollar amounts specified in clause (i)(I) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 cents shall be rounded to the nearest multiple of 5 cents.
+        (bb) coinsurance that is equal to 5 percent; and
+
+      (II) for 2024 and each succeeding year, $0.
+
+    (ii) *Adjustment of amount* — For a year after 2006, the dollar amounts specified in clause (i)(I)(aa) shall be equal to the dollar amounts specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved. Any amount established under this clause that is not a multiple of a 5 cents shall be rounded to the nearest multiple of 5 cents. The Secretary shall continue to calculate the dollar amounts specified in clause (i)(I)(aa), including with the adjustment under this clause, after 2023 for purposes of [section 1395w–114(a)(1)(D)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114/a/1/D/iii&num=0&edition=prelim).
 
   (B) *Annual out-of-pocket threshold*
 
@@ -93688,27 +94715,37 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
         (bb) the annual percentage increase described in paragraph (6) for the year;
 
-      (V) for 2020, is equal to the amount that would have been applied under this subparagraph for 2020 if the amendments made by section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010 had not been enacted; or
+      (V) for 2020, is equal to the amount that would have been applied under this subparagraph for 2020 if the amendments made by section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010 had not been enacted;
 
-      (VI) for a subsequent year, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved.
+      (VI) for each of years 2021 through 2024, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved;
 
-    (ii) *Rounding* — Any amount determined under clause (i)(II) that is not a multiple of $50 shall be rounded to the nearest multiple of $50.
+      (VII) for 2025, is equal to $2,000; or
 
-  (C) *Application* — Except as provided in subparagraph (E), in applying subparagraph (A)—
+      (VIII) for a subsequent year, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved.
 
-    (i) incurred costs shall only include costs incurred with respect to covered part D drugs for the annual deductible described in paragraph (1), for cost-sharing described in paragraph (2), and for amounts for which benefits are not provided because of the application of the initial coverage limit described in paragraph (3), but does not include any costs incurred for covered part D drugs which are not included (or treated as being included) in the plan’s formulary;
+    (ii) *Rounding* — Any amount determined under clause (i) that is not a multiple of $50 shall be rounded to the nearest multiple of $50.
+
+  (C) *Application* — Except as provided in subparagraph (E) or subparagraph (F), in applying subparagraph (A)—
+
+    (i) incurred costs shall only include costs incurred with respect to covered part D drugs for the annual deductible described in paragraph (1), for cost-sharing described in paragraph (2), and, for a year preceding 2025, for amounts for which benefits are not provided because of the application of the initial coverage limit described in paragraph (3), but does not include any costs incurred for covered part D drugs which are not included (or treated as being included) in the plan’s formulary;
 
     (ii) subject to clause (iii), such costs shall be treated as incurred only if they are paid by the part D eligible individual (or by another person, such as a family member, on behalf of the individual) and the part D eligible individual (or other person) is not reimbursed through insurance or otherwise, a group health plan, or other third-party payment arrangement (other than under such section or such a Program) for such costs; and
 
-    (iii) such costs shall be treated as incurred and shall not be considered to be reimbursed under clause (ii) if such costs are borne or paid—
+    (iii) such costs shall be treated as incurred and shall not be considered to be reimbursed under clause (ii) if such costs—
 
-      (I) under [section 1395w–114 of this title](./chapter-007-social-security.md#section-1395w-114);
+      (I) are borne or paid—— 11 So in original.
 
-      (II) under a State Pharmaceutical Assistance Program;
+        (aa) under [section 1395w–114 of this title](./chapter-007-social-security.md#section-1395w-114);
 
-      (III) by the Indian Health Service, an Indian tribe or tribal organization, or an urban Indian organization (as defined in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim)); or
+        (bb) under a State Pharmaceutical Assistance Program;
 
-      (IV) under an AIDS Drug Assistance Program under part B of title XXVI of the Public Health Service Act [[42 U.S.C. 300ff–21](./chapter-6a-public-health-service.md#section-300ff-21) et seq.].
+        (cc) by the Indian Health Service, an Indian tribe or tribal organization, or an urban Indian organization (as defined in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim));
+
+        (dd) 22 So in original. There are two items (dd). under an AIDS Drug Assistance Program under part B of title XXVI of the Public Health Service Act [[42 U.S.C. 300ff–21](./chapter-6a-public-health-service.md#section-300ff-21) et seq.]; or
+
+        (dd) 2 under [section 1395w–115(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–115/h&num=0&edition=prelim); or
+
+      (II) for 2025 and subsequent years, are reimbursed through insurance, a group health plan, or certain other third party payment arrangements, but not including the coverage provided by a prescription drug plan or an MA–PD plan that is basic prescription drug coverage (as defined in subsection (a)(3)) or any payments by a manufacturer under the manufacturer discount program under [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c).
 
   (D) *Information regarding third-party reimbursement*
 
@@ -93720,13 +94757,51 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
     (ii) *Authority to request information from enrollees* — A PDP sponsor or an MA organization may periodically ask part D eligible individuals enrolled in a prescription drug plan or an MA–PD plan offered by the sponsor or organization whether such individuals have or expect to receive such third-party reimbursement. A material misrepresentation of the information described in the preceding sentence by an individual (as defined in standards set by the Secretary and determined through a process established by the Secretary) shall constitute grounds for termination of enrollment in any plan under [section 1395w–21(g)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–21/g/3/B&num=0&edition=prelim) (and as applied under this part under [section 1395w–101(b)(1)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–101/b/1/B/v&num=0&edition=prelim)) for a period specified by the Secretary.
 
-  (E) *Inclusion of costs of applicable drugs under medicare coverage gap discount program* — In applying subparagraph (A), incurred costs shall include the negotiated price (as defined in paragraph (6) of [section 1395w–114a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g&num=0&edition=prelim)) of an applicable drug (as defined in paragraph (2) of such section) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a), regardless of whether part of such costs were paid by a manufacturer under such program, except that incurred costs shall not include the portion of the negotiated price that represents the reduction in coinsurance resulting from the application of paragraph (2)(D).
+  (E) *Inclusion of costs of applicable drugs under medicare coverage gap discount program* — For each of years 2011 through 2024, in applying subparagraph (A), incurred costs shall include the negotiated price (as defined in paragraph (6) of [section 1395w–114a(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g&num=0&edition=prelim)) of an applicable drug (as defined in paragraph (2) of such section) of a manufacturer that is furnished to an applicable beneficiary (as defined in paragraph (1) of such section) under the Medicare coverage gap discount program under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a), regardless of whether part of such costs were paid by a manufacturer under such program, except that incurred costs shall not include the portion of the negotiated price that represents the reduction in coinsurance resulting from the application of paragraph (2)(D).
+
+  (F) *Inclusion of costs paid under maximum monthly cap option* — In applying subparagraph (A), with respect to an enrollee who has made an election pursuant to clause (i) of paragraph (2)(E), costs shall be treated as incurred if such costs are paid by a PDP sponsor or an MA organization under the option provided under such paragraph.
 
 (5) **Construction** — Nothing in this part shall be construed as preventing a PDP sponsor or an MA organization offering an MA–PD plan from reducing to zero the cost-sharing otherwise applicable to preferred or generic drugs.
 
 (6) **Annual percentage increase** — The annual percentage increase specified in this paragraph for a year is equal to the annual percentage increase in average per capita aggregate expenditures for covered part D drugs in the United States for part D eligible individuals, as determined by the Secretary for the 12-month period ending in July of the previous year using such methods as the Secretary shall specify.
 
 (7) **Additional annual percentage increase** — The annual percentage increase specified in this paragraph for a year is equal to the annual percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending in July of the previous year.
+
+(8) **Treatment of cost-sharing for adult vaccines recommended by the Advisory Committee on Immunization Practices consistent with treatment of vaccines under part B**
+
+  (A) *In general* — For plan years beginning on or after January 1, 2023, with respect to an adult vaccine recommended by the Advisory Committee on Immunization Practices (as defined in subparagraph (B))—
+
+    (i) the deductible under paragraph (1) shall not apply; and
+
+    (ii) there shall be no coinsurance or other cost-sharing under this part with respect to such vaccine.
+
+  (B) *Adult vaccines recommended by the Advisory Committee on Immunization Practices* — For purposes of this paragraph, the term “adult vaccine recommended by the Advisory Committee on Immunization Practices” means a covered part D drug that is a vaccine licensed under section 351 of the Public Health Service Act [[42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)] for use by adult populations and administered in accordance with recommendations of the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention.
+
+(9) **Treatment of cost-sharing for covered insulin products**
+
+  (A) *No application of deductible* — For plan year 2023 and subsequent plan years, the deductible under paragraph (1) shall not apply with respect to any covered insulin product.
+
+  (B) *Application of cost-sharing*
+
+    (i) *Plan years 2023 and 2024* — For plan years 2023 and 2024, the coverage provides benefits for any covered insulin product, regardless of whether an individual has reached the initial coverage limit under paragraph (3) or the out-of-pocket threshold under paragraph (4), with cost-sharing for a month’s supply that does not exceed the applicable copayment amount.
+
+    (ii) *Plan year 2025 and subsequent plan years* — For a plan year beginning on or after January 1, 2025, the coverage provides benefits for any covered insulin product, prior to an individual reaching the out-of-pocket threshold under paragraph (4), with cost-sharing for a month’s supply that does not exceed the applicable copayment amount.
+
+  (C) *Covered insulin product* — In this paragraph, the term “covered insulin product” means an insulin product that is a covered part D drug covered under the prescription drug plan or MA–PD plan that is approved under [section 355 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim) or licensed under section 351 of the Public Health Service Act [[42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)] and marketed pursuant to such approval or licensure, including any covered insulin product that has been deemed to be licensed under section 351 of the Public Health Service Act pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009 and marketed pursuant to such section.
+
+  (D) *Applicable copayment amount* — In this paragraph, the term “applicable copayment amount” means, with respect to a covered insulin product under a prescription drug plan or an MA–PD plan dispensed—
+
+    (i) during plan years 2023, 2024, and 2025, $35; and
+
+    (ii) during plan year 2026 and each subsequent plan year, the lesser of—
+
+      (I) $35;
+
+      (II) an amount equal to 25 percent of the maximum fair price established for the covered insulin product in accordance with part E of subchapter XI; or
+
+      (III) an amount equal to 25 percent of the negotiated price of the covered insulin product under the prescription drug plan or MA–PD plan.
+
+  (E) *Special rule for first 3 months of 2023* — With respect to a month’s supply of a covered insulin product dispensed during the period beginning on January 1, 2023, and ending on March 31, 2023, a PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall reimburse an enrollee within 30 days for any cost-sharing paid by such enrollee that exceeds the cost-sharing applied by the prescription drug plan or MA–PD plan under subparagraph (B)(i) at the point-of-sale for such month’s supply.
 
 **(c) Alternative prescription drug coverage requirements** A prescription drug plan or an MA–PD plan may provide a different prescription drug benefit design from standard prescription drug coverage so long as the Secretary determines (consistent with [section 1395w–111(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/c&num=0&edition=prelim)) that the following requirements are met and the plan applies for, and receives, the approval of the Secretary for such benefit design:
 
@@ -93736,9 +94811,9 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
   (B) *Assuring equivalent unsubsidized value of coverage* — The unsubsidized value of the coverage is at least equal to the unsubsidized value of standard prescription drug coverage. For purposes of this subparagraph, the unsubsidized value of coverage is the amount by which the actuarial value of the coverage exceeds the actuarial value of the subsidy payments under [section 1395w–115 of this title](./chapter-007-social-security.md#section-1395w-115) with respect to such coverage.
 
-  (C) *Assuring standard payment for costs at initial coverage limit* — The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) for the year, of an amount equal to at least the product of—
+  (C) *Assuring standard payment for costs* — The coverage is designed, based upon an actuarially representative pattern of utilization, to provide for the payment, with respect to costs incurred that are equal to the initial coverage limit under subsection (b)(3) for the year for a year preceding 2025 or the annual out-of-pocket threshold specified in subsection (b)(4)(B) for the year for 2025 and each subsequent year, of an amount equal to at least the product of—
 
-    (i) the amount by which the initial coverage limit described in subsection (b)(3) for the year exceeds the deductible described in subsection (b)(1) for the year; and
+    (i) the amount by which the initial coverage limit described in subsection (b)(3) for the year for a year preceding 2025 or the annual out-of-pocket threshold specified in subsection (b)(4)(B) for the year for 2025 and each subsequent year exceeds the deductible described in subsection (b)(1) for the year; and
 
     (ii) 100 percent minus the coinsurance percentage specified in subsection (b)(2)(A)(i).
 
@@ -93746,15 +94821,23 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
 (3) **Same protection against high out-of-pocket expenditures** — The coverage provides the coverage required under subsection (b)(4).
 
+(4) **Same maximum monthly cap on cost-sharing** — The maximum monthly cap on cost-sharing payments shall apply to coverage with respect to an enrollee who has made an election pursuant to clause (i) of subsection (b)(2)(E) under the option provided under such subsection.
+
+(5) **Treatment of cost-sharing for adult vaccines recommended by the Advisory Committee on Immunization Practices** — The coverage is in accordance with subsection (b)(8).
+
+(6) **Treatment of cost-sharing for covered insulin products** — The coverage is provided in accordance with subsection (b)(9).
+
 **(d) Access to negotiated prices**
 
 (1) **Access**
 
-  (A) *In general* — Under qualified prescription drug coverage offered by a PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan, the sponsor or organization shall provide enrollees with access to negotiated prices used for payment for covered part D drugs, regardless of the fact that no benefits may be payable under the coverage with respect to such drugs because of the application of a deductible or other cost-sharing or an initial coverage limit (described in subsection (b)(3)).
+  (A) *In general* — Under qualified prescription drug coverage offered by a PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan, the sponsor or organization shall provide enrollees with access to negotiated prices used for payment for covered part D drugs, regardless of the fact that no benefits may be payable under the coverage with respect to such drugs because of the application of a deductible or other cost-sharing or, for a year preceding 2025, an initial coverage limit (described in subsection (b)(3)).
 
-  (B) *Negotiated prices* — For purposes of this part, negotiated prices shall take into account negotiated price concessions, such as discounts, direct or indirect subsidies, rebates, and direct or indirect remunerations, for covered part D drugs, and include any dispensing fees for such drugs.
+  (B) *Negotiated prices* — For purposes of this part, negotiated prices, subject to subparagraph (D), shall take into account negotiated price concessions, such as discounts, direct or indirect subsidies, rebates, and direct or indirect remunerations, for covered part D drugs, and include any dispensing fees for such drugs.
 
   (C) *Medicaid-related provisions* — The prices negotiated by a prescription drug plan, by an MA–PD plan with respect to covered part D drugs, or by a qualified retiree prescription drug plan (as defined in [section 1395w–132(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–132/a/2&num=0&edition=prelim)) with respect to such drugs on behalf of part D eligible individuals, shall (notwithstanding any other provision of law) not be taken into account for the purposes of establishing the best price under [section 1396r–8(c)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/c/1/C&num=0&edition=prelim).
+
+  (D) *Application of maximum fair price for selected drugs* — In applying this section, in the case of a covered part D drug that is a selected drug (as referred to in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)), with respect to a price applicability period (as defined in [section 1320f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/b/2&num=0&edition=prelim)), the negotiated prices used for payment (as described in this subsection) shall be no greater than the maximum fair price (as defined in [section 1320f(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/3&num=0&edition=prelim)) for such drug and for each year during such period plus any dispensing fees for such drug.
 
 (2) **Disclosure** — A PDP sponsor offering a prescription drug plan or an MA organization offering an MA–PD plan shall disclose to the Secretary (in a manner specified by the Secretary) the aggregate negotiated price concessions described in paragraph (1)(B) made available to the sponsor or organization by a manufacturer which are passed through in the form of lower subsidies, lower monthly beneficiary prescription drug premiums, and lower prices through pharmacies and other dispensers. The provisions of [section 1396r–8(b)(3)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/b/3/D&num=0&edition=prelim) apply to information disclosed to the Secretary under this paragraph.
 
@@ -93794,7 +94877,7 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 
     (ii) in the case of any other covered part D drug, in [section 1396r–8(k)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k/6&num=0&edition=prelim).
 
-  (B) *Conflict of interest* — On and after January 1, 2010, subparagraph (A)(i)(II) shall not apply unless the compendia described in [section 1396r–8(g)(1)(B)(i)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/g/1/B/i/III&num=0&edition=prelim) meets 11 So in original. Probably should be “meet”. the requirement in the third sentence of [section 1395x(t)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/t/2/B&num=0&edition=prelim).
+  (B) *Conflict of interest* — On and after January 1, 2010, subparagraph (A)(i)(II) shall not apply unless the compendia described in [section 1396r–8(g)(1)(B)(i)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/g/1/B/i/III&num=0&edition=prelim) meets 33 So in original. Probably should be “meet”. the requirement in the third sentence of [section 1395x(t)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/t/2/B&num=0&edition=prelim).
 
   (C) *Update* — For purposes of applying subparagraph (A)(ii), the Secretary shall revise the list of compendia described in [section 1396r–8(g)(1)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/g/1/B/i&num=0&edition=prelim) as is appropriate for identifying medically accepted indications for drugs. Any such revision shall be done in a manner consistent with the process for revising compendia under [section 1395x(t)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/t/2/B&num=0&edition=prelim).
 
@@ -93803,9 +94886,99 @@ Pub. L. 108–173, title I, § 110, Dec. 8, 2003, 117 Stat. 2174, provided that:
 #### References in Text
 Section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010, referred to in subsec. (b)(4)(B)(i)(V), is section 1101(d)(1) of Pub. L. 111–152, which amended this section.
 
-The Public Health Service Act, referred to in subsec. (b)(4)(C)(iii)(IV), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XXVI of the Act is classified generally to part B (§ 300ff–21 et seq.) of subchapter XXIV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsec. (b)(4)(C)(iii)(I)(dd), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XXVI of the Act is classified generally to part B (§ 300ff–21 et seq.) of subchapter XXIV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+
+Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in (b)(9)(C), is section 7002(e)(4) of Pub. L. 111–148, which is set out in a note under [section 262 of this title](./chapter-6a-public-health-service.md#section-262).
 
 #### Amendments
+2022—Subsec. (a)(2)(A)(i)(I). Pub. L. 117–169, § 11201(e)(1)(A), substituted “or, for a year preceding 2025, an increase in the initial” for “, or an increase in the initial”.
+
+Subsec. (b)(1)(A). Pub. L. 117–169, § 11406(a)(1)(A), substituted “paragraphs (8) and (9)” for “paragraph (8)” in introductory provisions.
+
+Pub. L. 117–169, § 11401(a)(1)(A), substituted “Subject to paragraph (8), the coverage” for “The coverage” in introductory provisions.
+
+Subsec. (b)(2)(A). Pub. L. 117–169, § 11406(a)(1)(B)(i), substituted “paragraphs (8) and (9)” for “paragraph (8)”.
+
+Pub. L. 117–169, § 11401(a)(1)(B)(i), inserted “and paragraph (8)” after “and (E)” in introductory provisions.
+
+Pub. L. 117–169, § 11202(a)(1)(A), substituted “, (D), and (E)” for “and (D)” in introductory provisions.
+
+Pub. L. 117–169, § 11201(a)(1)(A), inserted “for a year preceding 2025 and for costs above the annual deductible specified in paragraph (1) and up to the annual out-of-pocket threshold specified in paragraph (4)(B) for 2025 and each subsequent year” after “paragraph (3)” in introductory provisions.
+
+Subsec. (b)(2)(C)(i). Pub. L. 117–169, § 11406(a)(1)(B)(ii), substituted “, (8), and (9)” for “and (8)” in introductory provisions.
+
+Pub. L. 117–169, § 11401(a)(1)(B)(ii), substituted “paragraphs (4) and (8)” for “paragraph (4)” in introductory provisions.
+
+Pub. L. 117–169, § 11201(a)(1)(B)(i), inserted “for a year preceding 2025,” after “paragraph (4),” in introductory provisions.
+
+Subsec. (b)(2)(C)(ii)(III). Pub. L. 117–169, § 11201(a)(1)(B)(ii), substituted “through 2024” for “and each subsequent year”.
+
+Subsec. (b)(2)(D)(i). Pub. L. 117–169, § 11406(a)(1)(B)(iii), substituted “, (8), and (9)” for “and (8)” in introductory provisions.
+
+Pub. L. 117–169, § 11401(a)(1)(B)(iii), substituted “paragraphs (4) and (8)” for “paragraph (4)” in introductory provisions.
+
+Pub. L. 117–169, § 11201(a)(1)(C)(i)(I), inserted “for a year preceding 2025,” after “paragraph (4),” in introductory provisions.
+
+Subsec. (b)(2)(D)(i)(I)(bb). Pub. L. 117–169, § 11201(a)(1)(C)(i)(II), substituted “each of years 2019 through 2024” for “a year after 2018”.
+
+Subsec. (b)(2)(D)(ii)(V). Pub. L. 117–169, § 11201(a)(1)(C)(ii), substituted “each of years 2019 through 2024” for “2019 and each subsequent year”.
+
+Subsec. (b)(2)(E). Pub. L. 117–169, § 11202(a)(1)(B), added subpar. (E).
+
+Subsec. (b)(3)(A). Pub. L. 117–169, § 11406(a)(1)(C), substituted “(8), and (9)” for “and (8)” in introductory provisions.
+
+Pub. L. 117–169, § 11401(a)(1)(C), substituted “(4), and (8)” for “and (4)” in introductory provisions.
+
+Pub. L. 117–169, § 11201(a)(2)(A), inserted “for a year preceding 2025,” after “and (4),” in introductory provisions.
+
+Subsec. (b)(3)(A)(ii). Pub. L. 117–169, § 11201(a)(2)(B), substituted “for each of years 2007 through 2024” for “for a subsequent year”.
+
+Subsec. (b)(4)(A)(i). Pub. L. 117–169, § 11406(a)(1)(D), substituted “paragraphs (8) and (9)” for “paragraph (8)” in introductory provisions.
+
+Pub. L. 117–169, § 11401(a)(1)(D), substituted “Subject to paragraph (8), the coverage” for “The coverage” in introductory provisions.
+
+Pub. L. 117–169, § 11201(a)(3)(A)(i), inserted dash after “is equal to” in introductory provisions, designated remainder of existing provisions as subcl. (I), inserted “for a year preceding 2024,” before “the greater of—”, redesignated former subcls. (I) and (II) as items (aa) and (bb), respectively, of subcl. (I) and realigned margins, and added subcl. (II).
+
+Subsec. (b)(4)(A)(ii). Pub. L. 117–169, § 11201(a)(3)(A)(ii), substituted “clause (i)(I)(aa) shall be” for “clause (i)(I) shall be” and inserted at end “The Secretary shall continue to calculate the dollar amounts specified in clause (i)(I)(aa), including with the adjustment under this clause, after 2023 for purposes of [section 1395w–114(a)(1)(D)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114/a/1/D/iii&num=0&edition=prelim).”
+
+Subsec. (b)(4)(B)(i)(V). Pub. L. 117–169, § 11201(a)(3)(B)(i)(I), struck out “or” at end.
+
+Subsec. (b)(4)(B)(i)(VI). Pub. L. 117–169, § 11201(a)(3)(B)(i)(II), substituted “for each of years 2021 through 2024” for “for a subsequent year” and semicolon for period at end.
+
+Subsec. (b)(4)(B)(i)(VII), (VIII). Pub. L. 117–169, § 11201(a)(3)(B)(i)(III), added subcls. (VII) and (VIII).
+
+Subsec. (b)(4)(B)(ii). Pub. L. 117–169, § 11201(a)(3)(B)(ii), substituted “clause (i)” for “clause (i)(II)”.
+
+Subsec. (b)(4)(C). Pub. L. 117–169, § 11202(a)(2)(A), substituted “subparagraph (E) or subparagraph (F)” for “subparagraph (E)” in introductory provisions.
+
+Subsec. (b)(4)(C)(i). Pub. L. 117–169, § 11201(a)(3)(C)(i), substituted “and, for a year preceding 2025, for amounts” for “and for amounts”.
+
+Subsec. (b)(4)(C)(iii). Pub. L. 117–169, § 11201(a)(3)(C)(ii), inserted dash after “if such costs” in introductory provisions, designated remainder of existing provisions as subcl. (I), redesignated former subcls. (I) to (IV) as items (aa) to (dd), respectively, of subcl. (I) and realigned margins, and added subcl. (II).
+
+Subsec. (b)(4)(C)(iii)(I)(dd). Pub. L. 117–169, § 11401(c)(2), added item (dd) referring to [section 1395w–115(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–115/h&num=0&edition=prelim).
+
+Subsec. (b)(4)(E). Pub. L. 117–169, § 11201(a)(3)(D), substituted “For each of years 2011 through 2024, in applying” for “In applying”.
+
+Subsec. (b)(4)(F). Pub. L. 117–169, § 11202(a)(2)(B), added subpar. (F).
+
+Subsec. (b)(8). Pub. L. 117–169, § 11401(a)(1)(E), added par. (8).
+
+Subsec. (b)(9). Pub. L. 117–169, § 11406(a)(1)(E), added par. (9).
+
+Subsec. (c)(1)(C). Pub. L. 117–169, § 11201(e)(1)(B), struck out “at initial coverage limit” after “payment for costs” in heading and inserted “for a year preceding 2025 or the annual out-of-pocket threshold specified in subsection (b)(4)(B) for the year for 2025 and each subsequent year” after “subsection (b)(3) for the year” in introductory provisions and in cl. (i).
+
+Subsec. (c)(4). Pub. L. 117–169, § 11202(b), added par. (4).
+
+Subsec. (c)(5). Pub. L. 117–169, § 11401(a)(2), added par. (5).
+
+Subsec. (c)(6). Pub. L. 117–169, § 11406(a)(2), added par. (6).
+
+Subsec. (d)(1)(A). Pub. L. 117–169, § 11201(e)(1)(C), substituted “or, for a year preceding 2025, an initial” for “or an initial”.
+
+Subsec. (d)(1)(B). Pub. L. 117–169, § 11001(b)(1)(D)(i), inserted “, subject to subparagraph (D),” after “negotiated prices”.
+
+Subsec. (d)(1)(D). Pub. L. 117–169, § 11001(b)(1)(D)(ii), added subpar. (D).
+
 2018—Subsec. (b)(2)(D)(i)(I). Pub. L. 115–123, § 53116(a)(1), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “equal to the difference between the applicable gap percentage (specified in clause (ii) for the year) and the discount percentage specified in [section 1395w–114a(g)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114a/g/4/A&num=0&edition=prelim) for such applicable drugs; or”.
 
 Subsec. (b)(2)(D)(ii)(V), (VI). Pub. L. 115–123, § 53116(a)(2), substituted “2019” for “2020” in subcl. (VI), redesignated subcl. (VI) as (V), and struck out former subcl. (V) which read as follows: “2019 is 80 percent; and”.
@@ -93877,18 +95050,30 @@ Pub. L. 110–275, title I, § 182(a)(2), July 15, 2008, 122 Stat. 2583, provide
 #### Effective Date of 2005 Amendment
 Pub. L. 109–91, title I, § 103(c), Oct. 20, 2005, 119 Stat. 2092, provided that: “The amendment made by subsection (a)(1) [amending this section] shall take effect as if included in the enactment of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173) and the amendment made by subsection (a)(2) [amending this section] shall apply to coverage for drugs dispensed on or after January 1, 2007.”
 
+#### Construction of 2022 Amendment
+Pub. L. 117–169, title I, § 11401(d), Aug. 16, 2022, 136 Stat. 1898, provided that: “Nothing in this section [amending this section and sections 1395w–114 and 1395w–115 of this title and enacting provisions set out as a note below] shall be construed as limiting coverage under part D of title XVIII of the Social Security Act [[42 U.S.C. 1395w–101](./chapter-007-social-security.md#section-1395w-101) et seq.] for vaccines that are not recommended by the Advisory Committee on Immunization Practices.”
+
 #### Construction of 2010 Amendment
 Pub. L. 111–152, title I, § 1101(a)(2), Mar. 30, 2010, 124 Stat. 1037, provided that: “Section 3315 of the Patient Protection and Affordable Care Act [section 3315 of Pub. L. 111–148, amending this section] (including the amendments made by such section) is repealed, and any provision of law amended or repealed by such sections [sic] is hereby restored or revived as if such section had not been enacted into law.”
 
 #### Construction
 Pub. L. 109–91, title I, § 103(b), Oct. 20, 2005, 119 Stat. 2092, provided that: “Nothing in this section [amending this section and enacting provisions set out as a note under this section] shall be construed as preventing a prescription drug plan or an MA–PD plan from providing coverage of drugs for the treatment of sexual or erectile dysfunction as supplemental prescription drug coverage under section 1860D–2(a)(2)(A)(ii) of the Social Security Act ([42 U.S.C. 1395w–102(a)(2)(A)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/a/2/A/ii&num=0&edition=prelim)).”
 
+#### Implementation of Pub. L. 117–169 for Certain Years
+Pub. L. 117–169, title I, § 11201(f), Aug. 16, 2022, 136 Stat. 1892, provided that: “The Secretary shall implement this section [enacting sections 1395w–114c and 1395w–114d of this title and amending this section and sections 1395w–24, 1395w–104, 1395w–111, 1395w–113, 1395w–114, 1395w–114a, 1395w–115, 1395w–116, 1395w–131, 1395w–132, 1395w–151, 1395w–153, and 1396r–8 of this title], including the amendments made by this section, for 2024, 2025, and 2026 by program instruction or other forms of program guidance.”
+
+Pub. L. 117–169, title I, § 11202(c), Aug. 16, 2022, 136 Stat. 1895, provided that: “The Secretary shall implement this section [amending this section], including the amendments made by this section, for 2025 by program instruction or other forms of program guidance.”
+
+Pub. L. 117–169, title I, § 11401(e), Aug. 16, 2022, 136 Stat. 1898, provided that: “The Secretary shall implement this section [amending this section and sections 1395w–114 and 1395w–115 of this title and enacting provisions set out as a note above], including the amendments made by this section, for 2023, 2024, and 2025, by program instruction or other forms of program guidance.”
+
+Pub. L. 117–169, title I, § 11406(d), Aug. 16, 2022, 136 Stat. 1904, provided that: “The Secretary shall implement this section [amending this section and sections 1395w–114 and 1395w–115 of this title] for plan years 2023, 2024, and 2025 by program instruction or other forms of program guidance.”
+
 #### Payment for Administration of Part D Vaccines in 2007
 Pub. L. 109–432, div. B, title II, § 202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: “Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act ([42 U.S.C. 1395w–102(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/e&num=0&edition=prelim)) and that is administered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act [[42 U.S.C. 1395j](./chapter-007-social-security.md#section-1395j) et seq.] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act ([42 U.S.C. 1395w(s)(10)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w/s/10/B&num=0&edition=prelim) [probably should be 1395x(s)(10)(B)]).”
 
 
-<a id="section-1395w-141"></a>
-## § 1395w–141. Access to a choice of qualified prescription drug coverage
+<a id="section-1395w-132"></a>
+## § 1395w–132. Access to a choice of qualified prescription drug coverage
 **(a) Assuring access to a choice of coverage**
 
 (1) **Choice of at least two plans in each area** — The Secretary shall ensure that each part D eligible individual has available, consistent with paragraph (2), a choice of enrollment in at least 2 qualifying plans (as defined in paragraph (3)) in the area in which the individual resides, at least one of which is a prescription drug plan. In any such case in which such plans are not available, the part D eligible individual shall be given the opportunity to enroll in a fallback prescription drug plan.
@@ -93912,8 +95097,8 @@ Pub. L. 109–432, div. B, title II, § 202(a), Dec. 20, 2006, 120 Stat. 2986, p
 (2) only if such access is still not provided in the area after applying paragraph (1), the Secretary shall provide for the offering of a fallback prescription drug plan for that area under [section 1395w–111(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/g&num=0&edition=prelim).
 
 
-<a id="section-1395w-151"></a>
-## § 1395w–151. Beneficiary protections for qualified prescription drug coverage
+<a id="section-1395w-133"></a>
+## § 1395w–133. Beneficiary protections for qualified prescription drug coverage
 **(a) Dissemination of information**
 
 (1) **General information**
@@ -93958,7 +95143,7 @@ Pub. L. 109–432, div. B, title II, § 202(a), Dec. 20, 2006, 120 Stat. 2986, p
 
   (B) when prescription drug benefits are provided under this part, a notice of the benefits in relation to—
 
-    (i) the initial coverage limit for the current year; and
+    (i) for a year preceding 2025, the initial coverage limit for the current year; and
 
     (ii) the annual out-of-pocket threshold for the current year.
     Notices under subparagraph (B) need not be provided more often than as specified by the Secretary and notices under subparagraph (B)(ii) shall take into account the application of [section 1395w–102(b)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/C&num=0&edition=prelim) to the extent practicable, as specified by the Secretary.
@@ -94064,6 +95249,12 @@ Pub. L. 109–432, div. B, title II, § 202(a), Dec. 20, 2006, 120 Stat. 2986, p
     (i) use a single, uniform exceptions and appeals process (including, to the extent the Secretary determines feasible, a single, uniform model form for use under such process) with respect to the determination of prescription drug coverage for an enrollee under the plan; and
 
     (ii) provide instant access to such process by enrollees through a toll-free telephone number and an Internet website.
+
+  (I) *Required inclusion of selected drugs*
+
+    (i) *In general* — For 2026 and each subsequent year, the PDP sponsor offering a prescription drug plan shall include each covered part D drug that is a selected drug under [section 1320f–1 of this title](./chapter-007-social-security.md#section-1320f-1) for which a maximum fair price (as defined in [section 1320f(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/3&num=0&edition=prelim)) is in effect with respect to the year.
+
+    (ii) *Clarification* — Nothing in clause (i) shall be construed as prohibiting a PDP sponsor from removing such a selected drug from a formulary if such removal would be permitted under section 423.120(b)(5)(iv) of title 42, Code of Federal Regulations (or any successor regulation).
 
 (4) **Ensuring access during COVID–19 public health emergency period**
 
@@ -94644,6 +95835,10 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 Section 119 of the Medicare Improvements for Patients and Providers Act of 2008, referred to in subsec. (c)(5)(K)(ii), is section 119 of Pub. L. 110–275, which is set out as a note under [section 1395b–3 of this title](./chapter-007-social-security.md#section-1395b-3).
 
 #### Amendments
+2022—Subsec. (a)(4)(B)(i). Pub. L. 117–169, § 11201(e)(2), substituted “for a year preceding 2025, the initial” for “the initial”.
+
+Subsec. (b)(3)(I). Pub. L. 117–169, § 11001(b)(1)(E), added subpar. (I).
+
 2020—Subsec. (b)(4). Pub. L. 116–136 added par. (4).
 
 Subsecs. (m), (n). Pub. L. 116–260, § 119(a)(1), redesignated subsec. (m), relating to program integrity transparency measures, as (n).
@@ -94754,8 +95949,8 @@ Pub. L. 115–271, title VI, § 6052, Oct. 24, 2018, 132 Stat. 3985, provided th
 Pub. L. 108–173, title I, § 108, Dec. 8, 2003, 117 Stat. 2172, provided that: “(a) In General.—The Secretary [of Health and Human Services] is authorized to make grants to physicians for the purpose of assisting such physicians to implement electronic prescription drug programs that comply with the standards promulgated or modified under section 1860D–4(e) of the Social Security Act [[42 U.S.C. 1395w–104(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/e&num=0&edition=prelim)], as inserted by section 101(a). “(b) Awarding of Grants.—“(1) Application.—No grant may be made under this section except pursuant to a grant application that is submitted and approved in a time, manner, and form specified by the Secretary. “(2) Considerations and preferences.—In awarding grants under this section, the Secretary shall—“(A) give special consideration to physicians who serve a disproportionate number of medicare patients; and “(B) give preference to physicians who serve a rural or underserved area. “(3) Limitation on grants.—Only 1 grant may be awarded under this section with respect to any physician or group practice of physicians. “(c) Terms and Conditions.—“(1) In general.—Grants under this section shall be made under such terms and conditions as the Secretary specifies consistent with this section. “(2) Use of grant funds.—Funds provided under grants under this section may be used for any of the following:“(A) For purchasing, leasing, and installing computer software and hardware, including handheld computer technologies. “(B) Making upgrades and other improvements to existing computer software and hardware to enable e-prescribing. “(C) Providing education and training to eligible physician staff on the use of technology to implement the electronic transmission of prescription and patient information. “(3) Provision of information.—As a condition for the awarding of a grant under this section, an applicant shall provide to the Secretary such information as the Secretary may require in order to—“(A) evaluate the project for which the grant is made; and “(B) ensure that funding provided under the grant is expended only for the purposes for which it is made. “(4) Audit.—The Secretary shall conduct appropriate audits of grants under this section. “(5) Matching requirement.—The applicant for a grant under this section shall agree, with respect to the costs to be incurred by the applicant in implementing an electronic prescription drug program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs. Non-Federal contributions under the previous sentence may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions. “(d) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 and 2009.”
 
 
-<a id="section-1395w-152"></a>
-## § 1395w–152. PDP regions; submission of bids; plan approval
+<a id="section-1395w-134"></a>
+## § 1395w–134. PDP regions; submission of bids; plan approval
 **(a) Establishment of PDP regions; service areas**
 
 (1) **Coverage of entire PDP region** — The service area for a prescription drug plan shall consist of an entire PDP region established under paragraph (2).
@@ -94935,7 +96130,7 @@ Pub. L. 108–173, title I, § 108, Dec. 8, 2003, 117 Stat. 2172, provided that:
 
     (iv) *Benefit administration and claims adjudication* — The entity provides efficient and effective benefit administration and claims adjudication.
 
-(6) **Monthly beneficiary premium** — Except as provided in [section 1395w–113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/b&num=0&edition=prelim) (relating to late enrollment penalty) and subject to [section 1395w–114 of this title](./chapter-007-social-security.md#section-1395w-114) (relating to low-income assistance), the monthly beneficiary premium to be charged under a fallback prescription drug plan offered in all fallback service areas in a PDP region shall be uniform and shall be equal to 25.5 percent of an amount equal to the Secretary’s estimate of the average monthly per capita actuarial cost, including administrative expenses, under the fallback prescription drug plan of providing coverage in the region, as calculated by the Chief Actuary of the Centers for Medicare & Medicaid Services. In calculating such administrative expenses, the Chief Actuary shall use a factor that is based on similar expenses of prescription drug plans that are not fallback prescription drug plans.
+(6) **Monthly beneficiary premium** — Except as provided in [section 1395w–113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/b&num=0&edition=prelim) (relating to late enrollment penalty) and subject to [section 1395w–114 of this title](./chapter-007-social-security.md#section-1395w-114) (relating to low-income assistance), the monthly beneficiary premium to be charged under a fallback prescription drug plan offered in all fallback service areas in a PDP region shall be uniform and shall be equal to 25.5 percent (or, for 2030 and each subsequent year, the percent specified under [section 1395w–113(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/9&num=0&edition=prelim)) of an amount equal to the Secretary’s estimate of the average monthly per capita actuarial cost, including administrative expenses, under the fallback prescription drug plan of providing coverage in the region, as calculated by the Chief Actuary of the Centers for Medicare & Medicaid Services. In calculating such administrative expenses, the Chief Actuary shall use a factor that is based on similar expenses of prescription drug plans that are not fallback prescription drug plans.
 
 (7) **General contract terms and conditions**
 
@@ -94953,9 +96148,11 @@ Pub. L. 108–173, title I, § 108, Dec. 8, 2003, 117 Stat. 2172, provided that:
 
 **(i) Noninterference** In order to promote competition under this part and in carrying out this part, the Secretary—
 
-(1) may not interfere with the negotiations between drug manufacturers and pharmacies and PDP sponsors; and
+(1) may not interfere with the negotiations between drug manufacturers and pharmacies and PDP sponsors;
 
-(2) may not require a particular formulary or institute a price structure for the reimbursement of covered part D drugs.
+(2) may not require a particular formulary, except as provided under [section 1395w–104(b)(3)(l) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/b/3/l&num=0&edition=prelim); and
+
+(3) may not institute a price structure for the reimbursement of covered part D drugs, except as provided under part E of subchapter XI.
 
 **(j) Coordination of benefits** A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutical Assistance Programs and Rx plans under sections 1395w–133 and 1395w–134 of this title to coordinate benefits with the plan and, in connection with such coordination with such a Program, not to impose fees that are unrelated to the cost of coordination.
 
@@ -94968,6 +96165,14 @@ Pub. L. 108–173, title I, § 108, Dec. 8, 2003, 117 Stat. 2172, provided that:
 In subsec. (g)(1)(B)(iii), “[section 132 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section132&num=0&edition=prelim)” substituted for “section 4(5) of the Office of Federal Procurement Policy Act ([41 U.S.C. 403(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403/5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2022—Subsec. (g)(6). Pub. L. 117–169, § 11201(d)(3)(B), inserted “(or, for 2030 and each subsequent year, the percent specified under [section 1395w–113(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/9&num=0&edition=prelim))” after “25.5 percent”.
+
+Subsec. (i)(1). Pub. L. 117–169, § 11001(b)(1)(C)(i), struck out “and” at end.
+
+Subsec. (i)(2). Pub. L. 117–169, § 11001(b)(1)(C)(ii), substituted “, except as provided under [section 1395w–104(b)(3)(l) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/b/3/l&num=0&edition=prelim); and” for “or institute a price structure for the reimbursement of covered part D drugs.”.
+
+Subsec. (i)(3). Pub. L. 117–169, § 11001(b)(1)(C)(iii), added par. (3).
+
 2010—Subsec. (d)(3). Pub. L. 111–148 added par. (3).
 
 #### Effective Date of 2010 Amendment
@@ -94977,8 +96182,8 @@ Amendment by Pub. L. 111–148 applicable to bids submitted for contract years b
 Pub. L. 108–173, title I, § 107(a), Dec. 8, 2003, 117 Stat. 2169, provided that: “(1) In general.—The Secretary [of Health and Human Services] shall conduct a study that examines variations in per capita spending for covered part D drugs under part D of title XVIII of the Social Security Act [[42 U.S.C. 1395w–101](./chapter-007-social-security.md#section-1395w-101) et seq.] among PDP regions and, with respect to such spending, the amount of such variation that is attributable to—“(A) price variations (described in section 1860D–15(c)(2) of such Act [[42 U.S.C. 1395w–115(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–115/c/2&num=0&edition=prelim)]); and “(B) differences in per capita utilization that is not taken into account in the health status risk adjustment provided under section 1860D–15(c)(1) of such Act [[42 U.S.C. 1395w–115(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–115/c/1&num=0&edition=prelim)]. “(2) Report and recommendations.—Not later than January 1, 2009, the Secretary shall submit to Congress a report on the study conducted under paragraph (1). Such report shall include—“(A) information regarding the extent of geographic variation described in paragraph (1)(B); “(B) an analysis of the impact on direct subsidies under section 1860D–15(a)(1) of the Social Security Act [[42 U.S.C. 1395w–115(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–115/a/1&num=0&edition=prelim)] in different PDP regions if such subsidies were adjusted to take into account the variation described in subparagraph (A); and “(C) recommendations regarding the appropriateness of applying an additional geographic adjustment factor under section 1860D–15(c)(2) [[42 U.S.C. 1395w–115(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–115/c/2&num=0&edition=prelim)] that reflects some or all of the variation described in subparagraph (A).”
 
 
-<a id="section-1395w-153"></a>
-## § 1395w–153. Requirements for and contracts with prescription drug plan (PDP) sponsors
+<a id="section-1395w-141"></a>
+## § 1395w–141. Requirements for and contracts with prescription drug plan (PDP) sponsors
 **(a) General requirements** Each PDP sponsor of a prescription drug plan shall meet the following requirements:
 
 (1) **Licensure** — Subject to subsection (c), the sponsor is organized and licensed under State law as a risk-bearing entity eligible to offer health insurance or health benefits coverage in each State in which it offers a prescription drug plan.
@@ -95018,7 +96223,7 @@ Pub. L. 108–173, title I, § 107(a), Dec. 8, 2003, 117 Stat. 2169, provided th
 
   (D) *Additional contract terms* — [Section 1395w–27(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–27/e&num=0&edition=prelim); except that [section 1395w–27(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–27/e/2&num=0&edition=prelim) shall apply as specified to PDP sponsors and payments under this part to an MA–PD plan shall be treated as expenditures made under part D. Notwithstanding any other provision of law, information provided to the Secretary under the application of [section 1395w–27(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–27/e/1&num=0&edition=prelim) to contracts under this section under the preceding sentence—
 
-    (i) may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate); and
+    (i) may be used for the purposes of carrying out this part, improving public health through research on the utilization, safety, effectiveness, quality, and efficiency of health care services (as the Secretary determines appropriate), or carrying out part E of subchapter XI; and
 
     (ii) shall be made available to Congressional 11 So in original. Probably should not be capitalized. support agencies (in accordance with their obligations to support Congress as set out in their authorizing statutes) for the purposes of conducting Congressional 1 oversight, monitoring, making recommendations, and analysis of the program under this subchapter.
 
@@ -95094,6 +96299,8 @@ Pub. L. 108–173, title I, § 107(a), Dec. 8, 2003, 117 Stat. 2169, provided th
 
   (B) *Rule of construction* — Nothing in this paragraph shall be construed as limiting the authority of a PDP sponsor to conduct postpayment review.
 
+(8) **Provision of information related to maximum fair prices** — Each contract entered into with a PDP sponsor under this part with respect to a prescription drug plan offered by such sponsor shall require the sponsor to provide information to the Secretary as requested by the Secretary for purposes of carrying out [section 1320f–3 of this title](./chapter-007-social-security.md#section-1320f-3).
+
 **(c) Waiver of certain requirements to expand choice**
 
 (1) **Authorizing waiver**
@@ -95143,6 +96350,10 @@ Pub. L. 108–173, title I, § 107(a), Dec. 8, 2003, 117 Stat. 2169, provided th
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(3)(D)(i). Pub. L. 117–169, § 11001(b)(1)(H)(i), inserted “, or carrying out part E of subchapter XI” after “appropriate)”.
+
+Subsec. (b)(8). Pub. L. 117–169, § 11001(b)(1)(F)(i), added par. (8).
+
 2018—Subsec. (b)(7). Pub. L. 115–271 added par. (7).
 
 2008—Subsec. (b)(3)(D). Pub. L. 110–275, § 181, inserted at end “Notwithstanding any other provision of law, information provided to the Secretary under the application of [section 1395w–27(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–27/e/1&num=0&edition=prelim) to contracts under this section under the preceding sentence—” and added cls. (i) and (ii).
@@ -95164,13 +96375,13 @@ Amendment by section 172(a)(1) of Pub. L. 110–275 applicable to plan years beg
 Amendment by section 173(a) of Pub. L. 110–275 applicable to plan years beginning on or after Jan. 1, 2009, see section 173(c) of Pub. L. 110–275, set out as a note under [section 1395w–27 of this title](./chapter-007-social-security.md#section-1395w-27).
 
 
-<a id="section-1395w-154"></a>
-## § 1395w–154. Premiums; late enrollment penalty
+<a id="section-1395w-151"></a>
+## § 1395w–151. Premiums; late enrollment penalty
 **(a) Monthly beneficiary premium**
 
 (1) **Computation**
 
-  (A) *In general* — The monthly beneficiary premium for a prescription drug plan is the base beneficiary premium computed under paragraph (2) as adjusted under this paragraph.
+  (A) *In general* — The monthly beneficiary premium for a prescription drug plan is the base beneficiary premium computed under paragraph (2) or (8) (as applicable) as adjusted under this paragraph.
 
   (B) *Adjustment to reflect difference between bid and national average bid*
 
@@ -95190,7 +96401,7 @@ Amendment by section 173(a) of Pub. L. 110–275 applicable to plan years beginn
 
   (G) *Uniform premium* — Except as provided in subparagraphs (D), (E), and (F), the monthly beneficiary premium for a prescription drug plan in a PDP region is the same for all part D eligible individuals enrolled in the plan.
 
-(2) **Base beneficiary premium** — The base beneficiary premium under this paragraph for a prescription drug plan for a month is equal to the product 11 So in original. The word “of” probably should appear after “product”. —
+(2) **Base beneficiary premium** — Subject to paragraph (8), the base beneficiary premium under this paragraph for a prescription drug plan for a month is equal to the product 11 So in original. The word “of” probably should appear after “product”. —
 
   (A) the beneficiary premium percentage (as specified in paragraph (3)); and
 
@@ -95198,7 +96409,7 @@ Amendment by section 173(a) of Pub. L. 110–275 applicable to plan years beginn
 
 (3) **Beneficiary premium percentage** — For purposes of this subsection, the beneficiary premium percentage for any year is the percentage equal to a fraction—
 
-  (A) the numerator of which is 25.5 percent; and
+  (A) the numerator of which is 25.5 percent (or, for 2030 and each subsequent year, the percent specified under paragraph (9)); and
 
   (B) the denominator of which is 100 percent minus a percentage equal to—
 
@@ -95240,11 +96451,11 @@ Amendment by section 173(a) of Pub. L. 110–275 applicable to plan years beginn
 
     (i) the quotient obtained by dividing—
 
-      (I) the applicable percentage determined under paragraph (3)(C) of [section 1395r(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395r/i&num=0&edition=prelim) (including application of paragraph (5) of such section) for the individual for the calendar year reduced by 25.5 percent; by
+      (I) the applicable percentage determined under paragraph (3)(C) of [section 1395r(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395r/i&num=0&edition=prelim) (including application of paragraph (5) of such section) for the individual for the calendar year reduced by 25.5 percent (or, for 2030 and each subsequent year, the percent specified under paragraph (9)); by
 
-      (II) 25.5 percent; and
+      (II) 25.5 percent (or, for 2030 and each subsequent year, the percent specified under paragraph (9)); and
 
-    (ii) the base beneficiary premium (as computed under paragraph (2)).
+    (ii) the base beneficiary premium (as computed under paragraph (2) or (8) (as applicable)).
 
   (C) *Modified adjusted gross income* — For purposes of this paragraph, the term “modified adjusted gross income” has the meaning given such term in subparagraph (A) of [section 1395r(i)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395r/i/4&num=0&edition=prelim), determined for the taxable year applicable under subparagraphs (B) and (C) of such section.
 
@@ -95252,7 +96463,7 @@ Amendment by section 173(a) of Pub. L. 110–275 applicable to plan years beginn
 
   (E) *Procedures to assure correct income-related increase in base beneficiary premium*
 
-    (i) *Disclosure of base beneficiary premium* — Not later than September 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the amount of the base beneficiary premium (as computed under paragraph (2)) for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year.
+    (i) *Disclosure of base beneficiary premium* — Not later than September 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the amount of the base beneficiary premium (as computed under paragraph (2) or (8) (as applicable)) for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year.
 
     (ii) *Additional disclosure* — Not later than October 15 of each year beginning with 2010, the Secretary shall disclose to the Commissioner of Social Security the following information for the purpose of carrying out the income-related increase in the base beneficiary premium under this paragraph with respect to the following year:
 
@@ -95266,6 +96477,58 @@ Amendment by section 173(a) of Pub. L. 110–275 applicable to plan years beginn
 
   (F) *Rule of construction* — The formula used to determine the monthly adjustment amount specified under subparagraph (B) shall only be used for the purpose of determining such monthly adjustment amount under such subparagraph.
 
+(8) **Premium stabilization**
+
+  (A) *In general* — The base beneficiary premium under this paragraph for a prescription drug plan for a month in 2024 through 2029 shall be computed as follows:
+
+    (i) *2024* — The base beneficiary premium for a month in 2024 shall be equal to the lesser of—
+
+      (I) the base beneficiary premium computed under paragraph (2) for a month in 2023 increased by 6 percent; or
+
+      (II) the base beneficiary premium computed under paragraph (2) for a month in 2024 that would have applied if this paragraph had not been enacted.
+
+    (ii) *2025* — The base beneficiary premium for a month in 2025 shall be equal to the lesser of—
+
+      (I) the base beneficiary premium computed under clause (i) for a month in 2024 increased by 6 percent; or
+
+      (II) the base beneficiary premium computed under paragraph (2) for a month in 2025 that would have applied if this paragraph had not been enacted.
+
+    (iii) *2026* — The base beneficiary premium for a month in 2026 shall be equal to the lesser of—
+
+      (I) the base beneficiary premium computed under clause (ii) for a month in 2025 increased by 6 percent; or
+
+      (II) the base beneficiary premium computed under paragraph (2) for a month in 2026 that would have applied if this paragraph had not been enacted.
+
+    (iv) *2027* — The base beneficiary premium for a month in 2027 shall be equal to the lesser of—
+
+      (I) the base beneficiary premium computed under clause (iii) for a month in 2026 increased by 6 percent; or
+
+      (II) the base beneficiary premium computed under paragraph (2) for a month in 2027 that would have applied if this paragraph had not been enacted.
+
+    (v) *2028* — The base beneficiary premium for a month in 2028 shall be equal to the lesser of—
+
+      (I) the base beneficiary premium computed under clause (iv) for a month in 2027 increased by 6 percent; or
+
+      (II) the base beneficiary premium computed under paragraph (2) for a month in 2028 that would have applied if this paragraph had not been enacted.
+
+    (vi) *2029* — The base beneficiary premium for a month in 2029 shall be equal to the lesser of—
+
+      (I) the base beneficiary premium computed under clause (v) for a month in 2028 increased by 6 percent; or
+
+      (II) the base beneficiary premium computed under paragraph (2) for a month in 2029 that would have applied if this paragraph had not been enacted.
+
+  (B) *Clarification regarding 2030 and subsequent years* — The base beneficiary premium for a month in 2030 or a subsequent year shall be computed under paragraph (2) without regard to this paragraph.
+
+(9) **Percent specified**
+
+  (A) *In general* — Subject to subparagraph (B), for purposes of paragraph (3)(A), the percent specified under this paragraph for 2030 and each subsequent year is the percent that the Secretary determines is necessary to ensure that the base beneficiary premium computed under paragraph (2) for a month in 2030 is equal to the lesser of—
+
+    (i) the base beneficiary premium computed under paragraph (8)(A)(vi) for a month in 2029 increased by 6 percent; or
+
+    (ii) the base beneficiary premium computed under paragraph (2) for a month in 2030 that would have applied if this paragraph had not been enacted.
+
+  (B) *Floor* — The percent specified under subparagraph (A) may not be less than 20 percent.
+
 **(b) Late enrollment penalty**
 
 (1) **In general** — Subject to the succeeding provisions of this subsection, in the case of a part D eligible individual described in paragraph (2) with respect to a continuous period of eligibility, there shall be an increase in the monthly beneficiary premium established under subsection (a) in an amount determined under paragraph (3).
@@ -95278,7 +96541,7 @@ Amendment by section 173(a) of Pub. L. 110–275 applicable to plan years beginn
 
     (i) an amount that the Secretary determines is actuarially sound for each uncovered month (as defined in subparagraph (B)) in the same continuous period of eligibility; or
 
-    (ii) 1 percent of the base beneficiary premium (computed under subsection (a)(2)) for each such uncovered month in such period.
+    (ii) 1 percent of the base beneficiary premium (computed under paragraph (2) or (8) of subsection (a) (as applicable)) for each such uncovered month in such period.
 
   (B) *Uncovered month defined* — For purposes of this subsection, the term “uncovered month” means, with respect to a part D eligible individual, any month beginning after the end of the initial enrollment period under [section 1395w–101(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–101/b/2&num=0&edition=prelim) unless the individual can demonstrate that the individual had creditable prescription drug coverage (as defined in paragraph (4)) for any portion of such month.
 
@@ -95350,6 +96613,24 @@ Amendment by section 173(a) of Pub. L. 110–275 applicable to plan years beginn
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(1)(A). Pub. L. 117–169, § 11201(d)(1)(A)(i), inserted “or (8) (as applicable)” after “paragraph (2)”.
+
+Subsec. (a)(2). Pub. L. 117–169, § 11201(d)(1)(A)(ii), substituted “Subject to paragraph (8), the base” for “The base” in introductory provisions.
+
+Subsec. (a)(3)(A). Pub. L. 117–169, § 11201(d)(2)(A), inserted “(or, for 2030 and each subsequent year, the percent specified under paragraph (9))” after “25.5 percent”.
+
+Subsec. (a)(7)(B)(i). Pub. L. 117–169, § 11201(d)(3)(C), inserted “(or, for 2030 and each subsequent year, the percent specified under paragraph (9))” after “25.5 percent” in subcls. (I) and (II).
+
+Subsec. (a)(7)(B)(ii). Pub. L. 117–169, § 11201(d)(1)(A)(iii)(I), inserted “or (8) (as applicable)” after “paragraph (2)”.
+
+Subsec. (a)(7)(E)(i). Pub. L. 117–169, § 11201(d)(1)(A)(iii)(II), inserted “or (8) (as applicable)” after “paragraph (2)”.
+
+Subsec. (a)(8). Pub. L. 117–169, § 11201(d)(1)(A)(iv), added par. (8).
+
+Subsec. (a)(9). Pub. L. 117–169, § 11201(d)(2)(B), added par. (9).
+
+Subsec. (b)(3)(A)(ii). Pub. L. 117–169, § 11201(d)(1)(B), substituted “paragraph (2) or (8) of subsection (a) (as applicable)” for “subsection (a)(2)”.
+
 2010—Subsec. (a)(1)(F), (G). Pub. L. 111–148, § 3308(b)(1), added subpar. (F), redesignated former subpar. (F) as (G), and substituted “(D), (E), and (F)” for “(D) and (E)” in subpar. (G).
 
 Subsec. (a)(7). Pub. L. 111–148, § 3308(a)(1), added par. (7).
@@ -95362,6 +96643,669 @@ Subsec. (c)(4). Pub. L. 111–148, § 3308(a)(2)(B), added par. (4).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–275, title I, § 114(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by this section [amending this section and [section 1395w–114 of this title](./chapter-007-social-security.md#section-1395w-114)] shall apply to subsidies for months beginning with January 2009.”
+
+
+<a id="section-1395w-152"></a>
+## § 1395w–152. Premium and cost-sharing subsidies for low-income individuals
+**(a) Income-related subsidies for certain individuals**
+
+(1) **Individuals with certain low incomes** — In the case of a subsidy eligible individual (as defined in paragraph (3)) who is determined to have income that is below 135 percent (or, with respect to a plan year beginning on or after January 1, 2024, 150 percent) of the poverty line applicable to a family of the size involved and who meets the resources requirement described in paragraph (3)(D) (or, with respect to a plan year beginning on or after January 1, 2024, paragraph (3)(E)) or who is covered under this paragraph under paragraph (3)(B)(i), the individual is entitled under this section to the following:
+
+  (A) *Full premium subsidy* — An income-related premium subsidy equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).
+
+  (B) *Elimination of deductible* — A reduction in the annual deductible applicable under [section 1395w–102(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/1&num=0&edition=prelim) to $0.
+
+  (C) *Continuation of coverage above the initial coverage limit* — For a year preceding 2025, the continuation of coverage from the initial coverage limit (under paragraph (3) of [section 1395w–102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b&num=0&edition=prelim)) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced cost-sharing described in subparagraph (D).
+
+  (D) *Reduction in cost-sharing below out-of-pocket threshold*
+
+    (i) *Institutionalized individuals* — In the case of an individual who is a full-benefit dual eligible individual and who is an institutionalized individual or couple (as defined in [section 1396a(q)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/q/1/B&num=0&edition=prelim)) or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under [section 1315 of this title](./chapter-007-social-security.md#section-1315) or subsection (c) or (d) of [section 1396n of this title](./chapter-007-social-security.md#section-1396n) or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under [section 1396b(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/m&num=0&edition=prelim) or under [section 1396u–2 of this title](./chapter-007-social-security.md#section-1396u-2), the elimination of any beneficiary coinsurance described in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim) (for all amounts through the total amount of expenditures at which benefits are available under [section 1395w–102(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4&num=0&edition=prelim)).
+
+    (ii) *Lowest income dual eligible individuals* — Subject to paragraph (6), in the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim) (for all amounts through the total amount of expenditures at which benefits are available under [section 1395w–102(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4&num=0&edition=prelim)) of a copayment amount that does not exceed $1 for a generic drug or a preferred drug that is a multiple source drug (as defined in [section 1396r–8(k)(7)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k/7/A/i&num=0&edition=prelim)) and $3 for any other drug, or, if less, the copayment amount applicable to an individual under clause (iii).
+
+    (iii) *Other individuals* — Subject to paragraph (6), in the case of an individual not described in clause (i) or (ii), the substitution for the beneficiary coinsurance described in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim) (for all amounts through the total amount of expenditures at which benefits are available under [section 1395w–102(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4&num=0&edition=prelim)) of a copayment amount that does not exceed the copayment amount specified under [section 1395w–102(b)(4)(A)(i)(I)(aa) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/A/i/I/aa&num=0&edition=prelim) for the drug and year involved. For plan year 2023 and subsequent plan years, the copayment amount applicable under the preceding sentence to a month’s supply of a covered insulin product (as defined in [section 1395w–102(b)(9)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/9/C&num=0&edition=prelim)) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.
+
+  (E) *Elimination of cost-sharing above annual out-of-pocket threshold* — For a year preceding 2024, the elimination of any cost-sharing imposed under [section 1395w–102(b)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/A&num=0&edition=prelim) or under [section 1395w–102(b)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/9&num=0&edition=prelim) in the case of a covered insulin product (as defined in subparagraph (C) of such section).
+
+(2) **Other low-income individuals** — With respect to a plan year beginning before January 1, 2024, in the case of a subsidy eligible individual who is not described in paragraph (1), the individual is entitled under this section to the following:
+
+  (A) *Sliding scale premium subsidy* — An income-related premium subsidy determined on a linear sliding scale ranging from 100 percent of the amount described in paragraph (1)(A) for individuals with incomes at or below 135 percent of such level to 0 percent of such amount for individuals with incomes at 150 percent of such level.
+
+  (B) *Reduction of deductible* — Subject to paragraphs (8) and (9) of [section 1395w–102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b&num=0&edition=prelim), a reduction in the annual deductible applicable under [section 1395w–102(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/1&num=0&edition=prelim) to $50.
+
+  (C) *Continuation of coverage above the initial coverage limit* — The continuation of coverage from the initial coverage limit (under paragraph (3) of [section 1395w–102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b&num=0&edition=prelim)) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced coinsurance described in subparagraph (D).
+
+  (D) *Reduction in cost-sharing below out-of-pocket threshold* — Subject to paragraph (6), the substitution for the beneficiary coinsurance described in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim) (for all amounts above the deductible under subparagraph (B) through the total amount of expenditures at which benefits are available under [section 1395w–102(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4&num=0&edition=prelim)) of coinsurance of “15 percent” instead of coinsurance of “25 percent” in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim). For plan year 2023, the amount of the coinsurance applicable under the preceding sentence to a month’s supply of a covered insulin product (as defined in [section 1395w–102(b)(9)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/9/C&num=0&edition=prelim)) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.
+
+  (E) *Reduction of cost-sharing above annual out-of-pocket threshold* — Subject to paragraph (6) of this subsection and subsection (c), the substitution for the cost-sharing imposed under [section 1395w–102(b)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/A&num=0&edition=prelim) of a copayment or coinsurance not to exceed the copayment or coinsurance amount specified under [section 1395w–102(b)(4)(A)(i)(I)(aa) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/A/i/I/aa&num=0&edition=prelim) for the drug and year involved. For plan year 2023, the amount of the copayment or coinsurance applicable under the preceding sentence to a month’s supply of a covered insulin product (as defined in [section 1395w–102(b)(9)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/9/C&num=0&edition=prelim)) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.
+
+(3) **Determination of eligibility**
+
+  (A) *Subsidy eligible individual defined* — For purposes of this part, subject to subparagraph (F), the term “subsidy eligible individual” means a part D eligible individual who—
+
+    (i) is enrolled in a prescription drug plan or MA–PD plan;
+
+    (ii) has income below 150 percent of the poverty line applicable to a family of the size involved; and
+
+    (iii) meets the resources requirement described in subparagraph (D) or (E).
+
+  (B) *Determinations*
+
+    (i) *In general* — The determination of whether a part D eligible individual residing in a State is a subsidy eligible individual and whether the individual is described in paragraph (1) shall be determined under the State plan under subchapter XIX for the State under [section 1396u–5(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/a&num=0&edition=prelim) or by the Commissioner of Social Security. There are authorized to be appropriated to the Social Security Administration such sums as may be necessary for the determination of eligibility under this subparagraph.
+
+    (ii) *Effective period* — Determinations under this subparagraph shall be effective beginning with the month in which the individual applies for a determination that the individual is a subsidy eligible individual and shall remain in effect for a period specified by the Secretary, but not to exceed 1 year.
+
+    (iii) *Redeterminations and appeals through medicaid* — Redeterminations and appeals, with respect to eligibility determinations under clause (i) made under a State plan under subchapter XIX, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
+
+    (iv) *Redeterminations and appeals through Commissioner* — With respect to eligibility determinations under clause (i) made by the Commissioner of Social Security—
+
+      (I) redeterminations shall be made at such time or times as may be provided by the Commissioner;
+
+      (II) the Commissioner shall establish procedures for appeals of such determinations that are similar to the procedures described in the third sentence of [section 1383(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1383/c/1/A&num=0&edition=prelim); and
+
+      (III) judicial review of the final decision of the Commissioner made after a hearing shall be available to the same extent, and with the same limitations, as provided in subsections (g) and (h) of [section 405 of this title](./chapter-007-social-security.md#section-405).
+
+    (v) *Treatment of medicaid beneficiaries* — Subject to subparagraph (F), the Secretary—
+
+      (I) shall provide that part D eligible individuals who are full-benefit dual eligible individuals (as defined in [section 1396u–5(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/c/6&num=0&edition=prelim)) or who are recipients of supplemental security income benefits under subchapter XVI shall be treated as subsidy eligible individuals described in paragraph (1); and
+
+      (II) may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX to be eligible for medical assistance under clause (i), (iii), or (iv) of [section 1396a(a)(10)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/E&num=0&edition=prelim) are treated as being determined to be subsidy eligible individuals described in paragraph (1).
+    Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
+
+    (vi) *Special rule for widows and widowers* — Notwithstanding the preceding provisions of this subparagraph, in the case of an individual whose spouse dies during the effective period for a determination or redetermination that has been made under this subparagraph, such effective period shall be extended through the date that is 1 year after the date on which the determination or redetermination would (but for the application of this clause) otherwise cease to be effective.
+
+  (C) *Income determinations* — For purposes of applying this section—
+
+    (i) in the case of a part D eligible individual who is not treated as a subsidy eligible individual under subparagraph (B)(v), income shall be determined in the manner described in [section 1396d(p)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/p/1/B&num=0&edition=prelim), without regard to the application of [section 1396a(r)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/r/2&num=0&edition=prelim) and except that support and maintenance furnished in kind shall not be counted as income; and
+
+    (ii) the term “poverty line” has the meaning given such term in [section 9902(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim), including any revision required by such section.
+    Nothing in clause (i) shall be construed to affect the application of [section 1396a(r)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/r/2&num=0&edition=prelim) for the determination of eligibility for medical assistance under subchapter XIX.
+
+  (D) *Resource standard applied to full low-income subsidy to be based on three times SSI resource standard* — The resources requirement of this subparagraph is that an individual’s resources (as determined under [section 1382b of this title](./chapter-007-social-security.md#section-1382b) for purposes of the supplemental security income program subject to the life insurance policy exclusion provided under subparagraph (G)) do not exceed—
+
+    (i) for 2006 three times the maximum amount of resources that an individual may have and obtain benefits under that program; and
+
+    (ii) for a subsequent year the resource limitation established under this clause for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
+    Any resource limitation established under clause (ii) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
+
+  (E) *Alternative resource standard*
+
+    (i) *In general* — The resources requirement of this subparagraph is that an individual’s resources (as determined under [section 1382b of this title](./chapter-007-social-security.md#section-1382b) for purposes of the supplemental security income program subject to the life insurance policy exclusion provided under subparagraph (G)) do not exceed—
+
+      (I) for 2006, $10,000 (or $20,000 in the case of the combined value of the individual’s assets or resources and the assets or resources of the individual’s spouse); and
+
+      (II) for a subsequent year the dollar amounts specified in this subclause (or subclause (I)) for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
+    Any dollar amount established under subclause (II) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
+
+    (ii) *Use of simplified application form and process* — The Secretary, jointly with the Commissioner of Social Security, shall—
+
+      (I) develop a model, simplified application form and process consistent with clause (iii) for the determination and verification of a part D eligible individual’s assets or resources under this subparagraph; and
+
+      (II) provide such form to States.
+
+    (iii) *Documentation and safeguards* — Under such process—
+
+      (I) the application form shall consist of an attestation under penalty of perjury regarding the level of assets or resources (or combined assets and resources in the case of a married part D eligible individual) and valuations of general classes of assets or resources;
+
+      (II) such form shall be accompanied by copies of recent statements (if any) from financial institutions in support of the application; and
+
+      (III) matters attested to in the application shall be subject to appropriate methods of verification.
+
+    (iv) *Methodology flexibility* — The Secretary may permit a State in making eligibility determinations for premium and cost-sharing subsidies under this section to use the same asset or resource methodologies that are used with respect to eligibility for medical assistance for medicare cost-sharing described in [section 1396d(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/p&num=0&edition=prelim) so long as the Secretary determines that the use of such methodologies will not result in any significant differences in the number of individuals determined to be subsidy eligible individuals.
+
+  (F) *Treatment of territorial residents* — In the case of a part D eligible individual who is not a resident of the 50 States or the District of Columbia, the individual is not eligible to be a subsidy eligible individual under this section but may be eligible for financial assistance with prescription drug expenses under [section 1396u–5(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/e&num=0&edition=prelim).
+
+  (G) *Life insurance policy exclusion* — In determining the resources of an individual (and the eligible spouse of the individual, if any) under [section 1382b of this title](./chapter-007-social-security.md#section-1382b) for purposes of subparagraphs (D) and (E) no part of the value of any life insurance policy shall be taken into account.
+
+(4) **Indexing dollar amounts**
+
+  (A) *Copayment for lowest income dual eligible individuals* — The dollar amounts applied under paragraph (1)(D)(ii)—
+
+    (i) for 2007 shall be the dollar amounts specified in such paragraph increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year; or
+
+    (ii) for a subsequent year shall be the dollar amounts specified in this clause (or clause (i)) for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
+    Any amount established under clause (i) or (ii), that is based on an increase of $1 or $3, that is not a multiple of 5 cents or 10 cents, respectively, shall be rounded to the nearest multiple of 5 cents or 10 cents, respectively.
+
+  (B) *Reduced deductible* — The dollar amount applied under paragraph (2)(B)—
+
+    (i) for 2007 shall be the dollar amount specified in such paragraph increased by the annual percentage increase described in [section 1395w–102(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/6&num=0&edition=prelim) for 2007; or
+
+    (ii) for a subsequent year shall be the dollar amount specified in this clause (or clause (i)) for the previous year increased by the annual percentage increase described in [section 1395w–102(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/6&num=0&edition=prelim) for the year involved.
+    Any amount established under clause (i) or (ii) that is not a multiple of $1 shall be rounded to the nearest multiple of $1.
+
+(5) **Waiver of de minimis premiums** — The Secretary shall, under procedures established by the Secretary, permit a prescription drug plan or an MA–PD plan to waive the monthly beneficiary premium for a subsidy eligible individual if the amount of such premium is de minimis. If such premium is waived under the plan, the Secretary shall not reassign subsidy eligible individuals enrolled in the plan to other plans based on the fact that the monthly beneficiary premium under the plan was greater than the low-income benchmark premium amount.
+
+(6) **No application of cost-sharing or deductible for adult vaccines recommended by the Advisory Committee on Immunization Practices** — For plan years beginning on or after January 1, 2023, with respect to an adult vaccine recommended by the Advisory Committee on Immunization Practices (as defined in [section 1395w–102(b)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/8/B&num=0&edition=prelim))—
+
+  (A) the deductible under [section 1395w–102(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/1&num=0&edition=prelim) shall not apply; and
+
+  (B) there shall be no cost-sharing under this section with respect to such vaccine.
+
+**(b) Premium subsidy amount**
+
+(1) **In general** — The premium subsidy amount described in this subsection for a subsidy eligible individual residing in a PDP region and enrolled in a prescription drug plan or MA–PD plan is the low-income benchmark premium amount (as defined in paragraph (2)) for the PDP region in which the individual resides or, if greater, the amount specified in paragraph (3).
+
+(2) **Low-income benchmark premium amount defined**
+
+  (A) *In general* — For purposes of this subsection, the term “low-income benchmark premium amount” means, with respect to a PDP region in which—
+
+    (i) all prescription drug plans are offered by the same PDP sponsor, the weighted average of the amounts described in subparagraph (B)(i) for such plans; or
+
+    (ii) there are prescription drug plans offered by more than one PDP sponsor, the weighted average of amounts described in subparagraph (B) for prescription drug plans and MA–PD plans described in [section 1395w–21(a)(2)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–21/a/2/A/i&num=0&edition=prelim) offered in such region.
+
+  (B) *Premium amounts described* — The premium amounts described in this subparagraph are, in the case of—
+
+    (i) a prescription drug plan that is a basic prescription drug plan, the monthly beneficiary premium for such plan;
+
+    (ii) a prescription drug plan that provides alternative prescription drug coverage the actuarial value of which is greater than that of standard prescription drug coverage, the portion of the monthly beneficiary premium that is attributable to basic prescription drug coverage; and
+
+    (iii) an MA–PD plan, the portion of the MA monthly prescription drug beneficiary premium that is attributable to basic prescription drug benefits (described in section 1395w–22(a)(6)(B)(ii) 11 So in original. [Section 1395w–22(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–22/a/6&num=0&edition=prelim) does not contain a subpar. (B). of this title) and determined before the application of the monthly rebate computed under [section 1395w–24(b)(1)(C)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/b/1/C/i&num=0&edition=prelim) for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(o) of this title for that plan and year involved.
+    The premium amounts described in this subparagraph do not include any amounts attributable to late enrollment penalties under [section 1395w–113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/b&num=0&edition=prelim).
+
+(3) **Access to 0 premium plan** — In no case shall the premium subsidy amount under this subsection for a PDP region be less than the lowest monthly beneficiary premium for a prescription drug plan that offers basic prescription drug coverage in the region.
+
+**(c) Administration of subsidy program**
+
+(1) **In general** — The Secretary shall provide a process whereby, in the case of a part D eligible individual who is determined to be a subsidy eligible individual and who is enrolled in a prescription drug plan or is enrolled in an MA–PD plan—
+
+  (A) the Secretary provides for a notification of the PDP sponsor or the MA organization offering the plan involved that the individual is eligible for a subsidy and the amount of the subsidy under subsection (a);
+
+  (B) the sponsor or organization involved reduces the premiums or cost-sharing otherwise imposed by the amount of the applicable subsidy and submits to the Secretary information on the amount of such reduction;
+
+  (C) the Secretary periodically and on a timely basis reimburses the sponsor or organization for the amount of such reductions; and
+
+  (D) the Secretary ensures the confidentiality of individually identifiable information.
+  In applying subparagraph (C), the Secretary shall compute reductions based upon imposition under subsections (a)(1)(D) and (a)(2)(E) of unreduced copayment amounts applied under such subsections.
+
+(2) **Use of capitated form of payment** — The reimbursement under this section with respect to cost-sharing subsidies may be computed on a capitated basis, taking into account the actuarial value of the subsidies and with appropriate adjustments to reflect differences in the risks actually involved.
+
+**(d) Facilitation of reassignments** Beginning not later than January 1, 2011, the Secretary shall, in the case of a subsidy eligible individual who is enrolled in one prescription drug plan and is subsequently reassigned by the Secretary to a new prescription drug plan, provide the individual, within 30 days of such reassignment, with—
+
+(1) information on formulary differences between the individual’s former plan and the plan to which the individual is reassigned with respect to the individual’s drug regimens; and
+
+(2) a description of the individual’s right to request a coverage determination, exception, or reconsideration under [section 1395w–104(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/g&num=0&edition=prelim), bring an appeal under [section 1395w–104(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/h&num=0&edition=prelim), or resolve a grievance under [section 1395w–104(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/f&num=0&edition=prelim).
+
+**(e) Limited income newly eligible transition program**
+
+(1) **In general** — Beginning not later than January 1, 2024, the Secretary shall carry out a program to provide transitional coverage for covered part D drugs for LI NET eligible individuals in accordance with this subsection.
+
+(2) **LI NET eligible individual defined** — For purposes of this subsection, the term “LI NET eligible individual” means a part D eligible individual who—
+
+  (A) meets the requirements of clauses (ii) and (iii) of subsection (a)(3)(A); and
+
+  (B) has not yet enrolled in a prescription drug plan or an MA–PD plan, or, who has so enrolled, but with respect to whom coverage under such plan has not yet taken effect.
+
+(3) **Transitional coverage** — For purposes of this subsection, the term “transitional coverage” means with respect to an LI NET eligible individual—
+
+  (A) immediate access to covered part D drugs at the point of sale during the period that begins on the first day of the month such individual is determined to meet the requirements of clauses (ii) and (iii) of subsection (a)(3)(A) and ends on the date that coverage under a prescription drug plan or MA–PD plan takes effect with respect to such individual; and
+
+  (B) in the case of an LI NET eligible individual who is a full-benefit dual eligible individual (as defined in [section 1396u–5(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/c/6&num=0&edition=prelim)) or a recipient of supplemental security income benefits under subchapter XVI, retroactive coverage (in the form of reimbursement of the amounts that would have been paid under this part had such individual been enrolled in a prescription drug plan or MA–PD plan) of covered part D drugs purchased by such individual during the period that begins on the date that is the later of—
+
+    (i) the date that such individual was first eligible for a low-income subsidy under this part; or
+
+    (ii) the date that is 36 months prior to the date such individual enrolls in a prescription drug plan or MA–PD plan,
+    and ends on the date that coverage under such plan takes effect.
+
+(4) **Program administration**
+
+  (A) *Point of contact* — The Secretary shall, as determined appropriate by the Secretary, administer the program under this subsection through a contract with a single program administrator.
+
+  (B) *Benefit design* — The Secretary shall ensure that the transitional coverage provided to LI NET eligible individuals under this subsection—
+
+    (i) provides access to all covered part D drugs under an open formulary;
+
+    (ii) permits all pharmacies determined by the Secretary to be in good standing to process claims under the program;
+
+    (iii) is consistent with such requirements as the Secretary considers necessary to improve patient safety and ensure appropriate dispensing of medication; and
+
+    (iv) meets such other requirements as the Secretary may establish.
+
+(5) **Relationship to other provisions of this subchapter; waiver authority**
+
+  (A) *In general* — The following provisions shall not apply with respect to the program under this subsection:
+
+    (i) Paragraphs (1) and (3)(B) of [section 1395w–104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/a&num=0&edition=prelim) (relating to dissemination of general information; availability of information on changes in formulary through the internet).
+
+    (ii) Subparagraphs (A) and (B) of [section 1395w–104(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/b/3&num=0&edition=prelim) (relating to requirements on development and application of formularies; formulary development).
+
+    (iii) Paragraphs (1)(C) and (2) of [section 1395w–104(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/c&num=0&edition=prelim) (relating to medication therapy management program).
+
+  (B) *Waiver authority* — The Secretary may waive such other requirements of subchapter XI and this subchapter as may be necessary to carry out the purposes of the program established under this subsection.
+
+(6) **Contracting authority** — The authority vested in the Secretary by this subsection may be performed without regard to such provisions of law or regulations relating to the making, performance, amendment, or modification of contracts of the United States as the Secretary may determine to be inconsistent with the furtherance of the purpose of this subchapter.
+
+**(f) Relation to medicaid program** For special provisions under the medicaid program relating to medicare prescription drug benefits, see [section 1396u–5 of this title](./chapter-007-social-security.md#section-1396u-5).
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–169, § 11404(1), substituted “certain individuals” for “individuals with income up to 150 percent of poverty line” in heading.
+
+Subsec. (a)(1). Pub. L. 117–169, § 11404(2), substituted “Individuals with certain low incomes” for “Individuals with income below 135 percent of poverty line” in heading and, in introductory provisions, inserted “(or, with respect to a plan year beginning on or after January 1, 2024, 150 percent)” after “135 percent” and “(or, with respect to a plan year beginning on or after January 1, 2024, paragraph (3)(E))” after “the resources requirement described in paragraph (3)(D)”.
+
+Subsec. (a)(1)(C). Pub. L. 117–169, § 11201(e)(3)(A)(i), substituted “For a year preceding 2025, the continuation” for “The continuation”.
+
+Subsec. (a)(1)(D)(ii). Pub. L. 117–169, § 11401(b)(1), substituted “Subject to paragraph (6), in the case” for “In the case”.
+
+Subsec. (a)(1)(D)(iii). Pub. L. 117–169, § 11406(b)(1)(A), inserted at end “For plan year 2023 and subsequent plan years, the copayment amount applicable under the preceding sentence to a month’s supply of a covered insulin product (as defined in [section 1395w–102(b)(9)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/9/C&num=0&edition=prelim)) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.”
+
+Pub. L. 117–169, § 11401(b)(1), substituted “Subject to paragraph (6), in the case” for “In the case”.
+
+Pub. L. 117–169, § 11201(e)(3)(A)(ii), substituted “1395w–102(b)(4)(A)(i)(I)(aa)” for “1395w–102(b)(4)(A)(i)(I)”.
+
+Subsec. (a)(1)(E). Pub. L. 117–169, § 11406(b)(1)(B), inserted before period at end “or under [section 1395w–102(b)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/9&num=0&edition=prelim) in the case of a covered insulin product (as defined in subparagraph (C) of such section)”.
+
+Pub. L. 117–169, § 11201(e)(3)(A)(iii), substituted “For a year preceding 2024, the elimination” for “The elimination”.
+
+Subsec. (a)(2). Pub. L. 117–169, § 11404(3), substituted “Other low-income individuals” for “Other individuals with income below 150 percent of poverty line” in heading and “With respect to a plan year beginning before January 1, 2024, in the case of a subsidy” for “In the case of a subsidy” in introductory provisions.
+
+Subsec. (a)(2)(B). Pub. L. 117–169, § 11406(b)(2)(A), substituted “paragraphs (8) and (9) of section 1395w–102(b)” for “section 1395w–102(b)(8)”.
+
+Pub. L. 117–169, § 11401(b)(2)(A), substituted “Subject to [section 1395w–102(b)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/8&num=0&edition=prelim), a reduction” for “A reduction”.
+
+Subsec. (a)(2)(D). Pub. L. 117–169, § 11406(b)(2)(B), inserted at end “For plan year 2023, the amount of the coinsurance applicable under the preceding sentence to a month’s supply of a covered insulin product (as defined in [section 1395w–102(b)(9)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/9/C&num=0&edition=prelim)) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.”
+
+Pub. L. 117–169, § 11401(b)(2)(B), substituted “Subject to paragraph (6), the substitution” for “The substitution”.
+
+Subsec. (a)(2)(E). Pub. L. 117–169, § 11406(b)(2)(C), inserted at end “For plan year 2023, the amount of the copayment or coinsurance applicable under the preceding sentence to a month’s supply of a covered insulin product (as defined in [section 1395w–102(b)(9)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/9/C&num=0&edition=prelim)) dispensed to the individual may not exceed the applicable copayment amount for the product under the prescription drug plan or MA–PD plan in which the individual is enrolled.”
+
+Pub. L. 117–169, § 11401(b)(2)(C), substituted “paragraph (6) of this subsection and subsection (c)” for “subsection (c)”.
+
+Pub. L. 117–169, § 11201(e)(3)(B), substituted “1395w–102(b)(4)(A)(i)(I)(aa)” for “1395w–102(b)(4)(A)(i)(I)”.
+
+Subsec. (a)(6). Pub. L. 117–169, § 11401(b)(3), added par. (6).
+
+2020—Subsecs. (e), (f). Pub. L. 116–260 added subsec. (e) and redesignated former subsec. (e) as (f).
+
+2010—Subsec. (a)(1)(D)(i). Pub. L. 111–148, § 3309, inserted “or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under [section 1315 of this title](./chapter-007-social-security.md#section-1315) or subsection (c) or (d) of [section 1396n of this title](./chapter-007-social-security.md#section-1396n) or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under [section 1396b(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/m&num=0&edition=prelim) or under [section 1396u–2 of this title](./chapter-007-social-security.md#section-1396u-2)” after “1396a(q)(1)(B) of this title)”.
+
+Subsec. (a)(3)(B)(vi). Pub. L. 111–148, § 3304(a), added cl. (vi).
+
+Subsec. (a)(5). Pub. L. 111–148, § 3303(a), added par. (5).
+
+Subsec. (b)(2)(B)(iii). Pub. L. 111–152 substituted “and determined before the application of the monthly rebate computed under [section 1395w–24(b)(1)(C)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/b/1/C/i&num=0&edition=prelim) for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(o) of this title for that plan and year involved” for “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under [section 1395w–24(b)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/b/1/C&num=0&edition=prelim) or bonus payment under [section 1395w–23(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–23/n&num=0&edition=prelim)”.
+
+Pub. L. 111–148, § 3302(a), inserted “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1854(b)(1)(C) or bonus payment under [section 1395w–23(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–23/n&num=0&edition=prelim)” before period at end.
+
+Subsecs. (d), (e). Pub. L. 111–148, § 3305, added subsec. (d) and redesignated former subsec. (d) as (e).
+
+2008—Subsec. (a)(1)(A). Pub. L. 110–275, § 114(a)(2), substituted “equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).” for “equal to—
+
+“(i) 100 percent of the amount described in subsection (b)(1) of this section, but not to exceed the premium amount specified in subsection (b)(2)(B) of this section; plus
+
+“(ii) 80 percent of any late enrollment penalties imposed under [section 1395w–113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/b&num=0&edition=prelim) for the first 60 months in which such penalties are imposed for that individual, and 100 percent of any such penalties for any subsequent month.”
+
+Subsec. (a)(3)(B)(iv)(III). Pub. L. 110–275, § 117(a), added subcl. (III).
+
+Subsec. (a)(3)(C)(i). Pub. L. 110–275, § 116(a)(1), inserted “and except that support and maintenance furnished in kind shall not be counted as income” after “[section 1396a(r)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/r/2&num=0&edition=prelim)”.
+
+Subsec. (a)(3)(D), (E)(i). Pub. L. 110–275, § 116(a)(2), (3), inserted “subject to the life insurance policy exclusion provided under subparagraph (G)” after “program” in introductory provisions.
+
+Subsec. (a)(3)(G). Pub. L. 110–275, § 116(a)(4), added subpar. (G).
+
+#### Effective Date of 2010 Amendment
+Pub. L. 111–148, title III, § 3302(b), Mar. 23, 2010, 124 Stat. 468, provided that: “The amendment made by subsection (a) [amending this section] shall apply to premiums for months beginning on or after January 1, 2011.”
+
+Amendment by section 3303(a) of Pub. L. 111–148 applicable to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011, see section 3303(c) of Pub. L. 111–148, set out as a note under [section 1395w–101 of this title](./chapter-007-social-security.md#section-1395w-101).
+
+Pub. L. 111–148, title III, § 3304(b), Mar. 23, 2010, 124 Stat. 470, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2011.”
+
+#### Effective Date of 2008 Amendment
+Amendment by section 114(a)(2) of Pub. L. 110–275 applicable to subsidies for months beginning with Jan. 2009, see section 114(b) of Pub. L. 110–275, set out as a note under [section 1395w–113 of this title](./chapter-007-social-security.md#section-1395w-113).
+
+Pub. L. 110–275, title I, § 116(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by this section [amending this section] shall take effect with respect to applications filed on or after January 1, 2010.”
+
+Pub. L. 110–275, title I, § 117(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 101 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 [Pub. L. 108–173].”
+
+#### Construction of 2022 Amendment
+Nothing in amendment by section 11401(b) of Pub. L. 117–169 to be construed as limiting coverage under this part for vaccines that are not recommended by the Advisory Committee on Immunization Practices, see section 11401(d) of Pub. L. 117–169, set out as a note under [section 1395w–102 of this title](./chapter-007-social-security.md#section-1395w-102).
+
+#### GAO Study Regarding Impact of Assets Test for Subsidy Eligible Individuals
+Pub. L. 108–173, title I, § 107(e), Dec. 8, 2003, 117 Stat. 2171, provided that: “(1) Study.—The Comptroller General of the United States shall conduct a study to determine the extent to which drug utilization and access to covered part D drugs under part D of title XVIII of the Social Security Act [[42 U.S.C. 1395w–101](./chapter-007-social-security.md#section-1395w-101) et seq.] by subsidy eligible individuals differs from such utilization and access for individuals who would qualify as such subsidy eligible individuals but for the application of section 1860D–14(a)(3)(A)(iii) of such Act [[42 U.S.C. 1395w–114(a)(3)(A)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114/a/3/A/iii&num=0&edition=prelim)]. “(2) Report.—Not later than September 30, 2007, the Comptroller General shall submit a report to Congress on the study conducted under paragraph (1) that includes such recommendations for legislation as the Comptroller General determines are appropriate.”
+
+
+<a id="section-1395w-153"></a>
+## § 1395w–153. Medicare coverage gap discount program
+**(a) Establishment** Subject to subsection (h), the Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the “program”) by not later than January 1, 2011. Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish a model agreement for use under the program by not later than 180 days after March 23, 2010, in consultation with manufacturers, and allow for comment on such model agreement.
+
+**(b) Terms of agreement**
+
+(1) **In general**
+
+  (A) *Agreement* — An agreement under this section shall require the manufacturer to provide applicable beneficiaries access to discounted prices for applicable drugs of the manufacturer.
+
+  (B) *Provision of discounted prices at the point-of-sale* — Except as provided in subsection (c)(1)(A)(iii), such discounted prices shall be provided to the applicable beneficiary at the pharmacy or by the mail order service at the point-of-sale of an applicable drug.
+
+  (C) *Timing of agreement*
+
+    (i) *Special rule for 2011* — In order for an agreement with a manufacturer to be in effect under this section with respect to the period beginning on January 1, 2011, and ending on December 31, 2011, the manufacturer shall enter into such agreement not later than not later than 11 So in original. Second “not later than” probably should not appear. 30 days after the date of the establishment of a model agreement under subsection (a).
+
+    (ii) *2012 and subsequent years* — In order for an agreement with a manufacturer to be in effect under this section with respect to plan year 2012 or a subsequent plan year, the manufacturer shall enter into such agreement (or such agreement shall be renewed under paragraph (4)(A)) not later than January 30 of the preceding year.
+
+(2) **Provision of appropriate data** — Each manufacturer with an agreement in effect under this section shall collect and have available appropriate data, as determined by the Secretary, to ensure that it can demonstrate to the Secretary compliance with the requirements under the program.
+
+(3) **Compliance with requirements for administration of program** — Each manufacturer with an agreement in effect under this section shall comply with requirements imposed by the Secretary or a third party with a contract under subsection (d)(3), as applicable, for purposes of administering the program, including any determination under clause (i) of subsection (c)(1)(A) or procedures established under such subsection (c)(1)(A).
+
+(4) **Length of agreement**
+
+  (A) *In general* — An agreement under this section shall be effective for an initial period of not less than 18 months and shall be automatically renewed for a period of not less than 1 year unless terminated under subparagraph (B).
+
+  (B) *Termination*
+
+    (i) *By the Secretary* — The Secretary may provide for termination of an agreement under this section for a knowing and willful violation of the requirements of the agreement or other good cause shown. Such termination shall not be effective earlier than 30 days after the date of notice to the manufacturer of such termination. The Secretary shall provide, upon request, a manufacturer with a hearing concerning such a termination, and such hearing shall take place prior to the effective date of the termination with sufficient time for such effective date to be repealed if the Secretary determines appropriate.
+
+    (ii) *By a manufacturer* — A manufacturer may terminate an agreement under this section for any reason. Any such termination shall be effective, with respect to a plan year—
+
+      (I) if the termination occurs before January 30 of a plan year, as of the day after the end of the plan year; and
+
+      (II) if the termination occurs on or after January 30 of a plan year, as of the day after the end of the succeeding plan year.
+
+    (iii) *Effectiveness of termination* — Any termination under this subparagraph shall not affect discounts for applicable drugs of the manufacturer that are due under the agreement before the effective date of its termination.
+
+    (iv) *Notice to third party* — The Secretary shall provide notice of such termination to a third party with a contract under subsection (d)(3) within not less than 30 days before the effective date of such termination.
+
+**(c) Duties described and special rule for supplemental benefits**
+
+(1) **Duties described** — The duties described in this subsection are the following:
+
+  (A) *Administration of program* — Administering the program, including—
+
+    (i) the determination of the amount of the discounted price of an applicable drug of a manufacturer;
+
+    (ii) except as provided in clause (iii), the establishment of procedures under which discounted prices are provided to applicable beneficiaries at pharmacies or by mail order service at the point-of-sale of an applicable drug;
+
+    (iii) in the case where, during the period beginning on January 1, 2011, and ending on December 31, 2011, it is not practicable to provide such discounted prices at the point-of-sale (as described in clause (ii)), the establishment of procedures to provide such discounted prices as soon as practicable after the point-of-sale;
+
+    (iv) the establishment of procedures to ensure that, not later than the applicable number of calendar days after the dispensing of an applicable drug by a pharmacy or mail order service, the pharmacy or mail order service is reimbursed for an amount equal to the difference between—
+
+      (I) the negotiated price of the applicable drug; and
+
+      (II) the discounted price of the applicable drug;
+
+    (v) the establishment of procedures to ensure that the discounted price for an applicable drug under this section is applied before any coverage or financial assistance under other health benefit plans or programs that provide coverage or financial assistance for the purchase or provision of prescription drug coverage on behalf of applicable beneficiaries as the Secretary may specify;
+
+    (vi) the establishment of procedures to implement the special rule for supplemental benefits under paragraph (2); and
+
+    (vii) providing a reasonable dispute resolution mechanism to resolve disagreements between manufacturers, applicable beneficiaries, and the third party with a contract under subsection (d)(3).
+
+  (B) *Monitoring compliance*
+
+    (i) *In general* — The Secretary shall monitor compliance by a manufacturer with the terms of an agreement under this section.
+
+    (ii) *Notification* — If a third party with a contract under subsection (d)(3) determines that the manufacturer is not in compliance with such agreement, the third party shall notify the Secretary of such noncompliance for appropriate enforcement under subsection (e).
+
+  (C) *Collection of data from prescription drug plans and MA–PD plans* — The Secretary may collect appropriate data from prescription drug plans and MA–PD plans in a timeframe that allows for discounted prices to be provided for applicable drugs under this section.
+
+(2) **Special rule for supplemental benefits** — For plan year 2011 and each subsequent plan year, in the case where an applicable beneficiary has supplemental benefits with respect to applicable drugs under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in, the applicable beneficiary shall not be provided a discounted price for an applicable drug under this section until after such supplemental benefits have been applied with respect to the applicable drug.
+
+**(d) Administration**
+
+(1) **In general** — Subject to paragraph (2), the Secretary shall provide for the implementation of this section, including the performance of the duties described in subsection (c)(1).
+
+(2) **Limitation**
+
+  (A) *In general* — Subject to subparagraph (B), in providing for such implementation, the Secretary shall not receive or distribute any funds of a manufacturer under the program.
+
+  (B) *Exception* — The limitation under subparagraph (A) shall not apply to the Secretary with respect to drugs dispensed during the period beginning on January 1, 2011, and ending on December 31, 2011, but only if the Secretary determines that the exception to such limitation under this subparagraph is necessary in order for the Secretary to begin implementation of this section and provide applicable beneficiaries timely access to discounted prices during such period.
+
+(3) **Contract with third parties** — The Secretary shall enter into a contract with 1 or more third parties to administer the requirements established by the Secretary in order to carry out this section. At a minimum, the contract with a third party under the preceding sentence shall require that the third party—
+
+  (A) receive and transmit information between the Secretary, manufacturers, and other individuals or entities the Secretary determines appropriate;
+
+  (B) receive, distribute, or facilitate the distribution of funds of manufacturers to appropriate individuals or entities in order to meet the obligations of manufacturers under agreements under this section;
+
+  (C) provide adequate and timely information to manufacturers, consistent with the agreement with the manufacturer under this section, as necessary for the manufacturer to fulfill its obligations under this section; and
+
+  (D) permit manufacturers to conduct periodic audits, directly or through contracts, of the data and information used by the third party to determine discounts for applicable drugs of the manufacturer under the program.
+
+(4) **Performance requirements** — The Secretary shall establish performance requirements for a third party with a contract under paragraph (3) and safeguards to protect the independence and integrity of the activities carried out by the third party under the program under this section.
+
+(5) **Implementation** — The Secretary may implement the program under this section by program instruction or otherwise.
+
+(6) **Administration** — Chapter 35 of title 44 shall not apply to the program under this section.
+
+**(e) Enforcement**
+
+(1) **Audits** — Each manufacturer with an agreement in effect under this section shall be subject to periodic audit by the Secretary.
+
+(2) **Civil money penalty**
+
+  (A) *In general* — The Secretary shall impose a civil money penalty on a manufacturer that fails to provide applicable beneficiaries discounts for applicable drugs of the manufacturer in accordance with such agreement for each such failure in an amount the Secretary determines is commensurate with the sum of—
+
+    (i) the amount that the manufacturer would have paid with respect to such discounts under the agreement, which will then be used to pay the discounts which the manufacturer had failed to provide; and
+
+    (ii) 25 percent of such amount.
+
+  (B) *Application* — The provisions of [section 1320a–7a of this title](./chapter-007-social-security.md#section-1320a-7a) (other than subsections (a) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7a/a&num=0&edition=prelim).
+
+**(f) Clarification regarding availability of other covered part D drugs** Nothing in this section shall prevent an applicable beneficiary from purchasing a covered part D drug that is not an applicable drug (including a generic drug or a drug that is not on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in).
+
+**(g) Definitions** In this section:
+
+(1) **Applicable beneficiary** — The term “applicable beneficiary” means an individual who, on the date of dispensing a covered part D drug—
+
+  (A) is enrolled in a prescription drug plan or an MA–PD plan;
+
+  (B) is not enrolled in a qualified retiree prescription drug plan;
+
+  (C) is not entitled to an income-related subsidy under [section 1395w–114(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114/a&num=0&edition=prelim); and
+
+  (D) who—
+
+    (i) has reached or exceeded the initial coverage limit under [section 1395w–102(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/3&num=0&edition=prelim) during the year; and
+
+    (ii) has not incurred costs for covered part D drugs in the year equal to the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim).
+
+(2) **Applicable drug** — The term “applicable drug” means, with respect to an applicable beneficiary, a covered part D drug—
+
+  (A) approved under a new drug application under [section 355(b) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b&num=0&edition=prelim) or, in the case of a biologic product, licensed under [section 262 of this title](./chapter-6a-public-health-service.md#section-262) (other than, with respect to a plan year before 2019, a product licensed under subsection (k) of such section 262); and
+
+  (B)
+
+    (i) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan uses a formulary, which is on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in;
+
+    (ii) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan does not use a formulary, for which benefits are available under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in; or
+
+    (iii) is provided through an exception or appeal.
+
+(3) **Applicable number of calendar days** — The term “applicable number of calendar days” means—
+
+  (A) with respect to claims for reimbursement submitted electronically, 14 days; and
+
+  (B) with respect to claims for reimbursement submitted otherwise, 30 days.
+
+(4) **Discounted price**
+
+  (A) *In general* — The term “discounted price” means 50 percent (or, with respect to a plan year after plan year 2018, 30 percent) of the negotiated price of the applicable drug of a manufacturer.
+
+  (B) *Clarification* — Nothing in this section shall be construed as affecting the responsibility of an applicable beneficiary for payment of a dispensing fee for an applicable drug.
+
+  (C) *Special case for certain claims* — In the case where the entire amount of the negotiated price of an individual claim for an applicable drug with respect to an applicable beneficiary does not fall at or above the initial coverage limit under [section 1395w–102(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/3&num=0&edition=prelim) and below the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim) for the year, the manufacturer of the applicable drug shall provide the discounted price under this section on only the portion of the negotiated price of the applicable drug that falls at or above such initial coverage limit and below such annual out-of-pocket threshold.
+
+(5) **Manufacturer** — The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
+
+(6) **Negotiated price** — The term “negotiated price” has the meaning given such term in section 423.100 of title 42, Code of Federal Regulations (as in effect on March 23, 2010), except that such negotiated price shall not include any dispensing fee for the applicable drug.
+
+(7) **Qualified retiree prescription drug plan** — The term “qualified retiree prescription drug plan” has the meaning given such term in [section 1395w–132(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–132/a/2&num=0&edition=prelim).
+
+**(h) Sunset of program**
+
+(1) **In general** — The program shall not apply with respect to applicable drugs dispensed on or after January 1, 2025, and, subject to paragraph (2), agreements under this section shall be terminated as of such date.
+
+(2) **Continued application for applicable drugs dispensed prior to sunset** — The provisions of this section (including all responsibilities and duties) shall continue to apply on and after January 1, 2025, with respect to applicable drugs dispensed prior to such date.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–169, § 11201(c)(2)(A), substituted “Subject to subsection (h), the Secretary” for “The Secretary”.
+
+Subsec. (h). Pub. L. 117–169, § 11201(c)(2)(B), added subsec. (h).
+
+2018—Subsec. (g)(2)(A). Pub. L. 115–123, § 53113, inserted “, with respect to a plan year before 2019,” after “other than”.
+
+Subsec. (g)(4)(A). Pub. L. 115–123, § 53116(b), inserted “(or, with respect to a plan year after plan year 2018, 30 percent)” after “50 percent”.
+
+2010—Subsec. (a). Pub. L. 111–152, § 1101(b)(2)(A), substituted “January 1, 2011” for “July 1, 2010” and “180 days after March 23, 2010” for “April 1, 2010”.
+
+Subsec. (b)(1)(C)(i). Pub. L. 111–152, § 1101(b)(2)(B)(i), which directed the amendment of subpar. (C) by striking out “2010 and” in the heading, was executed by striking “2010 and” before “2011” in cl. (i) heading to reflect the probable intent of Congress.
+
+Pub. L. 111–152, § 1101(b)(2)(B)(ii), (iii), substituted “January 1, 2011” for “July 1, 2010” and “not later than 30 days after the date of the establishment of a model agreement under subsection (a)” for “May 1, 2010”.
+
+Subsec. (c)(1)(A)(iii). Pub. L. 111–152, § 1101(b)(2)(C)(i), substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2011”.
+
+Subsec. (c)(2). Pub. L. 111–152, § 1101(b)(2)(C)(ii), substituted “2011” for “2010”.
+
+Subsec. (d)(2)(B). Pub. L. 111–152, § 1101(b)(2)(D), substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2010”.
+
+Subsec. (g)(1). Pub. L. 111–152, § 1101(b)(2)(E)(i), substituted “a covered part D drug” for “an applicable drug” in introductory provisions.
+
+Subsec. (g)(1)(C) to (E). Pub. L. 111–152, § 1101(b)(2)(E)(ii)–(iv), inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “is not subject to a reduction in premium subsidy under [section 1395r(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395r/i&num=0&edition=prelim); and”.
+
+
+<a id="section-1395w-154"></a>
+## § 1395w–154. Manufacturer rebate for certain drugs with prices increasing faster than inflation
+**(a) Requirements**
+
+(1) **Secretarial provision of information** — Not later than 9 months after the end of each applicable period (as defined in subsection (g)(7)), subject to paragraph (3), the Secretary shall, for each part D rebatable drug, report to each manufacturer of such part D rebatable drug the following for such period:
+
+  (A) The amount (if any) of the excess annual manufacturer price increase described in subsection (b)(1)(A)(ii) for each dosage form and strength with respect to such drug and period.
+
+  (B) The rebate amount specified under subsection (b) for each dosage form and strength with respect to such drug and period.
+
+(2) **Manufacturer requirements** — For each applicable period, the manufacturer of a part D rebatable drug, for each dosage form and strength with respect to such drug, not later than 30 days after the date of receipt from the Secretary of the information described in paragraph (1) for such period, shall provide to the Secretary a rebate that is equal to the amount specified in subsection (b) for such dosage form and strength with respect to such drug for such period.
+
+(3) **Transition rule for reporting** — The Secretary may, for each rebatable covered part D drug, delay the timeframe for reporting the information and rebate amount described in subparagraphs (A) and (B) of such paragraph for the applicable periods beginning October 1, 2022, and October 1, 2023, until not later than December 31, 2025.
+
+**(b) Rebate amount**
+
+(1) **In general**
+
+  (A) *Calculation* — For purposes of this section, the amount specified in this subsection for a dosage form and strength with respect to a part D rebatable drug and applicable period is, subject to subparagraph (C), paragraph (5)(B), and paragraph (6), the estimated amount equal to the product of—
+
+    (i) subject to subparagraph (B) of this paragraph, the total number of units of such dosage form and strength for each rebatable covered part D drug dispensed under this part during the applicable period; and
+
+    (ii) the amount (if any) by which—
+
+      (I) the annual manufacturer price (as determined in paragraph (2)) paid for such dosage form and strength with respect to such part D rebatable drug for the period; exceeds
+
+      (II) the inflation-adjusted payment amount determined under paragraph (3) for such dosage form and strength with respect to such part D rebatable drug for the period.
+
+  (B) *Excluded units* — For purposes of subparagraph (A)(i), beginning with plan year 2026, the Secretary shall exclude from the total number of units for a dosage form and strength with respect to a part D rebatable drug, with respect to an applicable period, units of each dosage form and strength of such part D rebatable drug for which the manufacturer provides a discount under the program under [section 256b of this title](./chapter-6a-public-health-service.md#section-256b).
+
+  (C) *Reduction or waiver for shortages and severe supply chain disruptions* — The Secretary shall reduce or waive the amount under subparagraph (A) with respect to a part D rebatable drug and an applicable period—
+
+    (i) in the case of a part D rebatable drug that is described as currently in shortage on the shortage list in effect under [section 356e of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section356e&num=0&edition=prelim) at any point during the applicable period;
+
+    (ii) in the case of a generic part D rebatable drug (described in subsection (g)(1)(C)(ii)) or a biosimilar (defined as a biological product licensed under [section 262(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262/k&num=0&edition=prelim)), when the Secretary determines there is a severe supply chain disruption during the applicable period, such as that caused by a natural disaster or other unique or unexpected event; and
+
+    (iii) in the case of a generic Part 11 So in original. Probably should not be capitalized. D rebatable drug (as so described), if the Secretary determines that without such reduction or waiver, the drug is likely to be described as in shortage on such shortage list during a subsequent applicable period.
+
+(2) **Determination of annual manufacturer price** — The annual manufacturer price determined under this paragraph for a dosage form and strength, with respect to a part D rebatable drug and an applicable period, is the sum of the products of—
+
+  (A) the average manufacturer price (as defined in subsection (g)(6)) of such dosage form and strength, as calculated for a unit of such drug, with respect to each of the calendar quarters of such period; and
+
+  (B) the ratio of—
+
+    (i) the total number of units of such dosage form and strength reported under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8) with respect to each such calendar quarter of such period; to
+
+    (ii) the total number of units of such dosage form and strength reported under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8) with respect to such period, as determined by the Secretary.
+
+(3) **Determination of inflation-adjusted payment amount** — The inflation-adjusted payment amount determined under this paragraph for a dosage form and strength with respect to a part D rebatable drug for an applicable period, subject to paragraph (5), is—
+
+  (A) the benchmark period manufacturer price determined under paragraph (4) for such dosage form and strength with respect to such drug and period; increased by
+
+  (B) the percentage by which the applicable period CPI–U (as defined in subsection (g)(5)) for the period exceeds the benchmark period CPI–U (as defined in subsection (g)(4)).
+
+(4) **Determination of benchmark period manufacturer price** — The benchmark period manufacturer price determined under this paragraph for a dosage form and strength, with respect to a part D rebatable drug and an applicable period, is the sum of the products of—
+
+  (A) the average manufacturer price (as defined in subsection (g)(6)) of such dosage form and strength, as calculated for a unit of such drug, with respect to each of the calendar quarters of the payment amount benchmark period (as defined in subsection (g)(3)); and
+
+  (B) the ratio of—
+
+    (i) the total number of units reported under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8) of such dosage form and strength with respect to each such calendar quarter of such payment amount benchmark period; to
+
+    (ii) the total number of units reported under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8) of such dosage form and strength with respect to such payment amount benchmark period.
+
+(5) **Special treatment of certain drugs and exemption**
+
+  (A) *Subsequently approved drugs* — In the case of a part D rebatable drug first approved or licensed by the Food and Drug Administration after October 1, 2021, subparagraphs (A) and (B) of paragraph (4) shall be applied as if the term “payment amount benchmark period” were defined under subsection (g)(3) as the first calendar year beginning after the day on which the drug was first marketed and subparagraph (B) of paragraph (3) shall be applied as if the term “benchmark period CPI–U” were defined under subsection (g)(4) as if the reference to “January 2021” under such subsection were a reference to “January of the first year beginning after the date on which the drug was first marketed”.
+
+  (B) *Treatment of new formulations*
+
+    (i) *In general* — In the case of a part D rebatable drug that is a line extension of a part D rebatable drug that is an oral solid dosage form, the Secretary shall establish a formula for determining the rebate amount under paragraph (1) and the inflation adjusted payment amount under paragraph (3) with respect to such part D rebatable drug and an applicable period, consistent with the formula applied under subsection (c)(2)(C) of [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8) for determining a rebate obligation for a rebate period under such section.
+
+    (ii) *Line extension defined* — In this subparagraph, the term “line extension” means, with respect to a part D rebatable drug, a new formulation of the drug, such as an extended release formulation, but does not include an abuse-deterrent formulation of the drug (as determined by the Secretary), regardless of whether such abuse-deterrent formulation is an extended release formulation.
+
+  (C) *Selected drugs* — In the case of a part D rebatable drug that is a selected drug (as defined in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)) with respect to a price applicability period (as defined in [section 1320f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/b/2&num=0&edition=prelim)), in the case such drug is no longer considered to be a selected drug under [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim), for each applicable period (as defined under subsection (g)(7)) beginning after the price applicability period with respect to such drug, subparagraphs (A) and (B) of paragraph (4) shall be applied as if the term “payment amount benchmark period” were defined under subsection (g)(3) as the last year beginning during such price applicability period with respect to such selected drug and subparagraph (B) of paragraph (3) shall be applied as if the term “benchmark period CPI–U” were defined under subsection (g)(4) as if the reference to “January 2021” under such subsection were a reference to “January of the last year beginning during such price applicability period with respect to such drug”.
+
+(6) **Reconciliation in case of revised information** — The Secretary shall provide for a method and process under which, in the case where a PDP sponsor of a prescription drug plan or an MA organization offering an MA–PD plan submits revisions to the number of units of a rebatable covered part D drug dispensed, the Secretary determines, pursuant to such revisions, adjustments, if any, to the calculation of the amount specified in this subsection for a dosage form and strength with respect to such part D rebatable drug and an applicable period and reconciles any overpayments or underpayments in amounts paid as rebates under this subsection. Any identified underpayment shall be rectified by the manufacturer not later than 30 days after the date of receipt from the Secretary of information on such underpayment.
+
+**(c) Rebate deposits** Amounts paid as rebates under subsection (b) shall be deposited into the Medicare Prescription Drug Account in the Federal Supplementary Medical Insurance Trust Fund established under [section 1395t of this title](./chapter-007-social-security.md#section-1395t).
+
+**(d) Information** For purposes of carrying out this section, the Secretary shall use information submitted by—
+
+(1) manufacturers under [section 1396r–8(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/b/3&num=0&edition=prelim);
+
+(2) States under [section 1396r–8(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/b/2/A&num=0&edition=prelim); and
+
+(3) PDP sponsors of prescription drug plans and MA organization offering MA–PD plans under this part.
+
+**(e) Civil money penalty** If a manufacturer of a part D rebatable drug has failed to comply with the requirement under subsection (a)(2) with respect to such drug for an applicable period, the manufacturer shall be subject to a civil money penalty in an amount equal to 125 percent of the amount specified in subsection (b) for such drug for such period. The provisions of [section 1320a–7a of this title](./chapter-007-social-security.md#section-1320a-7a) (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subsection in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7a/a&num=0&edition=prelim).
+
+**(f) Limitation on administrative or judicial review** There shall be no administrative or judicial review of any of the following:
+
+(1) The determination of units under this section.
+
+(2) The determination of whether a drug is a part D rebatable drug under this section.
+
+(3) The calculation of the rebate amount under this section.
+
+**(g) Definitions** In this section:
+
+(1) **Part D rebatable drug**
+
+  (A) *In general* — Except as provided in subparagraph (B), the term “part D rebatable drug” means, with respect to an applicable period, a drug or biological described in subparagraph (C) that is a covered part D drug (as such term is defined under [section 1395w–102(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/e&num=0&edition=prelim)).
+
+  (B) *Exclusion*
+
+    (i) *In general* — Such term shall, with respect to an applicable period, not include a drug or biological if the average annual total cost under this part for such period per individual who uses such a drug or biological, as determined by the Secretary, is less than, subject to clause (ii), $100, as determined by the Secretary using the most recent data available or, if data is not available, as estimated by the Secretary.
+
+    (ii) *Increase* — The dollar amount applied under clause (i)—
+
+      (I) for the applicable period beginning October 1, 2023, shall be the dollar amount specified under such clause for the applicable period beginning October 1, 2022, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period beginning with October of 2023; and
+
+      (II) for a subsequent applicable period, shall be the dollar amount specified in this clause for the previous applicable period, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period beginning with October of the previous period.
+    Any dollar amount specified under this clause that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
+
+  (C) *Drug or biological described* — A drug or biological described in this subparagraph is a drug or biological that, as of the first day of the applicable period involved, is—
+
+    (i) a drug approved under a new drug application under [section 355(c) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim);
+
+    (ii) a drug approved under an abbreviated new drug application under [section 355(j) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim), in the case where—
+
+      (I) the reference listed drug approved under [section 355(c) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim), including any “authorized generic drug” (as that term is defined in [section 355(t)(3) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/t/3&num=0&edition=prelim)), is not being marketed, as identified in the Food and Drug Administration’s National Drug Code Directory;
+
+      (II) there is no other drug approved under [section 355(j) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim) that is rated as therapeutically equivalent (under the Food and Drug Administration’s most recent publication of “Approved Drug Products with Therapeutic Equivalence Evaluations”) and that is being marketed, as identified in the Food and Drug Administration’s National Drug Code Directory;
+
+      (III) the manufacturer is not a “first applicant” during the “180-day exclusivity period”, as those terms are defined in [section 355(j)(5)(B)(iv) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/B/iv&num=0&edition=prelim); and
+
+      (IV) the manufacturer is not a “first approved applicant” for a competitive generic therapy, as that term is defined in [section 355(j)(5)(B)(v) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j/5/B/v&num=0&edition=prelim); or
+
+    (iii) a biological licensed under [section 262 of this title](./chapter-6a-public-health-service.md#section-262).
+
+(2) **Unit** — The term “unit” means, with respect to a part D rebatable drug, the lowest dispensable amount (such as a capsule or tablet, milligram of molecules, or grams) of the part D rebatable drug, as reported under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8).
+
+(3) **Payment amount benchmark period** — The term “payment amount benchmark period” means the period beginning January 1, 2021, and ending in the month immediately prior to October 1, 2021.
+
+(4) **Benchmark period CPI–U** — The term “benchmark period CPI–U” means the consumer price index for all urban consumers (United States city average) for January 2021.
+
+(5) **Applicable period CPI–U** — The term “applicable period CPI–U” means, with respect to an applicable period, the consumer price index for all urban consumers (United States city average) for the first month of such applicable period.
+
+(6) **Average manufacturer price** — The term “average manufacturer price” has the meaning, with respect to a part D rebatable drug of a manufacturer, given such term in [section 1396r–8(k)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k/1&num=0&edition=prelim), with respect to a covered outpatient drug of a manufacturer for a rebate period under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8).
+
+(7) **Applicable period** — The term “applicable period” means a 12-month period beginning with October 1 of a year (beginning with October 1, 2022).
+
+**(h) Implementation for 2022, 2023, and 2024** The Secretary shall implement this section for 2022, 2023, and 2024 by program instruction or other forms of program guidance.
 
 
 <a id="section-1395w-2"></a>
@@ -98619,9 +100563,9 @@ Pub. L. 100–203, title IV, § 4064(d)(2), Dec. 22, 1987, 101 Stat. 1330–111,
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(2)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, § 1847, as added July 1, 1988, Pub. L. 100–360, title II, § 202(j), 102 Stat. 719; amended Oct. 13, 1988, Pub. L. 100–485, title VI, § 608(d)(5)(I), 102 Stat. 2414, provided for appointment of Prescription Drug Payment Review Commission by Director of Congressional Office of Technology Assessment, prior to repeal by Pub. L. 101–234, title II, § 201(a), (c), Dec. 13, 1989, 103 Stat. 1981, effective Jan. 1, 1990.
@@ -98720,7 +100664,7 @@ Pub. L. 105–33, title IV, § 4319(c), Aug. 5, 1997, 111 Stat. 394, provided th
 
   (A) in the case of a multiple source drug (as defined in subsection (c)(6)(C)), 106 percent of the amount determined under paragraph (3) for a multiple source drug furnished before April 1, 2008, or 106 percent of the amount determined under paragraph (6) for a multiple source drug furnished on or after April 1, 2008;
 
-  (B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D)), 106 percent of the amount determined under paragraph (4); or
+  (B) in the case of a single source drug or biological (as defined in subsection (c)(6)(D)), 106 percent of the amount determined under paragraph (4) or in the case of such a drug or biological product that is a selected drug (as referred to in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)), with respect to a price applicability period (as defined in [section 1320f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/b/2&num=0&edition=prelim)), 106 percent of the maximum fair price (as defined in [section 1320f(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/3&num=0&edition=prelim)) applicable for such drug and a year during such period; or
 
   (C) in the case of a biosimilar biological product (as defined in subsection (c)(6)(H)), the amount determined under paragraph (8).
 
@@ -98780,11 +100724,29 @@ Pub. L. 105–33, title IV, § 4319(c), Aug. 5, 1997, 111 Stat. 394, provided th
 
     (ii) the payment amount that would have been determined for such drug or biological if such subsection were not applied.
 
-(8) **Biosimilar biological product** — The amount specified in this paragraph for a biosimilar biological product described in paragraph (1)(C) is the sum of—
+(8) **Biosimilar biological product**
 
-  (A) the average sales price as determined using the methodology described under paragraph (6) applied to a biosimilar biological product for all National Drug Codes assigned to such product in the same manner as such paragraph is applied to drugs described in such paragraph; and
+  (A) *In general* — Subject to subparagraph (B), the amount specified in this paragraph for a biosimilar biological product described in paragraph (1)(C) is the sum of—
 
-  (B) 6 percent of the amount determined under paragraph (4) for the reference biological product (as defined in subsection (c)(6)(I)).
+    (i) the average sales price as determined using the methodology described under paragraph (6) applied to a biosimilar biological product for all National Drug Codes assigned to such product in the same manner as such paragraph is applied to drugs described in such paragraph; and
+
+    (ii) 6 percent of the amount determined under paragraph (4) for the reference biological product (as defined in subsection (c)(6)(I)).
+
+  (B) *Temporary payment increase*
+
+    (i) *In general* — In the case of a qualifying biosimilar biological product that is furnished during the applicable 5-year period for such product, the amount specified in this paragraph for such product with respect to such period is the sum determined under subparagraph (A), except that clause (ii) of such subparagraph shall be applied by substituting “8 percent” for “6 percent”.
+
+    (ii) *Applicable 5-year period* — For purposes of clause (i), the applicable 5-year period for a qualifying biosimilar biological product is—
+
+      (I) in the case of such a product for which payment was made under this paragraph as of September 30, 2022, the 5-year period beginning on October 1, 2022; and
+
+      (II) in the case of such a product for which payment is first made under this paragraph during a calendar quarter during the period beginning October 1, 2022, and ending December 31, 2027, the 5-year period beginning on the first day of such calendar quarter during which such payment is first made.
+
+    (iii) *Qualifying biosimilar biological product defined* — For purposes of this subparagraph, the term “qualifying biosimilar biological product” means a biosimilar biological product described in paragraph (1)(C) with respect to which—
+
+      (I) in the case of a product described in clause (ii)(I), the average sales price under paragraph (8)(A)(i) for a calendar quarter during the 5-year period described in such clause is not more than the average sales price under paragraph (4)(A) for such quarter for the reference biological product; and
+
+      (II) in the case of a product described in clause (ii)(II), the average sales price under paragraph (8)(A)(i) for a calendar quarter during the 5-year period described in such clause is not more than the average sales price under paragraph (4)(A) for such quarter for the reference biological product.
 
 **(c) Manufacturer’s average sales price**
 
@@ -98800,21 +100762,29 @@ Pub. L. 105–33, title IV, § 4319(c), Aug. 5, 1997, 111 Stat. 394, provided th
 
   (B) *Sales at nominal charge* — Such other sales as the Secretary identifies as sales to an entity that are merely nominal in amount (as applied for purposes of [section 1396r–8(c)(1)(C)(ii)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/c/1/C/ii/III&num=0&edition=prelim), except as the Secretary may otherwise provide).
 
-(3) **Sale price net of discounts** — In calculating the manufacturer’s average sales price under this subsection, such price shall include volume discounts, prompt pay discounts, cash discounts, free goods that are contingent on any purchase requirement, chargebacks, and rebates (other than rebates under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8)). For years after 2004, the Secretary may include in such price other price concessions, which may be based on recommendations of the Inspector General, that would result in a reduction of the cost to the purchaser.
+(3) **Sale price net of discounts** — In calculating the manufacturer’s average sales price under this subsection, such price shall include volume discounts, prompt pay discounts, cash discounts, free goods that are contingent on any purchase requirement, chargebacks, and rebates (other than rebates under subsection (i), [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8), or [section 1395w–114b of this title](./chapter-007-social-security.md#section-1395w-114b)). For years after 2004, the Secretary may include in such price other price concessions, which may be based on recommendations of the Inspector General, that would result in a reduction of the cost to the purchaser.
 
-(4) **Payment methodology in cases where average sales price during first quarter of sales is unavailable** — In the case of a drug or biological during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales for the drug or biological is not sufficiently available from the manufacturer to compute an average sales price for the drug or biological, the Secretary may determine the amount payable under this section—
+(4) **Payment methodology in cases where average sales price during first quarter of sales is unavailable**
 
-  (A) in the case of a drug or biological furnished prior to January 1, 2019, based on—
+  (A) *In general* — Subject to subparagraph (B), in the case of a drug or biological during an initial period (not to exceed a full calendar quarter) in which data on the prices for sales for the drug or biological is not sufficiently available from the manufacturer to compute an average sales price for the drug or biological, the Secretary may determine the amount payable under this section—
 
-    (i) the wholesale acquisition cost; or
+    (i) in the case of a drug or biological furnished prior to January 1, 2019, based on—
 
-    (ii) the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals; and
+      (I) the wholesale acquisition cost; or
 
-  (B) in the case of a drug or biological furnished on or after January 1, 2019—
+      (II) the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals; and
 
-    (i) at an amount not to exceed 103 percent of the wholesale acquisition cost; or
+    (ii) in the case of a drug or biological furnished on or after January 1, 2019—
 
-    (ii) based on the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals.
+      (I) at an amount not to exceed 103 percent of the wholesale acquisition cost; or
+
+      (II) based on the methodologies in effect under this part on November 1, 2003, to determine payment amounts for drugs or biologicals.
+
+  (B) *Limitation on payment amount for biosimilar biological products during initial period* — In the case of a biosimilar biological product furnished on or after July 1, 2024, during the initial period described in subparagraph (A) with respect to the biosimilar biological product, the amount payable under this section for the biosimilar biological product is the lesser of the following:
+
+    (i) The amount determined under clause (ii) of such subparagraph for the biosimilar biological product.
+
+    (ii) The amount determined under subsection (b)(1)(B) for the reference biological product.
 
 (5) **Frequency of determinations**
 
@@ -99052,7 +101022,113 @@ Pub. L. 105–33, title IV, § 4319(c), Aug. 5, 1997, 111 Stat. 394, provided th
 
 (9) **Report to Congress** — Not later than 3 years after November 15, 2021, the Office of the Inspector General, after consultation with the Centers for Medicare & Medicaid Services and the Food and Drug Administration, shall submit to the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives, a report on any impact this section is reported to have on the licensure, market entry, market retention, or marketing of biosimilar biological products. Such report shall be updated periodically at the direction of the Committee on Finance of the Senate and the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives.
 
-**(i) Judicial review** There shall be no administrative or judicial review under [section 1395ff of this title](./chapter-007-social-security.md#section-1395ff), section 1395oo of this title, or otherwise, of—
+**(i) Rebate by manufacturers for single source drugs and biologicals with prices increasing faster than inflation**
+
+(1) **Requirements**
+
+  (A) *Secretarial provision of information* — Not later than 6 months after the end of each calendar quarter beginning on or after January 1, 2023, the Secretary shall, for each part B rebatable drug, report to each manufacturer of such part B rebatable drug the following for such calendar quarter:
+
+    (i) Information on the total number of units of the billing and payment code described in subparagraph (A)(i) of paragraph (3) with respect to such drug and calendar quarter.
+
+    (ii) Information on the amount (if any) of the excess average sales price increase described in subparagraph (A)(ii) of such paragraph for such drug and calendar quarter.
+
+    (iii) The rebate amount specified under such paragraph for such part B rebatable drug and calendar quarter.
+
+  (B) *Manufacturer requirement* — For each calendar quarter beginning on or after January 1, 2023, the manufacturer of a part B rebatable drug shall, for such drug, not later than 30 days after the date of receipt from the Secretary of the information described in subparagraph (A) for such calendar quarter, provide to the Secretary a rebate that is equal to the amount specified in paragraph (3) for such drug for such calendar quarter.
+
+  (C) *Transition rule for reporting* — The Secretary may, for each part B rebatable drug, delay the timeframe for reporting the information described in subparagraph (A) for calendar quarters beginning in 2023 and 2024 until not later than September 30, 2025.
+
+(2) **Part B rebatable drug defined**
+
+  (A) *In general* — In this subsection, the term “part B rebatable drug” means a single source drug or biological (as defined in subparagraph (D) of subsection (c)(6)), including a biosimilar biological product (as defined in subparagraph (H) of such subsection) but excluding a qualifying biosimilar biological product (as defined in subsection (b)(8)(B)(iii)), for which payment is made under this part, except such term shall not include such a drug or biological—
+
+    (i) if, as determined by the Secretary, the average total allowed charges for such drug or biological under this part for a year per individual that uses such a drug or biological are less than, subject to subparagraph (B), $100; or
+
+    (ii) that is a vaccine described in subparagraph (A) or (B) of [section 1395x(s)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/s/10&num=0&edition=prelim).
+
+  (B) *Increase* — The dollar amount applied under subparagraph (A)(i)—
+
+    (i) for 2024, shall be the dollar amount specified under such subparagraph for 2023, increased by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year; and
+
+    (ii) for a subsequent year, shall be the dollar amount specified in this clause (or clause (i)) for the previous year (without application of subparagraph (C)), increased by the percentage increase in the consumer price index for all urban consumers (United States city average) for the 12-month period ending with June of the previous year.
+
+  (C) *Rounding* — Any dollar amount determined under subparagraph (B) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
+
+(3) **Rebate amount**
+
+  (A) *In general* — For purposes of paragraph (1), the amount specified in this paragraph for a part B rebatable drug assigned to a billing and payment code for a calendar quarter is, subject to subparagraphs (B) and (G) and paragraph (4), the estimated amount equal to the product of—
+
+    (i) the total number of units determined under subparagraph (B) for the billing and payment code of such drug; and
+
+    (ii) the amount (if any) by which—
+
+      (I) the amount equal to—
+
+        (aa) in the case of a part B rebatable drug described in paragraph (1)(B) of subsection (b), 106 percent of the amount determined under paragraph (4) of such section 22 So in original. Probably should be “subsection”. for such drug during the calendar quarter; or
+
+        (bb) in the case of a part B rebatable drug described in paragraph (1)(C) of such subsection, the payment amount under such paragraph for such drug during the calendar quarter; exceeds
+
+      (II) the inflation-adjusted payment amount determined under subparagraph (C) for such part B rebatable drug during the calendar quarter.
+
+  (B) *Total number of units* — For purposes of subparagraph (A)(i), the total number of units for the billing and payment code with respect to a part B rebatable drug furnished during a calendar quarter described in subparagraph (A) is equal to—
+
+    (i) the number of units for the billing and payment code of such drug furnished during such calendar quarter, minus
+
+    (ii) the number of units for such billing and payment code of such drug furnished during such calendar quarter—
+
+      (I) with respect to which the manufacturer provides a discount under the program under [section 256b of this title](./chapter-6a-public-health-service.md#section-256b) or a rebate under [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8); or
+
+      (II) that are packaged into the payment amount for an item or service and are not separately payable.
+
+  (C) *Determination of inflation-adjusted payment amount* — The inflation-adjusted payment amount determined under this subparagraph for a part B rebatable drug for a calendar quarter is—
+
+    (i) the payment amount for the billing and payment code for such drug in the payment amount benchmark quarter (as defined in subparagraph (D)); increased by
+
+    (ii) the percentage by which the rebate period CPI–U (as defined in subparagraph (F)) for the calendar quarter exceeds the benchmark period CPI–U (as defined in subparagraph (E)).
+
+  (D) *Payment amount benchmark quarter* — The term “payment amount benchmark quarter” means the calendar quarter beginning July 1, 2021.
+
+  (E) *Benchmark period CPI–U* — The term “benchmark period CPI–U” means the consumer price index for all urban consumers (United States city average) for January 2021.
+
+  (F) *Rebate period CPI–U* — The term “rebate period CPI–U” means, with respect to a calendar quarter described in subparagraph (C), the greater of the benchmark period CPI–U and the consumer price index for all urban consumers (United States city average) for the first month of the calendar quarter that is two calendar quarters prior to such described calendar quarter.
+
+  (G) *Reduction or waiver for shortages and severe supply chain disruptions* — The Secretary shall reduce or waive the amount under subparagraph (A) with respect to a part B rebatable drug and a calendar quarter—
+
+    (i) in the case of a part B rebatable drug that is described as currently in shortage on the shortage list in effect under [section 356e of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section356e&num=0&edition=prelim) at any point during the calendar quarter; or
+
+    (ii) in the case of a biosimilar biological product, when the Secretary determines there is a severe supply chain disruption during the calendar quarter, such as that caused by a natural disaster or other unique or unexpected event.
+
+(4) **Special treatment of certain drugs and exemption**
+
+  (A) *Subsequently approved drugs* — In the case of a part B rebatable drug first approved or licensed by the Food and Drug Administration after December 1, 2020, clause (i) of paragraph (3)(C) shall be applied as if the term “payment amount benchmark quarter” were defined under paragraph (3)(D) as the third full calendar quarter after the day on which the drug was first marketed and clause (ii) of paragraph (3)(C) shall be applied as if the term “benchmark period CPI–U” were defined under paragraph (3)(E) as if the reference to “January 2021” under such paragraph were a reference to “the first month of the first full calendar quarter after the day on which the drug was first marketed”.
+
+  (B) *Timeline for provision of rebates for subsequently approved drugs* — In the case of a part B rebatable drug first approved or licensed by the Food and Drug Administration after December 1, 2020, paragraph (1)(B) shall be applied as if the reference to “January 1, 2023” under such paragraph were a reference to “the later of the 6th full calendar quarter after the day on which the drug was first marketed or January 1, 2023”.
+
+  (C) *Selected drugs* — In the case of a part B rebatable drug that is a selected drug (as defined in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)) with respect to a price applicability period (as defined in [section 1320f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/b/2&num=0&edition=prelim)), in the case such drug is no longer considered to be a selected drug under [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim), for each applicable period (as defined under subsection (g)(7)) 33 See References in Text note below. beginning after the price applicability period with respect to such drug, clause (i) of paragraph (3)(C) shall be applied as if the term “payment amount benchmark quarter” were defined under paragraph (3)(D) as the calendar quarter beginning January 1 of the last year during such price applicability period with respect to such selected drug and clause (ii) of paragraph (3)(C) shall be applied as if the term “benchmark period CPI–U” were defined under paragraph (3)(E) as if the reference to “January 2021” under such paragraph were a reference to “the July of the year preceding such last year”.
+
+(5) **Application to beneficiary coinsurance** — In the case of a part B rebatable drug furnished on or after April 1, 2023, if the payment amount described in paragraph (3)(A)(ii)(I) (or, in the case of a part B rebatable drug that is a selected drug (as defined in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)), the payment amount described in subsection (b)(1)(B) for such drug) for a calendar quarter exceeds the inflation adjusted payment for such quarter—
+
+  (A) in computing the amount of any coinsurance applicable under this part to an individual to whom such drug is furnished, the computation of such coinsurance shall be equal to 20 percent of the inflation-adjusted payment amount determined under paragraph (3)(C) for such part B rebatable drug; and
+
+  (B) the amount of such coinsurance for such calendar quarter, as computed under subparagraph (A), shall be applied as a percent, as determined by the Secretary, to the payment amount that would otherwise apply under subparagraphs (B) or (C) of subsection (b)(1).
+
+(6) **Rebate deposits** — Amounts paid as rebates under paragraph (1)(B) shall be deposited into the Federal Supplementary Medical Insurance Trust Fund established under [section 1395t of this title](./chapter-007-social-security.md#section-1395t).
+
+(7) **Civil money penalty** — If a manufacturer of a part B rebatable drug has failed to comply with the requirements under paragraph (1)(B) for such drug for a calendar quarter, the manufacturer shall be subject to, in accordance with a process established by the Secretary pursuant to regulations, a civil money penalty in an amount equal to at least 125 percent of the amount specified in paragraph (3) for such drug for such calendar quarter. The provisions of [section 1320a–7a of this title](./chapter-007-social-security.md#section-1320a-7a) (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7a/a&num=0&edition=prelim).
+
+(8) **Limitation on administrative or judicial review** — There shall be no administrative or judicial review of any of the following:
+
+  (A) The determination of units under this subsection.
+
+  (B) The determination of whether a drug is a part B rebatable drug under this subsection.
+
+  (C) The calculation of the rebate amount under this subsection.
+
+  (D) The computation of coinsurance under paragraph (5) of this subsection.
+
+  (E) The computation of amounts paid under section 1395l(a)(1)(EE) of this title.
+
+**(j) Judicial review** There shall be no administrative or judicial review under [section 1395ff of this title](./chapter-007-social-security.md#section-1395ff), section 1395oo of this title, or otherwise, of—
 
 (1) determinations of payment amounts under this section, including the assignment of National Drug Codes to billing and payment codes;
 
@@ -99066,7 +101142,22 @@ Pub. L. 105–33, title IV, § 4319(c), Aug. 5, 1997, 111 Stat. 394, provided th
 
 ### Statutory Notes
 
+#### References in Text
+Subsection (g)(7), referred to in subsec. (i)(4)(C), does not define “applicable period” because subsec. (g) of this section does not have a par. (7). However, such term is defined in [section 1395w–114b(g)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114b/g/7&num=0&edition=prelim).
+
 #### Amendments
+2022—Subsec. (b)(1)(B). Pub. L. 117–169, § 11001(b)(1)(A), inserted “or in the case of such a drug or biological product that is a selected drug (as referred to in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)), with respect to a price applicability period (as defined in [section 1320f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/b/2&num=0&edition=prelim)), 106 percent of the maximum fair price (as defined in [section 1320f(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/3&num=0&edition=prelim)) applicable for such drug and a year during such period” after “paragraph (4)”.
+
+Subsec. (b)(8). Pub. L. 117–169, § 11403, designated existing provisions as subpar. (A) and inserted heading, substituted “Subject to subparagraph (B), the amount” for “The amount” in introductory provisions, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+
+Subsec. (c)(3). Pub. L. 117–169, § 11102(b)(1), substituted “subsection (i), [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8), or [section 1395w–114b of this title](./chapter-007-social-security.md#section-1395w-114b)” for “subsection (i) or [section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8)”.
+
+Pub. L. 117–169, § 11101(c)(1), inserted “subsection (i) or” before “[section 1396r–8 of this title](./chapter-007-social-security.md#section-1396r-8)”
+
+Subsec. (c)(4). Pub. L. 117–169, § 11402, designated existing provisions as subpar. (A) and inserted heading; substituted “Subject to subparagraph (B), in the case” for “In the case” in introductory provisions; redesignated former subpars. (A) and (B) and cls. (i) and (ii) of each subpar. as cls. (i) and (ii) of subpar. (A) and subcls. (I) and (II) of each cl., respectively, and realigned margins; and added subpar. (B).
+
+Subsecs. (i), (j). Pub. L. 117–169, § 11101(a), added subsec. (i) and redesignated former subsec. (i) as (j).
+
 2021—Subsecs. (h), (i). Pub. L. 117–58 added subsec. (h) and redesignated former subsec. (h) as (i).
 
 2020—Subsec. (b)(2)(A). Pub. L. 116–260, § 401(a)(1)(A), inserted “or subsection (f)(2), as applicable” before period at end.
@@ -99351,7 +101442,7 @@ Notwithstanding section 303(j) of Pub. L. 108–173 (see note above), amendment 
 #### References in Text
 [Section 1395ee(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ee/b&num=0&edition=prelim), referred to in subsec. (b)(2)(C), was added by section 942(a)(5) of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, Pub. L. 108–173, not section 923 of that Act, and relates to the Council for Technology and Innovation, not to the Medicare Provider Ombudsman.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. subsec. (b)(4)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. subsec. (b)(4)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (a)(3)(A)(iii). Pub. L. 109–432, § 108(a)(1), substituted “and biologicals shall be made only to such contractor upon receipt of a claim for a drug or biological supplied by the contractor for administration to a beneficiary.” for “and biologicals—
@@ -99803,12 +101894,28 @@ shall be deemed to have enrolled in the medical insurance program established by
 
 (4) The Secretary shall establish a process under which an individual described in paragraph (1) whose other coverage described in section 1395o(b)(2)(A) of this title, or coverage under this part (including the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs), is terminated voluntarily or involuntary 11 So in original. Probably should be “involuntarily”. may enroll or reenroll, if applicable, in the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs.
 
+**(o) Special enrollment period for certain Postal Service annuitants and family members**
+
+(1) In the case of an individual who—
+
+  (A) as of January 1, 2024, is—
+
+    (i) a Postal Service annuitant who is entitled to benefits under part A of this subchapter, but excluding an individual who is eligible to enroll under such part under [section 1395i–2 of this title](./chapter-007-social-security.md#section-1395i-2) or 1395i–2a of this title; or
+
+    (ii) a member of family (as defined in [section 8901(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8901/5&num=0&edition=prelim)) of a Postal Service annuitant and is entitled to benefits under part A of this subchapter, but excluding an individual who is eligible to enroll under such part under [section 1395i–2 of this title](./chapter-007-social-security.md#section-1395i-2) or 1395i–2a of this title; and
+
+  (B) is not enrolled under this part, the individual may elect to be enrolled under this part during a special enrollment period during the 6-month period beginning on April 1, 2024.
+
+(2) In this subsection, the term “Postal Service annuitant” means an annuitant enrolled in a health benefits plan under chapter 89 of title 5, whose Government contribution is required to be paid under section 8906(g)(2) of such title.
+
 ### Statutory Notes
 
 #### References in Text
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (k)(3)(A)(ii), is classified to [section 501 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2022—Subsec. (o). Pub. L. 117–108 added subsec. (o).
+
 2020—Pub. L. 116–260, § 402(a)(2)(B)(i), substituted “section 1395o(a) of this title” for “section 1395o of this title” wherever appearing except in subsec. (m).
 
 Subsec. (j)(1). Pub. L. 116–260, § 402(a)(2)(B)(ii), substituted “section 1395o(a)(1) of this title” for “section 1395o(1) of this title”.
@@ -100041,9 +102148,13 @@ Where an individual who is deemed to have enrolled for medical insurance pursuan
 
 (5) The Secretary may conduct public education activities to raise awareness of the availability of more comprehensive, individual health insurance coverage (as defined in [section 300gg–91 of this title](./chapter-6a-public-health-service.md#section-300gg-91)) for individuals eligible under section 1395o(b) of this title to enroll or to be deemed enrolled in the medical insurance program established under this part for purposes of coverage of immunosuppressive drugs.
 
+**(i) Coverage period for certain Postal Service annuitants and family members** Notwithstanding subsection (a), in the case of an individual who enrolls during the special enrollment period pursuant to section 1395p(o) of this title, the coverage period shall begin on January 1, 2025.
+
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (i). Pub. L. 117–108 added subsec. (i).
+
 2020—Subsec. (a)(2). Pub. L. 116–260, § 120(a)(1)(A), amended par. (2) generally. Prior to amendment, par. (2) related to coverage period for individuals enrolling pursuant to [section 1395p(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395p/d&num=0&edition=prelim).
 
 Subsec. (a)(3). Pub. L. 116–260, § 120(a)(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
@@ -100208,13 +102319,17 @@ Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible 
 
 **(e) State payment of part B late enrollment premium increases**
 
-(1) Upon the request of a State (or any appropriate State or local governmental entity specified by the Secretary), the Secretary may enter into an agreement with the State (or such entity) under which the State (or such entity) agrees to pay on a quarterly or other periodic basis to the Secretary (to be deposited in the Treasury to the credit of the Federal Supplementary Medical Insurance Trust Fund) an amount equal to the amount of the part B late enrollment premium increases with respect to the premiums for eligible individuals (as defined in paragraph (3)(A)).
+(1) Upon the request of a State (or any appropriate State or local governmental entity specified by the Secretary), the Secretary may enter into an agreement with the State (or such entity) under which the State (or such entity) agrees to pay on a quarterly or other periodic basis to the Secretary (to be deposited in the Treasury to the credit of the Federal Supplementary Medical Insurance Trust Fund) an amount equal to the amount of the part B late enrollment premium increases with respect to the premiums for eligible individuals (as defined in paragraph (3)(A)(i)). The Secretary shall enter into an agreement with the United States Postal Service under which the United States Postal Service agrees to pay on a quarterly or other periodic basis to the Secretary (to be deposited in the Treasury to the credit of the Federal Supplementary Medical Insurance Trust Fund) an amount equal to the amount of the part B late enrollment premium increases with respect to the premiums for eligible individuals (as defined in paragraph (3)(A)(ii))..11 So in original.
 
 (2) No part B late enrollment premium increase shall apply to an eligible individual for premiums for months for which the amount of such an increase is payable under an agreement under paragraph (1).
 
 (3) In this subsection:
 
-  (A) The term “eligible individual” means an individual who is enrolled under this part B and who is within a class of individuals specified in the agreement under paragraph (1).
+  (A) The term “eligible individual” means an individual who is enrolled under this part B 1 and who—
+
+    (i) in the case of an agreement entered into under the first sentence of paragraph (1), is within a class of individuals specified in such agreement; and
+
+    (ii) in the case of an agreement entered into under the second sentence of paragraph (1), is so enrolled under this part pursuant to the special enrollment period under section 1395p(o) of this title 22 So in original. Probably should be followed by a period.
 
   (B) The term “part B late enrollment premium increase” means any increase in a premium as a result of the application of subsection (b).
 
@@ -100228,11 +102343,11 @@ Commencement of coverage period upon enrollment before Oct. 1, 1966 of eligible 
 
 **(h) Potential application of comparative cost adjustment in CCA areas**
 
-(1) **In general** — Certain individuals who are residing in a CCA area under section 1395w–29 11 See References in Text note below. of this title who are not enrolled in an MA plan under part C may be subject to a premium adjustment under subsection (f) of such section for months in which the CCA program under such section is in effect in such area.
+(1) **In general** — Certain individuals who are residing in a CCA area under section 1395w–29 33 See References in Text note below. of this title who are not enrolled in an MA plan under part C may be subject to a premium adjustment under subsection (f) of such section for months in which the CCA program under such section is in effect in such area.
 
-(2) **No effect on late enrollment penalty or income-related adjustment in subsidies** — Nothing in this subsection or section 1395w–29(f) 1 of this title shall be construed as affecting the amount of any premium adjustment under subsection (b) or (i). Subsection (f) shall be applied without regard to any premium adjustment referred to in paragraph (1).
+(2) **No effect on late enrollment penalty or income-related adjustment in subsidies** — Nothing in this subsection or section 1395w–29(f) 3 of this title shall be construed as affecting the amount of any premium adjustment under subsection (b) or (i). Subsection (f) shall be applied without regard to any premium adjustment referred to in paragraph (1).
 
-(3) **Implementation** — In order to carry out a premium adjustment under this subsection and section 1395w–29(f) 1 of this title (insofar as it is effected through the manner of collection of premiums under [section 1395s(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395s/a&num=0&edition=prelim)), the Secretary shall transmit to the Commissioner of Social Security—
+(3) **Implementation** — In order to carry out a premium adjustment under this subsection and section 1395w–29(f) 3 of this title (insofar as it is effected through the manner of collection of premiums under [section 1395s(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395s/a&num=0&edition=prelim)), the Secretary shall transmit to the Commissioner of Social Security—
 
   (A) at the beginning of each year, the name, social security account number, and the amount of the premium adjustment (if any) for each individual enrolled under this part for each month during the year; and
 
@@ -100360,6 +102475,10 @@ The Railroad Retirement Act of 1974, referred to in subsec. (f), is act Aug. 29,
 The Internal Revenue Code of 1986, referred to in subsec. (i)(3)(C)(iii)(I), (4)(A), (7), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2022—Subsec. (e)(1). Pub. L. 117–108, § 101(b)(3)(A), substituted “(as defined in paragraph (3)(A)(i)). The Secretary shall enter into an agreement with the United States Postal Service under which the United States Postal Service agrees to pay on a quarterly or other periodic basis to the Secretary (to be deposited in the Treasury to the credit of the Federal Supplementary Medical Insurance Trust Fund) an amount equal to the amount of the part B late enrollment premium increases with respect to the premiums for eligible individuals (as defined in paragraph (3)(A)(ii)).” for “(as defined in paragraph (3)(A))”.
+
+Subsec. (e)(3)(A). Pub. L. 117–108, § 101(b)(3)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The term ‘eligible individual’ means an individual who is enrolled under this part B and who is within a class of individuals specified in the agreement under paragraph (1).”
+
 2020—Subsec. (a)(1). Pub. L. 116–159, § 2401(a)(1), substituted “(5), (6), and (7)” for “(5) and (6)”.
 
 Subsec. (a)(6)(C)(i). Pub. L. 116–159, § 2401(a)(2)(A), substituted “subsections (d)(1) and (e)(1) of [section 1395w of this title](./chapter-007-social-security.md#section-1395w)” for “[section 1395w(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w/d/1&num=0&edition=prelim)”.
@@ -100822,277 +102941,251 @@ Pub. L. 92–603, title II, § 263(f), Oct. 30, 1972, 86 Stat. 1449, provided th
 
 
 <a id="section-1395x"></a>
-## § 1395x. Premium and cost-sharing subsidies for low-income individuals
-**(a) Income-related subsidies for individuals with income up to 150 percent of poverty line**
+## § 1395x. Manufacturer discount program
+**(a) Establishment** The Secretary shall establish a manufacturer discount program (in this section referred to as the “program”). Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c).
 
-(1) **Individuals with income below 135 percent of poverty line** — In the case of a subsidy eligible individual (as defined in paragraph (3)) who is determined to have income that is below 135 percent of the poverty line applicable to a family of the size involved and who meets the resources requirement described in paragraph (3)(D) or who is covered under this paragraph under paragraph (3)(B)(i), the individual is entitled under this section to the following:
+**(b) Terms of agreement**
 
-  (A) *Full premium subsidy* — An income-related premium subsidy equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).
+(1) **In general**
 
-  (B) *Elimination of deductible* — A reduction in the annual deductible applicable under [section 1395w–102(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/1&num=0&edition=prelim) to $0.
+  (A) *Agreement* — An agreement under this section shall require the manufacturer to provide, in accordance with this section, discounted prices for applicable drugs of the manufacturer that are dispensed to applicable beneficiaries on or after January 1, 2025.
 
-  (C) *Continuation of coverage above the initial coverage limit* — The continuation of coverage from the initial coverage limit (under paragraph (3) of [section 1395w–102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b&num=0&edition=prelim)) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced cost-sharing described in subparagraph (D).
+  (B) *Clarification* — Nothing in this section shall be construed as affecting—
 
-  (D) *Reduction in cost-sharing below out-of-pocket threshold*
+    (i) the application of a coinsurance of 25 percent of the negotiated price, as applied under paragraph (2)(A) of [section 1395w–102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b&num=0&edition=prelim), for costs described in such paragraph; or
 
-    (i) *Institutionalized individuals* — In the case of an individual who is a full-benefit dual eligible individual and who is an institutionalized individual or couple (as defined in [section 1396a(q)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/q/1/B&num=0&edition=prelim)) or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under [section 1315 of this title](./chapter-007-social-security.md#section-1315) or subsection (c) or (d) of [section 1396n of this title](./chapter-007-social-security.md#section-1396n) or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under [section 1396b(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/m&num=0&edition=prelim) or under [section 1396u–2 of this title](./chapter-007-social-security.md#section-1396u-2), the elimination of any beneficiary coinsurance described in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim) (for all amounts through the total amount of expenditures at which benefits are available under [section 1395w–102(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4&num=0&edition=prelim)).
+    (ii) the application of the copayment amount described in paragraph (4)(A) of such section, with respect to costs described in such paragraph.
 
-    (ii) *Lowest income dual eligible individuals* — In the case of an individual not described in clause (i) who is a full-benefit dual eligible individual and whose income does not exceed 100 percent of the poverty line applicable to a family of the size involved, the substitution for the beneficiary coinsurance described in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim) (for all amounts through the total amount of expenditures at which benefits are available under [section 1395w–102(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4&num=0&edition=prelim)) of a copayment amount that does not exceed $1 for a generic drug or a preferred drug that is a multiple source drug (as defined in [section 1396r–8(k)(7)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8/k/7/A/i&num=0&edition=prelim)) and $3 for any other drug, or, if less, the copayment amount applicable to an individual under clause (iii).
+  (C) *Timing of agreement*
 
-    (iii) *Other individuals* — In the case of an individual not described in clause (i) or (ii), the substitution for the beneficiary coinsurance described in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim) (for all amounts through the total amount of expenditures at which benefits are available under [section 1395w–102(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4&num=0&edition=prelim)) of a copayment amount that does not exceed the copayment amount specified under [section 1395w–102(b)(4)(A)(i)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/A/i/I&num=0&edition=prelim) for the drug and year involved.
+    (i) *Special rule for 2025* — In order for an agreement with a manufacturer to be in effect under this section with respect to the period beginning on January 1, 2025, and ending on December 31, 2025, the manufacturer shall enter into such agreement not later than March 1, 2024.
 
-  (E) *Elimination of cost-sharing above annual out-of-pocket threshold* — The elimination of any cost-sharing imposed under [section 1395w–102(b)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/A&num=0&edition=prelim).
+    (ii) *2026 and subsequent years* — In order for an agreement with a manufacturer to be in effect under this section with respect to plan year 2026 or a subsequent plan year, the manufacturer shall enter into such agreement not later than a calendar quarter or semi-annual deadline established by the Secretary.
 
-(2) **Other individuals with income below 150 percent of poverty line** — In the case of a subsidy eligible individual who is not described in paragraph (1), the individual is entitled under this section to the following:
+(2) **Provision of appropriate data** — Each manufacturer with an agreement in effect under this section shall collect and have available appropriate data, as determined by the Secretary, to ensure that it can demonstrate to the Secretary compliance with the requirements under the program.
 
-  (A) *Sliding scale premium subsidy* — An income-related premium subsidy determined on a linear sliding scale ranging from 100 percent of the amount described in paragraph (1)(A) for individuals with incomes at or below 135 percent of such level to 0 percent of such amount for individuals with incomes at 150 percent of such level.
+(3) **Compliance with requirements for administration of program** — Each manufacturer with an agreement in effect under this section shall comply with requirements imposed by the Secretary, as applicable, for purposes of administering the program, including any determination under subparagraph (A) of subsection (c)(1) or procedures established under such subsection (c)(1).
 
-  (B) *Reduction of deductible* — A reduction in the annual deductible applicable under [section 1395w–102(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/1&num=0&edition=prelim) to $50.
+(4) **Length of agreement**
 
-  (C) *Continuation of coverage above the initial coverage limit* — The continuation of coverage from the initial coverage limit (under paragraph (3) of [section 1395w–102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b&num=0&edition=prelim)) for expenditures incurred through the total amount of expenditures at which benefits are available under paragraph (4) of such section, subject to the reduced coinsurance described in subparagraph (D).
+  (A) *In general* — An agreement under this section shall be effective for an initial period of not less than 12 months and shall be automatically renewed for a period of not less than 1 year unless terminated under subparagraph (B).
 
-  (D) *Reduction in cost-sharing below out-of-pocket threshold* — The substitution for the beneficiary coinsurance described in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim) (for all amounts above the deductible under subparagraph (B) through the total amount of expenditures at which benefits are available under [section 1395w–102(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4&num=0&edition=prelim)) of coinsurance of “15 percent” instead of coinsurance of “25 percent” in [section 1395w–102(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/2&num=0&edition=prelim).
+  (B) *Termination*
 
-  (E) *Reduction of cost-sharing above annual out-of-pocket threshold* — Subject to subsection (c), the substitution for the cost-sharing imposed under [section 1395w–102(b)(4)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/A&num=0&edition=prelim) of a copayment or coinsurance not to exceed the copayment or coinsurance amount specified under [section 1395w–102(b)(4)(A)(i)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/A/i/I&num=0&edition=prelim) for the drug and year involved.
+    (i) *By the Secretary* — The Secretary shall provide for termination of an agreement under this section for a knowing and willful violation of the requirements of the agreement or other good cause shown. Such termination shall not be effective earlier than 30 days after the date of notice to the manufacturer of such termination. The Secretary shall provide, upon request, a manufacturer with a hearing concerning such a termination, and such hearing shall take place prior to the effective date of the termination with sufficient time for such effective date to be repealed if the Secretary determines appropriate.
 
-(3) **Determination of eligibility**
+    (ii) *By a manufacturer* — A manufacturer may terminate an agreement under this section for any reason. Any such termination shall be effective, with respect to a plan year—
 
-  (A) *Subsidy eligible individual defined* — For purposes of this part, subject to subparagraph (F), the term “subsidy eligible individual” means a part D eligible individual who—
+      (I) if the termination occurs before January 31 of a plan year, as of the day after the end of the plan year; and
 
-    (i) is enrolled in a prescription drug plan or MA–PD plan;
+      (II) if the termination occurs on or after January 31 of a plan year, as of the day after the end of the succeeding plan year.
 
-    (ii) has income below 150 percent of the poverty line applicable to a family of the size involved; and
+    (iii) *Effectiveness of termination* — Any termination under this subparagraph shall not affect discounts for applicable drugs of the manufacturer that are due under the agreement before the effective date of its termination.
 
-    (iii) meets the resources requirement described in subparagraph (D) or (E).
+(5) **Effective date of agreement** — An agreement under this section shall take effect at the start of a calendar quarter or another date specified by the Secretary.
 
-  (B) *Determinations*
+**(c) Duties described** The duties described in this subsection are the following:
 
-    (i) *In general* — The determination of whether a part D eligible individual residing in a State is a subsidy eligible individual and whether the individual is described in paragraph (1) shall be determined under the State plan under subchapter XIX for the State under [section 1396u–5(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/a&num=0&edition=prelim) or by the Commissioner of Social Security. There are authorized to be appropriated to the Social Security Administration such sums as may be necessary for the determination of eligibility under this subparagraph.
+(1) **Administration of program** — Administering the program, including—
 
-    (ii) *Effective period* — Determinations under this subparagraph shall be effective beginning with the month in which the individual applies for a determination that the individual is a subsidy eligible individual and shall remain in effect for a period specified by the Secretary, but not to exceed 1 year.
+  (A) the determination of the amount of the discounted price of an applicable drug of a manufacturer;
 
-    (iii) *Redeterminations and appeals through medicaid* — Redeterminations and appeals, with respect to eligibility determinations under clause (i) made under a State plan under subchapter XIX, shall be made in accordance with the frequency of, and manner in which, redeterminations and appeals of eligibility are made under such plan for purposes of medical assistance under such subchapter.
+  (B) the establishment of procedures to ensure that, not later than the applicable number of calendar days after the dispensing of an applicable drug by a pharmacy or mail order service, the pharmacy or mail order service is reimbursed for an amount equal to the difference between—
 
-    (iv) *Redeterminations and appeals through Commissioner* — With respect to eligibility determinations under clause (i) made by the Commissioner of Social Security—
+    (i) the negotiated price of the applicable drug; and
 
-      (I) redeterminations shall be made at such time or times as may be provided by the Commissioner;
+    (ii) the discounted price of the applicable drug;
 
-      (II) the Commissioner shall establish procedures for appeals of such determinations that are similar to the procedures described in the third sentence of [section 1383(c)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1383/c/1/A&num=0&edition=prelim); and
+  (C) the establishment of procedures to ensure that the discounted price for an applicable drug under this section is applied before any coverage or financial assistance under other health benefit plans or programs that provide coverage or financial assistance for the purchase or provision of prescription drug coverage on behalf of applicable beneficiaries as specified by the Secretary; and
 
-      (III) judicial review of the final decision of the Commissioner made after a hearing shall be available to the same extent, and with the same limitations, as provided in subsections (g) and (h) of [section 405 of this title](./chapter-007-social-security.md#section-405).
+  (D) providing a reasonable dispute resolution mechanism to resolve disagreements between manufacturers, prescription drug plans and MA–PD plans, and the Secretary.
 
-    (v) *Treatment of medicaid beneficiaries* — Subject to subparagraph (F), the Secretary—
+(2) **Monitoring compliance** — The Secretary shall monitor compliance by a manufacturer with the terms of an agreement under this section.
 
-      (I) shall provide that part D eligible individuals who are full-benefit dual eligible individuals (as defined in [section 1396u–5(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/c/6&num=0&edition=prelim)) or who are recipients of supplemental security income benefits under subchapter XVI shall be treated as subsidy eligible individuals described in paragraph (1); and
+(3) **Collection of data from prescription drug plans and MA–PD plans** — The Secretary may collect appropriate data from prescription drug plans and MA–PD plans in a timeframe that allows for discounted prices to be provided for applicable drugs under this section.
 
-      (II) may provide that part D eligible individuals not described in subclause (I) who are determined for purposes of the State plan under subchapter XIX to be eligible for medical assistance under clause (i), (iii), or (iv) of [section 1396a(a)(10)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/E&num=0&edition=prelim) are treated as being determined to be subsidy eligible individuals described in paragraph (1).
-    Insofar as the Secretary determines that the eligibility requirements under the State plan for medical assistance referred to in subclause (II) are substantially the same as the requirements for being treated as a subsidy eligible individual described in paragraph (1), the Secretary shall provide for the treatment described in such subclause.
+**(d) Administration**
 
-    (vi) *Special rule for widows and widowers* — Notwithstanding the preceding provisions of this subparagraph, in the case of an individual whose spouse dies during the effective period for a determination or redetermination that has been made under this subparagraph, such effective period shall be extended through the date that is 1 year after the date on which the determination or redetermination would (but for the application of this clause) otherwise cease to be effective.
+(1) **In general** — Subject to paragraph (2), the Secretary shall provide for the implementation of this section, including the performance of the duties described in subsection (c).
 
-  (C) *Income determinations* — For purposes of applying this section—
+(2) **Limitation** — In providing for the implementation of this section, the Secretary shall not receive or distribute any funds of a manufacturer under the program.
 
-    (i) in the case of a part D eligible individual who is not treated as a subsidy eligible individual under subparagraph (B)(v), income shall be determined in the manner described in [section 1396d(p)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/p/1/B&num=0&edition=prelim), without regard to the application of [section 1396a(r)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/r/2&num=0&edition=prelim) and except that support and maintenance furnished in kind shall not be counted as income; and
+**(e) Civil money penalty**
 
-    (ii) the term “poverty line” has the meaning given such term in [section 9902(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9902/2&num=0&edition=prelim), including any revision required by such section.
-    Nothing in clause (i) shall be construed to affect the application of [section 1396a(r)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/r/2&num=0&edition=prelim) for the determination of eligibility for medical assistance under subchapter XIX.
+(1) **In general** — A manufacturer that fails to provide discounted prices for applicable drugs of the manufacturer dispensed to applicable beneficiaries in accordance with an agreement in effect under this section shall be subject to a civil money penalty for each such failure in an amount the Secretary determines is equal to the sum of—
 
-  (D) *Resource standard applied to full low-income subsidy to be based on three times SSI resource standard* — The resources requirement of this subparagraph is that an individual’s resources (as determined under [section 1382b of this title](./chapter-007-social-security.md#section-1382b) for purposes of the supplemental security income program subject to the life insurance policy exclusion provided under subparagraph (G)) do not exceed—
+  (A) the amount that the manufacturer would have paid with respect to such discounts under the agreement, which will then be used to pay the discounts which the manufacturer had failed to provide; and
 
-    (i) for 2006 three times the maximum amount of resources that an individual may have and obtain benefits under that program; and
+  (B) 25 percent of such amount.
 
-    (ii) for a subsequent year the resource limitation established under this clause for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
-    Any resource limitation established under clause (ii) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
+(2) **Application** — The provisions of [section 1320a–7a of this title](./chapter-007-social-security.md#section-1320a-7a) (other than subsections (a) and (b)) shall apply to a civil money penalty under this subsection in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7a/a&num=0&edition=prelim).
 
-  (E) *Alternative resource standard*
+**(f) Clarification regarding availability of other covered part D drugs** Nothing in this section shall prevent an applicable beneficiary from purchasing a covered part D drug that is not an applicable drug (including a generic drug or a drug that is not on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in).
 
-    (i) *In general* — The resources requirement of this subparagraph is that an individual’s resources (as determined under [section 1382b of this title](./chapter-007-social-security.md#section-1382b) for purposes of the supplemental security income program subject to the life insurance policy exclusion provided under subparagraph (G)) do not exceed—
+**(g) Definitions** In this section:
 
-      (I) for 2006, $10,000 (or $20,000 in the case of the combined value of the individual’s assets or resources and the assets or resources of the individual’s spouse); and
+(1) **Applicable beneficiary** — The term “applicable beneficiary” means an individual who, on the date of dispensing a covered part D drug—
 
-      (II) for a subsequent year the dollar amounts specified in this subclause (or subclause (I)) for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
-    Any dollar amount established under subclause (II) that is not a multiple of $10 shall be rounded to the nearest multiple of $10.
+  (A) is enrolled in a prescription drug plan or an MA–PD plan;
 
-    (ii) *Use of simplified application form and process* — The Secretary, jointly with the Commissioner of Social Security, shall—
+  (B) is not enrolled in a qualified retiree prescription drug plan; and
 
-      (I) develop a model, simplified application form and process consistent with clause (iii) for the determination and verification of a part D eligible individual’s assets or resources under this subparagraph; and
+  (C) has incurred costs, as determined in accordance with [section 1395w–102(b)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/C&num=0&edition=prelim), for covered part D drugs in the year that exceed the annual deductible specified in [section 1395w–102(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/1&num=0&edition=prelim).
 
-      (II) provide such form to States.
+(2) **Applicable drug** — The term “applicable drug”, with respect to an applicable beneficiary—
 
-    (iii) *Documentation and safeguards* — Under such process—
+  (A) means a covered part D drug—
 
-      (I) the application form shall consist of an attestation under penalty of perjury regarding the level of assets or resources (or combined assets and resources in the case of a married part D eligible individual) and valuations of general classes of assets or resources;
+    (i) approved under a new drug application under [section 355(c) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim) or, in the case of a biologic product, licensed under [section 262 of this title](./chapter-6a-public-health-service.md#section-262); and
 
-      (II) such form shall be accompanied by copies of recent statements (if any) from financial institutions in support of the application; and
+    (ii)
 
-      (III) matters attested to in the application shall be subject to appropriate methods of verification.
+      (I) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan uses a formulary, which is on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in;
 
-    (iv) *Methodology flexibility* — The Secretary may permit a State in making eligibility determinations for premium and cost-sharing subsidies under this section to use the same asset or resource methodologies that are used with respect to eligibility for medical assistance for medicare cost-sharing described in [section 1396d(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/p&num=0&edition=prelim) so long as the Secretary determines that the use of such methodologies will not result in any significant differences in the number of individuals determined to be subsidy eligible individuals.
+      (II) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan does not use a formulary, for which benefits are available under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in; or
 
-  (F) *Treatment of territorial residents* — In the case of a part D eligible individual who is not a resident of the 50 States or the District of Columbia, the individual is not eligible to be a subsidy eligible individual under this section but may be eligible for financial assistance with prescription drug expenses under [section 1396u–5(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/e&num=0&edition=prelim).
+      (III) is provided through an exception or appeal; and
 
-  (G) *Life insurance policy exclusion* — In determining the resources of an individual (and the eligible spouse of the individual, if any) under [section 1382b of this title](./chapter-007-social-security.md#section-1382b) for purposes of subparagraphs (D) and (E) no part of the value of any life insurance policy shall be taken into account.
+  (B) does not include a selected drug (as referred to under [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)) during a price applicability period (as defined in [section 1320f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/b/2&num=0&edition=prelim)) with respect to such drug.
 
-(4) **Indexing dollar amounts**
+(3) **Applicable number of calendar days** — The term “applicable number of calendar days” means—
 
-  (A) *Copayment for lowest income dual eligible individuals* — The dollar amounts applied under paragraph (1)(D)(ii)—
+  (A) with respect to claims for reimbursement submitted electronically, 14 days; and
 
-    (i) for 2007 shall be the dollar amounts specified in such paragraph increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year; or
+  (B) with respect to claims for reimbursement submitted otherwise, 30 days.
 
-    (ii) for a subsequent year shall be the dollar amounts specified in this clause (or clause (i)) for the previous year increased by the annual percentage increase in the consumer price index (all items; U.S. city average) as of September of such previous year.
-    Any amount established under clause (i) or (ii), that is based on an increase of $1 or $3, that is not a multiple of 5 cents or 10 cents, respectively, shall be rounded to the nearest multiple of 5 cents or 10 cents, respectively.
+(4) **Discounted price**
 
-  (B) *Reduced deductible* — The dollar amount applied under paragraph (2)(B)—
+  (A) *In general* — The term “discounted price” means, subject to subparagraphs (B) and (C), with respect to an applicable drug of a manufacturer dispensed during a year to an applicable beneficiary—
 
-    (i) for 2007 shall be the dollar amount specified in such paragraph increased by the annual percentage increase described in [section 1395w–102(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/6&num=0&edition=prelim) for 2007; or
+    (i) who has not incurred costs, as determined in accordance with [section 1395w–102(b)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/C&num=0&edition=prelim), for covered part D drugs in the year that are equal to or exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B/i&num=0&edition=prelim) for the year, 90 percent of the negotiated price of such drug; and
 
-    (ii) for a subsequent year shall be the dollar amount specified in this clause (or clause (i)) for the previous year increased by the annual percentage increase described in [section 1395w–102(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/6&num=0&edition=prelim) for the year involved.
-    Any amount established under clause (i) or (ii) that is not a multiple of $1 shall be rounded to the nearest multiple of $1.
+    (ii) who has incurred such costs, as so determined, in the year that are equal to or exceed such threshold for the year, 80 percent of the negotiated price of such drug.
 
-(5) **Waiver of de minimis premiums** — The Secretary shall, under procedures established by the Secretary, permit a prescription drug plan or an MA–PD plan to waive the monthly beneficiary premium for a subsidy eligible individual if the amount of such premium is de minimis. If such premium is waived under the plan, the Secretary shall not reassign subsidy eligible individuals enrolled in the plan to other plans based on the fact that the monthly beneficiary premium under the plan was greater than the low-income benchmark premium amount.
+  (B) *Phase-in for certain drugs dispensed to LIS beneficiaries*
 
-**(b) Premium subsidy amount**
+    (i) *In general* — In the case of an applicable drug of a specified manufacturer (as defined in clause (ii)) that is marketed as of August 16, 2022, and dispensed for an applicable beneficiary who is a subsidy eligible individual (as defined in [section 1395w–114(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114/a/3&num=0&edition=prelim)), the term “discounted price” means the specified LIS percent (as defined in clause (iii)) of the negotiated price of the applicable drug of the manufacturer.
 
-(1) **In general** — The premium subsidy amount described in this subsection for a subsidy eligible individual residing in a PDP region and enrolled in a prescription drug plan or MA–PD plan is the low-income benchmark premium amount (as defined in paragraph (2)) for the PDP region in which the individual resides or, if greater, the amount specified in paragraph (3).
+    (ii) *Specified manufacturer*
 
-(2) **Low-income benchmark premium amount defined**
+      (I) *In general* — In this subparagraph, subject to subclause (II), the term “specified manufacturer” means a manufacturer of an applicable drug for which, in 2021—
 
-  (A) *In general* — For purposes of this subsection, the term “low-income benchmark premium amount” means, with respect to a PDP region in which—
+        (aa) the manufacturer had a coverage gap discount agreement under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a);
 
-    (i) all prescription drug plans are offered by the same PDP sponsor, the weighted average of the amounts described in subparagraph (B)(i) for such plans; or
+        (bb) the total expenditures for all of the specified drugs of the manufacturer covered by such agreement or agreements for such year and covered under this part during such year represented less than 1.0 percent of the total expenditures under this part for all covered Part 11 So in original. Probably should not be capitalized. D drugs during such year; and
 
-    (ii) there are prescription drug plans offered by more than one PDP sponsor, the weighted average of amounts described in subparagraph (B) for prescription drug plans and MA–PD plans described in [section 1395w–21(a)(2)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–21/a/2/A/i&num=0&edition=prelim) offered in such region.
+        (cc) the total expenditures for all of the specified drugs of the manufacturer that are single source drugs and biological products for which payment may be made under part B during such year represented less than 1.0 percent of the total expenditures under part B for all drugs or biological products for which payment may be made under such part during such year.
 
-  (B) *Premium amounts described* — The premium amounts described in this subparagraph are, in the case of—
+      (II) *Specified drugs*
 
-    (i) a prescription drug plan that is a basic prescription drug plan, the monthly beneficiary premium for such plan;
+        (aa) *In general* — For purposes of this clause, the term “specified drug” means, with respect to a specified manufacturer, for 2021, an applicable drug that is produced, prepared, propagated, compounded, converted, or processed by the manufacturer.
 
-    (ii) a prescription drug plan that provides alternative prescription drug coverage the actuarial value of which is greater than that of standard prescription drug coverage, the portion of the monthly beneficiary premium that is attributable to basic prescription drug coverage; and
+        (bb) *Aggregation rule* — All persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 shall be treated as one manufacturer for purposes of this subparagraph. For purposes of making a determination pursuant to the previous sentence, an agreement under this section shall require that a manufacturer provide and attest to such information as specified by the Secretary as necessary.
 
-    (iii) an MA–PD plan, the portion of the MA monthly prescription drug beneficiary premium that is attributable to basic prescription drug benefits (described in section 1395w–22(a)(6)(B)(ii) 11 So in original. [Section 1395w–22(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–22/a/6&num=0&edition=prelim) does not contain a subpar. (B). of this title) and determined before the application of the monthly rebate computed under [section 1395w–24(b)(1)(C)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/b/1/C/i&num=0&edition=prelim) for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(o) of this title for that plan and year involved.
-    The premium amounts described in this subparagraph do not include any amounts attributable to late enrollment penalties under [section 1395w–113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/b&num=0&edition=prelim).
+      (III) *Limitation* — The term “specified manufacturer” shall not include a manufacturer described in subclause (I) if such manufacturer is acquired after 2021 by another manufacturer that is not a specified manufacturer, effective at the beginning of the plan year immediately following such acquisition or, in the case of an acquisition before 2025, effective January 1, 2025.
 
-(3) **Access to 0 premium plan** — In no case shall the premium subsidy amount under this subsection for a PDP region be less than the lowest monthly beneficiary premium for a prescription drug plan that offers basic prescription drug coverage in the region.
+    (iii) *Specified LIS percent* — In this subparagraph, the “specified LIS percent” means, with respect to a year—
 
-**(c) Administration of subsidy program**
+      (I) for an applicable drug dispensed for an applicable beneficiary described in clause (i) who has not incurred costs, as determined in accordance with [section 1395w–102(b)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/C&num=0&edition=prelim), for covered part D drugs in the year that are equal to or exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B/i&num=0&edition=prelim) for the year—
 
-(1) **In general** — The Secretary shall provide a process whereby, in the case of a part D eligible individual who is determined to be a subsidy eligible individual and who is enrolled in a prescription drug plan or is enrolled in an MA–PD plan—
+        (aa) for 2025, 99 percent;
 
-  (A) the Secretary provides for a notification of the PDP sponsor or the MA organization offering the plan involved that the individual is eligible for a subsidy and the amount of the subsidy under subsection (a);
+        (bb) for 2026, 98 percent;
 
-  (B) the sponsor or organization involved reduces the premiums or cost-sharing otherwise imposed by the amount of the applicable subsidy and submits to the Secretary information on the amount of such reduction;
+        (cc) for 2027, 95 percent;
 
-  (C) the Secretary periodically and on a timely basis reimburses the sponsor or organization for the amount of such reductions; and
+        (dd) for 2028, 92 percent; and
 
-  (D) the Secretary ensures the confidentiality of individually identifiable information.
-  In applying subparagraph (C), the Secretary shall compute reductions based upon imposition under subsections (a)(1)(D) and (a)(2)(E) of unreduced copayment amounts applied under such subsections.
+        (ee) for 2029 and each subsequent year, 90 percent; and
 
-(2) **Use of capitated form of payment** — The reimbursement under this section with respect to cost-sharing subsidies may be computed on a capitated basis, taking into account the actuarial value of the subsidies and with appropriate adjustments to reflect differences in the risks actually involved.
+      (II) for an applicable drug dispensed for an applicable beneficiary described in clause (i) who has incurred costs, as determined in accordance with [section 1395w–102(b)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/C&num=0&edition=prelim), for covered part D drugs in the year that are equal to or exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B/i&num=0&edition=prelim) for the year—
 
-**(d) Facilitation of reassignments** Beginning not later than January 1, 2011, the Secretary shall, in the case of a subsidy eligible individual who is enrolled in one prescription drug plan and is subsequently reassigned by the Secretary to a new prescription drug plan, provide the individual, within 30 days of such reassignment, with—
+        (aa) for 2025, 99 percent;
 
-(1) information on formulary differences between the individual’s former plan and the plan to which the individual is reassigned with respect to the individual’s drug regimens; and
+        (bb) for 2026, 98 percent;
 
-(2) a description of the individual’s right to request a coverage determination, exception, or reconsideration under [section 1395w–104(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/g&num=0&edition=prelim), bring an appeal under [section 1395w–104(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/h&num=0&edition=prelim), or resolve a grievance under [section 1395w–104(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/f&num=0&edition=prelim).
+        (cc) for 2027, 95 percent;
 
-**(e) Limited income newly eligible transition program**
+        (dd) for 2028, 92 percent;
 
-(1) **In general** — Beginning not later than January 1, 2024, the Secretary shall carry out a program to provide transitional coverage for covered part D drugs for LI NET eligible individuals in accordance with this subsection.
+        (ee) for 2029, 90 percent;
 
-(2) **LI NET eligible individual defined** — For purposes of this subsection, the term “LI NET eligible individual” means a part D eligible individual who—
+        (ff) for 2030, 85 percent; and
 
-  (A) meets the requirements of clauses (ii) and (iii) of subsection (a)(3)(A); and
+        (gg) for 2031 and each subsequent year, 80 percent.
 
-  (B) has not yet enrolled in a prescription drug plan or an MA–PD plan, or, who has so enrolled, but with respect to whom coverage under such plan has not yet taken effect.
+  (C) *Phase-in for specified small manufacturers*
 
-(3) **Transitional coverage** — For purposes of this subsection, the term “transitional coverage” means with respect to an LI NET eligible individual—
+    (i) *In general* — In the case of an applicable drug of a specified small manufacturer (as defined in clause (ii)) that is marketed as of August 16, 2022, and dispensed for an applicable beneficiary, the term “discounted price” means the specified small manufacturer percent (as defined in clause (iii)) of the negotiated price of the applicable drug of the manufacturer.
 
-  (A) immediate access to covered part D drugs at the point of sale during the period that begins on the first day of the month such individual is determined to meet the requirements of clauses (ii) and (iii) of subsection (a)(3)(A) and ends on the date that coverage under a prescription drug plan or MA–PD plan takes effect with respect to such individual; and
+    (ii) *Specified small manufacturer*
 
-  (B) in the case of an LI NET eligible individual who is a full-benefit dual eligible individual (as defined in [section 1396u–5(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396u–5/c/6&num=0&edition=prelim)) or a recipient of supplemental security income benefits under subchapter XVI, retroactive coverage (in the form of reimbursement of the amounts that would have been paid under this part had such individual been enrolled in a prescription drug plan or MA–PD plan) of covered part D drugs purchased by such individual during the period that begins on the date that is the later of—
+      (I) *In general* — In this subparagraph, subject to subclause (III), the term “specified small manufacturer” means a manufacturer of an applicable drug for which, in 2021—
 
-    (i) the date that such individual was first eligible for a low-income subsidy under this part; or
+        (aa) the manufacturer is a specified manufacturer (as defined in subparagraph (B)(ii)); and
 
-    (ii) the date that is 36 months prior to the date such individual enrolls in a prescription drug plan or MA–PD plan,
-    and ends on the date that coverage under such plan takes effect.
+        (bb) the total expenditures under part D for any one of the specified small manufacturer drugs of the manufacturer that are covered by the agreement or agreements under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a) of such manufacturer for such year and covered under this part during such year are equal to or more than 80 percent of the total expenditures under this part for all specified small manufacturer drugs of the manufacturer that are covered by such agreement or agreements for such year and covered under this part during such year.
 
-(4) **Program administration**
+      (II) *Specified small manufacturer drugs*
 
-  (A) *Point of contact* — The Secretary shall, as determined appropriate by the Secretary, administer the program under this subsection through a contract with a single program administrator.
+        (aa) *In general* — For purposes of this clause, the term “specified small manufacturer drugs” means, with respect to a specified small manufacturer, for 2021, an applicable drug that is produced, prepared, propagated, compounded, converted, or processed by the manufacturer.
 
-  (B) *Benefit design* — The Secretary shall ensure that the transitional coverage provided to LI NET eligible individuals under this subsection—
+        (bb) *Aggregation rule* — All persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 shall be treated as one manufacturer for purposes of this subparagraph. For purposes of making a determination pursuant to the previous sentence, an agreement under this section shall require that a manufacturer provide and attest to such information as specified by the Secretary as necessary.
 
-    (i) provides access to all covered part D drugs under an open formulary;
+      (III) *Limitation* — The term “specified small manufacturer” shall not include a manufacturer described in subclause (I) if such manufacturer is acquired after 2021 by another manufacturer that is not a specified small manufacturer, effective at the beginning of the plan year immediately following such acquisition or, in the case of an acquisition before 2025, effective January 1, 2025.
 
-    (ii) permits all pharmacies determined by the Secretary to be in good standing to process claims under the program;
+    (iii) *Specified small manufacturer percent* — In this subparagraph, the term “specified small manufacturer percent” means, with respect to a year—
 
-    (iii) is consistent with such requirements as the Secretary considers necessary to improve patient safety and ensure appropriate dispensing of medication; and
+      (I) for an applicable drug dispensed for an applicable beneficiary who has not incurred costs, as determined in accordance with [section 1395w–102(b)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/C&num=0&edition=prelim), for covered part D drugs in the year that are equal to or exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B/i&num=0&edition=prelim) for the year—
 
-    (iv) meets such other requirements as the Secretary may establish.
+        (aa) for 2025, 99 percent;
 
-(5) **Relationship to other provisions of this subchapter; waiver authority**
+        (bb) for 2026, 98 percent;
 
-  (A) *In general* — The following provisions shall not apply with respect to the program under this subsection:
+        (cc) for 2027, 95 percent;
 
-    (i) Paragraphs (1) and (3)(B) of [section 1395w–104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/a&num=0&edition=prelim) (relating to dissemination of general information; availability of information on changes in formulary through the internet).
+        (dd) for 2028, 92 percent; and
 
-    (ii) Subparagraphs (A) and (B) of [section 1395w–104(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/b/3&num=0&edition=prelim) (relating to requirements on development and application of formularies; formulary development).
+        (ee) for 2029 and each subsequent year, 90 percent; and
 
-    (iii) Paragraphs (1)(C) and (2) of [section 1395w–104(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–104/c&num=0&edition=prelim) (relating to medication therapy management program).
+      (II) for an applicable drug dispensed for an applicable beneficiary who has incurred costs, as determined in accordance with [section 1395w–102(b)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/C&num=0&edition=prelim), for covered part D drugs in the year that are equal to or exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B/i&num=0&edition=prelim) for the year—
 
-  (B) *Waiver authority* — The Secretary may waive such other requirements of subchapter XI and this subchapter as may be necessary to carry out the purposes of the program established under this subsection.
+        (aa) for 2025, 99 percent;
 
-(6) **Contracting authority** — The authority vested in the Secretary by this subsection may be performed without regard to such provisions of law or regulations relating to the making, performance, amendment, or modification of contracts of the United States as the Secretary may determine to be inconsistent with the furtherance of the purpose of this subchapter.
+        (bb) for 2026, 98 percent;
 
-**(f) Relation to medicaid program** For special provisions under the medicaid program relating to medicare prescription drug benefits, see [section 1396u–5 of this title](./chapter-007-social-security.md#section-1396u-5).
+        (cc) for 2027, 95 percent;
+
+        (dd) for 2028, 92 percent;
+
+        (ee) for 2029, 90 percent;
+
+        (ff) for 2030, 85 percent; and
+
+        (gg) for 2031 and each subsequent year, 80 percent.
+
+  (D) *Total expenditures* — For purposes of this paragraph, the term “total expenditures” includes, in the case of expenditures with respect to part D, the total gross covered prescription drug costs as defined in [section 1395w–115(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–115/b/3&num=0&edition=prelim). The term “total expenditures” excludes, in the case of expenditures with respect to part B, expenditures for a drug or biological that are bundled or packaged into the payment for another service.
+
+  (E) *Special case for certain claims*
+
+    (i) *Claims spanning deductible* — In the case where the entire amount of the negotiated price of an individual claim for an applicable drug with respect to an applicable beneficiary does not fall above the annual deductible specified in [section 1395w–102(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/1&num=0&edition=prelim) for the year, the manufacturer of the applicable drug shall provide the discounted price under this section on only the portion of the negotiated price of the applicable drug that falls above such annual deductible.
+
+    (ii) *Claims spanning out-of-pocket threshold* — In the case where the entire amount of the negotiated price of an individual claim for an applicable drug with respect to an applicable beneficiary does not fall entirely below or entirely above the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B/i&num=0&edition=prelim) for the year, the manufacturer of the applicable drug shall provide the discounted price—
+
+      (I) in accordance with subparagraph (A)(i) on the portion of the negotiated price of the applicable drug that falls below such threshold; and
+
+      (II) in accordance with subparagraph (A)(ii) on the portion of such price of such drug that falls at or above such threshold.
+
+(5) **Manufacturer** — The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
+
+(6) **Negotiated price** — The term “negotiated price” has the meaning given such term for purposes of [section 1395w–102(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/d/1/B&num=0&edition=prelim), and, with respect to an applicable drug, such negotiated price shall include any dispensing fee and, if applicable, any vaccine administration fee for the applicable drug.
+
+(7) **Qualified retiree prescription drug plan** — The term “qualified retiree prescription drug plan” has the meaning given such term in [section 1395w–132(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–132/a/2&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### Amendments
-2020—Subsecs. (e), (f). Pub. L. 116–260 added subsec. (e) and redesignated former subsec. (e) as (f).
-
-2010—Subsec. (a)(1)(D)(i). Pub. L. 111–148, § 3309, inserted “or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under [section 1315 of this title](./chapter-007-social-security.md#section-1315) or subsection (c) or (d) of [section 1396n of this title](./chapter-007-social-security.md#section-1396n) or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under [section 1396b(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/m&num=0&edition=prelim) or under [section 1396u–2 of this title](./chapter-007-social-security.md#section-1396u-2)” after “1396a(q)(1)(B) of this title)”.
-
-Subsec. (a)(3)(B)(vi). Pub. L. 111–148, § 3304(a), added cl. (vi).
-
-Subsec. (a)(5). Pub. L. 111–148, § 3303(a), added par. (5).
-
-Subsec. (b)(2)(B)(iii). Pub. L. 111–152 substituted “and determined before the application of the monthly rebate computed under [section 1395w–24(b)(1)(C)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/b/1/C/i&num=0&edition=prelim) for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(o) of this title for that plan and year involved” for “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under [section 1395w–24(b)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–24/b/1/C&num=0&edition=prelim) or bonus payment under [section 1395w–23(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–23/n&num=0&edition=prelim)”.
-
-Pub. L. 111–148, § 3302(a), inserted “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1854(b)(1)(C) or bonus payment under [section 1395w–23(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–23/n&num=0&edition=prelim)” before period at end.
-
-Subsecs. (d), (e). Pub. L. 111–148, § 3305, added subsec. (d) and redesignated former subsec. (d) as (e).
-
-2008—Subsec. (a)(1)(A). Pub. L. 110–275, § 114(a)(2), substituted “equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).” for “equal to—
-
-“(i) 100 percent of the amount described in subsection (b)(1) of this section, but not to exceed the premium amount specified in subsection (b)(2)(B) of this section; plus
-
-“(ii) 80 percent of any late enrollment penalties imposed under [section 1395w–113(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/b&num=0&edition=prelim) for the first 60 months in which such penalties are imposed for that individual, and 100 percent of any such penalties for any subsequent month.”
-
-Subsec. (a)(3)(B)(iv)(III). Pub. L. 110–275, § 117(a), added subcl. (III).
-
-Subsec. (a)(3)(C)(i). Pub. L. 110–275, § 116(a)(1), inserted “and except that support and maintenance furnished in kind shall not be counted as income” after “[section 1396a(r)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/r/2&num=0&edition=prelim)”.
-
-Subsec. (a)(3)(D), (E)(i). Pub. L. 110–275, § 116(a)(2), (3), inserted “subject to the life insurance policy exclusion provided under subparagraph (G)” after “program” in introductory provisions.
-
-Subsec. (a)(3)(G). Pub. L. 110–275, § 116(a)(4), added subpar. (G).
-
-#### Effective Date of 2010 Amendment
-Pub. L. 111–148, title III, § 3302(b), Mar. 23, 2010, 124 Stat. 468, provided that: “The amendment made by subsection (a) [amending this section] shall apply to premiums for months beginning on or after January 1, 2011.”
-
-Amendment by section 3303(a) of Pub. L. 111–148 applicable to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011, see section 3303(c) of Pub. L. 111–148, set out as a note under [section 1395w–101 of this title](./chapter-007-social-security.md#section-1395w-101).
-
-Pub. L. 111–148, title III, § 3304(b), Mar. 23, 2010, 124 Stat. 470, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2011.”
-
-#### Effective Date of 2008 Amendment
-Amendment by section 114(a)(2) of Pub. L. 110–275 applicable to subsidies for months beginning with Jan. 2009, see section 114(b) of Pub. L. 110–275, set out as a note under [section 1395w–113 of this title](./chapter-007-social-security.md#section-1395w-113).
-
-Pub. L. 110–275, title I, § 116(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by this section [amending this section] shall take effect with respect to applications filed on or after January 1, 2010.”
-
-Pub. L. 110–275, title I, § 117(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of section 101 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 [Pub. L. 108–173].”
-
-#### GAO Study Regarding Impact of Assets Test for Subsidy Eligible Individuals
-Pub. L. 108–173, title I, § 107(e), Dec. 8, 2003, 117 Stat. 2171, provided that: “(1) Study.—The Comptroller General of the United States shall conduct a study to determine the extent to which drug utilization and access to covered part D drugs under part D of title XVIII of the Social Security Act [[42 U.S.C. 1395w–101](./chapter-007-social-security.md#section-1395w-101) et seq.] by subsidy eligible individuals differs from such utilization and access for individuals who would qualify as such subsidy eligible individuals but for the application of section 1860D–14(a)(3)(A)(iii) of such Act [[42 U.S.C. 1395w–114(a)(3)(A)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114/a/3/A/iii&num=0&edition=prelim)]. “(2) Report.—Not later than September 30, 2007, the Comptroller General shall submit a report to Congress on the study conducted under paragraph (1) that includes such recommendations for legislation as the Comptroller General determines are appropriate.”
+#### References in Text
+Section 52 of the Internal Revenue Code of 1986, referred to in subsec. (g)(4)(B)(ii)(II)(bb), (C)(ii)(II)(bb), is classified to [section 52 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section52&num=0&edition=prelim), Internal Revenue Code.
 
 
 <a id="section-1395xx"></a>
@@ -102020,191 +104113,9 @@ Pub. L. 92–603, title II, § 226(b), Oct. 30, 1972, 86 Stat. 1403, provided th
 
 
 <a id="section-1395y"></a>
-## § 1395y. Medicare coverage gap discount program
-**(a) Establishment** The Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the “program”) by not later than January 1, 2011. Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish a model agreement for use under the program by not later than 180 days after March 23, 2010, in consultation with manufacturers, and allow for comment on such model agreement.
+## § 1395y. Selected drug subsidy program
 
-**(b) Terms of agreement**
-
-(1) **In general**
-
-  (A) *Agreement* — An agreement under this section shall require the manufacturer to provide applicable beneficiaries access to discounted prices for applicable drugs of the manufacturer.
-
-  (B) *Provision of discounted prices at the point-of-sale* — Except as provided in subsection (c)(1)(A)(iii), such discounted prices shall be provided to the applicable beneficiary at the pharmacy or by the mail order service at the point-of-sale of an applicable drug.
-
-  (C) *Timing of agreement*
-
-    (i) *Special rule for 2011* — In order for an agreement with a manufacturer to be in effect under this section with respect to the period beginning on January 1, 2011, and ending on December 31, 2011, the manufacturer shall enter into such agreement not later than not later than 11 So in original. Second “not later than” probably should not appear. 30 days after the date of the establishment of a model agreement under subsection (a).
-
-    (ii) *2012 and subsequent years* — In order for an agreement with a manufacturer to be in effect under this section with respect to plan year 2012 or a subsequent plan year, the manufacturer shall enter into such agreement (or such agreement shall be renewed under paragraph (4)(A)) not later than January 30 of the preceding year.
-
-(2) **Provision of appropriate data** — Each manufacturer with an agreement in effect under this section shall collect and have available appropriate data, as determined by the Secretary, to ensure that it can demonstrate to the Secretary compliance with the requirements under the program.
-
-(3) **Compliance with requirements for administration of program** — Each manufacturer with an agreement in effect under this section shall comply with requirements imposed by the Secretary or a third party with a contract under subsection (d)(3), as applicable, for purposes of administering the program, including any determination under clause (i) of subsection (c)(1)(A) or procedures established under such subsection (c)(1)(A).
-
-(4) **Length of agreement**
-
-  (A) *In general* — An agreement under this section shall be effective for an initial period of not less than 18 months and shall be automatically renewed for a period of not less than 1 year unless terminated under subparagraph (B).
-
-  (B) *Termination*
-
-    (i) *By the Secretary* — The Secretary may provide for termination of an agreement under this section for a knowing and willful violation of the requirements of the agreement or other good cause shown. Such termination shall not be effective earlier than 30 days after the date of notice to the manufacturer of such termination. The Secretary shall provide, upon request, a manufacturer with a hearing concerning such a termination, and such hearing shall take place prior to the effective date of the termination with sufficient time for such effective date to be repealed if the Secretary determines appropriate.
-
-    (ii) *By a manufacturer* — A manufacturer may terminate an agreement under this section for any reason. Any such termination shall be effective, with respect to a plan year—
-
-      (I) if the termination occurs before January 30 of a plan year, as of the day after the end of the plan year; and
-
-      (II) if the termination occurs on or after January 30 of a plan year, as of the day after the end of the succeeding plan year.
-
-    (iii) *Effectiveness of termination* — Any termination under this subparagraph shall not affect discounts for applicable drugs of the manufacturer that are due under the agreement before the effective date of its termination.
-
-    (iv) *Notice to third party* — The Secretary shall provide notice of such termination to a third party with a contract under subsection (d)(3) within not less than 30 days before the effective date of such termination.
-
-**(c) Duties described and special rule for supplemental benefits**
-
-(1) **Duties described** — The duties described in this subsection are the following:
-
-  (A) *Administration of program* — Administering the program, including—
-
-    (i) the determination of the amount of the discounted price of an applicable drug of a manufacturer;
-
-    (ii) except as provided in clause (iii), the establishment of procedures under which discounted prices are provided to applicable beneficiaries at pharmacies or by mail order service at the point-of-sale of an applicable drug;
-
-    (iii) in the case where, during the period beginning on January 1, 2011, and ending on December 31, 2011, it is not practicable to provide such discounted prices at the point-of-sale (as described in clause (ii)), the establishment of procedures to provide such discounted prices as soon as practicable after the point-of-sale;
-
-    (iv) the establishment of procedures to ensure that, not later than the applicable number of calendar days after the dispensing of an applicable drug by a pharmacy or mail order service, the pharmacy or mail order service is reimbursed for an amount equal to the difference between—
-
-      (I) the negotiated price of the applicable drug; and
-
-      (II) the discounted price of the applicable drug;
-
-    (v) the establishment of procedures to ensure that the discounted price for an applicable drug under this section is applied before any coverage or financial assistance under other health benefit plans or programs that provide coverage or financial assistance for the purchase or provision of prescription drug coverage on behalf of applicable beneficiaries as the Secretary may specify;
-
-    (vi) the establishment of procedures to implement the special rule for supplemental benefits under paragraph (2); and
-
-    (vii) providing a reasonable dispute resolution mechanism to resolve disagreements between manufacturers, applicable beneficiaries, and the third party with a contract under subsection (d)(3).
-
-  (B) *Monitoring compliance*
-
-    (i) *In general* — The Secretary shall monitor compliance by a manufacturer with the terms of an agreement under this section.
-
-    (ii) *Notification* — If a third party with a contract under subsection (d)(3) determines that the manufacturer is not in compliance with such agreement, the third party shall notify the Secretary of such noncompliance for appropriate enforcement under subsection (e).
-
-  (C) *Collection of data from prescription drug plans and MA–PD plans* — The Secretary may collect appropriate data from prescription drug plans and MA–PD plans in a timeframe that allows for discounted prices to be provided for applicable drugs under this section.
-
-(2) **Special rule for supplemental benefits** — For plan year 2011 and each subsequent plan year, in the case where an applicable beneficiary has supplemental benefits with respect to applicable drugs under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in, the applicable beneficiary shall not be provided a discounted price for an applicable drug under this section until after such supplemental benefits have been applied with respect to the applicable drug.
-
-**(d) Administration**
-
-(1) **In general** — Subject to paragraph (2), the Secretary shall provide for the implementation of this section, including the performance of the duties described in subsection (c)(1).
-
-(2) **Limitation**
-
-  (A) *In general* — Subject to subparagraph (B), in providing for such implementation, the Secretary shall not receive or distribute any funds of a manufacturer under the program.
-
-  (B) *Exception* — The limitation under subparagraph (A) shall not apply to the Secretary with respect to drugs dispensed during the period beginning on January 1, 2011, and ending on December 31, 2011, but only if the Secretary determines that the exception to such limitation under this subparagraph is necessary in order for the Secretary to begin implementation of this section and provide applicable beneficiaries timely access to discounted prices during such period.
-
-(3) **Contract with third parties** — The Secretary shall enter into a contract with 1 or more third parties to administer the requirements established by the Secretary in order to carry out this section. At a minimum, the contract with a third party under the preceding sentence shall require that the third party—
-
-  (A) receive and transmit information between the Secretary, manufacturers, and other individuals or entities the Secretary determines appropriate;
-
-  (B) receive, distribute, or facilitate the distribution of funds of manufacturers to appropriate individuals or entities in order to meet the obligations of manufacturers under agreements under this section;
-
-  (C) provide adequate and timely information to manufacturers, consistent with the agreement with the manufacturer under this section, as necessary for the manufacturer to fulfill its obligations under this section; and
-
-  (D) permit manufacturers to conduct periodic audits, directly or through contracts, of the data and information used by the third party to determine discounts for applicable drugs of the manufacturer under the program.
-
-(4) **Performance requirements** — The Secretary shall establish performance requirements for a third party with a contract under paragraph (3) and safeguards to protect the independence and integrity of the activities carried out by the third party under the program under this section.
-
-(5) **Implementation** — The Secretary may implement the program under this section by program instruction or otherwise.
-
-(6) **Administration** — Chapter 35 of title 44 shall not apply to the program under this section.
-
-**(e) Enforcement**
-
-(1) **Audits** — Each manufacturer with an agreement in effect under this section shall be subject to periodic audit by the Secretary.
-
-(2) **Civil money penalty**
-
-  (A) *In general* — The Secretary shall impose a civil money penalty on a manufacturer that fails to provide applicable beneficiaries discounts for applicable drugs of the manufacturer in accordance with such agreement for each such failure in an amount the Secretary determines is commensurate with the sum of—
-
-    (i) the amount that the manufacturer would have paid with respect to such discounts under the agreement, which will then be used to pay the discounts which the manufacturer had failed to provide; and
-
-    (ii) 25 percent of such amount.
-
-  (B) *Application* — The provisions of [section 1320a–7a of this title](./chapter-007-social-security.md#section-1320a-7a) (other than subsections (a) and (b)) shall apply to a civil money penalty under this paragraph in the same manner as such provisions apply to a penalty or proceeding under [section 1320a–7a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7a/a&num=0&edition=prelim).
-
-**(f) Clarification regarding availability of other covered part D drugs** Nothing in this section shall prevent an applicable beneficiary from purchasing a covered part D drug that is not an applicable drug (including a generic drug or a drug that is not on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in).
-
-**(g) Definitions** In this section:
-
-(1) **Applicable beneficiary** — The term “applicable beneficiary” means an individual who, on the date of dispensing a covered part D drug—
-
-  (A) is enrolled in a prescription drug plan or an MA–PD plan;
-
-  (B) is not enrolled in a qualified retiree prescription drug plan;
-
-  (C) is not entitled to an income-related subsidy under [section 1395w–114(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114/a&num=0&edition=prelim); and
-
-  (D) who—
-
-    (i) has reached or exceeded the initial coverage limit under [section 1395w–102(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/3&num=0&edition=prelim) during the year; and
-
-    (ii) has not incurred costs for covered part D drugs in the year equal to the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim).
-
-(2) **Applicable drug** — The term “applicable drug” means, with respect to an applicable beneficiary, a covered part D drug—
-
-  (A) approved under a new drug application under [section 355(b) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/b&num=0&edition=prelim) or, in the case of a biologic product, licensed under [section 262 of this title](./chapter-6a-public-health-service.md#section-262) (other than, with respect to a plan year before 2019, a product licensed under subsection (k) of such section 262); and
-
-  (B)
-
-    (i) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan uses a formulary, which is on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in;
-
-    (ii) if the PDP sponsor of the prescription drug plan or the MA organization offering the MA–PD plan does not use a formulary, for which benefits are available under the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in; or
-
-    (iii) is provided through an exception or appeal.
-
-(3) **Applicable number of calendar days** — The term “applicable number of calendar days” means—
-
-  (A) with respect to claims for reimbursement submitted electronically, 14 days; and
-
-  (B) with respect to claims for reimbursement submitted otherwise, 30 days.
-
-(4) **Discounted price**
-
-  (A) *In general* — The term “discounted price” means 50 percent (or, with respect to a plan year after plan year 2018, 30 percent) of the negotiated price of the applicable drug of a manufacturer.
-
-  (B) *Clarification* — Nothing in this section shall be construed as affecting the responsibility of an applicable beneficiary for payment of a dispensing fee for an applicable drug.
-
-  (C) *Special case for certain claims* — In the case where the entire amount of the negotiated price of an individual claim for an applicable drug with respect to an applicable beneficiary does not fall at or above the initial coverage limit under [section 1395w–102(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/3&num=0&edition=prelim) and below the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim) for the year, the manufacturer of the applicable drug shall provide the discounted price under this section on only the portion of the negotiated price of the applicable drug that falls at or above such initial coverage limit and below such annual out-of-pocket threshold.
-
-(5) **Manufacturer** — The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
-
-(6) **Negotiated price** — The term “negotiated price” has the meaning given such term in section 423.100 of title 42, Code of Federal Regulations (as in effect on March 23, 2010), except that such negotiated price shall not include any dispensing fee for the applicable drug.
-
-(7) **Qualified retiree prescription drug plan** — The term “qualified retiree prescription drug plan” has the meaning given such term in [section 1395w–132(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–132/a/2&num=0&edition=prelim).
-
-### Statutory Notes
-
-#### Amendments
-2018—Subsec. (g)(2)(A). Pub. L. 115–123, § 53113, inserted “, with respect to a plan year before 2019,” after “other than”.
-
-Subsec. (g)(4)(A). Pub. L. 115–123, § 53116(b), inserted “(or, with respect to a plan year after plan year 2018, 30 percent)” after “50 percent”.
-
-2010—Subsec. (a). Pub. L. 111–152, § 1101(b)(2)(A), substituted “January 1, 2011” for “July 1, 2010” and “180 days after March 23, 2010” for “April 1, 2010”.
-
-Subsec. (b)(1)(C)(i). Pub. L. 111–152, § 1101(b)(2)(B)(i), which directed the amendment of subpar. (C) by striking out “2010 and” in the heading, was executed by striking “2010 and” before “2011” in cl. (i) heading to reflect the probable intent of Congress.
-
-Pub. L. 111–152, § 1101(b)(2)(B)(ii), (iii), substituted “January 1, 2011” for “July 1, 2010” and “not later than 30 days after the date of the establishment of a model agreement under subsection (a)” for “May 1, 2010”.
-
-Subsec. (c)(1)(A)(iii). Pub. L. 111–152, § 1101(b)(2)(C)(i), substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2011”.
-
-Subsec. (c)(2). Pub. L. 111–152, § 1101(b)(2)(C)(ii), substituted “2011” for “2010”.
-
-Subsec. (d)(2)(B). Pub. L. 111–152, § 1101(b)(2)(D), substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2010”.
-
-Subsec. (g)(1). Pub. L. 111–152, § 1101(b)(2)(E)(i), substituted “a covered part D drug” for “an applicable drug” in introductory provisions.
-
-Subsec. (g)(1)(C) to (E). Pub. L. 111–152, § 1101(b)(2)(E)(ii)–(iv), inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “is not subject to a reduction in premium subsidy under [section 1395r(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395r/i&num=0&edition=prelim); and”.
+With respect to covered part D drugs that would be applicable drugs (as defined in [section 1395w–114c(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114c/g/2&num=0&edition=prelim)) but for the application of subparagraph (B) of such section, the Secretary shall provide a process whereby, in the case of an applicable beneficiary (as defined in [section 1395w–114c(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114c/g/1&num=0&edition=prelim)) who, with respect to a year, is enrolled in a prescription drug plan or is enrolled in an MA–PD plan, has not incurred costs that are equal to or exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B/i&num=0&edition=prelim), and is dispensed such a drug, the Secretary (periodically and on a timely basis) provides the PDP sponsor or the MA organization offering the plan, a subsidy with respect to such drug that is equal to 10 percent of the negotiated price (as defined in [section 1395w–114c(g)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114c/g/6&num=0&edition=prelim)) of such drug.
 
 
 <a id="section-1395yy"></a>
@@ -102851,24 +104762,36 @@ Pub. L. 101–239, title VI, § 6204(f), Dec. 19, 1989, 103 Stat. 2243, as amend
 
 <a id="section-1395z"></a>
 ## § 1395z. Subsidies for part D eligible individuals for qualified prescription drug coverage
-**(a) Subsidy payment** In order to reduce premium levels applicable to qualified prescription drug coverage for part D eligible individuals consistent with an overall subsidy level of 74.5 percent for basic prescription drug coverage, to reduce adverse selection among prescription drug plans and MA–PD plans, and to promote the participation of PDP sponsors under this part and MA organizations under part C, the Secretary shall provide for payment to a PDP sponsor that offers a prescription drug plan and an MA organization that offers an MA–PD plan of the following subsidies in accordance with this section:
+**(a) Subsidy payment** In order to reduce premium levels applicable to qualified prescription drug coverage for part D eligible individuals consistent with an overall subsidy level of 74.5 percent (or, for each of 2024 through 2029, the percent applicable as a result of the application of [section 1395w–113(a)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/8&num=0&edition=prelim), or, for 2030 and each subsequent year, 100 percent minus the percent specified under [section 1395w–113(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/9&num=0&edition=prelim)) for basic prescription drug coverage, to reduce adverse selection among prescription drug plans and MA–PD plans, and to promote the participation of PDP sponsors under this part and MA organizations under part C, the Secretary shall provide for payment to a PDP sponsor that offers a prescription drug plan and an MA organization that offers an MA–PD plan of the following subsidies in accordance with this section:
 
 (1) **Direct subsidy** — A direct subsidy for each part D eligible individual enrolled in a prescription drug plan or MA–PD plan for a month equal to—
 
   (A) the amount of the plan’s standardized bid amount (as defined in [section 1395w–113(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/5&num=0&edition=prelim)), adjusted under subsection (c)(1), reduced by
 
-  (B) the base beneficiary premium (as computed under paragraph (2) of [section 1395w–113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a&num=0&edition=prelim) and as adjusted under paragraph (1)(B) of such section).
+  (B) the base beneficiary premium (as computed under paragraph (2) or (8) of [section 1395w–113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a&num=0&edition=prelim) (as applicable) and as adjusted under paragraph (1)(B) of such section).
 
 (2) **Subsidy through reinsurance** — The reinsurance payment amount (as defined in subsection (b)).
 This section constitutes budget authority in advance of appropriations Acts and represents the obligation of the Secretary to provide for the payment of amounts provided under this section.
 
 **(b) Reinsurance payment amount**
 
-(1) **In general** — The reinsurance payment amount under this subsection for a part D eligible individual enrolled in a prescription drug plan or MA–PD plan for a coverage year is an amount equal to 80 percent of the allowable reinsurance costs (as specified in paragraph (2)) attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim).
+(1) **In general** — The reinsurance payment amount under this subsection for a part D eligible individual enrolled in a prescription drug plan or MA–PD plan for a coverage year is an amount equal to—
 
-(2) **Allowable reinsurance costs** — For purposes of this section, the term “allowable reinsurance costs” means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
+  (A) for a year preceding 2025, 80 percent of the allowable reinsurance costs (as specified in paragraph (2)) attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim); and
 
-(3) **Gross covered prescription drug costs** — For purposes of this section, the term “gross covered prescription drug costs” means, with respect to a part D eligible individual enrolled in a prescription drug plan or MA–PD plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year and costs relating to the deductible. Such costs shall be determined whether they are paid by the individual or under the plan, regardless of whether the coverage under the plan exceeds basic prescription drug coverage.
+  (B) for 2025 and each subsequent year, the sum of—
+
+    (i) with respect to applicable drugs (as defined in [section 1395w–114c(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114c/g/2&num=0&edition=prelim)), an amount equal to 20 percent of such allowable reinsurance costs attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim); and
+
+    (ii) with respect to covered part D drugs that are not applicable drugs (as so defined), an amount equal to 40 percent of such allowable reinsurance costs attributable to that portion of gross covered prescription drug costs as specified in paragraph (3) incurred in the coverage year after such individual has incurred costs that exceed the annual out-of-pocket threshold specified in [section 1395w–102(b)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/4/B&num=0&edition=prelim).
+
+(2) **Allowable reinsurance costs**
+
+  (A) *In general* — Subject to subparagraph (B), for purposes of this section, the term “allowable reinsurance costs” means, with respect to gross covered prescription drug costs under a prescription drug plan offered by a PDP sponsor or an MA–PD plan offered by an MA organization, the part of such costs that are actually paid (net of discounts, chargebacks, and average percentage rebates) by the sponsor or organization or by (or on behalf of) an enrollee under the plan, but in no case more than the part of such costs that would have been paid under the plan if the prescription drug coverage under the plan were basic prescription drug coverage, or, in the case of a plan providing supplemental prescription drug coverage, if such coverage were standard prescription drug coverage.
+
+  (B) *Inclusion of manufacturer discounts on applicable drugs* — For purposes of applying subparagraph (A), the term “allowable reinsurance costs” shall include the portion of the negotiated price (as defined in [section 1395w–114c(g)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114c/g/6&num=0&edition=prelim)) of an applicable drug (as defined in [section 1395w–114c(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114c/g/2&num=0&edition=prelim)) that was paid by a manufacturer under the manufacturer discount program under [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c).
+
+(3) **Gross covered prescription drug costs** — Subject to paragraph (2)(B), for purposes of this section, the term “gross covered prescription drug costs” means, with respect to a part D eligible individual enrolled in a prescription drug plan or MA–PD plan during a coverage year, the costs incurred under the plan, not including administrative costs, but including costs directly related to the dispensing of covered part D drugs during the year and costs relating to the deductible. Such costs shall be determined whether they are paid by the individual or under the plan (or, with respect to 2025 and subsequent years, in the case of an applicable drug, as defined in [section 1395w–114c(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114c/g/2&num=0&edition=prelim), by a manufacturer), regardless of whether the coverage under the plan exceeds basic prescription drug coverage.
 
 (4) **Coverage year defined** — For purposes of this section, the term “coverage year” means a calendar year in which covered part D drugs are dispensed if the claim for such drugs (and payment on such claim) is made not later than such period after the end of such year as the Secretary specifies.
 
@@ -103018,7 +104941,7 @@ This section constitutes budget authority in advance of appropriations Acts and 
 
   (A) by officers, employees, and contractors of the Department of Health and Human Services for the purposes of, and to the extent necessary in—
 
-    (i) carrying out this section; and
+    (i) carrying out this section or part E of subchapter XI; and
 
     (ii) conducting oversight, evaluation, and enforcement under this subchapter;
 
@@ -103040,17 +104963,44 @@ This section constitutes budget authority in advance of appropriations Acts and 
 
 **(g) Payment for fallback prescription drug plans** In lieu of the amounts otherwise payable under this section to a PDP sponsor offering a fallback prescription drug plan (as defined in [section 1395w–111(g)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/g/4&num=0&edition=prelim) 22 See References in Text note below.), the amount payable shall be the amounts determined under the contract for such plan pursuant to [section 1395w–111(g)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/g/5&num=0&edition=prelim).
 
+**(h) Temporary retrospective subsidy for reduction in cost-sharing and deductible for adult vaccines recommended by the Advisory Committee on Immunization Practices and Insulin During 2023**
+
+(1) **In general** — In addition to amounts otherwise payable under this section to a PDP sponsor of a prescription drug plan or an MA organization offering an MA–PD plan, for plan year 2023, the Secretary shall provide the PDP sponsor or MA organization offering the plan subsidies in an amount equal to the aggregate reduction in cost-sharing and deductible by reason of the application of paragraph (8) or (9) of [section 1395w–102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b&num=0&edition=prelim) for individuals under the plan during the year.
+
+(2) **Timing** — The Secretary shall provide a subsidy under paragraph (1), as applicable, not later than 18 months following the end of the applicable plan year.
+
 ### Statutory Notes
 
 #### References in Text
 [Section 1395w–111(g)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/g/4&num=0&edition=prelim), referred to in subsec. (g), was in the original “section 1860D–3(c)(4)”, and was translated as reading “section 1860D–11(g)(4)”, meaning section 1860D–11(g)(4) of the Social Security Act, to reflect the probable intent of Congress, because section 1860D–3, which is classified to [section 1395w–103 of this title](./chapter-007-social-security.md#section-1395w-103), does not contain a subsec. (c), and [section 1395w–111(g)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–111/g/4&num=0&edition=prelim) defines “fallback prescription drug plan” for purposes of this part.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–169, § 11201(d)(3)(D)(i), inserted “(or, for each of 2024 through 2029, the percent applicable as a result of the application of [section 1395w–113(a)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/8&num=0&edition=prelim), or, for 2030 and each subsequent year, 100 percent minus the percent specified under [section 1395w–113(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a/9&num=0&edition=prelim))” after “74.5 percent” in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 117–169, § 11201(d)(3)(D)(ii), substituted “paragraph (2) or (8) of [section 1395w–113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a&num=0&edition=prelim) (as applicable)” for “paragraph (2) of [section 1395w–113(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–113/a&num=0&edition=prelim)”.
+
+Subsec. (b)(1). Pub. L. 117–169, § 11201(b)(1), inserted dash after “equal to”, designated remainder of existing provisions as subpar. (A), substituted “for a year preceding 2025, 80 percent” for “80 percent”, and added subpar. (B).
+
+Subsec. (b)(2). Pub. L. 117–169, § 11201(b)(2), designated existing provisions as subpar. (A) and inserted heading, substituted “Subject to subparagraph (B), for purposes” for “For purposes”, and added subpar. (B).
+
+Subsec. (b)(3). Pub. L. 117–169, § 11201(b)(3), substituted “Subject to paragraph (2)(B), for purposes” for “For purposes” and inserted “(or, with respect to 2025 and subsequent years, in the case of an applicable drug, as defined in [section 1395w–114c(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–114c/g/2&num=0&edition=prelim), by a manufacturer)” after “by the individual or under the plan”.
+
+Subsec. (f)(2)(A)(i). Pub. L. 117–169, § 11001(b)(1)(H)(ii), inserted “or part E of subchapter XI” after “this section”.
+
+Subsec. (h). Pub. L. 117–169, § 11406(c)(1), inserted “and Insulin” after “Practices” in heading.
+
+Pub. L. 117–169, § 11401(c)(1), added subsec. (h).
+
+Subsec. (h)(1). Pub. L. 117–169, § 11406(c)(2), substituted “paragraph (8) or (9) of [section 1395w–102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b&num=0&edition=prelim)” for “[section 1395w–102(b)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–102/b/8&num=0&edition=prelim)”.
+
 2020—Subsec. (f)(2)(C). Pub. L. 116–260, § 112(a)(1), added subpar. (C).
 
 Subsec. (f)(3). Pub. L. 116–260, § 112(a)(2), added par. (3).
 
 2010—Subsec. (f)(2). Pub. L. 111–148 substituted “may be used—” for “may be used by officers, employees, and contractors of the Department of Health and Human Services only for the purposes of, and to the extent necessary in, carrying out this section.” in introductory provisions and added subpars. (A) and (B).
+
+#### Construction of 2022 Amendment
+Nothing in amendment by section 11401(c)(1) of Pub. L. 117–169 to be construed as limiting coverage under this part for vaccines that are not recommended by the Advisory Committee on Immunization Practices, see section 11401(d) of Pub. L. 117–169, set out as a note under [section 1395w–102 of this title](./chapter-007-social-security.md#section-1395w-102).
 
 
 <a id="section-1395zz"></a>
@@ -104282,13 +106232,13 @@ The requirement of clause (A) of paragraph (37) with respect to a State plan may
 
       (I) before the date on which the individual loses such eligibility, inform the individual—
 
-        (aa) of the individual’s opportunity to enroll in a qualified health plan offered through an Exchange established under title I of the Patient Protection and Affordable Care Act during the special enrollment period specified in [section 9801(f)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9801/f/3&num=0&edition=prelim) (relating to loss of Medicaid or CHIP coverage); and
+        (aa) of the individual’s opportunity to enroll in a qualified health plan offered through an Exchange established under title I of the Patient Protection and Affordable Care Act during the special enrollment period specified in section 9801(f)(3) of the Internal Revenue Code of 1986 (relating to loss of Medicaid or CHIP coverage); and
 
         (bb) of the date on which the individual would no longer be considered ineligible by reason of clause (i) to receive medical assistance under the State plan or under any waiver of such plan and be eligible to reapply to receive such medical assistance; and
 
       (II) provide technical assistance to the individual seeking to enroll in such a qualified health plan.
 
-    (v) *Qualified lottery winnings defined.—* — In this subparagraph, the term “qualified lottery winnings” means winnings from a sweepstakes, lottery, or pool described in paragraph (3) of [section 4402 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4402&num=0&edition=prelim) or a lottery operated by a multistate or multijurisdictional lottery association, including amounts awarded as a lump sum payment.
+    (v) *Qualified lottery winnings defined.—* — In this subparagraph, the term “qualified lottery winnings” means winnings from a sweepstakes, lottery, or pool described in paragraph (3) of section 4402 of the Internal Revenue Code of 1986 or a lottery operated by a multistate or multijurisdictional lottery association, including amounts awarded as a lump sum payment.
 
     (vi) *Qualified lump sum income defined.—* — In this subparagraph, the term “qualified lump sum income” means income that is received as a lump sum from monetary winnings from gambling (as defined by the Secretary and including gambling activities described in [section 1955(b)(4) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1955/b/4&num=0&edition=prelim)).
 
@@ -105018,10 +106968,8 @@ will be disregarded for purposes of determining the amount of any post-eligibili
 #### Applicability of Amendment
 Amendment of section by section 9812(a) of Pub. L. 117–2 applicable with respect to State elections made under subsec. (e)(16) of this section during the 5-year period beginning on the 1st day of the 1st fiscal year quarter that begins one year after Mar. 11, 2021. See 2021 Amendment note below.
 
-Amendment of section by section 210(b) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022. See 2020 Amendment note below.
-
 #### Amendment of Subsection (a)
-Pub. L. 115–271, title I, § 1002(a), Oct. 24, 2018, 132 Stat. 3902, provided that, effective with respect to foster youth who attain 18 years of age on or after Jan. 1, 2023, subsection (a)(10)(A)(i)(IX) of this section is amended:
+Pub. L. 115–271, title I, § 1002(a), Oct. 24, 2018, 132 Stat. 3902, provided that, effective with respect to foster youth who attain 18 years of age on or after Jan. 1, 2023, subsection (a)(10)(A)(i)(IX) of this section is amended as follows:
 
 (1) in item (bb), by striking “are not described in or enrolled under” and inserting “are not described in and are not enrolled under”;
 
@@ -105030,6 +106978,36 @@ Pub. L. 115–271, title I, § 1002(a), Oct. 24, 2018, 132 Stat. 3902, provided 
 (3) in item (dd), by striking “the State plan under this subchapter or under a waiver of the” and inserting “a State plan under this subchapter or under a waiver of such a”.
 
 See 2018 Amendment notes below.
+
+Pub. L. 117–169, title I, § 11405(a)(1), (c), Aug. 16, 2022, 136 Stat. 1900, 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, subsection (a)(10) of this section is amended as follows:
+
+(1) in the matter preceding subparagraph (A)(i) by inserting “(13)(B),” after “(5),” and
+
+(2) in subparagraph (C)(iv) by inserting “, (13)(B),” after “(5)”.
+
+See 2022 Amendment notes below.
+
+Pub. L. 117–103, div. P, title II, § 202, Mar. 15, 2022, 136 Stat. 803, provided that, applicable beginning on Jan. 1, 2024, with certain exceptions, subsection (a)(25)(I) of this section is amended as follows:
+
+(1) by amending clause (ii) to read as follows:
+
+(ii)(I) accept the State’s right of recovery and the assignment to the State of any right of an individual or other entity to payment from the party for an item or service for which payment has been made under the State plan (or under a waiver of such plan); and
+
+(II) in the case of a responsible third party (other than the original medicare fee-for-service program under parts A and B of subchapter XVIII, a Medicare Advantage plan offered by a Medicare Advantage organization under part C of such subchapter, a reasonable cost reimbursement plan under [section 1395mm of this title](./chapter-007-social-security.md#section-1395mm), a health care prepayment plan under [section 1395l of this title](./chapter-007-social-security.md#section-1395l), or a prescription drug plan offered by a PDP sponsor under part D of such subchapter) that requires prior authorization for an item or service furnished to an individual eligible to receive medical assistance under this subchapter, accept authorization provided by the State that the item or service is covered under the State plan (or waiver of such plan) for such individual, as if such authorization were the prior authorization made by the third party for such item or service;
+
+(2) in clause (iii)—
+
+(A) by striking “respond to any inquiry” and inserting “not later than 60 days after receiving any inquiry”; and
+
+(B) by striking “; and” at the end and inserting “, respond to such inquiry; and”; and
+
+(3) in clause (iv)—
+
+(A) by striking “or a failure” and inserting “a failure”; and
+
+(B) by inserting after “the basis of the claim” the following: “, or in the case of a responsible third party (other than the original medicare fee-for-service program under parts A and B of subchapter XVIII, a Medicare Advantage plan offered by a Medicare Advantage organization under part C of such subchapter, a reasonable cost reimbursement plan under [section 1395mm of this title](./chapter-007-social-security.md#section-1395mm), a health care prepayment plan under section 1395l of this title, or a prescription drug plan offered by a PDP sponsor under part D of such subchapter) a failure to obtain a prior authorization for the item or service for which the claim is being submitted”.
+
+See 2022 Amendment notes below.
 
 Pub. L. 101–508, title IV, § 4801(e)(11), Nov. 5, 1990, 104 Stat. 1388–217, provided that, effective on the date on which the Secretary promulgates standards regarding the qualifications of nursing facility administrators under [section 1396r(f)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r/f/4&num=0&edition=prelim), subsection (a)(29) of this section is repealed.
 
@@ -105066,7 +107044,7 @@ The United States Housing Act of 1937, referred to in subsec. (e)(13)(F)(ii)(I)(
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (e)(13)(F)(ii)(I)(ll), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsecs. (e)(14)(G), (u)(3), and (ss)(2), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (e)(14)(G), (K)(iv)(I)(aa), (v), (u)(3), and (ss)(2), is classified generally to Title 26, Internal Revenue Code.
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (e)(14)(K)(iv)(I)(aa), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Title I of the Act enacted chapter 157 of Title 42, The Public Health and Welfare, and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of this title](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18001) and Tables.
 
@@ -105086,6 +107064,16 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (ff)(1), is Pub.
 In subsec. (a)(4)(D), “chapter 21 of title 41” substituted for “section 27 of the Office of Federal Procurement Policy Act ([41 U.S.C. 423](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section423&num=0&edition=prelim))” and “[section 2102(a)(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2102/a/3&num=0&edition=prelim)” substituted for “subsection (a)(2) of such section of that Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2022—Subsec. (a)(10)(A). Pub. L. 117–169, § 11405(a)(1)(A), inserted “(13)(B),” after “(5),” in introductory provisions.
+
+Subsec. (a)(10)(C)(iv). Pub. L. 117–169, § 11405(a)(1)(B), inserted “, (13)(B),” after “(5)”.
+
+Subsec. (a)(25)(I)(ii). Pub. L. 117–103, § 202(a)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “accept the State’s right of recovery and the assignment to the State of any right of an individual or other entity to payment from the party for an item or service for which payment has been made under the State plan;”.
+
+Subsec. (a)(25)(I)(iii). Pub. L. 117–103, § 202(a)(2), substituted “not later than 60 days after receiving any inquiry” for “respond to any inquiry” and ““, respond to such inquiry; and” for “; and”.
+
+Subsec. (a)(25)(I)(iv). Pub. L. 117–103, § 202(a)(3), substituted “a failure” for “or a failure” and inserted “, or in the case of a responsible third party (other than the original medicare fee-for-service program under parts A and B of subchapter XVIII, a Medicare Advantage plan offered by a Medicare Advantage organization under part C of such subchapter, a reasonable cost reimbursement plan under [section 1395mm of this title](./chapter-007-social-security.md#section-1395mm), a health care prepayment plan under section 1395l of this title, or a prescription drug plan offered by a PDP sponsor under part D of such subchapter) a failure to obtain a prior authorization for the item or service for which the claim is being submitted” after “the basis of the claim”.
+
 2021—Subsec. (a)(10). Pub. L. 117–2, § 9811(a)(2)(F), inserted before semicolon at end of concluding provisions “, and (XIX) medical assistance shall be made available during the period described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) for vaccines described in such section and the administration of such vaccines, for any individual who is eligible for and receiving medical assistance under the State plan or under a waiver of such plan (other than an individual who is eligible for medical assistance consisting only of payment of premiums pursuant to subparagraph (E) or (F) or [section 1396u–3 of this title](./chapter-007-social-security.md#section-1396u-3)), notwithstanding any provision of this subchapter or waiver under [section 1315 of this title](./chapter-007-social-security.md#section-1315) impacting such individual’s eligibility for medical assistance under such plan or waiver to coverage for a limited type of benefits and services that would not otherwise include coverage of a COVID–19 vaccine and its administration”.
 
 Pub. L. 117–2, § 9811(a)(2)(E), in concluding provisions, substituted “, any service described in section 1396o(a)(2)(G) of this title that is furnished during any such portion, any vaccine described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) (and the administration of such vaccine) that is furnished during any such portion, and testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan)” for “and any visit described in section 1396o(a)(2)(G) of this title that is furnished during any such portion”.
@@ -105530,7 +107518,7 @@ Subsec. (l)(4)(B). Pub. L. 106–113, § 1000(a)(6) [title VI, § 608(c)(3)], in
 
 Subsec. (v). Pub. L. 106–113, § 1000(a)(6) [title VI, § 608(d)], struck out par. (1) designation before “A State plan may provide”.
 
-1997—Subsec. (a). Pub. L. 105–33, § 4454(b)(1), in second sentence of flush concluding provisions, substituted “to a religious nonmedical health care institution (as defined in [section 1395x(ss)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ss/1&num=0&edition=prelim)).” for “to a Christian Science sanatorium operated, or listed and certified, by The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc..”
+1997—Subsec. (a). Pub. L. 105–33, § 4454(b)(1), in second sentence of flush concluding provisions, substituted “to a religious nonmedical health care institution (as defined in [section 1395x(ss)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/ss/1&num=0&edition=prelim)).” for “to a Christian Science sanatorium operated, or listed and certified, by The Commission for Accreditation of Christian Science Nursing Organizations/Facilities, Inc.”
 
 Subsec. (a)(4)(C), (D). Pub. L. 105–33, § 4724(c)(1), substituted “(C)” for “and (C)”, “local officer, employee, or independent contractor” for “local officer or employee”, and “such an officer, employee, or contractor” for “such an officer or employee” in two places and added subpar. (D).
 
@@ -106536,6 +108524,11 @@ Subsec. (b)(2). Pub. L. 90–248, § 241(f)(3), inserted “part A of” before 
 
 Subsec. (c). Pub. L. 90–248, § 241(f)(4), struck out “IV,” after “I,” and inserted “, or part A of subchapter IV of this chapter” after “XVI of this chapter”.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 11405(c), Aug. 16, 2022, 136 Stat. 1901, provided that: “The amendments made by this section [amending this section and sections 1396d, 1396o, 1396o–1, and 1397cc of this title] take effect on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after the date of enactment of this Act [Aug. 16, 2022] and shall apply to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) through 1396w–6) or under a State child health plan or waiver of such plan under title XXI of such Act ([42 U.S.C. 1397aa](./chapter-007-social-security.md#section-1397aa) through 1397mm) on or after such effective date.”
+
+Pub. L. 117–103, div. P, title II, § 202(b), Mar. 15, 2022, 136 Stat. 804, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply beginning on January 1, 2024. “(2) Exception if state legislation required.—In the case of a State plan for medical assistance under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.] that the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirement imposed by the amendments made under this section, the State plan shall not be regarded as failing to comply with the requirements of such title solely on the basis of its failure to meet this additional requirement before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of the enactment of this Act [Mar. 15, 2022]. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.”
+
 #### Effective Date of 2021 Amendment
 Pub. L. 117–2, title IX, § 9812(b), Mar. 11, 2021, 135 Stat. 213, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to State elections made under paragraph (16) of section 1902(e) of the Social Security Act ([42 U.S.C. 1396a(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e&num=0&edition=prelim)), as added by subsection (a), during the 5-year period beginning on the 1st day of the 1st fiscal year quarter that begins one year after the date of the enactment of this Act [Mar. 11, 2021].”
 
@@ -107115,6 +109108,12 @@ Pub. L. 106–169, title I, § 121(c), Dec. 14, 1999, 113 Stat. 1830, provided t
 #### Transfer of Functions
 Functions, powers, and duties of Secretary of Health and Human Services under subsec. (a)(4)(A) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see [section 4728(a)(3)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4728/a/3/D&num=0&edition=prelim).
 
+#### Medicaid and Telehealth
+Pub. L. 117–159, div. A, title I, § 11002, June 25, 2022, 136 Stat. 1316, provided that: “(a) Guidance to States on Furnishing Services Through Telehealth Under Medicaid and CHIP.—Not later than 18 months after the date of enactment of this Act [June 25, 2022], the Secretary shall provide technical assistance and issue guidance to States on improving access to telehealth for services covered under Medicaid and CHIP, including with respect to:“(1) How States can adopt flexibilities under Medicaid and CHIP to expand access to covered services via telehealth, including when States may adopt such flexibilities without the need for approval of a State plan amendment or waiver. “(2) Best practices regarding billing for services, including recommended voluntary billing codes, modifiers, and place of service designations and how such billing codes, modifiers, and designations can be used to create consistent data sets. “(3) Strategies for integrating telehealth services into value-based care models. “(4) Best practices from States that have used Medicaid waivers and other Medicaid authorities to expand access to telehealth, including during the COVID–19 public health emergency declared by the Secretary pursuant to section 319 of the Public Health Service Act [[42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)] on January 31, 2020, entitled ‘Determination that a Public Health Emergency Exists Nationwide as the Result of the 2019 Novel Coronavirus’, including any renewal of such declaration. “(5) Strategies to promote the delivery of accessible and culturally competent care via telehealth, including addressing the needs of individuals with disabilities, medically underserved urban and rural communities, racial and ethnic minorities such as American Indians and Alaska Natives, individuals with limited English proficiency, and individuals of different age groups including children, young adults, and seniors; “(6) Strategies for training and providing resources to providers and patients on the use of telehealth, including working with interpreters to furnish health services and providing resources in multiple languages. “(7) Integrating the use of existing video platforms that enable multi-person video calls. “(8) Best practices to support the delivery of covered services under Medicaid and CHIP via telehealth in schools, including specifically for the provision of mental health and substance use disorder services in such settings. “(9) Strategies for evaluating how the delivery of health services via telehealth affects quality, outcomes, and cost under Medicaid and CHIP. “(10) Best practices for conveying information to beneficiaries regarding the availability of telehealth as an option to receive services covered under Medicaid and CHIP, including the availability of audio-only telehealth, the ability to receive such services from a patient’s home, and requirements related to in-person visits. “(b) Definitions.—In this section:“(1) CHIP.—The term ‘CHIP’ means the State children’s health insurance program established under title XXI of the Social Security Act ([42 U.S.C. 1397aa](./chapter-007-social-security.md#section-1397aa) et seq.). “(2) Medicaid.—The term ‘Medicaid’ means the program established under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.). “(3) Secretary.—Except as otherwise provided, the term ‘Secretary’ means the Secretary of Health and Human Services. “(4) State.—The term ‘State’ has the meaning given that term in section 1101(a)(1) of the Social Security Act ([42 U.S.C. 1301(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1301/a/1&num=0&edition=prelim)) for purposes of titles XIX and XXI of such Act.”
+
+#### Supporting Access to Health Care Services in Schools
+Pub. L. 117–159, div. A, title I, § 11003, June 25, 2022, 136 Stat. 1317, provided that: “(a) Guidance and Technical Assistance.—“(1) Guidance.—“(A) In general.—Not later than 12 months after the date of enactment of this Act [June 25, 2022], the Secretary, in consultation with the Secretary of Education, shall issue guidance to State Medicaid agencies, local educational agencies, and school-based entities to support the delivery of medical assistance to Medicaid and CHIP beneficiaries in school-based settings. “(B) Required information.—The guidance issued pursuant to subparagraph (A) shall—“(i) include updates to the May 2003 Medicaid School-Based Administrative Claiming Guide, the 1997 Medicaid and Schools Technical Assistance Guide [probably means the 1997 “Medicaid and School Health: A Technical Assistance Guide”], and other relevant guidance in effect on the date of enactment of this Act; “(ii) clarify that payments may be made to school-based entities under Medicaid for delivering assistance under Medicaid, including any such assistance provided in accordance with an individualized education program or under the policy described in the State Medicaid Director letter on payment for services issued on December 15, 2014 (#14-006); “(iii) outline strategies and tools to reduce administrative burdens on, and simplify billing for, local educational agencies, in particular small and rural local educational agencies, and support compliance with Federal requirements regarding billing, payment, and recordkeeping, including by aligning direct service billing and school-based administrative claiming payment systems; “(iv) include a comprehensive list of best practices and examples of approved methods that State Medicaid agencies and local educational agencies have used to pay for, and increase the availability of, assistance under Medicaid, including expanding State programs to include all Medicaid-enrolled students, providing early and periodic screening, diagnostic, and treatment (EPSDT) services in schools, utilizing telehealth, coordinating with community-based mental health and substance use disorder treatment providers and organizations, coordinating with managed care entities, and supporting the provision of culturally competent and trauma-informed care in school settings; and “(v) provide examples of the types of providers (which may include qualified school health personnel) that States may choose to enroll, deem, or otherwise treat as participating providers for purposes of school-based programs under Medicaid and best practices related to helping such providers enroll in Medicaid for purposes of participating in school-based programs under Medicaid. “(2) Technical assistance center.—“(A) In general.—Not later than 12 months after the date of enactment of this Act, the Secretary, in consultation with the Secretary of Education, shall establish a technical assistance center to—“(i) assist and expand the capacity of State Medicaid agencies and local educational agencies and school-based entities to provide assistance under Medicaid; “(ii) reduce administrative burdens for such agencies and health centers or entities; “(iii) support State educational agencies, local educational agencies, and school-based entities in obtaining payment for the provision of assistance under Medicaid; “(iv) ensure ongoing coordination and collaboration between the Department of Health and Human Services and the Department of Education with respect to the provision of, and payment for, assistance under Medicaid by local educational agencies; and “(v) provide information to State and local educational agencies and States on how to utilize funding from the Department of Health and Human Services, the Department of Education, and other Federal agencies to ensure payment under Medicaid for assistance provided in school-based settings. “(B) Small and rural schools.—The Secretary shall ensure that the technical assistance center includes resources which are specifically designed to help support small and rural local educational agencies in obtaining payment for the provision of assistance under Medicaid. “(C) Reporting.—The technical assistance center shall, on a biennial basis, submit to the Secretary a report on the work of the center that identifies the areas where the most assistance was requested. “(3) Funding.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary to carry out this subsection, $8,000,000, for fiscal year 2022, to remain available until expended. “(b) Grants.—There is authorized to be appropriated $50,000,000 for fiscal year 2022 for the Secretary to award grants to States for the purpose of implementing, enhancing, or expanding the provision of assistance through school-based entities under Medicaid or CHIP. A State shall not use any grant funds to provide medical assistance, child health assistance, or other health services. “(c) Definitions.—For purposes of this section:“(1) CHIP.—The term ‘CHIP’ means the State children’s health insurance program established under title XXI of the Social Security Act ([42 U.S.C. 1397aa](./chapter-007-social-security.md#section-1397aa) et seq.). “(2) Individualized education program.—The term ‘individualized education program’ has the meaning given such term in section 602(14) of the Individuals with Disabilities Education Act ([20 U.S.C. 1401(14)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1401/14&num=0&edition=prelim)). “(3) Medicaid.—The term ‘Medicaid’ means the program established under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.). “(4) School-based entity.—The term ‘school-based entity’ means—“(A) a school-based health center, as that term is defined in section 2110(c)(9) of the Social Security Act ([42 U.S.C. 1397jj(c)(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397jj/c/9&num=0&edition=prelim)); and “(B) an entity that provides medical assistance in a school-based setting for which Federal financial participation is allowed under Medicaid. “(5) Secretary.—Except as otherwise provided, the term ‘Secretary’ means the Secretary of Health and Human Services. “(6) State.—The term ‘State’ has the meaning given that term in section 1101(a)(1) of the Social Security Act ([42 U.S.C. 1301(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1301/a/1&num=0&edition=prelim)) for purposes of titles XIX and XXI of such Act. “(7) State educational agency; local educational agency.—The terms ‘State educational agency’ and ‘local educational agency’ have the meaning given those terms in section 8101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)).”
+
 #### Guidance Review
 Pub. L. 116–260, div. CC, title II, § 209(b)(3), Dec. 27, 2020, 134 Stat. 2988, provided that: “Not later than 24 months after the date of the enactment of this Act [Dec. 27, 2020], the Secretary of Health and Human Services, through the Centers for Medicare & Medicaid Services, shall assess guidance issued to States by the Centers for Medicare & Medicaid Services relating to Federal requirements for nonemergency transportation to medically necessary services under the Medicaid program under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.] and update such guidance as necessary to ensure States have appropriate and current guidance in designing and administering coverage under the Medicaid program of nonemergency transportation to medically necessary services.”
 
@@ -107152,7 +109151,7 @@ Pub. L. 114–255, div. A, title V, § 5006(d), Dec. 13, 2016, 130 Stat. 1196, p
 Pub. L. 114–255, div. B, title XII, § 12001, Dec. 13, 2016, 130 Stat. 1272, provided that: “Nothing in title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) shall be construed as prohibiting separate payment under the State plan under such title (or under a waiver of the plan) for the provision of a mental health service or primary care service under such plan, with respect to an individual, because such service is— “(1) a primary care service furnished to the individual by a provider at a facility on the same day a mental health service is furnished to such individual by such provider (or another provider) at the facility; or “(2) a mental health service furnished to the individual by a provider at a facility on the same day a primary care service is furnished to such individual by such provider (or another provider) at the facility.”
 
 #### Demonstration Programs To Improve Community Mental Health Services
-Pub. L. 113–93, title II, § 223, Apr. 1, 2014, 128 Stat. 1077, as amended by Pub. L. 116–16, § 4, Apr. 18, 2019, 133 Stat. 859; Pub. L. 116–29, § 1, July 5, 2019, 133 Stat. 1031; Pub. L. 116–39, § 2, Aug. 6, 2019, 133 Stat. 1061; Pub. L. 116–59, div. B, title III, § 1301, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title III, § 1301, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, § 201, Dec. 20, 2019, 133 Stat. 3103; Pub. L. 116–136, div. A, title III, § 3814(a), (b), Mar. 27, 2020, 134 Stat. 430, 431; Pub. L. 116–159, div. C, title III, § 2304, Oct. 1, 2020, 134 Stat. 732; Pub. L. 116–215, div. B, title I, § 1104, Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, § 206, Dec. 27, 2020, 134 Stat. 2984, provided that: “(a) Criteria for Certified Community Behavioral Health Clinics To Participate in Demonstration Programs.—“(1) Publication.—Not later than September 1, 2015, the Secretary shall publish criteria for a clinic to be certified by a State as a certified community behavioral health clinic for purposes of participating in a demonstration program conducted under subsection (d). “(2) Requirements.—The criteria published under this subsection shall include criteria with respect to the following:“(A) Staffing.—Staffing requirements, including criteria that staff have diverse disciplinary backgrounds, have necessary State-required license and accreditation, and are culturally and linguistically trained to serve the needs of the clinic’s patient population. “(B) Availability and accessibility of services.—Availability and accessibility of services, including crisis management services that are available and accessible 24 hours a day, the use of a sliding scale for payment, and no rejection for services or limiting of services on the basis of a patient’s ability to pay or a place of residence. “(C) Care coordination.—Care coordination, including requirements to coordinate care across settings and providers to ensure seamless transitions for patients across the full spectrum of health services including acute, chronic, and behavioral health needs. Care coordination requirements shall include partnerships or formal contracts with the following:“(i) Federally-qualified health centers (and as applicable, rural health clinics) to provide Federally-qualified health center services (and as applicable, rural health clinic services) to the extent such services are not provided directly through the certified community behavioral health clinic. “(ii) Inpatient psychiatric facilities and substance use detoxification, post-detoxification step-down services, and residential programs. “(iii) Other community or regional services, supports, and providers, including schools, child welfare agencies, juvenile and criminal justice agencies and facilities, Indian Health Service youth regional treatment centers, State licensed and nationally accredited child placing agencies for therapeutic foster care service, and other social and human services. “(iv) Department of Veterans Affairs medical centers, independent outpatient clinics, drop-in centers, and other facilities of the Department as defined in section 1801 [probably should be 1701] of title 38, United States Code. “(v) Inpatient acute care hospitals and hospital outpatient clinics. “(D) Scope of services.—Provision (in a manner reflecting person-centered care) of the following services which, if not available directly through the certified community behavioral health clinic, are provided or referred through formal relationships with other providers:“(i) Crisis mental health services, including 24-hour mobile crisis teams, emergency crisis intervention services, and crisis stabilization. “(ii) Screening, assessment, and diagnosis, including risk assessment. “(iii) Patient-centered treatment planning or similar processes, including risk assessment and crisis planning. “(iv) Outpatient mental health and substance use services. “(v) Outpatient clinic primary care screening and monitoring of key health indicators and health risk. “(vi) Targeted case management. “(vii) Psychiatric rehabilitation services. “(viii) Peer support and counselor services and family supports. “(ix) Intensive, community-based mental health care for members of the armed forces and veterans, particularly those members and veterans located in rural areas, provided the care is consistent with minimum clinical mental health guidelines promulgated by the Veterans Health Administration including clinical guidelines contained in the Uniform Mental Health Services Handbook of such Administration. “(E) Quality and other reporting.—Reporting of encounter data, clinical outcomes data, quality data, and such other data as the Secretary requires. “(F) Organizational authority.—Criteria that a clinic be a non-profit or part of a local government behavioral health authority or operated under the authority of the Indian Health Service, an Indian tribe or tribal organization pursuant to a contract, grant, cooperative agreement, or compact with the Indian Health Service pursuant to the Indian Self-Determination Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) [450f] et seq.) [now [25 U.S.C. 5321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5321&num=0&edition=prelim) et seq.], or an urban Indian organization pursuant to a grant or contract with the Indian Health Service under title V of the Indian Health Care Improvement Act ([25 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) [1651] et seq.). “(b) Guidance on Development of Prospective Payment System for Testing Under Demonstration Programs.—“(1) In general.—Not later than September 1, 2015, the Secretary, through the Administrator of the Centers for Medicare & Medicaid Services, shall issue guidance for the establishment of a prospective payment system that shall only apply to medical assistance for mental health services furnished by a certified community behavioral health clinic participating in a demonstration program under subsection (d). “(2) Requirements.—The guidance issued by the Secretary under paragraph (1) shall provide that—“(A) no payment shall be made for inpatient care, residential treatment, room and board expenses, or any other non-ambulatory services, as determined by the Secretary; and “(B) no payment shall be made to satellite facilities of certified community behavioral health clinics if such facilities are established after the date of enactment of this Act [Apr. 1, 2014]. “(c) Planning Grants.—“(1) In general.—Not later than January 1, 2016, the Secretary shall award planning grants to States for the purpose of developing proposals to participate in time-limited demonstration programs described in subsection (d). “(2) Use of funds.—A State awarded a planning grant under this subsection shall—“(A) solicit input with respect to the development of such a demonstration program from patients, providers, and other stakeholders; “(B) certify clinics as certified community behavioral health clinics for purposes of participating in a demonstration program conducted under subsection (d); and “(C) establish a prospective payment system for mental health services furnished by a certified community behavioral health clinic participating in a demonstration program under subsection (d) in accordance with the guidance issued under subsection (b). “(d) Demonstration Programs.—“(1) In general.—Not later than September 1, 2017, the Secretary shall select States to participate in demonstration programs that are developed through planning grants awarded under subsection (c), meet the requirements of this subsection, and represent a diverse selection of geographic areas, including rural and underserved areas. “(2) Application requirements.—“(A) In general.—The Secretary shall solicit applications to participate in demonstration programs under this subsection solely from States awarded planning grants under subsection (c). “(B) Required information.—An application for a demonstration program under this subsection shall include the following:“(i) The target Medicaid population to be served under the demonstration program. “(ii) A list of participating certified community behavioral health clinics. “(iii) Verification that the State has certified a participating clinic as a certified community behavioral health clinic in accordance with the requirements of subsection (b). “(iv) A description of the scope of the mental health services available under the State Medicaid program that will be paid for under the prospective payment system tested in the demonstration program. “(v) Verification that the State has agreed to pay for such services at the rate established under the prospective payment system. “(vi) Such other information as the Secretary may require relating to the demonstration program including with respect to determining the soundness of the proposed prospective payment system. “(3) Number and length of demonstration programs.—Subject to paragraph (8), not more than 8 States shall be selected to conduct demonstration programs that meet the requirements of this subsection through September 30, 2023. “(4) Requirements for selecting demonstration programs.—“(A) In general.—The Secretary shall give preference to selecting demonstration programs where participating certified community behavioral health clinics—“(i) provide the most complete scope of services described in subsection (a)(2)(D) to individuals eligible for medical assistance under the State Medicaid program; “(ii) will improve availability of, access to, and participation in, services described in subsection (a)(2)(D) to individuals eligible for medical assistance under the State Medicaid program; “(iii) will improve availability of, access to, and participation in assisted outpatient mental health treatment in the State; or “(iv) demonstrate the potential to expand available mental health services in a demonstration area and increase the quality of such services without increasing net Federal spending. “(5) Payment for medical assistance for mental health services provided by certified community behavioral health clinics.—“(A) In general.—The Secretary shall pay a State participating in a demonstration program under this subsection the Federal matching percentage specified in subparagraph (B) for amounts expended by the State to provide medical assistance for mental health services described in the demonstration program application in accordance with paragraph (2)(B)(iv) that are provided by certified community behavioral health clinics to individuals who are enrolled in the State Medicaid program. Payments to States made under this paragraph shall be considered to have been under, and are subject to the requirements of, section 1903 of the Social Security Act ([42 U.S.C. 1396b](./chapter-007-social-security.md#section-1396b)). “(B) Federal matching percentage.—Subject to subparagraph (C)(iii), the Federal matching percentage specified in this subparagraph is with respect to medical assistance described in subparagraph (A) that is furnished—“(i) to a newly eligible individual described in paragraph (2) of section 1905(y) of the Social Security Act ([42 U.S.C. 1396d(y)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/y&num=0&edition=prelim)), the matching rate applicable under paragraph (1) of that section; and “(ii) to an individual who is not a newly eligible individual (as so described) but who is eligible for medical assistance under the State Medicaid program, the enhanced FMAP applicable to the State. “(C) Limitations.—“(i) In general.—Payments shall be made under this paragraph to a State only for mental health services— “(I) that are described in the demonstration program application in accordance with paragraph (2)(iv); “(II) for which payment is available under the State Medicaid program; and “(III) that are provided to an individual who is eligible for medical assistance under the State Medicaid program. “(ii) Prohibited payments.—No payment shall be made under this paragraph— “(I) for inpatient care, residential treatment, room and board expenses, or any other non-ambulatory services, as determined by the Secretary; or “(II) with respect to payments made to satellite facilities of certified community behavioral health clinics if such facilities are established after the date of enactment of this Act [Apr. 1, 2014]. “(iii) Payments for amounts expended after 2019.—The Federal matching percentage applicable under subparagraph (B) to amounts expended by a State participating in the demonstration program under this subsection shall— “(I) in the case of a State participating in the demonstration program as of January 1, 2020, apply to amounts expended by the State through September 30, 2023; and “(II) in the case of a State selected to participate in the demonstration program under paragraph (8), during first 8 fiscal quarter period (or any portion of such period) that the State participates in a demonstration program or through September 30, 2023, whichever is longer. “(6) Waiver of statewideness requirement.—The Secretary shall waive section 1902(a)(1) of the Social Security Act ([42 U.S.C. 1396a(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/1&num=0&edition=prelim)) (relating to statewideness) as may be necessary to conduct demonstration programs in accordance with the requirements of this subsection. “(7) Annual reports.—“(A) In general.—Not later than 1 year after the date on which the first State is selected for a demonstration program under this subsection, and annually thereafter, the Secretary shall submit to Congress an annual report on the use of funds provided under all demonstration programs conducted under this subsection. Each such report shall include—“(i) an assessment of access to community-based mental health services under the Medicaid program in the area or areas of a State targeted by a demonstration program compared to other areas of the State; “(ii) an assessment of the quality and scope of services provided by certified community behavioral health clinics compared to community-based mental health services provided in States not participating in a demonstration program under this subsection and in areas of a demonstration State that are not participating in the demonstration program; and “(iii) an assessment of the impact of the demonstration programs on the Federal and State costs of a full range of mental health services (including inpatient, emergency and ambulatory services). “(B) Recommendations.—Not later than December 31, 2021, the Secretary shall submit to Congress recommendations concerning whether the demonstration programs under this section should be continued, expanded, modified, or terminated. “(8) Additional programs.—“(A) In general.—Not later than 6 months after the date of enactment of this paragraph [Mar. 27, 2020], in addition to the 8 States selected under paragraph (1), the Secretary shall select 2 States to conduct demonstration programs that meet the requirements of this subsection for 2 years or through September 30, 2023, whichever is longer. “(B) Selection of states.—“(i) In general.—Subject to clause (ii), in selecting States under this paragraph, the Secretary— “(I) shall select States that—“(aa) were awarded planning grants under subsection (c); and “(bb) applied to participate in the demonstration programs under this subsection under paragraph (1) but, as of the date of enactment of this paragraph, were not selected to participate under paragraph (1); and “(II) shall use the results of the Secretary’s evaluation of each State’s application under paragraph (1) to determine which States to select, and shall not require the submission of any additional application. “(C) Requirements for selected states.—Prior to services being delivered under the demonstration authority in a State selected under this paragraph, the State shall—“(i) submit a plan to monitor certified community behavioral health clinics under the demonstration program to ensure compliance with certified community behavioral health criteria during the demonstration period; and “(ii) commit to collecting data, notifying the Secretary of any planned changes that would deviate from the prospective payment system methodology outlined in the State’s demonstration application, and obtaining approval from the Secretary for any such change before implementing the change. “(e) Definitions.—In this section:“(1) Federally-qualified health center services; federally-qualified health center; rural health clinic services; rural health clinic.—The terms ‘Federally-qualified health center services’, ‘Federally-qualified health center’, ‘rural health clinic services’, and ‘rural health clinic’ have the meanings given those terms in section 1905(l) of the Social Security Act ([42 U.S.C. 1396d](./chapter-007-social-security.md#section-1396d)(l)). “(2) Enhanced fmap.—The term ‘enhanced FMAP’ has the meaning given that term in section 2105(b) of the Social Security Act ([42 U.S.C. 1397dd(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397dd/b&num=0&edition=prelim) [1397ee(b)]) but without regard to the second and third sentences of that section. “(3) Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services. “(4) State.—The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.). “(f) Funding.—“(1) In general.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary—“(A) for purposes of carrying out subsections (a), (b), and (d)(7), $2,000,000 for fiscal year 2014; and “(B) for purposes of awarding planning grants under subsection (c), $25,000,000 for fiscal year 2016. “(2) Availability.—Funds appropriated under paragraph (1) shall remain available until expended.”
+Pub. L. 113–93, title II, § 223, Apr. 1, 2014, 128 Stat. 1077, as amended by Pub. L. 116–16, § 4, Apr. 18, 2019, 133 Stat. 859; Pub. L. 116–29, § 1, July 5, 2019, 133 Stat. 1031; Pub. L. 116–39, § 2, Aug. 6, 2019, 133 Stat. 1061; Pub. L. 116–59, div. B, title III, § 1301, Sept. 27, 2019, 133 Stat. 1105; Pub. L. 116–69, div. B, title III, § 1301, Nov. 21, 2019, 133 Stat. 1137; Pub. L. 116–94, div. N, title I, § 201, Dec. 20, 2019, 133 Stat. 3103; Pub. L. 116–136, div. A, title III, § 3814(a), (b), Mar. 27, 2020, 134 Stat. 430, 431; Pub. L. 116–159, div. C, title III, § 2304, Oct. 1, 2020, 134 Stat. 732; Pub. L. 116–215, div. B, title I, § 1104, Dec. 11, 2020, 134 Stat. 1043; Pub. L. 116–260, div. CC, title II, § 206, Dec. 27, 2020, 134 Stat. 2984; Pub. L. 117–159, div. A, title I, § 11001, June 25, 2022, 136 Stat. 1314, provided that: “(a) Criteria for Certified Community Behavioral Health Clinics To Participate in Demonstration Programs.—“(1) Publication.—Not later than September 1, 2015, the Secretary shall publish criteria for a clinic to be certified by a State as a certified community behavioral health clinic for purposes of participating in a demonstration program conducted under subsection (d). “(2) Requirements.—The criteria published under this subsection shall include criteria with respect to the following:“(A) Staffing.—Staffing requirements, including criteria that staff have diverse disciplinary backgrounds, have necessary State-required license and accreditation, and are culturally and linguistically trained to serve the needs of the clinic’s patient population. “(B) Availability and accessibility of services.—Availability and accessibility of services, including crisis management services that are available and accessible 24 hours a day, the use of a sliding scale for payment, and no rejection for services or limiting of services on the basis of a patient’s ability to pay or a place of residence. “(C) Care coordination.—Care coordination, including requirements to coordinate care across settings and providers to ensure seamless transitions for patients across the full spectrum of health services including acute, chronic, and behavioral health needs. Care coordination requirements shall include partnerships or formal contracts with the following:“(i) Federally-qualified health centers (and as applicable, rural health clinics) to provide Federally-qualified health center services (and as applicable, rural health clinic services) to the extent such services are not provided directly through the certified community behavioral health clinic. “(ii) Inpatient psychiatric facilities and substance use detoxification, post-detoxification step-down services, and residential programs. “(iii) Other community or regional services, supports, and providers, including schools, child welfare agencies, juvenile and criminal justice agencies and facilities, Indian Health Service youth regional treatment centers, State licensed and nationally accredited child placing agencies for therapeutic foster care service, and other social and human services. “(iv) Department of Veterans Affairs medical centers, independent outpatient clinics, drop-in centers, and other facilities of the Department as defined in section 1801 [probably should be 1701] of title 38, United States Code. “(v) Inpatient acute care hospitals and hospital outpatient clinics. “(D) Scope of services.—Provision (in a manner reflecting person-centered care) of the following services which, if not available directly through the certified community behavioral health clinic, are provided or referred through formal relationships with other providers:“(i) Crisis mental health services, including 24-hour mobile crisis teams, emergency crisis intervention services, and crisis stabilization. “(ii) Screening, assessment, and diagnosis, including risk assessment. “(iii) Patient-centered treatment planning or similar processes, including risk assessment and crisis planning. “(iv) Outpatient mental health and substance use services. “(v) Outpatient clinic primary care screening and monitoring of key health indicators and health risk. “(vi) Targeted case management. “(vii) Psychiatric rehabilitation services. “(viii) Peer support and counselor services and family supports. “(ix) Intensive, community-based mental health care for members of the armed forces and veterans, particularly those members and veterans located in rural areas, provided the care is consistent with minimum clinical mental health guidelines promulgated by the Veterans Health Administration including clinical guidelines contained in the Uniform Mental Health Services Handbook of such Administration. “(E) Quality and other reporting.—Reporting of encounter data, clinical outcomes data, quality data, and such other data as the Secretary requires. “(F) Organizational authority.—Criteria that a clinic be a non-profit or part of a local government behavioral health authority or operated under the authority of the Indian Health Service, an Indian tribe or tribal organization pursuant to a contract, grant, cooperative agreement, or compact with the Indian Health Service pursuant to the Indian Self-Determination Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) [450f] et seq.) [now [25 U.S.C. 5321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5321&num=0&edition=prelim) et seq.], or an urban Indian organization pursuant to a grant or contract with the Indian Health Service under title V of the Indian Health Care Improvement Act ([25 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) [1651] et seq.). “(b) Guidance on Development of Prospective Payment System for Testing Under Demonstration Programs.—“(1) In general.—Not later than September 1, 2015, the Secretary, through the Administrator of the Centers for Medicare & Medicaid Services, shall issue guidance for the establishment of a prospective payment system that shall only apply to medical assistance for mental health services furnished by a certified community behavioral health clinic participating in a demonstration program under subsection (d). “(2) Requirements.—The guidance issued by the Secretary under paragraph (1) shall provide that—“(A) no payment shall be made for inpatient care, residential treatment, room and board expenses, or any other non-ambulatory services, as determined by the Secretary; and “(B) no payment shall be made to satellite facilities of certified community behavioral health clinics if such facilities are established after the date of enactment of this Act [Apr. 1, 2014]. “(c) Planning Grants.—“(1) In general.—Not later than January 1, 2016, the Secretary shall award planning grants to States for the purpose of developing proposals to participate in time-limited demonstration programs described in subsection (d). “(2) Use of funds.—A State awarded a planning grant under this subsection shall—“(A) solicit input with respect to the development of such a demonstration program from patients, providers, and other stakeholders; “(B) certify clinics as certified community behavioral health clinics for purposes of participating in a demonstration program conducted under subsection (d); and “(C) establish a prospective payment system for mental health services furnished by a certified community behavioral health clinic participating in a demonstration program under subsection (d) in accordance with the guidance issued under subsection (b). “(3) Additional planning grants for states.—In addition to the planning grants awarded under paragraph (1), as soon as practicable after the date of enactment of this paragraph [June 25, 2022], the Secretary shall award planning grants to States (other than States selected to conduct demonstration programs under paragraph (1) or (8) of subsection (d)) to develop proposals to participate in time-limited demonstration programs described in subsection (d) so that, beginning July 1, 2024, and every 2 years thereafter, up to 10 additional States may participate in the demonstration programs described in subsection (d) in accordance with paragraph (9) of that subsection. “(d) Demonstration Programs.—“(1) In general.—Not later than September 1, 2017, the Secretary shall select States to participate in demonstration programs that are developed through planning grants awarded under subsection (c), meet the requirements of this subsection, and represent a diverse selection of geographic areas, including rural and underserved areas. “(2) Application requirements.—“(A) In general.—The Secretary shall solicit applications to participate in demonstration programs under this subsection solely from States awarded planning grants under subsection (c). “(B) Required information.—An application for a demonstration program under this subsection shall include the following:“(i) The target Medicaid population to be served under the demonstration program. “(ii) A list of participating certified community behavioral health clinics. “(iii) Verification that the State has certified a participating clinic as a certified community behavioral health clinic in accordance with the requirements of subsection (b). “(iv) A description of the scope of the mental health services available under the State Medicaid program that will be paid for under the prospective payment system tested in the demonstration program. “(v) Verification that the State has agreed to pay for such services at the rate established under the prospective payment system. “(vi) Such other information as the Secretary may require relating to the demonstration program including with respect to determining the soundness of the proposed prospective payment system. “(3) Number and length of demonstration programs.—Subject to paragraphs (8) and (9), not more than 8 States shall be selected to conduct demonstration programs that meet the requirements of this subsection through September 30, 2025. “(4) Requirements for selecting demonstration programs.—“(A) In general.—The Secretary shall give preference to selecting demonstration programs where participating certified community behavioral health clinics—“(i) provide the most complete scope of services described in subsection (a)(2)(D) to individuals eligible for medical assistance under the State Medicaid program; “(ii) will improve availability of, access to, and participation in, services described in subsection (a)(2)(D) to individuals eligible for medical assistance under the State Medicaid program; “(iii) will improve availability of, access to, and participation in assisted outpatient mental health treatment in the State; or “(iv) demonstrate the potential to expand available mental health services in a demonstration area and increase the quality of such services without increasing net Federal spending. “(5) Payment for medical assistance for mental health services provided by certified community behavioral health clinics.—“(A) In general.—The Secretary shall pay a State participating in a demonstration program under this subsection the Federal matching percentage specified in subparagraph (B) for amounts expended by the State to provide medical assistance for mental health services described in the demonstration program application in accordance with paragraph (2)(B)(iv) that are provided by certified community behavioral health clinics to individuals who are enrolled in the State Medicaid program. Payments to States made under this paragraph shall be considered to have been under, and are subject to the requirements of, section 1903 of the Social Security Act ([42 U.S.C. 1396b](./chapter-007-social-security.md#section-1396b)). “(B) Federal matching percentage.—Subject to subparagraph (C)(iii), the Federal matching percentage specified in this subparagraph is with respect to medical assistance described in subparagraph (A) that is furnished by a State participating in an ongoing demonstration program under this subsection—“(i) to a newly eligible individual described in paragraph (2) of section 1905(y) of the Social Security Act ([42 U.S.C. 1396d(y)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/y&num=0&edition=prelim)), the matching rate applicable under paragraph (1) of that section; and “(ii) to an individual who is not a newly eligible individual (as so described) but who is eligible for medical assistance under the State Medicaid program, the enhanced FMAP applicable to the State. “(C) Limitations.—“(i) In general.—Payments shall be made under this paragraph to a State only for mental health services— “(I) that are described in the demonstration program application in accordance with paragraph (2)(iv); “(II) for which payment is available under the State Medicaid program; and “(III) that are provided to an individual who is eligible for medical assistance under the State Medicaid program. “(ii) Prohibited payments.—No payment shall be made under this paragraph— “(I) for inpatient care, residential treatment, room and board expenses, or any other non-ambulatory services, as determined by the Secretary; or “(II) with respect to payments made to satellite facilities of certified community behavioral health clinics if such facilities are established after the date of enactment of this Act [Apr. 1, 2014]. “(iii) Payments for amounts expended after 2019.—The Federal matching percentage applicable under subparagraph (B) to amounts expended by a State participating in the demonstration program under this subsection shall— “(I) in the case of a State participating in the demonstration program as of January 1, 2020, apply to amounts expended by the State through September 30, 2025; “(II) in the case of a State selected to participate in the demonstration program under paragraph (8), during the first 24 fiscal quarter period (or any portion of such period) that the State participates in the demonstration program; and “(III) in the case of a State selected to participate in the demonstration program under paragraph (9), during the first 16 fiscal quarter period (or any portion of such period) that the State participates in the demonstration program. “(D) Rule of construction.—Nothing in this section shall be construed as prohibiting a State that participated in a demonstration program under this subsection that has ended from receiving Federal financial participation under title XIX of the Social Security Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.] for amounts expended by the State under a State plan under such title (or a waiver of such plan) for providing medical assistance for items and services, and carrying out activities, including continuing to pay for services under the prospective payment system established under subsection (c), that were provided or carried out by the State under the demonstration program, to the extent such financial participation is otherwise available under such title. “(6) Waiver of statewideness requirement.—The Secretary shall waive section 1902(a)(1) of the Social Security Act ([42 U.S.C. 1396a(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/1&num=0&edition=prelim)) (relating to statewideness) as may be necessary to conduct demonstration programs in accordance with the requirements of this subsection. “(7) Annual reports.—“(A) In general.—Not later than 1 year after the date on which the first State is selected for a demonstration program under this subsection, and annually thereafter through the year in which the last demonstration under this section ends, the Secretary shall submit to Congress an annual report on the use of funds provided under all demonstration programs conducted under this subsection. Each such report shall include—“(i) an assessment of access to community-based mental health services under the Medicaid program in the area or areas of a State targeted by a demonstration program compared to other areas of the State; “(ii) an assessment of the quality and scope of services provided by certified community behavioral health clinics compared to community-based mental health services provided in States not participating in a demonstration program under this subsection and in areas of a demonstration State that are not participating in the demonstration program; and “(iii) an assessment of the impact of the demonstration programs on the Federal and State costs of a full range of mental health services (including inpatient, emergency and ambulatory services). “(B) Recommendations.—Not later than September 30, 2025, the Secretary shall submit to Congress recommendations concerning whether the demonstration programs under this section should be continued, expanded, modified, or terminated. Such recommendations shall include data collected after 2019, where feasible. “(C) Final evaluation.—Not later than 24 months after all demonstration programs under this section have ended, the Secretary shall submit to Congress a final evaluation of such programs. “(8) Additional programs.—“(A) In general.—Not later than 6 months after the date of enactment of this paragraph [Mar. 27, 2020], in addition to the 8 States selected under paragraph (1), the Secretary shall select 2 States to conduct demonstration programs that meet the requirements of this subsection for 6 years. “(B) Selection of states.—“(i) In general.—Subject to clause (ii), in selecting States under this paragraph, the Secretary— “(I) shall select States that—“(aa) were awarded planning grants under subsection (c); and “(bb) applied to participate in the demonstration programs under this subsection under paragraph (1) but, as of the date of enactment of this paragraph, were not selected to participate under paragraph (1); and “(II) shall use the results of the Secretary’s evaluation of each State’s application under paragraph (1) to determine which States to select, and shall not require the submission of any additional application. “(C) Requirements for selected states.—Prior to services being delivered under the demonstration authority in a State selected under this paragraph, the State shall—“(i) submit a plan to monitor certified community behavioral health clinics under the demonstration program to ensure compliance with certified community behavioral health criteria during the demonstration period; and “(ii) commit to collecting data, notifying the Secretary of any planned changes that would deviate from the prospective payment system methodology outlined in the State’s demonstration application, and obtaining approval from the Secretary for any such change before implementing the change. “(9) Further additional programs.—“(A) In general.—In addition to the States selected under paragraphs (1) and (8), the Secretary shall select any State that meets the requirements described in subparagraph (B) to conduct a demonstration program that meets the requirements of this subsection for 4 years. “(B) Requirements.—The requirements described in this subparagraph with respect to a State are that the State—“(i) was awarded a planning grant under paragraph (1) or (3) of subsection (c); and “(ii) submits an application (in addition to any application that the State may have previously submitted under this section) that includes the information described in paragraph (2)(B). “(C) Requirements for selected states.—The requirements applicable to States selected under paragraph (8) pursuant to subparagraph (C) of such paragraph shall apply in the same manner to States selected under this paragraph. “(D) Limitation.—The Secretary shall not select more than 10 States to conduct a demonstration program under this paragraph for each 2 fiscal year period. “(e) Definitions.—In this section:“(1) Federally-qualified health center services; federally-qualified health center; rural health clinic services; rural health clinic.—The terms ‘Federally-qualified health center services’, ‘Federally-qualified health center’, ‘rural health clinic services’, and ‘rural health clinic’ have the meanings given those terms in section 1905(l) of the Social Security Act ([42 U.S.C. 1396d](./chapter-007-social-security.md#section-1396d)(l)). “(2) Enhanced fmap.—The term ‘enhanced FMAP’ has the meaning given that term in section 2105(b) of the Social Security Act ([42 U.S.C. 1397dd(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397dd/b&num=0&edition=prelim) [1397ee(b)]) but without regard to the second and third sentences of that section. “(3) Secretary.—The term ‘Secretary’ means the Secretary of Health and Human Services. “(4) State.—The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.). “(f) Funding.—“(1) In general.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary—“(A) for purposes of carrying out subsections (a), (b), and (d)(7), $2,000,000 for fiscal year 2014; “(B) for purposes of awarding planning grants under subsection (c), $25,000,000 for fiscal year 2016; and “(C) for purposes of awarding planning grants under subsection (c)(3), providing technical assistance to States applying for grants under such subsection, and carrying out demonstration programs under subsection (d), $40,000,000 for fiscal year 2023, to remain available until expended. “(2) Availability.—Funds appropriated under paragraph (1) shall remain available until expended.”
 
 #### Reports to Congress
 Pub. L. 111–148, title II, § 2001(d)(2), Mar. 23, 2010, 124 Stat. 278, provided that: “Beginning April 2015, and annually thereafter, the Secretary of Health and Human Services shall submit a report to the appropriate committees of Congress on the total enrollment and new enrollment in Medicaid for the fiscal year ending on September 30 of the preceding calendar year on a national and State-by-State basis, and shall include in each such report such recommendations for administrative or legislative changes to improve enrollment in the Medicaid program as the Secretary determines appropriate.”
@@ -108588,7 +110587,7 @@ Nothing in paragraph (1) shall be construed as permitting a State to provide ser
 
     (i) are authorized to dispense drugs approved by the Food and Drug Administration for individuals with a substance use disorder who need withdrawal management or maintenance treatment for such disorder;
 
-    (ii) have in effect a registration or waiver under [section 823(g) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) for purposes of dispensing narcotic drugs to individuals for maintenance treatment or detoxification treatment and are in compliance with any regulation promulgated by the Assistant Secretary for Mental Health and Substance Use for purposes of carrying out the requirements of such section 823(g); and
+    (ii) have in effect a registration or waiver under [section 823(h) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h&num=0&edition=prelim) for purposes of dispensing narcotic drugs to individuals for maintenance treatment or detoxification treatment and are in compliance with any regulation promulgated by the Assistant Secretary for Mental Health and Substance Use for purposes of carrying out the requirements of such section 823(h); and
 
     (iii) are qualified under applicable State law to provide substance use disorder treatment or recovery services.
 
@@ -108782,6 +110781,8 @@ The Appalachian Regional Development Act of 1965, referred to in subsec. (m)(2)(
 The Deficit Reduction Act of 2005, referred to in subsec. (x)(5), is Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 4. Section 6036 of the Act amended this section and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Short Title of 2006 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
+2022—Subsec. (aa)(2)(C)(ii). Pub. L. 117–215 substituted “823(h)” for “823(g)” in two places.
+
 2020—Subsec. (a)(6). Pub. L. 116–260, § 207(b), which directed amendment of concluding provisions by striking out “(as found necessary by the Secretary for the elimination of fraud in the provision and administration of medical assistance provided under the State plan (or waiver of such plan))”, was executed by striking out “(as found necessary by the Secretary for the elimination of fraud in the provision and administration of medical assistance provided under the State plan)” after “such quarter”, to reflect the probable intent of Congress.
 
 Subsec. (i)(9). Pub. L. 116–260, § 209(a)(3), added par. (9).
@@ -110019,7 +112020,7 @@ the Secretary shall notify such State agency that further payments will not be m
 ### Statutory Notes
 
 #### Constitutionality
-For constitutionality of section 121(a) of Pub. L. 89–97, amending this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of section 121(a) of Pub. L. 89–97, enacting this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 
 <a id="section-1396d"></a>
@@ -110078,7 +112079,7 @@ but whose income and resources are insufficient to meet all of such cost—
 
 (4)
 
-  (A) nursing facility services (other than services in an institution for mental diseases) for individuals 21 years of age or older; (B) early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)) for individuals who are eligible under the plan and are under the age of 21; (C) family planning services and supplies furnished (directly or under arrangements with others) to individuals of child-bearing age (including minors who can be considered to be sexually active) who are eligible under the State plan and who desire such services and supplies; and (D) counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in subsection (bb)); and (E) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and administration of the vaccine; and (F) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, without regard to the requirements of [section 1396a(a)(10)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/B&num=0&edition=prelim) (relating to comparability), in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan);
+  (A) nursing facility services (other than services in an institution for mental diseases) for individuals 21 years of age or older; (B) early and periodic screening, diagnostic, and treatment services (as defined in subsection (r)) for individuals who are eligible under the plan and are under the age of 21; (C) family planning services and supplies furnished (directly or under arrangements with others) to individuals of child-bearing age (including minors who can be considered to be sexually active) who are eligible under the State plan and who desire such services and supplies; and 22 So in original. The word “and” probably should not appear. (D) counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in subsection (bb)); and 2 (E) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and administration of the vaccine; and (F) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, without regard to the requirements of [section 1396a(a)(10)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/B&num=0&edition=prelim) (relating to comparability), in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan);
 
 (5)
 
@@ -110201,7 +112202,7 @@ the term “physicians’ services” (as used in subsection (a)(5)) shall inclu
 
 (2)
 
-  (A) The term “Federally-qualified health center services” means services of the type described in subparagraphs (A) through (C) of [section 1395x(aa)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/1&num=0&edition=prelim) when furnished to an individual as an 22 So in original. Probably should be “a”. patient of a Federally-qualified health center and, for this purpose, any reference to a rural health clinic or a physician described in [section 1395x(aa)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/2/B&num=0&edition=prelim) is deemed a reference to a Federally-qualified health center or a physician at the center, respectively.
+  (A) The term “Federally-qualified health center services” means services of the type described in subparagraphs (A) through (C) of [section 1395x(aa)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/1&num=0&edition=prelim) when furnished to an individual as an 33 So in original. Probably should be “a”. patient of a Federally-qualified health center and, for this purpose, any reference to a rural health clinic or a physician described in [section 1395x(aa)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/2/B&num=0&edition=prelim) is deemed a reference to a Federally-qualified health center or a physician at the center, respectively.
 
   (B) The term “Federally-qualified health center” means an entity which—
 
@@ -110216,7 +112217,7 @@ the term “physicians’ services” (as used in subsection (a)(5)) shall inclu
     (iii) based on the recommendation of the Health Resources and Services Administration within the Public Health Service, is determined by the Secretary to meet the requirements for receiving such a grant, including requirements of the Secretary that an entity may not be owned, controlled, or operated by another entity, or
 
     (iv) was treated by the Secretary, for purposes of part B of subchapter XVIII, as a comprehensive Federally funded health center as of January 1, 1990;
-    and includes an outpatient health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (Public Law 93–638) [[25 U.S.C. 5321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5321&num=0&edition=prelim) et seq.] or by an urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act [[25 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1651&num=0&edition=prelim) et seq.] for the provision of primary health services. In applying clause (ii),33 So in original. Probably should be clause “(iii),”. See References in Text note below. the Secretary may waive any requirement referred to in such clause for up to 2 years for good cause shown.
+    and includes an outpatient health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (Public Law 93–638) [[25 U.S.C. 5321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5321&num=0&edition=prelim) et seq.] or by an urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act [[25 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1651&num=0&edition=prelim) et seq.] for the provision of primary health services. In applying clause (ii),44 So in original. Probably should be clause “(iii),”. See References in Text note below. the Secretary may waive any requirement referred to in such clause for up to 2 years for good cause shown.
 
 (3)
 
@@ -110323,7 +112324,7 @@ the term “physicians’ services” (as used in subsection (a)(5)) shall inclu
 
     (i) premiums under section 1395i–2 or 1395i–2a of this title, and
 
-    (ii) premiums under [section 1395r of this title](./chapter-007-social-security.md#section-1395r),44 So in original. The comma probably should be a period.
+    (ii) premiums under [section 1395r of this title](./chapter-007-social-security.md#section-1395r),55 So in original. The comma probably should be a period.
 
   (B) Coinsurance under subchapter XVIII (including coinsurance described in [section 1395e of this title](./chapter-007-social-security.md#section-1395e)).
 
@@ -110336,7 +112337,7 @@ the term “physicians’ services” (as used in subsection (a)(5)) shall inclu
 
   (A) the requirement stated in [section 1396a(a)(10)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/E&num=0&edition=prelim) shall be optional, and
 
-  (B) for purposes of paragraph (2), the State may substitute for the percent provided under subparagraph (B) 55 So in original. The words “of such paragraph” probably should follow “subparagraph (B)”. or 66 So in original. Probably should be “or section”. 1396a(a)(10)(E)(iii) of this title of such paragraph 5 any percent.
+  (B) for purposes of paragraph (2), the State may substitute for the percent provided under subparagraph (B) 66 So in original. The words “of such paragraph” probably should follow “subparagraph (B)”. or 77 So in original. Probably should be “or section”. 1396a(a)(10)(E)(iii) of this title of such paragraph 6 any percent.
   In the case of any State which is providing medical assistance to its residents under a waiver granted under [section 1315 of this title](./chapter-007-social-security.md#section-1315), the Secretary shall require the State to meet the requirement of [section 1396a(a)(10)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/E&num=0&edition=prelim) in the same manner as the State would be required to meet such requirement if the State had in effect a plan approved under this subchapter.
 
 (5)
@@ -110553,7 +112554,7 @@ Nothing in this subchapter shall be construed as limiting providers of early and
 
     (ii) the Secretary determines will not receive any payments under this subchapter on the basis of an increased Federal medical assistance percentage under subsection (y) for expenditures for medical assistance for newly eligible individuals (as so defined); and
 
-    (iii) has not been approved by the Secretary to divert a portion of the DSH allotment for a State to the costs of providing medical assistance or other health benefits coverage under a waiver that is in effect on July 2009.77 So in original.
+    (iii) has not been approved by the Secretary to divert a portion of the DSH allotment for a State to the costs of providing medical assistance or other health benefits coverage under a waiver that is in effect on July 2009.88 So in original.
 
 (2)
 
@@ -110599,7 +112600,7 @@ Nothing in this subchapter shall be construed as limiting providers of early and
 
 (3) In this subsection, the term “regular FMAP” means, for each fiscal year for which this subsection applies to a State, the Federal medical assistance percentage that would otherwise apply to the State for the fiscal year, as determined under subsection (b) and without regard to this subsection, subsections (y) and (z), and section 10202 of the Patient Protection and Affordable Care Act.
 
-(4) The Federal medical assistance percentage determined for a disaster-recovery FMAP adjustment State under paragraph (1) shall apply for purposes of this subchapter (other than with respect to disproportionate share hospital payments described in [section 1396r–4 of this title](./chapter-007-social-security.md#section-1396r-4) and payments under this subchapter that are based on the enhanced FMAP described in 1397ee(b) 88 So in original. Probably should be preceded by “section”. of this title) and shall not apply with respect to payments under subchapter IV (other than under part E of subchapter IV) or payments under subchapter XXI.
+(4) The Federal medical assistance percentage determined for a disaster-recovery FMAP adjustment State under paragraph (1) shall apply for purposes of this subchapter (other than with respect to disproportionate share hospital payments described in [section 1396r–4 of this title](./chapter-007-social-security.md#section-1396r-4) and payments under this subchapter that are based on the enhanced FMAP described in 1397ee(b) 99 So in original. Probably should be preceded by “section”. of this title) and shall not apply with respect to payments under subchapter IV (other than under part E of subchapter IV) or payments under subchapter XXI.
 
 **(bb) Counseling and pharmacotherapy for cessation of tobacco use by pregnant women**
 
@@ -110645,9 +112646,9 @@ Nothing in this subchapter shall be construed as limiting providers of early and
 
 (1) for the period beginning October 1, 2019, and ending December 20, 2019, the Federal medical assistance percentage for Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 100 percent;
 
-(2) subject to [section 1308(g)(7)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/g/7/C&num=0&edition=prelim), for the period beginning December 21, 2019, and ending December 3, 2021, the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
+(2) subject to [section 1308(g)(7)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/g/7/C&num=0&edition=prelim), for the period beginning December 21, 2019, and ending December 3, 2021, and for the period beginning January 1, 2022, and ending December 23, 2022 1010 So in original. Probably should be followed by a comma. the Federal medical assistance percentage for Puerto Rico shall be equal to 76 percent; and
 
-(3) subject to [section 1308(g)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/g/8/B&num=0&edition=prelim), for the period beginning December 21, 2019, and ending February 18, 2022, the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
+(3) subject to [section 1308(g)(8)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1308/g/8/B&num=0&edition=prelim), for the period beginning December 21, 2019, and ending December 23, 2022, the Federal medical assistance percentage for the Virgin Islands, Guam, the Northern Mariana Islands, and American Samoa shall be equal to 83 percent.
 
 **(gg)**
 
@@ -110749,8 +112750,18 @@ Nothing in this subchapter shall be construed as limiting providers of early and
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 210(a) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022. See 2020 Amendment notes below.
+#### Amendment of Subsection (b)
+Pub. L. 117–169, title I, § 11405(a)(3), (c), Aug. 16, 2022, 136 Stat. 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, subsection (b) of this section is amended as follows:
+
+(1) by striking “and (5)” and inserting “(5)”;
+
+(2) by striking “services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines” and inserting “services described in subsection (a)(13)(A), and prohibits cost-sharing for such services”;
+
+(3) by striking “medical assistance for such services and vaccines” and inserting “medical assistance for such services”; and
+
+(4) by inserting “, and (6) during the first 8 fiscal quarters beginning on or after the effective date of this clause, in the case of a State which, as of August 16, 2022, provides medical assistance for vaccines described in subsection (a)(13)(B) and their administration and prohibits cost-sharing for such vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y), shall be increased by 1 percentage point with respect to medical assistance for such vaccines and their administration” before the first period.
+
+See 2022 Amendment notes below.
 
 #### References in Text
 [Section 606 of this title](./chapter-007-social-security.md#section-606), referred to in subsec. (a)(ii), was repealed and a new section 606 enacted by Pub. L. 104–193, title I, § 103(a)(1), Aug. 22, 1996, 110 Stat. 2112, and, as so enacted, no longer contains a subsec. (b)(1).
@@ -110776,9 +112787,27 @@ Section 10202 of the Patient Protection and Affordable Care Act, referred to in 
 Section 6008 of the Families First Coronavirus Response Act, referred to in subsecs. (cc) and (ii)(1), is section 6008 of Pub. L. 116–127, which amended this section and enacted provisions set out as a note under this section.
 
 #### Amendments
-2021—Subsec. (a)(4). Pub. L. 117–2, § 9811(a)(1), inserted at end “and (E) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and administration of the vaccine; and (F) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, without regard to the requirements of [section 1396a(a)(10)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/10/B&num=0&edition=prelim) (relating to comparability), in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan);”.
+2022—Subsec. (b). Pub. L. 117–169, § 11405(a)(3)(A)–(C), substituted “(5) in the case of” for “and (5) in the case of”, “services described in subsection (a)(13)(A), and prohibits cost-sharing for such services” for “services and vaccines described in subparagraphs (A) and (B) of subsection (a)(13), and prohibits cost-sharing for such services and vaccines”, and “medical assistance for such services” for “medical assistance for such services and vaccines”.
 
-Subsec. (b). Pub. L. 117–2, § 9815, inserted “; for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after March 11, 2021, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Urban Indian organization (as defined in paragraph (29) of section 4 of the Indian Health Care Improvement Act [[25 U.S.C. 1603(29)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603/29&num=0&edition=prelim)]) that has a grant or contract with the Indian Health Service under title V of such Act [[25 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1651&num=0&edition=prelim) et seq.]; and, for such 8 fiscal year quarters, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through a Native Hawaiian Health Center (as defined in [section 11711(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11711/4&num=0&edition=prelim)) or a qualified entity (as defined in [section 11705(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11705/b&num=0&edition=prelim)) that has a grant or contract with the Papa Ola Lokahi under [section 11707 of this title](./chapter-122-native-hawaiian-health-care.md#section-11707)” after “after (as defined in section 4 of the Indian Health Care Improvement Act).
+Subsec. (b)(6). Pub. L. 117–169, § 11405(a)(3)(D), inserted ‘, and (6) during the first 8 fiscal quarters beginning on or after the effective date of this clause, in the case of a State which, as of August 16, 2022, provides medical assistance for vaccines described in subsection (a)(13)(B) and their administration and prohibits cost-sharing for such vaccines, the Federal medical assistance percentage, as determined under this subsection and subsection (y), shall be increased by 1 percentage point with respect to medical assistance for such vaccines and their administration” before the first period.
+
+Subsec. (ff)(2). Pub. L. 117–229, § 103(1), substituted “December 23, 2022” for “December 16, 2022”.
+
+Pub. L. 117–180 substituted “December 16” for “December 13”.
+
+Pub. L. 117–103, § 201(a)(1), inserted “and for the period beginning January 1, 2022, and ending December 13, 2022” after “and ending December 3, 2021,”.
+
+Subsec. (ff)(3). Pub. L. 117–229, § 103(2), substituted “December 23, 2022” for “December 16, 2022”.
+
+Pub. L. 117–180 substituted “December 16” for “December 13”.
+
+Pub. L. 117–103, § 201(a)(2), substituted “December 13, 2022” for “March 11, 2022”.
+
+Pub. L. 117–86 substituted “March 11, 2022” for “February 18, 2022”.
+
+2021—Subsec. (a)(4). Pub. L. 117–2, § 9811(a)(1), added cls. (E) and (F).
+
+Subsec. (b). Pub. L. 117–2, § 9815, inserted “; for the 8 fiscal year quarters beginning with the first fiscal year quarter beginning after March 11, 2021, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through an Urban Indian organization (as defined in paragraph (29) of section 4 of the Indian Health Care Improvement Act [[25 U.S.C. 1603(29)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603/29&num=0&edition=prelim)]) that has a grant or contract with the Indian Health Service under title V of such Act [[25 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1651&num=0&edition=prelim) et seq.]; and, for such 8 fiscal year quarters, the Federal medical assistance percentage shall also be 100 per centum with respect to amounts expended as medical assistance for services which are received through a Native Hawaiian Health Center (as defined in [section 11711(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11711/4&num=0&edition=prelim)) or a qualified entity (as defined in [section 11705(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11705/b&num=0&edition=prelim)) that has a grant or contract with the Papa Ola Lokahi under [section 11707 of this title](./chapter-122-native-hawaiian-health-care.md#section-11707)” after “after (as defined in section 4 of the Indian Health Care Improvement Act)”.
 
 Pub. L. 117–2, § 9814(1), substituted “(hh), and (ii)” for “and (hh)”.
 
@@ -110858,7 +112887,7 @@ Subsec. (a)(xvi). Pub. L. 111–148, § 2303(a)(4)(A), added cl. (xvi).
 
 Subsec. (a)(xvii). Pub. L. 111–148, § 2402(d)(2)(B), added cl. (xvii).
 
-Subsec. (a)(4). Pub. L. 111–148, § 4107(a)(1), added subpar. (D).
+Subsec. (a)(4). Pub. L. 111–148, § 4107(a)(1), added cl. (D).
 
 Subsec. (a)(13). Pub. L. 111–148, § 4106(a), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “other diagnostic, screening, preventive, and rehabilitative services, including any medical or remedial services (provided in a facility, a home, or other setting) recommended by a physician or other licensed practitioner of the healing arts within the scope of their practice under State law, for the maximum reduction of physical or mental disability and restoration of an individual to the best possible functional level;”.
 
@@ -111358,6 +113387,9 @@ Subsec. (a)(4). Pub. L. 90–248, § 302(a), designated existing provisions as c
 
 Subsec. (b). Pub. L. 90–248, § 248(e), substituted in cl. (2) of first sentence “50” for “55”.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
+
 #### Effective Date of 2020 Amendment
 Amendment by section 210(a) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022, see section 210(e) of Pub. L. 116–260, set out as a note under [section 1308 of this title](./chapter-007-social-security.md#section-1308).
 
@@ -111579,8 +113611,11 @@ Pub. L. 108–357, title VII, § 712(a)(2), Oct. 22, 2004, 118 Stat. 1558, provi
 #### Construction of 1999 Amendment
 Amendment by Pub. L. 106–170 to be executed as if Pub. L. 106–169 had been enacted after the enactment of Pub. L. 106–170, see section 121(c)(1) of Pub. L. 106–169, set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
-#### Additional support for Medicaid home and community-based services during the COVID–19 Emergency
-Pub. L. 117–2, title IX, § 9817, Mar. 11, 2021, 135 Stat. 216, provided that: “(a) Increased FMAP.—“(1) In general.—Notwithstanding section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/b&num=0&edition=prelim)) or section 1905(ff), in the case of a State that meets the HCBS program requirements under subsection (b), the Federal medical assistance percentage determined for the State under section 1905(b) of such Act(or, if applicable, under section 1905(ff)) and, if applicable, increased under subsection (y), (z), (aa), or (ii) of section 1905 of such Act ([42 U.S.C. 1396d](./chapter-007-social-security.md#section-1396d)), section 1915(k) of such Act ([42 U.S.C. 1396n(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/k&num=0&edition=prelim)), or section 6008(a) of the Families First Coronavirus Response Act (Public Law 116–127)[set out as a note below], shall be increased by 10 percentage points with respect to expenditures of the State under the State Medicaid program for home and community-based services (as defined in paragraph (2)(B)) that are provided during the HCBS program improvement period (as defined in paragraph (2)(A)). In no case may the application of the previous sentence result in the Federal medical assistance percentage determined for a State being more than 95 percent with respect to such expenditures. Any payment made to Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa for expenditures on medical assistance that are subject to the Federal medical assistance percentage increase specified under the first sentence of this paragraph shall not be taken into account for purposes of applying payment limits under subsections (f) and (g) of section 1108 of the Social Security Act ([42 U.S.C. 1308](./chapter-007-social-security.md#section-1308)). “(2) Definitions.—In this section:“(A) HCBS program improvement period.—The term ‘HCBS program improvement period’ means, with respect to a State, the period—“(i) beginning on April 1, 2021; and “(ii) ending on March 31, 2022. “(B) Home and community-based services.—The term ‘home and community-based services’ means any of the following:“(i) Home health care services authorized under paragraph (7) of section 1905(a) of the Social Security Act ([42 U.S.C. 1396d(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a&num=0&edition=prelim)). “(ii) Personal care services authorized under paragraph (24) of such section. “(iii) PACE services authorized under paragraph (26) of such section. “(iv) Home and community-based services authorized under subsections (b), (c), (i), (j), and (k) of section 1915 of such Act ([42 U.S.C. 1396n](./chapter-007-social-security.md#section-1396n)), such services authorized under a waiver under section 1115 of such Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315)), and such services through coverage authorized under section 1937 of such Act ([42 U.S.C. 1396u–7](./chapter-007-social-security.md#section-1396u-7)). “(v) Case management services authorized under section 1905(a)(19) of the Social Security Act ([42 U.S.C. 1396d(a)(19)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/19&num=0&edition=prelim)) and section 1915(g) of such Act ([42 U.S.C. 1396n(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/g&num=0&edition=prelim)). “(vi) Rehabilitative services, including those related to behavioral health, described in section 1905(a)(13) of such Act ([42 U.S.C. 1396d(a)(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/13&num=0&edition=prelim)). “(vii) Such other services specified by the Secretary of Health and Human Services. “(C) Eligible individual.—The term ‘eligible individual’ means an individual who is eligible for and enrolled for medical assistance under a State Medicaid program and includes an individual who becomes eligible for medical assistance under a State Medicaid program when removed from a waiting list. “(D) Medicaid program.—The term ‘Medicaid program’ means, with respect to a State, the State program under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) (including any waiver or demonstration under such title or under section 1115 of such Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315)) relating to such title). “(E) State.—The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.). “(b) State Requirements for FMAP Increase.—As conditions for receipt of the increase under subsection (a) to the Federal medical assistance percentage determined for a State, the State shall meet each of the following requirements (referred to in subsection (a) as the HCBS program requirements):“(1) Supplement, not supplant.—The State shall use the Federal funds attributable to the increase under subsection (a) to supplement, and not supplant, the level of State funds expended for home and community-based services for eligible individuals through programs in effect as of April 1, 2021. “(2) Required implementation of certain activities.—The State shall implement, or supplement the implementation of, one or more activities to enhance, expand, or strengthen home and community-based services under the State Medicaid program.”
+#### Review of State Implementation of Early and Periodic Screening, Diagnostic, and Treatment Services
+Pub. L. 117–159, div. A, title I, § 11004, June 25, 2022, 136 Stat. 1319, provided that: “(a) Review.—“(1) In general.—Not later than 24 months after the date of enactment of Act [probably means “this Act”, June 25, 2022], and every 5 years thereafter, the Secretary shall—“(A) review State implementation of the requirements for providing early and periodic screening, diagnostic, and treatment services under Medicaid in accordance with sections 1902(a)(43), 1905(a)(4)(B), and 1905(r) of the Social Security Act ([42 U.S.C. 1396a(a)(43)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/43&num=0&edition=prelim), 1396d(a)(4)(B), 1396d(r)), including with respect to the provision of such services by managed care organizations, prepaid inpatient health plans, prepaid ambulatory health plans, and primary care case managers; “(B) identify gaps and deficiencies with respect to State compliance with such requirements; “(C) provide technical assistance to States to address such gaps and deficiencies; and “(D) issue guidance to States on the Medicaid coverage requirements for such services that includes best practices for ensuring children have access to comprehensive health care services, including children without a mental health or substance use disorder diagnosis. “(2) Reports to congress.—Not later than 6 months after each date on which the Secretary completes the activities described in paragraph (1), the Secretary shall submit to the Committee on Finance of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the most recent activities completed for purposes of such paragraph that includes the findings made, and descriptions of actions taken by the Secretary or by States as a result of such activities, and any additional actions the Secretary plans to carry out or that States are required to carry out as a result of such activities. “(3) Funding.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary to carry out this subsection, to remain available until expended, $5,000,000, for each of fiscal years 2023 and 2024, and $1,000,000 for each fiscal year thereafter. “(b) GAO Study and Report.—“(1) Study.—The Comptroller General of the United States (in this subsection referred to as the ‘Comptroller General’) shall conduct a study evaluating State implementation under Medicaid of the early and periodic screening, diagnostic, and treatment services benefit required for children by section 1905(a)(4)(B) of the Social Security Act ([42 U.S.C. 1396d(a)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/B&num=0&edition=prelim)) and as defined in section 1905(r) of such Act ([42 U.S.C. 1396d(r)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/r&num=0&edition=prelim)) and provided in accordance with the requirements of section 1902(a)(43) of such Act ([42 U.S.C. 1396a(a)(43)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a/43&num=0&edition=prelim)), specifically with respect to State oversight of managed care organizations, prepaid inpatient health plans, prepaid ambulatory health plans, and primary care case managers, and shall provide recommendations as appropriate to improve State compliance with the requirements for providing such benefit, State oversight of managed care organizations, prepaid inpatient health plans, prepaid ambulatory health plans, and primary care case managers, and oversight of State programs under Medicaid by the Administrator of the Centers for Medicare & Medicaid Services. “(2) Report.—Not later than 3 years after the date of enactment of this Act, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1) that includes the recommendations required by such paragraph, as well as recommendations for such legislation and administrative action as the Comptroller General determines appropriate. “(c) Definitions.—In this section:“(1) Medicaid.—The term ‘Medicaid’ means the program established under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.). “(2) Secretary.—Except as otherwise provided, the term ‘Secretary’ means the Secretary of Health and Human Services. “(3) State.—The term ‘State’ has the meaning given that term in section 1101(a)(1) of the Social Security Act ([42 U.S.C. 1301(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1301/a/1&num=0&edition=prelim)) for purposes of titles XIX and XXI of such Act [[42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq., 1397aa et seq.].”
+
+#### Additional Support for Medicaid Home and Community-Based Services During the COVID–19 Emergency
+Pub. L. 117–2, title IX, § 9817, Mar. 11, 2021, 135 Stat. 216, provided that: “(a) Increased FMAP.—“(1) In general.—Notwithstanding section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/b&num=0&edition=prelim)) or section 1905(ff), in the case of a State that meets the HCBS program requirements under subsection (b), the Federal medical assistance percentage determined for the State under section 1905(b) of such Act (or, if applicable, under section 1905(ff)) and, if applicable, increased under subsection (y), (z), (aa), or (ii) of section 1905 of such Act ([42 U.S.C. 1396d](./chapter-007-social-security.md#section-1396d)), section 1915(k) of such Act ([42 U.S.C. 1396n(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/k&num=0&edition=prelim)), or section 6008(a) of the Families First Coronavirus Response Act (Public Law 116–127) [set out as a note below], shall be increased by 10 percentage points with respect to expenditures of the State under the State Medicaid program for home and community-based services (as defined in paragraph (2)(B)) that are provided during the HCBS program improvement period (as defined in paragraph (2)(A)). In no case may the application of the previous sentence result in the Federal medical assistance percentage determined for a State being more than 95 percent with respect to such expenditures. Any payment made to Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, or American Samoa for expenditures on medical assistance that are subject to the Federal medical assistance percentage increase specified under the first sentence of this paragraph shall not be taken into account for purposes of applying payment limits under subsections (f) and (g) of section 1108 of the Social Security Act ([42 U.S.C. 1308](./chapter-007-social-security.md#section-1308)). “(2) Definitions.—In this section:“(A) HCBS program improvement period.—The term ‘HCBS program improvement period’ means, with respect to a State, the period—“(i) beginning on April 1, 2021; and “(ii) ending on March 31, 2022. “(B) Home and community-based services.—The term ‘home and community-based services’ means any of the following:“(i) Home health care services authorized under paragraph (7) of section 1905(a) of the Social Security Act ([42 U.S.C. 1396d(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a&num=0&edition=prelim)). “(ii) Personal care services authorized under paragraph (24) of such section. “(iii) PACE services authorized under paragraph (26) of such section. “(iv) Home and community-based services authorized under subsections (b), (c), (i), (j), and (k) of section 1915 of such Act ([42 U.S.C. 1396n](./chapter-007-social-security.md#section-1396n)), such services authorized under a waiver under section 1115 of such Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315)), and such services through coverage authorized under section 1937 of such Act ([42 U.S.C. 1396u–7](./chapter-007-social-security.md#section-1396u-7)). “(v) Case management services authorized under section 1905(a)(19) of the Social Security Act ([42 U.S.C. 1396d(a)(19)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/19&num=0&edition=prelim)) and section 1915(g) of such Act ([42 U.S.C. 1396n(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396n/g&num=0&edition=prelim)). “(vi) Rehabilitative services, including those related to behavioral health, described in section 1905(a)(13) of such Act ([42 U.S.C. 1396d(a)(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/13&num=0&edition=prelim)). “(vii) Such other services specified by the Secretary of Health and Human Services. “(C) Eligible individual.—The term ‘eligible individual’ means an individual who is eligible for and enrolled for medical assistance under a State Medicaid program and includes an individual who becomes eligible for medical assistance under a State Medicaid program when removed from a waiting list. “(D) Medicaid program.—The term ‘Medicaid program’ means, with respect to a State, the State program under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) (including any waiver or demonstration under such title or under section 1115 of such Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315)) relating to such title). “(E) State.—The term ‘State’ has the meaning given such term for purposes of title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.). “(b) State Requirements for FMAP Increase.—As conditions for receipt of the increase under subsection (a) to the Federal medical assistance percentage determined for a State, the State shall meet each of the following requirements (referred to in subsection (a) as the HCBS program requirements):“(1) Supplement, not supplant.—The State shall use the Federal funds attributable to the increase under subsection (a) to supplement, and not supplant, the level of State funds expended for home and community-based services for eligible individuals through programs in effect as of April 1, 2021. “(2) Required implementation of certain activities.—The State shall implement, or supplement the implementation of, one or more activities to enhance, expand, or strengthen home and community-based services under the State Medicaid program.”
 
 #### Temporary Increase of Medicaid FMAP
 Pub. L. 116–127, div. F, § 6008(a), (b), (d), Mar. 18, 2020, 134 Stat. 208, as amended by Pub. L. 116–136, div. A, title III, § 3720, Mar. 27, 2020, 134 Stat. 427; Pub. L. 116–260, div. X, § 11, Dec. 27, 2020, 134 Stat. 2417, provided that: “(a) In General.—Subject to subsection (b), for each calendar quarter occurring during the period beginning on the first day of the emergency period defined in paragraph (1)(B) of section 1135(g) of the Social Security Act ([42 U.S.C. 1320b–5(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g&num=0&edition=prelim)) and ending on the last day of the calendar quarter in which the last day of such emergency period occurs, the Federal medical assistance percentage determined for each State, including the District of Columbia, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, Puerto Rico, and the United States Virgin Islands, under section 1905(b) of the Social Security Act ([42 U.S.C. 1396d(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/b&num=0&edition=prelim)) shall be increased by 6.2 percentage points. “(b) Requirement for All States.—A State described in subsection (a) may not receive the increase described in such subsection in the Federal medical assistance percentage for such State, with respect to a quarter, if—“(1) eligibility standards, methodologies, or procedures under the State plan of such State under title XIX of the Social Security Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) (including any waiver under such title or section 1115 of such Act ([42 U.S.C. 1315](./chapter-007-social-security.md#section-1315))) are more restrictive during such quarter than the eligibility standards, methodologies, or procedures, respectively, under such plan (or waiver) as in effect on January 1, 2020; “(2) the amount of any premium imposed by the State pursuant to section 1916 or 1916A of such Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396)o, 1396o–1) during such quarter, with respect to an individual enrolled under such plan (or waiver), exceeds the amount of such premium as of January 1, 2020; “(3) the State fails to provide that an individual who is enrolled for benefits under such plan (or waiver) as of the date of enactment of this section [Mar. 18, 2020] or enrolls for benefits under such plan (or waiver) during the period beginning on such date of enactment and ending the last day of the month in which the emergency period described in subsection (a) ends shall be treated as eligible for such benefits through the end of the month in which such emergency period ends unless the individual requests a voluntary termination of eligibility or the individual ceases to be a resident of the State; or “(4) the State does not provide coverage under such plan (or waiver), without the imposition of cost sharing, during such quarter for any testing services and treatments for COVID–19, including vaccines, specialized equipment, and therapies. “(d) [sic] Delay in Application of Premium Requirement.—During the 30 day period beginning on the date of enactment of this Act, a State shall not be ineligible for the increase to the Federal medical assistance percentage of the State described in subsection (a) on the basis that the State imposes a premium that violates the requirement of subsection (b)(2) if such premium was in effect on the date of enactment of this Act. “(d) [sic] Delay in Application of Premium Requirement.—During the 30 day period beginning on the date of enactment of this Act, a State shall not be ineligible for the increase to the Federal medical assistance percentage of the State described in subsection (a) on the basis that the State imposes a premium that violates the requirement of subsection (b)(2) if such premium was in effect on the date of enactment of this Act. “(d) [sic] Application to Title IV-E Payments.—If the District of Columbia receives the increase described in subsection (a) in the Federal medical assistance percentage for the District of Columbia with respect to a quarter, the Federal medical assistance percentage for the District of Columbia, as so increased, shall apply to payments made to the District of Columbia under part E of title IV of the Social Security Act ([42 U.S.C. 670](./chapter-007-social-security.md#section-670) et seq.) for that quarter, and the payments under such part shall be deemed to be made on the basis of the Federal medical assistance percentage applied with respect to such District for purposes of title XIX of such Act ([42 U.S.C. 1396](./chapter-007-social-security.md#section-1396) et seq.) and as increased under subsection (a).”
@@ -111676,9 +113711,9 @@ Pub. L. 95–292, § 8(c), (d)(2), June 13, 1978, 92 Stat. 316, required the Sec
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsec. (e)(1), is classified generally to Title 26, Internal Revenue Code.
 
-The Public Health Service Act, referred to in subsec. (e)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXII of the Act is classified generally to subchapter XX (§ 300bb–1 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsec. (e)(1), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXII of the Act is classified generally to subchapter XX (§ 300bb–1 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (e)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title VI of the Act probably means part 6 of subtitle B of title I of the Act which is classified generally to part 6 (§ 1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor, because the Act has no title VI. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (e)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title VI of the Act probably means part 6 of subtitle B of title I of the Act which is classified generally to part 6 (§ 1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor, because the Act has no title VI. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 1396e, act Aug. 14, 1935, ch. 531, title XIX, § 1906, as added Jan. 2, 1968, Pub. L. 90–248, title II, § 226, 81 Stat. 903, created Advisory Council on Medical Assistance, set forth composition of Council, term of membership of members, and purposes of Council, and provided for compensation of members, prior to repeal by Pub. L. 92–603, title II, § 287, Oct. 30, 1972, 86 Stat. 1457, effective on the first day of the third calendar month following Oct. 30, 1972.
@@ -113196,9 +115231,9 @@ Pub. L. 99–272, title IX, § 9502(f), Apr. 7, 1986, 100 Stat. 204, provided th
 
   (G) COVID–19 testing-related services for which payment may be made under the State plan 11 So in original. Probably should be followed by a comma.
 
-  (H) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)); or
+  (H) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)); 22 So in original. The semicolon probably should be a comma. or
 
-  (I) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan); and
+  (I) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan); and
 
 (3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
@@ -113222,9 +115257,9 @@ Pub. L. 99–272, title IX, § 9502(f), Apr. 7, 1986, 100 Stat. 204, provided th
 
   (G) COVID–19 testing-related services for which payment may be made under the State plan 1
 
-  (H) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)); or
+  (H) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)); 2 or
 
-  (I) during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan); and
+  (I) during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan); and
 
 (3) any deduction, cost sharing, or similar charge imposed under the plan with respect to other such individuals or other care and services will be nominal in amount (as determined by the Secretary in regulations which shall, if the definition of “nominal” under the regulations in effect on July 1, 1982 is changed, take into account the level of cash assistance provided in such State and such other criteria as the Secretary determines to be appropriate); except that a deduction, cost-sharing, or similar charge of up to twice the nominal amount established for outpatient services may be imposed by a State under a waiver granted by the Secretary for services received at a hospital emergency room if the services are not emergency services (referred to in paragraph (2)(D)) and the State has established to the satisfaction of the Secretary that individuals eligible for services under the plan have actually available and accessible to them alternative sources of nonemergency, outpatient services.
 
@@ -113295,10 +115330,47 @@ In the case of any calendar year beginning after 2000, the dollar amount specifi
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–169, title I, § 11405(a)(2)(A), (c), Aug. 16, 2022, 136 Stat. 1900, 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, this section is amended as follows:
+
+(1) in subsection (a)(2):
+
+(A) in subparagraph (G), by inserting a comma after “State plan”;
+
+(B) in subparagraph (H), by striking “; or” and inserting a comma;
+
+(C) in subparagraph (I), by striking “; and” and inserting “, or”; and
+
+(D) by adding at the end the following new subparagraph:
+
+“(J) vaccines described in [section 1396d(a)(13)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/13/B&num=0&edition=prelim) and the administration of such vaccines; and”; and
+
+(2) in subsection (b)(2):
+
+(A) in subparagraph (G), by inserting a comma after “State plan”;
+
+(B) in subparagraph (H), by striking “; or” and inserting a comma;
+
+(C) in subparagraph (I), by striking “; and” and inserting “, or”; and
+
+(IV) by adding at the end the following new subparagraph:
+
+“(J) vaccines described in [section 1396d(a)(13)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/13/B&num=0&edition=prelim) and the administration of such vaccines; and”.
+
+See 2022 Amendment notes below.
+
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsec. (g)(2), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2022—Subsec. (a)(2)(G). Pub. L. 117–169, § 11405(a)(2)(A)(i)(I), inserted a comma after “State plan”.
+
+Subsec. (a)(2)(J). Pub. L. 117–169, § 11405(a)(2)(A)(i)(II)–(IV), added subpar. (J).
+
+Subsec. (b)(2)(G). Pub. L. 117–169, § 11405(a)(2)(A)(ii)(I), inserted a comma after “State plan”.
+
+Subsec. (b)(2)(J). Pub. L. 117–169, § 11405(a)(2)(A)(ii)(II)–(IV), added subpar. (J).
+
 2021—Subsecs. (a)(2)(H), (I), (b)(2)(H), (I). Pub. L. 117–2 added subpars. (H) and (I).
 
 2020—Subsecs. (a)(2)(F), (G), (b)(2)(F), (G). Pub. L. 116–127 added subpars. (F) and (G).
@@ -113348,6 +115420,9 @@ Subsec. (b)(2)(E). Pub. L. 99–272 added subpar. (E).
 1983—Subsec. (c). Pub. L. 97–448, § 309(b)(18), substituted “subsection” for “subparagraph”.
 
 Subsec. (d). Pub. L. 97–448, § 309(b)(19), (20), substituted in introductory text “, except as provided in subsections (a)(3) and (b)(3)” for “unless authorized under this section”, and in cl. (5) substituted “is voluntary, or makes provision” for “in which participation is voluntary, or in which provision is made”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–148 effective Oct. 1, 2010, see section 4107(d) of Pub. L. 111–148, set out as a note under [section 1396d of this title](./chapter-007-social-security.md#section-1396d).
@@ -113468,11 +115543,11 @@ Pub. L. 116–127, div. F, § 6004(a)(2)(C), Mar. 18, 2020, 134 Stat. 205, provi
 
     (x) Items and services furnished to an Indian directly by the Indian Health Service, an Indian Tribe, Tribal Organization or Urban Indian Organization or through referral under contract health services.
 
-    (xi) Any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product) and any service described in section 1396o(a)(2)(G) of this title that is furnished during any such portion.
+    (xi) Any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 (and the administration of such product), and any service described in section 1396o(a)(2)(G) of this title that is furnished during any such portion.
 
-    (xii) During the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)).
+    (xii) During the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), a COVID–19 vaccine and the administration of such vaccine (for any individual eligible for medical assistance for such vaccine (and administration)).
 
-    (xiii) During the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan).
+    (xiii) During the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), testing and treatments for COVID–19, including specialized equipment and therapies (including preventive therapies), and, in the case of an individual who is diagnosed with or presumed to have COVID–19, during the period during which such individual has (or is presumed to have) COVID–19, the treatment of a condition that may seriously complicate the treatment of COVID–19, if otherwise covered under the State plan (or waiver of such plan).
 
   (C) *Construction* — Nothing in this paragraph shall be construed as preventing a State from exempting additional classes of individuals from premiums under this section or from exempting additional individuals or services from cost sharing under subsection (a).
 
@@ -113557,7 +115632,16 @@ Pub. L. 116–127, div. F, § 6004(a)(2)(C), Mar. 18, 2020, 134 Stat. 205, provi
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(3)(B)
+Pub. L. 117–169, title I, § 11405(a)(2)(B), (c), Aug. 16, 2022, 136 Stat. 1900, 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, subsection (b)(3)(B) of this section is amended by adding at the end the following new clause:
+
+(xiv) Vaccines described in [section 1396d(a)(13)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/13/B&num=0&edition=prelim) and the administration of such vaccines.
+
+See 2022 Amendment note below.
+
 #### Amendments
+2022—Subsec. (b)(3)(B)(xiv). Pub. L. 117–169 added cl. (xiv).
+
 2021—Subsec. (b)(3)(B)(xi). Pub. L. 117–2, § 9811(a)(3)(B)(i), substituted “any service” for “any visit”.
 
 Subsec. (b)(3)(B)(xii), (xiii). Pub. L. 117–2, § 9811(a)(3)(B)(ii), added cls. (xii) and (xiii).
@@ -113611,6 +115695,9 @@ Subsec. (e)(2)(C). Pub. L. 109–432, § 405(a)(2)(G), inserted “or section 13
 Pub. L. 109–432, § 405(a)(1)(D), inserted “under subsection (a)(2)(B) or” after “cost sharing applied”.
 
 Subsec. (e)(4)(A). Pub. L. 109–432, § 405(a)(5), struck out “the physician determines” after “a hospital that”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–148, title II, § 2102(b), Mar. 23, 2010, 124 Stat. 289, provided that the amendment made by section 2102(b) is effective as if included in the enactment of section 5006(a) of division B of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5).
@@ -115249,7 +117336,7 @@ Such term also includes any facility which is located in a State on an Indian re
 Pub. L. 111–148, title VI, § 6101(c)(1)(B), (2), Mar. 23, 2010, 124 Stat. 702, provided that, effective on the date on which the Secretary of Health and Human Services makes certain information available to the public, subsection (d)(1) of this section is amended by striking subparagraph (B) and redesignating subparagraph (C) as subparagraph (B). See 2010 Amendment note and Effective Date of 2010 Amendment note below.
 
 #### References in Text
-The Older Americans Act of 1965, referred to in subsecs. (b)(4)(C)(ii)(IV), (c)(2)(B)(iii)(II), and (g)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Section 307(a)(12) of the Act was repealed by Pub. L. 106–501, title III, § 306(5), Nov. 13, 2000, 114 Stat. 2244, and provisions formerly appearing in section 307(a)(12) of the Act are now contained in section 307(a)(9) of the Act, which is classified to [section 3027(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/9&num=0&edition=prelim). Titles III and VII of the Act are classified generally to subchapters III (§ 3021 et seq.) and XI (§ 3058 et seq.), respectively, of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (b)(4)(C)(ii)(IV), (c)(2)(B)(iii)(II), and (g)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Section 307(a)(12) of the Act was repealed by Pub. L. 106–501, title III, § 306(5), Nov. 13, 2000, 114 Stat. 2244, and provisions formerly appearing in section 307(a)(12) of the Act are now contained in section 307(a)(9) of the Act, which is classified to [section 3027(a)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3027/a/9&num=0&edition=prelim). Titles III and VII of the Act are classified generally to subchapters III (§ 3021 et seq.) and XI (§ 3058 et seq.), respectively, of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (c)(2)(B)(iii)(III), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of the Act probably means subtitle C of title I of the Act, which is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15001) and Tables.
 
@@ -115809,17 +117896,17 @@ shall be treated as medical assistance provided by such plan for purposes of [se
 ### Statutory Notes
 
 #### References in Text
-The Head Start Act, referred to in subsec. (b)(3)(A)(i)(II), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
+The Head Start Act, referred to in subsec. (b)(3)(A)(i)(II), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (b)(3)(A)(i)(II), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
 [Section 8801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section8801&num=0&edition=prelim), referred to in subsec. (b)(3)(A)(i)(III), was repealed by Pub. L. 107–110, title X, § 1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. See [section 7801 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), Education.
 
-The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b)(3)(A)(i)(III), was Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Pub. L. 100–77 was renamed the McKinney-Vento Homeless Assistance Act by Pub. L. 106–400, § 1, Oct. 30, 2000, 114 Stat. 1675, and is classified principally to chapter 119 (§ 11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
+The Stewart B. McKinney Homeless Assistance Act, referred to in subsec. (b)(3)(A)(i)(III), was Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Pub. L. 100–77 was renamed the McKinney-Vento Homeless Assistance Act by Pub. L. 106–400, § 1, Oct. 30, 2000, 114 Stat. 1675, and is classified principally to chapter 119 (§ 11301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301) and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (b)(3)(A)(i)(III), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(3)(A)(i)(III), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsec. (b)(3)(A)(i)(III), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Subsec. (b)(3)(A)(i). Pub. L. 106–554, § 1(a)(6) [title VII, § 708(b)(1)], substituted “[42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831)” for “[42 U.S.C. 9821](./chapter-105-community-services-programs.md#section-9821)”.
@@ -117479,7 +119566,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
 (2) **Effective date** — Paragraph (1) shall first apply to drugs dispensed under this subchapter on or after January 1, 1991.
 
-(3) **Authorizing payment for drugs not covered under rebate agreements** — Paragraph (1), and [section 1396b(i)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/i/10/A&num=0&edition=prelim), shall not apply to the dispensing of a single source drug or innovator multiple source drug if (A)(i) the State has made a determination that the availability of the drug is essential to the health of beneficiaries under the State plan for medical assistance; (ii) such drug has been given a rating of 1–A by the Food and Drug Administration; and (iii)(I) the physician has obtained approval for use of the drug in advance of its dispensing in accordance with a prior authorization program described in subsection (d), or (II) the Secretary has reviewed and approved the State’s determination under subparagraph (A); or (B) the Secretary determines that in the first calendar quarter of 1991, there were extenuating circumstances.
+(3) **Authorizing payment for drugs not covered under rebate agreements** — Paragraph (1), and [section 1396b(i)(10)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/i/10/A&num=0&edition=prelim), shall not apply to the dispensing of a single source drug or innovator multiple source drug if (A)(i) the State has made a determination that the availability of the drug is essential to the health of beneficiaries under the State plan for medical assistance; (ii) such drug has been given a rating of 1–A by the Food and Drug Administration; and (iii)(I) the physician has obtained approval for use of the drug in advance of its dispensing in accordance with a prior authorization program described in subsection (d), or (II) the Secretary has reviewed and approved the State’s determination under subparagraph (A); or (B) the Secretary determines that in the first calendar quarter of 1991, there were extenuating circumstances. The preceding sentence shall not apply to a single source drug or innovator multiple source drug of a manufacturer for any period described in section 5000D(c)(1) of the Internal Revenue Code of 1986 with respect to the manufacturer.
 
 (4) **Effect on existing agreements** — In the case of a rebate agreement in effect between a State and a manufacturer on November 5, 1990, such agreement, for the initial agreement period specified therein, shall be considered to be a rebate agreement in compliance with this section with respect to that State, if the State agrees to report to the Secretary any rebates paid pursuant to the agreement and such agreement provides for a minimum aggregate rebate of 10 percent of the State’s total expenditures under the State plan for coverage of the manufacturer’s drugs under this subchapter. If, after the initial agreement period, the State establishes to the satisfaction of the Secretary that an agreement in effect on November 5, 1990, provides for rebates that are at least as large as the rebates otherwise required under this section, and the State agrees to report any rebates under the agreement to the Secretary, the agreement shall be considered to be a rebate agreement in compliance with the section for the renewal periods of such agreement.
 
@@ -117600,7 +119687,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
   (D) *Confidentiality of information* — Notwithstanding any other provision of law, information disclosed by manufacturers or wholesalers under this paragraph or under an agreement with the Secretary of Veterans Affairs described in subsection (a)(6)(A) (other than the wholesale acquisition cost for purposes of carrying out [section 1395w–3a of this title](./chapter-007-social-security.md#section-1395w-3a)) is confidential and shall not be disclosed by the Secretary or the Secretary of Veterans Affairs or a State agency (or contractor therewith) in a form which discloses the identity of a specific manufacturer or wholesaler, prices charged for drugs by such manufacturer or wholesaler, except—
 
-    (i) as the Secretary determines to be necessary to carry out this section, to carry out [section 1395w–3a of this title](./chapter-007-social-security.md#section-1395w-3a) (including the determination and implementation of the payment amount), or to carry out [section 1395w–3b of this title](./chapter-007-social-security.md#section-1395w-3b),
+    (i) as the Secretary determines to be necessary to carry out this section, to carry out [section 1395w–3a of this title](./chapter-007-social-security.md#section-1395w-3a) (including the determination and implementation of the payment amount and the rebate), or to carry out [section 1395w–3b of this title](./chapter-007-social-security.md#section-1395w-3b), [section 1320f–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f&num=0&edition=prelim), including rebates under paragraph (4) of such section, or [section 1395w–114b of this title](./chapter-007-social-security.md#section-1395w-114b),
 
     (ii) to permit the Comptroller General to review the information provided,
 
@@ -117694,17 +119781,19 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
       (V) the prices negotiated from drug manufacturers for covered discount card drugs under an endorsed discount card program under [section 1395w–141 of this title](./chapter-007-social-security.md#section-1395w-141); and
 
-      (VI) any prices charged which are negotiated by a prescription drug plan under part D of subchapter XVIII, by an MA–PD plan under part C of such subchapter with respect to covered part D drugs or by a qualified retiree prescription drug plan (as defined in [section 1395w–132(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–132/a/2&num=0&edition=prelim)) with respect to such drugs on behalf of individuals entitled to benefits under part A or enrolled under part B of such subchapter, or any discounts provided by manufacturers under the Medicare coverage gap discount program under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a).
+      (VI) subject to clause (ii)(V), any prices charged which are negotiated by a prescription drug plan under part D of subchapter XVIII, by an MA–PD plan under part C of such subchapter with respect to covered part D drugs or by a qualified retiree prescription drug plan (as defined in [section 1395w–132(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–132/a/2&num=0&edition=prelim)) with respect to such drugs on behalf of individuals entitled to benefits under part A or enrolled under part B of such subchapter, or any discounts provided by manufacturers under the Medicare coverage gap discount program under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a) or under the manufacturer discount program under [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c).
 
     (ii) *Special rules* — The term “best price”—
 
-      (I) shall be inclusive of cash discounts, free goods that are contingent on any purchase requirement, volume discounts, and rebates (other than rebates under this section);
+      (I) shall be inclusive of cash discounts, free goods that are contingent on any purchase requirement, volume discounts, and rebates (other than rebates under this section, [section 1395w–3a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i&num=0&edition=prelim), or [section 1395w–114b of this title](./chapter-007-social-security.md#section-1395w-114b));
 
       (II) shall be determined without regard to special packaging, labeling, or identifiers on the dosage form or product or package;
 
-      (III) shall not take into account prices that are merely nominal in amount; and
+      (III) shall not take into account prices that are merely nominal in amount 33 So in original. Probably should be followed by a semicolon.
 
-      (IV) in the case of a manufacturer that approves, allows, or otherwise permits any other drug of the manufacturer to be sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim)], shall be inclusive of the lowest price for such authorized drug available from the manufacturer during the rebate period to any manufacturer, wholesaler, retailer, provider, health maintenance organization, nonprofit entity, or governmental entity within the United States, excluding those prices described in subclauses (I) through (IV) of clause (i).
+      (IV) in the case of a manufacturer that approves, allows, or otherwise permits any other drug of the manufacturer to be sold under a new drug application approved under section 505(c) of the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 355(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/c&num=0&edition=prelim)], shall be inclusive of the lowest price for such authorized drug available from the manufacturer during the rebate period to any manufacturer, wholesaler, retailer, provider, health maintenance organization, nonprofit entity, or governmental entity within the United States, excluding those prices described in subclauses (I) through (IV) of clause (i); and
+
+      (V) in the case of a rebate period and a covered outpatient drug that is a selected drug (as referred to in [section 1320f–1(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/c&num=0&edition=prelim)) during such rebate period, shall be inclusive of the maximum fair price (as defined in [section 1320f(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f/c/3&num=0&edition=prelim)) for such drug with respect to such period.
 
     (iii) *Application of auditing and recordkeeping requirements* — With respect to a covered entity described in [section 256b(a)(4)(L) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a/4/L&num=0&edition=prelim), any drug purchased for inpatient use shall be subject to the auditing and recordkeeping requirements described in [section 256b(a)(5)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a/5/C&num=0&edition=prelim).
 
@@ -117722,7 +119811,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
         (aa) is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Act or is State-owned or operated; and
 
-        (bb) would be a covered entity described in section 256b(a)(4) 33 See References in Text note below. of this title insofar as the entity provides the same type of services to the same type of populations as a covered entity described in such section provides, but does not receive funding under a provision of law referred to in such section;
+        (bb) would be a covered entity described in section 256b(a)(4) 44 See References in Text note below. of this title insofar as the entity provides the same type of services to the same type of populations as a covered entity described in such section provides, but does not receive funding under a provision of law referred to in such section;
 
       (V) A public or nonprofit entity, or an entity based at an institution of higher learning whose primary purpose is to provide health care services to students of that institution, that provides a service or services described under [section 300(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300/a&num=0&edition=prelim).
 
@@ -117785,7 +119874,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
     (i) before January 1, 1994, is 10 percent,
 
-    (ii) after December 31, 1993, and before January 1, 2010, is 11 percent; 44 So in original. The semicolon probably should be a comma. and
+    (ii) after December 31, 1993, and before January 1, 2010, is 11 percent; 55 So in original. The semicolon probably should be a comma. and
 
     (iii) after December 31, 2009, is 13 percent.
 
@@ -117930,7 +120019,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
 (3) **Effect on State maximum allowable cost limitations** — This section shall not supersede or affect provisions in effect prior to January 1, 1991, or after December 31, 1994, relating to any maximum allowable cost limitation established by a State for payment by the State for covered outpatient drugs, and rebates shall be made under this section without regard to whether or not payment by the State for such drugs is subject to such a limitation or the amount of such a limitation.
 
-(4) **] 55 See 1993 Amendment note below. Establishment of upper payment limits** — Subject to paragraph (5), the Secretary shall establish a Federal upper reimbursement limit for each multiple source drug for which the FDA has rated three or more products therapeutically and pharmaceutically equivalent, regardless of whether all such additional formulations are rated as such and shall use only such formulations when determining any such upper limit.
+(4) **] 66 See 1993 Amendment note below. Establishment of upper payment limits** — Subject to paragraph (5), the Secretary shall establish a Federal upper reimbursement limit for each multiple source drug for which the FDA has rated three or more products therapeutically and pharmaceutically equivalent, regardless of whether all such additional formulations are rated as such and shall use only such formulations when determining any such upper limit.
 
 (5) **Use of amp in upper payment limits** — The Secretary shall calculate the Federal upper reimbursement limit established under paragraph (4) as no less than 175 percent of the weighted average (determined on the basis of utilization) of the most recently reported monthly average manufacturer prices for pharmaceutically and therapeutically equivalent multiple source drug products that are available for purchase by retail community pharmacies on a nationwide basis. The Secretary shall implement a smoothing process for average manufacturer prices. Such process shall be similar to the smoothing process used in determining the average sales price of a drug or biological under [section 1395w–3a of this title](./chapter-007-social-security.md#section-1395w-3a).
 
@@ -117944,7 +120033,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
     (ii) the notification of the Secretary when a drug product that is therapeutically and pharmaceutically equivalent and bioequivalent becomes generally available.
 
-  (B) *Secretary response to notification of availability of multiple source products* — If contractor notifies the Secretary under subparagraph (A)(ii) that a drug product described in such subparagraph has become generally available, the Secretary shall make a determination, within 7 days after receiving such notification, as to whether the product is now described in subsection (e)(4).3
+  (B) *Secretary response to notification of availability of multiple source products* — If contractor notifies the Secretary under subparagraph (A)(ii) that a drug product described in such subparagraph has become generally available, the Secretary shall make a determination, within 7 days after receiving such notification, as to whether the product is now described in subsection (e)(4).4
 
   (C) *Use of competitive bidding* — In contracting for such services, the Secretary shall competitively bid for an outside vendor that has a demonstrated history in—
 
@@ -118040,7 +120129,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
   (B) *Retrospective drug use review* — The program shall provide, through its mechanized drug claims processing and information retrieval systems (approved by the Secretary under [section 1396b(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396b/r&num=0&edition=prelim)) or otherwise, for the ongoing periodic examination of claims data and other records in order to identify patterns of fraud, abuse, gross overuse, excessive utilization, inappropriate or medically unnecessary care, or prescribing or billing practices that indicate abuse or excessive utilization, among physicians, pharmacists and individuals receiving benefits under this subchapter, or associated with specific drugs or groups of drugs.
 
-  (C) *Application of standards* — The program shall, on an ongoing basis, assess data on drug use against explicit predetermined standards (using the compendia and literature referred to in subsection 66 So in original. Probably should be “paragraph”. (1)(B) as the source of standards for such assessment) including but not limited to monitoring for therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, and clinical abuse/misuse and, as necessary, introduce remedial strategies, in order to improve the quality of care and to conserve program funds or personal expenditures.
+  (C) *Application of standards* — The program shall, on an ongoing basis, assess data on drug use against explicit predetermined standards (using the compendia and literature referred to in subsection 77 So in original. Probably should be “paragraph”. (1)(B) as the source of standards for such assessment) including but not limited to monitoring for therapeutic appropriateness, overutilization and underutilization, appropriate use of generic products, therapeutic duplication, drug-disease contraindications, drug-drug interactions, incorrect drug dosage or duration of drug treatment, and clinical abuse/misuse and, as necessary, introduce remedial strategies, in order to improve the quality of care and to conserve program funds or personal expenditures.
 
   (D) *Educational program* — The program shall, through its State drug use review board established under paragraph (3), either directly or through contracts with accredited health care educational institutions, State medical societies or State pharmacists associations/societies or other organizations as specified by the State, and using data provided by the State drug use review board on common drug therapy problems, provide for active and ongoing educational outreach programs (including the activities described in paragraph (3)(C)(iii) of this subsection) to educate practitioners on common drug therapy problems with the aim of improving prescribing or dispensing practices.
 
@@ -118057,13 +120146,13 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
     (iii) Drug use review, evaluation, and intervention.
 
     (iv) Medical quality assurance.
-    The membership of the DUR Board shall be made up at least ⅓ but no more than 51 percent licensed and actively practicing physicians and at least ⅓ * * * 77 So in original. licensed and actively practicing pharmacists.
+    The membership of the DUR Board shall be made up at least ⅓ but no more than 51 percent licensed and actively practicing physicians and at least ⅓ * * * 88 So in original. licensed and actively practicing pharmacists.
 
   (C) *Activities* — The activities of the DUR Board shall include but not be limited to the following:
 
-    (i) Retrospective DUR as defined in section 6 (2)(B).
+    (i) Retrospective DUR as defined in section 7 (2)(B).
 
-    (ii) Application of standards as defined in section 6 (2)(C).
+    (ii) Application of standards as defined in section 7 (2)(C).
 
     (iii) Ongoing interventions for physicians and pharmacists, targeted toward therapy problems or individuals identified in the course of retrospective drug use reviews performed under this subsection. Intervention programs shall include, in appropriate instances, at least:
 
@@ -118122,9 +120211,15 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
       (III) reimbursement by manufacturers for recalled, damaged, expired, or otherwise unsalable returned goods, including (but not limited to) reimbursement for the cost of the goods and any reimbursement of costs associated with return goods handling and processing, reverse logistics, and drug destruction;
 
-      (IV) payments received from, and rebates or discounts provided to, pharmacy benefit managers, managed care organizations, health maintenance organizations, insurers, hospitals, clinics, mail order pharmacies, long term care providers, manufacturers, or any other entity that does not conduct business as a wholesaler or a retail community pharmacy, unless the drug is an inhalation, infusion, instilled, implanted, or injectable drug that is not generally dispensed through a retail community pharmacy; and
+      (IV) payments received from, and rebates or discounts provided to, pharmacy benefit managers, managed care organizations, health maintenance organizations, insurers, hospitals, clinics, mail order pharmacies, long term care providers, manufacturers, or any other entity that does not conduct business as a wholesaler or a retail community pharmacy, unless the drug is an inhalation, infusion, instilled, implanted, or injectable drug that is not generally dispensed through a retail community pharmacy 3
 
-      (V) discounts provided by manufacturers under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a).
+      (V) discounts provided by manufacturers under [section 1395w–114a of this title](./chapter-007-social-security.md#section-1395w-114a) or under [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c);
+
+      (VI) any reduction in price paid during the rebate period to the manufacturer for a drug by reason of application of part E of subchapter XI;
+
+      (VII) rebates paid by manufacturers under [section 1395w–3a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i&num=0&edition=prelim); and
+
+      (VIII) rebates paid by manufacturers under [section 1395w–114b of this title](./chapter-007-social-security.md#section-1395w-114b).
 
     (ii) *Inclusion of other discounts and payments* — Notwithstanding clause (i), any other discounts, rebates, payments, or other financial transactions that are received by, paid by, or passed through to, retail community pharmacies shall be included in the average manufacturer price for a covered outpatient drug.
 
@@ -118134,7 +120229,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 
   (A) of those drugs which are treated as prescribed drugs for purposes of [section 1396d(a)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/12&num=0&edition=prelim), a drug which may be dispensed only upon prescription (except as provided in paragraph (4)), and—
 
-    (i) which is approved for safety and effectiveness as a prescription drug under section 505 [[21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)] or 507 3 of the Federal Food, Drug, and Cosmetic Act or which is approved under section 505(j) of such Act [[21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)];
+    (i) which is approved for safety and effectiveness as a prescription drug under section 505 [[21 U.S.C. 355](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355&num=0&edition=prelim)] or 507 4 of the Federal Food, Drug, and Cosmetic Act or which is approved under section 505(j) of such Act [[21 U.S.C. 355(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/j&num=0&edition=prelim)];
 
     (ii)
 
@@ -118171,7 +120266,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
   (G) Other laboratory and x-ray services.
 
   (H) Renal dialysis.
-  Such term also does not include any such drug or product for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological 88 So in original. Probably should be “biological product”. used for a medical indication which is not a medically accepted indication. Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraph shall be treated as a covered outpatient drug for purposes of determining the best price (as defined in subsection (c)(1)(C)) for such drug, biological product, or insulin.
+  Such term also does not include any such drug or product for which a National Drug Code number is not required by the Food and Drug Administration or a drug or biological 99 So in original. Probably should be “biological product”. used for a medical indication which is not a medically accepted indication. Any drug, biological product, or insulin excluded from the definition of such term as a result of this paragraph shall be treated as a covered outpatient drug for purposes of determining the best price (as defined in subsection (c)(1)(C)) for such drug, biological product, or insulin.
 
 (4) **Nonprescription drugs** — If a State plan for medical assistance under this subchapter includes coverage of prescribed drugs as described in [section 1396d(a)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/12&num=0&edition=prelim) and permits coverage of drugs which may be sold without a prescription (commonly referred to as “over-the-counter” drugs), if they are prescribed by a physician (or other person authorized to prescribe under State law), such a drug shall be regarded as a covered outpatient drug.
 
@@ -118223,7 +120318,7 @@ Pub. L. 105–33, title IV, § 4713(b), Aug. 5, 1997, 111 Stat. 509, provided th
 #### References in Text
 The amendments made by subsections (a)(1), (b), (c), and (d) of section 2501 of the Patient Protection and Affordable Care Act, referred to in subsec. (b)(1)(C)(i)(II), mean the amendments made by section 2501(a)(1), (b), (c), and (d) of Pub. L. 111–148, which amended this section and [section 1396b of this title](./chapter-007-social-security.md#section-1396b).
 
-The Internal Revenue Code of 1986, referred to in subsec. (c)(1)(D)(i)(IV)(aa), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (a)(3) and (c)(1)(D)(i)(IV)(aa), is classified generally to Title 26, Internal Revenue Code.
 
 [Section 256b(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a/4&num=0&edition=prelim), referred to in subsec. (c)(1)(D)(i)(IV)(bb), was in the original “section 340(B)(a)(4) of the Public Health Service Act”, and was translated as meaning section 340B(a)(4) of the Public Health Service Act, which defines “covered entity”, to reflect the probable intent of Congress.
 
@@ -118244,6 +120339,32 @@ Subsec. (i) of this section, which required the Secretary to transmit to the Com
 A prior section 1927 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title](./chapter-007-social-security.md#section-1396v).
 
 #### Amendments
+2022—Subsec. (a)(3). Pub. L. 117–169, § 11001(b)(1)(G)(ii), inserted at end “The preceding sentence shall not apply to a single source drug or innovator multiple source drug of a manufacturer for any period described in section 5000D(c)(1) of the Internal Revenue Code of 1986 with respect to the manufacturer.”
+
+Subsec. (b)(3)(D)(i). Pub. L. 117–169, § 11102(b)(3), substituted “, [section 1320f–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f&num=0&edition=prelim), including rebates under paragraph (4) of such section, or [section 1395w–114b of this title](./chapter-007-social-security.md#section-1395w-114b)” for “or [section 1320f–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f&num=0&edition=prelim), including rebates under paragraph (4) of such section”.
+
+Pub. L. 117–169, § 11101(c)(3), inserted “and the rebate” after “the payment amount”.
+
+Pub. L. 117–169, § 11002(b), substituted “or to carry out [section 1395w–3b of this title](./chapter-007-social-security.md#section-1395w-3b) or [section 1320f–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320f–1/f&num=0&edition=prelim), including rebates under paragraph (4) of such section” for “or to carry out [section 1395w–3b of this title](./chapter-007-social-security.md#section-1395w-3b)”.
+
+Subsec. (c)(1)(C)(i)(VI). Pub. L. 117–169, § 11201(e)(8)(A), inserted before period at end “or under the manufacturer discount program under [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c)”.
+
+Pub. L. 117–169, § 11001(b)(2)(A), substituted “subject to clause (ii)(V), any prices charged” for “any prices charged”.
+
+Subsec. (c)(1)(C)(ii)(I). Pub. L. 117–169, § 11102(b)(2), substituted “, [section 1395w–3a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i&num=0&edition=prelim), or [section 1395w–114b of this title](./chapter-007-social-security.md#section-1395w-114b)” for “or [section 1395w–3a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i&num=0&edition=prelim)”
+
+Pub. L. 117–169, § 11101(c)(2), inserted “or [section 1395w–3a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–3a/i&num=0&edition=prelim)” after “this section”.
+
+Subsec. (c)(1)(C)(ii)(V). Pub. L. 117–169, § 11001(b)(2)(B), added subcl. (V).
+
+Subsec. (k)(1)(B)(i)(V). Pub. L. 117–169, § 11201(e)(8)(B), inserted before period at end “or under [section 1395w–114c of this title](./chapter-007-social-security.md#section-1395w-114c)”.
+
+Subsec. (k)(1)(B)(i)(VI). Pub. L. 117–169, § 11001(b)(3), added subcl. (VI).
+
+Subsec. (k)(1)(B)(i)(VII). Pub. L. 117–169, § 11101(c)(4), added subcl. (VII).
+
+Subsec. (k)(1)(B)(i)(VIII). Pub. L. 117–169, § 11102(b)(4), added subcl. (VIII). Conforming amendments striking “and” at the end of subcl. (VI) and substituting semicolon for period at the end of subcl. (VII) could not be executed as directed after the amendment by Pub. L. 117–169, § 11101(c)(4)(B), (C).
+
 2021—Subsec. (c)(2)(D). Pub. L. 117–2, § 9816, inserted “and before January 1, 2024,” after “December 31, 2009,”.
 
 Subsec. (d)(7)(E). Pub. L. 117–2, § 9811(a)(4)(B), added subpar. (E).
@@ -118762,9 +120883,9 @@ Pub. L. 101–508, title IV, § 4401(d), Nov. 5, 1990, 104 Stat. 1388–160, as 
 ### Statutory Notes
 
 #### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(2)(B)(ii)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(2)(B)(ii)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (c)(3)(A), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (c)(3)(A), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (d)(3)(B), is classified generally to Title 26, Internal Revenue Code.
 
@@ -120806,7 +122927,7 @@ Pub. L. 110–379, § 5(b)(2), Oct. 8, 2008, 122 Stat. 4079, provided that: “T
 
 (7) **Coverage of family planning services and supplies** — Notwithstanding the previous provisions of this section, a State may not provide for medical assistance through enrollment of an individual with benchmark coverage or benchmark-equivalent coverage under this section unless such coverage includes for any individual described in [section 1396d(a)(4)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/C&num=0&edition=prelim), medical assistance for family planning services and supplies in accordance with such section.
 
-(8) **COVID–19 vaccines, testing, and treatment** — Notwithstanding the previous provisions of this section, a State may not provide for medical assistance through enrollment of an individual with benchmark coverage or benchmark-equivalent coverage under this section unless, during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), such coverage includes (and does not impose any deduction, cost sharing, or similar charge for)—
+(8) **COVID–19 vaccines, testing, and treatment** — Notwithstanding the previous provisions of this section, a State may not provide for medical assistance through enrollment of an individual with benchmark coverage or benchmark-equivalent coverage under this section unless, during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), such coverage includes (and does not impose any deduction, cost sharing, or similar charge for)—
 
   (A) COVID–19 vaccines and administration of the vaccines; and
 
@@ -120815,9 +122936,6 @@ Pub. L. 110–379, § 5(b)(2), Oct. 8, 2008, 122 Stat. 4079, provided that: “T
 **(c) Publication of provisions affected** With respect to a State plan amendment to provide benchmark benefits in accordance with subsections (a) and (b) that is approved by the Secretary, the Secretary shall publish on the Internet website of the Centers for Medicare & Medicaid Services, a list of the provisions of this subchapter that the Secretary has determined do not apply in order to enable the State to carry out the plan amendment and the reason for each such determination on the date such approval is made, and shall publish such list in the Federal Register and 22 So in original. not later than 30 days after such date of approval.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 210(c) of Pub. L. 116–260 applicable with respect to items and services furnished on or after Jan. 1, 2022. See 2020 Amendment note below.
 
 #### Prior Provisions
 A prior section 1937 of act Aug. 14, 1935, was renumbered section 1939 and is classified to [section 1396v of this title](./chapter-007-social-security.md#section-1396v).
@@ -121169,7 +123287,7 @@ Section 503 of Public Law 94–566, referred to in subsec. (a)(5)(E), is section
 
 Section 310(b)(1) of Public Law 96–272, referred to in subsec. (a)(5)(F), is section 310(b)(1) of Pub. L. 96–272, title III, June 17, 1980, 94 Stat. 533, which is set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
-Section 212(a) of Public Law 93–66, referred to in subsec. (b)(2), is section 212(a) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
+Section 212(a) of Public Law 93–66, referred to in subsec. (b)(2), is section 212(a) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, which is set out as a note under [section 1382 of this title](./chapter-007-social-security.md#section-1382).
 
 #### Codification
 Section was formerly classified to [section 1396s of this title](./chapter-007-social-security.md#section-1396s) prior to renumbering by Pub. L. 103–66.
@@ -122457,7 +124575,7 @@ A prior section 1397c, act Aug. 14, 1935, ch. 531, title XX, § 2004, as added J
 
 (10) **Certain in vitro diagnostic products for COVID–19 testing** — The child health assistance provided to a targeted low-income child shall include coverage of any in vitro diagnostic product described in [section 1396d(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/3/B&num=0&edition=prelim) that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 11 See References in Text note below. (and the administration of such product).
 
-(11) **Required coverage of COVID–19 vaccines and treatment** — Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021 and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), of—
+(11) **Required coverage of COVID–19 vaccines and treatment** — Regardless of the type of coverage elected by a State under subsection (a), the child health assistance provided for a targeted low-income child, and, in the case of a State that elects to provide pregnancy-related assistance pursuant to section 1397ll of this title, the pregnancy-related assistance provided for a targeted low-income pregnant woman (as such terms are defined for purposes of such section), shall include coverage, during the period beginning on March 11, 2021, and ending on the last day of the first calendar quarter that begins one year after the last day of the emergency period described in [section 1320b–5(g)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320b–5/g/1/B&num=0&edition=prelim), of—
 
   (A) a COVID–19 vaccine (and the administration of the vaccine); and
 
@@ -122490,7 +124608,7 @@ A prior section 1397c, act Aug. 14, 1935, ch. 531, title XX, § 2004, as added J
 
   (B) *Protection for lower income children* — The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
 
-(2) **No cost sharing on benefits for preventive services, COVID–19 testing, a covid–19 vaccine, covid–19 treatment, or pregnancy-related assistance** — The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
+(2) **No cost sharing on benefits for preventive services, COVID–19 testing, a COVID–19 vaccine, COVID–19 treatment, or pregnancy-related assistance** — The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or for pregnancy-related assistance.
 
 (3) **Limitations on premiums and cost-sharing**
 
@@ -122529,6 +124647,19 @@ A prior section 1397c, act Aug. 14, 1935, ch. 531, title XX, § 2004, as added J
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–169, title I, § 11405(b), (c), Aug. 16, 2022, 136 Stat. 1901, provided that, effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022, and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, this section is amended as follows:
+
+(1) in subsection (c), by adding at the end the following paragraph:
+
+“(12) Required coverage of approved, recommended adult vaccines and their administration.
+
+“Regardless of the type of coverage elected by a State under subsection (a), if the State child health plan or a waiver of such plan provides child health assistance or pregnancy-related assistance (as defined in [section 1397ll of this title](./chapter-007-social-security.md#section-1397ll)) to an individual who is 19 years of age or older, such assistance shall include coverage of vaccines described in [section 1396d(a)(13)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/13/B&num=0&edition=prelim) and their administration.”; and
+
+(2) in subsection (e)(2), by inserting “vaccines described in subsection (c)(12) (and the administration of such vaccines),” after “in vitro diagnostic products described in subsection (c)(10) (and administration of such products),”.
+
+See 2022 Amendment notes below.
+
 #### References in Text
 March 18, 2020, referred to in subsec. (c)(10), was in the original “the date of the enactment of this subparagraph”, and was translated as if it had read “the date of the enactment of this paragraph” to reflect the probable intent of Congress.
 
@@ -122537,9 +124668,13 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§ 300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§ 1001(5), 1563(c)(2), (11), formerly § 1562(c)(2), (11), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting “subpart ii—improving coverage” (preceding [section 300gg–11 of this title](./chapter-6a-public-health-service.md#section-300gg-11)), by striking out “subpart 2—other requirements” (preceding [section 300gg–4 of this title](./chapter-6a-public-health-service.md#section-300gg-4)), and by redesignating subpart 4 as subpart 2 “exclusion of plans; enforcement; preemption” (preceding [section 300gg–21 of this title](./chapter-6a-public-health-service.md#section-300gg-21)). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
+2022—Subsec. (c)(12). Pub. L. 117–169, § 11405(b)(1), added par. (12).
+
+Subsec. (e)(2). Pub. L. 117–169, § 11405(b)(2), inserted “vaccines described in subsection (c)(12) (and the administration of such vaccines),” after “in vitro diagnostic products described in subsection (c)(10) (and administration of such products),”.
+
 2021—Subsec. (c)(11). Pub. L. 117–2, § 9821(a)(1), added par. (11).
 
-Subsec. (e)(2). Pub. L. 117–2, § 9821(a)(2), in heading, inserted “a covid–19 vaccine, covid–19 treatment,” before “or pregnancy-related assistance” and, in text, substituted “services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or” for “visits described in section 1396o(a)(2)(G) of this title, or”.
+Subsec. (e)(2). Pub. L. 117–2, § 9821(a)(2), in heading, inserted “a COVID–19 vaccine, COVID–19 treatment,” before “or pregnancy-related assistance” and, in text, substituted “services described in section 1396o(a)(2)(G) of this title, vaccines described in section 1396o(a)(2)(H) of this title administered during the period described in such section (and the administration of such vaccines), testing or treatments described in section 1396o(a)(2)(I) of this title furnished during the period described in such section, or” for “visits described in section 1396o(a)(2)(G) of this title, or”.
 
 2020—Subsec. (c)(7)(A). Pub. L. 116–260, § 203(a)(4)(C)(ii), inserted at end “In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act, a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation.”
 
@@ -122580,6 +124715,9 @@ Subsec. (e)(2). Pub. L. 111–3, § 111(b)(1), inserted “or pregnancy-related 
 Subsec. (e)(3)(C). Pub. L. 111–3, § 504(a), added subpar. (C).
 
 Subsec. (f)(3). Pub. L. 111–3, § 403(a), added par. (3).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 effective on the 1st day of the 1st fiscal quarter that begins on or after the date that is 1 year after Aug. 16, 2022 and applicable to expenditures made under a State plan or waiver of such plan under title XIX of the Social Security Act or under a State child health plan or waiver of such plan under title XXI of such Act on or after such effective date, see section 11405(c) of Pub. L. 117–169, set out as a note under [section 1396a of this title](./chapter-007-social-security.md#section-1396a).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–271 effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, see section 5022(e) of Pub. L. 115–271, set out as a note under [section 1397bb of this title](./chapter-007-social-security.md#section-1397bb).
@@ -123387,7 +125525,7 @@ Section 3002(b)(2) of the HEALTHY KIDS Act, referred to in subsec. (m)(10)(A), (
 Section 50101(b)(2) of the Advancing Chronic Care, Extenders, and Social Services Act, referred to in subsec. (m)(11)(A), (D)(i)(II), probably means section 50101(b)(2) of the Advancing Chronic Care, Extenders, and Social Services (ACCESS) Act, Pub. L. 115–123, div. E, title I, Feb. 9, 2018, 132 Stat. 173, which relates to a one-time appropriation for fiscal year 2027 and is not classified to the Code.
 
 #### Amendments
-2021—Subsec. (m)(2)(B). Pub. L. 117–2, § 9821(c)(1), substituted “paragraphs (5), (7), and (12)” for “paragraphs (5) and (7)”.
+2021—Subsec. (m)(2)(B). Pub. L. 117–2, § 9821(c)(1), substituted “paragraphs (5), (7), and (12)” for “paragraphs (5) and (7)” in introductory provisions.
 
 Subsec. (m)(12). Pub. L. 117–2, § 9821(c)(2), added par. (12).
 
@@ -124054,7 +126192,7 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 (11) **Enhanced payments** — Notwithstanding subsection (b), the enhanced FMAP with respect to payments under subsection (a) for expenditures related to the administration of the payment error rate measurement (PERM) requirements applicable to the State child health plan in accordance with the 4 subchapter IV of chapter 33 of title 31 and parts 431 and 457 of title 42, Code of Federal Regulations (or any related or successor guidance or regulations) shall in no event be less than 90 percent.
 
-(12) **Temporary enhanced payment for coverage and administration of covid–19 vaccines** — During the period described in [section 1396d(hh)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/hh/2&num=0&edition=prelim), notwithstanding subsection (b), the enhanced FMAP for a State, with respect to payments under subsection (a) for expenditures under the State child health plan (or a waiver of such plan) for a vaccine described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) (and the administration of such a vaccine), shall be equal to 100 percent.
+(12) **Temporary enhanced payment for coverage and administration of COVID–19 vaccines** — During the period described in [section 1396d(hh)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/hh/2&num=0&edition=prelim), notwithstanding subsection (b), the enhanced FMAP for a State, with respect to payments under subsection (a) for expenditures under the State child health plan (or a waiver of such plan) for a vaccine described in [section 1396d(a)(4)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d/a/4/E&num=0&edition=prelim) (and the administration of such a vaccine), shall be equal to 100 percent.
 
 **(d) Maintenance of effort**
 
@@ -124739,7 +126877,7 @@ Pub. L. 116–136, div. A, title III, § 3823, Mar. 27, 2020, 134 Stat. 433, pro
 
   (I) [Section 1396a(e)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e/14&num=0&edition=prelim) (relating to income determined using modified adjusted gross income and household income).
 
-  (J) Paragraphs (5) and (16) of [section 1396a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e&num=0&edition=prelim) (relating to the State option to provide medical assistance consisting of full benefits during pregnancy and throughout the 12-month postpartum period under subchapter XIX), if the State provides child health assistance for targeted low-income children who are pregnant or to targeted low-income pregnant women and the State has elected to apply such paragraph (16) with respect to pregnant women under subchapter XIX, the provision of assistance under the State child health plan or waiver for targeted low-income children or targeted low-income pregnant women during pregnancy and the 12-month postpartum period shall be required and not at the option of the State and shall include coverage of all items or services provided to a targeted low-income child or targeted low-income pregnant woman (as applicable) under the State child health plan or waiver).
+  (J) Paragraphs (5) and (16) of [section 1396a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e&num=0&edition=prelim) (relating to the State option to provide medical assistance consisting of full benefits during pregnancy and throughout the 12-month postpartum period under subchapter XIX),11 So in original. There are two closing parentheses for the opening parenthesis preceding “relating”. if the State provides child health assistance for targeted low-income children who are pregnant or to targeted low-income pregnant women and the State has elected to apply such paragraph (16) with respect to pregnant women under subchapter XIX, the provision of assistance under the State child health plan or waiver for targeted low-income children or targeted low-income pregnant women during pregnancy and the 12-month postpartum period shall be required and not at the option of the State and shall include coverage of all items or services provided to a targeted low-income child or targeted low-income pregnant woman (as applicable) under the State child health plan or waiver).1
 
   (K) [Section 1396a(bb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/bb&num=0&edition=prelim) (relating to payment for services provided by Federally-qualified health centers and rural health clinics).
 
@@ -125959,7 +128097,7 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (j), is
 
 (2) **Targeted low-income pregnant woman** — The term “targeted low-income pregnant woman” means an individual—
 
-  (A) during pregnancy and through the end of the month in which the 60-day period, or, in the case that subparagraph (A) of [section 1396a(e)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e/16&num=0&edition=prelim) applies to the State child health plan (or waiver of such plan), pursuant to [section 1397gg(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397gg/e/1&num=0&edition=prelim), the 12-month period, (beginning on the last day of her pregnancy) ends;
+  (A) during pregnancy and through the end of the month in which the 60-day period, or, in the case that subparagraph (A) of [section 1396a(e)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/e/16&num=0&edition=prelim) applies to the State child health plan (or waiver of such plan), pursuant to [section 1397gg(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1397gg/e/1&num=0&edition=prelim), the 12-month period,11 So in original. The comma probably should not appear. (beginning on the last day of her pregnancy) ends;
 
   (B) whose family income exceeds 185 percent (or, if higher, the percent applied under subsection (b)(1)(A)) of the poverty line applicable to a family of the size involved, but does not exceed the income eligibility level established under the State child health plan under this subchapter for a targeted low-income child; and
 

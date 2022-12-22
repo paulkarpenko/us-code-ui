@@ -762,7 +762,7 @@ This chapter does not—
 In clause (2), the words “railroad carriers” are substituted for “common carriers” for consistency in this part.
 
 #### References in Text
-The Railway Labor Act, referred to in par. (2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in par. (2), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 
 <a id="section-20111"></a>
@@ -1217,7 +1217,7 @@ In subsections (b) and (c), the word “subsequent” is omitted as surplus.
 In subsection (c), the word “Amtrak” is substituted for “National Railroad Passenger Corporation” for consistency in this subtitle. The word “regulatory” is substituted for “rulemaking” for consistency in the revised title.
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1996—Subsec. (b)(1). Pub. L. 104–287, § 5(47)(A), substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.

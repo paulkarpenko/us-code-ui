@@ -204,9 +204,11 @@ Sec. 6. General. (a) Nothing in this order shall be construed as subjecting any 
 (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
 #### Extension of Term of President’s Committee for People with Intellectual Disabilities
-Term of the President’s Committee for People with Intellectual Disabilities extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of the President’s Committee for People with Intellectual Disabilities extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of the President’s Committee for People with Intellectual Disabilities (formerly President’s Committee on Mental Retardation) were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -560,9 +562,9 @@ As a condition of providing assistance under this subchapter, the Secretary shal
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in text, is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Act is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in text, is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Act is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in text, is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
+The Americans with Disabilities Act of 1990, referred to in text, is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
 
 <a id="section-15008"></a>
@@ -835,9 +837,9 @@ Pub. L. 108–154, § 3(b), Dec. 3, 2003, 117 Stat. 1934, provided that: “The 
 ### Statutory Notes
 
 #### References in Text
-The Americans with Disabilities Act of 1990, referred to in subsec. (c)(5)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (c)(5)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
-The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
+The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
 
 #### Amendments
 2004—Subsec. (c)(3)(B). Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
@@ -1088,17 +1090,17 @@ The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L.
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in subsecs. (b)(4)(A)(i)(I) and (c)(5)(G)(i), (11), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (b)(4)(A)(i)(I) and (c)(5)(G)(i), (11), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (b)(4)(A)(i)(I) and (c)(5)(G)(i), (ii), (11), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20. Part D of the Act is classified generally to subchapter IV (§ 1450 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (b)(4)(A)(i)(I) and (c)(5)(G)(i), (ii), (11), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20. Part D of the Act is classified generally to subchapter IV (§ 1450 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (b)(4)(A)(i)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act of 1965, referred to in subsec. (b)(4)(A)(i)(I), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
-The Social Security Act, referred to in subsec. (b)(4)(A)(i)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(4)(A)(i)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Public Health Service Act, referred to in subsec. (c)(5)(G)(i), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. The reference to subtitle B of title XIX of the Act probably means part B of title XIX of the Act which is classified generally to part B (§ 300x et seq.) of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsec. (c)(5)(G)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. The reference to subtitle B of title XIX of the Act probably means part B of title XIX of the Act which is classified generally to part B (§ 300x et seq.) of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (d)(2)(B)(i), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, § 2, Oct. 19, 1984, 98 Stat. 2662, as amended, which was repealed by Pub. L. 106–402, title IV, § 401(a), Oct. 30, 2000, 114 Stat. 1737. Part B of the Act was classified generally to subchapter II (§ 6021 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (d)(2)(B)(i), is title I of Pub. L. 88–164, as added by Pub. L. 98–527, § 2, Oct. 19, 1984, 98 Stat. 2662, which was repealed by Pub. L. 106–402, title IV, § 401(a), Oct. 30, 2000, 114 Stat. 1737. Part B of the Act was classified generally to subchapter II (§ 6021 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2004—Subsec. (c)(5)(G)(i). Pub. L. 108–446 substituted “part C” for “subtitle C”.
@@ -1321,11 +1323,11 @@ The purpose of this part is to provide for allotments to support a protection an
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in subsec. (a)(2)(D)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a)(2)(D)(ii), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (a)(2)(D)(ii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a)(2)(D)(ii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a)(2)(D)(ii), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a)(2)(D)(ii), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(D)(ii), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
@@ -2067,7 +2069,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(3)(C)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part D of the Act is classified generally to subchapter IV (§ 1450 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(3)(C)(i), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part D of the Act is classified generally to subchapter IV (§ 1450 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 
 <a id="section-15115"></a>

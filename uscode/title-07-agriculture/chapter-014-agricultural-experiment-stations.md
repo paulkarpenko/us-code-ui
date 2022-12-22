@@ -25,11 +25,11 @@ It is the policy of Congress to continue the agricultural research at State agri
 ### Statutory Notes
 
 #### References in Text
-The Hatch Act of 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, which is classified generally to sections 361a to 361i of this title. For complete classification of this act to the Code, see Short Title note set out below, and Tables.
+The Hatch Act of 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, which is classified generally to sections 361a to 361i of this title. For complete classification of this act to the Code, see Short Title note set out below, and Tables.
 
-The Adams Act of 1906, referred to in text, is act Mar. 16, 1906, ch. 951, 34 Stat. 63, as amended, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
+The Adams Act of 1906, referred to in text, is act Mar. 16, 1906, ch. 951, 34 Stat. 63, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 
-The Purnell Act of 1925, referred to in text, is act Feb. 24, 1925, ch. 308, 43 Stat. 970, as amended, which was classified to sections 361, 366, 370, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
+The Purnell Act of 1925, referred to in text, is act Feb. 24, 1925, ch. 308, 43 Stat. 970, which was classified to sections 361, 366, 370, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 
 The Bankhead-Jones Act, referred to in text, is act June 29, 1935, ch. 338, 49 Stat. 436, also popularly known as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101) and Tables.
 
@@ -593,9 +593,9 @@ The Secretary of Agriculture may furnish to such institutions or individuals as 
 ### Statutory Notes
 
 #### References in Text
-The Act of March second, eighteen hundred and eighty-seven, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title](./chapter-014-agricultural-experiment-stations.md#section-361a) and Tables.
+The Act of March second, eighteen hundred and eighty-seven, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title](./chapter-014-agricultural-experiment-stations.md#section-361a) and Tables.
 
-The Act of March sixteenth, nineteen hundred and six, referred to in text, means act Mar. 16, 1906, ch. 951, 34 Stat. 63, as amended, known as the Adams Act of 1906, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
+The Act of March sixteenth, nineteen hundred and six, referred to in text, means act Mar. 16, 1906, ch. 951, 34 Stat. 63, known as the Adams Act of 1906, which was classified to sections 361, 366, 369, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, § 2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 
 #### Transfer of Functions
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, § 1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
@@ -822,9 +822,9 @@ The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food a
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Prior Provisions
 A prior section 390c, Pub. L. 88–74, § 4, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994; Pub. L. 97–98, title XIV, § 1416, Dec. 22, 1981, 95 Stat. 1304; Pub. L. 99–198, title XIV, § 1411(d), Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, § 1601(a), Nov. 28, 1990, 104 Stat. 3703, related to appropriations and administrative authority, prior to the general amendment of this subchapter by Pub. L. 104–127.

@@ -173,6 +173,8 @@ Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That no
 
 Similar provisions were contained in the following appropriations acts:
 
+Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 359.
+
 Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1489.
 
 Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2697.
@@ -681,6 +683,9 @@ Pub. L. 101–508, title VI, § 6014, Nov. 5, 1990, 104 Stat. 1388–298, provid
 #### Savings Provision
 Pub. L. 101–508, title VI, § 6013, Nov. 5, 1990, 104 Stat. 1388–298, provided that: “Nothing in this subtitle [subtitle A (§§ 6001–6014) of title VI of Pub. L. 101–508, see Short Title of 1990 Amendment note set out under [section 1201 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1201)] shall be construed to affect the certifications made by the State of Wyoming, the State of Montana, and the State of Louisiana to the Secretary of the Interior prior to the date of enactment of this subtitle [Nov. 5, 1990] that such State has completed the reclamation of eligible abandoned coal mine lands.”
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Abandoned Mine Reclamation Fund; Deposit and Expenditure of Certain Donations
 Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–245, provided in part: “That hereafter, donations received to support projects under the Appalachian Clean Streams Initiative and under the Western Mine Lands Restoration Partnerships Initiative, pursuant to [30 U.S.C. 1231](./chapter-025-surface-mining-control-and-reclamation.md#section-1231), shall be credited to this account and remain available until expended without further appropriation for projects sponsored under these initiatives, directly through agreements with other Federal agencies, or through grants to States, and funding to local governments, or tax exempt private entities.”
 
@@ -716,7 +721,7 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 
 (3) **Report to Congress on allocations**
 
-  (A) *In general* — Not later than 6 years after the date on which the first allocation to States and Indian Tribes is made under paragraph (1), the Secretary of the Interior shall submit to Congress a report that describes any progress made under this section in addressing outstanding reclamation needs under subsection (a) or (b) of section 403 or section 410 of the Surface Mining Control and Reclamation and Act of 1977 ([30 U.S.C. 1233](./chapter-025-surface-mining-control-and-reclamation.md#section-1233), 1240).
+  (A) *In general* — Not later than 6 years after the date on which the first allocation to States and Indian Tribes is made under paragraph (1), the Secretary of the Interior shall submit to Congress a report that describes any progress made under this section in addressing outstanding reclamation needs under subsection (a) or (b) of section 403 or section 410 of the Surface Mining Control and Reclamation and 11 So in original. The word “and” probably should not appear. Act of 1977 ([30 U.S.C. 1233](./chapter-025-surface-mining-control-and-reclamation.md#section-1233), 1240).
 
   (B) *Input* — The Secretary of the Interior shall—
 
@@ -743,6 +748,12 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (
 
 #### Codification
 Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Definitions
+For definition of “Indian Tribe” as used in this section, see [section 5304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), Indians, as made applicable by [section 18701(2) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18701/2&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-1232"></a>
@@ -1205,6 +1216,9 @@ Pub. L. 109–432, div. C, title II, § 202(b), Dec. 20, 2006, 120 Stat. 3008, p
 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. L. 101–508 set out as a note under [section 1231 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1231).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-1233"></a>
@@ -1706,6 +1720,12 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 #### Codification
 Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Definitions
+For definition of “Indian Tribe” as used in this section, see [section 5304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), Indians, as made applicable by [section 18701(2) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18701/2&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-1251"></a>
 ## § 1251. Environmental protection standards
@@ -1965,6 +1985,8 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in part: “That, in subsequent fiscal years [after fiscal year 2014], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 ([30 U.S.C. 1257](./chapter-025-surface-mining-control-and-reclamation.md#section-1257)) shall be credited to this account [Office of Surface Mining Reclamation and Enforcement—regulation and technology] as discretionary offsetting collections, to remain available until expended.”
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 359.
 
 Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1489.
 

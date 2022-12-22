@@ -243,7 +243,9 @@ Sec. 15. If, based on consideration of the terms, obligations, and expectations 
 
 Donald J. Trump.
 
-Continuation of the national emergency with respect to Hong Kong declared by Ex. Ord. No. 13936 was contained in the following:
+Continuations of the national emergency with respect to Hong Kong declared by Ex. Ord. No. 13936 were contained in the following:
+
+Notice of President of the United States, dated July 11, 2022, 87 F.R. 42057.
 
 Notice of President of the United States, dated July 7, 2021, 86 F.R. 36479.
 
@@ -280,7 +282,7 @@ It is the sense of the Congress that the following, which are based in part on t
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in par. (6), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in par. (6), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Transfer of Functions
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.

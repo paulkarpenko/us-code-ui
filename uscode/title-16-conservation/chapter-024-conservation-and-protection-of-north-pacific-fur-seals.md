@@ -232,7 +232,7 @@ The Secretary of Health and Human Services shall provide medical and dental care
 ### Statutory Notes
 
 #### References in Text
-Act of August 5, 1954, as amended, referred to in text, is act Aug. 5, 1954, ch. 658, 68 Stat. 674, as amended, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Act of August 5, 1954, as amended, referred to in text, is act Aug. 5, 1954, ch. 658, 68 Stat. 674, which is classified generally to subchapter I (§ 2001 et seq.) of chapter 22 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1983—Pub. L. 98–129 substituted provisions formerly set out in [section 1165 of this title](./chapter-024-conservation-and-protection-of-north-pacific-fur-seals.md#section-1165) relating to medical and dental care of the natives of the Pribilof Islands for provisions which had authorized the Secretary to enter into an agreement with the Governor of the State of Alaska pursuant to which the State assumed full responsibility for furnishing education to the natives of the Pribilof Islands and also to enter into agreements with said Governor pursuant to which the State furnished to such natives adequate food, shelter, transportation, and such other facilities, services, and equipment as the Secretary deemed necessary, with the State of Alaska, in assuming such responsibility, to meet the educational needs of the said natives in the same manner as the State met the educational needs of all of its citizens, including the furnishing of necessary facilities therefor.

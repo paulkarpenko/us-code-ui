@@ -35,13 +35,23 @@ source: >-
 
 (2) **Rates** — For purposes of paragraph (1)—
 
-  (A) the Hazardous Substance Superfund financing rate is 9.7 cents a barrel, and
+  (A) the Hazardous Substance Superfund financing rate is 16.4 cents a barrel, and
 
   (B) the Oil Spill Liability Trust Fund financing rate is—
 
     (i) in the case of crude oil received or petroleum products entered before January 1, 2017, 8 cents a barrel, and
 
     (ii) in the case of crude oil received or petroleum products entered after December 31, 2016, 9 cents a barrel.
+
+(3) **Adjustment for inflation**
+
+  (A) *In general* — In the case of a year beginning after 2023, the amount in paragraph (2)(A) shall be increased by an amount equal to—
+
+    (i) such amount, multiplied by
+
+    (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2022” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+
+  (B) *Rounding* — If any amount as adjusted under subparagraph (A) is not a multiple of $0.01, such amount shall be rounded to the next lowest multiple of $0.01.
 
 **(d) Persons liable for tax**
 
@@ -51,22 +61,7 @@ source: >-
 
 (3) **Tax on certain uses or exports** — The tax imposed by subsection (b) shall be paid by the person using or exporting the crude oil, as the case may be.
 
-**(e) Application of Hazardous Substance Superfund financing rate**
-
-(1) **In general** — Except as provided in paragraphs (2) and (3), the Hazardous Substance Superfund financing rate under this section shall apply after December 31, 1986, and before January 1, 1996.
-
-(2) **No tax if unobligated balance in Fund exceeds $3,500,000,000** — If on December 31, 1993, or December 31, 1994—
-
-  (A) the unobligated balance in the Hazardous Substance Superfund exceeds $3,500,000,000, and
-
-  (B) the Secretary, after consultation with the Administrator of the Environmental Protection Agency, determines that the unobligated balance in the Hazardous Substance Superfund will exceed $3,500,000,000 on December 31 of 1994 or 1995, respectively, if no tax is imposed under this section and sections 4661 and 4671,
-  then no tax shall be imposed under this section (to the extent attributable to the Hazardous Substance Superfund financing rate) during 1994 or 1995, as the case may be.
-
-(3) **No tax if amounts collected exceed $11,970,000,000**
-
-  (A) *Estimates by Secretary* — The Secretary as of the close of each calendar quarter (and at such other times as the Secretary determines appropriate) shall make an estimate of the amount of taxes which will be collected under this section (to the extent attributable to the Hazardous Substance Superfund financing rate) and sections 4661 and 4671 and credited to the Hazardous Substance Superfund during the period beginning January 1, 1987, and ending December 31, 1995.
-
-  (B) *Termination if $11,970,000,000 credited before January 1, 1996* — If the Secretary estimates under subparagraph (A) that more than $11,970,000,000 will be credited to the Fund before January 1, 1996, the Hazardous Substance Superfund financing rate under this section shall not apply after the date on which (as estimated by the Secretary) $11,970,000,000 will be so credited to the Fund.
+**(e) Repealed. Pub. L. 117–169, title I, § 13601(a)(1), Aug. 16, 2022, 136 Stat. 1981]**
 
 **(f) Application of Oil Spill Liability Trust Fund financing rate**
 
@@ -80,6 +75,12 @@ source: >-
 Amendments by Pub. L. 99–509, title VIII, § 8031(a), (b), and (d)(1), Oct. 21, 1986, 100 Stat. 1955, to subsecs. (a) to (e) of this section were not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
 
 #### Amendments
+2022—Subsec. (c)(2)(A). Pub. L. 117–169, § 13601(a)(2)(A), substituted “16.4 cents” for “9.7 cents”.
+
+Subsec. (c)(3). Pub. L. 117–169, § 13601(a)(2)(B), added par. (3).
+
+Subsec. (e). Pub. L. 117–169, § 13601(a)(1), struck out subsec. (e) which related to application of Hazardous Substance Superfund financing rate.
+
 2020—Subsec. (f)(2). Pub. L. 116–260 substituted “December 31, 2025” for “December 31, 2020”.
 
 2019—Subsec. (f)(2). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2018”.
@@ -147,6 +148,9 @@ Pub. L. 99–499, §§ 511(a), 512(b), amended subsec. (d) generally and redesig
 then no tax shall be imposed by this section during the first calendar year beginning after the date referred to in paragraph (1).”
 
 Subsec. (f). Pub. L. 99–509, § 8032(c)(2), added subsec. (f).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13601(c), Aug. 16, 2022, 136 Stat. 1982, provided that: “The amendments made by this section [amending this section and [section 9507 of this title](./chapter-098-trust-fund-code.md#section-9507)] shall take effect on January 1, 2023.”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 117(b), Dec. 27, 2020, 134 Stat. 3051, provided that: “The amendment made by this section [amending this section] shall apply on and after January 1, 2021.”
@@ -308,69 +312,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ## § 4661. Imposition of tax
 **(a) General rule** There is hereby imposed a tax on any taxable chemical sold by the manufacturer, producer, or importer thereof.
 
-**(b) Amount of tax** The amount of the tax imposed by subsection (a) shall be determined in accordance with the following table: In the case of:The tax is the following amount per ton Acetylene$4.87 Benzene4.87 Butane4.87 Butylene4.87 Butadiene4.87 Ethylene4.87 Methane3.44 Naphthalene4.87 Propylene4.87 Toluene4.87 Xylene4.87 Ammonia2.64 Antimony4.45 Antimony trioxide3.75 Arsenic4.45 Arsenic trioxide3.41 Barium sulfide2.30 Bromine4.45 Cadmium4.45 Chlorine2.70 Chromium4.45 Chromite1.52 Potassium dichromate1.69 Sodium dichromate1.87 Cobalt4.45 Cupric sulfate1.87 Cupric oxide3.59 Cuprous oxide3.97 Hydrochloric acid0.29 Hydrogen fluoride4.23 Lead oxide4.14 Mercury4.45 Nickel4.45 Phosphorus4.45 Stannous chloride2.85 Stannic chloride2.12 Zinc chloride2.22 Zinc sulfate1.90 Potassium hydroxide0.22 Sodium hydroxide0.28 Sulfuric acid0.26 Nitric acid0.24 For periods before 1992, the item relating to xylene in the preceding table shall be applied by substituting “10.13” for “4.87”.
+**(b) Amount of Tax** The amount of tax imposed by subsection (a) shall be determined in accordance with the following table: In the case of:The tax is the following amount per ton: Acetylene$9.74 Benzene9.74 Butane9.74 Butylene9.74 Butadiene9.74 Ethylene9.74 Methane6.88 Napthalene9.74 Propylene9.74 Toluene9.74 Xylene9.74 Ammonia5.28 Antimony8.90 Antimony trioxide7.50 Arsenic8.90 Arsenic trioxide6.82 Barium sulfide4.60 Bromine8.90 Cadmium8.90 Chlorine5.40 Chromium8.90 Chromite3.04 Potassium dichromate3.38 Sodium dichromate3.74 Cobalt8.90 Cupric sulfate3.74 Cupric oxide7.18 Cuprous oxide7.94 Hydrochloric acid0.58 Hydrogen fluoride8.46 Lead oxide8.28 Mercury8.90 Nickel8.90 Phosphorus8.90 Stannous chloride5.70 Stannic chloride4.24 Zinc chloride4.44 Zinc sulfate3.80 Potassium hydroxide0.44 Sodium hydroxide0.56 Sulfuric acid0.52 Nitric acid0.48.
 
-**(c) Termination** No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.
+**(c) Termination** No tax shall be imposed by this section after December 31, 2031.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (b) and (c)
-Pub. L. 117–58, div. H, title II, § 80201(a)(1), (b)(1), (d), Nov. 15, 2021, 135 Stat. 1328–1330, provided that, effective July 1, 2022, subsections (b) and (c) of this section are amended to read as follows:
-
-“(b) Amount of Tax
-
-“The amount of tax imposed by subsection (a) shall be determined in accordance with the following table:
-
-| “In the case of: | The tax is the following amount per ton: |
-| --- | --- |
-| Acetylene | $9.74 |
-| Benzene | 9.74 |
-| Butane | 9.74 |
-| Butylene | 9.74 |
-| Butadiene | 9.74 |
-| Ethylene | 9.74 |
-| Methane | 6.88 |
-| Napthalene | 9.74 |
-| Propylene | 9.74 |
-| Toluene | 9.74 |
-| Xylene | 9.74 |
-| Ammonia | 5.28 |
-| Antimony | 8.90 |
-| Antimony trioxide | 7.50 |
-| Arsenic | 8.90 |
-| Arsenic trioxide | 6.82 |
-| Barium sulfide | 4.60 |
-| Bromine | 8.90 |
-| Cadmium | 8.90 |
-| Chlorine | 5.40 |
-| Chromium | 8.90 |
-| Chromite | 3.04 |
-| Potassium dichromate | 3.38 |
-| Sodium dichromate | 3.74 |
-| Cobalt | 8.90 |
-| Cupric sulfate | 3.74 |
-| Cupric oxide | 7.18 |
-| Cuprous oxide | 7.94 |
-| Hydrochloric acid | 0.58 |
-| Hydrogen fluoride | 8.46 |
-| Lead oxide | 8.28 |
-| Mercury | 8.90 |
-| Nickel | 8.90 |
-| Phosphorus | 8.90 |
-| Stannous chloride | 5.70 |
-| Stannic chloride | 4.24 |
-| Zinc chloride | 4.44 |
-| Zinc sulfate | 3.80 |
-| Potassium hydroxide | 0.44 |
-| Sodium hydroxide | 0.56 |
-| Sulfuric acid | 0.52 |
-| Nitric acid | 0.48.” |
-
-“(c) Termination
-
-“No tax shall be imposed by this section after December 31, 2031.”
-
-See 2021 Amendment notes below.
 
 #### Codification
 Amendment by Pub. L. 99–509, title VIII, § 8031(d)(2), Oct. 21, 1986, 100 Stat. 1956, to subsec. (c) of this section was not executed to text pursuant to Pub. L. 99–509, title VIII, § 8031(e)(2), which provided that the amendments made by section 8031 shall not take effect if the Superfund Amendments and Reauthorization Act of 1986 is enacted. The Superfund Amendments and Reauthorization Act of 1986 was enacted as Pub. L. 99–499, approved Oct. 17, 1986.
@@ -685,7 +631,7 @@ Pub. L. 98–369, div. A, title X, § 1019(d), July 18, 1984, 98 Stat. 1024, pro
 
 (1) **In general** — Except as provided in paragraph (2), the amount of the tax imposed by subsection (a) with respect to any taxable substance shall be the amount of the tax which would have been imposed by section 4661 on the taxable chemicals used as materials in the manufacture or production of such substance if such taxable chemicals had been sold in the United States for use in the manufacture or production of such taxable substance.
 
-(2) **Rate where importer does not furnish information to Secretary** — If the importer does not furnish to the Secretary (at such time and in such manner as the Secretary shall prescribe) sufficient information to determine under paragraph (1) the amount of the tax imposed by subsection (a) on any taxable substance, the amount of the tax imposed on such taxable substance shall be 5 percent of the appraised value of such substance as of the time such substance was entered into the United States for consumption, use, or warehousing.
+(2) **Rate where importer does not furnish information to Secretary** — If the importer does not furnish to the Secretary (at such time and in such manner as the Secretary shall prescribe) sufficient information to determine under paragraph (1) the amount of the tax imposed by subsection (a) on any taxable substance, the amount of the tax imposed on such taxable substance shall be 10 percent of the appraised value of such substance as of the time such substance was entered into the United States for consumption, use, or warehousing.
 
 (3) **Authority to prescribe rate in lieu of paragraph (2) rate** — The Secretary may prescribe for each taxable substance a tax which, if prescribed, shall apply in lieu of the tax specified in paragraph (2) with respect to such substance. The tax prescribed by the Secretary shall be equal to the amount of tax which would be imposed by subsection (a) with respect to the taxable substance if such substance were produced using the predominant method of production of such substance.
 
@@ -697,22 +643,9 @@ Pub. L. 98–369, div. A, title X, § 1019(d), July 18, 1984, 98 Stat. 1024, pro
 
 (2) Paragraphs (2), (3), and (4) of section 4662(d) (relating to refund or credit of tax on certain chemicals used as fuel or in the production of fertilizer or animal feed).
 
-**(e) Termination** No tax shall be imposed under this section during any period during which the Hazardous Substance Superfund financing rate under section 4611 does not apply.
+**(e) Termination** No tax shall be imposed by this section after December 31, 2031.
 
 ### Statutory Notes
-
-#### Amendment of Subsections (b)(2) and (e)
-Pub. L. 117–58, div. H, title II, § 80201(a)(2), (b)(2), (d), Nov. 15, 2021, 135 Stat. 1328, 1330, provided that, effective July 1, 2022, this section is amended as follows—
-
-(1) Subsection (b)(2) of this section is amended by striking “5 percent” and inserting “10 percent”; and
-
-(2) Subsection (e) of this section is amended to read as follows:
-
-“(e) Termination
-
-“No tax shall be imposed by this section after December 31, 2031.”
-
-See 2021 Amendment notes below.
 
 #### Amendments
 2021—Subsec. (b)(2). Pub. L. 117–58, § 80201(b)(2), substituted “10 percent” for “5 percent”.
@@ -744,7 +677,7 @@ Pub. L. 99–499, title V, § 515(d), Oct. 17, 1986, 100 Stat. 1769, directed th
 
   (A) the substance is contained in the list under paragraph (3), or
 
-  (B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of U.S. Customs and Border Protection, that taxable chemicals constitute more than 50 percent of the weight (or more than 50 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
+  (B) the Secretary determines, in consultation with the Administrator of the Environmental Protection Agency and the Commissioner of U.S. Customs and Border Protection, that taxable chemicals constitute more than 20 percent of the weight (or more than 20 percent of the value) of the materials used to produce such substance (determined on the basis of the predominant method of production).
   If an importer or exporter of any substance requests that the Secretary determine whether such substance be listed as a taxable substance under paragraph (1) or be removed from such listing, the Secretary shall make such determination within 180 days after the date the request was filed.
 
 (3) **Initial list of taxable substances** — CumeneMethylene chloride StyrenePolypropylene Ammonium nitratePropylene glycol Nickel oxideFormaldehyde Isopropyl alcoholAcetone Ethylene glycolAcrylonitrile Vinyl chlorideMethanol Polyethylene resins, totalPropylene oxide PolybutadienePolypropylene resins Styrene-butadiene, latexEthylene oxide Styrene-butadiene, snpfEthylene dichloride Synthetic rubber, not containing fillersCyclohexane UreaIsophthalic acid FerronickelMaleic anhydride Ferrochromium nov 3 pctPhthalic anhydride Ferrochrome ov 3 pct. carbonEthyl methyl ketone Unwrought nickelChloroform Nickel waste and scrapCarbon tetrachloride Wrought nickel rods and wireChromic acid Nickel powdersHydrogen peroxide Phenolic resinsPolystyrene homo­polymer resins Polyvinylchloride resinsMelamine Polystyrene resins and copolymersAcrylic and methacrylic acid resins Ethyl alcohol for nonbeverage useVinyl resins EthylbenzeneVinyl resins, NSPF.
@@ -760,9 +693,6 @@ Pub. L. 99–499, title V, § 515(d), Oct. 17, 1986, 100 Stat. 1769, directed th
 **(c) Disposition of revenues from Puerto Rico and the Virgin Islands** The provisions of subsections (a)(3) and (b)(3) of section 7652 shall not apply to any tax imposed by section 4671.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(2)(B)
-Pub. L. 117–58, div. H, title II, § 80201(c)(1), (d), Nov. 15, 2021, 135 Stat. 1330, provided that, effective July 1, 2022, subsection (a)(2)(B) of this section is amended by striking “50 percent” each place it appears and inserting “20 percent”. See 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (a)(2)(B). Pub. L. 117–58 substituted “20 percent” for “50 percent” in two places.

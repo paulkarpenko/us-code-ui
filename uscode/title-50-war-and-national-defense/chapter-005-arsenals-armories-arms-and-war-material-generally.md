@@ -271,7 +271,7 @@ Section, act June 30, 1938, ch. 852, 52 Stat. 1255, authorized an appropriation 
 
 ### Statutory Notes
 
-Section, act July 15, 1939, ch. 283, 53 Stat. 1042, related to purchase by Secretary of War of equipment for experimental and test purposes. See [section 2373 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2373&num=0&edition=prelim), Armed Forces.
+Section, act July 15, 1939, ch. 283, 53 Stat. 1042, related to purchase by Secretary of War of equipment for experimental and test purposes. See [section 4023 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4023&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-98"></a>
@@ -1100,9 +1100,6 @@ Subsec. (a). Pub. L. 102–190, § 3313(b)(1), in introductory provisions, subst
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 3311(c) of Pub. L. 104–201, set out as a note under [section 98a of this title](./chapter-005-arsenals-armories-arms-and-war-material-generally.md#section-98a).
-
-#### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of biennial report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section111&num=0&edition=prelim), Armed Forces.
 
 #### Initial Report Due Date
 Pub. L. 102–190, div. C, title XXXIII, § 3313(b)(3), Dec. 5, 1991, 105 Stat. 1585, provided that: “The first report required by section 14(a) of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–5(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–5/a&num=0&edition=prelim)), as amended by paragraph (1) shall be submitted not later than January 15, 1993.”

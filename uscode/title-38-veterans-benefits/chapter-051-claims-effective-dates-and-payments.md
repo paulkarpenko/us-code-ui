@@ -7,9 +7,21 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
 <a id="section-5100"></a>
-## § 5100. Definition of “claimant”
+## § 5100. Definitions
 
-For purposes of this chapter, the term “claimant” means any individual applying for, or submitting a claim for, any benefit under the laws administered by the Secretary.
+In this chapter:
+
+(1) The term “claimant” means any individual applying for, or submitting a claim for, any benefit under the laws administered by the Secretary.
+
+(2) The term “notice” means a communication issued through means (including electronic means) prescribed by the Secretary.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 5100, added Pub. L. 106–475, § 2, Nov. 9, 2000, 114 Stat. 2096, defined “claimant”, prior to repeal by Pub. L. 117–168, title VIII, § 807(a)(1), Aug. 10, 2022, 136 Stat. 1805.
+
+#### Rule of Construction
+Pub. L. 117–168, title VIII, § 807(b), Aug. 10, 2022, 136 Stat. 1806, provided that: “None of the amendments made by this section [enacting this section, amending sections 5104, 5104B, 5112, 7104, 7105, 7105A, and 7266 of this title, and repealing former [section 5100 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5100)] shall be construed to apply section 5104(a) of such title [meaning title 38, United States Code] to decisions of the Board of Veterans’ Appeals under chapter 71 of such title.”
 
 
 <a id="section-5101"></a>
@@ -440,12 +452,22 @@ Pub. L. 112–154, title V, § 505(c), Aug. 6, 2012, 126 Stat. 1193, provided th
 
 (7) If applicable, identification of the criteria that must be satisfied to grant service connection or the next higher level of compensation.
 
+**(c)** The Secretary may provide notice under subsection (a) electronically if a claimant (or the claimant’s representative) elects to receive such notice electronically. A claimant (or the claimant’s representative) may revoke such an election at any time, by means prescribed by the Secretary.
+
+**(d)** The Secretary shall annually—
+
+(1) solicit recommendations from stakeholders on how to improve notice under this section; and
+
+(2) publish such recommendations on a publicly available website of the Department.
+
 ### Statutory Notes
 
 #### Prior Provisions
 Prior section 5104 was renumbered [section 8304 of this title](./chapter-083-acceptance-of-gifts-and-bequests.md#section-8304).
 
 #### Amendments
+2022—Subsecs. (c), (d). Pub. L. 117–168 added subsecs. (c) and (d).
+
 2017—Subsec. (b). Pub. L. 115–55 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “In any case where the Secretary denies a benefit sought, the notice required by subsection (a) shall also include (1) a statement of the reasons for the decision, and (2) a summary of the evidence considered by the Secretary.”
 
 1994—Subsec. (a). Pub. L. 103–446 substituted “section 511” for “section 211(a)”.
@@ -459,6 +481,9 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 #### Effective Date
 Pub. L. 101–237, title I, § 115(b), Dec. 18, 1989, 103 Stat. 2066, provided that: “Section 3004 [now 5104] of title 38, United States Code, as added by subsection (a), shall apply with respect to decisions by the Secretary of Veterans Affairs made after January 31, 1990.”
+
+#### Rule of Construction
+Amendment by Pub. L. 117–168 not to be construed to apply subsec. (a) of this section to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under [section 5100 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5100).
 
 
 <a id="section-5104a"></a>
@@ -490,7 +515,7 @@ Section applicable to all claims for which the Secretary of Veterans Affairs pro
 
 (2) Such request may specifically indicate whether such review is requested by a higher-level adjudicator at the same office within the agency of original jurisdiction or by an adjudicator at a different office of the agency of original jurisdiction. The Secretary shall not deny such request for review by an adjudicator at a different office of the agency of original jurisdiction without good cause.
 
-**(c) Decision.—** Notice of a higher-level review decision under this section shall be provided in writing and shall include a general statement—
+**(c) Decision.—** Notice of a higher-level review decision under this section shall be provided to the claimant (and any representative of such claimant) and shall include a general statement—
 
 (1) reflecting whether evidence was not considered pursuant to subsection (d); and
 
@@ -502,8 +527,14 @@ Section applicable to all claims for which the Secretary of Veterans Affairs pro
 
 ### Statutory Notes
 
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–168 substituted “to the claimant (and any representative of such claimant)” for “in writing” in introductory provisions.
+
 #### Effective Date
 Section applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under [section 5104 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104) on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, see section 2(x) of Pub. L. 115–55, set out as an Effective Date of 2017 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101), and bracketed note thereunder.
+
+#### Rule of Construction
+Amendment by Pub. L. 117–168 not to be construed to apply [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5104/a&num=0&edition=prelim) to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under [section 5100 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5100).
 
 
 <a id="section-5104c"></a>
@@ -988,7 +1019,7 @@ Pub. L. 97–253, title IV, § 401(b), Sept. 8, 1982, 96 Stat. 802, provided tha
 
 (5) by reason of a change in disability or employability of a veteran in receipt of pension shall be the last day of the month in which discontinuance of the award is approved;
 
-(6) by reason of change in law or administrative issue, change in interpretation of a law or administrative issue, or, for compensation purposes, a change in service-connected or employability status or change in physical condition shall be the last day of the month following sixty days from the date of notice to the payee (at the payee’s last address of record) of the reduction or discontinuance;
+(6) by reason of change in law or administrative issue, change in interpretation of a law or administrative issue, or, for compensation purposes, a change in service-connected or employability status or change in physical condition shall be the last day of the month following sixty days from the date of notice to the payee of the reduction or discontinuance;
 
 (7) by reason of the discontinuance of school attendance of a payee or a dependent of a payee shall be the last day of the month in which such discontinuance occurred;
 
@@ -1001,6 +1032,8 @@ Pub. L. 97–253, title IV, § 401(b), Sept. 8, 1982, 96 Stat. 802, provided tha
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(6). Pub. L. 117–168 struck out “(at the payee’s last address of record)” after “notice to the payee”.
+
 2001—Subsec. (c). Pub. L. 107–103 struck out subsec. (c) which read as follows: “The effective date of a discontinuance under [section 5503(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5503/b/1/A&num=0&edition=prelim) of pension, compensation, or emergency officers’ retirement pay by reason of hospital treatment or institutional or domiciliary care shall be the last day of the first month of such treatment or care during which the value of the veteran’s estate, as determined under such section, equals or exceeds $1,500.”
 
 1991—Pub. L. 102–40, § 402(b)(1), renumbered [section 3012 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3012) as this section.
@@ -1049,6 +1082,9 @@ Amendment by Pub. L. 89–730 effective first day of second calendar month follo
 
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–825 effective first day of second calendar month which begins after Oct. 15, 1962, see section 7 of Pub. L. 87–825, set out as a note under [section 110 of this title](./chapter-001-general.md#section-110).
+
+#### Rule of Construction
+Amendment by Pub. L. 117–168 not to be construed to apply [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5104/a&num=0&edition=prelim) to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under [section 5100 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5100).
 
 
 <a id="section-5113"></a>

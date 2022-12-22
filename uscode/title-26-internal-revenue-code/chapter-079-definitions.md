@@ -457,9 +457,11 @@ source: >-
 
       (I) the operation of a qualified solid waste disposal facility,
 
-      (II) the sale to the service recipient of electrical or thermal energy produced at a cogeneration or alternative energy facility, or
+      (II) the sale to the service recipient of electrical or thermal energy produced at a cogeneration or alternative energy facility,
 
-      (III) the operation of a water treatment works facility, and
+      (III) the operation of a water treatment works facility, or
+
+      (IV) the operation of a storage facility, and
 
     (ii) which purports to be a service contract,
     shall be treated as a service contract.
@@ -472,9 +474,11 @@ source: >-
 
   (E) *Water treatment works facility* — For purposes of subparagraph (A), the term “water treatment works facility” means any treatment works within the meaning of section 212(2) of the Federal Water Pollution Control Act.
 
+  (F) *Storage facility* — For purposes of subparagraph (A), the term “storage facility” means a facility which uses energy storage technology within the meaning of section 48(c)(6).
+
 (4) **Paragraph (3) not to apply in certain cases**
 
-  (A) *In general* — Paragraph (3) shall not apply to any qualified solid waste disposal facility, cogeneration facility, alternative energy facility, or water treatment works facility used under a contract or arrangement if—
+  (A) *In general* — Paragraph (3) shall not apply to any qualified solid waste disposal facility, cogeneration facility, alternative energy facility, water treatment works facility, or storage facility used under a contract or arrangement if—
 
     (i) the service recipient (or a related entity) operates such facility,
 
@@ -686,6 +690,12 @@ The date of the enactment of the Commodity Futures Modernization Act of 2000, re
 Sections 1207(f) and 1222 of Pub. L. 109–280, which directed the amendment of section 7701 without specifying the act to be amended, were executed to this section, which is section 7701 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2022—Subsec. (e)(3)(A)(i)(IV). Pub. L. 117–169, § 13102(n)(1)(A), added subcl. (IV).
+
+Subsec. (e)(3)(F). Pub. L. 117–169, § 13102(n)(1)(B), added subpar. (F).
+
+Subsec. (e)(4)(A). Pub. L. 117–169, § 13102(n)(2), substituted “water treatment works facility, or storage facility” for “or water treatment works facility” in introductory provisions.
+
 2018—Subsec. (a)(19)(A). Pub. L. 115–141, § 401(b)(54), struck out “either (i) is an insured institution within the meaning of section 401(a) of the National Housing Act (12 U.S.C., sec. 1724(a)), or (ii)” after “which”.
 
 Subsec. (a)(32)(A). Pub. L. 115–141, § 401(b)(55), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “either—
@@ -957,6 +967,9 @@ Subsec. (a)(12). Pub. L. 86–778 designated existing provisions as par. (A) and
 1959—Subsec. (a)(9). Pub. L. 86–70, § 22(g), substituted “the Territory of Hawaii” for “the Territories of Alaska and Hawaii”.
 
 Subsec. (a)(10). Pub. L. 86–70, § 22(h), substituted “Territory of Hawaii” for “Territories”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13102(q)(2) of Pub. L. 117–169, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11051(b)(4) of Pub. L. 115–97 applicable to any divorce or separation instrument (as defined in former [section 71(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section71/b/2&num=0&edition=prelim) as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as a note under [section 61 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-61).

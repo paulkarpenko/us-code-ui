@@ -69,6 +69,8 @@ In subsection (c), the words “as authorized by section 29 of the Surplus Prope
 
 **(i) Senate.—** [Section 6101 of this title](./chapter-061-advertising.md#section-6101) does not apply to agreements, contracts or purchases by any office of the Senate.
 
+**(j) Librarian of Congress.—** [Section 6101 of this title](./chapter-061-advertising.md#section-6101) does not apply to a procurement made against an order placed under a task order contract or a delivery order contract (as such terms are defined in [section 4101 of this title](./chapter-041-chapter-41.md#section-4101)) entered into by the Librarian of Congress.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -92,7 +94,12 @@ In subsection (g), the words “in any fiscal year” are omitted as unnecessary
 In subsection (h), the text of 41:6a–4(b) is omitted as unnecessary.
 
 #### Amendments
+2022—Subsec. (j). Pub. L. 117–103 added subsec. (j).
+
 2018—Subsec. (i). Pub. L. 115–141 added subsec. (i).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 applicable with respect to fiscal year 2022 and each succeeding fiscal year, see [section 186(d) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section186/d&num=0&edition=prelim), The Congress.
 
 
 <a id="section-6103"></a>

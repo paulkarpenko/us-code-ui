@@ -606,7 +606,7 @@ As used in this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in par. (15), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Codification
 October 24, 1992, referred to in par. (18)(B), was in the original “the date of the enactment of this Act” and “such date”, which were translated as meaning the date of enactment of Pub. L. 102–486, which enacted par. (18), to reflect the probable intent of Congress.
@@ -757,7 +757,7 @@ Section 1503 of Pub. L. 102–486 directed Administrator of Environmental Protec
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsecs. (a) and (e), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (e), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Amendments
 1992—Subsec. (b)(1). Pub. L. 102–486, § 1502(c), struck out “shall” after “Agency” in introductory provisions, inserted “may” before “conduct” in subpar. (A), inserted “shall” before “certify” in subpar. (B), and in subpar. (C) inserted “shall” before “notify” and struck out before period at end “discovered in the course of such field testing”.

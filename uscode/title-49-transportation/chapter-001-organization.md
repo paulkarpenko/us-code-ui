@@ -583,7 +583,7 @@ In subsection (c), the source provisions are consolidated. The words “The Admi
 In subsection (d), the word “law” is substituted for “statute” in 49:1652(e)(4) for consistency. The words after “administratively final” in 49:1655(f)(3)(C) are omitted as unnecessary because of the restatement of the revised title and those laws giving the right to appeal.
 
 #### References in Text
-The Truman-Hobbs Act, referred to in subsec. (d), is act June 21, 1940, ch. 409, 54 Stat. 497, as amended, also known as the Hobbs Bridge Act, which is classified generally to subchapter II (§ 511 et seq.) of chapter 11 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
+The Truman-Hobbs Act, referred to in subsec. (d), is act June 21, 1940, ch. 409, 54 Stat. 497, also known as the Hobbs Bridge Act, which is classified generally to subchapter II (§ 511 et seq.) of chapter 11 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1999—Subsec. (c). Pub. L. 106–159, § 101(c)(2)(A), substituted “; and” for the semicolon at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “duties and powers related to motor carrier safety vested in the Secretary by chapters 5 and 315 of this title; and”.
@@ -2148,9 +2148,11 @@ Repeal effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as 
 #### Transfer of Duties and Powers
 Pub. L. 113–76, div. L, title I, Jan. 17, 2014, 128 Stat. 574, provided in part: “That notwithstanding any other provision of law, the powers and duties, functions, authorities and personnel of the Research and Innovative Technology Administration are hereby transferred to the Office of the Assistant Secretary for Research and Technology in the Office of the Secretary: Provided further, That notwithstanding [section 102 of title 49](./chapter-001-organization.md#section-102) and [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, there shall be an Assistant Secretary for Research and Technology within the Office of the Secretary, appointed by the President with the advice and consent of the Senate, to lead such office: Provided further, That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.”
 
-[Pub. L. 116–260, div. L, title I, Dec. 27, 2020, 134 Stat. 1824, provided in part: “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.” ]
+[Pub. L. 117–103, div. L, title I, Mar. 15, 2022, 136 Stat. 684, provided in part: “That any reference in law, regulation, judicial proceedings, or elsewhere to the Research and Innovative Technology Administration shall continue to be deemed to be a reference to the Office of the Assistant Secretary for Research and Technology of the Department of Transportation.” ]
 
 [Similar provisions were contained in the following prior appropriations acts:
+
+[Pub. L. 116–260, div. L, title I, Dec. 27, 2020, 134 Stat. 1824.]
 
 [Pub. L. 116–94, div. H, title I, Dec. 20, 2019, 133 Stat. 2934.]
 

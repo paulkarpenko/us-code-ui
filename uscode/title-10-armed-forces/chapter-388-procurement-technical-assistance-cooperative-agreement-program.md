@@ -40,15 +40,15 @@ In this chapter:
 #### Codification
 The text of [section 2411 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411&num=0&edition=prelim), which was transferred to this section by Pub. L. 116–283, § 1872(a)(2), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 691; Pub. L. 99–500, § 101(c) [title X, § 956(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 956(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, § 956(a), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 807(b), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 100–456, div. A, title VIII, § 841(b)(2), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, § 853(e), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–25, title VII, § 701(j)(5), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, § 1052(31), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 115–91, div. A, title X, § 1081(a)(36), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, § 852(a), Dec. 20, 2019, 133 Stat. 1511.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(1), (3), Dec. 27, 2021, 135 Stat. 2144, 2145, amended Pub. L. 116–283, § 1872(a)(1)(B), (2)–(4), which had originally added this section and transferred to subsecs. (a) to (c) thereof the text of sections 2412, 2411, and 2420 of this title, respectively. As amended by Pub. L. 117–81, section 1872(a)(1)(B) of Pub. L. 116–283 reenacted this section, and section 1872(a)(2)–(4) of Pub. L. 116–283 transferred sections 2411, 2412, and 2420 to this section, section 4952, and [section 4953 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4953), respectively.
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(1), (3), Dec. 27, 2021, 135 Stat. 2144, 2145, amended Pub. L. 116–283, § 1872(a)(1)(B), (2)–(4), which had originally added this section and transferred to subsecs. (a) to (c) thereof the text of sections 2412, 2411, and 2420 of this title, respectively. After amendment by Pub. L. 117–81, section 1872(a)(1)(B) of Pub. L. 116–283 reenacted this section, and section 1872(a)(2)–(4) of Pub. L. 116–283 instead transferred sections 2411, 2412, and 2420 to this section, section 4952, and [section 4953 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4953), respectively.
 
 #### Amendments
-2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which added this section, to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
 
 Pub. L. 116–283, § 1872(a)(2), as amended by Pub. L. 117–81, § 1701(m)(1)(A), transferred the text of [section 2411 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411&num=0&edition=prelim) to this section.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -68,15 +68,15 @@ The purposes of the program authorized by this chapter are—
 #### Codification
 The text of [section 2412 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2412&num=0&edition=prelim), which was transferred to this section by Pub. L. 116–283, § 1872(a)(3), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; Pub. L. 99–145, title IX, § 919(a), Nov. 8, 1985, 99 Stat. 692.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(A), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(5), which had originally transferred [section 2413 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2413) to this section and made an amendment in the text. As amended by Pub. L. 117–81, section 1872(a)(5) of Pub. L. 116–283 transferred section 2413 to [section 4954 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4954) and consequently amended the text of that section.
+Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(A), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(5), which had originally transferred [section 2413 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2413) to this section and made an amendment in the text. After amendment by Pub. L. 117–81, section 1872(a)(5) of Pub. L. 116–283 instead transferred section 2413 to [section 4954 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4954) and consequently amended the text of that section.
 
 #### Amendments
-2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which added this section, to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
 
 Pub. L. 116–283, § 1872(a)(3), as amended by Pub. L. 117–81, § 1701(m)(1)(B), transferred the text of [section 2412 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2412&num=0&edition=prelim) to this section.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -92,15 +92,15 @@ The Secretary of Defense shall prescribe regulations to carry out this chapter.
 #### Codification
 The text of [section 2420 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2420), which was transferred to this section by Pub. L. 116–283, § 1872(a)(4), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2606, § 2416; renumbered § 2417, Pub. L. 99–500, § 101(c) [title X, § 957(a)(1)(A)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 957(a)(1)(A)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 957(a)(1)(A), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; renumbered § 2418, Pub. L. 101–510, div. A, title VIII, § 814(a)(1)(A), Nov. 5, 1990, 104 Stat. 1596; renumbered § 2419, Pub. L. 102–484, div. D, title XLII, § 4236(a)(1)(A), Oct. 23, 1992, 106 Stat. 2691; renumbered § 2420, Pub. L. 113–66, div. A, title XVI, § 1611(a)(1)(A), Dec. 26, 2013, 127 Stat. 946.
 
-Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(B), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(6), which had originally transferred [section 2414 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2414) to this section and made amendments in the text. As amended by Pub. L. 117–81, section 1872(a)(6) of Pub. L. 116–283 transferred section 2414 to [section 4955 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4955) and consequently amended the text of that section.
+Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(B), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(6), which had originally transferred [section 2414 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2414) to this section and made amendments in the text. After amendment by Pub. L. 117–81, section 1872(a)(6) of Pub. L. 116–283 instead transferred section 2414 to [section 4955 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4955) and consequently amended the text of that section.
 
 #### Amendments
-2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which added this section, to reflect the probable intent of Congress.
+2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
 
 Pub. L. 116–283, § 1872(a)(4), as amended by Pub. L. 117–81, § 1701(m)(1)(C), transferred the text of [section 2420 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2420) to this section.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -125,7 +125,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 ### Statutory Notes
 
 #### Codification
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(C), Dec. 27, 2021, 135 Stat. 2144, amended Pub. L. 116–283, § 1872(a)(7), which had originally transferred [section 2415 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2415) to this section. As amended by Pub. L. 117–81, section 1872(a)(7) of Pub. L. 116–283 transferred section 2415 to [section 4956 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4956).
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(C), Dec. 27, 2021, 135 Stat. 2144, amended Pub. L. 116–283, § 1872(a)(7), which had originally transferred [section 2415 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2415) to this section. After amendment by Pub. L. 117–81, section 1872(a)(7) of Pub. L. 116–283 instead transferred section 2415 to [section 4956 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4956).
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -169,7 +169,7 @@ Subsec. (e). Pub. L. 113–66, § 1611(c)(2), added subsec. (e).
 1985—Pub. L. 99–145 amended section generally, substituting “, in accordance with the provisions of this chapter, may enter” for “may, in accordance with the provisions of this chapter, enter” in subsec. (a), adding subsec. (b), and redesignating former subsec. (b) as (c).
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -211,7 +211,7 @@ Pub. L. 99–145, title IX, § 919(d), Nov. 8, 1985, 99 Stat. 693, provided that
 ### Statutory Notes
 
 #### Codification
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(D), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(8), which had originally transferred [section 2416 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2416) to this section. As amended by Pub. L. 117–81, section 1872(a)(8) of Pub. L. 116–283 transferred section 2416 to [section 4956 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4956).
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(D), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(8), which had originally transferred [section 2416 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2416) to this section. After amendment by Pub. L. 117–81, section 1872(a)(8) of Pub. L. 116–283 instead transferred section 2416 to [section 4956 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4956).
 
 #### Amendments
 2021—Pub. L. 116–283, § 1872(a)(6), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(B)(i), (ii), renumbered [section 2414 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2414) as this section.
@@ -269,7 +269,7 @@ Subsec. (b). Pub. L. 101–189, § 819(c)(2), inserted “or is operated wholly 
 1985—Pub. L. 99–145 amended section generally, substituting “Secretary” for “Department of Defense” and “program under” for “program pursuant to”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -285,7 +285,7 @@ The Secretary shall allocate funds available for assistance under this chapter e
 ### Statutory Notes
 
 #### Codification
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(E), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(9), which had originally transferred [section 2418 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2418) to this section. As amended by Pub. L. 117–81, section 1872(a)(9) of Pub. L. 116–283 transferred section 2418 to [section 4958 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4958).
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(E), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(9), which had originally transferred [section 2418 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2418) to this section. After amendment by Pub. L. 117–81, section 1872(a)(9) of Pub. L. 116–283 instead transferred section 2418 to [section 4958 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4958).
 
 #### Amendments
 2021—Pub. L. 116–283, § 1872(a)(7), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(C), renumbered [section 2415 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2415) as this section.
@@ -307,7 +307,7 @@ Subsec. (b). Pub. L. 99–145, § 919(b)(2), substituted “1987” for “1986�
 Subsec. (c). Pub. L. 99–145, § 919(b)(3), added subsec. (c).
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -331,7 +331,7 @@ Amendment by Pub. L. 99–145 effective Oct. 1, 1985, see section 919(d) of Pub.
 ### Statutory Notes
 
 #### Codification
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(F), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(10), which had originally transferred [section 2419 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2419) to this section. As amended by Pub. L. 117–81, section 1872(a)(10) of Pub. L. 116–283 transferred section 2419 to [section 4959 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4959).
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(F), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(10), which had originally transferred [section 2419 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2419) to this section. After amendment by Pub. L. 117–81, section 1872(a)(10) of Pub. L. 116–283 instead transferred section 2419 to [section 4959 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4959).
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
@@ -343,7 +343,7 @@ Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical section
 2004—Subsec. (d). Pub. L. 108–375 substituted “$1,000,000” for “$500,000”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -366,7 +366,7 @@ Pub. L. 99–500, § 101(c) [title X, § 957(b)], Oct. 18, 1986, 100 Stat. 1783�
 ### Statutory Notes
 
 #### References in Text
-The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (b), is division D of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2658. For complete classification of division D to the Code, see Short Title note set out under [section 2500 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2500) and Tables.
+The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (b), is div. D of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2658. For complete classification of div. D to the Code, see Short Title note set out under [section 4801 of this title](./chapter-381-defense-industrial-base-generally.md#section-4801) and Tables.
 
 #### Amendments
 2021—Pub. L. 116–283, § 1872(a)(9), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(E), renumbered [section 2418 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2418) as this section and inserted headings in subsecs. (a) to (c).
@@ -376,7 +376,7 @@ The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, ref
 2014—Subsec. (c). Pub. L. 113–291 added subsec. (c).
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -415,7 +415,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Section 3(a) of the Small Business Act, referred to in subsecs. (a)(2)(A) and (c)(1)(A), (2), is classified to [section 632(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a&num=0&edition=prelim), Commerce and Trade.
 
 #### Codification
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(G), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(11), which had originally transferred [section 2417 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2417) to this section. As amended by Pub. L. 117–81, section 1872(a)(11) of Pub. L. 116–283 transferred section 2417 to [section 4961 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4961).
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(G), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(11), which had originally transferred [section 2417 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2417) to this section. After amendment by Pub. L. 117–81, section 1872(a)(11) of Pub. L. 116–283 instead transferred section 2417 to [section 4961 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4961).
 
 #### Amendments
 2021—Pub. L. 116–283, § 1872(a)(10), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(F), renumbered [section 2419 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2419) as this section.
@@ -423,7 +423,7 @@ Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(G), Dec. 27, 2021, 135 Stat.
 2019—Subsec. (a)(1). Pub. L. 116–92 substituted “Under Secretary of Defense for Acquisition and Sustainment” for “Under Secretary of Defense for Acquisition, Technology, and Logistics”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -453,7 +453,7 @@ Par. (2). Pub. L. 116–283, § 1081(a)(41), which directed amendment of par. (2
 Pub. L. 115–232, § 859(a)(1), inserted “and other” after “Administrative” in section catchline.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by section 1872(a)(11) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 

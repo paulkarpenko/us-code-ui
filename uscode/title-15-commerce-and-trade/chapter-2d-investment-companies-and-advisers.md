@@ -253,7 +253,7 @@ For the purpose of paragraph (1) of [section 80a–5(b) of this title](https://u
 ### Statutory Notes
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in subsec. (d)(1)(B), (E)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (d)(1)(B), (E)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified generally to 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 #### Amendments
 2010—Subsec. (d)(1)(J). Pub. L. 111–203 substituted “any provision of this paragraph” for “any provision of this subsection”.
@@ -387,7 +387,7 @@ At any time after the occurrence of the event specified in clause (C) of paragra
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsec. (a), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsec. (a), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
@@ -648,7 +648,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 ### Statutory Notes
 
 #### References in Text
-The Small Business Investment Act of 1958, referred to in subsec. (k), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (k), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
 
 #### Amendments
 1998—Subsec. (e)(2). Pub. L. 105–353 substituted “paragraph (1) of this subsection” for “subsection (e)(2) of this section” in introductory provisions.
@@ -1549,9 +1549,9 @@ Any information or documents contained in a report or other communication to sec
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsec. (i)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsec. (i)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 #### Amendments
 1998—Subsec. (b)(1). Pub. L. 105–353, § 301(c)(5)(A), inserted “and” after semicolon at end.
@@ -2707,9 +2707,9 @@ unless the Commission, by rules and regulations or order in the public interest 
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsecs. (c)(2) and (f)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsecs. (c)(2) and (f)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsecs. (c)(2) and (f)(2), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (c)(2) and (f)(2), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 #### Amendments
 2018—Subsecs. (j)(1), (n)(2). Pub. L. 115–141 substituted “[section 80a–60(a)(4)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/4/B&num=0&edition=prelim)” for “[section 80a–60(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–60/a/3/B&num=0&edition=prelim)”.
@@ -3076,9 +3076,9 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsecs. (b)(5) and (c)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsecs. (b)(5) and (c)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified generally to 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (b)(5) and (c)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified generally to 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 Words “such Act”, referred to in subsec. (c)(1), mean the Securities Act of 1933 and the Securities Exchange Act of 1934, respectively.
 

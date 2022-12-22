@@ -28,10 +28,10 @@ The Congress finds that—
 ### Statutory Notes
 
 #### References in Text
-The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (3), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in par. (3), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
 
 #### Short Title of 2021 Amendment
-Pub. L. 117–58, div. G, title III, § 70301, Nov. 15, 2021, 135 Stat. 1258, provided that: “This title [amending sections 1601, 1606a, 1607, and 2105 of this title, and enacting provisions set out as a note under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601)] may be cited as the ‘Repairing Existing Public Land by Adding Necessary Trees Act’ or the ‘REPLANT Act’.”
+Pub. L. 117–58, div. G, title III, § 70301, Nov. 15, 2021, 135 Stat. 1258, provided that: “This title [amending sections 1601, 1606a, 1607, and 2105 of this title and enacting provisions set out as a note under [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601)] may be cited as the ‘Repairing Existing Public Land by Adding Necessary Trees Act’ or the ‘REPLANT Act’.”
 
 #### Short Title of 1988 Amendments
 Pub. L. 100–521, § 1, Oct. 24, 1988, 102 Stat. 2601, provided that: “This Act [amending [section 1642 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1642) and enacting provisions set out as a note under [section 1642 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1642)] may be cited as the ‘Forest Ecosystems and Atmospheric Pollution Research Act of 1988’.”
@@ -170,7 +170,7 @@ Pub. L. 94–588, § 21, Oct. 22, 1976, 90 Stat. 2963, provided that: “If any 
 Subsec. (b) of this section amended [section 581h of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section581h&num=0&edition=prelim).
 
 #### Amendments
-2021—Subsecs. (d), (e). Pub. L. 117–58, § 70302(a)(1)(A)(ii), redesignated subsec. (d), relating to Congressional policy regarding forested land in the National Forest System, as (e). Former subsec. (e) redesignated (f).
+2021—Subsecs. (d), (e). Pub. L. 117–58, § 70302(a)(1)(A)(ii), redesignated subsec. (d) relating to Congressional policy regarding forested land in the National Forest System as (e). Former subsec. (e) redesignated (f).
 
 Subsec. (e)(2). Pub. L. 117–58, § 70302(a)(1)(A)(iii)(I), in first sentence, substituted “1607 of this title, the Secretary shall, annually during each of the 10 years beginning after November 15, 2021” for “1607 of this title, the Secretary shall annually for eight years following October 22, 1976” and “10-year” for “eight-year”; in second sentence, substituted “the 10-year period” for “such eight-year period”; and in third sentence, substituted “fiscal year 2021” for “fiscal year 1978”.
 
@@ -229,9 +229,9 @@ In order to provide for periodic review of programs for management and administr
 ### Statutory Notes
 
 #### References in Text
-The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Pub. L. 115–141 substituted “Secretary” for “Secretary of Agriculture” in introductory provisions.
@@ -388,9 +388,9 @@ Public Law 93–205, referred to subsec. (d)(2)(A)(i), (C)(i), is Pub. L. 93–2
 
 The date of enactment of this section, referred to in subsec. (d)(2)(B)(ii), probably means the date of enactment of Pub. L. 115–141, which added subsec. (d)(2) and was approved Mar. 23, 2018.
 
-The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (e) and (g), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (e) and (g), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–141, § 208(b)(2), substituted “Secretary” for “Secretary of Agriculture”.
@@ -404,9 +404,11 @@ Subsec. (h)(1). Pub. L. 115–141, § 208(b)(2), substituted “Secretary shall 
 Subsecs. (c) to (m). Pub. L. 94–588, § 6, added subsecs. (c) to (m).
 
 #### Revision of Forest Plans
-Pub. L. 116–260, div. G, title IV, § 407, Dec. 27, 2020, 134 Stat. 1536, provided that: “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604(f)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1604/f/5/A&num=0&edition=prelim)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.) or any other law: Provided, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
+Pub. L. 117–103, div. G, title IV, § 407, Mar. 15, 2022, 136 Stat. 410, provided that: “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 ([16 U.S.C. 1604(f)(5)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1604/f/5/A&num=0&edition=prelim)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act ([16 U.S.C. 1600](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) et seq.) or any other law: Provided, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. G, title IV, § 407, Dec. 27, 2020, 134 Stat. 1536.
 
 Pub. L. 116–94, div. D, title IV, § 407, Dec. 20, 2019, 133 Stat. 2743.
 
@@ -552,7 +554,7 @@ Section was not enacted as part of the Forest and Rangeland Renewable Resources 
 In subsec. (c)(2)(A), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
-2021—Subsec. (b). Pub. L. 117–58, § 70302(b)(1), substituted “Transfers to Trust Fund” for “Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates” in subsec. heading; inserted par. heading and substituted “The Secretary” for “Subject to the limitation in paragraph (2), the Secretary” in par. (1); struck out par. (2), which provided the Secretary could not transfer more than $30,000,000 to the Trust Fund for any fiscal year; redesignated par. (3) as (2) and inserted par. (2) heading; and redesignated second sentence of former par. (3) as (3) and inserted par. (3) heading.
+2021—Subsec. (b). Pub. L. 117–58, § 70302(b)(1), substituted “Transfers to Trust Fund” for “Transfer of certain tariff receipts to Trust Fund; fiscal year limitation; quarterly transfers; adjustment of estimates” in subsec. heading; inserted par. heading and substituted “The Secretary” for “Subject to the limitation in paragraph (2), the Secretary” in par. (1); struck out par. (2) which provided that the Secretary could not transfer more than $30,000,000 to the Trust Fund for any fiscal year; redesignated par. (3) as (2) and inserted par. (2) heading; and redesignated second sentence of former par. (3) as (3) and inserted par. (3) heading.
 
 Subsec. (d)(1). Pub. L. 117–58, § 70302(b)(2), substituted “subsection (e) of section 1601” for “section 1601(d)” and made technical amendment to reference in original act which appears in text as reference to [section 1601 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1601).
 
@@ -585,7 +587,7 @@ The Secretary shall take such action as will assure that the development and adm
 ### Statutory Notes
 
 #### References in Text
-The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in text, is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
 
 #### Amendments
 2021—Pub. L. 117–58 substituted “year 2030” for “year 2000”.
@@ -627,7 +629,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 ### Statutory Notes
 
 #### References in Text
-The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of the Bankhead Jones Farm Tenant Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Bankhead Jones Farm Tenant Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
 
 [Section 471 of this title](./chapter-002-national-forests.md#section-471), referred to in subsec. (a), was repealed by Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
@@ -687,7 +689,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Forest Service Decisionmaking and Appeals Reform
 Pub. L. 102–381, title III, § 322, Oct. 5, 1992, 106 Stat. 1419, which provided for the establishment of a notice and comment process for proposed actions of the Forest Service relating to certain land and resource management projects and required modification of the procedure for appeals of decisions concerning such projects, was repealed by Pub. L. 113–79, title VIII, § 8006(a), Feb. 7, 2014, 128 Stat. 913.
@@ -741,9 +743,9 @@ If any provision of this subchapter or the application thereof to any person or 
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–307, June 2, 1978, 92 Stat. 353, as amended, known as the Forest and Rangeland Renewable Resources Research Act of 1978, which enacted this subchapter, repealed sections 581 to 581i of this title, and enacted provisions set out as a note under [section 1641 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1641). For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–307, June 2, 1978, 92 Stat. 353, known as the Forest and Rangeland Renewable Resources Research Act of 1978, which enacted this subchapter, repealed sections 581 to 581i of this title, and enacted provisions set out as a note under [section 1641 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1641). For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
-The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§ 1600 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
+The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§ 1600 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
 #### Amendments
 1998—Pub. L. 105–185 inserted section catchline, added subsec. (a), and struck out former subsec. (a) which read as follows:
@@ -1036,7 +1038,7 @@ There are authorized to be appropriated annually such sums as may be needed to i
 ### Statutory Notes
 
 #### References in Text
-The Food and Agriculture Act of 1977, referred to in subsec. (c), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XIV of the Food and Agriculture Act of 1977, known as the “National Agricultural Research, Extension, and Teaching Policy Act of 1977”, is classified principally to chapter 64 (§ 3101 et seq.) of Title 7, Agriculture. For complete classification of this title to the Code, see Short Title note set out under [section 3101 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3101&num=0&edition=prelim) and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (c), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XIV of the Food and Agriculture Act of 1977, known as the “National Agricultural Research, Extension, and Teaching Policy Act of 1977”, is classified principally to chapter 64 (§ 3101 et seq.) of Title 7, Agriculture. For complete classification of this title to the Code, see Short Title note set out under [section 3101 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1648"></a>
@@ -1080,7 +1082,7 @@ Section, Pub. L. 110–234, title VIII, § 8402, May 22, 2008, 122 Stat. 1302; P
 ### Statutory Notes
 
 #### References in Text
-The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, as amended, which is classified principally to chapter 41 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
+The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (a), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of this title](./chapter-041-cooperative-forestry-assistance.md#section-2101) and Tables.
 
 #### Codification
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2000, and not as part of the Forest and Rangeland Renewable Resources Research Act of 1978 which comprises this subchapter.
@@ -1283,7 +1285,7 @@ The Secretary is authorized to issue such rules and regulations as the Secretary
 ### Statutory Notes
 
 #### References in Text
-The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XIV of the Food and Agriculture Act of 1977, known as the “National Agricultural Research, Extension, and Teaching Policy Act of 1977”, is classified principally to chapter 64 (§ 3101 et seq.) of Title 7, Agriculture. For complete classification of this title to the Code, see Short Title note set out under [section 3101 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3101&num=0&edition=prelim) and Tables.
+The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XIV of the Food and Agriculture Act of 1977, known as the “National Agricultural Research, Extension, and Teaching Policy Act of 1977”, is classified principally to chapter 64 (§ 3101 et seq.) of Title 7, Agriculture. For complete classification of this title to the Code, see Short Title note set out under [section 3101 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1681"></a>

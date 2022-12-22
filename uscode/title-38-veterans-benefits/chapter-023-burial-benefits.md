@@ -230,15 +230,31 @@ Amendment by Pub. L. 95–476 effective Oct. 18, 1978, see section 205(a) of Pub
 
 **(b)** In addition to the benefits provided for under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) and subsection (a) of this section, in the case of a veteran who is eligible for burial in a national cemetery under [section 2402 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2402) and who is not buried in a national cemetery or other cemetery under the jurisdiction of the United States—
 
-(1) if such veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that (A) is used solely for the interment of persons who are (i) eligible for burial in a national cemetery, and (ii) members of a reserve component of the Armed Forces not otherwise eligible for such burial or former members of such a reserve component not otherwise eligible for such burial who are discharged or released from service under conditions other than dishonorable, and (B) is owned by a State or by an agency or political subdivision of a State, the Secretary shall pay to such State, agency, or political subdivision the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran; and
+(1) the Secretary shall pay to the relevant State, agency, political subdivision, or tribal organization, as the case may be, the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran if the veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that—
 
-(2) if such veteran is eligible for a burial allowance under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) or under subsection (a) of this section, or was discharged from the active military, naval, air, or space service for a disability incurred or aggravated in line of duty, and such veteran is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $700 (as increased from time to time under subsection (c)) as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
+  (A) is used solely for the interment of persons who are—
+
+    (i) eligible for burial in a national cemetery;
+
+    (ii) members of a reserve component of the Armed Forces not otherwise eligible for such burial or former members of such a reserve component not otherwise eligible for such burial who are discharged or released from service under conditions other than dishonorable; or
+
+    (iii) described in [section 2408(i)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2408/i/2&num=0&edition=prelim); and
+
+  (B) is—
+
+    (i) owned by a State or by an agency or political subdivision of a State; or
+
+    (ii) on trust land owned by, or held in trust for, a tribal organization. 11 So in original. The period probably should be “; and”.
+
+(2) if such veteran is eligible for a burial allowance under [section 2302 of this title](./chapter-023-burial-benefits.md#section-2302) or under subsection (a) of this section, or was discharged from the active military, naval, air, or space service for a disability incurred or aggravated in line of duty, and such veteran is buried in a cemetery, or a section of a cemetery, other than as described in clause (1) of this subsection, the Secretary shall pay a sum not exceeding $700 (as increased from time to time under subsection (c)) as a plot or interment allowance to such person as the Secretary prescribes, except that if any part of the plot or interment costs of a burial to which this clause applies has been paid or assumed by a State, an agency or political subdivision of a State, tribal organization, or a former employer of the deceased veteran, no claim for such allowance shall be allowed for more than the difference between the entire amount of the expenses incurred and the amount paid or assumed by any or all of the foregoing entities.
 
 **(c)** With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the maximum amount of burial and funeral expenses payable under subsection (a) and in the maximum amount of the plot or interment allowance payable under subsection (b), equal to the percentage by which—
 
 (1) the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
 
 (2) the Consumer Price Index for the 12-month period preceding the 12-month period described in paragraph (1).
+
+**(e)** 22 For future amendment of this section, including transfer of [section 2302(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2302/b&num=0&edition=prelim) and redesignating it as subsec. (d) of this section, see Amendment of Section note below. In this section, the terms “tribal organization” and “trust land” have the meanings given those terms in [section 3765 of this title](./chapter-037-housing-and-small-business-loans.md#section-3765).
 
 ### Statutory Notes
 
@@ -288,6 +304,12 @@ Pub. L. 116–315, title II, § 2202(a)(1), (3), (d), Jan. 5, 2021, 134 Stat. 49
 See 2021 Amendment notes below.
 
 #### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–103, § 102(c)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “if such veteran is buried (without charge for the cost of a plot or interment) in a cemetery, or a section of a cemetery, that (A) is used solely for the interment of persons who are (i) eligible for burial in a national cemetery, and (ii) members of a reserve component of the Armed Forces not otherwise eligible for such burial or former members of such a reserve component not otherwise eligible for such burial who are discharged or released from service under conditions other than dishonorable, and (B) is owned by a State or by an agency or political subdivision of a State, the Secretary shall pay to such State, agency, or political subdivision the sum of $700 (as increased from time to time under subsection (c)) as a plot or interment allowance for such veteran; and”.
+
+Subsec. (b)(2). Pub. L. 117–103, § 102(c)(1)(B), inserted “tribal organization,” after “of a State,”.
+
+Subsec. (e). Pub. L. 117–103, § 102(c)(2), added subsec. (e).
+
 2021—Pub. L. 116–315, § 2202(a)(3)(A), substituted “Death from non-service-connected disability” for “Death in Department facility” in section catchline.
 
 Subsec. (a)(1). Pub. L. 116–315, § 2202(a)(3)(B)(i), substituted “a veteran described in paragraph (2) dies” for “a veteran dies in a facility described in paragraph (2)”.

@@ -25,7 +25,7 @@ Pub. L. 115–91, div. A, title X, § 1006, Dec. 12, 2017, 131 Stat. 1544, provi
 ## § 240b. Financial Improvement and Audit Remediation Plan
 **(a) Financial Improvement and Audit Remediation Plan.—**
 
-(1) **In general.—** — The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller), maintain a plan to be known as the “Financial Improvement and Audit Remediation Plan”.
+(1) **In general.—** — The Chief Management Officer of the Department of Defense 11 See Transfer of Functions note below. shall, in consultation with the Under Secretary of Defense (Comptroller), maintain a plan to be known as the “Financial Improvement and Audit Remediation Plan”.
 
 (2) **Elements.—** — The plan required by paragraph (1) shall—
 
@@ -87,7 +87,7 @@ Pub. L. 115–91, div. A, title X, § 1006, Dec. 12, 2017, 131 Stat. 1544, provi
 
     (i) *Unclassified form.—* — A description submitted pursuant to clause (vii) or (ix) of subparagraph (B) or a certification submitted pursuant to clause (viii) of such subparagraph shall be submitted in unclassified form, but may contain a classified annex.
 
-    (ii) *Delegation.—* — The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Chief Management Officer, or the Under Secretary of Defense (Comptroller).
+    (ii) *Delegation.—* — The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Chief Management Officer,1 or the Under Secretary of Defense (Comptroller).
 
 (2) **Semiannual briefings.—**
 
@@ -178,6 +178,9 @@ Subsec. (a)(2)(C), (D). Pub. L. 115–91, § 1002(c)(3)(B)(ii)(III), struck out 
 
 Subsec. (b). Pub. L. 115–91, § 1002(c)(3)(C), added subsec. (b).
 
+#### Transfer of Functions
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a) by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a).
+
 #### Incentives for the Achievement by the Components of the Department of Defense of Unqualified Audit Opinions on the Financial Statements
 Pub. L. 116–283, div. A, title X, § 1004(a), Jan. 1, 2021, 134 Stat. 3837, provided that: “(a) Incentives Required.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Under Secretary of Defense (Comptroller), acting through the Deputy Chief Financial Officer of the Department of Defense, shall develop and issue guidance to provide incentives for the achievement by each department, agency, and other component of the Department of Defense of unqualified audit opinions on their financial statements. “(2) Applicability.—The guidance required under paragraph (1) shall provide incentives for individual employees in addition to departments, agencies, and components.”
 
@@ -214,7 +217,7 @@ The Under Secretary of Defense (Comptroller) shall—
 
 (1) **In general.—** — The Inspector General shall require the independent external auditors conducting audits under subsection (a) to submit a report on their audits each year to—
 
-  (A) the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense;
+  (A) the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense; 11 See Transfer of Functions note below.
 
   (B) the Controller of the Office of Federal Financial Management in the Office of Management and Budget;
 
@@ -262,6 +265,9 @@ Pub. L. 115–91, § 1002(e)(2)(A), struck out “, United States Code” after 
 
 #### Change of Name
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Transfer of Functions
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a) by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a).
 
 #### Transparency of Accounting Firms Used To Support Department of Defense Audit
 Pub. L. 115–232, div. A, title X, § 1006, Aug. 13, 2018, 132 Stat. 1947, as amended by Pub. L. 116–92, div. A, title X, § 1011, Dec. 20, 2019, 133 Stat. 1577, provided that: “(a) In General.—For all contract actions (including awards, renewals, and amendments) occurring more than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall require any accounting firm providing financial statement auditing or audit remediation services to the Department of Defense in support of the audit required under [section 3521 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3521&num=0&edition=prelim), United States Code, to provide the Department with a statement setting forth the details of any disciplinary proceedings with respect to the accounting firm or its associated persons before any entity with the authority to enforce compliance with rules or laws applying to audit services offered by accounting firms. “(b) Treatment of Statement.—A statement setting forth the details of a disciplinary proceeding submitted pursuant to subsection (a), and the information contained in such a statement, shall be—“(1) treated as confidential to the extent required by the court or agency in which the proceeding has occurred; and “(2) treated in a manner consistent with any protections or privileges established by any other provision of Federal law.”
@@ -333,7 +339,7 @@ Pub. L. 115–91, div. A, title X, § 1007, Dec. 12, 2017, 131 Stat. 1545, provi
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a)(3). Pub. L. 117–81, substituted a semicolon for “; and” at end.
+2021—Subsec. (a)(3). Pub. L. 117–81 substituted a semicolon for “; and” at end.
 
 Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).
 

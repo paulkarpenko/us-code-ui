@@ -1960,25 +1960,320 @@ Pub. L. 85–859, title I, § 163(e), Sept. 2, 1958, 72 Stat. 1312, as amended b
 
 
 <a id="section-6417"></a>
-## § 6417. Repealed. Pub. L. 94–455, title XIX, § 1906(a)(25), Oct. 4, 1976, 90 Stat. 1827]
+## § 6417. Elective payment of applicable credits
+**(a) In general** In the case of an applicable entity making an election (at such time and in such manner as the Secretary may provide) under this section with respect to any applicable credit determined with respect to such entity, such entity shall be treated as making a payment against the tax imposed by subtitle A (for the taxable year with respect to which such credit was determined) equal to the amount of such credit.
+
+**(b) Applicable credit** The term “applicable credit” means each of the following:
+
+(1) So much of the credit for alternative fuel vehicle refueling property allowed under section 30C which, pursuant to subsection (d)(1) of such section, is treated as a credit listed in section 38(b).
+
+(2) So much of the renewable electricity production credit determined under section 45(a) as is attributable to qualified facilities which are originally placed in service after December 31, 2022.
+
+(3) So much of the credit for carbon oxide sequestration determined under section 45Q(a) as is attributable to carbon capture equipment which is originally placed in service after December 31, 2022.
+
+(4) The zero-emission nuclear power production credit determined under section 45U(a).
+
+(5) So much of the credit for production of clean hydrogen determined under section 45V(a) as is attributable to qualified clean hydrogen production facilities which are originally placed in service after December 31, 2012.
+
+(6) In the case of a tax-exempt entity described in clause (i), (ii), or (iv) of section 168(h)(2)(A), the credit for qualified commercial vehicles determined under section 45W by reason of subsection (d)(3) thereof.
+
+(7) The credit for advanced manufacturing production under section 45X(a).
+
+(8) The clean electricity production credit determined under section 45Y(a).
+
+(9) The clean fuel production credit determined under section 45Z(a).
+
+(10) The energy credit determined under section 48.
+
+(11) The qualifying advanced energy project credit determined under section 48C.
+
+(12) The clean electricity investment credit determined under section 48E.
+
+**(c) Application to partnerships and S corporations**
+
+(1) **In general** — In the case of any applicable credit determined with respect to any facility or property held directly by a partnership or S corporation, any election under subsection (a) shall be made by such partnership or S corporation. If such partnership or S corporation makes an election under such subsection (in such manner as the Secretary may provide) with respect to such credit—
+
+  (A) the Secretary shall make a payment to such partnership or S corporation equal to the amount of such credit,
+
+  (B) subsection (e) shall be applied with respect to such credit before determining any partner’s distributive share, or shareholder’s pro rata share, of such credit,
+
+  (C) any amount with respect to which the election in subsection (a) is made shall be treated as tax exempt income for purposes of sections 705 and 1366, and
+
+  (D) a partner’s distributive share of such tax exempt income shall be based on such partner’s distributive share of the otherwise applicable credit for each taxable year.
+
+(2) **Coordination with application at partner or shareholder level** — In the case of any facility or property held directly by a partnership or S corporation, no election by any partner or shareholder shall be allowed under subsection (a) with respect to any applicable credit determined with respect to such facility or property.
+
+(3) **Treatment of payments to partnerships and S corporations** — For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under paragraph (1)(A) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+**(d) Special rules** For purposes of this section—
+
+(1) **Applicable entity**
+
+  (A) *In general* — The term “applicable entity” means—
+
+    (i) any organization exempt from the tax imposed by subtitle A,
+
+    (ii) any State or political subdivision thereof,
+
+    (iii) the Tennessee Valley Authority,
+
+    (iv) an Indian tribal government (as defined in section 30D(g)(9)),
+
+    (v) any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/m&num=0&edition=prelim)), or
+
+    (vi) any corporation operating on a cooperative basis which is engaged in furnishing electric energy to persons in rural areas.
+
+  (B) *Election with respect to credit for production of clean hydrogen* — If a taxpayer other than an entity described in subparagraph (A) makes an election under this subparagraph with respect to any taxable year in which such taxpayer has placed in service a qualified clean hydrogen production facility (as defined in section 45V(c)(3)), such taxpayer shall be treated as an applicable entity for purposes of this section for such taxable year, but only with respect to the credit described in subsection (b)(5).
+
+  (C) *Election with respect to credit for carbon oxide sequestration* — If a taxpayer other than an entity described in subparagraph (A) makes an election under this subparagraph with respect to any taxable year in which such taxpayer has, after December 31, 2022, placed in service carbon capture equipment at a qualified facility (as defined in section 45Q(d)), such taxpayer shall be treated as an applicable entity for purposes of this section for such taxable year, but only with respect to the credit described in subsection (b)(3).
+
+  (D) *Election with respect to advanced manufacturing production credit*
+
+    (i) *In general* — If a taxpayer other than an entity described in subparagraph (A) makes an election under this subparagraph with respect to any taxable year in which such taxpayer has, after December 31, 2022, produced eligible components (as defined in section 45X(c)(1)), such taxpayer shall be treated as an applicable entity for purposes of this section for such taxable year, but only with respect to the credit described in subsection (b)(7).
+
+    (ii) *Limitation*
+
+      (I) *In general* — Except as provided in subclause (II), if a taxpayer makes an election under this subparagraph with respect to any taxable year, such taxpayer shall be treated as having made such election for each of the 4 succeeding taxable years ending before January 1, 2033.
+
+      (II) *Exception* — A taxpayer may elect to revoke the application of the election made under this subparagraph to any taxable year described in subclause (I). Any such election, if made, shall apply to the applicable year specified in such election and each subsequent taxable year within the period described in subclause (I). Any election under this subclause may not be subsequently revoked.
+
+    (iii) *Prohibition on transfer* — For any taxable year described in clause (ii)(I), no election may be made by the taxpayer under section 6418(a) for such taxable year with respect to eligible components for purposes of the credit described in subsection (b)(7).
+
+  (E) *Other rules*
+
+    (i) *In general* — An election made under subparagraph (B), (C), or (D) shall be made at such time and in such manner as the Secretary may provide.
+
+    (ii) *Limitation* — No election may be made under subparagraph (B), (C), or (D) with respect to any taxable year beginning after December 31, 2032.
+
+(2) **Application** — In the case of any applicable entity which makes the election described in subsection (a), any applicable credit shall be determined—
+
+  (A) without regard to paragraphs (3) and (4)(A)(i) of section 50(b), and
+
+  (B) by treating any property with respect to which such credit is determined as used in a trade or business of the applicable entity.
+
+(3) **Elections**
+
+  (A) *In general*
+
+    (i) *Due date* — Any election under subsection (a) shall be made not later than—
+
+      (I) in the case of any government, or political subdivision, described in paragraph (1) and for which no return is required under section 6011 or 6033(a), such date as is determined appropriate by the Secretary, or
+
+      (II) in any other case, the due date (including extensions of time) for the return of tax for the taxable year for which the election is made, but in no event earlier than 180 days after the date of the enactment of this section.
+
+    (ii) *Additional rules* — Any election under subsection (a), once made, shall be irrevocable and shall apply (except as otherwise provided in this paragraph) with respect to any credit for the taxable year for which the election is made.
+
+  (B) *Renewable electricity production credit* — In the case of the credit described in subsection (b)(2), any election under subsection (a) shall—
+
+    (i) apply separately with respect to each qualified facility,
+
+    (ii) be made for the taxable year in which such qualified facility is originally placed in service, and
+
+    (iii) shall apply to such taxable year and to any subsequent taxable year which is within the period described in subsection (a)(2)(A)(ii) of section 45 with respect to such qualified facility.
+
+  (C) *Credit for carbon oxide sequestration*
+
+    (i) *In general* — In the case of the credit described in subsection (b)(3), any election under subsection (a) shall—
+
+      (I) apply separately with respect to the carbon capture equipment originally placed in service by the applicable entity during a taxable year, and
+
+      (II)
+
+        (aa) in the case of a taxpayer who makes an election described in paragraph (1)(C), apply to the taxable year in which such equipment is placed in service and the 4 subsequent taxable years with respect to such equipment which end before January 1, 2033, and
+
+        (bb) in any other case, apply to such taxable year and to any subsequent taxable year which is within the period described in paragraph (3)(A) or (4)(A) of section 45Q(a) with respect to such equipment.
+
+    (ii) *Prohibition on transfer* — For any taxable year described in clause (i)(II)(aa) with respect to carbon capture equipment, no election may be made by the taxpayer under section 6418(a) for such taxable year with respect to such equipment for purposes of the credit described in subsection (b)(3).
+
+    (iii) *Revocation of election* — In the case of a taxpayer who makes an election described in paragraph (1)(C) with respect to carbon capture equipment, such taxpayer may, at any time during the period described in clause (i)(II)(aa), revoke the application of such election with respect to such equipment for any subsequent taxable years during such period. Any such election, if made, shall apply to the applicable year specified in such election and each subsequent taxable year within the period described in clause (i)(II)(aa). Any election under this subclause may not be subsequently revoked.
+
+  (D) *Credit for production of clean hydrogen*
+
+    (i) *In general* — In the case of the credit described in subsection (b)(5), any election under subsection (a) shall—
+
+      (I) apply separately with respect to each qualified clean hydrogen production facility,
+
+      (II) be made for the taxable year in which such facility is placed in service (or within the 1-year period subsequent to the date of enactment of this section in the case of facilities placed in service before December 31, 2022), and
+
+      (III)
+
+        (aa) in the case of a taxpayer who makes an election described in paragraph (1)(B), apply to such taxable year and the 4 subsequent taxable years with respect to such facility which end before January 1, 2033, and
+
+        (bb) in any other case, apply to such taxable year and all subsequent taxable years with respect to such facility.
+
+    (ii) *Prohibition on transfer* — For any taxable year described in clause (i)(III)(aa) with respect to a qualified clean hydrogen production facility, no election may be made by the taxpayer under section 6418(a) for such taxable year with respect to such facility for purposes of the credit described in subsection (b)(5).
+
+    (iii) *Revocation of election* — In the case of a taxpayer who makes an election described in paragraph (1)(B) with respect to a qualified clean hydrogen production facility, such taxpayer may, at any time during the period described in clause (i)(III)(aa), revoke the application of such election with respect to such facility for any subsequent taxable years during such period. Any such election, if made, shall apply to the applicable year specified in such election and each subsequent taxable year within the period described in clause (i)(II)(aa). Any election under this subclause may not be subsequently revoked.
+
+  (E) *Clean electricity production credit* — In the case of the credit described in subsection (b)(8), any election under subsection (a) shall—
+
+    (i) apply separately with respect to each qualified facility,
+
+    (ii) be made for the taxable year in which such facility is placed in service, and
+
+    (iii) shall apply to such taxable year and to any subsequent taxable year which is within the period described in subsection (b)(1)(B) of section 45Y with respect to such facility.
+
+(4) **Timing** — The payment described in subsection (a) shall be treated as made on—
+
+  (A) in the case of any government, or political subdivision, described in paragraph (1) and for which no return is required under section 6011 or 6033(a), the later of the date that a return would be due under section 6033(a) if such government or subdivision were described in that section or the date on which such government or subdivision submits a claim for credit or refund (at such time and in such manner as the Secretary shall provide), and
+
+  (B) in any other case, the later of the due date (determined without regard to extensions) of the return of tax for the taxable year or the date on which such return is filed.
+
+(5) **Additional information** — As a condition of, and prior to, any amount being treated as a payment which is made by an applicable entity under subsection (a), the Secretary may require such information or registration as the Secretary deems necessary for purposes of preventing duplication, fraud, improper payments, or excessive payments under this section.
+
+(6) **Excessive payment**
+
+  (A) *In general* — In the case of any amount treated as a payment which is made by the applicable entity under subsection (a), or the amount of the payment made pursuant to subsection (c), which the Secretary determines constitutes an excessive payment, the tax imposed on such entity by chapter 1 (regardless of whether such entity would otherwise be subject to tax under such chapter) for the taxable year in which such determination is made shall be increased by an amount equal to the sum of—
+
+    (i) the amount of such excessive payment, plus
+
+    (ii) an amount equal to 20 percent of such excessive payment.
+
+  (B) *Reasonable cause* — Subparagraph (A)(ii) shall not apply if the applicable entity demonstrates to the satisfaction of the Secretary that the excessive payment resulted from reasonable cause.
+
+  (C) *Excessive payment defined* — For purposes of this paragraph, the term “excessive payment” means, with respect to a facility or property for which an election is made under this section for any taxable year, an amount equal to the excess of—
+
+    (i) the amount treated as a payment which is made by the applicable entity under subsection (a), or the amount of the payment made pursuant to subsection (c), with respect to such facility or property for such taxable year, over
+
+    (ii) the amount of the credit which, without application of this section, would be otherwise allowable (as determined pursuant to paragraph (2) and without regard to section 38(c)) under this title with respect to such facility or property for such taxable year.
+
+**(e) Denial of double benefit** In the case of an applicable entity making an election under this section with respect to an applicable credit, such credit shall be reduced to zero and shall, for any other purposes under this title, be deemed to have been allowed to such entity for such taxable year.
+
+**(f) Mirror code possessions** In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this section shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this section be so treated.
+
+**(g) Basis reduction and recapture** Except as otherwise provided in subsection (c)(2)(A), rules similar to the rules of section 50 shall apply for purposes of this section.
+
+**(h) Regulations** The Secretary shall issue such regulations or other guidance as may be necessary to carry out the purposes of this section, including guidance to ensure that the amount of the payment or deemed payment made under this section is commensurate with the amount of the credit that would be otherwise allowable (determined without regard to section 38(c)).
 
 ### Statutory Notes
 
-Section, act Aug. 16, 1954, ch. 736, 68A Stat. 801, related to a tax credit or refund to any person who has sold to a State, or a political subdivision thereof, any article containing any oil, combination, or mixture, upon the processing of which a tax has been paid under former section 4511, and to a refund to the exporter of the tax paid under former subchapter B of chapter 37.
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (d)(3)(A)(i)(II), (D)(i)(II), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
-#### Effective Date of Repeal
-Repeal effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1906(d)(1) of Pub. L. 94–455, set out as an Effective Date of 1976 Amendment note under [section 6013 of this title](./chapter-061-information-and-returns.md#section-6013).
+#### Prior Provisions
+A prior section 6417, act Aug. 16, 1954, ch. 736, 68A Stat. 801, related to a tax credit or refund to any person who has sold to a State, or a political subdivision thereof, any article containing any oil, combination, or mixture, upon the processing of which a tax has been paid under former section 4511, and to a refund to the exporter of the tax paid under former subchapter B of chapter 37, prior to repeal by Pub. L. 94–455, title XIX, § 1906(a)(25), (d)(1), Oct. 4, 1976, 90 Stat. 1827, 1835, effective on the first day of the first month beginning more than 90 days after Oct. 4, 1976.
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13801(g), Aug. 16, 2022, 136 Stat. 2013, provided that: “The amendments made by this section [enacting this section and [section 6418 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6418) and amending sections 39 and 50 of this title] shall apply to taxable years beginning after December 31, 2022.”
+
+#### Gross-Up of Direct Spending
+Pub. L. 117–169, title I, § 13801(f), Aug. 16, 2022, 136 Stat. 2013, provided that: “Beginning in fiscal year 2023 and each fiscal year thereafter, the portion of any payment made to a taxpayer pursuant to an election under section 6417 of the Internal Revenue Code of 1986, or any amount treated as a payment which is made by the taxpayer under subsection (a) of such section, that is direct spending shall be increased by 6.0445 percent.”
 
 
 <a id="section-6418"></a>
-## § 6418. Repealed. Pub. L. 101–508, title XI, § 11801(c)(22)(B)(i), Nov. 5, 1990, 104 Stat. 1388–528]
+## § 6418. Transfer of certain credits
+**(a) In general** In the case of an eligible taxpayer which elects to transfer all (or any portion specified in the election) of an eligible credit determined with respect to such taxpayer for any taxable year to a taxpayer (referred to in this section as the “transferee taxpayer”) which is not related (within the meaning of section 267(b) or 707(b)(1)) to the eligible taxpayer, the transferee taxpayer specified in such election (and not the eligible taxpayer) shall be treated as the taxpayer for purposes of this title with respect to such credit (or such portion thereof).
+
+**(b) Treatment of payments made in connection with transfer** With respect to any amount paid by a transferee taxpayer to an eligible taxpayer as consideration for a transfer described in subsection (a), such consideration—
+
+(1) shall be required to be paid in cash,
+
+(2) shall not be includible in gross income of the eligible taxpayer, and
+
+(3) with respect to the transferee taxpayer, shall not be deductible under this title.
+
+**(c) Application to partnerships and S corporations**
+
+(1) **In general** — In the case of any eligible credit determined with respect to any facility or property held directly by a partnership or S corporation, if such partnership or S corporation makes an election under subsection (a) (in such manner as the Secretary may provide) with respect to such credit—
+
+  (A) any amount received as consideration for a transfer described in such subsection shall be treated as tax exempt income for purposes of sections 705 and 1366, and
+
+  (B) a partner’s distributive share of such tax exempt income shall be based on such partner’s distributive share of the otherwise eligible credit for each taxable year.
+
+(2) **Coordination with application at partner or shareholder level** — In the case of any facility or property held directly by a partnership or S corporation, no election by any partner or shareholder shall be allowed under subsection (a) with respect to any eligible credit determined with respect to such facility or property.
+
+**(d) Taxable year in which credit taken into account** In the case of any credit (or portion thereof) with respect to which an election is made under subsection (a), such credit shall be taken into account in the first taxable year of the transferee taxpayer ending with, or after, the taxable year of the eligible taxpayer with respect to which the credit was determined.
+
+**(e) Limitations on election**
+
+(1) **Time for election** — An election under subsection (a) to transfer any portion of an eligible credit shall be made not later than the due date (including extensions of time) for the return of tax for the taxable year for which the credit is determined, but in no event earlier than 180 days after the date of the enactment of this section. Any such election, once made, shall be irrevocable.
+
+(2) **No additional transfers** — No election may be made under subsection (a) by a transferee taxpayer with respect to any portion of an eligible credit which has been previously transferred to such taxpayer pursuant to this section.
+
+**(f) Definitions** For purposes of this section—
+
+(1) **Eligible credit**
+
+  (A) *In general* — The term “eligible credit” means each of the following:
+
+    (i) So much of the credit for alternative fuel vehicle refueling property allowed under section 30C which, pursuant to subsection (d)(1) of such section, is treated as a credit listed in section 38(b).
+
+    (ii) The renewable electricity production credit determined under section 45(a).
+
+    (iii) The credit for carbon oxide sequestration determined under section 45Q(a).
+
+    (iv) The zero-emission nuclear power production credit determined under section 45U(a).
+
+    (v) The clean hydrogen production credit determined under section 45V(a).
+
+    (vi) The advanced manufacturing production credit determined under section 45X(a).
+
+    (vii) The clean electricity production credit determined under section 45Y(a).
+
+    (viii) The clean fuel production credit determined under section 45Z(a).
+
+    (ix) The energy credit determined under section 48.
+
+    (x) The qualifying advanced energy project credit determined under section 48C.
+
+    (xi) The clean electricity investment credit determined under section 48E.
+
+  (B) *Election for certain credits* — In the case of any eligible credit described in clause (ii), (iii), (v), or (vii) of subparagraph (A), an election under subsection (a) shall be made—
+
+    (i) separately with respect to each facility for which such credit is determined, and
+
+    (ii) for each taxable year during the 10-year period beginning on the date such facility was originally placed in service (or, in the case of the credit described in clause (iii), for each year during the 12-year period beginning on the date the carbon capture equipment was originally placed in service at such facility).
+
+  (C) *Exception for business credit carryforwards or carrybacks* — The term “eligible credit” shall not include any business credit carryforward or business credit carryback determined under section 39.
+
+(2) **Eligible taxpayer** — The term “eligible taxpayer” means any taxpayer which is not described in section 6417(d)(1)(A).
+
+**(g) Special rules** For purposes of this section—
+
+(1) **Additional information** — As a condition of, and prior to, any transfer of any portion of an eligible credit pursuant to subsection (a), the Secretary may require such information (including, in such form or manner as is determined appropriate by the Secretary, such information returns) or registration as the Secretary deems necessary for purposes of preventing duplication, fraud, improper payments, or excessive payments under this section.
+
+(2) **Excessive credit transfer**
+
+  (A) *In general* — In the case of any portion of an eligible credit which is transferred to a transferee taxpayer pursuant to subsection (a) which the Secretary determines constitutes an excessive credit transfer, the tax imposed on the transferee taxpayer by chapter 1 (regardless of whether such entity would otherwise be subject to tax under such chapter) for the taxable year in which such determination is made shall be increased by an amount equal to the sum of—
+
+    (i) the amount of such excessive credit transfer, plus
+
+    (ii) an amount equal to 20 percent of such excessive credit transfer.
+
+  (B) *Reasonable cause* — Subparagraph (A)(ii) shall not apply if the transferee taxpayer demonstrates to the satisfaction of the Secretary that the excessive credit transfer resulted from reasonable cause.
+
+  (C) *Excessive credit transfer defined* — For purposes of this paragraph, the term “excessive credit transfer” means, with respect to a facility or property for which an election is made under subsection (a) for any taxable year, an amount equal to the excess of—
+
+    (i) the amount of the eligible credit claimed by the transferee taxpayer with respect to such facility or property for such taxable year, over
+
+    (ii) the amount of such credit which, without application of this section, would be otherwise allowable under this title with respect to such facility or property for such taxable year.
+
+(3) **Basis reduction; notification of recapture** — In the case of any election under subsection (a) with respect to any portion of an eligible credit described in clauses (ix) through (xi) of subsection (f)(1)(A)—
+
+  (A) subsection (c) of section 50 shall apply to the applicable investment credit property (as defined in subsection (a)(5) of such section) as if such eligible credit was allowed to the eligible taxpayer, and
+
+  (B) if, during any taxable year, the applicable investment credit property (as defined in subsection (a)(5) of section 50) is disposed of, or otherwise ceases to be investment credit property with respect to the eligible taxpayer, before the close of the recapture period (as described in subsection (a)(1) of such section)—
+
+    (i) such eligible taxpayer shall provide notice of such occurrence to the transferee taxpayer (in such form and manner as the Secretary shall prescribe), and
+
+    (ii) the transferee taxpayer shall provide notice of the recapture amount (as defined in subsection (c)(2) of such section), if any, to the eligible taxpayer (in such form and manner as the Secretary shall prescribe).
+
+(4) **Prohibition on election or transfer with respect to progress expenditures** — This section shall not apply with respect to any amount of an eligible credit which is allowed pursuant to rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
+
+**(h) Regulations** The Secretary shall issue such regulations or other guidance as may be necessary to carry out the purposes of this section, including regulations or other guidance providing rules for determining a partner’s distributive share of the tax exempt income described in subsection (c)(1).
 
 ### Statutory Notes
 
-Section, acts Aug. 16, 1954, ch. 736, 68A Stat. 801; May 29, 1956, ch. 342, § 21(b), 70 Stat. 221; May 24, 1962, Pub. L. 87–456, title III, § 302(c), 76 Stat. 77; Nov. 8, 1965, Pub. L. 89–331, § 9(b), 79 Stat. 1278; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834, authorized refund of taxes paid on sugar used as livestock feed, for distillation or production of alcohol, or in certain cases where sugar was exported.
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 117–169, which was aprroved Aug. 16, 2022.
 
-#### Savings Provision
-For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (g)(4), is the date of enactment of title XI of Pub. L. 101–508, which was approved Nov. 5, 1990.
+
+#### Prior Provisions
+A prior section 6418, acts Aug. 16, 1954, ch. 736, 68A Stat. 801; May 29, 1956, ch. 342, § 21(b), 70 Stat. 221; May 24, 1962, Pub. L. 87–456, title III, § 302(c), 76 Stat. 77; Nov. 8, 1965, Pub. L. 89–331, § 9(b), 79 Stat. 1278; Oct. 4, 1976, Pub. L. 94–455, title XIX, § 1906(b)(13)(A), 90 Stat. 1834, authorized refund of taxes paid on sugar used as livestock feed, for distillation or production of alcohol, or in certain cases where sugar was exported, prior to repeal by Pub. L. 101–508, title XI, § 11801(c)(22)(B)(i), Nov. 5, 1990, 104 Stat. 1388–528. For provisions that nothing in repeal by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
+
+#### Effective Date
+Section applicable to taxable years beginning after Dec. 31, 2022, see section 13801(g) of Pub. L. 117–169, set out as a note under [section 6417 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6417).
 
 
 <a id="section-6419"></a>
@@ -2778,9 +3073,11 @@ Repeal applicable with respect to articles sold after Jan. 6, 1983, see section 
 
   (A) the sum of—
 
-    (i) the tax imposed by section 11, or subchapter L of chapter 1, whichever is applicable, plus
+    (i) the tax imposed by section 11 or subchapter L of chapter 1, whichever is applicable, plus
 
-    (ii) the tax imposed by section 59A, over
+    (ii) the tax imposed by section 55, plus
+
+    (iii) the tax imposed by section 59A, over
 
   (B) the credits against tax provided by part IV of subchapter A of chapter 1.
 
@@ -2795,6 +3092,14 @@ Repeal applicable with respect to articles sold after Jan. 6, 1983, see section 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (c)(1)(A). Pub. L. 117–169 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+
+“(A) the sum of—
+
+“(i) the tax imposed by section 11, or subchapter L of chapter 1, whichever is applicable, plus
+
+“(ii) the tax imposed by section 59A, over”.
+
 2018—Subsec. (c)(1)(A). Pub. L. 115–141, which directed amendment of subpar. (A) by substituting “the sum” for “The sum”, could not be executed because “The sum” no longer appeared after the amendments made by Pub. L. 115–97. See 2017 Amendment notes below.
 
 2017—Subsec. (c)(1)(A). Pub. L. 115–97, § 14401(d)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the tax imposed by section 11 or subchapter L of chapter 1, whichever is applicable, over”.
@@ -2818,6 +3123,9 @@ Pub. L. 115–97, § 12001(b)(17), amended subpar. (A) generally. Prior to amend
 Pub. L. 99–499 amended subsec. (c)(1)(A), as amended by the Tax Reform Act of 1986 (Pub. L. 99–514), by striking out “plus” at end of cl. (i), substituting “plus” for “over” at end of cl. (ii), and adding cl. (iii).
 
 1976—Subsecs. (a), (b), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 12001(b)(17) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
@@ -2851,7 +3159,7 @@ For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty ob
 ## § 6426. Credit for alcohol fuel, biodiesel, and alternative fuel mixtures
 **(a) Allowance of credits** There shall be allowed as a credit—
 
-(1) against the tax imposed by section 4081 an amount equal to the sum of the credits described in subsections (b), (c), and (e), and
+(1) against the tax imposed by section 4081 an amount equal to the sum of the credits described in subsections (b), (c), (e), and (k), and
 
 (2) against the tax imposed by section 4041 an amount equal to the sum of the credits described in subsection (d).
 No credit shall be allowed in the case of the credits described in subsections (d) and (e) unless the taxpayer is registered under section 4101.
@@ -2910,7 +3218,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
 (5) **Other definitions** — Any term used in this subsection which is also used in section 40A shall have the meaning given such term by section 40A.
 
-(6) **Termination** — This subsection shall not apply to any sale, use, or removal for any period after December 31, 2022.
+(6) **Termination** — This subsection shall not apply to any sale, use, or removal for any period after December 31, 2024.
 
 **(d) Alternative fuel credit**
 
@@ -2924,13 +3232,11 @@ No credit shall be allowed in the case of the credits described in subsections (
 
   (C) compressed or liquefied natural gas,
 
-  (D) liquefied hydrogen,
+  (D) any liquid fuel which meets the requirements of paragraph (4) and which is derived from coal (including peat) through the Fischer-Tropsch process,
 
-  (E) any liquid fuel which meets the requirements of paragraph (4) and which is derived from coal (including peat) through the Fischer-Tropsch process,
+  (E) compressed or liquefied gas derived from biomass (as defined in section 45K(c)(3)), and
 
-  (F) compressed or liquefied gas derived from biomass (as defined in section 45K(c)(3)), and
-
-  (G) liquid fuel derived from biomass (as defined in section 45K(c)(3)).
+  (F) liquid fuel derived from biomass (as defined in section 45K(c)(3)).
   Such term does not include ethanol, methanol, biodiesel, or any fuel (including lignin, wood residues, or spent pulping liquors) derived from the production of paper or pulp.
 
 (3) **Gasoline gallon equivalent** — For purposes of this subsection, the term “gasoline gallon equivalent” means, with respect to any nonliquid alternative fuel, the amount of such fuel having a Btu content of 124,800 (higher heating value).
@@ -2945,19 +3251,19 @@ No credit shall be allowed in the case of the credits described in subsections (
 
     (ii) 75 percent in the case of fuel produced after December 30, 2009.
 
-(5) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2021.
+(5) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2024.
 
 **(e) Alternative fuel mixture credit**
 
 (1) **In general** — For purposes of this section, the alternative fuel mixture credit is the product of 50 cents and the number of gallons of alternative fuel used by the taxpayer in producing any alternative fuel mixture for sale or use in a trade or business of the taxpayer.
 
-(2) **Alternative fuel mixture** — For purposes of this section, the term “alternative fuel mixture” means a mixture of alternative fuel (other than a fuel described in subparagraph (A), (C), or (F) of subsection (d)(2)) and taxable fuel (as defined in subparagraph (A), (B), or (C) of section 4083(a)(1)) which—
+(2) **Alternative fuel mixture** — For purposes of this section, the term “alternative fuel mixture” means a mixture of alternative fuel (other than a fuel described in subparagraph (A), (C), or (E) of subsection (d)(2)) and taxable fuel (as defined in subparagraph (A), (B), or (C) of section 4083(a)(1)) which—
 
   (A) is sold by the taxpayer producing such mixture to any person for use as fuel, or
 
   (B) is used as a fuel by the taxpayer producing such mixture.
 
-(3) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2021.
+(3) **Termination** — This subsection shall not apply to any sale or use for any period after December 31, 2024.
 
 **(f) Mixture not used as a fuel, etc.**
 
@@ -2976,7 +3282,7 @@ No credit shall be allowed in the case of the credits described in subsections (
 
 **(g) Coordination with exemption from excise tax** Rules similar to the rules under section 40(c) shall apply for purposes of this section.
 
-**(h) Denial of double benefit** No credit shall be determined under subsection (d) or (e) with respect to any fuel with respect to which credit may be determined under subsection (b) or (c) or under section 40 or 40A.
+**(h) Denial of double benefit** No credit shall be determined under subsection (d) or (e) with respect to any fuel with respect to which credit may be determined under subsection (b) or (c) or under section 40, 40A, or 40B.
 
 **(i) Limitation to fuels with connection to the United States**
 
@@ -2991,6 +3297,22 @@ For purposes of this subsection, the term “United States” includes any posse
 
 (2) in the case of liquefied natural gas, the energy equivalent of a gallon of diesel, as defined in section 4041(a)(2)(D).
 
+**(k) Sustainable aviation fuel credit**
+
+(1) **In general** — For purposes of this section, the sustainable aviation fuel credit for the taxable year is, with respect to any sale or use of a qualified mixture, an amount equal to the product of—
+
+  (A) the number of gallons of sustainable aviation fuel in such mixture, multiplied by
+
+  (B) the sum of—
+
+    (i) $1.25, plus
+
+    (ii) the applicable supplementary amount with respect to such sustainable aviation fuel.
+
+(2) **Definitions** — Any term used in this subsection which is also used in section 40B shall have the meaning given such term by section 40B.
+
+(3) **Registration requirement** — For purposes of this subsection, rules similar to the rules of section 40B(f) shall apply.
+
 ### Statutory Notes
 
 #### Codification
@@ -3000,6 +3322,22 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 6426, added Pub. L. 91–258, title II, § 206(c), May 21, 1970, 84 Stat. 245; amended Pub. L. 94–455, title XIX, § 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, provided for a refund of aircraft use tax where plane transports for hire in foreign air commerce, prior to repeal by Pub. L. 97–248, title II, § 280(c)(2)(G), (d), Sept. 3, 1982, 96 Stat. 564, 565, applicable with respect to transportation beginning after Aug. 31, 1982.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–169, § 13203(d)(2)(A)(i), substituted “(e), and (k)” for “and (e)”.
+
+Subsec. (c)(6). Pub. L. 117–169, § 13201(b)(1), substituted “December 31, 2024” for “December 31, 2022”.
+
+Subsec. (d)(2)(D) to (G). Pub. L. 117–169, § 13204(d)(1), redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: “liquefied hydrogen,”.
+
+Subsec. (d)(5). Pub. L. 117–169, § 13201(c), substituted “December 31, 2024” for “December 31, 2021”.
+
+Subsec. (e)(2). Pub. L. 117–169, § 13204(d)(2), substituted “(E)” for “(F)” in introductory provisions.
+
+Subsec. (e)(3). Pub. L. 117–169, § 13201(d), substituted “December 31, 2024” for “December 31, 2021”.
+
+Subsec. (h). Pub. L. 117–169, § 13203(d)(2)(A)(ii), substituted “under section 40, 40A, or 40B” for “under section 40 or 40A”.
+
+Subsec. (k). Pub. L. 117–169, § 13203(d)(1), added subsec. (k).
+
 2020—Subsecs. (d)(5), (e)(3). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (c)(6). Pub. L. 116–94, § 121(b)(1)(A), substituted “December 31, 2022” for “December 31, 2017”.
@@ -3092,6 +3430,13 @@ Subsec. (d)(2)(F). Pub. L. 109–59, § 11151(e)(2), substituted “section 45K(
 
 Subsecs. (e) to (g). Pub. L. 109–59, § 11113(b)(2), added subsec. (e) and redesignated former subsecs. (d) and (e) as (f) and (g), respectively.
 
+#### Effective Date of 2022 Amendment
+Amendment by section 13201(b)(1), (c), (d) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2021, see section 13201(f) of Pub. L. 117–169, set out as a note under [section 40A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40a).
+
+Amendment by section 13203(d)(1), (2)(A) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2022, see section 13203(f) of Pub. L. 117–169, set out as an Effective Date note under [section 40B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40b).
+
+Pub. L. 117–169, title I, § 13204(d)(3), Aug. 16, 2022, 136 Stat. 1941, provided that: “The amendments made by this subsection [amending this section] shall apply to fuel sold or used after December 31, 2022.”
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 147(c), Dec. 27, 2020, 134 Stat. 3055, provided that: “The amendments made by this subsection [probably means “this section”, amending this section and [section 6427 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6427)] shall apply to fuel sold or used after December 31, 2020.”
 
@@ -3152,6 +3497,9 @@ Amendment by section 11151(e)(2) of Pub. L. 109–59 effective as if included in
 
 #### Effective Date
 Section applicable to fuel sold or used after Dec. 31, 2004, see section 301(d)(1) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under [section 40 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40).
+
+#### Special Rule for 2022
+Pub. L. 117–169, title I, § 13201(g), Aug. 16, 2022, 136 Stat. 1932, provided that: “In the case of any alternative fuel credit properly determined under section 6426(d) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2022, and ending with the close of the last calendar quarter beginning before the date of the enactment of this Act [Aug. 16, 2022], such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
 
 #### Special Rules for 2018 and 2019
 Pub. L. 116–94, div. Q, title I, § 121(b)(3), Dec. 20, 2019, 133 Stat. 3230, provided that: “Notwithstanding any other provision of law, in the case of any biodiesel mixture credit properly determined under section 6426(c) of the Internal Revenue Code of 1986 for the period beginning on January 1, 2018, and ending with the close of the last calendar quarter beginning before the date of the enactment of this Act [Dec. 20, 2019], such credit shall be allowed, and any refund or payment attributable to such credit (including any payment under section 6427(e) of such Code) shall be made, only in such manner as the Secretary of the Treasury (or the Secretary’s delegate) shall provide. Such Secretary shall issue guidance within 30 days after the date of the enactment of this Act providing for a one-time submission of claims covering periods described in the preceding sentence. Such guidance shall provide for a 180-day period for the submission of such claims (in such manner as prescribed by such Secretary) to begin not later than 30 days after such guidance is issued. Such claims shall be paid by such Secretary not later than 60 days after receipt. If such Secretary has not paid pursuant to a claim filed under this subsection within 60 days after the date of the filing of such claim, the claim shall be paid with interest from such date determined by using the overpayment rate and method under section 6621 of such Code.”
@@ -3233,9 +3581,9 @@ Pub. L. 111–312, title VII, § 704(c), Dec. 17, 2010, 124 Stat. 3311, provided
 (2) any fuel on the sale of which tax was imposed under section 4041,
 is used by an aircraft museum (as defined in section 4041(h)(2)) in an aircraft or vehicle owned by such museum and used exclusively for purposes set forth in section 4041(h)(2)(C), or is used in a helicopter or a fixed-wing aircraft for a purpose described in section 4041(l), the Secretary shall pay (without interest) to the ultimate purchaser of such gasoline or fuel an amount equal to the aggregate amount of the tax imposed on such gasoline or fuel.
 
-**(e) Alcohol, biodiesel, or alternative fuel** Except as provided in subsection (k)—
+**(e) Alcohol, biodiesel, alternative fuel, or sustainable aviation fuel** Except as provided in subsection (k)—
 
-(1) **Used to produce a mixture** — If any person produces a mixture described in section 6426 in such person’s trade or business, the Secretary shall pay (without interest) to such person an amount equal to the alcohol fuel mixture credit or the biodiesel mixture credit or the alternative fuel mixture credit with respect to such mixture.
+(1) **Used to produce a mixture** — If any person produces a mixture described in section 6426 in such person’s trade or business, the Secretary shall pay (without interest) to such person an amount equal to the alcohol fuel mixture credit or the biodiesel mixture credit or the alternative fuel mixture credit or the sustainable aviation fuel mixture credit with respect to such mixture.
 
 (2) **Alternative fuel** — If any person sells or uses an alternative fuel (as defined in section 6426(d)(2)) for a purpose described in section 6426(d)(1) in such person’s trade or business, the Secretary shall pay (without interest) to such person an amount equal to the alternative fuel credit with respect to such fuel.
 
@@ -3249,11 +3597,13 @@ is used by an aircraft museum (as defined in section 4041(h)(2)) in an aircraft 
 
   (A) any alcohol fuel mixture (as defined in section 6426(b)(3)) sold or used after December 31, 2011,
 
-  (B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2022,
+  (B) any biodiesel mixture (as defined in section 6426(c)(3)) sold or used after December 31, 2024,
 
-  (C) any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2021, and
+  (C) any alternative fuel (as defined in section 6426(d)(2)) sold or used after December 31, 2024,
 
-  (D) any alternative fuel mixture (as defined in section 6426(e)(2)) sold or used after December 31, 2011.
+  (D) any alternative fuel mixture (as defined in section 6426(e)(2)) sold or used after December 31, 2011, and
+
+  (E) any qualified mixture of sustainable aviation fuel (as defined in section 6426(k)(3)) 11 See References in Text note below. sold or used after December 31, 2024.
 
 **(f) Repealed. Pub. L. 109–59, title XI, § 11151(a)(1), Aug. 10, 2005, 119 Stat. 1968]**
 
@@ -3412,11 +3762,23 @@ is used by an aircraft museum (as defined in section 4041(h)(2)) in an aircraft 
 ### Statutory Notes
 
 #### References in Text
+Section 6426(k)(3), referred to in subsec. (e)(6)(E), probably should be a reference to [section 40B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40b), which contains a definition of “sustainable aviation fuel”. [Section 6426(k)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6426/k/3&num=0&edition=prelim), as enacted by Pub. L. 117–169, does not define that term. However, a prior version of the bill that became Pub. L. 117–169 contained an amendment adding subsec. (k) to section 6426 that did contain such a par. (3) that adopted the definitions in section 40B.
+
 Section 4081(c), referred to in subsec. (f)(1), was repealed by Pub. L. 108–357, title III, § 301(c)(7), Oct. 22, 2004, 118 Stat. 1461.
 
 Section 4091, referred to in subsec. (f)(1), (2)(A)(ii), (B)(ii), was repealed by Pub. L. 108–357, title VIII, § 853(d)(1), Oct. 22, 2004, 118 Stat. 1612.
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–169, § 13203(d)(2)(B)(i), substituted “alternative fuel, or sustainable aviation fuel” for “or alternative fuel” in heading.
+
+Subsec. (e)(1). Pub. L. 117–169, § 13203(d)(2)(B)(ii), inserted “or the sustainable aviation fuel mixture credit” after “alternative fuel mixture credit”.
+
+Subsec. (e)(6)(B). Pub. L. 117–169, § 13201(b)(2), substituted “December 31, 2024” for “December 31, 2022”.
+
+Subsec. (e)(6)(C). Pub. L. 117–169, § 13201(e), substituted “December 31, 2024” for “December 31, 2021”.
+
+Subsec. (e)(6)(E). Pub. L. 117–169, § 13203(d)(2)(B)(iii), added subpar. (E).
+
 2020—Subsec. (e)(6)(C). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (e)(6)(B). Pub. L. 116–94, § 121(b)(1)(B), substituted “December 31, 2022” for “December 31, 2017”.
@@ -4074,6 +4436,11 @@ Subsec. (g). Pub. L. 94–530, § 1(b), (c)(5), redesignated former subsec. (f) 
 Subsecs. (h), (i). Pub. L. 94–530, § 1(b), redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
 Subsec. (h). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2022 Amendment
+Amendment by section 13201(b)(2), (e) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2021, see section 13201(f) of Pub. L. 117–169, set out as a note under [section 40A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40a).
+
+Amendment by section 13203(d)(2)(B) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2022, see section 13203(f) of Pub. L. 117–169, set out as an Effective Date note under [section 40B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40b).
 
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 applicable to fuel sold or used after Dec. 31, 2020, see section 147(c) of div. EE of Pub. L. 116–260, set out as a note under [section 6426 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6426).
@@ -4765,7 +5132,7 @@ Pub. L. 116–260, div. N, title II, § 272(e), Dec. 27, 2020, 134 Stat. 1975, p
 #### Treatment of Certain Possessions
 Pub. L. 117–2, title IX, § 9601(b), Mar. 11, 2021, 135 Stat. 142, provided that: “(1) Payments to possessions with mirror code tax systems.—The Secretary of the Treasury shall pay to each possession of the United States which has a mirror code tax system amounts equal to the loss (if any) to that possession by reason of the amendments made by this section. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession. “(2) Payments to other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits (if any) that would have been provided to residents of such possession by reason of the amendments made by this section if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply unless the respective possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to its residents. “(3) Inclusion of administrative expenses.—The Secretary of the Treasury shall pay to each possession of the United States to which the Secretary makes a payment under paragraph (1) or (2) an amount equal to the lesser of—“(A) the increase (if any) of the administrative expenses of such possession—“(i) in the case of a possession described in paragraph (1), by reason of the amendments made by this section, and “(ii) in the case of a possession described in paragraph (2), by reason of carrying out the plan described in such paragraph, or “(B) $500,000 ($10,000,000 in the case of Puerto Rico). The amount described in subparagraph (A) shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession. “(4) Coordination with credit allowed against united states income taxes.—No credit shall be allowed against United States income taxes under section 6428B of the Internal Revenue Code of 1986 (as added by this section), nor shall any credit or refund be made or allowed under subsection (g) of such section, to any person—“(A) to whom a credit is allowed against taxes imposed by the possession by reason of the amendments made by this section, or “(B) who is eligible for a payment under a plan described in paragraph (2). “(5) Mirror code tax system.—For purposes of this subsection, the term ‘mirror code tax system’ means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States. “(6) Treatment of payments.—For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under this subsection shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.”
 
-#### Exception from Reduction or Offset
+#### Exception From Reduction or Offset
 Pub. L. 117–2, title IX, § 9601(c)(2), Mar. 11, 2021, 135 Stat. 143, provided that: “Any refund payable by reason of section 6428B(g) of the Internal Revenue Code of 1986 (as added by this section), or any such refund payable by reason of subsection (b) of this section [set out above], shall not be— “(A) subject to reduction or offset pursuant to subsection (c), (d), (e), or (f) of section 6402 of the Internal Revenue Code of 1986 or any similar authority permitting offset, or “(B) reduced or offset by other assessed Federal taxes that would otherwise be subject to levy or collection.”
 
 
@@ -4888,7 +5255,7 @@ Repeal by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see s
 #### References in Text
 Section 9501(a)(1) of the American Rescue Plan Act of 2021, referred to in subsec. (a)(1), is section 9501(a)(1) of title IX of Pub. L. 117–2, Mar. 11, 2021, 135 Stat. 127, which is set out as a note under [section 4980B of this title](./chapter-043-qualified-pension-etc-plans.md#section-4980b).
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(1), (2)(A)(ii) and (g), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to [section 1002(37) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (b)(2)(A)(ii), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Section 3(37) of the Act is classified to [section 1002(37) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 The Public Health Service Act, referred to in subsec. (b)(2)(A)(iii), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
@@ -4897,7 +5264,7 @@ Section 2301 of the CARES Act, referred to in subsec. (e), is section 2301 of ti
 Sections 7001(d) and 7003(d) of the Families First Coronavirus Response Act, referred to in subsec. (e), are sections 7001(d) and 7003(d) of div. G of Pub. L. 116–127, which are set out as notes under [section 3111 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3111).
 
 #### Prior Provisions
-A prior section 6432, added Pub. L. 111–5, div. B, title III, § 3001(a)(12)(A), Feb. 17, 2009, 123 Stat. 461; amended Pub. L. 111–144, § 3(b)(5)(C), Mar. 2, 2010, 124 Stat. 45, related to COBRA premium assistance, related to COBRA premium assistance, prior to repeal by Pub. L. 115–141, div. U, title IV, § 401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212.
+A prior section 6432, added Pub. L. 111–5, div. B, title III, § 3001(a)(12)(A), Feb. 17, 2009, 123 Stat. 461; amended Pub. L. 111–144, § 3(b)(5)(C), Mar. 2, 2010, 124 Stat. 45, related to COBRA premium assistance, prior to repeal by Pub. L. 115–141, div. U, title IV, § 401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212.
 
 #### Effective Date
 Pub. L. 117–2, title IX, § 9501(b)(1)(C), Mar. 11, 2021, 135 Stat. 136, provided that: “The amendments made by this paragraph [enacting this section] shall apply to premiums to which subsection (a)(1)(A) applies and wages paid on or after April 1, 2021.”

@@ -266,12 +266,12 @@ As used in this subchapter:
 #### References in Text
 The effective date of this subchapter, referred to in par. (5)(A), is 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as an Effective Date note below.
 
-The Controlled Substances Act, referred to in par. (6)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in par. (6)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in par. (10)(B)(i), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
 #### Constitutionality
-For constitutionality of section 101 of Pub. L. 101–336, see note under [section 12112 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12112).
+For the constitutionality of section 101 of Pub. L. 101–336, see note under [section 12112 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12112).
 
 #### Amendments
 2008—Par. (8). Pub. L. 110–325 struck out “with a disability” after “individual” in heading and the first two places appearing in text.
@@ -375,7 +375,7 @@ Pub. L. 101–336, title I, § 108, July 26, 1990, 104 Stat. 337, provided that:
 This chapter, referred to in subsec. (d)(3)(B)(iii), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
 #### Constitutionality
-For constitutionality of certain provisions of this subchapter, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For the constitutionality of certain provisions of this subchapter, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–325, § 5(a)(1), substituted “on the basis of disability” for “with a disability because of the disability of such individual”.
@@ -537,7 +537,7 @@ Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101�
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (b), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section effective 24 months after July 26, 1990, see section 108 of Pub. L. 101–336, set out as a note under [section 12111 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12111).
@@ -1180,7 +1180,7 @@ As used in this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Fair Housing Act of 1968, referred to in par. (2), probably means the Fair Housing Act, title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
+The Fair Housing Act of 1968, referred to in par. (2), probably means the Fair Housing Act, title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I of chapter 45 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-045-fair-housing.md#section-3601) and Tables.
 
 [Section 20102(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20102/1&num=0&edition=prelim), referred to in par. (8), was redesignated section 20102(2) and a new section 20102(1) was added by Pub. L. 110–432, div. A, § 2(b)(1), (2), Oct. 16, 2008, 122 Stat. 4850.
 
@@ -1335,7 +1335,7 @@ For the effective date of this section, referred to in subsec. (b)(3), (5), see 
 
 The effective date of this paragraph, referred to in subsec. (b)(6), is 18 months after July 26, 1990, see section 310(a) of Pub. L. 101–336, set out as an Effective Date note under [section 12181 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12181).
 
-The Federal Railroad Safety Act of 1970, referred to in subsec. (c)(1), is title II of Pub. L. 91–458, Oct. 16, 1970, 84 Stat. 971, as amended, which was classified generally to subchapter II (§ 431 et seq.) of chapter 13 of Title 45, Railroads, and was repealed and reenacted in [section 5109(c) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5109/c&num=0&edition=prelim), Government Organization and Employees, [section 54a of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section54a&num=0&edition=prelim), Railroads, chapter 201 and sections 21301, 21302, 21304, 21311, 24902, and 24905 of Title 49, Transportation, and provisions set out as a note under [section 20103 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20103&num=0&edition=prelim) by Pub. L. 103–272, §§ 1(e), 4(b)(1), (i), (t), 7(b), July 5, 1994, 108 Stat. 862, 891, 893, 930, 935, 1361, 1365, 1372, 1379, the first section of which enacted subtitles II, III, and V to X of Title 49.
+The Federal Railroad Safety Act of 1970, referred to in subsec. (c)(1), is title II of Pub. L. 91–458, Oct. 16, 1970, 84 Stat. 971, which was classified generally to subchapter II (§ 431 et seq.) of chapter 13 of Title 45, Railroads, and was repealed and reenacted in [section 5109(c) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5109/c&num=0&edition=prelim), Government Organization and Employees, [section 54a of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section54a&num=0&edition=prelim), Railroads, chapter 201 and sections 21301, 21302, 21304, 21311, 24902, and 24905 of Title 49, Transportation, and provisions set out as a note under [section 20103 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20103&num=0&edition=prelim) by Pub. L. 103–272, §§ 1(e), 4(b)(1), (i), (t), 7(b), July 5, 1994, 108 Stat. 862, 891, 893, 930, 935, 1361, 1365, 1372, 1379, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
 #### Effective Date
 Section effective 18 months after July 26, 1990, but with subsec. (a) of this section (for purposes of subsec. (b)(3) only) and subsec. (b)(3) of this section effective July 26, 1990, see section 310(a), (c) of Pub. L. 101–336, set out as a note under [section 12181 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12181).
@@ -1442,7 +1442,7 @@ The provisions of this subchapter shall not apply to private clubs or establishm
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title II of the Act is classified generally to subchapter II (§ 2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title II of the Act is classified generally to subchapter II (§ 2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Effective Date
 Section effective 18 months after July 26, 1990, see section 310(a) of Pub. L. 101–336, set out as a note under [section 12181 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12181).
@@ -1550,7 +1550,7 @@ Paragraphs (1), (2), and (3) shall not be used as a subterfuge to evade the purp
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 Title IV of this Act, referred to in subsec. (c), means title IV of Pub. L. 101–336, July 26, 1990, 104 Stat. 366, which enacted [section 225 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section225&num=0&edition=prelim), Telecommunications, and amended sections 152, 221, and 611 of Title 47.
 
@@ -1703,7 +1703,7 @@ A prior section 507 of Pub. L. 101–336 was renumbered section 508 and is class
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1131&num=0&edition=prelim) and Tables.
+The Wilderness Act, referred to in subsecs. (a) and (c)(1), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1131&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 508 of Pub. L. 101–336 was renumbered section 509 and is classified to [section 12208 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12208).
@@ -1825,7 +1825,7 @@ except that it shall not be a violation of this chapter for a covered entity to 
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
-The Controlled Substances Act, referred to in subsec. (d)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in subsec. (d)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 511 of Pub. L. 101–336 was renumbered section 512 and is classified to [section 12211 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12211).

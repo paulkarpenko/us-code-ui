@@ -118,9 +118,9 @@ It should be the policy of the United States—
 Pub. L. 104–114, title II, § 204(d)(3), Mar. 12, 1996, 110 Stat. 810, provided that on date on which President submits determination under [section 6063(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/3&num=0&edition=prelim) that democratically elected government in Cuba is in power, this section is repealed.
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(1)(A), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
 #### Amendments
 1996—Subsec. (b)(2). Pub. L. 104–114, § 102(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted concluding provisions “As used in this paragraph, the term ‘agency or instrumentality of the Government of Cuba’ means an agency or instrumentality of a foreign state as defined in [section 1603(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1603/b&num=0&edition=prelim), with each reference in such section to ‘a foreign state’ deemed to be a reference to ‘Cuba’.”
@@ -239,7 +239,7 @@ Food, medicine, and medical supplies for humanitarian purposes should be made av
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 The Food for Peace Act, referred to in text, is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified generally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) and Tables.
 

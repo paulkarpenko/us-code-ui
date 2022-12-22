@@ -28,7 +28,7 @@ The Congress finds that—
 #### References in Text
 The Federal Water Pollution Control Act, referred to in par. (6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Safe Drinking Water Act, referred to in par. (6), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Safe Drinking Water Act, referred to in par. (6), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Short Title
 Pub. L. 102–490, § 1, Oct. 24, 1992, 106 Stat. 3142, provided that: “This Act [enacting this chapter] may be cited as the ‘Membrane Processes Research Act of 1992’.”

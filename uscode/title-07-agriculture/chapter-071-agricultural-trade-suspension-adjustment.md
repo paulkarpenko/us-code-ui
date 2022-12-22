@@ -161,9 +161,9 @@ Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as 
 ### Statutory Notes
 
 #### References in Text
-The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (a), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
 
-The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) and Tables.
+The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1999—Subsec. (a). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
@@ -216,7 +216,7 @@ As used in this chapter, the phrase “fuel conversion price” means the price 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2570, as amended, which enacted this chapter and [section 1445h of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1445h), amended sections 1444c, 1445b, 1445e, and 1446 of this title, and enacted provisions set out as notes under sections 1445e, and 1445h and 4001 of this title and [section 714c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c&num=0&edition=prelim), Commerce and Trade. For complete classification of title II to the Code, see Short Title note set out under [section 4001 of this title](./chapter-071-agricultural-trade-suspension-adjustment.md#section-4001) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 96–494, Dec. 3, 1980, 94 Stat. 2570, which enacted this chapter and [section 1445h of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1445h), amended sections 1444c, 1445b, 1445e, and 1446 of this title, and enacted provisions set out as notes under sections 1445e, and 1445h and 4001 of this title and [section 714c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714c&num=0&edition=prelim), Commerce and Trade. For complete classification of title II to the Code, see Short Title note set out under [section 4001 of this title](./chapter-071-agricultural-trade-suspension-adjustment.md#section-4001) and Tables.
 
 #### Effective Date
 Section effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as a note under [section 4001 of this title](./chapter-071-agricultural-trade-suspension-adjustment.md#section-4001).

@@ -122,6 +122,7 @@ Section 16634, Pub. L. 109–155, title II, § 205, Dec. 30, 2005, 119 Stat. 291
 
 ### Statutory Notes
 
+#### Codification
 Section 16635, Pub. L. 109–155, title II, § 206, Dec. 30, 2005, 119 Stat. 2916, which related to limitation on use of appropriated funds for official representation, was omitted from the Code following the enactment of Title 51, National and Commercial Space Programs, by Pub. L. 111–314.
 
 Section 16636, Pub. L. 109–155, title II, § 207, Dec. 30, 2005, 119 Stat. 2916, which required Administrator to report ISS development costs and related matters to Congress and provided for repeal of section 202 of Pub. L. 106–391 thirty days after transmission of report, was omitted from the Code following the enactment of Title 51.
@@ -140,7 +141,7 @@ Section, Pub. L. 109–155, title III, § 301, Dec. 30, 2005, 119 Stat. 2916, re
 
 ### Statutory Notes
 
-#### Editorial Notes
+#### Codification
 Section 16652, Pub. L. 109–155, title III, § 302, Dec. 30, 2005, 119 Stat. 2917, which related to status of Hubble Space Telescope servicing mission and required Administrator’s report to Congress not later than 60 days after second Space Shuttle mission, was omitted from the Code following the enactment of Title 51, National and Commercial Space Programs, by Pub. L. 111–314.
 
 Section 16653, Pub. L. 109–155, title III, § 303, Dec. 30, 2005, 119 Stat. 2917, which required independent assessment of Landsat-NPOESS integrated mission to be transmitted to Congress not later than 180 days after Dec. 30, 2005, was omitted from the Code following the enactment of Title 51.
@@ -426,4 +427,5 @@ Section, Pub. L. 109–155, title VII, § 721, Dec. 30, 2005, 119 Stat. 2938, wh
 
 ### Statutory Notes
 
+#### Codification
 Section, Pub. L. 109–155, title VII, § 722, Dec. 30, 2005, 119 Stat. 2939, which related to National Science Foundation major research equipment and facilities and required review of facilities and development plan to be transmitted to congressional committees not later than June 30, 2006, was omitted from the Code following the enactment of Title 51, National and Commercial Space Programs, by Pub. L. 111–314.

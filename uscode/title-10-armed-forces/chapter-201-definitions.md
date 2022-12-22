@@ -44,7 +44,7 @@ Subsec. (b). Pub. L. 116–283, § 1806(a)(3), redesignated par. (3) of [section
 Subsec. (c). Pub. L. 116–283, § 1806(a)(4), as amended by Pub. L. 117–81, § 1701(b)(1), added subsec. (c) consisting of text of par. (1) of [section 2545 of this title](./chapter-chapter-149-chapter-chapter-149.md#section-2545), inserted heading, and substituted “In this section, the term” for “The term”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding this section and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding this section and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding this section.
@@ -76,7 +76,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 2021—Pub. L. 117–81, § 1701(i)(1)(B), amended Pub. L. 116–283, § 1806(a)(1), which enacted this section, by adding section 3003 designation and catchline “[Reserved]” and striking out former section 3003 designation and catchline “Defense Federal Acquisition Regulation Supplement”.
 
 #### Effective Date of 2021 Amendment
-Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -108,7 +108,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 2021—Pub. L. 117–81, § 1701(i)(1)(C), amended Pub. L. 116–283, § 1806(a)(1), which enacted this section, by adding section 3005 designation and heading “[Reserved]” and striking out former section 3005 heading and catchline “Service chief concerned”.
 
 #### Effective Date of 2021 Amendment
-Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -244,7 +244,7 @@ In this part, the term “nontraditional defense contractor”, with respect to 
 ### Statutory Notes
 
 #### References in Text
-Sections 4002(a) and 4003 of this title, referred to in text, probably should be references to sections 4021(a) and 4022 of this title. Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, initially transferred sections 2371 and 2371b of this title to sections 4002 and 4003, respectively, to become effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151, amended section 1841(b)(1) of Pub. L. 116–283, effective as if included therein, so as to eliminate those transfers and instead transfer sections 2371 and 2371b to sections 4021 and 4022 of this title, respectively.
+Sections 4002(a) and 4003 of this title, referred to in text, probably should be references to sections 4021(a) and 4022 of this title. Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, initially transferred sections 2371 and 2371b of this title to sections 4002 and 4003, respectively, to become effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151, subsequently amended section 1841(b)(1) of Pub. L. 116–283, effective as if included therein, so as to eliminate those transfers and instead transfer sections 2371 and 2371b to sections 4021 and 4022 of this title, respectively.
 
 #### Codification
 The text of par. (9) of [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302), which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(5), was based on Pub. L. 111–383, div. A, title VIII, § 866(g)(1), Jan. 7, 2011, 124 Stat. 4298; Pub. L. 113–291, div. A, title X, § 1071(a)(2)(B), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, § 815(b), Nov. 25, 2015, 129 Stat. 896.

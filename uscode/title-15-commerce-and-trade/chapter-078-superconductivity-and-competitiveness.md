@@ -78,7 +78,7 @@ The Secretary of Energy shall conduct a program in superconductivity research an
 ### Statutory Notes
 
 #### References in Text
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in text, is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of this title](./chapter-063-technology-innovation.md#section-3701) and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in text, is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of this title](./chapter-063-technology-innovation.md#section-3701) and Tables.
 
 
 <a id="section-5204"></a>

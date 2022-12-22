@@ -448,11 +448,16 @@ Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?r
 
   (B) except as provided under subsection (c), deposit the collected coins in accordance with subsection (d).
 
-**(c) Cost reimbursement** Any amount collected under this section shall first be used to reimburse the Architect of the Capitol for any costs incurred in the collection and processing of the coins. The amount of any such reimbursement is appropriated to the account from which such costs were paid and may be used for any authorized purpose of that account.
+**(c) Cost reimbursement** Any amount collected under this section shall first be used to reimburse the Architect of the Capitol for any costs incurred in the collection and processing of the coins, and maintaining fountains under the jurisdiction of the Architect of the Capitol. The amount of any such reimbursement is appropriated to the account from which such costs were paid and may be used for any authorized purpose of that account.
 
 **(d) Deposit of coins** The Architect of the Capitol shall deposit coins collected under this section in the Miscellaneous Receipts Account of the Capitol Visitor Center Revolving Fund established under [section 2231 of this title](./chapter-031-capitol-visitor-center.md#section-2231).
 
 **(e) Authorized use and availability** Amounts deposited in the Miscellaneous Receipts Account of the Capitol Visitor Center Revolving Fund under this section shall be available as provided under [section 2233(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2233/b&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–103 inserted “, and maintaining fountains under the jurisdiction of the Architect of the Capitol” before period at end of first sentence.
 
 
 <a id="section-2281"></a>

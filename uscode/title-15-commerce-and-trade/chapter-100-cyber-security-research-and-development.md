@@ -373,7 +373,7 @@ Subsec. (b)(5)(E) to (K). Pub. L. 113–274, § 202(3), added subpars. (E) to (K
 ### Statutory Notes
 
 #### References in Text
-The Scientific and Advanced Technology Act of 1992, referred to in subsec. (b)(1), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, as amended, which is classified generally to section 1862h et seq. of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1861 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1861&num=0&edition=prelim) and Tables.
+The Scientific and Advanced Technology Act of 1992, referred to in subsec. (b)(1), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, which is classified generally to section 1862h et seq. of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1861 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1861&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (a)(1). Pub. L. 116–115, § 3(f)(1), inserted “and students who are veterans” after “these fields”.
@@ -540,4 +540,4 @@ Within 24 months after November 27, 2002, the Director, in consultation with the
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–305, Nov. 27, 2002, 116 Stat. 2367, known as the Cyber Security Research and Development Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-100-cyber-security-research-and-development.md#section-7401) and Tables.
 
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.

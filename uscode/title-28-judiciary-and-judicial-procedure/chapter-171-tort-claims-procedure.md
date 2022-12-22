@@ -356,7 +356,7 @@ Changes were made in phraseology.
 Sections 2680 and 2681 were renumbered “2679” and “2680”, respectively, by Senate amendment. See 80th Congress Senate Report No. 1559.
 
 #### References in Text
-Sections 1–31 of Title 50, Appendix, referred to in subsec. (e), was in the original source of this section (section 943 of act Aug. 2, 1946) a reference to the Trading with the Enemy Act, as amended. The Trading with the Enemy Act is now comprised of sections 1 to 43, which were formerly classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
+Sections 1–31 of Title 50, Appendix, referred to in subsec. (e), was in the original source of this section (section 943 of act Aug. 2, 1946) a reference to the Trading with the Enemy Act. The Trading with the Enemy Act is now comprised of sections 1 to 43, which were formerly classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The date of the enactment of this proviso, referred to in subsec. (h), means Mar. 16, 1974, the date on which Pub. L. 93–253, which enacted the proviso, was approved.
 
@@ -391,8 +391,6 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of all other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14, Coast Guard. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
 
-For transfer of certain functions relating to claims and litigation, insofar as they pertain to the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order No. 34 [§ 1a(2)(4)], eff. July 1, 1949.
-
 #### Northern Mariana Islands—Applicability of Subsec. (k)
 Pub. L. 97–357, title II, § 204, Oct. 19, 1982, 96 Stat. 1708, provided: “That the Northern Mariana Islands shall not be considered a foreign country for purposes of subsection (k) of [section 2680 of title 28](./chapter-171-tort-claims-procedure.md#section-2680), United States Code, with respect to claims which accrued no more than two years prior to the effective date of this Act [Oct. 19, 1982].”
 
@@ -403,3 +401,6 @@ Declaration of national emergency in effect on Sept. 14, 1976, was terminated tw
 Joint Res. July 3, 1952, ch. 570, § 1(a)(32), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, § 1, 67 Stat. 18, and Joint Res. June 30, 1953, ch. 172, 67 Stat. 132, provided that subsec. (j) of this section, in addition to coming into full force and effect in time of war, should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding [section 1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1&num=0&edition=prelim), War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond Aug. 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
 
 Joint Res. July 3, 1952, ch. 570, § 6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54 as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions of subsec. (j) of this section until July 3, 1952. This repeal was made effective June 16, 1952, by section 7 of Joint Res. July 3, 1952.
+
+#### Transfer of Functions
+For transfer of certain functions relating to claims and litigation, insofar as they pertain to the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order No. 34 [§ 1a(2)(4)], eff. July 1, 1949.

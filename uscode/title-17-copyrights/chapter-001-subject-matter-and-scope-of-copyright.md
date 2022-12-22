@@ -122,6 +122,9 @@ Pub. L. 101–650, title VII, § 706, Dec. 1, 1990, 104 Stat. 5134, provided tha
 #### Effective Date of 1988 Amendment
 Pub. L. 100–568, § 13, Oct. 31, 1988, 102 Stat. 2861, provided that: “(a) Effective Date.—This Act and the amendments made by this Act [enacting [section 116A of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-116a), amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section] take effect on the date on which the Berne Convention (as defined in [section 101 of title 17](./chapter-001-subject-matter-and-scope-of-copyright.md#section-101), United States Code) enters into force with respect to the United States [Mar. 1, 1989]. [The Berne Convention entered into force with respect to the United States on Mar. 1, 1989.] “(b) Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–201, § 1, Oct. 17, 2022, 136 Stat. 2222, provided that: “This Act [amending [section 708 of this title](./chapter-007-copyright-office.md#section-708)] may be cited as the ‘Artistic Recognition for Talented Students Act’ or the ‘ARTS Act’.”
+
 #### Short Title of 2020 Amendment
 Pub. L. 116–260, div. Q, title II, § 212(a), Dec. 27, 2020, 134 Stat. 2176, provided that: “This section [enacting chapter 15 of this title and enacting provisions set out as notes under sections 1501 and 1502 of this title] may be cited as the ‘Copyright Alternative in Small-Claims Enforcement Act of 2020’ or the ‘CASE Act of 2020’.”
 

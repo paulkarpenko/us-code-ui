@@ -121,7 +121,7 @@ The date of enactment of the Motor Vehicle and Highway Safety Improvement Act of
 The date of enactment of this subsection, referred to in subsecs. (e)(1), (3) and (f)(1), (3), is the date of enactment of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
 #### Amendments
-2021—Subsec. (a). Pub. L. 117–58, § 24213(b)(1), inserted “(referred to in this section as the ‘Secretary’)” after “of Transportation”.
+2021—Subsec. (a). Pub. L. 117–58, § 24213(b)(1), inserted “(referred to in this section as the ‘Secretary’)” after “of Transportation” in introductory provisions.
 
 Subsecs. (e), (f). Pub. L. 117–58, § 24213(b)(2), added subsecs. (e) and (f).
 

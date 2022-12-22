@@ -42,7 +42,10 @@ This chapter may be cited as the “Federal Credit Union Act”.
 ### Statutory Notes
 
 #### Amendments
-1959—Pub. L. 86–354 reenacted section without change.
+1959—Pub. L. 86–354 reen acted section without change.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–103, div. T, § 101, Mar. 15, 2022, 136 Stat. 823, provided that: “This division [amending [section 1764 of this title](./chapter-014-federal-credit-unions.md#section-1764)] may be cited as the ‘Credit Union Governance Modernization Act of 2022’.”
 
 #### Short Title of 2014 Amendment
 Pub. L. 113–252, § 1, Dec. 18, 2014, 128 Stat. 2893, provided that: “This Act [amending [section 1787 of this title](./chapter-014-federal-credit-unions.md#section-1787)] may be cited as the ‘Credit Union Share Insurance Fund Parity Act’.”
@@ -1155,15 +1158,71 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 <a id="section-1766"></a>
 ## § 1766. Expulsion and withdrawal
-**(a) Expulsion by two-thirds vote** Except as provided in subsection (b) of this section, a member may be expelled by a two-thirds vote of the members of a Federal credit union present at a special meeting called for the purpose, but only after opportunity has been given him to be heard.
+**(a) Expulsion by two-thirds vote** Except as provided in subsections (b) and (c) of this section, a member may be expelled by a two-thirds vote of the members of a Federal credit union present at a special meeting called for the purpose, but only after opportunity has been given to the member to be heard.
 
 **(b) Expulsion based on nonparticipation** The board of directors of a Federal credit union may, by majority vote of a quorum of directors, adopt and enforce a policy with respect to expulsion from membership based on nonparticipation by a member in the affairs of the credit union. In establishing its policy, the board should consider a member’s failure to vote in annual credit union elections or failure to purchase shares from, obtain a loan from, or lend to the Federal credit union. If such a policy is adopted, written notice of the policy as adopted and the effective date of such policy shall be mailed to each member of the credit union at the member’s current address appearing on the records of the credit union not less than thirty days prior to the effective date of such policy. In addition, each new member shall be provided written notice of any such policy prior to or upon applying for membership.
 
-**(c) Liability to credit union** Withdrawal or expulsion of a member pursuant to either subsection (a) or (b) of this section shall not operate to relieve him from liability to the Federal credit union. The amount to be paid a withdrawing or expelled member by a Federal credit union shall be determined and paid in a manner specified in the bylaws.
+**(c) Expulsion for cause**
+
+(1) **In general** — Except as provided in subsections (a) and (b) of this section, a member may be expelled for cause by a two-thirds vote of a quorum of the directors of the Federal credit union pursuant to a policy which the National Credit Union Administration Board shall adopt, pursuant to a rulemaking, not later than the end of the 18-month period following March 15, 2022.
+
+(2) **Distribution of policy to members** — A Federal credit union may not expel a member pursuant to this subsection unless the Federal credit union has provided, in written or electronic form, a copy of the policy adopted by the National Credit Union Administration Board under paragraph (1) to each member of the Federal credit union.
+
+(3) **Procedures**
+
+  (A) *Notification of pending expulsion* — If a member will, subject to the policy adopted under paragraph (1), be subject to expulsion, the member shall be notified in advance of the expulsion, along with the reason for such expulsion. Such notice shall be provided in person, by mail to the member’s address, or, if the member has elected to receive electronic communications from the Federal credit union, may be provided electronically.
+
+  (B) *Right to a hearing*
+
+    (i) *In general* — A member shall have 60 days from the date of receipt of a notification under subparagraph (A) to request a hearing from the board of directors of the Federal credit union.
+
+    (ii) *Expulsion if no hearing* — If a member does not request a hearing during the 60-day period described under clause (i), the member shall be expelled after the end of the 60-day period.
+
+  (C) *Hearing; vote on expulsion* — If a member requests a hearing during the 60-day period described under subparagraph (B)(i)—
+
+    (i) the board of directors of the Federal credit union shall provide the member with a hearing; and
+
+    (ii) after such hearing, the board of directors of the Federal credit union shall hold a vote in a timely manner on expelling the member.
+
+  (D) *Notice of expulsion* — If a member is expelled under subparagraph (B)(ii) or (C)(ii), notice of the expulsion of the member shall be provided to the member in person, by mail to the member’s address, in written form or, if the member has elected to receive electronic communications from the Federal credit union, may be provided electronically.
+
+(4) **Reinstatement**
+
+  (A) *In general* — A member expelled under this subsection—
+
+    (i) shall be given an opportunity to request reinstatement of membership; and
+
+    (ii) may be reinstated by either—
+
+      (I) a majority vote of a quorum of the directors of the Federal credit union; or
+
+      (II) a majority vote of the members of the Federal credit union present at a meeting.
+
+  (B) *Rule of construction* — Nothing in this paragraph may be construed to require that an expelled member be allowed to attend the meeting described in subparagraph (A)(ii) in person.
+
+(5) **Cause defined** — In this subsection, the term “cause” means—
+
+  (A) a substantial or repeated violation of the membership agreement of the Federal credit union;
+
+  (B) a substantial or repeated disruption, including dangerous or abusive behavior (as defined by the National Credit Union Administration Board pursuant to a rulemaking), to the operations of a Federal credit union; or
+
+  (C) fraud, attempted fraud, or other illegal conduct that a member has been convicted of in relation to the Federal credit union, including the Federal credit union’s employees conducting business on behalf of the Federal credit union.
+
+**(d) Liability to credit union** Withdrawal or expulsion of a member pursuant to subsection (a), (b), or (c) of this section shall not operate to relieve the member from liability to the Federal credit union. The amount to be paid a withdrawing or expelled member by a Federal credit union shall be determined and paid in a manner specified in the bylaws.
+
+**(e) No authority to expel classes of members** An expulsion of a member pursuant to this section shall be done individually, on a case-by-case basis, and neither the Board nor any Federal credit union may expel a class of members.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–103, § 102(1), substituted “subsections (b) and (c)” for “subsection (b)” and “to the member” for “him”.
+
+Subsec. (c). Pub. L. 117–103, § 102(3), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 117–103, § 102(2), (4), redesignated subsec. (c) as (d) and substituted “subsection (a), (b), or (c)” for “either subsection (a) or (b)” and “the member” for “him”.
+
+Subsec. (e). Pub. L. 117–103, § 102(5), added subsec. (e).
+
 1987—Subsec. (a). Pub. L. 100–86, § 706(1), substituted “Except as provided in” for “Subject to”.
 
 Subsec. (b). Pub. L. 100–86, § 706(2), inserted “and enforce” after “adopt”.
@@ -4949,7 +5008,7 @@ For short title of title XVIII of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3719
 
 As used in this subchapter, the term—
 
-(1) “liquidity needs” means the needs of credit unions for—
+(1) “liquidity needs” means the needs of credit unions primarily serving natural persons for—
 
   (A) short-term adjustment credit available to assist in meeting temporary requirements for funds or to cushion more persist­ent outflows of funds pending an orderly adjustment of credit union assets and liabilities;
 
@@ -4964,9 +5023,6 @@ As used in this subchapter, the term—
 (4) “member” means a Regular or an Agent member of the Facility.
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (1)
-Pub. L. 116–136, div. A, title IV, § 4016(b)(1)(A), (2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that, effective Dec. 31, 2021, paragraph (1) of this section is amended by inserting “primarily serving natural persons” after “credit unions” in introductory provisions. See 2020 Amendment note below.
 
 #### Codification
 Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.
@@ -5020,7 +5076,7 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 
 (1) obtaining the approval of the Board;
 
-(2) subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of such credit unions as the Board may in its discretion determine which primarily serve natural persons, which are members of such credit union or of any credit union comprising such credit union group, and which are not regular members;
+(2) subscribing to the capital stock of the Facility in an amount not less than one-half of 1 per centum of the paid-in and unimpaired capital and surplus of all those credit unions which primarily serve natural persons, which are members of such credit union or of any credit union comprising such credit union group, and which are not regular members;
 
 (3) agreeing to comply with rules and regulations the Board shall prescribe with respect to, but not limited to, management quality, asset and liability safety and soundness, internal operating and control practices and procedures, and participation of natural persons in the affairs of such credit union or credit union group; and
 
@@ -5043,9 +5099,6 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 (3) The Board may terminate membership in the Facility if, after opportunity for a hearing, the Board determines a member has failed to comply with any provision of this subchapter or regulation issued pursuant thereto.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(2)
-Pub. L. 116–136, div. A, title IV, § 4016(b)(1)(B), (2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that, effective Dec. 31, 2021, subsection (b)(2) of this section is amended by striking “such credit unions as the Board may in its discretion determine” and inserting “all those credit unions”. See 2020 Amendment note below.
 
 #### Codification
 Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.
@@ -5118,7 +5171,7 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 ## § 1795g. Extensions of credit
 **(a)**
 
-(1) A member may apply for an extension of credit from the Facility to meet its liquidity needs. The Board shall approve or deny any such application within five working days after receiving it. The Board shall not approve an application for credit without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant.
+(1) A member may apply for an extension of credit from the Facility to meet its liquidity needs. The Board shall approve or deny any such application within five working days after receiving it. The Board shall not approve an application for credit the intent of which is to expand credit union portfolios.
 
 (2) The Board may advance funds to a member on terms and conditions prescribed by the Board after giving due consideration to creditworthiness.
 
@@ -5127,9 +5180,6 @@ Section effective Oct. 1, 1979, see section 1806 of Pub. L. 95–630, set out as
 **(b)** The Secretary of the Treasury is authorized to lend to the Facility up to $500,000,000, in the event the Board certifies to the Secretary that the Facility does not have sufficient funds to meet liquidity needs of credit unions. Any such loan shall bear an interest rate not greater than one-eighth of 1 per centum above the current average market yield on outstanding obligations of the United States with remaining time to maturity comparable to the maturity of such loan. The authority of the Secretary to lend under this subsection shall be limited to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(1)
-Pub. L. 116–136, div. A, title IV, § 4016(b)(1)(C), (2), Mar. 27, 2020, 134 Stat. 482, as amended by Pub. L. 116–260, div. N, title V, § 540(a)(2), Dec. 27, 2020, 134 Stat. 2090, provided that, effective Dec. 31, 2021, subsection (a)(1) of this section is amended, in the second sentence, by striking “without first having obtained evidence from the applicant that the applicant has made reasonable efforts to first use primary sources of liquidity of the applicant, including balance sheet and market funding sources, to address the liquidity needs of the applicant” and inserting “the intent of which is to expand credit union portfolios”. See 2020 Amendment note below.
 
 #### Codification
 Section 309(b)(1) of Pub. L. 96–221 redesignated subch. III as title III of act June 26, 1934, ch. 750, cited as a credit to this section.

@@ -23,7 +23,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 96–35, July 20, 1979, 93 Stat. 89, as amended, known as the Special International Security Assistance Act of 1979, which enacted this subchapter and sections 2349, 2349a, and 2349b of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This subchapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 96–35, July 20, 1979, 93 Stat. 89, known as the Special International Security Assistance Act of 1979, which enacted this subchapter and sections 2349, 2349a, and 2349b of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title
 Pub. L. 96–35, § 1, July 20, 1979, 93 Stat. 89, provided that: “This Act [enacting this subchapter and sections 2349, 2349a, and 2349b of this title] may be cited as the ‘Special International Security Assistance Act of 1979’.”
@@ -56,7 +56,7 @@ Pub. L. 96–60, title IV, § 403, Aug. 15, 1979, 93 Stat. 403, provided that: �
 ### Statutory Notes
 
 #### References in Text
-That Act, referred to in subsec. (b), means the Arms Export Control Act, Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
+That Act, referred to in subsec. (b), means the Arms Export Control Act, Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
 #### Amendments
 1981—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required annual reports respecting economic conditions in Israel and Egypt and their external debt burdens, covered in provisions respecting external debt burdens of Egypt, Israel, and Turkey in section 723 of Pub. L. 97–113, title VII, Dec. 29, 1981, 95 Stat. 1552, not classified to the Code.
@@ -70,7 +70,7 @@ There is authorized to be appropriated to the President to carry out chapter 4 o
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 
 <a id="section-3404"></a>
@@ -179,7 +179,7 @@ For short title of Pub. L. 97–132, which enacted this subchapter, as the Multi
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 6 of part II of the Foreign Assistance Act of 1961 is classified to part VI (§ 2348 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 6 of part II of the Foreign Assistance Act of 1961 is classified to part VI (§ 2348 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 Section 138 of the joint resolution entitled “Joint resolution making continuing appropriations for the fiscal year 1982, and for other purposes”, approved October 1, 1981 (Public Law 97–51), referred to in subsec. (b)(2), is section 138 of Pub. L. 97–51, Oct. 1, 1981, 95 Stat. 967, which is not classified to the Code.
 

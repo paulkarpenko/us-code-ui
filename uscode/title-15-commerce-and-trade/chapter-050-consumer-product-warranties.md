@@ -316,11 +316,11 @@ Rule 23 of the Federal Rules of Civil Procedure, referred to in subsecs. (a)(3) 
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (a)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a)(1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 The Antitrust Acts, referred to in subsec. (a)(1), are defined in [section 44 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-44).
 
-The Federal Seed Act, referred to in subsec. (a)(2), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, as amended, which is classified generally to chapter 37 (§ 1551 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1551 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1551&num=0&edition=prelim) and Tables.
+The Federal Seed Act, referred to in subsec. (a)(2), is act Aug. 9, 1939, ch. 615, 53 Stat. 1275, which is classified generally to chapter 37 (§ 1551 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1551 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1551&num=0&edition=prelim) and Tables.
 
 
 <a id="section-2312"></a>

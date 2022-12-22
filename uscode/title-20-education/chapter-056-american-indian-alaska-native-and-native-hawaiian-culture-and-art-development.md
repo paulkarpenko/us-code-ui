@@ -139,7 +139,7 @@ For the purpose of this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-4413"></a>
@@ -695,7 +695,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 ### Statutory Notes
 
 #### References in Text
-Public Law 95–341, popularly known as the American Indian Religious Freedom Act, referred to in subsec. (a)(1), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
+Public Law 95–341, popularly known as the American Indian Religious Freedom Act, referred to in subsec. (a)(1), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470aa&num=0&edition=prelim) and Tables.
 

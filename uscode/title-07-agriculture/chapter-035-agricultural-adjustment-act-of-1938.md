@@ -15,7 +15,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act, as amended.
+Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
 
 #### Amendments
 1956—Subsec. (b). Act Aug. 3, 1956, changed the period to a comma at end of first and second sentences and inserted “unless otherwise provided by appropriation or other law”.
@@ -141,7 +141,7 @@ It is declared to be the policy of Congress to continue the Soil Conservation an
 ### Statutory Notes
 
 #### References in Text
-The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590q&num=0&edition=prelim) and Tables.
+The Soil Conservation and Domestic Allotment Act, as amended, referred to in text, is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590q&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2004—Pub. L. 108–357 struck out “tobacco,” after “corn,”.
@@ -397,7 +397,7 @@ For effective date of the Agricultural Act of 1948, referred to in subsec. (a)(1
 
 The Federal Crop Insurance Act, referred to in subsec. (b)(3)(C), (6)(A), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see [section 1501 of this title](./chapter-036-crop-insurance.md#section-1501) and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim) and Tables.
 
@@ -807,7 +807,7 @@ Notwithstanding any other provision of law—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in pars. (1) and (4), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, as amended, known as the Agricultural Act of 1970. Title IV of that Act enacted [section 1334a–1 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1334a-1), amended sections 1301, 1305, 1306, 1378, 1379, 1379b, 1379c, 1379d, 1379e, 1379g, 1385, 1427, 1428, and 1445a of this title, and enacted provisions set out as notes under sections 1301, 1305, 1306, 1330 to 1334, 1335, 1336, 1338, 1339, and 1379c of this title. Title V of that Act amended [section 1444b of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1444b) and provisions set out as a note under [section 1444b of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1444b). Title VI of that Act enacted sections 1342a, 1350a, and 2119 of this title, amended sections 1305, 1344b, 1350, 1374, 1378, 1379, 1385, 1427, 1428, 1444, and 1444a of this title, and enacted provisions set out as notes under sections 1305, 1342, 1342a, 1343, 1344, 1344b, 1345, 1346, 1377, 1378, 1379, 1385, 1427, 1428, 1444, and 1446d of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+This Act, referred to in pars. (1) and (4), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, known as the Agricultural Act of 1970. Title IV of that Act enacted [section 1334a–1 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1334a-1), amended sections 1301, 1305, 1306, 1378, 1379, 1379b, 1379c, 1379d, 1379e, 1379g, 1385, 1427, 1428, and 1445a of this title, and enacted provisions set out as notes under sections 1301, 1305, 1306, 1330 to 1334, 1335, 1336, 1338, 1339, and 1379c of this title. Title V of that Act amended [section 1444b of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1444b) and provisions set out as a note under [section 1444b of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1444b). Title VI of that Act enacted sections 1342a, 1350a, and 2119 of this title, amended sections 1305, 1344b, 1350, 1374, 1378, 1379, 1385, 1427, 1428, 1444, and 1444a of this title, and enacted provisions set out as notes under sections 1305, 1342, 1342a, 1343, 1344, 1344b, 1345, 1346, 1377, 1378, 1379, 1385, 1427, 1428, 1444, and 1446d of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 The Food and Agriculture Act of 1977, referred to in par. (1), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title IV of the Food and Agriculture Act of 1977 enacted [section 1445b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1445b&num=0&edition=prelim), amended sections 1385, 1427, and 1428 of this title, and enacted provisions set out as notes under sections 1330, 1331, 1379d, 1385, 1427, 1428, 1445a, and 1445b of this title. Title V of the Food and Agriculture Act of 1977 enacted [section 1444c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1444c&num=0&edition=prelim) and enacted provisions set out as notes under sections 1444b and 1444c of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under 1281 of this title and Tables.
 
@@ -1328,7 +1328,7 @@ Notwithstanding any other provision of law:
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in subsecs. (a) and (b), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 The Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is Pub. L. 110–246, June 18, 2008, 122 Stat. 1651. Title I of the Act is classified principally to chapter 113 (§ 8701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701) and Tables.
 
@@ -1336,9 +1336,9 @@ The Agricultural Act of 2014, referred to in subsec. (a), is Pub. L. 113–79, F
 
 The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 7201 of this title](./chapter-100-agricultural-market-transition.md#section-7201) and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§ 3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§ 3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1470,7 +1470,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in subsecs. (a) and (c), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsecs. (a) and (c), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 Section 107B(d)(3)(A) of such Act, referred to in subsec. (c)(2), is section 107B(d)(3)(A) of the Agricultural Act of 1949, which was classified to [section 1445b–3a(d)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1445b–3a/d/3/A&num=0&edition=prelim) prior to repeal by Pub. L. 104–127, title I, § 171(b)(2)(D), Apr. 4, 1996, 110 Stat. 938.
 
@@ -1531,7 +1531,7 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Codification
 Section was enacted as part of the Food and Agriculture Act of 1977, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
@@ -2204,7 +2204,7 @@ If the acreage allotment for any State for any crop of wheat is twenty-five thou
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in text, is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Effective Date
 Section effective only with respect to programs applicable to crops planted for harvest in calendar year 1964 or any subsequent year and marketing years beginning in calendar year 1964, or any subsequent year, see section 323 of Pub. L. 87–703, set out as an Effective Date of 1962 Amendment note under [section 1301 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1301).
@@ -2532,7 +2532,7 @@ Section was enacted as part of the Food and Agriculture Act of 1962, and not as 
 ### Statutory Notes
 
 #### References in Text
-The wheat program under title IV of this Act, the feed grain program under title V of this Act, and the cotton program under title VI of this Act, referred to in subsec. (a), mean the programs for such crops as set out in the Agricultural Act of 1970, Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, as amended. Title IV of that Act enacted [section 1334a–1 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1334a-1), amended sections 1301, 1305, 1306, 1378, 1379, 1379b, 1379c, 1379d, 1379e, 1379g, 1385, 1427, 1428, and 1445a of this title, and enacted provisions set out as notes under sections 1301, 1305, 1306, 1330 to 1334, 1335, 1336, 1338, 1339, and 1379c of this title. Title V of that Act amended [section 1444b of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1444b) and provisions set out as a note under [section 1444b of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1444b). Title VI of that Act enacted sections 1342a, 1350a, and 2119 of this title, amended sections 1305, 1344b, 1350, 1374, 1378, 1379, 1385, 1427, 1428, 1444, and 1444a of this title, and enacted provisions set out as notes under sections 1305, 1342, 1342a, 1343, 1344, 1344b, 1345, 1346, 1377, 1378, 1379, 1385, 1427, 1428, 1444, and 1446d of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The wheat program under title IV of this Act, the feed grain program under title V of this Act, and the cotton program under title VI of this Act, referred to in subsec. (a), mean the programs for such crops as set out in the Agricultural Act of 1970, Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358. Title IV of that Act enacted [section 1334a–1 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1334a-1), amended sections 1301, 1305, 1306, 1378, 1379, 1379b, 1379c, 1379d, 1379e, 1379g, 1385, 1427, 1428, and 1445a of this title, and enacted provisions set out as notes under sections 1301, 1305, 1306, 1330 to 1334, 1335, 1336, 1338, 1339, and 1379c of this title. Title V of that Act amended [section 1444b of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1444b) and provisions set out as a note under [section 1444b of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1444b). Title VI of that Act enacted sections 1342a, 1350a, and 2119 of this title, amended sections 1305, 1344b, 1350, 1374, 1378, 1379, 1385, 1427, 1428, 1444, and 1444a of this title, and enacted provisions set out as notes under sections 1305, 1342, 1342a, 1343, 1344, 1344b, 1345, 1346, 1377, 1378, 1379, 1385, 1427, 1428, 1444, and 1446d of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Section was enacted as part of the Agricultural Act of 1970, and not as part of the Agricultural Adjustment Act of 1938 which comprises this chapter.
@@ -2880,7 +2880,7 @@ Pub. L. 91–524, title VI, § 601(1), Nov. 30, 1970, 84 Stat. 1371, as amended 
 #### References in Text
 Public Law 12, Seventy-ninth Congress, referred to in subsecs. (b), (c), (d), (f), (l), is act Feb. 28, 1945, ch. 15, 59 Stat. 9, which related to Emergency Farm Acreage Allotments. See note below. For complete classification of this Act to the Code, see Tables.
 
-The Soil Bank Act, referred to in subsec. (f)(8), is act May 28, 1956, ch. 327, 70 Stat. 188, as amended, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
+The Soil Bank Act, referred to in subsec. (f)(8), is act May 28, 1956, ch. 327, 70 Stat. 188, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
 The Food Security Act of 1985, referred to in subsec. (f)(8), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
@@ -3256,7 +3256,7 @@ Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, an
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1970, referred to in subsec. (a), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358, as amended. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Agricultural Act of 1970, referred to in subsec. (a), is Pub. L. 91–524, Nov. 30, 1970, 84 Stat. 1358. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Prior Provisions
 A prior section 1350, act Feb. 16, 1938, ch. 30, title III, § 350, 52 Stat. 60, was omitted by act Aug. 29, 1949, ch. 518, § 1, 63 Stat. 670, which amended sections 342 to 350 of act Feb. 16, 1938, ch. 30, title III, 52 Stat. 56 to 60 (sections 1342 to 1344, 1345 to 1347, and prior sections 1348 to 1350 of this title) to be sections 342 to 348 of act Feb. 16, 1938 (sections 1342 to 1344, 1345 to 1347, and a prior [section 1348 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1348)). See [section 1347 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1347).
@@ -4118,7 +4118,7 @@ The members of the review committee shall receive as compensation for their serv
 ### Statutory Notes
 
 #### References in Text
-Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act, as amended.
+Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
 
 
 <a id="section-1368"></a>
@@ -4394,7 +4394,7 @@ In any case in which, during any year beginning with 1956, the acreage planted t
 ### Statutory Notes
 
 #### References in Text
-The Soil Bank Act, referred to in text, is act May 28, 1956, ch. 327, 70 Stat. 188, as amended, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
+The Soil Bank Act, referred to in text, is act May 28, 1956, ch. 327, 70 Stat. 188, which was classified to subchapters I to III of chapter 45 (§ 1801 et seq.) of this title and was repealed by Pub. L. 89–321, title VI, § 601, Nov. 3, 1965, 79 Stat. 1206. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
 The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
@@ -5173,7 +5173,7 @@ Wool support program, application of this section to, see note set out under [se
 ### Statutory Notes
 
 #### References in Text
-Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act, as amended.
+Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
 
 #### Amendments
 1985—Subsecs. (b), (c). Pub. L. 99–198 designated existing provisions of subsec. (b) as par. (1), added par. (2), and added subsec. (c).
@@ -5205,7 +5205,7 @@ If any provision of this chapter, or the application thereof to any person or ci
 ### Statutory Notes
 
 #### References in Text
-Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act, as amended.
+Chapter 3B [§ 590a et seq.] of title 16, referred to in text, was in the original a reference to the Soil Conservation and Domestic Allotment Act.
 
 
 <a id="section-1401-to-1407"></a>

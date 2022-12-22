@@ -2,7 +2,7 @@
 title: 6
 chapter: '6'
 heading: CYBERSECURITY
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
@@ -174,11 +174,12 @@ Section was enacted as part of the William M. (Mac) Thornberry National Defense 
 Section is comprised of section 1752 of Pub. L. 116–283. Subsec. (d) of section 1752 of Pub. L. 116–283 amended [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense.
 
 #### Amendments
-2021—Subsec. (e)(1). Pub. L. 117–81, § 1552(3), added subpar. (C) and redesignated former subpars. (C) to (H) as (D) to (I), respectively.
+2021—Subsec. (e). Pub. L. 117–81, § 1552(1), (2), (4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, of par. (1) and realigned margins, and added par. (2).
 
-Pub. L. 117–81, § 1552(1), (2), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (8) as subpars. (A) to (H), respectively, of par. (1), and realigned margins.
+Subsec. (e)(1)(C) to (I). Pub. L. 117–81, § 1552(3), added subpar. (C) and redesignated former subpars. (C) to (H) (as redesignated by section 1552(1) of Pub. L. 117–81, see above) as (D) to (I), respectively.
 
-Subsec. (e)(2). Pub. L. 117–81, § 1552(4), added par. (2).
+#### Short Title of 2022 Amendment
+Pub. L. 117–260, § 1, Dec. 21, 2022, 136 Stat. 2389, provided that: “This Act [enacting [section 1526 of this title](./chapter-006-cybersecurity.md#section-1526) and provisions set out as notes under [section 1526 of this title](./chapter-006-cybersecurity.md#section-1526)] may be cited as the ‘Quantum Computing Cybersecurity Preparedness Act’.”
 
 
 <a id="section-1501"></a>
@@ -902,7 +903,7 @@ Section is comprised of section 224 of title II of div. N of Pub. L. 114–113. 
 
 <a id="section-1523"></a>
 ## § 1523. Federal cybersecurity requirements
-**(a) Implementation of Federal cybersecurity standards** Consistent with [section 3553 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3553&num=0&edition=prelim), the Secretary, in consultation with the Director, shall exercise the authority to issue binding operational directives to assist the Director in ensuring timely agency adoption of and compliance with policies and standards promulgated under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim) for securing agency information systems.
+**(a) Implementation of Federal cybersecurity standards** Consistent with [section 3553 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3553&num=0&edition=prelim), the Secretary, in consultation with the Director, shall exercise the authority to issue binding operational directives to assist the Director in ensuring timely agency adoption of and compliance with policies and standards promulgated under [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim) 11 See References in Text note below. for securing agency information systems.
 
 **(b) Cybersecurity requirements at agencies**
 
@@ -937,6 +938,11 @@ Section is comprised of section 224 of title II of div. N of Pub. L. 114–113. 
 (3) **Construction** — Nothing in this section shall be construed to alter the authority of the Secretary, the Director, or the Director of the National Institute of Standards and Technology in implementing subchapter II of chapter 35 of title 44. Nothing in this section shall be construed to affect the National Institute of Standards and Technology standards process or the requirement under section 3553(a)(4) of such title or to discourage continued improvements and advancements in the technology, standards, policies, and guidelines used to promote Federal information security.
 
 **(c) Exception** The requirements under this section shall not apply to the Department of Defense, a national security system, or an element of the intelligence community.
+
+### Statutory Notes
+
+#### References in Text
+The text of [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11331&num=0&edition=prelim), referred to in subsec. (a), was generally amended by Pub. L. 117–167, div. B, title II, § 10246(f), Aug. 9, 2022, 136 Stat. 1492, so as to provide for the prescription by the Secretary of Commerce of standards and guidelines pertaining to Federal information systems.
 
 
 <a id="section-1524"></a>
@@ -1042,6 +1048,67 @@ Subsec. (c)(1)(A)(vi). Pub. L. 115–278, § 2(h)(1)(F)(ii), substituted “sect
 2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(G)(i), substituted “[section 663 of this title](./chapter-001-homeland-security-organization.md#section-663)” for “[section 151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151&num=0&edition=prelim), as added by section 223(a)(6) of this division,”.
 
 Subsec. (b). Pub. L. 115–278, § 2(h)(1)(G)(ii), substituted “[section 663(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663/d/2&num=0&edition=prelim)” for “[section 151(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151/d/2&num=0&edition=prelim), as added by section 223(a)(6) of this division,”.
+
+
+<a id="section-1526"></a>
+## § 1526. Inventory of cryptographic systems; migration to post-quantum cryptography
+**(a) Inventory**
+
+(1) **Establishment** — Not later than 180 days after December 21, 2022, the Director of OMB, in coordination with the National Cyber Director and in consultation with the Director of CISA, shall issue guidance on the migration of information technology to post-quantum cryptography, which shall include at a minimum—
+
+  (A) a requirement for each agency to establish and maintain a current inventory of information technology in use by the agency that is vulnerable to decryption by quantum computers, prioritized using the criteria described in subparagraph (B);
+
+  (B) criteria to allow agencies to prioritize their inventory efforts; and
+
+  (C) a description of the information required to be reported pursuant to subsection (b).
+
+(2) **Additional content in guidance** — In the guidance established by paragraph (1), the Director of OMB shall include, in addition to the requirements described in that paragraph—
+
+  (A) a description of information technology to be prioritized for migration to post-quantum cryptography; and
+
+  (B) a process for evaluating progress on migrating information technology to post-quantum cryptography, which shall be automated to the greatest extent practicable.
+
+(3) **Periodic updates** — The Director of OMB shall update the guidance required under paragraph (1) as the Director of OMB determines necessary, in coordination with the National Cyber Director and in consultation with the Director of CISA.
+
+**(b) Agency reports** Not later than 1 year after December 21, 2022, and on an ongoing basis thereafter, the head of each agency shall provide to the Director of OMB, the Director of CISA, and the National Cyber Director—
+
+(1) the inventory described in subsection (a)(1); and
+
+(2) any other information required to be reported under subsection (a)(1)(C).
+
+**(c) Migration and assessment** Not later than 1 year after the date on which the Director of NIST has issued post-quantum cryptography standards, the Director of OMB shall issue guidance requiring each agency to—
+
+(1) prioritize information technology described under subsection (a)(2)(A) for migration to post-quantum cryptography; and
+
+(2) develop a plan to migrate information technology of the agency to post-quantum cryptography consistent with the prioritization under paragraph (1).
+
+**(d) Interoperability** The Director of OMB shall ensure that the prioritizations made under subsection (c)(1) are assessed and coordinated to ensure interoperability.
+
+**(e) Office of Management and Budget reports**
+
+(1) **Report on post-quantum cryptography** — Not later than 15 months after December 21, 2022, the Director of OMB, in coordination with the National Cyber Director and in consultation with the Director of CISA, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives a report on the following:
+
+  (A) A strategy to address the risk posed by the vulnerabilities of information technology of agencies to weakened encryption due to the potential and possible capability of a quantum computer to breach that encryption.
+
+  (B) An estimate of the amount of funding needed by agencies to secure the information technology described in subsection (a)(1)(A) from the risk posed by an adversary of the United States using a quantum computer to breach the encryption of the information technology.
+
+  (C) A description of Federal civilian executive branch coordination efforts led by the National Institute of Standards and Technology, including timelines, to develop standards for post-quantum cryptography, including any Federal Information Processing Standards developed under chapter 35 of title 44, as well as standards developed through voluntary, consensus standards bodies such as the International Organization for Standardization.
+
+(2) **Report on migration to post-quantum cryptography in information technology** — Not later than 1 year after the date on which the Director of OMB issues guidance under subsection (c)(2), and thereafter until the date that is 5 years after the date on which post-quantum cryptographic standards are issued, the Director of OMB, in coordination with the National Cyber Director and in consultation with the Director of CISA, shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives, with the report submitted pursuant to [section 3553(c) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3553/c&num=0&edition=prelim), a report on the progress of agencies in adopting post-quantum cryptography standards.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Quantum Computing Cybersecurity Preparedness Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+
+#### Findings; Sense of Congress
+Pub. L. 117–260, § 2, Dec. 21, 2022, 136 Stat. 2389, provided that: “(a) Findings.—Congress finds the following:“(1) Cryptography is essential for the national security of the United States and the functioning of the economy of the United States. “(2) The most widespread encryption protocols today rely on computational limits of classical computers to provide cybersecurity. “(3) Quantum computers might one day have the ability to push computational boundaries, allowing us to solve problems that have been intractable thus far, such as integer factorization, which is important for encryption. “(4) The rapid progress of quantum computing suggests the potential for adversaries of the United States to steal sensitive encrypted data today using classical computers, and wait until sufficiently powerful quantum systems are available to decrypt it. “(b) Sense of Congress.—It is the sense of Congress that—“(1) a strategy for the migration of information technology of the Federal Government to post-quantum cryptography is needed; and “(2) the governmentwide and industrywide approach to post-quantum cryptography should prioritize developing applications, hardware intellectual property, and software that can be easily updated to support cryptographic agility.”
+
+#### Exemption of National Security Systems
+Pub. L. 117–260, § 5, Dec. 21, 2022, 136 Stat. 2392, provided that: “This Act [see Short Title of 2022 Amendment note set out under [section 1500 of this title](./chapter-006-cybersecurity.md#section-1500)] shall not apply to any national security system.”
+
+#### Definitions
+Pub. L. 117–260, § 3, Dec. 21, 2022, 136 Stat. 2389, provided that: “In this Act [see Short Title of 2022 Amendment note set out under [section 1500 of this title](./chapter-006-cybersecurity.md#section-1500)]: “(1) Agency .—The term ‘agency’—“(A) means any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency; and “(B) does not include—“(i) the Government Accountability Office; or “(ii) the governments of the District of Columbia and of the territories and possessions of the United States, and their various subdivisions. “(2) Classical computer.—The term ‘classical computer’ means a device that accepts digital data and manipulates the information based on a program or sequence of instructions for how data is to be processed and encodes information in binary bits that can either be 0s or 1s. “(3) Director of cisa.—The term ‘Director of CISA’ means the Director of the Cybersecurity and Infrastructure Security Agency. “(4) Director of nist.—The term ‘Director of NIST’ means the Director of the National Institute of Standards and Technology. “(5) Director of omb.—The term ‘Director of OMB’ means the Director of the Office of Management and Budget. “(6) Information technology.—The term ‘information technology’ has the meaning given the term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), United States Code. “(7) National security system.—The term ‘national security system’ has the meaning given the term in [section 3552 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3552&num=0&edition=prelim), United States Code. “(8) Post-quantum cryptography.—The term ‘post-quantum cryptography’ means those cryptographic algorithms or methods that are assessed not to be specifically vulnerable to attack by either a quantum computer or classical computer. “(9) Quantum computer.—The term ‘quantum computer’ means a computer that uses the collective properties of quantum states, such as superposition, interference, and entanglement, to perform calculations.”
 
 
 <a id="section-1531"></a>

@@ -2,7 +2,7 @@
 title: 2
 chapter: '5'
 heading: LIBRARY OF CONGRESS
-section_count: 119
+section_count: 120
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -1083,7 +1083,7 @@ Act June 25, 1936, provided that the Supreme Court of the District of Columbia i
 <a id="section-160"></a>
 ## § 160. Disbursement of gifts, etc., to Library
 
-Nothing in sections 154 to 162 and 163 11 See References in Text note below. of this title shall be construed as prohibiting or restricting the Librarian of Congress from accepting in the name of the United States gifts or bequests in the interest of the Library, its collections, or its service, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; and (3) gifts or bequests of money for immediate disbursement. Such gifts or bequests, after acceptance by the librarian, shall be paid by the donor or his representative to the Treasurer of the United States, whose receipts shall be their acquittance. The Treasurer of the United States shall enter them in a special account to the credit of the Library of Congress and subject to disbursement by the librarian for the purposes in each case specified. The Librarian shall make an annual public report regarding gifts accepted under this section.
+Nothing in sections 154 to 162 and 163 11 See References in Text note below. of this title shall be construed as prohibiting or restricting the Librarian of Congress from accepting in the name of the United States gifts or bequests in the interest of the Library, its collections, or its service, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; (3) gifts or bequests of money for immediate disbursement; and (4) gifts or bequests of securities or other personal property. Such gifts or bequests of money, after acceptance by the librarian, shall be paid by the donor or his representative to the Treasurer of the United States, whose receipts shall be their acquittance. In the case of a gift of securities, the Librarian shall sell the gift and provide the donor with such acknowledgment as needed for the donor to substantiate the gift. The Treasurer of the United States shall enter the gift, bequest, or proceeds in a special account to the credit of the Library of Congress and subject to disbursement by the librarian for the purposes in each case specified. The Librarian shall make an annual public report regarding gifts accepted under this section.
 
 ### Statutory Notes
 
@@ -1091,9 +1091,14 @@ Nothing in sections 154 to 162 and 163 11 See References in Text note below. of 
 [Section 163 of this title](./chapter-005-library-of-congress.md#section-163), referred to in text, was omitted from the Code.
 
 #### Amendments
+2022—Pub. L. 117–103, in first paragraph, struck out “and” before “(3) gifts or bequests of money for immediate disbursement”, substituted “; and (4) gifts or bequests of securities or other personal property.” for period at end of first sentence, inserted “of money” after “Such gifts or bequests” in second sentence, inserted “In the case of a gift of securities, the Librarian shall sell the gift and provide the donor with such acknowledgment as needed for the donor to substantiate the gift.” after second sentence, and substituted “The Treasurer of the United States shall enter the gift, bequest, or proceeds” for “The Treasurer of the United States shall enter them” in penultimate sentence.
+
 2018—Pub. L. 115–141, in first paragraph, struck out “of money for immediate disbursement” after “gifts or bequests”, substituted “, of the following: (1) nonpersonal services; (2) voluntary and uncompensated personal services not to exceed $10,000 per person, per year in value; and (3) gifts or bequests of money for immediate disbursement.” for period at end of first sentence, and inserted at end “The Librarian shall make an annual public report regarding gifts accepted under this section.”
 
 1997—Pub. L. 105–55 added second par.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–103, div. I, title I, § 141(b), Mar. 15, 2022, 136 Stat. 519, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2022 and each succeeding fiscal year.”
 
 
 <a id="section-161"></a>
@@ -2889,3 +2894,27 @@ Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–178 effective Oct. 1, 2009, see section 4(d) of Pub. L. 110–178, set out as an Effective Date of Repeal note under former [section 167 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section167&num=0&edition=prelim).
+
+
+<a id="section-186"></a>
+## § 186. Library of Congress orders under task and delivery order contracts
+**(a) Contract modifications** An order issued under a task order contract or a delivery order contract (as such terms are defined in [section 4101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4101&num=0&edition=prelim)) entered into by the Librarian of Congress may not increase the scope, period, or maximum value of the contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
+
+**(b) Omitted**
+
+**(c) Protests**
+
+(1) **Protest not authorized** — A protest to an order described in subsection (a) filed pursuant to the procedures in subchapter V of chapter 35 of title 31 is not authorized unless such protest—
+
+  (A) is an objection on the basis that the order is in violation of subsection (a); or
+
+  (B) concerns an order valued in excess of $10,000,000.
+
+(2) **Jurisdiction over protests** — Notwithstanding [section 3556 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3556&num=0&edition=prelim), the Comptroller General shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
+
+**(d) Effective date** This section and the amendment made by this section shall apply with respect to fiscal year 2022 and each succeeding fiscal year.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 142 of div. I of Pub. L. 117–103. Subsec. (b) of section 142 of div. I of Pub. L. 117–103 amended [section 6102 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6102&num=0&edition=prelim), Public Contracts.

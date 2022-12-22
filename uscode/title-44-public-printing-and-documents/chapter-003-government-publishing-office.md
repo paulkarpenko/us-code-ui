@@ -8,8 +8,11 @@ source: >-
 ---
 <a id="section-301"></a>
 ## § 301. Director of the Government Publishing Office: appointment
+**(a)** The President of the United States shall nominate and, by and with the advice and consent of the Senate, appoint a suitable person to take charge of and manage the Government Publishing Office. The title shall be Director of the Government Publishing Office.
 
-The President of the United States shall nominate and, by and with the advice and consent of the Senate, appoint a suitable person to take charge of and manage the Government Publishing Office. The title shall be Director of the Government Publishing Office.
+**(b)** The Director shall be appointed for a term of 10 years.
+
+**(c)** An individual appointed to the position of Director, by and with the advice and consent of the Senate, may be reappointed to that position in accordance with subsections (a) and (b).
 
 ### Statutory Notes
 
@@ -19,6 +22,8 @@ Based on 44 U.S. Code, 1964 ed., § 31 (Jan. 12, 1895, ch. 23, § 17, 28 Stat. 6
 Changes are made in phraseology.
 
 #### Amendments
+2022—Pub. L. 117–213 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
 2014—Pub. L. 113–235, § 1301(g), struck out “, who must be a practical printer and versed in the art of bookbinding,” after “suitable person” and substituted “The” for “His”.
 
 Pub. L. 113–235, § 1301(c), substituted “Director of the Government Publishing Office” for “Public Printer” in section catchline and text.
@@ -27,6 +32,9 @@ Pub. L. 113–235, § 1301(c), substituted “Director of the Government Publish
 
 #### Change of Name
 Pub. L. 113–235, div. H, title I, § 1301(d), Dec. 16, 2014, 128 Stat. 2537, provided that: “Any reference in any law other than in title 44, United States Code, or in any rule, regulation, certificate, directive, instruction, or other official paper in force on the date of enactment of this Act [Dec. 16, 2014] to the Public Printer shall be considered to refer and apply to the Director of the Government Publishing Office.”
+
+#### Application of 2022 Amendment to Incumbent
+Pub. L. 117–213, § 1(b), Oct. 17, 2022, 136 Stat. 2251, provided that: “If there is an individual serving in the position of Director of the Government Publishing Office, by and with the advice and consent of the Senate, on the date of enactment of this Act [Oct. 17, 2022]— “(1) the amendments made by subsection (a) [amending this section] shall apply with respect to the appointment of such individual; and “(2) the term of the individual for purposes of subsection (b) of [section 301 of title 44](./chapter-003-government-publishing-office.md#section-301), United States Code, as added by subsection (a), shall be considered to have started on the date on which the individual assumed the office of Director of the Government Publishing Office.”
 
 
 <a id="section-302"></a>

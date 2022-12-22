@@ -20,6 +20,9 @@ In determining the meaning of any Act of Congress, unless the context indicates 
 
 1948—Act June 25, 1948, included “tense”, “whoever”, “signature”, “subscription”, “writing” and a broader definition of “person”.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–228, § 1, Dec. 13, 2022, 136 Stat. 2305, provided that: “This Act [enacting [section 1738C of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1738C&num=0&edition=prelim), Judiciary and Judicial Procedure, amending [section 7 of this title](./chapter-001-rules-of-construction.md#section-7), repealing [section 1738C of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1738C&num=0&edition=prelim), and enacting provisions set out as notes under [section 7 of this title](./chapter-001-rules-of-construction.md#section-7)] may be cited as the ‘Respect for Marriage Act’.”
+
 #### Short Title of 2012 Amendment
 Pub. L. 112–231, § 1, Dec. 28, 2012, 126 Stat. 1619, provided that: “This Act [amending this section and sections 92a, 215, and 215a of Title 12, Banks and Banking] may be cited as the ‘21st Century Language Act of 2012’.”
 
@@ -28,6 +31,12 @@ Pub. L. 107–207, § 1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act
 
 #### Short Title of 1996 Amendment
 Pub. L. 104–199, § 1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act [enacting [section 7 of this title](./chapter-001-rules-of-construction.md#section-7) and [section 1738C of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1738C&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Defense of Marriage Act’.”
+
+#### References in Pub. L. 117–229
+Pub. L. 117–229, § 3, Dec. 16, 2022, 136 Stat. 2308, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Further Continuing Appropriations and Extensions Act, 2023, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 117–103
+Pub. L. 117–103, § 3, Mar. 15, 2022, 136 Stat. 51, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Consolidated Appropriations Act, 2022, see Tables for classification] shall be treated as referring only to the provisions of that division.”
 
 #### References in Pub. L. 117–58
 Pub. L. 117–58, § 2, Nov. 15, 2021, 135 Stat. 442, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Infrastructure Investment and Jobs Act, see Tables for classification] shall be treated as referring only to the provisions of that division.”
@@ -178,14 +187,29 @@ Wherever, in the statutes of the United States or in the rulings, regulations, o
 
 
 <a id="section-7"></a>
-## § 7. Definition of “marriage” and “spouse”
+## § 7. Marriage
+**(a)** For the purposes of any Federal law, rule, or regulation in which marital status is a factor, an individual shall be considered married if that individual’s marriage is between 2 individuals and is valid in the State where the marriage was entered into or, in the case of a marriage entered into outside any State, if the marriage is between 2 individuals and is valid in the place where entered into and the marriage could have been entered into in a State.
 
-In determining the meaning of any Act of Congress, or of any ruling, regulation, or interpretation of the various administrative bureaus and agencies of the United States, the word “marriage” means only a legal union between one man and one woman as husband and wife, and the word “spouse” refers only to a person of the opposite sex who is a husband or a wife.
+**(b)** In this section, the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, or any other territory or possession of the United States.
+
+**(c)** For purposes of subsection (a), in determining whether a marriage is valid in a State or the place where entered into, if outside of any State, only the law of the jurisdiction applicable at the time the marriage was entered into may be considered.
 
 ### Statutory Notes
 
-#### Constitutionality
-For information regarding constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+#### Amendments
+2022—Pub. L. 117–228 amended section generally. Prior to amendment, text read as follows: “In determining the meaning of any Act of Congress, or of any ruling, regulation, or interpretation of the various administrative bureaus and agencies of the United States, the word ‘marriage’ means only a legal union between one man and one woman as husband and wife, and the word ‘spouse’ refers only to a person of the opposite sex who is a husband or a wife.”
+
+#### Severability
+Pub. L. 117–228, § 8, Dec. 13, 2022, 136 Stat. 2307, provided that: “If any provision of this Act [see Short Title of 2022 Amendment note set out under [section 1 of this title](./chapter-001-rules-of-construction.md#section-1)], or any amendment made by this Act, or the application of such provision to any person, entity, government, or circumstance, is held to be unconstitutional, the remainder of this Act, or any amendment made thereby, or the application of such provision to all other persons, entities, governments, or circumstances, shall not be affected thereby.”
+
+#### Findings
+Pub. L. 117–228, § 2, Dec. 13, 2022, 136 Stat. 2305, provided that: “Congress finds the following: “(1) No union is more profound than marriage, for it embodies the highest ideals of love, fidelity, devotion, sacrifice, and family. “(2) Diverse beliefs about the role of gender in marriage are held by reasonable and sincere people based on decent and honorable religious or philosophical premises. Therefore, Congress affirms that such people and their diverse beliefs are due proper respect. “(3) Millions of people, including interracial and same-sex couples, have entered into marriages and have enjoyed the rights and privileges associated with marriage. Couples joining in marriage deserve to have the dignity, stability, and ongoing protection that marriage affords to families and children.”
+
+#### No Impact on Religious Liberty and Conscience
+Pub. L. 117–228, § 6, Dec. 13, 2022, 136 Stat. 2306, provided that: “(a) In General.—Nothing in this Act [see Short Title of 2022 Amendment note set out under [section 1 of this title](./chapter-001-rules-of-construction.md#section-1)], or any amendment made by this Act, shall be construed to diminish or abrogate a religious liberty or conscience protection otherwise available to an individual or organization under the Constitution of the United States or Federal law. “(b) Goods or Services.—Consistent with the First Amendment to the Constitution, nonprofit religious organizations, including churches, mosques, synagogues, temples, nondenominational ministries, interdenominational and ecumenical organizations, mission organizations, faith-based social agencies, religious educational institutions, and nonprofit entities whose principal purpose is the study, practice, or advancement of religion, and any employee of such an organization, shall not be required to provide services, accommodations, advantages, facilities, goods, or privileges for the solemnization or celebration of a marriage. Any refusal under this subsection to provide such services, accommodations, advantages, facilities, goods, or privileges shall not create any civil claim or cause of action.”
+
+#### Statutory Prohibition
+Pub. L. 117–228, § 7, Dec. 13, 2022, 136 Stat. 2306, provided that: “(a) No Impact on Status and Benefits Not Arising From a Marriage.—Nothing in this Act [see Short Title of 2022 Amendment note set out under [section 1 of this title](./chapter-001-rules-of-construction.md#section-1)], or any amendment made by this Act, shall be construed to deny or alter any benefit, status, or right of an otherwise eligible entity or person which does not arise from a marriage, including tax-exempt status, tax treatment, educational funding, or a grant, contract, agreement, guarantee, loan, scholarship, license, certification, accreditation, claim, or defense. “(b) No Federal Recognition of Polygamous Marriages.—Nothing in this Act, or any amendment made by this Act, shall be construed to require or authorize Federal recognition of marriages between more than 2 individuals.”
 
 
 <a id="section-8"></a>

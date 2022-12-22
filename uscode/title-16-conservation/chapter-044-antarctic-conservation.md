@@ -163,7 +163,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 ### Statutory Notes
 
 #### References in Text
-The Act to Prevent Pollution from Ships, referred to in subsecs. (a)(5) and (b)(1), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901&num=0&edition=prelim) and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsecs. (a)(5) and (b)(1), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General”, which set forth unlawful acts in pars. (1) to (4) and provided that such acts would not be unlawful if committed under emergency circumstances to prevent the loss of human life, and subsec. (b) “Exception”, which provided that subsec. (a) would not apply with respect to any native mammal, native bird, or native plant held in captivity or to any offspring of such mammal, bird, or plant.
@@ -235,7 +235,7 @@ The Act to Prevent Pollution from Ships, referred to in subsecs. (a)(5) and (b)(
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-2404"></a>
@@ -336,9 +336,9 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A),
 #### References in Text
 [Section 1362(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1362/5&num=0&edition=prelim), referred to in subsec. (c)(1)(A), was redesignated section 1362(6) by Pub. L. 102–582, title IV, § 401(a), Nov. 2, 1992, 106 Stat. 4909.
 
-The Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), referred to in subsec. (c)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.), referred to in subsec. (c)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Migratory Bird Treaty Act ([16 U.S.C. 701](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-701) et seq.), referred to in subsec. (c)(1)(C), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act ([16 U.S.C. 701](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-701) et seq.), referred to in subsec. (c)(1)(C), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
 #### Amendments
 1996—Subsec. (a). Pub. L. 104–227, § 105(1), substituted “section 2403(b)” for “section 2403(a)”.
@@ -396,7 +396,7 @@ Subsec. (e)(2)(C), (D). Pub. L. 104–227, § 105(3)(H), in subsec. (e) relating
 ### Statutory Notes
 
 #### References in Text
-The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901&num=0&edition=prelim) and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (b), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to chapter 33 (§ 1901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–227 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsec. (a) “In General” which related to requirement that Director prescribe regulations to implement this chapter and subsec. (b) “Specific Regulations” which related to required content of regulations.
@@ -424,11 +424,11 @@ The Secretary of State shall prescribe such regulations as may be necessary and 
 ### Statutory Notes
 
 #### References in Text
-The Marine Mammal Protection Act of 1972, referred to in subsec. (d), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (d), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (d), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (d), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Migratory Bird Treaty Act, referred to in subsec. (d), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act, referred to in subsec. (d), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
 
 <a id="section-2408"></a>
@@ -442,11 +442,11 @@ The Migratory Bird Treaty Act, referred to in subsec. (d), is act July 3, 1918, 
 ### Statutory Notes
 
 #### References in Text
-The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (c), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (c), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Migratory Bird Treaty Act, referred to in subsec. (c), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act, referred to in subsec. (c), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
 
 <a id="section-2409"></a>

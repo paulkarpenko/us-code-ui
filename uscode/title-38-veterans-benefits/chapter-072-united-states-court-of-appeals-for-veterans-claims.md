@@ -530,7 +530,7 @@ Pub. L. 101–94, title II, § 203, Aug. 16, 1989, 103 Stat. 627, provided that 
 
 <a id="section-7266"></a>
 ## § 7266. Notice of appeal
-**(a)** In order to obtain review by the Court of Appeals for Veterans Claims of a final decision of the Board of Veterans’ Appeals, a person adversely affected by such decision shall file a notice of appeal with the Court within 120 days after the date on which notice of the decision is mailed pursuant to [section 7104(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7104/e&num=0&edition=prelim).
+**(a)** In order to obtain review by the Court of Appeals for Veterans Claims of a final decision of the Board of Veterans’ Appeals, a person adversely affected by such decision shall file a notice of appeal with the Court within 120 days after the date on which notice of the decision is issued pursuant to [section 7104(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7104/e&num=0&edition=prelim).
 
 **(b)** An appellant shall file a notice of appeal under this section by delivering or mailing the notice to the Court.
 
@@ -545,6 +545,8 @@ Pub. L. 101–94, title II, § 203, Aug. 16, 1989, 103 Stat. 627, provided that 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–168 substituted “issued” for “mailed”.
+
 2001—Pub. L. 107–103 struck out “(1)” before “In order to”, redesignated par. (2) of subsec. (a) as subsec. (b), redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted “subsection (c)(2)” for “paragraph (3)(B)”, and struck out former subsec. (b) which read as follows: “The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section.”
 
 1998—Subsec. (a)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
@@ -562,6 +564,9 @@ Amendment by Pub. L. 105–368 effective on first day of first month beginning m
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–446, title V, § 511(b), Nov. 2, 1994, 108 Stat. 4670, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Nov. 2, 1994] and shall apply to notices of appeal that are delivered or mailed to the United States Court of Veterans Appeals [now United States Court of Appeals for Veterans Claims] on or after that date.”
+
+#### Rule of Construction
+Amendment by Pub. L. 117–168 not to be construed to apply [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5104/a&num=0&edition=prelim) to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under [section 5100 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5100).
 
 #### Interim Provision for Filing Notices of Appeal
 Pub. L. 101–94, title II, § 202, Aug. 16, 1989, 103 Stat. 626, provided that in the case of a person adversely affected by a final decision of the Board of Veterans’ Appeals that was made before the date on which the United States Court of Veterans Appeals published in the Federal Register a notice by the Court that it had commenced operations, the period prescribed under this section within which a notice of appeal had to be filed with the Court was to be extended to the end of the 30-day period beginning on the date such notice was published, if the end of that period was later than the date that would otherwise be applicable under this section.

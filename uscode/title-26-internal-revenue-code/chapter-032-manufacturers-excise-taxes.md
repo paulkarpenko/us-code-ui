@@ -1364,7 +1364,7 @@ Section effective Jan. 1, 1994, see section 13242(e) of Pub. L. 103–66, set ou
 ## § 4101. Registration and bond
 **(a) Registration**
 
-(1) **In general** — Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
+(1) **In general** — Every person required by the Secretary to register under this section with respect to the tax imposed by section 4041(a) or 4081, every person producing or importing biodiesel (as defined in section 40A(d)(1)) or alcohol (as defined in section 6426(b)(4)(A)), every person producing or importing sustainable aviation fuel (as defined in section 40B), and every person producing second generation biofuel (as defined in section 40(b)(6)(E)) shall register with the Secretary at such time, in such form and manner, and subject to such terms and conditions, as the Secretary may by regulations prescribe. A registration under this section may be used only in accordance with regulations prescribed under this section.
 
 (2) **Registration of persons within foreign trade zones, etc.** — The Secretary shall require registration by any person which—
 
@@ -1408,10 +1408,17 @@ Any person who is required to report under this subsection and who has 25 or mor
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(1)
+Pub. L. 117–169, title I, § 13704(b)(5), (c), Aug. 16, 2022, 136 Stat. 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (a)(1) of this section is amended by inserting “every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z),” after “section 6426(k)(3)),”. See 2022 Amendment note below.
+
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–169, § 13704(b)(5), which directed insertion of “every person producing a fuel eligible for the clean fuel production credit (pursuant to section 45Z),” after “section 6426(k)(3)),”, was executed by making the insertion after “section 40B),” as inserted by section 13203(d)(2)(C) of Pub. L. 117–169, to reflect the probable intent of Congress. See note below. A prior version of such amendment by section 13203(d)(2)(C) contained text that read “(as defined in section 40B or section 6426(k)(3)),”, but the reference to section 6426(k)(3) did not appear in the enacted version.
+
+Pub. L. 117–169, § 13203(d)(2)(C), inserted “every person producing or importing sustainable aviation fuel (as defined in section 40B),” before “and every person producing second generation biofuel”.
+
 2013—Subsec. (a)(1). Pub. L. 112–240 substituted “second generation biofuel” for “cellulosic biofuel”.
 
 2008—Subsec. (a)(1). Pub. L. 110–246, § 15321(b)(3)(A), substituted “, every person producing or importing” for “and every person producing or importing” and inserted “, and every person producing cellulosic biofuel (as defined in section 40(b)(6)(E))” before “shall register”.
@@ -1461,6 +1468,11 @@ Subsec. (d). Pub. L. 108–357, § 864(a), inserted concluding provisions.
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 1965—Pub. L. 89–44 struck out all references to a bond to be given and its terms and requirements.
+
+#### Effective Date of 2022 Amendment
+Amendment by section 13203(d)(2)(C) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2022, see section 13203(f) of Pub. L. 117–169, set out as an Effective Date note under [section 40B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40b).
+
+Amendment by section 13704(b)(5) of Pub. L. 117–169 applicable to transportation fuel produced after Dec. 31, 2024, see section 13704(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45Z of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45z).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 applicable to fuels sold or used after Jan. 2, 2013, see section 404(b)(4) of Pub. L. 112–240, set out as a note under [section 40 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40).
@@ -1645,32 +1657,14 @@ Pub. L. 108–357, title VIII, § 866(c), Oct. 22, 2004, 118 Stat. 1622, provide
 
 (4) **Ton** — The term “ton” means 2,000 pounds.
 
-**(e) Reduction in amount of tax**
-
-(1) **In general** — Effective with respect to sales after the temporary increase termination date, subsection (b) shall be applied—
-
-  (A) by substituting “$.50” for “$1.10”,
-
-  (B) by substituting “$.25” for “$.55”, and
-
-  (C) by substituting “2 percent” for “4.4 percent”.
-
-(2) **Temporary increase termination date** — For purposes of paragraph (1), the temporary increase termination date is the earlier of—
-
-  (A) December 31, 2021, or
-
-  (B) the first December 31 after 2007 as of which there is—
-
-    (i) no balance of repayable advances made to the Black Lung Disability Trust Fund, and
-
-    (ii) no unpaid interest on such advances.
-
 ### Statutory Notes
 
 #### Prior Provisions
 For prior section 4121, see Prior Provisions note set out preceding this section.
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–169 struck out subsec. (e) which related to reduction in amount of tax.
+
 2020—Subsec. (e)(2)(A). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (e)(2)(A). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2018”.
@@ -1702,6 +1696,9 @@ Subsec. (e). Pub. L. 99–272, § 13203(c), substituted “Reduction in amount o
 “(B) subsection (b) shall be applied by substituting ‘4 percent’ for ‘2 percent’.”
 
 1981—Subsec. (e). Pub. L. 97–119 added subsec. (e).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13901(b), Aug. 16, 2022, 136 Stat. 2013, provided that: “The amendment made by this section [amending this section] shall apply to sales in calendar quarters beginning after the date which is 1 day after the date of enactment of this Act [Aug. 16, 2022].”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 149(b), Dec. 27, 2020, 134 Stat. 3056, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 2020.”

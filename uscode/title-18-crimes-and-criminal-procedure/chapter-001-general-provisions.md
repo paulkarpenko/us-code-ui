@@ -16,6 +16,23 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 #### Effective Date of Repeal
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–229, div. B, title I, § 103(a), Dec. 16, 2022, 136 Stat. 2309, provided that: “This section [enacting provisions set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551)] may be cited as the ‘United States Parole Commission Further Extension Act of 2022’.”
+
+Pub. L. 117–180, div. C, title I, § 103(a), Sept. 30, 2022, 136 Stat. 2133, provided that: “This section [enacting provisions set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551)] may be cited as the ‘United States Parole Commission Extension Act of 2022’.”
+
+Pub. L. 117–176, § 1, Sept. 16, 2022, 136 Stat. 2108, provided that: “This Act [amending [section 2255 of this title](./chapter-110-sexual-exploitation-and-other-abuse-of-children.md#section-2255) and enacting provisions set out as a note under [section 2255 of this title](./chapter-110-sexual-exploitation-and-other-abuse-of-children.md#section-2255)] may be cited as the ‘Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2022’.”
+
+Pub. L. 117–159, § 3(a), June 25, 2022, 136 Stat. 1313, provided that: “This Act [see Tables for classification] may be cited as the ‘Bipartisan Safer Communities Act’.”
+
+Pub. L. 117–107, § 1, Mar. 29, 2022, 136 Stat. 1125, provided that: “This Act [amending [section 249 of this title](./chapter-013-civil-rights.md#section-249)] may be cited as the ‘Emmett Till Antilynching Act’.”
+
+Pub. L. 117–103, div. W, title X, § 1001(a), Mar. 15, 2022, 136 Stat. 912, provided that: “This section [enacting [section 4051 of this title](./chapter-303-bureau-of-prisons.md#section-4051), amending [section 3621 of this title](./chapter-229-postsentence-administration.md#section-3621), and enacting provisions set out as a note under [section 3621 of this title](./chapter-229-postsentence-administration.md#section-3621)] may be cited as the ‘Ramona Brant Improvement of Conditions for Women in Federal Custody Act’.”
+
+Pub. L. 117–103, div. W, title XI, § 1101(a), Mar. 15, 2022, 136 Stat. 919, provided that: “This section [enacting [section 925B of this title](./chapter-044-firearms.md#section-925b) and amending [section 921 of this title](./chapter-044-firearms.md#section-921)] may be cited as the ‘NICS Denial Notification Act of 2022’.”
+
+Pub. L. 117–103, div. W, title XII, § 1201, Mar. 15, 2022, 136 Stat. 923, provided that: “This title [enacting [section 250 of this title](./chapter-013-civil-rights.md#section-250) and [section 60106 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60106&num=0&edition=prelim), Crime Control and Law Enforcement, amending sections 2242 to 2244 and 2246 of this title, and enacting provisions set out as notes under [section 60106 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60106&num=0&edition=prelim)] may be cited as the ‘Closing the Law Enforcement Consent Loophole Act of 2022’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 117–59, § 1, Nov. 18, 2021, 135 Stat. 1468, provided that: “This Act [amending sections 111, 115, and 1114 of this title and enacting provisions set out as a note under [section 1114 of this title](./chapter-051-homicide.md#section-1114)] may be cited as the ‘Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act’.”
 
@@ -208,6 +225,9 @@ Pub. L. 99–646, § 1, Nov. 10, 1986, 100 Stat. 3592, provided that: “This Ac
 
 #### Short Title of 1984 Amendment
 Pub. L. 98–473, title II, § 200, Oct. 12, 1984, 98 Stat. 1976, provided that: “This title [see Tables for classification] may be cited as the ‘Comprehensive Crime Control Act of 1984’.”
+
+#### Short Title of 1974 Amendment
+Pub. L. 93–412, § 1, Sept. 3, 1974, 88 Stat. 1089, provided: “That this Act [amending [section 3006A of this title](./chapter-201-general-provisions.md#section-3006a) and enacting provisions set out as a note under [section 3006A of this title](./chapter-201-general-provisions.md#section-3006a)] may be cited as the ‘District of Columbia Criminal Justice Act’.”
 
 #### Severability
 Pub. L. 108–21, § 2, Apr. 30, 2003, 117 Stat. 651, provided that: “If any provision of this Act [see Tables for classification], or the application of such provision to any person or circumstance, is held invalid, the remainder of this Act, and the application of such provision to other persons not similarly situated or to other circumstances, shall not be affected by such invalidation.”
@@ -562,7 +582,7 @@ The term “crime of violence” means—
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of this section, as added by section 1001(a) of Pub. L. 98–473, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of this section, as added by section 1001(a) of Pub. L. 98–473, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 
 <a id="section-17"></a>

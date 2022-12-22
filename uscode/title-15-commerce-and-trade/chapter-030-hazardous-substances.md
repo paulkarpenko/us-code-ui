@@ -97,7 +97,7 @@ For definition of Canal Zone, referred to in subsec. (a), see [section 3602(b) o
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (f)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 The Atomic Energy Act of 1954, as amended, referred to in subsec. (f)(3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
@@ -369,7 +369,7 @@ The following acts and the causing thereof are prohibited:
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2008—Subsec. (h). Pub. L. 110–314, § 204(b)(4)(B), (C), substituted “Commission or officers or employees of the Commission” for “Secretary or officers or employees of the Department”.
@@ -783,7 +783,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
-The Federal Hazardous Substances Act, referred to in subsec. (b), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1261 of this title](./chapter-030-hazardous-substances.md#section-1261) and Tables.
+The Federal Hazardous Substances Act, referred to in subsec. (b), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1261 of this title](./chapter-030-hazardous-substances.md#section-1261) and Tables.
 
 #### Amendments
 2008—Pub. L. 110–314, which directed the substitution of “Commission” for “Consumer Product Safety Commission” in this section, was executed by making the substitution in subsec. (a), before “shall transmit”, but not in subsec. (b)(1), to reflect the probable intent of Congress.
@@ -842,7 +842,7 @@ Section applicable with respect to consumer product safety rules under chapter 4
 #### References in Text
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(1), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 100–695 enacted section 23 of Pub. L. 86–613, classified to this section, without a prior enactment of a section 22 of Pub. L. 86–613.

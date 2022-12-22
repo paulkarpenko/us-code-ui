@@ -33,6 +33,9 @@ source: >-
 #### Prior Provisions
 A prior section 40501, Pub. L. 106–177, title II, § 202, Mar. 10, 2000, 114 Stat. 36, authorized Attorney General to provide grant awards to States to enable States to improve the reporting of unidentified and missing persons, prior to repeal by Pub. L. 116–277, § 2(a)(1), Dec. 31, 2020, 134 Stat. 3368. Such section was formerly classified to [section 14661 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14661&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as section 40501.
 
+#### Short Title
+For short title of title II of Pub. L. 106–177, which is classified to this chapter, as “Jennifer’s Law”, see section 201 of Pub. L. 106–177, set out as a Short Title of 2000 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-40502"></a>
 ## § 40502. Eligibility

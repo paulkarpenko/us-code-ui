@@ -244,7 +244,11 @@ Pub. L. 116–94, div. G, title I, Dec. 20, 2019, 133 Stat. 2822, provided in pa
 
 (1) **In general** — The Chief Executive Officer may not award any grant under subsection (a) to RFE/RL, Inc., Radio Free Asia, the Middle East Broadcasting Networks, the Open Technology Fund, or any other grantee authorized under this chapter (collectively referred to as “Agency Grantee Networks”) unless the incorporation documents of any such grantee require that the corporate leadership and Board of Directors of such grantee be selected in accordance with this chapter.
 
-(2) **Conflicts of interest** — The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
+(2) **Conflicts of interest**
+
+  (A) *Chief Executive Officer* — The Chief Executive Officer may not serve on any of the corporate boards of any grantee under subsection (a).
+
+  (B) *Federal employees* — A full-time employee of a Federal agency may not serve on a corporate board of any grantee under subsection (a).
 
 (3) **Qualifications of grantee board members** — Individuals appointed under subsection (a) to the Board of Directors of any of the Agency Grantee Networks shall have requisite expertise in journalism, technology, broadcasting, or diplomacy, or appropriate language or cultural understanding relevant to the grantee’s mission.
 
@@ -253,13 +257,13 @@ Pub. L. 116–94, div. G, title I, Dec. 20, 2019, 133 Stat. 2822, provided in pa
 #### References in Text
 This chapter, referred to in subsecs. (a)(1), (9), (17), (18) and (c)(1) the first place appearing, was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) and Tables.
+The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, which is classified generally to subchapter V–A (§ 1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) and Tables.
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
 
 This chapter, referred to in subsecs. (a)(5), (14), (21) and (c)(1) the second place appearing, was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
+The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
 
 Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17), which was set out under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461), was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1336(6), Oct. 21, 1998, 112 Stat. 2681–790.
 
@@ -589,9 +593,9 @@ This chapter, referred to in subsecs. (a)(2) and (e), was in the original “thi
 
 The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
 
-The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, as amended, which was classified generally to chapter 43 (§ 2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, § 310(e), Apr. 30, 1994, 108 Stat. 442. See [section 6209(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6209/e&num=0&edition=prelim).
+The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, which was classified generally to chapter 43 (§ 2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, § 310(e), Apr. 30, 1994, 108 Stat. 442. See [section 6209(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6209/e&num=0&edition=prelim).
 
-The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Pub. L. 116–283, div. A, title XII, § 1299Q(e)(3), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
@@ -1070,11 +1074,11 @@ This chapter, referred to in text, was in the original “this title”, meaning
 ### Statutory Notes
 
 #### References in Text
-The United States Information and Educational Exchange Act of 1948, referred to in subsec. (c), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431), and Tables.
+The United States Information and Educational Exchange Act of 1948, referred to in subsec. (c), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431), and Tables.
 
-The United States International Broadcasting Act of 1994, referred to in subsec. (c), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+The United States International Broadcasting Act of 1994, referred to in subsec. (c), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-The Foreign Affairs Reform and Restructuring Act of 1998, referred to in subsec. (c), is division G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–761, as amended. For complete classification of division G to the Code, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501) and Tables.
+The Foreign Affairs Reform and Restructuring Act of 1998, referred to in subsec. (c), is division G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–761, For complete classification of division G to the Code, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501) and Tables.
 
 #### Codification
 Section was enacted as part of the Radio Free Afghanistan Act, and not as part of the United States International Broadcasting Act of 1994 which comprises this chapter.

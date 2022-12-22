@@ -2,7 +2,7 @@
 title: 42
 chapter: '84'
 heading: DEPARTMENT OF ENERGY
-section_count: 233
+section_count: 235
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -50,7 +50,7 @@ Section 7386k related to funds available for all national security programs of t
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (b), and (c), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (a), (b), and (c), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 1997 Amendment
 Pub. L. 105–28, § 1, July 18, 1997, 111 Stat. 245, provided that: “This Act [amending sections 7191 and 7234 of this title and repealing [section 776 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section776&num=0&edition=prelim), Commerce and Trade] may be cited as the ‘Department of Energy Standardization Act of 1997’.”
@@ -70,7 +70,7 @@ For short title of subtitle D of title XXXI of div. C of Pub. L. 106–65, which
 For short title of section 1 [div. C, title XXXVI] of Pub. L. 106–398, which enacted subchapter XVI of this chapter, as the “Energy Employees Occupational Illness Compensation Program Act of 2000”, see section 1 [div. C, title XXXVI, § 3601] of Pub. L. 106–398, set out as a note under [section 7384 of this title](./chapter-084-department-of-energy.md#section-7384).
 
 #### Executive Order No. 12083
-Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, as amended by Ex. Ord. No. 12121, Feb. 26, 1979, 44 F.R. 11195; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Energy Coordinating Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 20, Aug. 17, 1982, 47 F.R. 36100, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, as amended by Ex. Ord. No. 12121, Feb. 26, 1979, 44 F.R. 11195; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Energy Coordinating Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 20, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-7112"></a>
@@ -168,7 +168,7 @@ There is established at the seat of government an executive department to be kno
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the Department of Energy, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(4), 183(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -579,14 +579,42 @@ Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–
 
 **(c) Mission** The mission of the Office of Science shall be the delivery of scientific discoveries, capabilities, and major scientific tools to transform the understanding of nature and to advance the energy, economic, and national security of the United States.
 
+**(d) User facilities** The Director shall carry out the construction, operation, and maintenance of user facilities to support the mission described in subsection (c). As practicable, these facilities shall serve the needs of the Department, industry, the academic community, and other relevant entities for the purposes of advancing the missions of the Department, improving the competitiveness of the United States, protecting public health and safety, and addressing other national priorities including emergencies.
+
+**(e) Coordination**
+
+(1) **In general** — The Secretary—
+
+  (A) shall ensure the coordination of the Office of Science with the other activities of the Department, including the transfer of knowledge, capabilities, and relevant technologies from basic research programs of the Department to applied research and development programs of the Department for the purpose of enabling development of mission-relevant technologies;
+
+  (B) shall support joint activities among the programs of the Department;
+
+  (C) shall coordinate with other relevant Federal agencies operating under existing authorizations relating to subjects relating to the mission described in subsection (c) in supporting advancements in related research areas as appropriate; and
+
+  (D) may form partnerships to enhance the utilization of and ensure access to user facilities by other Federal agencies.
+
+(2) **Office of Science** — The Director—
+
+  (A) shall ensure the coordination of programs and activities carried out by the Office of Science; and
+
+  (B) shall direct all programs which have not recently completed a future planning roadmap consistent with the funding of such programs authorized under the Research and Development, Competition, and Innovation Act to complete such a roadmap.
+
 ### Statutory Notes
 
+#### References in Text
+The Research and Development, Competition, and Innovation Act, referred to in subsec. (e)(2)(B), is div. B of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1399, which is enacted chapter 163 (§ 18901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 18901 of this title](./chapter-163-research-and-development-competition-and-innovation.md#section-18901) and Tables.
+
 #### Amendments
+2022—Subsecs. (d), (e). Pub. L. 117–167 added subsecs. (d) and (e).
+
 2018—Subsec. (c). Pub. L. 115–246 added subsec. (c).
 
 2005—Subsec. (b)(6). Pub. L. 109–58 added par. (6) and struck out former par. (6) which read as follows: “to carry out such additional duties assigned to the Office by the Secretary relating to basic and applied research, including but not limited to supervision or support of research activities carried out by any of the Assistant Secretaries designated by [section 7133 of this title](./chapter-084-department-of-energy.md#section-7133), as the Secretary considers advantageous.”
 
 1998—Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research” in section catchline and in subsec. (a).
+
+#### Advisory Committees to the Office of Science
+Pub. L. 117–167, div. B, title I, § 10113(f), Aug. 9, 2022, 136 Stat. 1468, provided that: “In order to improve the advice and guidance provided to the Office of Science, the Undersecretary for Science shall seek to ensure, to the maximum extent practicable, the robust participation of institutions of higher education (as defined in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim))) located in eligible jurisdictions (as defined in section 2203(b)(3)(A) of the Energy Policy Act of 1992 ([42 U.S.C. 13503(b)(3)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13503/b/3/A&num=0&edition=prelim))) on the Office of Science Federal Advisory Committee.”
 
 
 <a id="section-7141"></a>
@@ -919,7 +947,7 @@ Section was enacted as part of the Floyd D. Spence National Defense Authorizatio
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 
 <a id="section-7151a"></a>
@@ -931,7 +959,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 #### Emergency Preparedness Functions
 For assignment of certain emergency preparedness functions to the Secretary of Energy, see Parts 1, 2, and 7 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195).
@@ -947,7 +975,7 @@ Section 1. Functions of the Federal Energy Administration. In accordance with th
 
 (b) Executive Order No. 11790 of June 25, 1974 [set out as a note under [15 U.S.C. 761](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim)], relating to the Federal Energy Administration Act of 1974, is amended by deleting “Administrator of the Federal Energy Administration” and “Administrator” wherever they appear in Sections 1 through 6 and substituting “Secretary of Energy” and “Secretary”, respectively, and by deleting Section 7 through 10.
 
-(c) Executive Order No. 11912, as amended [set out as a note under [42 U.S.C. 6201](./chapter-077-energy-conservation.md#section-6201)], relating to energy policy and conservation, and Proclamation No. 3279, as amended [set out as a note under [19 U.S.C. 1862](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1862&num=0&edition=prelim)], relating to imports of petroleum and petroleum products, are further amended by deleting “Administrator of the Federal Energy Administration”, “Federal Energy Administration”, and “Administrator” (when used in reference to the Federal Energy Administration) wherever those terms appear and by substituting “Secretary of Energy”, “Department of Energy”, and “Secretary”, respectively, and by deleting “the Administrator of Energy Research and Development” in Section 10(a)(1) of Executive Order No. 11912, as amended.
+(c) Executive Order No. 11912, as amended [set out as a note under [42 U.S.C. 6201](./chapter-077-energy-conservation.md#section-6201)], relating to energy policy and conservation, and Proclamation No. 3279, as amended [formerly set out as a note under [19 U.S.C. 1862](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1862&num=0&edition=prelim)], relating to imports of petroleum and petroleum products, are further amended by deleting “Administrator of the Federal Energy Administration”, “Federal Energy Administration”, and “Administrator” (when used in reference to the Federal Energy Administration) wherever those terms appear and by substituting “Secretary of Energy”, “Department of Energy”, and “Secretary”, respectively, and by deleting “the Administrator of Energy Research and Development” in Section 10(a)(1) of Executive Order No. 11912, as amended.
 
 Sec. 2. Functions of the Federal Power Commission. In accordance with the transfer of functions vested in the Federal Power Commission to the Secretary of Energy pursuant to Section 301(b) of the Act [subsec. (b) of this section], the Executive Orders referred to in this Section, which conferred authority or responsibility upon the Federal Power Commission, or Chairman thereof, are amended or modified as follows:
 
@@ -1048,15 +1076,15 @@ Section was enacted as part of the Department of Energy Act of 1978—Civilian A
 ### Statutory Notes
 
 #### References in Text
-The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§ 832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 832 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section832&num=0&edition=prelim) and Tables.
+The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 832 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section832&num=0&edition=prelim) and Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1)(C), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§ 838 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 838 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section838&num=0&edition=prelim) and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1)(C), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 838 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section838&num=0&edition=prelim) and Tables.
 
 Act of June 18, 1954, as amended by the Act of December 23, 1963, referred to in subsec. (a)(1)(E), is act June 18, 1954, ch. 310, 68 Stat. 255, which was not classified to the Code.
 
 Paragraphs (1)(E) and (1)(F) of this subsection, referred to in subsec. (a)(3), were redesignated as pars. (1)(D) and (1)(E) of this subsection, respectively, by Pub. L. 104–58, title I, § 104(h)(1)(B), Nov. 28, 1995, 109 Stat. 560.
 
-Act of May 15, 1910, referred to in subsec. (d), as amended, probably means act May 16, 1910, ch. 240, 36 Stat. 369, which is classified to sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
+Act of May 15, 1910, referred to in subsec. (d), probably means act May 16, 1910, ch. 240, 36 Stat. 369, which is classified to sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1995—Subsec. (a)(1)(C) to (F). Pub. L. 104–58, § 104(h)(1), redesignated subpars. (D) to (F) as (C) to (E), respectively, and struck out former subpar. (C) which read as follows: “the Alaska Power Administration;”.
@@ -1109,7 +1137,7 @@ Pub. L. 97–257, title I, § 100, Sept. 10, 1982, 96 Stat. 841, provided: “Th
 ### Statutory Notes
 
 #### References in Text
-The Energy Conservation and Production Act, referred to in subsec. (a), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125, as amended. Title III of the Energy Conservation and Production Act, known as the Energy Conservation Standards for New Buildings Act of 1976, is classified generally to subchapter II (§ 6831 et seq.) of chapter 81 of this title. For complete classification of the Energy Conservation and Production Act and the Energy Standards for New Buildings Act of 1976 to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
+The Energy Conservation and Production Act, referred to in subsec. (a), is Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1125. Title III of the Energy Conservation and Production Act, known as the Energy Conservation Standards for New Buildings Act of 1976, is classified generally to subchapter II (§ 6831 et seq.) of chapter 81 of this title. For complete classification of the Energy Conservation and Production Act and the Energy Standards for New Buildings Act of 1976 to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
 
 
 <a id="section-7156"></a>
@@ -1169,7 +1197,7 @@ The Division of Naval Reactors established pursuant to [section 2035 of this tit
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 #### Amendments
 1999—Pub. L. 106–65 struck out subsec. (a) designation before “The Division of Naval Reactors”, substituted “Under Secretary for Nuclear Security” for “Assistant Secretary to whom the Secretary has assigned the function listed in [section 7133(a)(2)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7133/a/2/E&num=0&edition=prelim)”, and struck out subsec. (b) which read as follows: “The Division of Military Application, established by [section 2035 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2035), and the functions of the Energy Research and Development Administration with respect to the Military Liaison Committee, established by [section 2037 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2037), are transferred to the Department under the Assistant Secretary to whom the Secretary has assigned those functions listed in [section 7133(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7133/a/5&num=0&edition=prelim), and such organizational units shall be deemed to be organizational units established by this chapter.”
@@ -1273,7 +1301,7 @@ Notwithstanding [section 7151(a) of this title](https://uscode.house.gov/view.xh
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (i) and (j), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+This chapter, referred to in subsecs. (i) and (j), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 #### Amendments
 2020—Subsec. (k). Pub. L. 116–260 added subsec. (k).
@@ -1296,6 +1324,8 @@ Pub. L. 101–549, title VIII, § 808, Nov. 15, 1990, 104 Stat. 2690, provided t
 Pub. L. 99–500, § 101(e) [title III], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, § 101(e) [title III], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: “That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account [Federal Energy Regulatory Commission, Salaries and Expenses], and may remain available until expended: Provided further, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–103, div. D, title III, Mar. 15, 2022, 136 Stat. 231.
 
 Pub. L. 116–260, div. D, title III, Dec. 27, 2020, 134 Stat. 1372.
 
@@ -1410,9 +1440,9 @@ except that nothing in this subsection shall require that functions under sectio
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. Parts I and II of the Federal Power Act are classified generally to subchapters I (§ 791a et seq.) and II (§ 824 et seq.), respectively, of chapter 12 of Title 16. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (a)(1)(A), (B), and (F), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. Parts I and II of the Federal Power Act are classified generally to subchapters I (§ 791a et seq.) and II (§ 824 et seq.), respectively, of chapter 12 of Title 16. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
-The Natural Gas Act, referred to in subsec. (a)(1)(E), (F), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
+The Natural Gas Act, referred to in subsec. (a)(1)(E), (F), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 Sections 753, 757, and 760a of title 15, referred to in subsec. (c), were omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under those sections on Sept. 30, 1981.
 
@@ -1438,9 +1468,9 @@ Pub. L. 102–486, title XVIII, Oct. 24, 1992, 106 Stat. 3010, provided that: �
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsec. (c), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (c), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
-The Natural Gas Act, referred to in subsecs. (c) and (d), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
+The Natural Gas Act, referred to in subsecs. (c) and (d), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 
 <a id="section-7175"></a>
@@ -1492,7 +1522,7 @@ For the purposes of chapter 9 of title 5 the Commission shall be deemed to be an
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 
 <a id="section-7191"></a>
@@ -1618,7 +1648,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 ### Statutory Notes
 
 #### References in Text
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 #### Amendments
 1978—Subsecs. (e), (f). Pub. L. 95–620, § 805(b), inserted “preceding provisions of” before “this section”.
@@ -1642,13 +1672,13 @@ Amendment by Pub. L. 95–620 effective 180 days after Nov. 9, 1978, see section
 ### Statutory Notes
 
 #### References in Text
-The Federal Energy Administration Act, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, as amended, which is classified generally to chapter 16B (§ 761 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim) and Tables.
+The Federal Energy Administration Act, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, which is classified generally to chapter 16B (§ 761 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim) and Tables.
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
-The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (a), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section791&num=0&edition=prelim) and Tables.
+The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (a), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section791&num=0&edition=prelim) and Tables.
 
-The Energy Policy and Conservation Act, referred to in subsec. (a), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (a), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 
 <a id="section-7211-7212"></a>
@@ -1667,7 +1697,7 @@ Section 7211, Pub. L. 95–91, title VI, § 601, Aug. 4, 1977, 91 Stat. 591; Pub
 Section 7212, Pub. L. 95–91, title VI, § 602, Aug. 4, 1977, 91 Stat. 592; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 103–160, div. C, title XXXI, § 3161(b), (c)(1)(C), Nov. 30, 1993, 107 Stat. 1958, related to divestiture of energy holdings by supervisory employees.
 
 #### Effective Date of Repeal
-For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-7218"></a>
@@ -1696,7 +1726,7 @@ Section, Pub. L. 95–91, title VI, § 603, formerly § 608, Aug. 4, 1977, 91 St
 A prior section 603 of Pub. L. 95–91 was classified to [section 7213 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7213&num=0&edition=prelim) prior to repeal by Pub. L. 103–160.
 
 #### Effective Date of Repeal
-For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-7232"></a>
@@ -1741,9 +1771,6 @@ August 14, 1991, referred to in subsec. (f), was in the original “the date of 
 #### Amendments
 1991—Subsec. (f). Pub. L. 102–88 added subsec. (f).
 
-#### Transfer of Functions
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (c)(2), pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
-
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
@@ -1755,6 +1782,9 @@ Pub. L. 113–76, div. D, title III, § 313, Jan. 17, 2014, 128 Stat. 176, provi
 
 #### Authority for Appointment of Certain Scientific, Engineering, and Technical Personnel
 Pub. L. 103–337, div. C, title XXXI, § 3161, Oct. 5, 1994, 108 Stat. 3095, as amended by Pub. L. 105–85, div. C, title XXXI, § 3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§ 3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, § 1 [div. C, title XXXI, § 3191], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; Pub. L. 107–314, div. C, title XXXI, § 3174, Dec. 2, 2002, 116 Stat. 2745, which was formerly set out as a note under this section, was renumbered section 4601 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003, by Pub. L. 108–136, div. C, title XXXI, § 3141(i)(2), Nov. 24, 2003, 117 Stat. 1776, and is classified to [section 2701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2701&num=0&edition=prelim), War and National Defense.
+
+#### Transfer of Functions
+“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (c)(2), pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
 
 <a id="section-7233"></a>
@@ -1782,7 +1812,7 @@ The Secretary is authorized to establish in accordance with the Federal Advisory
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1997—Pub. L. 105–28 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “[Section 776 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section776&num=0&edition=prelim) shall be applicable to advisory committees chartered by the Secretary, or transferred to the Secretary or the Department under this chapter, except that where an advisory committee advises the Secretary on matters pertaining to research and development, the Secretary may determine that such meeting shall be closed because it involves research and development matters and comes within the exemption of [section 552b(c)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b/c/4&num=0&edition=prelim).”
@@ -1998,9 +2028,9 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 
 **(g) Additional authorities**
 
-(1) In addition to authority granted to the Secretary under any other provision of law, the Secretary may exercise the same authority to enter into transactions (other than contracts, cooperative agreements, and grants), subject to the same terms and conditions as the Secretary of Defense under [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) (other than subsections (b) and (f) of that section).
+(1) In addition to authority granted to the Secretary under any other provision of law, the Secretary may exercise the same authority to enter into transactions (other than contracts, cooperative agreements, and grants), subject to the same terms and conditions as the Secretary of Defense under section 2371 11 See References in Text note below. of title 10 (other than subsections (b) and (f) of that section).
 
-(2) In applying [section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) to the Secretary under paragraph (1)—
+(2) In applying section 2371 1 of title 10 to the Secretary under paragraph (1)—
 
   (A) the term “basic” shall be replaced by the term “research”;
 
@@ -2038,7 +2068,7 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 
   (C) The Secretary shall not have authority to carry out transactions under paragraph (1) until the guidelines for transactions required under subparagraph (A) are final.
 
-(7) The annual report of the head of an executive agency under section 2371(h) 11 See References in Text note below. of title 10 shall be submitted to Congress.
+(7) The annual report of the head of an executive agency under section 2371(h) 1 of title 10 shall be submitted to Congress.
 
 (8)
 
@@ -2057,9 +2087,11 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 ### Statutory Notes
 
 #### References in Text
+[Section 2371 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim), referred to in subsec. (g)(1), (2), was renumbered [section 4021 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4021&num=0&edition=prelim) by Pub. L. 116–283, § 1841(b)(1), as amended by Pub. L. 117–81, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
+
 [Section 2371(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371/h&num=0&edition=prelim), referred to in subsec. (g)(7), was repealed by Pub. L. 113–291, div. A, title X, § 1071(f)(20), Dec. 19, 2014, 128 Stat. 3511.
 
-Section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; [10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note), referred to in subsec. (g)(8)(A), was repealed by Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896. See [section 2371b(e) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371b/e&num=0&edition=prelim), Armed Forces.
+Section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (Public Law 103–160; [10 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371&num=0&edition=prelim) note), referred to in subsec. (g)(8)(A), was repealed by Pub. L. 114–92, div. A, title VIII, § 815(c), Nov. 25, 2015, 129 Stat. 896. See [section 4022(e) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4022/e&num=0&edition=prelim), Armed Forces.
 
 #### Amendments
 2021—Subsec. (g)(5). Pub. L. 117–58 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, struck out “, for up to 5 years after the date on which the information is developed,” before “any information”, substituted “agency—” and cls. (i) and (ii) for “agency.”, and added subpar. (B).
@@ -2073,6 +2105,9 @@ Section 845(f) of the National Defense Authorization Act for Fiscal Year 1994 (P
 2005—Subsec. (g). Pub. L. 109–58 added subsec. (g).
 
 1993—Subsecs. (c) to (f). Pub. L. 103–160 added subsecs. (c) to (f).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 #### Small Business Contracting
 Pub. L. 109–13, div. A, title VI, § 6022(a), (b), May 11, 2005, 119 Stat. 285, provided that: “(a) Not later than September 30, 2005, the Department of Energy and the Small Business Administration shall enter into a memorandum of understanding setting forth an appropriate methodology for measuring the achievement of the Department of Energy with respect to awarding contracts to small businesses. “(b) The methodology set forth in the memorandum of understanding entered into under subsection (a) shall, at a minimum, include—“(1) a method of counting the achievement of the Department of Energy in awards of—“(A) prime contracts; and “(B) subcontracts to small businesses awarded by Department of Energy management and operating, management and integration, and other facility management prime contractors; and “(2) uniform criteria that could be used by prime contractors when measuring the value and number of subcontracts awarded to small businesses.”
@@ -2276,9 +2311,9 @@ In subsec. (b), “[section 102(3) of title 40](https://uscode.house.gov/view.xh
 #### References in Text
 The Atomic Energy Act of 1954, referred to in subsec. (a)(2)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Energy Reorganization Act of 1974, referred to in subsec. (a)(2)(B), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (a)(2)(B), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(2)(C), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(2)(C), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
 
 #### Codification
 Section was enacted as part of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, and not as part of the Department of Energy Organization Act which comprises this chapter.
@@ -2410,7 +2445,7 @@ The Secretary shall cause a seal of office to be made for the Department of such
 ### Statutory Notes
 
 #### References in Text
-The Public Works and Economic Development Act, referred to in subsec. (b), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title V of the Public Works and Economic Development Act was classified generally to subchapter V (§ 3181 et seq.) of chapter 38 of this title prior to repeal by Pub. L. 97–35, title XVIII, § 1821(a)(8), Aug. 13, 1981, 95 Stat. 766. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121) and Tables.
+The Public Works and Economic Development Act, referred to in subsec. (b), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552. Title V of the Public Works and Economic Development Act was classified generally to subchapter V (§ 3181 et seq.) of chapter 38 of this title prior to repeal by Pub. L. 97–35, title XVIII, § 1821(a)(8), Aug. 13, 1981, 95 Stat. 766. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121) and Tables.
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -2545,7 +2580,7 @@ Under guidelines prescribed by the Secretary and concurred with by the Attorney 
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part B of title I of the Act is classified generally to part B (§ 6231 et seq.) of subchapter I of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title I of the Act is classified generally to part B (§ 6231 et seq.) of subchapter I of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 
 <a id="section-7270c"></a>
@@ -2557,7 +2592,7 @@ The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy and Conservation Act, referred to in subsec. (a), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part B of title I of the Act is classified generally to part B (§ 6231 et seq.) of subchapter I of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (a), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title I of the Act is classified generally to part B (§ 6231 et seq.) of subchapter I of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 
 <a id="section-7271"></a>
@@ -3057,7 +3092,7 @@ Section was enacted as part of the Hoover Power Plant Act of 1984, and not as pa
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 #### Codification
 Section was enacted as part of the Hoover Power Plant Act of 1984, and not as part of the Department of Energy Organization Act which comprises this chapter.
@@ -3227,7 +3262,7 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 #### Codification
 In subsec. (a), “[section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim)” substituted for “section 202 of the Budget and Accounting Procedures Act of 1950 [[31 U.S.C. 581c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section581c&num=0&edition=prelim)]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -3244,7 +3279,7 @@ In subsec. (a), “[section 1531 of title 31](https://uscode.house.gov/view.xhtm
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 This subchapter, referred to in subsec. (a), was in the original “this title” meaning title VII of Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 605, which enacted this subchapter and [section 916 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section916&num=0&edition=prelim), Agriculture, amended sections 6833 and 6839 of this title, [section 19 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section19&num=0&edition=prelim), The President, sections 101, 5108, and 5312 to 5316 of Title 5, Government Organization and Employees, [section 1701z–8 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701z–8&num=0&edition=prelim), Banks and Banking, and sections 766, 790a, and 790d of Title 15, Commerce and Trade, repealed sections 2036 and 5818 of this title and sections 763, 768 and 786 of Title 15, enacted provisions set out as a note under 2201 of this title, and repealed provisions set out as a note under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
@@ -3544,7 +3579,7 @@ The provisions of this chapter shall take effect one hundred and twenty days aft
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 #### Executive Order No. 12009
 Ex. Ord. No. 12009, Sept. 13, 1977, 42 F.R. 46267, which prescribed Oct. 1, 1977, as the effective date of this chapter, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
@@ -3697,7 +3732,7 @@ Section, Pub. L. 101–510, div. C, title XXXI, § 3191, as added Pub. L. 110–
 ### Statutory Notes
 
 #### References in Text
-That Act, referred to in subsec. (a), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim), Conservation, and Tables.
+That Act, referred to in subsec. (a), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim), Conservation, and Tables.
 
 
 <a id="section-7381b"></a>
@@ -3859,8 +3894,8 @@ Subsec. (b). Pub. L. 102–25, § 704(d)(2), inserted “such” before “educa
 Amendment by Pub. L. 102–25 applicable as if included in enactment of Pub. L. 101–510, see section 704(e) of Pub. L. 102–25, set out as a note under [section 12321 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12321&num=0&edition=prelim), Armed Forces.
 
 
-<a id="section-7381d"></a>
-## § 7381d. Education partnerships
+<a id="section-7381c-2"></a>
+## § 7381c–2. Education partnerships
 **(a) Education partnerships** The Secretary may authorize each Department research and development facility, to the extent practicable and consistent with the provisions of the laboratory’s management and operating contract, to enter into education partnership agreements with educational institutions in the United States (including local educational agencies, colleges, and universities) for the purpose of encouraging and enhancing study in scientific disciplines at all levels of education.
 
 **(b) Types of assistance** Under a partnership agreement entered into with an educational institution under subsection (a) and as authorized by the Secretary, a Department research and development facility may provide assistance to the educational institution by—
@@ -3887,8 +3922,8 @@ Amendment by Pub. L. 102–25 applicable as if included in enactment of Pub. L. 
 Subsec. (b)(7). Pub. L. 109–58, § 1102(c)(2)–(4), added par. (7).
 
 
-<a id="section-7381e"></a>
-## § 7381e. Partnerships with historically Black colleges and universities, Hispanic-serving institutions, and tribal colleges
+<a id="section-7381c-3"></a>
+## § 7381c–3. Partnerships with historically Black colleges and universities, Hispanic-serving institutions, and tribal colleges
 **(a) Definitions** In this section:
 
 (1) **Hispanic-serving institution** — The term “Hispanic-serving institution” has the meaning given the term in [section 1101a(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1101a/a&num=0&edition=prelim).
@@ -3922,6 +3957,100 @@ A prior section 3167 of Pub. L. 101–510 was renumbered section 3168 and is cla
 
 #### Amendments
 2008—Subsec. (a)(5). Pub. L. 110–315 made technical amendment to reference in original act which appears in text as reference to [section 1801(a) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1801/a&num=0&edition=prelim).
+
+
+<a id="section-7381d"></a>
+## § 7381d. Broadening participation for teachers and scientists
+**(a) In general** The Secretary shall—
+
+(1) expand opportunities to increase the number of highly skilled science, technology, engineering, and mathematics (STEM) professionals working in disciplines relevant to the mission of the Department; and
+
+(2) broaden the recruitment pool to increase participation from Historically Black Colleges or Universities (as defined in [section 7381c–3(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7381c–3/f&num=0&edition=prelim)), Hispanic-serving institutions (as defined in that section), Tribal Colleges or Universities (as defined in that section), minority-serving institutions (as defined in that section), institutions in eligible jurisdictions (as defined in that section), emerging research institutions, community colleges, and scientific societies in those disciplines.
+
+**(b) Plan** Not later than 1 year after August 9, 2022, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committees on Energy and Natural Resources and Commerce, Science, and Transportation of the Senate and make available to the public a plan for broadening participation of underrepresented groups in science, technology, engineering, and mathematics in programs supported by the Department, including—
+
+(1) a plan for supporting relevant Federal research award grantees and leveraging the National Science Foundation INCLUDES National Network and relevant partnerships, including partnerships maintained by other Federal research agencies;
+
+(2) metrics for assessing the participation of underrepresented groups in programs supported by the Department;
+
+(3) experienced and potential barriers to broadening participation of underrepresented groups in programs supported by the Department, including recommended solutions; and
+
+(4) any other activities the Secretary determines appropriate.
+
+**(c) Authorization of appropriations** Of the amounts authorized to be appropriated under [section 7381e of this title](./chapter-084-department-of-energy.md#section-7381e), not less than $2,000,000 is authorized to be appropriated each fiscal year for the activities described in this section.
+
+
+<a id="section-7381e"></a>
+## § 7381e. Expanding opportunities for highly skilled science, technology, engineering, and mathematics (STEM) professionals
+**(a) In general** The Secretary shall—
+
+(1) expand opportunities and increase the number of highly skilled science, technology, engineering, and mathematics (STEM) professionals working in disciplines relevant to the mission of the Department; and
+
+(2) broaden the recruitment pool to increase participation from and expand partnerships with Historically Black Colleges or Universities, Hispanic serving institutions, Tribal Colleges or Universities, minority-serving institutions, institutions in eligible jurisdictions, emerging research institutions, community colleges, and scientific societies in those disciplines.
+
+**(b) Plan and outreach strategy**
+
+(1) **Plan**
+
+  (A) *In general* — Not later than 180 days after August 9, 2022, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a 10-year educational plan to fund and expand new or existing programs administered by the Office of Science and sited at the National Laboratories and Department user facilities to expand educational and workforce development opportunities for underrepresented individuals, including—
+
+    (i) high school, undergraduate, and graduate students; and
+
+    (ii) recent graduates, teachers, and faculty in STEM fields.
+
+  (B) *Contents* — The plan under subparagraph (A) may include paid internships, fellowships, temporary employment, training programs, visiting student and faculty programs, sabbaticals, and research support.
+
+(2) **Outreach capacity** — The Secretary shall include in the plan under paragraph (1) an outreach strategy to improve the advertising, recruitment, and promotion of educational and workforce development programs to community colleges, Historically Black Colleges or Universities, Hispanic-serving institutions, Tribal Colleges or Universities, minority-serving institutions, institutions in eligible jurisdictions, and emerging research institutions.
+
+**(c) Building research capacity**
+
+(1) **In general** — The Secretary shall develop programs that strengthen the research capacity relevant to Office of Science disciplines at emerging research institutions, including minority-serving institutions, Tribal Colleges or Universities, Historically Black Colleges or Universities, institutions in eligible jurisdictions (as defined in [section 13503(b)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13503/b/3/A&num=0&edition=prelim)), institutions in communities with dislocated workers who were previously employed in manufacturing, energy production, including coal power plants, and mineral and material mining, and other institutions of higher education.
+
+(2) **Inclusions** — The programs developed under paragraph (1) may include—
+
+  (A) enabling mutually beneficial and jointly managed partnerships between research-intensive institutions and emerging research institutions; and
+
+  (B) soliciting research proposals, fellowships, training programs, and research support directly from emerging research institutions.
+
+**(d) Traineeships**
+
+(1) **In general** — The Secretary shall establish a university-led Traineeship Program to address workforce development needs in STEM fields relevant to the Department.
+
+(2) **Focus** — The focus of the Traineeship Program established under paragraph (1) shall be on—
+
+  (A) supporting workforce development and research experiences for underrepresented undergraduate and graduate students; and
+
+  (B) increasing participation from underrepresented populations.
+
+(3) **Inclusion** — The traineeships under the Traineeship Program established under paragraph (1) shall include opportunities to build the next-generation workforce in research areas critical to maintaining core competencies across the programs of the Office of Science.
+
+**(e) Evaluation**
+
+(1) **In general** — The Secretary shall establish key performance indicators to measure and monitor progress of education and workforce programs and expand Departmental activities for data collection and analysis.
+
+(2) **Report** — Not later than 2 years after August 9, 2022, and every 2 years thereafter, the Secretary shall submit to the Committee on Science, Space, and Technology and the Committee on Education and Labor of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Health, Education, Labor, and Pensions of the Senate a report summarizing progress toward meeting the key performance indicators established under paragraph (1).
+
+**(f) Definitions** In this section:
+
+(1) **Community college** — The term “community college” means—
+
+  (A) a public institution of higher education, including additional locations, at which the highest awarded degree, or the predominantly awarded degree, is an associate degree; or
+
+  (B) any Tribal college or university.
+
+(2) **Dislocated worker** — The term “dislocated worker” has the meaning given the term in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim).
+
+(3) **Hispanic-serving institution** — The term “Hispanic-serving institution” has the meaning given the term in [section 1101a(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1101a/a&num=0&edition=prelim).
+
+(4) **Historically Black College or University** — The term “Historically Black College or University” has the meaning given the term “part B institution” in [section 1061 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061&num=0&edition=prelim).
+
+(5) **Institution in an eligible jurisdiction** — The term “institution in an eligible jurisdiction” means an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) that is located in an eligible jurisdiction (as defined in [section 13503(b)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13503/b/3/A&num=0&edition=prelim)).
+
+(6) **Minority-serving institution** — The term “minority-serving institution” includes the entities described in any of paragraphs (1) through (7) of [section 1067q(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim).
+
+(7) **STEM** — The term “STEM” means the subjects listed in section 2 of the STEM Education Act of 2015 ([42 U.S.C. 6621](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6621) note; Public Law 114–59).
+
+(8) **Tribal College or University** — The term “Tribal College or University” has the meaning given the term in [section 1059c(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c/b&num=0&edition=prelim).
 
 
 <a id="section-7381g"></a>
@@ -4062,11 +4191,13 @@ A prior section 3168 of Pub. L. 101–510 was renumbered section 3169 and is cla
 <a id="section-7381j"></a>
 ## § 7381j. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out university research support and other science, mathematics, and engineering education programs authorized by this part and administered by the Office of Science of the Department of Energy, $40,000,000 for fiscal year 1991.
+Out of funds authorized to be appropriated for the Office of Science of the Department of Energy in a fiscal year, there are authorized to be appropriated to the Secretary for carrying out university research support and other science, mathematics, and engineering education programs authorized by this part and administered by the Office of Science of the Department of Energy, $40,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–167 substituted “Out of funds authorized to be appropriated for the Office of Science of the Department of Energy in a fiscal year, there are” for “There are” and “each of fiscal years 2023 through 2027” for “fiscal year 1991”.
+
 2007—Pub. L. 110–69 substituted “this part” for “this subchapter”.
 
 1998—Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
@@ -4764,9 +4895,11 @@ Sec. 6. Administration and Judicial Review. (a) This Executive Order shall be ca
 William J. Clinton.
 
 #### Extension of Term of Advisory Board on Radiation and Worker Health
-Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of Advisory Board on Radiation and Worker Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -5368,7 +5501,7 @@ Amendment by Pub. L. 107–107 effective July 1, 2001, see section 3151(a)(4)(D)
 ### Statutory Notes
 
 #### References in Text
-The Radiation Exposure Compensation Act, referred to in subsecs. (a) to (d), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210).
+The Radiation Exposure Compensation Act, referred to in subsecs. (a) to (d), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, which is set out as a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210).
 
 #### Amendments
 2004—Subsec. (d). Pub. L. 108–375 inserted “and the compensation provided under section 5 of the Radiation Exposure Compensation Act” after “The compensation provided under this section”.
@@ -5632,7 +5765,7 @@ Except in accordance with [section 7384u of this title](./chapter-084-department
 ### Statutory Notes
 
 #### References in Text
-The Radiation Exposure Compensation Act, referred to in text, is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210).
+The Radiation Exposure Compensation Act, referred to in text, is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, which is set out as a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210).
 
 
 <a id="section-7385o"></a>
@@ -5798,7 +5931,7 @@ Subject to the other provisions of this part:
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(2)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (a)(2)(A)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 
 <a id="section-7385s-5"></a>
@@ -5847,7 +5980,7 @@ The Social Security Act, referred to in subsec. (a)(2)(A)(iii), is act Aug. 14, 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (a)(2), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 
 <a id="section-7385s-6"></a>
@@ -5895,7 +6028,7 @@ Section 7385o of this title, referred to in subsec. (b), was repealed by Pub. L.
 ### Statutory Notes
 
 #### References in Text
-The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210).
+The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, which is set out as a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210).
 
 
 <a id="section-7385s-8"></a>

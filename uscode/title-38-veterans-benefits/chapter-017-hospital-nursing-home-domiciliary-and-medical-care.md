@@ -1968,7 +1968,7 @@ Section 630 of the Treasury and General Government Appropriations Act, 2002, ref
 
   (E) who is a veteran of the Mexican border period or of World War I;
 
-  (F) who was exposed to a toxic substance, radiation, or other conditions, as provided in subsection (e); or
+  (F) who is a toxic-exposed veteran, in accordance with subsection (e); or
 
   (G) who is unable to defray the expenses of necessary care as determined under [section 1722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1722/a&num=0&edition=prelim).
 
@@ -2006,7 +2006,7 @@ Section 630 of the Treasury and General Government Appropriations Act, 2002, ref
 
   (C) Subject to paragraph (2) of this subsection, a veteran who served on active duty between August 2, 1990, and November 11, 1998, in the Southwest Asia theater of operations during the Persian Gulf War is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any disability, notwithstanding that there is insufficient medical evidence to conclude that such disability may be associated with such service.
 
-  (D) Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War, or in combat against a hostile force during a period of hostilities after November 11, 1998, is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
+  (D) Subject to paragraphs (2) and (3), a veteran who served on active duty in a theater of combat operations (as determined by the Secretary in consultation with the Secretary of Defense) during a period of war after the Persian Gulf War (including any veteran who, in connection with service during such period, received the Armed Forces Expeditionary Medal, Service Specific Expeditionary Medal, Combat Era Specific Expeditionary Medal, Campaign Specific Medal, or any other combat theater award established by a Federal statute or an Executive order), or in combat against a hostile force during a period of hostilities after November 11, 1998, is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such condition is attributable to such service.
 
   (E) Subject to paragraph (2), a veteran who participated in a test conducted by the Department of Defense Deseret Test Center as part of a program for chemical and biological warfare testing from 1962 through 1973 (including the program designated as “Project Shipboard Hazard and Defense (SHAD)” and related land-based tests) is eligible for hospital care, medical services, and nursing home care under subsection (a)(2)(F) for any illness, notwithstanding that there is insufficient medical evidence to conclude that such illness is attributable to such testing.
 
@@ -2042,6 +2042,28 @@ Section 630 of the Treasury and General Government Appropriations Act, 2002, ref
 
     (xv) Non-Hodgkin’s lymphoma.
 
+  (G) Beginning not later than the applicable date specified in paragraph (6), and subject to paragraph (2), a veteran who participated in a toxic exposure risk activity while serving on active duty, active duty for training, or inactive duty training is eligible for hospital care (including mental health services and counseling), medical services, and nursing home care under subsection (a)(2)(F) for any illness.
+
+  (H) Beginning not later than the applicable date specified in paragraph (6), and subject to paragraph (2), a covered veteran (as defined in [section 1119(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1119/c&num=0&edition=prelim)) is eligible for hospital care (including mental health services and counseling), medical services, and nursing home care under subsection (a)(2)(F) for any illness.
+
+  (I)
+
+    (i) Beginning not later than the applicable date specified in paragraph (6), and subject to paragraph (2), a veteran who deployed in support of a contingency operation specified in clause (ii) is eligible for hospital care (including mental health services and counseling), medical services, and nursing home care under subsection (a)(2)(F) for any illness.
+
+    (ii) A contingency operation specified in this clause is any of the following:
+
+      (I) Operation Enduring Freedom.
+
+      (II) Operation Freedom’s Sentinel.
+
+      (III) Operation Iraqi Freedom.
+
+      (IV) Operation New Dawn.
+
+      (V) Operation Inherent Resolve.
+
+      (VI) Resolute Support Mission.
+
 (2)
 
   (A) In the case of a veteran described in paragraph (1)(A), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to—
@@ -2050,23 +2072,55 @@ Section 630 of the Treasury and General Government Appropriations Act, 2002, ref
 
     (ii) a disease for which the National Academy of Sciences, in a report issued in accordance with section 3 of the Agent Orange Act of 1991, has determined that there is limited or suggestive evidence of the lack of a positive association between occurrence of the disease in humans and exposure to a herbicide agent.
 
-  (B) In the case of a veteran described in subparagraph (C), (D), (E), or (F) of paragraph (1), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service or testing described in such subparagraph.
+  (B) In the case of a veteran described in subparagraph (C), (D), (E), (F), (G), (H), or (I) of paragraph (1), hospital care, medical services, and nursing home care may not be provided under subsection (a)(2)(F) with respect to a disability that is found, in accordance with guidelines issued by the Under Secretary for Health, to have resulted from a cause other than the service, testing, or activity described in such subparagraph.
 
 (3) In the case of care for a veteran described in paragraph (1)(D), hospital care, medical services, and nursing home care may be provided under or by virtue of subsection (a)(2)(F) only during the following periods:
 
-  (A) Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 27, 2003, the five-year period beginning on the date of such discharge or release.
+  (A) Except as provided by subparagraph (B), with respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after September 11, 2001, the 10-year period beginning on the date of such discharge or release.
 
-  (B) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 1, 2009, and before January 1, 2011, but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.
-
-  (C) With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service on or before January 27, 2003, and did not enroll in the patient enrollment system under [section 1705 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1705) on or before such date, the three-year period beginning on January 27, 2008.
+  (B) With respect to a veteran described in paragraph (1)(D) who was discharged or released from the active military, naval, air, or space service after September 11, 2001, and before October 1, 2013, but did not enroll to receive such hospital care, medical services, or nursing home care under such paragraph pursuant to subparagraph (A) before October 1, 2022, the one-year period beginning on October 1, 2022.
 
 (4) For purposes of this subsection—
 
-  (A) The term “Vietnam-era herbicide-exposed veteran” means a veteran (i) who served on active duty in the Republic of Vietnam (including offshore of such Republic as described in [section 1116A(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1116A/d&num=0&edition=prelim)) during the period beginning on January 9, 1962, and ending on May 7, 1975, and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.
+  (A) The term “Vietnam-era herbicide-exposed veteran” means a veteran who—
+
+    (i) performed covered service, as defined in [section 1116(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1116/d&num=0&edition=prelim); or
+
+    (ii) the Secretary finds may have been exposed during active military, naval, air, or space service to dioxin during the Vietnam era, regardless of the geographic area of such service, or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such era, regardless of the geographic area of such service.
 
   (B) The term “radiation-exposed veteran” has the meaning given that term in [section 1112(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1112/c/3&num=0&edition=prelim).
 
+  (C) The term “toxic exposure risk activity” means any activity—
+
+    (i) that requires a corresponding entry in an exposure tracking record system (as defined in [section 1119(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1119/c&num=0&edition=prelim)) for the veteran who carried out the activity; or
+
+    (ii) that the Secretary determines qualifies for purposes of this subsection when taking into account what is reasonably prudent to protect the health of veterans.
+
 (5) When the Secretary first provides care for veterans using the authority provided in paragraph (1)(D), the Secretary shall establish a system for collection and analysis of information on the general health status and health care utilization patterns of veterans receiving care under that paragraph. Not later than 18 months after first providing care under such authority, the Secretary shall submit to Congress a report on the experience under that authority. The Secretary shall include in the report any recommendations of the Secretary for extension of that authority.
+
+(6)
+
+  (A) The Secretary shall determine the dates in subparagraphs (G), (H), and (I) of paragraph (1) as follows:
+
+    (i) October 1, 2024, with respect to a veteran described in such subparagraph (G) or (H) who was discharged or released from the active military, naval, air, or space service during the period beginning on August 2, 1990, and ending on September 11, 2001.
+
+    (ii) October 1, 2026, with respect to a veteran described in such subparagraph (G) or (H) who was discharged or released from the active military, naval, air, or space service during the period beginning on September 12, 2001, and ending on December 31, 2006.
+
+    (iii) October 1, 2028, with respect to a veteran described in such subparagraph (G) or (H) who was discharged or released from the active military, naval, air, or space service during the period beginning on January 1, 2007, and ending on December 31, 2012.
+
+    (iv) October 1, 2030, with respect to a veteran described in such subparagraph (G) or (H) who was discharged or released from the active military, naval, air, or space service during the period beginning on January 1, 2013, and ending on December 31, 2018.
+
+    (v) October 1, 2032, with respect to a veteran described in such subparagraph (I).
+
+  (B)
+
+    (i) The Secretary may modify a date specified in subparagraph (A) to an earlier date, as the Secretary determines appropriate based on the number of veterans receiving hospital care, medical services, and nursing home care under subparagraphs (G), (H), and (I) of paragraph (1) and the resources available to the Secretary.
+
+    (ii) If the Secretary determines to modify a date under clause (i), the Secretary shall—
+
+      (I) notify the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives of the proposed modification; and
+
+      (II) publish such modified date in the Federal Register.
 
 **(f)**
 
@@ -2080,7 +2134,7 @@ Section 630 of the Treasury and General Government Appropriations Act, 2002, ref
 
     (ii) the amount determined under paragraph (3) of this subsection; and
 
-  (B) before September 30, 2022, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
+  (B) before September 30, 2024, an amount equal to $10 for every day the veteran receives hospital care and $5 for every day the veteran receives nursing home care.
 
 (3)
 
@@ -2142,8 +2196,6 @@ Section 630 of the Treasury and General Government Appropriations Act, 2002, ref
 
 Section 3 of the Agent Orange Act of 1991, referred to in subsec. (e)(2)(A)(ii), is section 3 of Pub. L. 102–4, which is set out as a note under [section 1116 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1116).
 
-The date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act, referred to in subsec. (e)(3)(B), is the date of enactment of Pub. L. 114–2, which was approved Feb. 12, 2015.
-
 #### Codification
 The text of subsec. (f) of [section 1712 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712), which was transferred to this section, redesignated subsec. (g), and amended by Pub. L. 104–262, § 101(b)(2), was based on Pub. L. 86–639, § 1, July 12, 1960, 74 Stat. 472; Pub. L. 91–102, Oct. 30, 1969, 83 Stat. 168; Pub. L. 93–82, title I, § 103(a), Aug. 2, 1973, 87 Stat. 180; Pub. L. 94–581, title I, § 103(a)(3)–(7), title II, § 202(f)(2), Oct. 21, 1976, 90 Stat. 2844, 2856; Pub. L. 96–22, title I, § 102(b), June 13, 1979, 93 Stat. 47; Pub. L. 97–37, § 5(b), Aug. 14, 1981, 95 Stat. 937; Pub. L. 97–72, title I, § 103(b)(2), Nov. 3, 1981, 95 Stat. 1049; Pub. L. 97–295, § 4(17)(C), Oct. 12, 1982, 96 Stat. 1306; Pub. L. 99–166, title I, § 104, Dec. 3, 1985, 99 Stat. 944; Pub. L. 99–272, title XIX, § 19011(b)(2), Apr. 7, 1986, 100 Stat. 375; Pub. L. 99–576, title II, §§ 202(1), 237(b)(2), Oct. 28, 1986, 100 Stat. 3254, 3267; Pub. L. 100–322, title I, § 101(e)(1), May 20, 1988, 102 Stat. 491; Pub. L. 101–508, title VIII, § 8013(b), Nov. 5, 1990, 104 Stat. 1388–346; Pub. L. 102–83, §§ 4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406.
 
@@ -2151,6 +2203,28 @@ The text of subsec. (f) of [section 1712 of this title](./chapter-017-hospital-n
 A prior section 1710 was renumbered [section 3510 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3510).
 
 #### Amendments
+2022—Subsec. (a)(2)(F). Pub. L. 117–168, § 102(a), substituted “who is a toxic-exposed veteran, in accordance with subsection (e)” for “who was exposed to a toxic substance, radiation, or other conditions, as provided in subsection (e)”.
+
+Subsec. (e)(1)(D). Pub. L. 117–168, § 111(b), inserted “(including any veteran who, in connection with service during such period, received the Armed Forces Expeditionary Medal, Service Specific Expeditionary Medal, Combat Era Specific Expeditionary Medal, Campaign Specific Medal, or any other combat theater award established by a Federal statute or an Executive order)” after “Persian Gulf War”.
+
+Subsec. (e)(1)(G) to (I). Pub. L. 117–168, § 103(a)(1)(A), added subpars. (G) to (I).
+
+Subsec. (e)(2)(B). Pub. L. 117–168, § 103(a)(1)(B), substituted “(F), (G), (H), or (I)” for “or (F)” and “service, testing, or activity” for “service or testing”.
+
+Subsec. (e)(3)(A). Pub. L. 117–168, § 111(a)(1), substituted “September 11, 2001” for “January 27, 2003” and “10-year period” for “five-year period”.
+
+Subsec. (e)(3)(B). Pub. L. 117–168, § 111(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service after January 1, 2009, and before January 1, 2011, but did not enroll to receive such hospital care, medical services, or nursing home care pursuant to such paragraph during the five-year period described in subparagraph (A), the one-year period beginning on the date of the enactment of the Clay Hunt Suicide Prevention for American Veterans Act.”
+
+Subsec. (e)(3)(C). Pub. L. 117–168, § 111(a)(3), struck out subpar. (C) which read as follows: “With respect to a veteran described in paragraph (1)(D) who is discharged or released from the active military, naval, air, or space service on or before January 27, 2003, and did not enroll in the patient enrollment system under [section 1705 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1705) on or before such date, the three-year period beginning on January 27, 2008.”
+
+Subsec. (e)(4)(A). Pub. L. 117–168, § 403(c), added subpar. (A) and struck out former subpar. (A) which read as follows: “The term ‘Vietnam-era herbicide-exposed veteran’ means a veteran (i) who served on active duty in the Republic of Vietnam (including offshore of such Republic as described in [section 1116A(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1116A/d&num=0&edition=prelim)) during the period beginning on January 9, 1962, and ending on May 7, 1975, and (ii) who the Secretary finds may have been exposed during such service to dioxin or was exposed during such service to a toxic substance found in a herbicide or defoliant used for military purposes during such period.”
+
+Subsec. (e)(4)(C). Pub. L. 117–168, § 102(c), added subpar. (C).
+
+Subsec. (e)(6). Pub. L. 117–168, § 103(a)(2), added par. (6).
+
+Subsec. (f)(2)(B). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
+
 2021—Subsec. (a)(2)(B). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 Subsec. (e)(3). Pub. L. 116–283 substituted “air, or space service” for “or air service” in subpars. (A) to (C).
@@ -2485,6 +2559,11 @@ Subsec. (c). Pub. L. 89–785 added subsec. (c).
 
 1962—Subsec. (a)(1). Pub. L. 87–583 provided for hospital care to any veteran for a service-connected disability instead of to a veteran of any war for a service-connected disability incurred or aggravated during a period of war in subpar. (A) and incorporated existing provisions in subpar. (B).
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–168, title I, § 111(e), Aug. 10, 2022, 136 Stat. 1766, provided that: “This section [amending this section] and the amendments made by this section shall take effect on October 1, 2022.”
+
+Amendment by section 403(c) of Pub. L. 117–168 effective Aug. 10, 2022, with additional provisions for different applicability dates applying to various categories of veterans and claimants for compensation, see section 403(e) of Pub. L. 117–168, set out as a note under [section 1116 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1116).
+
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–23 effective Jan. 1, 2020, see section 2(g) of Pub. L. 116–23, set out as an Effective Date note under [section 1116A of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1116a).
 
@@ -2546,6 +2625,9 @@ Pub. L. 104–262, title I, § 102(b), Oct. 9, 1996, 110 Stat. 3182, provided th
 
 #### Savings Provision for Pub. L. 100–322
 Pub. L. 100–322, title I, § 102(c), May 20, 1988, 102 Stat. 493, provided that: “The amendment made by subsection (a) [amending this section] shall not limit or restrict the eligibility for domiciliary care of a veteran who was a patient or a resident in a State home facility or a Veterans’ Administration domiciliary facility during the period beginning on January 1, 1987, and ending on April 1, 1988.”
+
+#### Assessments of Implementation and Operation
+Pub. L. 117–168, title I, § 104, Aug. 10, 2022, 136 Stat. 1763, provided that: “(a) Initial Resource Assessment and Report.—Not later than 180 days after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs shall—“(1) complete an assessment to determine—“(A) the personnel and material resources necessary to implement section 103 [amending this section] (including the amendments made by such section); and “(B) the total number of covered veterans, as such term is defined in [section 1119(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1119/c&num=0&edition=prelim), United States Code (as added by section 302), who receive hospital care or medical services furnished by the Secretary under chapter 17 of such title, disaggregated by priority group specified in section 1705(a) of such title; and “(2) submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing the findings of the assessment completed under paragraph (1), including a specific determination as to whether the Department has the personnel and material resources necessary to implement section 103. “(b) Information Systems.—Not later than October 1, 2024, the Secretary shall establish information systems to assess the implementation of section 103, including the amendments made by such section, and use the results of assessments under such systems to inform the reports under subsection (c). “(c) Annual Reports.—“(1) Reports.—Not later than October 1, 2025, and on an annual basis thereafter until October 1, 2033, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the following:“(A) The effect of the implementation of, and the provision and management of care under, section 103 (including the amendments made by such section) on the demand by veterans described in subparagraphs (G), (H), and (I) of [section 1710(e)(1) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1710/e/1&num=0&edition=prelim), United States Code (as added by such section 103) for health care services furnished by the Secretary. “(B) Any differing patterns of demand for health care services by such veterans, disaggregated by factors such as the relative distance of the veteran from medical facilities of the Department and whether the veteran had previously received hospital care or medical services furnished by the Secretary under chapter 17 of such title. “(C) The extent to which the Secretary has met such demand. “(D) Any changes, during the year covered by the report, in the delivery patterns of health care furnished by the Secretary under chapter 17 of such title, and the fiscal impact of such changes. “(2) Matters.—Each report under paragraph (1) shall include, with respect to the year covered by the report, detailed information on the following:“(A) The total number of veterans enrolled in the patient enrollment system who, during such year, received hospital care or medical services furnished by the Secretary under chapter 17 of title 38, United States Code. “(B) Of the veterans specified in subparagraph (A), the number of such veterans who, during the preceding three fiscal years, had not received such care or services. “(C) With respect to the veterans specified in subparagraph (B), the cost of providing health care to such veterans during the year covered by the report, shown in total and disaggregated by—“(i) the level of care; and “(ii) whether the care was provided through the Veterans Community Care Program. “(D) With respect to the number of veterans described in subparagraphs (G), (H), and (I) of [section 1710(e)(1) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1710/e/1&num=0&edition=prelim), United States Code (as added by section 103), the following (shown in total and disaggregated by medical facility of the Department, as applicable):“(i) The number of such veterans who, during the year covered by the report, enrolled in the patient enrollment system. “(ii) The number of such veterans who applied for, but were denied, such enrollment. “(iii) The number of such veterans who were denied hospital care or a medical service furnished by the Secretary that was considered to be medically necessary but not of an emergency nature. “(E) The numbers and characteristics of, and the type and extent of health care furnished by the Secretary to, veterans enrolled in the patient enrollment system (shown in total and disaggregated by medical facility of the Department). “(F) The numbers and characteristics of, and the type and extent of health care furnished by the Secretary to, veterans not enrolled in the patient enrollment system (disaggregated by each class of eligibility for care under [section 1710 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710), United States Code, and further shown as a total per class and disaggregated by medical facility of the Department). “(G) The specific fiscal impact (shown in total and disaggregated by geographic health care delivery areas) of changes in the delivery patterns of health care furnished by the Secretary under chapter 17 of such title as a result of the implementation of section 103 (including the amendments made by such section). “(d) Definitions.—In this section:“(1) Patient enrollment system.—The term ‘patient enrollment system’ means the patient enrollment system of the Department of Veterans Affairs established and operated under [section 1705(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1705/a&num=0&edition=prelim), United States Code. “(2) Veterans community care program.—The term ‘Veterans Community Care Program’ means the program established under [section 1703 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), United States Code.”
 
 #### Contact of Certain Veterans To Encourage Receipt of Comprehensive Medical Examinations
 Pub. L. 116–214, title II, § 204, Dec. 5, 2020, 134 Stat. 1037, provided that: “(a) Notice.—Not later than 90 days after the date of the enactment of this Act [Dec. 5, 2020], the Under Secretary of Health of the Department of Veterans Affairs shall seek to contact each covered veteran by mail, telephone, or email to encourage each covered veteran to receive medical examinations including the following:“(1) A comprehensive physical examination. “(2) A comprehensive mental health examination. “(3) A comprehensive eye examination if the covered veteran has not received such an examination in the year immediately preceding the date of such examination. “(4) A comprehensive audiological examination if the covered veteran has not received such an examination in the year immediately preceding the date of such examination. “(b) Examinations.—“(1) Va health care facilities.—If a covered veteran elects to receive more than one examination described in subsection (a) at a health care facility of the Department of Veterans Affairs, the Under Secretary of Health shall seek to furnish all such scheduled examinations on the same day. “(2) Community care.—Pursuant to subsection (d) or (e) of [section 1703 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1703), United States Code, a covered veteran may receive an examination described in subsection (a) from a health care provider described in subsection (c) of that section. “(c) Transportation.—“(1) Beneficiary travel program.—Pursuant to [section 111 of title 38](./chapter-001-general.md#section-111), United States Code, the Secretary of Veterans Affairs may pay for a rural covered veteran to travel to a health care facility to receive an examination described in subsection (a). “(2) Shuttle service.—The Under Secretary of Health shall seek to enter into agreements with non-profit organizations to provide shuttle service to rural covered veterans for examinations described in subsection (a). “(d) Report Required.—Not later than 18 months after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to Congress a report regarding how many covered veterans scheduled examinations described in subsection (a) after receiving a letter, telephone call, or email under that subsection. “(e) Definitions.—In this section:“(1) The term ‘covered veteran’ means a veteran who—“(A) is enrolled in the patient enrollment system of the Department of Veterans Affairs under [section 1705 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1705), United States Code; and “(B) has not received health care furnished or paid for by the Secretary of Veterans Affairs during the two years immediately preceding the date in subsection (a)(1). “(2) The term ‘rural covered veteran’ means a covered veteran—“(A) who lives in an area served by the Office of Rural Health of the Department of Veterans Affairs; and “(B) whom [sic] the Under Secretary of Health determines requires assistance to travel to a health care facility to receive an examination described in subsection (a). “(3) The term ‘veteran’ has the meaning given that term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code.”
@@ -2628,7 +2710,7 @@ Pub. L. 99–166, title I, § 109, Dec. 3, 1985, 99 Stat. 948, directed Administ
 
 **(c)** The Secretary shall ensure that nursing home care provided under subsection (a) is provided in an age-appropriate manner.
 
-**(d)** The provisions of subsection (a) shall terminate on September 30, 2022.
+**(d)** The provisions of subsection (a) shall terminate on September 30, 2024.
 
 ### Statutory Notes
 
@@ -2636,6 +2718,8 @@ Pub. L. 99–166, title I, § 109, Dec. 3, 1985, 99 Stat. 948, directed Administ
 The date of the enactment of this section, referred to in subsec. (b)(2), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
+
 2020—Subsec. (d). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.
 
 2018—Subsec. (d). Pub. L. 115–251 substituted “September 30, 2020” for “September 30, 2019”.
@@ -3518,6 +3602,12 @@ Pub. L. 94–581, title I, § 117(b), Oct. 21, 1976, 90 Stat. 2855, directed Adm
 
       (II) veteran or member of the Armed Forces described in this subparagraph.
 
+  (D)
+
+    (i) The Secretary, in consultation with the Secretary of Defense, may furnish to any member of the reserve components of the Armed Forces who has a behavioral health condition or psychological trauma, counseling under subparagraph (A)(i), which may include a comprehensive individual assessment under subparagraph (B)(i).
+
+    (ii) A member of the reserve components of the Armed Forces described in clause (i) shall not be required to obtain a referral before being furnished counseling or an assessment under this subparagraph.
+
 (2)
 
   (A) Upon request of an individual described in paragraph (1)(C), the Secretary shall provide the individual a comprehensive individual assessment as described in paragraph (1)(B)(i) as soon as practicable after receiving the request, but not later than 30 days after receiving the request.
@@ -3526,9 +3616,9 @@ Pub. L. 94–581, title I, § 117(b), Oct. 21, 1976, 90 Stat. 2855, directed Adm
 
 **(b)**
 
-(1) If, on the basis of the assessment furnished under subsection (a) of this section, a licensed or certified mental health care provider employed by the Department (or, in areas where no such licensed or certified mental health care provider is available, a licensed or certified mental health care provider carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such veteran is necessary to facilitate the successful readjustment of the veteran to civilian life, such veteran shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in [section 1784 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1784)).
+(1) If, on the basis of the assessment furnished to an individual under subsection (a) of this section, a licensed or certified mental health care provider employed by the Department (or, in areas where no such licensed or certified mental health care provider is available, a licensed or certified mental health care provider carrying out such function under a contract or fee arrangement with the Secretary) determines that the provision of mental health services to such individual is necessary to facilitate the successful readjustment of the individual to civilian life, such individual shall, within the limits of Department facilities, be furnished such services on an outpatient basis. For the purposes of furnishing such mental health services, the counseling furnished under subsection (a) of this section shall be considered to have been furnished by the Department as a part of hospital care. Any hospital care and other medical services considered necessary on the basis of the assessment furnished under subsection (a) of this section shall be furnished only in accordance with the eligibility criteria otherwise set forth in this chapter (including the eligibility criteria set forth in [section 1784 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1784)).
 
-(2) Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the veteran, include such consultation, counseling, training, services, and expenses as are described in sections 1782 and 1783 of this title.
+(2) Mental health services furnished under paragraph (1) of this subsection may, if determined to be essential to the effective treatment and readjustment of the individual, include such consultation, counseling, training, services, and expenses as are described in sections 1782 and 1783 of this title.
 
 **(c)** Upon receipt of a request for counseling under this section from any individual who has been discharged or released from active military, naval, air, or space service but who is not otherwise eligible for such counseling, the Secretary shall—
 
@@ -3582,27 +3672,6 @@ Pub. L. 94–581, title I, § 117(b), Oct. 21, 1976, 90 Stat. 2855, directed Adm
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title VII, § 762, Jan. 1, 2021, 134 Stat. 3724, provided that, effective on the date that is one year after Jan. 1, 2021, this section is amended as follows:
-
-(1) in subsection (a)(1), by adding at the end the following new subparagraph:
-
-“(D)(i) The Secretary, in consultation with the Secretary of Defense, may furnish to any member of the reserve components of the Armed Forces who has a behavioral health condition or psychological trauma, counseling under subparagraph (A)(i), which may include a comprehensive individual assessment under subparagraph (B)(i).
-
-“(ii) A member of the reserve components of the Armed Forces described in clause (i) shall not be required to obtain a referral before being furnished counseling or an assessment under this subparagraph.”
-
-(2) in subsection (b):
-
-(A) in paragraph (1)—
-
-(i) by inserting “to an individual” after “If, on the basis of the assessment furnished”; and
-
-(ii) by striking “veteran” each place it appears and inserting “individual”; and
-
-(B) in paragraph (2), by striking “veteran” and inserting “individual”.
-
-See 2021 Amendment notes below.
-
 #### References in Text
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (a)(1)(C)(vi), is the date of enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
@@ -3613,15 +3682,15 @@ Subsec. (a)(1)(D). Pub. L. 116–283, § 762(a), added subpar. (D).
 
 Subsec. (a)(2). Pub. L. 116–315, § 5104(b), designated existing provisions as subpar. (A), substituted “paragraph (1)(B)(i)” for “paragraph (1)(B)”, and added subpar. (B).
 
-2020—Subsec. (a)(1)(A), (B). Pub. L. 116–176, § 2(1), (2), substituted “clauses (i) through (vi)” for “clauses (i) through (iv)” and “in clause (vii)” for “in clause (v)”.
-
-Subsec. (a)(1)(C)(iv) to (vii). Pub. L. 116–176, § 2(3), added cls. (iv) and (v) and redesignated former cls. (iv) and (v) as (vi) and (vii), respectively.
-
 Subsec. (b)(1). Pub. L. 116–283, § 762(b)(1), inserted “to an individual” after “If, on the basis of the assessment furnished” and substituted “individual” for “veteran” wherever appearing.
 
 Subsec. (b)(2). Pub. L. 116–283, § 762(b)(2), substituted “individual” for “veteran”.
 
 Subsec. (c). Pub. L. 116–283, § 926(a)(23), substituted “air, or space service” for “or air service” in introductory provisions and par. (2).
+
+2020—Subsec. (a)(1)(A), (B). Pub. L. 116–176, § 2(1), (2), substituted “clauses (i) through (vi)” for “clauses (i) through (iv)” and “in clause (vii)” for “in clause (v)”.
+
+Subsec. (a)(1)(C)(iv) to (vii). Pub. L. 116–176, § 2(3), added cls. (iv) and (v) and redesignated former cls. (iv) and (v) as (vi) and (vii), respectively.
 
 Subsec. (h)(4), (5). Pub. L. 116–176, § 2(4), added pars. (4) and (5).
 
@@ -6984,30 +7053,16 @@ Subsecs. (c) to (f). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secret
 
 
 <a id="section-1730a"></a>
-## § 1730A. Prohibition on collection of copayments from catastrophically disabled veterans
+## § 1730A. Prohibition on collection of copayments from certain veterans
+**(a) Prohibition.—** Notwithstanding subsections (f) and (g) of section 1710 and [section 1722A(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1722A/a&num=0&edition=prelim) or any other provision of law, the Secretary may not require a covered veteran to make any copayment for the receipt of hospital care or medical services under the laws administered by the Secretary.
 
-Notwithstanding subsections (f) and (g) of section 1710 and [section 1722A(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1722A/a&num=0&edition=prelim) or any other provision of law, the Secretary may not require a veteran who is catastrophically disabled, as defined by the Secretary, to make any copayment for the receipt of hospital care or medical services under the laws administered by the Secretary.
-
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–315, title III, § 3002(a), (c), Jan. 5, 2021, 134 Stat. 4990, 4991, provided that, effective one year after Jan. 5, 2021, this section is amended as follows:
-
-(1) in the section catchline, by striking “catastrophically disabled” and inserting “certain”;
-
-(2) by inserting “(a) Prohibition.—” before “Notwithstanding”;
-
-(3) by striking “a veteran who is catastrophically disabled, as defined by the Secretary,” and inserting “a covered veteran”; and
-
-(4) by adding at the end the following new subsection:
-
-(b) Covered Veteran Defined.—In this section, the term “covered veteran” means a veteran who—
+**(b) Covered Veteran Defined.—** In this section, the term “covered veteran” means a veteran who—
 
 (1) is catastrophically disabled, as defined by the Secretary; or
 
 (2) is an Indian or urban Indian (as those terms are defined in section 4 of the Indian Health Care Improvement Act ([25 U.S.C. 1603](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim))).
 
-See 2021 Amendment note below.
+### Statutory Notes
 
 #### Amendments
 2021—Pub. L. 116–315 substituted “certain” for “catastrophically disabled” in section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted “a covered veteran” for “a veteran who is catastrophically disabled, as defined by the Secretary,”, and added subsec. (b).

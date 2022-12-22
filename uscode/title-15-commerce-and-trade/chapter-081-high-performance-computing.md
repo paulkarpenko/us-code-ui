@@ -93,11 +93,11 @@ This subchapter, referred to in subsec. (c)(1), was in the original “this Act�
 This section was enacted as part of the American Super Computing Leadership Act of 2017 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
 
 #### Amendments
-2018—Subsec. (a)(1). Pub. L. 115–246, § 304(a)(3)(A), substituted “coordinated program across the Department” for “program”.
+2018—Subsec. (a)(1). Pub. L. 115–246, § 304(b)(3)(A), as amended by Pub. L. 117–167, § 10104(a)(1), substituted “coordinated program across the Department” for “program”.
 
-Subsec. (b)(2). Pub. L. 115–246, § 304(a)(3)(B), struck out “, which may include vector, reconfigurable logic, streaming, processor-in-memory, and multithreading architectures” before semicolon at end.
+Subsec. (b)(2). Pub. L. 115–246, § 304(b)(3)(B), as amended by Pub. L. 117–167, § 10104(a)(1), struck out “, which may include vector, reconfigurable logic, streaming, processor-in-memory, and multithreading architectures” before semicolon at end.
 
-Subsec. (d). Pub. L. 115–246, § 304(a)(3)(C), added subsec. (d) and struck out former subsec. (d) which related to the establishment of a High-End Software Development Center.
+Subsec. (d). Pub. L. 115–246, § 304(b)(3)(C), as amended by Pub. L. 117–167, § 10104(a)(1), added subsec. (d) and struck out former subsec. (d) which related to the establishment of a High-End Software Development Center.
 
 
 <a id="section-5502"></a>
@@ -162,7 +162,7 @@ Pub. L. 105–305, § 1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This A
 #### Short Title
 Pub. L. 102–194, § 1, Dec. 9, 1991, 105 Stat. 1594, provided that: “This Act [enacting this chapter] may be cited as the ‘High-Performance Computing Act of 1991’.”
 
-Pub. L. 108–423, § 1, Nov. 30, 2004, 118 Stat. 2400, as amended by Pub. L. 115–246, title III, § 304(a)(1)(A), Sept. 28, 2018, 132 Stat. 3145, provided that: “This Act [enacting subchapter III of this chapter, amending sections 205l of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under [section 1862n–9 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1862n–9&num=0&edition=prelim)] may be cited as the ‘American Super Computing Leadership Act of 2017’.”
+Pub. L. 108–423, § 1, Nov. 30, 2004, 118 Stat. 2400, as amended by Pub. L. 115–246, title III, § 304(b)(1)(A); Pub. L. 117–167, div. B, title I, § 10104(a)(1), Aug. 9, 2022, 136 Stat. 1433, Sept. 28, 2018, 132 Stat. 3145, provided that: “This Act [enacting subchapter III of this chapter, amending sections 205l of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under [section 1862n–9 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1862n–9&num=0&edition=prelim)] may be cited as the ‘American Super Computing Leadership Act of 2017’.”
 
 #### Congressional Findings
 Pub. L. 105–305, § 2(a), Oct. 28, 1998, 112 Stat. 2919, provided that: “The Congress finds that— “(1) United States leadership in science and technology has been vital to the Nation’s prosperity, national and economic security, and international competitiveness, and there is every reason to believe that maintaining this tradition will lead to long-term continuation of United States strategic advantages in information technology; “(2) the United States investment in science and technology has yielded a scientific and engineering enterprise without peer, and that Federal investment in research is critical to the maintenance of United States leadership; “(3) previous Federal investment in computer networking technology and related fields has resulted in the creation of new industries and new jobs in the United States; “(4) the Internet is playing an increasingly important role in keeping citizens informed of the actions of their government; and “(5) continued inter-agency cooperation is necessary to avoid wasteful duplication in Federal networking research and development programs.”
@@ -383,17 +383,19 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
   (I) provide for improving the security, reliability, and resilience of computing and networking systems, including Federal systems, including providing for research required to establish security standards and practices for these systems;
 
-  (J) provide for increased understanding of the scientific principles of cyber-physical systems and improve the methods available for the design, development, and operation of cyber-physical systems that are characterized by high reliability, safety, and security;
+  (J) provide for improving the security, reliability, and resiliency of computing and networking systems used by institutions of higher education and other nonprofit research institutions for the processing, storage and transmission of sensitive federally funded research and associated data;
 
-  (K) provide for research and development on human-computer interactions, visualization, and big data;
+  (K) provide for increased understanding of the scientific principles of cyber-physical systems and improve the methods available for the design, development, and operation of cyber-physical systems that are characterized by high reliability, safety, and security;
 
-  (L) provide for research and development on the enhancement of cybersecurity, including the human facets of cyber threats and secure cyber systems;
+  (L) provide for research and development on human-computer interactions, visualization, and big data;
 
-  (M) provide for the understanding of the science, engineering, policy, and privacy protection related to networking and information technology;
+  (M) provide for research and development on the enhancement of cybersecurity, including the human facets of cyber threats and secure cyber systems;
 
-  (N) provide for the transition of high-end computing hardware, system software, development tools, and applications into development and operations; and
+  (N) provide for the understanding of the science, engineering, policy, and privacy protection related to networking and information technology;
 
-  (O) foster public-private collaboration among government, industry research laboratories, academia, and nonprofit organizations to maximize research and development efforts and the benefits of networking and information technology, including high-end computing.
+  (O) provide for the transition of high-end computing hardware, system software, development tools, and applications into development and operations; and
+
+  (P) foster public-private collaboration among government, industry research laboratories, academia, and nonprofit organizations to maximize research and development efforts and the benefits of networking and information technology, including high-end computing.
 
 (2) The Director shall—
 
@@ -537,6 +539,10 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (a)(1)(D). Pub. L. 117–167, § 10374(d)(1)(A), realigned margins.
+
+Subsec. (a)(1)(J) to (P). Pub. L. 117–167, § 10374(d)(1), added subpar. (J), redesignated former subpars. (J) to (O) as (K) to (P), respectively, and realigned margins.
+
 2017—Pub. L. 114–329, § 105(f)(1), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in section catchline.
 
 Subsec. (a). Pub. L. 114–329, § 105(f)(2)(A), substituted “Networking and Information Technology research and development” for “National High-Performance Computing Program” in heading.
@@ -870,9 +876,9 @@ This subchapter, referred to in text, was in the original “this Act”, meanin
 This section was enacted as part of the American Super Computing Leadership Act of 2017 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
 
 #### Amendments
-2018—Pars. (1) to (5). Pub. L. 115–246, § 304(a)(2)(A), (B), added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”. Former par. (5) redesignated (6).
+2018—Pars. (1) to (5). Pub. L. 115–246, § 304(b)(2)(A), (B), as amended by Pub. L. 117–167, § 10104(a)(1), added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”. Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 115–246, § 304(a)(2)(A), (C), redesignated par. (5) as (6) and struck out “, acting through the Director of the Office of Science of the Department of Energy” before period at end.
+Par. (6). Pub. L. 115–246, § 304(b)(2)(A), (C), as amended by Pub. L. 117–167, § 10104(a)(1), redesignated par. (5) as (6) and struck out “, acting through the Director of the Office of Science of the Department of Energy” before period at end.
 
 #### Short Title
 This subchapter known as the “American Super Computing Leadership Act of 2017”, see Short Title note set out under [section 5501 of this title](./chapter-081-high-performance-computing.md#section-5501).

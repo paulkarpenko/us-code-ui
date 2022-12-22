@@ -2,7 +2,7 @@
 title: 18
 chapter: '303'
 heading: BUREAU OF PRISONS
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -173,6 +173,20 @@ Amendment by Pub. L. 105–119 effective 1 year after Nov. 26, 1997, see section
 #### Construction of 2008 Amendment
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see [section 60504 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60504&num=0&edition=prelim), Crime Control and Law Enforcement.
 
+#### Health and Safety of Pregnant Women and Mothers
+Pub. L. 117–103, div. W, title X, § 1002, Mar. 15, 2022, 136 Stat. 914, provided that: “(a) Short Title.—This section may be cited as the ‘Stop Infant Mortality and Recidivism Reduction Act’ or the ‘SIMARRA Act’. “(b) Establishment.—Not later than 270 days after the date of enactment of this Act [Mar. 15, 2022], the Director of the Bureau of Prisons (in this section referred to as the ‘Director’) shall establish a pilot program (in this section referred to as the ‘Program’) in accordance with this section to permit women incarcerated in Federal prisons and the children born to such women during incarceration to reside together while the inmate serves a term of imprisonment. “(c) Purposes.—The purposes of this section are to—“(1) prevent infant mortality among infants born to incarcerated mothers and greatly reduce the trauma and stress experienced by pregnant inmates; “(2) reduce the recidivism rates of federally incarcerated women and mothers, and enhance public safety by improving the effectiveness of the Federal prison system for women as a population with special needs; “(3) utilize a female offender risk and needs assessment to encourage a more effective and efficient Federal prison system; “(4) utilize a validated post-sentencing risk and needs assessment system that relies on dynamic factors to provide Federal prison officials with information regarding needs of Federal pregnant offenders and enhance public safety; “(5) perform regular outcome evaluations of the effectiveness of programs and interventions for federally incarcerated pregnant women and mothers to assure that such programs and interventions are evidence-based and to suggest changes, deletions, and expansions based on the results of such evaluations; and “(6) assist the Department of Justice to address the underlying cost structure of the Federal prison system and ensure that the Department can continue to run parenting programming safely and securely without compromising the scope or quality of the Department’s critical health, safety and law enforcement missions. “(d) Duties of the Director of Bureau of Prisons.—“(1) In general.—The Director shall carry out this section in consultation with—“(A) the Director of the Administrative Office of the United States Courts; “(B) the Director of the Office of Probation and Pretrial Services; and “(C) the Director of the National Institute of Justice. “(2) Duties.—The Director shall, in accordance with paragraph (3), and in addition to the mandates under [section 3631 of title 18](./chapter-229-postsentence-administration.md#section-3631), United States Code—“(A) evaluate the female offender risk and needs assessment for its ability to address the particular health and sensitivities of federally incarcerated pregnant women and mothers in accordance with this subsection; “(B) develop recommendations regarding recidivism reduction programs and productive activities in accordance with subsection (c); “(C) conduct ongoing research and data analysis on—“(i) the best practices relating to the use of offender risk and needs assessment tools for female offenders with a particular emphasis on how those tools address the health and sensitivities of federally incarcerated pregnant women and mothers; “(ii) potential improvements to risk and needs assessment tools for female offenders to address the health and sensitivities of federally incarcerated pregnant women and mothers; and “(iii) which recidivism reduction programs are the most effective— “(I) for federally incarcerated pregnant women and mothers classified at different recidivism risk levels; and “(II) for addressing the specific needs of federally incarcerated pregnant women and mothers; “(D) on a biennial basis, review any findings related to evaluations conducted under subparagraph (A) and the recommendations developed under subparagraph (B), using the research conducted under subparagraph (C), to determine whether any revisions or updates should be made to female offender risk and needs assessment systems, and if so, make such revisions or updates; “(E) hold periodic meetings with the individuals listed in paragraph (1) at intervals to be determined by the Director; “(F) develop tools to communicate parenting program availability and eligibility criteria to each employee of the Bureau of Prisons and each pregnant inmate to ensure that each pregnant inmate in the custody of a Bureau of Prisons facility understands the resources available to such inmate; and “(G) report to Congress in accordance with subsection (h). “(3) Methods.—In carrying out the duties under paragraph (2), the Director shall—“(A) consult relevant stakeholders; and “(B) make decisions using data that is based on available statistical and empirical evidence. “(e) Eligibility.—An inmate may apply to participate in the Program if the inmate—“(1) is pregnant at the beginning of or during the term of imprisonment; and “(2) is in the custody or control of the Bureau of Prisons. “(f) Program Terms.—“(1) Term of participation.—To correspond with the purposes and goals of the Program to promote bonding during the critical stages of child development, an eligible inmate selected for the Program may participate in the Program, subject to subsection (g), until the earliest of—“(A) the date that the inmate’s term of imprisonment terminates; or “(B) the date the infant fails to meet any medical criteria established by the Director. “(2) Inmate requirements.—For the duration of an inmate’s participation in the Program, the inmate shall agree to—“(A) take substantive steps towards acting in the role of a parent or guardian to any child of that inmate; “(B) participate in any recommended educational or counseling opportunities, including topics such as child development, parenting skills, domestic violence, vocational training, or substance abuse, as appropriate; “(C) abide by any court decision regarding the legal or physical custody of the child; and “(D) specify a person who has agreed to take at least temporary custody of the child if the inmate’s participation in the Program terminates before the inmate’s release. “(g) Continuity of Care.—The Director shall take appropriate actions to prevent detachment or disruption of either an inmate’s or infant’s health and bonding-based well-being due to termination of the Program. “(h) Reporting.—“(1) In general.—Not later than 6 months after the date of enactment of this Act [Mar. 15, 2022], and once each year thereafter for 5 years, the Director shall submit a progress report to the Congress with regards to implementing the Program. “(2) Final report.—Not later than 6 months after the termination of the Program, the Director shall issue a final report to the Congress that contains a detailed statement of the Director’s findings and conclusions, including recommendations for legislation, administrative actions, and regulations the Director considers appropriate.”
+
+[For definitions of terms used in section 1002 of div. W of Pub. L. 117–103, set out above, see [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim), Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim).]
+
+#### De-Escalation Training
+Pub. L. 115–391, title VI, § 606, Dec. 21, 2018, 132 Stat. 5244, provided that: “Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], the Director of the Bureau of Prisons shall incorporate into training programs provided to officers and employees of the Bureau of Prisons (including officers and employees of an organization with which the Bureau of Prisons has a contract to provide services relating to imprisonment) specialized and comprehensive training in procedures to— “(1) de-escalate encounters between a law enforcement officer or an officer or employee of the Bureau of Prisons, and a civilian or a prisoner (as such term is defined in [section 3635 of title 18](./chapter-229-postsentence-administration.md#section-3635), United States Code, as added by section 101(a) of this Act); and “(2) identify and appropriately respond to incidents that involve the unique needs of individuals who have a mental illness or cognitive deficit.”
+
+#### Pilot Programs
+Pub. L. 115–391, title VI, § 608, Dec. 21, 2018, 132 Stat. 5245, provided that: “(a) In General.—The Bureau of Prisons shall establish each of the following pilot programs for 5 years, in at least 20 facilities:“(1) Mentorship for youth.—A program to pair youth with volunteers from faith-based or community organizations, which may include formerly incarcerated offenders, that have relevant experience or expertise in mentoring, and a willingness to serve as a mentor in such a capacity. “(2) Service to abandoned, rescued, or otherwise vulnerable animals.—A program to equip prisoners with the skills to provide training and therapy to animals seized by Federal law enforcement under asset forfeiture authority and to organizations that provide shelter and similar services to abandoned, rescued, or otherwise vulnerable animals. “(b) Reporting Requirement.—Not later than 1 year after the conclusion of the pilot programs, the Attorney General shall report to Congress on the results of the pilot programs under this section. Such report shall include cost savings, numbers of participants, and information about recidivism rates among participants. “(c) Definition.—In this title, the term ‘youth’ means a prisoner (as such term is defined in [section 3635 of title 18](./chapter-229-postsentence-administration.md#section-3635), United States Code, as added by section 101(a) of this Act) who was 21 years of age or younger at the time of the commission or alleged commission of the criminal offense for which the individual is being prosecuted or serving a term of imprisonment, as the case may be.”
+
+#### Healthcare Products
+Pub. L. 115–391, title VI, § 611, Dec. 21, 2018, 132 Stat. 5247, provided that: “(a) Availability.—The Director of the Bureau of Prisons shall make the healthcare products described in subsection (c) available to prisoners for free, in a quantity that is appropriate to the healthcare needs of each prisoner. “(b) Quality Products.—The Director shall ensure that the healthcare products provided under this section conform with applicable industry standards. “(c) Products.—The healthcare products described in this subsection are tampons and sanitary napkins.”
+
 #### Amenities or Personal Comforts
 Pub. L. 107–77, title VI, § 611, Nov. 28, 2001, 115 Stat. 800, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Bureau of Prisons shall be used to provide the following amenities or personal comforts in the Federal prison system— “(1) in-cell television viewing except for prisoners who are segregated from the general prison population for their own safety; “(2) the viewing of R, X, and NC–17 rated movies, through whatever medium presented; “(3) any instruction (live or through broadcasts) or training equipment for boxing, wrestling, judo, karate, or other martial art, or any bodybuilding or weightlifting equipment of any sort; “(4) possession of in-cell coffee pots, hot plates or heating elements; or “(5) the use or possession of any electric or electronic musical instrument.”
 
@@ -189,15 +203,6 @@ Pub. L. 105–119, title VI, § 611, Nov. 26, 1997, 111 Stat. 2517.
 Pub. L. 104–208, div. A, title I, § 101(a) [title VI, § 611], Sept. 30, 1996, 110 Stat. 3009, 3009–66.
 
 Pub. L. 104–134, title I, § 101[(a)] [title VI, § 611], Apr. 26, 1996, 110 Stat. 1321, 1321–64; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327.
-
-#### De-Escalation Training
-Pub. L. 115–391, title VI, § 606, Dec. 21, 2018, 132 Stat. 5244, provided that: “Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], the Director of the Bureau of Prisons shall incorporate into training programs provided to officers and employees of the Bureau of Prisons (including officers and employees of an organization with which the Bureau of Prisons has a contract to provide services relating to imprisonment) specialized and comprehensive training in procedures to— “(1) de-escalate encounters between a law enforcement officer or an officer or employee of the Bureau of Prisons, and a civilian or a prisoner (as such term is defined in [section 3635 of title 18](./chapter-229-postsentence-administration.md#section-3635), United States Code, as added by section 101(a) of this Act); and “(2) identify and appropriately respond to incidents that involve the unique needs of individuals who have a mental illness or cognitive deficit.”
-
-#### Pilot Programs
-Pub. L. 115–391, title VI, § 608, Dec. 21, 2018, 132 Stat. 5245, provided that: “(a) In General.—The Bureau of Prisons shall establish each of the following pilot programs for 5 years, in at least 20 facilities:“(1) Mentorship for youth.—A program to pair youth with volunteers from faith-based or community organizations, which may include formerly incarcerated offenders, that have relevant experience or expertise in mentoring, and a willingness to serve as a mentor in such a capacity. “(2) Service to abandoned, rescued, or otherwise vulnerable animals.—A program to equip prisoners with the skills to provide training and therapy to animals seized by Federal law enforcement under asset forfeiture authority and to organizations that provide shelter and similar services to abandoned, rescued, or otherwise vulnerable animals. “(b) Reporting Requirement.—Not later than 1 year after the conclusion of the pilot programs, the Attorney General shall report to Congress on the results of the pilot programs under this section. Such report shall include cost savings, numbers of participants, and information about recidivism rates among participants. “(c) Definition.—In this title, the term ‘youth’ means a prisoner (as such term is defined in [section 3635 of title 18](./chapter-229-postsentence-administration.md#section-3635), United States Code, as added by section 101(a) of this Act) who was 21 years of age or younger at the time of the commission or alleged commission of the criminal offense for which the individual is being prosecuted or serving a term of imprisonment, as the case may be.”
-
-#### Healthcare Products
-Pub. L. 115–391, title VI, § 611, Dec. 21, 2018, 132 Stat. 5247, provided that: “(a) Availability.—The Director of the Bureau of Prisons shall make the healthcare products described in subsection (c) available to prisoners for free, in a quantity that is appropriate to the healthcare needs of each prisoner. “(b) Quality Products.—The Director shall ensure that the healthcare products provided under this section conform with applicable industry standards. “(c) Products.—The healthcare products described in this subsection are tampons and sanitary napkins.”
 
 #### Sexually Explicit Commercially Published Material
 Pub. L. 107–77, title VI, § 614, Nov. 28, 2001, 115 Stat. 801, provided that: “Hereafter, none of the funds appropriated or otherwise made available to the Federal Bureau of Prisons may be used to distribute or make available any commercially published information or material to a prisoner when it is made known to the Federal official having authority to obligate or expend such funds that such information or material is sexually explicit or features nudity.”
@@ -479,3 +484,101 @@ The date of the enactment of the Federal Prisoner Health Care Copayment Act of 2
   (B) allows employees to store firearms in a vehicle lockbox approved by the Director of the Bureau of Prisons; and
 
 (2) notwithstanding any other provision of law, allows employees to carry concealed firearms on the premises outside of the secure perimeter of the institution.
+
+
+<a id="section-4051"></a>
+## § 4051. Treatment of primary caretaker parents and other individuals
+**(a) Definitions.—** In this section—
+
+(1) the term “correctional officer” means a correctional officer of the Bureau of Prisons;
+
+(2) the term “covered institution” means a Federal penal or correctional institution;
+
+(3) the term “Director” means the Director of the Bureau of Prisons;
+
+(4) the term “post-partum recovery” means the first 12-week period of post-partum recovery after giving birth;
+
+(5) the term “primary caretaker parent” has the meaning given the term in section 31903 of the Family Unity Demonstration Project Act ([34 U.S.C. 12242](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12242&num=0&edition=prelim));
+
+(6) the term “prisoner” means an individual who is incarcerated in a Federal penal or correctional institution, including a vulnerable person; and
+
+(7) the term “vulnerable person” means an individual who—
+
+  (A) is under 21 years of age or over 60 years of age;
+
+  (B) is pregnant;
+
+  (C) is victim or witness of a crime;
+
+  (D) has filed a nonfrivolous civil rights claim in Federal or State court; or
+
+  (E) during the period of incarceration, has been determined to have experienced or to be experiencing severe trauma or to be the victim of gender-based violence—
+
+    (i) by any court or administrative judicial proceeding;
+
+    (ii) by any corrections official;
+
+    (iii) by the individual’s attorney or legal service provider; or
+
+    (iv) by the individual.
+
+**(b) Geographic Placement.—**
+
+(1) **Establishment of office.—** — The Director shall establish within the Bureau of Prisons an office that determines the placement of prisoners.
+
+(2) **Placement of prisoners.—** — In determining the placement of a prisoner, the office established under paragraph (1) shall—
+
+  (A) if the prisoner has children, consider placing the prisoner as close to the children as possible; and
+
+  (B) consider any other factor that the office determines to be appropriate.
+
+**(c) Prohibition on Placement of Pregnant Prisoners or Prisoners in Post-partum Recovery in Segregated Housing Units.—**
+
+(1) **Placement in segregated housing units.—** — A covered institution may not place a prisoner who is pregnant or in post-partum recovery in a segregated housing unit unless the prisoner presents an immediate risk of harm to the prisoner or others.
+
+(2) **Restrictions.—** — Any placement of a prisoner described in paragraph (1) in a segregated housing unit shall be limited and temporary.
+
+**(d) Intake and Assessments.—** The Director shall assess the need for family-focused programming at intake, such as questions about children, gauge interest in parenting resources, and concerns about their child or caregiving, and administer ongoing assessment to better inform, identify, and make recommendations about the mother’s parental role and familial needs.
+
+**(e) Parenting Classes.—** The Director shall provide voluntary parenting classes to each prisoner who is a primary caretaker parent, and such classes shall be made available to prisoners with limited English proficiency in compliance with title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.).
+
+**(f) Trauma Screening.—** The Director shall provide training, including cultural competency training, to each correctional officer and each employee of the Bureau of Prisons who regularly interacts with prisoners, including each instructor and health care professional, to enable those correctional officers and employees to—
+
+(1) identify a prisoner who may have a mental or physical health need relating to trauma the prisoner has experienced; and
+
+(2) refer a prisoner described in paragraph (1) to the proper health care professional for diagnosis and treatment.
+
+**(g) Family Needs Training.—** The Director shall provide training to correctional officers and employees of the Bureau of Prisons who engage with prisoners’ families on—
+
+(1) how to interact with children in an age-appropriate manner, and the children’s caregivers;
+
+(2) basic childhood and adolescent development information; and
+
+(3) basic customer service skills.
+
+**(h) Inmate Health.—**
+
+(1) **Health care access.—** — The Director shall ensure that all prisoners receive adequate health care.
+
+(2) **Hygienic products.—** — The Director shall make essential hygienic products, including shampoo, toothpaste, toothbrushes, and any other hygienic product that the Director determines appropriate, available without charge to prisoners. The Director shall make rules—
+
+  (A) on the distribution and accessibility of sanitary products to prisoners, to ensure each prisoner who requires these products receives a quantity the prisoner deems sufficient; and
+
+  (B) providing that no visitor is prohibited from visiting a prisoner due to the visitor’s use of sanitary products.
+
+(3) **Gynecologist access.—** — The Director shall ensure that all prisoners have access to a gynecologist as appropriate.
+
+(4) **Relation to other laws.—** — Nothing in paragraph (1) shall be construed to affect the requirements under the Prison Rape Elimination Act of 2003 ([34 U.S.C. 30301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section30301&num=0&edition=prelim) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The Civil Rights Act of 1964, referred to in subsec. (e), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+
+The Prison Rape Elimination Act of 2003, referred to in subsec. (h)(4), is Pub. L. 108–79, Sept. 4, 2003, 117 Stat. 972, which is classified generally to chapter 303 (§ 30301 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2003 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as aunder [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### Implementation Date
+Section, as enacted by Pub. L. 117–103, to be implemented no later than 2 years after Mar. 15, 2022, with interim progress report required, see section 1001(d) of Pub. L. 117–103, set out as an Implementation Date of 2022 Amendment note under [section 3621 of this title](./chapter-229-postsentence-administration.md#section-3621).

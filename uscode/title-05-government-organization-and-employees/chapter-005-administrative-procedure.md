@@ -2728,7 +2728,7 @@ For the purposes of this subchapter, the term—
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in par. (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to this title.
+The Federal Advisory Committee Act, referred to in par. (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to this title.
 
 #### Amendments
 1992—Pub. L. 102–354 renumbered [section 582 of this title](./chapter-005-administrative-procedure.md#section-582) as this section.
@@ -2828,7 +2828,7 @@ Pub. L. 104–320, § 11(e), Oct. 19, 1996, 110 Stat. 3874, provided that: “Th
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to this title.
+The Federal Advisory Committee Act, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to this title.
 
 #### Amendments
 1992—Pub. L. 102–354, § 3(a)(2), renumbered [section 585 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section585&num=0&edition=prelim) as this section.

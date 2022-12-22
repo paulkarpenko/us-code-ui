@@ -291,7 +291,7 @@ Section was formerly classified to [section 1973gg–4 of Title 42](https://usco
 Section was formerly classified to [section 1973gg–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973gg–5&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Ex. Ord. No. 12926. Implementation of National Voter Registration Act of 1993
-Ex. Ord. No. 12926, Sept. 12, 1994, 59 F.R. 47227, provided:
+Ex. Ord. No. 12926, Sept. 12, 1994, 59 F.R. 47227, as amended by Ex. Ord. No. 14019, § 4(a), Mar. 7, 2021, 86 F.R. 13624, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and in order to ensure, as required by section 7(b) of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1973gg&num=0&edition=prelim) [sic]) [[52 U.S.C. 20506(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section20506/b&num=0&edition=prelim)] (“the Act”), that departments, agencies, and other entities of the executive branch of the Federal Government cooperate with the States in carrying out the Act’s requirements, it is hereby ordered as follows:
 
@@ -303,11 +303,7 @@ Section 1. Assistance to States. To the greatest extent practicable, departments
 
 Sec. 2. Armed Forces Recruitment Offices. The Secretary of Defense is directed to work with the appropriate State elections authorities in each State to develop procedures for persons to apply to register to vote at Armed Forces recruitment offices as required by section 7(c) of the Act.
 
-Sec. 3. Acceptance of Designation. To the greatest extent practicable, departments, agencies, or other entities of the executive branch of the Federal Government, if requested to be designated as a voter registration agency pursuant to section 7(a)(3)(B)(ii) of the Act, shall: (a) agree to such a designation if agreement is consistent with the department’s, agency’s, or entity’s legal authority and availability of funds; and
-
-(b) ensure that all of its offices that are located in a particular State will have available to the public at least one of the national voter registration forms that are required under the Act to be available in that State.
-
-William J. Clinton.
+Sec. 3. Acceptance of Designation. [Superseded by Ex. Ord. No. 14019, Mar. 7, 2021, 86 F.R. 13623, set out as a note preceding [section 20101 of this title](./chapter-201-voting-accessibility-for-the-elderly-and-handicapped.md#section-20101), see section 4(a) of Ex. Ord. No. 14019.]
 
 
 <a id="section-20507"></a>

@@ -66,7 +66,7 @@ The Congress finds that—
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in par. (6), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in par. (6), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Effective Date
 Pub. L. 105–230, § 8, Aug. 13, 1998, 112 Stat. 1529, provided that: “This Act [enacting this chapter] shall apply to all civil actions covered under this Act that are commenced on or after the date of enactment of this Act [Aug. 13, 1998], including any such action with respect to which the harm asserted in the action or the conduct that caused the harm occurred before the date of enactment of this Act.”

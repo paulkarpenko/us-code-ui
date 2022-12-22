@@ -28,7 +28,7 @@ This Act, referred to in text, is Pub. L. 92–318, June 23, 1972, 86 Stat. 235,
 ### Statutory Notes
 
 #### References in Text
-The General Education Provisions Act, referred to in subsec. (c), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221) and Tables.
+The General Education Provisions Act, referred to in subsec. (c), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221) and Tables.
 
 #### Transfer of Functions
 “Department of Education” substituted for “Department of Health, Education, and Welfare (including the Office of Education)” in subsec. (b) pursuant to sections 301 and 507 of Pub. L. 96–88, which are classified to sections 3441 and 3507 of this title and which transferred functions and offices (relating to education) of Department of Health, Education, and Welfare, including Office of Education, to Department of Education.
@@ -63,4 +63,4 @@ The proviso of section 407(a) of the Civil Rights Act of 1964 [[42 U.S.C. 2000c�
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§ 2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§ 2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.

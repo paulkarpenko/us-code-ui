@@ -74,7 +74,7 @@ source: >-
 Pub. L. 102–251, title III, §§ 301(a), 308, Mar. 9, 1992, 106 Stat. 62, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1) is amended by inserting “, and fishery resources in the special areas” before the semicolon at the end.
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(11), (b), and (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsecs. (a)(11), (b), and (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 Presidential Proclamation 5030, referred to in subsec. (b)(1), is set out under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 
@@ -188,11 +188,11 @@ Pub. L. 115–405, § 301, Dec. 31, 2018, 132 Stat. 5360, provided that: “Noth
 
 [For definition of “mixed-use fishery” as used in section 301 of Pub. L. 115–405, set out above, see section 3 of Pub. L. 115–405, set out below].
 
-#### Definitions
-Pub. L. 115–405, § 3, Dec. 31, 2018, 132 Stat. 5355, provided that: “In this Act [see Short Title of 2018 Amendment note above]: “(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Natural Resources of the House of Representatives. “(2) Council.—The term ‘Council’ means any Regional Fishery Management Council established under section 302 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852](./chapter-038-fishery-conservation-and-management.md#section-1852)). “(3) Limited access privilege program.—The term ‘limited access privilege program’ means a program that meets the requirements of section 303A of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1853a](./chapter-038-fishery-conservation-and-management.md#section-1853a)). “(4) Mixed-use fishery.—The term ‘mixed-use fishery’ means a Federal fishery in which 2 or more of the following occur:“(A) Recreational fishing. “(B) Charter fishing. “(C) Commercial fishing.”
-
 #### Sport Fishing and Boating Partnership Council
 Pub. L. 117–58, div. B, title VIII, § 28001(d), Nov. 15, 2021, 135 Stat. 889, provided that: “(1) In general.—The Sport Fishing and Boating Partnership Council established by the Secretary of the Interior shall be an advisory committee of the Department of the Interior and the Department of Commerce subject to the Federal Advisory Committee Act (5 U.S.C. App.). “(2) FACA.— The Secretary of the Interior and the Secretary of Commerce shall jointly carry out the requirements of the Federal Advisory Committee Act (5 U.S.C. App.) with respect to the Sport Fishing and Boating Partnership Council described in paragraph (1). “(3) Effective date.—This subsection shall take effect on January 1, 2023.”
+
+#### Definitions
+Pub. L. 115–405, § 3, Dec. 31, 2018, 132 Stat. 5355, provided that: “In this Act [see Short Title of 2018 Amendment note above]: “(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Natural Resources of the House of Representatives. “(2) Council.—The term ‘Council’ means any Regional Fishery Management Council established under section 302 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852](./chapter-038-fishery-conservation-and-management.md#section-1852)). “(3) Limited access privilege program.—The term ‘limited access privilege program’ means a program that meets the requirements of section 303A of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1853a](./chapter-038-fishery-conservation-and-management.md#section-1853a)). “(4) Mixed-use fishery.—The term ‘mixed-use fishery’ means a Federal fishery in which 2 or more of the following occur:“(A) Recreational fishing. “(B) Charter fishing. “(C) Commercial fishing.”
 
 #### Ex. Ord. No. 12962. Recreational Fisheries
 Ex. Ord. No. 12962, June 7, 1995, 60 F.R. 30769, as amended by Ex. Ord. No. 13474, Sept. 26, 2008, 73 F.R. 57229, provided:
@@ -611,7 +611,7 @@ of the Continental Shelf which appertains to the United States, and publishes no
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Proclamation Numbered 5030, referred to in par. (11), is set out under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 
@@ -888,7 +888,7 @@ There are authorized to be appropriated to the Secretary to carry out the provis
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 2007—Pub. L. 109–479 reenacted section catchline without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2007 to 2013 for provisions authorizing appropriations for fiscal years 1996 to 1999.
@@ -912,7 +912,7 @@ Pub. L. 102–251, title III, §§ 301(c), 308, Mar. 9, 1992, 106 Stat. 62, 66, 
 (3) All fishery resources in the special areas.
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 1990—Subsec. (b)(1). Pub. L. 101–627 substituted “any waters of a foreign nation” for “any foreign nation’s territorial sea or exclusive economic zone (or the equivalent), to the extent that that sea or zone is recognized by the United States”.
@@ -934,7 +934,7 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 2007—Pub. L. 109–479 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
@@ -1162,7 +1162,7 @@ Pub. L. 102–251, title III, §§ 301(d), 308, Mar. 9, 1992, 106 Stat. 63, 66, 
 (4) in subsection (j), (A) by inserting “, special areas,” immediately after “exclusive economic zone”, and (B) by inserting “, areas,” immediately after “such zone”.
 
 #### References in Text
-This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (c), (d), (e)(2)(C)(iii), (g), and (h)(3), (6)(D), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 2007—Subsec. (d). Pub. L. 109–479, § 5, substituted “is” for “shall be” and “cannot, or will not,” for “will not” and inserted at end “Allocations of the total allowable level of foreign fishing are discretionary, except that the total allowable level shall be zero for fisheries determined by the Secretary to have adequate or excess domestic harvest capacity.”
@@ -1376,7 +1376,7 @@ Pub. L. 102–251, title III, §§ 301(e)(1), (2), 308, Mar. 9, 1992, 106 Stat. 
 (2) in subsection (c), (A) by inserting “or special areas” immediately after “February 28, 1977)” and (B) by striking “such zone or area” and inserting in lieu thereof “such zone or areas”.
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(5), (b), and (h)(1), (2)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (a)(5), (b), and (h)(1), (2)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 1996—Subsec. (c). Pub. L. 104–297, § 105(b)(1), inserted before period at end “or [section 1824(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/e&num=0&edition=prelim)”.
@@ -1755,7 +1755,7 @@ Pub. L. 95–6, § 5, as added Pub. L. 95–73, July 27, 1977, 91 Stat. 283; ame
 Pub. L. 102–251, title III, §§ 301(f), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “within the special areas,” before “or for anadromous species” and “or areas” after “such zone”.
 
 #### References in Text
-This chapter, referred to in subsecs. (b)(6)(A), (c), (d)(3)(A), and (e)(2)(A), (C), (7), (8), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (b)(6)(A), (c), (d)(3)(A), and (e)(2)(A), (C), (7), (8), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Section 112(b) of the Sustainable Fisheries Act, referred to in subsec. (e)(4)(A)(v), is section 112(b) of Pub. L. 104–297, which amended [section 1856 of this title](./chapter-038-fishery-conservation-and-management.md#section-1856). The reference probably should have been to section 111(b) of Pub. L. 104–297 which relates to western Pacific demonstration projects and is set out as a note under [section 1855 of this title](./chapter-038-fishery-conservation-and-management.md#section-1855).
 
@@ -1959,7 +1959,7 @@ The Driftnet Impact Monitoring, Assessment, and Control Act of 1987, referred to
 
 Presidential Proclamation Numbered 5030, referred to in subsec. (g), is set out under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 
-This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 1996—Subsec. (e). Pub. L. 104–297, § 105(f)(1), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which read as follows:
@@ -2562,15 +2562,15 @@ This Act, referred to in subsec. (b)(1), probably means title VI of Pub. L. 104�
 
 Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (c)(5), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act ([16 U.S.C. 1826a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826a/a&num=0&edition=prelim), (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
-The Marine Mammal Protection Act, referred to in subsec. (e)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act, referred to in subsec. (e)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
-The Endangered Species Act, referred to in subsec. (e)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act, referred to in subsec. (e)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 The Shark Finning Prohibition Act, referred to in subsec. (e)(1), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under [section 1822 of this title](./chapter-038-fishery-conservation-and-management.md#section-1822). For complete classification of this Act to the Code, see Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
+The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means the Atlantic Tunas Convention Act of 1975, Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
 
 #### Codification
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
@@ -2641,7 +2641,7 @@ The Secretary may acquire observers for such program through contract with quali
 ### Statutory Notes
 
 #### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Section 101 of the Act of 1976 [[16 U.S.C. 1811](./chapter-038-fishery-conservation-and-management.md#section-1811)], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, § 101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
@@ -2779,7 +2779,7 @@ Pub. L. 111–207, § 4(b), July 27, 2010, 124 Stat. 2251, as amended by Pub. L.
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a)(8), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (a)(8), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 2007—Subsec. (a)(8). Pub. L. 109–479 inserted “by utilizing economic and social data that meet the requirements of paragraph (2),” after “fishing communities”.
@@ -3177,11 +3177,11 @@ Subsection (k), referred to in subsec. (b)(2)(C), was redesignated subsec. (j) o
 
 The General Schedule, referred to in subsec. (d), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
-This chapter, referred to in subsecs. (f)(2), (6), (g)(2), (h), (k)(1)(E), and (l), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (f)(2), (6), (g)(2), (h), (k)(1)(E), and (l), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Section 515 of the Treasury and General Government Appropriations Act for Fiscal year 2001, referred to in subsec. (g)(1)(E), is section 1(a)(3) [title V, § 515] of Pub. L. 106–554, which is set out as a note under [section 3516 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3516&num=0&edition=prelim), Public Printing and Documents.
 
-The Federal Advisory Committee Act, referred to in subsec. (i)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (i)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The National Environmental Policy Act, referred to in subsec. (k)(1)(F), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
@@ -3544,7 +3544,7 @@ Pub. L. 99–659, title I, § 113, Nov. 14, 1986, 100 Stat. 3715, provided that:
 Pub. L. 102–251, title III, §§ 301(g), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(1)(A) is amended by inserting “or special areas,” after “exclusive economic zone” and “or areas” after “such zone”.
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(1)(C), (5) and (b)(2)(C), (4), (5), (10), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (a)(1)(C), (5) and (b)(2)(C), (4), (5), (10), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 2007—Subsec. (a)(5). Pub. L. 109–479, § 104(a)(1), (2), substituted “charter fishing, and fish processing” for “and charter fishing” and inserted “economic information necessary to meet the requirements of this chapter,” after “number of hauls,”.
@@ -3887,7 +3887,7 @@ Pub. L. 104–297, title I, § 108(i), Oct. 11, 1996, 110 Stat. 3581, provided t
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (b), (c)(1)(G), (9), (g)(2), and (h), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006, referred to in subsec. (h), is Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3575. Section 302(f) of the Act (120 Stat. 3624) is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2007 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
@@ -4104,11 +4104,11 @@ Pub. L. 109–479, title I, § 106(e), Jan. 12, 2007, 120 Stat. 3594, provided t
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Paragraph (3), referred to in subsec. (f)(1), was repealed by Pub. L. 104–297, title I, § 109(f), Oct. 11, 1996, 110 Stat. 3585.
 
-The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
 
 The Western and Central Pacific Fisheries Convention Implementation Act, referred to in subsec. (g)(2), is title V of Pub. L. 109–479, Jan. 12, 2007, 120 Stat. 3635, which is classified generally to chapter 88 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-088-western-and-central-pacific-fisheries-convention.md#section-6901) and Tables.
 
@@ -4552,9 +4552,9 @@ Pub. L. 101–627, title I, § 108(k), Nov. 28, 1990, 104 Stat. 4447, as amended
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (e), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (e), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
 
 The Regulatory Flexibility Act ([5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) et seq.), referred to in subsec. (e), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§ 601 et seq.) of Title 5, Government Organization and Employees. For complete classification of the Act to the Code, see Short Title note set out under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) and Tables.
 
@@ -4737,7 +4737,7 @@ Pub. L. 104–297, title I, § 111(b), Oct. 11, 1996, 110 Stat. 3594, as amended
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(1), (2), (3)(C) and (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (a)(1), (2), (3)(C) and (b)(1)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 1996—Subsec. (a)(3). Pub. L. 104–297, § 112(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Except as otherwise provided by paragraph (2), a State may not directly or indirectly regulate any fishing vessel outside its boundaries, unless the vessel is registered under the law of that State.”
@@ -4876,9 +4876,9 @@ Pub. L. 102–251, title III, §§ 301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, 
 (4) in paragraph (4), by inserting “or special areas” immediately after “exclusive economic zone”.
 
 #### References in Text
-This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, as amended, which is classified principally to chapter 71 (§ 5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under [section 5101 of this title](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5101) and Tables.
+The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to chapter 71 (§ 5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under [section 5101 of this title](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5101) and Tables.
 
 #### Amendments
 2015—Par. (1)(Q). Pub. L. 114–81 inserted before the semicolon “or any treaty or in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party”.
@@ -4959,7 +4959,7 @@ Nothing in section 103 of Pub. L. 111–348 (amending this section and enacting 
 
 <a id="section-1858"></a>
 ## § 1858. Civil penalties and permit sanctions
-**(a) Assessment of penalty** Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), to have committed an act prohibited by [section 1857 of this title](./chapter-038-fishery-conservation-and-management.md#section-1857) shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing.
+**(a) Assessment of penalty** Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim), to have committed an act prohibited by section 1857 or [section 1870 of this title](./chapter-038-fishery-conservation-and-management.md#section-1870) shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $100,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary, or his designee, by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, and such other matters as justice may require. In assessing such penalty the Secretary may also consider any information provided by the violator relating to the ability of the violator to pay, Provided, That the information is served on the Secretary at least 30 days prior to an administrative hearing.
 
 **(b) Review of civil penalty** Any person against whom a civil penalty is assessed under subsection (a) or against whom a permit sanction is imposed under subsection (g) (other than a permit suspension for nonpayment of penalty or fine) may obtain review thereof in the United States district court for the appropriate district by filing a complaint against the Secretary in such court within 30 days from the date of such order. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim). The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in [section 706(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section706/2&num=0&edition=prelim).
 
@@ -4998,12 +4998,10 @@ Nothing in section 103 of Pub. L. 111–348 (amending this section and enacting 
 ### Statutory Notes
 
 #### Amendment of Subsection (a)
-Pub. L. 116–340, § 3(b), (c), Jan. 13, 2021, 134 Stat. 5129, provided that, effective 1 year after Jan. 13, 2021, subsection (a) of this section is amended by inserting “or section 1870” after “section 1857”.
-
 Pub. L. 116–340, § 3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that, effective five years after Jan. 13, 2021, subsection (a) of this section is amended by striking “or section 1870” after “section 1857”.
 
 #### References in Text
-This chapter, referred to in subsec. (g)(1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (g)(1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 2021—Subsec. (a). Pub. L. 116–340, § 3(e)(2), struck out “or section 1870” after “section 1857”.
@@ -5052,7 +5050,7 @@ Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly se
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 1990—Subsec. (a)(1). Pub. L. 101–627, § 115(a), amended par. (1) generally, substituting “(I), or (L)” for “or (I)”.
@@ -5109,7 +5107,7 @@ shall apply to seizures and forfeitures incurred, or alleged to have been incurr
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (c), (d)(2), and (e), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (c), (d)(2), and (e), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 1996—Subsec. (e)(3). Pub. L. 104–297 added par. (3).
@@ -5268,7 +5266,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Pub. L. 102–251, title III, §§ 301(i), 308, Mar. 9, 1992, 106 Stat. 64, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (b)(2) is amended by inserting “and special areas,” after “exclusive economic zone”.
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3371 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3371) and Tables.
 
@@ -5649,7 +5647,7 @@ For provision terminating reporting requirement under this section, see section 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (g)(1), (h)(1), and (j)(2), (3), (6), (7), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (g)(1), (h)(1), and (j)(2), (3), (6), (7), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Hereafter, referred to in subsec. (j)(1), probably means on and after the date of enactment of Pub. L. 108–199, which enacted subsec. (j) of this section and was approved Jan. 23, 2004.
 
@@ -5711,9 +5709,9 @@ Subsecs. (f) to (i). Pub. L. 104–297, § 117(a)(3), added subsecs. (f) to (i).
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a)(3), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (a)(3), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim), Agriculture, and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim), Agriculture, and Tables.
 
 #### Amendments
 1996—Subsec. (a)(4). Pub. L. 104–297 substituted “1999” for “1997”.
@@ -5802,7 +5800,7 @@ Pub. L. 109–479, title I, § 115, Jan. 12, 2007, 120 Stat. 3604, provided that
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -5844,7 +5842,7 @@ Except to the extent determined by the Secretary, or under State law, as present
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 
 <a id="section-1868"></a>
@@ -5891,8 +5889,8 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 ### Statutory Notes
 
-#### Delayed Effective Date and Termination of Section
-For delayed effective date of section and for termination of section five years after Jan. 13, 2021, see Effective and Termination Dates notes below.
+#### Termination of Section
+For termination of section five years after Jan. 13, 2021, see Effective and Termination Dates note below.
 
 #### References in Text
 The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsec. (b), is subtitle F (§ 1601 et seq.) of Pub. L. 112–141, div. A, title I, July 6, 2012, 126 Stat. 588, which is set out as a note under [section 1321 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321&num=0&edition=prelim), Navigation and Navigable Waters. For complete classification of this Act to the Code, see Tables.
@@ -6056,9 +6054,9 @@ Pub. L. 116–340, § 3(e), Jan. 13, 2021, 134 Stat. 5129, provided in part that
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(1), (d) and (h)(2)(B), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (a)(1), (d) and (h)(2)(B), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
 #### Prior Provisions
 A prior section 1881, Pub. L. 94–265, title IV, § 401, Apr. 13, 1976, 90 Stat. 359, related to authority to amend regulations to conform to Law of the Sea Treaty, prior to repeal by Pub. L. 99–659, title I, § 110, Nov. 14, 1986, 100 Stat. 3715.
@@ -6151,11 +6149,11 @@ Pub. L. 115–405, § 201(b), Dec. 31, 2018, 132 Stat. 5358, provided that: “T
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b)(1), (3) and (c)(1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (b)(1), (3) and (c)(1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (c)(1), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (c)(1), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
-The Endangered Species Act, referred to in subsec. (c)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act, referred to in subsec. (c)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Prior Provisions
 A prior section 402 of Pub. L. 94–265 repealed former sections 1081 to 1086 and 1091 to 1094 of this title, prior to being amended generally by Pub. L. 104–297.
@@ -6193,11 +6191,11 @@ Subsec. (b)(3). Pub. L. 109–479, § 203(a)(3), substituted “(2)(A).” for �
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
-The Federal Employee Compensation Act, referred to in subsec. (c), is act Sept. 7, 1916, ch. 458, 39 Stat. 742, as amended, which was repealed and the provisions thereof were reenacted as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+The Federal Employee Compensation Act, referred to in subsec. (c), is act Sept. 7, 1916, ch. 458, 39 Stat. 742, which was repealed and the provisions thereof were reenacted as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 #### Prior Provisions
 A prior section 403 of Pub. L. 94–265 amended sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, and enacted provisions formerly set out as notes under sections 1972 and 1973 of Title 22, prior to being amended generally by Pub. L. 104–297.
@@ -6246,7 +6244,7 @@ A prior section 403 of Pub. L. 94–265 amended sections 1972 and 1973 of Title 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (e)(2)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (a) and (e)(2)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Prior Provisions
 A prior section 404 of Pub. L. 94–265, amended [section 1362 of this title](./chapter-031-marine-mammal-protection.md#section-1362) and enacted provisions formerly set out as a note under [section 1362 of this title](./chapter-031-marine-mammal-protection.md#section-1362), prior to being amended generally by Pub. L. 104–297.
@@ -6296,7 +6294,7 @@ Pub. L. 104–297, title II, § 208, Oct. 11, 1996, 110 Stat. 3614, as amended b
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Prior Provisions
 A prior section 405 of Pub. L. 94–265, amended [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and enacted provisions formerly set out as a note under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971), prior to being amended generally by Pub. L. 104–297.
@@ -6344,7 +6342,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Codification
 October 11, 1996, referred to in subsec. (d), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–297, which amended this section generally, to reflect the probable intent of Congress.
@@ -6408,7 +6406,7 @@ October 11, 1996, referred to in subsec. (d), was in the original “the date of
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(1)(C), (2)(B) and (b), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsecs. (a)(1)(C), (2)(B) and (b), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 2007—Subsecs. (a)(1)(D), (c)(1). Pub. L. 109–479 substituted “a limited access privilege” for “an individual fishing quota”.

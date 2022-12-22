@@ -262,7 +262,7 @@ For purposes of this chapter:
 #### References in Text
 [Section 10224 of this title](./chapter-108-nuclear-waste-policy.md#section-10224), referred to in par. (17), was in the original a reference to section 305 of Pub. L. 97–425, which is classified to [section 10225 of this title](./chapter-108-nuclear-waste-policy.md#section-10225), and was translated as [section 10224 of this title](./chapter-108-nuclear-waste-policy.md#section-10224) as the probable intent of Congress, in view of the Office of Civilian Radioactive Waste Management being established by [section 10224 of this title](./chapter-108-nuclear-waste-policy.md#section-10224).
 
-The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 [Section 10156(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10156/c&num=0&edition=prelim), referred to in par. (26), was in the original a reference to section 137(c) of Pub. L. 97–425, which is classified to [section 10157(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10157/c&num=0&edition=prelim), and has been translated as [section 10156(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10156/c&num=0&edition=prelim) as the probable intent of Congress, in view of the Interim Storage Fund being established by [section 10156(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10156/c&num=0&edition=prelim).
 
@@ -302,7 +302,7 @@ Nothing in this chapter shall be deemed to affect the Marine Protection, Researc
 ### Statutory Notes
 
 #### References in Text
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in text, is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which enacted chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in text, is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which enacted chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
 
 
 <a id="section-10135"></a>
@@ -517,7 +517,7 @@ Ronald Reagan.
 #### References in Text
 Subsection (b)(1), referred to in subsec. (a), probably means subsec. (b)(1) of [section 10132 of this title](./chapter-108-nuclear-waste-policy.md#section-10132), which relates to nomination of repository sites for radioactive waste and submission of environmental assessments for those sites.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 #### Amendments
 1987—Subsec. (a). Pub. L. 100–202 and Pub. L. 100–203, § 5011(e)(2), which contained identical amendments directing that “at the Yucca Mountain site” be substituted for “beginning” and all that follows through “geological media”, were executed by substituting “at the Yucca Mountain site” for “beginning with the candidate sites that have been approved under [section 10132 of this title](./chapter-108-nuclear-waste-policy.md#section-10132) and are located in various geologic media” as the probable intent of Congress.
@@ -610,11 +610,11 @@ Subsec. (c)(3), (4). Pub. L. 100–202 and Pub. L. 100–203, § 5011(g)(3), ame
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1)(D) and (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1)(D) and (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (f)(4), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Energy Reorganization Act of 1974, referred to in subsec. (f)(5), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended. Title II of the Energy Reorganization Act of 1974 is classified generally to subchapter II (§ 5841 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (f)(5), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233. Title II of the Energy Reorganization Act of 1974 is classified generally to subchapter II (§ 5841 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
 #### Amendments
 1987—Subsec. (a)(1). Pub. L. 100–202 and Pub. L. 100–203, § 5011(h)(1)(A)–(E), amended par. (1) identically, in introductory provisions substituting “vicinity of the Yucca Mountain site” for “vicinity of each site under consideration for recommendation to the President under this paragraph as a site for the development of a repository”, striking out “in which such site is located” after “residents of the area”, substituting “activities at the Yucca Mountain site” for “activities at not less than 3 candidate sites for the first proposed repository, or from all of the characterized sites for the development of subsequent respositories” [sic] and “of Nevada” for “in which such site is located, or the governing body of the affected Indian tribe where such site is located, as the case may be”, and struck out before last sentence “In making site recommendations and approvals subsequent to the first site recommendation, the Secretary and the President, respectively, shall also consider the need for regional distribution of repositories and the need to minimize, to the extent practicable, the impacts and cost of transporting spent fuel and solidified high-level radioactive waste.”
@@ -941,7 +941,7 @@ Pub. L. 107–200, July 23, 2002, 116 Stat. 735, provided: “That there hereby 
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(D), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(D), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 
 <a id="section-10154"></a>
@@ -984,7 +984,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(D),
 #### References in Text
 The Atomic Energy Act of 1954, referred to in subsec. (b)(1)(A), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Energy Reorganization Act of 1974, referred to in subsec. (b)(1)(A), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (b)(1)(A), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
 #### Nuclear Waste Storage and Disposal at Yucca Mountain Site
 Pub. L. 102–486, title VIII, § 801, Oct. 24, 1992, 106 Stat. 2921, provided that: “(a) Environmental Protection Agency Standards.—“(1) Promulgation.—Notwithstanding the provisions of section 121(a) of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10141(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10141/a&num=0&edition=prelim)), section 161 b. of the Atomic Energy Act of 1954 ([42 U.S.C. 2201(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/b&num=0&edition=prelim)), and any other authority of the Administrator of the Environmental Protection Agency to set generally applicable standards for the Yucca Mountain site, the Administrator shall, based upon and consistent with the findings and recommendations of the National Academy of Sciences, promulgate, by rule, public health and safety standards for protection of the public from releases from radioactive materials stored or disposed of in the repository at the Yucca Mountain site. Such standards shall prescribe the maximum annual effective dose equivalent to individual members of the public from releases to the accessible environment from radioactive materials stored or disposed of in the repository. The standards shall be promulgated not later than 1 year after the Administrator receives the findings and recommendations of the National Academy of Sciences under paragraph (2) and shall be the only such standards applicable to the Yucca Mountain site. “(2) Study by national academy of sciences.—Within 90 days after the date of the enactment of this Act [Oct. 24, 1992], the Administrator shall contract with the National Academy of Sciences to conduct a study to provide, by not later than December 31, 1993, findings and recommendations on reasonable standards for protection of the public health and safety, including—“(A) whether a health-based standard based upon doses to individual members of the public from releases to the accessible environment (as that term is defined in the regulations contained in subpart B of part 191 of title 40, Code of Federal Regulations, as in effect on November 18, 1985) will provide a reasonable standard for protection of the health and safety of the general public; “(B) whether it is reasonable to assume that a system for post-closure oversight of the repository can be developed, based upon active institutional controls, that will prevent an unreasonable risk of breaching the repository’s engineered or geologic barriers or increasing the exposure of individual members of the public to radiation beyond allowable limits; and “(C) whether it is possible to make scientifically supportable predictions of the probability that the repository’s engineered or geologic barriers will be breached as a result of human intrusion over a period of 10,000 years. “(3) Applicability.—The provisions of this section shall apply to the Yucca Mountain site, rather than any other authority of the Administrator to set generally applicable standards for radiation protection. “(b) Nuclear Regulatory Commission Requirements and Criteria.—“(1) Modifications.—Not later than 1 year after the Administrator promulgates standards under subsection (a), the Nuclear Regulatory Commission shall, by rule, modify its technical requirements and criteria under section 121(b) of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10141(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10141/b&num=0&edition=prelim)), as necessary, to be consistent with the Administrator’s standards promulgated under subsection (a). “(2) Required assumptions.—The Commission’s requirements and criteria shall assume, to the extent consistent with the findings and recommendations of the National Academy of Sciences, that, following repository closure, the inclusion of engineered barriers and the Secretary’s post-closure oversight of the Yucca Mountain site, in accordance with subsection (c), shall be sufficient to—“(A) prevent any activity at the site that poses an unreasonable risk of breaching the repository’s engineered or geologic barriers; and “(B) prevent any increase in the exposure of individual members of the public to radiation beyond allowable limits. “(c) Post-Closure Oversight.—Following repository closure, the Secretary of Energy shall continue to oversee the Yucca Mountain site to prevent any activity at the site that poses an unreasonable risk of—“(1) breaching the repository’s engineered or geologic barriers; or “(2) increasing the exposure of individual members of the public to radiation beyond allowable limits.”
@@ -1209,7 +1209,7 @@ The Atomic Energy Act of 1954, referred to in subsec. (b)(3), is act Aug. 1, 194
 #### References in Text
 The Atomic Energy Act of 1954, referred to in subsec. (a)(1)(A)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Energy Reorganization Act of 1974, referred to in subsec. (a)(1)(A)(i), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (a)(1)(A)(i), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
 [Section 10198 of this title](./chapter-108-nuclear-waste-policy.md#section-10198), referred to in subsec. (i), was in the original a reference to section 217 of Pub. L. 97–425, which is classified to [section 10197 of this title](./chapter-108-nuclear-waste-policy.md#section-10197), and has been translated as [section 10198 of this title](./chapter-108-nuclear-waste-policy.md#section-10198) as the probable intent of Congress in view of section 10198(c)(2) which directs the Secretary to provide spent nuclear fuel for the research and development program authorized by [section 10198(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10198/c&num=0&edition=prelim) from spent nuclear fuel received by the Secretary for storage under [section 10155 of this title](./chapter-108-nuclear-waste-policy.md#section-10155).
 
@@ -1380,7 +1380,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 
 <a id="section-10172"></a>
@@ -1516,7 +1516,7 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 #### Codification
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
@@ -1570,7 +1570,7 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 #### Codification
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
@@ -1749,7 +1749,7 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
@@ -1945,7 +1945,7 @@ The provisions of this subchapter are subject to [section 10107 of this title](.
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 
 <a id="section-10221"></a>
@@ -2423,7 +2423,7 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 #### References in Text
 The Atomic Energy Act of 1954, referred to in subsec. (d)(4), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Energy Reorganization Act of 1982, referred to in subsec. (d)(4), probably means the Energy Reorganization Act of 1974, Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended. Title II of the Energy Reorganization Act of 1974 is classified generally to subchapter II (§ 5841 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+The Energy Reorganization Act of 1982, referred to in subsec. (d)(4), probably means the Energy Reorganization Act of 1974, Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233. Title II of the Energy Reorganization Act of 1974 is classified generally to subchapter II (§ 5841 et seq.) of chapter 73 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
 #### Codification
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
@@ -2512,7 +2512,7 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 #### Codification
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
@@ -2546,7 +2546,7 @@ In carrying out his functions under this subchapter, the Negotiator may—
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in par. (10), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in par. (10), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.

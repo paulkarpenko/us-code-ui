@@ -466,7 +466,7 @@ The provisions of the Natural Gas Act of June 21, 1938, as amended [[15 U.S.C. 7
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act of June 21, 1938, as amended, referred to in text, means act June 21, 1938, ch. 556, 52 Stat. 821, as amended, known as the Natural Gas Act, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
+The Natural Gas Act of June 21, 1938, as amended, referred to in text, means act June 21, 1938, ch. 556, 52 Stat. 821, known as the Natural Gas Act, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 
 <a id="section-167j"></a>

@@ -251,7 +251,7 @@ Section, Pub. L. 101–606, title I, § 107, Nov. 16, 1990, 104 Stat. 3101, whic
 ### Statutory Notes
 
 #### References in Text
-The National Climate Program Act, referred to in subsec. (a), is Pub. L. 95–367, Sept. 17, 1978, 92 Stat. 601, as amended, which is classified principally to chapter 56 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-056-national-climate-program.md#section-2901) and Tables.
+The National Climate Program Act, referred to in subsec. (a), is Pub. L. 95–367, Sept. 17, 1978, 92 Stat. 601, which is classified principally to chapter 56 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-056-national-climate-program.md#section-2901) and Tables.
 
 
 <a id="section-2952"></a>

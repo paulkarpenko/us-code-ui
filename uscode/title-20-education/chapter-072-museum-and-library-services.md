@@ -1085,7 +1085,7 @@ The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(6)(C)(i
 
 For the effective date of this subsection, referred to in subsec. (f)(4), as 120 days after Dec. 21, 2000, see § 1(a)(4) [div. B, title XVII, § 1712(b)] of Pub. L. 106–554, set out as an Effective Date of 2000 Amendment note below.
 
-The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221) and Tables.
+The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221) and Tables.
 
 #### Amendments
 2018—Subsec. (b)(6)(A). Pub. L. 115–410, § 11(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “elementary and secondary education, including coordination with the activities within the State that are supported by a grant under [section 6646 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6646);”.

@@ -179,7 +179,7 @@ source: >-
 #### References in Text
 The date of the enactment of the Housing and Community Development Act of 1992, referred to in subsec. (a)(4)(B), is the date of enactment of Pub. L. 102–550, which was approved Oct. 28, 1992.
 
-The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
 #### Amendments
 1992—Subsec. (a)(4)(B). Pub. L. 102–550, § 834(a)(1), substituted “the date of the enactment of the Housing and Community Development Act of 1992 occurs” for “the effective date of the regulations described in subparagraph (A) occurs”.
@@ -224,7 +224,7 @@ For termination, effective May 15, 2000, of provisions of this section relating 
 ### Statutory Notes
 
 #### References in Text
-The Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, referred to in subsec. (a), probably means the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§ 4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title](./chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs.md#section-4601) and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policy Act of 1970, referred to in subsec. (a), probably means the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title](./chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs.md#section-4601) and Tables.
 
 
 <a id="section-11504"></a>
@@ -264,7 +264,7 @@ The Uniform Relocation Assistance and Real Property Acquisition Policy Act of 19
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, referred to in subsecs. (a) and (j)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+The Housing Act of 1949, referred to in subsecs. (a) and (j)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
 
 <a id="section-11505"></a>
@@ -275,4 +275,4 @@ It is the policy of the Congress that amounts provided under the community devel
 ### Statutory Notes
 
 #### References in Text
-The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.
+The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.

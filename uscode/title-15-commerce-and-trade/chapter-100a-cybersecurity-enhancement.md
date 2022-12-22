@@ -40,16 +40,46 @@ source: >-
 
 <a id="section-7423"></a>
 ## § 7423. Identity management research and development
+**(a) In general** The Director shall carry out a program of research to support the development of voluntary, consensus-based technical standards, best practices, benchmarks, methodologies, metrology, testbeds, and conformance criteria for identity management, taking into account appropriate user concerns to—
 
-The Director shall continue a program to support the development of voluntary and cost-effective technical standards, metrology, testbeds, and conformance criteria, taking into account appropriate user concerns—
+(1) improve interoperability and portability among identity management technologies;
 
-(1) to improve interoperability among identity management technologies;
+(2) strengthen identity proofing and verification methods used in identity management systems commensurate with the level of risk, including identity and attribute validation services provided by Federal, State, and local governments;
 
-(2) to strengthen authentication methods of identity management systems;
+(3) improve privacy protection in identity management systems; and
 
-(3) to improve privacy protection in identity management systems, including health information technology systems, through authentication and security protocols; and
+(4) improve the accuracy, usability, and inclusivity of identity management systems.
 
-(4) to improve the usability of identity management systems.
+**(b) Digital identity technical roadmap** The Director, in consultation with other relevant Federal agencies and stakeholders from the private sector, shall develop and maintain a technical roadmap for digital identity management research and development focused on enabling the voluntary use and adoption of modern digital identity solutions that align with the four criteria in subsection (a).
+
+**(c) Digital identity management guidance**
+
+(1) **In general** — The Director shall develop, and periodically update, in collaboration with other public and private sector organizations, common definitions and voluntary guidance for digital identity management systems, including identity and attribute validation services provided by Federal, State, and local governments.
+
+(2) **Guidance** — The Guidance shall—
+
+  (A) align with the four criteria in subsection (a), as practicable;
+
+  (B) provide case studies of implementation of guidance;
+
+  (C) incorporate voluntary technical standards and industry best practices; and
+
+  (D) not prescribe or otherwise require the use of specific technology products or services.
+
+(3) **Consultation** — In carrying out this subsection, the Director shall consult with—
+
+  (A) Federal and State agencies;
+
+  (B) industry;
+
+  (C) potential end-users and individuals that will use services related to digital identity verification; and
+
+  (D) experts with relevant experience in the systems that enable digital identity verification, as determined by the Director.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–167 amended section generally. Prior to amendment, section related to Director’s continuance of program to support development of voluntary and cost-effective technical standards, metrology, testbeds, and conformance criteria, taking into account appropriate user concerns.
 
 
 <a id="section-7431"></a>
@@ -494,7 +524,7 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 
 **(b) Program description and components** The Federal Cyber Scholarship-for-Service Program shall—
 
-(1) provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity field;
+(1) provide scholarships through qualified institutions of higher education, including community colleges, to students who are enrolled in programs of study at institutions of higher education leading to degrees or specialized program certifications in the cybersecurity field and cybersecurity-related aspects of other related fields as appropriate, including artificial intelligence, quantum computing and aerospace;
 
 (2) provide the scholarship recipients with summer internship opportunities or other meaningful temporary appointments in the Federal information technology and cybersecurity workforce;
 
@@ -654,6 +684,8 @@ Section is comprised of section 201 of Pub. L. 113–274. Subsec. (e) of section
 The Higher Education Act of 1965, referred to in subsec. (j)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part D of title IV of the Act is classified to part D (§ 1087a et seq.) of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–167 substituted “and cybersecurity-related aspects of other related fields as appropriate, including artificial intelligence, quantum computing and aerospace;” for semicolon at end.
+
 2021—Subsec. (b)(2). Pub. L. 116–283, § 9403(1)(A), substituted “information technology and cybersecurity” for “information technology”.
 
 Subsec. (b)(3). Pub. L. 116–283, § 9403(1)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “prioritize the employment placement of at least 80 percent of scholarship recipients in an executive agency (as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim)); and”.

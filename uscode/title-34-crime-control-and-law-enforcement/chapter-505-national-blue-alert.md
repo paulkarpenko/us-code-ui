@@ -34,6 +34,9 @@ In this chapter:
 #### Codification
 Section was formerly classified to [section 14165 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14165&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Short Title
+For short title of Pub. L. 114–12, which is classified to this chapter, as the “Rafael Ramos and Wenjian Liu National Blue Alert Act of 2015”, see section 1 of Pub. L. 114–12, set out as a Short Title of 2015 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-50502"></a>
 ## § 50502. Blue Alert communications network

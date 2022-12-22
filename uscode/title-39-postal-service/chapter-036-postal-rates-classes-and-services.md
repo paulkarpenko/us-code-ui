@@ -2,7 +2,7 @@
 title: 39
 chapter: '36'
 heading: 'POSTAL RATES, CLASSES, AND SERVICES'
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39&num=0&edition=prelim
 ---
@@ -287,7 +287,7 @@ Section 3625, Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 762; Pub. L. 103–123, 
 
   (C) This paragraph shall not apply with respect to an issue of a publication unless the total paid circulation of such issue outside the county of publication (not counting recipients of copies subject to paragraph (3)) is less than 5,000.
 
-**(h)** In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former [section 4358 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section4358&num=0&edition=prelim) may not exceed 10 percent of the number of copies of such publication mailed at such rates to subscribers.
+**(h)** In the administration of this section, the number of copies of a subscription publication mailed to nonsubscribers during a calendar year at rates under subsections (a), (b), and (c) of former [section 4358 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section4358&num=0&edition=prelim) may not exceed 50 percent of the number of copies of such publication mailed at such rates to subscribers.
 
 **(i)** Repealed. Pub. L. 103–123, title VII, § 704(a)(3)(A), Oct. 28, 1993, 107 Stat. 1269.]
 
@@ -360,6 +360,8 @@ Section 513 of the Internal Revenue Code of 1986, referred to in subsecs. (j)(1)
 The phrase “shall take effect immediately and shall stay in effect hereafter”, referred to in subsec. (j)(1)(D)(III), probably means that the provision shall take effect Sept. 30, 1994, the date of enactment of Pub. L. 103–329, which enacted subsec. (j)(1)(D)(III), and shall stay in effect after that date.
 
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–108 substituted “50 percent” for “10 percent”.
+
 2006—Subsec. (a)(1) to (3). Pub. L. 109–435, § 1003(1), added pars. (1) to (3) and struck out former pars. (1) to (3). Prior to amendment, par. (1) required rates of postage for a class of mail or kind of mailer under former section 4358, 4452(b), 4452(c), 4554(b), or 4554(c) of this title to be established in accordance with the applicable provisions of this chapter, par. (2) defined “costs attributable”, “regular-rate category”, and “institutional-costs contribution”, and par. (3) required rates of postage for a class of mail or kind of mailer under former [section 4358 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section4358&num=0&edition=prelim) to be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer were equal to certain calculated amounts.
 
 Subsec. (g)(3), (4). Pub. L. 109–435, § 1003(2), added pars. (3) and (4).
@@ -569,6 +571,11 @@ The date of enactment of this section, referred to in subsec. (c), is the date o
 
 #### References in Text
 The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 109–435, which was approved Dec. 20, 2006.
+
+#### Review of Postal Service Cost Attribution Guidelines
+Pub. L. 117–108, title II, § 203, Apr. 6, 2022, 136 Stat. 1147, provided that: “Not later than the date that is one year after the date of the enactment of this Act [Apr. 6, 2022], the Postal Regulatory Commission shall initiate a review of the regulations issued pursuant to sections 3633(a) and 3652(a)(1) of title 39, United States Code, to determine whether revisions are appropriate to ensure that all direct and indirect costs attributable to competitive and market-dominant products are properly attributed to those products, including by considering the underlying methodologies in determining cost attribution and considering options to revise such methodologies. If the Commission determines, after notice and opportunity for public comment, that revisions are appropriate, the Commission shall make modifications or adopt alternative methodologies as necessary.”
+
+[For definitions of terms used in section 203 of Pub. L. 117–108, set out above, see section 2 of Pub. L. 117–108, set out as a note under [section 501 of this title](./chapter-005-postal-regulatory-commission.md#section-501).]
 
 #### Study on Equal Application of Laws to Competitive Products
 Pub. L. 109–435, title VII, § 703, Dec. 20, 2006, 120 Stat. 3244, required the Federal Trade Commission to prepare and submit to the President and Congress, and to the Postal Regulatory Commission, within 1 year after Dec. 20, 2006, a comprehensive report identifying Federal and State laws that applied differently to the United States Postal Service with respect to the competitive category of mail (within the meaning of [section 102 of this title](./chapter-001-postal-policy-and-definitions.md#section-102)) and to private companies providing similar products.
@@ -1148,3 +1155,82 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 #### Postal Service Plan
 Pub. L. 109–435, title III, § 302, Dec. 20, 2006, 120 Stat. 3219, provided that: “(a) In General.—Within 6 months after the establishment of the service standards under [section 3691 of title 39](./chapter-036-postal-rates-classes-and-services.md#section-3691), United States Code, as added by this Act, the Postal Service shall, in consultation with the Postal Regulatory Commission, develop and submit to Congress a plan for meeting those standards. “(b) Contents.—The plan under this section shall—“(1) establish performance goals; “(2) describe any changes to the Postal Service’s processing, transportation, delivery, and retail networks necessary to allow the Postal Service to meet the performance goals; “(3) describe any changes to planning and performance management documents previously submitted to Congress to reflect new performance goals; and “(4) describe the long-term vision of the Postal Service for rationalizing its infrastructure and workforce, and how the Postal Service intends to implement that vision. “(c) Postal Facilities.—“(1) Findings.—Congress finds that—“(A) the Postal Service has more than 400 logistics facilities, separate from its post office network; “(B) as noted by the President’s Commission on the United States Postal Service, the Postal Service has more facilities than it needs and the streamlining of this distribution network can pave the way for the potential consolidation of sorting facilities and the elimination of excess costs; “(C) the Postal Service has always revised its distribution network to meet changing conditions and is best suited to address its operational needs; and “(D) Congress strongly encourages the Postal Service to—“(i) expeditiously move forward in its streamlining efforts; and “(ii) keep unions, management associations, and local elected officials informed as an essential part of this effort and abide by any procedural requirements contained in the national bargaining agreements. “(2) In general.—The Postal Service plan shall include a description of—“(A) the long-term vision of the Postal Service for rationalizing its infrastructure and workforce; and “(B) how the Postal Service intends to implement that vision. “(3) Content of facilities plan.—The plan under this subsection shall include—“(A) a strategy for how the Postal Service intends to rationalize the postal facilities network and remove excess processing capacity and space from the network, including estimated timeframes, criteria, and processes to be used for making changes to the facilities network, and the process for engaging policy makers and the public in related decisions; “(B) a discussion of what impact any facility changes may have on the postal workforce and whether the Postal Service has sufficient flexibility to make needed workforce changes; “(C) an identification of anticipated costs, cost savings, and other benefits associated with the infrastructure rationalization alternatives discussed in the plan; and “(D) procedures that the Postal Service will use to—“(i) provide adequate public notice to communities potentially affected by a proposed rationalization decision; “(ii) make available information regarding any service changes in the affected communities, any other effects on customers, any effects on postal employees, and any cost savings; “(iii) afford affected persons ample opportunity to provide input on the proposed decision; and “(iv) take such comments into account in making a final decision. “(4) Annual reports.—“(A) In general.—Not later than 90 days after the end of each fiscal year, the Postal Service shall prepare and submit a report to Congress on how postal decisions have impacted or will impact rationalization plans. “(B) Contents.—Each report under this paragraph shall include—“(i) an account of actions taken during the preceding fiscal year to improve the efficiency and effectiveness of its processing, transportation, and distribution networks while preserving the timely delivery of postal services, including overall estimated costs and cost savings; “(ii) an account of actions taken to identify any excess capacity within its processing, transportation, and distribution networks and implement savings through realignment or consolidation of facilities including overall estimated costs and cost savings; “(iii) an estimate of how postal decisions related to mail changes, security, automation initiatives, worksharing, information technology systems, excess capacity, consolidating and closing facilities, and other areas will impact rationalization plans; “(iv) identification of any statutory or regulatory obstacles that prevented or will prevent or hinder the Postal Service from taking action to realign or consolidate facilities; and “(v) such additional topics and recommendations as the Postal Service considers appropriate. “(5) Existing efforts.—Effective on the date of enactment of this Act [Dec. 20, 2006], the Postal Service may not close or consolidate any processing or logistics facilities without using procedures for public notice and input consistent with those described under paragraph (3)(D). “(d) Alternate Retail Options.—The Postal Service plan shall include plans to expand and market retail access to postal services, in addition to post offices, including—“(1) vending machines; “(2) the Internet; “(3) postage meters; “(4) Stamps by Mail; “(5) Postal Service employees on delivery routes; “(6) retail facilities in which overhead costs are shared with private businesses and other government agencies; “(7) postal kiosks; or “(8) any other nonpost office access channel providing market retail access to postal services. “(e) Reemployment Assistance and Retirement Benefits.—The Postal Service plan shall include—“(1) a comprehensive plan under which reemployment assistance shall be afforded to employees displaced as a result of automation of any of its functions, the closing and consolidation of any of its facilities, or such other reasons as the Postal Service may determine; and “(2) a plan, developed in consultation with the Office of Personnel Management, to offer early retirement benefits. “(f) Continued Authority.—Nothing in this section shall be construed to prohibit the Postal Service from implementing any change to its processing, transportation, delivery, and retail networks under any authority granted to the Postal Service for those purposes.”
+
+
+<a id="section-3692"></a>
+## § 3692. Performance targets and transparency
+**(a) Performance Targets.—** Each year, to ensure that mail service for postal customers meets the service standards for market-dominant products, established under section 3691, the Postal Service shall—
+
+(1) not later than 60 days after the beginning of the fiscal year in which they will apply, establish and provide to the Postal Regulatory Commission reasonable targets for performance for each product; and
+
+(2) provide the previous fiscal year’s performance targets in its Annual Compliance Report to the Postal Regulatory Commission for evaluation of compliance for each product.
+
+**(b) Postal Regulatory Commission Determination of Certain Performance Information.—** Not later than 90 days after first receiving the performance targets under subsection (a)(1), the Postal Regulatory Commission shall provide to the Postal Service—
+
+(1) requirements for the Postal Service to publish nationwide, regional, and local delivery area performance information in accordance with subsection (c)(2) that—
+
+  (A) are consistent with the organizational structure of the delivery network of the Postal Service (including at the District and Area organizational levels, or the functional equivalents, and, to the extent practicable, at the U.S. ZIP Code Area level);
+
+  (B) reflect the most granular geographic level of performance information appropriate for the Postal Service to publish; and
+
+  (C) includes time period segments for the published geographic levels to satisfy the publishing requirements of subparagraphs (A) and (C) of subsection (c)(2); and
+
+(2) recommendations for any modifications to the Postal Service’s measurement systems necessary to measure and publish the performance information under subsection (c)(2) that the Postal Regulatory Commission deems relevant.
+
+**(c) Public Performance Dashboard.—**
+
+(1) **In general.—** — The Postal Service shall develop and maintain a publicly available Website with an interactive web-tool that provides performance information for market-dominant products that is updated on a weekly basis.
+
+(2) **Performance information.—** — The performance information provided for a market-dominant product on the Website shall include—
+
+  (A) the type of market-dominant product;
+
+  (B) performance information for different geographic areas, consistent with subsection (b);
+
+  (C) performance information for different time periods, including annual, quarterly, monthly, and weekly segments;
+
+  (D) comparisons of performance information for market-dominant products to performance information for previous time periods to facilitate identification of performance trends; and
+
+  (E) the performance targets then in effect, and the performance targets for the previous fiscal year, as established under subsection (a)(1).
+
+(3) **Comprehensibility.—** — The Website shall include plain language descriptions of the elements required under paragraph (2) and information on the collection process, measurement methodology, completeness, accuracy, and validity of the performance information provided on the Website.
+
+(4) **Address search functionality.—** — The Website shall include functionality to enable a user to search for performance information by street address, ZIP Code, or post office box.
+
+(5) **Format.—** — The Postal Service shall make the performance information provided on the Website available—
+
+  (A) in a manner that—
+
+    (i) presents the information required under paragraph (2) on an interactive dashboard;
+
+    (ii) is searchable and may be sorted and filtered by the elements described in paragraph (2); and
+
+    (iii) to the extent practicable, enables any person or entity to download in bulk—
+
+      (I) such performance information; and
+
+      (II) the results of a search by the elements described in paragraph (2);
+
+  (B) under an “open license” which has the meaning given that term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim); and
+
+  (C) as an “open Government data asset” and in a “machine-readable” format which have the meaning given those terms in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim).
+
+(6) **Consultation.—** — The Postal Service shall regularly consult with the Postal Regulatory Commission on appropriate features and information to be included on the Website.
+
+(7) **Public input.—** — The Postal Service shall—
+
+  (A) solicit public input on the design and implementation of the Website; and
+
+  (B) maintain a public feedback tool to ensure each feature of, and the information on, the Website is usable and understandable.
+
+(8) **Deadline.—** — The Postal Service shall implement and make available to the public (and make any subsequent changes in accordance with subsection (b)) the Website not later than 60 days from the date on which the Postal Service receives the requirements and recommendations from the Postal Regulatory Commission under subsection (b), and shall continuously update such information on the Website as required by subsection (b).
+
+(9) **Availability.—** — A link and plain language description of the Website shall be made available on any webpage where performance targets and measurements established under subsection (a)(1) are made available to the public.
+
+(10) **Reporting.—** — The Postal Service, the Postmaster General, or the Board, as applicable, shall reference the dashboard described in paragraph (5)(A)(i) in the Annual Performance Plan under section 2803, the Annual Performance Report under section 2804, and the Annual Report under section 2402.
+
+(11) **Definitions.—** — In this subsection—
+
+  (A) *Performance information.—* — The term “performance information” means the objective external performance measurements established under section 3691(b)(1)(D).
+
+  (B) *Website.—* — The term “Website” means the website described in paragraph (1).

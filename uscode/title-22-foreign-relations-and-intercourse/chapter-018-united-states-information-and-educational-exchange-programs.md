@@ -1119,7 +1119,7 @@ Pub. L. 114–323, title VII, § 703(b), Dec. 16, 2016, 130 Stat. 1941, as amend
 Section repealed upon transmittal of determination by President under [section 6063(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6063/c/3&num=0&edition=prelim) that democratically elected government in Cuba is in power, see [section 6037(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6037/c&num=0&edition=prelim).
 
 #### References in Text
-The Communications Act of 1934, referred to in subsec. (d)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
+The Communications Act of 1934, referred to in subsec. (d)(1), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Television Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
@@ -1165,7 +1165,7 @@ Section repealed upon transmittal of determination by President under [section 6
 #### References in Text
 This subchapter, referred to in subsec. (a), was in the original “this division”, and was translated as reading “this Act”, meaning Pub. L. 98–111, which enacted this subchapter, to reflect the probable intent of Congress.
 
-The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§ 1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsec. (b), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
 
 #### Codification
 Section was enacted as part of the Radio Broadcasting to Cuba Act which comprises this subchapter, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
@@ -1801,7 +1801,7 @@ In carrying out the provisions of this chapter, the Secretary, or any Government
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in par. (21), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in par. (21), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Amendments
 1991—Par. (9). Pub. L. 102–138, § 205, amended par. (9) generally. Prior to amendment, par. (9) read as follows: “pay the actual expenses of preparing and transporting to their former homes the remains of persons, not United States Government employees, who may die away from their homes while participating in activities conducted under this chapter;”.
@@ -1855,7 +1855,7 @@ The exchange allowances or proceeds derived from the exchange or sale of passeng
 ### Statutory Notes
 
 #### References in Text
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Codification
 “[Section 503 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section503&num=0&edition=prelim)” substituted in text for “section 201(c) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -1888,7 +1888,7 @@ A cultural exchange, international fair or exposition, or other exhibit or demon
 ### Statutory Notes
 
 #### References in Text
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 
 <a id="section-1475e"></a>
@@ -1914,7 +1914,7 @@ The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, i
 ### Statutory Notes
 
 #### References in Text
-The Mutual Education and Cultural Exchange Act of 1961, referred to in subsec. (b)(7), probably means the Mutual Educational and Cultural Exchange Act of 1961, Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+The Mutual Education and Cultural Exchange Act of 1961, referred to in subsec. (b)(7), probably means the Mutual Educational and Cultural Exchange Act of 1961, Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Amendments
 1998—Pub. L. 105–277 amended section catchline and text generally. Prior to amendment, text read as follows:
@@ -2003,7 +2003,7 @@ Pub. L. 102–138, title II, § 206(b), Oct. 28, 1991, 105 Stat. 693, which prov
 ### Statutory Notes
 
 #### References in Text
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Codification
 Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1992 and 1993, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.

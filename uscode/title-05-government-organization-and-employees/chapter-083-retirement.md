@@ -806,7 +806,7 @@ Sections 60e–7, 60e–8, 60e–9, 60e–10, 60e–11, 60e–12, 60e–13, and 
 
 Section 5 of the Act of February 13, 1911, referred to in par. (3)(G), is classified to [section 267 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section267&num=0&edition=prelim), Customs Duties.
 
-The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in par. (18)(B), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note below.
+The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in par. (18)(B), is Pub. L. 98–168, title II, Nov. 29, 1983, 97 Stat. 1106, which is set out as a note below.
 
 The Bankruptcy Act, referred to in par. (22)(A), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
@@ -2508,6 +2508,40 @@ Section 8 of Pub. L. 92–297 provided that: “[Section 8335(f) of title 5](htt
 
   (B) is separated from the service before January 1, 2000, after becoming 48 years of age and completing 18 years of service as a law enforcement officer or firefighter, or any combination of such service totaling at least 18 years.
 
+(3)
+
+  (A) In this paragraph—
+
+    (i) the term “affected individual” means an individual covered under this subchapter who—
+
+      (I) is performing service in a covered position;
+
+      (II) while on duty, becomes ill or is injured as a direct result of the performance of such duties before the date on which the individual becomes entitled to an annuity under paragraph (1) of this subsection or subsection (e), (m), or (n), as applicable;
+
+      (III) because of the illness or injury described in subclause (II), is permanently unable to render useful and efficient service in the employee’s covered position, as determined by the agency in which the individual was serving when such individual incurred the illness or injury; and
+
+      (IV) is appointed to a position in the civil service that—
+
+        (aa) is not a covered position; and
+
+        (bb) is within an agency that regularly appoints individuals to supervisory or administrative positions related to the activities of the former covered position of the individual;
+
+    (ii) the term “covered position” means a position as a law enforcement officer, customs and border protection officer, firefighter, air traffic controller, nuclear materials courier, member of the Capitol Police, or member of the Supreme Court Police.
+
+  (B) Unless an affected individual files an election described in subparagraph (E), creditable service by the affected individual in a position described in subparagraph (A)(i)(IV) shall be treated as creditable service in a covered position for purposes of this chapter and determining the amount to be deducted and withheld from the pay of the affected individual under section 8334.
+
+  (C) Subparagraph (B) shall only apply if the affected employee transitions to a position described in subparagraph (A)(i)(IV) without a break in service exceeding 3 days.
+
+  (D) The service of an affected individual shall no longer be eligible for treatment under subparagraph (B) if such service occurs after the individual—
+
+    (i) is transferred to a supervisory or administrative position related to the activities of the former covered position of the individual; or
+
+    (ii) meets the age and service requirements that would subject the individual to mandatory separation under section 8335 if such individual had remained in the former covered position.
+
+  (E) In accordance with procedures established by the Director of the Office of Personnel Management, an affected individual may file an election to have any creditable service performed by the affected individual treated in accordance with this chapter without regard to subparagraph (B).
+
+  (F) Nothing in this paragraph shall be construed to apply to such affected individual any other pay-related laws or regulations applicable to a covered position.
+
 **(d)** An employee who—
 
 (1) is separated from the service involuntarily, except by removal for cause on charges of misconduct or delinquency; or
@@ -2708,6 +2742,9 @@ after completing 25 years of service or after becoming 50 years of age and compl
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | 1966 Act |  |  |
@@ -2733,6 +2770,8 @@ The date of the enactment of this paragraph, referred to in subsec. (j)(3)(A)(ii
 Section 12 of the Act of June 18, 1934 ([25 U.S.C. 472](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section472&num=0&edition=prelim); 48 Stat. 986), referred to in subsec. (j)(4)(B), is section 12 of act June 18, 1934, ch. 576, 48 Stat. 986, which was classified to [section 472 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section472&num=0&edition=prelim), Indians, prior to editorial reclassification as [section 5116 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5116&num=0&edition=prelim).
 
 #### Amendments
+2022—Subsec. (c)(3). Pub. L. 117–225 added par. (3).
+
 2007—Subsec. (c)(1). Pub. L. 110–161, § 535(a)(4)(A), substituted “nuclear materials courier, or customs and border protection officer” for “or nuclear materials courier”.
 
 Subsecs. (m), (n). Pub. L. 110–161, § 535(a)(4)(B), substituted “as a law enforcement officer, or as a customs and border protection officer,” for “or as a law enforcement officer,”.
@@ -2830,6 +2869,9 @@ Subsecs. (e) to (h). Pub. L. 92–297 added subsec. (e) and redesignated former 
 
 Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by [section 3508 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508&num=0&edition=prelim), Education.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–225, § 3(f), Dec. 9, 2022, 136 Stat. 2298, provided that: “The amendments made by this Act [amending this section, sections 8412, 8414, 8415, 8421, 8421a, 8425, and 8462 of this title, sections 4045, 4046, and 4052 of Title 22, Foreign Relations and Intercourse, and [section 2152 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152&num=0&edition=prelim), War and National Defense]— “(1) shall take effect on the date of enactment of this Act [Dec. 9, 2022]; and “(2) shall apply to an individual who suffers an illness or injury described in section 8336(c)(3)(A)(i)(II) or [section 8412(d)(2)(A)(i)(II) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8412/d/2/A/i/II&num=0&edition=prelim), United States Code, as amended by this section, section 302(d)(1)(A)(ii) of the Central Intelligence Agency Retirement Act [[50 U.S.C. 2152(d)(1)(A)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152/d/1/A/ii&num=0&edition=prelim)], as amended by this section, or section 806(a)(6)(D)(i)(I)(bb) of the Foreign Service Act of 1980 [[22 U.S.C. 4046(a)(6)(D)(i)(I)(bb)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/a/6/D/i/I/bb&num=0&edition=prelim)], as amended by this section, on or after the date that is 2 years after the date of enactment of this Act.”
+
 #### Effective Date of 2007 Amendment; Transition Rules
 Amendment by Pub. L. 110–161 effective on the later of June 30, 2008, or the first day of the first pay period beginning at least 6 months after Dec. 26, 2007, with transition rules and rights of election, see section 535(e) of Pub. L. 110–161, set out as a note under [section 3307 of this title](./chapter-033-examination-selection-and-placement.md#section-3307).
 
@@ -2886,10 +2928,15 @@ Amendment by Pub. L. 93–350 effective July 12, 1974, see section 7 of Pub. L. 
 Amendment by Pub. L. 92–297 effective on 90th day after May 16, 1972, see section 10 of Pub. L. 92–297, set out as an Effective Date note under [section 3381 of this title](./chapter-033-examination-selection-and-placement.md#section-3381).
 
 #### Regulations
+Pub. L. 117–225, § 3(e), Dec. 9, 2022, 136 Stat. 2298, provided that: “(1) Office of personnel management.—Not later than 1 year after the date of enactment of this Act [Dec. 9, 2022], the Director of the Office of Personnel Management shall promulgate regulations to carry out the amendments made by subsections (a) and (b) [amending this section, sections 8412, 8414, 8415, 8421, 8421a, 8425, and 8462 of this title, and sections 4045 and 4052 of Title 22, Foreign Relations and Intercourse]. “(2) CIA employees.—The Director of the Central Intelligence Agency shall promulgate regulations to carry out the amendment made by subsection (c) [amending [section 2152 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152&num=0&edition=prelim), War and National Defense]. “(3) Foreign service retirement and disability system.—The Secretary of State shall promulgate regulations to carry out the amendment made by subsection (d) [amending [section 4046 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046&num=0&edition=prelim)]. “(4) Agency certification.—The regulations promulgated to carry out the amendments made by this Act [see amendments listed in pars. (1) to (3) above] shall include a requirement that the head of the agency at which an affected employee or special agent (as the case may be) incurred the applicable illness or injury certifies that such illness or injury—“(A) was incurred in the course of the employee’s or special agent’s duties; and “(B) permanently precludes the employee or special agent from rendering useful and efficient service in the covered position but would not preclude the employee or special agent from continuing to serve in the Federal service. “(5) Agency reappointment.—The regulations promulgated to carry out the amendments made by this Act shall ensure that, to the greatest extent possible, the head of each agency appoints affected employees or special agents to supervisory or administrative positions related to the activities of the former covered position of the employee or special agent. “(6) Treatment of service.—The regulations promulgated to carry out the amendments made by this Act shall ensure that the creditable service of an affected employee or special agent (as the case may be) that is not in a covered position pursuant to an election made under such amendments shall be treated as the same type of service as the covered position in which the employee or agent suffered the qualifying illness or injury.”
+
 Pub. L. 107–296, title XIII, § 1313(b)(5), Nov. 25, 2002, 116 Stat. 2296, provided that: “The Office of Personnel Management may prescribe regulations to carry out this subsection [amending this section and [section 8414 of this title](./chapter-084-federal-employees-retirement-system.md#section-8414), enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section and [section 8414 of this title](./chapter-084-federal-employees-retirement-system.md#section-8414)].”
 
 #### Termination of United States District Court for the District of the Canal Zone
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203(a) of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+
+#### Sense of Congress
+Pub. L. 117–225, § 2, Dec. 9, 2022, 136 Stat. 2293, provided that: “It is the sense of Congress that— “(1) it is in the best national and homeland security interests of the United States for Federal agencies to retain the specialized knowledge and experience of individuals who suffer an injury or illness while serving in a covered position (as defined under the amendments made by this Act [see Effective Date of 2022 Amendment note set out above]); and “(2) Federal agencies should ensure, to the greatest extent possible, that an individual who can no longer carry out the duties of a covered position, and is reappointed to a position in the civil service that is not a covered position, is reappointed within the same Federal agency, in the same geographic location, and at a level of pay commensurate to the position which the individual held immediately prior to such injury or illness.”
 
 #### Government Accountability Office: Voluntary Early Retirement
 Pub. L. 107–296, title XIII, § 1313(b)(3), Nov. 25, 2002, 116 Stat. 2296, provided that: “The amendments made by this subsection [amending this section and [section 8414 of this title](./chapter-084-federal-employees-retirement-system.md#section-8414) and repealing provisions set out as notes under this section and [section 8414 of this title](./chapter-084-federal-employees-retirement-system.md#section-8414)] shall not be construed to affect the authority under section 1 of Public Law 106–303 ([5 U.S.C. 8336](./chapter-083-retirement.md#section-8336) note; 114 State. 1063).”
@@ -4626,7 +4673,7 @@ In subsection (a), the amendment is made for consistency within the subchapter a
 In the last sentence of subsection (c), the words “this subsection” are substituted for “section 11” to reflect the codification of title 5, United States Code.
 
 #### References in Text
-The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (a), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514, as amended. Title III of the Federal Employees’ Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, [section 1005 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section1005&num=0&edition=prelim), Postal Service, and [section 410 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim), The Public Health and Welfare, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of this title and [section 6103 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), and amended provisions set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331). Section 302 of that Act is set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331). For complete classification of this Act to the Code, see Short Title note set out under [section 8401 of this title](./chapter-084-federal-employees-retirement-system.md#section-8401) and Tables.
+The Federal Employees’ Retirement System Act of 1986, referred to in subsec. (a), is Pub. L. 99–335, June 6, 1986, 100 Stat. 514. Title III of the Federal Employees’ Retirement System Act of 1986 amended sections 3121 and 6103 of Title 26, Internal Revenue Code, [section 1005 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section1005&num=0&edition=prelim), Postal Service, and [section 410 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim), The Public Health and Welfare, enacted provisions set out as notes under sections 8331, 8401, 8432, and 8472 of this title and [section 6103 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim), and amended provisions set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331). Section 302 of that Act is set out as a note under [section 8331 of this title](./chapter-083-retirement.md#section-8331). For complete classification of this Act to the Code, see Short Title note set out under [section 8401 of this title](./chapter-084-federal-employees-retirement-system.md#section-8401) and Tables.
 
 #### Amendments
 2000—Subsec. (j)(1). Pub. L. 106–361 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Payment of the lump-sum credit under subsection (a) of this section—
@@ -5978,7 +6025,7 @@ Pub. L. 87–350, § 1(b) Oct. 4, 1961, 75 Stat. 770, provided that all special 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 203, 214, 215, and 224 of the Social Security Act are classified to sections 403, 414, 415, and 424a, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 203, 214, 215, and 224 of the Social Security Act are classified to sections 403, 414, 415, and 424a, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Chapter 21 of the Internal Revenue Code of 1986, referred to in subsecs. (c) and (d)(1)(B), is classified to chapter 21 (§ 3101 et seq.) of Title 26, Internal Revenue Code.
 

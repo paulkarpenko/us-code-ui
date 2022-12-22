@@ -691,7 +691,7 @@ Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) [titl
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
 #### Amendments
 1998—Subsec. (a). Pub. L. 105–185, § 605(h)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “Except as provided by subsections (c), (d), (e), and (i) of this section, the first handler of honey shall be responsible for the collection from the producer, and payment to the Honey Board, of assessments authorized by this chapter.”

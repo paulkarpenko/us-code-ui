@@ -886,7 +886,7 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 (4)
 
-  (A) 22 See Applicability of 2020 Amendment note below. With respect to covered work-study activities, the Secretary shall carry out this section by providing to participating educational institutions an annual amount for the institution to use in paying work-study allowance under paragraph (1) to individuals enrolled at the institution.
+  (A) With respect to covered work-study activities, the Secretary shall carry out this section by providing to participating educational institutions an annual amount for the institution to use in paying work-study allowance under paragraph (1) to individuals enrolled at the institution.
 
   (B) With respect to a participating educational institution that participated in the work-study program under this section during the academic year beginning August 1, 2018, the Secretary shall determine the annual amount to provide to the educational institution under subparagraph (A) as follows:
 
@@ -974,7 +974,7 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 **(e)**
 
-(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(5) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 33 See References in Text note below. of such title).
+(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(5) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 22 See References in Text note below. of such title).
 
 (2)
 
@@ -999,9 +999,6 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 (4) The Secretary shall promulgate regulations to carry out this subsection.
 
 ### Statutory Notes
-
-#### Applicability of 2020 Amendment
-Amendment of section by section 6(a) and (b) of Pub. L. 116–154 applicable with respect to a quarter, semester, or term, as applicable, commencing on or after Aug. 1, 2021. See 2020 Amendment notes below.
 
 #### References in Text
 The Higher Education Act of 1965, referred to in subsec. (a)(5)(H), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part T of title VIII of the Act is classified generally to part T (§ 1161t) of subchapter IX of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.

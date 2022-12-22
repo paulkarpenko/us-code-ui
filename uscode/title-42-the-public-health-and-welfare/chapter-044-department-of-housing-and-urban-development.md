@@ -881,7 +881,7 @@ The Secretary of Housing and Urban Development is authorized to establish a fund
 ### Statutory Notes
 
 #### References in Text
-The Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Codification
 Section was not enacted as part of the Department of Housing and Urban Development Act which comprises this chapter.
@@ -952,7 +952,7 @@ Section, Pub. L. 95–128, title IX, § 904, Oct. 12, 1977, 91 Stat. 1149, requi
 ### Statutory Notes
 
 #### References in Text
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(1)(E), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim) and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(1)(E), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim) and Tables.
 
 Public Law 93–556, referred to in subsec. (c), is Pub. L. 93–556, Dec. 27, 1974, 88 Stat. 1789, which is set out as a note under [section 3501 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3501&num=0&edition=prelim), Public Printing and Documents.
 
@@ -1269,6 +1269,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 #### Similar Provisions
 Provisions similar to those in this section were contained in the following appropriation acts:
 
+Pub. L. 117–103, div. L, title II, § 216, Mar. 15, 2022, 136 Stat. 759.
+
 Pub. L. 116–260, div. L, title II, § 216, Dec. 27, 2020, 134 Stat. 1897.
 
 Pub. L. 116–94, div. H, title II, § 216, Dec. 20, 2019, 133 Stat. 3004.
@@ -1345,7 +1347,7 @@ Section was enacted as part of the Housing and Community Development Act of 1992
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in pars. (1)(A), (2), and (3)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in pars. (1)(A), (2), and (3)(D)(i), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 The Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1993, referred to in par. (1)(A), is Pub. L. 102–389, Oct. 6, 1992, 106 Stat. 1571. Provisions under the head “Annual Contributions for Assisted Housing” in title II of the Act appear at 106 Stat. 1582 and are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 

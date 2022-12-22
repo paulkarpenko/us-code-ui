@@ -892,6 +892,9 @@ This subchapter, referred to in par. (2), was in the original “this title”, 
 #### Codification
 Section was formerly classified to [section 16928a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16928a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Short Title
+For short title of title V of Pub. L. 114–22, which enacted this section, as the “Military Sex Offender Reporting Act of 2015”, see section 501 of Pub. L. 114–22, set out as a Short Title of 2015 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-20943"></a>
 ## § 20943. Immunity for good faith conduct

@@ -15,7 +15,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-An Act to amend the charter of the Columbia Institution for the Deaf, change its name, define its corporate powers, and provide for its organization and administration, and for other purposes, referred to in subsec. (a), is act June 18, 1954, ch. 324, 68 Stat. 265, as amended, which was classified generally to subchapter I (§ 691 et seq.) of chapter 20B of this title, and was repealed by Pub. L. 99–371, title IV, § 410(a), Aug. 4, 1986, 100 Stat. 794.
+An Act to amend the charter of the Columbia Institution for the Deaf, change its name, define its corporate powers, and provide for its organization and administration, and for other purposes, referred to in subsec. (a), is act June 18, 1954, ch. 324, 68 Stat. 265, which was classified generally to subchapter I (§ 691 et seq.) of chapter 20B of this title, and was repealed by Pub. L. 99–371, title IV, § 410(a), Aug. 4, 1986, 100 Stat. 794.
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 99–371, Aug. 4, 1986, 100 Stat. 781, known as the Education of the Deaf Act of 1986, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(2)(B) and (b)(3), (4)(C), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Amendments
 2015—Subsec. (b)(5)(A)(i). Pub. L. 114–95, § 9215(ee)(1)(A), substituted “select challenging State academic content standards, aligned academic achievement standards, and State academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (2) of [section 6311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim)” for “select challenging academic content standards, challenging student academic achievement standards, and academic assessments of a State, adopted and implemented, as appropriate, pursuant to paragraphs (1) and (3) of [section 6311(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b&num=0&edition=prelim)”.
@@ -767,9 +767,9 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (a), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–315 substituted “The” for “Not later than 30 days after August 4, 1986, the”.

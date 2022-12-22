@@ -32,7 +32,7 @@ The purposes of this chapter are—
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in par. (1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in par. (1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 9901, Pub. L. 97–35, title VI, § 672, Aug. 13, 1981, 95 Stat. 511; Pub. L. 98–558, title II, § 201, Oct. 30, 1984, 98 Stat. 2884; Pub. L. 99–425, title IV, § 401, Sept. 30, 1986, 100 Stat. 968; Pub. L. 101–501, title IV, § 401(a), Nov. 3, 1990, 104 Stat. 1251; Pub. L. 103–252, title II, § 202(a), May 18, 1994, 108 Stat. 651, authorized the Secretary to make community service grants, prior to the general amendment of this chapter by Pub. L. 105–285.
@@ -439,11 +439,11 @@ A prior section 9907, Pub. L. 97–35, title VI, § 678, Aug. 13, 1981, 95 Stat.
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(5), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
-Title XXVI, referred to in subsec. (b)(6), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, known as the Low-Income Home Energy Assistance Act of 1981, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621) and Tables.
+Title XXVI, referred to in subsec. (b)(6), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, known as the Low-Income Home Energy Assistance Act of 1981, which is classified generally to subchapter II (§ 8621 et seq.) of chapter 94 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621) and Tables.
 
 #### Prior Provisions
 A prior section 9908, Pub. L. 97–35, title VI, § 679, Aug. 13, 1981, 95 Stat. 517; Pub. L. 98–558, title II, § 205, Oct. 30, 1984, 98 Stat. 2886; Pub. L. 99–425, title IV, § 404(a), Sept. 30, 1986, 100 Stat. 969, related to withholding of funds, prior to the general amendment of this chapter by Pub. L. 105–285.
@@ -766,11 +766,11 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 ### Statutory Notes
 
 #### References in Text
-The Age Discrimination Act of 1975, referred to in subsec. (c)(1), (2)(B), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (c)(1), (2)(B), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (c)(1), (2)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§ 12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (c)(1), (2)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title II of the Act is classified generally to subchapter II (§ 12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (c)(2)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 
 <a id="section-9919"></a>
@@ -864,9 +864,11 @@ Committee on Education and the Workforce of House of Representatives changed to 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
-Pub. L. 116–260, div. H, title II, Dec. 27, 2020, 134 Stat. 1584, provided in part: “That the Secretary [of Health and Human Services] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act [Community Services Block Grant Act, [42 U.S.C. 9921](./chapter-106-community-services-block-grant-program.md#section-9921)] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act [[42 U.S.C. 9921(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9921/a/2/A&num=0&edition=prelim)]: Provided further, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: Provided further, That these procedures shall apply to such grant funds made available after November 29, 1999”.
+Pub. L. 117–103, div. H, title II, Mar. 15, 2022, 136 Stat. 460, provided in part: “That the Secretary [of Health and Human Services] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act [Community Services Block Grant Act, [42 U.S.C. 9921](./chapter-106-community-services-block-grant-program.md#section-9921)] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act [[42 U.S.C. 9921(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9921/a/2/A&num=0&edition=prelim)]: Provided further, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: Provided further, That these procedures shall apply to such grant funds made available after November 29, 1999”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. H, title II, Dec. 27, 2020, 134 Stat. 1584.
 
 Pub. L. 116–94, div. A, title II, Dec. 20, 2019, 133 Stat. 2572.
 
@@ -1042,7 +1044,7 @@ Any reference in any provision of law to the poverty line set forth in section 6
 ### Statutory Notes
 
 #### References in Text
-The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title II of the Act was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Section 625 of the Act, which was subsequently renumbered section 624 of the Act and related to the poverty line, was classified to [section 2971d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2971d&num=0&edition=prelim), prior to repeal by section 683(a) of Pub. L. 97–35. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title II of the Act was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Section 625 of the Act, which was subsequently renumbered section 624 of the Act and related to the poverty line, was classified to [section 2971d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2971d&num=0&edition=prelim), prior to repeal by section 683(a) of Pub. L. 97–35. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 A prior section 683 of Pub. L. 97–35 was classified to [section 9911 of this title](./chapter-106-community-services-block-grant-program.md#section-9911), prior to the general amendment of this chapter by Pub. L. 105–285.
@@ -1131,7 +1133,7 @@ Another prior section 683 of Pub. L. 97–35 was renumbered section 684, and was
 ### Statutory Notes
 
 #### References in Text
-The Community Services Block Grant Act, referred to in subsecs. (a)(1)(C) and (g)(1), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to this chapter (§ 9901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-community-services-block-grant-program.md#section-9901) and Tables.
+The Community Services Block Grant Act, referred to in subsecs. (a)(1)(C) and (g)(1), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to this chapter (§ 9901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-community-services-block-grant-program.md#section-9901) and Tables.
 
 Subsection (f) of this section, referred to in subsec. (h)(3), was omitted from the Code.
 
@@ -1224,7 +1226,7 @@ Section effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (b)(3), (c)(1)(C), (2), and (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (b)(3), (c)(1)(C), (2), and (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Codification
 Section was formerly classified to [section 9910d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9910d&num=0&edition=prelim). Prior to such classification, section was set out as a note under [section 1315 of this title](./chapter-007-social-security.md#section-1315).

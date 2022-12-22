@@ -70,7 +70,7 @@ Pub. L. 101–533, § 1, Nov. 7, 1990, 104 Stat. 2344, provided that: “This Ac
 ### Statutory Notes
 
 #### References in Text
-The International Investment and Trade in Services Survey Act, referred to in subsec. (b)(1), (3), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, as amended, which is classified generally to chapter 46 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-046-international-investment-and-trade-in-services-survey.md#section-3101) and Tables.
+The International Investment and Trade in Services Survey Act, referred to in subsec. (b)(1), (3), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-046-international-investment-and-trade-in-services-survey.md#section-3101) and Tables.
 
 Executive Order 11858, referred to in subsec. (b)(4), is set out as a note under [section 4565 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565&num=0&edition=prelim), War and National Defense. Ex. Ord. No. 11858 was amended generally by Ex. Ord. No. 13456, § 1, Jan. 23, 2008, 73 F.R. 4677, and, as so amended, section 2 no longer relates to the collection of information on foreign investment. However, similar provisions are now contained in section 9 of Ex. Ord. No. 11858.
 
@@ -171,7 +171,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 #### References in Text
 This Act or the amendments made by this Act, referred to in text, is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign Direct Investment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3141 of this title](./chapter-46a-foreign-direct-investment-and-international-financial-data.md#section-3141) and Tables.
 
-The International Investment and Trade in Services Survey Act, referred to in subsecs. (a)(2) and (e), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, as amended, which is classified generally to chapter 46 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-046-international-investment-and-trade-in-services-survey.md#section-3101) and Tables.
+The International Investment and Trade in Services Survey Act, referred to in subsecs. (a)(2) and (e), is Pub. L. 94–472, Oct. 11, 1976, 90 Stat. 2059, which is classified generally to chapter 46 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-046-international-investment-and-trade-in-services-survey.md#section-3101) and Tables.
 
 
 <a id="section-3145"></a>
@@ -192,7 +192,7 @@ consistent with the purposes of the provisions of law amended by this Act and th
 #### References in Text
 This Act or the amendments made by this Act, referred to in text, is Pub. L. 101–533, Nov. 7, 1990, 104 Stat. 2344, known as the Foreign Direct Investment and International Financial Data Improvements Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3141 of this title](./chapter-46a-foreign-direct-investment-and-international-financial-data.md#section-3141) and Tables.
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (b), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (b), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-3146"></a>

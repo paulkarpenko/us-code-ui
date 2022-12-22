@@ -293,7 +293,7 @@ The Commission shall proceed to secure appraisals of all property at the communi
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner” wherever appearing.
@@ -869,7 +869,7 @@ The transfer of any municipal installation authorized to be made under the provi
 ### Statutory Notes
 
 #### References in Text
-Act of September 30, 1950, referred to in subsec. (c), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§ 236 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Act of September 30, 1950, referred to in subsec. (c), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§ 236 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1996—Subsec. (d). Pub. L. 104–106 substituted “; or not later than June 30, 1996, in the case of the Los Alamos School Board and the county of Los Alamos, New Mexico” for “, and the Los Alamos School Board; and not less than six months prior to June 30, 1987, in the case of the county of Los Alamos, New Mexico” and inserted at end “If the recommendation under the preceding sentence regarding the Los Alamos School Board or the county of Los Alamos, New Mexico, indicates a need for further assistance for the school board or the county, as the case may be, after June 30, 1997, the recommendation shall include a report and plan describing the actions required to eliminate the need for further assistance for the school board or the county, including a proposal for legislative action to carry out the plan.”

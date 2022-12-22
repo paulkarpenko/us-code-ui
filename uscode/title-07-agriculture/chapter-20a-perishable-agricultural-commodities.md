@@ -187,11 +187,11 @@ no person may use the unique name or geographical designation of such commodity 
 ### Statutory Notes
 
 #### References in Text
-The Perishable Agricultural Commodity Act, and the Perishable Agricultural Commodities Act, referred to in subsecs. (a), (b), and (d), probably mean the Perishable Agricultural Commodities Act, 1930, act June 10, 1930, ch. 436, 46 Stat. 531, as amended, which is classified generally to this chapter (§ 499a et seq.). For complete classification of this Act to the Code, see [section 499a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section499a/a&num=0&edition=prelim) and Tables.
+The Perishable Agricultural Commodity Act, and the Perishable Agricultural Commodities Act, referred to in subsecs. (a), (b), and (d), probably mean the Perishable Agricultural Commodities Act, 1930, act June 10, 1930, ch. 436, 46 Stat. 531, which is classified generally to this chapter (§ 499a et seq.). For complete classification of this Act to the Code, see [section 499a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section499a/a&num=0&edition=prelim) and Tables.
 
 [7 U.S.C. 499a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section499a/4&num=0&edition=prelim), referred to in subsec. (a), was redesignated [7 U.S.C. 499a(b)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section499a/b/4&num=0&edition=prelim) by Pub. L. 102–237, title X, § 1011(1)(A), Dec. 13, 1991, 105 Stat. 1898.
 
-The Agricultural Marketing Agreement Act of 1937 ([7 U.S.C. 601](./chapter-026-agricultural-adjustment.md#section-601) et seq.), referred to in subsec. (a)(1), is act June 3, 1937, ch. 296, 50 Stat. 246, as amended, which is classified principally to chapter 26A (§ 671 et seq.) of this title. For complete classification of this Act to the Code, see [section 674 of this title](./chapter-26a-agricultural-marketing-agreements.md#section-674) and Tables. The Agricultural Marketing Agreement Act of 1937 reenacted and amended the Agricultural Adjustment Act, title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
+The Agricultural Marketing Agreement Act of 1937 ([7 U.S.C. 601](./chapter-026-agricultural-adjustment.md#section-601) et seq.), referred to in subsec. (a)(1), is act June 3, 1937, ch. 296, 50 Stat. 246, which is classified principally to chapter 26A (§ 671 et seq.) of this title. For complete classification of this Act to the Code, see [section 674 of this title](./chapter-26a-agricultural-marketing-agreements.md#section-674) and Tables. The Agricultural Marketing Agreement Act of 1937 reenacted and amended the Agricultural Adjustment Act, title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
 
 #### Codification
 Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Perishable Agricultural Commodities Act, 1930 which comprises this chapter.
@@ -226,7 +226,7 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 ### Statutory Notes
 
 #### References in Text
-The Act to prevent the destruction or dumping of farm produce, approved March 3, 1927, referred to in subsec. (b)(2), (5), is act Mar. 3, 1927, ch. 309, 44 Stat. 1355, as amended, which is classified generally to chapter 20 (§ 491 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Act to prevent the destruction or dumping of farm produce, approved March 3, 1927, referred to in subsec. (b)(2), (5), is act Mar. 3, 1927, ch. 309, 44 Stat. 1355, which is classified generally to chapter 20 (§ 491 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 553 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section553&num=0&edition=prelim).
@@ -629,7 +629,7 @@ Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970,
 ### Statutory Notes
 
 #### References in Text
-The Commodities Exchange Act, referred to in subsec. (a), probably means act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, known as the Commodity Exchange Act, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
+The Commodities Exchange Act, referred to in subsec. (a), probably means act Sept. 21, 1922, ch. 369, 42 Stat. 998, known as the Commodity Exchange Act, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
 
 #### Codification
 Section was formerly classified to [section 564 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section564&num=0&edition=prelim).

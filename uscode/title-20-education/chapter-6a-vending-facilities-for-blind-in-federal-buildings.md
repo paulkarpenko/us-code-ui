@@ -88,9 +88,9 @@ An identical provision is in section 201 of Pub. L. 93–651. See Codification n
 #### References in Text
 For the date of the enactment of the Randolph-Sheppard Act Amendments of 1974, referred to in subsec. (a)(1), see Codification note below.
 
-The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, as amended, which was classified to chapter 4 (§ 31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, § 500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to [section 790 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section790&num=0&edition=prelim), provides in part that references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
+The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, which was classified to chapter 4 (§ 31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, § 500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to [section 790 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section790&num=0&edition=prelim), provides in part that references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
 
-The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Codification
 The content of Pub. L. 93–516, including provisions of section 203 thereof which amended this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974. See 1974 Amendment note below.
@@ -213,7 +213,7 @@ In addition to other requirements imposed in this title 11 See References in Tex
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in text, is title II of Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617, as amended, known as the “Randolph-Sheppard Act Amendments of 1974”. For complete classification of such title to the Code, see Short Title of 1974 Amendment note set out under [section 107 of this title](./chapter-6a-vending-facilities-for-blind-in-federal-buildings.md#section-107) and Tables.
+This title, referred to in text, is title II of Pub. L. 93–516, Dec. 7, 1974, 88 Stat. 1617, known as the “Randolph-Sheppard Act Amendments of 1974”. For complete classification of such title to the Code, see Short Title of 1974 Amendment note set out under [section 107 of this title](./chapter-6a-vending-facilities-for-blind-in-federal-buildings.md#section-107) and Tables.
 
 The Randolph-Sheppard Act, referred to in text, is act June 20, 1936, ch. 638, 49 Stat. 1559, also popularly known as the Randolph-Sheppard Vending Stand Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 107 of this title](./chapter-6a-vending-facilities-for-blind-in-federal-buildings.md#section-107) and Tables.
 
@@ -380,7 +380,7 @@ The Commissioner shall insure, through promulgation of appropriate regulations, 
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in text, is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in text, is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Codification
 The content of Pub. L. 93–516, including provisions of section 206 thereof which enacted this section, were originally contained in H.R. 14225, 93rd Congress, Second Session, which was pocket-vetoed during the 31-day intrasession adjournment of the 93rd Congress for the Congressional elections in November, 1974.

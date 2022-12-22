@@ -588,7 +588,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (d), dollar amount “700” was adjusted to “750” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (d), dollar amount “750” was adjusted to “825” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (d), dollar amount “700” was adjusted to “750” each time it appeared.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (d), dollar amount “675” was adjusted to “700” each time it appeared.
 
@@ -698,7 +700,7 @@ For purposes of paragraph (5), section 506 shall not apply to a claim described 
 
   (B) the plan provides that all of the debtor’s projected disposable income to be received in the applicable commitment period beginning on the date that the first payment is due under the plan will be applied to make payments to unsecured creditors under the plan.
 
-(2) For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the coronavirus disease 2019 (COVID–19), child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
+(2) For purposes of this subsection, the term “disposable income” means current monthly income received by the debtor (other than child support payments, foster care payments, or disability payments for a dependent child made in accordance with applicable nonbankruptcy law to the extent reasonably necessary to be expended for such child) less amounts reasonably necessary to be expended—
 
   (A)
 
@@ -736,18 +738,6 @@ For purposes of paragraph (5), section 506 shall not apply to a claim described 
 
 ### Statutory Notes
 
-#### Amendment of Section and Termination of Amendment
-Pub. L. 116–260, div. N, title III, § 320(e), (f)(1), Dec. 27, 2020, 134 Stat. 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, this section is amended by adding at the end the following:
-
-(d) Notwithstanding [section 1322(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1322/a/2&num=0&edition=prelim) and subsection (b)(1) of this section, a plan that provides for payment of a claim of a kind specified in [section 503(b)(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/10&num=0&edition=prelim) may be confirmed if the plan proposes to make payments on account of such claim when due under the terms of the loan giving rise to such claim.
-
-Pub. L. 116–260, div. N, title III, § 320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, § 320(e), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, this section is amended by striking subsection (d).
-
-See 2020 Amendment notes below.
-
-#### Amendment of Subsection (b)(2)
-Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(ii), (B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, § 2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that, effective 2 years after Mar. 27, 2020, subsection (b)(2) of this section is amended, in the introductory provisions, by striking “payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the coronavirus disease 2019 (COVID–19),”. See 2020 Amendment note below.
-
 #### legislative statements
 Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate amendment to significantly protect secured creditors in chapter 13. Unless the secured creditor accepts the plan, the plan must provide that the secured creditor retain the lien securing the creditor’s allowed secured claim in addition to receiving value, as of the effective date of the plan of property to be distributed under the plan on account of the claim not less than the allowed amount of the claim. To this extent, a secured creditor in a case under chapter 13 is treated identically with a recourse creditor under section 1111(b)(1) of the House amendment except that the secured creditor in a case under chapter 13 may receive any property of a value as of the effective date of the plan equal to the allowed amount of the creditor’s secured claim rather than being restricted to receiving deferred cash payments. Of course, the secured creditors’ lien only secures the value of the collateral and to the extent property is distributed of a present value equal to the allowed amount of the creditor’s secured claim the creditor’s lien will have been satisfied in full. Thus the lien created under section 1325(a)(5)(B)(i) is effective only to secure deferred payments to the extent of the amount of the allowed secured claim. To the extent the deferred payments exceed the value of the allowed amount of the secured claim and the debtor subsequently defaults, the lien will not secure unaccrued interest represented in such deferred payments.
 
@@ -755,9 +745,6 @@ Section 1325(a)(5)(B) of the House amendment modifies the House bill and Senate 
 The bankruptcy court must confirm a plan if (1) the plan satisfies the provisions of chapter 13 and other applicable provisions of title 11; (2) it is proposed in good faith; (3) it is in the best interests of creditors, and defined by subsection (a)(4) of Section 1325; (4) it has been accepted by the holder of each allowed secured claim provided for the plan or where the holder of any such secured claim is to receive value under the plan not less than the amount of the allowed secured claim, or where the debtor surrenders to the holder the collateral securing any such allowed secured claim; (5) the plan is feasible; and (6) the requisite fees and charges have been paid.
 
 Subsection (b) authorizes the court to order an entity, as defined by Section 101(15), to pay any income of the debtor to the trustee. Any governmental unit is an entity subject to such an order.
-
-#### References in Text
-The National Emergencies Act, referred to in subsec. (b)(2), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (b)(2). Pub. L. 116–136, § 1113(b)(2)(A)(ii), struck out “payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the coronavirus disease 2019 (COVID–19),” after “other than” in introductory provisions.
@@ -811,6 +798,8 @@ Subsecs. (b), (c). Pub. L. 98–353, § 317(2), (3), added subsec. (b) and redes
 #### Effective and Termination Dates of 2020 Amendment
 Amendment by section 320(e) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(v) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under [section 364 of this title](./chapter-003-case-administration.md#section-364).
 
+[Pursuant to [15 U.S.C. 636(a)(36)(A)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36/A/iii&num=0&edition=prelim), the “covered period” for loans under the Paycheck Protection Program ended on June 30, 2021.]
+
 Amendment by section 1113(b)(2)(A)(ii) of Pub. L. 116–136, effective 2 years after Mar. 27, 2020, see section 1113(b)(2)(B) of Pub. L. 116–136, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date of 2005 Amendment
@@ -828,7 +817,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b), dollar amount “700” was adjusted to “750” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b), dollar amount “750” was adjusted to “825” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b), dollar amount “700” was adjusted to “750” each time it appeared.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b), dollar amount “675” was adjusted to “700” each time it appeared.
 
@@ -936,7 +927,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(3), dollar amount “25” was adjusted to “25”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b)(3), dollar amount “25” was adjusted to “25”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(3), dollar amount “25” was adjusted to “25”.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(3), dollar amount “25” was adjusted to “25”.
 
@@ -1015,20 +1008,7 @@ Subsection (a) binds the debtor and each creditor to the provisions of a confirm
 
 (2) there is pending any proceeding in which the debtor may be found guilty of a felony of the kind described in section 522(q)(1)(A) or liable for a debt of the kind described in section 522(q)(1)(B).
 
-**(i)** Subject to subsection (d), after notice and a hearing, the court may grant a discharge of debts dischargeable under subsection (a) to a debtor who has not completed payments to the trustee or a creditor holding a security interest in the principal residence of the debtor if—
-
-(1) the debtor defaults on not more than 3 monthly payments due on a residential mortgage under section 1322(b)(5) on or after March 13, 2020, to the trustee or creditor caused by a material financial hardship due, directly or indirectly, by the coronavirus disease 2019 (COVID–19) pandemic; or
-
-(2)
-
-  (A) the plan provides for the curing of a default and maintenance of payments on a residential mortgage under section 1322(b)(5); and
-
-  (B) the debtor has entered into a forbearance agreement or loan modification agreement with the holder or servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2605(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim)) 11 So in original. Probably should be followed by another closing parenthesis. of the mortgage described in subparagraph (A).
-
 ### Statutory Notes
-
-#### Amendment of Subsection (i)
-Pub. L. 116–260, div. FF, title X, § 1001(b)(2), Dec. 27, 2020, 134 Stat. 3217, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (i). See 2020 Amendment note below.
 
 #### legislative statements
 Section 1328(a) adopts a provision contained in the Senate amendment permitting the court to approve a waiver of discharge by the debtor. It is anticipated that such a waiver must be in writing executed after the order for relief in a case under chapter 13.
@@ -1146,37 +1126,10 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(c)** A plan modified under this section may not provide for payments over a period that expires after the applicable commitment period under section 1325(b)(1)(B) after the time that the first payment under the original confirmed plan was due, unless the court, for cause, approves a longer period, but the court may not approve a period that expires after five years after such time.
 
-**(d)**
-
-(1) Subject to paragraph (3), for a plan confirmed prior to the date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021, the plan may be modified upon the request of the debtor if—
-
-  (A) the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; and
-
-  (B) the modification is approved after notice and a hearing.
-
-(2) A plan modified under paragraph (1) may not provide for payments over a period that expires more than 7 years after the time that the first payment under the original confirmed plan was due.
-
-(3) Sections 1322(a), 1322(b), 1323(c), and the requirements of section 1325(a) shall apply to any modification under paragraph (1).
-
-**(e)**
-
-(1) A debtor of a case for which a creditor files a proof of claim under section 501(f) may file a request for a modification of the plan to provide for the proof of claim.
-
-(2) If the debtor does not file a request for a modification of the plan under paragraph (1) on or before the date that is 30 days after the date on which a creditor files a claim under section 501(f), after notice, the court, on a motion of the court or on a motion of the United States trustee, the trustee, a bankruptcy administrator, or any party in interest, may request a modification of the plan to provide for the proof of claim.
-
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(iii), (B), Mar. 27, 2020, 134 Stat. 312, as amended by Pub. L. 117–5, § 2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that, effective 2 years after Mar. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.
-
-#### Amendment of Subsection (e)
-Pub. L. 116–260, div. FF, title X, § 1001(e)(2), Dec. 27, 2020, 134 Stat. 3219, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (e). See 2020 Amendment note below.
 
 #### senate report no. 95–989
 At any time prior to the completion of payments under a confirmed plan, the plan may be modified, after notice and hearing, to change the amount of payments to creditors or a particular class of creditors and to extend or reduce the payment period. A modified plan may not contain any provision which could not be included in an original plan as prescribed by section 1322. A modified plan may not call for payments to be made beyond four years as measured from the date of the commencement of payments under the original plan.
-
-#### References in Text
-The date of enactment of the COVID–19 Bankruptcy Relief Extension Act of 2021, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 117–5, which was approved Mar. 27, 2021.
 
 #### Amendments
 2021—Subsec. (d)(1). Pub. L. 117–5 substituted “the COVID–19 Bankruptcy Relief Extension Act of 2021” for “this subsection” in introductory provisions.

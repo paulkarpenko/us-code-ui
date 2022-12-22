@@ -40,7 +40,7 @@ In this chapter:
 #### References in Text
 This chapter, referred to in text, was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out below and Tables.
 
-The Alaska Natural Gas Transportation Act of 1976, referred to in pars. (2)(A) and (3), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 719 of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719) and Tables.
+The Alaska Natural Gas Transportation Act of 1976, referred to in pars. (2)(A) and (3), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 719 of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719) and Tables.
 
 #### Short Title
 Pub. L. 108–324, div. C, § 101, Oct. 13, 2004, 118 Stat. 1255, provided that: “This division [enacting this chapter and amending [section 719h of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719h)] may be cited as the ‘Alaska Natural Gas Pipeline Act’.”
@@ -101,9 +101,9 @@ Pub. L. 108–324, div. C, § 101, Oct. 13, 2004, 118 Stat. 1255, provided that:
 ### Statutory Notes
 
 #### References in Text
-The Alaska Natural Gas Transportation Act of 1976, referred to in subsecs. (a) and (f)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 719 of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719) and Tables.
+The Alaska Natural Gas Transportation Act of 1976, referred to in subsecs. (a) and (f)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 719 of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719) and Tables.
 
-The Natural Gas Act, referred to in subsec. (f)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (f)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 
 <a id="section-720b"></a>
@@ -139,7 +139,7 @@ The Natural Gas Act, referred to in subsec. (f)(1), is act June 21, 1938, ch. 55
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-720c"></a>
@@ -332,7 +332,7 @@ Section is comprised of section 107 of Pub. L. 108–324. Subsec. (d) of section
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under [section 720 of this title](./chapter-15d-alaska-natural-gas-pipeline.md#section-720) and Tables.
 
-The Natural Gas Act, referred to in subsec. (c)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (c)(1), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
 
 <a id="section-720g"></a>
@@ -375,7 +375,7 @@ The Natural Gas Act, referred to in subsec. (c)(1), is act June 21, 1938, ch. 55
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this division”, meaning division C of Pub. L. 108–324, Oct. 13, 2004, 118 Stat. 1255, which is classified principally to this chapter. For complete classification of division C to the Code, see Short Title note set out under [section 720 of this title](./chapter-15d-alaska-natural-gas-pipeline.md#section-720) and Tables.
 
-The Alaska Natural Gas Transportation Act of 1976, referred to in subsec. (a)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, as amended, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 719 of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719) and Tables.
+The Alaska Natural Gas Transportation Act of 1976, referred to in subsec. (a)(2), is Pub. L. 94–586, Oct. 22, 1976, 90 Stat. 2903, which is classified generally to chapter 15C (§ 719 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 719 of this title](./chapter-15c-alaska-natural-gas-transportation.md#section-719) and Tables.
 
 
 <a id="section-720i"></a>
@@ -524,7 +524,7 @@ It is the sense of Congress that—
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsec. (g)(2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsec. (g)(2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
 2021—Subsec. (a)(1). Pub. L. 117–58, § 40401(d)(1)(A), struck out “to West Coast States” after “Alaska”.
@@ -544,3 +544,6 @@ Subsec. (b)(4). Pub. L. 108–447, § 114(b), added par. (4).
 Subsec. (c)(2). Pub. L. 108–199, § 146(3), as amended by Pub. L. 108–447, § 114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting “, except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by [section 661a(5) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a/5&num=0&edition=prelim), exceeds $2,000,000,000” before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
 
 Subsec. (g)(4). Pub.L. 108–199, § 146(4), as amended by Pub. L. 108–447, § 114(1), (2), (5), inserted “or system” after “gas transportation project” and “liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast” after “including gas treatment plants”.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.

@@ -80,7 +80,7 @@ The Board shall prescribe from time to time rules and regulations governing the 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Aug. 27, 1935, ch. 748, 49 Stat. 891, as amended, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Aug. 27, 1935, ch. 748, 49 Stat. 891, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2004—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
@@ -245,7 +245,7 @@ For purposes of paragraph (2)(A), damages shall include any and all gross profit
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (f), is act Aug. 27, 1935, ch. 748, 49 Stat. 891, as amended, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (f), is act Aug. 27, 1935, ch. 748, 49 Stat. 891, which is classified generally to section 305 et seq. of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 A prior section, act Aug. 27, 1935, ch. 748, § 6, 49 Stat. 893, related to offering for sale without trade mark goods as Indian goods, prior to repeal by acts June 25, 1948, ch. 645, § 21, 62 Stat. 862; June 25, 1948, ch. 646, § 39, 62 Stat. 992, effective Sept. 1, 1948. See [section 1159 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1159&num=0&edition=prelim), Crimes and Criminal Procedure.

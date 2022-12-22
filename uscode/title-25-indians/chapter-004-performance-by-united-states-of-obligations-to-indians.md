@@ -277,7 +277,7 @@ Pub. L. 98–64, Aug. 2, 1983, 97 Stat. 365, which enacted sections 117a to 117c
 ### Statutory Notes
 
 #### References in Text
-Act of October 19, 1973, referred to in subsec. (b), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, as amended, known as the Indian Tribal Judgment Funds Use or Distribution Act, which is classified generally to chapter 16 (§ 1401 et seq.) of this title. For complete classification of this Act to the Code, see [section 1401(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1401/c&num=0&edition=prelim) and Tables.
+Act of October 19, 1973, referred to in subsec. (b), is Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, known as the Indian Tribal Judgment Funds Use or Distribution Act, which is classified generally to chapter 16 (§ 1401 et seq.) of this title. For complete classification of this Act to the Code, see [section 1401(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1401/c&num=0&edition=prelim) and Tables.
 
 
 <a id="section-117c"></a>
@@ -530,7 +530,7 @@ When, in the judgment of the Secretary of the Interior, any Indian tribe, or par
 ### Statutory Notes
 
 #### References in Text
-Act of July 1, 1898, referred to in text, is act July 1, 1898, ch. 545, 30 Stat. 573, as amended, which enacted sections 32, 136, and 191 of this title and amended [section 27 of this title](./chapter-002-officers-of-indian-affairs.md#section-27). For complete classification of this Act to the Code, see Tables.
+Act of July 1, 1898, referred to in text, is act July 1, 1898, ch. 545, 30 Stat. 573, which enacted sections 32, 136, and 191 of this title and amended [section 27 of this title](./chapter-002-officers-of-indian-affairs.md#section-27). For complete classification of this Act to the Code, see Tables.
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -1013,7 +1013,7 @@ The activities of the Department of the Interior associated with the Department�
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-167"></a>

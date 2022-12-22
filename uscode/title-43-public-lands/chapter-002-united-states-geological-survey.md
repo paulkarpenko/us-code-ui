@@ -379,6 +379,9 @@ Investigations conducted under the geologic mapping education component shall be
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-31d"></a>
 ## § 31d. Advisory committee
@@ -562,6 +565,9 @@ Subsec. (b)(1). Pub. L. 111–11, § 11001(i)(2)(B), substituted “50” for �
 
 Subsec. (b)(2). Pub. L. 111–11, § 11001(i)(2)(C), which directed amendment of par. (2) “by striking 2 and inserting ‘4’ ”, was executed by substituting “4” for “2”, to reflect the probable intent of Congress.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-31i"></a>
 ## § 31i. Report on resource research activities
@@ -709,8 +715,11 @@ Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9,
 
 ### Statutory Notes
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Definition of “Secretary”
-For definitionof Secretary as used in this section, see section 18701 of Title, 42, The Public Health and Welfare.
+For definition of Secretary as used in this section, see [section 18701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18701&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-32"></a>
@@ -1044,6 +1053,8 @@ Section text is based on act July 31, 1953, ch. 298, title I, § 1, 67 Stat. 269
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
+Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1486.
+
 Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2695.
 
 Pub. L. 116–6, div. E, title I, Feb. 15, 2019, 133 Stat. 214.
@@ -1273,6 +1284,11 @@ Provisions similar to those in this section were contained in Pub. L. 105–277,
 (2) the authorities used under this section.
 
 **(f) Authorization of appropriations** There is authorized to be appropriated to the Secretary of the Interior to carry out this section $167,000,000 for fiscal year 2022, to remain available until expended.
+
+### Statutory Notes
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-50-1"></a>

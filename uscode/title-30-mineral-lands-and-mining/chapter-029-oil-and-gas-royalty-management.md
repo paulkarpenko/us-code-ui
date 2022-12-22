@@ -2,7 +2,7 @@
 title: 30
 chapter: '29'
 heading: OIL AND GAS ROYALTY MANAGEMENT
-section_count: 36
+section_count: 37
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30&num=0&edition=prelim
 ---
@@ -713,8 +713,8 @@ Section applicable with respect to production of oil and gas after the first day
 Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under [section 1701 of this title](./chapter-029-oil-and-gas-royalty-management.md#section-1701).
 
 
-<a id="section-1731"></a>
-## § 1731. Assessments
+<a id="section-1727"></a>
+## § 1727. Assessments
 
 Beginning eighteen months after August 13, 1996, to encourage proper royalty payment the Secretary or the delegated State shall impose assessments on a person who chronically submits erroneous reports under this chapter. Assessments under this chapter may only be issued as provided for in this section.
 
@@ -730,8 +730,8 @@ Section applicable with respect to production of oil and gas after the first day
 Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under [section 1701 of this title](./chapter-029-oil-and-gas-royalty-management.md#section-1701).
 
 
-<a id="section-1731a"></a>
-## § 1731a. Alternatives for marginal properties
+<a id="section-1731"></a>
+## § 1731. Alternatives for marginal properties
 **(a) Determination of best interests of State concerned and United States** The Secretary and the State concerned, acting in the best interests of the United States and the State concerned to promote production, reduce administrative costs, and increase net receipts to the United States and the States, shall jointly determine, on a case by case basis, the amount of what marginal production from a lease or leases or well or wells, or parts thereof, shall be subject to a prepayment under subsection (b) or regulatory relief under subsection (c). If the State concerned does not consent, such prepayments or regulatory relief shall not be made available under this section for such marginal production: Provided, That if royalty payments from a lease or leases, or well or wells are not shared with any State, such determination shall be made solely by the Secretary.
 
 **(b) Prepayment of royalty**
@@ -763,6 +763,24 @@ Section applicable with respect to production of oil and gas after the first day
 
 #### Applicability
 Section not applicable to any privately owned minerals or with respect to Indian lands, see sections 9 and 10 of Pub. L. 104–185, set out as an Applicability of 1996 Amendment note under [section 1701 of this title](./chapter-029-oil-and-gas-royalty-management.md#section-1701).
+
+
+<a id="section-1731a"></a>
+## § 1731a. Royalties on all extracted methane
+**(a) In general** For all leases issued after August 16, 2022, except as provided in subsection (b), royalties paid for gas produced from Federal land and on the outer Continental Shelf shall be assessed on all gas produced, including all gas that is consumed or lost by venting, flaring, or negligent releases through any equipment during upstream operations.
+
+**(b) Exception** Subsection (a) shall not apply with respect to—
+
+(1) gas vented or flared for not longer than 48 hours in an emergency situation that poses a danger to human health, safety, or the environment;
+
+(2) gas used or consumed within the area of the lease, unit, or communitized area for the benefit of the lease, unit, or communitized area; or
+
+(3) gas that is unavoidably lost.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub L. 117–169, and not as part of the Federal Oil and Gas Royalty Management Act of 1982 which comprises this chapter.
 
 
 <a id="section-1732"></a>

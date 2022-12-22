@@ -2,7 +2,7 @@
 title: 46
 chapter: '405'
 heading: 'TARIFFS, SERVICE CONTRACTS, REFUNDS, AND WAIVERS'
-section_count: 3
+section_count: 4
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -92,9 +92,11 @@ In subsection (f)(1), the words “subject to section 1709(d) of this Appendix�
 
 (6) the duration;
 
-(7) service commitments; and
+(7) service commitments;
 
-(8) the liquidated damages for nonperformance, if any.
+(8) the liquidated damages for nonperformance, if any; and
+
+(9) any other essential terms that the Federal Maritime Commission determines necessary or appropriate through a rulemaking process.
 
 **(d) Publication of Certain Terms.—** When a service contract is filed confidentially with the Commission, a concise statement of the essential terms specified in paragraphs (1), (3), (4), and (6) of subsection (c) shall be published and made available to the general public in tariff format.
 
@@ -137,6 +139,9 @@ In subsection (e)(5), the words “the National Labor Relations Act [[29 U.S.C. 
 #### References in Text
 The National Labor Relations Act, referred to in subsec. (e)(4), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2022—Subsec. (c)(9). Pub. L. 117–146 added par. (9).
+
 
 <a id="section-40503"></a>
 ## § 40503. Refunds and waivers
@@ -159,3 +164,24 @@ The Federal Maritime Commission, on application of a carrier or shipper, may per
 In paragraph (1), the words “an error in a tariff, a failure to publish a new tariff” are substituted for “an error in a, in failing to publish a new tariff” to correct an obvious error in the underlying statute.
 
 In paragraph (2), the words “or waive” are added for consistency with the reference to a waiver later in the paragraph.
+
+
+<a id="section-40504"></a>
+## § 40504. Shipping exchange registry
+**(a) In General.—** No person may operate a shipping exchange involving ocean transportation in the foreign commerce of the United States unless the shipping exchange is registered as a national shipping exchange under the terms and conditions provided in this section and the regulations issued pursuant to this section.
+
+**(b) Registration.—** A person shall register a shipping exchange by filing with the Federal Maritime Commission an application for registration in such form as the Commission, by rule, may prescribe, containing the rules of the exchange and such other information and documents as the Commission, by rule, may prescribe as necessary or appropriate to complete a shipping exchange’s registration.
+
+**(c) Exemption.—** The Commission may exempt, conditionally or unconditionally, a shipping exchange from registration under this section if the Commission finds that the shipping exchange is subject to comparable, comprehensive supervision and regulation by the appropriate governmental authorities in a foreign country where the shipping exchange is headquartered.
+
+**(d) Regulations.—** Not later than 3 years after the date of enactment of the Ocean Shipping Reform Act of 2022, the Commission shall issue regulations pursuant to subsection (a), which shall set standards necessary to carry out subtitle IV of this title for registered national shipping exchanges. For consideration of a service contract entered into by a shipping exchange, the Commission shall be limited to the minimum essential terms for service contracts established under [section 40502 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40502).
+
+**(e) Definition of Shipping Exchange.—** In this section, the term “shipping exchange” means a platform (digital, over-the-counter, or otherwise) that connects shippers with common carriers for the purpose of entering into underlying agreements or contracts for the transport of cargo, by vessel or other modes of transportation.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Ocean Shipping Reform Act of 2022, referred to in subsec. (d), is the date of enactment of Pub. L. 117–146, which was approved June 16, 2022.
+
+#### Applicability of Registration Requirement
+Pub. L. 117–146, § 4(b), June 16, 2022, 136 Stat. 1273, provided that: “The registration requirement under [section 40504 of title 46](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40504), United States Code (as added by subsection (a)), shall take effect on the date on which the Federal Maritime Commission states the rule is effective in the regulations issued under such section.”

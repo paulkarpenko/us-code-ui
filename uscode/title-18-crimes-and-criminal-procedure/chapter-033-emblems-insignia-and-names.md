@@ -27,7 +27,7 @@ source: >-
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of this section as amended by Pub. L. 101–131, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of this section as amended by Pub. L. 101–131, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 1989—Subsec. (a). Pub. L. 101–131, § 2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever knowingly casts contempt upon any flag of the United States by publicly mutilating, defacing, defiling, burning, or trampling upon it shall be fined not more than $1,000 or imprisoned for not more than one year, or both.”
@@ -332,9 +332,9 @@ The punishment provision was drawn from [section 587 of title 12](https://uscode
 It was necessary to substitute a fine in place of a $50 per diem penalty for business entities embraced in sections 583, 1128, and 1318 of said title 12, and fine and imprisonment for individuals responsible for such violations. Similarly the penalty of $1,000 fine in [section 1426 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1426&num=0&edition=prelim), The Public Health and Welfare, was changed to permit alternative fine or imprisonment for individuals responsible for violation.
 
 #### References in Text
-The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) and Tables.
+The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) and Tables.
 
-Chapter 7 of Title 12, referred to in text, which contained the Federal Farm Loan Act (act July 17, 1916, ch. 245, 39 Stat. 360) as amended, was classified principally to section 641 et seq. of Title 12. The Federal Farm Loan Act, as amended, was repealed by section 5.26(a) of the Farm Credit Act of 1971, Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 624. Section 5.26(a) of the Farm Credit Act of 1971 also provided that all references in other legislation to the Acts repealed thereby “shall be deemed to refer to comparable provisions of this Act”. For further details, see notes under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim). For complete classification of the Federal Farm Loan Act to the Code prior to such repeal, see Tables.
+Chapter 7 of Title 12, referred to in text, which contained the Federal Farm Loan Act (act July 17, 1916, ch. 245, 39 Stat. 360) was classified principally to section 641 et seq. of Title 12. The Federal Farm Loan Act, as amended, was repealed by section 5.26(a) of the Farm Credit Act of 1971, Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 624. Section 5.26(a) of the Farm Credit Act of 1971 also provided that all references in other legislation to the Acts repealed thereby “shall be deemed to refer to comparable provisions of this Act”. For further details, see notes under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim). For complete classification of the Federal Farm Loan Act to the Code prior to such repeal, see Tables.
 
 The date of enactment of this title, referred to in fifteenth par., means June 25, 1948.
 

@@ -292,7 +292,7 @@ Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub
 
 
 <a id="section-7104"></a>
-## § 7104. Jurisdiction of the Board
+## § 7104. Jurisdiction of the Board; decisions; notice
 **(a)** All questions in a matter which under [section 511(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section511/a&num=0&edition=prelim) is subject to decision by the Secretary shall be subject to one review on appeal to the Secretary. Final decisions on such appeals shall be made by the Board. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.
 
 **(b)** Except as provided in [section 5108 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5108), when a claim is disallowed by the Board, the claim may not thereafter be readjudicated and allowed and a claim based upon the same factual basis may not be considered.
@@ -311,19 +311,27 @@ Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub
 
 (3) an order granting appropriate relief or denying relief.
 
-**(e)**
+**(e)** After reaching a decision on an appeal, the Board shall promptly issue notice (as that term is defined in [section 5100 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5100)) of such decision to the following:
 
-(1) After reaching a decision on a case, the Board shall promptly mail a copy of its written decision to the claimant at the last known address of the claimant.
+(1) The appellant.
 
-(2) If the claimant has an authorized representative, the Board shall—
+(2) Any other party with a right to notice of such decision.
 
-  (A) mail a copy of its written decision to the authorized representative at the last known address of the authorized representative; or
+(3) Any authorized representative of the appellant or party described in paragraph (2).
 
-  (B) send a copy of its written decision to the authorized representative by any means reasonably likely to provide the authorized representative with a copy of the decision within the same time a copy would be expected to reach the authorized representative if sent by first-class mail.
+**(f)**
+
+(1) The Secretary may provide notice under subsection (e) electronically if a claimant (or the claimant’s representative) elects to receive such notice electronically.
+
+(2) A claimant (or the claimant’s representative) may revoke such an election at any time, by means prescribed by the Secretary.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–168, § 807(a)(5)(A), inserted “; decisions; notice” after “Board” in section catchline.
+
+Subsecs. (e), (f). Pub. L. 117–168, § 807(a)(5)(B), added subsecs. (e) and (f) and struck out former subsec. (e) which related to mailing a copy of a written decision to the claimant or mailing or otherwise sending a copy to an authorized representative of the claimant.
+
 2017—Subsec. (b). Pub. L. 115–55, § 2(p), substituted “readjudicated” for “reopened”.
 
 Subsec. (d)(2), (3). Pub. L. 115–55, § 2(w)(2), added par. (2) and redesignated former par. (2) as (3).
@@ -370,6 +378,9 @@ Amendment by sections 101(b) and 204 of Pub. L. 100–687 effective Sept. 1, 198
 #### Effective Date of 1961 Amendment
 Pub. L. 87–97, § 2, July 20, 1961, 75 Stat. 215, provided that: “The amendment made by this Act [amending this section] shall take effect as of January 1, 1962.”
 
+#### Rule of Construction
+Amendment by Pub. L. 117–168 not to be construed to apply [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5104/a&num=0&edition=prelim) to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under [section 5100 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5100).
+
 
 <a id="section-7105"></a>
 ## § 7105. Filing of appeal
@@ -379,7 +390,7 @@ Pub. L. 87–97, § 2, July 20, 1961, 75 Stat. 215, provided that: “The amendm
 
 (1)
 
-  (A) Except in the case of simultaneously contested claims, a notice of disagreement shall be filed within one year from the date of the mailing of notice of the decision of the agency of original jurisdiction pursuant to section 5104, 5104B, or 5108 of this title.
+  (A) Except in the case of simultaneously contested claims, a notice of disagreement shall be filed within one year from the date of the issuance of notice of the decision of the agency of original jurisdiction pursuant to section 5104, 5104B, or 5108 of this title.
 
   (B) A notice of disagreement postmarked before the expiration of the one-year period shall be accepted as timely filed.
 
@@ -416,6 +427,8 @@ Pub. L. 87–97, § 2, July 20, 1961, 75 Stat. 215, provided that: “The amendm
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(1)(A). Pub. L. 117–168 substituted “issuance” for “mailing”.
+
 2017—Pub. L. 115–55, § 2(q)(1)(F), struck out “notice of disagreement and” before “appeal” in section catchline.
 
 Subsec. (a). Pub. L. 115–55, § 2(q)(1)(A), substituted “Appellate review shall be initiated by the filing of a notice of disagreement in the form prescribed by the Secretary.” for “Appellate review will be initiated by a notice of disagreement and completed by a substantive appeal after a statement of the case is furnished as prescribed in this section.”
@@ -474,10 +487,13 @@ Amendment by Pub. L. 100–687 effective Jan. 1, 1989, see section 401(d) of Pub
 #### Effective Date
 Pub. L. 87–666, § 3, Sept. 19, 1962, 76 Stat. 554, provided that: “The amendments made by this Act [enacting sections 4005, 4005A, and 4006 [now 7105, 7105A, and 7106] of this title, redesignating former section 4006 as 4007 [now 7107] of this title, and repealing former sections 4005 and 4007 of this title] shall be effective January 1, 1963.”
 
+#### Rule of Construction
+Amendment by Pub. L. 117–168 not to be construed to apply [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5104/a&num=0&edition=prelim) to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under [section 5100 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5100).
+
 
 <a id="section-7105a"></a>
 ## § 7105A. Simultaneously contested claims
-**(a)** In simultaneously contested claims where one is allowed and one rejected, the time allowed for the filing of a notice of disagreement shall be sixty days from the date notice of the adverse action is mailed. In such cases the agency of original jurisdiction shall promptly notify all parties in interest at the last known address of the action taken, expressly inviting attention to the fact that notice of disagreement will not be entertained unless filed within the sixty-day period prescribed by this subsection.
+**(a)** In simultaneously contested claims where one is allowed and one rejected, the time allowed for the filing of a notice of disagreement shall be sixty days from the date notice of the adverse action is issued. In such cases the agency of original jurisdiction shall promptly notify all parties in interest at the last known address of the action taken, expressly inviting attention to the fact that notice of disagreement will not be entertained unless filed within the sixty-day period prescribed by this subsection.
 
 **(b)**
 
@@ -491,6 +507,8 @@ Pub. L. 87–666, § 3, Sept. 19, 1962, 76 Stat. 554, provided that: “The amen
 Provisions similar to those comprising this section were contained in former [section 4007 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4007&num=0&edition=prelim), prior to the general amendment of sections 4005 to 4007 by Pub. L. 87–666.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–168 substituted “issued” for “mailed”.
+
 2017—Subsec. (b). Pub. L. 115–55 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Upon the filing of a notice of disagreement, all parties in interest will be furnished with a statement of the case in the same manner as is prescribed in section 7105. The party in interest who filed a notice of disagreement will be allowed thirty days from the date of mailing of such statement of the case in which to file a formal appeal. Extension of time may be granted for good cause shown but with consideration to the interests of the other parties involved. The substance of the appeal will be communicated to the other party or parties in interest and a period of thirty days will be allowed for filing a brief or argument in answer thereto. Such notice shall be forwarded to the last known address of record of the parties concerned, and such action shall constitute sufficient evidence of notice.”
 
 1991—Pub. L. 102–40 renumbered [section 4005A of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4005A&num=0&edition=prelim) as this section and substituted “7105” for “4005” in subsec. (b).
@@ -500,6 +518,9 @@ Amendment by Pub. L. 115–55 applicable to all claims for which the Secretary o
 
 #### Effective Date
 Section effective Jan. 1, 1963, see section 3 of Pub. L. 87–666, set out as a note under [section 7105 of this title](./chapter-071-board-of-veterans-appeals.md#section-7105).
+
+#### Rule of Construction
+Amendment by Pub. L. 117–168 not to be construed to apply [section 5104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5104/a&num=0&edition=prelim) to decisions of the Board of Veterans’ Appeals under chapter 71 of this title, see section 807(b) of Pub. L. 117–168, set out as a note under [section 5100 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5100).
 
 
 <a id="section-7106"></a>

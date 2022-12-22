@@ -218,4 +218,4 @@ Any authority provided by this chapter to enter into contracts shall be effectiv
 ### Statutory Notes
 
 #### References in Text
-The Congressional Budget Act, referred to in section catchline, probably means the Congressional Budget Act of 1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
+The Congressional Budget Act, referred to in section catchline, probably means the Congressional Budget Act of 1974, titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.

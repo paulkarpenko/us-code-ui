@@ -140,6 +140,9 @@ Subsec. (e)(2)(B) to (D). Pub. L. 106–561 inserted “and” after semicolon i
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–162 applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as a note under [section 10151 of this title](./chapter-101-justice-system-improvement.md#section-10151).
 
+#### Short Title
+For short title of title I of Pub. L. 105–251, which is classified to this subchapter, as the “Crime Identification Technology Act of 1998”, see section 101 of Pub. L. 105–251, set out as a Short Title of 1998 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-40302"></a>
 ## § 40302. Funding for improvement of criminal records
@@ -198,6 +201,9 @@ Congress finds that—
 
 #### Codification
 Section was formerly classified to [section 14611 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14611&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Short Title
+For short title of subtitle A of title II of Pub. L. 105–251, which is classified to this subchapter, as the “National Crime Prevention and Privacy Compact Act of 1998”, see section 211 of Pub. L. 105–251, set out as a Short Title of 1998 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
 
 <a id="section-40312"></a>

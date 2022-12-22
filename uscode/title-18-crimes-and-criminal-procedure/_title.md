@@ -2,7 +2,7 @@
 title: 18
 heading: CRIMES AND CRIMINAL PROCEDURE
 positive_law: true
-sections: 1387
+sections: 1395
 chapters: 141
 ---
 # Title 18. CRIMES AND CRIMINAL PROCEDURE

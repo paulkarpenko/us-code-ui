@@ -515,7 +515,7 @@ In this subchapter, the following definitions apply:
 Clause (1) is added for clarity.
 
 #### References in Text
-The Davis-Bacon Act, referred to in par. (1), is act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of this title by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Davis-Bacon Act, referred to in par. (1), is act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of this title by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2006—Par. (1). Pub. L. 109–284 substituted “1494)” for “1494”.
@@ -736,9 +736,9 @@ In subsection (b)(1), the words “Volunteers who are performing services direct
 #### References in Text
 The Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450&num=0&edition=prelim) et seq.), referred to in subsec. (a), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which was classified principally to subchapter II (§ 450 et seq.) of chapter 14 of Title 25, Indians, prior to editorial reclassification as chapter 46 (§ 5301 et seq.) of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (a), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§ 1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (a), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-3171"></a>
@@ -786,7 +786,7 @@ In subsection (c), the words “subchapter I of chapter 81 of title 5” are sub
 
 **(b) Composition.—**
 
-(1) **In general.—** — Amounts received shall be credited to and merged with the Fund, to remain available until expended, for operating costs and capital outlays of the Fund: Provided, That entities for which such services are performed shall be charged at rates which will return in full all costs of providing such services.
+(1) **In general.—** — Amounts received, including advance payments, shall be credited to and merged with the Fund, to remain available until expended, for operating costs and capital outlays of the Fund: Provided, That entities for which such services are performed shall be charged at rates which will return in full all costs of providing such services.
 
 (2) **Cost and capital requirements.—** — The Administrator shall determine the cost and capital requirements of the Fund for each fiscal year and shall develop a plan concerning such requirements in consultation with the Chief Financial Officer of the General Services Administration. Any change to the cost and capital requirements of the Fund for a fiscal year shall be approved by the Administrator. The Administrator shall establish rates to be charged to entities for which services are performed, in accordance with the plan.
 
@@ -794,7 +794,7 @@ In subsection (c), the words “subchapter I of chapter 81 of title 5” are sub
 
 **(d) Transfer and Use of Amounts for Major Equipment Acquisitions.—**
 
-(1) **In general.—** — Subject to subparagraph (2), unobligated balances of amounts appropriated or otherwise made available to the General Services Administration for operating expenses and salaries and expenses may be transferred and merged into the “Major equipment acquisitions and development activity” of the working capital fund of the General Services Administration for agency-wide acquisition of capital equipment, automated data processing systems and financial management and management information systems: Provided, That acquisitions are limited to those needed to implement the Chief Financial Officers Act of 1990 (Public Law 101–576, 104 Stat. 2838) and related laws or regulations.
+(1) **In general.—** — Subject to subparagraph (2), unobligated balances of amounts appropriated or otherwise made available to the General Services Administration for operating expenses and salaries and expenses may be transferred and merged into the “Major equipment acquisitions and development activity” of the working capital fund of the General Services Administration for agency-wide acquisition of capital equipment, automated data processing systems and financial management and management information systems: Provided, That acquisitions are limited to those needed to implement the Chief Financial Officers Act of 1990 (Public Law 101–576, 104 Stat. 2838) and related laws or regulations or for agency-wide acquisition of equipment or systems or the acquisition of services in lieu thereof, as necessary to implement the Act.
 
 (2) **Requirements and Availability.—**
 
@@ -818,6 +818,10 @@ In subsection (b)(2), the words “Administrator of General Services” are subs
 The Chief Financial Officers Act of 1990, referred to in subsec. (d)(1), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section501&num=0&edition=prelim), Money and Finance, and Tables.
 
 #### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–103, § 529, inserted “, including advance payments,” after “Amounts received”.
+
+Subsec. (d)(1). Pub. L. 117–103, § 528, inserted “or for agency-wide acquisition of equipment or systems or the acquisition of services in lieu thereof, as necessary to implement the Act” before period at end.
+
 2009—Pub. L. 111–8, § 518(c)(2), substituted “Working capital fund for General Services Administration” for “Working capital fund for blueprinting, photostating, and duplicating services in General Services Administration” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 111–8, § 518(a), amended subsecs. (a) to (c) generally. Prior to amendment, subsecs. (a) to (c) related to establishment and purpose of a working capital fund, components of the fund, and deposit of excess amounts in the Treasury.

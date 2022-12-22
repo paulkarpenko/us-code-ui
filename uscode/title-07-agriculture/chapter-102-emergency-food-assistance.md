@@ -50,9 +50,9 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning the Emergency Food Assistance Act of 1983, title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, as amended, which enacted this chapter and amended provisions set out as a note under [section 612c of this title](./chapter-026-agricultural-adjustment.md#section-612c). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning the Emergency Food Assistance Act of 1983, title II of Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 35, which enacted this chapter and amended provisions set out as a note under [section 612c of this title](./chapter-026-agricultural-adjustment.md#section-612c). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Older Americans Act of 1965, referred to in par. (3)(A)(iv), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
+The Older Americans Act of 1965, referred to in par. (3)(A)(iv), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–193 amended section generally, substituting provisions containing an opening provision and pars. (1) to (10) defining “additional commodities”, “average monthly number of unemployed persons”, “eligible recipient agency”, “emergency feeding organization”, “food bank”, “food pantry”, “poverty line”, “soup kitchen”, “total value of additional commodities”, and “value of additional commodities allocated to each state” for an opening provision and pars. (1) to (6) defining “eligible recipient agencies”.
@@ -107,11 +107,11 @@ shall be made available by the Secretary, without charge or credit for such comm
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(4), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (a)(4), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (a)(4), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(4), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(4), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
 
 [Section 713a–14 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–14&num=0&edition=prelim), referred to in subsec. (f), was repealed by Pub. L. 113–79, title I, § 1423(a), Feb. 7, 2014, 128 Stat. 695.
 

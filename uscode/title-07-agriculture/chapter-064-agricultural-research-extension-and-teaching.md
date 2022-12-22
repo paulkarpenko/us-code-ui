@@ -89,7 +89,7 @@ The purposes of this chapter are to—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original this “title”, meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, as amended, which enacted this chapter and sections 2669 and 2670 of this title, amended sections 341, 342, 343, 361c, 390 to 390j, 1923, 1942, 2662, 2663, 2667, 3104, and 3157 of this title and [section 6651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6651&num=0&edition=prelim), The Public Health and Welfare, and repealed [section 390k of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section390k&num=0&edition=prelim). For complete classification of such title to the Code, see Short Title note set out under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101) and Tables.
+This chapter, referred to in text, was in the original this “title”, meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, which enacted this chapter and sections 2669 and 2670 of this title, amended sections 341, 342, 343, 361c, 390 to 390j, 1923, 1942, 2662, 2663, 2667, 3104, and 3157 of this title and [section 6651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6651&num=0&edition=prelim), The Public Health and Welfare, and repealed [section 390k of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section390k&num=0&edition=prelim). For complete classification of such title to the Code, see Short Title note set out under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101) and Tables.
 
 #### Amendments
 1990—Pub. L. 101–624 amended section catchline generally.
@@ -486,7 +486,7 @@ It is declared to be the policy of the Congress to promote the efficient product
 #### References in Text
 This title, referred to in text, means title I of act June 29, 1935, ch. 338, 49 Stat. 436. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note set out under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101) and Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in text, is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in text, is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 427 of this title](./chapter-017-miscellaneous-matters.md#section-427) prior to editorial reclassification and renumbering as this section.
@@ -1173,23 +1173,23 @@ This partnership in publicly supported agricultural research, extension, and tea
 ### Statutory Notes
 
 #### References in Text
-Act of March 2, 1887, referred to in subsec. (a)(1)(A), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title](./chapter-014-agricultural-experiment-stations.md#section-361a) and Tables.
+Act of March 2, 1887, referred to in subsec. (a)(1)(A), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title](./chapter-014-agricultural-experiment-stations.md#section-361a) and Tables.
 
 Act of October 10, 1962, referred to in subsec. (a)(1)(B), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 582a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section582a&num=0&edition=prelim) and Tables.
 
-Act of May 8, 1914, referred to in subsec. (a)(2), is act May 8, 1914, ch. 79, 38 Stat. 372, as amended, popularly known as the Smith-Lever Act, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 341 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-341) and Tables.
+Act of May 8, 1914, referred to in subsec. (a)(2), is act May 8, 1914, ch. 79, 38 Stat. 372, popularly known as the Smith-Lever Act, which is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 341 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-341) and Tables.
 
 Act of July 2, 1862, referred to in subsec. (a)(3)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-301) and Tables.
 
-Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
+Act of August 30, 1890, referred to in subsec. (a)(3)(B), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
 
 Act of June 29, 1935, referred to in subsec. (a)(3)(C), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (e)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (e)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Title XVIII of this Act, referred to in subsec. (e)(2), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, as amended, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+Title XVIII of this Act, referred to in subsec. (e)(2), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Amendments
 1996—Subsec. (e). Pub. L. 104–127 added subsec. (e).
@@ -1512,9 +1512,9 @@ The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act [
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Title XVIII of this Act, referred to in text, is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, as amended, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+Title XVIII of this Act, referred to in text, is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 
 <a id="section-3130"></a>
@@ -1888,9 +1888,9 @@ Subsec. (h). Pub. L. 115–334, § 7106(2), designated existing provisions as pa
 #### References in Text
 The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and also as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, . Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -3123,7 +3123,7 @@ Section, Pub. L. 95–113, title XIV, § 1427, Sept. 29, 1977, 91 Stat. 1000; Pu
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Social Security Act is classified principally to subchapter V (§ 701 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Social Security Act is classified principally to subchapter V (§ 701 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 330 of the Public Health Service Act, referred to in subsec. (a)(2), is section 330 of act July 1, 1944, which was classified to [section 254c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254c&num=0&edition=prelim), The Public Health and Welfare, and was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of chapter 6A of Title 42 by Pub. L. 104–299, § 2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of Title 42.
 
@@ -3469,9 +3469,9 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Title XVIII of this Act, referred to in subsec. (f), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, as amended, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+Title XVIII of this Act, referred to in subsec. (f), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -3718,7 +3718,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 #### References in Text
 Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
 
-Act of May 8, 1914, 38 Stat. 372, as amended, referred to in subsec. (a)(2), is popularly known as the “Smith-Lever Act”, and is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 341 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-341) and Tables.
+Act of May 8, 1914, 38 Stat. 372, referred to in subsec. (a)(2), is popularly known as the “Smith-Lever Act”, and is classified generally to subchapter IV (§ 341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 341 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-341) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -3901,7 +3901,7 @@ Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1141, provided in part that 
 ### Statutory Notes
 
 #### References in Text
-Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
+Act of August 30, 1890, 26 Stat. 417, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -4061,7 +4061,7 @@ A prior section 3222a, Pub. L. 95–113, title XIV, § 1446, as added Pub. L. 10
 ### Statutory Notes
 
 #### References in Text
-Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
+Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -4176,7 +4176,7 @@ A prior section 1448 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 10
 ### Statutory Notes
 
 #### References in Text
-Act of August 30, 1890, referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
+Act of August 30, 1890, referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -4272,7 +4272,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
+Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
 
 #### Codification
 Section was enacted as part of the Agriculture and Food Act of 1981, and not as part of the National Agricultural Research Extension and Teaching Policy Act of 1977 which comprises this chapter.
@@ -4973,13 +4973,13 @@ For definition of “this chapter”, referred to in subsec. (a), see note set o
 
 Section 1414, referred to in subsec. (a), is section 1414 of Pub. L. 95–113, which generally amended section 2 of Pub. L. 89–106, Aug. 4, 1965, 79 Stat. 431. Section 2 of Pub. L. 89–106 was classified to [section 450i of this title](./chapter-017-miscellaneous-matters.md#section-450i), prior to editorial reclassification and renumbering as [section 3157 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3157).
 
-Act of March 2, 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title](./chapter-014-agricultural-experiment-stations.md#section-361a) and Tables.
+Act of March 2, 1887, referred to in text, is act Mar. 2, 1887, ch. 314, 24 Stat. 440, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 361a of this title](./chapter-014-agricultural-experiment-stations.md#section-361a) and Tables.
 
 Act of October 10, 1962, referred to in subsec. (c), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, popularly known as the “McIntire-Stennis Act of 1962” and also as the “McIntire-Stennis Cooperative Forestry Act”, which is classified generally to subchapter III (§ 582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 582a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section582a&num=0&edition=prelim) and Tables.
 
 Sections 2(b) and 2(c) of the Act of August 4, 1965, referred to in subsec. (c), is section 2(b), (c) of Pub. L. 89–106, Aug. 4, 1965, 79 Stat. 431, which was classified to section 450i(b), (c) of this title prior to editorial reclassification and renumbering as section 3157(b), (c) of this title.
 
-The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (c), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, as amended, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§ 178 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 178 of this title](./chapter-8a-rubber-and-other-critical-agricultural-materials.md#section-178) and Tables.
+The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (c), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§ 178 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 178 of this title](./chapter-8a-rubber-and-other-critical-agricultural-materials.md#section-178) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -6193,7 +6193,7 @@ Section effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, and was translated as reading “this title”, meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, as amended, known as the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XIV to the Code, see References in Text note set out under [section 3102 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3102) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, and was translated as reading “this title”, meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, known as the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XIV to the Code, see References in Text note set out under [section 3102 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3102) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

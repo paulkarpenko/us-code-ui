@@ -75,7 +75,7 @@ Pursuant to regulations prescribed under [section 6103 of this title](./chapter-
 ### Statutory Notes
 
 #### References in Text
-The Age Discrimination in Employment Act of 1967 ([29 U.S.C. 621–634](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621–634&num=0&edition=prelim)), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, as amended, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621&num=0&edition=prelim) and Tables.
+The Age Discrimination in Employment Act of 1967 ([29 U.S.C. 621–634](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621–634&num=0&edition=prelim)), as amended, referred to in subsec. (c)(2), is Pub. L. 90–202, Dec. 15, 1967, 81 Stat. 602, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section621&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Subsec. (c)(1). Pub. L. 105–277 substituted “Nothing” for “Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing”.
@@ -116,7 +116,7 @@ Amendment by Pub. L. 95–478 effective at the close of Sept. 30, 1978, see sect
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (e)(1), probably means Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 713, as amended, known as the Older Americans Amendments of 1975. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+This Act, referred to in subsec. (e)(1), probably means Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 713, known as the Older Americans Amendments of 1975. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
 #### Amendments
 1978—Subsec. (b). Pub. L. 95–478, § 401(d), authorized disbursement of withheld funds directly to organization or agency demonstrating ability to achieve the goals of the Federal statute authorizing the program or activity while complying with the regulations.

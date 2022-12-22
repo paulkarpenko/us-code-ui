@@ -26,6 +26,9 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–222, § 1, Dec. 5, 2022, 136 Stat. 2279, provided that: “This Act [amending provisions set out as a note under [section 2107 of this title](./chapter-021-national-archives-and-records-administration.md#section-2107)] may be cited as the ‘Civil Rights Cold Case Investigations Support Act of 2022’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 116–283, div. H, title XCVI, § 9602(a), Jan. 1, 2021, 134 Stat. 4828, provided that: “This section [enacting [section 2912 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2912), amending [section 2901 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2901), and enacting provisions set out as a note under [section 2912 of this title](./chapter-029-records-management-by-the-archivist-of-the-united-states-and-by-the-administrator-of-general-services.md#section-2912)] may be cited as the ‘Electronic Message Preservation Act’.”
 

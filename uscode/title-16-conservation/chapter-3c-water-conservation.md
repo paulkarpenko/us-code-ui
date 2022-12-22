@@ -278,7 +278,7 @@ All payments made to the United States under repayment contracts on account of r
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsec. (a), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (a), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Pub. L. 113–291 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).

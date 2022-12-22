@@ -39,7 +39,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d), (e), (f), (h), and (j), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d), (e), (f), (h), and (j), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 #### Amendments
 1978—Pub. L. 95–523 designated existing provisions as subsec. (a), inserted provisions relating to promotion of balanced growth, a balanced Federal budget, adequate productivity growth, proper attention to national priorities, improvement in trade balance, and reasonable price stability, and added subsecs. (b) to (j).
@@ -146,7 +146,7 @@ For purposes of this subsection, the first Economic Report shall be the Report i
 ### Statutory Notes
 
 #### References in Text
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§ 3131 et seq.) of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (d), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887. Title III of the Full Employment and Balanced Growth Act of 1978 is classified principally to subchapter II (§ 3131 et seq.) of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 Section 304 of the Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, § 304, Oct. 27, 1978, 92 Stat. 1906, which amended [section 632 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section632&num=0&edition=prelim), The Congress.
 
@@ -174,7 +174,7 @@ Subsec. (d). Pub. L. 96–10, § 6(c), inserted reference to Federal outlays as 
 ### Statutory Notes
 
 #### References in Text
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (a), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (a), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 #### Prior Provisions
 A prior section 5 of act Feb. 20, 1946, was renumbered section 11 and is classified to [section 1024 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1024).
@@ -220,7 +220,7 @@ To contribute to the achievement of the goals under the Full Employment and Bala
 ### Statutory Notes
 
 #### References in Text
-The Full Employment and Balanced Growth Act of 1978, referred to in provision preceding par. (A), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in provision preceding par. (A), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 
 <a id="section-1022d"></a>
@@ -234,7 +234,7 @@ The Full Employment and Balanced Growth Act of 1978, referred to in provision pr
 ### Statutory Notes
 
 #### References in Text
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (c), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (c), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 
 <a id="section-1022e"></a>
@@ -271,7 +271,7 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (c),
 ### Statutory Notes
 
 #### References in Text
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (b), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (b), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 #### Termination of Advisory Boards
 Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -321,7 +321,7 @@ In its work under this chapter and the Full Employment and Balanced Growth Act o
 ### Statutory Notes
 
 #### References in Text
-The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 #### Codification
 In subsec. (a), provisions that fixed the compensation of members of the Council have been omitted as obsolete. The positions of chairman and members of the Council are under the Executive Schedule, see sections 5313 and 5315 of Title 5, Government Organization and Employees.

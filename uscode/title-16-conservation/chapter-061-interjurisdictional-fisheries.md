@@ -69,7 +69,7 @@ For the purposes of this chapter:
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101) and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Proclamation Numbered 5030, referred to in par. (3)(A), is set out under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 

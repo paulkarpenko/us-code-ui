@@ -138,18 +138,20 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 
 (3) **Certain set-asides described in section 4942(g)(2)** — In the case of a deficiency attributable to the failure of an amount set aside by a private foundation for a specific project to be treated as a qualifying distribution under the provisions of section 4942(g)(2)(B)(ii), such deficiency may be assessed at any time before the expiration of 2 years after the expiration of the period within which a deficiency may be assessed for the taxable year to which the amount set aside relates.
 
-**(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under section 30B(h)(9), 30C(e)(4), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
+**(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under section 30B(h)(9), 30C(e)(4), 30D(f)(6), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
 
 **(n) Cross reference** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (m). Pub. L. 117–169 substituted “30D(f)(6)” for “30D(e)(4)”.
+
 2018—Subsec. (c)(4)(A). Pub. L. 115–141, § 205(b), struck out “in this section” after “time prescribed”.
 
 Subsec. (c)(12). Pub. L. 115–141, § 201(b)(2), added par. (12).
 
-Subsec. (m). Pub. L. 115–141, § 401(a)(295), subtituted “any election under section 30B(h)(9), 30C(e)(4), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j)” for “any election under 30B(h)(9), 30C(e)(5), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), 45S(h), or 51(j)”.
+Subsec. (m). Pub. L. 115–141, § 401(a)(295), substituted “any election under section 30B(h)(9), 30C(e)(4), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j)” for “any election under 30B(h)(9), 30C(e)(5), 30D(e)(4), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), 45S(h), or 51(j)”.
 
 2017—Subsec. (m). Pub. L. 115–97 inserted “45S(h),” after “45H(g),”.
 
@@ -394,6 +396,9 @@ Subsec. (d). Pub. L. 85–866, § 80(a), (b), substituted in first sentence “s
 Subsec. (g)(2). Pub. L. 85–866, § 81(a), substituted “organization” for “corporation” wherever appearing.
 
 Subsecs. (h), (i). Pub. L. 85–866, § 81(b), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to vehicles placed in service after Dec. 31, 2022, see section 13401(k)(1) of Pub. L. 117–169, set out in an Effective Date of 2022; Transition Rule note under [section 30D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30d).
 
 #### Effective Date of 2018 Amendment
 Amendment by sections 201(b)(2) and 205(b) of Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).

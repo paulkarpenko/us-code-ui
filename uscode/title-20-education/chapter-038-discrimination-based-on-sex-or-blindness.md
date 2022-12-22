@@ -2,7 +2,7 @@
 title: 20
 chapter: '38'
 heading: DISCRIMINATION BASED ON SEX OR BLINDNESS
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20&num=0&edition=prelim
 ---
@@ -156,7 +156,7 @@ Notwithstanding anything to the contrary contained in this chapter, nothing cont
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title IX of Pub. L. 92–318 which enacted this chapter and amended sections 203 and 213 of Title 29, Labor, and sections 2000c, 2000c–6, 2000c–9, and 2000h–2 of Title 42, The Public Health and Welfare. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) and Tables.
 
-This Act, referred to in text, is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended, known as the Education Amendments of 1972. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+This Act, referred to in text, is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, known as the Education Amendments of 1972. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 
 <a id="section-1687"></a>
@@ -232,3 +232,90 @@ This section not to be construed to extend application of Education Amendments o
 
 #### Abortion Neutrality
 Pub. L. 100–259, § 8, Mar. 22, 1988, 102 Stat. 31, provided that: “No provision of this Act or any amendment made by this Act [see Short Title of 1988 Amendment note under [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681)] shall be construed to force or require any individual or hospital or any other institution, program, or activity receiving Federal Funds [sic] to perform or pay for an abortion.”
+
+
+<a id="section-1689"></a>
+## § 1689. Task Force on Sexual Violence in Education
+**(a) Task Force on Sexual Violence in Education** Not later than September 1, 2022, the Secretary of Education, the Secretary of Health and Human Services, and the Attorney General shall establish a joint interagency task force to be known as the “Task Force on Sexual Violence in Education” that shall—
+
+(1) provide pertinent information to the Secretary of Education, the Attorney General, Congress, and the public with respect to campus sexual violence prevention, investigations, and responses, including the creation of consistent, public complaint processes for violations of title IX of the Education Amendments of 1972 ([20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq.) and [section 1092(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f&num=0&edition=prelim);
+
+(2) provide recommendations to educational institutions for establishing sexual assault prevention and response teams;
+
+(3) develop recommendations for educational institutions on providing survivor resources, including health care, sexual assault kits, sexual assault nurse examiners, culturally responsive and inclusive standards of care, trauma-informed services, and access to confidential advocacy and support services;
+
+(4) develop recommendations in conjunction with student groups for best practices for responses to and prevention of sexual violence and dating violence for educational institutions, taking into consideration an institution’s size and resources;
+
+(5) develop recommendations for educational institutions on sex education, as appropriate, training for school staff, and various equitable discipline models;
+
+(6) develop recommendations on culturally responsive and inclusive approaches to supporting survivors, which include consideration of race, ethnicity, national origin, religion, immigrant status, lesbian, gay, bisexual, or transgender (commonly referred to as “LGBT”) status, ability, disability, socio-economic status, exposure to trauma, and other compounding factors;
+
+(7) solicit periodic input from a diverse group of survivors, trauma specialists, advocates from national, State, and local anti-sexual violence advocacy organizations, institutions of higher education, and other public stakeholders;
+
+(8) assess the Department of Education’s ability under section 902 of the Education Amendments of 1972 ([20 U.S.C. 1682](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1682)) to levy intermediate fines for noncompliance with title IX of the Education Amendments of 1972 ([20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq.) and the advisability of additional remedies for such noncompliance, in addition to the remedies already available under Federal law; and
+
+(9) create a plan described in subsection (c).
+
+**(b) Personnel details**
+
+(1) **Authority to detail** — Notwithstanding any other provision of law, the head of a component of any Federal agency for which appropriations are authorized under the Violence Against Women Act of 1994 ([34 U.S.C. 13925](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section13925&num=0&edition=prelim) et seq.), or any amendments made by that Act, may detail an officer or employee of such component to the Task Force on Sexual Violence in Education or to the Secretary of Education to assist the Task Force with the duties described in subsection (a), as jointly agreed to by the head of such component and the Task Force.
+
+(2) **Terms of detail** — A personnel detail made under paragraph (1) may be made—
+
+  (A) for a period of not more than 3 years; and
+
+  (B) on a reimbursable or nonreimbursable basis.
+
+**(c) Additional plan** Not later than 90 days after the date on which the Task Force on Sexual Violence in Education is established under subsection (a), the Task Force shall submit to Congress recommendations for recruiting, retaining, and training a highly-qualified workforce employed by the Department of Education to carry out investigation of complaints alleging a violation of title IX of the Education Amendments of 1972 ([20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq.) or [section 1092(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f&num=0&edition=prelim), and enforcement of such title IX ([20 U.S.C. 1681](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) et seq.) or such [section 1092(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092/f&num=0&edition=prelim), with respect to sexual violence in education, which shall include—
+
+(1) an assessment to identify gaps or challenges in carrying out such investigation and enforcement, which may include surveying the current investigative workforce to solicit feedback on areas in need of improvement;
+
+(2) an examination of issues of recruiting, retention, and the professional development of the current investigative workforce, including the possibility of providing retention bonuses or other forms of compensation for the purpose of ensuring the Department of Education has the capacity, in both personnel and skills, needed to properly perform its mission and provide adequate oversight of educational institutions;
+
+(3) an assessment of the benefits of outreach and training with both law enforcement agencies and educational institutions with respect to such workforce;
+
+(4) an examination of best practices for making educational institutions aware of the most effective campus sexual violence prevention, investigation, and response practices and identifying areas where more research should be conducted; and
+
+(5) strategies for addressing such other matters as the Secretary of Education considers necessary to sexual violence prevention, investigation, and responses.
+
+**(d) Annual reporting** The Task Force on Sexual Violence in Education shall submit to Congress, and make publicly available, an annual report of its activities and any update of the plan required under subsection (c), including—
+
+(1) the number of complaints received regarding sexual violence at educational institutions;
+
+(2) the number of open investigations of sexual violence at educational institutions;
+
+(3) the number of such complaints that continued to resolution;
+
+(4) the number of such complaints resolved using informal resolution;
+
+(5) the average time to complete such an investigation;
+
+(6) the number of such investigations initiated based on complaints; and
+
+(7) the number of such investigations initiated by the Department of Education.
+
+**(e) Definitions** In this section:
+
+(1) **Educational institution** — The term “educational institution” includes an institution of higher education, an elementary school, or a secondary school.
+
+(2) **Elementary school; secondary school** — The terms “elementary school” and “secondary school” have the meanings given the terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+(3) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1002 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1002).
+
+### Statutory Notes
+
+#### References in Text
+The Education Amendments of 1972, referred to in subsecs. (a)(1), (8) and (c), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to this chapter. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) and Tables.
+
+The Violence Against Women Act of 1994, referred to in subsec. (b)(1), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see section 40001 of Pub. L. 103–322, set out as a Short Title of 1994 Act note under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim), Crime Control and Law Enforcement, and Tables.
+
+[Section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801), referred to in subsec. (e)(3), was in the original “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801))”, and was translated as if it had been a reference to section 8101 of the Elementary and Secondary Education Act of 1965 to reflect the probable intent of Congress and the renumbering of section 9101 of the Act as 8101 by Pub. L. 114–95, § 8001(a)(1).
+
+#### Codification
+Section was enacted as part of the Violence Against Women Act Reauthorization Act of 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of title IX of Pub. L. 92–318 which is classified principally to this chapter.
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### Definitions
+For definitions of terms used in this section, see [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim), Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim).

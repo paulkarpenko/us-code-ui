@@ -168,9 +168,9 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 236], Nov. 29, 19
 
 **(b)**
 
-(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; [8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited in the Consular and Border Security Programs account, to remain available until expended for the purposes of meeting such costs.
+(1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; [8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited in the Consular and Border Security Programs account, to remain available until expended for the purposes of meeting such costs.11 See Extension of Consular Fees note below.
 
-(2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.
+(2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.22 See Extension of Authority note below.
 
 (3) The Secretary of State shall ensure that, to the extent practicable, the total cost of a passport application during fiscal years 2006 and 2007, including the surcharge authorized under paragraph (1), shall not exceed the cost of the passport application as of December 1, 2005.
 
@@ -208,13 +208,22 @@ Pub. L. 92–14, § 2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under [section 217a of this title](./chapter-004-passports.md#section-217a).
 
-#### Extension of Consular Fees
-Pub. L. 116–260, div. K, title VII, § 7069(a), Dec. 27, 2020, 134 Stat. 1812, provided that: “Section 1(b)(1) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/1&num=0&edition=prelim)) shall be applied through fiscal year 2021 by substituting ‘the costs of providing consular services’ for ‘such costs’.”
+#### Deposit of Consular Fees in the Consular and Border Security Programs Account
+Pub. L. 117–103, div. K, title VII, § 7069(e), Mar. 15, 2022, 136 Stat. 681, provided that: “Beginning on October 1, 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (a) of section 1 of the Passport Act of June 4, 1920 ([22 U.S.C. 214(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/a&num=0&edition=prelim)) shall, notwithstanding such subsection, be deposited in the Consular and Border Security Programs account as discretionary offsetting receipts: Provided, That amounts deposited in fiscal year 2022 shall remain available until expended for the purposes of such account: Provided further, That the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service.”
 
-#### Extension of Authority
-Pub. L. 116–260, div. K, title VII, § 7034(l)(1), Dec. 27, 2020, 134 Stat. 1749, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2021’ for ‘September 30, 2010’.”
+#### Extension of Consular Fees
+Pub. L. 117–103, div. K, title VII, § 7069(a), Mar. 15, 2022, 136 Stat. 681, provided that: “Section 1(b)(1) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/1&num=0&edition=prelim)) shall be applied through fiscal year 2022 by substituting ‘the costs of providing consular services’ for ‘such costs’.”
+
+Prior extension was contained in the following prior act:
+
+Pub. L. 116–260, div. K, title VII, § 7069(a), Dec. 27, 2020, 134 Stat. 1812.
+
+#### Extension of Authority To Collect Surcharge
+Pub. L. 117–103, div. K, title VII, § 7034(l)(1), Mar. 15, 2022, 136 Stat. 623, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2022’ for ‘September 30, 2010’.”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 116–260, div. K, title VII, § 7034(l)(1), Dec. 27, 2020, 134 Stat. 1749.
 
 Pub. L. 116–94, div. G, title VII, § 7034(l)(1), Dec. 20, 2019, 133 Stat. 2872.
 

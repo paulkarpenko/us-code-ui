@@ -975,7 +975,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 The words “another retirement system for employees of the Government” are substituted for “any other Federal Act or program providing retirement benefits for employees”.
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 223 and 224 are classified to sections 423 and 424a, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 223 and 224 are classified to sections 423 and 424a, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Subsec. (a)(4). Pub. L. 106–398 struck out “, subject to the reduction of such pay in accordance with [section 5532(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5532/b&num=0&edition=prelim), United States Code” after “uniformed services”.
@@ -2055,7 +2055,7 @@ In subsection (a)(3), the words “in the Federal Employees’ Compensation Act�
 In subsection (b), the words “in service to America” are inserted after “volunteer” in two places for clarity. The words “subsection (a)(2) of this section” are substituted for “paragraph (2)(B) of section 106(c)” to reflect the codification of that paragraph in title 5. The words “at the minimum rate for GS–7” are substituted for “under the entrance salary for GS–7 of the General Schedule for section 5332, title 5, United States Code” to conform to the style of title 5.
 
 #### References in Text
-Part A of subchapter VIII of chapter 34 of title 42, referred to in subsec. (b), is part A of title VIII of Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508, as amended, known as the Economic Opportunity Act of 1964. Part A of title VIII of that Act, as added by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq. and 5055 of Title 42.
+Part A of subchapter VIII of chapter 34 of title 42, referred to in subsec. (b), is part A of title VIII of Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508, known as the Economic Opportunity Act of 1964. Part A of title VIII of that Act, as added by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq. and 5055 of Title 42.
 
 #### Amendments
 1993—Subsec. (b). Pub. L. 103–82 substituted “GS–5 of the General Schedule under [section 5332 of title 5](./chapter-053-pay-rates-and-systems.md#section-5332), United States Code” for “GS–7”.
@@ -2228,7 +2228,7 @@ Act of July 25, 1942 (56 Stat. 710) which extended coverage to certain personnel
 
 Public Law 84–955 (Aug. 3, 1956) which extended coverage to certain Civil Air Patrol personnel was set out as a note under section 760 of former Title 5.
 
-Public Law 77–784 (December 2, 1942), which extended coverage to war risk hazards of certain employees of federal contractors, is act Dec. 2, 1942, ch. 668, 56 Stat. 1028, as amended, titles I and II of which are popularly known as the War Hazards Compensation Act, and is classified principally to chapter 12 (§ 1701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+Public Law 77–784 (December 2, 1942), which extended coverage to war risk hazards of certain employees of federal contractors, is act Dec. 2, 1942, ch. 668, 56 Stat. 1028, titles I and II of which are popularly known as the War Hazards Compensation Act, and is classified principally to chapter 12 (§ 1701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 Public Law 84–879 (August 1, 1956), which extended coverage to certain members of the Reserve Officers Training Corps of the Army, Navy, and Air Force, was classified to section 802 of former Title 5, Executive Departments and Government Officers and Employees.
 
@@ -2455,7 +2455,7 @@ In subsection (d), the reference to “the United States District Court for the 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### References in Text
-The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
+The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (a). Pub. L. 104–106, § 1505(b)(1)(A), substituted “903(a))” for “903(3))” in concluding provisions.

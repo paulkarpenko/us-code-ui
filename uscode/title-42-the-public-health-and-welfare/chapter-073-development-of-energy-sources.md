@@ -14,9 +14,9 @@ No person shall on the ground of sex be excluded from participation in, be denie
 ### Statutory Notes
 
 #### References in Text
-Any subchapter of this chapter, referred to in text, was in the original “any title of this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801).
+Any subchapter of this chapter, referred to in text, was in the original “any title of this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801).
 
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 
 <a id="section-5811"></a>
@@ -34,7 +34,7 @@ The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes below. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Effective Date; Interim Appointments
 Pub. L. 93–438, title III, § 312, Oct. 11, 1974, 88 Stat. 1253, provided that: “(a) This Act [see Short Title note below] shall take effect one hundred and twenty days after the date of its enactment [Oct. 11, 1974], or on such earlier date as the President may prescribe and publish in the Federal Register [prescribed as Jan. 19, 1975, by Ex. Ord. No. 11834, formerly set out below] except that any of the officers provided for in title I of this Act [subchapter I of this chapter] may be nominated and appointed, as provided by this Act, at any time after the date of enactment of this Act. Funds available to any department or agency (or any official or component thereof), any functions of which are transferred to the Administrator and the Commission by this Act, may, with the approval of the President, be used to pay the compensation and expenses of any officer appointed pursuant to this subsection until such time as funds for that purpose are otherwise available. “(b) In the event that any officer required by this Act to be appointed by and with the advice and consent of the Senate shall not have entered upon office on the effective date of this Act, the President may designate any officer, whose appointment was required to be made by and with the advice and consent of the Senate and who was such an officer immediately prior to the effective date of this Act, to act in such office until the office is filled as provided in this Act. While so acting, such persons shall receive compensation at the rates provided by this Act for the respective offices in which they act.”
@@ -60,7 +60,7 @@ There is hereby established an independent executive agency to be known as the E
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
 #### Transfer of Functions
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
@@ -175,7 +175,7 @@ The Administrator shall conduct a study of the potential energy applications of 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b), (c), and (h), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+This chapter, referred to in subsecs. (b), (c), and (h), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
 [Section 2036 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2036), referred to in subsec. (d), was repealed by Pub. L. 95–91, title VII, § 709(c)(1), Aug. 4, 1977, 91 Stat. 608.
 
@@ -453,7 +453,7 @@ Energy Research and Development Administration terminated and functions vested b
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Transfer of Functions
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
@@ -470,7 +470,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 Section, Pub. L. 95–39, title III, § 308, June 3, 1977, 91 Stat. 189; Pub. L. 96–470, title II, § 203(d), Oct. 19, 1980, 94 Stat. 2243, related to financial statements of Department of Energy officers and employees.
 
 #### Effective Date of Repeal
-For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-5817a"></a>
@@ -557,7 +557,7 @@ Energy Research and Development Administration terminated and functions vested b
 Section, Pub. L. 93–438, title I, § 108, Oct. 11, 1974, 88 Stat. 1241; Pub. L. 94–385, title I, §§ 162, 163, Aug. 14, 1976, 90 Stat. 1140, 1142; Pub. L. 95–39, title V, § 510(b), (c), June 3, 1977, 91 Stat. 200, related to establishment of an Energy Resources Council.
 
 #### Executive Order No. 11814
-Ex. Ord. No. 11814, Oct. 11, 1974, 39 F.R. 36955, as amended by Ex. Ord. No. 11819, Nov. 16, 1974, 39 F.R. 40743; Ex. Ord. No. 11855, May 1, 1975, 40 F.R. 19423, which related to the activation of the Energy Resources Council, was revoked by Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, set out as a note under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101).
+Ex. Ord. No. 11814, Oct. 11, 1974, 39 F.R. 36955, as amended by Ex. Ord. No. 11819, Nov. 16, 1974, 39 F.R. 40743; Ex. Ord. No. 11855, May 1, 1975, 40 F.R. 19423, which related to the activation of the Energy Resources Council, was revoked by Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, formerly set out as a note under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101).
 
 
 <a id="section-5820"></a>
@@ -646,11 +646,11 @@ Similar provisions were contained in Pub. L. 94–86, § 5, Aug. 9, 1975, 89 Sta
 ### Statutory Notes
 
 #### References in Text
-The Atomic Energy Community Act of 1955, referred to in subsec. (h)(1), is act Aug. 4, 1955, ch. 543, 69 Stat. 472, as amended, which is classified principally to chapter 24 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-024-disposal-of-atomic-energy-communities.md#section-2301) and Tables.
+The Atomic Energy Community Act of 1955, referred to in subsec. (h)(1), is act Aug. 4, 1955, ch. 543, 69 Stat. 472, which is classified principally to chapter 24 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-024-disposal-of-atomic-energy-communities.md#section-2301) and Tables.
 
 The Strategic and Critical Materials Stockpiling Act, as amended, referred to in subsec. (h)(1), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, § 2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§ 98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 98 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98&num=0&edition=prelim) and Tables.
 
-Act of May 16, 1910, as amended, referred to in subsec. (h)(1), is act May 16, 1910, ch. 240, 36 Stat. 369, as amended, which enacted sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
+Act of May 16, 1910, as amended, referred to in subsec. (h)(1), is act May 16, 1910, ch. 240, 36 Stat. 369, which enacted sections 1, 3, and 5 to 7 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 In subsec. (h), “[section 3302(b) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302/b&num=0&edition=prelim)” substituted for “section 3617 of the Revised Statutes ([31 U.S.C. 484](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section484&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -730,7 +730,7 @@ Pub. L. 95–238, title II, § 209, Feb. 25, 1978, 92 Stat. 76, provided that: �
 #### References in Text
 This chapter, referred to in subsecs. (a)(2) and (g)(2), was in the original “the Energy Reorganization Act of 1974”, and “this Act”, respectively, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
 #### Amendments
 1986—Subsec. (h). Pub. L. 99–386 struck out subsec. (h) which related to quarterly reports on compliance with equal employment requirements for grades GS–11 or above.
@@ -1450,7 +1450,7 @@ shall continue in effect according to their terms until modified, terminated, su
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
 References to “at the time this chapter takes effect” in subsec. (b)(2), “the date this chapter takes effect” in subsec. (d)(1), “date on which this chapter takes effect” in subsec. (f), and “the effective date of this chapter” in subsecs. (g), (h), (i), and (k), refer to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801).
 

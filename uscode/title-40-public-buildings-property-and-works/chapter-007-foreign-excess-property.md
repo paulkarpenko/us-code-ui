@@ -68,9 +68,9 @@ In subsection (c)(1), the words “Mutual Educational and Cultural Exchange Act 
 In subsection (c)(2), the words “Secretary of State” are substituted for “Department of State” because of 22:2651.
 
 #### References in Text
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (c)(1)(A), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§ 2451 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2451&num=0&edition=prelim) and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (c)(1)(A), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2451&num=0&edition=prelim) and Tables.
 
-The Foreign Service Buildings Act, 1926, referred to in subsec. (c)(1)(B), is act May 7, 1926, ch. 250, 44 Stat. 403, as amended, which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see [section 299 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section299&num=0&edition=prelim) and Tables.
+The Foreign Service Buildings Act, 1926, referred to in subsec. (c)(1)(B), is act May 7, 1926, ch. 250, 44 Stat. 403, as which is classified generally to chapter 8 (§ 292 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see [section 299 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section299&num=0&edition=prelim) and Tables.
 
 
 <a id="section-702"></a>

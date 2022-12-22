@@ -565,7 +565,7 @@ Section 1927, acts Aug. 26, 1954, ch. 937, ch. II, § 407, 68 Stat. 844; July 8,
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in subsecs. (a) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in subsecs. (a) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Amendments
 1980—Subsec. (a). Pub. L. 96–465, § 2206(a)(6)(A), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946, as amended ([22 U.S.C. 801](./chapter-014-foreign-service.md#section-801)),”.

@@ -564,7 +564,7 @@ Act June 3, 1937, affirmed and validated, and reenacted without change the provi
 ### Statutory Notes
 
 #### References in Text
-The Naval Stores Act, referred to in subsec. (2)(A), is act Mar. 3, 1923, ch. 217, 42 Stat. 1435, as amended, which is classified generally to chapter 4 (§ 91 et seq.) of this title. For complete classification of this Act to the Code, see [section 91 of this title](./chapter-004-naval-stores.md#section-91) and Tables.
+The Naval Stores Act, referred to in subsec. (2)(A), is act Mar. 3, 1923, ch. 217, 42 Stat. 1435, which is classified generally to chapter 4 (§ 91 et seq.) of this title. For complete classification of this Act to the Code, see [section 91 of this title](./chapter-004-naval-stores.md#section-91) and Tables.
 
 For the effective date of this sentence, referred to in subsec. (5)(A), see section 1403(b) of Pub. L. 115–334, set out as an Effective Date of 2018 Amendment note below.
 
@@ -1928,7 +1928,7 @@ Validity of remainder of this chapter as not affected should any of the provisio
 Appropriations for refunds, etc., see note set out under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
 
 #### Transfer of Functions
-Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan. No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department the Treasury.
+Functions of all officers of Department of the Treasury, and functions of all agencies and employees of such Department, transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan. No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
 
 
 <a id="section-618"></a>
@@ -2095,9 +2095,9 @@ Functions of all officers of Department of the Treasury, and functions of all ag
 For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.
 
 #### References in Text
-The Soil Conservation and Domestic Allotment Act, as amended, referred to in subsec. (a), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590q&num=0&edition=prelim) and Tables.
+The Soil Conservation and Domestic Allotment Act, as amended, referred to in subsec. (a), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590q&num=0&edition=prelim) and Tables.
 
-The Tariff Act of 1930, referred to in subsec. (c), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
+The Tariff Act of 1930, referred to in subsec. (c), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
 
 #### Codification
 Another section 22 of act May 12, 1933, amended [section 781 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section781&num=0&edition=prelim), Banks and Banking.

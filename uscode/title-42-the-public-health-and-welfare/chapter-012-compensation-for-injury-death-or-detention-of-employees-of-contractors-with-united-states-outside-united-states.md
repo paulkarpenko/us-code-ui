@@ -114,11 +114,11 @@ Pub. L. 87–195, pt. IV, § 702, Sept. 4, 1961, 75 Stat. 463, cited as a credit
 
 Act June 30, 1953, ch. 176, § 6, 67 Stat. 135, repealed act July 3, 1952, ch. 570, § 1(a)(13), 66 Stat. 331, which defined terms “enemy”, “allies”, “national war effort”, and “war effort”.
 
-#### Transfer of Functions
-For transfer of functions to Secretary of Labor, see note set out under [section 1711 of this title](./chapter-012-compensation-for-injury-death-or-detention-of-employees-of-contractors-with-united-states-outside-united-states.md#section-1711).
-
 #### Increase in Compensation for Injuries and Death From Injuries Sustained Before July 1, 1946
 Pub. L. 87–380, Oct. 4, 1961, 75 Stat. 809, increased the monthly disability and death compensation payable pursuant to subsec. (a) of this section with respect to injuries or deaths resulting from injury sustained prior to July 1, 1946, by 15 per centum, effective only with respect to disability and death compensation payable for periods commencing on and after Oct. 4, 1961.
+
+#### Transfer of Functions
+For transfer of functions to Secretary of Labor, see note set out under [section 1711 of this title](./chapter-012-compensation-for-injury-death-or-detention-of-employees-of-contractors-with-united-states-outside-united-states.md#section-1711).
 
 
 <a id="section-1702"></a>
@@ -130,7 +130,7 @@ Pub. L. 87–380, Oct. 4, 1961, 75 Stat. 809, increased the monthly disability a
 ### Statutory Notes
 
 #### References in Text
-The Longshore and Harbor Workers’ Compensation Act, referred to in section catchline, is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
+The Longshore and Harbor Workers’ Compensation Act, referred to in section catchline, is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
 
 Subsection (m) of [section 914 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section914&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 92–576, § 5(e), Oct. 27, 1972, 86 Stat. 1254.
 

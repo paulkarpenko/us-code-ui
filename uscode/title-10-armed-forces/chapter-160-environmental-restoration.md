@@ -227,7 +227,7 @@ Pub. L. 112–239, div. B, title XXVII, § 2711(d), Jan. 2, 2013, 126 Stat. 2144
 #### Effective Date of 1996 Amendment
 Pub. L. 104–106, div. A, title XV, § 1504(a), Feb. 10, 1996, 110 Stat. 513, provided that the amendment made by that section is effective as of Oct. 5, 1994, and as if included in Pub. L. 103–337 as enacted.
 
-For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by section 4321(b)(22) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under [section 2220 of this title](./chapter-131-planning-and-coordination.md#section-2220).
 
 #### Savings Clause
 Nothing in amendments by section 316 of Pub. L. 116–92 to affect any requirement or authority under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) et seq.), see section 316(d) of Pub. L. 116–92, set out as a note under [section 2700 of this title](./chapter-160-environmental-restoration.md#section-2700).
@@ -1066,7 +1066,7 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (d)(2), is Pub. 
 
 (1) The term “perfluoroalkyl substance” means a man-made chemical of which all of the carbon atoms are fully fluorinated carbon atoms.
 
-(2) The term “polyfluoroalkyl substance” means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.”
+(2) The term “polyfluoroalkyl substance” means a man-made chemical containing a mix of fully fluorinated carbon atoms, partially fluorinated carbon atoms, and nonfluorinated carbon atoms.
 
 ### Statutory Notes
 
@@ -1088,7 +1088,7 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 
 **(d) Type of Testing.—** When testing for perfluoroalkyl substances or polyfluoroalkyl substances under subsection (a) or any other provision of law, the Secretary shall use a method to measure for all perfluoroalkyl substances or polyfluoroalkyl substances in drinking water that has been validated by the Administrator of the Environmental Protection Agency.
 
-**(e) Definitions.—** In this section:the
+**(e) Definitions.—** In this section:
 
 (1) The term “military installation” has the meaning given such term in [section 2801(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2801/c/4&num=0&edition=prelim).
 

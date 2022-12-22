@@ -11,17 +11,19 @@ source: >-
 
 For the purposes of this chapter:
 
-**(a)** The term “fish or wildlife” means any wild animal, whether alive or dead, including without limitation any wild mammal, bird, reptile, amphibian, fish, mollusk, crustacean, arthropod, coelenterate, or other invertebrate, whether or not bred, hatched, or born in captivity, and includes any part, product, egg, or offspring thereof.
+**(a) Breed.—** The term “breed” means to facilitate propagation or reproduction (whether intentionally or negligently), or to fail to prevent propagation or reproduction.
 
-**(b)** The term “import” means to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+**(b)** The term “fish or wildlife” means any wild animal, whether alive or dead, including without limitation any wild mammal, bird, reptile, amphibian, fish, mollusk, crustacean, arthropod, coelenterate, or other invertebrate, whether or not bred, hatched, or born in captivity, and includes any part, product, egg, or offspring thereof.
 
-**(c)** The term “Indian tribal law” means any regulation of, or other rule of conduct enforceable by, any Indian tribe, band, or group but only to the extent that the regulation or rule applies within Indian country as defined in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim).
+**(c)** The term “import” means to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
-**(d)** The terms “law,” “treaty,” “regulation,” and “Indian tribal law” mean laws, treaties, regulations or Indian tribal laws which regulate the taking, possession, importation, exportation, transportation, or sale of fish or wildlife or plants.
+**(d)** The term “Indian tribal law” means any regulation of, or other rule of conduct enforceable by, any Indian tribe, band, or group but only to the extent that the regulation or rule applies within Indian country as defined in [section 1151 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1151&num=0&edition=prelim).
 
-**(e)** The term “person” includes any individual, partnership, association, corporation, trust, or any officer, employee, agent, department, or instrumentality of the Federal Government or of any State or political subdivision thereof, or any other entity subject to the jurisdiction of the United States.
+**(e)** The terms “law,” “treaty,” “regulation,” and “Indian tribal law” mean laws, treaties, regulations or Indian tribal laws which regulate the taking, possession, importation, exportation, transportation, or sale of fish or wildlife or plants.
 
-**(f) Plant.—**
+**(f)** The term “person” includes any individual, partnership, association, corporation, trust, or any officer, employee, agent, department, or instrumentality of the Federal Government or of any State or political subdivision thereof, or any other entity subject to the jurisdiction of the United States.
+
+**(g) Plant.—**
 
 (1) **In general.—** — The terms “plant” and “plants” mean any wild member of the plant kingdom, including roots, seeds, parts, or products thereof, and including trees from either natural or planted forest stands.
 
@@ -41,33 +43,35 @@ For the purposes of this chapter:
 
   (C) pursuant to any State law that provides for the conservation of species that are indigenous to the State and are threatened with extinction.
 
-**(g) Prohibited Wildlife Species.—** The term “prohibited wildlife species” means any live species of lion, tiger, leopard, cheetah, jaguar, or cougar or any hybrid of such species.
+**(h) Prohibited Wildlife Species.—** The term “prohibited wildlife species” means any live species of lion, tiger, leopard, cheetah, jaguar, or cougar or any hybrid of such species.
 
-**(h)** The term “Secretary” means, except as otherwise provided in this chapter, the Secretary of the Interior or the Secretary of Commerce, as program responsibilities are vested pursuant to the provisions of Reorganization Plan Numbered 4 of 1970 (84 Stat. 2090); except that with respect to the provisions of this chapter which pertain to the importation or exportation of plants, the term also means the Secretary of Agriculture.
+**(i)** The term “Secretary” means, except as otherwise provided in this chapter, the Secretary of the Interior or the Secretary of Commerce, as program responsibilities are vested pursuant to the provisions of Reorganization Plan Numbered 4 of 1970 (84 Stat. 2090); except that with respect to the provisions of this chapter which pertain to the importation or exportation of plants, the term also means the Secretary of Agriculture.
 
-**(i)** The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, Northern Mariana Islands, American Samoa, and any other territory, commonwealth, or possession of the United States.
+**(j)** The term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, Northern Mariana Islands, American Samoa, and any other territory, commonwealth, or possession of the United States.
 
-**(j) Taken and Taking.—**
+**(k) Taken and Taking.—**
 
 (1) **Taken.—** — The term “taken” means captured, killed, or collected and, with respect to a plant, also means harvested, cut, logged, or removed.
 
 (2) **Taking.—** — The term “taking” means the act by which fish, wildlife, or plants are taken.
 
-**(k)** The term “transport” means to move, convey, carry, or ship by any means, or to deliver or receive for the purpose of movement, conveyance, carriage, or shipment.
+**(l)** The term “transport” means to move, convey, carry, or ship by any means, or to deliver or receive for the purpose of movement, conveyance, carriage, or shipment.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in the provision preceding par. (a), and in par. (h), was in the original “this Act” and “the Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in the provision preceding subsec. (a) and in subsec. (i), was in the original “this Act” and “the Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (f)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (g)(3)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-Reorganization Plan No. 4 of 1970 (84 Stat. 2090), referred to in par. (h), is set out in the Appendix to Title 5, Government Organization and Employees.
+Reorganization Plan No. 4 of 1970 (84 Stat. 2090), referred to in subsec. (i), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsecs. (a) to (l). Pub. L. 117–243 added subsec. (a) and redesignated former subsecs. (a) to (k) as (b) to (l), respectively.
+
 2008—Subsec. (f). Pub. L. 110–246, § 8204(a)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The terms ‘plant’ and ‘plants’ mean any wild member of the plant kingdom, including roots, seeds, and other parts thereof (but excluding common food crops and cultivars) which is indigenous to any State and which is either (A) listed on an appendix to the Convention on International Trade in Endangered Species of Wild Fauna and Flora, or (B) listed pursuant to any State law that provides for the conservation of species threatened with extinction.”
 
 Subsec. (h). Pub. L. 110–246, § 8204(a)(2), substituted “plants, the term also means” for “plants the term means”.
@@ -78,6 +82,9 @@ Subsec. (j). Pub. L. 110–246, § 8204(a)(3), amended subsec. (j) generally. Pr
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–243, § 1, Dec. 20, 2022, 136 Stat. 2336, provided that: “This Act [amending this section, sections 3372 to 3374 and 3376 of this title, and [section 1997 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1997&num=0&edition=prelim), Agriculture] may be cited as the ‘Big Cat Public Safety Act’.”
 
 #### Short Title of 2003 Amendment
 Pub. L. 108–191, § 1, Dec. 19, 2003, 117 Stat. 2871, provided that: “This Act [amending this section and [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372) and enacting provisions set out as a note under [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)] may be cited as the ‘Captive Wildlife Safety Act’.”
@@ -94,7 +101,7 @@ Pub. L. 97–79, § 1, Nov. 16, 1981, 95 Stat. 1073, provided: “That this Act 
 
 (2) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce—
 
-  (A) any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law;
+  (A) any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law; or
 
   (B) any plant—
 
@@ -110,9 +117,7 @@ Pub. L. 97–79, § 1, Nov. 16, 1981, 95 Stat. 1073, provided: “That this Act 
 
     (ii) taken, possessed, transported, or sold without the payment of appropriate royalties, taxes, or stumpage fees required for the plant by any law or regulation of any State or any foreign law; or
 
-    (iii) taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants; or
-
-  (C) any prohibited wildlife species (subject to subsection (e));
+    (iii) taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants;
 
 (3) within the special maritime and territorial jurisdiction of the United States (as defined in [section 7 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section7&num=0&edition=prelim))—
 
@@ -134,7 +139,7 @@ Pub. L. 97–79, § 1, Nov. 16, 1981, 95 Stat. 1073, provided: “That this Act 
 
     (iii) taken, possessed, transported, or sold in violation of any limitation under any law or regulation of any State, or under any foreign law, governing the export or transshipment of plants; or
 
-(4) to attempt to commit any act described in paragraphs (1) through (3).
+(4) to attempt to commit any act described in paragraphs (1) through (3) or subsection (e).
 
 **(b) Marking offenses** It is unlawful for any person to import, export, or transport in interstate commerce any container or package containing any fish or wildlife unless the container or package has previously been plainly marked, labeled, or tagged in accordance with the regulations issued pursuant to paragraph (2) of [section 3376(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3376/a&num=0&edition=prelim).
 
@@ -159,33 +164,58 @@ Pub. L. 97–79, § 1, Nov. 16, 1981, 95 Stat. 1073, provided: “That this Act 
 
 (2) transported in interstate or foreign commerce.
 
-**(e) Nonapplicability of prohibited wildlife species offense**
+**(e) Captive wildlife offense**
 
-(1) **In general** — Subsection (a)(2)(C) does not apply to importation, exportation, transportation, sale, receipt, acquisition, or purchase of an animal of a prohibited wildlife species, by a person that, under regulations prescribed under paragraph (3), is described in paragraph (2) with respect to that species.
+(1) **In general** — Except as provided in paragraph (2), it is unlawful for any person to—
 
-(2) **Persons described** — A person is described in this paragraph, if the person—
+  (A) import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce, or in a manner substantially affecting interstate or foreign commerce; or
 
-  (A) is licensed or registered, and inspected, by the Animal and Plant Health Inspection Service or any other Federal agency with respect to that species;
+  (B) breed or possess;
+  any prohibited wildlife species.
 
-  (B) is a State college, university, or agency, State-licensed wildlife rehabilitator, or State-licensed veterinarian;
+(2) **Limitation on application** — Paragraph (1) does not apply to—
 
-  (C) is an accredited wildlife sanctuary that cares for prohibited wildlife species and—
+  (A) an entity exhibiting animals to the public under a Class C license from the Department of Agriculture, or a Federal facility registered with the Department of Agriculture that exhibits animals, if such entity or facility holds such license or registration in good standing and if the entity or facility—
+
+    (i) does not allow any individual to come into direct physical contact with a prohibited wildlife species, unless that individual is—
+
+      (I) a trained professional employee or contractor of the entity or facility (or an accompanying employee receiving professional training);
+
+      (II) a licensed veterinarian (or a veterinary student accompanying such a veterinarian); or
+
+      (III) directly supporting conservation programs of the entity or facility, the contact is not in the course of commercial activity (which may be evidenced by advertisement or promotion of such activity or other relevant evidence), and the contact is incidental to humane husbandry conducted pursuant to a species-specific, publicly available, peer-edited population management and care plan that has been provided to the Secretary with justifications that the plan—
+
+        (aa) reflects established conservation science principles;
+
+        (bb) incorporates genetic and demographic analysis of a multi-institution population of animals covered by the plan; and
+
+        (cc) promotes animal welfare by ensuring that the frequency of breeding is appropriate for the species; and
+
+    (ii) ensures that during public exhibition of a lion (Panthera leo), tiger (Panthera tigris), leopard (Panthera pardus), snow leopard (Uncia uncia), jaguar (Panthera onca), cougar (Puma concolor), or any hybrid thereof, the animal is at least 15 feet from members of the public unless there is a permanent barrier sufficient to prevent public contact;
+
+  (B) a State college, university, or agency, or a State-licensed veterinarian;
+
+  (C) a wildlife sanctuary that cares for prohibited wildlife species, and—
 
     (i) is a corporation that is exempt from taxation under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim) and described in sections 501(c)(3) and 170(b)(1)(A)(vi) of such title;
 
-    (ii) does not commercially trade in animals listed in [section 3371(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3371/g&num=0&edition=prelim), including offspring, parts, and byproducts of such animals;
+    (ii) does not commercially trade in any prohibited wildlife species, including offspring, parts, and byproducts of such animals;
 
-    (iii) does not propagate animals listed in [section 3371(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3371/g&num=0&edition=prelim); and
+    (iii) does not breed any prohibited wildlife species;
 
-    (iv) does not allow direct contact between the public and animals; or
+    (iv) does not allow direct contact between the public and any prohibited wildlife species; and
 
-  (D) has custody of the animal solely for the purpose of expeditiously transporting the animal to a person described in this paragraph with respect to the species.
+    (v) does not allow the transportation and display of any prohibited wildlife species off-site;
 
-(3) **Regulations** — Not later than 180 days after December 19, 2003, the Secretary, in cooperation with the Director of the Animal and Plant Health Inspection Service, shall promulgate regulations describing the persons described in paragraph (2).
+  (D) has custody of any prohibited wildlife species solely for the purpose of expeditiously transporting the prohibited wildlife species to a person described in this paragraph with respect to the species; or
 
-(4) **State authority** — Nothing in this subsection preempts or supersedes the authority of a State to regulate wildlife species within that State.
+  (E) an entity or individual that is in possession of any prohibited wildlife species that was born before December 20, 2022, and—
 
-(5) **Authorization of appropriations** — There is authorized to be appropriated to carry out subsection (a)(2)(C) $3,000,000 for each of fiscal years 2004 through 2008.
+    (i) not later than 180 days after December 20, 2022, the entity or individual registers each individual animal of each prohibited wildlife species possessed by the entity or individual with the United States Fish and Wildlife Service;
+
+    (ii) does not breed, acquire, or sell any prohibited wildlife species after December 20, 2022; and
+
+    (iii) does not allow direct contact between the public and prohibited wildlife species.
 
 **(f) Plant declarations**
 
@@ -248,6 +278,12 @@ The date of enactment of this subsection, referred to in subsec. (f)(1), (4), is
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (a)(2)(C). Pub. L. 117–243, § 3(1)(A), struck out subpar. (C) which read as follows: “any prohibited wildlife species (subject to subsection (e));”.
+
+Subsec. (a)(4). Pub. L. 117–243, § 3(1)(B), substituted “(1) through (3) or subsection (e)” for “(1) through (3)”.
+
+Subsec. (e). Pub. L. 117–243, § 3(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to nonapplicability of prohibited wildlife species offense.
+
 2008—Subsec. (a)(2)(B). Pub. L. 110–246, § 8204(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
 
 Subsec. (a)(3)(B). Pub. L. 110–246, § 8204(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “to possess any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
@@ -279,7 +315,7 @@ Pub. L. 108–191, § 3(b), Dec. 19, 2003, 117 Stat. 2872, provided that: “Sec
 ## § 3373. Penalties and sanctions
 **(a) Civil penalties**
 
-(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), and (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates subsection (d) or (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372), may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation: Provided, That when the violation involves fish or wildlife or plants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
+(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), (e), and (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates subsection (d), (e), or (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372), may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation: Provided, That when the violation involves fish or wildlife or plants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
 
 (2) Any person who violates subsection (b) or (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372), except as provided in paragraph (1), may be assessed a civil penalty by the Secretary of not more than $250.
 
@@ -299,12 +335,12 @@ Pub. L. 108–191, § 3(b), Dec. 19, 2003, 117 Stat. 2872, provided that: “Sec
 
 (1) Any person who—
 
-  (A) knowingly imports or exports any fish or wildlife or plants in violation of any provision of this chapter (other than subsections (b), (d), and (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)), or
+  (A) knowingly imports or exports any fish or wildlife or plants in violation of any provision of this chapter (other than subsections (b), (d), (e), and (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)), or
 
-  (B) violates any provision of this chapter (other than subsections (b), (d), and (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)) by knowingly engaging in conduct that involves the sale or purchase of, the offer of sale or purchase of, or the intent to sell or purchase, fish or wildlife or plants with a market value in excess of $350,
+  (B) violates any provision of this chapter (other than subsections (b), (d), (e), and (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)) by knowingly engaging in conduct that involves the sale or purchase of, the offer of sale or purchase of, or the intent to sell or purchase, fish or wildlife or plants with a market value in excess of $350,
   knowing that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation, shall be fined not more than $20,000, or imprisoned for not more than five years, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
 
-(2) Any person who knowingly engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), and (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation shall be fined not more than $10,000, or imprisoned for not more than one year, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
+(2) Any person who knowingly engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), (e), and (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation shall be fined not more than $10,000, or imprisoned for not more than one year, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
 
 (3) Any person who knowingly violates subsection (d) or (f) of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372)—
 
@@ -316,6 +352,8 @@ Pub. L. 108–191, § 3(b), Dec. 19, 2003, 117 Stat. 2872, provided that: “Sec
 
   (B) shall be fined under title 18 or imprisoned for not more than 1 year, or both, if the offense does not involve conduct described in subparagraph (A).
 
+(4) Any person who knowingly violates [section 3372(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3372/e&num=0&edition=prelim) shall be fined not more than $20,000, or imprisoned for not more than 5 years, or both. Each violation shall be a separate offense and the offense is deemed to have been committed in the district where the violation first occurred, and in any district in which the defendant may have taken or been in possession of the prohibited wildlife species.
+
 **(e) Permit sanctions** The Secretary may also suspend, modify, or cancel any Federal hunting or fishing license, permit, or stamp, or any license or permit authorizing a person to import or export fish or wildlife or plants (other than a permit or license issued pursuant to the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.]), or to operate a quarantine station or rescue center for imported wildlife or plants, issued to any person who is convicted of a criminal violation of any provision of this chapter or any regulation issued hereunder. The Secretary shall not be liable for the payments of any compensation, reimbursement, or damages in connection with the modification, suspension, or revocation of any licenses, permits, stamps, or other agreements pursuant to this section.
 
 ### Statutory Notes
@@ -323,7 +361,7 @@ Pub. L. 108–191, § 3(b), Dec. 19, 2003, 117 Stat. 2872, provided that: “Sec
 #### References in Text
 This chapter, referred to in subsecs. (a)(1), (3), (d)(1), (2), and (e), was in the original “this Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3371 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3371) and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Codification
 “Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
@@ -331,6 +369,16 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–243, § 4(a), inserted “(e),” after “(d),” and “, (e),” after “subsection (d)”.
+
+Subsec. (d)(1)(A). Pub. L. 117–243, § 4(b)(1), inserted “(e),” after “(d),”.
+
+Subsec. (d)(1)(B). Pub. L. 117–243, § 4(b)(2), inserted “(e),” after “(d),”.
+
+Subsec. (d)(2). Pub. L. 117–243, § 4(b)(3), inserted “(e),” after “(d),”.
+
+Subsec. (d)(4). Pub. L. 117–243, § 4(b)(4), added par. (4).
+
 2008—Subsec. (a)(1). Pub. L. 110–246, § 8204(f), made technical corrections to directory language of Pub. L. 100–653, § 102(c). See 1988 Amendment note below.
 
 Pub. L. 110–246, § 8204(c)(1), (2), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” and “subsection (d) or (f) of section 3372” for “section 3372(d)”.
@@ -368,7 +416,7 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 ## § 3374. Forfeiture
 **(a) In general**
 
-(1) All fish or wildlife or plants imported, exported, transported, sold, received, acquired, or purchased contrary to the provisions of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372) (other than [section 3372(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3372/b&num=0&edition=prelim)), or any regulation issued pursuant thereto, shall be subject to forfeiture to the United States notwithstanding any culpability requirements for civil penalty assessment or criminal prosecution included in [section 3373 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3373).
+(1) All fish or wildlife or plants bred, possessed, imported, exported, transported, sold, received, acquired, or purchased contrary to the provisions of [section 3372 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3372) (other than [section 3372(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3372/b&num=0&edition=prelim)), or any regulation issued pursuant thereto, shall be subject to forfeiture to the United States notwithstanding any culpability requirements for civil penalty assessment or criminal prosecution included in [section 3373 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3373).
 
 (2) All vessels, vehicles, aircraft, and other equipment used to aid in the importing, exporting, transporting, selling, receiving, acquiring, or purchasing of fish or wildlife or plants in a criminal violation of this chapter for which a felony conviction is obtained shall be subject to forfeiture to the United States if (A) the owner of such vessel, vehicle, aircraft, or equipment was at the time of the alleged illegal act a consenting party or privy thereto or in the exercise of due care should have known that such vessel, vehicle, aircraft, or equipment would be used in a criminal violation of this chapter, and (B) the violation involved the sale or purchase of, the offer of sale or purchase of, or the intent to sell or purchase, fish or wildlife or plants.
 
@@ -389,6 +437,8 @@ Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–243 inserted “bred, possessed,” before “imported, exported,”.
+
 2008—Subsec. (d). Pub. L. 110–246, § 8204(d), added subsec. (d).
 
 #### Effective Date of 2008 Amendment
@@ -435,9 +485,11 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 (2) The Secretaries of the Interior and Commerce shall jointly promulgate specific regulations to implement the provisions of [section 3372(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3372/b&num=0&edition=prelim) for the marking and labeling of containers or packages containing fish or wildlife. These regulations shall be in accordance with existing commercial practices.
 
+(3) The Secretary shall, in consultation with other relevant Federal and State agencies, promulgate any regulations necessary to implement [section 3372(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3372/e&num=0&edition=prelim).
+
 **(b) Contract authority** Beginning in fiscal year 1983, to the extent and in the amounts provided in advance in appropriations Acts, the Secretary may enter into such contracts, leases, cooperative agreements, or other transactions with any Federal or State agency, Indian tribe, public or private institution, or other person, as may be necessary to carry out the purposes of this chapter.
 
-**(c) Clarification of exclusions from definition of plant** The Secretary of Agriculture and the Secretary of the Interior, after consultation with the appropriate agencies, shall jointly promulgate regulations to define the terms used in [section 3371(f)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3371/f/2/A&num=0&edition=prelim) for the purposes of enforcement under this chapter.
+**(c) Clarification of exclusions from definition of plant** The Secretary of Agriculture and the Secretary of the Interior, after consultation with the appropriate agencies, shall jointly promulgate regulations to define the terms used in [section 3371(g)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3371/g/2/A&num=0&edition=prelim) for the purposes of enforcement under this chapter.
 
 ### Statutory Notes
 
@@ -448,6 +500,10 @@ This chapter, referred to in subsecs. (b) and (c), was in the original “this A
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (a)(3). Pub. L. 117–243, § 6, added par. (3).
+
+Subsec. (c). Pub. L. 117–243, § 2(b)(2), substituted “section 3371(g)(2)(A)” for “section 3371(f)(2)(A)”.
+
 2008—Subsec. (a)(1). Pub. L. 110–246, § 8204(e)(1), substituted “sections 3372(f), 3373, and 3374” for “section 3373 and section 3374”.
 
 Subsec. (c). Pub. L. 110–246, § 8204(e)(2), added subsec. (c).
@@ -474,11 +530,11 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 ### Statutory Notes
 
 #### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Tuna Conventions Act of 1950, referred to in subsec. (b)(1), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, as amended, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-016-tuna-conventions.md#section-951) and Tables.
+The Tuna Conventions Act of 1950, referred to in subsec. (b)(1), is act Sept. 7, 1950, ch. 907, 64 Stat. 777, which is classified generally to chapter 16 (§ 951 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-016-tuna-conventions.md#section-951) and Tables.
 
-The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(1), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(1), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to chapter 16A (§ 971 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
 
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(2), was subsequently amended, and pars. (13) and (14) of section 3 no longer define the terms “high seas” and “highly migratory species”. However, such terms are defined elsewhere in that section.
 
@@ -513,7 +569,7 @@ Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, refer
 ### Statutory Notes
 
 #### References in Text
-The Black Bass Act, referred to in subsec. (b)(1), is act May 20, 1926, ch. 346, 44 Stat. 576, as amended, which was classified generally to chapter 13 (§ 851 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Black Bass Act, referred to in subsec. (b)(1), is act May 20, 1926, ch. 346, 44 Stat. 576, which was classified generally to chapter 13 (§ 851 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Subsecs. (d) and (e) of this section were in the original subsecs. (g) and (h), respectively, of section 9 of Pub. L. 97–79 and were redesignated for purposes of codification.

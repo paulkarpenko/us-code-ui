@@ -1337,7 +1337,7 @@ Section, Pub. L. 113–79, title III, § 3208, Feb. 7, 2014, 128 Stat. 781, rela
 ### Statutory Notes
 
 #### References in Text
-The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1301&num=0&edition=prelim) and Tables.
+The Water Bank Act, referred to in subsec. (b)(1), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1301&num=0&edition=prelim) and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (b)(2), (5), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
@@ -1381,6 +1381,12 @@ Subsec. (b)(7), (8). Pub. L. 104–127, § 336(d)(2)(A)(ii), redesignated pars. 
 
 Subsec. (c). Pub. L. 104–127, § 336(d)(2)(B), in introductory provisions, substituted “(1), (2), and (4)” for “(2), (3), (4), and (6)”.
 
+#### Conservation Technical Assistance
+Pub. L. 117–169, title II, § 21002, Aug. 16, 2022, 136 Stat. 2018, provided that: “(a) Appropriations.—In addition to amounts otherwise available (and subject to subsection (b)), there are appropriated to the Secretary [of Agriculture] for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, to remain available until September 30, 2031 (subject to the condition that no such funds may be disbursed after September 30, 2031)—“(1) $1,000,000,000 to provide conservation technical assistance through the Natural Resources Conservation Service; and “(2) $300,000,000 to carry out a program to quantify carbon sequestration and carbon dioxide, methane, and nitrous oxide emissions, through which the Natural Resources Conservation Service shall collect field-based data to assess the carbon sequestration and reduction in carbon dioxide, methane, and nitrous oxide emissions outcomes associated with activities carried out pursuant to this section and use the data to monitor and track those carbon sequestration and emissions trends through the Greenhouse Gas Inventory and Assessment Program of the Department of Agriculture. “(b) Conditions.—The funds made available under this section are subject to the conditions that the Secretary shall not—“(1) enter into any agreement—“(A) that is for a term extending beyond September 30, 2031; or “(B) under which any payment could be outlaid or funds disbursed after September 30, 2031; “(2) use any other funds available to the Secretary to satisfy obligations initially made under this section; or “(3) interpret this section to authorize funds of the Commodity Credit Corporation for activities under this section if such funds are not expressly authorized or currently expended for such purposes. “(c) Administrative Costs.—In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $100,000,000, to remain available until September 30, 2028, for administrative costs of the agencies and offices of the Department of Agriculture for costs related to implementing this section.”
+
+#### Definition of “Secretary”
+Pub. L. 117–169, title II, § 20001, Aug. 16, 2022, 136 Stat. 2015, provided that: “In this title [amending [section 8103 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8103) and sections 3839aa–2, 3839aa–8, 3839aa–22, 3839aa–24, 3841, 3844, and 3871d of Title 16, Conservation, enacting provisions set out as a note above, repealing provisions set out as a note under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921), and amending provisions set out as a note under [section 2279 of this title](./chapter-055-department-of-agriculture.md#section-2279)], the term ‘Secretary’ means the Secretary of Agriculture.”
+
 
 <a id="section-6942"></a>
 ## § 6942. Under Secretary of Agriculture for Rural Development
@@ -1401,7 +1407,7 @@ Subsec. (c). Pub. L. 104–127, § 336(d)(2)(B), in introductory provisions, sub
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsec. (e), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (e), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 #### Codification
 Section is comprised of section 231 of Pub. L. 103–354. Subsec. (f) of section 231 of Pub. L. 103–354 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees, and repealed sections 2006f and 2211b of this title.
@@ -1462,7 +1468,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsec. (c)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (c)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 [Section 1926–1 of this title](./chapter-050-agricultural-credit.md#section-1926-1), referred to in subsec. (c)(1)(B), was repealed by Pub. L. 104–127, title VII, § 702, Apr. 4, 1996, 110 Stat. 1108.
 
@@ -1503,7 +1509,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (b)(2), (3). Pub. L. 104–127 redesignated par. (3) as (2), substituted “[section 2008d of this title](./chapter-050-agricultural-credit.md#section-2008d)” for “sections 2008 through 2008d of this title”, and struck out former par. (2) which read as follows: “Programs and activities authorized under [section 1932(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/i&num=0&edition=prelim) and related provisions of law.”
@@ -1528,7 +1534,7 @@ The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsec. (b)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended. Title V of the Act is classified generally to subchapter V (§ 950aa et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (b)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363. Title V of the Act is classified generally to subchapter V (§ 950aa et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, § 6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
@@ -2660,7 +2666,7 @@ Section, Pub. L. 103–354, title II, § 295, Oct. 13, 1994, 108 Stat. 3238, rel
 #### References in Text
 This chapter, referred to in subsecs. (a) and (b)(8)–(10), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under [section 6901 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6901) and Tables.
 
-Reorganization Plan No. 2 of 1953, referred to in subsec. (b)(2), is Reorg. Plan No. 2 of 1953, June 4, 1953, 18 F.R. 3219, 67 Stat. 633, as amended, which is set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
+Reorganization Plan No. 2 of 1953, referred to in subsec. (b)(2), is Reorg. Plan No. 2 of 1953, June 4, 1953, 18 F.R. 3219, 67 Stat. 633, which is set out as a note under [section 2201 of this title](./chapter-055-department-of-agriculture.md#section-2201).
 
 The Agricultural Act of 2014, referred to in subsec. (b)(8), is Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 649. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001) and Tables.
 

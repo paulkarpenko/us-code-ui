@@ -70,7 +70,7 @@ Pub. L. 92–419, § 1, Aug. 30, 1972, 86 Stat. 657, provided: “That this Act 
 Pub. L. 87–128, title III, § 301(a), Aug. 8, 1961, 75 Stat. 307, as amended by Pub. L. 92–419, title I, § 101, Aug. 30, 1972, 86 Stat. 657, provided that: “This title [enacting this section and sections 1013a, 1922 to 1933, 1941 to 1947, 1961 to 1968, 1969, 1970, 1971, and 1981 to 1993 of this title, amending sections 1924 to 1927, 1929, 1941 to 1943, 1981, 1983, 1985, and 1991 of this title, repealing sections 1001 to 1005d, 1006c to 1006e, 1007, 1008, 1009, 1014 to 1025, 1027 to 1029 of this title, sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, and sections 590r to 590x–4 of Title 16, Conservation, and enacting provisions set out as a note under this section] may be cited as the ‘Consolidated Farm and Rural Development Act’.”
 
 #### Farm Loan Assistance for Socially Disadvantaged Farmers and Ranchers
-Pub. L. 117–2, title I, § 1005, Mar. 11, 2021, 135 Stat. 12, provided that: “(a) Payments.—“(1) Appropriation.—In addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2021, out of amounts in the Treasury not otherwise appropriated, such sums as may be necessary, to remain available until expended, for the cost of loan modifications and payments under this section. “(2) Payments.—The Secretary shall provide a payment in an amount up to 120 percent of the outstanding indebtedness of each socially disadvantaged farmer or rancher as of January 1, 2021, to pay off the loan directly or to the socially disadvantaged farmer or rancher (or a combination of both), on each—“(A) direct farm loan made by the Secretary to the socially disadvantaged farmer or rancher; and “(B) farm loan guaranteed by the Secretary the borrower of which is the socially disadvantaged farmer or rancher. “(b) Definitions.—In this section:“(1) Farm loan.—The term ‘farm loan’ means—“(A) a loan administered by the Farm Service Agency under subtitle A, B, or C of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1922](./chapter-050-agricultural-credit.md#section-1922) et seq.[, 1941 et seq., 1961 et seq.]); and “(B) a Commodity Credit Corporation Farm Storage Facility Loan. “(2) Secretary.—The term ‘Secretary’ means the Secretary of Agriculture. “(3) Socially disadvantaged farmer or rancher.—The term ‘socially disadvantaged farmer or rancher’ has the meaning given the term in section 2501(a) of the Food, Agriculture, Conservation, and Trade Act of 1990 ([7 U.S.C. 2279(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2279/a&num=0&edition=prelim)).”
+Pub. L. 117–2, title I, § 1005, Mar. 11, 2021, 135 Stat. 12, which related to loan modifications and payments for socially disadvantaged farmers and ranchers, was repealed by Pub. L. 117–169, title II, § 22008, Aug. 16, 2022, 136 Stat. 2023.
 
 #### Regulations
 Pub. L. 101–624, title XXIII, § 2396, Nov. 28, 1990, 104 Stat. 4058, provided that: “Except as otherwise provided in this title [see Short Title of 1990 Amendment note set out above], no later than 180 days after the date of the enactment of this Act [Nov. 28, 1990], the Secretary shall promulgate such regulations as may be necessary to carry out this title and the amendments made by this title.”
@@ -514,7 +514,7 @@ Section, Pub. L. 101–624, title XXIII, § 2322, Nov. 28, 1990, 104 Stat. 4010;
 #### References in Text
 The Federal Water Pollution Control Act, referred to in subsec. (d)(1)(C), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Safe Drinking Water Act, referred to in subsec. (d)(1)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in subsec. (h)(2)(B), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
@@ -1016,11 +1016,11 @@ Pub. L. 107–171, title VI, § 6012(b), May 13, 2002, 116 Stat. 358, provided t
 #### References in Text
 Section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, referred to in subsec. (a)(1), is Pub. L. 105–277, div. A, § 101(a)[title VII, § 766], Oct. 21, 1998, 112 Stat. 2681, 2681–37, which is not classified to the Code.
 
-The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 This chapter, referred to in subsec. (a)(2)(C)(iii), (12)(D), (18), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of these Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of these Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 Act of July 2, 1862 (12 Stat. 503–505, as amended; [7 U.S.C. 301–305](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section301–305&num=0&edition=prelim), 307 and 308), referred to in subsec. (a)(12)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-301) and Tables.
 
@@ -1262,7 +1262,7 @@ On and after November 10, 2005, notwithstanding the provisions of the Consolidat
 ### Statutory Notes
 
 #### References in Text
-The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to this chapter. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to this chapter. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Codification
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2006, and not as part of the Consolidated Farm and Rural Development Act which comprises this chapter.
@@ -1657,7 +1657,7 @@ Pub. L. 99–500, title III, § 381, Oct. 18, 1986, 100 Stat. 1783–369, and Pu
 ### Statutory Notes
 
 #### References in Text
-Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, § 5, 60 Stat. 1072, which was classified to [section 1005a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1005a&num=0&edition=prelim) and was repealed by section 341(a) of Pub. L. 87–128.
+Section 11(a) of the Bankhead-Jones Farm Tenant Act, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, § 5, 60 Stat. 1072, which was classified to [section 1005a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1005a&num=0&edition=prelim) and was repealed by section 341(a) of Pub. L. 87–128.
 
 This chapter, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
@@ -2079,11 +2079,11 @@ Section, Pub. L. 87–128, title III, § 310A, as added Pub. L. 92–419, title 
 ### Statutory Notes
 
 #### References in Text
-The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (a)(1)(B), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in subsec. (d)(5), (7), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, as amended, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (j), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -2327,9 +2327,9 @@ Pub. L. 97–35, title I, § 120, Aug. 13, 1981, 95 Stat. 367, provided in part 
 #### References in Text
 Section 517(a) of the Housing Act of 1949 [[42 U.S.C. 1487(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1487/a&num=0&edition=prelim)], referred to in subsec. (a), was amended by Pub. L. 98–181, title I [title V, § 514(a)(1)], Nov. 30, 1983, 98 Stat. 1247, and, as so amended, does not contain a par. (2).
 
-The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
-Title V of the Housing Act of 1949, referred to in subsec. (b), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, as amended, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see References in Text note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+Title V of the Housing Act of 1949, referred to in subsec. (b), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, which is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see References in Text note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
@@ -2936,7 +2936,7 @@ Pub. L. 100–387, title III, § 312, Aug. 11, 1988, 102 Stat. 948.
 #### References in Text
 This chapter, referred to in subsecs. (a)(9)(B)(i) and (d)(1), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(9)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (a). Pub. L. 113–79, § 5106(b)(2), inserted “(including a microloan, as defined by the Secretary)” after “A direct loan” in introductory provisions.
@@ -3240,9 +3240,9 @@ Pub. L. 107–171, title V, § 5102, May 13, 2002, 116 Stat. 343, as amended by 
 ### Statutory Notes
 
 #### References in Text
-The Plant Protection Act, referred to in subsec. (a), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-104-plant-protection.md#section-7701) and Tables.
+The Plant Protection Act, referred to in subsec. (a), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of this title](./chapter-104-plant-protection.md#section-7701) and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -3415,7 +3415,7 @@ Amendment by Pub. L. 96–438 effective with respect to loans approved after Oct
 #### References in Text
 This chapter, referred to in subsecs. (d) and (e), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 The Community Emergency Drought Relief Act of 1977, referred to in subsec. (e), is Pub. L. 95–31, May 23, 1977, 91 Stat. 169. Title I of the Community Emergency Drought Relief Act of 1977 is set out as a note under [section 5184 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5184&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
@@ -3507,7 +3507,7 @@ The Emergency Credit Revolving Fund, referred to in text, was abolished and its 
 ### Statutory Notes
 
 #### References in Text
-Act of April 6, 1949, as amended, referred to in subsec. (a), is act Apr. 6, 1949, ch. 49, 63 Stat. 43, as amended, which was classified to sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
+Act of April 6, 1949, as amended, referred to in subsec. (a), is act Apr. 6, 1949, ch. 49, 63 Stat. 43, which was classified to sections 1148a–1 to 1148a–3 of Title 12, Banks and Banking, was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
 Act of August 31, 1954, referred to in subsec. (a), is act Aug. 31, 1954, ch. 1145, 68 Stat. 999, which was classified as a note under [section 1148a–1 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1148a–1&num=0&edition=prelim), was repealed by section 341(a) of Pub. L. 87–128, and is covered by this chapter.
 
@@ -3623,7 +3623,7 @@ Act of August 31, 1954, as amended, referred to in subsec. (a), is act Aug. 31, 
 
 The Housing Act of 1949, as amended, referred to in subsec. (b)(4), (5), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-The Rural Electrification Act of 1936, referred to in subsecs. (b)(4) and (e)(3), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+The Rural Electrification Act of 1936, referred to in subsecs. (b)(4) and (e)(3), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 [Section 14 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section14&num=0&edition=prelim), referred to in subsec. (b)(7), was repealed by Pub. L. 92–310, title II, § 203(1), June 6, 1972, 86 Stat. 202. For provisions relating to surety bonds of Federal personnel, see section 9301 et seq. of Title 31, Money and Finance.
 
@@ -3976,7 +3976,7 @@ Amendment by section 1807(1) of Pub. L. 101–624 effective 120 days after Nov. 
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in subsec. (b)(1), (3), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
@@ -4030,7 +4030,7 @@ Pub. L. 101–624, title XVIII, § 1808(b), Nov. 28, 1990, 104 Stat. 3820, provi
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b), (c), and (e), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, known as the Consolidated Farm and Rural Development Act. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+This chapter, referred to in subsecs. (b), (c), and (e), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Prior Provisions
 A prior section 1982, Pub. L. 87–128, title III, § 332, Aug. 8, 1961, 75 Stat. 314; Pub. L. 99–198, title XIII, § 1311, Dec. 23, 1985, 99 Stat. 1524; Pub. L. 100–233, title VI, § 607, Jan. 6, 1988, 101 Stat. 1667; Pub. L. 101–624, title XVIII, § 1809, Nov. 28, 1990, 104 Stat. 3820; Pub. L. 102–554, § 11, Oct. 28, 1992, 106 Stat. 4151, related to county committees, prior to repeal by Pub. L. 103–354, title II, § 227(b)(1), Oct. 13, 1994, 108 Stat. 3218.
@@ -4835,7 +4835,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by Pub. L. 104–127, title VI, § 639(4), Apr. 4, 1996, 110 Stat. 1097.
 
@@ -5490,9 +5490,9 @@ Another section 342 of Pub. L. 87–128 amended [section 1013a of this title](./
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-Section 202 of the Emergency Agricultural Credit Adjustment Act, referred to in subsec. (a)(10), is section 202 of Pub. L. 95–334, title II, Aug. 4, 1978, 92 Stat. 429, as amended, which was set out in a note preceding [section 1961 of this title](./chapter-050-agricultural-credit.md#section-1961) prior to repeal by Pub. L. 101–624, title XVIII, § 1851, Nov. 28, 1990, 104 Stat. 3837.
+Section 202 of the Emergency Agricultural Credit Adjustment Act, referred to in subsec. (a)(10), is section 202 of Pub. L. 95–334, title II, Aug. 4, 1978, 92 Stat. 429, which was set out in a note preceding [section 1961 of this title](./chapter-050-agricultural-credit.md#section-1961) prior to repeal by Pub. L. 101–624, title XVIII, § 1851, Nov. 28, 1990, 104 Stat. 3837.
 
-The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably means the Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably means the Economic Opportunity Act of 1964, Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is section 1254 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1517, which amended Pub. L. 98–258, § 608, set out as a note under [section 1981 of this title](./chapter-050-agricultural-credit.md#section-1981).
 
@@ -5836,7 +5836,7 @@ Notwithstanding the provisions of this chapter limiting the making and insuring 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1998"></a>
@@ -5847,7 +5847,7 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 
 (2) The terms “highly erodible land” and “wetland” have the meanings, respectively, that such terms are given in [section 3801 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3801&num=0&edition=prelim).
 
-(3) The term “wildlife” means fish or wildlife as defined in [section 3371(a) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3371/a&num=0&edition=prelim).
+(3) The term “wildlife” means fish or wildlife as defined in [section 3371 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3371&num=0&edition=prelim).
 
 (4) The term “recreational purposes” includes hunting.
 
@@ -5900,6 +5900,8 @@ The Immigration and Nationality Act, referred to in text, is act June 27, 1952, 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(3). Pub. L. 117–243 substituted “section 3371” for “section 3371(a)”.
+
 1996—Subsec. (b). Pub. L. 104–127, § 642(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to subsection (c) of this section, the Secretary may acquire and retain an easement in real property, for a term of not less than 50 years, for conservation, recreational, and wildlife purposes.”
 
 Subsec. (c). Pub. L. 104–127, § 642(2)(A), inserted heading and substituted “The Secretary may enter into a contract under subsection (b) if” for “Such easement may be acquired or retained for real property if”.
@@ -6454,7 +6456,7 @@ Pub. L. 101–624, title XXIII, § 2384(b), Nov. 28, 1990, 104 Stat. 4050, provi
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+This Act, referred to in subsec. (a), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–127 designated existing provisions as subsec. (a), inserted heading, substituted “Subject to subsection (b), the Secretary” for “The Secretary, without reimbursement,” in introductory provisions, added par. (2) and struck out former par. (2) which read as follows: “that is determined by the Secretary to be suitable or surplus; and”, and added subsec. (b).
@@ -6948,7 +6950,7 @@ Section effective 90 days after Apr. 4, 1996, see section 663(b) of Pub. L. 104�
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (b)(2)(B). Pub. L. 115–334 designated existing provisions as cl. (i) and inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), and added cl. (ii).
@@ -7896,7 +7898,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended. Section 4 of the Delta Development Act, which was set out in a note under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim), The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
+The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246. Section 4 of the Delta Development Act, which was set out in a note under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim), The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Par. (4). Pub. L. 115–334 added par. (4).
@@ -8272,7 +8274,7 @@ Subsec. (e)(4). Pub. L. 107–171, § 6027(b), substituted “, rules, and regul
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 2002—Pub. L. 107–171 reenacted section catchline without change and amended text generally to clarify provisions relating to supplements to Federal grant programs.
@@ -9029,7 +9031,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+This Act, referred to in subsec. (c)(2)(A), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, see Short Title note set out under [section 1911 of this title](./chapter-049-consultation-on-agricultural-programs.md#section-1911) and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -9453,9 +9455,9 @@ Par. (4). Pub. L. 115–334, § 6426(a)(2), added par. (4) and struck out former
 ### Statutory Notes
 
 #### References in Text
-The Federal Deposit Insurance Act, referred to in subsec. (a)(1)(A), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(1)(A), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim) and Tables.
 
-The Farm Credit Act of 1971, referred to in subsec. (c), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
+The Farm Credit Act of 1971, referred to in subsec. (c), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

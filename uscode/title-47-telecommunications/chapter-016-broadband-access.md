@@ -2914,8 +2914,6 @@ This subchapter, referred to in text, was in the original, “this title”, mea
 
 ### Statutory Notes
 
-(Pub. L. 116–260, div. N, title IX, § 904, Dec. 27, 2020, 134 Stat. 2129; Pub. L. 117–58, div. F, title V, § 60502(a), (b)(1), Nov. 15, 2021, 135 Stat. 1238.)
-
 #### References in Text
 The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(6)(B), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
 

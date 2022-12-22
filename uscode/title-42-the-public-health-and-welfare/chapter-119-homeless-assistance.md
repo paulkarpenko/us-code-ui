@@ -126,7 +126,13 @@ Pub. L. 100–77, title VI, § 603, July 22, 1987, 101 Stat. 515, directed Secre
 
   (C) can be expected to continue in such status for an extended period of time because of chronic disabilities, chronic physical health or mental health conditions, substance addiction, histories of domestic violence or childhood abuse, the presence of a child or youth with a disability, or multiple barriers to employment.
 
-**(b) Domestic violence and other dangerous or life-threatening conditions** Notwithstanding any other provision of this section, the Secretary shall consider to be homeless any individual or family who is fleeing, or is attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous or life-threatening conditions in the individual’s or family’s current housing situation, including where the health and safety of children are jeopardized, and who have no other residence and lack the resources or support networks to obtain other permanent housing.
+**(b) Domestic violence, dating violence, sexual assault, stalking, and other dangerous, traumatic, or life-threatening conditions relating to such violence** Notwithstanding any other provision of this section, the Secretary shall consider to be homeless any individual or family who—
+
+(1) is experiencing trauma or a lack of safety related to, or fleeing or attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous, traumatic, or life-threatening conditions related to the violence against the individual or a family member in the individual’s or family’s current housing situation, including where the health and safety of children are jeopardized;
+
+(2) has no other safe residence; and
+
+(3) lacks the resources to obtain other safe permanent housing.
 
 **(c) Income eligibility**
 
@@ -146,6 +152,8 @@ This chapter, referred to in subsecs. (a), (c)(1), (d), and (e), was in the orig
 The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(2), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–103 amended subsec. (b) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this section, the Secretary shall consider to be homeless any individual or family who is fleeing, or is attempting to flee, domestic violence, dating violence, sexual assault, stalking, or other dangerous or life-threatening conditions in the individual’s or family’s current housing situation, including where the health and safety of children are jeopardized, and who have no other residence and lack the resources or support networks to obtain other permanent housing.”
+
 2014—Subsec. (c)(2). Pub. L. 113–128 substituted “a homeless individual shall be eligible for assistance under title I of the Workforce Innovation and Opportunity Act” for “a homeless individual shall be eligible for assistance under title I of the Workforce Investment Act of 1998”.
 
 2009—Pub. L. 111–22 added subsecs. (a), (b), and (e), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and struck out former subsec. (a) which defined “homeless” or “homeless individual or homeless person”.
@@ -157,6 +165,9 @@ Pub. L. 105–277, § 101(f) [title VIII, § 405(d)(41)], substituted “the Job
 1990—Subsec. (a). Pub. L. 101–625 inserted “or homeless person” after “homeless individual” in introductory provisions.
 
 Subsec. (b). Pub. L. 101–645 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A homeless individual shall be eligible for assistance under any program provided by this chapter, or by the amendments made by this Act, only if the individual complies with the income eligibility requirements otherwise applicable to such program.”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -189,7 +200,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, amended [section 911 of this title](./chapter-007-social-security.md#section-911), sections 602, 622, 631 to 642, and 651 to 653 of Title 2, and sections 1104 to 1106, and 1109 of Title 31, Money and Finance, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 911 of this title](./chapter-007-social-security.md#section-911) and [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (c), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, amended [section 911 of this title](./chapter-007-social-security.md#section-911), sections 602, 622, 631 to 642, and 651 to 653 of Title 2, and sections 1104 to 1106, and 1109 of Title 31, Money and Finance, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 911 of this title](./chapter-007-social-security.md#section-911) and [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
 #### Budget Compliance
 Pub. L. 100–628, title I, § 101, Nov. 7, 1988, 102 Stat. 3227, provided that: “(a) In General.—This Act and the amendments made by this Act [see Short Title of 1988 Amendment note set out under [section 11301 of this title](./chapter-119-homeless-assistance.md#section-11301)] may not be construed to provide for new budget authority, budget outlays, or new entitlement authority, for fiscal year 1989 or 1990 in excess of the appropriate aggregate levels established by the concurrent resolution on the budget for such fiscal year for the programs authorized by this Act and the amendments made by this Act. “(b) Definitions.—For purposes of this section, the terms ‘budget authority’, ‘budget outlays’, ‘concurrent resolution on the budget’, and ‘entitlement authority’ have the meanings given such terms in section 3 of the Congressional Budget Act of 1974 ([2 U.S.C. 622](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section622&num=0&edition=prelim)).”
@@ -1810,6 +1821,8 @@ For provisions relating to definition of “local government” as used in this 
 
 (12) Payment of administrative costs to project sponsors, for which each project sponsor may use not more than 10 percent of the total funds made available to that project sponsor through this part for such costs.
 
+(13) Facilitating and coordinating activities to ensure compliance with subsection (e) of [section 12491 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491&num=0&edition=prelim) and monitoring compliance with the confidentiality protections of subsection (c)(4) of such section.
+
 **(b) Minimum grant terms** The Secretary may impose minimum grant terms of up to 5 years for new projects providing permanent housing.
 
 **(c) Use restrictions**
@@ -1857,7 +1870,12 @@ A prior section 11383, Pub. L. 100–77, title IV, § 423, as added Pub. L. 102�
 Another prior section 11383, Pub. L. 100–77, title IV, § 423, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV, §§ 441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, 102 Stat. 3233, 3234; Pub. L. 101–625, title VIII, § 833(c)–(e), (g), Nov. 28, 1990, 104 Stat. 4362, 4363, which outlined types of assistance provided under the supportive housing demonstration program, was repealed by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
 #### Amendments
+2022—Subsec. (a)(13). Pub. L. 117–103 added par. (13).
+
 2015—Subsec. (g). Pub. L. 114–94 inserted “private nonprofit organization,” after “unit of general local government,”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date
 Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
@@ -2902,9 +2920,9 @@ The Housing Act of 1949, referred to in subsecs. (a) and (c)(2), is act July 15,
 ### Statutory Notes
 
 #### References in Text
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (h), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Tables.
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (h), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Tables.
 
-Title II of the Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (h)(2), is title II of Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2627, as amended, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and Tables.
+Title II of the Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (h)(2), is title II of Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2627, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and Tables.
 
 Section 2(e) of Base Closure Community Redevelopment and Homeless Assistance Act of 1994, referred to in subsec. (h)(2), is section 2(e) of Pub. L. 103–421, which is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim).
 

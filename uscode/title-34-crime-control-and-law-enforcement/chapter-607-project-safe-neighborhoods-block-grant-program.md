@@ -17,6 +17,11 @@ For the purposes of this chapter—
 
 (3) the term “transnational organized crime group” has the meaning given such term in [section 2708(k)(6) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2708/k/6&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### Short Title
+For short title of Pub. L. 115–185, which is classified to this chapter, as the “Project Safe Neighborhoods Grant Program Authorization Act of 2018”, see section 1 of Pub. L. 115–185, set out as a Short Title of 2018 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-60702"></a>
 ## § 60702. Establishment

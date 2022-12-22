@@ -76,7 +76,7 @@ There is established the Competitiveness Policy Council (hereafter in this chapt
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Termination of Advisory Councils
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -259,7 +259,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 ### Statutory Notes
 
 #### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
 
 #### Amendments
 1990—Subsecs. (c), (d). Pub. L. 101–382 added subsecs. (c) and (d).
@@ -319,7 +319,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1990—Subsec. (c). Pub. L. 101–382 redesignated subsec. (d) as (c), and substituted “120” for “60”.

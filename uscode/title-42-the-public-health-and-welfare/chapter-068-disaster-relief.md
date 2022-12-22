@@ -2,7 +2,7 @@
 title: 42
 chapter: '68'
 heading: DISASTER RELIEF
-section_count: 111
+section_count: 112
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -25,9 +25,11 @@ special measures, designed to assist the efforts of the affected States in exped
 
 (4) encouraging individuals, States, and local governments to protect themselves by obtaining insurance coverage to supplement or replace governmental assistance;
 
-(5) encouraging hazard mitigation measures to reduce losses from disasters, including development of land use and construction regulations; and
+(5) encouraging hazard mitigation measures to reduce losses from disasters, including development of land use and construction regulations;
 
-(6) providing Federal assistance programs for both public and private losses sustained in disasters 11 So in original. Probably should be followed by a period.
+(6) providing Federal assistance programs for both public and private losses sustained in disasters; and
+
+(7) identifying and improving the climate and natural hazard resilience of vulnerable communities.
 
 ### Statutory Notes
 
@@ -35,6 +37,8 @@ special measures, designed to assist the efforts of the affected States in exped
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
+2022—Subsec. (b)(7). Pub. L. 117–255 added par. (7).
+
 1988—Subsec. (b)(7). Pub. L. 100–707 struck out par. (7) expressing Congressional intent to provide disaster assistance through a long-range economic recovery program for major disaster areas.
 
 #### Effective Date of 2018 Amendment
@@ -42,6 +46,13 @@ Pub. L. 115–254, div. D, § 1202, Oct. 5, 2018, 132 Stat. 3438, provided that:
 
 #### Effective Date
 Pub. L. 93–288, title VI, § 605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of [section 5178 of this title](./chapter-068-disaster-relief.md#section-5178), prior to repeal by Pub. L. 100–707, title I, § 108(b), Nov. 23, 1988, 102 Stat. 4708.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–255, § 1, Dec. 20, 2022, 136 Stat. 2363, provided that: “This Act [enacting [section 5136 of this title](./chapter-068-disaster-relief.md#section-5136), amending this section, and enacting provisions set out as notes under [section 5136 of this title](./chapter-068-disaster-relief.md#section-5136)] may be cited as the ‘Community Disaster Resilience Zones Act of 2022’.”
+
+Pub. L. 117–251, § 1, Dec. 20, 2022, 136 Stat. 2354, provided that: “This Act [amending sections 5183, 5189d, and 5196c of this title and enacting provisions set out as notes under sections 5131, 5183, 5189d, and 5196c of this title] may be cited as the ‘FEMA Improvement, Reform, and Efficiency Act of 2022’ or the ‘FIRE Act’.”
+
+Pub. L. 117–189, § 1, Oct. 10, 2022, 136 Stat. 2204, provided that: “This Act [amending [section 5189 of this title](./chapter-068-disaster-relief.md#section-5189) and enacting provisions set out as a note under [section 5189 of this title](./chapter-068-disaster-relief.md#section-5189)] may be cited as the ‘Small Project Efficient and Effective Disaster Recovery Act’ or the ‘SPEED Recovery Act’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 116–284, § 1, Jan. 1, 2021, 134 Stat. 4869, provided that: “This Act [enacting [section 5135 of this title](./chapter-068-disaster-relief.md#section-5135)] may be cited as the ‘Safeguarding Tomorrow through Ongoing Risk Mitigation Act’ or the ‘STORM Act’.”
@@ -310,6 +321,9 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Subsec. (d). Pub. L. 100–707, § 104(a), (b)(2), inserted “including evaluations of natural hazards and development of the programs and actions required to mitigate such hazards;” after “plans,” and substituted “$50,000” for “$25,000”.
 
+#### Red Flag Warnings and Predisaster Actions; Definitions
+Pub. L. 117–251, §§ 2, 4, Dec. 20, 2022, 136 Stat. 2354, 2356, provided that: “SEC. 2. DEFINITIONS.“In this Act [see Short Title of 2022 Amendment note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121)]—“(1) the term ‘Administrator’ means the Administrator of the Agency; “(2) the term ‘Agency’ means the Federal Emergency Management Agency; “(3) the term ‘appropriate committees of Congress’ means—“(A) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and “(B) the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives; “(4) the term ‘emergency’ means an emergency declared or determined to exist by the President under section 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191](./chapter-068-disaster-relief.md#section-5191)); “(5) the terms ‘Indian tribal government’, ‘local government’, and ‘State’ have the meanings given such terms in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](./chapter-068-disaster-relief.md#section-5122)); and “(6) the term ‘major disaster’ means a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170)). “SEC. 4. RED FLAG WARNINGS AND PREDISASTER ACTIONS.“Not later than 1 year after the date of enactment of this Act [Dec. 20, 2022], the Administrator, in coordination with the National Weather Service of the National Oceanic and Atmospheric Administration, shall—“(1) conduct a study of, develop recommendations for, and initiate a process for the use of forecasts and data, including information that supports the Red Flag Warnings of the National Oceanic and Atmospheric Administration and similar weather alert and notification methods, to establish—“(A) plans and actions, consistent with law, that can be implemented prior to a wildfire event, including pre-impact disaster declarations and surge operations, that can limit the impact, duration, or severity of the fire; and “(B) mechanisms to increase interagency collaboration to expedite the delivery of disaster assistance; and “(2) submit to the appropriate committees of Congress a comprehensive report regarding the study described in paragraph (1), including any recommendations of the Administrator, and the activities of the Administrator to carry out paragraph (1).”
+
 
 <a id="section-5132"></a>
 ## § 5132. Disaster warnings
@@ -522,6 +536,9 @@ Pub. L. 111–351, § 2, Jan. 4, 2011, 124 Stat. 3863, provided that: “Congres
 
 #### Findings and Purpose
 Pub. L. 106–390, title I, § 101, Oct. 30, 2000, 114 Stat. 1552, provided that: “(a) Findings.—Congress finds that—“(1) natural disasters, including earthquakes, tsunamis, tornadoes, hurricanes, flooding, and wildfires, pose great danger to human life and to property throughout the United States; “(2) greater emphasis needs to be placed on—“(A) identifying and assessing the risks to States and local governments (including Indian tribes) from natural disasters; “(B) implementing adequate measures to reduce losses from natural disasters; and “(C) ensuring that the critical services and facilities of communities will continue to function after a natural disaster; “(3) expenditures for postdisaster assistance are increasing without commensurate reductions in the likelihood of future losses from natural disasters; “(4) in the expenditure of Federal funds under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.), high priority should be given to mitigation of hazards at the local level; and “(5) with a unified effort of economic incentives, awareness and education, technical assistance, and demonstrated Federal support, States and local governments (including Indian tribes) will be able to—“(A) form effective community-based partnerships for hazard mitigation purposes; “(B) implement effective hazard mitigation measures that reduce the potential damage from natural disasters; “(C) ensure continued functionality of critical services; “(D) leverage additional non-Federal resources in meeting natural disaster resistance goals; and “(E) make commitments to long-term hazard mitigation efforts to be applied to new and existing structures. “(b) Purpose.—The purpose of this title [enacting this section and sections 5134, 5165 and 5165a of this title, amending [section 5170c of this title](./chapter-068-disaster-relief.md#section-5170c), and repealing [section 5176 of this title](./chapter-068-disaster-relief.md#section-5176)] is to establish a national disaster hazard mitigation program—“(1) to reduce the loss of life and property, human suffering, economic disruption, and disaster assistance costs resulting from natural disasters; and “(2) to provide a source of predisaster hazard mitigation funding that will assist States and local governments (including Indian tribes) in implementing effective hazard mitigation measures that are designed to ensure the continued functionality of critical services and facilities after a natural disaster.”
+
+#### Definitions; Red Flag Warnings and Predisaster Actions
+Pub. L. 117–251, §§ 2, 4, Dec. 20, 2022, 136 Stat. 2354, 2356, provided that: “SEC. 2. Definitions.—In this Act [see section 1 of Pub. L. 117–251, set out as a Short Title of 2022 Amendment note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121)]—“(1) the term ‘Administrator’ means the Administrator of the Agency; “(2) the term ‘Agency’ means the Federal Emergency Management Agency; “(3) the term ‘appropriate committees of Congress’ means—“(A) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and “(B) the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives; “(4) the term ‘emergency’ means an emergency declared or determined to exist by the President under section 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191](./chapter-068-disaster-relief.md#section-5191)); “(5) the terms ‘Indian tribal government’, ‘local government’, and ‘State’ have the meanings given such terms in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](./chapter-068-disaster-relief.md#section-5122)); and “(6) the term ‘major disaster’ means a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](./chapter-068-disaster-relief.md#section-5170)). “SEC. 4. Red Flag Warnings and Predisaster Actions.—Not later than 1 year after the date of enactment of this Act [Dec. 20, 2022], the Administrator, in coordination with the National Weather Service of the National Oceanic and Atmospheric Administration, shall—“(1) conduct a study of, develop recommendations for, and initiate a process for the use of forecasts and data, including information that supports the Red Flag Warnings of the National Oceanic and Atmospheric Administration and similar weather alert and notification methods, to establish—“(A) plans and actions, consistent with law, that can be implemented prior to a wildfire event, including pre-impact disaster declarations and surge operations, that can limit the impact, duration, or severity of the fire; and “(B) mechanisms to increase interagency collaboration to expedite the delivery of disaster assistance; and “(2) submit to the appropriate committees of Congress a comprehensive report regarding the study described in paragraph (1), including any recommendations of the Administrator, and the activities of the Administrator to carry out paragraph (1).”
 
 
 <a id="section-5134"></a>
@@ -835,6 +852,181 @@ The National Historic Preservation Act of 1966, referred to in subsec. (e), prob
 This chapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 
+<a id="section-5136"></a>
+## § 5136. Natural hazard risk assessment
+**(a) Definitions** In this section:
+
+(1) **Community disaster resilience zone** — The term “community disaster resilience zone” means a census tract designated by the President under subsection (d)(1).
+
+(2) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a State;
+
+  (B) an Indian tribal government; or
+
+  (C) a local government.
+
+**(b) Products** The President shall continue to maintain a natural hazard assessment program that develops and maintains products that—
+
+(1) are available to the public; and
+
+(2) define natural hazard risk across the United States.
+
+**(c) Features** The products maintained under subsection (b) shall, for lands within States and areas under the jurisdiction of Indian tribal governments—
+
+(1) show the risk of natural hazards; and
+
+(2) include ratings and data for—
+
+  (A) loss exposure, including population equivalence, buildings, and agriculture;
+
+  (B) social vulnerability;
+
+  (C) community resilience; and
+
+  (D) any other element determined by the President.
+
+**(d) Community disaster resilience zones designation**
+
+(1) **In general** — Not later than 30 days after the date on which the President makes the update and enhancement required under subsection (e)(4), and not less frequently than every 5 years thereafter, the President shall identify and designate community disaster resilience zones, which shall be—
+
+  (A) the 50 census tracts assigned the highest individual hazard risk ratings; and
+
+  (B) subject to paragraph (3), in each State, not less than 1 percent of census tracts that are assigned high individual risk ratings.
+
+(2) **Risk ratings** — In carrying out paragraph (1), the President shall use census tract risk ratings derived from a product maintained under subsection (b) that—
+
+  (A) reflect—
+
+    (i) high levels of individual hazard risk ratings based on an assessment of the intersection of—
+
+      (I) loss to population equivalence;
+
+      (II) building value; and
+
+      (III) agriculture value;
+
+    (ii) high social vulnerability ratings and low community resilience ratings; and
+
+    (iii) any other elements determined by the President; and
+
+  (B) reflect the principal natural hazard risks identified for the respective census tracts.
+
+(3) **Geographic balance** — In identifying and designating the community disaster resilience zones described in paragraph (1)(B)—
+
+  (A) for the purpose of achieving geographic balance, when applicable, the President shall consider making designations in coastal, inland, urban, suburban, and rural areas; and
+
+  (B) the President shall include census tracts on Tribal lands located within a State.
+
+(4) **Duration** — The designation of a community disaster resilience zone under paragraph (1) shall be effective for a period of not less than 5 years.
+
+**(e) Review and update** Not later than 180 days after December 20, 2022, and not less frequently than every 5 years thereafter, the President shall—
+
+(1) with respect to any product that is a natural hazard risk assessment—
+
+  (A) review the underlying methodology of the product; and
+
+  (B) receive public input on the methodology and data used for the product;
+
+(2) consider including additional data in any product that is a natural hazard risk assessment, such as—
+
+  (A) the most recent census tract data;
+
+  (B) data from the American Community Survey of the Bureau of the Census, a successor survey, a similar survey, or another data source, including data by census tract on housing characteristics and income;
+
+  (C) information relating to development, improvements, and hazard mitigation measures;
+
+  (D) data that assesses past and future loss exposure, including analysis on the effects of a changing climate on future loss exposure;
+
+  (E) data from the Resilience Analysis and Planning Tool of the Federal Emergency Management Agency; and
+
+  (F) other information relevant to prioritizing areas that have—
+
+    (i) high risk levels of—
+
+      (I) natural hazard loss exposure, including population equivalence, buildings, infrastructure, and agriculture; and
+
+      (II) social vulnerability; and
+
+    (ii) low levels of community resilience;
+
+(3) make publicly available any changes in methodology or data used to inform an update to a product maintained under subsection (b); and
+
+(4) update and enhance the products maintained under subsection (b), as necessary.
+
+**(f) Natural hazard risk assessment insights** In determining additional data to include in products that are natural hazard risk assessments under subsection (e)(2), the President shall consult with, at a minimum—
+
+(1) the Administrator of the Federal Emergency Management Agency;
+
+(2) the Secretary of Agriculture and the Chief of the Forest Service;
+
+(3) the Secretary of Commerce, the Administrator of the National Oceanic and Atmospheric Administration, the Director of the Bureau of the Census, and the Director of the National Institute of Standards and Technology;
+
+(4) the Secretary of Defense and the Commanding Officer of the United States Army Corps of Engineers;
+
+(5) the Administrator of the Environmental Protection Agency;
+
+(6) the Secretary of the Interior and the Director of the United States Geological Survey;
+
+(7) the Secretary of Housing and Urban Development; and
+
+(8) the Director of the Federal Housing Finance Agency.
+
+**(g) Community disaster resilience zone** With respect to financial assistance provided under [section 5133(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5133/i&num=0&edition=prelim) to perform a resilience or mitigation project within, or that primarily benefits, a community disaster resilience zone, the President may increase the amount of the Federal share described under [section 5133(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5133/h&num=0&edition=prelim) to not more than 90 percent of the total cost of the resilience or mitigation project.
+
+**(h) Resilience or mitigation project planning assistance**
+
+(1) **In general** — The President may provide financial, technical, or other assistance under this subchapter to an eligible entity that plans to perform a resilience or mitigation project within, or that primarily benefits, a community disaster resilience zone.
+
+(2) **Purpose** — The purpose of assistance provided under paragraph (1) shall be to carry out activities in preparation for a resilience or mitigation project or seek an evaluation and certification under subsection (i)(2) for a resilience or mitigation project before the date on which permanent work of the resilience or mitigation project begins.
+
+(3) **Application** — If required by the President, an eligible entity seeking assistance under paragraph (1) shall submit an application in accordance with subsection (i)(1).
+
+(4) **Funding** — In providing assistance under paragraph (1), the President may use amounts set aside under [section 5133(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5133/i&num=0&edition=prelim).
+
+**(i) Community disaster resilience zone project applications**
+
+(1) **In general** — If required by the President or other Federal law, an eligible entity shall submit to the President an application at such time, in such manner, and containing or accompanied by such information as the President may reasonably require.
+
+(2) **Evaluation and certification**
+
+  (A) *In general* — Not later than 120 days after the date on which an eligible entity submits an application under paragraph (1), the President shall evaluate the application to determine whether the resilience or mitigation project that the entity plans to perform within, or that primarily benefits, a community disaster resilience zone—
+
+    (i) is designed to reduce injuries, loss of life, and damage and destruction of property, such as damage to critical services and facilities; and
+
+    (ii) substantially reduces the risk of, or increases resilience to, future damage, hardship, loss, or suffering.
+
+  (B) *Certification* — If the President determines that an application submitted under paragraph (1) meets the criteria described in subparagraph (A), the President shall certify the proposed resilience or mitigation project.
+
+  (C) *Effect of certification* — The certification of a proposed resilience or mitigation project under subparagraph (B) shall not be construed to exempt the resilience or mitigation project from the requirements of any other law.
+
+(3) **Projects causing displacement** — With respect to a resilience or mitigation project certified under paragraph (2)(B) that involves the displacement of a resident from any occupied housing unit, the entity performing the resilience or mitigation project shall—
+
+  (A) provide, at the option of the resident, a suitable and habitable housing unit that is, with respect to the housing unit from which the resident is displaced—
+
+    (i) of a comparable size;
+
+    (ii) located in the same local community or a community with reduced hazard risk; and
+
+    (iii) offered under similar costs, conditions, and terms;
+
+  (B) ensure that property acquisitions resulting from the displacement and made in connection with the resilience or mitigation project—
+
+    (i) are deed restricted in perpetuity to preclude future property uses not relating to mitigation or resilience; and
+
+    (ii) are the result of a voluntary decision by the resident; and
+
+  (C) plan for robust public participation in the resilience or mitigation project.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 117–255, § 3(c), Dec. 20, 2022, 136 Stat. 2367, provided that: “The amendments made by this Act [enacting this section and amending [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121)] shall only apply with respect to amounts appropriated on or after the date of enactment of this Act [Dec. 20, 2022].”
+
+#### National Risk Index Funding
+Pub. L. 117–255, § 3(b), Dec. 20, 2022, 136 Stat. 2367, provided that: “Nothing in section 206 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5136](./chapter-068-disaster-relief.md#section-5136)], as added by subsection (a) of this section, shall be construed to prohibit the Administrator of the Federal Emergency Management Agency from using amounts available to maintain and update the National Risk Index until the earlier of— “(1) the date on which those amounts are transferred to another source; and “(2) 3 years after the date of enactment of this Act [Dec. 20, 2022].”
+
+
 <a id="section-5141"></a>
 ## § 5141. Waiver of administrative conditions
 
@@ -875,7 +1067,7 @@ Section, Pub. L. 93–288, title III, § 302, May 22, 1974, 88 Stat. 146, relate
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Codification
 In subsec. (b)(3), “chapter 3001 of title 36” substituted for “the Act of January 5, 1905, as amended (33 Stat. 599)” on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
@@ -975,6 +1167,12 @@ A prior section 305 of Pub. L. 93–288 was classified to [section 5145 of this 
 
 **(c) Appointment of temporary personnel in the Federal Emergency Management Agency** The Administrator of the Federal Emergency Management Agency is authorized to appoint temporary personnel, after serving continuously for 3 years, to positions in the Federal Emergency Management Agency in the same manner that competitive service employees with competitive status are considered for transfer, reassignment, or promotion to such positions. An individual appointed under this subsection shall become a career-conditional employee, unless the employee has already completed the service requirements for career tenure.
 
+**(d) Personnel performing service responding to disasters and emergencies**
+
+(1) **USERRA employment and reemployment rights** — The protections, rights, benefits, and obligations provided under chapter 43 of title 38 shall apply to intermittent personnel appointed pursuant to subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 401 and 501 or to train for such service.
+
+(2) **Notice of absence from position of employment** — Preclusion of giving notice of service by necessity of service under subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 401 and 501 or to train for such service shall be considered preclusion by “military necessity” for purposes of [section 4312(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4312/b&num=0&edition=prelim) pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Administrator and shall not be subject to review in any judicial or administrative proceeding.
+
 ### Statutory Notes
 
 #### References in Text
@@ -984,6 +1182,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 A prior section 306 of Pub. L. 93–288 was classified to [section 5146 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5146&num=0&edition=prelim) prior to repeal by Pub. L. 100–707.
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–178 added subsec. (d).
+
 2018—Subsec. (c). Pub. L. 115–254 added subsec. (c).
 
 #### Effective Date of 2018 Amendment
@@ -1090,9 +1290,9 @@ Amendment by Pub. L. 115–254 applicable to each major disaster and emergency d
 #### References in Text
 The United States Housing Act of 1937, referred to in subsec. (a)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.
 
-The Public Works and Economic Development Act of 1965, as amended, referred to in subsec. (a)(5), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified principally to chapter 38 (§ 3121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121) and Tables.
+The Public Works and Economic Development Act of 1965, as amended, referred to in subsec. (a)(5), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified principally to chapter 38 (§ 3121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121) and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (a)(7), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
@@ -1170,7 +1370,7 @@ A prior section 311 of Pub. L. 93–288 was renumbered section 308 by Pub. L. 10
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 The amendments made by this section, referred to in subsec. (e), means the amendments made by section 582(c) of Pub. L. 103–325, which amended [section 4012a of this title](./chapter-050-national-flood-insurance.md#section-4012a). See Codification note below.
 
@@ -1945,19 +2145,15 @@ Subsec. (a)(3)(J). Pub. L. 109–295, § 689(b)(2)(B)–(D), and Pub. L. 109–3
 Amendment by Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Aug. 1, 2017, and authorities provided under div. D of Pub. L. 115–254 applicable to each major disaster and emergency declared by the President on or after Jan. 1, 2016, except as otherwise provided, see section 1202 of Pub. L. 115–254, set out as a note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
 
 #### Maximizing Assistance From the Federal Emergency Management Agency To Respond to COVID–19
-Memorandum of President of the United States, Dec. 27, 2021, 87 F.R. 27, provided:
+Memorandum of President of the United States, Mar. 1, 2022, 87 F.R. 12391, provided:
 
-Memorandum for the Secretary of Health and Human Services[,] the Secretary of Homeland Security[, and] the Administrator of the Federal Emergency Management Agency
+Memorandum for the Secretary of Homeland Security [and] the Administrator of the Federal Emergency Management Agency
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Robert T. Stafford Disaster Relief and Emergency Assistance Act, [42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121)-5207 (the “Stafford Act”), I hereby order as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Robert T. Stafford Disaster Relief and Emergency Assistance Act, [42 U.S.C. 5121–520](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121–520&num=0&edition=prelim)7 (the “Stafford Act”), I hereby order as follows:
 
-Section 1. Policy. It is the policy of my Administration to combat and respond to the coronavirus disease 2019 (COVID-19) pandemic with the full capacity and capability of the Federal Government to protect and support our families, schools, and businesses, and to assist State, local, Tribal, and territorial governments to do the same. This policy includes the use of emergency and disaster assistance available from the Federal Emergency Management Agency (FEMA) to get COVID-19 testing to the places that need it most.
+Section 1. Policy. It is the policy of my Administration to combat and respond to the coronavirus disease 2019 (COVID–19) pandemic with the full capacity and capability of the Federal Government to protect and support our families, schools, and businesses, and to assist State, local, Tribal, and territorial governments to do the same, including through emergency and disaster assistance available from the Federal Emergency Management Agency (FEMA) and through Federal support of the Governors’ use of the National Guard.
 
-Sec. 2. Assistance for COVID-19 Screening as an Emergency Protective Measure. (a) With respect to a request to FEMA from any State, Tribal, or territorial government for direct Federal assistance to establish or expand COVID-19 testing sites, the Administrator of FEMA shall issue a mission assignment to the Department of Health and Human Services (HHS), on a fully reimbursable basis, to provide testing sites, launched and operated by HHS in close coordination with State, local, Tribal, and territorial public health departments.
-
-(b) FEMA’s mission assignments will require HHS to adjudicate State, Tribal, and territorial requests through the Emergency Support Function #8 Advisory Council.
-
-(c) FEMA shall fund 100 percent of the cost of activities associated with the mission assignments to HHS to provide COVID-19 testing sites as described in section 2(a) of this memorandum, as authorized by sections 403 ([42 U.S.C. 5170b](./chapter-068-disaster-relief.md#section-5170b)), 502 ([42 U.S.C. 5192](./chapter-068-disaster-relief.md#section-5192)), and 503 ([42 U.S.C. 5193](./chapter-068-disaster-relief.md#section-5193)) of the Stafford Act.
+Sec. 2. Assistance for Category B COVID–19 Emergency Protective Measures. FEMA shall provide a 100 percent Federal cost share for all work eligible for assistance under Public Assistance Category B, pursuant to sections 403 ([42 U.S.C. 5170b](./chapter-068-disaster-relief.md#section-5170b)), 502 ([42 U.S.C. 5192](./chapter-068-disaster-relief.md#section-5192)), and 503 ([42 U.S.C. 5193](./chapter-068-disaster-relief.md#section-5193)) of the Stafford Act, including work described in section 3(a) of the Presidential Memorandum of January 21, 2021 (Memorandum to Extend Federal Support to Governors’ Use of the National Guard to Respond to COVID–19 and to Increase Reimbursement and Other Assistance Provided to States) [[32 U.S.C. 502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502&num=0&edition=prelim) note], and in section 2 of that memorandum on the Governors’ use of the National Guard, performed from January 20, 2020, through July 1, 2022.
 
 Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
 
@@ -1974,6 +2170,8 @@ Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to
 J.R. Biden, Jr.
 
 Prior provisions related to maximizing assistance from the Federal Emergency Management Agency to respond to COVID–19 were contained in the following:
+
+Memorandum of President of the United States, Dec. 27, 2021, 87 F.R. 27.
 
 Memorandum of President of the United States, Nov. 9, 2021, 86 F.R. 64055.
 
@@ -2138,6 +2336,9 @@ Pub. L. 103–181, § 2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: “The 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 #### Funding of a Federally Authorized Water Resources Development Project
 Pub. L. 115–254, div. D, § 1210(b), Oct. 5, 2018, 132 Stat. 3444, provided that: “(1) Eligible activities.—Notwithstanding section 312 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5155](./chapter-068-disaster-relief.md#section-5155)) and its implementing regulations, assistance provided pursuant to section 404 of such Act [[42 U.S.C. 5170c](./chapter-068-disaster-relief.md#section-5170c)] may be used to fund activities authorized for construction within the scope of a federally authorized water resources development project of the Army Corps of Engineers if such activities are also eligible activities under such section. “(2) Federal funding.—All Federal funding provided under section 404 pursuant to this section shall be applied toward the Federal share of such project. “(3) Non-federal match.—All non-Federal matching funds required under section 404 pursuant to this section shall be applied toward the non-Federal share of such project. “(4) Total federal share.—Funding provided under section 404 pursuant to this section may not exceed the total Federal share for such project. “(5) No effect.—Nothing in this section shall—“(A) affect the cost-share requirement of a hazard mitigation measure under section 404; “(B) affect the eligibility criteria for a hazard mitigation measure under section 404; “(C) affect the cost share requirements of a federally authorized water resources development project; and “(D) affect the responsibilities of a non-Federal interest with respect to the project, including those related to the provision of lands, easements, rights-of-way, dredge material disposal areas, and necessary relocations. “(6) Limitation.—If a federally authorized water resources development project of the Army Corps of Engineers is constructed with funding provided under section 404 pursuant to this subsection, no further Federal funding shall be provided for construction of such project.”
@@ -2363,11 +2564,11 @@ A prior section 405 of Pub. L. 93–288 was classified to [section 5175 of this 
 #### References in Text
 This chapter, referred to in subsecs. (b)(3)(A)(iii) and (e)(1)(A)(ii), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
-The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii), (2)(C)(ii) and (d)(1), (2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§ 4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+The National Flood Insurance Act of 1968, referred to in subsecs. (c)(1)(C)(ii), (2)(C)(ii) and (d)(1), (2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 The National Flood Insurance Act, referred to in subsec. (d)(3), probably means the National Flood Insurance Act of 1968. See above.
 
-The Coastal Barrier Resources Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, as amended, which is classified principally to chapter 55 (§ 3501 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 3501 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3501&num=0&edition=prelim) and Tables.
+The Coastal Barrier Resources Act, referred to in subsec. (e)(1)(A)(ii), is Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, which is classified principally to chapter 55 (§ 3501 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 3501 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3501&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 5172, Pub. L. 93–288, title IV, § 402, May 22, 1974, 88 Stat. 153, related to repair and restoration of damaged facilities, prior to repeal by Pub. L. 100–707, § 106(b).
@@ -3048,7 +3249,7 @@ Notwithstanding any other provision of law, no person otherwise eligible for any
 ### Statutory Notes
 
 #### References in Text
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in text, is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§ 4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title](./chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs.md#section-4601) and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in text, is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of this title](./chapter-061-uniform-relocation-assistance-and-real-property-acquisition-policies-for-federal-and-federally-assisted-programs.md#section-4601) and Tables.
 
 #### Prior Provisions
 A prior section 414(a), (b) of Pub. L. 93–288 was renumbered section 417(a), (b) by Pub. L. 100–707 and is classified to [section 5184 of this title](./chapter-068-disaster-relief.md#section-5184).
@@ -3070,8 +3271,9 @@ A prior section 415 of Pub. L. 93–288 was renumbered section 418 by Pub. L. 10
 
 <a id="section-5183"></a>
 ## § 5183. Crisis counseling assistance and training
+**(a) In general** The President is authorized to provide professional counseling services, including financial assistance to State or local agencies or private mental health organizations to provide such services or training of disaster workers, to victims of major disasters in order to relieve mental health problems caused or aggravated by such major disaster or its aftermath.
 
-The President is authorized to provide professional counseling services, including financial assistance to State or local agencies or private mental health organizations to provide such services or training of disaster workers, to victims of major disasters in order to relieve mental health problems caused or aggravated by such major disaster or its aftermath.
+**(b) Training** Each State, local agency, or private mental health organization providing professional counseling services described in subsection (a) shall ensure that, any individual providing professional counseling services to victims of a major disaster as authorized under subsection (a), including individuals working for nonprofit partners and recovery organizations, is appropriately trained to address impacts from major disasters in communities, and to individuals, with socio-economically disadvantaged backgrounds.
 
 ### Statutory Notes
 
@@ -3079,7 +3281,12 @@ The President is authorized to provide professional counseling services, includi
 A prior section 416 of Pub. L. 93–288 was renumbered section 419 by Pub. L. 100–707 and is classified to [section 5186 of this title](./chapter-068-disaster-relief.md#section-5186).
 
 #### Amendments
+2022—Pub. L. 117–251 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 1988—Pub. L. 100–707 struck out “(through the National Institute of Mental Health)” after “authorized”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–251, § 7(b), Dec. 20, 2022, 136 Stat. 2357, provided that: “The amendments made by this section [amending this section] shall apply with respect to amounts appropriated on or after the date of enactment of this Act [Dec. 20, 2022].”
 
 
 <a id="section-5184"></a>
@@ -3209,7 +3416,7 @@ Pub. L. 115–254, div. D, § 1204(c), Oct. 5, 2018, 132 Stat. 3439, provided th
 (2) emergency assistance under section 5170b or 5192 of this title, or
 
 (3) debris removed under [section 5173 of this title](./chapter-068-disaster-relief.md#section-5173),
-is less than $35,000 (or, if the Administrator has established a threshold under subsection (b), the amount established under subsection (b)), the President (on application of the State or local government or the owner or operator of the private nonprofit facility) may make the contribution to such State or local government or owner or operator under section 5170b, 5172, 5173, or 5192 of this title, as the case may be, on the basis of such Federal estimate. Such $35,000 amount or, if applicable, the amount established under subsection (b), shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
+is less than $1,000,000 (or, if the Administrator has established a threshold under subsection (b), the amount established under subsection (b)), the President (on application of the State or local government or the owner or operator of the private nonprofit facility) may make the contribution to such State or local government or owner or operator under section 5170b, 5172, 5173, or 5192 of this title, as the case may be, on the basis of such Federal estimate. Such $1,000,000 amount or, if applicable, the amount established under subsection (b), shall be adjusted annually to reflect changes in the Consumer Price Index for All Urban Consumers published by the Department of Labor.
 
 **(b) Threshold**
 
@@ -3225,7 +3432,7 @@ is less than $35,000 (or, if the Administrator has established a threshold under
 
   (B) adjust the threshold annually to reflect changes in the Consumer Price Index for all Urban Consumers published by the Department of Labor.
 
-(3) **Review** — Not later than 3 years after the date on which the Administrator establishes a threshold under paragraph (2), and every 3 years thereafter, the President, acting through the Administrator, shall review the threshold for eligibility under this section.
+(3) **Review and report** — Not later than 3 years after the date on which the Administrator establishes a threshold under paragraph (2), and every 3 years thereafter, the President, acting through the Administrator, shall review the threshold for eligibility under this section and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding such review, including any recommendations developed pursuant to such review.
 
 ### Statutory Notes
 
@@ -3233,11 +3440,18 @@ is less than $35,000 (or, if the Administrator has established a threshold under
 A prior section 5189, Pub. L. 93–288, title IV, § 419, May 22, 1974, 88 Stat. 159, related to alternate contributions, prior to repeal by Pub. L. 100–707, § 106(k).
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–189, § 2(a)(1), substituted “$1,000,000” for “$35,000” in two places in concluding provisions.
+
+Subsec. (b)(3). Pub. L. 117–189, § 2(a)(2), inserted “and report” after “Review” in heading and “and submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report regarding such review, including any recommendations developed pursuant to such review” after “under this section” in text.
+
 2013—Subsec. (a). Pub. L. 113–2, § 1107(3), which directed insertion of “or, if applicable, the amount established under subsection (b),” after “$35,000 amount” the second place appearing, was executed by making the insertion after “$35,000 amount” the only place that phrase appeared, to reflect the probable intent of Congress.
 
 Pub. L. 113–2, § 1107(1), (2), designated existing provisions as subsec. (a), inserted heading, and inserted “(or, if the Administrator has established a threshold under subsection (b), the amount established under subsection (b))” after “less than $35,000” in concluding provisions.
 
 Subsec. (b). Pub. L. 113–2, § 1107(4), added subsec. (b).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–189, § 2(b), Oct. 10, 2022, 136 Stat. 2204, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any amounts appropriated after the date of enactment of this Act [Oct. 10, 2022].”
 
 
 <a id="section-5189a"></a>
@@ -3306,8 +3520,17 @@ Another section 425 of Pub. L. 93–288 was renumbered section 427 and is classi
 
 <a id="section-5189d"></a>
 ## § 5189d. Case management services
+**(a) In general** The President may provide case management services, including financial assistance, to State or local government agencies or qualified private organizations to provide such services, to victims of major disasters to identify and address unmet needs.
 
-The President may provide case management services, including financial assistance, to State or local government agencies or qualified private organizations to provide such services, to victims of major disasters to identify and address unmet needs.
+**(b) Training** Each State, local government agency, or qualified private organization providing professional counseling services described in subsection (a) shall ensure that any individual providing case management services to victims of a major disaster as authorized under subsection (a), including individuals working for nonprofit partners and recovery organizations, is appropriately trained to address impacts from major disasters in communities, and to individuals, with socio-economically disadvantaged backgrounds.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–251 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–251, § 8(b), Dec. 20, 2022, 136 Stat. 2357, provided that: “The amendments made by this section [amending this section] shall apply with respect to amounts appropriated on or after the date of enactment of this Act [Dec. 20, 2022].”
 
 
 <a id="section-5189e"></a>
@@ -3646,7 +3869,7 @@ Enactment of section by Pub. L. 115–254 applicable to each major disaster and 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Prior Provisions
 A prior section 501 of Pub. L. 93–288 enacted subchapter VIII (§ 3231 et seq.) of chapter 38 of this title.
@@ -5786,6 +6009,9 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Planning for Animal Wellness
+Pub. L. 117–212, Oct. 17, 2022, 136 Stat. 2249, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Planning for Animal Wellness Act’ or the ‘PAW Act’. “SEC. 2. WORKING GROUP GUIDELINES.“(a) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Federal Emergency Management Agency. “(2) Working group.—The term ‘working group’ means the advisory working group established under subsection (b). “(b) Working Group.—Not later than 180 days after the date of enactment of this Act [Oct. 17, 2022], the Administrator shall establish an advisory working group. “(c) Membership.—The working group shall consist of—“(1) not less than 2 representatives of State governments with experience in animal emergency management; “(2) not less than 2 representatives of local governments with experience in animal emergency management; “(3) not less than 2 representatives from academia; “(4) not less than 2 veterinary experts; “(5) not less than 2 representatives from nonprofit organizations working to address the needs of households [sic] pets and service animals in emergencies or disasters; “(6) representatives from the Federal Animal Emergency Management Working Group; and “(7) any other members determined necessary by the Administrator. “(d) Duties.—The working group shall—“(1) encourage and foster collaborative efforts among individuals and entities working to address the needs of household pets, service and assistance animals, and captive animals, as appropriate, in emergency and disaster preparedness, response, and recovery; and “(2) review best practices and Federal guidance, as of the date of enactment of this Act, on congregate and noncongregate sheltering and evacuation planning relating to the needs of household pets, service and assistance animals, and captive animals, as appropriate, in emergency and disaster preparedness, response, and recovery. “(e) No Compensation.—The members of the working group shall serve on the working group on a voluntary basis. “(f) Guidance Determination.—Not later than 1 year after the date of enactment of this Act, the working group shall determine whether the best practices and Federal guidance described in subsection (d)(2) are sufficient. “(g) New Guidance.—Not later than 540 days after the date of enactment of this Act, if the Administrator, in consultation with the working group, determines that the best practices and Federal guidance described in subsection (d)(2) are insufficient, the Administrator, in consultation with the working group, shall publish updated Federal guidance. “(h) Sunset.—“(1) In general.—Subject to paragraph (2), the working group shall terminate on the date that is 4 years after the date of enactment of this Act. “(2) Extension.—The Administrator may extend the date described in paragraph (1) if the Administrator determines an extension is appropriate.”
+
 #### National Capital Region Mutual Aid
 Pub. L. 108–458, title VII, § 7302, Dec. 17, 2004, 118 Stat. 3840, as amended by Pub. L. 110–250, § 1, June 26, 2008, 122 Stat. 2318, provided that: “(a) Definitions.—In this section:“(1) Authorized representative of the federal government.—The term ‘authorized representative of the Federal Government’ means any individual or individuals designated by the President with respect to the executive branch, the Chief Justice with respect to the Federal judiciary, or the President of the Senate and Speaker of the House of Representatives with respect to Congress, or their designees, to request assistance under a mutual aid agreement for an emergency or public service event. “(2) Chief operating officer.—The term ‘chief operating officer’ means the official designated by law to declare an emergency in and for the locality of that chief operating officer. “(3) Emergency.—The term ‘emergency’ means a major disaster or emergency declared by the President, or a state of emergency declared by the mayor of the District of Columbia, the Governor of the State of Maryland or the Commonwealth of Virginia, or the declaration of a local emergency by the chief operating officer of a locality, or their designees, that triggers mutual aid under the terms of a mutual aid agreement. “(4) Employee.—The term ‘employee’ means the employees of the party who are committed in a mutual aid agreement to prepare for or who respond to an emergency or public service event. “(5) Locality.—The term ‘locality’ means a county, city, town, or other governmental agency, governmental authority, or governmental institution with the power to sue or be sued in its own name, within the National Capital Region. “(6) Mutual aid agreement.—The term ‘mutual aid agreement’ means an agreement, authorized under subsection (b), for the provision of police, fire, rescue and other public safety and health or medical services to any party to the agreement during a public service event, an emergency, or pre-planned training event. “(7) National capital region or region.—The term ‘National Capital Region’ or ‘Region’ means the area defined under [section 2674(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2674/f/2&num=0&edition=prelim), United States Code, and those counties with a border abutting that area and any municipalities therein. “(8) Party.—The term ‘party’ means the State of Maryland, the Commonwealth of Virginia, the District of Columbia, and any of the localities duly executing a Mutual Aid Agreement under this section. “(9) Public service event.—The term ‘public service event’—“(A) means any undeclared emergency, incident or situation in preparation for or response to which the mayor of the District of Columbia, an authorized representative of the Federal Government, the Governor of the State of Maryland, the Governor of the Commonwealth of Virginia, or the chief operating officer of a locality in the National Capital Region, or their designees, requests or provides assistance under a Mutual Aid Agreement within the National Capital Region; and “(B) includes Presidential inaugurations, public gatherings, demonstrations and protests, and law enforcement, fire, rescue, emergency health and medical services, transportation, communications, public works and engineering, mass care, and other support that require human resources, equipment, facilities or services supplemental to or greater than the requesting jurisdiction can provide. “(10) State.—The term ‘State’ means the State of Maryland, the Commonwealth of Virginia, and the District of Columbia. “(11) Training.—The term ‘training’ means emergency and public service event-related exercises, testing, or other activities using equipment and personnel to simulate performance of any aspect of the giving or receiving of aid by National Capital Region jurisdictions during emergencies or public service events, such actions occurring outside actual emergency or public service event periods. “(b) Mutual Aid Authorized.—“(1) In general.—The mayor of the District of Columbia, any authorized representative of the Federal Government, the Governor of the State of Maryland, the Governor of the Commonwealth of Virginia, or the chief operating officer of a locality, or their designees, acting within his or her jurisdictional purview, may, in accordance with State law, enter into, request or provide assistance under mutual aid agreements with localities for—“(A) law enforcement, fire, rescue, emergency health and medical services, transportation, communications, public works and engineering, mass care, and resource support in an emergency or public service event; “(B) preparing for, mitigating, managing, responding to or recovering from any emergency or public service event; and “(C) training for any of the activities described under subparagraphs (A) and (B). “(2) Facilitating localities.—The State of Maryland and the Commonwealth of Virginia are encouraged to facilitate the ability of localities to enter into interstate mutual aid agreements in the National Capital Region under this section. “(3) Application and effect.—This section—“(A) does not apply to law enforcement security operations at special events of national significance under [section 3056(e) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056/e&num=0&edition=prelim), United States Code, or other law enforcement functions of the United States Secret Service; “(B) does not diminish any authorities, express or implied, of Federal agencies to enter into mutual aid agreements in furtherance of their Federal missions; and “(C) does not—“(i) preclude any party from entering into supplementary Mutual Aid Agreements with fewer than all the parties, or with another party; or “(ii) affect any other agreement in effect before the date of enactment of this Act [Dec. 17, 2004] among the States and localities, including the Emergency Management Assistance Compact. “(4) Rights described.—Other than as described in this section, the rights and responsibilities of the parties to a mutual aid agreement entered into under this section shall be as described in the mutual aid agreement. “(c) District of Columbia.—“(1) In general.—The District of Columbia may purchase liability and indemnification insurance or become self insured against claims arising under a mutual aid agreement authorized under this section. “(2) Authorization of appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out paragraph (1). “(d) Liability and Actions at Law.—“(1) In general.—Any responding party or its officers, employees, or agents rendering aid or failing to render aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, under a mutual aid agreement authorized under this section, and any party or its officers, employees, or agents engaged in training activities with another party under such a mutual aid agreement, shall be liable on account of any act or omission of its officers, employees, or agents while so engaged or on account of the maintenance or use of any related equipment, facilities, or supplies, but only to the extent permitted under the laws and procedures of the State of the party rendering aid. “(2) Actions.—Any action brought against a party or its officers, employees, or agents on account of an act or omission in the rendering of aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, or failure to render such aid or on account of the maintenance or use of any related equipment, facilities, or supplies may be brought only under the laws and procedures of the State of the party rendering aid and only in the Federal or State courts located therein. Actions against the United States under this section may be brought only in Federal courts. “(3) Immunities.—This section shall not abrogate any other immunities from liability that any party has under any other Federal or State law. “(e) Workers Compensation.—“(1) Compensation.—Each party shall provide for the payment of compensation and death benefits to injured members of the emergency forces of that party and representatives of deceased members of such forces if such members sustain injuries or are killed while rendering aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, under a mutual aid agreement, or engaged in training activities under a mutual aid agreement, in the same manner and on the same terms as if the injury or death were sustained within their own jurisdiction. “(2) Other state law.—No party shall be liable under the law of any State other than its own for providing for the payment of compensation and death benefits to injured members of the emergency forces of that party and representatives of deceased members of such forces if such members sustain injuries or are killed while rendering aid to the District of Columbia, the Federal Government, the State of Maryland, the Commonwealth of Virginia, or a locality, under a mutual aid agreement or engaged in training activities under a mutual aid agreement. “(f) Licenses and Permits.—If any person holds a license, certificate, or other permit issued by any responding party evidencing the meeting of qualifications for professional, mechanical, or other skills and assistance is requested by a receiving jurisdiction, such person will be deemed licensed, certified, or permitted by the receiving jurisdiction to render aid involving such skill to meet a public service event, emergency or training for any such events.”
 
@@ -5887,7 +6113,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 <a id="section-5196g"></a>
 ## § 5196g. Grants for construction of emergency operations centers
-**(a) Grants** The Administrator of the Federal Emergency Management Agency may make grants to States under this subchapter for equipping, upgrading, and constructing State and local emergency operations centers.
+**(a) Grants** The Administrator of the Federal Emergency Management Agency may make grants to States and Indian tribal governments under this subchapter for equipping, upgrading, and constructing State, local, and Tribal emergency operations centers.
 
 **(b) Federal share** Notwithstanding any other provision of this subchapter, the Federal share of the cost of an activity carried out using amounts from grants made under this section shall not exceed 75 percent.
 
@@ -5897,7 +6123,12 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 Provisions similar to those in this section were contained in section 2288 of the former Appendix to Title 50, War and National Defense, prior to repeal by Pub. L. 103–337, § 3412(a).
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–251 inserted “and Indian tribal governments” after “grants to States” and substituted “State, local, and Tribal” for “State and local”.
+
 2007—Pub. L. 110–53 amended section generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, funds appropriated to carry out this subchapter may not be used for the purpose of constructing emergency operating centers (or similar facilities) in any State unless such State matches in an equal amount the amount made available to such State under this subchapter for such purpose.”
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–251, § 11(b), Dec. 20, 2022, 136 Stat. 2358, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to amounts appropriated on or after the date of enactment of this Act [Dec. 20, 2022].”
 
 #### Non-Federal Cost Share
 Pub. L. 108–7, div. K, title IV, § 419, Feb. 20, 2003, 117 Stat. 526, provided that: “Notwithstanding [42 U.S.C. 5196c](./chapter-068-disaster-relief.md#section-5196c), amounts provided in Public Law 107–117 [see Tables for classification] and subsequent appropriations Acts for the construction of emergency operations centers (or similar facilities) shall only require a 25 percent non-Federal cost share.”
@@ -6128,7 +6359,7 @@ Provisions similar to those in this section were contained in section 2259 of th
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Amendments
 1988—Subsec. (a). Pub. L. 100–707 designated existing provision as par. (1) and added par. (2).
@@ -6157,7 +6388,7 @@ Beginning in fiscal year 1993, and in each year thereafter, notwithstanding any 
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in text, is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 [Section 901 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901&num=0&edition=prelim), referred to in text, was amended by Pub. L. 105–33, title X, § 10203(a)(4), Aug. 5, 1997, 111 Stat. 699, and Pub. L. 112–25, title I, § 101, Aug. 2, 2011, 125 Stat. 241. As so amended, [section 901(b)(2)(D) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b/2/D&num=0&edition=prelim) no longer refers to “emergency requirements”.
 
@@ -6336,7 +6567,7 @@ For definition of “Agency” as used in this section, see section 1203 of Pub.
 #### References in Text
 This Act, referred to in subsec. (a), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552, known as the Disaster Mitigation Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Codification
 In subsec. (a), “chapter 83 of title 41” substituted for references to the Buy American Act on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

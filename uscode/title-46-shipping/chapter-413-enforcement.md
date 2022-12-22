@@ -2,7 +2,7 @@
 title: 46
 chapter: '413'
 heading: ENFORCEMENT
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -28,9 +28,9 @@ In subsection (a), the words “If the complaint is filed within 3 years after t
 
 <a id="section-41302"></a>
 ## § 41302. Investigations
-**(a) In General.—** The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct or agreement that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
+**(a) In General.—** The Federal Maritime Commission, on complaint or its own motion, may investigate any conduct 11 So in original. Probably should be followed by a comma. agreement, fee, or charge that the Commission believes may be in violation of this part. The Commission may by order disapprove, cancel, or modify any agreement that operates in violation of this part.
 
-**(b) Effectiveness of Agreement During Investigation.—** Unless an injunction is issued under section 41306 or 41307 of this title, an agreement under investigation by the Commission remains in effect until the Commission issues its order.
+**(b) Effectiveness of Agreement, Fee, or Charge During Investigation.—** Unless an injunction is issued under section 41306 or 41307 of this title, an agreement, fee, or charge under investigation by the Commission remains in effect until the Commission issues its order.
 
 **(c) Date for Decision.—** Within 10 days after the initiation of a proceeding under this section or [section 41301 of this title](./chapter-413-enforcement.md#section-41301), the Commission shall set a date by which it will issue its final decision. The Commission by order may extend the date for good cause.
 
@@ -48,6 +48,13 @@ In subsection (a), the words “If the complaint is filed within 3 years after t
 | 41302(c) | 46 App.:1710(d). |  |
 | 41302(d) | 46 App.:1710(e). |  |
 | 41302(e) | 46 App.:1710(f). |  |
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–146, § 11(a)(1), substituted “agreement, fee, or charge” for “or agreement”.
+
+Subsec. (b). Pub. L. 117–146, § 11(a)(2)(B), inserted “, fee, or charge” after “agreement”.
+
+Pub. L. 117–146, § 11(a)(2)(A), substituted “Agreement, Fee, or Charge” for “Agreement” in heading. Quoted text appearing in directory language was conformed to the style used in this title to reflect the probable intent of Congress.
 
 
 <a id="section-41303"></a>
@@ -101,9 +108,9 @@ In subsection (a), the words “upon sworn complaint or on its own motion” are
 
 **(b) Basic Amount.—** If the complaint was filed within the period specified in [section 41301(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41301/a&num=0&edition=prelim), the Federal Maritime Commission shall direct the payment of reparations to the complainant for actual injury caused by a violation of this part.
 
-**(c) Additional Amounts.—** On a showing that the injury was caused by an activity prohibited by section 41102(b), 41104(3) or (6), or 41105(1) or (3) of this title, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.
+**(c) Additional Amounts.—** On a showing that the injury was caused by an activity prohibited by section subsection 11 So in original. (b) or (c) of section 41102, paragraph (3) or (6) of section 41104(a), or paragraph (1) or (3) of section 41105, the Commission may order the payment of additional amounts, but the total recovery of a complainant may not exceed twice the amount of the actual injury.
 
-**(d) Difference Between Rates.—** If the injury was caused by an activity prohibited by section 41104(4)(A) or (B) of this title, the amount of the injury shall be the difference between the rate paid by the injured shipper and the most favorable rate paid by another shipper.
+**(d) Difference Between Rates.—** If the injury was caused by an activity prohibited by subparagraph (A) or (B) of section 41104(a)(4), the amount of the injury shall be the difference between the rate paid by the injured shipper and the most favorable rate paid by another shipper.
 
 **(e) Attorney Fees.—** In any action brought under section 41301, the prevailing party may be awarded reasonable attorney fees.
 
@@ -117,6 +124,12 @@ In subsection (a), the words “upon sworn complaint or on its own motion” are
 In subsection (b), the words “within the period specified in [section 41301(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41301/a&num=0&edition=prelim)” are substituted for “within 3 years after the cause of action accrued” because the time limit is restated in section 41301(a) instead of in this section. The words “upon petition of the complainant” are omitted as unnecessary. The words “after notice and hearing” are omitted as unnecessary because of section 41304(a) of the revised title.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–146, § 15(c)(1), substituted “paragraph (3) or (6) of section 41104(a), or paragraph (1) or (3) of section 41105” for “41104(3) or (6), or 41105(1) or (3) of this title”.
+
+Pub. L. 117–146, § 12, substituted “subsection (b) or (c) of section 41102” for “41102(b)”.
+
+Subsec. (d). Pub. L. 117–146, § 15(c)(2), substituted “subparagraph (A) or (B) of section 41104(a)(4)” for “section 41104(4)(A) or (B) of this title”.
+
 2014—Subsec. (b). Pub. L. 113–281, § 402(1), struck out “, plus reasonable attorney fees” before period at end.
 
 Subsec. (e). Pub. L. 113–281, § 402(2), added subsec. (e).
@@ -217,9 +230,9 @@ In subsection (a), the words “subpoena or” are added in the second sentence 
 
 <a id="section-41309"></a>
 ## § 41309. Enforcement of reparation orders
-**(a) Civil Action.—** If a person does not comply with an order of the Federal Maritime Commission for the payment of reparation, the person to whom the award was made may seek enforcement of the order in a district court of the United States having jurisdiction over the parties.
+**(a) Civil Action.—** If a person does not comply with an order of the Federal Maritime Commission for the payment of a refund of money or reparation, the person to which the refund or reparation was awarded may seek enforcement of the order in a district court of the United States having jurisdiction over the parties.
 
-**(b) Parties and Service of Process.—** All parties in whose favor the Commission has made an award of reparation by a single order may be joined as plaintiffs, and all other parties in the order may be joined as defendants, in a single action in a judicial district in which any one plaintiff could maintain an action against any one defendant. Service of process against a defendant not found in that district may be made in a district in which any office of that defendant is located or in which any port of call on a regular route operated by that defendant is located. Judgment may be entered for any plaintiff against the defendant liable to that plaintiff.
+**(b) Parties and Service of Process.—** All parties in whose favor the Commission has ordered a refund of money or any other award of reparation by a single order may be joined as plaintiffs, and all other parties in the order (except for the Commission or any component of the Commission) may be joined as defendants, in a single action in a judicial district in which any one plaintiff could maintain an action against any one defendant. Service of process against a defendant not found in that district may be made in a district in which any office of that defendant is located or in which any port of call on a regular route operated by that defendant is located. Judgment may be entered for any plaintiff against the defendant liable to that plaintiff.
 
 **(c) Nature of Review.—** In an action under this section, the findings and order of the Commission are prima facie evidence of the facts stated in the findings and order.
 
@@ -237,3 +250,29 @@ In subsection (a), the words “subpoena or” are added in the second sentence 
 | 41309(c) | 46 App.:1713(d)(2) (1st sentence 1st–23d words). |  |
 | 41309(d) | 46 App.:1713(d)(2) (1st sentence 24th–last words, last sentence). |  |
 | 41309(e) | 46 App.:1713(e). |  |
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–146, § 13(1), substituted “a refund of money or reparation, the person to which the refund or reparation was awarded” for “reparation, the person to whom the award was made”.
+
+Subsec. (b). Pub. L. 117–146, § 13(2), substituted “ordered a refund of money or any other award of reparation” for “made an award of reparation” and inserted “(except for the Commission or any component of the Commission)” after “parties in the order”.
+
+
+<a id="section-41310"></a>
+## § 41310. Charge complaints
+**(a) In General.—** A person may submit to the Federal Maritime Commission, and the Commission shall accept, information concerning complaints about charges assessed by a common carrier. The information submitted to the Commission shall include the bill of lading numbers and invoices, and may include any other relevant information.
+
+**(b) Investigation.—** Upon receipt of a submission under subsection (a), with respect to a charge assessed by a common carrier, the Commission shall promptly investigate the charge with regard to compliance with section 41104(a) and section 41102. The common carrier shall—
+
+(1) be provided an opportunity to submit additional information related to the charge in question; and
+
+(2) bear the burden of establishing the reasonableness of any demurrage or detention charges pursuant to section 545.5 of title 46, Code of Federal Regulations (or successor regulations).
+
+**(c) Refund.—** Upon receipt of submissions under subsection (a), if the Commission determines that a charge does not comply with section 41104(a) or 41102, the Commission shall promptly order the refund of charges paid.
+
+**(d) Penalties.—** In the event of a finding that a charge does not comply with section 41104(a) or 41102 after submission under subsection (a), a civil penalty under section 41107 shall be applied to the common carrier making such charge.
+
+**(e) Considerations.—** If the common carrier assessing the charge is acting in the capacity of a non-vessel-operating common carrier, the Commission shall, while conducting an investigation under subsection (b), consider—
+
+(1) whether the non-vessel-operating common carrier is responsible for the noncompliant assessment of the charge, in whole or in part; and
+
+(2) whether another party is ultimately responsible in whole or in part and potentially subject to action under subsections (c) and (d).

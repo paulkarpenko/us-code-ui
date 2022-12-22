@@ -206,7 +206,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of eanctment of div. A of Pub. L. 117–81, which was approved Dec. 27, 2021,
+The date of the enactment of this subsection, referred to in subsec. (c)(1), is the date of enactment of div. A of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
 The Military Selective Service Act, referred to in subsec. (c)(1), is title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 3801 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) and Tables.
 

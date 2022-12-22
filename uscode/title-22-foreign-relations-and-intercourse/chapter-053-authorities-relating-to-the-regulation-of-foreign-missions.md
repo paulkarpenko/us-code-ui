@@ -198,7 +198,7 @@ then the Secretary may require a foreign mission (A) to obtain benefits from or 
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Buildings Act, 1926, referred to in subsec. (f)(1), is act May 7, 1926, ch. 250, 44 Stat. 403, as amended, which is classified generally to chapter 8 (§ 292 et seq.) of this title. For complete classification of this Act to the Code, see [section 299 of this title](./chapter-008-foreign-service-buildings.md#section-299) and Tables.
+The Foreign Service Buildings Act, 1926, referred to in subsec. (f)(1), is act May 7, 1926, ch. 250, 44 Stat. 403, which is classified generally to chapter 8 (§ 292 et seq.) of this title. For complete classification of this Act to the Code, see [section 299 of this title](./chapter-008-foreign-service-buildings.md#section-299) and Tables.
 
 #### Amendments
 2006—Subsec. (e). Pub. L. 109–177, § 605(e)(2)(B), substituted “section 3056 or 3056A of title 18” for “[section 202 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section202&num=0&edition=prelim) or [section 3056 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim)”.
@@ -544,7 +544,7 @@ including any real property of such an organization or mission and including the
 ### Statutory Notes
 
 #### References in Text
-The International Organizations Immunities Act, referred to in subsec. (b)(1), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of this title. For complete classification of that Act to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
+The International Organizations Immunities Act, referred to in subsec. (b)(1), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of this title. For complete classification of that Act to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
 
 #### Effective Date
 Section effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as a note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).

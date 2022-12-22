@@ -58,7 +58,7 @@ The Congress finds that—
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in par. (14), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in par. (14), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
 1992—Pars. (4) to (14). Pub. L. 102–507 added pars. (4) to (8), redesignated former pars. (7) to (12) as (9) to (14), respectively, and struck out former pars. (4) to (6) which read as follows:
@@ -266,6 +266,7 @@ To carry out this part, there are authorized to be appropriated $2,000,000 for e
 
 ### Statutory Notes
 
+#### Codification
 Section 11281, Pub. L. 99–660, title IX, § 951, Nov. 14, 1986, 100 Stat. 3813, which provided for establishment of Clearinghouse on Alzheimer’s Disease, was renumbered section 445E of the Public Health Service Act by Pub. L. 100–607, title I, § 142(a), Nov. 4, 1988, 102 Stat. 3057, and is classified to [section 285e–7 of this title](./chapter-6a-public-health-service.md#section-285e-7).
 
 Section 11282, Pub. L. 99–660, title IX, § 952, Nov. 14, 1986, 100 Stat. 3813, which provided for dissemination project to be conducted by national organization representing individuals with Alzheimer’s disease and related dementias, was renumbered section 445F of the Public Health Service Act by Pub. L. 100–607, title I, § 142(a), Nov. 4, 1988, 102 Stat. 3057, and is classified to [section 285e–8 of this title](./chapter-6a-public-health-service.md#section-285e-8).
@@ -284,6 +285,7 @@ Section, Pub. L. 99–660, title IX, § 953, Nov. 14, 1986, 100 Stat. 3814, auth
 
 ### Statutory Notes
 
+#### Codification
 Section, Pub. L. 99–660, title IX, § 931, Nov. 14, 1986, 100 Stat. 3807, which provided for awards for biomedical research on Alzheimer’s disease and related dementias, was redesignated section 445B of the Public Health Service Act by Pub. L. 100–607, title I, § 142(a), Nov. 4, 1988, 102 Stat. 3057, and is classified to [section 285e–4 of this title](./chapter-6a-public-health-service.md#section-285e-4).
 
 
@@ -300,6 +302,7 @@ Section, Pub. L. 99–660, title IX, § 932, Nov. 14, 1986, 100 Stat. 3808, auth
 
 ### Statutory Notes
 
+#### Codification
 Section 11241, Pub. L. 99–660, title IX, § 941, Nov. 14, 1986, 100 Stat. 3808, which provided for Director of National Institute on Aging to conduct, or make grants for conduct of, research on services for individuals with Alzheimer’s disease and related dementias and their families, was redesignated section 445C of the Public Health Service Act by Pub. L. 100–607, title I, § 142(a), Nov. 4, 1988, 102 Stat. 3057, and is classified to [section 285e–5 of this title](./chapter-6a-public-health-service.md#section-285e-5).
 
 Section 11242, Pub. L. 99–660, title IX, § 942, Nov. 14, 1986, 100 Stat. 3809, which provided for Director to disseminate results of such research to professional entities and the public, was redesignated section 445D of the Public Health Service Act by Pub. L. 100–607, title I, § 142(a), Nov. 4, 1988, 102 Stat. 3057, and is classified to [section 285e–6 of this title](./chapter-6a-public-health-service.md#section-285e-6).
@@ -479,7 +482,7 @@ Subsecs. (b)(2), (c). Pub. L. 108–173, § 900(e)(5)(B)(iii), (iv), substituted
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 
 <a id="section-11292"></a>
@@ -537,7 +540,7 @@ The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 5
 ### Statutory Notes
 
 #### References in Text
-The Older Americans Act of 1965, referred to in subsec. (a)(1)(A)(iii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act of 1965, referred to in subsec. (a)(1)(A)(iii), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
 #### Amendments
 1992—Pub. L. 102–507 amended section generally. Prior to amendment, section read as follows: “The Director of the National Institute on Aging, through centers supported under [section 285e–2 of this title](./chapter-6a-public-health-service.md#section-285e-2), professional associations, and continuing education programs, shall conduct education and information dissemination activities concerning the special problems of individuals with Alzheimer’s disease and their families. Such activities shall be designed to enhance the understanding of such problems by individuals who provide care for individuals with Alzheimer’s disease and related dementias, including physicians, nurses, psychologists, social workers, occupational therapists, nursing home administrators, nurses, and health care aides.”

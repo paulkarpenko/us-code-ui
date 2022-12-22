@@ -2446,7 +2446,7 @@ Ex. Ord. No. 13428, Apr. 2, 2007, 72 F.R. 16693, provided that the Caribbean Nat
 ### Statutory Notes
 
 #### References in Text
-The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, as amended, which is classified generally to chapter 19B (§ 1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1962 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962&num=0&edition=prelim) and Tables.
+The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, which is classified generally to chapter 19B (§ 1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1962 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1986—Subsec. (d). Pub. L. 99–590 added subsec. (d).
@@ -3184,7 +3184,7 @@ Nothing contained in the foregoing sentence, however, shall preclude licensing o
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsecs. (a) and (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in subsecs. (a) and (b), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 In subsec. (d) text, the words “(78 Stat. 897; [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–5 et seq.)” were omitted following “chapter 2003 of title 54” in view of the amendment by Pub. L. 113–287. See 2014 Amendment note below.
@@ -3226,7 +3226,7 @@ Enforcement functions of Secretary or other official in Department of the Interi
 #### References in Text
 The public land laws of the United States, referred to in text, are classified generally to Title 43, Public Lands.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1986—Subsec. (a). Pub. L. 99–590 inserted provisions relating to construction of subsec. (a) with respect to authorities granted in section 1277(d) or 1285a of this title.
@@ -3270,7 +3270,7 @@ Regulations issued pursuant to paragraphs (i) and (ii) of this subsection shall,
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The Acts under which the national park system and the national wildlife system are administered, referred to in subsec. (c), are classified generally to this title.
 
@@ -3383,7 +3383,7 @@ Notwithstanding any other provision to the contrary in sections 1274 and 1280 of
 ### Statutory Notes
 
 #### References in Text
-The Alaska National Interest Lands Conservation Act, referred to in par. (2), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in par. (2), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 
 <a id="section-1286"></a>

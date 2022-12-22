@@ -2154,7 +2154,7 @@ Pub. L. 102–295, title I, § 117(b), May 28, 1992, 106 Stat. 197, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Child Abuse Prevention and Treatment and Adoption Reform Act of 1978, referred to in subsec. (b), is Pub. L. 95–266, Apr. 24, 1978, 92 Stat. 205, as amended. Title II of the Child Abuse Prevention and Treatment and Adoption Reform Act of 1978 is classified generally to subchapter II (§ 5111 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101) and Tables.
+The Child Abuse Prevention and Treatment and Adoption Reform Act of 1978, referred to in subsec. (b), is Pub. L. 95–266, Apr. 24, 1978, 92 Stat. 205. Title II of the Child Abuse Prevention and Treatment and Adoption Reform Act of 1978 is classified generally to subchapter II (§ 5111 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101) and Tables.
 
 #### Codification
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of title I of the Child Abuse Prevention and Treatment Act which comprises this subchapter.

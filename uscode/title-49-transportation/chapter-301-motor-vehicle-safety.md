@@ -1439,7 +1439,7 @@ Pub. L. 114–94, div. B, title XXIV, § 24115, Dec. 4, 2015, 129 Stat. 1710, pr
 Pub. L. 106–414, § 11, Nov. 1, 2000, 114 Stat. 1806, provided that, by 30 days after Nov. 1, 2000, the Secretary of Transportation would initiate a rulemaking proceeding to improve the labeling of tires required by this section to assist consumers in identifying tires that may be the subject of a decision or notice under [section 30118 of this title](./chapter-301-motor-vehicle-safety.md#section-30118) and also provided the Secretary could authorize any additional action needed to inform the public of the importance of observing motor vehicle tire load limits and maintaining proper tire inflation levels, with the rulemaking completed by not later than June 1, 2002.
 
 #### Tire Pressure Warning
-Pub. L. 106–414, § 13, Nov. 1, 2000, 114 Stat. 1806, provided that,not later than 1 year after Nov. 1, 2000, the Secretary of Transportation would complete a rulemaking for a regulation, effective not later than 2 years after the date of the completion of such rulemaking, to require a warning system in new motor vehicles to indicate significantly underinflated tires.
+Pub. L. 106–414, § 13, Nov. 1, 2000, 114 Stat. 1806, provided that, not later than 1 year after Nov. 1, 2000, the Secretary of Transportation would complete a rulemaking for a regulation, effective not later than 2 years after the date of the completion of such rulemaking, to require a warning system in new motor vehicles to indicate significantly underinflated tires.
 
 
 <a id="section-30124"></a>
@@ -1648,7 +1648,7 @@ In subsection (g)(2)(C), the words “other Government and State employees” ar
 In subsection (h)(2), the words “for both front outboard seating positions” are substituted for “for both the driver and front seat outboard seating positions” for clarity and consistency in this section.
 
 #### References in Text
-The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§ 1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
+The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, which was classified generally to chapter 38 (§ 1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
 
 #### Amendments
 1998—Subsec. (g)(1). Pub. L. 105–178 substituted “annually” for “every 6 months” in introductory provisions.
@@ -1963,7 +1963,7 @@ In subsection (b), before clause (1), the words “that an individual is a membe
 This amends 49:30144(a)(1)(A) to correct an erroneous cross-reference.
 
 #### References in Text
-The International Organizations Immunities Act, referred to in subsec. (a)(1)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
+The International Organizations Immunities Act, referred to in subsec. (a)(1)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (a)(1)(A). Pub. L. 104–287 substituted “International Organizations” for “International Organization”.

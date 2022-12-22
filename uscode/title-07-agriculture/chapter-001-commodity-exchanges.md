@@ -2307,11 +2307,11 @@ Subtitle A of the Wall Street Transparency and Accountability Act of 2010, refer
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Section 721(c) of the Act is classified to [section 8321(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8321/b&num=0&edition=prelim), Commerce and Trade. Section 742 of the Act amended [section 2 of this title](./chapter-001-commodity-exchanges.md#section-2) and provisions set out as a note under [section 78c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking, and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (c)(3)(D), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (c)(3)(D), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (c)(3)(G), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (c)(3)(G), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (c)(3)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (c)(3)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–203, § 738(b)(1), inserted “or by subsection (e)” after “Unless exempted by the Commission pursuant to subsection (c)” in introductory provisions.
@@ -3117,7 +3117,7 @@ For effective date of section, see section 13 of act June 15, 1936, set out as a
 ### Statutory Notes
 
 #### References in Text
-Section 9 of the Federal Reserve Act, referred to in subsec. (c)(4)(B)(i), is section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Section 9 of the Federal Reserve Act, referred to in subsec. (c)(4)(B)(i), is section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -3464,9 +3464,9 @@ For effective date of section, see section 418 of Pub. L. 93–463, set out as a
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in par. (2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+The Securities Act of 1933, referred to in par. (2), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
 
-The Securities Exchange Act of 1934, referred to in par. (2), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in par. (2), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Par. (3). Pub. L. 111–203, § 749(b), inserted heading, designated existing provisions as subpar. (A) and inserted heading, substituted “Paragraph (1)” for “Subsection (1) of this section” and “to any commodity pool that is engaged primarily in trading commodity interests.” for “to any investment trust, syndicate, or similar form of enterprise that is engaged primarily in trading in any commodity for future delivery on or subject to the rules of any contract market or registered derivatives transaction execution facility.”, and added subpars. (B) and (C).
@@ -5709,21 +5709,21 @@ The Commission is authorized—
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in pars. (2)(E) and (3)(B), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+The Securities Act of 1933, referred to in pars. (2)(E) and (3)(B), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
 
-The Securities Exchange Act of 1934, referred to in pars. (2)(E) and (3)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in pars. (2)(E) and (3)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
-The Trust Indenture Act of 1939, referred to in pars. (2)(E) and (3)(B), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see [section 77aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) and Tables.
+The Trust Indenture Act of 1939, referred to in pars. (2)(E) and (3)(B), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see [section 77aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) and Tables.
 
-The Investment Advisers Act of 1940, referred to in pars. (2)(E) and (3)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
+The Investment Advisers Act of 1940, referred to in pars. (2)(E) and (3)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
 
-The Investment Company Act of 1940, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
-The Securities Investor Protection Act of 1970, referred to in pars. (2)(E) and (3)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
+The Securities Investor Protection Act of 1970, referred to in pars. (2)(E) and (3)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
 
-The Foreign Corrupt Practices Act of 1977, referred to in pars. (2)(E) and (3)(B), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Foreign Corrupt Practices Act of 1977, referred to in pars. (2)(E) and (3)(B), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Par. (7)(C). Pub. L. 111–203, § 736(1), struck out “, excepting the setting of levels of margin” after “requirements”.
@@ -6330,7 +6330,7 @@ Repeal effective Oct. 1, 1978, see section 28 of Pub. L. 95–405, set out as an
 ## § 15b. Cotton futures contracts
 **(a) Short title** This section may be cited as the “United States Cotton Futures Act”.
 
-**(b) Repeal of tax on cotton futures** Subchapter D of chapter 39 of title 26 (relating to tax on cotton futures) is repealed.
+**(b) Omitted**
 
 **(c) Definitions** For purposes of this section—
 
@@ -6429,6 +6429,8 @@ The Internal Revenue Code of 1954, referred to in subsec. (l), was redesignated 
 
 #### Codification
 Section was enacted as part of the Tax Reform Act of 1976, and not as part of the Commodity Exchange Act which comprises this chapter.
+
+Section is comprised of section 1952(a)–(m) of Pub. L. 94–455. Section 1952(b) of Pub. L. 94–455 repealed subchapter D of former chapter 39 of Title 26, Internal Revenue Code. See Prior Provisions note preceding [section 4701 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4701&num=0&edition=prelim).
 
 This section, referred to in subsec. (c)(1), was in the original a reference to this “Act”, meaning the United States Cotton Futures Act, which comprises this section.
 
@@ -6604,7 +6606,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsec. (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
+The Commodity Exchange Act, referred to in subsec. (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
 
 #### Codification
 Section was enacted as part of the Futures Trading Act of 1978, and not as part of the Commodity Exchange Act which comprises this chapter.
@@ -7839,7 +7841,7 @@ For short title of sections 27 to 27f of this title as the “Legal Certainty fo
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsecs. (a)(1), (b)(2), and (c)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
+The Commodity Exchange Act, referred to in subsecs. (a)(1), (b)(2), and (c)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
 
 The Securities Act of 1933, referred to in subsecs. (b)(2) and (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
 
@@ -7889,7 +7891,7 @@ Repeal effective on the later of 360 days after July 21, 2010, or, to the extent
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsecs. (a) and (b)(4), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
+The Commodity Exchange Act, referred to in subsecs. (a) and (b)(4), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
 
 #### Codification
 Section was enacted as part of the Legal Certainty for Bank Products Act of 2000, and also as part of the Commodity Futures Modernization Act of 2000, and not as part of the Commodity Exchange Act which comprises this chapter.
@@ -7932,7 +7934,7 @@ Section was enacted as part of the Legal Certainty for Bank Products Act of 2000
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsecs. (a), (b)(2), and (c)(4)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
+The Commodity Exchange Act, referred to in subsecs. (a), (b)(2), and (c)(4)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
 
 #### Codification
 Section was enacted as part of the Legal Certainty for Bank Products Act of 2000, and also as part of the Commodity Futures Modernization Act of 2000, and not as part of the Commodity Exchange Act which comprises this chapter.
@@ -7958,7 +7960,7 @@ Repeal effective on the later of 360 days after July 21, 2010, or, to the extent
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsec. (a), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
+The Commodity Exchange Act, referred to in subsec. (a), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
 
 #### Codification
 Section was enacted as part of the Legal Certainty for Bank Products Act of 2000, and also as part of the Commodity Futures Modernization Act of 2000, and not as part of the Commodity Exchange Act which comprises this chapter.

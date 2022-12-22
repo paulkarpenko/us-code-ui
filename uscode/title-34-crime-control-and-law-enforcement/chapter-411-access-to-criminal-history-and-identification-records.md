@@ -9,7 +9,7 @@ source: >-
 <a id="section-41101"></a>
 ## § 41101. Funds for exchange of identification records
 
-The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be used hereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.
+The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be used hereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State or Tribal statute and approved by the Attorney General, to officials of State, Tribal, and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.
 
 ### Statutory Notes
 
@@ -17,6 +17,12 @@ The funds provided for Salaries and Expenses, Federal Bureau of Investigation, m
 Section was formerly classified as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification and renumbering as this section.
 
 Section is from the Department of Justice Appropriation Act, 1973, and also from the Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973.
+
+#### Amendments
+2022—Pub. L. 117–103 inserted “or Tribal” after “if authorized by State” and “, Tribal,” before “and local governments”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-41102"></a>
@@ -228,11 +234,15 @@ Section was formerly classified as a note under [section 534 of Title 28](https:
 
 <a id="section-41107"></a>
 ## § 41107. Access to the national crime information databases by tribes
-(1) **In general** — The Attorney General shall ensure that tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases.
+(1) **In general** — The Attorney General shall ensure that—
+
+  (A) tribal law enforcement officials that meet applicable Federal or State requirements shall be permitted access to national crime information databases; and
+
+  (B) technical assistance and training is provided to Bureau of Indian Affairs and tribal law enforcement agencies to gain access to, and the ability to use and input information into, the National Crime Information Center and other national crime information databases pursuant to [section 534 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim).
 
 (2) **Sanctions** — For purpose of sanctions for noncompliance with requirements of, or misuse of, national crime information databases and information obtained from those databases, a tribal law enforcement agency or official shall be treated as Federal law enforcement agency or official.
 
-(3) **NCIC** — Each tribal justice official serving an Indian tribe with criminal jurisdiction over Indian country shall be considered to be an authorized law enforcement official for purposes of access to the National Crime Information Center of the Federal Bureau of Investigation.
+(3) **NCIC** — Each tribal justice official serving an Indian tribe shall be considered to be an authorized law enforcement official for purposes of access to the National Crime Information Center of the Federal Bureau of Investigation.
 
 ### Statutory Notes
 
@@ -241,5 +251,13 @@ Section was formerly classified as a note under [section 534 of Title 28](https:
 
 Section is comprised of subsec. (b) of section 233 of Pub. L. 111–211. Subsec. (a) of section 233 amended [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure.
 
+#### Amendments
+2022—Par. (1). Pub. L. 117–103, § 802(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Attorney General shall ensure that tribal law enforcement officials that meet applicable Federal or State requirements be permitted access to national crime information databases.”
+
+Par. (3). Pub. L. 117–103, § 802(a)(2), struck out “with criminal jurisdiction over Indian country” after “Indian tribe”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Definitions
-For definitions of “Indian tribe” and “Indian country” used in this section, see section 203(a) of Pub. L. 111–211, set out as a note under [section 2801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2801&num=0&edition=prelim), Indians.
+For definition of “Indian tribe” used in this section, see section 203(a) of Pub. L. 111–211, set out as a note under [section 2801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2801&num=0&edition=prelim), Indians.

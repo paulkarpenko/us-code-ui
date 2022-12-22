@@ -81,7 +81,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Federal Employers’ Liability Act ([45 U.S.C. 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section51&num=0&edition=prelim) et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, which is classified generally to chapter 2 (§ 51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 51 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section51&num=0&edition=prelim) and Tables.
+The Federal Employers’ Liability Act ([45 U.S.C. 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section51&num=0&edition=prelim) et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, which is classified generally to chapter 2 (§ 51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 51 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section51&num=0&edition=prelim) and Tables.
 
 #### Codification
 October 27, 1986, referred to in subsec. (a)(4)(C)(ii), was in the original “the date of the enactment of the Risk Retention Act of 1986”, which was translated as meaning the date of enactment of the Risk Retention Amendments of 1986 to reflect the probable intent of Congress.
@@ -353,7 +353,7 @@ Subsecs. (d) to (h). Pub. L. 99–563, §§ 6, 8(b)(2), added subsecs. (d) to (h
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see [section 80a–51 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-51) and Tables.
 
 
 <a id="section-3905"></a>

@@ -247,13 +247,13 @@ Subsec. (e)(2). Pub. L. 94–283, § 102(b), substituted “written contract, pr
 
 Subsec. (e)(4). Pub. L. 94–283, § 102(c), inserted provisions establishing an exception for legal or accounting services.
 
-Subsec. (e)(5). Pub. L. 94–283, §§ 102(d), (e), 115(d) (1), substituted “[section 441b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section441b/b&num=0&edition=prelim)” for “the last paragraph of [section 610 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section610&num=0&edition=prelim), United States Code” in cl. (F), added cls. (G), (H), and (I), and, in the provisions following cl. (I), substituted “person” for “individual”.
+Subsec. (e)(5). Pub. L. 94–283, §§ 102(d), (e), 115(d)(1), substituted “[section 441b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section441b/b&num=0&edition=prelim)” for “the last paragraph of [section 610 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section610&num=0&edition=prelim), United States Code” in cl. (F), added cls. (G), (H), and (I), and, in the provisions following cl. (I), substituted “person” for “individual”.
 
 Subsec. (f)(4). Pub. L. 94–283, §§ 102(f), 115(d)(2), inserted provisions in cl. (C) requiring the reporting to the Commission of costs directly attributable to a communication expressly advocating the election or defeat of a clearly identifiable candidate if those costs should exceed $2,000 per election, substituted “[section 441b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section441b/b&num=0&edition=prelim)” for “the last paragraph of [section 610 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section610&num=0&edition=prelim), United States Code” in cl. (H), and added cls. (I), (J), and (K).
 
 Subsec. (n). Pub. L. 94–283, § 115(h), substituted “section 432(e) (1) of this title” for “[section 432(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section432/f/1&num=0&edition=prelim)”.
 
-Subsec. (o) to (q). Pub. L. 94–283, § 102(g)(3), added subsecs. (o) to (q).
+Subsecs. (o) to (q). Pub. L. 94–283, § 102(g)(3), added subsecs. (o) to (q).
 
 1974—Pub. L. 93–443, § 201(a)(1), inserted introductory reference to title IV of this Act, which for purposes of codification is translated as subchapter II of this chapter.
 
@@ -294,7 +294,7 @@ Pub. L. 96–187, title III, § 303, Jan. 8, 1980, 93 Stat. 1368, provided that:
 Pub. L. 107–155, title III, § 310, Mar. 27, 2002, 116 Stat. 104, related to a study and report on clean money clean elections laws in Arizona and Maine.
 
 #### Voting System Study; Report to Congress; Cost of Study
-Pub. L. 96–187, title III, § 302, Jan. 8, 1980, 93 Stat. 1368, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, provided that: “The Federal Election Commission with the cooperation and assistance of the National Institute of Standards and Technology, shall conduct a preliminary study with respect to the future development of voluntary engineering and procedural performance standards for voting systems used in the United States. The Commission shall report to the Congress the results of the study, and such report shall include recommendations, if any, for the implementation of a program of such standards (including estimates of the costs and time requirements of implementing such a program). The cost of the study shall be paid out of any funds otherwise available to defray the expenses of the Commission.”
+Pub. L. 96–187, title III, § 302, Jan. 8, 1980, 93 Stat. 1368, as amended by Pub. L. 100–418, title V, § 5115(c), Aug. 23, 1988, 102 Stat. 1433, required the Federal Election Commission, with the cooperation and assistance of the National Institute of Standards and Technology, to conduct a preliminary study of the future development of voluntary engineering and procedural performance standards for voting systems and report the results to Congress with certain recommendations.
 
 
 <a id="section-30102"></a>
@@ -1329,7 +1329,7 @@ Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub.
 Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of this title](./chapter-301-federal-election-campaigns.md#section-30101).
 
 #### Conformance of Advisory Opinions Issued Prior to May 11, 1976, to Requirements Imposed Under 1976 Amendments
-Pub. L. 94–283, title I, § 108(b), May 11, 1976, 90 Stat. 482, provided that: “The Commission shall, no later than 90 days after the date of the enactment of this Act [May 11, 1976], conform the advisory opinions issued before such date of enactment to the requirements established by section 312(a) of the Act [subsec. (a) of this section], as amended by subsection (a) of this section. The provisions of section 312(b) of the Act [subsec. (b) of this section], as amended by subsection (a) of this section, shall apply with respect to all advisory opinions issued before the date of the enactment of this Act as conformed to meet the requirements of section 312(a) of the Act, as amended by subsection (a) of this section.”
+Pub. L. 94–283, title I, § 108(b), May 11, 1976, 90 Stat. 482, provided that the Commission would, no later than 90 days after May 11, 1976, conform the advisory opinions issued before that date to the requirements established by subsec. (a) of this section, and subsec. (b) of this section would apply to all advisory opinions issued before May, 11, 1976, as conformed to meet the requirements of subsec. (a) of this section.
 
 
 <a id="section-30109"></a>
@@ -2165,7 +2165,7 @@ For effective date of the Bipartisan Campaign Reform Act of 2002, referred to in
 Section was formerly classified to [section 441a of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441a&num=0&edition=prelim), The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of section 315 of Pub. L. 92–225, as added by section 112(2) of Pub. L. 94–283 and amended by section 213 of Pub. L. 107–155, and information regarding constitutionality of certain provisions of section 307(b) of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding the constitutionality of certain provisions of this section, formerly classified to [section 441a of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441a&num=0&edition=prelim), The Congress, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 A prior section 315 of Pub. L. 92–225 was renumbered section 311, and is classified to [section 30111 of this title](./chapter-301-federal-election-campaigns.md#section-30111).
@@ -2312,11 +2312,11 @@ Pub. L. 107–155, title II, § 214(c), Mar. 27, 2002, 116 Stat. 95, provided th
 #### References in Text
 Subsections (a)(1)(A), (3), and (d), referred to in subsec. (a)(1), probably mean subsections (a)(1)(A), (3), and (d) of [section 30116 of this title](./chapter-301-federal-election-campaigns.md#section-30116).
 
-#### Constitutionality
-For information regarding constitutionality of section 315A of Pub. L. 92–225, as added by section 319(a) of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
-
 #### Codification
 Section was formerly classified to [section 441a–1 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441a–1&num=0&edition=prelim), The Congress, prior to editorial reclassification and renumbering as this section.
+
+#### Constitutionality
+For information regarding the constitutionality of section 315A of Pub. L. 92–225, as added by section 319(a) of Pub. L. 107–155, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Effective Date
 Section effective Nov. 6, 2002, but not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under [section 30101 of this title](./chapter-301-federal-election-campaigns.md#section-30101).
@@ -2401,7 +2401,7 @@ Section 79l of title 15, referred to in subsec. (b)(2), was repealed by Pub. L. 
 Section was formerly classified to [section 441b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441b&num=0&edition=prelim), The Congress, prior to editorial reclassification and renumbering as this section. Some section numbers referenced in amendment notes below reflect the classification of such sections prior to their editorial reclassification to this title.
 
 #### Constitutionality
-For information regarding constitutionality of section 316 of Pub. L. 92–225, as added by section 112(2) of Pub. L. 94–283, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding the constitutionality of this section, formerly classified to [section 441b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441b&num=0&edition=prelim), The Congress, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 A prior section 316 of Pub. L. 92–225 was renumbered section 312, and is classified to [section 30113 of this title](./chapter-301-federal-election-campaigns.md#section-30113).
@@ -2734,7 +2734,7 @@ An individual who is 17 years old or younger shall not make a contribution to a 
 Section was formerly classified to [section 441k of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section441k&num=0&edition=prelim), The Congress, prior to editorial reclassification and renumbering as this section.
 
 #### Constitutionality
-For information regarding constitutionality of section 324 of Pub. L. 92–225, as added by section 318 of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding the constitutionality of statute prohibiting persons “17 years old or younger” from contributing to candidates or political parties, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 A prior section 324 of Pub. L. 92–225 was renumbered section 319, and is classified to [section 30121 of this title](./chapter-301-federal-election-campaigns.md#section-30121).

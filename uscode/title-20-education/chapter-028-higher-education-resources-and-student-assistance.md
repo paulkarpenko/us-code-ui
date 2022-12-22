@@ -2,7 +2,7 @@
 title: 20
 chapter: '28'
 heading: HIGHER EDUCATION RESOURCES AND STUDENT ASSISTANCE
-section_count: 434
+section_count: 435
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20&num=0&edition=prelim
 ---
@@ -55,7 +55,7 @@ Subsec. (a)(3). Pub. L. 110–315, § 101(a)(1)(B), inserted “, or awards a de
 Subsec. (b)(2). Pub. L. 110–315, § 101(a)(2), added par. (2) and struck out former par. (2) which read as follows: “a public or nonprofit private educational institution in any State that, in lieu of the requirement in subsection (a)(1) of this section, admits as regular students persons who are beyond the age of compulsory school attendance in the State in which the institution is located.”
 
 #### Effective Date of 2020 Amendment
-Pub. L. 116–260, div. FF, title VII, § 701(b), Dec. 27, 2020, 134 Stat. 3137, provided that: “Except as otherwise expressly provided, this Act [probably means “this title”, see Tables for classification], and the amendments made by this title to the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), shall take effect on July 1, 2023, and shall apply with respect to award year 2023–2024 and each subsequent award year, as determined under the Higher Education Act of 1965. The Secretary of Education shall have the authority to take such steps as are necessary before July 1, 2023, to provide for the orderly implementation on such date of the amendments to the Higher Education Act of 1965 made by this Act.”
+Pub. L. 116–260, div. FF, title VII, § 701(b), Dec. 27, 2020, 134 Stat. 3137, as amended by Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that: “Except as otherwise expressly provided, this Act [probably means “this title”, see Tables for classification], and the amendments made by this title to the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), shall take effect on July 1, 2024, and shall apply with respect to award year 2024–2025 and each subsequent award year, as determined under the Higher Education Act of 1965. The Secretary of Education shall have the authority to take such steps as are necessary before July 1, 2024, to provide for the orderly implementation on such date of the amendments to the Higher Education Act of 1965 made by this Act.”
 
 #### Effective Date of 2011 Amendment
 Pub. L. 112–74, div. F, title III, § 309(g), Dec. 23, 2011, 125 Stat. 1103, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and sections 1070a, 1087ss, and 1091 of this title, and enacting provisions set out as a note under [section 1091 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091)] shall take effect on July 1, 2012.”
@@ -85,6 +85,11 @@ Pub. L. 96–374, title XIII, § 1393, Oct. 3, 1980, 94 Stat. 1504, provided tha
 
 #### Effective Date of 1976 Amendment
 Pub. L. 94–482, title V, § 532, Oct. 12, 1976, 90 Stat. 2241, provided that: “The provisions of this Act [see Tables for classification] and the amendments made by this Act shall take effect 30 days after the date of the enactment of this Act [Oct. 12, 1976] except— “(1) as specifically otherwise provided; and “(2) that each amendment made by this Act (not subject to clause (1) of this section) providing for authorization of appropriations shall take effect July 1, 1976.”
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–200, § 1, Oct. 11, 2022, 136 Stat. 2219, provided that: “This Act [amending sections 1078–3 and 1087e of this title] may be cited as the ‘Joint Consolidation Loan Separation Act’.”
+
+Pub. L. 117–103, div. R, § 101, Mar. 15, 2022, 136 Stat. 819, provided that: “This division [amending sections 1070a, 1087kk, 1087ll, 1087ss, 1087uu–2, 1090, and 1092f of this title and sections 292d and 292r of Title 42, The Public Health and Welfare, repealing [section 1070h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070h), enacting provisions set out as notes under 1070a of this title, and amending provisions set out as a note under this section] may be cited as the ‘FAFSA Simplification Act Technical Corrections Act’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 117–49, § 1, Oct. 13, 2021, 135 Stat. 402, provided that: “This Act [amending [section 1070g–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g-2), enacting provisions set out as notes under this section and [section 1070g–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g-2), and amending provisions set out as a note under this section] may be cited as the ‘Consider Teachers Act of 2021’.”
@@ -248,7 +253,7 @@ Pub. L. 116–260, div. FF, title VII, § 702(a)(3), Dec. 27, 2020, 134 Stat. 31
 Pub. L. 116–260, div. FF, title VII, § 706, Dec. 27, 2020, 134 Stat. 3200, provided that: “(a) Forgiveness.—Not later than 90 days after the effective date of this section [see Effective Date of 2020 Amendment note set out above], the Secretary of Education shall repay each institution of higher education’s outstanding balance of principal, interest, fees, and costs on the disbursed loan amounts (as of such effective date) under each applicable closed loan agreement, including paying any reimbursement (including reimbursements of escrow and return of fees and deposits) relating to the applicable closed loan agreement that are usual and customary when the loan is paid off by the institution. “(b) Applicable Closed Loan Agreement.—In this section, the term ‘applicable closed loan agreement’ means each of the following:“(1) A closed loan agreement executed before the date of enactment of this Act [Dec. 27, 2020] and made under part D of title III of the Higher Education Act of 1965 ([20 U.S.C. 1066](./chapter-028-higher-education-resources-and-student-assistance.md#section-1066) et seq.). “(2) A closed loan agreement executed before the date of enactment of this Act and made for deferment balances authorized under—“(A) section 3512 of the CARES Act [Pub. L. 116–136] ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) note); “(B) title III of division A of the Further Consolidated Appropriations Act, 2020 (Public Law 116–94; 133 Stat. 2586) [see Tables for classification]; “(C) title III of division B of the Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019 (Public Law 115–245; 132 Stat. 3097) [see Tables for classification]; or “(D) title III of division H of the Consolidated Appropriations Act, 2018 (Public Law 115–141; 132 Stat. 741) [see Tables for classification]. “(c) Authorization and Appropriation.—There are authorized to be appropriated, and there are appropriated, out of any amounts in the Treasury not otherwise appropriated, such sums as may be necessary to carry out subsection (a). “(d) Effective Date.—Notwithstanding section 701(b) [set out as a note above], this section shall take effect on the date of enactment of this Act [Dec. 27, 2020].”
 
 #### COVID–19 Pandemic Education Relief
-Pub. L. 116–136, div. A, title III, §§ 3502–3510, 3512, 3513, 3517–3519, Mar. 27, 2020, 134 Stat. 395–399, 403, 404, 408, 409, as amended by Pub. L. 116–260, div. FF, title I, § 101(a), Dec. 27, 2020, 134 Stat. 3082; Pub. L. 117–49, § 4(a), (b), Oct. 13, 2021, 135 Stat. 404, 405, provided that: “SEC. 3502. DEFINITIONS.“(a) Definitions.—In this subtitle [subtitle B (§§ 3501–3519) of title III of div. A of Pub. L. 116–136, see Short Title of 2020 Amendment note set out above]:“(1) Coronavirus.—The term ‘coronavirus’ has the meaning given the term in section 506 of the Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (Public Law 116–123 [134 Stat. 155]). “(2) Foreign institution.—The term ‘foreign institution’ means an institution of higher education located outside the United States that is described in paragraphs (1)(C) and (2) of section 102(a) of the Higher Education Act of 1965 ([20 U.S.C. 1002(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002/a&num=0&edition=prelim)). “(3) Institution of higher education.—The term ‘institution of higher education’ has the meaning of the term under section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](./chapter-028-higher-education-resources-and-student-assistance.md#section-1002)). “(4) Qualifying emergency.—The term ‘qualifying emergency’ means—“(A) a public health emergency related to the coronavirus declared by the Secretary of Health and Human Services pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)); “(B) an event related to the coronavirus for which the President declared a major disaster or an emergency under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim) and 5191); or “(C) a national emergency related to the coronavirus declared by the President under section 201 of the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) [[50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim)]. “(5) Secretary.—The term ‘Secretary’ means the Secretary of Education. “SEC. 3503. CAMPUS-BASED AID WAIVERS.“(a) Waiver of Non-federal Share Requirement.—Notwithstanding sections 413C(a)(2) and 443(b)(5) of the Higher Education Act of 1965 ([20 U.S.C. 1070b–2(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070b–2/a/2&num=0&edition=prelim) and 1087–53(b)(5)), with respect to funds made available for award years 2019–2020 and 2020–2021, the Secretary shall waive the requirement that a participating institution of higher education provide a non-Federal share to match Federal funds provided to the institution for the programs authorized pursuant to subpart 3 of part A and part C of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070b](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070b) et seq. and 1087–51 et seq.) for all awards made under such programs during such award years, except nothing in this subsection shall affect the non-Federal share requirement under section 443(c)(3) that applies to private for-profit organizations. “(b) Authority to Reallocate.—Notwithstanding sections 413D, 442, and 488 of the Higher Education Act of 1965 ([20 U.S.C. 1070b–3](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070b-3), 1087–52, and 1095), during a period of a qualifying emergency, an institution may transfer up to 100 percent of the institution’s unexpended allotment under section 442 of such Act to the institution’s allotment under section 413D of such Act, but may not transfer any funds from the institution’s unexpended allotment under section 413D of such Act to the institution’s allotment under section 442 of such Act. “SEC. 3504. USE OF SUPPLEMENTAL EDUCATIONAL OPPORTUNITY GRANTS FOR EMERGENCY AID.“(a) In General.—Notwithstanding section 413B of the Higher Education Act of 1965 ([20 U.S.C. 1070b–1](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070b-1)), an institution of higher education may reserve any amount of an institution’s allocation under subpart 3 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070b](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070b) et seq.) for a fiscal year to award, in such fiscal year, emergency financial aid grants to assist undergraduate or graduate students for unexpected expenses and unmet financial need as the result of a qualifying emergency. “(b) Determinations.—In determining eligibility for and awarding emergency financial aid grants under this section, an institution of higher education may—“(1) waive the amount of need calculation under section 471 of the Higher Education Act of 1965 ([20 U.S.C. 1087kk](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087kk)); “(2) allow for a student affected by a qualifying emergency to receive funds in an amount that is not more than the maximum Federal Pell Grant for the applicable award year; and “(3) utilize a contract with a scholarship-granting organization designated for the sole purpose of accepting applications from or disbursing funds to students enrolled in the institution of higher education, if such scholarship-granting organization disburses the full allocated amount provided to the institution of higher education to the recipients. “(c) Special Rule.—Any emergency financial aid grants to students under this section shall not be treated as other financial assistance for the purposes of section 471 of the Higher Education Act of 1965 ([20 U.S.C. 1087kk](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087kk)). “SEC. 3505. FEDERAL WORK-STUDY DURING A QUALIFYING EMERGENCY.“(a) In General.—In the event of a qualifying emergency, an institution of higher education participating in the program under part C of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087–51](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-51) et seq.) may make payments under such part to affected work-study students, for the period of time (not to exceed one academic year) in which affected students were unable to fulfill the students’ work-study obligation for all or part of such academic year due to such qualifying emergency, as follows:“(1) Payments may be made under such part to affected work-study students in an amount equal to or less than the amount of wages such students would have been paid under such part had the students been able to complete the work obligation necessary to receive work study funds, as a one time grant or as multiple payments. “(2) Payments shall not be made to any student who was not eligible for work study or was not completing the work obligation necessary to receive work study funds under such part prior to the occurrence of the qualifying emergency. “(3) Any payments made to affected work-study students under this subsection shall meet the matching requirements of section 443 of the Higher Education Act of 1965 ([20 U.S.C. 1087–53](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-53)), unless such matching requirements are waived by the Secretary. “(b) Definition of Affected Work-study Student.—In this section, the term ‘affected work-study student’ means a student enrolled at an eligible institution participating in the program under part C of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087–51](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-51) et seq.) who—“(1) received a work-study award under section 443 of the Higher Education Act of 1965 ([20 U.S.C. 1087–53](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-53)) for the academic year during which a qualifying emergency occurred; “(2) earned Federal work-study wages from such eligible institution for such academic year; and “(3) was prevented from fulfilling the student’s work-study obligation for all or part of such academic year due to such qualifying emergency. “SEC. 3506. ADJUSTMENT OF SUBSIDIZED LOAN USAGE LIMITS.“Notwithstanding section 455(q)(3) of the Higher Education Act of 1965 ([20 U.S.C. 1087e(q)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q/3&num=0&edition=prelim)), the Secretary shall exclude from a student’s period of enrollment for purposes of loans made under part D of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.) any semester (or the equivalent) that the student does not complete due to a qualifying emergency, if the Secretary is able to administer such policy in a manner that limits complexity and the burden on the student. “SEC. 3507. EXCLUSION FROM FEDERAL PELL GRANT DURATION LIMIT.“The Secretary shall exclude from a student’s Federal Pell Grant duration limit under section 401(c)(5) of the Higher Education Act of 1965 ([2 U.S.C. 1070a(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1070a/c/5&num=0&edition=prelim)) [probably means [20 U.S.C. 1070a(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/c/5&num=0&edition=prelim)] any semester (or the equivalent) that the student does not complete due to a qualifying emergency if the Secretary is able to administer such policy in a manner that limits complexity and the burden on the student. “SEC. 3508. INSTITUTIONAL REFUNDS AND FEDERAL STUDENT LOAN FLEXIBILITY.“(a) Institutional Waiver.—“(1) In general.—The Secretary shall waive the institutional requirement under section 484B of the Higher Education Act of 1965 ([20 U.S.C. 1091b](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091b)) with respect to the amount of grant or loan assistance (other than assistance received under part C of title IV of such Act [[20 U.S.C. 1087–51](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-51) et seq.]) to be returned under such section if a recipient of assistance under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.) withdraws from the institution of higher education during the payment period or period of enrollment as a result of a qualifying emergency. “(2) Waivers.—The Secretary shall require each institution using a waiver relating to the withdrawal of recipients under this subsection to report the number of such recipients, the amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) associated with each such recipient, and the total amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) for which each institution has not returned assistance under title IV to the Secretary. “(b) Student Waiver.—The Secretary shall waive the amounts that students are required to return under section 484B of the Higher Education Act of 1965 ([20 U.S.C. 1091b](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091b)) with respect to Federal Pell Grants or other grant assistance if the withdrawals on which the returns are based, are withdrawals by students who withdrew from the institution of higher education as a result of a qualifying emergency. “(c) Canceling Loan Obligation.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), the Secretary shall cancel the borrower’s obligation to repay the entire portion of a loan made under part D of title IV of such Act ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.) associated with a payment period for a recipient of such loan who withdraws from the institution of higher education during the payment period as a result of a qualifying emergency. “(d) Approved Leave of Absence.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), for purposes of receiving assistance under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.), an institution of higher education may, as a result of a qualifying emergency, provide a student with an approved leave of absence that does not require the student to return at the same point in the academic program that the student began the leave of absence if the student returns within the same semester (or the equivalent). “SEC. 3509. SATISFACTORY ACADEMIC PROGRESS.“Notwithstanding section 484 of the Higher Education Act of 1965 ([20 U.S.C. 1091](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091)), in determining whether a student is maintaining satisfactory academic progress for purposes of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.), an institution of higher education may, as a result of a qualifying emergency, exclude from the quantitative component of the calculation any attempted credits that were not completed by such student without requiring an appeal by such student. “SEC. 3510. CONTINUING EDUCATION AT AFFECTED FOREIGN INSTITUTIONS.“(a) In General.—Notwithstanding section 481(b) of the Higher Education Act of 1965 ([20 U.S.C. 1088(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/b&num=0&edition=prelim)), with respect to a foreign institution, in the case of a public health emergency, major disaster or emergency, or national emergency declared by the applicable government authorities in the country in which the foreign institution is located, the Secretary may permit any part of an otherwise eligible program to be offered via distance education for purposes of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.) until the end of the covered period applicable to the institution. “(b) Eligibility.—An otherwise eligible program that is offered in whole or in part through distance education by a foreign institution between March 1, 2020, and the date of enactment of this Act [Mar. 27, 2020] shall be deemed eligible for the purposes of part D of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.) until the end of the covered period applicable to the institution. An institution of higher education that uses the authority provided in the previous sentence shall report such use to the Secretary—“(1) for the 2019–2020 award year, not later than June 30, 2020; and “(2) for an award year subsequent to the 2019–2020 award year, not later than 30 days after such use. “(c) Report.—Not later than 180 days after the date of enactment of this Act, and every 180 days thereafter until all covered periods for foreign institutions carrying out a distance education program authorized under this section have ended, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies each foreign institution that carried out a distance education program authorized under this section. “(d) Written Arrangements.—“(1) In general.—Notwithstanding section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](./chapter-028-higher-education-resources-and-student-assistance.md#section-1002)), until the end of the covered period applicable to a foreign institution, the Secretary may allow the foreign institution to enter into a written arrangement with an institution of higher education located in the United States that participates in the Federal Direct Loan Program under part D of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.) for the purpose of allowing a student of the foreign institution who is a borrower of a loan made under such part to take courses from the institution of higher education located in the United States. “(2) Form of arrangements.—“(A) Public or other nonprofit institutions.—A foreign institution that is a public or other nonprofit institution may enter into a written arrangement under paragraph (1) only with an institution of higher education described in section 101 of such Act ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001)). “(B) Other institutions.—A foreign institution that is a graduate medical school, nursing school, or a veterinary school and that is not a public or other nonprofit institution may enter into a written arrangement under paragraph (1) with an institution of higher education described in section 101 or section 102 of such Act ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and 1002). “(3) Report on use.—An institution of higher education that uses the authority described in paragraph (2) shall report such use to the Secretary—“(A) for the 2019–2020 award year, not later than June 30, 2020; and “(B) for an award year subsequent to the 2019–2020 award year, not later than 10 days after such use. “(4) Report from the secretary.—Not later than 180 days after the date of enactment of this Act, and every 180 days thereafter until all covered periods for foreign institutions that entered into written arrangements under paragraph (1) have ended, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies, for each such foreign institution—“(A) the name of the foreign institution; “(B) the name of the institution of higher education located in the United States that has entered into a written arrangement with such foreign institution; and “(C) information regarding the nature of such written arrangement, including which coursework or program requirements are accomplished at each respective institution. “(e) Definition of Covered Period.—“(1) In general.—In this section, the term ‘covered period’, when used with respect to a foreign institution of higher education, means the period—“(A) beginning on the first day of—“(i) a qualifying emergency; or “(ii) a public health emergency, major disaster or emergency, or national emergency declared by the applicable government authorities in the country in which the foreign institution is located; and “(B) ending on the later of—“(i) subject to paragraph (2), the last day of the payment period, for purposes of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.), following the end of any qualifying emergency or any emergency or disaster described in subparagraph (A)(ii) applicable to the foreign institution; or “(ii) June 30, 2022. “(2) Special rule for certain payment periods.—For purposes of subparagraph (B)(i) [probably should be “paragraph (1)(B)(i)”], if the following payment period for an award year ends before June 30 of such award year, the covered period shall be extended until June 30 of such award year. “SEC. 3512. HBCU CAPITAL FINANCING.“(a) Deferment Period.—“(1) In general.—Notwithstanding any provision of title III of the Higher Education Act of 1965 ([20 U.S.C. 1051](./chapter-028-higher-education-resources-and-student-assistance.md#section-1051) et seq.), or any regulation promulgated under such title, the Secretary may grant a deferment, for the duration of a qualifying emergency, to an institution that has received a loan under part D of title III of such Act ([20 U.S.C. 1066](./chapter-028-higher-education-resources-and-student-assistance.md#section-1066) et seq.). “(2) Terms.—During the deferment period granted under this subsection—“(A) the institution shall not be required to pay any periodic installment of principal or interest required under the loan agreement for such loan; and “(B) the Secretary shall make principal and interest payments otherwise due under the loan agreement. “(3) Closing.—At the closing of a loan deferred under this subsection, terms shall be set under which the institution shall be required to repay the Secretary for the payments of principal and interest made by the Secretary during the deferment, on a schedule that begins upon repayment to the lender in full on the loan agreement, except in no case shall repayment be required to begin before the date that is 1 full fiscal year after the date that is the end of the qualifying emergency. “(b) Termination Date.—“(1) In general.—The authority provided under this section to grant a loan deferment under subsection (a) shall terminate on the date on which the qualifying emergency is no longer in effect. “(2) Duration.—Any provision of a loan agreement or insurance agreement modified by the authority under this section shall remain so modified for the duration of the period covered by the loan agreement or insurance agreement. “(c) Report.—Not later than 180 days after the date of enactment of this Act [Mar. 27, 2020], and every 180 days thereafter during the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies each institution that received assistance under this section. “(d) Funding.—There is hereby appropriated, out of any money in the Treasury not otherwise appropriated, $62,000,000 to carry out this section. “SEC. 3513. TEMPORARY RELIEF FOR FEDERAL STUDENT LOAN BORROWERS.“(a) In General.—The Secretary shall suspend all payments due for loans made under part D and part B (that are held by the Department of Education) of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.; 1071 et seq.) through September 30, 2020. “(b) No Accrual of Interest.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), interest shall not accrue on a loan described under subsection (a) for which payment was suspended for the period of the suspension. “(c) Consideration of Payments.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), the Secretary shall deem each month for which a loan payment was suspended under this section as if the borrower of the loan had made a payment for the purpose of any loan forgiveness program or loan rehabilitation program authorized under part D or B of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.; 1071 et seq.) for which the borrower would have otherwise qualified. “(d) Reporting to Consumer Reporting Agencies.—During the period in which the Secretary suspends payments on a loan under subsection (a), the Secretary shall ensure that, for the purpose of reporting information about the loan to a consumer reporting agency, any payment that has been suspended is treated as if it were a regularly scheduled payment made by a borrower. “(e) Suspending Involuntary Collection.—During the period in which the Secretary suspends payments on a loan under subsection (a), the Secretary shall suspend all involuntary collection related to the loan, including—“(1) a wage garnishment authorized under section 488A of the Higher Education Act of 1965 ([20 U.S.C. 1095a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1095a)) or [section 3720D of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3720D&num=0&edition=prelim), United States Code; “(2) a reduction of tax refund by amount of debt authorized under [section 3720A of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3720A&num=0&edition=prelim), United States Code, or section 6402(d) of the Internal Revenue Code of 1986; “(3) a reduction of any other Federal benefit payment by administrative offset authorized under [section 3716 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3716&num=0&edition=prelim), United States Code (including a benefit payment due to an individual under the Social Security Act [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.] or any other provision described in subsection (c)(3)(A)(i) of such section); and “(4) any other involuntary collection activity by the Secretary. “(f) Waivers.—In carrying out this section, the Secretary may waive the application of—“(1) subchapter I of chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’); “(2) the master calendar requirements under section 482 of the Higher Education Act of 1965 ([20 U.S.C. 1089](./chapter-028-higher-education-resources-and-student-assistance.md#section-1089)); “(3) negotiated rulemaking under section 492 of the Higher Education Act of 1965 ([20 U.S.C. 1098a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098a)); and “(4) the requirement to publish the notices related to the system of records of the agency before implementation required under paragraphs (4) and (11) of [section 552a(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/e&num=0&edition=prelim), United States Code (commonly known as the ‘Privacy Act of 1974’), except that the notices shall be published not later than 180 days after the date of enactment of this Act [Mar. 27, 2020]. “(g) Notice to Borrowers and Transition Period.—To inform borrowers of the actions taken in accordance with this section and ensure an effective transition, the Secretary shall—“(1) not later than 15 days after the date of enactment of this Act, notify borrowers—“(A) of the actions taken in accordance with subsections (a) and (b) for whom payments have been suspended and interest waived; “(B) of the actions taken in accordance with subsection (e) for whom collections have been suspended; “(C) of the option to continue making payments toward principal; and “(D) that the program under this section is a temporary program. “(2) beginning on August 1, 2020, carry out a program to provide not less than 6 notices by postal mail, telephone, or electronic communication to borrowers indicating—“(A) when the borrower’s normal payment obligations will resume; and “(B) that the borrower has the option to enroll in income-driven repayment, including a brief description of such options. “SEC. 3517. WAIVER AUTHORITY AND REPORTING REQUIREMENT FOR INSTITUTIONAL AID.“(a) Waiver Authority.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20] U.S.C. 1001 et seq.), unless enacted with specific reference to this section, for any institution of higher education that was receiving assistance under title III, title V, or subpart 4 of part A of title VII of such Act ([20 U.S.C. 1051](./chapter-028-higher-education-resources-and-student-assistance.md#section-1051) et seq.; 1101 et seq.; 1136a et seq.) at the time of a qualifying emergency, the Secretary may, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency—“(1) waive—“(A) the eligibility data requirements set forth in section 391(d) and 521(e) of the Higher Education Act of 1965 ([20 U.S.C. 1068(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1068/d&num=0&edition=prelim); 1103(e)); “(B) the wait-out period set forth in section 313(d) of the Higher Education Act of 1965 ([20 U.S.C. 1059(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059/d&num=0&edition=prelim)); “(C) the allotment requirements under paragraphs (2) and (3) of subsection [sic] 318(e) of the Higher Education Act of 1965 ([20 U.S.C. 1059e(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059e/e&num=0&edition=prelim)), and the reference to ‘the academic year preceding the beginning of that fiscal year’ under such section 318(e)(1); “(D) the allotment requirements under subsections (b), (c), and (g) of section 324 of the Higher Education Act of 1965 ([20 U.S.C. 1063](./chapter-028-higher-education-resources-and-student-assistance.md#section-1063)), the reference to ‘the end of the school year preceding the beginning of that fiscal year’ under such section 324(a), and the reference to ‘the academic year preceding such fiscal year’ under such section 324(h); “(E) subparagraphs (A), (C), (D), and (E) of section 326(f)(3) of the Higher Education Act of 1965 ([20 U.S.C. 1063b(f)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1063b/f/3&num=0&edition=prelim)), and references to ‘previous year’ under such section 326(f)(3)(B); “(F) subparagraphs (A), (C), (D), and (E) of section 723(f)(3) and subparagraphs (A), (C), (D), and (E) of section 724(f)(3) of the Higher Education Act of 1965 ([20 U.S.C. 1136a(f)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1136a/f/3&num=0&edition=prelim); 1136b(f)(3)), and references to ‘previous academic year’ under subparagraph (B) of such sections 723(f)(3) and 724(f)(3); and “(G) the allotment restriction set forth in section 318(d)(4) and section 323(c)(2) of the Higher Education Act of 1965 ([20 U.S.C. 1059e(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059e/d/4&num=0&edition=prelim); 1062(c)(2)); and “(2) waive or modify any statutory or regulatory provision to ensure that institutions that were receiving assistance under title III, title V, or subpart 4 of part A of title VII of such Act ([20 U.S.C. 1051](./chapter-028-higher-education-resources-and-student-assistance.md#section-1051) et seq.; 1101 et seq.; 1136a et seq.) at the time of a qualifying emergency are not adversely affected by any formula calculation for fiscal year 2020 and for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, as necessary. “(b) Use of Unexpended Funds.—Any funds paid to an institution under title III, title V, or subpart 4 of part A of title VII of the Higher Education Act of 1965 ([20 U.S.C. 1051](./chapter-028-higher-education-resources-and-student-assistance.md#section-1051) et seq.; 1101 et seq.; 1136a et seq.) and not expended or used for the purposes for which the funds were paid to the institution during the 5-year period following the date on which the funds were first paid to the institution, may be carried over and expended during the succeeding 5-year period. “(c) Report.—Not later than 180 days after the date of enactment of this Act [Mar. 27, 2020], and every 180 days thereafter for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies each institution that received a waiver or modification under this section. “SEC. 3518. AUTHORIZED USES AND OTHER MODIFICATIONS FOR GRANTS.“(a) In General.—The Secretary is authorized to modify the required and allowable uses of funds for grants awarded under part A or B of title III, chapter I or II of subpart 2 of part A of title IV, title V, or subpart 4 of part A of title VII of the Higher Education Act of 1965 ([20 U.S.C. 1057](./chapter-028-higher-education-resources-and-student-assistance.md#section-1057) et seq.; 1060 et seq.; 1070a–11 et seq.; 1070a–21 et seq.; 1101 et seq.; 1136a et seq.) to an institution of higher education or other grant recipient (not including individual recipients of Federal student financial assistance), at the request of an institution of higher education or other recipient of a grant (not including individual recipients of Federal student financial assistance) as a result of a qualifying emergency, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency. “(b) Matching Requirement Modifications.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), the Secretary is authorized to modify any Federal share or other financial matching requirement for a grant awarded on a competitive basis or a grant awarded under part A or B of title III or subpart 4 of part A of title VII of the Higher Education Act of 1965 ([20 U.S.C. 1057](./chapter-028-higher-education-resources-and-student-assistance.md#section-1057) et seq.; 1060 et seq.; 1136a et seq.) at the request of an institution of higher education or other grant recipient as a result of a qualifying emergency, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency. “(c) Reports.—Not later than 180 days after the date of enactment of this Act [Mar. 27, 2020], and every 180 days thereafter for the duration of the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies each institution of higher education or other grant recipient that received a modification under this section. “SEC. 3519. SERVICE OBLIGATIONS FOR TEACHERS.“(a) Teach Grants.—Notwithstanding any provision of subpart 9 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070g](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g) et seq.), the Secretary—“(1) may modify the categories of extenuating circumstances under which a recipient of a grant under subpart 9 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070g](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g) et seq.) who is unable to fulfill all or part of the recipient’s service obligation may be excused from fulfilling that portion of the service obligation; “(2) shall consider teaching service that, as a result of a qualifying emergency, is part-time or temporarily interrupted, to be full-time service and to fulfill the service obligations under section 420N of such Act; and “(3) shall extend the service obligation window (as described in section 420N(b)(1)(A) of such Act) for a period of not more than 3 years, in addition to any extensions provided in accordance with subpart 9 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070g](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g) et seq.), in the case of a grant recipient whose service obligation window begins during, or includes—“(A) the qualifying emergency period; or “(B) a period of recession or economic downturn related to the qualifying emergency period, as determined by the Secretary in consultation with the Secretary of Labor. “(b) Teacher Loan Forgiveness.—Notwithstanding section 428J or 460 of the Higher Education Act of 1965 ([20 U.S.C. 1078–10](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-10); 1087j), the Secretary shall waive the requirements under such sections that years of teaching service shall be consecutive if—“(1) the teaching service of a borrower is temporarily interrupted due to a qualifying emergency; and “(2) after the temporary interruption due to a qualifying emergency, the borrower resumes teaching service and completes a total of 5 years of qualifying teaching service under such sections, including qualifying teaching service performed before, during, and after such qualifying emergency. “(c) Federal Perkins Loans.—Notwithstanding section 465 of the Higher Education Act of 1965 ([20 U.S.C. 1087ee](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087ee)), the Secretary shall waive the requirements of such section in regard to full-time service and shall consider an incomplete year of service of a borrower as fulfilling the requirement for a complete year of service under such section, if the service was interrupted due to a qualifying emergency.”
+Pub. L. 116–136, div. A, title III, §§ 3502–3510, 3512, 3513, 3517–3519, Mar. 27, 2020, 134 Stat. 395–399, 403, 404, 408, 409, as amended by Pub. L. 116–260, div. FF, title I, § 101(a), Dec. 27, 2020, 134 Stat. 3082; Pub. L. 117–49, § 4(a), (b), Oct. 13, 2021, 135 Stat. 404, 405; Pub. L. 117–103, div. HH, title I, § 101, Mar. 15, 2022, 136 Stat. 1112, provided that: “SEC. 3502. DEFINITIONS.“(a) Definitions.—In this subtitle [subtitle B (§§ 3501–3519) of title III of div. A of Pub. L. 116–136, see Short Title of 2020 Amendment note set out above]:“(1) Coronavirus.—The term ‘coronavirus’ has the meaning given the term in section 506 of the Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (Public Law 116–123 [134 Stat. 155]). “(2) Foreign institution.—The term ‘foreign institution’ means an institution of higher education located outside the United States that is described in paragraphs (1)(C) and (2) of section 102(a) of the Higher Education Act of 1965 ([20 U.S.C. 1002(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002/a&num=0&edition=prelim)). “(3) Institution of higher education.—The term ‘institution of higher education’ has the meaning of the term under section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](./chapter-028-higher-education-resources-and-student-assistance.md#section-1002)). “(4) Qualifying emergency.—The term ‘qualifying emergency’ means—“(A) a public health emergency related to the coronavirus declared by the Secretary of Health and Human Services pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)); “(B) an event related to the coronavirus for which the President declared a major disaster or an emergency under section 401 or 501, respectively, of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim) and 5191); or “(C) a national emergency related to the coronavirus declared by the President under section 201 of the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) [[50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim)]. “(5) Secretary.—The term ‘Secretary’ means the Secretary of Education. “SEC. 3503. CAMPUS-BASED AID WAIVERS.“(a) Waiver of Non-federal Share Requirement.—Notwithstanding sections 413C(a)(2) and 443(b)(5) of the Higher Education Act of 1965 ([20 U.S.C. 1070b–2(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070b–2/a/2&num=0&edition=prelim) and 1087–53(b)(5)), with respect to funds made available for award years 2019–2020 and 2020–2021, the Secretary shall waive the requirement that a participating institution of higher education provide a non-Federal share to match Federal funds provided to the institution for the programs authorized pursuant to subpart 3 of part A and part C of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070b](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070b) et seq. and 1087–51 et seq.) for all awards made under such programs during such award years, except nothing in this subsection shall affect the non-Federal share requirement under section 443(c)(3) that applies to private for-profit organizations. “(b) Authority to Reallocate.—Notwithstanding sections 413D, 442, and 488 of the Higher Education Act of 1965 ([20 U.S.C. 1070b–3](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070b-3), 1087–52, and 1095), during a period of a qualifying emergency, an institution may transfer up to 100 percent of the institution’s unexpended allotment under section 442 of such Act to the institution’s allotment under section 413D of such Act, but may not transfer any funds from the institution’s unexpended allotment under section 413D of such Act to the institution’s allotment under section 442 of such Act. “SEC. 3504. USE OF SUPPLEMENTAL EDUCATIONAL OPPORTUNITY GRANTS FOR EMERGENCY AID.“(a) In General.—Notwithstanding section 413B of the Higher Education Act of 1965 ([20 U.S.C. 1070b–1](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070b-1)), an institution of higher education may reserve any amount of an institution’s allocation under subpart 3 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070b](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070b) et seq.) for a fiscal year to award, in such fiscal year, emergency financial aid grants to assist undergraduate or graduate students for unexpected expenses and unmet financial need as the result of a qualifying emergency. “(b) Determinations.—In determining eligibility for and awarding emergency financial aid grants under this section, an institution of higher education may—“(1) waive the amount of need calculation under section 471 of the Higher Education Act of 1965 ([20 U.S.C. 1087kk](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087kk)); “(2) allow for a student affected by a qualifying emergency to receive funds in an amount that is not more than the maximum Federal Pell Grant for the applicable award year; and “(3) utilize a contract with a scholarship-granting organization designated for the sole purpose of accepting applications from or disbursing funds to students enrolled in the institution of higher education, if such scholarship-granting organization disburses the full allocated amount provided to the institution of higher education to the recipients. “(c) Special Rule.—Any emergency financial aid grants to students under this section shall not be treated as other financial assistance for the purposes of section 471 of the Higher Education Act of 1965 ([20 U.S.C. 1087kk](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087kk)). “SEC. 3505. FEDERAL WORK-STUDY DURING A QUALIFYING EMERGENCY.“(a) In General.—In the event of a qualifying emergency, an institution of higher education participating in the program under part C of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087–51](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-51) et seq.) may make payments under such part to affected work-study students, for the period of time (not to exceed one academic year) in which affected students were unable to fulfill the students’ work-study obligation for all or part of such academic year due to such qualifying emergency, as follows:“(1) Payments may be made under such part to affected work-study students in an amount equal to or less than the amount of wages such students would have been paid under such part had the students been able to complete the work obligation necessary to receive work study funds, as a one time grant or as multiple payments. “(2) Payments shall not be made to any student who was not eligible for work study or was not completing the work obligation necessary to receive work study funds under such part prior to the occurrence of the qualifying emergency. “(3) Any payments made to affected work-study students under this subsection shall meet the matching requirements of section 443 of the Higher Education Act of 1965 ([20 U.S.C. 1087–53](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-53)), unless such matching requirements are waived by the Secretary. “(b) Definition of Affected Work-study Student.—In this section, the term ‘affected work-study student’ means a student enrolled at an eligible institution participating in the program under part C of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087–51](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-51) et seq.) who—“(1) received a work-study award under section 443 of the Higher Education Act of 1965 ([20 U.S.C. 1087–53](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-53)) for the academic year during which a qualifying emergency occurred; “(2) earned Federal work-study wages from such eligible institution for such academic year; and “(3) was prevented from fulfilling the student’s work-study obligation for all or part of such academic year due to such qualifying emergency. “SEC. 3506. ADJUSTMENT OF SUBSIDIZED LOAN USAGE LIMITS.“Notwithstanding section 455(q)(3) of the Higher Education Act of 1965 ([20 U.S.C. 1087e(q)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q/3&num=0&edition=prelim)), the Secretary shall exclude from a student’s period of enrollment for purposes of loans made under part D of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.) any semester (or the equivalent) that the student does not complete due to a qualifying emergency, if the Secretary is able to administer such policy in a manner that limits complexity and the burden on the student. “SEC. 3507. EXCLUSION FROM FEDERAL PELL GRANT DURATION LIMIT.“The Secretary shall exclude from a student’s Federal Pell Grant duration limit under section 401(c)(5) of the Higher Education Act of 1965 ([2 U.S.C. 1070a(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1070a/c/5&num=0&edition=prelim)) [probably means [20 U.S.C. 1070a(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/c/5&num=0&edition=prelim)] any semester (or the equivalent) that the student does not complete due to a qualifying emergency if the Secretary is able to administer such policy in a manner that limits complexity and the burden on the student. “SEC. 3508. INSTITUTIONAL REFUNDS AND FEDERAL STUDENT LOAN FLEXIBILITY.“(a) Institutional Waiver.—“(1) In general.—The Secretary shall waive the institutional requirement under section 484B of the Higher Education Act of 1965 ([20 U.S.C. 1091b](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091b)) with respect to the amount of grant or loan assistance (other than assistance received under part C of title IV of such Act [[20 U.S.C. 1087–51](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-51) et seq.]) to be returned under such section if a recipient of assistance under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.) withdraws from the institution of higher education during the payment period or period of enrollment as a result of a qualifying emergency. “(2) Waivers.—The Secretary shall require each institution using a waiver relating to the withdrawal of recipients under this subsection to report the number of such recipients, the amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) associated with each such recipient, and the total amount of grant or loan assistance (other than assistance received under part C of title IV of such Act) for which each institution has not returned assistance under title IV to the Secretary. “(b) Student Waiver.—The Secretary shall waive the amounts that students are required to return under section 484B of the Higher Education Act of 1965 ([20 U.S.C. 1091b](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091b)) with respect to Federal Pell Grants or other grant assistance if the withdrawals on which the returns are based, are withdrawals by students who withdrew from the institution of higher education as a result of a qualifying emergency. “(c) Canceling Loan Obligation.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), the Secretary shall cancel the borrower’s obligation to repay the entire portion of a loan made under part D of title IV of such Act ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.) associated with a payment period for a recipient of such loan who withdraws from the institution of higher education during the payment period as a result of a qualifying emergency. “(d) Approved Leave of Absence.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), for purposes of receiving assistance under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.), an institution of higher education may, as a result of a qualifying emergency, provide a student with an approved leave of absence that does not require the student to return at the same point in the academic program that the student began the leave of absence if the student returns within the same semester (or the equivalent). “SEC. 3509. SATISFACTORY ACADEMIC PROGRESS.“Notwithstanding section 484 of the Higher Education Act of 1965 ([20 U.S.C. 1091](./chapter-028-higher-education-resources-and-student-assistance.md#section-1091)), in determining whether a student is maintaining satisfactory academic progress for purposes of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.), an institution of higher education may, as a result of a qualifying emergency, exclude from the quantitative component of the calculation any attempted credits that were not completed by such student without requiring an appeal by such student. “SEC. 3510. CONTINUING EDUCATION AT AFFECTED FOREIGN INSTITUTIONS.“(a) In General.—Notwithstanding section 481(b) of the Higher Education Act of 1965 ([20 U.S.C. 1088(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1088/b&num=0&edition=prelim)), with respect to a foreign institution, in the case of a public health emergency, major disaster or emergency, or national emergency declared by the applicable government authorities in the country in which the foreign institution is located, the Secretary may permit any part of an otherwise eligible program to be offered via distance education for purposes of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.) until the end of the covered period applicable to the institution. “(b) Eligibility.—An otherwise eligible program that is offered in whole or in part through distance education by a foreign institution between March 1, 2020, and the date of enactment of this Act [Mar. 27, 2020] shall be deemed eligible for the purposes of part D of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.) until the end of the covered period applicable to the institution. An institution of higher education that uses the authority provided in the previous sentence shall report such use to the Secretary—“(1) for the 2019–2020 award year, not later than June 30, 2020; and “(2) for an award year subsequent to the 2019–2020 award year, not later than 30 days after such use. “(c) Report.—Not later than 180 days after the date of enactment of this Act, and every 180 days thereafter until all covered periods for foreign institutions carrying out a distance education program authorized under this section have ended, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies each foreign institution that carried out a distance education program authorized under this section. “(d) Written Arrangements.—“(1) In general.—Notwithstanding section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](./chapter-028-higher-education-resources-and-student-assistance.md#section-1002)), until the end of the covered period applicable to a foreign institution, the Secretary may allow the foreign institution to enter into a written arrangement with an institution of higher education located in the United States that participates in the Federal Direct Loan Program under part D of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.) for the purpose of allowing a student of the foreign institution who is a borrower of a loan made under such part to take courses from the institution of higher education located in the United States. “(2) Form of arrangements.—“(A) Public or other nonprofit institutions.—A foreign institution that is a public or other nonprofit institution may enter into a written arrangement under paragraph (1) only with an institution of higher education described in section 101 of such Act ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001)). “(B) Other institutions.—A foreign institution that is a graduate medical school, nursing school, or a veterinary school and that is not a public or other nonprofit institution may enter into a written arrangement under paragraph (1) with an institution of higher education described in section 101 or section 102 of such Act ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and 1002). “(3) Report on use.—An institution of higher education that uses the authority described in paragraph (2) shall report such use to the Secretary—“(A) for the 2019–2020 award year, not later than June 30, 2020; and “(B) for an award year subsequent to the 2019–2020 award year, not later than 10 days after such use. “(4) Report from the secretary.—Not later than 180 days after the date of enactment of this Act, and every 180 days thereafter until all covered periods for foreign institutions that entered into written arrangements under paragraph (1) have ended, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies, for each such foreign institution—“(A) the name of the foreign institution; “(B) the name of the institution of higher education located in the United States that has entered into a written arrangement with such foreign institution; and “(C) information regarding the nature of such written arrangement, including which coursework or program requirements are accomplished at each respective institution. “(e) Definition of Covered Period.—“(1) In general.—In this section, the term ‘covered period’, when used with respect to a foreign institution of higher education, means the period—“(A) beginning on the first day of—“(i) a qualifying emergency; or “(ii) a public health emergency, major disaster or emergency, or national emergency declared by the applicable government authorities in the country in which the foreign institution is located; and “(B) ending on the later of—“(i) subject to paragraph (2), the last day of the payment period, for purposes of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070) et seq.), following the end of any qualifying emergency or any emergency or disaster described in subparagraph (A)(ii) applicable to the foreign institution; or “(ii) June 30, 2023. “(2) Special rule for certain payment periods.—For purposes of paragraph (1)(B)(i), if the following payment period for an award year ends before June 30 of such award year, the covered period shall be extended until June 30 of such award year. “SEC. 3512. HBCU CAPITAL FINANCING.“(a) Deferment Period.—“(1) In general.—Notwithstanding any provision of title III of the Higher Education Act of 1965 ([20 U.S.C. 1051](./chapter-028-higher-education-resources-and-student-assistance.md#section-1051) et seq.), or any regulation promulgated under such title, the Secretary may grant a deferment, for the duration of a qualifying emergency, to an institution that has received a loan under part D of title III of such Act ([20 U.S.C. 1066](./chapter-028-higher-education-resources-and-student-assistance.md#section-1066) et seq.). “(2) Terms.—During the deferment period granted under this subsection—“(A) the institution shall not be required to pay any periodic installment of principal or interest required under the loan agreement for such loan; and “(B) the Secretary shall make principal and interest payments otherwise due under the loan agreement. “(3) Closing.—At the closing of a loan deferred under this subsection, terms shall be set under which the institution shall be required to repay the Secretary for the payments of principal and interest made by the Secretary during the deferment, on a schedule that begins upon repayment to the lender in full on the loan agreement, except in no case shall repayment be required to begin before the date that is 1 full fiscal year after the date that is the end of the qualifying emergency. “(b) Termination Date.—“(1) In general.—The authority provided under this section to grant a loan deferment under subsection (a) shall terminate on the date on which the qualifying emergency is no longer in effect. “(2) Duration.—Any provision of a loan agreement or insurance agreement modified by the authority under this section shall remain so modified for the duration of the period covered by the loan agreement or insurance agreement. “(c) Report.—Not later than 180 days after the date of enactment of this Act [Mar. 27, 2020], and every 180 days thereafter during the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies each institution that received assistance under this section. “(d) Funding.—There is hereby appropriated, out of any money in the Treasury not otherwise appropriated, $62,000,000 to carry out this section. “SEC. 3513. TEMPORARY RELIEF FOR FEDERAL STUDENT LOAN BORROWERS.“(a) In General.—The Secretary shall suspend all payments due for loans made under part D and part B (that are held by the Department of Education) of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.; 1071 et seq.) through September 30, 2020. “(b) No Accrual of Interest.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), interest shall not accrue on a loan described under subsection (a) for which payment was suspended for the period of the suspension. “(c) Consideration of Payments.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), the Secretary shall deem each month for which a loan payment was suspended under this section as if the borrower of the loan had made a payment for the purpose of any loan forgiveness program or loan rehabilitation program authorized under part D or B of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1087a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087a) et seq.; 1071 et seq.) for which the borrower would have otherwise qualified. “(d) Reporting to Consumer Reporting Agencies.—During the period in which the Secretary suspends payments on a loan under subsection (a), the Secretary shall ensure that, for the purpose of reporting information about the loan to a consumer reporting agency, any payment that has been suspended is treated as if it were a regularly scheduled payment made by a borrower. “(e) Suspending Involuntary Collection.—During the period in which the Secretary suspends payments on a loan under subsection (a), the Secretary shall suspend all involuntary collection related to the loan, including—“(1) a wage garnishment authorized under section 488A of the Higher Education Act of 1965 ([20 U.S.C. 1095a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1095a)) or [section 3720D of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3720D&num=0&edition=prelim), United States Code; “(2) a reduction of tax refund by amount of debt authorized under [section 3720A of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3720A&num=0&edition=prelim), United States Code, or section 6402(d) of the Internal Revenue Code of 1986; “(3) a reduction of any other Federal benefit payment by administrative offset authorized under [section 3716 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3716&num=0&edition=prelim), United States Code (including a benefit payment due to an individual under the Social Security Act [[42 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section301&num=0&edition=prelim) et seq.] or any other provision described in subsection (c)(3)(A)(i) of such section); and “(4) any other involuntary collection activity by the Secretary. “(f) Waivers.—In carrying out this section, the Secretary may waive the application of—“(1) subchapter I of chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’); “(2) the master calendar requirements under section 482 of the Higher Education Act of 1965 ([20 U.S.C. 1089](./chapter-028-higher-education-resources-and-student-assistance.md#section-1089)); “(3) negotiated rulemaking under section 492 of the Higher Education Act of 1965 ([20 U.S.C. 1098a](./chapter-028-higher-education-resources-and-student-assistance.md#section-1098a)); and “(4) the requirement to publish the notices related to the system of records of the agency before implementation required under paragraphs (4) and (11) of [section 552a(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/e&num=0&edition=prelim), United States Code (commonly known as the ‘Privacy Act of 1974’), except that the notices shall be published not later than 180 days after the date of enactment of this Act [Mar. 27, 2020]. “(g) Notice to Borrowers and Transition Period.—To inform borrowers of the actions taken in accordance with this section and ensure an effective transition, the Secretary shall—“(1) not later than 15 days after the date of enactment of this Act, notify borrowers—“(A) of the actions taken in accordance with subsections (a) and (b) for whom payments have been suspended and interest waived; “(B) of the actions taken in accordance with subsection (e) for whom collections have been suspended; “(C) of the option to continue making payments toward principal; and “(D) that the program under this section is a temporary program. “(2) beginning on August 1, 2020, carry out a program to provide not less than 6 notices by postal mail, telephone, or electronic communication to borrowers indicating—“(A) when the borrower’s normal payment obligations will resume; and “(B) that the borrower has the option to enroll in income-driven repayment, including a brief description of such options. “SEC. 3517. WAIVER AUTHORITY AND REPORTING REQUIREMENT FOR INSTITUTIONAL AID.“(a) Waiver Authority.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20] U.S.C. 1001 et seq.), unless enacted with specific reference to this section, for any institution of higher education that was receiving assistance under title III, title V, or subpart 4 of part A of title VII of such Act ([20 U.S.C. 1051](./chapter-028-higher-education-resources-and-student-assistance.md#section-1051) et seq.; 1101 et seq.; 1136a et seq.) at the time of a qualifying emergency, the Secretary may, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency—“(1) waive—“(A) the eligibility data requirements set forth in section 391(d) and 521(e) of the Higher Education Act of 1965 ([20 U.S.C. 1068(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1068/d&num=0&edition=prelim); 1103(e)); “(B) the wait-out period set forth in section 313(d) of the Higher Education Act of 1965 ([20 U.S.C. 1059(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059/d&num=0&edition=prelim)); “(C) the allotment requirements under paragraphs (2) and (3) of subsection [sic] 318(e) of the Higher Education Act of 1965 ([20 U.S.C. 1059e(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059e/e&num=0&edition=prelim)), and the reference to ‘the academic year preceding the beginning of that fiscal year’ under such section 318(e)(1); “(D) the allotment requirements under subsections (b), (c), and (g) of section 324 of the Higher Education Act of 1965 ([20 U.S.C. 1063](./chapter-028-higher-education-resources-and-student-assistance.md#section-1063)), the reference to ‘the end of the school year preceding the beginning of that fiscal year’ under such section 324(a), and the reference to ‘the academic year preceding such fiscal year’ under such section 324(h); “(E) subparagraphs (A), (C), (D), and (E) of section 326(f)(3) of the Higher Education Act of 1965 ([20 U.S.C. 1063b(f)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1063b/f/3&num=0&edition=prelim)), and references to ‘previous year’ under such section 326(f)(3)(B); “(F) subparagraphs (A), (C), (D), and (E) of section 723(f)(3) and subparagraphs (A), (C), (D), and (E) of section 724(f)(3) of the Higher Education Act of 1965 ([20 U.S.C. 1136a(f)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1136a/f/3&num=0&edition=prelim); 1136b(f)(3)), and references to ‘previous academic year’ under subparagraph (B) of such sections 723(f)(3) and 724(f)(3); and “(G) the allotment restriction set forth in section 318(d)(4) and section 323(c)(2) of the Higher Education Act of 1965 ([20 U.S.C. 1059e(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059e/d/4&num=0&edition=prelim); 1062(c)(2)); and “(2) waive or modify any statutory or regulatory provision to ensure that institutions that were receiving assistance under title III, title V, or subpart 4 of part A of title VII of such Act ([20 U.S.C. 1051](./chapter-028-higher-education-resources-and-student-assistance.md#section-1051) et seq.; 1101 et seq.; 1136a et seq.) at the time of a qualifying emergency are not adversely affected by any formula calculation for fiscal year 2020 and for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, as necessary. “(b) Use of Unexpended Funds.—Any funds paid to an institution under title III, title V, or subpart 4 of part A of title VII of the Higher Education Act of 1965 ([20 U.S.C. 1051](./chapter-028-higher-education-resources-and-student-assistance.md#section-1051) et seq.; 1101 et seq.; 1136a et seq.) and not expended or used for the purposes for which the funds were paid to the institution during the 5-year period following the date on which the funds were first paid to the institution, may be carried over and expended during the succeeding 5-year period. “(c) Report.—Not later than 180 days after the date of enactment of this Act [Mar. 27, 2020], and every 180 days thereafter for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies each institution that received a waiver or modification under this section. “SEC. 3518. AUTHORIZED USES AND OTHER MODIFICATIONS FOR GRANTS.“(a) In General.—The Secretary is authorized to modify the required and allowable uses of funds for grants awarded under part A or B of title III, chapter I or II of subpart 2 of part A of title IV, title V, or subpart 4 of part A of title VII of the Higher Education Act of 1965 ([20 U.S.C. 1057](./chapter-028-higher-education-resources-and-student-assistance.md#section-1057) et seq.; 1060 et seq.; 1070a–11 et seq.; 1070a–21 et seq.; 1101 et seq.; 1136a et seq.) to an institution of higher education or other grant recipient (not including individual recipients of Federal student financial assistance), at the request of an institution of higher education or other recipient of a grant (not including individual recipients of Federal student financial assistance) as a result of a qualifying emergency, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency. “(b) Matching Requirement Modifications.—Notwithstanding any other provision of the Higher Education Act of 1965 ([20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) et seq.), the Secretary is authorized to modify any Federal share or other financial matching requirement for a grant awarded on a competitive basis or a grant awarded under part A or B of title III or subpart 4 of part A of title VII of the Higher Education Act of 1965 ([20 U.S.C. 1057](./chapter-028-higher-education-resources-and-student-assistance.md#section-1057) et seq.; 1060 et seq.; 1136a et seq.) at the request of an institution of higher education or other grant recipient as a result of a qualifying emergency, for the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency. “(c) Reports.—Not later than 180 days after the date of enactment of this Act [Mar. 27, 2020], and every 180 days thereafter for the duration of the period beginning on the first day of the qualifying emergency and ending on September 30 of the fiscal year following the end of the qualifying emergency, the Secretary shall submit to the authorizing committees (as defined in section 103 of the Higher Education Act of 1965 ([20 U.S.C. 1003](./chapter-028-higher-education-resources-and-student-assistance.md#section-1003))) a report that identifies each institution of higher education or other grant recipient that received a modification under this section. “SEC. 3519. SERVICE OBLIGATIONS FOR TEACHERS.“(a) Teach Grants.—Notwithstanding any provision of subpart 9 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070g](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g) et seq.), the Secretary—“(1) may modify the categories of extenuating circumstances under which a recipient of a grant under subpart 9 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070g](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g) et seq.) who is unable to fulfill all or part of the recipient’s service obligation may be excused from fulfilling that portion of the service obligation; “(2) shall consider teaching service that, as a result of a qualifying emergency, is part-time or temporarily interrupted, to be full-time service and to fulfill the service obligations under section 420N of such Act; and “(3) shall extend the service obligation window (as described in section 420N(b)(1)(A) of such Act) for a period of not more than 3 years, in addition to any extensions provided in accordance with subpart 9 of part A of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070g](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070g) et seq.), in the case of a grant recipient whose service obligation window begins during, or includes—“(A) the qualifying emergency period; or “(B) a period of recession or economic downturn related to the qualifying emergency period, as determined by the Secretary in consultation with the Secretary of Labor. “(b) Teacher Loan Forgiveness.—Notwithstanding section 428J or 460 of the Higher Education Act of 1965 ([20 U.S.C. 1078–10](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-10); 1087j), the Secretary shall waive the requirements under such sections that years of teaching service shall be consecutive if—“(1) the teaching service of a borrower is temporarily interrupted due to a qualifying emergency; and “(2) after the temporary interruption due to a qualifying emergency, the borrower resumes teaching service and completes a total of 5 years of qualifying teaching service under such sections, including qualifying teaching service performed before, during, and after such qualifying emergency. “(c) Federal Perkins Loans.—Notwithstanding section 465 of the Higher Education Act of 1965 ([20 U.S.C. 1087ee](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087ee)), the Secretary shall waive the requirements of such section in regard to full-time service and shall consider an incomplete year of service of a borrower as fulfilling the requirement for a complete year of service under such section, if the service was interrupted due to a qualifying emergency.”
 
 [Pub. L. 117–49, § 4(c), Oct. 13, 2021, 135 Stat. 405, provided that: “The amendments made by this section [amending section 3519 of Pub. L. 116–136, set out above] shall take effect as if included in the enactment of the CARES Act (Public Law 116–136).” ]
 
@@ -318,7 +323,7 @@ The financial burden of higher education on students and their families is also 
 
 The Federal Government can take meaningful steps to address these problems. Selecting an institution and course of study are important decisions for prospective students and significantly affect long-term earnings. Institutions should be transparent about the average earnings and loan repayment rates of former students who received Federal student aid. Additionally, the Federal Government should make this information readily accessible to the public and to prospective students and their families, in particular.
 
-This order will promote greater access to critical information regarding the prices and outcomes of postsecondary education, thereby furthering the goals of the National Council for the American Worker established by Executive Order 13845 of July 19, 2018 (Establishing the President’s National Council for the American Worker) [[29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) note]. Increased information disclosure will help ensure that individuals make educational choices suited to their needs, interests, and circumstances. Access to this information will also increase institutional accountability and encourage institutions to take into account likely future earnings when establishing the cost of their educational programs.
+This order will promote greater access to critical information regarding the prices and outcomes of postsecondary education, thereby furthering the goals of the National Council for the American Worker established by Executive Order 13845 of July 19, 2018 (Establishing the President’s National Council for the American Worker) [former [29 U.S.C. 3101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) note]. Increased information disclosure will help ensure that individuals make educational choices suited to their needs, interests, and circumstances. Access to this information will also increase institutional accountability and encourage institutions to take into account likely future earnings when establishing the cost of their educational programs.
 
 Sec. 2. Policy. It is the policy of the Federal Government to:
 
@@ -1031,6 +1036,9 @@ Pub. L. 115–141 substituted “2018” for “2017”.
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–315, title I, § 106(c), Aug. 14, 2008, 122 Stat. 3093, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2009.”
+
+#### Termination of Committee
+Pub. L. 117–103, div. H, title III, § 305, Mar. 15, 2022, 136 Stat. 484, provided that: “Section 114(f) of the HEA [Higher Education Act of 1965] ([20 U.S.C. 1011c(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1011c/f&num=0&edition=prelim)) shall be applied by substituting ‘2022’ for ‘2021’.”
 
 #### Transition
 Pub. L. 110–315, title I, § 106(b), Aug. 14, 2008, 122 Stat. 3093, provided that: “Notwithstanding section 114 of the Higher Education Act of 1965 ([20 U.S.C. 1011c](./chapter-028-higher-education-resources-and-student-assistance.md#section-1011c)) (as in effect before, during, and after the date of enactment of this Act [Aug. 14, 2008])— “(1) the term of each member appointed to the National Advisory Committee on Institutional Quality and Integrity before the date of enactment of this Act shall expire on the date of enactment of this Act; “(2) no new members shall be appointed to the National Advisory Committee on Institutional Quality and Integrity during the period beginning on the date of enactment of this Act and ending on January 31, 2009; and “(3) no meeting of the National Advisory Committee on Institutional Quality and Integrity shall be convened during such period.”
@@ -2240,6 +2248,16 @@ Another prior section 1017, Pub. L. 89–329, title I, § 117, as added Pub. L. 
 
   (B) Annual development of a budget for the activities and functions of the PBO, in consultation with the Secretary, and for consideration and inclusion in the Department’s annual budget submission.
 
+  (C) Taking action to prevent and address the improper use of access devices, as described in [section 1092b(d)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092b/d/7&num=0&edition=prelim), including by—
+
+    (i) detecting common patterns of improper use of any system that processes payments on Federal Direct Loans or other Department information technology systems;
+
+    (ii) maintaining a reporting system for contractors involved in the processing of payments on Federal Direct Loans in order to allow those contractors to alert the Secretary of potentially improper use of Department information technology systems;
+
+    (iii) proactively contacting Federal student loan borrowers whose Federal student loan accounts demonstrate a likelihood of improper use in order to warn those borrowers of suspicious activity or potential fraud regarding their Federal student loan accounts; and
+
+    (iv) providing clear and simple disclosures in communications with borrowers who are applying for or requesting assistance with Federal Direct Loan programs (including assistance or applications regarding income-driven repayment, forbearance, deferment, consolidation, rehabilitation, cancellation, and forgiveness) to ensure that borrowers are aware that the Department will never require borrowers to pay for such assistance or applications.
+
 (3) **Additional functions** — The Secretary may allocate to the PBO such additional functions as the Secretary and the Chief Operating Officer determine are necessary or appropriate to achieve the purposes of the PBO.
 
 (4) **Independence** — Subject to paragraph (1), in carrying out its functions, the PBO shall exercise independent control of its budget allocations and expenditures, personnel decisions and processes, procurements, and other administrative and management functions.
@@ -2370,21 +2388,6 @@ Another prior section 1017, Pub. L. 89–329, title I, § 117, as added Pub. L. 
 **(i) Authorization of appropriations** The Secretary shall allocate from funds made available under [section 1087h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087h) such funds as are appropriate to the functions assumed by the PBO. In addition, there are authorized to be appropriated such sums as may be necessary to carry out the purposes of this part.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(2)
-Pub. L. 116–251, §§ 5, 6, Dec. 22, 2020, 134 Stat. 1131, 1132, provided that, effective 180 days after Dec. 22, 2020, subsection (b)(2) of this section is amended by adding at the end the following:
-
-(C) Taking action to prevent and address the improper use of access devices, as described in [section 1092b(d)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1092b/d/7&num=0&edition=prelim), including by—
-
-(i) detecting common patterns of improper use of any system that processes payments on Federal Direct Loans or other Department information technology systems;
-
-(ii) maintaining a reporting system for contractors involved in the processing of payments on Federal Direct Loans in order to allow those contractors to alert the Secretary of potentially improper use of Department information technology systems;
-
-(iii) proactively contacting Federal student loan borrowers whose Federal student loan accounts demonstrate a likelihood of improper use in order to warn those borrowers of suspicious activity or potential fraud regarding their Federal student loan accounts; and
-
-(iv) providing clear and simple disclosures in communications with borrowers who are applying for or requesting assistance with Federal Direct Loan programs (including assistance or applications regarding income-driven repayment, forbearance, deferment, consolidation, rehabilitation, cancellation, and forgiveness) to ensure that borrowers are aware that the Department will never require borrowers to pay for such assistance or applications.
-
-See 2020 Amendment note below.
 
 #### References in Text
 The Chief Financial Officers Act of 1990, referred to in subsec. (c)(2)(B), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 501 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section501&num=0&edition=prelim), Money and Finance, and Tables.
@@ -3044,7 +3047,7 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 ### Statutory Notes
 
 #### Amendment of Subsection (a)(4)(B)
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended by striking “the expected family contribution” each place the term appears and inserting “the student aid index”. See 2020 Amendment note below.
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended by striking “the expected family contribution” each place the term appears and inserting “the student aid index”. See 2020 Amendment note below.
 
 #### Amendments
 2020—Subsec. (a)(4)(B). Pub. L. 116–260 substituted “the student aid index” for “the expected family contribution”.
@@ -3062,7 +3065,7 @@ Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), Dec. 27, 2020, 134 S
 “(E) the sum of the amounts under subparagraphs (B) and (D), as applicable; and”.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -5866,115 +5869,124 @@ Ex. Ord. No. 12876, Nov. 1, 1993, 58 F.R. 58735, which established in the Depart
 Ex. Ord. No. 13256, Feb. 12, 2002, 67 F.R. 6823, which established in the Office of the Secretary of Education the President’s Board of Advisors on Historically Black Colleges and Universities, a Presidential advisory committee, was revoked by Ex. Ord. No. 13532, § 4(g), Feb. 26, 2010, 75 F.R. 9752, set out below.
 
 #### Executive Order No. 13532
-Ex. Ord. No. 13532, Feb. 26, 2010, 75 F.R. 9749, as amended by Ex. Ord. No. 13569, § 4, Apr. 5, 2011, 76 F.R. 19891, which established the White House Initiative on Historically Black Colleges and Universities and the President’s Board of Advisors on Historically Black Colleges and Universities, was revoked by Ex. Ord. No. 13779, § 4, Feb. 28, 2017, 82 F.R. 12501, set out below.
+Ex. Ord. No. 13532, Feb. 26, 2010, 75 F.R. 9749, as amended by Ex. Ord. No. 13569, § 4, Apr. 5, 2011, 76 F.R. 19891, which established the White House Initiative on Historically Black Colleges and Universities and the President’s Board of Advisors on Historically Black Colleges and Universities, was revoked by Ex. Ord. No. 13779, § 4, Feb. 28, 2017, 82 F.R. 12501, formerly set out below.
 
-#### Ex. Ord. No. 13779. White House Initiative To Promote Excellence and Innovation at Historically Black Colleges and Universities
-Ex. Ord. No. 13779, Feb. 28, 2017, 82 F.R. 12499, provided:
+#### Executive Order No. 13779
+Ex. Ord. No. 13779, Feb. 28, 2017, 82 F.R. 12499, which established the White House Initiative on Historically Black Colleges and Universities and the President’s Board of Advisors on Historically Black Colleges and Universities, was revoked by Ex. Ord. No. 14041, § 4(a), Sept. 3, 2021, 86 F.R. 50446, set out below.
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance opportunities in higher education, it is hereby ordered as follows:
+#### Ex. Ord. No. 14041. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity Through Historically Black Colleges and Universities
+Ex. Ord. No. 14041, Sept. 3, 2021, 86 F.R. 50443, provided:
 
-Section 1. Policy. Historically black colleges and universities (HBCUs) have made, and continue to make, extraordinary contributions to the general welfare and prosperity of our country. Established by visionary leaders, America’s HBCUs have, for more than 150 years, produced many of our Nation’s leaders in business, government, academia, and the military, and have helped create a black middle class. The Nation’s more than 100 HBCUs are located in 20 States, the District of Columbia, and the U.S. Virgin Islands, and serve more than 300,000 undergraduate, graduate, and professional students. These institutions are important engines of economic growth and public service, and they are proven ladders of intergenerational advancement.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance equity in economic and educational opportunities for all Americans, including Black Americans, strengthen the capacity of Historically Black Colleges and Universities (HBCUs) to provide the highest-quality education, increase opportunities for these institutions to participate in and benefit from Federal programs, and ensure that HBCUs can continue to be engines of opportunity, it is hereby ordered as follows:
 
-A White House Initiative on HBCUs would: advance America’s full human potential; foster more and better opportunities in higher education; strengthen the capacity of HBCUs to provide the highest-quality education; provide equitable opportunities for HBCUs to participate in Federal programs; and increase the number of college-educated Americans who feel empowered and able to advance the common good at home and abroad.
+Section 1. Policy. HBCUs have a proud history and legacy of achievement. In the face of discrimination against Black Americans by many institutions of higher education, HBCUs created pathways to opportunity and educational excellence for Black students throughout our Nation. That legacy continues. Today, more than 100 HBCUs, located in 19 States, the District of Columbia, and the U.S. Virgin Islands, serve nearly 300,000 students annually. HBCUs vary in size and academic focus and serve a range of diverse students and communities in urban, rural, and suburban settings.
 
-Sec. 2. White House Initiative on HBCUs.
+HBCUs play a vital role in providing educational opportunities, scholarly growth, and a sense of community for students. HBCU graduates are barrier-breaking public servants, scientists, artists, lawyers, engineers, educators, business owners, and leaders. For generations, HBCUs have been advancing intergenerational economic mobility for Black families and communities, developing vital academic research, and making our country more prosperous and equitable. HBCUs are proven means of advancement for people of all ethnic, racial, and economic backgrounds, especially Black Americans. HBCUs produce nearly 20 percent of all Black college graduates and 25 percent of Black graduates who earn degrees in the disciplines of science, technology, engineering, and math.
 
-(a) Establishment. There is established the White House Initiative on Historically Black Colleges and Universities (Initiative), housed in the Executive Office of the President and led by an Executive Director designated by the President.
+HBCUs’ successes have come despite many systemic barriers to accessing resources and opportunities. For example, compared to other higher education institutions, on average HBCUs educate a greater percentage of lower-income, Pell-grant eligible students, while receiving less revenue from tuition and possessing much smaller endowments. Disparities in resources and opportunities for HBCUs and their students remain, and the COVID–19 pandemic has highlighted continuing and new challenges. These challenges include addressing the need for enhanced physical and digital infrastructure in HBCU communities and ensuring equitable funding for HBCUs as compared to other institutions of higher education. The Federal Government must promote a variety of modern solutions for HBCUs, recognizing that HBCUs are not a monolith, and that the opportunities and challenges relevant to HBCUs are as diverse as the institutions themselves and the communities they serve.
 
-(b) Mission and Functions. The Initiative shall work with agencies, private-sector employers, educational associations, philanthropic organizations, and other partners to increase the capacity of HBCUs to provide the highest-quality education to an increasing number of students. The Initiative shall have two primary missions:
+It is the policy of my Administration to advance educational equity, excellence, and economic opportunity in partnership with HBCUs, and to ensure that these vital institutions of higher learning have the resources and support to continue to thrive for generations to come.
 
-(i) increasing the private-sector role, including the role of private foundations, in:
+Sec. 2. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity through Historically Black Colleges and Universities. (a) In furtherance of the policy set out in section 1 of this order, there is established in the Department of Education (Department), the White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity through Historically Black Colleges and Universities (Initiative), led by an Executive Director designated by the President and appointed consistent with applicable law. The Executive Director shall manage the day-to-day operations of the Initiative, in consultation with the Assistant to the President and Director of the White House Office of Public Engagement as appropriate, and coordinate with senior officials across the Executive Office of the President, who shall lend their expertise and advice to the Initiative.
 
-(A) strengthening HBCUs through enhanced institutional planning and development, fiscal stability, and financial management; and
+(b) The Initiative, in coordination with senior officials across the Executive Office of the President, shall provide advice to the President on advancing equity, excellence, and opportunity at HBCUs and for the communities they principally serve by coordinating a Government-wide policymaking effort to eliminate barriers HBCUs face in providing the highest-quality education to a growing number of students. The Initiative’s recommendations shall include advice on advancing policies, programs, and initiatives that further the policy set out in section 1 of this order.
 
-(B) upgrading institutional infrastructure, including the use of technology, to ensure the long-term viability of these institutions; and
+(i) To support implementation of this Government-wide approach to breaking down systemic barriers for HBCU participation in Federal Government programs, the Director of the Office of Management and Budget and the Assistant to the President for Domestic Policy shall coordinate closely with the Secretary of Education (Secretary), the Assistant to the President and Director of the White House Office of Public Engagement, the Executive Director, and the Chair of the President’s Board of Advisors on HBCUs (as established in section 3 of this order) to ensure that the needs and voices of HBCUs, their faculty, staff, students, alumni, and the communities they principally serve are considered in the efforts of my Administration to advance educational equity, excellence, and opportunity.
 
-(ii) enhancing HBCUs’ capabilities to serve our Nation’s young adults by:
+(ii) The Initiative shall also perform the following specific functions:
 
-(A) strengthening HBCUs’ ability to equitably participate in Federal programs and exploring new ways of improving the relationship between the Federal Government and HBCUs;
+(A) supporting implementation of the HBCU Propelling Agency Relationships Towards a New Era of Results for Students Act (Public Law 116–270) (PARTNERS Act) [[20 U.S.C. 1063d](./chapter-028-higher-education-resources-and-student-assistance.md#section-1063d), 1063e];
 
-(B) fostering private-sector initiatives and public-private partnerships while promoting specific areas and centers of academic research and program-based excellence throughout HBCUs;
+(B) working closely with the Executive Office of the President on key Administration priorities related to advancing educational equity, excellence, and economic opportunity through HBCUs, in partnership with HBCU leaders, representatives, students, and alumni;
 
-(C) improving the availability, dissemination, and quality of information concerning HBCUs in the public policy sphere;
+(C) working to break down barriers and expand pathways for HBCUs to access Federal funding and programs, particularly in areas of research and development, innovation, and financial and other support to students;
 
-(D) sharing administrative and programmatic best practices within the HBCU community;
+(D) strengthening the capacity of HBCUs to participate in Federal programs, access Federal resources, including grants and procurement opportunities, and partner with Federal agencies;
 
-(E) partnering with elementary and secondary education stakeholders to build a “cradle-to-college” pipeline; and
+(E) advancing and coordinating efforts to ensure that HBCUs can respond to and recover from the COVID–19 pandemic and thoroughly support students’ holistic recovery, from academic engagement to social and emotional wellbeing;
 
-(F) convening an annual White House Summit on HBCUs to address, among other topics, matters related to the Initiative’s missions and functions.
+(F) developing new and expanding pre-existing national networks of individuals, organizations, and communities to share and implement administrative and programmatic best practices related to advancing educational equity, excellence, and opportunity at HBCUs;
 
-(c) Federal Agency Plans.
+(G) fostering sustainable public-private and philanthropic partnerships as well as private-sector initiatives to promote centers of academic research and program excellence at HBCUs;
 
-(i) The Secretary of Education (Secretary), in consultation with the Executive Director, shall identify those agencies that regularly interact with HBCUs.
+(H) strengthening capacity to improve the availability, dissemination, and quality of information about HBCUs and HBCU students for the American public;
 
-(ii) Each agency identified by the Secretary under subsection (c)(i) of this section shall prepare an annual plan (Agency Plan) describing its efforts to strengthen the capacity of HBCUs to participate in applicable Federal programs and initiatives. Where appropriate, each Agency Plan shall address, among other things, the agency’s proposed efforts to:
+(I) partnering with private entities, elementary and secondary education providers, and other stakeholders to build a pipeline for students that may be interested in attending HBCUs, facilitate HBCU modernization, address college affordability, and promote degree attainment;
 
-(A) establish how the agency intends to increase the capacity of HBCUs to compete effectively for grants, contracts, or cooperative agreements;
+(J) addressing efforts to promote student success and retention, including college affordability, degree attainment, campus modernization and infrastructure improvements, and the development of a student recognition program for high-achieving HBCU students;
 
-(B) identify Federal programs and initiatives where HBCUs are not well represented, and improve HBCUs’ participation in those programs and initiatives; and
+(K) encouraging the development of highly qualified, diverse, culturally responsive educators and administrators reflective of a variety of communities and backgrounds in order to ensure that students have access to educators and administrators who celebrate, cultivate, and comprehend the lived experiences of HBCU students and effectively meet their learning, social, and emotional needs;
 
-(C) encourage public-sector, private-sector, and community involvement in improving the overall capacity of HBCUs.
+(L) establishing clear plans to strengthen Federal recruitment activities at HBCUs to build accessible and equitable pathways into Federal service and talent programs;
 
-(iii) The head of each agency identified in subsection (c)(i) of this section shall submit its Agency Plan to the Secretary and the Executive Director no later than 90 days after being so identified, and submit an updated Agency Plan annually thereafter.
+(M) meeting regularly with HBCU students, leaders, and representatives to address matters related to the Initiative’s mission and functions; and
 
-(iv) To help fulfill the objectives of the Agency Plans, the head of each agency identified by the Secretary may provide, as appropriate, technical assistance and information to the Executive Director to enhance communication with HBCUs concerning the agency’s program activities and the preparation of applications or proposals for grants, contracts, or cooperative agreements.
+(N) hosting the National HBCU Week Conference, for HBCU executive leaders, faculty, students, alumni, supporters, and other stakeholders to share information, innovative educational tools and resources, student success models, and ideas for Federal engagement.
 
-(v) Each agency identified by the Secretary shall appoint a senior official to report directly to the agency head on that agency’s progress under this order, and to serve as liaison to the Initiative.
+(c) The head of each “applicable agency,” as defined in section 3(1) of the PARTNERS Act [[20 U.S.C. 1063d](./chapter-028-higher-education-resources-and-student-assistance.md#section-1063d) note], shall submit to the Secretary, the Executive Director, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Education and Labor of the House of Representatives, and the President’s Board of Advisors on HBCUs (as established in section 3 of this order) an Agency Plan, not later than February 1 of each year, describing efforts to strengthen the capacity of HBCUs to participate or be eligible to participate in the programs and initiatives under the jurisdiction of such applicable agency. The Agency Plans shall meet the requirements established in section 4(d) of the PARTNERS Act [[20 U.S.C. 1063d(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1063d/d&num=0&edition=prelim)].
 
-(d) Interagency Working Group. There is established an Interagency Working Group, which shall be chaired by the Executive Director and shall consist of one representative from each agency identified by the Secretary pursuant to subsection (c)(i) of this section, to help advance and coordinate the work required by this order.
+(i) In addition, the Agency Plan shall specifically address any changes to agency policies and practices that the agency deems necessary or appropriate to ensure that barriers to participation are addressed and removed. Each Agency Plan shall include details on grant and contract funding provided to HBCUs and, where the agency deems necessary or appropriate, describe plans to address disparities in furtherance of the objectives of this order.
 
-Sec. 3. President’s Board of Advisors on HBCUs.
+(ii) The Executive Director shall monitor and evaluate each agency’s progress towards the goals established in its Agency Plan and shall coordinate with each agency to ensure that its Agency Plan includes measurable and action-oriented goals.
 
-(a) Establishment. There is established in the Department of Education the President’s Board of Advisors on Historically Black Colleges and Universities (Board). The Board shall consist of not more than 25 members appointed by the President. The Board shall include the Secretary, the Executive Director, representatives of a variety of sectors—such as philanthropy, education, business, finance, entrepreneurship, innovation, and private foundations—and sitting HBCU presidents. The President shall designate one member of the Board to serve as its Chair, who shall help direct the Board’s work in coordination with the Secretary and in consultation with the Executive Director. The Chair shall also consult with the Executive Director regarding the time and location of the Board’s meetings, which shall take place at least once every 6 months.
+(d) There is established an Interagency Working Group, which shall be chaired by the Executive Director and composed of liaisons and representatives designated by the heads of each applicable agency as defined in the PARTNERS Act to help advance and coordinate the work required by this order. Additional members of the Interagency Working Group shall include senior officials from the Office of the Vice President, the White House Domestic Policy Council, the White House Gender Policy Council, the Office of Management and Budget, the White House Office of Science and Technology Policy, the White House Office of Public Engagement, and representatives of other components of the Executive Office of the President, as the Executive Director, in consultation with the Secretary and the Assistant to the President and Director of the White House Office of Public Engagement, considers appropriate. The Interagency Working Group shall collaborate regarding resources and opportunities available across the Federal Government to increase educational equity and opportunities for HBCUs. The Executive Director may establish subgroups of the Interagency Working Group.
 
-(b) Mission and Functions. The Board shall advise the President, through the Initiative, on all matters pertaining to strengthening the educational capacity of HBCUs. In particular, the Board shall advise the President in the following areas:
+(e) The Department shall provide funding and administrative support for the Initiative and the Interagency Working Group, to the extent permitted by law and within existing appropriations. To the extent permitted by law, including the Economy Act ([31 U.S.C. 1535](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim)), and subject to the availability of appropriations, other agencies and offices represented on the Interagency Working Group may detail personnel to the Initiative, to assist the Department in meeting the objectives of this order.
 
-(i) improving the identity, visibility, distinctive capabilities, and overall competitiveness of HBCUs;
+(f) To advance shared priorities and policies that advance equity and economic opportunity for underserved communities, the Initiative shall collaborate and coordinate with other White House Initiatives related to equity and economic opportunity.
 
-(ii) engaging the philanthropic, business, government, military, homeland-security, and education communities in a national dialogue regarding new HBCU programs and initiatives;
+(g) On an annual basis, the Executive Director shall report to the President through the Secretary, with the support and consultation of the Assistant to the President and Director of the White House Office of Public Engagement as appropriate, on the Initiative’s progress in carrying out its mission and function under this order.
 
-(iii) improving the ability of HBCUs to remain fiscally secure institutions that can assist the Nation in achieving its educational goals and in advancing the interests of all Americans;
+Sec. 3. President’s Board of Advisors on Historically Black Colleges and Universities. (a) There is established in the Department the President’s Board of Advisors on Historically Black Colleges and Universities (Board). The Board shall fulfill the mission and functions established in section 5(c) of the PARTNERS Act [[20 U.S.C. 1063e(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1063e/c&num=0&edition=prelim)]. The Board shall include sitting HBCU presidents as well as leaders from a variety of sectors, including education, philanthropy, business, finance, entrepreneurship, innovation, science and technology, and private foundations.
 
-(iv) elevating the public awareness of, and fostering appreciation of, HBCUs; and
+(b) The President shall designate one member of the Board to serve as its Chair, and may designate another member of the Board to serve as Vice Chair. The Department shall provide funding and administrative support for the Board to the extent permitted by law and within existing appropriations.
 
-(v) encouraging public-private investments in HBCUs.
+(c) The Board shall be composed of not more than 21 members appointed by the President. The Secretary of Education and Executive Director of the Initiative or their designees shall serve as ex officio members.
 
-(c) Administration. The Department of Education shall provide funding and administrative support for the Board, consistent with applicable law and subject to the availability of appropriations. Members of the Board shall serve without compensation, but shall be reimbursed for travel expenses, including per diem in lieu of subsistence, as authorized by law. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Board, any functions of the President under that Act, except for those of reporting to the Congress, shall be performed by the Chair, in accordance with guidelines issued by the Administrator of General Services.
+(d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Board, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Chair, in accordance with guidelines issued by the Administrator of General Services.
 
-(d) Report. The Board shall report annually to the President on the Board’s progress in carrying out its duties under this section.
+(e) Members of the Board shall serve without compensation, but may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
 
-Sec. 4. Revocation of Executive Order. Executive Order 13532 of February 26, 2010 (Promoting Excellence, Innovation, and Sustainability at Historically Black Colleges and Universities), as amended, is revoked.
+Sec. 4. Administrative Provisions. (a) This order supersedes Executive Order 13779 of February 28, 2017 (White House Initiative To Promote Excellence and Innovation at Historically Black Colleges and Universities) [formerly set out above], which is hereby revoked. To the extent that there are other Executive Orders that may conflict with or overlap with the provisions in this order, the provisions in this order supersede those prior Executive Orders on these subjects.
 
-Sec. 5. General Provisions. (a) For the purposes of this order, “historically black colleges and universities” shall mean those institutions listed in 34 CFR 608.2.
+(b) As used in this order, the terms “Historically Black Colleges and Universities” and “HBCUs” shall mean those institutions listed in 34 C.F.R. 608.2.
 
-(b) This order shall apply to executive departments and agencies designated by the Secretary. Those departments and agencies shall provide timely reports and such information as is required to effectively carry out the objectives of this order.
+(c) The heads of executive departments and agencies shall assist and provide information to the Initiative and Board established in this order, consistent with applicable law, as may be necessary to carry out the functions of the Initiative and the Board.
 
-(c) The heads of executive departments and agencies shall assist and provide information to the Board, consistent with applicable law, as may be necessary to carry out the functions of the Board. Each executive department and agency shall bear its own expenses of participating in the Initiative.
+(d) Each executive department and agency shall bear its own expenses of participating in the Initiative established in this order.
 
-(d) Nothing in this order shall be construed to impair or otherwise affect:
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the head thereof; or
 
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
-(e) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-(f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-Donald J. Trump.
+J.R. Biden, Jr.
 
 #### Extension of Term of President’s Board of Advisors on Historically Black Colleges and Universities
-Term of President’s Board of Advisors on Historically Black Colleges and Universities extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Board of Advisors on Historically Black Colleges and Universities (established by Ex. Ord. No. 14041) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extensions of term of President’s Board of Advisors on Historically Black Colleges and Universities were contained in the following prior Executive Orders:
+Previous extensions of term of President’s Board of Advisors on Historically Black Colleges and Universities as established by various Executive Orders were contained in the following prior Executive Orders:
+
+Established by Ex. Ord. No. 13779:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
+
+Established by Ex. Ord. No. 13532:
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
+
+Established by Ex. Ord. No. 13256:
 
 Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, extended term until Sept. 30, 2011.
 
@@ -5983,6 +5995,8 @@ Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, extended term until Sept. 30,
 Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, extended term until Sept. 30, 2007.
 
 Ex. Ord. No. 13316, Sept. 17, 2003, 68 F.R. 55255, extended term until Sept. 30, 2005.
+
+Established by Ex. Ord. No. 12876:
 
 Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, extended term until Sept. 30, 2003.
 
@@ -6185,7 +6199,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### References in Text
 The Act of March 2, 1867, referred to in subsec. (g), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Provisions relating to authorization of appropriations are contained in section 8 of the Act, which is classified to [section 123 of this title](./chapter-008-howard-university.md#section-123). For complete classification of this Act to the Code, see Tables.
 
-The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774, as amended. For classification of this Act to the Code, see Tables.
+The District of Columbia Home Rule Act, referred to in subsec. (g), is Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 774. For classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 A prior section 1063, Pub. L. 89–329, title III, § 324, as added Pub. L. 96–374, title III, § 301, Oct. 3, 1980, 94 Stat. 1395, related to Federal share of grants to institutions with special needs, prior to the general revision of this subchapter by Pub. L. 99–498.
@@ -7080,7 +7094,7 @@ For purposes of paragraphs (1) and (2), Lincoln University of Pennsylvania is an
 ### Statutory Notes
 
 #### References in Text
-The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) and Tables.
+The Education Amendments of 1972, referred to in subsec. (d), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of this title](./chapter-038-discrimination-based-on-sex-or-blindness.md#section-1681) and Tables.
 
 #### Codification
 Section was formerly classified to [section 1132c–3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1132c–3&num=0&edition=prelim) prior to renumbering by Pub. L. 105–244.
@@ -8289,8 +8303,14 @@ Section effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–24
 
 ### Statutory Notes
 
+#### Repeal of Section
+Pub. L. 117–103, div. R, § 103(c)(2), (d), Mar. 15, 2022, 136 Stat. 821, provided that, effective as if included in title VII of div. FF of Pub. L. 116–260 and subject to the effective date of section 701(b) of title VII (July 1, 2024), this section is repealed.
+
 #### References in Text
 [Section 1070a(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b/2/A&num=0&edition=prelim), referred to in subsec. (d)(2), as originally enacted, contained cls. (i) to (vi) followed by concluding provisions. [Section 1070a(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b/2/A&num=0&edition=prelim) was amended generally by section 2101(a)(1) of Pub. L. 111–152 and, as so amended, no longer contains either a cl. (v) or concluding provisions.
+
+#### Effective Date of Repeal
+Repeal effective as if included in title VII of div. FF of Pub. L. 116–260 and subject to the effective date of section 701(b) of title VII (July 1, 2024), see section 103(d) of div. R of Pub. L. 117–103, set out as an Effective Date of 2022 Amendment note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
 
 #### Effective Date
 Pub. L. 111–39, title IV, § 401(b), July 1, 2009, 123 Stat. 1940, provided that: “The amendment made by subsection (a)(9) [enacting this subpart] shall take effect on July 1, 2010.”
@@ -8539,7 +8559,7 @@ Pub. L. 102–25, title III, part E (§§ 371–376), Apr. 6, 1991, 105 Stat. 93
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 703, Dec. 27, 2020, 134 Stat. 3137, 3191, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 703, Dec. 27, 2020, 134 Stat. 3137, 3191; Pub. L. 117–103, div. R, §§ 102(a), (b)(1), 103(c)(1), (d), Mar. 15, 2022, 136 Stat. 819–821, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1070a. Federal Pell Grants: amount and determinations; applications
 
@@ -8635,7 +8655,7 @@ Notwithstanding any other provision of this subpart, the Secretary shall allow t
 
 (A) In general
 
-For award year 2023–2024, and each subsequent award year, the total maximum Federal Pell Grant award per student shall be equal to the sum of—
+For award year 2024–2025, and each subsequent award year, the total maximum Federal Pell Grant award per student shall be equal to the sum of—
 
 (i) $1,060; and
 
@@ -8651,9 +8671,9 @@ The total maximum Federal Pell Grant for any award year shall be rounded to the 
 
 To carry out this section—
 
-(i) there are authorized to be appropriated and are appropriated (in addition to any other amounts appropriated to carry out this section and out of any money in the Treasury not otherwise appropriated) such sums as are necessary to carry out paragraph (5)(A)(i) for fiscal year 2023 and each subsequent fiscal year; and
+(i) there are authorized to be appropriated and are appropriated (in addition to any other amounts appropriated to carry out this section and out of any money in the Treasury not otherwise appropriated) such sums as are necessary to carry out paragraph (5)(A)(i) for fiscal year 2024 and each subsequent fiscal year; and
 
-(ii) such sums as may be necessary are authorized to be appropriated to carry out paragraph (5)(A)(ii) for each of the fiscal years 2023 through 2033.
+(ii) such sums as may be necessary are authorized to be appropriated to carry out paragraph (5)(A)(ii) for each of the fiscal years 2024 through 2034.
 
 (B) Availability of funds
 
@@ -8669,7 +8689,7 @@ In addition to any funds appropriated under paragraph (6) and any funds made ava
 
 The amendments made to this section by the FAFSA Simplification Act shall not—
 
-(i) increase or decrease the amounts that have been appropriated or are available to carry out this section for fiscal year 2017, 2018, 2019, 2020, 2021, or 2022 as of the day before the effective date of such Act; or
+(i) increase or decrease the amounts that have been appropriated or are available to carry out this section for fiscal year 2017, 2018, 2019, 2020, 2021, 2022, or 2023 as of the day before the effective date of such Act; or
 
 (ii) extend the period of availability for obligation that applied to any such amount, as of the day before such effective date.
 
@@ -8681,7 +8701,7 @@ The amounts made available by this paragraph for any fiscal year shall be availa
 
 (A) In general
 
-For each fiscal year through fiscal year 2033, the Secretary shall pay to each eligible institution such sums as may be necessary to pay each eligible student for each academic year during which that student is in attendance at an institution of higher education as an undergraduate, a Federal Pell Grant in the amount for which that student is eligible.
+For each fiscal year through fiscal year 2034, the Secretary shall pay to each eligible institution such sums as may be necessary to pay each eligible student for each academic year during which that student is in attendance at an institution of higher education as an undergraduate, a Federal Pell Grant in the amount for which that student is eligible.
 
 (B) Alternative disbursement
 
@@ -8707,21 +8727,19 @@ A student described in paragraph (2) shall be eligible for the total maximum Fed
 
 Paragraph (1) shall apply to any dependent or independent student—
 
-(A) who is eligible to receive a Federal Pell Grant according to subsection (b)(1) for the award year for which the determination is made;
-
-(B) whose parent or guardian was—
+(A) whose parent or guardian was—
 
 (i) an individual who, on or after September 11, 2001, died in the line of duty while serving on active duty as a member of the Armed Forces; or
 
 (ii) actively serving as a public safety officer and died in the line of duty while performing as a public safety officer; and
 
-(C) who is less than 33 years of age.
+(B) who is less than 33 years of age.
 
 (3) Information
 
 Notwithstanding any other provision of law—
 
-(A) the Secretary shall establish the necessary data-sharing agreements with the Secretary of Veterans Affairs and the Secretary of Defense, as applicable, to provide the information necessary to determine which students meet the requirements of paragraph (2)(B)(i); and
+(A) the Secretary shall establish the necessary data-sharing agreements with the Secretary of Veterans Affairs and the Secretary of Defense, as applicable, to provide the information necessary to determine which students meet the requirements of paragraph (2)(A)(i); and
 
 (B) the financial aid administrator shall verify with the student that the student is eligible for the adjustment and notify the Secretary of the adjustment of the student’s eligibility.
 
@@ -8729,7 +8747,19 @@ Notwithstanding any other provision of law—
 
 Notwithstanding section 1212 of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10302&num=0&edition=prelim)), in the case of a student who receives an increased Federal Pell Grant amount under this section, the total amount of such Federal Pell Grant, including the increase under this subsection, shall not be considered in calculating that student’s educational assistance benefits under the Public Safety Officers’ Benefits program under subpart 2 of part L of title I of such Act.
 
-(5) Definition of public safety officer
+(5) Prevention of double benefits
+
+No eligible student described in paragraph (2) may concurrently receive a grant under both this subsection and subsection (b).
+
+(6) Terms and conditions
+
+The Secretary shall award grants under this subsection in the same manner and with the same terms and conditions, including the length of the period of eligibility, as the Secretary awards Federal Pell Grants under subsection (b), except that—
+
+(A) the award rules and determination of need applicable to the calculation of Federal Pell Grants under subsection (b)(1) shall not apply to grants made under this subsection; and
+
+(B) the maximum period determined under subsection (d)(5) shall be determined by including all grants made under this section received by the eligible student and all grants so received under subpart 10 before the effective date of this subsection.
+
+(7) Definition of public safety officer
 
 For purposes of this subsection, the term “public safety officer” means—
 
@@ -8847,7 +8877,7 @@ No institution of higher education shall be an eligible institution for purposes
 
 No institution may be subject to the terms of this subsection unless the institution has had the opportunity to appeal the institution’s default rate determination under regulations issued by the Secretary for the loan program authorized under part B or D, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or D on October 7, 1998, unless the institution subsequently participates in the loan programs.
 
-See 2020 Amendment note below.
+See 2020 and 2022 Amendment notes below.
 
 #### Codification
 In subsec. (i), “chapter 81 of title 41” substituted for “subtitle D of title V of Public Law 100–690” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -8860,6 +8890,22 @@ A prior section 401 of Pub. L. 89–329 was renumbered section 400 by section 40
 Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pub. L. 92–318, title I, § 131(b)(1), title X, § 1001(c)(1), (2), June 23, 1972, 86 Stat. 247, 381; Pub. L. 94–482, title I, § 125, Oct. 12, 1976, 90 Stat. 2096; Pub. L. 96–374, title IV, § 401, title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1401, 1503, which stated purpose of program of grants to students in attendance at institutions of higher education, was classified to [section 1070 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070), prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2022—Subsec. (b)(5)(A). Pub. L. 117–103, § 102(b)(1)(A), substituted “award year 2024–2025” for “award year 2023–2024”.
+
+Subsec. (b)(6)(A)(i). Pub. L. 117–103, § 102(b)(1)(B)(i), substituted “fiscal year 2024” for “fiscal year 2023”.
+
+Subsec. (b)(6)(A)(ii). Pub. L. 117–103, § 102(b)(1)(B)(ii), substituted “fiscal years 2024 through 2034” for “fiscal years 2023 through 2033”.
+
+Subsec. (b)(7)(B)(i). Pub. L. 117–103, § 102(b)(1)(C), substituted “2022, or 2023” for “or 2022”.
+
+Subsec. (b)(8)(A). Pub. L. 117–103, § 102(b)(1)(D), substituted “fiscal year 2034” for “fiscal year 2033”.
+
+Subsec. (c)(2). Pub. L. 117–103, § 103(c)(1)(A), redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “who is eligible to receive a Federal Pell Grant according to subsection (b)(1) for the award year for which the determination is made;”.
+
+Subsec. (c)(3)(A). Pub. L. 117–103, § 103(c)(1)(B), substituted “(2)(A)(i)” for “(2)(B)(i)”.
+
+Subsec. (c)(5) to (7). Pub. L. 117–103, § 103(c)(1)(C), (D), added pars. (5) and (6) and redesignated former par. (5) as (7).
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to amount of and determinations and applications for Federal Pell Grants.
 
 2019—Subsec. (b)(7)(A)(iv)(X). Pub. L. 116–91, § 7(1), substituted “$1,455,000,000” for “$1,430,000,000”.
@@ -9120,8 +9166,11 @@ Subsec. (i). Pub. L. 102–325, § 401(h), substituted “Treatment of instituti
 
 1987—Subsec. (g)(2). Pub. L. 100–50 substituted “paragraph (1)(B)” for “paragraph (1)”.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–103, div. R, § 103(d), Mar. 15, 2022, 136 Stat. 821, provided that: “The amendments made by subsections (a), (b), and (c) [amending this section and sections 1087ll and 1087uu–2 of this title and repealing [section 1070h of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070h)] shall take effect as if included in the FAFSA Simplification Act (title VII of division FF of Public Law 116–260 [see Tables for classification]) and subject to the effective date of section 701(b) of such Act [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) note], as amended by this division (including the authorization provided under section 102(c)(1)(A) [see On-Time Effective Date Permitted note below]).”
+
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2011 Amendment
 Amendment by section 309(a) of Pub. L. 112–74 effective July 1, 2012, see section 309(g) of Pub. L. 112–74, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -9164,11 +9213,16 @@ Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of 
 
 Pub. L. 99–498, title IV, § 401(b)(3), (4), Oct. 17, 1986, 100 Stat. 1353, provided that: “(3) Section 411(c) of the Act [[20 U.S.C. 1070a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/c&num=0&edition=prelim)] as amended by this section shall apply only to individuals who receive a Pell Grant for the first time for a period of enrollment beginning on or after July 1, 1987. “(4) Section 411(f) of the Act [[20 U.S.C. 1070a(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/f&num=0&edition=prelim)] as amended by this section shall apply to the awarding of Pell Grants for periods of enrollment beginning on or after July 1, 1987.”
 
+#### On-Time Effective Date Permitted
+Pub. L. 117–103, div. R, § 102(c), Mar. 15, 2022, 136 Stat. 819, provided that: “(1) In general.—Notwithstanding section 701(b) of the FAFSA Simplification Act (title VII of division FF of Public Law 116–260 [see Tables for classification]) [[20 U.S.C. 1001](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) note], as amended by this division, the Secretary of Education—“(A) may implement on or after July 1, 2023, but not later than, July 1, 2024, the amendments made by—“(i) section 702(b) of the FAFSA Simplification Act [amending sections 1087ll and 1087mm of this title] regarding cost of attendance; “(ii) section 702(i) of such Act [amending [section 1087tt of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087tt)] regarding discretion of student financial aid administrators; “(iii) section 702(l) of such Act [enacting [section 1087uu–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087uu-2) and amending [section 1087vv of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087vv)] regarding special rules for independent students and definitions; and “(iv) section 703 of such Act [amending this section] regarding only the period of eligibility for grants under subsection (d) of section 401 of the Higher Education Act of 1965 [[20 U.S.C. 1070a(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/d&num=0&edition=prelim)], as amended by the FAFSA Simplification Act; and “(B) shall specify in a designation on what date and for which award years the implementation of amendments described in subparagraph (A) are effective on or after July 1, 2023, and prior to July 1, 2024, and shall publish any designation under this paragraph in the Federal Register not less than 60 days before implementation. “(2) Student aid index as expected family contribution.—For purposes of implementing the amendments described in paragraph (1)(A) before July 1, 2024, the term ‘student aid index’ as it appears in such amendments to the Higher Education Act of 1965 shall mean ‘expected family contribution’, as calculated under part F of title IV of the Higher Education Act of 1965 [[20 U.S.C. 1087kk](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087kk) et seq.], as in effect on the date of the implementation.”
+
 #### Study of Pell Grant Eligibility for Less Than Half-Time Students
 Pub. L. 99–498, title XIII, § 1306, Oct. 17, 1986, 100 Stat. 1582, directed Secretary to conduct a study and report to Congress not later than Sept. 30, 1988, on the number of less than half-time students who would be eligible for Pell grants by reason of having an expected family contribution of $0 and of $0–$200 for the appropriate academic years, prior to repeal by Pub. L. 105–332, § 6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Maximum Pell Grants
 Provisions limiting the maximum Pell grant that a student may receive were contained in the following appropriation acts:
+
+Pub. L. 117–103, div. H, title III, Mar. 15, 2022, 136 Stat. 480.
 
 Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1603.
 
@@ -10962,7 +11016,7 @@ Subsec. (a)(3). Pub. L. 102–325, § 403(c)(2), added par. (3).
 ### Statutory Notes
 
 #### Amendment of Subsection (c)(2)(B)
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(2), Dec. 27, 2020, 134 Stat. 3137, 3199, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended by striking “expected family contributions” each place the term appears and inserting “student aid indexes”. See 2020 Amendment note below.
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(2), Dec. 27, 2020, 134 Stat. 3137, 3199; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended by striking “expected family contributions” each place the term appears and inserting “student aid indexes”. See 2020 Amendment note below.
 
 #### Prior Provisions
 A prior section 1070b–2, Pub. L. 89–329, title IV, § 413C, as added Pub. L. 92–318, title I, § 131(b)(1), June 23, 1972, 86 Stat. 253; amended Pub. L. 94–482, title I, § 122(b), Oct. 12, 1976, 90 Stat. 2094; Pub. L. 96–374, title IV, § 403(d), Oct. 3, 1980, 94 Stat. 1405, related to selection of recipients of supplemental educational opportunity grants and agreements with institutions, prior to the general revision of this part by Pub. L. 99–498.
@@ -10989,7 +11043,7 @@ Subsec. (d). Pub. L. 102–325, § 403(e), inserted “who are independent stude
 Subsec. (e). Pub. L. 102–325, § 403(f), struck out before period at end “, and may transfer such funds in accordance with the provisions of [section 1095 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1095)”.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -11112,7 +11166,7 @@ Pub. L. 99–498, title IV, § 401(b)(5), Oct. 17, 1986, 100 Stat. 1353, provide
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2023–20242024–2025 and each subsequent award year, as determined under this chapter, this section is amended:
 
 (1) by striking “the expected family contribution” each place the term appears and inserting “the student aid index”;
 
@@ -11178,7 +11232,7 @@ Subsec. (d)(3)(A). Pub. L. 100–50, § 4(b)(1), struck out “and for graduate 
 Subsec. (d)(3)(B). Pub. L. 100–50, § 4(b)(2), struck out “and graduate and professional” after “average undergraduate” and struck out “and graduate” after “from undergraduate”.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–244, title IV, § 406(c)(3), Oct. 7, 1998, 112 Stat. 1665, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to allocations of amounts appropriated pursuant to section 413A(b) of the Higher Education Act of 1965 [[20 U.S.C. 1070b(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070b/b&num=0&edition=prelim)] for fiscal year 2000 or any succeeding fiscal year.”
@@ -11620,7 +11674,7 @@ A prior section 1070c–3, Pub. L. 89–329, title IV, § 415D, as added Pub. L.
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(3), (5), Dec. 27, 2020, 134 Stat. 3137, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(3), (5), Dec. 27, 2020, 134 Stat. 3137, 3200; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:
 
 (1) by striking “an expected family contribution” each place the term appears and inserting “a student aid index”; and
 
@@ -11647,7 +11701,7 @@ Subsec. (d)(3)(A)(i). Pub. L. 116–260, § 704(3), substituted “a student aid
 Subsecs. (f), (g). Pub. L. 106–554, § 1(a)(1) [title III, § 316(3)], which directed amendment of section 415 of the Higher Education Act of 1965 in section 415E by adding subsecs. (f) and (g), was executed by adding subsecs. (f) and (g) to this section, which is section 415E of the Higher Education Act of 1965, to reflect the probable intent of Congress.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -11856,7 +11910,7 @@ A prior section 1070d–1d, Pub. L. 89–329, title IV, § 417F, as added Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Part C of title I of the Act is classified generally to part C (§ 6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (b)(1)(B)(ii) and (c)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Part C of title I of the Act is classified generally to part C (§ 6391 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 #### Prior Provisions
 A prior section 1070d–2, Pub. L. 89–329, title IV, § 418A, as added Pub. L. 96–374, title IV, § 406, Oct. 3, 1980, 94 Stat. 1411, related to secondary and postsecondary high school equivalency programs and college assistance migrant programs, prior to the general revision of this part by Pub. L. 99–498.
@@ -14609,7 +14663,7 @@ the Secretary shall consider and act upon such application within 180 days, and 
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (6), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (6), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:
 
 (1) by striking “the expected family contribution” each place the term appears and inserting “the student aid index”; and
 
@@ -15338,7 +15392,7 @@ Subsec. (j). Pub. L. 100–50, § 10(m), inserted provision at end that the guar
 Subsec. (k)(1). Pub. L. 100–203, § 3003, substituted “Notwithstanding any other provision of law, in” for “In”, “guaranty agency shall” for “guaranty agency may”, and “subsection shall include” for “subsection may include”.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under [section 1077 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1077).
@@ -16264,9 +16318,9 @@ The Protection and Advocacy for Individuals with Mental Illness Act, referred to
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(n)(1)(B), (2), Dec. 27, 2020, 134 Stat. 3137, 3186, provided that, effective July 1, 2023, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, subsection (f)(2) of this section is amended by striking “section 1091(p)” and inserting “section 1091(o)”.
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(n)(1)(B), (2), Dec. 27, 2020, 134 Stat. 3137, 3186; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, subsection (f)(2) of this section is amended by striking “section 1091(p)” and inserting “section 1091(o)”.
 
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended by striking “the expected family contribution” each place the term appears and inserting “the student aid index”.
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended by striking “the expected family contribution” each place the term appears and inserting “the student aid index”.
 
 See 2020 Amendment notes below.
 
@@ -16351,9 +16405,11 @@ Subsec. (d)(2). Pub. L. 100–50, § 10(r)(1)(B), inserted “under this section
 Subsec. (d)(5). Pub. L. 100–50, § 10(r)(1)(C), substituted “October 1, 1987” for “January 1, 1987” and, in subpar. (B), inserted “and of the practical consequences of such options in terms of interest rates and monthly and total payments for a set of loan examples” before semicolon at end.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 Pub. L. 116–260, div. FF, title VII, § 702(n)(2), Dec. 27, 2020, 134 Stat. 3186, provided that: “Notwithstanding section 701(b) of this Act [div. FF of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001)], sections 401(b)(6) and 484(r) of the Higher Education Act of 1965 ([20 U.S.C. 1070a(b)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b/6&num=0&edition=prelim); 1091(r)) as in effect on the date of enactment of this Act [Dec. 27, 2020], and section 12(f) of the Military Selective Service Act ([50 U.S.C. 3811(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3811/f&num=0&edition=prelim)), the Secretary of Education may implement the amendments made by paragraph (1) of this subsection [amending this section and sections 1091 and 1092 of this title] before (but not later than) July 1, 2023. The Secretary shall specify in a designation on what date, under what conditions, and for which award years the Secretary will implement such amendments prior to July 1, 2023. The Secretary shall publish any designation under this paragraph in the Federal Register at least 60 days before implementation.”
+
+[Effective date of title VII of div. FF of Pub. L. 116–260 was changed from July 1, 2023, to July 1, 2024, by section 102(a) of Pub. L. 117–103, see section 701(b) of div. FF of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). However, the July 1, 2023, implementation dates in section 702(n)(2) of Pub. L. 116–260, set out above, were not correspondingly amended.]
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -16428,9 +16484,11 @@ Pub. L. 100–50, § 10(r)(2), June 3, 1987, 101 Stat. 344, provided that: “An
 
         (aa) for the purposes of obtaining income contingent repayment or income-based repayment, and only if the loan has been submitted to the guaranty agency for default aversion or if the loan is already in default;
 
-        (bb) for the purposes of using the public service loan forgiveness program under [section 1087e(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/m&num=0&edition=prelim); or
+        (bb) for the purposes of using the public service loan forgiveness program under [section 1087e(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/m&num=0&edition=prelim);
 
-        (cc) for the purpose of using the no accrual of interest for active duty service members benefit offered under section 1087e(o) of this title.
+        (cc) for the purpose of using the no accrual of interest for active duty service members benefit offered under section 1087e(o) of this title; or
+
+        (dd) for the purpose of separating a joint consolidation loan into 2 separate Federal Direct Consolidation Loans under [section 1087e(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/g/2&num=0&edition=prelim).
 
 (4) **“Eligible student loans” defined** — For the purpose of paragraph (1), the term “eligible student loans” means loans—
 
@@ -16656,6 +16714,8 @@ Amendments by section 2(c)(33), (36) of Pub. L. 103–208 (which were effective 
 A prior section 1078–3, Pub. L. 89–329, title IV, § 428C, as added Pub. L. 99–272, title XVI, § 16017(a), Apr. 7, 1986, 100 Stat. 343, related to consolidation loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2022—Subsec. (a)(3)(B)(i)(V)(dd). Pub. L. 117–200 added item (dd).
+
 2010—Subsec. (a)(4)(A). Pub. L. 111–152, § 2206(a)(1), inserted “, and first disbursed before July 1, 2010” after “under this part”.
 
 Subsec. (b)(1)(E). Pub. L. 111–152, § 2206(a)(2)(A), inserted “, and before July 1, 2010” before semicolon.
@@ -17540,7 +17600,7 @@ Pub. L. 102–325, title XIV, § 1403, July 23, 1992, 106 Stat. 817, directed Se
 ### Statutory Notes
 
 #### References in Text
-The Fair Credit Reporting Act, referred to in subsec. (a), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (a), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 1080a, Pub. L. 89–329, title IV, § 430A, as added Pub. L. 99–272, title XVI, § 16023, Apr. 7, 1986, 100 Stat. 349; amended Pub. L. 99–320, § 2(c), May 23, 1986, 100 Stat. 491, related to reports to credit bureaus and institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
@@ -17891,7 +17951,7 @@ All assets and liabilities of the vocational student loan insurance fund transfe
 #### References in Text
 Subparagraph (D) of paragraph (1) of subsec. (f), referred to in subsec. (f)(2), was repealed by Pub. L. 105–244, title IV, § 427(a)(3), Oct. 7, 1998, 112 Stat. 1702.
 
-The Inspector General Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (f)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 1082, Pub. L. 89–329, title IV, § 432, Nov. 8, 1965, 79 Stat. 1246; Pub. L. 90–460, § 3(d), Aug. 3, 1968, 82 Stat. 638; Pub. L. 93–604, title VII, § 705(a), Jan. 2, 1975, 88 Stat. 1964; Pub. L. 94–482, title I, § 127(a), Oct. 12, 1976, 90 Stat. 2127; Pub. L. 96–88, title III, § 301(b)(2), Oct. 17, 1979, 93 Stat. 678; Pub. L. 96–374, title IV, § 416(c), title XIII, § 1391(a)(1), Oct. 3, 1980, 94 Stat. 1421, 1503; Pub. L. 99–272, title XVI, § 16024, Apr. 7, 1986, 100 Stat. 351, related to functions, powers, and duties of Secretary, prior to the general revision of this part by Pub. L. 99–498.
@@ -19135,7 +19195,7 @@ Donald J. Trump.
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(a)(2), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended by adding at the end the following:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(a)(2), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended by adding at the end the following:
 
 (c) Maximum aid
 
@@ -19158,7 +19218,7 @@ A prior section 1087a, Pub. L. 89–329, title IV, § 451, as added Pub. L. 90�
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to program and payment authority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -19503,7 +19563,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:
 
 (1) by striking “the expected family contribution” each place the term appears and inserting “the student aid index”;
 
@@ -19691,7 +19751,7 @@ Subsec. (e). Pub. L. 100–50, § 13(c), struck out “; cash on hand” after �
 Subsec. (f). Pub. L. 100–50, § 13(d), substituted “subsection (g) of this section” for “paragraph (2)”.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -20144,7 +20204,7 @@ Section applicable only to loans made for periods of enrollment beginning on or 
 ### Statutory Notes
 
 #### Amendment of Subsection (a)(1)(B)
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, subsection (a)(1)(B) of this section is amended by striking “the expected family contribution” and inserting “the student aid index”. See 2020 Amendment note below.
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), Dec. 27, 2020, 134 Stat. 3137, 3199; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, subsection (a)(1)(B) of this section is amended by striking “the expected family contribution” and inserting “the student aid index”. See 2020 Amendment note below.
 
 #### Amendments
 2020—Subsec. (a)(1)(B). Pub. L. 116–260 substituted “the student aid index” for “the expected family contribution”.
@@ -20160,7 +20220,7 @@ Subsec. (b)(2). Pub. L. 111–152, § 2210(a)(2), substituted “(5), and (6)”
 1987—Subsec. (a)(4). Pub. L. 100–50 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The interest rate on all such loans shall be the rate equal to the rate obtained for each calendar year (A) by computing the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period preceding such year, and (B) by adding 3 percent to the resulting percent.”
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–152, title II, § 2210(b), Mar. 30, 2010, 124 Stat. 1078, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on July 1, 2010.”
@@ -20851,7 +20911,53 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 
 (5) **Deferments for previous part B loan borrowers** — A borrower of a loan made under this part, who at the time such individual applies for such loan, has an outstanding balance of principal or interest owing on any loan made, insured, or guaranteed under part B of this subchapter prior to July 1, 1993, shall be eligible for a deferment under [section 1077(a)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1077/a/2/C&num=0&edition=prelim) or [section 1078(b)(1)(M) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078/b/1/M&num=0&edition=prelim) as such sections were in effect on July 22, 1992.
 
-**(g) Federal Direct Consolidation Loans** A borrower of a loan made under this part may consolidate such loan with the loans described in [section 1078–3(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/4&num=0&edition=prelim), including any loan made under part B and first disbursed before July 1, 2010. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in [section 1078–3(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3&num=0&edition=prelim).
+**(g) Federal Direct Consolidation Loans**
+
+(1) **In general** — A borrower of a loan made under this part may consolidate such loan with the loans described in [section 1078–3(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/4&num=0&edition=prelim), including any loan made under part B and first disbursed before July 1, 2010. To be eligible for a consolidation loan under this part, a borrower shall meet the eligibility criteria set forth in [section 1078–3(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3&num=0&edition=prelim).
+
+(2) **Separating joint consolidation loans**
+
+  (A) *In general*
+
+    (i) *Authorization* — A married couple, or 2 individuals who were previously a married couple, and who received a joint consolidation loan as such married couple under subparagraph (C) of [section 1078–3(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3&num=0&edition=prelim) (as such subparagraph was in effect on June 30, 2006), may apply to the Secretary, in accordance with subparagraph (C) of this paragraph, for each individual borrower in the married couple (or previously married couple) to receive a separate Federal Direct Consolidation Loan under this part.
+
+    (ii) *Eligibility for borrowers in default* — Notwithstanding any other provision of this chapter, a married couple, or 2 individuals who were previously a married couple, who are in default on a joint consolidation loan may be eligible to receive a separate Federal Direct Consolidation Loan under this part in accordance with this paragraph.
+
+  (B) *Secretarial requirements* — Notwithstanding [section 1078–3(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3/A&num=0&edition=prelim) or any other provision of law, for each individual borrower who applies under subparagraph (A), the Secretary shall—
+
+    (i) make a separate Federal Direct Consolidation Loan under this part that—
+
+      (I) shall be for an amount equal to the product of—
+
+        (aa) the unpaid principal and accrued unpaid interest of the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made) and any outstanding charges and fees with respect to such loan; and
+
+        (bb) the percentage of the joint consolidation loan attributable to the loans of the individual borrower for whom such separate consolidation loan is being made, as determined—
+
+          (AA) on the basis of the loan obligations of such borrower with respect to such joint consolidation loan (as of the date such joint consolidation loan was made); or
+
+          (BB) in the case in which both borrowers request, on the basis of proportions outlined in a divorce decree, court order, or settlement agreement; and
+
+      (II) has the same rate of interest as the joint consolidation loan (as of the date that is the day before such separate consolidation loan is made); and
+
+    (ii) in a timely manner, notify each individual borrower that the joint consolidation loan had been repaid and of the terms and conditions of their new loans.
+
+  (C) *Application for separate direct consolidation loan*
+
+    (i) *Joint application* — Except as provided in clause (ii), to receive separate consolidation loans under this part, both individual borrowers in a married couple (or previously married couple) shall jointly apply under subparagraph (A).
+
+    (ii) *Separate application* — An individual borrower in a married couple (or previously married couple) may apply for a separate consolidation loan under subparagraph (A) separately and without regard to whether or when the other individual borrower in the married couple (or previously married couple) applies under subparagraph (A), in a case in which—
+
+      (I) the individual borrower certifies to the Secretary that such borrower—
+
+        (aa) has experienced an act of domestic violence (as defined in [section 12291 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim) from the other individual borrower;
+
+        (bb) has experienced economic abuse (as defined in [section 12291 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim) from the other individual borrower; or
+
+        (cc) is unable to reasonably reach or access the loan information of the other individual borrower; or
+
+      (II) the Secretary determines that authorizing each individual borrower to apply separately under subparagraph (A) would be in the best fiscal interests of the Federal Government.
+
+    (iii) *Remaining obligation from separate application* — In the case of an individual borrower who receives a separate consolidation loan due to the circumstances described in clause (ii), the other non-applying individual borrower shall become solely liable for the remaining balance of the joint consolidation loan.
 
 **(h) Borrower defenses** Notwithstanding any other provision of State or Federal law, the Secretary shall specify in regulations which acts or omissions of an institution of higher education a borrower may assert as a defense to repayment of a loan made under this part, except that in no event may a borrower recover from the Secretary, in any action arising from or relating to a loan made under this part, an amount in excess of the amount such borrower has repaid on such loan.
 
@@ -20964,12 +21070,16 @@ Nothing in amendment by Pub. L. 109–171 to be construed to authorize any refun
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 705, Dec. 27, 2020, 134 Stat. 3137, 3200, provided that, effective July 1, 2023, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsec. (q). See 2020 Amendment note below.
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 705, Dec. 27, 2020, 134 Stat. 3137, 3200; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsec. (q). See 2020 Amendment note below.
 
 #### References in Text
-Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
+Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(5), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
+
+Subparagraph (C) of [section 1078–3(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3&num=0&edition=prelim) (as such subparagraph was in effect on June 30, 2006), referred to in subsec. (g)(2)(A)(i), means [section 1078–3(a)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1078–3/a/3/C&num=0&edition=prelim) prior to being struck out by Pub. L. 109–171, title VIII, § 8009(c), Feb. 8, 2006, 120 Stat. 164, effective July 1, 2006. Text of subsec. (a)(3)(C) prior to its repeal is set out in a 2006 Amendment note under [section 1078–3 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-3).
 
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–200 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
 2020—Subsec. (l). Pub. L. 116–259, § 202(b)(2)(A), substituted “Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs” for “Armed Forces student loan interest payment program” in heading.
 
 Subsec. (l)(1). Pub. L. 116–259, § 202(b)(2)(B), inserted “or [section 3078 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3078&num=0&edition=prelim)” after “[section 2174 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2174&num=0&edition=prelim)” and “or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively” after “Armed Forces”.
@@ -21101,9 +21211,11 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, § 401(g)(6), substituted “Federal
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 Pub. L. 116–260, div. FF, title VII, § 705(b), Dec. 27, 2020, 134 Stat. 3200, provided that: “Notwithstanding section 701(b) of this Act [div. FF of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001)] and section 455(q) of the Higher Education Act of 1965 ([20 U.S.C. 1087e(q)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087e/q&num=0&edition=prelim)) as in effect on the date of enactment of this Act [Dec. 27, 2020], the Secretary of Education may implement the repeal authorized under subsection (a) [repealing subsec. (q) of this section] before (but not later than) July 1, 2023. The Secretary shall specify in a designation on what date and for which award years the implementation of such repeal will be effective prior to July 1, 2023. The Secretary shall publish any designation under this paragraph in the Federal Register at least 60 days before implementation.”
+
+[Effective date of title VII of div. FF of Pub. L. 116–260 was changed from July 1, 2023, to July 1, 2024, by section 102(a) of Pub. L. 117–103, see section 701(b) of div. FF of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). However, the July 1, 2023, implementation dates in section 705(b) of Pub. L. 116–260, set out above, were not correspondingly amended.]
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–245 applicable with respect to loans made on or after Sept. 28, 2018, or in repayment on Sept. 28, 2018, see section 309(f) of Pub. L. 115–245, set out as a note under [section 1077 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1077).
@@ -21263,13 +21375,13 @@ Donald J. Trump.
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(A)(i), (L), (M), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of this title. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
-The Head Start Act, referred to in subsec. (a)(2)(B), is subchapter B (§§ 635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
+The Head Start Act, referred to in subsec. (a)(2)(B), is subchapter B (§§ 635 to 657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
-The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
+The Peace Corps Act, referred to in subsec. (a)(2)(E), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§ 4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim) and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(E), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§ 4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim) and Tables.
 
-The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§ 12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12501&num=0&edition=prelim) and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a)(6), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitle D of title I of the Act is classified generally to division D of subchapter I (§ 12601 et seq.) of chapter 129 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12501&num=0&edition=prelim) and Tables.
 
 [Section 1087aa of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087aa), referred to in subsec. (b), was amended by Pub. L. 114–105, § 2(a)(1)(B), Dec. 18, 2015, 129 Stat. 2219, which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
 
@@ -21415,9 +21527,11 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Selection of Student Loan Servicer
-Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1603, provided in part: “That for student loan contracts awarded prior to October 1, 2017, the Secretary [of Education] shall allow student loan borrowers who are consolidating Federal student loans to select from any student loan servicer to service their new consolidated student loan”.
+Pub. L. 117–103, div. H, title III, Mar. 15, 2022, 136 Stat. 480, provided in part: “That for student loan contracts awarded prior to October 1, 2017, the Secretary [of Education] shall allow student loan borrowers who are consolidating Federal student loans to select from any student loan servicer to service their new consolidated student loan”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1603.
 
 Pub. L. 116–94, div. A, title III, Dec. 20, 2019, 133 Stat. 2592.
 
@@ -21637,6 +21751,9 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date
 Section effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as an Effective Date of 1992 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
+#### Funds for Account Maintenance Fees
+Pub. L. 117–103, div. H, title III, § 306, Mar. 15, 2022, 136 Stat. 484, provided that: “Section 458(a)(4) of the HEA [Higher Education Act of 1965] ([20 U.S.C. 1087h(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087h/a&num=0&edition=prelim)) shall be applied by substituting ‘2022’ for ‘2021’.”
 
 #### Construction
 Pub. L. 105–78, title VI, § 609(m), Nov. 13, 1997, 111 Stat. 1524, provided that: “Nothing in this Act [see Tables for classification] or an amendment made by this Act shall be construed to prohibit the Secretary of Education from using funds that are returned or otherwise recovered by the Secretary under section 422(g) of the Higher Education Act of 1965 ([20 U.S.C. 1072(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1072/g&num=0&edition=prelim)) including the balances of returned reserve funds, formerly held by the Higher Education Assistance Foundation, that are currently held in Higher Education Assistance Foundation Claims Reserves, Treasury account number 91X6192, for expenditure for expenses pursuant to section 458 of such Act ([20 U.S.C. 1087h](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087h)).”
@@ -21972,11 +22089,11 @@ Except as otherwise provided therein, the amount of need of any student for fina
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(a)(1), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(a)(1), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, § 102(a), (b)(2), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087kk. Amount of need
 
-Except as otherwise provided therein, for award year 2023–2024 and each subsequent award year, the amount of need of any student for financial assistance under this subchapter (except subpart 1 or 2 of part A) is equal to—
+Except as otherwise provided therein, for award year 2024–2025 and each subsequent award year, the amount of need of any student for financial assistance under this subchapter (except subpart 1 or 2 of part A) is equal to—
 
 (1) the cost of attendance of such student, minus
 
@@ -21984,9 +22101,11 @@ Except as otherwise provided therein, for award year 2023–2024 and each subseq
 
 (3) other financial assistance not received under this subchapter (as defined in [section 1087vv(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087vv/i&num=0&edition=prelim)).
 
-See 2020 Amendment note below.
+See 2020 and 2022 Amendment notes below.
 
 #### Amendments
+2022—Pub. L. 117–103 substituted “award year 2024–2025” for “award year 2023–2024” in introductory provisions.
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, text read as follows: “Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter (except subparts 1 or 2 of part A of this subchapter) is equal to—
 
 “(1) the cost of attendance of such student, minus
@@ -22000,7 +22119,7 @@ See 2020 Amendment note below.
 1992—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “Except as otherwise provided therein, the amount of need of any student for financial assistance under this subchapter (except subparts 1 and 3 of part A of this subchapter) is equal to the cost of attendance of such student minus the expected family contribution for such student.”
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–244, title IV, § 480A, Oct. 7, 1998, 112 Stat. 1732, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this part [part F (§§ 471–480A) of title IV of Pub. L. 105–244, amending this section and sections 1087ll to 1087tt and 1087vv of this title] are effective on the date of enactment of this Act [Oct. 7, 1998]. “(b) Provisions Effective for Academic Year 2000–2001, and Thereafter.—The amendments made by sections 472, 473, 474, and 475 [amending sections 1087nn to 1087qq of this title] shall apply with respect to determinations of need under part F of title IV of the Higher Education Act of 1965 [this part] for academic years beginning on or after July 1, 2000.”
@@ -22069,7 +22188,7 @@ For the purpose of this subchapter, the term “cost of attendance” means—
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, §§ 102(a), (c)(1)(A)(i), 103(a), Mar. 15, 2022, 136 Stat. 819, 820, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions for implementation on or after July 1, 2023, this section is amended to read as follows:
 
 § 1087ll. Cost of attendance
 
@@ -22121,7 +22240,7 @@ For the purpose of this subchapter, the term “cost of attendance” means—
 
 (12) for a student engaged in a work experience under a cooperative education program, an allowance for reasonable costs associated with such employment (as determined by the institution);
 
-(13) for a student who receives a Federal student loan made under this subchapter or any other Federal law, to cover a student’s cost of attendance at the institution, an allowance for the actual cost of any loan fee, origination fee, or insurance premium charged to such student or the parent of such student on such loan; and
+(13) for a student who receives a Federal student loan made under this subchapter or any other Federal law, to cover a student’s cost of attendance at the institution, an allowance for the actual cost of any loan fee, origination fee, or insurance premium charged to such student or the parent of such student on such loan, or the average cost of any such fee or premium, as applicable; and
 
 (14) for a student in a program requiring professional licensure, certification, or a first professional credential, the cost of obtaining the license, certification, or a first professional credential.
 
@@ -22133,9 +22252,11 @@ For students attending an institution of higher education less than half-time, a
 
 Each institution shall make publicly available on the institution’s website a list of all the elements of cost of attendance described in paragraphs (1) through (14) of subsection (a), and shall disclose such elements on any portion of the website describing tuition and fees of the institution.
 
-See 2020 Amendment note below.
+See 2020 and 2022 Amendment notes below.
 
 #### Amendments
+2022—Subsec. (a)(13). Pub. L. 117–103 inserted “, or the average cost of any such fee or premium, as applicable” after “on such loan”.
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section consisted of pars. (1) to (13) which defined “cost of attendance”.
 
 2008—Par. (3)(C), (D). Pub. L. 110–315 added subpar. (C) and redesignated former subpar. (C) as (D).
@@ -22158,8 +22279,11 @@ Par. (11). Pub. L. 105–244, § 471(4), substituted “engaged” for “placed
 
 1992—Pub. L. 102–325 amended section generally, revising and restating as pars. (1) to (11) provisions formerly contained in pars. (1) to (9).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 effective as if included in title VII of div. FF of Pub. L. 116–260 and subject to the effective date of section 701(b) of title VII (July 1, 2024), see section 103(d) of div. R of Pub. L. 117–103, set out as a note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
+
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(i) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–315, title IV, § 471(b), Aug. 14, 2008, 122 Stat. 3269, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on July 1, 2010.”
@@ -22234,7 +22358,7 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(b), Dec. 27, 2020, 134 Stat. 3137, 3138; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions for implementation on or after July 1, 2023, this section is amended to read as follows:
 
 § 1087mm. Special rules for student aid index
 
@@ -22273,7 +22397,7 @@ Subsec. (b)(4), (5). Pub. L. 115–141, § 317(3), added pars. (4) and (5).
 1992—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “For the purpose of this subchapter, except subparts 1 and 3 of part A, the term ‘family contribution’ with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.”
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(i) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–39, title IV, § 406(b), July 1, 2009, 123 Stat. 1950, provided that: “The amendments made by— “(1) paragraph (1) of subsection (a) [amending this section] shall take effect on July 1, 2009; and “(2) paragraph (4) of such subsection [amending [section 1087ss of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087ss)] shall be effective as if enacted as part of the amendments in section 602(a) of the College Cost Reduction and Access Act (Public Law 110–84), and shall take effect on July 1, 2009.”
@@ -22314,7 +22438,7 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(c), Dec. 27, 2020, 134 Stat. 3137, 3141, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(c), Dec. 27, 2020, 134 Stat. 3137, 3141; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087nn. Determination of student aid index
 
@@ -22338,7 +22462,7 @@ See 2020 Amendment note below.
 1988—Par. (8). Pub. L. 100–369 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of need under this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under [section 1087kk of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087kk).
@@ -22505,7 +22629,7 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(d), Dec. 27, 2020, 134 Stat. 3137, 3141, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(d), Dec. 27, 2020, 134 Stat. 3137, 3141; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087oo. Student aid index for dependent students
 
@@ -22802,7 +22926,7 @@ Subsec. (h). Pub. L. 100–50, § 14(11), added subsec. (h) and struck out forme
 Subsec. (i). Pub. L. 100–50, § 14(12), added subsec. (i).
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -22927,7 +23051,7 @@ except that the amount determined under this subsection shall not be less than z
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(e), Dec. 27, 2020, 134 Stat. 3137, 3145, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(e), Dec. 27, 2020, 134 Stat. 3137, 3145; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087pp. Student aid index for independent students without dependents other than a spouse
 
@@ -23117,7 +23241,7 @@ Subsec. (c)(2)(C). Pub. L. 100–50, § 14(4), added table and struck out former
 Pub. L. 100–50, § 14(1), substituted “[section 1087rr of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087rr)” for “[section 1087ss of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087ss)”.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087oo of this title.
@@ -23226,7 +23350,7 @@ except that the amount determined under this subsection shall not be less than z
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(f), Dec. 27, 2020, 134 Stat. 3137, 3147, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(f), Dec. 27, 2020, 134 Stat. 3137, 3147; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087qq. Student aid index for independent students with dependents other than a spouse
 
@@ -23438,7 +23562,7 @@ Subsec. (c)(4)(C). Pub. L. 100–50, § 14(6), substituted “$16,000” for “
 Subsec. (d). Pub. L. 100–50, § 14(1), (8), substituted “[section 1087rr of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087rr)” for “[section 1087ss of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087ss)” in text and inserted a minus sign before “$3,409” in two places in table.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -23521,7 +23645,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(g), Dec. 27, 2020, 134 Stat. 3137, 3150, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(g), Dec. 27, 2020, 134 Stat. 3137, 3150; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087rr. Regulations; updated tables
 
@@ -23626,7 +23750,7 @@ Subsec. (d). Pub. L. 100–50, § 14(20), inserted “, rounded to the nearest $
 Subsec. (f). Pub. L. 100–50, § 14(22), substituted “Consumer Price Index for All Urban Consumers” for “Consumer Price Index for Wage Earners and Clerical Workers”.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–84 effective July 1, 2009, see section 601(e) of Pub. L. 110–84, set out as a note under section 1087oo of this title.
@@ -23765,13 +23889,13 @@ An individual is not required to qualify or file for the earned income credit in
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(h), Dec. 27, 2020, 134 Stat. 3137, 3152, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(h), Dec. 27, 2020, 134 Stat. 3137, 3152; Pub. L. 117–103, div. R, § 102(a), (b)(3), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087ss. Eligible applicants exempt from asset reporting
 
 (a) In general
 
-Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090), on or after July 1, 2023.
+Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under [section 1090 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090), on or after July 1, 2024.
 
 (b) Applicants exempt from asset reporting
 
@@ -23857,7 +23981,7 @@ The term “means-tested Federal benefit program” means any of the following:
 
 (vii) Other means-tested programs determined by the Secretary to be approximately consistent with the income eligibility requirements of the means-tested programs under clauses (i) through (vi).
 
-See 2020 Amendment note below.
+See 2020 and 2022 Amendment notes below.
 
 #### References in Text
 The Social Security Act, referred to in subsec. (d)(2)(A), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
@@ -23870,6 +23994,8 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–103 substituted “July 1, 2024” for “July 1, 2023”.
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to simplified needs test.
 
 2014—Subsec. (d)(1). Pub. L. 113–128 substituted “The term ‘dislocated worker’ has the meaning given the term in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim)” for “The term ‘dislocated worker’ has the meaning given the term in [section 2801 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2801&num=0&edition=prelim)”.
@@ -23961,7 +24087,7 @@ Subsec. (b)(6). Pub. L. 100–50, § 14(24)(B)–(D), added par. (6).
 Subsec. (c). Pub. L. 100–50, § 14(25), added subsec. (c).
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -24014,7 +24140,7 @@ Pub. L. 109–171, title VIII, § 8018(b), Feb. 8, 2006, 120 Stat. 175, provided
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(i), Dec. 27, 2020, 134 Stat. 3137, 3155, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(i), Dec. 27, 2020, 134 Stat. 3137, 3155; Pub. L. 117–103, div. R, §§ 102(a), (c)(1)(A)(ii), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions for implementation on or after July 1, 2023, this section is amended to read as follows:
 
 § 1087tt. Discretion of student financial aid administrators
 
@@ -24245,7 +24371,7 @@ Subsec. (c). Pub. L. 105–244, § 478(2), amended heading and text of subsec. (
 1989—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B, C, and E of this subchapter.”
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(ii) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -24274,7 +24400,7 @@ Notwithstanding any other provision of law, student financial assistance receive
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(j), Dec. 27, 2020, 134 Stat. 3137, 3160, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(j), Dec. 27, 2020, 134 Stat. 3137, 3160; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087uu. Disregard of student aid in other programs
 
@@ -24291,7 +24417,7 @@ A prior section 1087uu, Pub. L. 89–329, title IV, § 479B, as added Pub. L. 99
 1992—Pub. L. 102–325 amended section generally, revising and restating as a single paragraph provisions formerly contained in subsec. (a) which proscribed consideration of aid for attendance costs as income or resources, and in subsec. (b) which delineated elements of attendance costs.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–325 applicable with respect to determinations of need under this part for award years beginning on or after July 1, 1993, see section 471(b) of Pub. L. 102–325, set out as a note under [section 1087kk of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087kk).
@@ -24314,7 +24440,7 @@ In determining family contributions for Native American students, computations p
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(k), Dec. 27, 2020, 134 Stat. 3137, 3160, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(k), Dec. 27, 2020, 134 Stat. 3137, 3160; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087uu–1. Native American students
 
@@ -24355,7 +24481,7 @@ Par. (2). Pub. L. 111–39, § 406(a)(5)(B), substituted “Alaska” for “Ala
 1992—Pub. L. 102–325 amended section generally, reenacting provisions without change.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
@@ -24379,7 +24505,7 @@ Section effective as if enacted as part of the Higher Education Amendments of 19
 
   (C) the director of a project supported by a Federal TRIO program or a Gaining Early Awareness and Readiness for Undergraduate program grant under division 1 or 2 of subpart 2 of part A, or a designee of the director; or
 
-  (D) a financial aid administrator at another institution who documented the student’s circumstance in a prior award year.
+  (D) a financial aid administrator at another institution who documented the student’s circumstance in the same or a prior award year.
 
 (2) If a student is unable to provide documentation from any individual described in paragraph (1), make a case-by-case determination, which shall be—
 
@@ -24405,7 +24531,7 @@ Section effective as if enacted as part of the Higher Education Amendments of 19
 
 (4) Verification of the student’s eligibility for an education and training voucher under the John H. Chafee Foster Care Program under section 477 of the Social Security Act ([42 U.S.C. 677](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section677&num=0&edition=prelim)).
 
-(5) A documented phone call or written statement from a financial aid administrator who documented the student’s circumstance in a prior award year.
+(5) A documented phone call or written statement from a financial aid administrator who documented the student’s circumstance in the same or a prior award year.
 
 **(c) Timing** A determination of independence under paragraph (2), (8), or (9) of [section 1087vv(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087vv/d&num=0&edition=prelim) for a student—
 
@@ -24423,20 +24549,30 @@ Section effective as if enacted as part of the Higher Education Amendments of 19
 
   (B) the institution has specific conflicting information about the student’s independence and has informed the student of this information.
 
-(2) **Earlier determination by another institution** — A financial aid administrator may make a determination of independence pursuant to [section 1087tt(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087tt/c&num=0&edition=prelim), based upon a documented determination of independence that was previously made by another financial aid administrator under such paragraph in the same award year.
+(2) **Earlier determination by another institution** — A financial aid administrator may make a determination of independence pursuant to [section 1087tt(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087tt/c&num=0&edition=prelim), this section, or paragraph (2), (8), or (9) of [section 1087vv(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087vv/d&num=0&edition=prelim), based upon a documented determination of independence that was previously made by another financial aid administrator under such provisions in the same or a prior award year.
 
 **(e) Retention of documents** A financial aid administrator shall retain all documents related to any determination of independence, including documented interviews, for at least the duration of the student’s enrollment and an additional period prescribed by the Secretary to enable a student to utilize the documents for the purposes of subsection (a)(1)(D), (b)(5), or (d) of this section.
 
 ### Statutory Notes
 
 #### Delayed Effective Date of Section
-Section effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see Effective Date note below.
+Section effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions for implementation on or after July 1, 2023, see Effective Date note below.
 
 #### References in Text
 The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2022—Subsec. (a)(1)(D). Pub. L. 117–103, § 103(b)(1), inserted “the same or” before “a prior award”.
+
+Subsec. (b)(5). Pub. L. 117–103, § 103(b)(2), inserted “the same or” before “a prior award”.
+
+Subsec. (d)(2). Pub. L. 117–103, § 103(b)(3), inserted “this section, or paragraph (2), (8), or (9) of [section 1087vv(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087vv/d&num=0&edition=prelim),” after “pursuant to [section 1087tt(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087tt/c&num=0&edition=prelim)”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 effective as if included in title VII of div. FF of Pub. L. 116–260 and subject to the effective date of section 701(b) of title VII (July 1, 2024), see section 103(d) of div. R of Pub. L. 117–103, set out as a note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
+
 #### Effective Date
-Section effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Section effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). Implementation of section allowed on or after July 1, 2023, see section 102(c)(1)(A)(iii) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
 
 
 <a id="section-1087vv"></a>
@@ -24653,7 +24789,7 @@ As used in this part:
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(l)(2), Dec. 27, 2020, 134 Stat. 3137, 3163, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(l)(2), Dec. 27, 2020, 134 Stat. 3137, 3163; Pub. L. 117–103, div. R, § 102(a), (c)(1)(A)(iii) Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1087vv. Definitions
 
@@ -24979,7 +25115,7 @@ Subsec. (d)(2)(F). Pub. L. 100–50, § 14(28)(F), substituted “annual total r
 Subsecs. (f) to (h). Pub. L. 100–50, § 14(28)(G), added subsecs. (f) to (h).
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). Implementation of amendment by Pub. L. 116–260 allowed on or after July 1, 2023, see section 102(c)(1)(A)(iii) of Pub. L. 117–103, set out as an On-Time Effective Date Permitted note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
@@ -25246,6 +25382,36 @@ Repeal effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244
 
           (BB) such lender or beneficial owner presented the proposal of electing such a waiver applicable to such loans associated with an obligation rated by a nationally recognized statistical rating organization (as defined in [section 78c(a)(62) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/62&num=0&edition=prelim)), and such rating organization provided a written opinion that the agency would downgrade the rating applicable to such obligation if the lender or owner elected such a waiver.
 
+    (viii) *Revised calculation rule to address instances where 1-month usd libor ceases or is non-representative.—*
+
+      (I) *Substitute reference index.—* — The provisions of this clause apply to loans for which the special allowance payment would otherwise be calculated pursuant to clause (vii).
+
+      (II) *Calculation based on sofr.—* — For loans described in subclause (III) or (IV), the special allowance payment described in this subclause shall be substituted for the payment provided under clause (vii). For each calendar quarter, the formula for computing the special allowance that would otherwise apply under clause (vii) shall be revised by substituting “of the quotes of the 30-day Average Secured Overnight Financing Rate (SOFR) in effect for each of the days in such quarter as published by the Federal Reserve Bank of New York (or a successor administrator), adjusted daily by adding the tenor spread adjustment, as that term is defined in the Adjustable Interest Rate (LIBOR) Act, for 1-month LIBOR contracts of 0.11448 percent” for “of the 1-month London Inter Bank Offered Rate (LIBOR) for United States dollars in effect for each of the days in such quarter as compiled and released by the British Bankers Association”. The special allowance calculation for loans subject to clause (vii) shall otherwise remain in effect.
+
+      (III) *Loans eligible for sofr-based calculation.—* — Except as provided in subclause (IV), the special allowance payment calculated under subclause (II) shall apply to all loans for which the holder (or, if the holder acts as an eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan) at any time after the effective date of this clause notifies the Secretary that the holder or beneficial owner affirmatively and permanently elects to waive all contractual, statutory, or other legal rights to a special allowance paid under clause (vii) or to the special allowance paid pursuant to any other formula that was previously in effect with respect to such loan, and accepts the rate described in subclause (II). Any such waiver shall apply to all loans then held, or to be held from time to time, by such holder or beneficial owner; provided that, due to the need to obtain the approval of, demonstrated to the satisfaction of the Secretary—
+
+        (aa) one or more third parties with a legal or beneficial interest in loans eligible for the SOFR-based calculation; or
+
+        (bb) a nationally recognized rating organization assigning a rating to a financing secured by loans otherwise eligible for the SOFR-based calculation,
+      the holder of the loan (or, if the holder acts as an eligible lender trustee for the beneficial owner of the loan, the beneficial owner of the loan) may elect to apply the rate described in subclause (II) to specified loan portfolios established for financing purposes by separate notices with different effective dates. The special allowance rate based on SOFR shall be effective with respect to a portfolio as of the first day of the calendar quarter following the applicable effective date of the waiver received by the Secretary from the holder or beneficial owner and shall permanently and irrevocably continue for all subsequent quarters.
+
+      (IV) *Fallback provisions.—*
+
+        (aa) In the event that a holder or beneficial owner has not elected to waive its rights to a special allowance payment under clause (vii) with respect to a portfolio with an effective date of the waiver prior to the first of—
+
+          (AA) the date on which the ICE Benchmark Administration (“IBA”) has permanently or indefinitely stopped providing the 1-month United States Dollar LIBOR (“1-month USD LIBOR”) to the general public;
+
+          (BB) the effective date of an official public statement by the IBA or its regulator that the 1-month USD LIBOR is no longer reliable or no longer representative; or
+
+          (CC) the LIBOR replacement date, as defined in [section 5802 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5802&num=0&edition=prelim),
+        the special allowance rate calculation as described in subclause (II) shall, by operation of law, apply to all loans in such portfolio.
+
+        (bb) In such event—
+
+          (AA) the last determined rate of special allowance based on 1-month USD LIBOR will continue to apply until the end of the then current calendar quarter; and
+
+          (BB) the special allowance rate calculation as described in subclause (II) shall become effective as of the first day of the following calendar quarter and remain in effect for all subsequent calendar quarters.
+
 (3) **Contractual right of holders to special allowance** — The holder of an eligible loan shall be deemed to have a contractual right against the United States, during the life of such loan, to receive the special allowance according to the provisions of this section. The special allowance determined for any such 3-month period shall be paid promptly after the close of such period, and without administrative delay after receipt of an accurate and complete request for payment, pursuant to procedures established by regulations promulgated under this section.
 
 (4) **Penalty for late payment**
@@ -25347,6 +25513,8 @@ Repeal effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244
 
 The date of enactment of this section, referred to in subsec. (b)(2)(I)(vii)(III)(bb)(AA), probably means the date of enactment of Pub. L. 112–74, which enacted subsec. (b)(2)(I)(vii) and was approved Dec. 23, 2011.
 
+The Adjustable Interest Rate (LIBOR) Act, referred to in subsec. (b)(2)(I)(viii)(II), is div. U of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 825, which is classified principally to chapter 55 (§ 5801 et seq.) of Title 12, Banks and Banking. The term “tenor spread adjustment” is defined in [section 5802 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5802&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5801&num=0&edition=prelim) and Tables.
+
 The Servicemembers Civil Relief Act, referred to in subsec. (g), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§ 3901 et seq.) of Title 50. The parenthetical reference to “(50 U.S.C. App. 527)” relates to section 207 of the Act, which is now classified to [section 3937 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3937&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
@@ -25355,6 +25523,8 @@ A prior section 1087–1, Pub. L. 89–329, title IV, § 438, as added Pub. L. 9
 A prior section 1087–1a, Pub. L. 96–374, title IV, § 420(b), Oct. 3, 1980, 94 Stat. 1427, related to eligibility for special allowances covering loans made or purchased with funds obtained from Authorities issuing tax exempt obligations, and established requirement relating to plans for doing business, prior to repeal by Pub. L. 98–79, § 7(b), Aug. 15, 1983, 97 Stat. 483.
 
 #### Amendments
+2022—Subsec. (b)(2)(I)(viii). Pub. L. 117–103 added cl. (viii).
+
 2011—Subsec. (b)(2)(I)(i)(II). Pub. L. 112–74, § 309(e)(2)(A), substituted “the rate determined under subclause (I) (in accordance with clause (vii))” for “such average bond equivalent rate”.
 
 Subsec. (b)(2)(I)(v)(III). Pub. L. 112–74, § 309(e)(2)(B), substituted “(iv), (vi), and (vii)” for “(iv), and (vi)”.
@@ -26421,7 +26591,7 @@ Pub. L. 90–575, title I, § 131(c), Oct. 16, 1968, 82 Stat. 1028, provided tha
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended:
 
 (1) by striking “the expected family contribution” each place the term appears and inserting “the student aid index”;
 
@@ -26493,7 +26663,7 @@ Subsec. (e). Pub. L. 102–325, § 442(b), amended subsec. (e) generally. Prior 
 1987—Subsec. (e)(2). Pub. L. 100–50, substituted “not to exceed 25 percent” for “25 percent” and “[section 1087–57(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087–57/c&num=0&edition=prelim)” for “subsection (c) of this section”, and made technical amendment to reference to [section 1087–57 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087-57) to correct numerical designation of corresponding section of original act.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–244, title IV, § 442(c), Oct. 7, 1998, 112 Stat. 1712, provided that: “The amendments made by this section [amending this section] shall apply with respect to allocations of amounts appropriated pursuant to section 441(b) for fiscal year 2000 or any succeeding fiscal year.”
@@ -27763,7 +27933,7 @@ Pub. L. 97–301, § 6, Oct. 13, 1982, 96 Stat. 1400, as amended by Pub. L. 98�
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(m)(1), Dec. 27, 2020, 134 Stat. 3137, 3168, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(m)(1), Dec. 27, 2020, 134 Stat. 3137, 3168; Pub. L. 117–103, div. R, § 102(a), (b)(4), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1090. Free Application for Federal Student Aid
 
@@ -27771,7 +27941,7 @@ Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(m)(1), Dec. 27, 2020, 13
 
 (1) In general
 
-Each individual seeking to apply for Federal financial aid under this subchapter for award year 2023–2024 and any subsequent award year shall file a free application with the Secretary, known as the “Free Application for Federal Student Aid”, to determine eligibility for such aid, as described in paragraph (2), and in accordance with [section 1087ss of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087ss).
+Each individual seeking to apply for Federal financial aid under this subchapter for award year 2024–2025 and any subsequent award year shall file a free application with the Secretary, known as the “Free Application for Federal Student Aid”, to determine eligibility for such aid, as described in paragraph (2), and in accordance with [section 1087ss of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1087ss).
 
 (2) Free application
 
@@ -28107,7 +28277,7 @@ Not later than 9 months after December 27, 2020, the Secretary shall begin consu
 
 (B) Updates
 
-For award year 2023–2024 and at least each fourth succeeding award year thereafter, the Secretary shall update the design of the Free Application for Federal Student Aid based on additional consumer testing with the populations described in subparagraph (A) in order to improve the usability and accessibility of the application.
+For award year 2024–2025 and at least each fourth succeeding award year thereafter, the Secretary shall update the design of the Free Application for Federal Student Aid based on additional consumer testing with the populations described in subparagraph (A) in order to improve the usability and accessibility of the application.
 
 (3) Accessibility of the FAFSA
 
@@ -28239,12 +28409,14 @@ The Secretary shall maintain an electronic method for applicants to enter income
 
 Notwithstanding any other provision of this subchapter, an institution may not condition the packaging or receipt of Federal financial aid on the completion of additional requests for financial information beyond the Free Application for Federal Student Aid, unless such information is required for verification, a determination of independence, or professional judgement.
 
-See 2020 Amendment note below.
+See 2020 and 2022 Amendment notes below.
 
 #### Prior Provisions
 A prior section 1090, Pub. L. 89–329, title IV, § 483, as added Pub. L. 96–374, title IV, § 451(a), Oct. 3, 1980, 94 Stat. 1448, related to forms and regulations for student assistance programs, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+2022—Subsecs. (a)(1), (b)(2)(B). Pub. L. 117–103 substituted “award year 2024–2025” for “award year 2023–2024”.
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to forms and regulations.
 
 2010—Subsec. (e)(3)(A)(ii). Pub. L. 111–152 substituted “based on the Federal Pell Grant amount, determined under [section 1070a(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b/2/A&num=0&edition=prelim), for which a student is eligible at the time of application” for “based on the maximum Federal Pell Grant award at the time of application”.
@@ -28322,7 +28494,7 @@ Subsec. (a)(2). Pub. L. 100–50, § 15(5), substituted “not less than 5” fo
 Subsecs. (b) to (f). Pub. L. 100–50, § 15(6), added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–152 effective July 1, 2010, see section 2101(c) of Pub. L. 111–152, set out as a note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
@@ -28346,6 +28518,8 @@ Subsec. (e) of this section applicable to student assistance awarded for periods
 
 #### Reports
 Pub. L. 116–260, div. FF, title VII, § 702(m)(2), Dec. 27, 2020, 134 Stat. 3182, provided that: “Notwithstanding [section 701(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section701/b&num=0&edition=prelim) [set out as an Effective Date of 2020 Amendment note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001)], the Secretary of Education shall have the authority to issue reports and begin consumer testing prior to July 1, 2023, as provided in the amendment made by paragraph (1) [amending this section].”
+
+[Effective date of title VII of div. FF of Pub. L. 116–260 was changed from July 1, 2023, to July 1, 2024, by section 102(a) of Pub. L. 117–103, see section 701(b) of div. FF of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). However, the July 1, 2023, date in section 702(m)(2) of Pub. L. 116–260, set out above was not correspondingly amended.]
 
 #### Identification of Foster Youth on FAFSA
 Pub. L. 113–235, div. G, title III, § 308, Dec. 16, 2014, 128 Stat. 2504, provided that: “The Secretary of Education shall— “(1) modify the Free Application for Federal Student Aid described in section 483 of the HEA [Higher Education Act of 1965, [20 U.S.C. 1090](./chapter-028-higher-education-resources-and-student-assistance.md#section-1090)] so that the Free Application for Federal Student Aid contains an individual box for the purpose of identifying students who are foster youth or were in the foster care system; and “(2) utilize such identification as a tool to notify students who are foster youth or were in the foster care system of their potential eligibility for Federal student aid, including postsecondary education programs through the John H. Chafee Foster Care Independence Program and any other Federal programs under which such students may be eligible to receive assistance.”
@@ -28602,7 +28776,7 @@ the official of the institution making the determination shall notify and instru
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(n)(1)(A), (2), Dec. 27, 2020, 134 Stat. 3137, 3182, 3186, provided that, effective July 1, 2023, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(n)(1)(A), (2), Dec. 27, 2020, 134 Stat. 3137, 3182, 3186; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended as follows:
 
 (1) by striking subsections (n) and (r);
 
@@ -28952,9 +29126,9 @@ Subsec. (d). Pub. L. 99–603 added subsec. (d) limiting enforcement actions aga
 Subsec. (e). Pub. L. 99–603 added subsec. (e) relating to validity of loan guarantees for loan payments made before completion of immigration status verification.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
-Amendment by Pub. L. 116–260 may be implemented by Secretary of Education before (but not later than) July 1, 2023, notwithstanding certain provisions, with such date of implementation required to be published in the Federal Register, see section 702(n)(2) of Pub. L. 116–260, set out as a note under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2).
+Amendment by Pub. L. 116–260 may be implemented by Secretary of Education before (but not later than) July 1, 2023, notwithstanding certain provisions, with such date of implementation required to be published in the Federal Register, see section 702(n)(2) of Pub. L. 116–260, set out as a note under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2). Effective date of title VII of div. FF of Pub. L. 116–260 was changed from July 1, 2023, to July 1, 2024, by section 102(a) of Pub. L. 117–103, see section 701(b) of div. FF of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). However, the July 1, 2023, implementation dates in section 702(n)(2) of Pub. L. 116–260 were not correspondingly amended.
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–235, div. G, title III, § 309(a)(2), Dec. 16, 2014, 128 Stat. 2506, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if such amendment was enacted on June 30, 2014, and shall apply to students who are enrolled or who first enroll in an eligible program of study on or after July 1, 2014.”
@@ -29502,9 +29676,17 @@ Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 1
 
       (IV) that borrower benefit programs may vary among different lenders;
 
-    (viii) a general description of the types of tax benefits that may be available to borrowers; and
+    (viii) a general description of the types of tax benefits that may be available to borrowers;
 
     (ix) a notice to borrowers about the availability of the National Student Loan Data System and how the system can be used by a borrower to obtain information on the status of the borrower’s loans; and
+
+    (x) an explanation that—
+
+      (I) the borrower may be contacted during the repayment period by third-party student debt relief companies;
+
+      (II) the borrower should use caution when dealing with those companies; and
+
+      (III) the services that those companies typically provide are already offered to borrowers free of charge through the Department or the borrower’s servicer; and
 
   (B) In the case of borrower who leaves an institution without the prior knowledge of the institution, the institution shall attempt to provide the information described in subparagraph (A) to the student in writing.
 
@@ -30042,21 +30224,8 @@ Subsec. (c)(3)(C)(v). Pub. L. 115–232, § 1204(a)(6), substituted “chapter 1
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b)
-Pub. L. 116–251, §§ 3, 6, Dec. 22, 2020, 134 Stat. 1129, 1132, provided that, effective 180 days after Dec. 22, 2020, subsection (b) of this section is amended by striking “and” after the semicolon in clause (viii) and by adding at the end the following:
-
-(x) an explanation that—
-
-(I) the borrower may be contacted during the repayment period by third-party student debt relief companies;
-
-(II) the borrower should use caution when dealing with those companies; and
-
-(III) the services that those companies typically provide are already offered to borrowers free of charge through the Department or the borrower’s servicer; and
-
-See 2020 Amendment note below.
-
 #### Amendment of Subsection (k)
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(n)(1)(C), (2), Dec. 27, 2020, 134 Stat. 3137, 3186, provided that, effective July 1, 2023, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsection (k). See 2020 Amendment note below.
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(n)(1)(C), (2), Dec. 27, 2020, 134 Stat. 3137, 3186; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, with additional provisions authorizing the Secretary of Education to implement amendment before (but not later than) July 1, 2023, this section is amended by striking out subsection (k). See 2020 Amendment note below.
 
 #### References in Text
 [Section 14071 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14071&num=0&edition=prelim), referred to in subsec. (f)(1)(I), was repealed by Pub. L. 109–248, title I, § 129(a), July 27, 2006, 120 Stat. 600.
@@ -30366,9 +30535,9 @@ Subsec. (f). Pub. L. 101–542, § 204(a), added subsec. (f).
 Subsec. (d). Pub. L. 100–50, § 15(11), inserted after second sentence “In addition, such information shall include information to enable borrowers to assess the practical consequences of loan consolidation, including differences in deferment eligibility, interest rates, monthly payments, and finance charges, and samples of loan consolidation profiles to illustrate such consequences.”
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
-Amendment by Pub. L. 116–260 may be implemented by Secretary of Education before (but not later than) July 1, 2023, notwithstanding certain provisions, with such date of implementation required to be published in the Federal Register, see section 702(n)(2) of Pub. L. 116–260, set out as a note under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2).
+Amendment by Pub. L. 116–260 may be implemented by Secretary of Education before (but not later than) July 1, 2023, notwithstanding certain provisions, with such date of implementation required to be published in the Federal Register, see section 702(n)(2) of Pub. L. 116–260, set out as a note under [section 1078–2 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1078-2). Effective date of title VII of div. FF of Pub. L. 116–260 was changed from July 1, 2023, to July 1, 2024, by section 102(a) of Pub. L. 117–103, see section 701(b) of div. FF of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001). However, the July 1, 2023, implementation dates in section 702(n)(2) of Pub. L. 116–260 were not correspondingly amended.
 
 Amendment by Pub. L. 116–251 effective 180 days after Dec. 22, 2020, see section 6 of Pub. L. 116–251, set out as a note under [section 1018 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1018).
 
@@ -30763,7 +30932,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
   (B) ensure that the data in the data system are not being used for marketing purposes; and
 
-  (C) monitor the use of the data system by guaranty agencies and eligible lenders to determine whether an agency or lender is accessing the records of students in which the agency or lender has no existing financial interest; and
+  (C) monitor the use of the data system by guaranty agencies and eligible lenders to determine whether an agency or lender is accessing the records of students in which the agency or lender has no existing financial interest;
 
 (6) developing standardized protocols for limiting access to the data system that include—
 
@@ -30771,19 +30940,47 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
   (B) defining the steps necessary for determining whether, and how, to deny or restrict access to the data system; and
 
-  (C) determining the steps necessary to reopen access to the data system following a denial or restriction of access.
+  (C) determining the steps necessary to reopen access to the data system following a denial or restriction of access; and
 
-**(e) Reports to Congress**
+(7) preventing access to the data system and any other system used to administer a program under this subchapter by any person or entity for the purpose of assisting a student in managing loan repayment or applying for any repayment plan, consolidation loan, or other benefit authorized by this subchapter, unless such access meets the requirements described in subsection (e).
+
+**(e) Requirements for third-party data system access**
+
+(1) **In general** — As provided in paragraph (7) of subsection (d), an authorized person or entity described in paragraph (2) may access the data system and any other system used to administer a program under this subchapter if that access—
+
+  (A) is in compliance with terms of service, information security standards, and a code of conduct which shall be established by the Secretary and published in the Federal Register;
+
+  (B) is obtained using an access device (as defined in [section 1029(e)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1029/e/1&num=0&edition=prelim)) issued by the Secretary to the authorized person or entity; and
+
+  (C) is obtained without using any access device (as defined in [section 1029(e)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1029/e/1&num=0&edition=prelim)) issued by the Secretary to a student, borrower, or parent.
+
+(2) **Authorized person or entity** — An authorized person or entity described in this paragraph means—
+
+  (A) a guaranty agency, eligible lender, or eligible institution, or a third-party organization acting on behalf of a guaranty agency, eligible lender, or eligible institution, that is in compliance with applicable Federal law (including regulations and guidance); or
+
+  (B) a licensed attorney representing a student, borrower, or parent, or another individual who works for a Federal, State, local, or Tribal government or agency, or for a nonprofit organization, providing financial or student loan repayment counseling to a student, borrower, or parent, if—
+
+    (i) that attorney or other individual has never engaged in unfair, deceptive, or abusive practices, as determined by the Secretary;
+
+    (ii) that attorney or other individual does not work for an entity that has engaged in unfair, deceptive, or abusive practices (including an entity that is owned or operated by a person or entity that engaged in such practices), as determined by the Secretary;
+
+    (iii) system access is provided only through a separate point of entry; and
+
+    (iv) the attorney or other individual has consent from the relevant student, borrower, or parent to access the system.
+
+**(f) Reports to Congress**
 
 (1) **Annual report** — Not later than September 30 of each fiscal year, the Secretary shall prepare and submit to the authorizing committees a report describing—
 
-  (A) the effectiveness of existing privacy safeguards in protecting student and parent information in the data system;
+  (A) the effectiveness of existing privacy safeguards in protecting student, borrower, and parent information in the data system;
 
   (B) the success of any new authorization protocols in more effectively preventing abuse of the data system;
 
-  (C) the ability of the Secretary to monitor how the system is being used, relative to the intended purposes of the data system; and
+  (C) the reduction in improper data system access as described in subsection (d)(7);
 
-  (D) any protocols developed under subsection (d)(6) during the preceding fiscal year.
+  (D) the ability of the Secretary to monitor how the system is being used, relative to the intended purposes of the data system; and
+
+  (E) any protocols, codes of conduct, terms of service, or information security standards developed under paragraphs (6) or (7) of subsection (d) during the preceding fiscal year.
 
 (2) **Study**
 
@@ -30795,7 +30992,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
   (B) *Submission of study* — Not later than three years after August 14, 2008, the Secretary shall prepare and submit a report on the findings of the study under subparagraph (A) to the authorizing committees.
 
-**(f) Standardization of data reporting**
+**(g) Standardization of data reporting**
 
 (1) **In general** — The Secretary shall by regulation prescribe standards and procedures (including relevant definitions) that require all lenders and guaranty agencies to report information on all aspects of loans made under this subchapter in uniform formats in order to permit the direct comparison of data submitted by individual lenders, servicers or guaranty agencies.
 
@@ -30807,75 +31004,20 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
   (C) publish the specifications selected to be used to encourage the automation of exchanges of information between all parties involved in loans under this subchapter.
 
-**(g) Common identifiers** The Secretary shall, not later than July 1, 1993—
+**(h) Common identifiers** The Secretary shall, not later than July 1, 1993—
 
 (1) revise the codes used to identify institutions and students in the student loan data system authorized by this section to make such codes consistent with the codes used in each database used by the Department of Education that contains information of participation in programs under this subchapter; and
 
 (2) modify the design or operation of the system authorized by this section to ensure that data relating to any institution is readily accessible and can be used in a form compatible with the integrated postsecondary education data system (IPEDS).
 
-**(h) Integration of databases** The Secretary shall integrate the National Student Loan Data System with the Pell Grant applicant and recipient databases as of January 1, 1994, and any other databases containing information on participation in programs under this subchapter.
+**(i) Integration of databases** The Secretary shall integrate the National Student Loan Data System with the Pell Grant applicant and recipient databases as of January 1, 1994, and any other databases containing information on participation in programs under this subchapter.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–251, §§ 4, 6, Dec. 22, 2020, 134 Stat. 1130, 1132, provided that, effective 180 days after Dec. 22, 2020, this section is amended as follows:
-
-(1) in subsection (d), by striking “and” after the semicolon in paragraph (5)(C), by striking the period at the end of paragraph (6)(C) and inserting “; and”, and by adding at the end the following:
-
-“(7) preventing access to the data system and any other system used to administer a program under this subchapter by any person or entity for the purpose of assisting a student in managing loan repayment or applying for any repayment plan, consolidation loan, or other benefit authorized by this subchapter, unless such access meets the requirements described in subsection (e).”;
-
-(2) by redesignating subsections (e) through (h) as subsections (f) through (i), respectively;
-
-(3) by inserting after subsection (d) the following:
-
-“(e) Requirements for third-party data system access
-
-“(1) In general
-
-“As provided in paragraph (7) of subsection (d), an authorized person or entity described in paragraph (2) may access the data system and any other system used to administer a program under this subchapter if that access—
-
-“(A) is in compliance with terms of service, information security standards, and a code of conduct which shall be established by the Secretary and published in the Federal Register;
-
-“(B) is obtained using an access device (as defined in [section 1029(e)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1029/e/1&num=0&edition=prelim)) issued by the Secretary to the authorized person or entity; and
-
-“(C) is obtained without using any access device (as defined in [section 1029(e)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1029/e/1&num=0&edition=prelim)) issued by the Secretary to a student, borrower, or parent.
-
-“(2) Authorized person or entity
-
-“An authorized person or entity described in this paragraph means—
-
-“(A) a guaranty agency, eligible lender, or eligible institution, or a third-party organization acting on behalf of a guaranty agency, eligible lender, or eligible institution, that is in compliance with applicable Federal law (including regulations and guidance); or
-
-“(B) a licensed attorney representing a student, borrower, or parent, or another individual who works for a Federal, State, local, or Tribal government or agency, or for a nonprofit organization, providing financial or student loan repayment counseling to a student, borrower, or parent, if—
-
-“(i) that attorney or other individual has never engaged in unfair, deceptive, or abusive practices, as determined by the Secretary;
-
-“(ii) that attorney or other individual does not work for an entity that has engaged in unfair, deceptive, or abusive practices (including an entity that is owned or operated by a person or entity that engaged in such practices), as determined by the Secretary;
-
-“(iii) system access is provided only through a separate point of entry; and
-
-“(iv) the attorney or other individual has consent from the relevant student, borrower, or parent to access the system.”; and
-
-(4) in subsection (f)(1), as redesignated:
-
-(A) in subparagraph (A), by striking “student and parent” and inserting “student, borrower, and parent”;
-
-(B) by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively;
-
-(C) by inserting after subparagraph (B) the following:
-
-“(C) the reduction in improper data system access as described in subsection (d)(7);”; and
-
-(D) by striking subparagraph (E), as redesignated, and inserting the following:
-
-“(E) any protocols, codes of conduct, terms of service, or information security standards developed under paragraphs (6) or (7) of subsection (d) during the preceding fiscal year.”
-
-See 2020 Amendment notes below.
-
 #### References in Text
-The Peace Corps Act, referred to in subsec. (a)(5), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
+The Peace Corps Act, referred to in subsec. (a)(5), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§ 4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim) and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§ 4950 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (d)(7). Pub. L. 116–251, § 4(2), added par. (7).
@@ -31047,7 +31189,7 @@ Section effective July 1, 2006, except as otherwise provided, see section 8001(c
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(o), Dec. 27, 2020, 134 Stat. 3137, 3186, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(o), Dec. 27, 2020, 134 Stat. 3137, 3186; Pub. L. 117–103, div. R, § 102(a), (b)(5), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
 
 § 1092f. Early awareness and outreach of financial aid eligibility
 
@@ -31075,7 +31217,7 @@ The method of estimating eligibility described in paragraph (1) shall be consume
 
 (B) Updates
 
-For award year 2023–2024 and each fourth succeeding award year thereafter, the design of the method of estimating eligibility shall be updated based on additional consumer testing with the populations described in subparagraph (A).
+For award year 2024–2025 and each fourth succeeding award year thereafter, the design of the method of estimating eligibility shall be updated based on additional consumer testing with the populations described in subparagraph (A).
 
 (3) Distribution
 
@@ -31217,18 +31359,20 @@ The public awareness campaign described in paragraph (1) shall leverage the acti
 
 The Secretary shall report on the success of the public awareness campaign described in paragraph (1) annually regarding the extent to which the public and target populations were reached using data commonly used to evaluate advertising and outreach campaigns and data regarding whether the campaign produced any increase in applicants for Federal aid under this subchapter publicly on the Department of Education website.
 
-See 2020 Amendment note below.
+See 2020 and 2022 Amendment notes below.
 
 #### References in Text
 The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(2)(B). Pub. L. 117–103 substituted “award year 2024–2025” for “award year 2023–2024”.
+
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to early awareness of financial aid eligibility.
 
 2010—Subsec. (b)(1)(A). Pub. L. 111–152 substituted “of such students’ potential eligibility for the Federal Pell Grant amount, determined under [section 1070a(b)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1070a/b/2/A&num=0&edition=prelim), for which the student would be eligible” for “of such students’ potential eligibility for a maximum Federal Pell Grant under subpart 1 of part A”.
 
 #### Effective Date of 2020 Amendment
-Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–152 effective July 1, 2010, see section 2101(c) of Pub. L. 111–152, set out as a note under [section 1070a of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1070a).
@@ -32217,16 +32361,9 @@ Section, Pub. L. 89–329, title IV, § 489A, as added Pub. L. 102–164, title 
 
 **(d) Obstruction of justice** Any person who knowingly and willfully destroys or conceals any record relating to the provision of assistance under this subchapter or attempts to so destroy or conceal with intent to defraud the United States or to prevent the United States from enforcing any right obtained by subrogation under this part, shall upon conviction thereof, be fined not more than $20,000 or imprisoned not more than 5 years, or both.
 
+**(e) Access to Department of Education information technology systems for fraud, commercial advantage, or private financial gain** Any person who knowingly uses an access device, as defined in [section 1029(e)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1029/e/1&num=0&edition=prelim), issued to another person or obtained by fraud or false statement to access Department information technology systems for purposes of obtaining commercial advantage or private financial gain, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or of any State, shall be fined not more than $20,000, imprisoned for not more than 5 years, or both.
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–251, §§ 2(a), (c), 6, Dec. 22, 2020, 134 Stat. 1129, 1132, provided that, effective 180 days after Dec. 22, 2020, with additional provision relating to effective date of penalties, this section is amended by adding at the end the following:
-
-(e) Access to Department of Education information technology systems for fraud, commercial advantage, or private financial gain
-
-Any person who knowingly uses an access device, as defined in [section 1029(e)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1029/e/1&num=0&edition=prelim), issued to another person or obtained by fraud or false statement to access Department information technology systems for purposes of obtaining commercial advantage or private financial gain, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or of any State, shall be fined not more than $20,000, imprisoned for not more than 5 years, or both.
-
-See 2020 Amendment and Effective Date of Penalties notes below.
 
 #### Prior Provisions
 A prior section 1097, Pub. L. 89–329, title IV, § 490, as added Pub. L. 96–374, title IV, § 451(a), Oct. 3, 1980, 94 Stat. 1453, related to criminal penalties, prior to the general revision of this part by Pub. L. 99–498.
@@ -32589,7 +32726,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2009—Subsec. (a)(1). Pub. L. 111–39, § 407(b)(12)(A), substituted “regulations for this subchapter. The” for “regulations for parts B, G, and H of this subchapter. The”.
@@ -33034,7 +33171,7 @@ Section effective both with respect to loans made prior to and after Oct. 15, 19
 ### Statutory Notes
 
 #### Amendment of Subsection (a)(1)
-Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(p), Dec. 27, 2020, 134 Stat. 3137, 3191, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, subsection (a)(1) of this section is amended as follows:
+Pub. L. 116–260, div. FF, title VII, §§ 701(b), 702(p), Dec. 27, 2020, 134 Stat. 3137, 3191; Pub. L. 117–103, div. R, § 102(a), Mar. 15, 2022, 136 Stat. 819, provided that, effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, subsection (a)(1) of this section is amended as follows:
 
 (1) in subparagraph (A)(ii), by striking “and” after the semicolon;
 
@@ -33064,7 +33201,7 @@ Subsec. (a)(3). Pub. L. 116–260, div. N, § 284(b)(2), and div. FF, § 103(b)(
 Subsec. (c). Pub. L. 116–260, div. N, § 284(b)(1)(C), and div. FF, § 103(b)(1)(C), amended section identically, adding subsec. (c).
 
 #### Effective Date of 2020 Amendment
-Amendment by section 702(p) of Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+Amendment by section 702(p) of Pub. L. 116–260 effective July 1, 2024, except as otherwise expressly provided, and applicable with respect to award year 2024–2025 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
 
 
 <a id="section-1099"></a>
@@ -39017,11 +39154,11 @@ Pub. L. 99–498, § 3, Oct. 17, 1986, 100 Stat. 1278, provided that: “The aut
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Business Corporation Act, referred to in subsec. (a)(2), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
+The District of Columbia Business Corporation Act, referred to in subsec. (a)(2), is act June 8, 1954, ch. 269, 68 Stat. 179, which is not classified to the Code.
 
 Sections 1132f–3 and 1132f–9 of this title, referred to in subsecs. (a)(3)(A) and (b)(5), were repealed by subsec. (d) of this section.
 
-The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is Pub. L. 104–134, title I, § 101(b) [title II], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, as amended, which amended former sections 6322, 6364, and 6365 of this title and enacted provisions set out as a note under former [section 6322 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6322). For complete classification of this Act to the Code, see Tables.
+The District of Columbia School Reform Act of 1995, referred to in subsec. (e)(2)(A), is Pub. L. 104–134, title I, § 101(b) [title II], Apr. 26, 1996, 110 Stat. 1321–77, 1321–107, which amended former sections 6322, 6364, and 6365 of this title and enacted provisions set out as a note under former [section 6322 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6322). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 1132f–10 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1132f–10&num=0&edition=prelim).
@@ -40444,6 +40581,118 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment of Pub. L. 110–315 (Aug. 14, 2008), see section 3 of Pub. L. 111–39, set out as a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
+
+<a id="section-1161l-6"></a>
+## § 1161l–6. Online survey tool for campus safety
+**(a) In general** The Secretary of Education, in consultation with the Attorney General, the Director of the Centers for Disease Control and Prevention, the Secretary of Health and Human Services, and experts in domestic violence, dating violence, sexual assault, sexual harassment, and stalking, shall develop, design, and make available through a secure and accessible online portal, a standardized online survey tool regarding postsecondary student experiences with domestic violence, dating violence, sexual assault, sexual harassment, and stalking.
+
+**(b) Development of survey tool** In developing the survey tool required under subsection (a), the Secretary of Education shall—
+
+(1) use best practices from peer-reviewed research measuring domestic violence, dating violence, sexual assault, sexual harassment, and stalking;
+
+(2) consult with the higher education community, experts in survey research related to domestic violence, dating violence, sexual assault, sexual harassment, and stalking, and organizations engaged in the prevention of and response to, and advocacy on behalf of victims of, domestic violence, dating violence, sexual assault, sexual harassment, and stalking, including victims from culturally specific populations and victims with disabilities, regarding the development and design of such survey tool and the methodology for administration of such survey tool; and
+
+(3) ensure that the survey tool is readily accessible to and usable by individuals with disabilities.
+
+**(c) Elements**
+
+(1) **In general** — The survey tool developed pursuant to this section shall be fair and unbiased, be scientifically valid and reliable, meet the highest standards of survey research, and notify the participant that anonymized results of the survey may be published.
+
+(2) **Survey questions** — Survey questions included in the survey tool developed pursuant to this section shall—
+
+  (A) be designed to gather information on student experiences with domestic violence, dating violence, sexual assault, sexual harassment, and stalking, including the experiences of victims of such incidents;
+
+  (B) use trauma-informed language to prevent re-traumatization; and
+
+  (C) include—
+
+    (i) questions that give students the option to report their demographic information;
+
+    (ii) questions designed to determine the incidence and prevalence of domestic violence, dating violence, sexual assault, sexual harassment, and stalking;
+
+    (iii) questions regarding whether students know about institutional policies and procedures related to domestic violence, dating violence, sexual assault, sexual harassment, and stalking;
+
+    (iv) questions designed to determine, if victims reported domestic violence, dating violence, sexual assault, sexual harassment, or stalking—
+
+      (I) to whom the incident was reported and what response the victim may have received;
+
+      (II) whether the victim was informed of, or referred to, national, State, local, Tribal, or on-campus resources; and
+
+      (III) whether the entity to whom the victim reported the incident conducted an investigation and the duration and final resolution of such an investigation;
+
+    (v) questions regarding contextual factors, such as whether force, incapacitation, or coercion was involved;
+
+    (vi) questions to determine whether an accused individual was a student at the institution;
+
+    (vii) questions to determine whether a victim reported an incident to Federal, State, local, Tribal, or campus law enforcement;
+
+    (viii) questions to determine why the victim chose to report or not report an incident to the institution or State, local, or campus law enforcement;
+
+    (ix) questions to determine the impact of domestic violence, dating violence, sexual assault, sexual harassment, and stalking on the victim’s education, including diminished grades, dropped classes, leaves of absence, and negative financial consequences (such as costs associated with loss in paid tuition due to leaves of absence, loss in scholarship awards due to diminished grades, loss of foreign-student visas, and costs associated with counseling, medical services, or housing changes);
+
+    (x) questions to determine the impact and effectiveness of prevention and awareness programs and complaints processes;
+
+    (xi) questions to determine attitudes toward sexual violence and harassment, including the willingness of individuals to intervene as a bystander to sex-based (including against lesbian, gay, bisexual, or transgender (commonly referred to as “LGBT”) individuals), race-based, national origin-based, and disability-based discrimination, harassment, assault, domestic violence, dating violence, sexual assault, sexual harassment, and stalking; and
+
+    (xii) other questions, as determined by the Secretary of Education.
+
+(3) **Additional elements** — In addition to the standardized questions developed by the Secretary of Education under paragraph (2), subject to the review and approval of the Secretary of Education, an institution of higher education may request additional information from students that would increase the understanding of the institution of school climate factors unique to the campuses affiliated with the institution.
+
+(4) **Responses** — The responses to the survey questions described in paragraph (2) shall—
+
+  (A) be submitted confidentially;
+
+  (B) not be included in crime statistics; and
+
+  (C) in the case of such responses being included in a report, not include personally identifiable information.
+
+**(d) Administration of survey**
+
+(1) **Federal administration** — The Secretary of Education, in consultation with the Attorney General, the Director of the Centers for Disease Control and Prevention, and the Secretary of Health and Human Services, shall develop a mechanism by which institutions of higher education may, with respect to the survey tool developed pursuant to this section—
+
+  (A) administer such survey tool; and
+
+  (B) modify such survey tool to include additional elements or requirements, as determined by the institution, subject to the review and approval of the Secretary of Education.
+
+(2) **Costs** — The Secretary of Education may not require an institution of higher education to pay to modify the survey tool in accordance with paragraph (1)(B).
+
+(3) **Accessibility** — The Secretary of Education shall ensure that the survey tool is administered in such a way as to be readily accessible to and usable by individuals with disabilities.
+
+(4) **Institutional administration** — Beginning not later than 1 year after the date on which the Secretary of Education makes available to institutions the mechanism described in paragraph (1), and every 2 years thereafter, each institution of higher education that receives Federal educational assistance shall administer the survey tool developed pursuant to this section.
+
+**(e) Completed surveys** The Secretary of Education shall require each institution of higher education that administers the survey tool developed pursuant to this section to ensure, to the maximum extent practicable, that an adequate, random, and representative sample size of students (as determined by the Secretary) enrolled at the institution complete the survey tool developed pursuant to this section.
+
+**(f) Report**
+
+(1) **In general** — Beginning not later than 2 years after March 15, 2022, the Secretary of Education shall—
+
+  (A) prepare a biennial report on the information gained from the standardized elements of the survey under this section and publish such report in an accessible format on the website of the Department of Education, including as part of any online consumer tool offered or supported by the Department of Education that provides information to students regarding specific postsecondary educational institutions, such as the College Scorecard or any successor or similar tool; and
+
+  (B) submit such report to Congress.
+
+(2) **Inclusions and exclusions** — The report required to be prepared under paragraph (1)—
+
+  (A) shall include campus-level data for each institution and attributed by name of each campus in a manner that permits comparisons across institutions and campuses; and
+
+  (B) shall not publish any individual survey responses.
+
+**(g) Publication** Each institution of higher education shall publish, in a manner that is readily accessible and usable by individuals, including individuals with disabilities—
+
+(1) the campus-level results of the standardized elements of the survey under this section on the website of the institution and in the biennial report required under subsection (f) for the campuses affiliated with the institution; and
+
+(2) the campus-level results of the additional elements modifying the survey by the institution, if any, on the website of the institution.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Violence Against Women Act Reauthorization Act of 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Higher Education Act of 1965 which comprises this chapter.
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### Definitions
+For definitions of terms used in this section, see [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim), Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim).
 
 
 <a id="section-1161m"></a>

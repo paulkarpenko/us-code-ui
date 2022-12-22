@@ -18,6 +18,9 @@ Based on title 28, U.S.C., 1940 ed., § 321 (Mar. 3, 1911, ch. 231, § 215, 36 S
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, § 2, cl. 2.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–252, § 1, Dec. 20, 2022, 136 Stat. 2359, provided that: “This Act [amending provisions set out as a note preceding [section 81 of this title](./chapter-005-district-courts.md#section-81)] may be cited as the ‘Pro bono Work to Empower and Represent Act of 2021’ or the ‘POWER 2.0 Act’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 116–325, § 1, Jan. 12, 2021, 134 Stat. 5086, provided that: “This Act [amending sections 375, 589a, and 1930 of this title and [section 330 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section330&num=0&edition=prelim), Bankruptcy, and enacting provisions set out as notes under sections 152, 589a, and 1930 of this title and [section 330 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section330&num=0&edition=prelim)] may be cited as the ‘Bankruptcy Administration Improvement Act of 2020’.”
 
@@ -253,7 +256,7 @@ The provision “to be paid monthly” was omitted since the time of payment of 
 Minor changes in phraseology were made.
 
 #### References in Text
-Section 225 of the Federal Salary Act of 1967, referred to in text, is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, as amended, which is classified to chapter 11 (§ 351 et seq.) of Title 2, The Congress.
+Section 225 of the Federal Salary Act of 1967, referred to in text, is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, which is classified to chapter 11 (§ 351 et seq.) of Title 2, The Congress.
 
 #### Amendments
 1975—Pub. L. 94–82 substituted provisions setting the annual salary of the Chief Justice and each associate justice at rates determined under section 225 of the Federal Salary Act of 1967, as adjusted by [section 461 of this title](./chapter-021-general-provisions-applicable-to-courts-and-judges.md#section-461), for provisions granting the Chief Justice and each associate justice a salary of $40,000 and $39,500 a year, respectively.

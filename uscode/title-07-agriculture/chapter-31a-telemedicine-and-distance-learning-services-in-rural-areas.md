@@ -152,7 +152,7 @@ A prior section 950aaa–1, Pub. L. 101–624, title XXIII, § 2332, Nov. 28, 19
 For termination of section by section 1(b) of Pub. L. 102–551, see Termination of Chapter note set out under [section 950aaa of this title](./chapter-31a-telemedicine-and-distance-learning-services-in-rural-areas.md#section-950aaa).
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsecs. (c)(2) and (h)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+The Rural Electrification Act of 1936, referred to in subsecs. (c)(2) and (h)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

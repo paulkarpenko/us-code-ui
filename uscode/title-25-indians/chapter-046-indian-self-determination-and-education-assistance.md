@@ -54,7 +54,7 @@ Pub. L. 105–83, title I, § 112, Nov. 14, 1997, 111 Stat. 1562.
 ### Statutory Notes
 
 #### References in Text
-Section 314 of Pub. L. 101–512, referred to in subsec. (a), is section 314 of Pub. L. 101–512, as amended, which is set out as a note under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321).
+Section 314 of Pub. L. 101–512, referred to in subsec. (a), is section 314 of Pub. L. 101–512, which is set out as a note under [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321).
 
 Subchapter I of this chapter, referred to in subsec. (b), was in the original “title I”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to subchapter I (§ 5321 et seq.) of this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -636,7 +636,7 @@ To honor treaties and recognize tribes’ inherent sovereignty and right to self
 
 (c) supporting efforts to improve the effectiveness and efficiency of tribal justice systems and protect tribal communities;
 
-(d) expanding and improving lifelong educational opportunities for American Indians and Alaska Natives, while respecting demands for greater tribal control over tribal education, consistent with Executive Order 13592 of December 2, 2011 (Improving American Indian and Alaska Native Educational Opportunities and Strengthening Tribal Colleges and Universities); and
+(d) expanding and improving lifelong educational opportunities for American Indians and Alaska Natives, while respecting demands for greater tribal control over tribal education, consistent with Executive Order 13592 of December 2, 2011 (Improving American Indian and Alaska Native Educational Opportunities and Strengthening Tribal Colleges and Universities) [former [20 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7401&num=0&edition=prelim) note]; and
 
 (e) protecting tribal lands, environments, and natural resources, and promoting respect for tribal cultures.
 
@@ -974,16 +974,13 @@ Subsec. (j). Pub. L. 100–581, § 208(b), substituted “the Secretary for the 
 
 **(f) Single-agency audit report; additional information; declination criteria and procedures**
 
-(1) For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract entered into, or grant made, under this chapter, the tribal organization that requested such contract or grant shall submit to the appropriate Secretary a single-agency audit report required by chapter 75 of title 31.
+(1) For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract entered into, or grant made, under this chapter, if the Indian Tribal organization expends $500,000 or more in Federal awards during such fiscal year the tribal organization that requested such contract or grant shall submit to the appropriate Secretary a single-agency audit report required by chapter 75 of title 31.
 
 (2) In addition to submitting a single-agency audit report pursuant to paragraph (1), a tribal organization referred to in such paragraph shall submit such additional information concerning the conduct of the program, function, service, or activity carried out pursuant to the contract or grant that is the subject of the report as the tribal organization may negotiate with the Secretary.
 
 (3) Any disagreement over reporting requirements shall be subject to the declination criteria and procedures set forth in [section 5321 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5321).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (f)(1)
-Pub. L. 116–180, title II, § 201(b)(2), (c), Oct. 21, 2020, 134 Stat. 879, provided that, effective 14 months after Oct. 21, 2020, subsection (f)(1) of this section is amended by inserting “if the Indian Tribal organization expends $500,000 or more in Federal awards during such fiscal year” after “under this chapter,”. See 2020 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1) and (f)(1), was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
@@ -2825,7 +2822,7 @@ The assistance provided in this chapter for the education of Indians in the publ
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended. Title VI of the Act is classified generally to subchapter VI (§ 7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in text, is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§ 7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 458e of this title](./chapter-014-miscellaneous.md#section-458e) prior to editorial reclassification and renumbering as this section.

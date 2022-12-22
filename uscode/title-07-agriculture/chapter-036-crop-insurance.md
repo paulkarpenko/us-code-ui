@@ -14,7 +14,7 @@ This subchapter may be cited as the “Federal Crop Insurance Act”. Except as 
 ### Statutory Notes
 
 #### References in Text
-“Titles I to IV, inclusive,” and “such titles”, referred to in text, are references to titles I to IV of act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, known as the Agricultural Adjustment Act of 1938, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+“Titles I to IV, inclusive,” and “such titles”, referred to in text, are references to titles I to IV of act Feb. 16, 1938, ch. 30, 52 Stat. 31, known as the Agricultural Adjustment Act of 1938, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -129,7 +129,7 @@ Pub. L. 106–224, title I, § 173, June 20, 2000, 114 Stat. 398, provided that:
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsec. (d)(1)(B), (2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
+The Commodity Exchange Act, referred to in subsec. (d)(1)(B), (2), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of this title. For complete classification of this Act to the Code, see [section 1 of this title](./chapter-001-commodity-exchanges.md#section-1) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1746,7 +1746,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 ### Statutory Notes
 
 #### References in Text
-The Department of Agriculture Reorganization Act of 1994, referred to in subsec. (a)(3)(B)(ii)(I), is title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, as amended. Subtitle H of the Act is classified principally to subchapter VIII (§ 6991 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Tables.
+The Department of Agriculture Reorganization Act of 1994, referred to in subsec. (a)(3)(B)(ii)(I), is title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209. Subtitle H of the Act is classified principally to subchapter VIII (§ 6991 et seq.) of chapter 98 of this title. For complete classification of this Act to the Code, see Tables.
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, the date of enactment of this subsection, the date of enactment of this paragraph, and the date of enactment of this subparagraph, referred to in subsecs. (a)(9)(B)(iii)(I), (c)(5)(D)(i)(I), (ii)(I), (d)(1)(B), (C), (k)(4)(E), (F), (8)(B)(ii), and (o)(1)(B), mean the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -1760,9 +1760,9 @@ Section 118 of the Federal Crop Insurance Reform Act of 1994, referred to in sub
 
 This subchapter, referred to in subsecs. (g)(6)(B), (C) and (k)(8)(F)(i)(II), (III), was in the original “this Act”, meaning the Federal Crop Insurance Act, which is subtitle A of title V of act Feb. 16, 1938, ch. 30.
 
-The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
+The United States Warehouse Act, referred to in subsec. (m)(4)(A), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (n)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle C of the Act is classified generally to subchapter III (§ 1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (n)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitle C of the Act is classified generally to subchapter III (§ 1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -2826,17 +2826,17 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Market Transition Act, referred to in subsec. (h)(3)(B)(ii), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, as amended, which is classified principally to chapter 100 (§ 7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 7201 of this title](./chapter-100-agricultural-market-transition.md#section-7201) and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (h)(3)(B)(ii), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§ 7201 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 7201 of this title](./chapter-100-agricultural-market-transition.md#section-7201) and Tables.
 
-The Agricultural Act of 1949, referred to in subsec. (h)(3)(B)(iii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (h)(3)(B)(iii), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(3)(B)(iv), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (h)(3)(B)(iv), is act June 29, 1948, ch. 704, 62 Stat. 1070, which is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
 
-The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, as amended, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Agricultural Adjustment Act of 1938, referred to in subsec. (h)(3)(B)(v), is act Feb. 16, 1938, ch. 30, 52 Stat. 31, which is classified principally to chapter 35 (§ 1281 et seq.) of this title. For complete classification of this Act to the Code, see [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (h)(3)(B)(vi), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Title XII of the Act is classified principally to chapter 58 (§ 3801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (h)(3)(B)(vii), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 This subchapter, referred to in subsec. (k)(2)(A), was in the original “this Act”, meaning the Federal Crop Insurance Act, which is subtitle A of title V of act Feb. 16, 1938, ch. 30.
 

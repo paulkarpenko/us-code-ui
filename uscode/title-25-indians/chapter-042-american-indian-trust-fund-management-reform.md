@@ -34,7 +34,7 @@ For the purposes of this chapter:
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 103–412, Oct. 25, 1994, 108 Stat. 4239, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Short Title
 Pub. L. 103–412, § 1(a), Oct. 25, 1994, 108 Stat. 4239, provided that: “This Act [enacting this chapter, amending sections 161a and 162a of this title, and enacting provisions set out as a note under [section 161a of this title](./chapter-004-performance-by-united-states-of-obligations-to-indians.md#section-161a)] may be cited as the ‘American Indian Trust Fund Management Reform Act of 1994’.”
@@ -130,7 +130,7 @@ The purpose of this subchapter is to allow tribes an opportunity to manage triba
 ### Statutory Notes
 
 #### References in Text
-The Indian Judgment Funds Use or Distribution Act, referred to in subsec. (b), probably means the Indian Tribal Judgment Funds Use or Distribution Act, Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, as amended, which is classified generally to chapter 16 (§ 1401 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Indian Judgment Funds Use or Distribution Act, referred to in subsec. (b), probably means the Indian Tribal Judgment Funds Use or Distribution Act, Pub. L. 93–134, Oct. 19, 1973, 87 Stat. 466, which is classified generally to chapter 16 (§ 1401 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-4025"></a>

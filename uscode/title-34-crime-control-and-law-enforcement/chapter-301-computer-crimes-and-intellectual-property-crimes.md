@@ -2,7 +2,7 @@
 title: 34
 chapter: '301'
 heading: COMPUTER CRIMES AND INTELLECTUAL PROPERTY CRIMES
-section_count: 6
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -60,6 +60,9 @@ Section was formerly classified to [section 3713 of Title 42](https://uscode.hou
 2008—Subsec. (b)(1)–(3). Pub. L. 110–403, § 401(a)(1), inserted “, including infringement of copyrighted works over the Internet” after “computer crime”.
 
 Subsec. (e)(1). Pub. L. 110–403, § 401(a)(2), substituted “2009 through 2013” for “2001 through 2004”.
+
+#### Short Title
+For short title of Pub. L. 106–572, which is classified to this section, as the “Computer Crime Enforcement Act”, see section 1 of Pub. L. 106–572, set out as a Short Title of 2000 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
 
 <a id="section-30102"></a>
@@ -318,3 +321,258 @@ Sections 30103 to 30106 of this title, referred to in subsecs. (a) and (c), was 
 
 #### Codification
 Section was formerly classified to [section 3713d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3713d&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-30107"></a>
+## § 30107. Local law enforcement grants for enforcement of cybercrimes
+**(a) Definitions** In this section:
+
+(1) **Computer** — The term “computer” includes a computer network and an interactive electronic device.
+
+(2) **Cybercrime against individuals** — The term “cybercrime against individuals”—
+
+  (A) means a criminal offense applicable in the area under the jurisdiction of the relevant State, Indian Tribe, or unit of local government that involves the use of a computer to harass, threaten, stalk, extort, coerce, cause fear to, or intimidate an individual, or without consent distribute intimate images of an adult, except that use of a computer need not be an element of such an offense; and
+
+  (B) does not include the use of a computer to cause harm to a commercial entity, government agency, or non-natural person.
+
+(3) **Indian tribe; State; Tribal government; unit of local government** — The terms “Indian Tribe”, “State”, “Tribal government”, and “unit of local government” have the meanings given such terms in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim), as amended by this Act.
+
+**(b) Authorization of grant program** Subject to the availability of appropriations, the Attorney General shall award grants under this section to States, Indian Tribes, and units of local government for the prevention, enforcement, and prosecution of cybercrimes against individuals.
+
+**(c) Application**
+
+(1) **In general** — To request a grant under this section, the chief executive officer of a State, Tribal government, or unit of local government shall submit an application to the Attorney General not later than 90 days after the date on which funds to carry out this section are appropriated for a fiscal year, in such form as the Attorney General may require.
+
+(2) **Contents** — An application submitted under paragraph (1) shall include the following:
+
+  (A) A certification that Federal funds made available under this section will not be used to supplant State, Tribal, or local funds, but will be used to increase the amounts of such funds that would, in the absence of Federal funds, be made available for law enforcement activities.
+
+  (B) An assurance that, not later than 30 days before the application (or any amendment to the application) was submitted to the Attorney General, the application (or amendment) was submitted for review to the governing body of the State, Tribe, or unit of local government (or to an organization designated by that governing body).
+
+  (C) An assurance that, before the application (or any amendment to the application) was submitted to the Attorney General—
+
+    (i) the application (or amendment) was made public; and
+
+    (ii) an opportunity to comment on the application (or amendment) was provided to citizens, to neighborhood or community-based organizations, and to victim service providers, to the extent applicable law or established procedure makes such an opportunity available;
+
+  (D) An assurance that, for each fiscal year covered by an application, the applicant shall maintain and report such data, records, and information (programmatic and financial) as the Attorney General may reasonably require.
+
+  (E) A certification, made in a form acceptable to the Attorney General and executed by the chief executive officer of the applicant (or by another officer of the applicant, if qualified under regulations promulgated by the Attorney General), that—
+
+    (i) the programs to be funded by the grant meet all the requirements of this section;
+
+    (ii) all the information contained in the application is correct;
+
+    (iii) there has been appropriate coordination with affected agencies; and
+
+    (iv) the applicant will comply with all provisions of this section and all other applicable Federal laws.
+
+  (F) A certification that the State, Tribe, or in the case of a unit of local government, the State in which the unit of local government is located, has in effect criminal laws which prohibit cybercrimes against individuals.
+
+  (G) A certification that any equipment described in subsection (d)(8) purchased using grant funds awarded under this section will be used primarily for investigations and forensic analysis of evidence in matters involving cybercrimes against individuals.
+
+**(d) Use of funds** Grants awarded under this section may be used only for programs that provide—
+
+(1) training for State, Tribal, or local law enforcement personnel relating to cybercrimes against individuals, including—
+
+  (A) training such personnel to identify and protect victims of cybercrimes against individuals, provided that the training is developed in collaboration with victim service providers;
+
+  (B) training such personnel to utilize Federal, State, Tribal, local, and other resources to assist victims of cybercrimes against individuals;
+
+  (C) training such personnel to identify and investigate cybercrimes against individuals;
+
+  (D) training such personnel to enforce and utilize the laws that prohibit cybercrimes against individuals;
+
+  (E) training such personnel to utilize technology to assist in the investigation of cybercrimes against individuals and enforcement of laws that prohibit such crimes; and
+
+  (F) the payment of overtime incurred as a result of such training;
+
+(2) training for State, Tribal, or local prosecutors, judges, and judicial personnel relating to cybercrimes against individuals, including—
+
+  (A) training such personnel to identify, investigate, prosecute, or adjudicate cybercrimes against individuals;
+
+  (B) training such personnel to utilize laws that prohibit cybercrimes against individuals;
+
+  (C) training such personnel to utilize Federal, State, Tribal, local, and other resources to assist victims of cybercrimes against individuals; and
+
+  (D) training such personnel to utilize technology to assist in the prosecution or adjudication of acts of cybercrimes against individuals, including the use of technology to protect victims of such crimes;
+
+(3) training for State, Tribal, or local emergency dispatch personnel relating to cybercrimes against individuals, including—
+
+  (A) training such personnel to identify and protect victims of cybercrimes against individuals;
+
+  (B) training such personnel to utilize Federal, State, Tribal, local, and other resources to assist victims of cybercrimes against individuals;
+
+  (C) training such personnel to utilize technology to assist in the identification of and response to cybercrimes against individuals; and
+
+  (D) the payment of overtime incurred as a result of such training;
+
+(4) assistance to State, Tribal, or local law enforcement agencies in enforcing laws that prohibit cybercrimes against individuals, including expenses incurred in performing enforcement operations, such as overtime payments;
+
+(5) assistance to State, Tribal, or local law enforcement agencies in educating the public in order to prevent, deter, and identify violations of laws that prohibit cybercrimes against individuals;
+
+(6) assistance to State, Tribal, or local law enforcement agencies to support the placement of victim assistants to serve as liaisons between victims of cybercrimes against individuals and personnel of law enforcement agencies;
+
+(7) assistance to State, Tribal, or local law enforcement agencies to establish task forces that operate solely to conduct investigations, forensic analyses of evidence, and prosecutions in matters involving cybercrimes against individuals;
+
+(8) assistance to State, Tribal, or local law enforcement agencies and prosecutors in acquiring computers, computer equipment, and other equipment necessary to conduct investigations and forensic analysis of evidence in matters involving cybercrimes against individuals, including expenses incurred in the training, maintenance, or acquisition of technical updates necessary for the use of such equipment for the duration of a reasonable period of use of such equipment;
+
+(9) assistance in the facilitation and promotion of sharing, with State, Tribal, and local law enforcement agencies and prosecutors, of the expertise and information of Federal law enforcement agencies about the investigation, analysis, and prosecution of matters involving laws that prohibit cybercrimes against individuals, including the use of multijurisdictional task forces; or
+
+(10) assistance to State, Tribal, and local law enforcement and prosecutors in processing interstate extradition requests for violations of laws involving cybercrimes against individuals, including expenses incurred in the extradition of an offender from one State to another.
+
+**(e) Reports to the Attorney General** On the date that is 1 year after the date on which a State, Indian Tribe, or unit of local government receives a grant under this section, and annually thereafter, the chief executive officer of the State, Tribal government, or unit of local government shall submit to the Attorney General a report which contains—
+
+(1) a summary of the activities carried out during the previous year with any grant received under this section by such State, Indian Tribe, or unit of local government;
+
+(2) an evaluation of the results of such activities; and
+
+(3) such other information as the Attorney General may reasonably require.
+
+**(f) Reports to Congress** Not later than November 1 of each even-numbered fiscal year, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the reports submitted under subsection (e).
+
+**(g) Authorization of appropriations**
+
+(1) **In general** — There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2023 through 2027.
+
+(2) **Limitation** — Of the amount made available under paragraph (1) in any fiscal year, not more than 5 percent may be used for evaluation, monitoring, technical assistance, salaries, and administrative expenses.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (a)(3), means div. W of Pub. L. 117–103, section 2(a)(1) of which amended [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim).
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### Definitions
+For definitions of terms used in this section, see [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291).
+
+
+<a id="section-30108"></a>
+## § 30108. National Resource Center grant
+**(a) Definitions** In this section:
+
+(1) **Cybercrime against individuals** — The term “cybercrime against individuals” has the meaning given such term in [section 30107 of this title](./chapter-301-computer-crimes-and-intellectual-property-crimes.md#section-30107).
+
+(2) **Eligible entity** — The term “eligible entity” means a nonprofit private organization that—
+
+  (A) focuses on cybercrimes against individuals;
+
+  (B) provides documentation to the Attorney General demonstrating experience working directly on issues of cybercrimes against individuals; and
+
+  (C) includes on the organization’s advisory board representatives who—
+
+    (i) have a documented history of working directly on issues of cybercrimes against individuals;
+
+    (ii) have a history of working directly with victims of cybercrimes against individuals; and
+
+    (iii) are geographically and culturally diverse.
+
+**(b) Authorization of grant program** Subject to the availability of appropriations, the Attorney General shall award a grant under this section to an eligible entity for the purpose of the establishment and maintenance of a National Resource Center on Cybercrimes Against Individuals to provide resource information, training, and technical assistance to improve the capacity of individuals, organizations, governmental entities, and communities to prevent, enforce, and prosecute cybercrimes against individuals.
+
+**(c) Application**
+
+(1) **In general** — To request a grant under this section, an eligible entity shall submit an application to the Attorney General not later than 90 days after the date on which funds to carry out this section are appropriated for fiscal year 2022 in such form as the Attorney General may require.
+
+(2) **Contents** — An application submitted under paragraph (1) shall include the following:
+
+  (A) An assurance that, for each fiscal year covered by the application, the applicant will maintain and report such data, records, and information (programmatic and financial) as the Attorney General may reasonably require.
+
+  (B) A certification, made in a form acceptable to the Attorney General, that—
+
+    (i) the programs funded by the grant meet all the requirements of this section;
+
+    (ii) all the information contained in the application is correct; and
+
+    (iii) the applicant will comply with all provisions of this section and all other applicable Federal laws.
+
+**(d) Use of funds** The eligible entity awarded a grant under this section shall use such amounts for the establishment and maintenance of a National Resource Center on Cybercrimes Against Individuals, which shall—
+
+(1) offer a comprehensive array of technical assistance and training resources to Federal, State, and local governmental agencies, community-based organizations, and other professionals and interested parties related to cybercrimes against individuals, including programs and research related to victims;
+
+(2) maintain a resource library which shall collect, prepare, analyze, and disseminate information and statistics related to—
+
+  (A) the incidence of cybercrimes against individuals;
+
+  (B) the enforcement and prosecution of laws relating to cybercrimes against individuals; and
+
+  (C) the provision of supportive services and resources for victims, including victims from underserved populations, of cybercrimes against individuals; and
+
+(3) conduct research related to—
+
+  (A) the causes of cybercrimes against individuals;
+
+  (B) the effect of cybercrimes against individuals on victims of such crimes; and
+
+  (C) model solutions to prevent or deter cybercrimes against individuals or to enforce the laws relating to cybercrimes against individuals.
+
+**(e) Duration of grant**
+
+(1) **In general** — A grant awarded under this section shall be awarded for a period of 5 years.
+
+(2) **Renewal** — A grant under this section may be renewed for additional 5-year periods if the Attorney General determines that the funds made available to the recipient were used in a manner described in subsection (d), and if the recipient resubmits an application described in subsection (c) in such form, and at such time, as the Attorney General may reasonably require.
+
+**(f) Subgrants** The eligible entity awarded a grant under this section may make subgrants to other nonprofit private organizations with relevant subject matter expertise in order to establish and maintain the National Resource Center on Cybercrimes Against Individuals in accordance with subsection (d).
+
+**(g) Reports to the Attorney General** On the date that is 1 year after the date on which an eligible entity receives a grant under this section, and annually thereafter for the duration of the grant period, the entity shall submit to the Attorney General a report which contains—
+
+(1) a summary of the activities carried out under the grant program during the previous year;
+
+(2) an evaluation of the results of such activities; and
+
+(3) such other information as the Attorney General may reasonably require.
+
+**(h) Reports to Congress** Not later than November 1 of each even-numbered fiscal year, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report that contains a compilation of the information contained in the reports submitted under subsection (g).
+
+**(i) Authorization of appropriations** There are authorized to be appropriated to carry out this section $4,000,000 for each of fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### Definitions
+For definitions of terms used in this section, see [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291).
+
+
+<a id="section-30109"></a>
+## § 30109. National strategy, classification, and reporting on cybercrime
+**(a) Definitions** In this section:
+
+(1) **Computer** — The term “computer” includes a computer network and any interactive electronic device.
+
+(2) **Cybercrime against individuals** — The term “cybercrime against individuals” has the meaning given the term in [section 30107 of this title](./chapter-301-computer-crimes-and-intellectual-property-crimes.md#section-30107).
+
+**(b) National strategy** The Attorney General shall develop a national strategy to—
+
+(1) reduce the incidence of cybercrimes against individuals;
+
+(2) coordinate investigations of cybercrimes against individuals by Federal law enforcement agencies;
+
+(3) increase the number of Federal prosecutions of cybercrimes against individuals; and
+
+(4) develop an evaluation process that measures rates of cybercrime victimization and prosecutorial rates among Tribal and culturally specific communities.
+
+**(c) Classification of cybercrimes against individuals for purposes of crime reports** In accordance with the authority of the Attorney General under [section 534 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), the Director of the Federal Bureau of Investigation shall—
+
+(1) design and create within the Uniform Crime Reports a category for offenses that constitute cybercrimes against individuals;
+
+(2) to the extent feasible, within the category established under paragraph (1), establish subcategories for each type of cybercrime against individuals that is an offense under Federal or State law;
+
+(3) classify the category established under paragraph (1) as a Part I crime in the Uniform Crime Reports; and
+
+(4) classify each type of cybercrime against individuals that is an offense under Federal or State law as a Group A offense for the purpose of the National Incident-Based Reporting System.
+
+**(d) Annual summary** The Attorney General shall publish an annual summary of the information reported in the Uniform Crime Reports and the National Incident-Based Reporting System relating to cybercrimes against individuals, including an evaluation of the implementation process for the national strategy developed under subsection (b) and outcome measurements on its impact on Tribal and culturally specific communities.
+
+### Statutory Notes
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### Better Cybercrime Metrics
+Pub. L. 117–116, May 5, 2022, 136 Stat. 1180, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the “Better Cybercrime Metrics Act”. “SEC. 2. FINDINGS.“Congress finds the following:“(1) Public polling indicates that cybercrime could be the most common crime in the United States. “(2) The United States lacks comprehensive cybercrime data and monitoring, leaving the country less prepared to combat cybercrime that threatens national and economic security. “(3) In addition to existing cybercrime vulnerabilities, the people of the United States and the United States have faced a heightened risk of cybercrime during the COVID–19 pandemic. “(4) Subsection (c) of the Uniform Federal Crime Reporting Act of 1988 ([34 U.S.C. 41303(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41303/c&num=0&edition=prelim)) requires the Attorney General to ‘acquire, collect, classify, and preserve national data on Federal criminal offenses as part of the Uniform Crime Reports’ and requires all Federal departments and agencies that investigate criminal activity to ‘report details about crime within their respective jurisdiction to the Attorney General in a uniform matter and on a form prescribed by the Attorney General’. “SEC. 3. CYBERCRIME TAXONOMY.“(a) In General.—Not later than 90 days after the date of enactment of this Act [May 5, 2022], the Attorney General shall seek to enter into an agreement with the National Academy of Sciences to develop a taxonomy for the purpose of categorizing different types of cybercrime and cyber-enabled crime faced by individuals and businesses. “(b) Development.—In developing the taxonomy under subsection (a), the National Academy of Sciences shall—“(1) ensure the taxonomy is useful for the Federal Bureau of Investigation to classify cybercrime in the National Incident-Based Reporting System, or any successor system; “(2) consult relevant stakeholders, including—“(A) the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security; “(B) Federal, State, and local law enforcement agencies; “(C) criminologists and academics; “(D) cybercrime experts; and “(E) business leaders; and “(3) take into consideration relevant taxonomies developed by non-governmental organizations, international organizations, academies, or other entities. “(c) Report.—Not later than 1 year after the date on which the Attorney General enters into an agreement under subsection (a), the National Academy of Sciences shall submit to the appropriate committees of Congress a report detailing and summarizing—“(1) the taxonomy developed under subsection (a); and “(2) any findings from the process of developing the taxonomy under subsection (a). “(d) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $1,000,000. “SEC. 4. CYBERCRIME REPORTING.“(a) In General.—Not later than 2 years after the date of enactment of this Act, the Attorney General shall establish a category in the National Incident-Based Reporting System, or any successor system, for the collection of cybercrime and cyber-enabled crime reports from Federal, State, and local officials. “(b) Recommendations.—In establishing the category required under subsection (a), the Attorney General shall, as appropriate, incorporate recommendations from the taxonomy developed under section 3(a). “SEC. 5. NATIONAL CRIME VICTIMIZATION SURVEY.“(a) In General.—Not later than 540 days after the date of enactment of this Act, the Director of the Bureau of Justice Statistics, in coordination with the Director of the Bureau of the Census, shall include questions relating to cybercrime victimization in the National Crime Victimization Survey. “(b) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $2,000,000. “SEC. 6. GAO STUDY ON CYBERCRIME METRICS.“Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report that assesses—“(1) the effectiveness of reporting mechanisms for cybercrime and cyber-enabled crime in the United States; and “(2) disparities in reporting data between—“(A) data relating to cybercrime and cyber-enabled crime; and “(B) other types of crime data.”
+
+#### Definitions
+For definitions of terms used in this section, see [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291).

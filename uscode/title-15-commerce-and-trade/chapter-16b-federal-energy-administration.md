@@ -223,7 +223,7 @@ The review required by paragraphs (1) and (2) of this subsection may be waived f
 ### Statutory Notes
 
 #### References in Text
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to [section 760g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of this title, was omitted from the Code pursuant to [section 760g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 #### Amendments
 1977—Subsec. (a). Pub. L. 95–91, § 709(a)(2)(A), struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and 18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
@@ -481,7 +481,7 @@ No individual shall on the grounds of sex be excluded from participation in, be 
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 
 <a id="section-776"></a>
@@ -791,7 +791,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 Section, Pub. L. 93–275, § 33, as added Pub. L. 95–70, § 10, July 21, 1977, 91 Stat. 279, related to organizational conflicts of interest of persons contracting to perform research, development, or evaluation activities or technical and management support services.
 
 #### Effective Date of Repeal
-For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-790"></a>
@@ -851,9 +851,9 @@ Pub. L. 94–385, title I, § 141, Aug. 14, 1976, 90 Stat. 1135, provided that: 
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Act, referred to in subsec. (a)(4), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
+The Natural Gas Act, referred to in subsec. (a)(4), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of this title. For complete classification of this Act to the Code, see [section 717w of this title](./chapter-15b-natural-gas.md#section-717w) and Tables.
 
-The Federal Power Act, referred to in subsec. (a)(4), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (a)(4), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1977—Subsec. (a)(4). Pub. L. 95–91 added par. (4).

@@ -149,7 +149,7 @@ In a report issued in October 2019, the Council of Economic Advisers (CEA) estim
 
 The transformation wrought by technologies such as fracking is not only the result of America’s natural abundance and Americans’ capacity for scientific discovery and practical invention. It is also a testament to our Nation’s greatest resource: our hardworking men and women. Energy workers have dedicated their lives to an industry that is essential to the modern world, and their labors have demonstrated their talent, perseverance, and courage. Even in the midst of this unprecedented pandemic, essential energy workers have continued to ensure that our Nation has the energy that it needs to survive and to flourish. We owe these workers our gratitude. We also owe them appropriate respect and support for their careers, their livelihoods, and their families.
 
-It should be emphasized that technologies such as fracking—when used lawfully and responsibly, with appropriate attention to environmental, health, and safety protections—are vital not just to our domestic prosperity but also to our national security. Shortly after I entered office, I issued Executive Order 13783 of March 28, 2017 (Promoting Energy Independence and Economic Growth) [[42 U.S.C. 13201](./chapter-134-energy-policy.md#section-13201) note], which directed an immediate review of all agency actions that potentially burdened the development or use of domestic energy resources. That order also rescinded certain actions of the previous Administration that, in my judgment, were not consistent with the national interest and the Nation’s geopolitical security. As a result of new technologies and my Administration’s continued push for energy independence, our country recently became a net energy exporter for the first time since 1952, as well as the leading producer of oil and natural gas in the world. We are no longer beholden to foreign countries upon which we had depended for decades for the survival of our way of life. This achievement is a great accomplishment for our country, which should not be taken for granted.
+It should be emphasized that technologies such as fracking—when used lawfully and responsibly, with appropriate attention to environmental, health, and safety protections—are vital not just to our domestic prosperity but also to our national security. Shortly after I entered office, I issued Executive Order 13783 of March 28, 2017 (Promoting Energy Independence and Economic Growth) [former [42 U.S.C. 13201](./chapter-134-energy-policy.md#section-13201) note], which directed an immediate review of all agency actions that potentially burdened the development or use of domestic energy resources. That order also rescinded certain actions of the previous Administration that, in my judgment, were not consistent with the national interest and the Nation’s geopolitical security. As a result of new technologies and my Administration’s continued push for energy independence, our country recently became a net energy exporter for the first time since 1952, as well as the leading producer of oil and natural gas in the world. We are no longer beholden to foreign countries upon which we had depended for decades for the survival of our way of life. This achievement is a great accomplishment for our country, which should not be taken for granted.
 
 Now that we have achieved a dominant position in energy production, powerful voices in the United States, echoed by countries such as China and Russia, are clamoring for policies that would undermine that position, forgetting the very real costs and risks of energy dependence. Some of these voices call for using legislative or regulatory mechanisms to ban, or sharply restrict, the use of fracking and other technologies. In my view, such proposals are not responsible and would be harmful to the economic and national security of the United States.
 
@@ -1142,7 +1142,7 @@ publish such determination in the Federal Register as a final agency action, inc
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsecs. (b)(1)(C)(ii), (g)(4), and (k)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. Title II of the Act, known as the National Emission Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of this title. Part C of title II of the Act is classified generally to part C (§ 7581 et seq.) of chapter 85 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsecs. (b)(1)(C)(ii), (g)(4), and (k)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. Title II of the Act, known as the National Emission Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of this title. Part C of title II of the Act is classified generally to part C (§ 7581 et seq.) of chapter 85 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 This subchapter, referred to in subsecs. (b)(1)(A), (e)(1)(A), (g)(3), (j), and (o)(2)(A), was in the original “this title” meaning title V of Pub. L. 102–486, Oct. 24, 1992, 102 Stat. 2887, which is classified generally to this subchapter.
 
@@ -1254,7 +1254,7 @@ to the extent necessary to achieve such goals of replacement fuel use and to ens
 #### References in Text
 This Act, referred to in text, is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 
 <a id="section-13262"></a>
@@ -1322,7 +1322,7 @@ In text, “[section 32910(a)(1) of title 49](https://uscode.house.gov/view.xhtm
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (b)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (b)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 #### Prior Provisions
 A prior section 514 of Pub. L. 102–486 was renumbered 515 and is classified to [section 13264 of this title](./chapter-134-energy-policy.md#section-13264).
@@ -1919,7 +1919,7 @@ Subsec. (g). Pub. L. 109–58, § 202(g), added subsec. (g) and struck out headi
 ### Statutory Notes
 
 #### References in Text
-Public Law 98–473, referred to in subsec. (c)(4), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 98–473, referred to in subsec. (c)(4), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
@@ -2154,9 +2154,12 @@ There are authorized to be appropriated to the Secretary for carrying out this p
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 1992 which comprises this chapter.
 
 #### Amendments
-2021—Subsec. (b). Pub. L. 117–58, § 40205(1), inserted “and annually thereafter while the facility established under subsection (c) remains in operation,” after “December 27, 2020,”
+2021—Subsec. (b). Pub. L. 117–58, § 40205(1), inserted “and annually thereafter while the facility established under subsection (c) remains in operation,” after “December 27, 2020,”.
 
 Subsecs. (c), (d). Pub. L. 117–58, § 40205(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-13361"></a>
@@ -2168,9 +2171,9 @@ Subsecs. (c), (d). Pub. L. 117–58, § 40205(2), (3), added subsec. (c) and red
 ### Statutory Notes
 
 #### References in Text
-Public Law 98–473, referred to in subsec. (b), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 98–473, referred to in subsec. (b), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837. For complete classification of this Act to the Code, see Tables.
 
-Public Law 101–121, referred to in subsec. (b), is Pub. L. 101–121, Oct. 23, 1989, 103 Stat. 701, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 101–121, referred to in subsec. (b), is Pub. L. 101–121, Oct. 23, 1989, 103 Stat. 701. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-13362"></a>
@@ -2626,7 +2629,7 @@ Pub. L. 109–58, title III, § 387, Aug. 8, 2005, 119 Stat. 744, provided that:
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 An Act to amend the Clean Air Act to provide for attainment and maintenance of health protective national ambient air quality standards, and for other purposes, referred to in subsec. (b), is Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399, popularly known as the Clean Air Act Amendments of 1990. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
@@ -3651,9 +3654,9 @@ Pub. L. 104–271, title I, § 103(b)(2), Oct. 9, 1996, 110 Stat. 3306, provided
 #### References in Text
 Section 2106, referred to in subsec. (a), means section 2106 of Pub. L. 102–486, which amended sections 5103, 5107, 5108, 5110, and 5307 of Title 15, Commerce and Trade.
 
-The Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988, referred to in subsec. (a), is Pub. L. 100–680, Nov. 17, 1988, 102 Stat. 4073, as amended, which is classified generally to chapter 77 (§ 5101 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5101&num=0&edition=prelim) and Tables.
+The Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988, referred to in subsec. (a), is Pub. L. 100–680, Nov. 17, 1988, 102 Stat. 4073, which is classified generally to chapter 77 (§ 5101 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 5101 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5101&num=0&edition=prelim) and Tables.
 
-The Department of Energy Metal Casting Competitiveness Research Act of 1990, referred to in subsec. (a), is Pub. L. 101–425, Oct. 15, 1990, 104 Stat. 915, as amended, which is classified generally to chapter 79 (§ 5301 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5301&num=0&edition=prelim) and Tables.
+The Department of Energy Metal Casting Competitiveness Research Act of 1990, referred to in subsec. (a), is Pub. L. 101–425, Oct. 15, 1990, 104 Stat. 915, which is classified generally to chapter 79 (§ 5301 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5301&num=0&edition=prelim) and Tables.
 
 This part, referred to in subsecs. (c) and (e), was in the original “this subtitle” meaning subtitle A of title XXI of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 3067, which enacted this part and amended sections 5103, 5107, 5108, 5110, and 5307 of Title 15.
 
@@ -4139,7 +4142,7 @@ In preparing the program plan, the Secretary shall consult with appropriate repr
 ### Statutory Notes
 
 #### References in Text
-The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (a)(4), is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, as amended, which is classified principally to chapter 47 (§ 3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim) and Tables.
+The Nuclear Non-Proliferation Act of 1978, referred to in subsec. (a)(4), is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§ 3201 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim) and Tables.
 
 
 <a id="section-13494"></a>
@@ -4288,21 +4291,21 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
 **(b) University and science education**
 
-(1) The Secretary shall support programs for improvements and upgrading of university research reactors and associated instrumentation and equipment. Within 1 year after October 24, 1992, the Secretary shall submit to the Congress a report on the condition and status of university research reactors, which includes a 5-year plan for upgrading and improving such facilities, instrumentation capabilities, and related equipment.
+(1) **University research reactors** — The Secretary shall support programs for improvements and upgrading of university research reactors and associated instrumentation and equipment. Within 1 year after October 24, 1992, the Secretary shall submit to the Congress a report on the condition and status of university research reactors, which includes a 5-year plan for upgrading and improving such facilities, instrumentation capabilities, and related equipment.
 
-(2) The Secretary shall develop a method to evaluate the effectiveness of science and mathematics education programs provided by the Department of Energy and its laboratories, including specific evaluation criteria.
+(2) **Method to evaluate effectiveness of education programs** — The Secretary shall develop a method to evaluate the effectiveness of science and mathematics education programs provided by the Department of Energy and its laboratories, including specific evaluation criteria.
 
-(3) **Established program to stimulate competitive research.—**
+(3) **Established program to stimulate competitive research**
 
-  (A) *Definitions.—* — In this paragraph:
+  (A) *Definitions* — In this paragraph:
 
-    (i) *Eligible jurisdiction.—* — The term “eligible jurisdiction” means a State that is determined to be eligible for a grant under this paragraph in accordance with subparagraph (D).
+    (i) *Eligible jurisdiction* — The term “eligible jurisdiction” means a State that is determined to be eligible for a grant under this paragraph in accordance with subparagraph (D).
 
-    (ii) *EPSCoR.—* — The term “EPSCoR” means the Established Program to Stimulate Competitive Research operated under subparagraph (B).
+    (ii) *EPSCoR* — The term “EPSCoR” means the Established Program to Stimulate Competitive Research operated under subparagraph (B).
 
-    (iii) *National laboratory.—* — The term “National Laboratory” has the meaning given the term in [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
+    (iii) *National Laboratory* — The term “National Laboratory” has the meaning given the term in [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
 
-    (iv) *State.—* — The term “State” means—
+    (iv) *State* — The term “State” means—
 
       (I) a State;
 
@@ -4314,9 +4317,9 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
       (V) the United States Virgin Islands.
 
-  (B) *Program operation.—* — The Secretary shall operate an Established Program to Stimulate Competitive Research.
+  (B) *Program operation* — The Secretary shall operate an Established Program to Stimulate Competitive Research.
 
-  (C) *Objectives.—* — The objectives of EPSCoR shall be—
+  (C) *Objectives* — The objectives of EPSCoR shall be—
 
     (i) to increase the number of researchers in eligible jurisdictions, especially at institutions of higher education, capable of performing nationally competitive science and engineering research in support of the mission of the Department of Energy in the areas of applied energy research, environmental management, and basic science;
 
@@ -4324,11 +4327,11 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
     (iii) to increase the probability of long-term growth of competitive funding to eligible jurisdictions.
 
-  (D) *Eligible jurisdictions.—*
+  (D) *Eligible jurisdictions*
 
-    (i) *In general.—* — The Secretary may establish criteria for determining whether a State is eligible for a grant under this paragraph.
+    (i) *In general* — The Secretary may establish criteria for determining whether a State is eligible for a grant under this paragraph.
 
-    (ii) *Requirement.—* — Except as provided in clause (iii), in establishing criteria under clause (i), the Secretary shall ensure that a State is eligible for a grant under this paragraph if the State, as determined by the Secretary, is a State that—
+    (ii) *Requirement* — Except as provided in clause (iii), in establishing criteria under clause (i), the Secretary shall ensure that a State is eligible for a grant under this paragraph if the State, as determined by the Secretary, is a State that—
 
       (I) historically has received relatively little Federal research and development funding; and
 
@@ -4338,13 +4341,13 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
         (bb) to improve science and engineering research and education programs at institutions of higher education in the State.
 
-    (iii) *Eligibility under nsf epscor.—* — At the election of the Secretary, or if the Secretary declines to establish criteria under clause (i), the Secretary may continue to use the eligibility criteria in use on January 1, 2021, or any successor criteria.
+    (iii) *Eligibility under NSF EPSCoR* — At the election of the Secretary, or if the Secretary declines to establish criteria under clause (i), the Secretary may continue to use the eligibility criteria in use on January 1, 2021, or any successor criteria.
 
-  (E) *Grants in areas of applied energy research, environmental management, and basic science.—*
+  (E) *Grants*
 
-    (i) *In general.—* — EPSCoR shall make grants to eligible jurisdictions to carry out and support applied energy research and research in all areas of environmental management and basic science sponsored by the Department of Energy, including—
+    (i) *In general* — EPSCoR shall make grants to eligible jurisdictions to carry out and support applied energy research and research in all areas of environmental management and basic science sponsored by the Department of Energy, including—
 
-      (I) energy efficiency, fossil energy, renewable energy, and other applied energy research;
+      (I) energy efficiency, fossil energy, renewable energy, nuclear energy, and other applied energy research;
 
       (II) electricity delivery research;
 
@@ -4352,27 +4355,101 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
       (IV) environmental management; and
 
-      (V) basic science research.
+      (V) scientific research, including—
 
-    (ii) *Activities.—* — EPSCoR shall make grants under this subparagraph for activities consistent with the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in clause (i), including—
+        (aa) advanced scientific computing research;
+
+        (bb) basic energy sciences;
+
+        (cc) biological and environmental research;
+
+        (dd) fusion energy sciences;
+
+        (ee) high energy physics;
+
+        (ff) nuclear physics;
+
+        (gg) isotope research, development, and production;
+
+        (hh) accelerator research, development, and production; and
+
+        (ii) other areas of research funded by the Office of Science, as determined by the Secretary.
+
+    (ii) *Activities* — EPSCoR shall make grants under this subparagraph for activities consistent with the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in clause (i), including—
 
       (I) to support research that is carried out in partnership with the National Laboratories;
 
-      (II) to provide for graduate traineeships;
+      (II) to provide for undergraduate scholarships, graduate fellowships, and traineeships;
 
-      (III) to support research by early career faculty; and
+      (III) to support research by early career faculty and staff;
 
-      (IV) to improve research capabilities through biennial research implementation grants.
+      (IV) to improve research capabilities through annual research implementation grants;
 
-    (iii) *No cost sharing.—* — EPSCoR shall not impose any cost-sharing requirement with respect to a grant made under this subparagraph, but may require letters of commitment from National Laboratories.
+      (V) to develop research clusters for particular areas of expertise; and
 
-  (F) *Other activities.—* — EPSCoR may carry out such activities as may be necessary to meet the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in subparagraph (E)(i).
+      (VI) to diversify the future workforce.
 
-  (G) *Program implementation.—*
+    (iii) *No cost sharing* — EPSCoR shall not impose any cost-sharing requirement with respect to a grant made under this subparagraph, but may require letters of commitment from National Laboratories.
 
-    (i) *In general.—* — Not later than 270 days after January 1, 2021, the Secretary shall submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Energy and Commerce and Appropriations of the House of Representatives a plan describing how the Secretary shall implement EPSCoR.
+  (F) *Research capability enhancement*
 
-    (ii) *Contents of plan.—* — The plan described in clause (i) shall include a description of—
+    (i) *Scholarships and fellowships*
+
+      (I) *In general* — Pursuant to subparagraph (E)(ii), the Secretary shall award grants to institutions of higher education in eligible jurisdictions for those institutions of higher education to provide scholarships and fellowships.
+
+      (II) *Grant* — A scholarship or fellowship awarded by an institution of higher education in an eligible jurisdiction using a grant provided under subclause (I)—
+
+        (aa) in the case of an undergraduate scholarship—
+
+          (AA) shall be for a period of 1 year; and
+
+          (BB) may be competitively renewable on an annual basis; and
+
+        (bb) in the case of a graduate level fellowship, shall be for a period of not more than 5 years.
+
+    (ii) *Early career capacity development*
+
+      (I) *In general* — Pursuant to subparagraph (E)(ii), the Secretary shall award grants to early career faculty and staff at institutions of higher education in eligible jurisdictions—
+
+        (aa) to support investigator-initiated research, including associated research equipment and instrumentation;
+
+        (bb) to support activities associated with identifying and responding to funding opportunities;
+
+        (cc) to secure technical assistance for the pursuit of funding opportunities; and
+
+        (dd) to develop and enhance collaboration among National Laboratories, Department of Energy programs, the private sector, and other relevant entities.
+
+      (II) *Grants* — A grant awarded under subclause (I) shall be—
+
+        (aa) for a period of not more than 5 years; and
+
+        (bb) competitively renewable for an additional 5-year period.
+
+    (iii) *Research capacity development*
+
+      (I) *In general* — Pursuant to subparagraph (E)(ii), the Secretary shall award competitive grants to institutions of higher education in eligible jurisdictions for research capacity development and implementation, including—
+
+        (aa) developing expertise in key technology areas, including associated equipment and instrumentation;
+
+        (bb) developing and acquiring novel, state-of-the-art instruments and equipment that range in cost from $500,000 to $20,000,000;
+
+        (cc) enhancing collaboration with National Laboratories, the Department of Energy, and the private sector through faculty or staff placement programs; and
+
+        (dd) supporting formal partnership programs with institutions of higher education and National Laboratories.
+
+      (II) *Grants* — A grant awarded under subclause (I) shall be—
+
+        (aa) for a period of not more than 5 years; and
+
+        (bb) renewable for an additional 5-year period.
+
+      (III) *Equipment and instrumentation* — To the maximum extent practicable, the Secretary shall ensure that research equipment and instrumentation developed or acquired pursuant to a grant awarded under subclause (I) may sustain continued operation and be maintained without the need for additional or subsequent funding under this section.
+
+  (G) *Program implementation*
+
+    (i) *In general* — Not later than 270 days after January 1, 2021, the Secretary shall submit to the Committees on Energy and Natural Resources and Appropriations of the Senate and the Committees on Energy and Commerce and Appropriations of the House of Representatives a plan describing how the Secretary shall implement EPSCoR.
+
+    (ii) *Contents of plan* — The plan described in clause (i) shall include a description of—
 
       (I) the management structure of EPSCoR, which shall ensure that all research areas and activities described in this paragraph are incorporated into EPSCoR;
 
@@ -4382,9 +4459,15 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
       (IV) any other issues relating to EPSCoR that the Secretary determines appropriate.
 
-  (H) *Program evaluation.—*
+    (iii) *Update* — Not later than 270 days after August 9, 2022, the Secretary shall—
 
-    (i) *In general.—* — Not later than 5 years after January 1, 2021, the Secretary shall contract with a federally funded research and development center, the National Academy of Sciences, or a similar organization to carry out an assessment of the effectiveness of EPSCoR, including an assessment of—
+      (I) update the plan submitted under clause (i); and
+
+      (II) submit the updated plan to the committees described in that clause.
+
+  (H) *Program evaluation*
+
+    (i) *In general* — Not later than 5 years after January 1, 2021, the Secretary shall contract with a federally funded research and development center, the National Academy of Sciences, or a similar organization to carry out an assessment of the effectiveness of EPSCoR, including an assessment of—
 
       (I) the tangible progress made towards achieving the objectives described in subparagraph (C);
 
@@ -4392,9 +4475,55 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
       (III) any other issues relating to EPSCoR that the Secretary determines appropriate.
 
-    (ii) *Limitation.—* — The organization with which the Secretary contracts under clause (i) shall not be a National Laboratory.
+    (ii) *Limitation* — The organization with which the Secretary contracts under clause (i) shall not be a National Laboratory.
 
-    (iii) *Report.—* — Not later than 6 years after January 1, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate and the Committee on Science, Space and Technology and the Committee on Appropriations of the House of Representatives a report describing the results of the assessment carried out under clause (i), including recommendations for improvements that would enable the Secretary to achieve the objectives described in subparagraph (C).
+    (iii) *Report* — Not later than 6 years after January 1, 2021, the Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate and the Committee on Science, Space and Technology and the Committee on Appropriations of the House of Representatives a report describing the results of the assessment carried out under clause (i), including recommendations for improvements that would enable the Secretary to achieve the objectives described in subparagraph (C).
+
+    (iv) *Annual report* — At the end of each fiscal year, the Secretary shall submit to the Committee on Energy and Natural Resources and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives a report that includes—
+
+      (I) the total amount of expenditures made by the Department to carry out EPSCoR in each eligible jurisdiction for each of the 3 most recent fiscal years for which such information is available;
+
+      (II)
+
+        (aa) the number of EPSCoR awards made to institutions of higher education located in eligible jurisdictions; and
+
+        (bb) the amount and type of each award;
+
+      (III) the number of awards that are not EPSCoR awards made by the Secretary to institutions of higher education located in eligible jurisdictions;
+
+      (IV)
+
+        (aa) the number of representatives of institutions of higher education in eligible jurisdictions serving on each Office of Science advisory committee; and
+
+        (bb) for each such advisory committee, the percentage of committee membership that those individuals constitute; and
+
+      (V) the number of individuals from institutions of higher education in eligible jurisdictions serving on peer review committees.
+
+  (I) *Funding*
+
+    (i) *Authorization of appropriations* — There are authorized to be appropriated to the Secretary to carry out EPSCoR, to remain available until expended—
+
+      (I) $50,000,000 for fiscal year 2023;
+
+      (II) $50,000,000 for fiscal year 2024;
+
+      (III) $75,000,000 for fiscal year 2025;
+
+      (IV) $100,000,000 for fiscal year 2026; and
+
+      (V) $100,000,000 for fiscal year 2027.
+
+    (ii) *Grants to consortia* — In the case of an EPSCoR grant awarded to a consortium that contains institutions of higher education that are not located in eligible jurisdictions, the Secretary may count—
+
+      (I) the full amount of funds expended to provide the grant towards meeting the funding requirement in clause (iii) if the lead entity of the consortium is an institution of higher education located in an eligible jurisdiction; and
+
+      (II) only the funds provided to institutions of higher education located in eligible jurisdictions towards meeting the funding requirement in clause (iii) if the lead entity of the consortium is an institution of higher education that is not located in an eligible jurisdiction.
+
+    (iii) *Additional funds for eligible jurisdictions* — In addition to funds authorized to be appropriated under clause (i), the Secretary, to the maximum extent practicable while maintaining the competitive, merit-based award processes of the Office of Science, shall ensure that, of the research and development funds of the Office of Science that are awarded by the Secretary each year to institutions of higher education, not less than 10 percent is awarded to institutions of higher education in eligible jurisdictions pursuant to the evaluation and selection criteria in section 605.10 of title 10, Code of Federal Regulations (or successor regulations).
+
+    (iv) *Additional funds for equipment and instrumentation* — In addition to funds authorized to be appropriated under clause (i), there is authorized to be appropriated to the Secretary to award grants under subparagraph (F)(iii)(I) for the purpose described in item (bb) of that subparagraph $25,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
+
+    (v) *Accounting* — To the maximum extent practicable, the Secretary shall ensure that each program within the Department of Energy that endorses an EPSCoR grant awardee shall contribute funding to the award to acknowledge the research benefits to the mission of that program.
 
 **(c) Technology transfer** The Secretary shall support technology transfer activities conducted by the National Laboratories. Within 1 year after October 24, 1992, the Secretary shall submit to the Congress a report on the adequacy of funding for such activities, along with a proposal recommending ways to reduce the length of time required to consummate cooperative research and development agreements.
 
@@ -4416,6 +4545,30 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(1), (2). Pub. L. 117–167, § 10113(g), inserted headings.
+
+Subsec. (b)(3)(E). Pub. L. 117–167, § 10113(a)(1), struck out “in areas of applied energy research, environmental management, and basic science” after “Grants” in heading.
+
+Subsec. (b)(3)(E)(i)(I). Pub. L. 117–167, § 10113(a)(2)(A), inserted “nuclear energy,” before “and”.
+
+Subsec. (b)(3)(E)(i)(V). Pub. L. 117–167, § 10113(a)(2)(B), added subcl. (V) and struck out former subcl. (V) which read as follows: “basic science research.”
+
+Subsec. (b)(3)(E)(ii)(II). Pub. L. 117–167, § 10113(a)(3)(A), substituted “undergraduate scholarships, graduate fellowships, and” for “graduate”.
+
+Subsec. (b)(3)(E)(ii)(III). Pub. L. 117–167, § 10113(a)(3)(B), substituted “and staff;” for “; and”.
+
+Subsec. (b)(3)(E)(ii)(IV). Pub. L. 117–167, § 10113(a)(3)(C), substituted “annual” for “biennial” and semicolon for period at end.
+
+Subsec. (b)(3)(E)(ii)(V), (VI). Pub. L. 117–167, § 10113(a)(3)(D), added subcls. (V) and (VI).
+
+Subsec. (b)(3)(F). Pub. L. 117–167, § 10113(b), added subpar. (F) and struck out former subpar. (F). Prior to amendment, text read as follows: “EPSCoR may carry out such activities as may be necessary to meet the objectives described in subparagraph (C) in the areas of applied energy research, environmental management, and basic science described in subparagraph (E)(i).”
+
+Subsec. (b)(3)(G)(iii). Pub. L. 117–167, § 10113(c), added cl. (iii).
+
+Subsec. (b)(3)(H)(iv). Pub. L. 117–167, § 10113(d), added cl. (iv).
+
+Subsec. (b)(3)(I). Pub. L. 117–167, § 10113(e), added subpar. (I).
+
 2021—Subsec. (b)(3). Pub. L. 116–283 added par. (3) identical to the par. (3) appearing in the amendment by Pub. L. 116–260. See 2020 Amendment note below.
 
 2020—Subsec. (b)(3). Pub. L. 116–260 added par. (3) and struck out former par. (3) which related to the operation of an Experimental Program to Stimulate Competitive Research (EPSCoR).
@@ -4686,7 +4839,7 @@ The Federal Nonnuclear Research and Development Act of 1974, referred to in subs
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(1), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsecs. (a)(2), (b), (e)(1), (2), and (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsecs. (a)(2), (b), (e)(1), (2), and (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-13551"></a>
@@ -4934,7 +5087,7 @@ The purposes of this subchapter are to—
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (a)(1)(A)(ii), (2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (a)(1)(A)(ii), (2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 This Act, referred to in subsec. (b)(2), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, known as the Energy Policy Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 

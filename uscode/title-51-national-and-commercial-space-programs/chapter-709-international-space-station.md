@@ -23,6 +23,11 @@ The words “the National Aeronautics and Space Administration Authorization Act
 #### References in Text
 Section 103(a)(1) of the National Aeronautics and Space Administration Authorization Act, Fiscal Year 1991 (Public Law 101–611, 104 Stat. 3190), referred to in text, is not classified to the Code.
 
+#### Priorities for International Space Station
+Pub. L. 117–167, div. B, title VII, § 10816, Aug. 9, 2022, 136 Stat. 1739, provided that: “(a) In General.—The Administrator [of the National Aeronautics and Space Administration] shall assess International Space Station research activities and shall ensure that crew time and resources allocated to the [National Aeronautics and Space] Administration for use on the International Space Station prioritize—“(1) the research of the Human Research Program, including research on and development of countermeasures relevant to reducing human health and performance risks, behavioral and psychological risks, and other astronaut safety risks related to long-duration human spaceflight; “(2) risk reduction activities relevant to exploration technologies, including for the Environmental Control and Life Support System, extravehicular activity and space suits, environmental monitoring, safety, emergency response, and deep space communications; “(3) the advancement of United States leadership in basic and applied space life and physical science research, consistent with the priorities of the most recent space life and physical sciences decadal survey of the National Academies of Sciences, Engineering, and Medicine; and “(4) other research and development activities identified by the Administrator as essential to Moon to Mars activities. “(b) Reports.—“(1) Assessment and prioritization.—Not later than 180 days after the date of the enactment of this Act [Aug. 9, 2022], the Administrator shall submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives] a report on—“(A) the assessment; and “(B) the steps taken to achieve the prioritization required by subsection (a). “(2) Space flight participants.—Not later than 120 days after the date of the enactment of this Act, the Administrator shall submit to the appropriate committees of Congress a report on measures taken, with respect to space flight participants aboard the ISS [International Space Station], to ensure government astronaut safety, to avoid interference in ISS operations and research priorities, and to prevent undue demands on crew time and resources. “(3) Annual progress reports.—Concurrent with the annual budget submission of the President to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, the Administrator shall provide to the appropriate committees of Congress an annual accounting of the use of Administration crew time and ISS resources, including the allocation of such resources toward the priorities described in subsection (a).”
+
+[For definitions of “deep space”, “space flight participant”, and “government astronaut” as used in section 10816 of Pub. L. 117–167, set out above, see section 10802 of Pub. L. 117–167, set out as a Definitions note under [section 10101 of this title](./chapter-101-definitions.md#section-10101).]
+
 #### International Space Station
 Pub. L. 110–69, title II, § 2006, Aug. 9, 2007, 121 Stat. 584, provided that: “(a) Sense of Congress.—It is the sense of Congress that the International Space Station National Laboratory offers unique opportunities for educational activities and provides a unique resource for research and development in science, technology, and engineering, which can enhance the global competitiveness of the United States. “(b) Development of Educational Projects.—The Administrator of the National Aeronautics and Space Administration shall develop a detailed plan for implementation of 1 or more education projects that utilize the resources offered by the International Space Station. In developing any detailed plan according to this paragraph, the Administrator shall make use of the findings and recommendations of the International Space Station National Laboratory Education Concept Development Task Force. “(c) Development of Research Plans for Competitiveness Enhancement.—The Administrator shall develop a detailed plan for identification and support of research to be conducted aboard the International Space Station, which offers the potential for enhancement of United States competitiveness in science, technology, and engineering. In developing any detailed plan pursuant to this subsection, the Administrator shall consult with agencies and entities with which cooperative agreements have been reached regarding utilization of International Space Station National Laboratory facilities.”
 
@@ -165,8 +170,8 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
 
 <a id="section-70907"></a>
-## § 70907. Maintaining use through at least 2024
-**(a) Policy.—** The Administrator shall take all necessary steps to ensure that the International Space Station remains a viable and productive facility capable of potential United States utilization through at least September 30, 2024.
+## § 70907. Maintaining use through at least 2030
+**(a) Policy.—** The Administrator shall take all necessary steps to ensure that the International Space Station remains a viable and productive facility capable of potential United States utilization through at least September 30, 2030.
 
 **(b) NASA Actions.—** In furtherance of the policy under subsection (a), the Administrator shall ensure, to the extent practicable, that the International Space Station, as a designated national laboratory—
 
@@ -174,7 +179,7 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
 (2) is considered for use by all NASA mission directorates, as appropriate, for technically appropriate scientific data gathering or technology risk reduction demonstrations; and
 
-(3) remains an effective, functional vehicle providing research and test bed capabilities for the United States through at least September 30, 2024.
+(3) remains an effective, functional vehicle providing research and test bed capabilities for the United States through at least September 30, 2030.
 
 ### Statutory Notes
 
@@ -184,4 +189,10 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 | 70907 | [42 U.S.C. 17751(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17751/a&num=0&edition=prelim). | Pub. L. 110–422, title VI, § 601(a), Oct. 15, 2008, 122 Stat. 4793. |
 
 #### Amendments
+2022—Pub. L. 117–167, § 10815(d)(1)(A), substituted “2030” for “2024” in section catchline.
+
+Subsec. (a). Pub. L. 117–167, § 10815(d)(1)(B), substituted “September 30, 2030” for “September 30, 2024”.
+
+Subsec. (b)(3). Pub. L. 117–167, § 10815(d)(1)(C), substituted “September 30, 2030” for “September 30, 2024”.
+
 2015—Pub. L. 114–90 amended section generally. Prior to amendment, section related to maintaining the International Space Station as a viable and productive facility capable of potential United States utilization through at least 2020.

@@ -338,7 +338,7 @@ This section, referred to in subsec. (b)(4) and the second place appearing in su
 
 The Indian Self-Determination Act, referred to in subsec. (b)(8)(D) to (F), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
-The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. Pub. L. 107–110 enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. Pub. L. 107–110 enacted new sections 5203 and 5206 of Pub. L. 100–297, relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsec. (b)(8)(D) to (F), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. Sections 5204 and 5207 of the Act were classified to sections 2503 and 2506, respectively, of this title, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. Pub. L. 107–110 enacted new sections 5204 and 5207 which are classified to sections 2503 and 2506, respectively, of this title. Pub. L. 107–110 enacted new sections 5203 and 5206 of Pub. L. 100–297, relating to subject matter similar to that of former sections 5204 and 5207, respectively, which are classified to sections 2502 and 2505, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (e)(4)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -427,7 +427,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+This Act, referred to in subsec. (a), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 #### Prior Provisions
 A prior section 2003, Pub. L. 95–561, title XI, § 1123, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 3985, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110.
@@ -648,7 +648,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
@@ -737,7 +737,7 @@ Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (c), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+This Act, referred to in subsec. (c), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -1085,7 +1085,7 @@ the Secretary shall ensure that the Indian tribe or tribal organization is provi
 ### Statutory Notes
 
 #### References in Text
-The Tribally Controlled Schools Act of 1988, referred to in subsecs. (h)(1) and (k), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in subsecs. (h)(1) and (k), is part B (§§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (h)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -1272,7 +1272,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 Act of April 16, 1934, referred to in subsec. (e)(2), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, popularly known as the Johnson-O’Malley Act, which is classified generally to section 5342 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
-This Act, referred to in subsec. (e)(2), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+This Act, referred to in subsec. (e)(2), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 This chapter, referred to in subsec. (h)(1), was in the original “this title”, meaning title XI (§ 1101 et seq.) of Pub. L. 95–561, which is classified principally to this chapter. For complete classification of title XI to the Code, see Tables.
 
@@ -1308,7 +1308,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b)(1), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+This Act, referred to in subsec. (b)(1), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 #### Prior Provisions
 A prior section 2011, Pub. L. 95–561, title XI, § 1131, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4001, related to policy for Indian control of Indian education, prior to the general amendment of this chapter by Pub. L. 107–110.
@@ -1665,7 +1665,7 @@ shall not apply to such educator by reason of any such employment during a reces
 #### References in Text
 The General Schedule, referred to in subsec. (g)(1)(A)(i), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
-The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (g)(1)(B), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, as amended, which is classified generally to chapter 25 (§ 901 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section901&num=0&edition=prelim) and Tables.
+The Defense Department Overseas Teachers Pay and Personnel Practices Act, referred to in subsec. (g)(1)(B), is Pub. L. 86–91, July 17, 1959, 73 Stat. 213, which is classified generally to chapter 25 (§ 901 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section901&num=0&edition=prelim) and Tables.
 
 Subsection (p), referred to in subsecs. (g)(1)(D)(ii) and (q)(1), probably should be a reference to subsec. (o) of prior section 1131 of Pub. L. 95–561 which was classified to [section 2011 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2011) prior to the general amendment of this chapter by Pub. L. 103–382. See Prior Provisions note set out under [section 2011 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2011).
 
@@ -1818,7 +1818,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+This Act, referred to in subsec. (b), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 #### Prior Provisions
 A prior section 2017, Pub. L. 95–561, title XI, § 1137, as added Pub. L. 103–382, title III, § 381, Oct. 20, 1994, 108 Stat. 4011; amended Pub. L. 105–244, title IX, § 901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 105–362, title VIII, § 801(c)(4), Nov. 10, 1998, 112 Stat. 3288, related to biennial report, prior to the general amendment of this chapter by Pub. L. 107–110. See [section 2015 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2015).
@@ -1864,7 +1864,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 #### References in Text
 The Tribally Controlled Schools Act of 1988, referred to in subsecs. (a), (b)(1), (2), and (c)(2), is part B (§ 5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(3)(E), (4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(3)(E), (4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of enactment of this chapter, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 107–110, which amended this chapter generally and was approved Jan. 8, 2002.
 

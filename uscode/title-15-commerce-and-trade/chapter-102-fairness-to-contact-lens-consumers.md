@@ -136,7 +136,7 @@ The Federal Trade Commission shall prescribe rules pursuant to [section 57a of t
 ### Statutory Notes
 
 #### References in Text
-The Magnuson-Moss Warranty—Federal Trade Commission Improvement Act, referred to in text, is Pub. L. 93–637, Jan. 4, 1975, 88 Stat. 2183, as amended. Title I of the Act is classified generally to chapter 50 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-050-consumer-product-warranties.md#section-2301) and Tables.
+The Magnuson-Moss Warranty—Federal Trade Commission Improvement Act, referred to in text, is Pub. L. 93–637, Jan. 4, 1975, 88 Stat. 2183. Title I of the Act is classified generally to chapter 50 (§ 2301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-050-consumer-product-warranties.md#section-2301) and Tables.
 
 For effective date of this chapter, referred to in text, see section 12 of Pub. L. 108–164, set out as an Effective Date note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).
 
@@ -153,7 +153,7 @@ Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–16
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Effective Date
 Section effective 60 days after Dec. 6, 2003, see section 12 of Pub. L. 108–164, set out as a note under [section 7601 of this title](./chapter-102-fairness-to-contact-lens-consumers.md#section-7601).

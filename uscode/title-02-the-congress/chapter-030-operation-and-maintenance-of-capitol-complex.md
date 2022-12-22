@@ -507,7 +507,7 @@ The Architect of the Capitol is authorized and directed to carry into effect for
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means Pub. L. 87–82, July 6, 1961, 75 Stat. 199, as amended, which enacted sections 2042 to 2047 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means Pub. L. 87–82, July 6, 1961, 75 Stat. 199, which enacted sections 2042 to 2047 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was classified to section 174j–3 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -590,7 +590,7 @@ Repeal effective July 17, 2008, and applicable to remainder of fiscal year in wh
 ### Statutory Notes
 
 #### References in Text
-The Joint Resolution entitled “Joint Resolution transferring the management of the Senate Restaurants to the Architect of the Capitol, and for other purposes”, approved July 6, 1961, referred to in subsec. (a), is Pub. L. 87–82, July 6, 1961, 75 Stat. 199, as amended, which enacted sections 174j–1 to 174j–7 of former Title 40, Public Buildings, Property, and Works. Sections 174j–1 and 174j–3 to 174j–7 of former Title 40 were transferred to sections 2042 and 2043 to 2047 of this title, respectively. Section 174j–2 of former Title 40 was repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 174j–8 of former Title 40, which was not enacted by Pub. L. 87–82, was transferred to [section 2048 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2048) and subsequently repealed. For complete classification of this Act to the Code, see Tables.
+The Joint Resolution entitled “Joint Resolution transferring the management of the Senate Restaurants to the Architect of the Capitol, and for other purposes”, approved July 6, 1961, referred to in subsec. (a), is Pub. L. 87–82, July 6, 1961, 75 Stat. 199, which enacted sections 174j–1 to 174j–7 of former Title 40, Public Buildings, Property, and Works. Sections 174j–1 and 174j–3 to 174j–7 of former Title 40 were transferred to sections 2042 and 2043 to 2047 of this title, respectively. Section 174j–2 of former Title 40 was repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 174j–8 of former Title 40, which was not enacted by Pub. L. 87–82, was transferred to [section 2048 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2048) and subsequently repealed. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was classified to section 174j–9 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -1708,6 +1708,15 @@ Section was classified to section 188 of former Title 40, prior to the enactment
 
 R.S. § 1831 derived from act June 10, 1872, ch. 415, § 1, 17 Stat. 362.
 
+#### Works of Art Accepted
+The following provisions relate to works of art accepted by the Joint Committee on the Library:
+
+Pub. L. 117–111, Apr. 13, 2022, 136 Stat. 1166.—Statues of Sandra Day O’Connor and Ruth Bader Ginsburg.
+
+Pub. L. 112–174, Sept. 20, 2012, 126 Stat. 1311.—Statue of Frederick Douglass.
+
+Pub. L. 109–427, Dec. 20, 2006, 120 Stat. 2912.—Bust of Sojourner Truth.
+
 
 <a id="section-2134"></a>
 ## § 2134. Art exhibits
@@ -2091,7 +2100,7 @@ Repeal effective first day of first pay period (applicable to employees transfer
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (d), is Pub. L. 107–68, Nov. 12, 2001, 115 Stat. 560, as amended, known as the Legislative Branch Appropriations Act, 2002. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (d), is Pub. L. 107–68, Nov. 12, 2001, 115 Stat. 560, known as the Legislative Branch Appropriations Act, 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was classified to section 217c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.

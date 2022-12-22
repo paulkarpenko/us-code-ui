@@ -476,7 +476,7 @@ In clause (20), the words “the Commonwealth of” and “the Government of” 
 #### References in Text
 The Americans with Disabilities Act of 1990, referred to in par. (3)(F), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in par. (3)(F), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in par. (3)(F), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 The Federal Water Pollution Control Act, referred to in par. (3)(F), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
@@ -1954,9 +1954,9 @@ In subsection (c), the words “Notwithstanding any other provision of law” ar
 In subsection (d), the word “sponsor” is substituted for “grant recipient” for clarity. The words “amount the Government may pay” are substituted for “obligation of the United States authorized” for clarity and consistency in this section.
 
 #### References in Text
-The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A), (3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
+The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2)(A), (3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
 
-The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, as amended, which was classified principally to chapter 25 (§ 1701 et seq.) of former Title 49. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, § 523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
+The Airport and Airway Development Act of 1970, referred to in subsec. (c), is title I of Pub. L. 91–258, May 21, 1970, 84 Stat. 219, which was classified principally to chapter 25 (§ 1701 et seq.) of former Title 49. Sections 1 through 30 of title I of Pub. L. 91–258, which enacted sections 1701 to 1703, 1711 to 1713, and 1714 to 1730 of former Title 49, and a provision set out as a note under section 1701 of former Title 49, were repealed by Pub. L. 97–248, title V, § 523(a), Sept. 3, 1982, 96 Stat. 695. Sections 31, 51, 52(a), (b)(4), (6), (c), (d), and 53 of title I of Pub. L. 91–258 were repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 #### Amendments
 2012—Subsec. (e)(3). Pub. L. 112–95 substituted “accordance with section 47119(a)” for “accordance with section 47110(d)(2)” and “allowable under section 47119(a)” for “allowable under section 47110(d)”.
@@ -2025,6 +2025,18 @@ Pub. L. 107–71, title I, § 143, Nov. 19, 2001, 115 Stat. 644, provided that: 
 
 (2) is located in an area that meets one or more of the criteria established in section 301(a) of the Public Works and Economic Development Act of 1965 ([42 U.S.C. 3161(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim)), as determined by the Secretary of Commerce.
 
+**(g) Special Rule for Covered Equipment.—**
+
+(1) **In general.—** — The Government’s share of allowable project costs for covered equipment and its installation shall be 100 percent.
+
+(2) **Definition of covered equipment.—** — For purposes of this subsection, the term “covered equipment” means aqueous film forming foam input-based testing equipment that is eligible for Airport Improvement Program funding based on Federal Aviation Administration PGL 21–01, titled “Extension of Eligibility for stand-alone acquisition of input-based testing equipment and truck modification”, dated October 5, 2021 (or any other successor program guidance letter).
+
+(3) **Sunset.—** — The higher cost share authority established in this subsection shall terminate on the earlier of—
+
+  (A) 180 days after the date on which the eligibility of covered equipment for Airport Improvement Program funding under the authority described in paragraph (2) terminates or is discontinued by the Administrator; or
+
+  (B) 5 years after the date of enactment of this subsection.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -2043,7 +2055,11 @@ In subsection (c), the words “Notwithstanding subsections (a) and (b) of this 
 #### References in Text
 Section 17(b) of the Airport and Airway Development Act of 1970, referred to in subsec. (b), is section 17(b) of Pub. L. 91–258, which was classified to section 1717(b) of former Title 49, Transportation, prior to repeal by Pub. L. 97–248, title V, § 523(a), Sept. 3, 1982, 96 Stat. 695.
 
+The date of enactment of this subsection, referred to in subsec. (g)(3)(B), is the date of enactment of Pub. L. 117–254, which was approved Dec. 20, 2022.
+
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–254 added subsec. (g).
+
 2018—Subsec. (a)(1). Pub. L. 115–254, § 134(1), substituted “medium or large hub airport;” for “primary airport having at least .25 percent of the total number of passenger boardings each year at all commercial service airports;”.
 
 Subsec. (a)(5). Pub. L. 115–254, § 134(2), added par. (5) and struck out former par. (5) which read as follows: “for fiscal year 2002, 100 percent for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L).”
@@ -2083,6 +2099,12 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 #### Effective Date of 1996 Amendment
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
 
+#### Outreach Efforts
+Pub. L. 117–254, § 2(b), Dec. 20, 2022, 136 Stat. 2361, provided that: “Not later than 90 days after the date of enactment of this Act [Dec. 20, 2022], the Administrator of the Federal Aviation Administration shall conduct an outreach effort to make airports aware of the higher cost share authority established in [section 47109(g) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47109/g&num=0&edition=prelim), United States Code, as added by subsection (a).”
+
+#### Authorization of Appropriations
+Pub. L. 117–254, § 2(d), Dec. 20, 2022, 136 Stat. 2362, provided that: “The amendments made by this Act [amending this section] shall apply to amounts that first become available in fiscal year 2023 or thereafter.”
+
 #### Temporary Increase in Government Share of Certain AIP Project Costs
 Pub. L. 108–176, title I, § 161, Dec. 12, 2003, 117 Stat. 2513, as amended by Pub. L. 110–190, § 4(c), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–253, § 3(c)(3), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, § 5(i), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, § 5(h), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, § 5(i), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, § 5(h), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–153, § 5(h), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, § 5(h), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, § 5(h), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, § 104(h), Aug. 1, 2010, 124 Stat. 2350; Pub. L. 111–249, § 5(i), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, § 5(h), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, § 5(h), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, § 5(h), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, § 5(h), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, § 5(h), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, § 205(i), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, § 5(i), Jan. 31, 2012, 126 Stat. 4, provided that: “Notwithstanding [section 47109(a) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47109/a&num=0&edition=prelim), United States Code, the Government’s share of allowable project costs for a grant made in any of fiscal years 2009 through 2011, or in the portion of fiscal year 2012 ending before February 18, 2012, under chapter 471 of that title for a project described in paragraph (2) or (3) of that section shall be 95 percent.”
 
@@ -2095,7 +2117,21 @@ Pub. L. 108–176, title I, § 161, Dec. 12, 2003, 117 Stat. 2513, as amended by
 
 **(b) Allowable Cost Standards.—** A project cost is allowable—
 
-(1) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type;
+(1)
+
+  (A) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title and any cost of moving a Federal facility impeding the project if the rebuilt facility is of an equivalent size and type; or
+
+  (B) if the cost is an incentive payment incurred in carrying out the project described in subparagraph (A) that is to be provided to a contractor upon early completion of a project, if—
+
+    (i) such payment does not exceed the lesser of 5 percent of the initial construction contract amount or $1,000,000;
+
+    (ii) the level of contractor’s control of, or access to, the worksite necessary to shorten the duration of the project does not negatively impact the operation of the airport;
+
+    (iii) the contract specifies application of the incentive structure in the event of unforeseeable, non-weather delays beyond the control of the contractor;
+
+    (iv) nothing in any agreement with the contractor prevents the airport operator from retaining responsibility for the safety, efficiency, and capacity of the airport during the execution of the grant agreement; and
+
+    (v) the Secretary determines that the use of an incentive payment is likely to increase airport capacity or efficiency or result in cost savings as a result of shortening the project’s duration;
 
 (2)
 
@@ -2173,7 +2209,7 @@ Pub. L. 108–176, title I, § 161, Dec. 12, 2003, 117 Stat. 2513, as amended by
 
 (6) **Limitation on statutory construction.—** — Nothing in this section shall be construed to prohibit the obligation of amounts pursuant to a letter of intent under this subsection in the same fiscal year as the letter of intent is issued.
 
-(7) **Partnership Program 11 So in original. Probably should not be capitalized. Airports 1.—** — The Secretary may issue a letter of intent under this section to an airport sponsor with an approved application under section 47134(b) if—
+(7) **Partnership program airports.—** — The Secretary may issue a letter of intent under this section to an airport sponsor with an approved application under section 47134(b) if—
 
   (A) the application was approved in fiscal year 2019; and
 
@@ -2247,6 +2283,10 @@ The source credits for all of subsection (b) are included for clarity though onl
 In subsection (b)(2)(C)(ii), the words “before the cost is incurred” are added for clarity.
 
 #### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–186, § 2(a), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (e)(7). Pub. L. 117–186, § 2(b), substituted “Partnership program airports” for “Partnership Program Airports” in heading.
+
 2018—Subsec. (b)(2)(B). Pub. L. 115–254, § 539(n)(1), substituted “compatibility” for “compatability”.
 
 Subsec. (b)(2)(D)(i). Pub. L. 115–254, § 539(n)(2), substituted “climatic” for “climactic”.
@@ -3930,7 +3970,7 @@ Subsection (a) is substituted for 49 App.:2218(a) to eliminate unnecessary words
 The words “as the Secretary deems” and “the purposes of” are omitted as surplus. The words “The regulations shall be similar to those in effect under” are substituted for “and may enforce this section, and any rules promulgated under this section, through agency and department provisions and rules which shall be similar to those established and in effect under” for clarity and to eliminate unnecessary words and because “rules” and “regulations” are synonymous. The words “The provisions of . . . and not in lieu of the provisions of” are omitted as surplus. The word “is” is substituted for “shall be considered to be” to eliminate unnecessary words.
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (a), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Pub. L. 115–254 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
@@ -4719,7 +4759,7 @@ Pub. L. 112–95, title VIII, § 813, Feb. 14, 2012, 126 Stat. 124, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
+The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this subchapter.
 
 #### Amendments
 2018—Pub. L. 115–254, § 160(a)(1), substituted “Airport investment partnership program” for “Pilot program on private ownership of airports” in section catchline.
@@ -4964,7 +5004,7 @@ Section applicable only to fiscal years beginning after Sept. 30, 2003, except a
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (a)(1), (2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (a)(1), (2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsecs. (c), (d). Pub. L. 115–254 redesignated subsec. (d) as (c) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The Administrator of the Environmental Protection Agency, in consultation with the Secretary, shall determine how to provide appropriate emissions credits to airport projects previously approved under section 47136 consistent with the guidance and conditions specified in subsection (a).”
@@ -5444,7 +5484,7 @@ Nothing in amendment by section 125(d) of Pub. L. 106–181 to be construed to a
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(3)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(3)(B)(ii), and (l), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 Executive Order No. 13274, referred to in subsec. (m), is set out as a note under [section 301 of this title](./chapter-003-general-duties-and-powers.md#section-301).
 

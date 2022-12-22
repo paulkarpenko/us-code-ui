@@ -2,8 +2,8 @@
 title: 39
 heading: POSTAL SERVICE
 positive_law: true
-sections: 174
-chapters: 21
+sections: 181
+chapters: 22
 ---
 # Title 39. POSTAL SERVICE
 
@@ -25,6 +25,7 @@ chapters: 21
 - 32 — PENALTY AND FRANKED MAIL
 - 34 — ARMED FORCES AND FREE POSTAGE
 - 36 — POSTAL RATES, CLASSES, AND SERVICES
+- 37 — NONPOSTAL SERVICES
 - 50 — GENERAL
 - 52 — REPEALED]
 - 54 — TRANSPORTATION OF MAIL BY AIR

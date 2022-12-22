@@ -454,7 +454,7 @@ as designated by the Chairman at the time of appointment. Any member appointed t
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2015—Pub. L. 114–110 renumbered [section 726 of this title](./chapter-chapter-7-chapter-chapter-7.md#section-726) as this section.

@@ -237,13 +237,13 @@ Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3)(A
 
 Subsec. (b)(1)(A). Pub. L. 117–58, § 28001(a)(1)(B)(i)(I), substituted “fiscal year 2026” for “fiscal year 2021”.
 
-Subsec. (b)(1)(B). Pub. L. 117–58, § 28001(a)(1)(B)(i)(II), added subpar. (B) and struck out former subpar. (B), which related to available amounts for fiscal years 2001 to 2004 and thereafter.
+Subsec. (b)(1)(B). Pub. L. 117–58, § 28001(a)(1)(B)(i)(II), added subpar. (B) and struck out former subpar. (B) which related to available amounts for fiscal years 2001 to 2004 and thereafter.
 
 Subsec. (b)(2)(A). Pub. L. 117–58, § 28001(a)(1)(B)(ii)(I), substituted “2022 through 2026” for “2016 through 2021”.
 
-Subsec. (b)(2)(B). Pub. L. 117–58, § 28001(a)(1)(B)(ii)(II), added subpar. (B) and struck out former subpar. (B), which related to available amounts for fiscal years 2016, 2017, and thereafter.
+Subsec. (b)(2)(B). Pub. L. 117–58, § 28001(a)(1)(B)(ii)(II), added subpar. (B) and struck out former subpar. (B) which related to available amounts for fiscal years 2016, 2017, and thereafter.
 
-Subsec. (e)(2). Pub. L. 117–58, § 28001(a)(1)(C), substituted ‘$1,300,000” for “$900,000”.
+Subsec. (e)(2). Pub. L. 117–58, § 28001(a)(1)(C), substituted “$1,300,000” for “$900,000”.
 
 2015—Subsec. (a). Pub. L. 114–94, § 10001(b)(1)(A), substituted “For each fiscal year through fiscal year 2021, the balance” for “For each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015, the balance” and “activities under [section 777m(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777m/e&num=0&edition=prelim)” for “multistate conservation grants under [section 777m of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777m)” in introductory provisions.
 
@@ -797,19 +797,17 @@ In subsec. (d)(2)(A), “[section 132 of title 41](https://uscode.house.gov/view
 
 Subsec. (a)(2). Pub. L. 117–58, § 28001(a)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
 
-Pub. L. 117–58, § 28001(a)(2)(A), struck out par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
+Pub. L. 117–58, § 28001(a)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
 
-Pub. L. 117–58, § 28001(a)(2)(B), redesignated par. (3) as (2).
-
-Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively.
+Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
 Subsec. (a)(4)(B). Pub. L. 117–58, § 28001(a)(2)(D), substituted “employee authorized under paragraph (1)” for “full-time equivalent employee authorized under paragraphs (1) and (2)”.
 
-Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively.
+Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(a)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
 
 Subsec. (a)(8)(A). Pub. L. 117–58, § 28001(a)(2)(E), struck out “on a full-time basis” after “administer this chapter”.
 
-Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(a)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, in par. (10) inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”.
+Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(a)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”. Former par. (9) redesignated (8).
 
 2005—Subsecs. (a), (b)(1). Pub. L. 109–59 substituted “section 777c(b)” for “section 777c(d)(1)” in introductory provisions.
 
@@ -982,7 +980,7 @@ Section effective Oct. 1, 1988, see section 6(e) of Pub. L. 100–448, set out a
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2021—Subsec. (e)(3). Pub. L. 117–58 added par. (3).

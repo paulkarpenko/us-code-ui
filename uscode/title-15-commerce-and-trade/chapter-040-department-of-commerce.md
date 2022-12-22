@@ -71,10 +71,10 @@ The White House, March 13, 1950.
 Section 307 of Reorg. Plan No. 21 of 1950, eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, set out in the Appendix to Title 5, Government Organization and Employees, provided that the functions transferred by the provisions of that Plan should not be subject to the provisions of Reorg. Plan No. 5 of 1950, set out above. Said Reorg. Plan No. 21 of 1950 created, within the Department of Commerce, the Federal Maritime Board, and the Maritime Administration, the latter, with a Maritime Administrator at its head. It abolished the United States Maritime Commission, transferring some of its functions and some of the functions of its Chairman to said Federal Maritime Board. It transferred the remainder of the functions of that Commission and its Chairman to the Secretary of Commerce, with power vested in him to authorize their performance by said Maritime Administrator.
 
 #### Executive Order No. 13339
-Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, § 3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under [section 3501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3501&num=0&edition=prelim), The Public Health and Welfare.
+Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 13403, § 3, May 12, 2006, 71 F.R. 28543, which established in the Department of Commerce a President’s Advisory Commission on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13515, § 4(a), Oct. 14, 2009, 74 F.R. 53638, formerly set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under [section 3501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3501&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Executive Order No. 13515
-Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, § 4(a), May 13, 2019, 84 F.R. 22324, set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under [section 3501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3501&num=0&edition=prelim), The Public Health and Welfare.
+Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, § 4(a), May 13, 2019, 84 F.R. 22324, formerly set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under [section 3501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3501&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
 Prior to revocation of Ex. Ord. No. 13515, term of Commission on Asian Americans and Pacific Islanders was extended until Sept. 30, 2019, by Ex. Ord. No. 13811, § 1(s), Sept. 29, 2017, 82 F.R. 46363, formerly set out in a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
@@ -852,6 +852,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 117–103, div. B, title I, Mar. 15, 2022, 136 Stat. 108.
+
 Pub. L. 116–260, div. B, title I, Dec. 27, 2020, 134 Stat. 1241.
 
 Pub. L. 116–93, div. B, title I, Dec. 20, 2019, 133 Stat. 2392.
@@ -889,6 +891,8 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–103, div. B, title I, Mar. 15, 2022, 136 Stat. 107.
 
 Pub. L. 116–260, div. B, title I, Dec. 27, 2020, 134 Stat. 1240.
 
@@ -1057,7 +1061,7 @@ The Secretary of Commerce shall have charge, in the buildings or premises occupi
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Feb. 14, 1903, ch. 552, 32 Stat. 825, as amended, which is classified to sections 175, 1501, 1504, 1510, 1511, 1512, 1513, 1515, 1516, 1517 to 1519 of this title.
+This Act, referred to in text, is act Feb. 14, 1903, ch. 552, 32 Stat. 825, which is classified to sections 175, 1501, 1504, 1510, 1511, 1512, 1513, 1515, 1516, 1517 to 1519 of this title.
 
 #### Codification
 Section was formerly classified to [section 603 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section603&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.

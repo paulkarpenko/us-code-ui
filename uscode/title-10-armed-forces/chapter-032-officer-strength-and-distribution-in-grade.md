@@ -160,6 +160,9 @@ Pub. L. 99–145, title V, § 511(b), Nov. 8, 1985, 99 Stat. 623, provided that:
 #### Effective Date
 Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
 
+#### Temporary Exemption From End Strength Grade Restrictions for the Space Force
+This section not to apply to the Space Force until Jan. 1, 2023, see section 528(a) of Pub. L. 117–81, set out as a note under [section 517 of this title](./chapter-031-enlistments.md#section-517).
+
 #### Temporary Variation in DOPMA Authorized End Strength Limitations for Active Duty Air Force and Navy Officers in Certain Grades
 Pub. L. 104–106, div. A, title IV, § 402, Feb. 10, 1996, 110 Stat. 286, provided that the numbers of officers of the Air Force authorized under subsec. (a)(1) of this section to be serving on active duty in the grades of major, lieutenant colonel, and colonel for fiscal years 1996 and 1997 and the numbers of officers in the Navy authorized under subsec. (a)(2) of this section to be serving on active duty in the grades of lieutenant commander, commander, and captain for fiscal years 1996 and 1997 were limited to numbers in tables, prior to repeal by Pub. L. 104–201, div. A, title IV, § 403(c)(3), Sept. 23, 1996, 110 Stat. 2506.
 
@@ -544,7 +547,7 @@ Section is based on Pub. L. 95–79, title VIII, § 811(a), July 30, 1977, 91 St
 Present law (section 811(a) of Public Law 95–79, as amended) provides that the authority to suspend the limitation on the number of general and flag officers who may be serving on active duty applies during war or national emergency. In codifying the limitation (in [section 526 of title 10](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526) as proposed to be added by section 1(b) of the bill), the committee determined that the same war and emergency waiver authority as applies to other limitations on the number of officers on active duty under the existing [10 U.S.C. 526](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526) (redesignated as [10 U.S.C. 527](./chapter-032-officer-strength-and-distribution-in-grade.md#section-527) by the bill) should apply with respect to this limitation and accordingly amended the suspension authority in present law to include the codified general and flag officer limitation. This authority is slightly different from the waiver authority in the source law in that the suspension would expire 2 years after it takes effect or 1 year after the end of the war or national emergency, whichever occurs first, rather than upon termination of the war or emergency.
 
 #### References in Text
-[Section 526a(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526a/i/1&num=0&edition=prelim), referred to in subsec. (k)(3), probably means subsec. (i)(1) of [section 526a of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526a) as added by section 501(b) of Pub. L. 117–81, div. A, title V, Dec. 27, 2021, 135 Stat. 1679.
+[Section 526a(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section526a/i/1&num=0&edition=prelim), referred to in subsec. (k)(3), probably means the subsec. (i)(1) of [section 526a of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526a) as added by section 501(b) of Pub. L. 117–81 and which relates to allowed increases in the number of certain officers.
 
 #### Prior Provisions
 A prior section 526 was renumbered [section 527 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-527).
@@ -794,7 +797,7 @@ Pub. L. 110–417, [div. A], title V, § 503(e), Oct. 14, 2008, 122 Stat. 4434, 
 
 Subsec. (i). Pub. L. 117–81 added subsec. (i) relating to transfer of authorizations among military services.
 
-Pub. L. 116–283, § 501(a)(1), redesignated subsec. (h) as (i).
+Pub. L. 116–283, § 501(a)(1), redesignated subsec. (h) as (i) relating to annual report.
 
 
 <a id="section-527"></a>

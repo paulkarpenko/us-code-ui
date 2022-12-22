@@ -822,7 +822,7 @@ Section effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out a
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in subsec. (a), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2002—Subsec. (a). Pub. L. 107–273 inserted “, entity, or program” after “person” and “grant, or cooperative agreement,” after “subcontract,”.

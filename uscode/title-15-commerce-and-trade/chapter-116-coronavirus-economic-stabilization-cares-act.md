@@ -20,6 +20,9 @@ In this title— 11 See References in Text note below.
 #### References in Text
 This title, referred to in text, is title I of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 286, which enacted this subchapter and amended, and enacted provisions set out as notes under, [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636) and several sections in Title 11, Bankruptcy. For complete classification of title I to the Code, see Tables.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–165, § 1, Aug. 5, 2022, 136 Stat. 1363, provided that: “This Act [amending sections 636, 9009, and 9009b of this title] may be cited as the ‘COVID–19 EIDL Fraud Statute of Limitations Act of 2022’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 117–2, § 1, Mar. 11, 2021, 135 Stat. 4, provided that: “This Act [see Tables for classification] may be cited as the ‘American Rescue Plan Act of 2021’.”
 
@@ -517,12 +520,16 @@ Pub. L. 116–260, div. N, title II, § 278, Dec. 27, 2020, 134 Stat. 1980, prov
 
 (8) **Termination** — The authority to carry out grants under this subsection shall terminate on December 31, 2021.
 
+(9) **Statute of limitations** — Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to the use of an advance received under this subsection shall be filed not later than 10 years after the offense was committed.
+
 ### Statutory Notes
 
 #### Codification
 Section is comprised of section 1110 of Pub. L. 116–136. Subsec. (f) of section 1110 of Pub. L. 116–136 amended [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
 
 #### Amendments
+2022—Subsec. (e)(9). Pub. L. 117–165 added par. (9).
+
 2020—Subsec. (a)(1). Pub. L. 116–260, § 332(1), substituted “December 31, 2021” for “December 31, 2020”.
 
 Subsec. (a)(2)(F). Pub. L. 116–139, § 101(c), added subpar. (F).
@@ -1051,6 +1058,8 @@ Grant made under this section not included in gross income of recipient, see sec
 
 (2) of which $20,000,000 is authorized to be appropriated to the Inspector General of the Administration to prevent waste, fraud, and abuse with respect to funding provided under this section.
 
+**(i) Statute of limitations** Notwithstanding any other provision of law, any criminal charge or civil enforcement action alleging that a borrower engaged in fraud with respect to the use of any amount received pursuant to this section shall be filed not later than 10 years after the offense was committed.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1058,6 +1067,9 @@ Section 332 of this Act, referred to in subsec. (a)(3), is section 332 of div. N
 
 #### Codification
 Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, and not as part of the CARES Act which in part comprises this chapter.
+
+#### Amendments
+2022—Subsec. (i). Pub. L. 117–165 added subsec. (i).
 
 #### Effective Date
 Section effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of Pub. L. 116–260, set out as an Effective Date of 2020 Amendment note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
@@ -3108,7 +3120,7 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 
   (D) 1 member appointed by the minority leader of the Senate.
 
-  (E) 1 member appointed as Chairperson by the Speaker of the House of Representatives and the majority leader of the Senate, after consultation with the minority leader of the Senate and the minority leader of the House of Representatives
+  (E) 1 member appointed as Chairperson by the Speaker of the House of Representatives and the majority leader of the Senate, after consultation with the minority leader of the Senate and the minority leader of the House of Representatives 11 So in original. Probably should be followed by a period.
 
 (2) **Pay** — Each member of the Oversight Commission shall be paid at a rate equal to the daily equivalent of the annual rate of basic pay for level I of the Executive Schedule for each day (including travel time) during which such member is engaged in the actual performance of duties vested in the Oversight Commission.
 
@@ -3128,7 +3140,7 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 
 (2) **Experts and consultants** — The Oversight Commission may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim).
 
-(3) **Staff of agencies** — Upon request of the Oversight Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Commission to assist it in carrying out its duties under the this 11 So in original. part.
+(3) **Staff of agencies** — Upon request of the Oversight Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any of the personnel of that department or agency to the Oversight Commission to assist it in carrying out its duties under the this 22 So in original. part.
 
 **(e) Powers**
 
@@ -3983,7 +3995,7 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 
   (B) *Publication* — Not later than 7 days after the Board of Governors of the Federal Reserve System submits a report under subparagraph (A) to the committees of Congress described in subparagraph (A), the Board shall publish on its website such report.
 
-**(c) Testimony** The Secretary and the Chairman of the Board of Governors of the Federal Reserve System shall testify, on a quarterly basis, before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives regarding the obligations of the Department of the Treasury and the Federal Reserve System, and transactions entered into, under this Act.
+**(c) Testimony** The Secretary and the Chairman of the Board of Governors of the Federal Reserve System shall testify, on a semiannual basis, before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives regarding the obligations of the Department of the Treasury and the Federal Reserve System, and transactions entered into, under this Act. This subsection shall have no force or effect after December 31, 2027.
 
 **(d) Program descriptions** The Secretary shall post on the website of the Department of the Treasury all criteria, guidelines, eligibility requirements, and application materials for the making of any loan or loan guarantee under paragraph (1), (2), or (3) of [section 9042(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9042/b&num=0&edition=prelim).
 
@@ -3999,6 +4011,9 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 
 #### References in Text
 This Act, referred to in subsec. (c), probably means subtitle A (§§ 4001–4029) of title IV of div. A of Pub. L. 116–136, known as the Coronavirus Economic Stabilization Act of 2020, which is classified principally to this part. For complete classification of this Act to the Code, see section 4001 of Pub. L. 116–136, set out as a Short Title note under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001), and Tables.
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–103 substituted “semiannual” for “quarterly” and inserted at end: “This subsection shall have no force or effect after December 31, 2027.”
 
 
 <a id="section-9061"></a>

@@ -303,9 +303,9 @@ In this chapter:
 #### References in Text
 [Section 3173 of this title](./chapter-038-public-works-and-economic-development.md#section-3173) (as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998), referred to in par. (3)(B), means [section 3173 of this title](./chapter-038-public-works-and-economic-development.md#section-3173) prior to its repeal by Pub. L. 105–393, § 102(a). See Prior Provisions note set out under [section 3173 of this title](./chapter-038-public-works-and-economic-development.md#section-3173) and section 105 of Pub. L. 105–393, set out as an Effective Date note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121).
 
-The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (7), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in par. (8)(B), (D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitles F and G of the Act are classified generally to subchapters VI (§ 2009aa et seq.) and VII (§ 2009bb et seq.), respectively, of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in par. (8)(B), (D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307. Subtitles F and G of the Act are classified generally to subchapters VI (§ 2009aa et seq.) and VII (§ 2009bb et seq.), respectively, of chapter 50 of Title 7, Agriculture. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 The Denali Commission Act of 1998, referred to in par. (8)(C), is title III of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681-637, which is set out as a note under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121). For complete classification of this Act to the Code, see Tables.
 
@@ -329,7 +329,7 @@ No person in the United States shall, on the ground of sex, be excluded from par
 ### Statutory Notes
 
 #### References in Text
-The Public Works and Economic Development Act of 1965, referred to in text, is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to this chapter (§ 3121 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121) and Tables.
+The Public Works and Economic Development Act of 1965, referred to in text, is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to this chapter (§ 3121 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of this title](./chapter-038-public-works-and-economic-development.md#section-3121) and Tables.
 
 #### Codification
 Section was not enacted as part of the Public Works and Economic Development Act of 1965 which comprises this chapter.
@@ -757,11 +757,11 @@ Section, Pub. L. 89–136, title II, § 208, as added Pub. L. 105–393, title I
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
-The Securities Act of 1933, referred to in subsec. (d)(4)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+The Securities Act of 1933, referred to in subsec. (d)(4)(A), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (d)(4)(A), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (d)(4)(A), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (e). Pub. L. 115–254 added subsec. (e).

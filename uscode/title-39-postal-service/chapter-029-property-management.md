@@ -2,7 +2,7 @@
 title: 39
 chapter: '29'
 heading: PROPERTY MANAGEMENT
-section_count: 2
+section_count: 3
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39&num=0&edition=prelim
 ---
@@ -72,3 +72,9 @@ In this chapter:
 
 #### References in Text
 The date of enactment of this chapter, referred to in subsec. (a)(4)(B)(ix), is the date of enactment of Pub. L. 114–318, which was approved Dec. 16, 2016.
+
+
+<a id="section-2903"></a>
+## § 2903. Use of funds from sale of property
+
+In the event that the Postal Service permanently ceases operations, any funds derived from the sale of any real property owned by the Postal Service shall be used to pay any outstanding liability with respect to the salaries and expenses of any Postal Service employee. The balance of any remaining funds shall be deposited into the Postal Service Retiree Health Benefits Fund established under [section 8909a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8909a&num=0&edition=prelim).

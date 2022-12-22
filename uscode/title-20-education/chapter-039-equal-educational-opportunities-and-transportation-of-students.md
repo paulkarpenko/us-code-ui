@@ -233,7 +233,7 @@ A parent or guardian of a child, or parents or guardians of children similarly s
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).
@@ -296,7 +296,7 @@ No provision of this Act shall be construed to require the assignment or transpo
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484, as amended, known as the Education Amendments of 1974. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+This Act, referred to in text, is Pub. L. 93–380, Aug. 21, 1974, 88 Stat. 484, known as the Education Amendments of 1974. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 #### Effective Date
 Section effective on and after sixtieth day after Aug. 21, 1974, see section 2(c) of Pub. L. 93–380, set out as a note under [section 1221–1 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221-1).

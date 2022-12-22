@@ -69,7 +69,7 @@ In subsection (b)(2), before clause (A), the words “Except as otherwise expres
 In subsection (b)(3)(A)(ii), the words “Walsh-Healey Act” are substituted for [“]Walsh-Healey Public Contracts Act” to use the correct short title of the Act.
 
 #### References in Text
-The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is title I of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, as amended, which was classified generally to subchapter II (§ 327 et seq.) of chapter 5 of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 101 of title I of Pub. L. 87–581 was classified to section 327 of former Title 40 and was repealed and not reenacted by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
+The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is title I of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, which was classified generally to subchapter II (§ 327 et seq.) of chapter 5 of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 101 of title I of Pub. L. 87–581 was classified to section 327 of former Title 40 and was repealed and not reenacted by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2011—Subsec. (b)(3)(A)(ii). Pub. L. 111–350 substituted “chapter 65 of title 41” for “the Walsh-Healey Act ([41 U.S.C. 35](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section35&num=0&edition=prelim) et seq.)”.

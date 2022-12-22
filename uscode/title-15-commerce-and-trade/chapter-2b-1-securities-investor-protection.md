@@ -162,7 +162,7 @@ The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, c
 #### References in Text
 This chapter, referred to in subsecs. (a) to (c) and (e), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a)(1)(B), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Amendments
 2000—Subsec. (a)(2)(A)(iii). Pub. L. 106–554 added cl. (iii).

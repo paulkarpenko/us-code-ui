@@ -205,7 +205,7 @@ Pub. L. 112–239, div. A, title VIII, § 827(i), Jan. 2, 2013, 126 Stat. 1836, 
 Pub. L. 104–106, div. D, title XLIII, § 4321(a), Feb. 10, 1996, 110 Stat. 671, provided that the amendment made by that section is effective as of Oct. 13, 1994, and as if included in Pub. L. 103–355 as enacted.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 #### Effective Date of 1992 Amendment
 Pub. L. 102–484, div. A, title X, § 1052(30)(B), Oct. 23, 1992, 106 Stat. 2501, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if enacted immediately following the enactment of Public Law 102–25 (105 Stat. 75).”
@@ -213,8 +213,17 @@ Pub. L. 102–484, div. A, title X, § 1052(30)(B), Oct. 23, 1992, 106 Stat. 250
 #### Effective Date
 Pub. L. 99–500, § 101(c) [title X, § 942(b)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–162, Pub. L. 99–591, § 101(c) [title X, § 942(b)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–162, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 942(b), Nov. 14, 1986, 100 Stat. 3942, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “[Section 2409 of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2409), United States Code [now [10 U.S.C. 4701](./chapter-365-contractor-workforce.md#section-4701)] (as added by subsection (a)(1)), shall apply with respect to any reprisal action taken on or after the date of the enactment of this Act [Oct. 18, 1986].”
 
+#### Construction
+Pub. L. 112–239, div. A, title VIII, § 827(h), Jan. 2, 2013, 126 Stat. 1836, provided that: “Nothing in this section, or the amendments made by this section [amending this section and [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324) and enacting provisions set out as a note under this section], shall be construed to provide any rights to disclose classified information not otherwise provided by law.”
+
 #### Prohibition on Awarding of Contracts to Contractors That Require Nondisclosure Agreements Relating to Waste, Fraud, or Abuse
 Pub. L. 116–283, div. A, title VIII, § 883, Jan. 1, 2021, 134 Stat. 3790, provided that: “(a) In General.—The Secretary of Defense may not award a contract for the procurement of goods or services to a contractor unless the contractor represents that—“(1) it does not require its employees to sign internal confidentiality agreements or statements that would prohibit or otherwise restrict such employees from lawfully reporting waste, fraud, or abuse related to the performance of a Department of Defense contract to a designated investigative or law enforcement representative of the Department of Defense authorized to receive such information; and “(2) it will inform its employees of the limitations on confidentiality agreements and other statements described in paragraph (1). “(b) Reliance on Representation.—A contracting officer of the Department of Defense may rely on the representation of a contractor as to the requirements described under subsection (a) in awarding a contract unless the officer has reason to question the accuracy of the representation.”
+
+#### Inclusion of Contract Clause in Contracts Awarded Before Effective Date
+Pub. L. 114–261, § 1(c), Dec. 14, 2016, 130 Stat. 1363, provided that: “At the time of any major modification to a contract that was awarded before the date of the enactment of this Act [Dec. 14, 2016], the head of the contracting agency shall make best efforts to include in the contract a contract clause providing for the applicability of the amendments made by this section [amending this section, [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324), and sections 4304, 4310, and 4712 of Title 41, Public Contracts] and section 827 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1833) [amending this section and [section 2324 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2324)].”
+
+#### Information for Department of Defense Contractor Employees on Their Whistleblower Rights
+Pub. L. 110–417, [div. A], title VIII, § 842, Oct. 14, 2008, 122 Stat. 4539, provided that: “(a) In General.—The Secretary of Defense shall ensure that contractors of the Department of Defense inform their employees in writing of employee whistleblower rights and protections under [section 2409 of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2409), United States Code [now [10 U.S.C. 4701](./chapter-365-contractor-workforce.md#section-4701)], as implemented by subpart 3.9 of part I of title 48, Code of Federal Regulations. “(b) Contractor Defined.—In this section, the term ‘contractor’ has the meaning given that term in [section 2409(e)(4) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2409/e/4&num=0&edition=prelim), United States Code [now [10 U.S.C. 4701(g)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4701/g/4&num=0&edition=prelim)].”
 
 
 <a id="section-4702"></a>
@@ -361,7 +370,7 @@ Subsec. (f)(2)(A), (B). Pub. L. 104–201 substituted “two school years” for
 
 1994—Subsec. (a)(2)(A). Pub. L. 103–382 struck out “chapter 1 of” after “grant under”.
 
-1993—Pub. L. 103–35, § 201(b)(1)(A), renumbered [section 2410c of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410c) as this section.
+1993—Pub. L. 103–35, § 201(b)(1)(A), renumbered [section 2410c of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410c) as section 2410j.
 
 Subsec. (f)(2)(A), (B). Pub. L. 103–160 substituted “five school years” for “two school years”.
 
@@ -371,10 +380,10 @@ Subsec. (f)(2)(B). Pub. L. 103–35, § 201(g)(6), substituted “aide” for �
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1993 Amendment
-Amendment by Pub. L. 103–160 not applicable with respect to persons selected by Secretary of Defense before Nov. 30, 1993, to participate in teacher and teacher’s aide placement programs established pursuant to sections 1151, 1598, and 2410j of this title or agreements entered into by Secretary before such date with local educational agencies under such sections, see section 1331(h) of Pub. L. 103–160, set out as a note under [section 1598 of this title](./chapter-081-civilian-employees.md#section-1598).
+Amendment by Pub. L. 103–160 not applicable with respect to persons selected by Secretary of Defense before Nov. 30, 1993, to participate in teacher and teacher’s aide placement programs established pursuant to sections 1598 and 4703 of this title and former [section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151) or agreements entered into by Secretary before such date with local educational agencies under such sections, see section 1331(h) of Pub. L. 103–160, set out as a note under [section 1598 of this title](./chapter-081-civilian-employees.md#section-1598).
 
 #### Savings Provision
-Amendments by section 576 of Pub. L. 104–201 not to affect obligations under agreements entered into in accordance with section 1151, 1598, or 2410j of this title before Sept. 23, 1996, see section 576(d) of Pub. L. 104–201, set out as a note under [section 1598 of this title](./chapter-081-civilian-employees.md#section-1598).
+Amendments by section 576 of Pub. L. 104–201 not to affect obligations under agreements entered into in accordance with section 1598 or 4703 of this title or former [section 1151 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1151) before Sept. 23, 1996, see section 576(d) of Pub. L. 104–201, set out as a note under [section 1598 of this title](./chapter-081-civilian-employees.md#section-1598).
 
 
 <a id="section-4704"></a>
@@ -421,5 +430,5 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 #### Effective Date of 1993 Amendment
 Amendment by section 202(a)(18)(A) of Pub. L. 103–35 applicable as if included in the enactment of Pub. L. 102–484, see section 202(b) of Pub. L. 103–35, set out as a note under [section 155 of this title](./chapter-005-joint-chiefs-of-staff.md#section-155).
 
-#### Effective Date of 1992 Amendment
+#### Effective Date
 Pub. L. 102–484, div. D, title XLIV, § 4470(b), Oct. 23, 1992, 106 Stat. 2753, provided that: “[Section 2410d of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410d), United States Code [now [10 U.S.C. 4704](./chapter-365-contractor-workforce.md#section-4704)], as added by subsection (a), shall apply with respect to contracts entered into beginning 120 days after the date of the enactment of this Act [Oct. 23, 1992].”

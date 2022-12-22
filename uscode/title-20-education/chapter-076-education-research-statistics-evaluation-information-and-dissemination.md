@@ -139,7 +139,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Head Start Act, referred to in par. (17)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
+The Head Start Act, referred to in par. (17)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Par. (1). Pub. L. 114–95 amended par. (1) generally. Prior to amendment, text read as follows: “The terms ‘elementary school’, ‘secondary school’, ‘local educational agency’, and ‘State educational agency’ have the meanings given those terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801) and the terms ‘freely associated states’ and ‘outlying area’ have the meanings given those terms in [section 6331(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6331/c&num=0&edition=prelim).”
@@ -243,7 +243,7 @@ From funds appropriated under [section 9584 of this title](./chapter-076-educati
 ### Statutory Notes
 
 #### References in Text
-The National Education Statistics Act of 1994, referred to in subsec. (a)(1), is title IV of Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 4029, as amended, which was classified generally to chapter 71 (§ 9001 et seq.) of this title, prior to repeal by Pub. L. 107–279, title IV, § 403(1), Nov. 5, 2002, 116 Stat. 1985. Provisions relating to education statistics are now contained in part C (§ 9541 et seq.) of this subchapter.
+The National Education Statistics Act of 1994, referred to in subsec. (a)(1), is title IV of Pub. L. 103–382, Oct. 20, 1994, 108 Stat. 4029, which was classified generally to chapter 71 (§ 9001 et seq.) of this title, prior to repeal by Pub. L. 107–279, title IV, § 403(1), Nov. 5, 2002, 116 Stat. 1985. Provisions relating to education statistics are now contained in part C (§ 9541 et seq.) of this subchapter.
 
 This Act, referred to in subsec. (a)(3), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -305,7 +305,7 @@ This Act, referred to in subsec. (a)(3), means Pub. L. 107–279, Nov. 5, 2002, 
 #### References in Text
 Level II of the Executive Schedule, referred to in subsec. (c), is set out in [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-9516"></a>
@@ -478,7 +478,7 @@ The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–32
 ### Statutory Notes
 
 #### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (c)(4)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (c)(4)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -694,7 +694,7 @@ The Research Center shall be headed by a Commissioner for Education Research (in
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(11), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 
 <a id="section-9541"></a>
@@ -998,7 +998,7 @@ In this part, the term “State” means each of the 50 States, the District of 
 ### Statutory Notes
 
 #### References in Text
-The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(1)(E), (b)(1), (c), and (d)(2)(B)(ii), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941 of the Act was classified to [section 6041 of this title](./chapter-068-national-education-reform.md#section-6041) prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title](./chapter-068-national-education-reform.md#section-6001) and Tables.
+The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(1)(E), (b)(1), (c), and (d)(2)(B)(ii), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941 of the Act was classified to [section 6041 of this title](./chapter-068-national-education-reform.md#section-6041) prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title](./chapter-068-national-education-reform.md#section-6001) and Tables.
 
 
 <a id="section-9564"></a>
@@ -1218,7 +1218,7 @@ The Educational Research, Development, Dissemination, and Improvement Act of 199
 
 Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (c), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 
 <a id="section-9567a"></a>
@@ -1238,7 +1238,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(2), (3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(2), (3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 
 <a id="section-9567b"></a>
@@ -1330,7 +1330,7 @@ The Special Education Research Center shall be headed by a Commissioner for Spec
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) and (c)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1) and (c)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Effective Date
 Pub. L. 108–446, title III, § 302(c), Dec. 3, 2004, 118 Stat. 2803, provided that: “(1) National center for special education research.—Sections 175, 176, and 177 [[20 U.S.C. 9567](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9567), 9567a, 9567b] (other than section 177(c) [[20 U.S.C. 9567b(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9567b/c&num=0&edition=prelim)]) of the Education Sciences Reform Act of 2002, as enacted by section 201(a)(2) of this Act, shall take effect on the date of enactment of this Act [Dec. 3, 2004]. “(2) Plan.—Section 177(c) of the Education Sciences Reform Act of 2002, as enacted by section 201(a)(2) of this Act, shall take effect on October 1, 2005.”
@@ -1669,7 +1669,7 @@ This subchapter known as the “Educational Technical Assistance Act of 2002”,
 ### Statutory Notes
 
 #### References in Text
-The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(2)(A) and (b)(1), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, as amended, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941(h) of the Act was classified to [section 6041(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6041/h&num=0&edition=prelim) prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title](./chapter-068-national-education-reform.md#section-6001) and Tables.
+The Educational Research, Development, Dissemination, and Improvement Act of 1994 (as such Act existed on the day before November 5, 2002), referred to in subsecs. (a)(2)(A) and (b)(1), is title IX of Pub. L. 103–227, Mar. 31, 1994, 108 Stat. 212, which was classified principally to subchapter IX (§ 6001 et seq.) of chapter 68 of this title and was substantially repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985. Section 941(h) of the Act was classified to [section 6041(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6041/h&num=0&edition=prelim) prior to repeal. For complete classification of this Act to the Code, see [section 6001 of this title](./chapter-068-national-education-reform.md#section-6001) and Tables.
 
 Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (b)(1), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§ 8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§ 8621 et seq.), B (§ 8651 et seq.), C (§ 8671 et seq.), and D (§ 8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§ 1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§ 6053 et seq.), H (§ 6054 et seq.), I (§ 6055 et seq.), and J (§ 6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, § 403(2), Nov. 5, 2002, 116 Stat. 1985.
 
@@ -1804,7 +1804,7 @@ The Secretary shall establish priorities for the regional educational laboratori
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a), (c)(2)(A), and (e)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a), (c)(2)(A), and (e)(2), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 
 <a id="section-9608"></a>

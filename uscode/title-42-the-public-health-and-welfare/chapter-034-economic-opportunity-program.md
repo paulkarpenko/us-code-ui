@@ -78,7 +78,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (a), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Amendments
 1977—Subsec. (a)(3). Pub. L. 95–222, § 5(a), (b), substituted “, or” for “and not” and in par. (A) inserted exception for broad general legal or policy research.
@@ -430,7 +430,7 @@ Pub. L. 88–452, title X, § 1014, as added by Pub. L. 93–355, § 2, July 25,
 Pub. L. 95–568, § 2, Nov. 2, 1978, 92 Stat. 2425, provided that: “It is the purpose of this Act [see Short Title of 1978 Amendment note above] to extend and revise programs under title I through title IX [subchapter I to IX of this chapter] of the Economic Opportunity Act of 1964 (hereinafter in this Act referred to as the ‘Act’).”
 
 #### Executive Order No. 11470
-Ex. Ord. No. 11470, eff. May 26, 1969, 34 F.R. 8227, which made arrangements for the structure and conduct of a National Voluntary Action Program, was superseded by Ex. Ord. No. 11603, eff. June 30, 1971, 36 F.R. 12675, set out as a note under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim), Foreign Relations and Intercourse. Section 401 of Ex. Ord. No. 11603 which transferred the National Voluntary Action Program to ACTION as created by Reorg. Plan No. 1 of 1971 was superseded by section 1–706 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim). For continuation of the National Voluntary Action Program in ACTION Agency [now Corporation for National and Community Service], see section 1–501 of Ex. Ord. No. 12137.
+Ex. Ord. No. 11470, eff. May 26, 1969, 34 F.R. 8227, which made arrangements for the structure and conduct of a National Voluntary Action Program, was superseded by Ex. Ord. No. 11603, eff. June 30, 1971, 36 F.R. 12675, formerly set out as a note under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim), Foreign Relations and Intercourse. Section 401 of Ex. Ord. No. 11603 which transferred the National Voluntary Action Program to ACTION as created by Reorg. Plan No. 1 of 1971 was superseded by section 1–706 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim). For continuation of the National Voluntary Action Program in ACTION Agency [now Corporation for National and Community Service], see section 1–501 of Ex. Ord. No. 12137.
 
 
 <a id="section-2717-to-2729"></a>
@@ -1702,7 +1702,7 @@ Pub. L. 96–565, title III, §§ 301–307, Dec. 22, 1980, 94 Stat. 3324–3326
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 This Act, referred to in subsec. (a), probably means the Native American Programs Act of 1974, Pub. L. 88–452, title VIII, as added by Pub. L. 93–644, § 11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to this subchapter, see [section 2991 of this title](./chapter-034-economic-opportunity-program.md#section-2991).
 
@@ -2463,7 +2463,7 @@ As used in this subchapter, the term—
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Par. (3). Pub. L. 116–261 substituted “Tribe” for “tribe” in two places.

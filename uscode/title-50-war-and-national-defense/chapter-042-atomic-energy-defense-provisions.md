@@ -1249,7 +1249,7 @@ Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat.
 
 (1) At the end of the first quarter of each fiscal year, the Secretary of Energy, acting through the Administrator, shall submit to the congressional defense committees a report on each nuclear weapon system undergoing life extension and each major alteration project (as defined in [section 2753(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2753/a/2&num=0&edition=prelim)) during the preceding fiscal year. The reports shall be known as Selected Acquisition Reports for the weapon system concerned.
 
-(2) The information contained in the Selected Acquisition Report for a fiscal year for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for each fiscal-year quarter in that fiscal year for a major defense acquisition program under [section 4351 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4351&num=0&edition=prelim), expressed in terms of the nuclear weapon system.
+(2) The information contained in the Selected Acquisition Report for a fiscal year for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for each fiscal-year quarter in that fiscal year for a major defense acquisition program under [section 4351 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4351&num=0&edition=prelim) expressed in terms of the nuclear weapon system.
 
 **(b) Independent cost estimates and reviews**
 
@@ -5218,7 +5218,7 @@ Pub. L. 116–283, div. A, title XVI, § 1632(b)(1), which directed the addition
 ## § 2761. Improvements to cost estimates informing analyses of alternatives
 **(a) Requirement for analyses of alternatives** The Administrator shall ensure that any cost estimate used in an analysis of alternatives for a project carried out using funds authorized by a DOE national security authorization is designed to fully satisfy the requirements outlined in the mission needs statement approved at critical decision 0 in the acquisition process, as set forth in Department of Energy Order 413.3B (relating to program management and project management for the acquisition of capital assets) or a successor order.
 
-**(b) Use of Project engineering and design funds** In the case of a project the total estimated cost of which exceeds $500,000,000 and that has not reached critical decision 1 in the acquisition process, the Administrator may use funds authorized by a DOE national security authorization for project engineering and design to begin the development of a conceptual design to facilitate the development of a cost estimate for the project during the analysis of alternatives for the project if—
+**(b) Use of project engineering and design funds** In the case of a project the total estimated cost of which exceeds $500,000,000 and that has not reached critical decision 1 in the acquisition process, the Administrator may use funds authorized by a DOE national security authorization for project engineering and design to begin the development of a conceptual design to facilitate the development of a cost estimate for the project during the analysis of alternatives for the project if—
 
 (1) the Administrator—
 

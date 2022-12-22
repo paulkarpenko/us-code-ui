@@ -39,7 +39,7 @@ As originally enacted, the first sentence was in the form of an appropriation fo
 Res. Feb. 25, 1927, ch. 205, 44 Stat. 1246, authorized the acceptance of title to certain lands in accordance with this section.
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-673a"></a>
@@ -50,7 +50,7 @@ The Secretary of the Interior is authorized to accept, on behalf of and without 
 ### Statutory Notes
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-673b"></a>
@@ -136,7 +136,7 @@ Act Mar. 3, 1931, provided that the Sullys Hill National Park should be administ
 Pub. L. 116–94, div. P, title IV, § 401, Dec. 20, 2019, 133 Stat. 3191, provided that: “This title [amending sections 674a and 674b of this title and enacting provisions set out as a note under [section 674a of this title](./chapter-006-game-and-bird-preserves-protection.md#section-674a)] may be cited as the ‘White Horse Hill National Game Preserve Designation Act’.”
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-674a"></a>
@@ -153,7 +153,7 @@ The Secretary of the Interior shall administer Sullys Hill National Park, togeth
 Pub. L. 116–94, div. P, title IV, § 402(c), Dec. 20, 2019, 133 Stat. 3191, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Sullys Hill National Game Preserve shall be considered to be a reference to the ‘White Horse Hill National Game Preserve’.”
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-674b"></a>
@@ -167,7 +167,7 @@ The Secretary of the Interior is authorized to acquire, by purchase or otherwise
 2019—Pub. L. 116–94 substituted “White Horse Hill National Game Preserve” for “Sullys Hill National Game Preserve” in text.
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-674c"></a>
@@ -178,7 +178,7 @@ The Secretary of the Interior is authorized to construct and maintain such bound
 ### Statutory Notes
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-674d"></a>
@@ -200,6 +200,7 @@ As enacted by act June 5, 1920, this section authorized the President to designa
 #### Change of Name
 “Custer State Park Game Sanctuary” changed to “Norbeck Wildlife Preserve” by act Oct. 6, 1949.
 
+#### Change of Name
 Harney National Forest abolished and its lands transferred to and consolidated with those of Black Hills National Forest by Public Land Order No. 1016 of Oct. 4, 1954, 19 F.R. 6500.
 
 #### Presidential Designation
@@ -255,6 +256,7 @@ Subject to the conditions herein provided, mining locations may be made under th
 #### Change of Name
 “Custer State Park Game Sanctuary” changed to “Norbeck Wildlife Preserve” by act Oct. 6, 1949.
 
+#### Change of Name
 Harney National Forest abolished and its lands transferred to and consolidated with those of Black Hills National Forest by Public Land Order No. 1016 of Oct. 4, 1954, 19 F.R. 6500.
 
 
@@ -375,7 +377,7 @@ For successors to Wichita National Forest and Grand Canyon National Forest, see 
 Section 20 of act June 25, 1948, provided that the amendment made by that act is effective Sept. 1, 1948.
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-686"></a>
@@ -392,7 +394,7 @@ Such parts of the Grand Canyon National Game Preserve, designated under authorit
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Feb. 26, 1919, ch. 44, 40 Stat. 1175, as amended, which is classified principally to subchapter XXIV (§ 221 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Feb. 26, 1919, ch. 44, 40 Stat. 1175, which is classified principally to subchapter XXIV (§ 221 et seq.) of chapter 1 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-688"></a>
@@ -455,7 +457,7 @@ The Secretary of the Interior is authorized to construct, at Bear River Bay and 
 ### Statutory Notes
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-690a"></a>
@@ -477,7 +479,7 @@ No such area shall be acquired by the Secretary of the Interior unless or until 
 ### Statutory Notes
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-690c"></a>
@@ -491,7 +493,7 @@ The existence of a right-of-way easement or other reservation or exception in re
 Section 690i, included within the reference to sections 690 to 690i, was omitted from the Code.
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-690d"></a>
@@ -505,7 +507,7 @@ No person shall take, injure, or disturb any bird, or nest or egg thereof, or in
 Section 690i, included within the reference to sections 690 to 690i, was omitted from the Code.
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-690e"></a>
@@ -526,7 +528,7 @@ Section 690i, included within the reference to sections 690 to 690i, was omitted
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure. Previously, “United States magistrate” substituted for “United States commissioner” pursuant to Pub. L. 90–578. See chapter 43 (§ 631 et seq.) of Title 28.
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-690f"></a>
@@ -540,7 +542,7 @@ The Secretary of the Interior is authorized to make such expenditures for constr
 Section 690i, included within the reference to sections 690 to 690i, was omitted from the Code.
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-690g"></a>
@@ -582,7 +584,7 @@ The Secretary of the Interior is authorized to acquire by purchase, gift, or lea
 ### Statutory Notes
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-691a"></a>
@@ -608,7 +610,7 @@ The Secretary of the Interior may do all things and make all expenditures necess
 ### Statutory Notes
 
 #### Transfer of Functions
-Transfer of functions of Secretary of Agriculture to Secretary of the Interior by Reorg. Plan No. II of 1939, see Transfer of Functions note set out under [section 671 of this title](./chapter-006-game-and-bird-preserves-protection.md#section-671).
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 
 <a id="section-691d"></a>
@@ -738,7 +740,7 @@ Sections 715g to 715i and 715l to 715n of this title are made applicable for the
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Treaty Act of July 3, 1918, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II of chapter 7 (§ 703 et seq.) of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act of July 3, 1918, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II of chapter 7 (§ 703 et seq.) of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
 Sections 715l and 715m of this title, referred to in text, were repealed by Pub. L. 89–669, § 7(d), Oct. 15, 1966, 80 Stat. 930. See section 668d(f) and (e) of this title.
 
@@ -861,9 +863,9 @@ In carrying out the obligations of the United States under any migratory bird tr
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Treaty Act (40 Stat. 755), as amended, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II of chapter 7 (§ 703 et seq.) of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act (40 Stat. 755), referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II of chapter 7 (§ 703 et seq.) of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
-The Migratory Bird Conservation Act (45 Stat. 1222), as amended, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
+The Migratory Bird Conservation Act (45 Stat. 1222), as amended, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 
 <a id="section-695q"></a>
@@ -938,7 +940,7 @@ Sections, Pub. L. 87–119, Aug. 3, 1961, 75 Stat. 243, which established the Wy
 
 Subsec. (c). Pub. L. 103–46, § 2(b)(1), inserted first sentence and struck out former first sentence which read as follows: “The Secretary is authorized to acquire by donation, purchase with donated or appropriated funds, transfer from any other Federal agency, or exchange, any lands, waters, or interests therein which are located within the boundaries of the preserve: Provided, That any lands owned or acquired by the State of Texas, or any of its political subdivisions, may be acquired by donation only.”
 
-Subsecs. (d) and (e). Pub. L. 103–46, § 2(b)(2), added subsecs. (d) and (e).
+Subsecs. (d), (e). Pub. L. 103–46, § 2(b)(2), added subsecs. (d) and (e).
 
 1984—Subsec. (c). Pub. L. 98–489 authorized acquisition of acreage for a visitor contact and administrative site outside the boundaries of the preserve.
 
@@ -1678,7 +1680,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1998—Subsec. (c)(5). Pub. L. 105–244 substituted “[section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim))” for “[section 1141(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1141/a&num=0&edition=prelim))”.

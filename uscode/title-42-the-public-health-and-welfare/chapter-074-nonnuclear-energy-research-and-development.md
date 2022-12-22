@@ -47,7 +47,7 @@ Pub. L. 93–577, § 1(b), as added Pub. L. 109–58, title X, § 1009(b)(1), Au
 #### References in Text
 The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Solar Heating and Cooling Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, as amended, which is classified generally to subchapter I (§ 5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of this title](./chapter-071-solar-energy.md#section-5501) and Tables.
+The Solar Heating and Cooling Demonstration Act of 1974, referred to in subsec. (b)(3), is Pub. L. 93–409, Sept. 3, 1974, 88 Stat. 1069, which is classified generally to subchapter I (§ 5501 et seq.) of chapter 71 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5501 of this title](./chapter-071-solar-energy.md#section-5501) and Tables.
 
 The Geothermal Energy Research, Development, and Demonstration Act of 1974 (Public Law 93–410), referred to in subsec. (b)(3), was classified generally to chapter 24 (§ 1101 et seq.) of Title 30, Mineral Lands and Mining, prior to repeal by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 
@@ -138,7 +138,7 @@ Within 60 days following December 19, 1985, the Secretary of Energy shall, pursu
 ### Statutory Notes
 
 #### References in Text
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in text, is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to this chapter (§ 5901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in text, is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to this chapter (§ 5901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
 
 #### Codification
 Section was not enacted as part of the Federal Nonnuclear Energy Research and Development Act of 1974 which comprises this chapter.
@@ -267,9 +267,9 @@ Pub. L. 95–599, title I, § 170, Nov. 6, 1978, 92 Stat. 2724, as amended by Pu
 ### Statutory Notes
 
 #### References in Text
-The Energy Reorganization Act of 1974, referred to in subsec. (a), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+The Energy Reorganization Act of 1974, referred to in subsec. (a), is Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which is classified principally to chapter 73 (§ 5801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
-The Department of Energy Organization Act, referred to in subsec. (a), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
+The Department of Energy Organization Act, referred to in subsec. (a), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101) and Tables.
 
 The Energy Policy Act of 1992, referred to in subsecs. (a) and (b)(3)(R), is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. Titles XX through XXIII of the Act are classified generally to subchapters VIII (§ 13401 et seq.), IX (§ 13451 et seq.), X (§ 13501 et seq.), and XI (§ 13521 et seq.), respectively, of chapter 134 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 
@@ -523,7 +523,7 @@ Pub. L. 95–39, title I, § 113, June 3, 1977, 91 Stat. 187, directed Administr
 #### References in Text
 This Act, referred to in subsec. (d)(3)(D), means Pub. L. 95–39, June 3, 1977, 91 Stat. 180, which to the extent classified to the Code enacted sections 5816a, 5817a, 5903c, 5907a, 5915a, 5918, and 7001 to 7011 of this title, amended sections 5813, 5818, and 5912 of this title, and enacted provisions set out as notes under sections 5906, 5907, 5914, and 7001 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (d)(3)(D), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to this chapter (§ 5901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (d)(3)(D), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to this chapter (§ 5901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
 
 Section 15 of the Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (e)(2), was classified to [section 5914 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5914) and was omitted from the Code.
 
@@ -679,9 +679,9 @@ Amendment by Pub. L. 96–517 effective July 1, 1981, but implementing regulatio
 #### References in Text
 Act of July 2, 1890, referred to in subsec. (b)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
-Act of October 15, 1914, referred to in subsec. (b)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
+Act of October 15, 1914, referred to in subsec. (b)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
 
-The Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.), as amended, referred to in subsec. (b)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.), as amended, referred to in subsec. (b)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 Act of June 19, 1936, chapter 592, referred to in subsec. (b)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended [section 13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim) and Tables.
 
@@ -845,7 +845,7 @@ Section, Pub. L. 93–577, § 18, as added Pub. L. 94–187, title III, § 313, 
 Section, Pub. L. 93–577, § 19, as added Pub. L. 95–39, title IV, § 401, June 3, 1977, 91 Stat. 190; amended Pub. L. 95–91, title III, § 301(a), title VII, §§ 703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607, related to organizational conflicts.
 
 #### Effective Date of Repeal
-For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of repeal, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under [section 2220 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2220&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-5919-5920"></a>

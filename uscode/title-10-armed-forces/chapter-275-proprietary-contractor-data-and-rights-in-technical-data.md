@@ -292,6 +292,12 @@ Subsec. (c). Pub. L. 116–283, § 1833(e)(1), (5), redesignated subsec. (f) of 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
+#### Regulations
+Pub. L. 109–364, div. A, title VIII, § 802(c), Oct. 17, 2006, 120 Stat. 2313, provided that: “Not later than 180 days after the date of the enactment of this Act [Oct. 17, 2006], the Secretary of Defense shall revise regulations under [section 2320 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320&num=0&edition=prelim), United States Code [see [10 U.S.C. 3771](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3771) et seq.], to implement subsection (e) of such section [see [10 U.S.C. 3774(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3774/a&num=0&edition=prelim), (b)] (as added by this section), including incorporating policy changes developed under such subsection into Department of Defense Directive 5000.1 and Department of Defense Instruction 5000.2.”
+
+#### Guidance Relating to Rights in Technical Data
+Pub. L. 111–383, div. A, title VIII, § 824(a), Jan. 7, 2011, 124 Stat. 4269, provided that: “Not later than 180 days after the date of the enactment of this Act [Jan. 7, 2011], the Secretary of Defense shall review guidance issued by the military departments on the implementation of [section 2320(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2320/e&num=0&edition=prelim), United States Code [see [10 U.S.C. 3774(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3774/a&num=0&edition=prelim), (b)], to ensure that such guidance is consistent with the guidance issued by the Under Secretary of Defense for Acquisition, Technology, and Logistics and the requirements of this section [amending former sections 2320 and 2321 of this title]. Such guidance shall be designed to ensure that the United States— “(1) preserves the option of competition for contracts for the production and sustainment of systems or subsystems that are developed exclusively with Federal funds as defined in accordance with the amendments made by this section; and “(2) is not required to pay more than once for the same technical data.”
+
 
 <a id="section-3775"></a>
 ## § 3775. Definitions
@@ -589,7 +595,7 @@ Section 3792, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 388, prov
 Subsec. (a). Pub. L. 116–283, § 1833(o)(1), transferred subsec. (a) of [section 2322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2322&num=0&edition=prelim) to this section.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -634,7 +640,7 @@ A prior section 3793, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 3
 1960—Pub. L. 86–726 inserted “or copyrights” after “patents” in cl. (4).
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -693,7 +699,7 @@ Subsec. (b). Pub. L. 100–26, § 7(a)(7)(A)(ii), substituted “Crediting of re
 Subsec. (c)(3). Pub. L. 100–26, § 7(a)(7)(A)(iii), substituted “section 552(a)(4)(A)(iii)” for “section 552(a)(4)(A)”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out as a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 

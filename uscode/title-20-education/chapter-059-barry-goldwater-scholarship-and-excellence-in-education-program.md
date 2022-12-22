@@ -114,7 +114,7 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 ## § 4704. Barry Goldwater scholarship and excellence in education awards
 **(a) Award of scholarships, fellowships, and research internships**
 
-(1) The Foundation may award cholarships, fellowships, and research internships to eligible persons for study in the fields of the natural sciences, engineering, and mathematics. Such scholarships and fellowships shall be awarded to persons as provided in this chapter who meet the minimum criteria established by the Foundation.
+(1) The Foundation may award scholarships, fellowships, and research internships to eligible persons for study in the fields of the natural sciences, engineering, and mathematics. Such scholarships, fellowships, and research internships shall be awarded to persons as provided in this chapter who meet the minimum criteria established by the Foundation.
 
 (2) Scholarships shall be awarded to outstanding undergraduate students who intend to pursue careers in the natural sciences, engineering, and mathematics, which shall be prioritized for students attending community colleges and minority-serving institutions specified in [section 1067q(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim).
 
@@ -143,9 +143,11 @@ Amendment by Pub. L. 100–26 applicable as if included in Pub. L. 99–661 when
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a). Pub. L. 117–81, § 6303(a)(1), substituted “Award of scholarships, fellowships, and research internships” for “Award of scholarships and fellowships”.
+2021—Subsec. (a). Pub. L. 117–81, § 6303(a)(1), substituted “Award of scholarships, fellowships, and research internships” for “Award of scholarships and fellowships” in heading.
 
-Subsec. (a)(1). Pub. L. 117–81, § 6303(a)(2), substituted “scholarships, fellowships, and research internships” for “scholarships and fellowships” and “the natural sciences, engineering, and mathematics” for “science and mathematics”.
+Subsec. (a)(1). Pub. L. 117–81, § 6303(a)(2)(B), substituted “the natural sciences, engineering, and mathematics” for “science and mathematics”.
+
+Pub. L. 117–81, § 6303(a)(2)(A), which directed substitution of “scholarships, fellowships, and research internships” for “scholarships and fellowships”, was executed by making the substitution in two places, to reflect the probable intent of Congress.
 
 Subsec. (a)(2). Pub. L. 117–81, § 6303(a)(3), substituted “the natural sciences, engineering, and mathematics, which shall be prioritized for students attending community colleges and minority-serving institutions specified in [section 1067q(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim)” for “mathematics and the natural sciences”.
 
@@ -210,7 +212,7 @@ Subsecs. (c), (d). Pub. L. 117–81, § 6305(4), added subsecs. (c) and (d).
 ### Statutory Notes
 
 #### References in Text
-Sections 4704 and 4705 of this title, referred to in subsec. (d) relating to construction, were so in the original but probably should have been references to sections 1405 and 1406, respectively, of the Barry Goldwater Scholarship and Excellence in Education Act, Pub. L. 99–661, div. A, title XIV, which are classified to sections 4704 and 4705 of this title.
+Sections 4704 and 4705 of this title, referred to in subsec. (d) relating to construction, were references to sections 4704 and 4705 in the original but probably should have been references to sections 1405 and 1406, respectively, of the Barry Goldwater Scholarship and Excellence in Education Act, Pub. L. 99–661, div. A, title XIV, which are classified to sections 4704 and 4705 of this title.
 
 #### Codification
 In subsec. (b), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -284,7 +286,7 @@ Pub. L. 102–190, § 1089(2)(B)(i), which directed striking out of “(exceptio
 ### Statutory Notes
 
 #### References in Text
-[Section 4709 of this title](./chapter-059-barry-goldwater-scholarship-and-excellence-in-education-program.md#section-4709), referred to in subsec. (a)(1), was so in the original but probably should have been a reference to section 1410 of the Barry Goldwater Scholarship and Excellence in Education Act, Pub. L. 99–661, div. A, title XIV, which is classified to [section 4709 of this title](./chapter-059-barry-goldwater-scholarship-and-excellence-in-education-program.md#section-4709).
+[Section 4709 of this title](./chapter-059-barry-goldwater-scholarship-and-excellence-in-education-program.md#section-4709), referred to in subsec. (a)(1), was a reference to section 4709 in the original but probably should have been a reference to section 1410 of the Barry Goldwater Scholarship and Excellence in Education Act, Pub. L. 99–661, div. A, title XIV, which is classified to [section 4709 of this title](./chapter-059-barry-goldwater-scholarship-and-excellence-in-education-program.md#section-4709).
 
 Level IV of the Executive Schedule, referred to in subsec. (a)(2), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
@@ -292,9 +294,9 @@ Level IV of the Executive Schedule, referred to in subsec. (a)(2), is set out in
 In subsec. (a)(6), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
-2021—Subsec. (a)(1). Pub. L. 117–81, § 6307(1), added par. (1) and struck out former par. (1), which related to compensation of personnel.
+2021—Subsec. (a)(1). Pub. L. 117–81, § 6307(1), added par. (1) and struck out former par. (1) which related to compensation of personnel.
 
-Subsec. (a)(2). Pub. L. 117–81, § 6307(2), substittuted “level IV of the Executive Schedule” for “grade GS–18 under section 5332 of such title”.
+Subsec. (a)(2). Pub. L. 117–81, § 6307(2), substituted “level IV of the Executive Schedule” for “grade GS–18 under section 5332 of such title”.
 
 Subsec. (a)(8) to (10). Pub. L. 117–81, § 6307(3)–(5), added pars. (8) and (9) and redesignated former par. (8) as (10).
 

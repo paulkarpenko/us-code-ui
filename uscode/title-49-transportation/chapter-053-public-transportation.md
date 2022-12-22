@@ -4013,7 +4013,7 @@ In subsection (j)(1), the text of 49 App.:1614(f) (1st sentence) is omitted as u
 [Section 204 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section204&num=0&edition=prelim), referred to in subsec. (g)(3)(E), was repealed and a new section 204 was enacted by Pub. L. 112–141, div. A, title I, § 1119(a), July 6, 2012, 126 Stat. 473, 489. As enacted by Pub. L. 112–141, section 204 relates to the Federal lands access program.
 
 #### Amendments
-2021—Subsec. (c). Pub. L. 117–58, § 30006(1), added pars. (1) and (2), struck out former par. (1) which related to public transportation on indian reservations, and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+2021—Subsec. (c). Pub. L. 117–58, § 30006(1), added pars. (1) and (2), struck out former par. (1) which related to public transportation on Indian reservations, and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 Subsec. (j)(1)(A). Pub. L. 117–58, § 30006(2), substituted “subsection (c)(2)(B)” for “subsection (c)(1)(B)” in introductory provisions.
 
@@ -6612,7 +6612,7 @@ In subsection (e), before clause (1), the words “in any appropriate district c
 In subsection (f), the words “considered to be” and “and not in lieu of” are omitted as surplus.
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in subsecs. (d)(3) and (f), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (d)(3) and (f), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2012—Subsec. (b). Pub. L. 112–141, § 20023(a)(1), substituted “religion” for “creed” and inserted “disability,” after “sex,”.
@@ -6774,7 +6774,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
     (ii) the transit-oriented development project will increase transit ridership;
 
-    (iii) at least 40 percent of the housing units offered in the transit-oriented development, including housing units owned by nongovernmental entities, are legally binding affordability restricted to tenants with incomes at or below 60 percent of the area median income and owners with incomes at or below 60 percent the area median income, which shall include at least 20 percent of such housing units offered restricted to tenants with incomes at or below 30 percent of the area median income and owners with incomes at or below 30 percent the area median income;
+    (iii) at least 40 percent of the housing units offered in the transit-oriented development, including housing units owned by nongovernmental entities, are legally binding affordability restricted to tenants with incomes at or below 60 percent of the area median income and owners with incomes at or below 60 percent 11 So in original. Probably should be followed by “of”. the area median income, which shall include at least 20 percent of such housing units offered restricted to tenants with incomes at or below 30 percent of the area median income and owners with incomes at or below 30 percent the area median income;
 
     (iv) the asset will remain in use as described in this section for at least 30 years after the date the asset is transferred; and
 

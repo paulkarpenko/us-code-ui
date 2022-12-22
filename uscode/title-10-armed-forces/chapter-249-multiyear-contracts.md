@@ -209,10 +209,82 @@ Subsec. (i)(3)(B). Pub. L. 116–283, § 1883(b)(2), substituted “section 3226
 Subsec. (i)(3)(C). Pub. L. 116–283, § 1883(b)(2), substituted “section 4374” for “section 2433(d)”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Multiple Program Multiyear Contract Pilot Demonstration Program
+Pub. L. 114–328, div. A, title VIII, § 853, Dec. 23, 2016, 130 Stat. 2296, provided that: “(a) Authority.—The Secretary of Defense may conduct a multiyear contract, over a period of up to four years, for the purchase of units for multiple defense programs that are produced at common facilities at a high rate, and which maximize commonality, efficiencies, and quality, in order to provide maximum benefit to the Department of Defense. Contracts awarded under this section should allow for significant savings, as determined consistent with the authority under [section 2306b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306b&num=0&edition=prelim), United States Code [see [10 U.S.C. 3501](./chapter-249-multiyear-contracts.md#section-3501)], to be achieved as compared to using separate annual contracts under individual programs to purchase such units, and may include flexible delivery across the overall period of performance. “(b) Scope.—The contracts authorized in subsection (a) shall at a minimum provide for the acquisition of units from three discrete programs from two of the military departments. “(c) Documentation.—Each contract awarded under subsection (a) shall include the documentation required to be provided for a multiyear contract proposal under [section 2306b(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306b/i&num=0&edition=prelim) [see [10 U.S.C. 3501(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3501/i&num=0&edition=prelim)]. “(d) Definitions.—In this section:“(1) The term ‘high rate’ means total annual production across the multiple defense programs of more than 200 end-items per year. “(2) The term ‘common facilities’ means production facilities operating within the same general and allowable rate structure. “(e) Sunset.—No new contracts may be awarded under the authority of this section after September 30, 2021.”
+
+#### Multiyear Procurement Contracts
+Pub. L. 105–56, title VIII, § 8008, Oct. 8, 1997, 111 Stat. 1221, provided that: “(a) None of the funds provided in this Act [see Tables for classification] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees [Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate] have been notified at least 30 days in advance of the proposed contract award: Provided, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government’s liability: Provided further, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: Provided further, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees: Provided further, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.“Funds appropriated in title III of this Act [111 Stat. 1211] may be used for multiyear procurement contracts as follows: “Apache Longbow radar; “AV–8B aircraft; and “Family of Medium Tactical Vehicles. “(b) None of the funds provided in this Act and hereafter may be used to submit to Congress (or to any committee of Congress) a request for authority to enter into a contract covered by those provisions of subsection (a) that precede the first proviso of that subsection unless—“(1) such request is made as part of the submission of the President’s Budget for the United States Government for any fiscal year and is set forth in the Appendix to that budget as part of proposed legislative language for appropriations bills for the next fiscal year; or “(2) such request is formally submitted by the President as a budget amendment; or “(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–103, div. C, title VIII, § 8010, Mar. 15, 2022, 136 Stat. 175.
+
+Pub. L. 116–260, div. C, title VIII, § 8010, Dec. 27, 2020, 134 Stat. 1304.
+
+Pub. L. 116–93, div. A, title VIII, § 8010, Dec. 20, 2019, 133 Stat. 2337.
+
+Pub. L. 115–245, div. A, title VIII, § 8010, Sept. 28, 2018, 132 Stat. 3000.
+
+Pub. L. 115–141, div. C, title VIII, § 8010, Mar. 23, 2018, 132 Stat. 464.
+
+Pub. L. 115–31, div. C, title VIII, § 8010, May 5, 2017, 131 Stat. 247.
+
+Pub. L. 114–113, div. C, title VIII, § 8010, Dec. 18, 2015, 129 Stat. 2352.
+
+Pub. L. 113–235, div. C, title VIII, § 8010, Dec. 16, 2014, 128 Stat. 2253.
+
+Pub. L. 113–76, div. C, title VIII, § 8010, Jan. 17, 2014, 128 Stat. 105.
+
+Pub. L. 113–6, div. C, title VIII, § 8010, Mar. 26, 2013, 127 Stat. 297.
+
+Pub. L. 112–74, div. A, title VIII, § 8010, Dec. 23, 2011, 125 Stat. 806.
+
+Pub. L. 112–10, div. A, title VIII, § 8010, Apr. 15, 2011, 125 Stat. 57.
+
+Pub. L. 111–118, div. A, title VIII, § 8011, Dec. 19, 2009, 123 Stat. 3428, as amended by Pub. L. 111–212, title I, § 305, July 29, 2010, 124 Stat. 2311.
+
+Pub. L. 110–329, div. C, title VIII, § 8011, Sept. 30, 2008, 122 Stat. 3621.
+
+Pub. L. 110–116, div. A, title VIII, § 8010, Nov. 13, 2007, 121 Stat. 1315.
+
+Pub. L. 109–289, div. A, title VIII, § 8008, Sept. 29, 2006, 120 Stat. 1273.
+
+Pub. L. 109–148, div. A, title VIII, § 8008, Dec. 30, 2005, 119 Stat. 2698.
+
+Pub. L. 108–287, title VIII, § 8008, Aug. 5, 2004, 118 Stat. 970.
+
+Pub. L. 108–87, title VIII, § 8008, Sept. 30, 2003, 117 Stat. 1072.
+
+Pub. L. 107–248, title VIII, § 8008, Oct. 23, 2002, 116 Stat. 1537.
+
+Pub. L. 107–117, div. A, title VIII, § 8008, Jan. 10, 2002, 115 Stat. 2248.
+
+Pub. L. 106–259, title VIII, § 8008, Aug. 9, 2000, 114 Stat. 675.
+
+Pub. L. 106–79, title VIII, § 8008, Oct. 25, 1999, 113 Stat. 1232.
+
+Pub. L. 105–262, title VIII, § 8008, Oct. 17, 1998, 112 Stat. 2298.
+
+Pub. L. 104–208, div. A, title I, § 101(b) [title VIII, § 8009], Sept. 30, 1996, 110 Stat. 3009–71, 3009–89.
+
+Pub. L. 104–61, title VIII, § 8010, Dec. 1, 1995, 109 Stat. 653.
+
+Pub. L. 103–335, title VIII, § 8010, Sept. 30, 1994, 108 Stat. 2618.
+
+Pub. L. 103–139, title VIII, § 8011, Nov. 11, 1993, 107 Stat. 1439.
+
+Pub. L. 102–396, title IX, § 9013, Oct. 6, 1992, 106 Stat. 1903.
+
+Pub. L. 102–172, title VIII, § 8013, Nov. 26, 1991, 105 Stat. 1173.
+
+Pub. L. 101–511, title VIII, § 8014, Nov. 5, 1990, 104 Stat. 1877.
+
+Pub. L. 101–165, title IX, § 9021, Nov. 21, 1989, 103 Stat. 1133.
 
 
 <a id="section-3502-to-3511"></a>
@@ -346,10 +418,13 @@ Pub. L. 116–283, § 1822(n), which had originally transferred subsecs. (a), (b
 Pub. L. 116–283, § 1822(d), as added by Pub. L. 117–81, § 1701(k)(3)(D), transferred text of [section 2306c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306c&num=0&edition=prelim) to this section. See Codification note above.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Pilot Program for Longer Term Multiyear Service Contracts
+Pub. L. 115–91, div. A, title VIII, § 854, Dec. 12, 2017, 131 Stat. 1492, provided that: “(a) Establishment.—The Secretary of Defense shall carry out a pilot program under which the Secretary may use the authority under subsection (a) of [section 2306c of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306c&num=0&edition=prelim), United States Code [see [10 U.S.C. 3531](./chapter-249-multiyear-contracts.md#section-3531)], to enter into up to five contracts for periods of not more than 10 years for services described in subsection (b) of such section. Each contract entered into pursuant to this subsection may be extended for up to five additional one-year terms. “(b) Study.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall enter into an agreement with an independent organization with relevant expertise to study best practices and lessons learned from using services contracts for periods longer than five years by commercial companies, foreign governments, and State governments, as well as service contracts for periods longer than five years used by the Federal Government, such as energy savings performance contracts (as defined in section to section [sic] 804(3) of the National Energy Conservation Policy Act ([42 U.S.C. 8287c(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8287c/3&num=0&edition=prelim)). “(2) Report.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the study conducted under paragraph (1). “(c) Comptroller General Report.—Not later than five years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the pilot program carried out under this section.”
 
 
 <a id="section-3532-to-3535"></a>
@@ -373,4 +448,6 @@ See Codification note set out under [section 3531 of this title](./chapter-249-m
 2021—Pub. L. 116–283 renumbered section 2410o of this title as this section.
 
 #### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

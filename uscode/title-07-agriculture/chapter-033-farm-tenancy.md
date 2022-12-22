@@ -115,7 +115,7 @@ The Secretary of Agriculture is authorized to make a loan or loans for any purpo
 ### Statutory Notes
 
 #### References in Text
-The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended, which is classified generally to this chapter (§ 1000 et seq.). For complete classification of this Act to the Code, see [section 1000 of this title](./chapter-033-farm-tenancy.md#section-1000) and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, which is classified generally to this chapter (§ 1000 et seq.). For complete classification of this Act to the Code, see [section 1000 of this title](./chapter-033-farm-tenancy.md#section-1000) and Tables.
 
 Act of August 28, 1937, referred to in text, was classified to sections 590r to 590x–4 of Title 16, Conservation, and was repealed by Pub. L. 87–128, title III, § 341(a), Aug. 8, 1961, 75 Stat. 318. See section 921 et seq. of this title.
 
@@ -456,7 +456,7 @@ Any conveyance of real estate by the Government or any Government agency under t
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as amended, known as the Farmers’ Home Administration Act of 1946. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, known as the Farmers’ Home Administration Act of 1946. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Farmers’ Home Administration Act of 1946, and not as part of the Bankhead-Jones Farm Tenant Act which constitutes a major part of this chapter.
@@ -473,9 +473,9 @@ All rights, interests, obligations, and duties of the Reconstruction Finance Cor
 ### Statutory Notes
 
 #### References in Text
-The Department of Agriculture Appropriation Act of 1947, referred to in text, is act June 22, 1946, ch. 445, 60 Stat. 270, as amended. For complete classification of this Act to the Code, see Tables.
+The Department of Agriculture Appropriation Act of 1947, referred to in text, is act June 22, 1946, ch. 445, 60 Stat. 270. For complete classification of this Act to the Code, see Tables.
 
-The Farmers Home Administration Act of 1946, referred to in text, is act Aug. 14, 1946, ch. 964, 60 Stat. 1062, as amended. For complete classification of this Act to the Code, see Tables.
+The Farmers Home Administration Act of 1946, referred to in text, is act Aug. 14, 1946, ch. 964, 60 Stat. 1062. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 “Chapter 31 of title 31” and “that chapter” substituted in text for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

@@ -230,7 +230,7 @@ Pub. L. 114–92, § 802(d)(4)(D), substituted “sections 171 and 2547” for �
 1958—Subsec. (d)(4) to (7). Pub. L. 85–599 redesignated pars. (5) to (7) as (4) to (6), respectively, and in par. (4), as redesignated, required the Chief of Staff to exercise supervision only as the Secretary of the Air Force determines and in a manner consistent with the full operational command vested in unified or specified combatant commanders. Former par. (4), which related to command over the air defense, strategic, tactical, and other major commands, was struck out.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 

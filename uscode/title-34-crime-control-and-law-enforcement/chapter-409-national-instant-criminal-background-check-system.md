@@ -83,7 +83,23 @@ Section was formerly classified in a note under [section 922 of Title 18](https:
 
 (3) notify each State of the determinations made pursuant to paragraphs (1) and (2).
 
-**(b) Establishment of system** Not later than 60 months after November 30, 1993, the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) or State law.
+**(b) Establishment of system**
+
+(1) **In general** — Not later than 60 months after November 30, 1993, the Attorney General shall establish a national instant criminal background check system that any licensee may contact, by telephone or by other electronic means in addition to the telephone, for information, to be supplied immediately, on whether receipt of a firearm by a prospective transferee would violate [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) or State law.
+
+(2) **Voluntary background checks**
+
+  (A) *In general* — Not later than 90 days after June 25, 2022, the Attorney General shall promulgate regulations allowing licensees to use the national instant criminal background check system established under this section for purposes of voluntarily conducting an employment background check relating to a current or prospective employee. The Attorney General may not collect a fee for an employment background check under this subparagraph.
+
+  (B) *Notice* — Before conducting an employment background check relating to a current or prospective employee under subparagraph (A), a licensee shall—
+
+    (i) provide written notice to the current or prospective employee that the licensee intends to conduct the background check; and
+
+    (ii) obtain consent to conduct the background check from the current or prospective employee in writing.
+
+  (C) *Exemption* — An employment background check conducted by a licensee under subparagraph (A) shall not be governed by the Fair Credit Reporting Act ([15 U.S.C. 1681](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681&num=0&edition=prelim) et seq.).
+
+  (D) *Appeal* — Any individual who is the subject of an employment background check conducted by a licensee under subparagraph (A) the result of which indicates that the individual is prohibited from possessing a firearm or ammunition pursuant to subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim) may appeal the results of the background check in the same manner and to the same extent as if the individual had been the subject of a background check relating to the transfer of a firearm.
 
 **(c) Expedited action by the Attorney General** The Attorney General shall expedite—
 
@@ -200,7 +216,31 @@ Section was formerly classified in a note under [section 922 of Title 18](https:
 
 **(k) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to enable the Attorney General to carry out this section.
 
+**(l) Requirements relating to background checks for persons under age 21** If a licensee contacts the system established under this section regarding a proposed transfer of a firearm to a person less than 21 years of age in accordance with subsection (t) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), the system shall—
+
+(1) immediately contact—
+
+  (A) the criminal history repository or juvenile justice information system, as appropriate, of the State in which the person resides for the purpose of determining whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922;
+
+  (B) the appropriate State custodian of mental health adjudication records in the State in which the person resides to determine whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922; and
+
+  (C) a local law enforcement agency of the jurisdiction in which the person resides for the purpose of determining whether the person has a possibly disqualifying juvenile record under subsection (d) of such section 922;
+
+(2) as soon as possible, but in no case more than 3 business days, after the licensee contacts the system, notify the licensee whether cause exists to further investigate a possibly disqualifying juvenile record under subsection (d) of such section 922; and
+
+(3) if there is cause for further investigation, as soon as possible, but in no case more than 10 business days, after the licensee contacts the system, notify the licensee whether—
+
+  (A) transfer of a firearm to the person would violate subsection (d) of such section 922; or
+
+  (B) receipt of a firearm by the person would violate subsection (g) or (n) of such section 922, or State, local, or Tribal law.
+
 ### Statutory Notes
+
+#### Amendment of Subsection (l)
+For repeal of amendment by section 12001(a)(3) of Pub. L. 117–159, see Termination Date of 2022 Amendment note below.
+
+#### References in Text
+The Fair Credit Reporting Act, referred to in subsec. (b)(2)(C), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Brady Handgun Violence Prevention Act, and not as part of the NICS Improvement Amendments Act of 2007 which comprises this chapter.
@@ -208,6 +248,10 @@ Section was enacted as part of the Brady Handgun Violence Prevention Act, and no
 Section was formerly classified as a note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–159, § 12004(h)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (l). Pub. L. 117–159, § 12001(a)(2), (3), temporarily added subsec. (l). See Termination Date of 2022 Amendment note below.
+
 2018—Subsec. (e)(1)(F) to (K). Pub. L. 115–141, § 602(1), added subpars. (F) to (K).
 
 Subsec. (g). Pub. L. 115–141, § 602(2), inserted at end “For purposes of the preceding sentence, not later than 60 days after the date on which the Attorney General receives such information, the Attorney General shall determine whether or not the prospective transferee is the subject of an erroneous record and remove any records that are determined to be erroneous. In addition to any funds made available under subsection (k), the Attorney General may use such sums as are necessary and otherwise available for the salaries and expenses of the Federal Bureau of Investigation to comply with this subsection.”
@@ -222,8 +266,22 @@ Subsec. (k). Pub. L. 104–294, § 603(i)(1), amended directory language of Pub.
 
 1994—Subsec. (k). Pub. L. 103–322, § 210603(b), as amended by Pub. L. 104–294, § 603(i)(1), struck out “, which may be appropriated from the Violent Crime Reduction Trust Fund established by [section 1115 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1115&num=0&edition=prelim)” after “authorized to be appropriated”.
 
+#### Termination Date of 2022 Amendment
+Amendment by section 12001(a)(2) of Pub. L. 117–159 repealed effective Sept. 30, 2032, and section restored as if such amendment had not been enacted, see section 12001(a)(3) of Pub. L. 117–159, set out as an Effective and Termination Dates of 2022 Amendment note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure.
+
 #### Effective Date of 1996 Amendment
 Amendment by section 603(i)(1) of Pub. L. 104–294 effective as if the amendment had been included in section 210603(b) of Pub. L. 103–322 on Sept. 13, 1994, see section 603(i)(2) of Pub. L. 104–294, set out as a note under [section 40302 of this title](./chapter-403-criminal-justice-identification-information-and-communication.md#section-40302).
+
+#### Short Title
+For short title of Pub. L. 110–180, which is classified to this chapter, as the “NICS Improvement Amendments Act of 2007”, see section 1(a) of Pub. L. 110–180, set out as a Short Title of 2008 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
+#### Statutory Construction; Evidence
+Nothing in amendment made by section 12004(h)(1) of Pub. L. 117–159 to be construed to create a cause of action against any person licensed as an importer, manufacturer, or dealer of firearms under chapter 44 of Title 18, Crimes and Criminal Procedure, or any other person for any civil liability or to establish any standard of care, with additional provision relating to nonadmissibility of evidence, see section 12004(h)(4) of Pub. L. 117–159, set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+Nothing in amendment made by section 12004(h)(1) of Pub. L. 117–159 to be construed to allow the establishment of a Federal system of registration of firearms, firearms owners, or firearms transactions or dispositions, see section 12004(k) of Pub. L. 117–159, set out as a Rule of Construction note under [section 922 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+#### Report on Removing Outdated, Expired, or Erroneous Records
+Pub. L. 117–159, div. A, title II, § 12001(b), June 25, 2022, 136 Stat. 1324, provided that: “(1) In general.—On an annual basis for each fiscal year through fiscal year 2032, each State and Federal agency responsible for the submission of disqualifying records under subsection (d), (g), or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), United States Code, to the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act ([34 U.S.C. 40901](./chapter-409-national-instant-criminal-background-check-system.md#section-40901)) shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate and the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives a report detailing the removal from the system of records that no longer prohibit an individual from lawfully acquiring or possessing a firearm under such subsection (d), (g), or (n). “(2) Contents.—Each report submitted by a State or Federal agency under paragraph (1) shall include pertinent information on—“(A) the number of records that the State or Federal agency removed from the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act ([34 U.S.C. 40901](./chapter-409-national-instant-criminal-background-check-system.md#section-40901)) during the reporting period; “(B) why the records were removed; and “(C) for each record removed, the nature of the disqualifying characteristic outlined in subsection (d), (g), or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), United States Code, that caused the State or Federal agency to originally submit the record to the system.”
 
 #### Destruction of Identifying Information for Persons Not Prohibited From Possessing or Receiving Firearms
 Pub. L. 112–55, div. B, title V, § 511, Nov. 18, 2011, 125 Stat. 632, provided that: “Hereafter, none of the funds appropriated pursuant to this Act [div. B of Pub. L. 112–55, see Tables for classification] or any other provision of law may be used for— “(1) the implementation of any tax or fee in connection with the implementation of subsection [sic] 922(t) of title 18, United States Code; and “(2) any system to implement subsection [sic] 922(t) of title 18, United States Code, that does not require and result in the destruction of any identifying information submitted by or on behalf of any person who has been determined not to be prohibited from possessing or receiving a firearm no more than 24 hours after the system advises a Federal firearms licensee that possession or receipt of a firearm by the prospective transferee would not violate subsection (g) or (n) of [section 922 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922&num=0&edition=prelim), United States Code, or State law.”

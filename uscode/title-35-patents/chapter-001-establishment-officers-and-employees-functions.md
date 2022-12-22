@@ -42,6 +42,9 @@ Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, subtitle G, § 4731], Nov. 2
 #### Effective Date of 1975 Amendment
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under [section 1111 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1111&num=0&edition=prelim), Commerce and Trade.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–245, § 1, Dec. 20, 2022, 136 Stat. 2343, provided that: “This Act [enacting [section 28 of this title](./chapter-002-proceedings-in-the-patent-and-trademark-office.md#section-28) and provisions set out as a note under [section 28 of this title](./chapter-002-proceedings-in-the-patent-and-trademark-office.md#section-28)] may be cited as the ‘Patents for Humanity Act of 2022’.”
+
 #### Short Title of 2018 Amendment
 Pub. L. 115–273, § 1, Oct. 31, 2018, 132 Stat. 4158, provided that: “This Act [amending provisions set out as a note under [section 41 of this title](./chapter-004-patent-fees-funding-search-systems.md#section-41)] may be cited as the ‘Study of Underrepresented Classes Chasing Engineering and Science Success Act of 2018’ or the ‘SUCCESS Act’.”
 
@@ -473,7 +476,7 @@ In addition to the voting members, each Advisory Committee shall include a repre
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 5, act July 19, 1952, ch. 950, 66 Stat. 793, related to bond of Commissioner and other officers, prior to repeal by Pub. L. 92–310, title II, § 208(a), June 6, 1972, 86 Stat. 203.
@@ -525,6 +528,9 @@ Pub. L. 112–274, § 1(l)(2), Jan. 14, 2013, 126 Stat. 2459, provided that: “
 
 #### References in Text
 The date of the enactment of this subsection, referred to in subsec. (d), probably means the date of enactment of Pub. L. 112–29, which amended this section generally and was approved Sept. 16, 2011.
+
+#### Constitutionality
+For information regarding the constitutionality of provisions of subsection (c) of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 A prior section 6, acts July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 92–132, Oct. 5, 1971, 85 Stat. 364; Pub. L. 93–596, § 1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, § 2, Nov. 14, 1975, 89 Stat. 690; Pub. L. 97–247, §§ 7, 13, Aug. 27, 1982, 96 Stat. 320, 321; Pub. L. 102–204, § 8, Dec. 10, 1991, 105 Stat. 1641, related to duties of Commissioner, prior to repeal by Pub. L. 106–113, div. B, § 1000(a)(9) [title IV, §§ 4715(a), 4731], Nov. 29, 1999, 113 Stat. 1536, 1501A–580, 1501A–581, effective 4 months after Nov. 29, 1999.

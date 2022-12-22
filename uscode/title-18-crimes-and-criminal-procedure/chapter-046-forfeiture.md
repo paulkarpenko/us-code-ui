@@ -214,7 +214,7 @@ The Attorney General, the Secretary of the Treasury, or the Postal Service, as t
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), and (k)(1)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in subsecs. (a)(1)(B)(i), (b)(4)(A), and (k)(1)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 Section 104(a) of the North Korea Sanctions and Policy Enhancement Act of 2016, referred to in subsec. (a)(1)(I), is classified to [section 9214(a) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9214/a&num=0&edition=prelim), Foreign Relations and Intercourse.
 
@@ -1032,7 +1032,7 @@ Section applicable to any forfeiture proceeding commenced on or after the date t
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 [Section 985 of this title](./chapter-046-forfeiture.md#section-985), referred to in subsec. (a), was enacted by Pub. L. 106–185, and relates to civil forfeitures of real property and not to procedures and limitations for subpoenas. The reference to section 985 was included in this section when it was enacted by Pub. L. 102–550, but at that time there was no [section 985 of this title](./chapter-046-forfeiture.md#section-985).
 

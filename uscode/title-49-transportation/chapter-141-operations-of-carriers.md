@@ -57,9 +57,9 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 ### Statutory Notes
 
 #### References in Text
-The National Labor Relations Act, referred to in subsec. (b), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
+The National Labor Relations Act, referred to in subsec. (b), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
 
-Act of March 23, 1932, commonly known as the Norris-LaGuardia Act, referred to in subsec. (b), is act Mar. 23, 1932, ch. 90, 47 Stat. 70, as amended, which is classified generally to chapter 6 (§ 101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section101&num=0&edition=prelim) and Tables.
+Act of March 23, 1932, commonly known as the Norris-LaGuardia Act, referred to in subsec. (b), is act Mar. 23, 1932, ch. 90, 47 Stat. 70, which is classified generally to chapter 6 (§ 101 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 11109 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11109&num=0&edition=prelim) prior to the general amendment of this subtitle by Pub. L. 104–88, § 102(a).

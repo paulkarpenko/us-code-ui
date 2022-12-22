@@ -418,7 +418,7 @@ In subsection (c)(1), the words “or their duly authorized representatives” a
 In subsection (c)(2), the words “or their duly authorized representatives” are omitted because of 3:301 and 31:711(2) and because of the inferred authority of the Commission to delegate in the absence of a prohibition. See section 14301(d) of the revised title.
 
 #### References in Text
-The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (a)(2)(B)(ii). Pub. L. 116–136 inserted before period at end “, except that a discretionary grant to respond to economic distress directly related to the impacts of the Coronavirus Disease 2019 (COVID–19) shall not be included in such aggregate amount”.

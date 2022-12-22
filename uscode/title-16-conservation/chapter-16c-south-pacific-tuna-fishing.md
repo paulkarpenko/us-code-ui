@@ -415,7 +415,7 @@ The Secretary of State is authorized to receive on behalf of the United States r
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1992—Subsec. (a). Pub. L. 102–523 substituted “1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, and 2002” for “1988, 1989, 1990, 1991, and 1992” in three places.

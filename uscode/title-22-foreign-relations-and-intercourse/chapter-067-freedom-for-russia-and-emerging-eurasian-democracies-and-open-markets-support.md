@@ -24,7 +24,7 @@ For purposes of this Act, the terms “independent states of the former Soviet U
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–260, div. FF, title III, § 321, Dec. 27, 2020, 134 Stat. 3101, provided that: “This subtitle [subtitle C (§§ 321–330) of title III of div. FF of Pub. L. 116–260, amending provisions set out as a note under [section 5811 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5811)] may be cited as the ‘Belarus Democracy, Human Rights, and Sovereignty Act of 2020’.”
@@ -114,9 +114,9 @@ Pub. L. 102–391, title III, Oct. 6, 1992, 106 Stat. 1650, provided in part tha
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(2), (4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
+This Act, referred to in subsec. (a)(2), (4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), (4), is Pub. L. 87-195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 12 of part I of the Act is classified generally to part XII [§ 2296 et seq.] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2), (4), is Pub. L. 87-195, Sept. 4, 1961, 75 Stat. 424. Chapter 12 of part I of the Act is classified generally to part XII [§ 2296 et seq.] of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 1999—Subsec. (a)(2), (4). Pub. L. 106–113 substituted “this Act and chapter 12 of part I of the Foreign Assistance Act of 1961)” for “this Act)”.
@@ -241,9 +241,9 @@ Determination of President of the United States, No. 2002–06, Jan. 25, 2002, 6
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-This Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
+This Act, referred to in subsec. (b)(3), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
 
 
 <a id="section-5821"></a>
@@ -320,7 +320,7 @@ Pub. L. 103–306, title II, Aug. 23, 1994, 108 Stat. 1616.
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Delegation of Functions
 Functions of President under subsec. (a) delegated to Secretary of State except that functions of President under this section, insofar as relating to determinations and directives, delegated to Coordinator, see sections 2(b) and 3(a) of Ex. Ord. No. 12884, Dec. 1, 1993, 58 F.R. 64099, as amended, set out as a note under [section 5812 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5812).
@@ -371,7 +371,7 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 
 <a id="section-5825"></a>
@@ -421,7 +421,7 @@ For delegation of certain functions of President under this section, see section
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 11 of part I of the Act is classified generally to part II (§ 2295 et seq.) of subchapter I of chapter 32 of this title. Title IV of chapter 2 of part I of the Act, which was classified generally to subpart IV (§ 2191 et seq.) of part II of subchapter I of chapter 32 of this title, was repealed, except for subsections (g), (l), (m), and (n) of [section 2197 of this title](./chapter-032-foreign-assistance.md#section-2197), by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part II (§ 2295 et seq.) of subchapter I of chapter 32 of this title. Title IV of chapter 2 of part I of the Act, which was classified generally to subpart IV (§ 2191 et seq.) of part II of subchapter I of chapter 32 of this title, was repealed, except for subsections (g), (l), (m), and (n) of [section 2197 of this title](./chapter-032-foreign-assistance.md#section-2197), by Pub. L. 115–254, div. F, title VI, § 1464(2), Oct. 5, 2018, 132 Stat. 3513, effective at the end of the transition period, as defined in [section 9681 of this title](./chapter-103-better-utilization-of-investments-leading-to-development.md#section-9681). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 The Overseas Private Investment Corporation Act Amendments Act of 1992, referred to in subsec. (b), probably means the Overseas Private Investment Corporation Amendments Act of 1992, which was title I of H.R. 4996, 102d Congress, as passed by the House of Representatives. H.R. 4996 was enacted into law as Pub. L. 102–549 and title I was significantly revised and no longer contained provisions designating it as the Overseas Private Investment Corporation Amendments Act of 1992.
 
@@ -492,7 +492,7 @@ These local centers may be designated as “Democracy Houses” or given another
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (j), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 11 of part I of the Act is classified generally to part XI (§ 2295 et seq.) of subchapter I of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 
 <a id="section-5852"></a>
@@ -639,7 +639,7 @@ Authority of President under this section delegated to Secretary of Defense by s
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Act is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Act is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 Section 510 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991, referred to in subsec. (c)(3), is section 510 of Pub. L. 101–513, title V, Nov. 5, 1991, 104 Stat. 2003, which is not classified to the Code.
 
@@ -669,7 +669,7 @@ Notwithstanding any other provision of law (including any other provision of thi
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
+This Act, referred to in text, is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 and also as the FREEDOM Support Act. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
 
 #### Amendments
 1998—Pub. L. 105–277 substituted “or through” for “, through the Defense Conversion Adjustment Program (as authorized by the Job Training Partnership Act), or through” in last sentence.
@@ -707,9 +707,9 @@ Section is comprised of section 506 of Pub. L. 102–511. Subsec. (a) of this se
 ### Statutory Notes
 
 #### References in Text
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (b)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(2), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(2), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
 The Budget Enforcement Act of 1990, referred to in subsec. (b)(2), is title XIII of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–573. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 

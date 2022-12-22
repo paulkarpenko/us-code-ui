@@ -27,13 +27,19 @@ Pub. L. 116–260, div. S, § 102(a), Dec. 27, 2020, 134 Stat. 2243, provided th
 #### Short Title
 Pub. L. 91–190, § 1, Jan. 1, 1970, 83 Stat. 852, provided: “That this Act [enacting this chapter] may be cited as the ‘National Environmental Policy Act of 1969’.”
 
+#### Environmental Product Declaration Assistance
+Pub. L. 117–169, title VI, § 60112, Aug. 16, 2022, 136 Stat. 2072, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Administrator of the Environmental Protection Agency for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $250,000,000, to remain available until September 30, 2031, to develop and carry out a program to support the development, enhanced standardization and transparency, and reporting criteria for environmental product declarations that include measurements of the embodied greenhouse gas emissions of the material or product associated with all relevant stages of production, use, and disposal, and conform with international standards, for construction materials and products by—“(1) providing grants to businesses that manufacture construction materials and products for developing and verifying environmental product declarations, and to States, Indian Tribes, and nonprofit organizations that will support such businesses; “(2) providing technical assistance to businesses that manufacture construction materials and products in developing and verifying environmental product declarations, and to States, Indian Tribes, and nonprofit organizations that will support such businesses; and “(3) carrying out other activities that assist in measuring, reporting, and steadily reducing the quantity of embodied carbon of construction materials and products. “(b) Administrative Costs.—Of the amounts made available under this section, the Administrator of the Environmental Protection Agency shall reserve 5 percent for administrative costs necessary to carry out this section. “(c) Definitions.—In this section:“(1) Greenhouse gas.—The term ‘greenhouse gas’ means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride. “(2) State.—The term ‘State’ has the meaning given to that term in section 302(d) of the Clean Air Act ([42 U.S.C. 7602(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7602/d&num=0&edition=prelim)).”
+
+#### Low-Embodied Carbon Labeling for Construction Materials
+Pub. L. 117–169, title VI, § 60116, Aug. 16, 2022, 136 Stat. 2077, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Administrator of the Environmental Protection Agency for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $100,000,000, to remain available until September 30, 2026, for necessary administrative costs of the Administrator of the Environmental Protection Agency to carry out this section and to develop and carry out a program, in consultation with the Administrator of the Federal Highway Administration for construction materials used in transportation projects and the Administrator of General Services for construction materials used for Federal buildings, to identify and label construction materials and products that have substantially lower levels of embodied greenhouse gas emissions associated with all relevant stages of production, use, and disposal, as compared to estimated industry averages of similar materials or products, as determined by the Administrator of the Environmental Protection Agency, based on—“(1) environmental product declarations; or “(2) determinations by State agencies, as verified by the Administrator of the Environmental Protection Agency. “(b) Definition of Greenhouse Gas.—In this section, the term ‘greenhouse gas’ means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.”
+
 #### Environmental Protection Agency Headquarters
 Pub. L. 112–237, § 2, Dec. 28, 2012, 126 Stat. 1628, provided that: “(a) Redesignation.—The Environmental Protection Agency Headquarters located at 1200 Pennsylvania Avenue N.W. in Washington, D.C., known as the Ariel Rios Building, shall be known and redesignated as the ‘William Jefferson Clinton Federal Building’. “(b) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Environmental Protection Agency Headquarters referred to in subsection (a) shall be deemed to be a reference to the ‘William Jefferson Clinton Federal Building’.”
 
 #### Modification or Replacement of Executive Order No. 13423
 Pub. L. 111–117, div. C, title VII, § 742(b), Dec. 16, 2009, 123 Stat. 3216, provided that: “Hereafter, the President may modify or replace Executive Order No. 13423 [formerly set out below] if the President determines that a revised or new executive order will achieve equal or better environmental or energy efficiency results.”
 
-[Pursuant to section 742(b) of Pub. L. 111–117, set out above, Ex. Ord. No. 13423 was replaced by Ex. Ord. No. 13693, Mar. 19, 2015, 80 F.R. 15871, set out below.]
+[Pursuant to section 742(b) of Pub. L. 111–117, set out above, Ex. Ord. No. 13423 was replaced by Ex. Ord. No. 13693, Mar. 19, 2015, 80 F.R. 15871, formerly set out below.]
 
 Pub. L. 111–8, div. D, title VII, § 748, Mar. 11, 2009, 123 Stat. 693, which provided that Ex. Ord. No. 13423 (formerly set out below) would remain in effect on and after Mar. 11, 2009, except as otherwise provided by law after Mar. 11, 2009, was repealed by Pub. L. 111–117, div. C, title VII, § 742(a), Dec. 16, 2009, 123 Stat. 3216.
 
@@ -903,7 +909,7 @@ George Bush.
 Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 12855, July 19, 1993, 58 F.R. 39107; Ex. Ord. No. 12965, June 27, 1995, 60 F.R. 34087; Ex. Ord. No. 12980, Nov. 17, 1995, 60 F.R. 57819; Ex. Ord. No. 13053, June 30, 1997, 62 F.R. 39945 [35945]; Ex. Ord. No. 13114, Feb. 25, 1999, 64 F.R. 10099, which established the President’s Council on Sustainable Development, was revoked by Ex. Ord. No. 13138, § 3(f), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 12898. Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations
-Ex. Ord. No. 12898, Feb. 11, 1994, 59 F.R. 7629, as amended by Ex. Ord. No. 12948, Jan. 30, 1995, 60 F.R. 6381; Ex. Ord. No. 14008, § 220, Jan. 27, 2021, 86 F.R. 7629, provided:
+Ex. Ord. No. 12898, Feb. 11, 1994, 59 F.R. 7629, as amended by Ex. Ord. No. 12948, Jan. 30, 1995, 60 F.R. 6381; Ex. Ord. No. 14008, § 220, Jan. 27, 2021, 86 F.R. 7629; Ex. Ord. No. 14082, § 4(b), Sept. 12, 2022, 87 F.R. 56863, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -947,9 +953,11 @@ Section 1–1. IMPLEMENTATION.
 
 (xvi) the National Climate Advisor;
 
-(xvii) the Assistant to the President for Domestic Policy; and
+(xvii) the Assistant to the President for Domestic Policy;
 
-(xviii) the Assistant to the President for Economic Policy.
+(xviii) the Assistant to the President for Economic Policy; and
+
+(xix) the Senior Advisor for Clean Energy Innovation and Implementation.
 
 (c) At the direction of the Chair, the Interagency Council may establish subgroups consisting exclusively of Interagency Council members or their designees under this section, as appropriate.
 
@@ -1028,9 +1036,6 @@ Sec. 6–6. GENERAL PROVISIONS.
 6–608. General. Federal agencies shall implement this order consistent with, and to the extent permitted by, existing law.
 
 6–609. Judicial Review. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, its officers, or any person. This order shall not be construed to create any right to judicial review involving the compliance or noncompliance of the United States, its agencies, its officers, or any other person with this order.
-
-#### Extension of Term of White House Environmental Justice Advisory Council
-Term of White House Environmental Justice Advisory Council extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Ex. Ord. No. 13045. Protection of Children From Environmental Health Risks and Safety Risks
 Ex. Ord. No. 13045, Apr. 21, 1997, 62 F.R. 19885, as amended by Ex. Ord. No. 13229, Oct. 9, 2001, 66 F.R. 52013; Ex. Ord. No. 13296, Apr. 18, 2003, 68 F.R. 19931, provided:
@@ -1482,7 +1487,7 @@ Ex. Ord. No. 13423, Jan. 24, 2007, 72 F.R. 3919, which set out various goals and
 Ex. Ord. No. 13514, Oct. 5, 2009, 74 F.R. 52117, which related to environmental sustainability in the Federal Government, was revoked by Ex. Ord. No. 13693, § 16(b), Mar. 19, 2015, 80 F.R. 15880, formerly set out below.
 
 #### Executive Order No. 13653
-Ex. Ord. No. 13653, Nov. 1, 2013, 78 F.R. 66819, as amended by Ex. Ord. No. 13683, § 2, Dec. 11, 2014, 79 F.R. 75041; Ex. Ord. No. 13693, § 16(f), Mar. 19, 2015, 80 F.R. 15881, which related to preparing the United States for the impacts of climate change by undertaking actions to enhance climate preparedness and resilience, was revoked by Ex. Ord. No. 13783, § 3(a)(i), Mar. 28, 2017, 82 F.R. 16094, set out as a note under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201).
+Ex. Ord. No. 13653, Nov. 1, 2013, 78 F.R. 66819, as amended by Ex. Ord. No. 13683, § 2, Dec. 11, 2014, 79 F.R. 75041; Ex. Ord. No. 13693, § 16(f), Mar. 19, 2015, 80 F.R. 15881, which related to preparing the United States for the impacts of climate change by undertaking actions to enhance climate preparedness and resilience, was revoked by Ex. Ord. No. 13783, § 3(a)(i), Mar. 28, 2017, 82 F.R. 16094, formerly set out as a note under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201).
 
 #### Ex. Ord. No. 13690. Establishing a Federal Flood Risk Management Standard and a Process for Further Soliciting and Considering Stakeholder Input
 Ex. Ord. No. 13690, Jan. 30, 2015, 80 F.R. 6425, revoked by Ex. Ord. No. 13807, § 6, Aug. 15, 2017, 82 F.R. 40469, reinstated by Ex. Ord. No. 14030, § 5(e), May 20, 2021, 86 F.R. 27969, provided:
@@ -1580,7 +1585,7 @@ Sec. 10. General Provisions. (a) Nothing in this order shall be construed to imp
 Barack Obama.
 
 #### Executive Order No. 13834
-Ex. Ord. No. 13834, May 17, 2018, 83 F.R. 23771, as amended by Ex. Ord. No. 13990, § 7(a), Jan. 20, 2021, 86 F.R. 7041, which required executive departments and agencies to meet statutory requirements related to energy and environmental performance by prioritizing actions that reduce waste, cut costs, enhance the resilience of Federal infrastructure and operations, and enable more effective accomplishment of its mission, was revoked by Ex. Ord. No. 14057, Dec. 8, 2021, 86 F.R. 70935, set out below.
+Ex. Ord. No. 13834, May 17, 2018, 83 F.R. 23771, as amended by Ex. Ord. No. 13990, § 7(a), Jan. 20, 2021, 86 F.R. 7041, which required executive departments and agencies to meet statutory requirements related to energy and environmental performance by prioritizing actions that reduce waste, cut costs, enhance the resilience of Federal infrastructure and operations, and enable more effective accomplishment of its mission, was revoked by Ex. Ord. No. 14057, § 604, Dec. 8, 2021, 86 F.R. 70943, set out below.
 
 #### Ex. Ord. No. 13990. Protecting Public Health and the Environment and Restoring Science To Tackle the Climate Crisis
 Ex. Ord. No. 13990, Jan. 20, 2021, 86 F.R. 7037, provided:
@@ -1595,9 +1600,9 @@ Sec. 2. Immediate Review of Agency Actions Taken Between January 20, 2017, and J
 
 (i) Reducing Methane Emissions in the Oil and Gas Sector: “Oil and Natural Gas Sector: Emission Standards for New, Reconstructed, and Modified Sources Reconsideration,” 85 FR 57398 (September 15, 2020), by September 2021.
 
-(ii) Establishing Ambitious, Job-Creating Fuel Economy Standards: “The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule Part One: One National Program,” 84 FR 51310 (September 27, 2019), by April 2021; and “The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule for Model Years 2021-2026 Passenger Cars and Light Trucks,” 85 FR 24174 (April 30, 2020), by July 2021. In considering whether to propose suspending, revising, or rescinding the latter rule, the agency should consider the views of representatives from labor unions, States, and industry.
+(ii) Establishing Ambitious, Job-Creating Fuel Economy Standards: “The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule Part One: One National Program,” 84 FR 51310 (September 27, 2019), by April 2021; and “The Safer Affordable Fuel-Efficient (SAFE) Vehicles Rule for Model Years 2021–2026 Passenger Cars and Light Trucks,” 85 FR 24174 (April 30, 2020), by July 2021. In considering whether to propose suspending, revising, or rescinding the latter rule, the agency should consider the views of representatives from labor unions, States, and industry.
 
-(iii) Job-Creating Appliance- and Building-Efficiency Standards: “Energy Conservation Program for Appliance Standards: Procedures for Use in New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and Commercial/Industrial Equipment,” 85 FR 8626 (February 14, 2020), with major revisions proposed by March 2021 and any remaining revisions proposed by June 2021; “Energy Conservation Program for Appliance Standards: Procedures for Evaluating Statutory Factors for Use in New or Revised Energy Conservation Standards,” 85 FR 50937 (August 19, 2020), with major revisions proposed by March 2021 and any remaining revisions proposed by June 2021; “Final Determination Regarding Energy Efficiency Improvements in the 2018 International Energy Conservation Code (IECC),” 84 FR 67435 (December 10, 2019), by May 2021; “Final Determination Regarding Energy Efficiency Improvements in ANSI/ASHRAE/IES Standard 90.1-2016: Energy Standard for Buildings, Except Low-Rise Residential Buildings,” 83 FR 8463 (February 27, 2018), by May 2021.
+(iii) Job-Creating Appliance- and Building-Efficiency Standards: “Energy Conservation Program for Appliance Standards: Procedures for Use in New or Revised Energy Conservation Standards and Test Procedures for Consumer Products and Commercial/Industrial Equipment,” 85 FR 8626 (February 14, 2020), with major revisions proposed by March 2021 and any remaining revisions proposed by June 2021; “Energy Conservation Program for Appliance Standards: Procedures for Evaluating Statutory Factors for Use in New or Revised Energy Conservation Standards,” 85 FR 50937 (August 19, 2020), with major revisions proposed by March 2021 and any remaining revisions proposed by June 2021; “Final Determination Regarding Energy Efficiency Improvements in the 2018 International Energy Conservation Code (IECC),” 84 FR 67435 (December 10, 2019), by May 2021; “Final Determination Regarding Energy Efficiency Improvements in ANSI/ASHRAE/IES Standard 90.1–2016: Energy Standard for Buildings, Except Low-Rise Residential Buildings,” 83 FR 8463 (February 27, 2018), by May 2021.
 
 (iv) Protecting Our Air from Harmful Pollution: “National Emission Standards for Hazardous Air Pollutants: Coal- and Oil-Fired Electric Utility Steam Generating Units—Reconsideration of Supplemental Finding and Residual Risk and Technology Review,” 85 FR 31286 (May 22, 2020), by August 2021; “Increasing Consistency and Transparency in Considering Benefits and Costs in the Clean Air Act Rulemaking Process,” 85 FR 84130 (December 23, 2020), as soon as possible; “Strengthening Transparency in Pivotal Science Underlying Significant Regulatory Actions and Influential Scientific Information,” 86 FR 469 (January 6, 2021), as soon as possible.
 
@@ -1653,7 +1658,7 @@ Sec. 6. Revoking the March 2019 Permit for the Keystone XL Pipeline. (a) On Marc
 
 (d) The Keystone XL pipeline disserves the U.S. national interest. The United States and the world face a climate crisis. That crisis must be met with action on a scale and at a speed commensurate with the need to avoid setting the world on a dangerous, potentially catastrophic, climate trajectory. At home, we will combat the crisis with an ambitious plan to build back better, designed to both reduce harmful emissions and create good clean-energy jobs. Our domestic efforts must go hand in hand with U.S. diplomatic engagement. Because most greenhouse gas emissions originate beyond our borders, such engagement is more necessary and urgent than ever. The United States must be in a position to exercise vigorous climate leadership in order to achieve a significant increase in global climate action and put the world on a sustainable climate pathway. Leaving the Keystone XL pipeline permit in place would not be consistent with my Administration’s economic and climate imperatives.
 
-Sec. 7. Other Revocations. (a) Executive Order 13766 of January 24, 2017 (Expediting Environmental Reviews and Approvals For High Priority Infrastructure Projects) [former [42 U.S.C. 4370m](./chapter-055-national-environmental-policy.md#section-4370m) note], Executive Order 13778 of February 28, 2017 (Restoring the Rule of Law, Federalism, and Economic Growth by Reviewing the “Waters of the United States” Rule), Executive Order 13783 of March 28, 2017 (Promoting Energy Independence and Economic Growth) [former [42 U.S.C. 13201](./chapter-134-energy-policy.md#section-13201) note], Executive Order 13792 of April 26, 2017 (Review of Designations Under the Antiquities Act), Executive Order 13795 of April 28, 2017 (Implementing an America-First Offshore Energy Strategy) [former [42 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1331&num=0&edition=prelim) note], Executive Order 13868 of April 10, 2019 (Promoting Energy Infrastructure and Economic Growth) [former [42 U.S.C. 13201](./chapter-134-energy-policy.md#section-13201) note], and Executive Order 13927 of June 4, 2020 (Accelerating the Nation’s Economic Recovery from the COVID–19 Emergency by Expediting Infrastructure Investments and Other Activities) [former [5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note], are hereby revoked. Executive Order 13834 of May 17, 2018 (Efficient Federal Operations) [set out in part above], is hereby revoked except for sections 6, 7, and 11.
+Sec. 7. Other Revocations. (a) Executive Order 13766 of January 24, 2017 (Expediting Environmental Reviews and Approvals For High Priority Infrastructure Projects) [former [42 U.S.C. 4370m](./chapter-055-national-environmental-policy.md#section-4370m) note], Executive Order 13778 of February 28, 2017 (Restoring the Rule of Law, Federalism, and Economic Growth by Reviewing the “Waters of the United States” Rule) [82 F.R. 12497], Executive Order 13783 of March 28, 2017 (Promoting Energy Independence and Economic Growth) [former [42 U.S.C. 13201](./chapter-134-energy-policy.md#section-13201) note], Executive Order 13792 of April 26, 2017 (Review of Designations Under the Antiquities Act) [82 F.R. 20429], Executive Order 13795 of April 28, 2017 (Implementing an America-First Offshore Energy Strategy) [former [43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) note], Executive Order 13868 of April 10, 2019 (Promoting Energy Infrastructure and Economic Growth) [former [42 U.S.C. 13201](./chapter-134-energy-policy.md#section-13201) note], and Executive Order 13927 of June 4, 2020 (Accelerating the Nation’s Economic Recovery from the COVID–19 Emergency by Expediting Infrastructure Investments and Other Activities) [former [5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note], are hereby revoked. Executive Order 13834 of May 17, 2018 (Efficient Federal Operations) [formerly set out above], is hereby revoked except for sections 6, 7, and 11.
 
 (b) Executive Order 13807 of August 15, 2017 (Establishing Discipline and Accountability in the Environmental Review and Permitting Process for Infrastructure Projects) [former [42 U.S.C. 4370m](./chapter-055-national-environmental-policy.md#section-4370m) note], is hereby revoked. The Director of OMB and the Chair of the Council on Environmental Quality shall jointly consider whether to recommend that a replacement order be issued.
 
@@ -1678,7 +1683,7 @@ Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impa
 J.R. Biden, Jr.
 
 #### Ex. Ord. No. 14008. Tackling the Climate Crisis at Home and Abroad
-Ex. Ord. No. 14008, Jan. 27, 2021, 86 F.R. 7619, provided:
+Ex. Ord. No. 14008, Jan. 27, 2021, 86 F.R. 7619, as amended by Ex. Ord. No. 14082, § 4(a), Sept. 12, 2022, 87 F.R. 56862, provided:
 
 The United States and the world face a profound climate crisis. We have a narrow moment to pursue action at home and abroad in order to avoid the most catastrophic impacts of that crisis and to seize the opportunity that tackling climate change presents. Domestic action must go hand in hand with United States international leadership, aimed at significantly enhancing global action. Together, we must listen to science and meet the moment.
 
@@ -1750,7 +1755,7 @@ It is the policy of my Administration to organize and deploy the full capacity o
 
 Sec. 202. White House Office of Domestic Climate Policy. There is hereby established the White House Office of Domestic Climate Policy (Climate Policy Office) within the Executive Office of the President, which shall coordinate the policy-making process with respect to domestic climate-policy issues; coordinate domestic climate-policy advice to the President; ensure that domestic climate-policy decisions and programs are consistent with the President’s stated goals and that those goals are being effectively pursued; and monitor implementation of the President’s domestic climate-policy agenda. The Climate Policy Office shall have a staff headed by the Assistant to the President and National Climate Advisor (National Climate Advisor) and shall include the Deputy Assistant to the President and Deputy National Climate Advisor. The Climate Policy Office shall have such staff and other assistance as may be necessary to carry out the provisions of this order, subject to the availability of appropriations, and may work with established or ad hoc committees or interagency groups. All agencies shall cooperate with the Climate Policy Office and provide such information, support, and assistance to the Climate Policy Office as it may request, as appropriate and consistent with applicable law.
 
-Sec. 203. National Climate Task Force. There is hereby established a National Climate Task Force (Task Force). The Task Force shall be chaired by the National Climate Advisor.
+Sec. 203. National Climate Task Force. There is hereby established a National Climate Task Force (Task Force). The Task Force shall be chaired by the Senior Advisor for Clean Energy Innovation and Implementation. The National Climate Advisor shall serve as Vice Chair.
 
 (a) Membership. The Task Force shall consist of the following additional members:
 
@@ -1776,27 +1781,39 @@ Sec. 203. National Climate Task Force. There is hereby established a National Cl
 
 (xi) the Secretary of Energy;
 
-(xii) the Secretary of Homeland Security;
+(xii) the Secretary of Education;
 
-(xiii) the Administrator of General Services;
+(xiii) the Secretary of Homeland Security;
 
-(xiv) the Chair of the Council on Environmental Quality;
+(xiv) the Administrator of the Environmental Protection Agency;
 
-(xv) the Administrator of the Environmental Protection Agency;
+(xv) the Director of the Office of Management and Budget;
 
-(xvi) the Director of the Office of Management and Budget;
+(xvi) the Director of the Office of Science and Technology Policy;
 
-(xvii) the Director of the Office of Science and Technology Policy;
+(xvii) the Administrator of the Small Business Administration;
 
-(xviii) the Assistant to the President for Domestic Policy;
+(xviii) the Chair of the Council on Environmental Quality;
 
 (xix) the Assistant to the President for National Security Affairs;
 
-(xx) the Assistant to the President for Homeland Security and Counterterrorism; and
+(xx) the Assistant to the President for Domestic Policy;
 
-(xxi) the Assistant to the President for Economic Policy.
+(xxi) the Assistant to the President for Homeland Security and Counterterrorism;
 
-(b) Mission and Work. The Task Force shall facilitate the organization and deployment of a Government-wide approach to combat the climate crisis. This Task Force shall facilitate planning and implementation of key Federal actions to reduce climate pollution; increase resilience to the impacts of climate change; protect public health; conserve our lands, waters, oceans, and biodiversity; deliver environmental justice; and spur well-paying union jobs and economic growth. As necessary and appropriate, members of the Task Force will engage on these matters with State, local, Tribal, and territorial governments; workers and communities; and leaders across the various sectors of our economy.
+(xxii) the Assistant to the President for Economic Policy;
+
+(xxiii) the Administrator of the National Aeronautics and Space Administration;
+
+(xxiv) the Chief Executive Officer of the Corporation for National and Community Service;
+
+(xxv) the Administrator of General Services;
+
+(xxvi) the White House Infrastructure Coordinator; and
+
+(xxvii) the heads of such other departments, agencies, and offices as the Chair or Vice Chair may from time to time invite to participate.
+
+(b) Mission and Work. The Task Force shall facilitate the organization and deployment of a Government-wide approach to combat the climate crisis. This Task Force shall facilitate planning and implementation of key Federal actions to reduce climate pollution; increase resilience to the impacts of climate change; protect public health; conserve our lands, waters, oceans, and biodiversity; deliver environmental justice; spur well-paying union jobs and economic growth; coordinate effective implementation of Public Law 117–169, commonly referred to as the Inflation Reduction Act of 2022 [see Tables for classification], in coordination with the Infrastructure Implementation Task Force established in Executive Order 14052 of November 15, 2021 (Implementation of the Infrastructure Investment and Jobs Act) [[23 U.S.C. 101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim) note], as appropriate; and accelerate clean energy innovation and deployment. As necessary and appropriate, members of the Task Force will engage on these matters with State, local, Tribal, and territorial governments; workers and communities; and leaders across the various sectors of our economy.
 
 (c) Prioritizing Actions. To the extent permitted by law, Task Force members shall prioritize action on climate change in their policy-making and budget processes, in their contracting and procurement, and in their engagement with State, local, Tribal, and territorial governments; workers and communities; and leaders across all the sectors of our economy.
 
@@ -1868,7 +1885,7 @@ Sec. 217. Policy. It is the policy of my Administration to improve air and water
 
 Such work should include projects that reduce emissions of toxic substances and greenhouse gases from existing and abandoned infrastructure and that prevent environmental damage that harms communities and poses a risk to public health and safety. Plugging leaks in oil and gas wells and reclaiming abandoned mine land can create well-paying union jobs in coal, oil, and gas communities while restoring natural assets, revitalizing recreation economies, and curbing methane emissions. In addition, such work should include efforts to turn properties idled in these communities, such as brownfields, into new hubs for the growth of our economy. Federal agencies should therefore coordinate investments and other efforts to assist coal, oil and gas, and power plant communities, and achieve substantial reductions of methane emissions from the oil and gas sector as quickly as possible.
 
-Sec. 218. Interagency Working Group on Coal and Power Plant Communities and Economic Revitalization. There is hereby established an Interagency Working Group on Coal and Power Plant Communities and Economic Revitalization (Interagency Working Group). The National Climate Advisor and the Assistant to the President for Economic Policy shall serve as Co-Chairs of the Interagency Working Group.
+Sec. 218. Interagency Working Group on Coal and Power Plant Communities and Economic Revitalization. There is hereby established an Interagency Working Group on Coal and Power Plant Communities and Economic Revitalization (Interagency Working Group). The National Climate Advisor, the Assistant to the President for Economic Policy, and the Senior Advisor for Clean Energy Innovation and Implementation shall serve as Co-Chairs of the Interagency Working Group.
 
 (a) Membership. The Interagency Working Group shall consist of the following additional members:
 
@@ -1976,6 +1993,9 @@ Sec. 301. General Provisions. (a) Nothing in this order shall be construed to im
 
 J.R. Biden, Jr.
 
+#### Extension of Term of White House Environmental Justice Advisory Council
+Term of White House Environmental Justice Advisory Council extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 #### Ex. Ord. No. 14057. Catalyzing Clean Energy Industries and Jobs Through Federal Sustainability
 Ex. Ord. No. 14057, Dec. 8, 2021, 86 F.R. 70935, provided:
 
@@ -2027,7 +2047,7 @@ Sec. 205. Achieving Net-Zero Emissions Buildings, Campuses, and Installations. (
 
 (iii) implement CEQ’s Guiding Principles for Sustainable Federal Buildings in building design, construction, and operation of all new Federal buildings and renovated existing buildings; and
 
-(iv) use performance contracting, in accordance with the provisions of section 1002 of the Energy Act of 2020 (Public Law 116–133, division Z) [amending sections 8253, 8258, 8259, 8287, 8287a, and 8287c of this title], to improve efficiency and resilience of Federal facilities, deploy clean and innovative technologies, and reduce greenhouse gas emissions from building operations.
+(iv) use performance contracting, in accordance with the provisions of section 1002 of the Energy Act of 2020 (Public Law 116–133 [116–260], division Z) [amending sections 8253, 8258, 8259, 8287, 8287a, and 8287c of this title], to improve efficiency and resilience of Federal facilities, deploy clean and innovative technologies, and reduce greenhouse gas emissions from building operations.
 
 Sec. 206. Increasing Energy and Water Efficiency. Each agency shall increase facility energy efficiency and water efficiency and shall establish targets for fiscal year 2030 for agency-wide facility energy use intensity and potable water use intensity, with consideration of performance benchmarks for categories of building types (e.g., hospitals, office buildings) and the composition of the agency’s building portfolio.
 
@@ -2073,7 +2093,7 @@ Sec. 501. Establishment of the Office of the Federal Chief Sustainability Office
 
 (b) The heads of all agencies shall cooperate with the Federal Chief Sustainability Officer and provide such information, support, and assistance as the Federal Chief Sustainability Officer may request, as appropriate and consistent with applicable law.
 
-Sec. 502. Designation and Duties of Agency Chief Sustainability Officers. Within 30 days of the date of this order or 30 days of an Agency Chief Sustainability Officer leaving that position, heads of agencies shall designate an Agency Chief Sustainability Officer, and assign to the designated official the responsibility for leading agency planning, implementation, and related actions, to include establishment of internal metrics and performance management systems, to achieve the policy in section 101 and the goals set forth in and targets established under sections 201-209 of this order. Agency Chief Sustainability Officers shall provide to the Director of OMB, the Chair of CEQ, and the Federal Chief Sustainability Officer any information and assistance necessary to implement this order, consistent with applicable law.
+Sec. 502. Designation and Duties of Agency Chief Sustainability Officers. Within 30 days of the date of this order or 30 days of an Agency Chief Sustainability Officer leaving that position, heads of agencies shall designate an Agency Chief Sustainability Officer, and assign to the designated official the responsibility for leading agency planning, implementation, and related actions, to include establishment of internal metrics and performance management systems, to achieve the policy in section 101 and the goals set forth in and targets established under sections 201–209 of this order. Agency Chief Sustainability Officers shall provide to the Director of OMB, the Chair of CEQ, and the Federal Chief Sustainability Officer any information and assistance necessary to implement this order, consistent with applicable law.
 
 Sec. 503. Agency Planning and Performance Management. (a) The heads of principal agencies shall develop and implement annual Sustainability Plans, based on annual guidance provided by CEQ, describing actions and progress toward the goals and requirements of this order.
 
@@ -2155,73 +2175,13 @@ Sec. 603. Definitions. As used in this order:
 
 Sec. 604. Revocation. Executive Order 13834 of May 17, 2018 (Efficient Federal Operations) [formerly set out above], is revoked.
 
-Sec. 605. Determination. Pursuant to section 742(b) of Public Law 111–117 [set out above], I have determined that this order will achieve equal or better environmental or energy efficiency results than Executive Order 13423 of January 24, 2007 (Strengthening Federal Environmental, Energy, and Transportation Management).
+Sec. 605. Determination. Pursuant to section 742(b) of Public Law 111–117 [set out above], I have determined that this order will achieve equal or better environmental or energy efficiency results than Executive Order 13423 of January 24, 2007 (Strengthening Federal Environmental, Energy, and Transportation Management) [formerly set out above].
 
 Sec. 606. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department, agency, or the head thereof; or
 
 (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
-
-(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-J.R. Biden, Jr.
-
-(b) The Interagency Council shall, within 120 days of the date of this order, submit to the President, through the National Climate Advisor, a set of recommendations for further updating Executive Order 12898.
-
-Sec. 221. White House Environmental Justice Advisory Council. There is hereby established, within the Environmental Protection Agency, the White House Environmental Justice Advisory Council (Advisory Council), which shall advise the Interagency Council and the Chair of the Council on Environmental Quality.
-
-(a) Membership. Members shall be appointed by the President, shall be drawn from across the political spectrum, and may include those with knowledge about or experience in environmental justice, climate change, disaster preparedness, racial inequity, or any other area determined by the President to be of value to the Advisory Council.
-
-(b) Mission and Work. The Advisory Council shall be solely advisory. It shall provide recommendations to the White House Environmental Justice Interagency Council established in section 220 of this order on how to increase the Federal Government’s efforts to address current and historic environmental injustice, including recommendations for updating Executive Order 12898.
-
-(c) Administration. The Environmental Protection Agency shall provide funding and administrative support for the Advisory Council to the extent permitted by law and within existing appropriations. Members of the Advisory Council shall serve without either compensation or reimbursement of expenses.
-
-(d) Federal Advisory Committee Act. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Advisory Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Administrator of the Environmental Protection Agency in accordance with the guidelines that have been issued by the Administrator of General Services.
-
-Sec. 222. Agency Responsibilities. In furtherance of the policy set forth in section 219:
-
-(a) The Chair of the Council on Environmental Quality shall, within 6 months of the date of this order, create a geospatial Climate and Economic Justice Screening Tool and shall annually publish interactive maps highlighting disadvantaged communities.
-
-(b) The Administrator of the Environmental Protection Agency shall, within existing appropriations and consistent with applicable law:
-
-(i) strengthen enforcement of environmental violations with disproportionate impact on underserved communities through the Office of Enforcement and Compliance Assurance; and
-
-(ii) create a community notification program to monitor and provide real-time data to the public on current environmental pollution, including emissions, criteria pollutants, and toxins, in frontline and fenceline communities—places with the most significant exposure to such pollution.
-
-(c) The Attorney General shall, within existing appropriations and consistent with applicable law:
-
-(i) consider renaming the Environment and Natural Resources Division the Environmental Justice and Natural Resources Division;
-
-(ii) direct that division to coordinate with the Administrator of the Environmental Protection Agency, through the Office of Enforcement and Compliance Assurance, as well as with other client agencies as appropriate, to develop a comprehensive environmental justice enforcement strategy, which shall seek to provide timely remedies for systemic environmental violations and contaminations, and injury to natural resources; and
-
-(iii) ensure comprehensive attention to environmental justice throughout the Department of Justice, including by considering creating an Office of Environmental Justice within the Department to coordinate environmental justice activities among Department of Justice components and United States Attorneys’ Offices nationwide.
-
-(d) The Secretary of Health and Human Services shall, consistent with applicable law and within existing appropriations:
-
-(i) establish an Office of Climate Change and Health Equity to address the impact of climate change on the health of the American people; and
-
-(ii) establish an Interagency Working Group to Decrease Risk of Climate Change to Children, the Elderly, People with Disabilities, and the Vulnerable as well as a biennial Health Care System Readiness Advisory Council, both of which shall report their progress and findings regularly to the Task Force.
-
-(e) The Director of the Office of Science and Technology Policy shall, in consultation with the National Climate Advisor, within existing appropriations, and within 100 days of the date of this order, publish a report identifying the climate strategies and technologies that will result in the most air and water quality improvements, which shall be made public to the maximum extent possible and published on the Office’s website.
-
-Sec. 223. Justice40 Initiative. (a) Within 120 days of the date of this order, the Chair of the Council on Environmental Quality, the Director of the Office of Management and Budget, and the National Climate Advisor, in consultation with the Advisory Council, shall jointly publish recommendations on how certain Federal investments might be made toward a goal that 40 percent of the overall benefits flow to disadvantaged communities. The recommendations shall focus on investments in the areas of clean energy and energy efficiency; clean transit; affordable and sustainable housing; training and workforce development; the remediation and reduction of legacy pollution; and the development of critical clean water infrastructure. The recommendations shall reflect existing authorities the agencies may possess for achieving the 40-percent goal as well as recommendations on any legislation needed to achieve the 40-percent goal.
-
-(b) In developing the recommendations, the Chair of the Council on Environmental Quality, the Director of the Office of Management and Budget, and the National Climate Advisor shall consult with affected disadvantaged communities.
-
-(c) Within 60 days of the recommendations described in subsection (a) of this section, agency heads shall identify applicable program investment funds based on the recommendations and consider interim investment guidance to relevant program staff, as appropriate and consistent with applicable law.
-
-(d) By February 2022, the Director of the Office of Management and Budget, in coordination with the Chair of the Council on Environmental Quality, the Administrator of the United States Digital Service, and other relevant agency heads, shall, to the extent consistent with applicable law, publish on a public website an annual Environmental Justice Scorecard detailing agency environmental justice performance measures.
-
-PART III—GENERAL PROVISIONS
-
-Sec. 301. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency or the head thereof; or
-
-(ii) the functions of the Director of the Office of Management and Budget, relating to budgetary, administrative, or legislative proposals.
 
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
@@ -2477,7 +2437,7 @@ In exercising its powers, functions, and duties under this chapter, the Council 
 Executive Order numbered 11472, dated May 29, 1969, referred to in par. (1), is set out as a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 #### Citizens’ Advisory Committee on Environmental Quality
-For provisions relating to termination of Citizens’ Advisory Committee on Environmental Quality, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+For provisions relating to termination of Citizens’ Advisory Committee on Environmental Quality, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-4346a"></a>
@@ -2641,9 +2601,9 @@ Provisions similar to those in this section were contained in the following prio
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act as amended, referred to in par. (1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act referred to in par. (1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
-The Federal Water Pollution Control Act as amended, referred to in par. (1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
+The Federal Water Pollution Control Act referred to in par. (1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
 This Act, referred to in par. (2), is Pub. L. 96–229, Apr. 7, 1980, 94 Stat. 325, known as the Environmental, Research, Development, and Demonstration Authorization Act of 1980, which enacted sections 4363, 4363a, 4369a, and 4370 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -2681,7 +2641,7 @@ Provisions similar to those in this section were contained in the following prio
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, as amended, known as the Environmental Research, Development, and Demonstration Authorization Act of 1978, which to the extent classified to the Code enacted sections 300j–3a, 4361a, 4361b, and 4363 to 4367 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, known as the Environmental Research, Development, and Demonstration Authorization Act of 1978, which to the extent classified to the Code enacted sections 300j–3a, 4361a, 4361b, and 4363 to 4367 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1978, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
@@ -2744,17 +2704,17 @@ Section was enacted as part of the Environmental Research, Development, and Demo
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (c)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (c)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (c)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
+The Resource Conservation and Recovery Act of 1976, referred to in subsec. (c)(1), is Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
-The Noise Control Act, referred to in subsec. (c)(1), probably means the Noise Control Act of 1972, Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified principally to chapter 65 (§ 4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4901 of this title](./chapter-065-noise-control.md#section-4901) and Tables.
+The Noise Control Act, referred to in subsec. (c)(1), probably means the Noise Control Act of 1972, Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, which is classified principally to chapter 65 (§ 4901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4901 of this title](./chapter-065-noise-control.md#section-4901) and Tables.
 
-The Toxic Substances Control Act, referred to in subsec. (c)(1), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in subsec. (c)(1), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (c)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Safe Drinking Water Act, referred to in subsec. (c)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Codification
 Section was enacted as part of the Environmental Research, Development, and Demonstration Authorization Act of 1978, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
@@ -2856,7 +2816,7 @@ shall, beginning on February 1, 1978, annually file with the Administrator a wri
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(1), (2), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, as amended, known as the Environmental Research, Development, and Demonstration Authorization Act of 1978, which to the extent classified to the Code enacted sections 300j–3a, 4361a, 4361b, and 4363 to 4367 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(1), (2), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, known as the Environmental Research, Development, and Demonstration Authorization Act of 1978, which to the extent classified to the Code enacted sections 300j–3a, 4361a, 4361b, and 4363 to 4367 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Subsec. (b)(2) of this section, which required the Administrator to report to Congress on June 1 of each calendar year with respect to such disclosures and the actions taken in regard thereto during the preceding calendar year, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, item 9 on page 164 of House Document No. 103–7.
@@ -2981,7 +2941,7 @@ Pub. L. 98–313, § 1, June 12, 1984, 98 Stat. 235, provided that: “This Act 
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (f), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
@@ -3269,7 +3229,7 @@ In this subchapter:
 
 (6) **Covered project**
 
-  (A) *In general* — The term “covered project” means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, carbon capture, or any other sector as determined by a majority vote of the Council that—
+  (A) *In general* — The term “covered project” means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity, carbon capture, or any other sector as determined by a majority vote of the Council that—
 
     (i)
 
@@ -3348,6 +3308,8 @@ The National Environmental Policy Act of 1969 or NEPA, referred to in pars. (6)(
 Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 #### Amendments
+2022—Par. (6)(A). Pub. L. 117–173 inserted “semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity,” after “manufacturing,” in introductory provisions.
+
 2021—Par. (3). Pub. L. 117–58, § 70801(a)(1), inserted “and any interagency consultation” after “issued by an agency”.
 
 Par. (4). Pub. L. 117–58, § 70801(a)(2), substituted “has the meaning given the term in section 1508.1 of title 40, Code of Federal Regulations (or successor regulations).” for “means any agency with—” and struck out subpars. (A) and (B) which read as follows:
@@ -3362,7 +3324,7 @@ Par. (6)(A)(iii), (iv). Pub. L. 117–58, § 70801(a)(4), added cl. (iii) and re
 
 Par. (8). Pub. L. 117–58, § 70801(a)(5), substituted “has the meaning given the term in section 1508.1 of title 40, Code of Federal Regulations (or successor regulations).” for “means a concise public document for which a Federal agency is responsible under section 1508.9 of title 40, Code of Federal Regulations (or successor regulations).”
 
-2020—Par. (6)(A). Pub. L. 116–260, § 102(d)(1)(A)(i), inserted “carbon capture,” after “manufacturing,” in introductory provisions
+2020—Par. (6)(A). Pub. L. 116–260, § 102(d)(1)(A)(i), inserted “carbon capture,” after “manufacturing,” in introductory provisions.
 
 Par. (6)(A)(ii), (iii). Pub. L. 116–260, § 102(d)(1)(A)(ii)–(iv), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
@@ -3606,7 +3568,7 @@ Subsec. (c)(1)(C)(ii)(III)(bb). Pub. L. 117–58, § 70801(b)(3)(A)(iv), substit
 
 Subsec. (c)(2)(B). Pub. L. 117–58, § 70801(b)(3)(B)(i), substituted “less frequently than annually, the Council shall issue recommendations on the best practices for improving the Federal permitting process for covered projects, which may include” for “later than 1 year after December 4, 2015, and not less frequently than annually thereafter, the Council shall issue recommendations on the best practices for” in introductory provisions.
 
-Subsec. (c)(2)(B)(i). Pub. L. 117–58, § 70801(b)(3)(B)(ii), substituted “stakeholder engagement, including—” for “stakeholder engagement, including”, added subcl. (I) and inserted designation for subcl. (II) and “fully considering”.
+Subsec. (c)(2)(B)(i). Pub. L. 117–58, § 70801(b)(3)(B)(ii), substituted “stakeholder engagement, including—” for “stakeholder engagement, including”, added subcl. (I), and inserted designation for subcl. (II) before “fully considering”.
 
 Subsec. (c)(2)(B)(viii) to (x). Pub. L. 117–58, § 70801(b)(3)(B)(iii)–(v), added cls. (viii) and (ix) and redesignated former cl. (viii) as (x).
 
@@ -3922,7 +3884,7 @@ Subsec. (a)(3)(A). Pub. L. 117–58, § 70801(c)(1)(C), inserted “and the Exec
 
 Subsec. (b)(2)(A)(iii). Pub. L. 117–58, § 70801(c)(2)(A), added cl. (iii).
 
-Subsec. (b)(3)(A)(i)(V), (VI). Pub. L. 117–58, § 70801(c)(2)(B)(i), added subcl. (V), redesignated former subcl. (V) as (VI) and struck out “and” at end of subcl. (VI).
+Subsec. (b)(3)(A)(i)(V), (VI). Pub. L. 117–58, § 70801(c)(2)(B)(i), added subcl. (V), redesignated former subcl. (V) as (VI), and struck out “and” at end of subcl. (VI).
 
 Subsec. (b)(3)(A)(iii). Pub. L. 117–58, § 70801(c)(2)(B)(ii), (iii), added cl. (iii).
 
@@ -3934,7 +3896,7 @@ Subsec. (c)(2)(D)(i)(II). Pub. L. 117–58, § 70801(c)(3)(B)(iii), inserted “
 
 Subsec. (c)(2)(F)(i). Pub. L. 117–58, § 70801(c)(3)(C)(i), inserted “intermediate and final” before “completion dates” and “intermediate or final” before “completion date”.
 
-Subsec. (c)(2)(F)(ii). Pub. L. 117–58, § 70801(c)(3)(C)(ii)(I), substituted “an intermediate or final completion date for agency action on a covered project or reasonably believes the agency will fail to conform with a completion date 30 days before” for “a completion date for agency action on a covered project or is at significant risk of failing to conform with”.
+Subsec. (c)(2)(F)(ii). Pub. L. 117–58, § 70801(c)(3)(C)(ii)(I), substituted “an intermediate or final completion date for agency action on a covered project or reasonably believes the agency will fail to conform with a completion date 30 days before” for “a completion date for agency action on a covered project or is at significant risk of failing to conform with” in introductory provisions.
 
 Subsec. (c)(2)(F)(ii)(I). Pub. L. 117–58, § 70801(c)(3)(C)(ii)(II), substituted “reasonably believing the agency will fail to conform” for “significantly risking failing to conform”.
 
@@ -3965,7 +3927,7 @@ Section was enacted as part of the Fixing America’s Surface Transportation Act
 
 (1) **Use of existing documents**
 
-  (A) *In general* — On the request of a project sponsor, a lead agency shall consider and, as appropriate, adopt or incorporate by reference, the analysis and documentation that has been prepared for a covered project under the laws and procedures of a State or Indian Tribe (as defined in section 5130 title 25) as the documentation, or part of the documentation, required to complete an environmental review for the covered project, if the analysis and documentation were, as determined by the lead agency in consultation with the Council on Environmental Quality, developed pursuant to laws and procedures of that State or Indian Tribe (as so defined) that are of equal or greater rigor to each applicable Federal law and procedure, and prepared under circumstances that allowed for opportunities for public participation and consideration of alternatives, environmental consequences, and other required analyses that are substantially equivalent to what would have been available had the documents and analysis been prepared by a Federal agency pursuant to NEPA.
+  (A) *In general* — On the request of a project sponsor, a lead agency shall consider and, as appropriate, adopt or incorporate by reference, the analysis and documentation that has been prepared for a covered project under the laws and procedures of a State or Indian Tribe (as defined in [section 5130 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130&num=0&edition=prelim)) as the documentation, or part of the documentation, required to complete an environmental review for the covered project, if the analysis and documentation were, as determined by the lead agency in consultation with the Council on Environmental Quality, developed pursuant to laws and procedures of that State or Indian Tribe (as so defined) that are of equal or greater rigor to each applicable Federal law and procedure, and prepared under circumstances that allowed for opportunities for public participation and consideration of alternatives, environmental consequences, and other required analyses that are substantially equivalent to what would have been available had the documents and analysis been prepared by a Federal agency pursuant to NEPA.
 
   (B) *Guidance by CEQ* — The Council on Environmental Quality may issue guidance to carry out this subsection.
 
@@ -4074,7 +4036,7 @@ Subsec. (c)(4). Pub. L. 117–58, § 70801(d)(3)(A), substituted “determines t
 
 Subsec. (c)(4)(A). Pub. L. 117–58, § 70801(d)(3)(B), inserted “the development of the higher level of detail will not prevent” before “the lead agency”.
 
-Subsec. (c)(4)(B). Pub. L. 117–58, § 70801(d)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “the public from commenting on the preferred and other alternatives.”.
+Subsec. (c)(4)(B). Pub. L. 117–58, § 70801(d)(3)(C), added subpar. (B) and struck out former subpar. (B) which read as follows: “the public from commenting on the preferred and other alternatives.”
 
 Subsecs. (f), (g). Pub. L. 117–58, § 70801(d)(4), (5), added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -4226,6 +4188,6 @@ Subsec. (d). Pub. L. 117–58, § 70801(g)(3)(A), struck out “and Permitting�
 
 Subsec. (d)(2), (3). Pub. L. 117–58, § 70801(g)(3)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-“(2) Availability—Amounts in the Fund shall be available to the Executive Director, without appropriation or fiscal year limitation, solely for the purposes of administering, implementing, and enforcing this subchapter, including the expenses of the Council.
+“(2) Availability.—Amounts in the Fund shall be available to the Executive Director, without appropriation or fiscal year limitation, solely for the purposes of administering, implementing, and enforcing this subchapter, including the expenses of the Council.
 
-“(3) Transfer—The Executive Director, with the approval of the Director of the Office of Management and Budget, may transfer amounts in the Fund to other agencies to facilitate timely and efficient environmental reviews and authorizations for proposed covered projects.”
+“(3) Transfer.—The Executive Director, with the approval of the Director of the Office of Management and Budget, may transfer amounts in the Fund to other agencies to facilitate timely and efficient environmental reviews and authorizations for proposed covered projects.”

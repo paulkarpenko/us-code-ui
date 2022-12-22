@@ -451,7 +451,7 @@ Amendment by act Apr. 29, 1942, effective on the sixtieth day after Apr. 29, 194
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Chapter 4 of title II of the Act is classified generally to part IV (§ 1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (c), is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 4 of title II of the Act is classified generally to part IV (§ 1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Provisions on this subject were contained in [section 615 of this title](./chapter-011-foreign-agents-and-propaganda.md#section-615) prior to general amendment of act June 8, 1938, by act Apr. 29, 1942.

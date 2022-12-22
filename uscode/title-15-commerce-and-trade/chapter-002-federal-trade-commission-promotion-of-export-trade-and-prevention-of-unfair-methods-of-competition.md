@@ -4,7 +4,7 @@ chapter: '2'
 heading: >-
   FEDERAL TRADE COMMISSION; PROMOTION OF EXPORT TRADE AND PREVENTION OF UNFAIR
   METHODS OF COMPETITION
-section_count: 83
+section_count: 84
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -141,7 +141,7 @@ The words defined in this section shall have the following meaning when found in
 For repeal of amendment by section 13 of Pub. L. 109–455, see Termination Date of 2006 Amendment note below.
 
 #### References in Text
-The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
+The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
 
 The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July 2, 1890, referred to in the text, is known as the Sherman Act, and is classified to sections 1 to 7 of this title.
 
@@ -665,6 +665,43 @@ Section was enacted as part of the Opioid Addiction Recovery Fraud Prevention Ac
 Pub. L. 115–271, title VIII, § 8022, Oct. 24, 2018, 132 Stat. 4082, provided that: “For purposes of this subtitle [subtitle B (§§ 8021–8023) of title VIII of Pub. L. 115–271, see References in Text note above] only, and not [to] be construed or applied as to challenge or affect the characterization, definition, or treatment under any other statute, regulation, or rule: “(1) Substance use disorder treatment product.—The term ‘substance use disorder treatment product’ means a product for use or marketed for use in the treatment, cure, or prevention of a substance use disorder, including an opioid use disorder. “(2) Substance use disorder treatment service.—The term ‘substance use disorder treatment service’ means a service that purports to provide referrals to treatment, treatment, or recovery housing for people diagnosed with, having, or purporting to have a substance use disorder, including an opioid use disorder.”
 
 
+<a id="section-45e"></a>
+## § 45e. Office for the prevention of fraud targeting seniors
+**(a) Establishment of Advisory Office** The Federal Trade Commission (in this section referred to as the “Commission”) shall establish an office within the Bureau of Consumer Protection for the purpose of advising the Commission on the prevention of fraud targeting seniors and to assist the Commission with the following:
+
+(1) **Oversight** — The advisory office shall monitor the market for mail, television, internet, telemarketing, and recorded message telephone call (in this section referred to as “robocall”) fraud targeting seniors and shall coordinate with other relevant agencies regarding the requirements of this section.
+
+(2) **Consumer education** — The Commission, through the advisory office and in consultation with the Attorney General, the Secretary of Health and Human Services, the Postmaster General, the Chief Postal Inspector for the United States Postal Inspection Service, and other relevant agencies, shall—
+
+  (A) disseminate to seniors and families and caregivers of seniors general information on mail, television, internet, telemarketing, and robocall fraud targeting seniors, including descriptions of the most common fraud schemes;
+
+  (B) disseminate to seniors and families and caregivers of seniors information on reporting complaints of fraud targeting seniors either to the national toll-free telephone number established by the Commission for reporting such complaints, or to the Consumer Sentinel Network, operated by the Commission, where such complaints will become immediately available to appropriate law enforcement agencies, including the Federal Bureau of Investigation and the attorneys general of the States;
+
+  (C) in response to a specific request about a particular entity or individual, provide publicly available information of any enforcement action taken by the Commission for mail, television, internet, telemarketing, and robocall fraud against such entity; and
+
+  (D) maintain a website to serve as a resource for information for seniors and families and caregivers of seniors regarding mail, television, internet, telemarketing, robocall, and other identified fraud targeting seniors.
+
+(3) **Complaints** — The Commission, through the advisory office and in consultation with the Attorney General, shall establish procedures to—
+
+  (A) log and acknowledge the receipt of complaints by individuals who believe they have been a victim of mail, television, internet, telemarketing, and robocall fraud in the Consumer Sentinel Network, and shall make those complaints immediately available to Federal, State, and local law enforcement authorities; and
+
+  (B) provide to individuals described in subparagraph (A), and to any other persons, specific and general information on mail, television, internet, telemarketing, and robocall fraud, including descriptions of the most common schemes using such methods of communication.
+
+**(b) Commencement** The Commission shall commence carrying out the requirements of this section not later than 1 year after March 15, 2022.
+
+**(c) Use of existing funds** No additional funds are authorized to be appropriated to carry out this section and the Commission shall carry out this section using amounts otherwise made available to the Commission.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Seniors Fraud Prevention Act of 2022, the Fraud and Scam Reduction Act, and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Federal Trade Commission Act which comprises this subchapter.
+
+#### Senior Scams Prevention Advisory Group
+Pub. L. 117–103, div. Q, title I, § 112(a)–(d), Mar. 15, 2022, 136 Stat. 809, provided that: “(a) Establishment.—There is established a Senior Scams Prevention Advisory Group (in this subtitle [subtitle A of div. Q of Pub. L. 117–103, amending [section 21711 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21711&num=0&edition=prelim), Crime Control and Law Enforcement, and enacting provisions set out as notes under [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and [section 21711 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21711&num=0&edition=prelim)] referred to as the ‘Advisory Group’). “(b) Members.—The Advisory Group shall be composed of stakeholders such as the following individuals or the designees of those individuals:“(1) The Chairman of the Federal Trade Commission. “(2) The Secretary of the Treasury. “(3) The Attorney General. “(4) The Director of the Bureau of Consumer Financial Protection. “(5) Representatives from each of the following sectors, including trade associations, to be selected by the Federal Trade Commission:“(A) Retail. “(B) Gift cards. “(C) Telecommunications. “(D) Wire-transfer services. “(E) Senior peer advocates. “(F) Consumer advocacy organizations with efforts focused on preventing seniors from becoming the victims of scams. “(G) Financial services, including institutions that engage in digital currency. “(H) Prepaid cards. “(6) A member of the Board of Governors of the Federal Reserve System. “(7) A prudential regulator, as defined in section 1002 of the Consumer Financial Protection Act of 2010 ([12 U.S.C. 5481](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5481&num=0&edition=prelim)). “(8) The Director of the Financial Crimes Enforcement Network. “(9) Any other Federal, State, or local agency, industry representative, consumer advocate, or entity, as determined by the Federal Trade Commission. “(c) No Compensation for Members.—A member of the Advisory Group shall serve without compensation in addition to any compensation received for the service of the member as an officer or employee of the United States, if applicable. “(d) Duties.—“(1) In general.—The Advisory Group shall—“(A) collect information on the existence, use, and success of educational materials and programs for retailers, financial services, and wire-transfer companies, which—“(i) may be used as a guide to educate employees on how to identify and prevent scams that affect seniors; and “(ii) includes— “(I) useful information for retailers, financial services, and wire transfer companies for the purpose described in clause (i); “(II) training for employees on ways to identify and prevent senior scams; “(III) best practices for keeping employees up to date on current scams; “(IV) the most effective signage and placement in retail locations to warn seniors about scammers’ use of gift cards, prepaid cards, and wire transfer services; “(V) suggestions on effective collaborative community education campaigns; “(VI) available technology to assist in identifying possible scams at the point of sale; and “(VII) other information that would be helpful to retailers, wire transfer companies, financial institutions, and their employees as they work to prevent fraud affecting seniors; and “(B) based on the findings in subparagraph (A)—“(i) identify inadequacies, omissions, or deficiencies in those educational materials and programs for the categories listed in subparagraph (A) and their execution in reaching employees to protect older adults; and “(ii) create model materials, best practices guidance, or recommendations to fill those inadequacies, omissions, or deficiencies that may be used by industry and others to help protect older adults from scams. “(2) Encouraged use.—The Chairman of the Federal Trade Commission shall—“(A) make the materials or guidance created by the Federal Trade Commission described in paragraph (1) publicly available; and “(B) encourage the use and distribution of the materials created under this subsection to prevent scams affecting seniors by governmental agencies and the private sector.”
+
+[Pub. L. 117–103, div. Q, title I, § 112(a)–(d), set out above, ceases to be effective on the date that is 5 years after Mar. 15, 2022, see section 112(f) of title I of div. Q of Pub. L. 117–103, set out as a Termination of 2022 Amendment note under [section 21711 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21711&num=0&edition=prelim), Crime Control and Law Enforcement.]
+
+
 <a id="section-46"></a>
 ## § 46. Additional powers of Commission
 
@@ -988,7 +1025,7 @@ For transfer of functions of Federal Trade Commission, with certain exceptions, 
 ### Statutory Notes
 
 #### References in Text
-The Meat Inspection Act, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, as amended, which is classified to subchapters I to IV (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601&num=0&edition=prelim) and Tables.
+The Meat Inspection Act, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which is classified to subchapters I to IV (§ 601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section601&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Act Mar. 21, 1938, ch. 49, § 5(b), 52 Stat. 117, provided: “Section 14 of the Federal Trade Commission Act [this section] added to such Act by section 4 of this Act, shall take effect on the expiration of sixty days after the date of the enactment of this Act [Mar. 21, 1938].”
@@ -2084,6 +2121,13 @@ For repeal of amendment renumbering this section by section 13 of Pub. L. 109–
 #### Termination Date of 2006 Amendment
 Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended, set out as a note under [section 44 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-44).
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–103, div. Q, title I, § 101, Mar. 15, 2022, 136 Stat. 809, provided that: “This title [enacting [section 45e of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45e), amending [section 21711 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21711&num=0&edition=prelim), Crime Control and Law Enforcement, and enacting provisions set out as notes under this section and [section 45e of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45e), and [section 21711 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21711&num=0&edition=prelim)] may be cited as the ‘Fraud and Scam Reduction Act’.”
+
+Pub. L. 117–103, div. Q, title I, § 111, Mar. 15, 2022, 136 Stat. 809, provided that: “This subtitle [amending [section 21711 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21711&num=0&edition=prelim), Crime Control and Law Enforcement, and enacting provisions set out as notes under [section 45e of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45e) and [section 21711 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21711&num=0&edition=prelim)] may be cited as the ‘Stop Senior Scams Act’.”
+
+Pub. L. 117–103, div. Q, title I, § 121, Mar. 15, 2022, 136 Stat. 811, provided that: “This subtitle [enacting [section 45e of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-45e)] may be cited as the ‘Seniors Fraud Prevention Act of 2022’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 116–287, § 1, Jan. 5, 2021, 134 Stat. 4882, provided that: “This Act [enacting provisions set out as a note under [section 52 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-52)] may be cited as the ‘Combating Pandemic Scams Act of 2020’.”
 
@@ -2141,7 +2185,7 @@ The prohibition against “unfair methods of competition” and the remedies pro
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Codification
 “Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.]” substituted in text for “Act entitled ‘An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes,’ approved September twenty-sixth, nineteen hundred and fourteen” on authority of section 18 of that Act [[15 U.S.C. 58](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58)].
@@ -2155,7 +2199,7 @@ Every association which engages solely in export trade, within thirty days after
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Codification
 “Federal Trade Commission Act [[15 U.S.C. 41](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-41) et seq.]” substituted in text for “An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes,” on authority of section 18 of that Act [[15 U.S.C. 58](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58)].
@@ -2742,7 +2786,7 @@ except that such term does not include a product required to be labeled under th
 ### Statutory Notes
 
 #### References in Text
-The Wool Products Labeling Act of 1939, referred to in subsec. (h)(3), is act Oct. 14, 1940, ch. 871, 54 Stat. 1128, as amended, which is classified generally to subchapter III (§ 68 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 68 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-68) and Tables.
+The Wool Products Labeling Act of 1939, referred to in subsec. (h)(3), is act Oct. 14, 1940, ch. 871, 54 Stat. 1128, which is classified generally to subchapter III (§ 68 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 68 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-68) and Tables.
 
 #### Effective Date
 Pub. L. 85–897, § 15, Sept. 2, 1958, 72 Stat. 1724, provided that: “This Act [this subchapter] shall take effect eighteen months after enactment [Sept. 2, 1958], except for the promulgation of rules and regulations by the Commission, which shall be promulgated within nine months after the enactment of this Act. The Commission shall provide for the exception of any textile fiber product acquired prior to the effective date of this Act.”
@@ -2777,7 +2821,7 @@ Pub. L. 85–897, § 13, Sept. 2, 1958, 72 Stat. 1723, provided that: “If any 
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsecs. (a) to (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) to (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 
 <a id="section-70b"></a>
@@ -2823,7 +2867,7 @@ The Federal Trade Commission Act, referred to in subsecs. (a) to (c), is act Sep
 #### References in Text
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (k), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim), Customs Duties.
 
-The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, as amended, which is classified generally to subchapter IV (§ 69 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 69 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-69) and Tables.
+The Fur Products Labeling Act, referred to in subsec. (g), is act Aug. 8, 1951, ch. 298, 65 Stat. 175, which is classified generally to subchapter IV (§ 69 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 69 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-69) and Tables.
 
 #### Amendments
 2004—Subsec. (k). Pub. L. 108–429 added subsec. (k).
@@ -2861,7 +2905,7 @@ may substitute for the stamp, tag, label, or other means of identification requi
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 
 <a id="section-70d"></a>
@@ -2875,7 +2919,7 @@ The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 
 <a id="section-70e"></a>
@@ -2891,7 +2935,7 @@ The Federal Trade Commission Act, referred to in subsec. (c), is act Sept. 26, 1
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 
 <a id="section-70f"></a>
@@ -2907,7 +2951,7 @@ the Commission may bring suit in the district court of the United States or in t
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 
 <a id="section-70g"></a>
@@ -2918,7 +2962,7 @@ All textile fiber products imported into the United States shall be stamped, tag
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 
 <a id="section-70h"></a>
@@ -2930,7 +2974,7 @@ The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 
 <a id="section-70i"></a>
@@ -2972,7 +3016,7 @@ The exemption provided for any article by paragraph (3) or (4) of this subsectio
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug and Cosmetic Act of 1938, referred to in subsec. (a)(8), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug and Cosmetic Act of 1938, referred to in subsec. (a)(8), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-70k"></a>

@@ -3613,7 +3613,7 @@ Pub. L. 117–58, § 50203(5), designated existing provisions as par. (1), inser
 
 (1) **Periodic reports**
 
-  (A) *In general* — Not later than December 31, 2003, and periodically thereafter, the Administrator shall transmit to Congress a reportcontaining—
+  (A) *In general* — Not later than December 31, 2003, and periodically thereafter, the Administrator shall transmit to Congress a report containing—
 
     (i) recommended funding levels for grants under this section; and
 
@@ -9907,7 +9907,7 @@ Subsec. (f)(2). Pub. L. 115–232, § 836(g)(5)(B), substituted “the terms ‘
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Administration of Chapter With Respect to Federal Contracts, Grants, or Loans
 For provisions concerning the administration of this chapter with respect to Federal contracts, grants, or loans, see Ex. Ord. No. 11738, Sept. 10, 1973, 38 F.R. 25161, set out as a note under [section 7606 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7606&num=0&edition=prelim), The Public Health and Welfare.

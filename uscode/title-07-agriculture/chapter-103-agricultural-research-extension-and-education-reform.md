@@ -38,11 +38,11 @@ In this Act:
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 105–185, June 23, 1998, 112 Stat. 523, as amended, known as the Agricultural Research, Extension, and Education Reform Act of 1998. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is Pub. L. 105–185, June 23, 1998, 112 Stat. 523, known as the Agricultural Research, Extension, and Education Reform Act of 1998. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 Act of July 2, 1862, referred to in par. (1), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-301) and Tables.
 
-Act of August 30, 1890, referred to in par. (2), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
+Act of August 30, 1890, referred to in par. (2), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of this title](./chapter-013-agricultural-and-mechanical-colleges.md#section-321) and Tables.
 
 Section 251(a), referred to in par. (3), is section 251(a) of Pub. L. 105–185.
 
@@ -568,7 +568,7 @@ Repeal of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effe
 ### Statutory Notes
 
 #### References in Text
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(1)(B), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f)(1)(B), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1397,7 +1397,7 @@ The Food Quality Protection Act of 1996, referred to in subsec. (b)(3), is Pub. 
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(3), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

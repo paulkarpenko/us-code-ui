@@ -123,7 +123,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 2021—Pub. L. 117–81, § 1701(i)(4)(B), amended Pub. L. 116–283, § 1817(a), which enacted this section, by adding section 3324 designation and heading “[Reserved]” and striking out former section 3324 heading and catchline “Preference for fixed-price contracts”.
 
 #### Effective Date of 2021 Amendment
-Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment made to Pub. L. 116–283 by Pub. L. 117–81, resulting in omission of this section, applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

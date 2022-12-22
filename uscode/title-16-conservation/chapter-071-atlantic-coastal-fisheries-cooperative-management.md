@@ -271,7 +271,7 @@ Pub. L. 106–555, title I, § 122(c), Dec. 21, 2000, 114 Stat. 2766, provided t
 ### Statutory Notes
 
 #### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in text, is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in text, is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to this chapter. For complete classification of title VIII to the Code, see Short Title note set out under [section 5101 of this title](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5101) and Tables.
 
@@ -299,7 +299,7 @@ A prior section 809 of Pub. L. 103–206 was renumbered section 811, and is clas
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to this chapter. For complete classification of title VIII to the Code, see Short Title note set out under [section 5101 of this title](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5101) and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Prior Provisions
 A prior section 810 of Pub. L. 103–206, which repealed section 9 of Pub. L. 98–613 set out in a note under [section 1851 of this title](./chapter-038-fishery-conservation-and-management.md#section-1851), was renumbered section 812 by Pub. L. 104–297.

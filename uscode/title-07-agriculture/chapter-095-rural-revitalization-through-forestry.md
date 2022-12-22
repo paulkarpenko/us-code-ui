@@ -177,7 +177,7 @@ Subsec. (g). Pub. L. 104–127, § 753(b)(1)(B), added subsec. (g).
 ### Statutory Notes
 
 #### References in Text
-The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (d), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, as amended, which is classified principally to chapter 41 (§ 2101 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101&num=0&edition=prelim) and Tables.
+The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (d), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§ 2101 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1999—Subsec. (a). Pub. L. 106–113 substituted “natural resources” for “forest resources” and “National Forest System land resources” for “national forest resources”.

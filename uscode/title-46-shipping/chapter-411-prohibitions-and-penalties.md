@@ -2,7 +2,7 @@
 title: 46
 chapter: '411'
 heading: PROHIBITIONS AND PENALTIES
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -31,6 +31,20 @@ In this chapter, a joint venture or consortium of two or more common carriers op
 
 **(c) Practices in Handling Property.—** A common carrier, marine terminal operator, or ocean transportation intermediary may not fail to establish, observe, and enforce just and reasonable regulations and practices relating to or connected with receiving, handling, storing, or delivering property.
 
+**(d) Retaliation and Other Discriminatory Actions.—** A common carrier, marine terminal operator, or ocean transportation intermediary, acting alone or in conjunction with any other person, directly or indirectly, may not—
+
+(1) retaliate against a shipper, an agent of a shipper, an ocean transportation intermediary, or a motor carrier by refusing, or threatening to refuse, an otherwise-available cargo space accommodation; or
+
+(2) resort to any other unfair or unjustly discriminatory action for—
+
+  (A) the reason that a shipper, an agent of a shipper, an ocean transportation intermediary, or motor carrier has—
+
+    (i) patronized another carrier; or
+
+    (ii) filed a complaint against the common carrier, marine terminal operator, or ocean transportation intermediary; or
+
+  (B) any other reason.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -39,6 +53,12 @@ In this chapter, a joint venture or consortium of two or more common carriers op
 | 41102(a) | 46 App.:1709(a)(1). | Pub. L. 98–237, § 10(a), Mar. 20, 1984, 98 Stat. 77. |
 | 41102(b) | 46 App.:1709(a)(2), (3). |  |
 | 41102(c) | 46 App.:1709(d)(1). | Pub. L. 98–237, § 10(d)(1), Mar. 20, 1984, 98 Stat. 77; Pub. L. 105–258, title I, § 109(c)(2), Oct. 14, 1998, 112 Stat. 1909. |
+
+#### Amendments
+2022—Subsec. (d). Pub. L. 117–146 added subsec. (d).
+
+#### Rulemaking on Demurrage or Detention
+Pub. L. 117–146, § 7(b), June 16, 2022, 136 Stat. 1275, provided that: “(1) In general.—Not later than 45 days after the date of enactment of this Act [June 16, 2022], the Federal Maritime Commission shall initiate a rulemaking further defining prohibited practices by common carriers, marine terminal operators, shippers, and ocean transportation intermediaries under [section 41102(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41102/c&num=0&edition=prelim), United States Code, regarding the assessment of demurrage or detention charges. The Federal Maritime Commission shall issue a final rule defining such practices not later than 1 year after the date of enactment of this Act. “(2) Contents.—The rule under paragraph (1) shall only seek to further clarify reasonable rules and practices related to the assessment of detention and demurrage charges to address the issues identified in the final rule published on May 18, 2020, entitled ‘Interpretive Rule on Demurrage and Detention Under the Shipping Act’ (or successor rule), including a determination of which parties may be appropriately billed for any demurrage, detention, or other similar per container charges.”
 
 
 <a id="section-41103"></a>
@@ -89,7 +109,7 @@ In subsection (c)(2), the words “may not prevent” are substituted for “Nor
 
 <a id="section-41104"></a>
 ## § 41104. Common carriers
-**(a) In General.—** A common carrier, either alone or in conjunction with any other person, directly or indirectly, may not—
+**(a) In General.—** A common carrier, either alone or in conjunction with any other person, directly or indirectly, shall not—
 
 (1) allow a person to obtain transportation for property at less than the rates or charges established by the carrier in its tariff or service contract by means of false billing, false classification, false weighing, false measurement, or any other unjust or unfair device or means;
 
@@ -99,7 +119,7 @@ In subsection (c)(2), the words “may not prevent” are substituted for “Nor
 
   (B) under a tariff or service contract that has been suspended or prohibited by the Federal Maritime Commission under chapter 407 or 423 of this title;
 
-(3) retaliate against a shipper by refusing, or threatening to refuse, cargo space accommodations when available, or resort to other unfair or unjustly discriminatory methods because the shipper has patronized another carrier, or has filed a complaint, or for any other reason;
+(3) unreasonably refuse cargo space accommodations when available, or resort to other unfair or unjustly discriminatory methods;
 
 (4) for service pursuant to a tariff, engage in any unfair or unjustly discriminatory practice in the matter of—
 
@@ -113,7 +133,7 @@ In subsection (c)(2), the words “may not prevent” are substituted for “Nor
 
   (E) adjustment and settlement of claims;
 
-(5) for service pursuant to a service contract, engage in any unfair or unjustly discriminatory practice in the matter of rates or charges with respect to any port;
+(5) for service pursuant to a service contract, engage in any unfair or unjustly discriminatory practice against any commodity group or type of shipment or in the matter of rates or charges with respect to any port;
 
 (6) use a vessel in a particular trade for the purpose of excluding, preventing, or reducing competition by driving another ocean common carrier out of that trade;
 
@@ -123,17 +143,63 @@ In subsection (c)(2), the words “may not prevent” are substituted for “Nor
 
 (9) for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage with respect to any port;
 
-(10) unreasonably refuse to deal or negotiate;
+(10) unreasonably refuse to deal or negotiate, including with respect to vessel space accommodations provided by an ocean common carrier;
 
 (11) knowingly and willfully accept cargo from or transport cargo for the account of a non-vessel-operating common carrier that does not have a tariff as required by [section 40501 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40501), or an ocean transportation intermediary that does not have a bond, insurance, or other surety as required by [section 40902 of this title](./chapter-409-ocean-transportation-intermediaries.md#section-40902);
 
-(12) knowingly and willfully enter into a service contract with an ocean transportation intermediary that does not have a tariff as required by [section 40501 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40501) and a bond, insurance, or other surety as required by [section 40902 of this title](./chapter-409-ocean-transportation-intermediaries.md#section-40902), or with an affiliate of such an ocean transportation intermediary; or
+(12) knowingly and willfully enter into a service contract with an ocean transportation intermediary that does not have a tariff as required by [section 40501 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40501) and a bond, insurance, or other surety as required by [section 40902 of this title](./chapter-409-ocean-transportation-intermediaries.md#section-40902), or with an affiliate of such an ocean transportation intermediary;
 
-(13) continue to participate simultaneously in a rate discussion agreement and an agreement to share vessels, in the same trade, if the interplay of the authorities exercised by the specified agreements is likely, by a reduction in competition, to produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost.
+(13) continue to participate simultaneously in a rate discussion agreement and an agreement to share vessels, in the same trade, if the interplay of the authorities exercised by the specified agreements is likely, by a reduction in competition, to produce an unreasonable reduction in transportation service or an unreasonable increase in transportation cost;
+
+(14) assess any party for a charge that is inconsistent or does not comply with all applicable provisions and regulations, including subsection (c) of section 41102 or part 545 of title 46, Code of Federal Regulations (or successor regulations);
+
+(15) invoice any party for demurrage or detention charges unless the invoice includes information as described in subsection (d) showing that such charges comply with—
+
+  (A) all provisions of part 545 of title 46, Code of Federal Regulations (or successor regulations); and
+
+  (B) applicable provisions and regulations, including the principles of the final rule published on May 18, 2020, entitled “Interpretive Rule on Demurrage and Detention Under the Shipping Act” (or successor rule); or
+
+(16) for service pursuant to a service contract, give any undue or unreasonable preference or advantage or impose any undue or unreasonable prejudice or disadvantage against any commodity group or type of shipment.
 
 **(b) Rule of Construction.—** Notwithstanding any other provision of law, there is no private right of action to enforce the prohibition under subsection (a)(13).
 
 **(c) Agreement Violation.—** Participants in an agreement found by the Commission to violate subsection (a)(13) shall have 90 days from the date of such Commission finding to withdraw from the agreement as necessary to comply with that subsection.
+
+**(d) Detention and Demurrage Invoice Information.—**
+
+(1) **Inaccurate invoice.—** — If the Commission determines, after an investigation in response to a submission under section 41310, that an invoice under subsection (a)(15) was inaccurate or false, penalties or refunds under section 41107 shall be applied.
+
+(2) **Contents of invoice.—** — An invoice under subsection (a)(15), unless otherwise determined by subsequent Commission rulemaking, shall include accurate information on each of the following, as well as minimum information as determined by the Commission:
+
+  (A) Date that container is made available.
+
+  (B) The port of discharge.
+
+  (C) The container number or numbers.
+
+  (D) For exported shipments, the earliest return date.
+
+  (E) The allowed free time in days.
+
+  (F) The start date of free time.
+
+  (G) The end date of free time.
+
+  (H) The applicable detention or demurrage rule on which the daily rate is based.
+
+  (I) The applicable rate or rates per the applicable rule.
+
+  (J) The total amount due.
+
+  (K) The email, telephone number, or other appropriate contact information for questions or requests for mitigation of fees.
+
+  (L) A statement that the charges are consistent with any of Federal Maritime Commission rules with respect to detention and demurrage.
+
+  (M) A statement that the common carrier’s performance did not cause or contribute to the underlying invoiced charges.
+
+**(e) Safe Harbor.—** If a non-vessel operating common carrier passes through to the relevant shipper an invoice made by the ocean common carrier, and the Commission finds that the non-vessel operating common carrier is not otherwise responsible for the charge, then the ocean common carrier shall be subject to refunds or penalties pursuant to subsection (d)(1).
+
+**(f) Elimination of Charge Obligation.—** Failure to include the information required under subsection (d) on an invoice with any demurrage or detention charge shall eliminate any obligation of the charged party to pay the applicable charge.
 
 ### Statutory Notes
 
@@ -143,6 +209,18 @@ In subsection (c)(2), the words “may not prevent” are substituted for “Nor
 | 41104 | 46 App.:1709(b) (1)–(12). | Pub. L. 98–237, § 10(b)(1)–(12), Mar. 20, 1984, 98 Stat. 77; Pub. L. 101–595, title VII, § 710(c), Nov. 16, 1990, 104 Stat. 2997; Pub. L. 102–251, title II, § 201(b), Mar. 9, 1992, 106 Stat. 60; Pub. L. 105–258, title I, § 109(a), Oct. 14, 1998, 112 Stat. 1909; Pub. L. 105–383, title IV, § 424(b), Nov. 13, 1998, 112 Stat. 3441. |
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–146, § 7(a)(1)(A), substituted “shall not” for “may not” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 117–146, § 7(a)(1)(B), added par. (3) and struck out former par. (3) which read as follows: “retaliate against a shipper by refusing, or threatening to refuse, cargo space accommodations when available, or resort to other unfair or unjustly discriminatory methods because the shipper has patronized another carrier, or has filed a complaint, or for any other reason;”.
+
+Subsec. (a)(5). Pub. L. 117–146, § 7(a)(1)(C), substituted “against any commodity group or type of shipment or in the matter of rates or charges” for “in the matter of rates or charges”.
+
+Subsec. (a)(10). Pub. L. 117–146, § 7(a)(1)(D), inserted “, including with respect to vessel space accommodations provided by an ocean common carrier” after “negotiate”.
+
+Subsec. (a)(14) to (16). Pub. L. 117–146, § 7(a)(1)(E)–(G), added pars. (14) to (16).
+
+Subsecs. (d) to (f). Pub. L. 117–146, § 7(a)(2), added subsecs. (d) to (f).
+
 2018—Subsec. (a). Pub. L. 115–282, § 708(a)(1), designated existing provisions as subsec. (a) and inserted heading.
 
 Subsec. (a)(11). Pub. L. 115–282, § 708(a)(2)(A), amended par. (11) generally. Prior to amendment, par. (11) read as follows: “knowingly and willfully accept cargo from or transport cargo for the account of an ocean transportation intermediary that does not have a tariff as required by [section 40501 of this title](./chapter-405-tariffs-service-contracts-refunds-and-waivers.md#section-40501) and a bond, insurance, or other surety as required by [section 40902 of this title](./chapter-409-ocean-transportation-intermediaries.md#section-40902); or”.
@@ -153,6 +231,9 @@ Subsecs. (b), (c). Pub. L. 115–282, § 708(a)(3), added subsecs. (b) and (c).
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–282, title VII, § 708(b), Dec. 4, 2018, 132 Stat. 4296, provided that: “[Section 41104(a)(13) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a/13&num=0&edition=prelim), United States Code, as amended, shall apply to any agreement filed or with an effective date before, on, or after the date of enactment of this Act [Dec. 4, 2018].”
+
+#### Regulations
+Pub. L. 117–146, § 7(c), (d), June 16, 2022, 136 Stat. 1276, provided that: “(c) Rulemaking on Unfair or Unjustly Discriminatory Methods.—Not later than 60 days after the date of enactment of this Act [June 16, 2022], the Federal Maritime Commission shall initiate a rulemaking defining unfair or unjustly discriminatory methods under [section 41104(a)(3) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a/3&num=0&edition=prelim), United States Code, as amended by this section. The Federal Maritime Commission shall issue a final rule not later than 1 year after the date of enactment of this Act. “(d) Rulemaking on Unreasonable Refusal to Deal or Negotiate With Respect to Vessel Space Accommodations.—Not later than 30 days after the date of enactment of this Act, the Federal Maritime Commission, in consultation with the Commandant of the United States Coast Guard, shall initiate a rulemaking defining unreasonable refusal to deal or negotiate with respect to vessel space under [section 41104(a)(10) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a/10&num=0&edition=prelim), as amended by this section. The Federal Maritime Commission shall issue a final rule not later than 6 months after the date of enactment of this Act.”
 
 
 <a id="section-41105"></a>
@@ -232,10 +313,10 @@ A marine terminal operator may not—
 
 
 <a id="section-41107"></a>
-## § 41107. Monetary penalties
-**(a) In General.—** A person that violates this part or a regulation or order of the Federal Maritime Commission issued under this part is liable to the United States Government for a civil penalty. Unless otherwise provided in this part, the amount of the penalty may not exceed $5,000 for each violation or, if the violation was willfully and knowingly committed, $25,000 for each violation. Each day of a continuing violation is a separate violation.
+## § 41107. Monetary penalties or refunds
+**(a) In General.—** A person that violates this part or a regulation or order of the Federal Maritime Commission issued under this part is liable to the United States Government for a civil penalty or, in addition to or in lieu of a civil penalty, is liable for the refund of a charge. Unless otherwise provided in this part, the amount of the penalty may not exceed $5,000 for each violation or, if the violation was willfully and knowingly committed, $25,000 for each violation. Each day of a continuing violation is a separate violation.
 
-**(b) Lien on Carrier’s Vessels.—** The amount of a civil penalty imposed on a common carrier under this section constitutes a lien on the vessels operated by the carrier. Any such vessel is subject to an action in rem to enforce the lien in the district court of the United States for the district in which it is found.
+**(b) Lien on Carrier’s Vessels.—** The amount of a civil penalty or, in addition to or in lieu of a civil penalty, the refund of a charge, imposed on a common carrier under this section constitutes a lien on the vessels operated by the carrier. Any such vessel is subject to an action in rem to enforce the lien in the district court of the United States for the district in which it is found.
 
 ### Statutory Notes
 
@@ -246,10 +327,17 @@ A marine terminal operator may not—
 
 In subsection (b), the words “is subject to an action in rem to enforce the lien” are substituted for “may be libeled therefore” to modernize the language.
 
+#### Amendments
+2022—Pub. L. 117–146, § 8(a)(1)(A), inserted “or refunds” after “penalties” in section catchline.
+
+Subsec. (a). Pub. L. 117–146, § 8(a)(1)(B), inserted “or, in addition to or in lieu of a civil penalty, is liable for the refund of a charge” after “civil penalty”.
+
+Subsec. (b). Pub. L. 117–146, § 8(a)(1)(C), inserted “or, in addition to or in lieu of a civil penalty, the refund of a charge,” after “civil penalty”.
+
 
 <a id="section-41108"></a>
 ## § 41108. Additional penalties
-**(a) Suspension of Tariffs.—** For a violation of section 41104(1), (2), or (7) 11 See References in Text note below. of this title, the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier’s right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
+**(a) Suspension of Tariffs.—** For a violation of paragraph (1), (2), or (7) of [section 41104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a&num=0&edition=prelim), the Federal Maritime Commission may suspend any or all tariffs of the common carrier, or that common carrier’s right to use any or all tariffs of conferences of which it is a member, for a period not to exceed 12 months.
 
 **(b) Operating Under Suspended Tariff.—** A common carrier that accepts or handles cargo for carriage under a tariff that has been suspended, or after its right to use that tariff has been suspended, is liable to the United States Government for a civil penalty of not more than $50,000 for each shipment.
 
@@ -281,25 +369,59 @@ In subsection (b), the words “is subject to an action in rem to enforce the li
 
 In subsection (c)(1)(B), the words “Secretary of Homeland Security” are substituted for “Secretary of the Treasury” because the functions of the Secretary of the Treasury relating to the Customs Service were transferred to the Secretary of Homeland Security by section 403(1) of the Homeland Security Act of 2002 (Pub. L. 107–296, 116 Stat. 2178).
 
-#### References in Text
-Pars. (1), (2), and (7) of [section 41104 of this title](./chapter-411-prohibitions-and-penalties.md#section-41104), referred to in subsec. (a), were redesignated as pars. (1), (2), and (7), respectively, of [section 41104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a&num=0&edition=prelim) by Pub. L. 115–282, title VII, § 708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–146 substituted “paragraph (1), (2), or (7) of section 41104(a)” for “section 41104(1), (2), or (7)”.
 
 
 <a id="section-41109"></a>
 ## § 41109. Assessment of penalties
-**(a) General Authority.—** Until a matter is referred to the Attorney General, the Federal Maritime Commission may, after notice and opportunity for a hearing, assess a civil penalty provided for in this part. The Commission may compromise, modify, or remit, with or without conditions, a civil penalty.
+**(a) General Authority.—** Until a matter is referred to the Attorney General, the Federal Maritime Commission may—
 
-**(b) Factors in Determining Amount.—** In determining the amount of a civil penalty, the Commission shall take into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, and other matters justice may require.
+(1) after notice and opportunity for a hearing, in accordance with this part—
 
-**(c) Exception.—** A civil penalty may not be imposed for conspiracy to violate section 41102(a) or 41104(1) or (2) 11 See References in Text note below. of this title or to defraud the Commission by concealing such a violation.
+  (A) assess a civil penalty; or
+
+  (B) in addition to, or in lieu of, assessing a civil penalty under subparagraph (A), order a refund of money (including additional amounts in accordance with section 41305(c)), subject to subsection (b)(2); and
+
+(2) compromise, modify, or remit, with or without conditions, a civil penalty or refund imposed under paragraph (1).
+
+**(b) Determination of Amount.—**
+
+(1) **Factors for consideration.—** — In determining the amount of a civil penalty assessed or refund of money ordered pursuant to subsection (a), the Federal Maritime Commission shall take into consideration—
+
+  (A) the nature, circumstances, extent, and gravity of the violation committed;
+
+  (B) with respect to the violator—
+
+    (i) the degree of culpability;
+
+    (ii) any history of prior offenses;
+
+    (iii) the ability to pay; and
+
+    (iv) such other matters as justice may require; and
+
+  (C) the amount of any refund of money ordered pursuant to subsection (a)(1)(B).
+
+(2) **Commensurate reduction in civil penalty.—**
+
+  (A) *In general.—* — In any case in which the Federal Maritime Commission orders a refund of money pursuant to subsection (a)(1)(B) in addition to assessing a civil penalty pursuant to subsection (a)(1)(A), the amount of the civil penalty assessed shall be decreased by any additional amounts included in the refund of money in excess of the actual injury (as defined in section 41305(a)).
+
+  (B) *Treatment of refunds.—* — A refund of money ordered pursuant to subsection (a)(1)(B) shall be—
+
+    (i) considered to be compensation paid to the applicable claimant; and
+
+    (ii) deducted from the total amount of damages awarded to that claimant in a civil action against the violator relating to the applicable violation.
+
+**(c) Exception.—** A civil penalty or refund of money under subparagraph (A) or (B), respectively, of subsection (a)(1) may not be imposed for conspiracy to violate subsection (a) or (d) of section 41102 or paragraph (1) or (2) of section 41104(a) or to defraud the Commission by concealing such a violation.
 
 **(d) Prohibited Basis of Penalty.—** The Commission or a court may not order a person to pay the difference between the amount billed and agreed upon in writing with a common carrier or its agent and the amount set forth in a tariff or service contract by that common carrier for the transportation service provided.
 
-**(e) Time Limit.—** A proceeding to assess a civil penalty under this section must be commenced within 5 years after the date of the violation.
+**(e) Time Limit.—** A proceeding to assess a civil penalty or order a refund of money under this section must be commenced within 5 years after the date of the violation.
 
-**(f) Review of Civil Penalty.—** A person against whom a civil penalty is assessed under this section may obtain review under chapter 158 of title 28.
+**(f) Review of Civil Penalty.—** A person against whom a civil penalty is assessed, or that is ordered to refund money, under this section may obtain review under chapter 158 of title 28.
 
-**(g) Civil Actions To Collect.—** If a person does not pay an assessment of a civil penalty after it has become final or after the appropriate court has entered final judgment in favor of the Commission, the Attorney General at the request of the Commission may seek to collect the amount assessed in an appropriate district court of the United States. The court shall enforce the order of the Commission unless it finds that the order was not regularly made and duly issued.
+**(g) Civil Actions To Collect.—** If a person does not pay an assessment of a civil penalty or a refund required under this section after it has become final or after the appropriate court has entered final judgment in favor of the Commission, the Attorney General at the request of the Commission may seek to collect the amount assessed in an appropriate district court of the United States. The court shall enforce the order of the Commission unless it finds that the order was not regularly made and duly issued.
 
 ### Statutory Notes
 
@@ -314,5 +436,26 @@ Pars. (1), (2), and (7) of [section 41104 of this title](./chapter-411-prohibiti
 | 41109(f) | 46 App.:1712(d). |  |
 | 41109(g) | 46 App.:1712(e). |  |
 
-#### References in Text
-Pars. (1) and (2) of [section 41104 of this title](./chapter-411-prohibitions-and-penalties.md#section-41104), referred to in subsec. (c), were redesignated as pars. (1) and (2), respectively, of [section 41104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section41104/a&num=0&edition=prelim) by Pub. L. 115–282, title VII, § 708(a)(1), Dec. 4, 2018, 132 Stat. 4295.
+#### Amendments
+2022—Subsecs. (a), (b). Pub. L. 117–146, § 8(a)(2)(A), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to general authority to assess a civil penalty and factors in determining the amount of a civil penalty.
+
+Subsec. (c). Pub. L. 117–146, § 15(b), substituted “subsection (a) or (d) of section 41102 or paragraph (1) or (2) of section 41104(a)” for “section 41102(a) or 41104(1) or (2) of this title”.
+
+Pub. L. 117–146, § 8(a)(2)(B), substituted “or refund of money under subparagraph (A) or (B), respectively, of subsection (a)(1) may not be imposed” for “may not be imposed”.
+
+Subsec. (e). Pub. L. 117–146, § 8(a)(2)(C), inserted “or order a refund of money” after “penalty”.
+
+Subsec. (f). Pub. L. 117–146, § 8(a)(2)(D), inserted “, or that is ordered to refund money,” after “assessed”.
+
+Subsec. (g). Pub. L. 117–146, § 8(a)(2)(E), inserted “or a refund required under this section” after “penalty”.
+
+
+<a id="section-41110"></a>
+## § 41110. Data collection
+
+The Federal Maritime Commission shall publish on its website a calendar quarterly report that describes the total import and export tonnage and the total loaded and empty 20-foot equivalent units per vessel (making port in the United States, including any territory or possession of the United States) operated by each ocean common carrier covered under this chapter. Ocean common carriers under this chapter shall provide to the Commission all necessary information, as determined by the Commission, for completion of this report.
+
+### Statutory Notes
+
+#### Rule of Construction
+Pub. L. 117–146, § 9(b), June 16, 2022, 136 Stat. 1277, provided that: “Nothing in this section [enacting this section], and the amendment made by this section, shall be construed to compel the public disclosure of any confidential or proprietary data, in accordance with [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code.”

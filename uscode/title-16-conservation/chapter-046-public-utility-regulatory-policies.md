@@ -37,7 +37,7 @@ the information gathered pursuant to this section and make such information avai
 ### Statutory Notes
 
 #### References in Text
-The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (d), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section791&num=0&edition=prelim) and Tables.
+The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (d), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section791&num=0&edition=prelim) and Tables.
 
 
 <a id="section-2602"></a>
@@ -79,7 +79,7 @@ The remaining amounts expended by the institute may not be provided from Federal
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(3), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
+This Act, referred to in subsec. (a)(3), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
 
 #### Codification
 This section was not enacted as part of title I of Pub. L. 95–617 which comprises this chapter.
@@ -105,7 +105,7 @@ The Congress finds that the protection of the public health, safety, and welfare
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in par. (6), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. Title VI of this Act enacted sections 824a–4 and 2645 of this title, [section 918c of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section918c&num=0&edition=prelim), Agriculture, and sections 717x to 717z of Title 15, Commerce and Trade, amended [section 717f of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717f&num=0&edition=prelim) and sections 1311, 1312, and 1314 to 1316 of Title 30, Mineral Lands and Mining, and enacted provisions set out as a note under [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621). For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in par. (6), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the Public Utility Regulatory Policies Act of 1978. Title VI of this Act enacted sections 824a–4 and 2645 of this title, [section 918c of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section918c&num=0&edition=prelim), Agriculture, and sections 717x to 717z of Title 15, Commerce and Trade, amended [section 717f of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717f&num=0&edition=prelim) and sections 1311, 1312, and 1314 to 1316 of Title 30, Mineral Lands and Mining, and enacted provisions set out as a note under [section 2621 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2621). For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Codification
 This section was not enacted as part of title I of Pub. L. 95–617 which comprises this chapter.
@@ -170,13 +170,13 @@ As used in this Act, except as otherwise specifically provided—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
+This Act, referred to in text, is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
 
-The Sherman Antitrust Act ([15 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and following), referred to in par. (1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which enacted sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
+The Sherman Antitrust Act ([15 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and following), referred to in par. (1), is act July 2, 1890, ch. 647, 26 Stat. 209, which enacted sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
-The Clayton Act ([15 U.S.C. 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and following), referred to in par. (1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
+The Clayton Act ([15 U.S.C. 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and following), referred to in par. (1), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, Commerce and Trade, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
 
-The Federal Trade Commission Act ([15 U.S.C. 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section14&num=0&edition=prelim) and following), referred to in par. (1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act ([15 U.S.C. 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section14&num=0&edition=prelim) and following), referred to in par. (1), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 The Wilson Tariff Act ([15 U.S.C. 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8&num=0&edition=prelim) and 9), referred to in par. (1), is sections 73 to 77 of act Aug. 27, 1894, ch. 349, 28 Stat. 570. Sections 73 to 76 enacted sections 8 to 11 of Title 15, Commerce and Trade. Section 77 of said Act was not classified to the Code. For complete classification of this Act to the Code, see Short Title note under [section 8 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8&num=0&edition=prelim) and Tables.
 
@@ -201,11 +201,11 @@ Nothing in this Act or in any amendment made by this Act affects—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
+This Act, referred to in text, is act Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, known as the Public Utility Regulatory Policies Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
 
-The Federal Power Act, referred to in par. (2), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in par. (2), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
-The Natural Gas Act, referred to in par. (2), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
+The Natural Gas Act, referred to in par. (2), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 #### Codification
 This section was not enacted as part of title I of Pub. L. 95–617 which comprises this chapter.
@@ -480,6 +480,9 @@ Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19
 #### State Authorities; Construction
 Nothing in amendment by section 712 of Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under [section 796 of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-796).
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Report to President and Congress on Encouragement of Integrated Resource Planning and Investments in Conservation and Energy Efficiency by Electric Utilities
 Pub. L. 102–486, title I, § 111(e), Oct. 24, 1992, 106 Stat. 2796, provided that: “Not later than 2 years after the date of the enactment of this Act [Oct. 24, 1992], the Secretary shall transmit a report to the President and to the Congress containing—“(1) a survey of all State laws, regulations, practices, and policies under which State regulatory authorities implement the provisions of paragraphs (7), (8), and (9) of section 111(d) of the Public Utility Regulatory Policies Act of 1978 [[16 U.S.C. 2621(d)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d/7&num=0&edition=prelim)–(9)]; “(2) an evaluation by the Secretary of whether and to what extent, integrated resource planning is likely to result in—“(A) higher or lower electricity costs to an electric utility’s ultimate consumers or to classes or groups of such consumers; “(B) enhanced or reduced reliability of electric service; and “(C) increased or decreased dependence on particular energy resources; and “(3) a survey of practices and policies under which electric cooperatives prepare integrated resource plans, submit such plans to the Rural Electrification Administration and the extent to which such integrated resource planning is reflected in rates charged to customers. The report shall include an analysis prepared in conjunction with the Federal Trade Commission, of the competitive impact of implementation of energy conservation, energy efficiency, and other demand side management programs by utilities on small businesses engaged in the design, sale, supply, installation, or servicing of similar energy conservation, energy efficiency, or other demand side management measures and whether any unfair, deceptive, or predatory acts exist, or are likely to exist, from implementation of such programs.”
 
@@ -642,6 +645,9 @@ Pub. L. 117–58, div. D, title I, § 40104(a)(2)(B)(ii), Nov. 15, 2021, 135 Sta
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 
 <a id="section-2626"></a>
 ## § 2626. Adoption of certain standards
@@ -784,7 +790,7 @@ Such procedures shall take into account the need to include reasonable provision
 ### Statutory Notes
 
 #### References in Text
-The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§ 8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 8229 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8229&num=0&edition=prelim) which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8201&num=0&edition=prelim) and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§ 8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 8229 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8229&num=0&edition=prelim) which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2005—Subsec. (b). Pub. L. 109–58, § 1252(b)(1), (2), inserted “and the standard for time-based metering and communications established by [section 2621(d)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d/14&num=0&edition=prelim)” after “[section 2621(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d/3&num=0&edition=prelim)” and substituted “metering and communications costs” for “metering costs”.
@@ -927,6 +933,9 @@ Pub. L. 117–58, § 40104(a)(2)(C)(ii), substituted “this section” for “t
 Pub. L. 109–58, § 1252(i)(2), inserted at end “In the case of the standard established by paragraph (14) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
 
 Pub. L. 109–58, § 1251(b)(3)(B), inserted at end “In the case of each standard established by paragraphs (11) through (13) of [section 2621(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d&num=0&edition=prelim), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-2644"></a>

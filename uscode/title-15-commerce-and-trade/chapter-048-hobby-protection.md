@@ -21,7 +21,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Amendments
 2014—Subsec. (b). Pub. L. 113–288, § 2(1)(A), inserted “, or the sale in commerce” after “distribution in commerce”.
@@ -67,7 +67,7 @@ Section applicable only to imitation political items and imitation numismatic it
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in text, is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 #### Effective Date
 Section applicable only to imitation political items and imitation numismatic items manufactured after Nov. 29, 1973, see section 8 of Pub. L. 93–167, set out as a note under [section 2101 of this title](./chapter-048-hobby-protection.md#section-2101).
@@ -121,7 +121,7 @@ For purposes of this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in par. (5), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in par. (5), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 The Trademark Act of 1946, referred to in par. (9), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of this title](./chapter-022-trademarks.md#section-1051) and Tables.
 

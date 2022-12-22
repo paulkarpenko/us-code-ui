@@ -494,7 +494,7 @@ For purposes of the International Organizations Immunities Act ([22 U.S.C. 288](
 ### Statutory Notes
 
 #### References in Text
-The International Organizations Immunities Act, referred to in text, is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
+The International Organizations Immunities Act, referred to in text, is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
 
 #### Codification
 Section was enacted as part of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, also known as the FREEDOM Support Act, and not as part of the International Organizations Immunities Act which comprises this subchapter.
@@ -511,7 +511,7 @@ Section was enacted as part of the Freedom for Russia and Emerging Eurasian Demo
 ### Statutory Notes
 
 #### References in Text
-The International Organizations Immunities Act, referred to in subsec. (a), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
+The International Organizations Immunities Act, referred to in subsec. (a), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
 
 #### Codification
 Section was not enacted as part of the International Organizations Immunities Act which comprises this subchapter.
@@ -609,7 +609,9 @@ The President is hereby authorized to accept membership for the United States in
 ### Statutory Notes
 
 #### Participation of Taiwan in the World Health Organization
-Pub. L. 108–235, § 1, June 14, 2004, 118 Stat. 656, provided that the Secretary of State is authorized to initiate a plan to endorse and obtain observer status for Taiwan at the annual week-long summit of the World Health Assembly each year in Geneva, Switzerland, to instruct the United States delegation to the World Health Assembly to implement that plan, to introduce a resolution in support of observer status for Taiwan at the summit of the World Health Assembly, and to submit, not later than 30 days after June 14, 2004, and by Apr. 1 of each year thereafter, a report to Congress concerning observer status for Taiwan at the Summit of the World Health Assembly.
+Pub. L. 108–235, § 1, June 14, 2004, 118 Stat. 656, as amended by Pub. L. 117–124, § 1(b)(1), May 13, 2022, 136 Stat. 1203, provided that: “(a) Findings.—Congress makes the following findings:“(1) Good health is important to every citizen of the world and access to the highest standards of health information and services is necessary to improve the public health. “(2) Direct and unobstructed participation in international health cooperation forums and programs is beneficial for all parts of the world, especially today with the great potential for the cross-border spread of various infectious diseases such as the human immunodeficiency virus (HIV), tuberculosis, and malaria. “(3) Taiwan’s population of 23,500,000 people is greater than that of ¾ of the member states already in the World Health Organization (WHO). “(4) Taiwan’s achievements in the field of health are substantial, including—“(A) attaining—“(i) 1 of the highest life expectancy levels in Asia; and “(ii) maternal and infant mortality rates comparable to those of western countries; “(B) eradicating such infectious diseases as cholera, smallpox, the plague, and polio; and “(C) providing children with hepatitis B vaccinations. “(5) The United States Centers for Disease Control and Prevention and its counterpart agencies in Taiwan have enjoyed close collaboration on a wide range of public health issues. “(6) In recent years Taiwan has expressed a willingness to assist financially and technically in international aid and health activities supported by the WHO. “(7) On January 14, 2001, an earthquake, registering between 7.6 and 7.9 on the Richter scale, struck El Salvador. In response, the Taiwanese Government sent 2 rescue teams, consisting of 90 individuals specializing in firefighting, medicine, and civil engineering. The Taiwanese Ministry of Foreign Affairs also donated $200,000 in relief aid to the Salvadoran Government. “(8) The World Health Assembly has allowed observers to participate in the activities of the organization, including the Palestine Liberation Organization in 1974, the Order of Malta, and the Holy See in the early 1950’s. “(9) The United States, in the 1994 Taiwan Policy Review, declared its intention to support Taiwan’s participation in appropriate international organizations. “(10) Public Law 106–137 [113 Stat. 1691] required the Secretary of State to submit a report to Congress on efforts by the executive branch to support Taiwan’s participation in international organizations, in particular the WHO. “(11) In light of all benefits that Taiwan’s participation in the WHO can bring to the state of health not only in Taiwan, but also regionally and globally, Taiwan and its 23,500,000 people should have appropriate and meaningful participation in the WHO. “(12) On May 11, 2001, President Bush stated in a letter to Senator Murkowski that the United States ‘should find opportunities for Taiwan’s voice to be heard in international organizations in order to make a contribution, even if membership is not possible’, further stating that the administration ‘has focused on finding concrete ways for Taiwan to benefit and contribute to the WHO’. “(13) In his speech made in the World Medical Association on May 14, 2002, Secretary of Health and Human Services Tommy Thompson announced ‘America’s work for a healthy world cuts across political lines. That is why my government supports Taiwan’s efforts to gain observership status at the World Health Assembly. We know this is a controversial issue, but we do not shrink from taking a public stance on it. The people of Taiwan deserve the same level of public health as citizens of every nation on earth, and we support them in their efforts to achieve it’. “(14) The Government of the Republic of China on Taiwan, in response to an appeal from the United Nations and the United States for resources to control the spread of HIV/AIDS, donated $1,000,000 to the Global Fund to Fight AIDS, Tuberculosis, and Malaria in December 2002. “(15) In 2003, the outbreak of Severe Acute Respiratory Syndrome (SARS) caused 84 deaths in Taiwan. “(16) Avian influenza, commonly known as bird flu, has reemerged in Asia, with strains of the influenza reported by the People’s Republic of China, Cambodia, Indonesia, Japan, Pakistan, South Korea, Taiwan, Thailand, Vietnam, and Laos. “(17) The SARS and avian influenza outbreaks illustrate that disease knows no boundaries and emphasize the importance of allowing all people access to the WHO. “(18) As the pace of globalization quickens and the spread of infectious disease accelerates, it is crucial that all people, including the people of Taiwan, be given the opportunity to participate in international health organizations such as the WHO. “(19) The Secretary of Health and Human Services acknowledged during the 2003 World Health Assembly meeting that ‘[t]he need for effective public health exists among all peoples’. “(b) Plan.—The Secretary of State is authorized to—“(1) initiate a United States plan to endorse and obtain observer status for Taiwan at the annual week-long summit of the World Health Assembly each year in Geneva, Switzerland; “(2) instruct the United States delegation to the World Health Assembly in Geneva to implement that plan; and “(3) introduce a resolution in support of observer status for Taiwan at the summit of the World Health Assembly. “(c) Report Concerning Observer Status for Taiwan at the Summit of the World Health Assembly.—Not later than 30 days after the date of the enactment of this Act [June 14, 2004], and not later than April 1 of each year thereafter, the Secretary of State shall submit a report to the Congress, in unclassified form, describing the United States plan to endorse and obtain observer status for Taiwan at the annual week-long summit of the World Health Assembly (WHA) held by the World Health Organization (WHO) in May of each year in Geneva, Switzerland. Each report shall include the following:“(1) An account of the efforts the Secretary of State has made, following the last meeting of the World Health Assembly, to encourage WHO member states to promote Taiwan’s bid to obtain observer status. “(2) The steps the Secretary of State will take to endorse and obtain observer status at the next annual meeting of the World Health Assembly in Geneva, Switzerland. “(3) An account of the changes and improvements the Secretary of State has made to the United States plan to endorse and obtain observer status for Taiwan at the World Health Assembly, following any annual meetings of the World Health Assembly at which Taiwan did not obtain observer status.”
+
+[Pub. L. 117–124, § 1(b)(2), May 13, 2022, 136 Stat. 1203, provided that: “The amendment made by paragraph (1) [amending section 1 of Pub. L. 108–235, set out above] shall take effect and apply beginning with the first report required under subsection (c) of section 1 of the Act entitled, ‘To address the participation of Taiwan in the World Health Organization’ (Public Law 108–235; [22 U.S.C. 290](./chapter-007-international-bureaus-congresses-etc.md#section-290) note) that is submitted after the date of the enactment of this Act [May 13, 2022].”
 
 #### International Health Administration
 Ex. Ord. No. 10399, Sept. 29, 1952, 17 F.R. 8648, designated Surgeon General to perform certain duties under International Sanitary Regulations of World Health Organization.
@@ -883,7 +885,7 @@ Pub. L. 94–302, title II, § 201, May 31, 1976, 90 Stat. 593, provided that: �
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in subsec. (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Amendments
 2012—Subsec. (a). Pub. L. 112–166 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint a Governor, and an Alternate Governor, of the Fund.”
@@ -1021,7 +1023,7 @@ Functions of President under subsec. (c) delegated to Secretary of the Treasury,
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Amendments
 2012—Pub. L. 112–166 added subsec. (a) and designated existing provisions as subsec. (b).
@@ -1041,7 +1043,7 @@ The provisions of section 4 of the Bretton Woods Agreements Act ([22 U.S.C. 286b
 ### Statutory Notes
 
 #### References in Text
-The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, as amended, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
+The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
 
 #### Amendments
 1989—Pub. L. 101–240 struck out at end “Reports with respect to the Bank under paragraphs (5) and (6) of section 4 of that Act shall be included in the first and subsequent reports made thereunder after the United States accepts membership in the Bank.”
@@ -1238,9 +1240,9 @@ The Congress finds that—
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in par. (3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Title IX of chapter 2 of part I of the Foreign Assistance Act of 1961 is classified generally to subpart IX of part II of subchapter I (§ 2218) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title IX of chapter 2 of part I of the Foreign Assistance Act of 1961 is classified generally to subpart IX of part II of subchapter I (§ 2218) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-The Foreign Assistance Act of 1969, referred to in par. (4), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. The Inter-American Foundation was established by section 401 of that Act, which is classified to [section 290f of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290f). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1969, referred to in par. (4), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805. The Inter-American Foundation was established by section 401 of that Act, which is classified to [section 290f of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290f). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Codification
 Amendment by Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 586(h)(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–119, directing the repeal of pars. (4) and (5) of this section did not become effective pursuant to section 1000(a)(2) [title V, § 586] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note under [section 290f of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290f).
@@ -1637,7 +1639,7 @@ Consistent with the purposes of [section 290k–2 of this title](./chapter-007-i
 ### Statutory Notes
 
 #### References in Text
-The Trade Act of 1974, referred to in par. (1)(A), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
+The Trade Act of 1974, referred to in par. (1)(A), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Trade Act of 1974 is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section is based on section 406 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
@@ -1679,7 +1681,7 @@ The provisions of [section 286b of this title](./chapter-007-international-burea
 ### Statutory Notes
 
 #### References in Text
-The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, as amended, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
+The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
 
 #### Codification
 Section is based on section 408 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
@@ -1809,7 +1811,7 @@ Another section 562(c)(3) of Pub. L. 101–513 is set out as a note under [secti
 ### Statutory Notes
 
 #### References in Text
-The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, as amended, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
+The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
 
 #### Codification
 Another section 562(c)(4) of Pub. L. 101–513 is set out as a note under [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293).
@@ -2069,7 +2071,7 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(1), (4)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(1), (4)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2020—Pub. L. 116–260, § 601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
@@ -2351,7 +2353,7 @@ Pub. L. 104–208, div. A, title I, § 101(c) [title VII, § 701], Sept. 30, 199
 ### Statutory Notes
 
 #### References in Text
-The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, as amended, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
+The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
 
 
 <a id="section-276aa"></a>
@@ -2391,9 +2393,11 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 ### Statutory Notes
 
 #### Similar Provisions
-Pub. L. 116–260, div. K, title VII, § 7025(c), Dec. 27, 2020, 134 Stat. 1736, provided that: “The Secretary of the Treasury shall instruct the United States executive directors of the international financial institutions to use the voice and vote of the United States to oppose any assistance by such institutions, using funds appropriated or otherwise made available by this Act [titles I to VII of div. K of Pub. L. 116–260, 134 Stat. 1691, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
+Pub. L. 117–103, div. K, title VII, § 7025(c), Mar. 15, 2022, 136 Stat. 609, provided that: “The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any assistance by such institution, using funds appropriated or otherwise made available by this Act [div. K of Pub. L. 117–103, 136 Stat. 564, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. K, title VII, § 7025(c), Dec. 27, 2020, 134 Stat. 1736.
 
 Pub. L. 116–94, div. G, title VII, § 7025(c), Dec. 20, 2019, 133 Stat. 2859.
 
@@ -2471,9 +2475,11 @@ Pub. L. 96–123, § 101(a) [incorporating Pub. L. 95–481, title VI, § 609], 
 
 Pub. L. 95–481, title VI, § 609, Oct. 18, 1978, 92 Stat. 1601.
 
-Pub. L. 116–260, div. K, title VII, § 7034(q)(3), Dec. 27, 2020, 134 Stat. 1754, provided that: “In this Act [titles I to VII of div. K of Pub. L. 116–260, 134 Stat. 1691, see Tables for classification] ‘international financial institutions’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the International Fund for Agricultural Development, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency.”
+Pub. L. 117–103, div. K, title VII, § 7034(t)(3), Mar. 15, 2022, 136 Stat. 626, provided that: “In this Act [div. K of Pub. L. 117–103, 136 Stat. 564, see Tables for classification] ‘international financial institutions’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the International Fund for Agricultural Development, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. K, title VII, § 7034(q)(3), Dec. 27, 2020, 134 Stat. 1754.
 
 Pub. L. 116–94, div. G, title VII, § 7034(r)(3), Dec. 20, 2019, 133 Stat. 2875.
 
@@ -2779,7 +2785,7 @@ Provisions similar to this section were contained in act July 10, 1952, ch. 651,
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(5), is Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, known as the International Financial Institutions Act, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–13, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
+This Act, referred to in subsec. (a)(5), is Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, known as the International Financial Institutions Act, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–15, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
 
 #### Effective Date
 Section effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as a note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
@@ -4416,7 +4422,7 @@ For purposes of this title and titles XIV and XV—
 ### Statutory Notes
 
 #### References in Text
-This title and titles XIV and XV, referred to in text, are titles XVI, XIV, and XV, respectively, of Pub. L. 95–118. Title XIV is classified to sections 262n to 262n–3 of this title, title XV is classified to sections 262o to 262o–4 of this title, and title XVI is classified to sections 262p to 262p–4q and 262p–5 to 262p–13 of this title. For complete classification of these titles to the Code, see Tables.
+This title and titles XIV and XV, referred to in text, are titles XVI, XIV, and XV, respectively, of Pub. L. 95–118. Title XIV is classified to sections 262n to 262n–3 of this title, title XV is classified to sections 262o to 262o–4 of this title, and title XVI is classified to sections 262p to 262p–4q and 262p–5 to 262p–15 of this title. For complete classification of these titles to the Code, see Tables.
 
 #### Codification
 Section 1622, formerly § 1606, of Pub. L. 95–118 is based on section 701 of title VII of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202. Renumbering of section 1606 of Pub. L. 95–118 as section 1612 was based on section 6 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
@@ -4814,6 +4820,9 @@ For termination of section by section 6103(c) of Pub. L. 117–81, see Terminati
 #### Termination Date
 Pub. L. 117–81, div. F, title LXI, § 6103(c), Dec. 27, 2021, 135 Stat. 2385, provided that: “The amendment made by subsection (a) [enacting this section] shall have no force or effect after the 5-year period that begins with the date of the enactment of this Act [Dec. 27, 2021].”
 
+#### Definitions
+The definitions in [section 262p–5 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262p-5) apply to this section.
+
 
 <a id="section-277h"></a>
 ## § 277h. United States policy on Burma at the International Monetary Fund, the World Bank Group, and the Asian Development Bank
@@ -4836,6 +4845,9 @@ For repeal of section by section 6104(c) of Pub. L. 117–81, see Effective Date
 
 #### Effective Date of Repeal
 Pub. L. 117–81, div. F, title LXI, § 6104(c), Dec. 27, 2021, 135 Stat. 2386, provided that: “Section 1631 of the International Financial Institutions Act [[22 U.S.C. 262p–15](./chapter-007-international-bureaus-congresses-etc.md#section-262p-15)], as added by subsection (b), is repealed on the earlier of— “(1) the date the President of the United States submits to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate a certification that—“(A) the Burmese military has released all political prisoners; “(B) an elected government has been instated following free and fair elections; and “(C) all government institutions involved in the provision of multilateral assistance are fully under civilian control; or “(2) the date that is 10 years after the date of the enactment of this Act [Dec. 27, 2021].”
+
+#### Definitions
+The definitions in [section 262p–5 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262p-5) apply to this section.
 
 
 <a id="section-277i"></a>
@@ -5456,6 +5468,8 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 #### Annual Appropriations
 Annual appropriations to meet the obligations of membership in various international organizations were contained in the following acts:
 
+Pub. L. 117–103, div. K, title I, Mar. 15, 2022, 136 Stat. 568, 569.
+
 Pub. L. 116–260, div. K, title I, Dec. 27, 2020, 134 Stat. 1695, 1696.
 
 Pub. L. 116–94, div. G, title I, Dec. 20, 2019, 133 Stat. 2819, 2821.
@@ -5803,9 +5817,11 @@ By the authority vested in me as President by the Constitution and statutes of t
 1–402. The Committee shall terminate on December 31, 1980, unless this date is extended by further Executive order.
 
 #### Extension of Term of President’s Committee on the International Labor Organization
-Term of President’s Committee on the International Labor Organization extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Committee on the International Labor Organization extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President’s Committee on the International Labor Organization were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -6636,7 +6652,7 @@ On and after June 20, 1956, in addition to the funds available under the appropr
 ### Statutory Notes
 
 #### References in Text
-The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–236 substituted “Tijuana Rivers, or other streams running across or near the boundary, and for taking emergency actions, consistent with the emergency provisions of the Safe Drinking Water Act, to protect against health threatening surface and ground water pollution problems along the United States-Mexico boundary” for “Tijuana Rivers, and for taking emergency actions to protect against health threatening sanitation problems by repairing or replacing existing capital infrastructure along the United States-Mexico Boundary”.
@@ -7189,7 +7205,7 @@ Annual appropriations to meet the obligations of membership in various internati
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2004—Pub. L. 108–425, § 2(1), struck out “Negotiation of” before “New” in section catchline.
@@ -8164,7 +8180,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 
 <a id="section-286ii"></a>
@@ -8530,7 +8546,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 
 <a id="section-286w"></a>
@@ -8793,7 +8809,7 @@ For Congressional direction that the Secretary of the Treasury maintain the valu
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in subsec. (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Amendments
 2012—Subsec. (a). Pub. L. 112–166 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President, by and with the advice and consent of the Senate, shall appoint a Governor of the Bank, an alternate for the Governor, and a Director of the Bank.”
@@ -8945,7 +8961,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 
 <a id="section-288e"></a>
@@ -10092,7 +10108,7 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 ### Statutory Notes
 
 #### References in Text
-The Bretton Woods Agreements Act, referred to in subsec. (a), is act July 31, 1945, ch. 339, 59 Stat. 512, as amended, which is classified principally to this subchapter (§ 286 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
+The Bretton Woods Agreements Act, referred to in subsec. (a), is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to this subchapter (§ 286 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
 
 #### Codification
 Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreement Act, which comprises this subchapter.
@@ -11789,7 +11805,7 @@ The President is authorized to negotiate a special agreement or agreements with 
 #### References in Text
 Article 43 of said Charter and article 42 of said Charter, referred to in text, are articles of the United Nations Charter.
 
-Herein, referred to in text, means act Dec. 20, 1945, ch. 583, 59 Stat. 619, as amended, known as the United Nations Participation Act of 1945, which is classified generally to this subchapter (§ 287 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 287 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287) and Tables.
+Herein, referred to in text, means act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which is classified generally to this subchapter (§ 287 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 287 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287) and Tables.
 
 #### Amendments
 1949—Act Oct. 10, 1949, inserted “, except as authorized in [section 287d–1 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287d-1),” in proviso.

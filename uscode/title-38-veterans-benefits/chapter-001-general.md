@@ -184,12 +184,22 @@ For the purposes of this title—
 
 (36) The term “supplemental claim” means a claim for benefits under laws administered by the Secretary filed by a claimant who had previously filed a claim for the same or similar benefits on the same or similar basis.
 
+(37) The term “toxic exposure” includes the following:
+
+  (A) A toxic exposure risk activity, as defined in [section 1710(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1710/e/4&num=0&edition=prelim).
+
+  (B) An exposure to a substance, chemical, or airborne hazard identified in the list under [section 1119(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1119/b/2&num=0&edition=prelim).
+
+(38) The term “toxic-exposed veteran” means any veteran described in [section 1710(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1710/e/1&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### References in Text
 For definition of Canal Zone, referred to in par. (20), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2022—Pars. (37), (38). Pub. L. 117–168 added pars. (37) and (38).
+
 2021—Par. (2). Pub. L. 116–283, § 926(a)(1), substituted “air, or space service” for “or air service”.
 
 Par. (5). Pub. L. 116–283, § 926(a)(1), substituted “air, or space service” for “or air service” in two places.
@@ -390,6 +400,49 @@ Pub. L. 90–77, title IV, § 405, Aug. 31, 1967, 81 Stat. 191, provided that: �
 
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–209, § 1, Oct. 17, 2022, 136 Stat. 2243, provided that: “This Act [amending [section 1967 of this title](./chapter-019-insurance.md#section-1967) and enacting provisions set out as a note under [section 1967 of this title](./chapter-019-insurance.md#section-1967)] may be cited as the ‘Supporting Families of the Fallen Act’.”
+
+Pub. L. 117–205, § 1, Oct. 17, 2022, 136 Stat. 2232, provided that: “This Act [enacting subchapter II of chapter 63 of this title and amending sections 6301 and 6303 to 6307 of this title] may be cited as the ‘Solid Start Act of 2022’.”
+
+Pub. L. 117–191, § 1, Oct. 10, 2022, 136 Stat. 2207, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2022’.”
+
+Pub. L. 117–178, § 1, Sept. 29, 2022, 136 Stat. 2110, provided that: “This Act [amending sections 4303 and 4312 of this title and [section 5149 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5149&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Civilian Reservist Emergency Workforce Act of 2021’ or the ‘CREW Act’.”
+
+Pub. L. 117–175, § 1, Sept. 16, 2022, 136 Stat. 2107, provided that: “This Act [amending [section 7309A of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7309a)] may be cited as the ‘Patient Advocate Tracker Act’.”
+
+Pub. L. 117–174, § 1, Aug. 26, 2022, 136 Stat. 2104, provided that: “This Act [amending [section 3680A of this title](./chapter-036-administration-of-educational-benefits.md#section-3680a) and enacting provisions set out as a note under [section 3680A of this title](./chapter-036-administration-of-educational-benefits.md#section-3680a)] may be cited as the ‘Ensuring the Best Schools for Veterans Act of 2022’.”
+
+Pub. L. 117–168, § 1(a), Aug. 10, 2022, 136 Stat. 1759, provided that: “This Act [see Tables for classification] may be cited as the ‘Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022’ or the ‘Honoring our PACT Act of 2022’.”
+
+Pub. L. 117–168, title I, § 101, Aug. 10, 2022, 136 Stat. 1761, provided that: “This title [amending this section and [section 1710 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710) and enacting provisions set out as notes under [section 1710 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710)] may be cited as the ‘Conceding Our Veterans’ Exposure Now and Necessitating Training Act of 2022’ or the ‘COVENANT Act of 2022’.”
+
+Pub. L. 117–168, title II, § 201, Aug. 10, 2022, 136 Stat. 1766, provided that: “This title [enacting subchapter VII of chapter 11 and sections 1167 and 1305 of this title, amending sections 1116, 1116B, and 1118 of this title, and enacting provisions set out as notes under sections 1167 and 1305 of this title] may be cited as the ‘Toxic Exposure in the American Military Act of 2022’ or the ‘TEAM Act of 2022’.”
+
+Pub. L. 117–168, title III, § 301, Aug. 10, 2022, 136 Stat. 1777, provided that: “This title [enacting sections 1119 and 1168 of this title] may be cited as the ‘Veterans Burn Pits Exposure Recognition Act of 2022’.”
+
+Pub. L. 117–168, title IV, § 401(a), Aug. 10, 2022, 136 Stat. 1780, provided that: “This section [amending [section 1112 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1112)] may be cited as the ‘Mark Takai Atomic Veterans Healthcare Parity Act of 2022’.”
+
+Pub. L. 117–168, title IV, § 402(a), Aug. 10, 2022, 136 Stat. 1780, provided that: “This section [amending [section 1112 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1112)] may be cited as the ‘Palomares or Thule Veterans Act of 2022’.”
+
+Pub. L. 117–168, title IV, § 403(a), Aug. 10, 2022, 136 Stat. 1780, provided that: “This section [amending sections 1116 and 1710 of this title and enacting provisions set out as a note under [section 1116 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1116)] may be cited as the ‘Veterans Agent Orange Exposure Equity Act of 2022’.”
+
+Pub. L. 117–168, title IV, § 404(a), Aug. 10, 2022, 136 Stat. 1782, provided that: “This section [amending [section 1116 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1116) and enacting provisions set out as a note under [section 1116 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1116)] may be cited as the ‘Fair Care for Vietnam Veterans Act of 2022’.”
+
+Pub. L. 117–168, title IV, § 406(a), Aug. 10, 2022, 136 Stat. 1783, provided that: “This section [enacting [section 1120 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1120), amending [section 1113 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1113), and enacting provisions set out as a note under [section 1120 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1120)] may be cited as the ‘Presumptive Benefits for War Fighters Exposed to Burn Pits and Other Toxins Act of 2022’.”
+
+Pub. L. 117–154, § 1, June 23, 2022, 136 Stat. 1303, provided that: “This Act [amending provisions set out as a note preceding [section 5701 of this title](./chapter-057-records-and-investigations.md#section-5701)] may be cited as the ‘VA Electronic Health Record Transparency Act of 2021’.”
+
+Pub. L. 117–138, § 1, June 7, 2022, 136 Stat. 1256, provided that: “This Act [enacting and amending provisions set out as notes preceding [section 3001 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3001)] may be cited as the ‘Veterans Rapid Retraining Assistance Program Restoration and Recovery Act of 2022’.”
+
+Pub. L. 117–136, § 1, June 7, 2022, 136 Stat. 1251, provided that: “This Act [amending [section 312 of this title](./chapter-003-department-of-veterans-affairs.md#section-312) and enacting provisions set out as a note under [section 312 of this title](./chapter-003-department-of-veterans-affairs.md#section-312)] may be cited as the ‘Strengthening Oversight for Veterans Act of 2021’.”
+
+Pub. L. 117–133, § 1, June 7, 2022, 136 Stat. 1238, provided that: “This Act [amending [section 7322 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7322)] may be cited as the ‘Dr. Kate Hendricks Thomas Supporting Expanded Review for Veterans In Combat Environments Act’ or the ‘Dr. Kate Hendricks Thomas SERVICE Act’.”
+
+Pub. L. 117–103, div. S, title I, § 101, Mar. 15, 2022, 136 Stat. 821, provided that: “This title [amending sections 7404 and 7451 of this title] may be cited as the ‘Department of Veterans Affairs Nurse and Physician Assistant Retention and Income Security Enhancement Act’ or the ‘VA Nurse and Physician Assistant RAISE Act’.”
+
+Pub. L. 117–103, div. CC, § 101, Mar. 15, 2022, 136 Stat. 1109, provided that: “This division [amending sections 2303 and 2408 of this title and enacting provisions set out as a note under [section 2408 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2408)] may be cited as the ‘Burial Equity for Guards and Reserves Act’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 117–76, § 1, Dec. 21, 2021, 135 Stat. 1517, provided that: “This Act [amending sections 516, 3313, 3679, 3680, 3689, 3690, 3696, and 3729 of this title, enacting provisions set out as notes under sections 3679 and 3680 of this title, and amending provisions set out as notes preceding section 3001 and under sections 3031, 3103, 3485, and 3687 of this title] may be cited as the ‘Responsible Education Mitigating Options and Technical Extensions Act’ or the ‘REMOTE Act’.”
@@ -936,6 +989,9 @@ Pub. L. 89–358, § 1, Mar. 3, 1966, 80 Stat. 12, provided that: “This Act [s
 #### Short Title of 1959 Amendment
 Pub. L. 86–211, § 1, Aug. 29, 1959, 73 Stat. 432, provided: “That this Act [see Tables for classification] may be cited as the ‘Veterans’ Pension Act of 1959’.”
 
+#### Construction of 2022 Amendment
+Pub. L. 117–168, title IV, § 407, Aug. 10, 2022, 136 Stat. 1785, provided that: “(a) Generally.—Nothing in this Act [see Short Title of 2022 Amendment note set out above] shall be construed to prevent the Secretary of Veterans Affairs from processing claims for benefits under title 38, United States Code, for a condition or disease for which this Act establishes a presumption of service connection, as a claim for benefits for a condition or disease with direct service connection. “(b) Effective Dates and Applicability.—The Secretary shall not deny a claim for benefits under title 38, United States Code, for a condition or disease for which this Act establishes a presumption of service connection because the claimant filed the claim prior to the effective date or date of applicability for that particular condition or disease.”
+
 #### Construction of 2017 Amendment
 Pub. L. 115–55, § 2(y), Aug. 23, 2017, 131 Stat. 1116, provided that: “Nothing in this section [enacting sections 5104A to 5104C and 7113 of this title, amending this section and sections 5103 to 5104, 5108, 5109, 5109B, 5110, 5111, 5701, 5904, 7103 to 7105A, and 7111 of this title, repealing sections 7106 and 7109 of this title, and enacting provisions set out as notes under this section and [section 5108 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5108)] or any of the amendments made by this section shall be construed to limit the ability of a claimant to request a revision of a decision under section 5109A or 7111 of title 38, United States Code.”
 
@@ -943,6 +999,9 @@ Pub. L. 115–55, § 2(y), Aug. 23, 2017, 131 Stat. 1116, provided that: “Noth
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Amendments to Tables of Contents by Pub. L. 117–168
+Pub. L. 117–168, § 1(b)(2), Aug. 10, 2022, 136 Stat. 1759, provided that: “Except as otherwise expressly provided, when an amendment made by this Act to title 38, United States Code [see Tables for classification], adds a section or larger organizational unit to that title or amends the designation or heading of a section or larger organizational unit in that title, that amendment also shall have the effect of amending any table of sections in that title to alter the table to conform to the changes made by the amendment.”
 
 #### Honoring as Veterans Certain Persons Who Performed Service in the Reserve Components of the Armed Forces
 Pub. L. 114–315, title III, § 305, Dec. 16, 2016, 130 Stat. 1552, provided that: “Any person who is entitled under chapter 1223 of title 10, United States Code, to retired pay for nonregular service or, but for age, would be entitled under such chapter to retired pay for nonregular service shall be honored as a veteran but shall not be entitled to any benefit by reason of this honor.”
@@ -1760,7 +1819,7 @@ Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 
 (1) The Secretary may transport any person to or from a Department facility or other place in connection with vocational rehabilitation, counseling required by the Secretary pursuant to chapter 34 or 35 of this title, or for the purpose of examination, treatment, or care.
 
-(2) The authority granted by paragraph (1) shall expire on September 30, 2022.
+(2) The authority granted by paragraph (1) shall expire on September 30, 2024.
 
 **(b) Transportation by Third-parties.—**
 
@@ -1786,6 +1845,8 @@ Sec. 6. Executive Order No. 11142 of February 12, 1964, is hereby superseded.
 The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 116–315, which was approved Jan. 5, 2021.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
+
 2021—Subsec. (b). Pub. L. 116–315 designated existing provisions as par. (1) and added par. (2).
 
 2020—Subsec. (a)(2). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.

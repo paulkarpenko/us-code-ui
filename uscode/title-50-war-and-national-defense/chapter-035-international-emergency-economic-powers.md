@@ -410,7 +410,7 @@ Pub. L. 108–272, July 7, 2004, 118 Stat. 818.
 
 Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 570], Sept. 30, 1996, 110 Stat. 3009–121, 3009–166, as amended by Pub. L. 117–81, div. E, title LI, § 5114(a)(1), Dec. 27, 2021, 135 Stat. 2351, provided that: “(a) Until such time as the President determines and certifies to Congress that Burma has made measurable and substantial progress in improving human rights practices and implementing democratic government, the following sanctions shall be imposed on Burma:“(1) Bilateral assistance.—There shall be no United States assistance to the Government of Burma, other than:“(A) humanitarian assistance, “(B) subject to the regular notification procedures of the Committees on Appropriations, counter-narcotics assistance under chapter 8 of part I of the Foreign Assistance Act of 1961 [Pub. L. 87–195], or crop substitution assistance, if the Secretary of State certifies to the appropriate congressional committees that—“(i) the Government of Burma is fully cooperating with United States counter-narcotics efforts, and “(ii) the programs are fully consistent with United States human rights concerns in Burma and serve the United States national interest, and “(C) assistance promoting human rights and democratic values. “(2) Multilateral assistance.—The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to vote against any loan or other utilization of funds of the respective bank to or for Burma. “(3) Visas.—Except as required by treaty obligations or to staff the Burmese mission to the United States, the United States should not grant entry visas to any Burmese government official. “(b) Conditional Sanctions.—The President is hereby authorized to prohibit, and shall prohibit[,] United States persons from new investment in Burma, if the President determines and certifies to Congress that, after the date of enactment of this Act [Sept. 30, 1996], the Government of Burma has physically harmed, rearrested for political acts, or exiled Daw Aung San Suu Kyi or has committed large-scale repression of or violence against the Democratic opposition. “(c) Multilateral Strategy.—The President shall develop, in coordination with likeminded countries, a comprehensive, multilateral strategy to—“(1) support democratic governance and inclusive and representative civilian government, including by supporting entities promoting democracy in Burma and denying legitimacy and resources to the military junta; “(2) support organizations that represent the democratic aspirations of the people of Burma in the struggle against the military junta; “(3) impose costs on the military junta; “(4) secure the unconditional release of all political prisoners in Burma; “(5) promote genuine national reconciliation among Burma’s diverse ethnic and religious groups; “(6) provide humanitarian assistance to internally displaced persons in Burma, particularly in areas targeted by the military junta, and in neighboring countries for refugees from Burma; “(7) pursue accountability for atrocities, human rights violations, and crimes against humanity committed by the military junta or the Tatmadaw; and “(8) counter corrosive malign influence of the People’s Republic of China and the Russian Federation in Burma. “(d) Presidential Reports.—Every year following the enactment of this Act [Sept. 30, 1996], the President shall report to the Chairmen of the Committee on Foreign Relations, the Committee on International Relations and the House and Senate Appropriations Committees on the following:“(1) progress towards inclusive, democratic governance in Burma; “(2) improvements in human rights practices and accountability for atrocities, human rights violations, and crimes against humanity committed by the Tatmadaw, or military junta of Burma; “(3) progress toward broad-based and inclusive economic growth; “(4) progress toward genuine national reconciliation; “(5) steps taken to impose costs on the military junta; “(6) progress made in advancing the strategy referred to in subsection (c); and “(7) actions by the People’s Republic of China or the Russian Federation that undermine the sovereignty, stability, or unity of Burma. “(e) Waiver Authority.—The President shall have the authority to waive, temporarily or permanently, any sanction referred to in subsection (a) or subsection (b) if he determines and certifies to Congress that the application of such sanction would be contrary to the national security interests of the United States. “(f) Definitions.—“(1) The term ‘international financial institutions’ shall include the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Multilateral Investment Guarantee Agency, the Asian Development Bank, and the International Monetary Fund. “(2) The term ‘new investment’ shall mean any of the following activities if such an activity is undertaken pursuant to an agreement, or pursuant to the exercise of rights under such an agreement, that is entered into with the Government of Burma or a nongovernmental entity in Burma, on or after the date of the certification under subsection (b):“(A) the entry into a contract that includes the economical development of resources located in Burma, or the entry into a contract providing for the general supervision and guarantee of another person’s performance of such a contract; “(B) the purchase of a share of ownership, including an equity interest, in that development; “(C) the entry into a contract providing for the participation in royalties, earnings, or profits in that development, without regard to the form of the participation: Provided, That the term ‘new investment’ does not include the entry into, performance of, or financing of a contract to sell or purchase goods, services, or technology.”
 
-[Pub. L. 117–81, div. E, title LI, § 5114(a)(1), Dec. 27, 2021, 135 Stat. 235, which directied the amendment of section 570 of Pub. L. 104–208 (set out above), was executed by amending Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 570], to reflect the probable intent of Congress.]
+[Pub. L. 117–81, div. E, title LI, § 5114(a)(1), Dec. 27, 2021, 135 Stat. 2351, which directed the amendment of section 570 of Pub. L. 104–208, was executed by amending Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 570] (set out above), to reflect the probable intent of Congress.]
 
 [Pub. L. 117–81, div. E, title LI, § 5114(a)(2), Dec. 27, 2021, 135 Stat. 2352, provided that: “The amendments made by paragraph (1) [amending section 570 Pub. L. 104–208, set out above] shall take effect on the date of the enactment of this Act [Dec. 27, 2021] and apply with respect to the first report required under subsection (d) of section 570 of Public Law 104–208 [set out above] that is required after the date of the enactment of this Act.” ]
 
@@ -707,6 +707,8 @@ Notice of President of the United States, dated June 30, 2000, 65 F.R. 41549.
 
 Ex. Ord. No. 13268, July 2, 2002, 67 F.R. 44751.
 
+Ex. Ord. No. 14064, Feb. 11, 2022, 87 F.R. 8391.
+
 #### Angola (UNITA)
 Ex. Ord. No. 12865, Sept. 26, 1993, 58 F.R. 51005, revoked by Ex. Ord. No. 13298, May 6, 2003, 68 F.R. 24857.
 
@@ -830,6 +832,10 @@ Ex. Ord. No. 13742, Oct. 7, 2016, 81 F.R. 70593.
 
 Ex. Ord. No. 14014, Feb. 10, 2021, 86 F.R. 9429.
 
+Continuation of national emergency declared by Ex. Ord. No. 14014 was contained in the following:
+
+Notice of President of the United States, dated Feb. 7, 2022, 87 F.R. 7677.
+
 #### Burundi
 Ex. Ord. No. 13712, Nov. 22, 2015, 80 F.R. 73633, revoked by Ex. Ord. No. 14054, Nov. 18, 2021, 86 F.R. 66149.
 
@@ -851,6 +857,8 @@ Ex. Ord. No. 14054, Nov. 18, 2021, 86 F.R. 66149.
 Ex. Ord. No. 13667, May 12, 2014, 79 F.R. 28387.
 
 Continuations of national emergency declared by Ex. Ord. No. 13667 were contained in the following:
+
+Notice of President of the United States, dated May 9, 2022, 87 F.R. 29019.
 
 Notice of President of the United States, dated May 6, 2021, 86 F.R. 25795.
 
@@ -926,7 +934,7 @@ Notice of President of the United States, dated Oct. 16, 1996, 61 F.R. 54531.
 #### Communist Chinese Military Companies
 Ex. Ord. No. 13959, Nov. 12, 2020, 85 F.R. 73185, as amended by Ex. Ord. No. 13974, §§ 1–3, Jan. 13, 2021, 86 F.R. 4875, 4876, revoked by Ex. Ord. No. 14032, § 4, June 3, 2021, 86 F.R. 30147; Ex. Ord. No. 14032, §§ 1–3, June 3, 2021, 86 F.R. 30145, 30146.
 
-Continuations of national emergency declared by Ex. Ord. No. 13959 were contained in the following:
+Continuation of national emergency declared by Ex. Ord. No. 13959 was contained in the following:
 
 Notice of President of the United States, dated Nov. 9, 2021, 86 F.R. 62711.
 
@@ -1014,6 +1022,8 @@ Ex. Ord. No. 13224, Sept. 23, 2001, 66 F.R. 49079, as amended by Ex. Ord. No. 13
 
 Continuations of national emergency declared by Ex. Ord. No. 13224 were contained in the following:
 
+Notice of President of the United States, dated Sept. 19, 2022, 87 F.R. 57569.
+
 Notice of President of the United States, dated Sept. 15, 2021, 86 F.R. 52069.
 
 Notice of President of the United States, dated Sept. 18, 2020, 85 F.R. 59641.
@@ -1060,6 +1070,8 @@ Ex. Ord. No. 13372, Feb. 16, 2005, 70 F.R. 8499.
 Ex. Ord. No. 13848, Sept. 12, 2018, 83 F.R. 46843.
 
 Continuations of national emergency declared by Ex. Ord. No. 13848 were contained in the following:
+
+Notice of President of the United States, dated Sept. 7, 2022, 87 F.R. 55681.
 
 Notice of President of the United States, dated Sept. 7, 2021, 86 F.R. 50601.
 
@@ -1187,6 +1199,8 @@ Ex. Ord. No. 13222, Aug. 17, 2001, 66 F.R. 44025, as amended by Ex. Ord. No. 136
 
 Continuations of national emergency declared by Ex. Ord. No. 13222 were contained in the following:
 
+Notice of President of the United States, dated Aug. 4, 2022, 87 F.R. 48077.
+
 Notice of President of the United States, dated Aug. 6, 2021, 86 F.R. 43901.
 
 Notice of President of the United States, dated Aug. 13, 2020, 85 F.R. 49939.
@@ -1267,6 +1281,10 @@ Ex. Ord. No. 13671, July 8, 2014, 79 F.R. 39949.
 #### Ethiopia
 Ex. Ord. No. 14046, Sept. 17, 2021, 86 F.R. 52389.
 
+Continuation of national emergency declared by Ex. Ord. No. 14046 was contained in the following:
+
+Notice of President of the United States, dated Sept. 9, 2022, 87 F.R. 55899.
+
 #### Haiti
 Ex. Ord. No. 12775, Oct. 4, 1991, 56 F.R. 50641, revoked by Ex. Ord. No. 12932, Oct. 14, 1994, 59 F.R. 52403.
 
@@ -1299,6 +1317,8 @@ Ex. Ord. No. 13873, May 15, 2019, 84 F.R. 22689.
 
 Continuations of national emergency declared by Ex. Ord. No. 13873 were contained in the following:
 
+Notice of President of the United States, dated May 12, 2022, 87 F.R. 29645.
+
 Notice of President of the United States, dated May 11, 2021, 86 F.R. 26339.
 
 Notice of President of the United States, dated May 13, 2020, 85 F.R. 29321.
@@ -1318,6 +1338,8 @@ Ex. Ord. No. 13928, June 11, 2020, 85 F.R. 36139, revoked by Ex. Ord. No. 14022,
 Ex. Ord. No. 12170, Nov. 14, 1979, 44 F.R. 65729.
 
 Continuations of national emergency declared by Ex. Ord. No. 12170 were contained in the following:
+
+Notice of President of the United States, dated Nov. 9, 2021, 86 F.R. 62709.
 
 Notice of President of the United States, dated Nov. 12, 2020, 85 F.R. 72895.
 
@@ -1426,6 +1448,8 @@ Ex. Ord. No. 12613, Oct. 29, 1987, 52 F.R. 41940, revoked by Ex. Ord. No. 13059,
 Ex. Ord. No. 12957, Mar. 15, 1995, 60 F.R. 14615, sections 1 and 2 of which were revoked by Ex. Ord. No. 12959, § 5, May 6, 1995, 60 F.R. 24758, to the extent inconsistent with Ex. Ord. No. 12959.
 
 Continuations of national emergency declared by Ex. Ord. No. 12957 were contained in the following:
+
+Notice of President of the United States, dated Mar. 3, 2022, 87 F.R. 12555.
 
 Notice of President of the United States, dated Mar. 5, 2021, 86 F.R. 13621.
 
@@ -1549,6 +1573,8 @@ Ex. Ord. No. 12817, Oct. 21, 1992, 57 F.R. 48433, revoked by Ex. Ord. No. 13350,
 Ex. Ord. No. 13303, May 22, 2003, 68 F.R. 31931, as amended by Ex. Ord. No. 13364, § 1, Nov. 29, 2004, 69 F.R. 70177.
 
 Continuations of national emergency declared by Ex. Ord. No. 13303 were contained in the following:
+
+Notice of President of the United States, dated May 9, 2022, 87 F.R. 29021.
 
 Notice of President of the United States, dated May 6, 2021, 86 F.R. 25797.
 
@@ -1720,6 +1746,8 @@ Ex. Ord. No. 13566, Feb. 25, 2011, 76 F.R. 11315.
 
 Continuations of national emergency declared by Ex. Ord. No. 13566 were contained in the following:
 
+Notice of President of the United States, dated Feb. 22, 2022, 87 F.R. 10681.
+
 Notice of President of the United States, dated Feb. 11, 2021, 86 F.R. 9835.
 
 Notice of President of the United States, dated Feb. 20, 2020, 85 F.R. 10553.
@@ -1746,6 +1774,8 @@ Ex. Ord. No. 13726, Apr. 19, 2016, 81 F.R. 23559.
 Ex. Ord. No. 13882, July 26, 2019, 84 F.R. 37055.
 
 Continuations of national emergency declared by Ex. Ord. No. 13882 were contained in the following:
+
+Notice of President of the United States, dated July 22, 2022, 87 F.R. 44263.
 
 Notice of President of the United States, dated July 20, 2021, 86 F.R. 38903.
 
@@ -1831,6 +1861,8 @@ Ex. Ord. No. 13694, Apr. 1, 2015, 80 F.R. 18077, as amended by Ex. Ord. No. 1375
 
 Continuations of national emergency declared by Ex. Ord. No. 13694 were contained in the following:
 
+Notice of President of the United States, dated Mar. 30, 2022, 87 F.R. 18963.
+
 Notice of President of the United States, dated Mar. 29, 2021, 86 F.R. 16663.
 
 Notice of President of the United States, dated Mar. 30, 2020, 85 F.R. 18103.
@@ -1900,6 +1932,16 @@ Ex. Ord. No. 13695, May 26, 2015, 80 F.R. 30331.
 
 Ex. Ord. No. 14024, Apr. 15, 2021, 86 F.R. 20249.
 
+Continuation of national emergency declared by Ex. Ord. No. 14024 was contained in the following:
+
+Notice of President of the United States, dated Apr. 13, 2022, 87 F.R. 22431.
+
+Ex. Ord. No. 14066, Mar. 8, 2022, 87 F.R. 13625.
+
+Ex. Ord. No. 14068, Mar. 11, 2022, 87 F.R. 14381.
+
+Ex. Ord. No. 14071, Apr. 6, 2022, 87 F.R. 20999.
+
 #### Sierra Leone
 Ex. Ord. No. 13194, Jan. 18, 2001, 66 F.R. 7389, as amended by Ex. Ord. No. 13312, § 3(a)–(c), July 29, 2003, 68 F.R. 45152, revoked by Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
 
@@ -1917,6 +1959,8 @@ Ex. Ord. No. 13324, Jan. 15, 2004, 69 F.R. 2823.
 Ex. Ord. No. 13536, Apr. 12, 2010, 75 F.R. 19869, as amended by Ex. Ord. No. 13620, § 1, July 20, 2012, 77 F.R. 43483.
 
 Continuations of national emergency declared by Ex. Ord. No. 13536 were contained in the following:
+
+Notice of President of the United States, dated Mar. 30, 2022, 87 F.R. 19343.
 
 Notice of President of the United States, dated Apr. 1, 2021, 86 F.R. 17673.
 
@@ -1953,6 +1997,8 @@ Ex. Ord. No. 12535, Oct. 1, 1985, 50 F.R. 40325, revoked by Ex. Ord. No. 12769, 
 Ex. Ord. No. 13664, Apr. 3, 2014, 79 F.R. 19283.
 
 Continuations of national emergency declared by Ex. Ord. No. 13664 were contained in the following:
+
+Notice of President of the United States, dated Mar. 30, 2022, 87 F.R. 18965.
 
 Notice of President of the United States, dated Mar. 29, 2021, 86 F.R. 16665.
 
@@ -2030,6 +2076,8 @@ Ex. Ord. No. 13338, May 11, 2004, 69 F.R. 26751, as amended by Ex. Ord. No. 1346
 
 Continuations of national emergency declared by Ex. Ord. No. 13338 were contained in the following:
 
+Notice of President of the United States, dated May 9, 2022, 87 F.R. 28749.
+
 Notice of President of the United States, dated May 6, 2021, 86 F.R. 25793.
 
 Notice of President of the United States, dated May 7, 2020, 85 F.R. 27639.
@@ -2080,7 +2128,7 @@ Ex. Ord. No. 13608, May 1, 2012, 77 F.R. 26409.
 
 Ex. Ord. No. 13894, Oct. 13, 2019, 84 F.R. 55851.
 
-Continuation of national emergency declared by Ex. Ord. No. 13894 was contained in the following:
+Continuations of national emergency declared by Ex. Ord. No. 13894 were contained in the following:
 
 Notice of President of the United States, dated Oct. 6, 2021, 86 F.R. 56829.
 
@@ -2090,6 +2138,8 @@ Notice of President of the United States, dated Oct. 8, 2020, 85 F.R. 64941.
 Ex. Ord. No. 13581, July 24, 2011, 76 F.R. 44757, as amended by Ex. Ord. No. 13863, Mar. 15, 2019, 84 F.R. 10255.
 
 Continuations of national emergency declared by Ex. Ord. No. 13581 were contained in the following:
+
+Notice of President of the United States, dated July 21, 2022, 87 F.R. 43983.
 
 Notice of President of the United States, dated July 7, 2021, 86 F.R. 36481.
 
@@ -2118,6 +2168,8 @@ Ex. Ord. No. 13660, Mar. 6, 2014, 79 F.R. 13493.
 
 Continuations of national emergency declared by Ex. Ord. No. 13660 were contained in the following:
 
+Notice of President of the United States, dated Mar. 2, 2022, 87 F.R. 12387.
+
 Notice of President of the United States, dated Mar. 2, 2021, 86 F.R. 12793.
 
 Notice of President of the United States, dated Feb. 25, 2020, 85 F.R. 11827.
@@ -2138,10 +2190,14 @@ Ex. Ord. No. 13662, Mar. 20, 2014, 79 F.R. 16169.
 
 Ex. Ord. No. 13685, Dec. 19, 2014, 79 F.R. 77357.
 
+Ex. Ord. No. 14065, Feb. 21, 2022, 87 F.R. 10293.
+
 #### Venezuela
 Ex. Ord. No. 13692, Mar. 8, 2015, 80 F.R. 12747, as amended by Ex. Ord. No. 13857, Jan. 25, 2019, 84 F.R. 509.
 
 Continuations of national emergency declared by Ex. Ord. No. 13692 were contained in the following:
+
+Notice of President of the United States, dated Mar. 3, 2022, 87 F.R. 12557.
 
 Notice of President of the United States, dated Mar. 2, 2021, 86 F.R. 12795.
 
@@ -2265,6 +2321,8 @@ Ex. Ord. No. 13611, May 16, 2012, 77 F.R. 29533.
 
 Continuations of national emergency declared by Ex. Ord. No. 13611 were contained in the following:
 
+Notice of President of the United States, dated May 9, 2022, 87 F.R. 29023.
+
 Notice of President of the United States, dated May 11, 2021, 86 F.R. 26341.
 
 Notice of President of the United States, dated May 7, 2020, 85 F.R. 27643.
@@ -2287,6 +2345,8 @@ Notice of President of the United States, dated May 13, 2013, 78 F.R. 28465.
 Ex. Ord. No. 13288, Mar. 6, 2003, 68 F.R. 11457, as amended by Ex. Ord. No. 13391, Nov. 22, 2005, 70 F.R. 71201.
 
 Continuations of national emergency declared by Ex. Ord. No. 13288 were contained in the following:
+
+Notice of President of the United States, dated Mar. 3, 2022, 87 F.R. 12553.
 
 Notice of President of the United States, dated Mar. 2, 2021, 86 F.R. 12797.
 

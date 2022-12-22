@@ -157,7 +157,7 @@ In subsection (h), the words “beginning in fiscal year 1998 and thereafter” 
 #### References in Text
 Act of March 2, 1893, referred to in subsec. (f), is act Mar. 2, 1893, ch. 197, 27 Stat. 532, as amended, which is not classified to the Code.
 
-Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 43 Stat. 463, as amended, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 71b of former Title 40 was repealed by Pub. L. 107–217. Section 71e of former Title 40 was repealed by Pub. L. 93–198, title II, § 203(e), Dec. 24, 1973, 87 Stat. 782. For complete classification of this Act to the Code, see Tables.
+Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 43 Stat. 463, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 71b of former Title 40 was repealed by Pub. L. 107–217. Section 71e of former Title 40 was repealed by Pub. L. 93–198, title II, § 203(e), Dec. 24, 1973, 87 Stat. 782. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2011—Subsec. (d). Pub. L. 111–350, which directed substitution of “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))”, was executed by making the substitution for “section 3709 of the Revised Statues ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” to reflect the probable intent of Congress.
@@ -343,7 +343,7 @@ In subsection (d), the word “Commission” [meaning the National Capital Plann
 In subsection (e), the words “the boundaries of” and “and from time to time redefined” are omitted as unnecessary.
 
 #### References in Text
-The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 534, 52 Stat. 797, as amended. While the Act was not classified to the Code, section 16 of the Act was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§ 1, 6, Aug. 21, 2002, 116 Stat. 1062, 1304. See Historical and Revision Notes above.
+The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 534, 52 Stat. 797. While the Act was not classified to the Code, section 16 of the Act was repealed and reenacted as subsec. (d) of this section by Pub. L. 107–217, §§ 1, 6, Aug. 21, 2002, 116 Stat. 1062, 1304. See Historical and Revision Notes above.
 
 #### Amendments
 2006—Subsec. (d). Pub. L. 109–284 substituted “52 Stat. 797” for “52 Stat. 802” and “are subject” for “is subject”.
@@ -365,7 +365,7 @@ The Act of June 20, 1938, referred to in subsec. (d), is act June 20, 1938, ch. 
 In subsection (b), the words “District of Columbia Home Rule Act” are substituted for “District of Columbia of Columbia Self-Government and Governmental Reorganization Act” because of section 11717(b) of the Balanced Budget Act of 1997 (Public Law 105–33, 111 Stat. 786).
 
 #### References in Text
-Section 444 of the District of Columbia Home Rule Act, referred to in subsec. (b), is section 444 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 800, as amended, which is not classified to the Code.
+Section 444 of the District of Columbia Home Rule Act, referred to in subsec. (b), is section 444 of Pub. L. 93–198, title IV, Dec. 24, 1973, 87 Stat. 800, which is not classified to the Code.
 
 
 <a id="section-8724"></a>

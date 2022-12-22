@@ -410,7 +410,7 @@ Pub. L. 105–178, title VII, § 7203(b)(2), June 9, 1998, 112 Stat. 477, as ame
 
 (4) **Prepayments.—**
 
-  (A) *PUse of excess revenues.—* — With respect to a direct loan provided by the Secretary under this section, any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and direct loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay the direct loan without penalty.
+  (A) *Use of excess revenues.—* — With respect to a direct loan provided by the Secretary under this section, any excess revenues that remain after satisfying scheduled debt service requirements on the project obligations and direct loan and all deposit requirements under the terms of any trust agreement, bond resolution, or similar agreement securing project obligations may be applied annually to prepay the direct loan without penalty.
 
   (B) *Use of proceeds of refinancing.—* — The direct loan may be prepaid at any time without penalty from the proceeds of refinancing from non-Federal funding sources.
 
@@ -666,10 +666,10 @@ Subsec. (m). Pub. L. 117–58, § 21301(e)(4), substituted “section 22402” f
 ### Statutory Notes
 
 #### Codification
-The text of [section 826 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section826&num=0&edition=prelim), Railroads, which was transferred to this section and amended by Pub. L. 117–58, div. B, title I, § 21301(a)(6), (f), was based on Pub. L. 94–210, title V, § 504, formerly § 516, Feb. 5, 1976, 90 Stat. 82; renumbered § 504, Pub. L. 105–178, title VII, § 7203(a)(5), June 9, 1998, 112 Stat. 477.
+The text of [section 836 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section836&num=0&edition=prelim), Railroads, which was transferred to this section and amended by Pub. L. 117–58, div. B, title I, § 21301(a)(6), (f), was based on Pub. L. 94–210, title V, § 504, formerly § 516, Feb. 5, 1976, 90 Stat. 82; renumbered § 504, Pub. L. 105–178, title VII, § 7203(a)(5), June 9, 1998, 112 Stat. 477.
 
 #### Amendments
-2021—Pub. L. 117–58, § 21301(a)(6), transferred text of section 826, Railroads, to this section.
+2021—Pub. L. 117–58, § 21301(a)(6), transferred text of [section 826 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section826&num=0&edition=prelim), Railroads, to this section.
 
 Subsec. (a). Pub. L. 117–58, § 21301(f)(1), in first sentence, struck out “not otherwise protected under title V of the Regional Rail Reorganization Act of 1973 ([45 U.S.C. 771](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section771&num=0&edition=prelim) et seq.),” after “any employees” and substituted “under this chapter” for “under this title”; in second sentence, substituted “not later than 120 days after February 5, 1976” for “within 120 days after the date of enactment of this title”; and in third sentence, substituted “not later than 150 days after February 5, 1976” for “within 150 days after the date of enactment of this title”.
 

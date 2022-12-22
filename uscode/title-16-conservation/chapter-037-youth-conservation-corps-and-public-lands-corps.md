@@ -274,11 +274,11 @@ For purposes of this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Hawaiian Homes Commission Act, 1920, referred to in par. (4), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended. Section 204 of that Act was classified to [section 698 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section698&num=0&edition=prelim), Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in par. (4), is act July 9, 1921, ch. 42, 42 Stat. 108. Section 204 of that Act was classified to [section 698 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section698&num=0&edition=prelim), Territories and Insular Possessions, and was omitted from the Code.
 
 Section 4 of Public Law 86–3, referred to in par. (4), is set out as a note preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim).
 
-The Alaska Native Claims Settlement Act, referred to in par. (6)(D), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (6)(D), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 The Healthy Forests Restoration Act of 2003, referred to in par. (9), is Pub. L. 108–148, Dec. 3, 2003, 117 Stat. 1887, which is classified principally to chapter 84 (§ 6501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6501 of this title](./chapter-084-healthy-forest-restoration.md#section-6501) and Tables.
 
@@ -559,7 +559,7 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 ### Statutory Notes
 
 #### References in Text
-The National and Community Service Act of 1990, referred to in subsec. (a), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitles C and D of title I of the Act are classified generally to divisions C (§ 12571 et seq.) and D (§ 12601 et seq.), respectively, of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12501&num=0&edition=prelim) and Tables.
+The National and Community Service Act of 1990, referred to in subsec. (a), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127. Subtitles C and D of title I of the Act are classified generally to divisions C (§ 12571 et seq.) and D (§ 12601 et seq.), respectively, of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12501&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of this title](./chapter-037-youth-conservation-corps-and-public-lands-corps.md#section-1701).

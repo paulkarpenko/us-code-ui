@@ -489,6 +489,8 @@ Repeal effective 60 days after Oct. 6, 2006, see section 6 of Pub. L. 109–313,
 
 **(e) Gift Account.—** The Center 2 may accept and deposit to this account gifts for purposes of defraying the costs of printing, publishing, and distributing consumer information and educational materials and undertaking other consumer information activities. In addition to amounts appropriated or otherwise made available, the Center 2 may expend the gifts for these purposes and any balance remains available for expenditure.
 
+**(f)** The Administrator may enter into agreements with federal agencies to provide services through the Fund on a fully reimbursable basis.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -506,6 +508,8 @@ In subsection (b), the words “for fiscal year 1983 and subsequent fiscal years
 In subsection (e), the words “Notwithstanding any other provision of law” and “during fiscal year 1998 and hereafter” are omitted as unnecessary.
 
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–103 added subsec. (f).
+
 2009—Subsec. (a). Pub. L. 111–8 substituted “Federal Citizen Services” for “Consumer Information Center” and struck out “consumer” after “Federal Government”.
 
 Subsec. (b)(1). Pub. L. 111–8 substituted “Federal Citizen Services” for “Consumer Information Center”.

@@ -1407,7 +1407,7 @@ Requirement of making a declaration or amended declaration or amended declaratio
 
   (A) *In general* — In the case of any required installment, the annualized income installment is the excess (if any) of—
 
-    (i) an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income and modified taxable income—
+    (i) an amount equal to the applicable percentage of the tax for the taxable year computed by placing on an annualized basis the taxable income, adjusted financial statement income (as defined in section 56A), and modified taxable income—
 
       (I) for the first 3 months of the taxable year, in the case of the 1st required installment,
 
@@ -1421,7 +1421,7 @@ Requirement of making a declaration or amended declaration or amended declaratio
 
   (B) *Special rules* — For purposes of this paragraph—
 
-    (i) *Annualization* — The taxable income and modified taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
+    (i) *Annualization* — The taxable income, adjusted financial statement income (as defined in section 56A), and modified taxable income shall be placed on an annualized basis under regulations prescribed by the Secretary.
 
     (ii) *Applicable percentage* — In the case of the following required installments:The applicable percentage is: 1st25 2nd50 3rd75 4th100.
 
@@ -1511,9 +1511,11 @@ Requirement of making a declaration or amended declaration or amended declaratio
 
     (i) the tax imposed by section 11 or subchapter L of chapter 1, whichever applies,
 
-    (ii) the tax imposed by section 59A, plus
+    (ii) the tax imposed by section 55,
 
-    (iii) the tax imposed by section 887, over
+    (iii) the tax imposed by section 59A, plus
+
+    (iv) the tax imposed by section 887, over
 
   (B) the credits against tax provided by part IV of subchapter A of chapter 1.
   For purposes of the preceding sentence, in the case of a foreign corporation subject to taxation under section 11 or 1201(a), or under subchapter L of chapter 1, the tax imposed by section 881 shall be treated as a tax imposed by section 11.
@@ -1586,6 +1588,12 @@ Requirement of making a declaration or amended declaration or amended declaratio
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (e)(2)(A)(i). Pub. L. 117–169, § 10101(a)(4)(G), inserted “, adjusted financial statement income (as defined in section 56A),” before “and modified taxable income” in introductory provisions.
+
+Subsec. (e)(2)(B)(i). Pub. L. 117–169, § 10101(a)(4)(G), inserted “, adjusted financial statement income (as defined in section 56A),” before “and modified taxable income”.
+
+Subsec. (g)(1)(A)(ii) to (iv). Pub. L. 117–169, § 10101(a)(4)(H), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+
 2018—Subsec. (e)(4). Pub. L. 115–141, § 401(d)(1)(D)(xx)(II), struck out “and section 936” after “subpart F” in heading.
 
 Subsec. (e)(4)(A). Pub. L. 115–141, § 401(d)(1)(D)(xx)(I), struck out “936(h) or” before “951(a)”.
@@ -1749,6 +1757,9 @@ Subsec. (g). Pub. L. 90–364, § 103(d)(2), added subsec. (g).
 1964—Subsec. (c)(2). Pub. L. 88–272, § 122(c)(1), substituted “any installment date” and “such installment date” for “the 15th day of the 12th month”.
 
 Subsec. (d)(3). Pub. L. 88–272, § 122(c)(2), redesignated cls. (A)(i) and (ii) as (A)(iii) and (iv), respectively, added cls. (A)(i) and (ii), and substituted “(3, 5, 6, 8, 9,)” for “(6 or 8, or 9)” in subpar. (B)(ii).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 12001(b)(18), (19) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
@@ -5449,11 +5460,11 @@ Section applicable to returns the due date for which (determined without regard 
 ### Statutory Notes
 
 #### Amendment of Subsection (d)(1)(B)
-Pub. L. 117–58, div. H, title VI, § 80603(b)(2)(B), (c), Nov. 15, 2021, 135 Stat. 1340, 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, subsection (d)(1)(B) of this section is amended striking “or” at the end of clause (xxv), by striking “and” at the end of clause (xxvi), and by inserting after clause (xxvi) the following new clause:
+Pub. L. 117–58, div. H, title VI, § 80603(b)(2)(B), (c), Nov. 15, 2021, 135 Stat. 1340, 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, subsection (d)(1)(B) of this section is amended by striking “or” at the end of clause (xxv), by striking “and” at the end of clause (xxvi), and by inserting after clause (xxvi) the following new clause:
 
 “(xxvii) section 6045A(d) (relating to returns for certain digital assets),”.
 
-See 2021 Amendment note below.
+See 2021 Amendment notes below.
 
 #### Codification
 Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section 6724 without specifying the act to be amended, was executed to this section, which is section 6724 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
@@ -5784,7 +5795,7 @@ Pub. L. 100–418, § 1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A)
 Subsec. (d)(2)(B). Pub. L. 100–647, § 1015(a), substituted “6031(b) or (c)” for “6031(b)”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–58 applicable to returns required to be filed, and statements required to be furnished, after December 31, 2023, see section 80603(c) of div. H of Pub. L. 117–58, set out as a note under [section 6045 of this title](./chapter-061-information-and-returns.md#section-6045).
+Amendment by Pub. L. 117–58 applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, see section 80603(c) of div. H of Pub. L. 117–58, set out as a note under [section 6045 of this title](./chapter-061-information-and-returns.md#section-6045).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 206(o) of Pub. L. 115–141 effective as if included in section 1101 of Pub. L. 114–74, see section 207 of Pub. L. 115–141, set out as a note under [section 6031 of this title](./chapter-061-information-and-returns.md#section-6031).

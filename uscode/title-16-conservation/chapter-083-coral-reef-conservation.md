@@ -443,7 +443,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(2)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (f)(2)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 
 <a id="section-6404"></a>
@@ -485,15 +485,15 @@ The Administrator may make grants to any State, local, or territorial government
 ### Statutory Notes
 
 #### References in Text
-The National Marine Sanctuaries Act, referred to in subsec. (a), is title III of Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1061, as amended, which is classified generally to chapter 32 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-032-marine-sanctuaries.md#section-1431) and Tables.
+The National Marine Sanctuaries Act, referred to in subsec. (a), is title III of Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1061, which is classified generally to chapter 32 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-032-marine-sanctuaries.md#section-1431) and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (a), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (a), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (a), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Marine Mammal Protection Act of 1972, referred to in subsec. (a), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (a), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
 
 <a id="section-6407"></a>
@@ -547,6 +547,6 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-The National Marine Sanctuaries Act, referred to in par. (2), is title III of Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1061, as amended, which is classified generally to chapter 32 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-032-marine-sanctuaries.md#section-1431) and Tables.
+The National Marine Sanctuaries Act, referred to in par. (2), is title III of Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1061, which is classified generally to chapter 32 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-032-marine-sanctuaries.md#section-1431) and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.

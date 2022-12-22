@@ -2,7 +2,7 @@
 title: 8
 chapter: '12'
 heading: IMMIGRATION AND NATIONALITY
-section_count: 231
+section_count: 232
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8&num=0&edition=prelim
 ---
@@ -1299,6 +1299,9 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 #### Effective Date
 Act June 27, 1952, ch. 477, title IV, § 407, 66 Stat. 281, provided that: “Except as provided in subsection (k) of section 401 [former [section 1106(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1106/k&num=0&edition=prelim)], this Act [this chapter] shall take effect at 12:01 ante meridian United States Eastern Standard Time on the one hundred eightieth day immediately following the date of its enactment [June 27, 1952].”
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–103, div. BB, § 101, Mar. 15, 2022, 136 Stat. 1070, provided that: “This division [enacting [section 1153a of this title](./chapter-012-immigration-and-nationality.md#section-1153a), amending sections 1153, 1154, 1186b, and 1255 of this title, enacting provisions set out as notes under sections 1153, 1154, and 1186b of this title, and repealing provisions set out as a note under [section 1153 of this title](./chapter-012-immigration-and-nationality.md#section-1153)] may be cited as the ‘EB–5 Reform and Integrity Act of 2022’.”
+
 #### Short Title of 2020 Amendment
 Pub. L. 116–159, div. D, title I, § 4101, Oct. 1, 2020, 134 Stat. 738, provided that: “This title [amending [section 1356 of this title](./chapter-012-immigration-and-nationality.md#section-1356) and enacting provisions set out as notes under sections 1103 and 1356 of this title] may be cited as the ‘Emergency Stopgap USCIS Stabilization Act’.”
 
@@ -1487,9 +1490,6 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Admission of Alaska as State
 Effectiveness of amendment of this section by Pub. L. 85–508 as dependent on admission of State of Alaska into the Union, see section 8(b) of Pub. L. 85–508, set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
-#### Admission of Hawaii as State
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 25, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding former [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
-
 #### Appropriations
 Act June 27, 1952, ch. 477, title IV, § 404, 66 Stat. 280, as amended by Pub. L. 97–116, § 18(s), Dec. 29, 1981, 95 Stat. 1621; Pub. L. 99–603, title I, § 113, Nov. 6, 1986, 100 Stat. 3383; Pub. L. 101–649, title VII, § 705(a), Nov. 29, 1990, 104 Stat. 5087; Pub. L. 102–232, title III, § 308(d), Dec. 12, 1991, 105 Stat. 1757, provided that: “(a) There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act [this chapter] (other than chapter 2 of title IV) [subchapter IV of this chapter]. “(b)(1) There are authorized to be appropriated (for fiscal year 1991 and any subsequent fiscal year) to an immigration emergency fund, to be established in the Treasury, an amount sufficient to provide for a balance of $35,000,000 in such fund, to be used to carry out paragraph (2) and to provide for an increase in border patrol or other enforcement activities of the Service and for reimbursement of State and localities in providing assistance as requested by the Attorney General in meeting an immigration emergency, except that no amounts may be withdrawn from such fund with respect to an emergency unless the President has determined that the immigration emergency exists and has certified such fact to the Judiciary Committees of the House of Representatives and of the Senate. “(2)(A) Funds which are authorized to be appropriated by paragraph (1), subject to the dollar limitation contained in subparagraph (B), shall be available, by application for the reimbursement of States and localities providing assistance as required by the Attorney General, to States and localities whenever—“(i) a district director of the Service certifies to the Commissioner that the number of asylum applications filed in the respective district during a calendar quarter exceeds by at least 1,000 the number of such applications filed in that district during the preceding calendar quarter, “(ii) the lives, property, safety, or welfare of the residents of a State or locality are endangered, or “(iii) in any other circumstances as determined by the Attorney General. In applying clause (i), the providing of parole at a point of entry in a district shall be deemed to constitute an application for asylum in the district. “(B) Not more than $20,000,000 shall be made available for all localities under this paragraph. “(C) For purposes of subparagraph (A), the requirement of paragraph (1) that an immigration emergency be determined shall not apply. “(D) A decision with respect to an application for reimbursement under subparagraph (A) shall be made by the Attorney General within 15 days after the date of receipt of the application.”
 
@@ -1502,9 +1502,11 @@ Act June 27, 1952, ch. 477, title IV, § 404, 66 Stat. 280, as amended by Pub. L
 [Determination of President of the United States, No. 95–49, Sept. 28, 1995, 60 F.R. 53677.]
 
 #### Availability of Funds
-Pub. L. 116–260, div. O, title I, § 102, Dec. 27, 2020, 134 Stat. 2148, provided that: “Subclauses (II) and (III) of section 101(a)(27)(C)(ii) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(27)(C)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/27/C/ii&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2021’ for ‘September 30, 2015’.”
+Pub. L. 117–103, div. O, title II, § 202, Mar. 15, 2022, 136 Stat. 787, provided that: “Subclauses (II) and (III) of section 101(a)(27)(C)(ii) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(27)(C)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/27/C/ii&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2022’ for ‘September 30, 2015’.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. O, title I, § 102, Dec. 27, 2020, 134 Stat. 2148.
 
 Pub. L. 116–94, div. I, title I, § 102, Dec. 20, 2019, 133 Stat. 3019.
 
@@ -1515,6 +1517,9 @@ Pub. L. 115–141, div. M, title II, § 202, Mar. 23, 2018, 132 Stat. 1049.
 Pub. L. 115–31, div. F, title V, § 540, May 5, 2017, 131 Stat. 432.
 
 Pub. L. 114–113, div. F, title V, § 573, Dec. 18, 2015, 129 Stat. 2526.
+
+#### Benefits for Certain Citizens or Nationals of Ukraine
+Pub. L. 117–128, title IV, § 401, May 21, 2022, 136 Stat. 1218, provided that: “(a) In General.—Notwithstanding any other provision of law, a citizen or national of Ukraine (or a person who last habitually resided in Ukraine) shall be eligible for the benefits described in subsection (b) if—“(1) such individual completed security and law enforcement background checks to the satisfaction of the Secretary of Homeland Security and was subsequently—“(A) paroled into the United States between February 24, 2022 and September 30, 2023; or “(B) paroled into the United States after September 30, 2023 and—“(i) is the spouse or child of an individual described in subparagraph (A); or “(ii) is the parent, legal guardian, or primary caregiver of an individual described in subparagraph (A) who is determined to be an unaccompanied child under section 462(g)(2) of the Homeland Security Act of 2002 ([6 U.S.C. 279(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section279/g/2&num=0&edition=prelim)) or section 412(d)(2)(B) of the Immigration and Nationality Act ([8 U.S.C. 1522(d)(2)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1522/d/2/B&num=0&edition=prelim)); and “(2) such individual’s parole has not been terminated by the Secretary of Homeland Security. “(b) Benefits.—An individual described in subsection (a) shall be eligible for—“(1) resettlement assistance, entitlement programs, and other benefits available to refugees admitted under section 207 of the Immigration and Nationality Act ([8 U.S.C. 1157](./chapter-012-immigration-and-nationality.md#section-1157)) to the same extent as such refugees, but shall not be eligible for the program of initial resettlement authorized by section 412(b)(1) of the Immigration and Nationality Act ([8 U.S.C. 1522(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1522/b/1&num=0&edition=prelim)); and “(2) services described under section 412(d)(2) of the Immigration and Nationality Act ([8 U.S.C. 1522(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1522/d/2&num=0&edition=prelim)), subject to subparagraph (B) of such section, if such individual is an unaccompanied alien child as defined under section 462(g)(2) of the Homeland Security Act of 2002 ([6 U.S.C. 279(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section279/g/2&num=0&edition=prelim)). “(c) Clarifications.—“(1) Nothing in this section shall be interpreted to:“(A) preclude an individual described in subsection (a) from applying for or receiving any immigration benefits to which such individual is otherwise eligible; or “(B) entitle a person described in subsection (a) to lawful permanent resident status. “(2) Section 421(a) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193) [[8 U.S.C. 1631(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1631/a&num=0&edition=prelim)] shall not apply with respect to determining the eligibility and the amount of benefits made available pursuant to subsection (b). “(d) Non-Application of the Paperwork Reduction Act.—Chapter 35 of title 44, United States Code (commonly referred to as the Paperwork Reduction Act of 1995), shall not apply to any action taken to implement this section that involves translating a currently approved collection of information into a new language.”
 
 #### Benefits for Certain Citizens or Nationals of Afghanistan
 Pub. L. 117–43, div. C, title V, § 2502, Sept. 30, 2021, 135 Stat. 377, provided that: “(a) In General.—Notwithstanding any other provision of law, a citizen or national of Afghanistan (or a person with no nationality who last habitually resided in Afghanistan) shall be eligible for the benefits described in subsections (b) and (c) if—“(1) such individual completed security and law enforcement background checks to the satisfaction of the Secretary of Homeland Security and was subsequently—“(A) paroled into the United States between July 31, 2021, and September 30, 2022; or “(B) paroled into the United States after September 30, 2022, and—“(i) is the spouse or child (as such term is defined under section 101(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/b&num=0&edition=prelim)) of an individual described in subparagraph (A); or “(ii) is the parent or legal guardian of an individual described in subparagraph (A) who is determined to be an unaccompanied child under [6 U.S.C. 279(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section279/g/2&num=0&edition=prelim); and “(2) such individual’s parole has not been terminated by the Secretary of Homeland Security. “(b) Benefits.—An individual described in subsection (a) shall be eligible for—“(1) resettlement assistance, entitlement programs, and other benefits available to refugees admitted under section 207 of the Immigration and Nationality Act ([8 U.S.C. 1157](./chapter-012-immigration-and-nationality.md#section-1157)) until March 31, 2023, or the term of parole granted under subsection (a), whichever is later; “(2) services described under section 412(d)(2) of the Immigration and Nationality Act ([8 U.S.C. 1522(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1522/d/2&num=0&edition=prelim)), subject to subparagraph (B) of such section, if such individual is an unaccompanied alien child as defined under [6 U.S.C. 279(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section279/g/2&num=0&edition=prelim); and “(3) a driver’s license or identification card under section 202 of the REAL ID Act of 2005 (division B of Public Law 109–13; [49 U.S.C. 30301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section30301&num=0&edition=prelim) note), notwithstanding subsection (c)(2)(B) of such Act [probably means “such section”]. “(c) Expeditious Adjudication of Asylum Applications.—With respect to an application for asylum under section 208 of the Immigration and Nationality Act ([8 U.S.C. 1158](./chapter-012-immigration-and-nationality.md#section-1158)) filed by an individual described in subsection (a), the Secretary of Homeland Security shall—“(1) conduct the initial interview on the asylum application not later than 45 days after the date on which the application is filed; and “(2) in the absence of exceptional circumstances, issue a final administrative adjudication on the asylum application within 150 days after the date the application is filed. “(d) Clarification.—Notwithstanding any other provision of law, nothing in this act [probably should be “Act”, meaning div. C of Pub. L. 117–43, see Tables for classification] shall be interpreted to—“(1) preclude an individual described in subsection (a), from applying for or receiving any immigration benefits to which such individual is otherwise eligible; or “(2) entitle a person described in subsection (a) to lawful permanent resident status. “(e) Report.—Not later than 120 days after the date of enactment of this Act [Sept. 30, 2021], and every 3 months thereafter, the Secretary of Homeland Security, in consultation with the Secretary of Defense and the Secretary of State, shall submit a report to Congress detailing the number of individuals described in subsection (a); the number of individuals receiving benefits in subsection (b), including their eligibility for benefits as refugees notwithstanding this Act; and any other information deemed relevant by the Secretary.”
@@ -1685,6 +1690,9 @@ Pub. L. 104–208, div. C, § 1(c), Sept. 30, 1996, 110 Stat. 3009–546, provid
 Pub. L. 104–208, div. C, title V, § 594, Sept. 30, 1996, 110 Stat. 3009–688, provided that: “Except as otherwise provided in this title [see Effective Date of 1996 Amendment note above], for purposes of this title— “(1) the terms ‘alien’, ‘Attorney General’, ‘national’, ‘naturalization’, ‘State’, and ‘United States’ shall have the meaning given such terms in section 101(a) of the Immigration and Nationality Act [[8 U.S.C. 1101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a&num=0&edition=prelim)]; and “(2) the term ‘child’ shall have the meaning given such term in section 101(c) of the Immigration and Nationality Act.”
 
 Pub. L. 85–316, § 14, Sept. 11, 1957, 71 Stat. 643, provided that: “Except as otherwise specifically provided in this Act, the definitions contained in subsections (a) and (b) of section 101 of the Immigration and Nationality Act [[8 U.S.C. 1101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a&num=0&edition=prelim), (b)] shall apply to sections 4, 5, 6, 7, 8, 9, 12, 13, and 15 of this Act [enacting sections 1182b, 1182c, 1201a, 1205, 1251a, 1255a, and 1255b of this title and provisions set out as notes under [section 1153 of this title](./chapter-012-immigration-and-nationality.md#section-1153) and section 1971a of the former Appendix to Title 50, War and National Defense.]”
+
+#### Admission of Hawaii as State
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 25, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding former [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Ex. Ord. No. 12711. Policy Implementation With Respect to Nationals of People’s Republic of China
 Ex. Ord. No. 12711, Apr. 11, 1990, 55 F.R. 13897, provided:
@@ -2142,7 +2150,7 @@ Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impa
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-J. R. Biden, Jr.
+J.R. Biden, Jr.
 
 #### Ex. Ord. No. 14010. Creating a Comprehensive Regional Framework To Address the Causes of Migration, To Manage Migration Throughout North and Central America, and To Provide Safe and Orderly Processing of Asylum Seekers at the United States Border
 Ex. Ord. No. 14010, Feb. 2, 2021, 86 F.R. 8267, provided:
@@ -3206,32 +3214,772 @@ Pub. L. 97–113, title VII, § 714, Dec. 29, 1981, 95 Stat. 1548, provided that
 
   (A) *In general* — Visas shall be made available, in a number not to exceed 7.1 percent of such worldwide level, to qualified immigrants seeking to enter the United States for the purpose of engaging in a new commercial enterprise (including a limited partnership)—
 
-    (i) in which such alien has invested (after November 29, 1990) or, is actively in the process of investing, capital in an amount not less than the amount specified in subparagraph (C), and
+    (i) in which such alien has invested (after November 29, 1990) or, is actively in the process of investing, capital in an amount not less than the amount specified in subparagraph (C) and which is expected to remain invested for not less than 2 years; and
 
-    (ii) which will benefit the United States economy and create full-time employment for not fewer than 10 United States citizens or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the immigrant and the immigrant’s spouse, sons, or daughters).
+    (ii) which will benefit the United States economy by creating full-time employment for not fewer than 10 United States citizens, United States nationals, or aliens lawfully admitted for permanent residence or other immigrants lawfully authorized to be employed in the United States (other than the immigrant and the immigrant’s spouse, sons, or daughters).
 
-  (B) *Set-aside for targeted employment areas*
+  (B) *Designations and reserved visas*
 
-    (i) *In general* — Not less than 3,000 of the visas made available under this paragraph in each fiscal year shall be reserved for qualified immigrants who invest in a new commercial enterprise described in subparagraph (A) which will create employment in a targeted employment area.
+    (i) *Reserved visas*
 
-    (ii) *“Targeted employment area” defined* — In this paragraph, the term “targeted employment area” means, at the time of the investment, a rural area or an area which has experienced high unemployment (of at least 150 percent of the national average rate).
+      (I) *In general* — Of the visas made available under this paragraph in each fiscal year—
 
-    (iii) *“Rural area” defined* — In this paragraph, the term “rural area” means any area other than an area within a metropolitan statistical area or within the outer boundary of any city or town having a population of 20,000 or more (based on the most recent decennial census of the United States).
+        (aa) 20 percent shall be reserved for qualified immigrants who invest in a rural area;
+
+        (bb) 10 percent shall be reserved for qualified immigrants who invest in an area designated by the Secretary of Homeland Security under clause (ii) as a high unemployment area; and
+
+        (cc) 2 percent shall be reserved for qualified immigrants who invest in infrastructure projects.
+
+      (II) *Unused visas*
+
+        (aa) *Carryover* — At the end of each fiscal year, any unused visas reserved for qualified immigrants investing in each of the categories described in items (aa) through (cc) of subclause (I) shall remain available within the same category for the immediately succeeding fiscal year.
+
+        (bb) *General availability* — Visas described in items (aa) through (cc) of subclause (I) that are not issued by the end of the succeeding fiscal year referred to in item (aa) shall be made available to qualified immigrants described under subparagraph (A).
+
+    (ii) *Designation of high unemployment area*
+
+      (I) *In general* — The Secretary of Homeland Security, or a designee of the Secretary who is an employee of the Department of Homeland Security, may designate, as a high unemployment area, a census tract, or contiguous census tracts, in which—
+
+        (aa) the new commercial enterprise is principally doing business; and
+
+        (bb) the weighted average of the unemployment rate for the census tracts, based on the labor force employment measure for each applicable census tract and any adjacent tract included under subclause (III), is not less than 150 percent of the national average unemployment rate.
+
+      (II) *Prohibition on designation by any other official* — A targeted employment area may not be designated as a high unemployment area by—
+
+        (aa) a Federal official other than the Secretary of Homeland Security or a designee of the Secretary; or
+
+        (bb) any official of a State or local government.
+
+      (III) *Inclusion* — In making a designation under subclause (I), the Secretary of Homeland Security may include a census tract directly adjacent to a census tract or contiguous census tracts described in that subclause.
+
+      (IV) *Duration*
+
+        (aa) *In general* — A designation under this clause shall be in effect for the 2-year period beginning on—
+
+          (AA) the date on which an application under subparagraph (F) is filed; or
+
+          (BB) in the case of an alien who is not subject to subparagraph (F), at the time of investment.
+
+        (bb) *Renewal* — A designation under this clause may be renewed for 1 or more additional 2-year periods if the applicable area continues to meet the criteria described in subclause (I).
+
+      (V) *Additional investment not required* — An immigrant investor who has invested the amount of capital required by subparagraph (C) in a targeted employment area designated as a high unemployment area during the period in which the area is so designated shall not be required to increase the amount of investment due to the expiration of the designation.
+
+    (iii) *Infrastructure projects*
+
+      (I) *In general* — The Secretary of Homeland Security shall determine whether a specific capital investment project meets the definition of “infrastructure project” set forth in subparagraph (D)(iv).
+
+      (II) *Prohibition on designation by any other official* — A determination under subclause (I) may not be made by—
+
+        (aa) a Federal official other than the Secretary of Homeland Security or a designee of the Secretary; or
+
+        (bb) any official of a State or local government.
 
   (C) *Amount of capital required*
 
-    (i) *In general* — Except as otherwise provided in this subparagraph, the amount of capital required under subparagraph (A) shall be $1,000,000. The Attorney General, in consultation with the Secretary of Labor and the Secretary of State, may from time to time prescribe regulations increasing the dollar amount specified under the previous sentence.
+    (i) *In general* — Except as otherwise provided in this subparagraph, the amount of capital required under subparagraph (A) shall be $1,050,000.
 
-    (ii) *Adjustment for targeted employment areas* — The Attorney General may, in the case of investment made in a targeted employment area, specify an amount of capital required under subparagraph (A) that is less than (but not less than ½ of) the amount specified in clause (i).
+    (ii) *Adjustment for targeted employment areas and infrastructure projects* — The amount of capital required under subparagraph (A) for an investment in a targeted employment area or in an infrastructure project shall be $800,000.
 
-    (iii) *Adjustment for high employment areas* — In the case of an investment made in a part of a metropolitan statistical area that at the time of the investment—
+    (iii) *Automatic adjustment in minimum investment amount*
+
+      (I) *In general.—* — Beginning on January 1, 2027, and every 5 years thereafter, the amount in clause (i) shall automatically adjust for petitions filed on or after the effective date of each adjustment, based on the cumulative annual percentage change in the unadjusted consumer price index for all urban consumers (all items; U.S. city average) reported by the Bureau of Labor Statistics between January 1, 2022, and the date of adjustment. The qualifying investment amounts shall be rounded down to the nearest $50,000. The Secretary of Homeland Security shall update such amounts by publication of a technical amendment in the Federal Register.
+
+      (II) Beginning on January 1, 2027, and every 5 years thereafter, the amount in clause (ii) shall automatically adjust for petitions filed on or after the effective date of each adjustment, to be equal to 75 percent of the standard investment amount under subclause (I).
+
+    (iv) *Adjustment for high employment areas* — In the case of an investment made in a part of a metropolitan statistical area that at the time of the investment—
 
       (I) is not a targeted employment area, and
 
       (II) is an area with an unemployment rate significantly below the national average unemployment rate,
-    the Attorney General may specify an amount of capital required under subparagraph (A) that is greater than (but not greater than 3 times) the amount specified in clause (i).
+    the Secretary of Homeland Security may specify an amount of capital required under subparagraph (A) that is greater than (but not greater than 3 times) the amount specified in clause (i), as adjusted under clause (iii).
 
-  (D) *Full-time employment defined* — In this paragraph, the term “full-time employment” means employment in a position that requires at least 35 hours of service per week at any time, regardless of who fills the position.
+  (D) *Definitions* — In this paragraph:
+
+    (i) *Affiliated job-creating entity* — The term “affiliated job-creating entity” means any job-creating entity that is controlled, managed, or owned by any of the people involved with the regional center or new commercial enterprise under subsection (b)(5)(H)(v).
+
+    (ii) *Capital* — The term “capital”—
+
+      (I) means cash and all real, personal, or mixed tangible assets owned and controlled by the alien investor, or held in trust for the benefit of the alien and to which the alien has unrestricted access;
+
+      (II) shall be valued at fair market value in United States dollars, in accordance with Generally Accepted Accounting Principles or other standard accounting practice adopted by the Securities and Exchange Commission, at the time it is invested under this paragraph;
+
+      (III) does not include—
+
+        (aa) assets directly or indirectly acquired by unlawful means, including any cash proceeds of indebtedness secured by such assets;
+
+        (bb) capital invested in exchange for a note, bond, convertible debt, obligation, or any other debt arrangement between the alien investor and the new commercial enterprise;
+
+        (cc) capital invested with a guaranteed rate of return on the amount invested by the alien investor; or
+
+        (dd) except as provided in subclause (IV), capital invested that is subject to any agreement between the alien investor and the new commercial enterprise that provides the investor with a contractual right to repayment, such as a mandatory redemption at a certain time or upon the occurrence of a certain event, or a put or sell-back option held by the alien investor, even if such contractual right is contingent on the success of the new commercial enterprise, such as having sufficient available cash flow; and
+
+      (IV) includes capital invested that—
+
+        (aa) is subject to a buy back option that may be exercised solely at the discretion of the new commercial enterprise; and
+
+        (bb) results in the alien investor withdrawing his or her petition unless the alien investor has fulfilled his or her sustainment period and other requirements under this paragraph.
+
+    (iii) *Certifier* — The term “certifier” means a person in a position of substantive authority for the management or operations of a regional center, new commercial enterprise, affiliated job-creating entity, or issuer of securities, such as a principal executive officer or principal financial officer, with knowledge of such entities’ policies and procedures related to compliance with the requirements under this paragraph.
+
+    (iv) *Infrastructure project* — The term “infrastructure project” means a capital investment project in a filed or approved business plan, which is administered by a governmental entity (such as a Federal, State, or local agency or authority) that is the job-creating entity contracting with a regional center or new commercial enterprise to receive capital investment under the regional center program described in subparagraph (E) from alien investors or the new commercial enterprise as financing for maintaining, improving, or constructing a public works project.
+
+    (v) *Job-creating entity* — The term “job-creating entity” means any organization formed in the United States for the ongoing conduct of lawful business, including sole proprietorship, partnership (whether limited or general), corporation, limited liability company, business trust, or other entity, which may be publicly or privately owned, including an entity consisting of a holding company and its wholly owned subsidiaries or affiliates (provided that each subsidiary or affiliate is engaged in an activity formed for the ongoing conduct of a lawful business) that receives, or is established to receive, capital investment from alien investors or a new commercial enterprise under the regional center program described in this subparagraph and which is responsible for creating jobs to satisfy the requirement under subparagraph (A)(ii).
+
+    (vi) *New commercial enterprise* — The term “new commercial enterprise” means any for-profit organization formed in the United States for the ongoing conduct of lawful business, including sole proprietorship, partnership (whether limited or general), holding company and its wholly owned subsidiaries (provided that each subsidiary is engaged in a for-profit activity formed for the ongoing conduct of a lawful business), joint venture, corporation, business trust, limited liability company, or other entity (which may be publicly or privately owned) that receives, or is established to receive, capital investment from investors under this paragraph.
+
+    (vii) *Rural area* — The term “rural area” means any area other than an area within a metropolitan statistical area (as designated by the Director of the Office of Management and Budget) or within the outer boundary of any city or town having a population of 20,000 or more (based on the most recent decennial census of the United States).
+
+    (viii) *Targeted employment area* — The term “targeted employment area” means, at the time of investment, a rural area or an area designated by the Secretary of Homeland Security under subparagraph (B)(ii) as a high unemployment area.
+
+  (E) *Regional center program*
+
+    (i) *In general* — Visas under this subparagraph shall be made available through September 30, 2027, to qualified immigrants (and the eligible spouses and children of such immigrants) pooling their investments with 1 or more qualified immigrants participating in a program implementing this paragraph that involves a regional center in the United States, which has been designated by the Secretary of Homeland Security on the basis of a proposal for the promotion of economic growth, including prospective job creation and increased domestic capital investment.
+
+    (ii) *Processing* — In processing petitions under [section 1154(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim) for classification under this paragraph, the Secretary of Homeland Security—
+
+      (I) shall prioritize the processing and adjudication of petitions for rural areas;
+
+      (II) may process petitions in a manner and order established by the Secretary; and
+
+      (III) shall deem such petitions to include records previously filed with the Secretary pursuant to subparagraph (F) if the alien petitioner certifies that such records are incorporated by reference into the alien’s petition.
+
+    (iii) *Establishment of a regional center* — A regional center shall operate within a defined, contiguous, and limited geographic area, which shall be described in the proposal and be consistent with the purpose of concentrating pooled investment within such area. The proposal to establish a regional center shall demonstrate that the pooled investment will have a substantive economic impact on such geographic area, and shall include—
+
+      (I) reasonable predictions, supported by economically and statistically valid and transparent forecasting tools, concerning the amount of investment that will be pooled, the kinds of commercial enterprises that will receive such investments, details of the jobs that will be created directly or indirectly as a result of such investments, and other positive economic effects such investments will have;
+
+      (II) a description of the policies and procedures in place reasonably designed to monitor new commercial enterprises and any associated job-creating entity to seek to ensure compliance with—
+
+        (aa) all applicable laws, regulations, and Executive orders of the United States, including immigration laws, criminal laws, and securities laws; and
+
+        (bb) all securities laws of each State in which securities offerings will be conducted, investment advice will be rendered, or the offerors or offerees reside;
+
+      (III) attestations and information confirming that all persons involved with the regional center meet the requirements under clauses (i) and (ii) of subparagraph (H);
+
+      (IV) a description of the policies and procedures in place that are reasonably designed to ensure program compliance; and
+
+      (V) the identities of all natural persons involved in the regional center, as described in subparagraph (H)(v).
+
+    (iv) *Indirect job creation*
+
+      (I) *In general* — The Secretary of Homeland Security shall permit aliens seeking admission under this subparagraph to satisfy only up to 90 percent of the requirement under subparagraph (A)(ii) with jobs that are estimated to be created indirectly through investment under this paragraph in accordance with this subparagraph. An employee of the new commercial enterprise or job-creating entity may be considered to hold a job that has been directly created.
+
+      (II) *Construction activity lasting less than 2 years* — If the jobs estimated to be created are created by construction activity lasting less than 2 years, the Secretary shall permit aliens seeking admission under this subparagraph to satisfy only up to 75 percent of the requirement under subparagraph (A)(ii) with jobs that are estimated to be created indirectly through investment under this paragraph in accordance with this subparagraph.
+
+    (v) *Compliance*
+
+      (I) *In general* — In determining compliance with subparagraph (A)(ii), the Secretary of Homeland Security shall permit aliens seeking admission under this subparagraph to rely on economically and statistically valid methodologies for determining the number of jobs created by the program, including—
+
+        (aa) jobs estimated to have been created directly, which may be verified using such methodologies; and
+
+        (bb) consistent with this subparagraph, jobs estimated to have been directly or indirectly created through capital expenditures, revenues generated from increased exports, improved regional productivity, job creation, and increased domestic capital investment resulting from the program.
+
+      (II) *Job and investment requirements*
+
+        (aa) *Relocated jobs* — In determining compliance with the job creation requirement under subparagraph (A)(ii), the Secretary of Homeland Security may include jobs estimated to be created under a methodology that attributes jobs to prospective tenants occupying commercial real estate created or improved by capital investments if the number of such jobs estimated to be created has been determined by an economically and statistically valid methodology and such jobs are not existing jobs that have been relocated.
+
+        (bb) *Publicly available bonds* — The Secretary of Homeland Security shall prescribe regulations to ensure that alien investor capital may not be utilized, by a new commercial enterprise or otherwise, to purchase municipal bonds or any other bonds, if such bonds are available to the general public, either as part of a primary offering or from a secondary market.
+
+        (cc) *Construction activity jobs* — If the number of direct jobs estimated to be created has been determined by an economically and statistically valid methodology, and such direct jobs are created by construction activity lasting less than 2 years, the number of such jobs that may be considered direct jobs for purposes of clause (iv) shall be calculated by multiplying the total number of such jobs estimated to be created by the fraction of the 2-year period that the construction activity lasts.
+
+    (vi) *Amendments* — The Secretary of Homeland Security shall—
+
+      (I) require a regional center—
+
+        (aa) to notify the Secretary, not later than 120 days before the implementation of significant proposed changes to its organizational structure, ownership, or administration, including the sale of such center, or other arrangements which would result in individuals not previously subject to the requirements under subparagraph (H) becoming involved with the regional center; or
+
+        (bb) if exigent circumstances are present, to provide the notice described in item (aa) to the Secretary not later than 5 business days after a change described in such item; and
+
+      (II) adjudicate business plans under subparagraph (F) and petitions under [section 1154(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim) during any notice period as long as the amendment to the business or petition does not negatively impact program eligibility.
+
+    (vii) *Record keeping and audits*
+
+      (I) *Record keeping* — Each regional center shall make and preserve, during the 5-year period beginning on the last day of the Federal fiscal year in which any transactions occurred, books, ledgers, records, and other documentation from the regional center, new commercial enterprise, or job-creating entity used to support—
+
+        (aa) any claims, evidence, or certifications contained in the regional center’s annual statements under subparagraph (G); and
+
+        (bb) associated petitions by aliens seeking classification under this section or removal of conditions under [section 1186b of this title](./chapter-012-immigration-and-nationality.md#section-1186b).
+
+      (II) *Audits* — The Secretary shall audit each regional center not less frequently than once every 5 years. Each such audit shall include a review of any documentation required to be maintained under subclause (I) for the preceding 5 years and a review of the flow of alien investor capital into any capital investment project. To the extent multiple regional centers are located at a single site, the Secretary may audit multiple regional centers in a single site visit.
+
+      (III) *Termination* — The Secretary shall terminate the designation of a regional center that fails to consent to an audit under subclause (II) or deliberately attempts to impede such an audit.
+
+  (F) *Business plans for regional center investments*
+
+    (i) *Application for approval of an investment in a commercial enterprise* — A regional center shall file an application with the Secretary of Homeland Security for each particular investment offering through an associated new commercial enterprise before any alien files a petition for classification under this paragraph by reason of investment in that offering. The application shall include—
+
+      (I) a comprehensive business plan for a specific capital investment project;
+
+      (II) a credible economic analysis regarding estimated job creation that is based upon economically and statistically valid and transparent methodologies;
+
+      (III) any documents filed with the Securities and Exchange Commission under the Securities Act of 1933 ([15 U.S.C. 77a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) et seq.) or with the securities regulator of any State, as required by law;
+
+      (IV) any investment and offering documents, including subscription, investment, partnership, and operating agreements, private placement memoranda, term sheets, biographies of management, officers, directors, and any person with similar responsibilities, the description of the business plan to be provided to potential alien investors, and marketing materials used, or drafts prepared for use, in connection with the offering, which shall contain references, as appropriate, to—
+
+        (aa) all material investment risks associated with the new commercial enterprise and the job-creating entity;
+
+        (bb) any conflicts of interest that currently exist or may arise among the regional center, the new commercial enterprise, the job-creating entity, or the principals, attorneys, or individuals responsible for recruitment or promotion of such entities;
+
+        (cc) any pending material litigation or bankruptcy, or material adverse judgments or bankruptcy orders issued during the most recent 10-year period, in the United States or in another country, affecting the regional center, the new commercial enterprise, any associated job-creating entity, or any other enterprise in which any principal of any of the aforementioned entities held majority ownership at the time; and
+
+        (dd)
+
+          (AA) any fees, ongoing interest, or other compensation paid, or to be paid by the regional center, the new commercial enterprise, or any issuer of securities intended to be offered to alien investors, to agents, finders, or broker dealers involved in the offering of securities to alien investors in connection with the investment;
+
+          (BB) a description of the services performed, or that will be performed, by such person to entitle the person to such fees, interest, or compensation; and
+
+          (CC) the name and contact information of any such person, if known at the time of filing;
+
+      (V) a description of the policies and procedures, such as those related to internal and external due diligence, reasonably designed to cause the regional center and any issuer of securities intended to be offered to alien investors in connection with the relevant capital investment project, to comply, as applicable, with the securities laws of the United States and the laws of the applicable States in connection with the offer, purchase, or sale of its securities; and
+
+      (VI) a certification from the regional center, and any issuer of securities intended to be offered to alien investors in connection with the relevant capital investment project, that their respective agents and employees, and any parties associated with the regional center and such issuer of securities affiliated with the regional center are in compliance with the securities laws of the United States and the laws of the applicable States in connection with the offer, purchase, or sale of its securities, to the best of the certifier’s knowledge, after a due diligence investigation.
+
+    (ii) *Effect of approval of a business plan for an investment in a regional center’s commercial enterprise* — The approval of an application under this subparagraph, including an approval before the date of the enactment of this subparagraph, shall be binding for purposes of the adjudication of subsequent petitions seeking classification under this paragraph by immigrants investing in the same offering described in such application, and of petitions by the same immigrants filed under [section 1186b of this title](./chapter-012-immigration-and-nationality.md#section-1186b) unless—
+
+      (I) the applicant engaged in fraud, misrepresentation, or criminal misuse;
+
+      (II) such approval would threaten public safety or national security;
+
+      (III) there has been a material change that affects eligibility;
+
+      (IV) the discovery of other evidence affecting program eligibility was not disclosed by the applicant during the adjudication process; or
+
+      (V) the previous adjudication involved a material mistake of law or fact.
+
+    (iii) *Amendments*
+
+      (I) *Approval* — The Secretary of Homeland Security may establish procedures by which a regional center may seek approval of an amendment to an approved application under this subparagraph that reflects changes specified by the Secretary to any information, documents, or other aspects of the investment offering described in such approved application not later than 30 days after any such changes.
+
+      (II) *Incorporation* — Upon the approval of a timely filed amendment to an approved application, any changes reflected in such amendment may be incorporated into and considered in determining program eligibility through adjudication of—
+
+        (aa) pending petitions from immigrants investing in the offering described in the approved application who are seeking classification under this paragraph; and
+
+        (bb) petitions by immigrants described in item (aa) that are filed under [section 1186b of this title](./chapter-012-immigration-and-nationality.md#section-1186b).
+
+    (iv) *Site visits* — The Secretary of Homeland Security shall—
+
+      (I) perform site visits to regional centers not earlier than 24 hours after providing notice of such site visit; and
+
+      (II) perform at least 1 site visit to, as applicable, each new commercial enterprise or job-creating entity, or the business locations where any jobs that are claimed as being created.
+
+    (v) *Parameters for capital redeployment*
+
+      (I) *In general* — The Secretary of Homeland Security shall prescribe regulations, in accordance with subchapter II of chapter 5 and chapter 7 of title 5 (commonly known as the “Administrative Procedure Act”), that allow a new commercial enterprise to redeploy investment funds anywhere within the United States or its territories for the purpose of maintaining the investors’ capital at risk if—
+
+        (aa) the new commercial enterprise has executed the business plan for a capital investment project in good faith without a material change;
+
+        (bb) the new commercial enterprise has created a sufficient number of new full time positions to satisfy the job creation requirements of the program for all investors in the new commercial enterprise, either directly or indirectly, as evidenced by the methodologies set forth in this chapter;
+
+        (cc) the job creating entity has repaid the capital initially deployed in conformity with the initial investment contemplated by the business plan; and
+
+        (dd) the capital, after repayment by the job creating entity, remains at risk and it is not redeployed in passive investments, such as stocks or bonds.
+
+      (II) *Termination* — The Secretary of Homeland Security shall terminate the designation of a regional center if the Secretary determines that a new commercial enterprise has violated any of the requirements under subclause (I) in the redeployment of funds invested in such regional center.
+
+  (G) *Regional center annual statements*
+
+    (i) *In general* — Each regional center designated under subparagraph (E) shall submit an annual statement, in a manner prescribed by the Secretary of Homeland Security. Each such statement shall include—
+
+      (I) a certification stating that, to the best of the certifier’s knowledge, after a due diligence investigation, the regional center is in compliance with clauses (i) and (ii) of subparagraph (H);
+
+      (II) a certification described in subparagraph (I)(ii)(II);
+
+      (III) a certification stating that, to the best of the certifier’s knowledge, after a due diligence investigation, the regional center is in compliance with subparagraph (K)(iii);
+
+      (IV) a description of any pending material litigation or bankruptcy proceedings, or material litigation or bankruptcy proceedings resolved during the preceding fiscal year, involving the regional center, the new commercial enterprise, or any affiliated job-creating entity;
+
+      (V) an accounting of all individual alien investor capital invested in the regional center, new commercial enterprise, and job-creating entity;
+
+      (VI) for each new commercial enterprise associated with the regional center—
+
+        (aa) an accounting of the aggregate capital invested in the new commercial enterprise and any job-creating entity by alien investors under this paragraph for each capital investment project being undertaken by the new commercial enterprise;
+
+        (bb) a description of how the capital described in item (aa) is being used to execute each capital investment project in the filed business plan or plans;
+
+        (cc) evidence that 100 percent of the capital described in item (aa) has been committed to each capital investment project;
+
+        (dd) detailed evidence of the progress made toward the completion of each capital investment project;
+
+        (ee) an accounting of the aggregate direct jobs created or preserved;
+
+        (ff) to the best of the regional center’s knowledge, for all fees, including administrative fees, loan monitoring fees, loan management fees, commissions and similar transaction-based compensation, collected from alien investors by the regional center, the new commercial enterprise, any affiliated job-creating entity, any affiliated issuer of securities intended to be offered to alien investors, or any promoter, finder, broker-dealer, or other entity engaged by any of the aforementioned entities to locate individual investors—
+
+          (AA) a description of all fees collected;
+
+          (BB) an accounting of the entities that received such fees; and
+
+          (CC) the purpose for which such fees were collected;
+
+        (gg) any documentation referred to in subparagraph (F)(i)(IV) if there has been a material change during the preceding fiscal year; and
+
+        (hh) a certification by the regional center that the information provided under items (aa) through (gg) is accurate, to the best of the certifier’s knowledge, after a due diligence investigation; and
+
+      (VII) a description of the regional center’s policies and procedures that are designed to enable the regional center to comply with applicable Federal labor laws.
+
+    (ii) *Amendment of annual statements* — The Secretary of Homeland Security—
+
+      (I) shall require the regional center to amend or supplement an annual statement required under clause (i) if the Secretary determines that such statement is deficient; and
+
+      (II) may require the regional center to amend or supplement such annual statement if the Director determines that such an amendment or supplement is appropriate.
+
+    (iii) *Sanctions*
+
+      (I) *Effect of violation* — The Director shall sanction any regional center entity in accordance with subclause (II) if the regional center fails to submit an annual statement or if the Director determines that the regional center—
+
+        (aa) knowingly submitted or caused to be submitted a statement, certification, or any information submitted pursuant to this subparagraph that contained an untrue statement of material fact; or
+
+        (bb) is conducting itself in a manner inconsistent with its designation under subparagraph (E), including any willful, undisclosed, and material deviation by new commercial enterprises from any filed business plan for such new commercial enterprises.
+
+      (II) *Authorized sanctions* — The Director shall establish a graduated set of sanctions based on the severity of the violations referred to in subclause (I), including—
+
+        (aa) fines equal to not more than 10 percent of the total capital invested by alien investors in the regional center’s new commercial enterprises or job-creating entities directly involved in such violations, the payment of which shall not in any circumstance utilize any of such alien investors’ capital investments, and which shall be deposited into the EB–5 Integrity Fund established under subparagraph (J);
+
+        (bb) temporary suspension from participation in the program described in subparagraph (E), which may be lifted by the Director if the individual or entity cures the alleged violation after being provided such an opportunity by the Director;
+
+        (cc) permanent bar from participation in the program described in subparagraph (E) for 1 or more individuals or business entities associated with the regional center, new commercial enterprise, or job-creating entity; and
+
+        (dd) termination of regional center designation.
+
+    (iv) *Availability of annual statements to investors* — Not later than 30 days after a request from an alien investor, a regional center shall make available to such alien investor a copy of the filed annual statement and any amendments filed to such statement, which shall be redacted to exclude any information unrelated to such alien investor or the new commercial enterprise or job creating entity into which the alien investor invested.
+
+  (H) *Bona fides of persons involved with regional center program*
+
+    (i) *In general* — The Secretary of Homeland Security may not permit any person to be involved with any regional center, new commercial enterprise, or job-creating entity if—
+
+      (I) the person has been found to have committed—
+
+        (aa) a criminal or civil offense involving fraud or deceit within the previous 10 years;
+
+        (bb) a civil offense involving fraud or deceit that resulted in a liability in excess of $1,000,000; or
+
+        (cc) a crime for which the person was convicted and sentenced to a term of imprisonment of more than 1 year;
+
+      (II) the person is subject to a final order, for the duration of any penalty imposed by such order, of a State securities commission (or an agency or officer of a State performing similar functions), a State authority that supervises or examines banks, savings associations, or credit unions, a State insurance commission (or an agency or officer of a State performing similar functions), an appropriate Federal banking agency, the Commodity Futures Trading Commission, the Securities and Exchange Commission, a financial self-regulatory organization recognized by the Securities and Exchange Commission, or the National Credit Union Administration, which is based on a violation of any law or regulation that—
+
+        (aa) prohibits fraudulent, manipulative, or deceptive conduct; or
+
+        (bb) bars the person from—
+
+          (AA) association with an entity regulated by such commission, authority, agency, or officer;
+
+          (BB) appearing before such commission, authority, agency, or officer;
+
+          (CC) engaging in the business of securities, insurance, or banking; or
+
+          (DD) engaging in savings association or credit union activities;
+
+      (III) the Secretary determines that the person is engaged in, has ever been engaged in, or seeks to engage in—
+
+        (aa) any illicit trafficking in any controlled substance or in any listed chemical (as defined in [section 802 of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim));
+
+        (bb) any activity relating to espionage, sabotage, or theft of intellectual property;
+
+        (cc) any activity related to money laundering (as described in section 1956 or 1957 of title 18);
+
+        (dd) any terrorist activity (as defined in [section 1182(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/a/3/B&num=0&edition=prelim));
+
+        (ee) any activity constituting or facilitating human trafficking or a human rights offense;
+
+        (ff) any activity described in [section 1182(a)(3)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/a/3/E&num=0&edition=prelim); or
+
+        (gg) the violation of any statute, regulation, or Executive order regarding foreign financial transactions or foreign asset control; or
+
+      (IV) the person—
+
+        (aa) is, or during the preceding 10 years has been, included on the Department of Justice’s List of Currently Disciplined Practitioners; or
+
+        (bb) during the preceding 10 years, has received a reprimand or has otherwise been publicly disciplined for conduct related to fraud or deceit by a State bar association of which the person is or was a member.
+
+    (ii) *Foreign involvement in regional center program*
+
+      (I) *Lawful status required* — A person may not be involved with a regional center unless the person—
+
+        (aa) is a national of the United States or an individual who has been lawfully admitted for permanent residence (as such terms are defined in paragraphs (20) and (22) of [section 1101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a&num=0&edition=prelim)); and
+
+        (bb) is not the subject of rescission or removal proceedings.
+
+      (II) *Foreign governments* — No agency, official, or other similar entity or representative of a foreign government entity may provide capital to, or be directly or indirectly involved with the ownership or administration of, a regional center, a new commercial enterprise, or a job-creating entity, except that a foreign or domestic investment fund or other investment vehicle that is wholly or partially owned, directly or indirectly, by a bona fide foreign sovereign wealth fund or a foreign state-owned enterprise otherwise permitted to do business in the United States may be involved with the ownership, but not the administration, of a job-creating entity that is not an affiliated job-creating entity.
+
+      (III) *Rulemaking* — Not later than 270 days after March 15, 2022, the Secretary shall issue regulations implementing subparagraphs (I) and (II).
+
+    (iii) *Information required* — The Secretary of Homeland Security—
+
+      (I) shall require such attestations and information, including the submission of fingerprints or other biometrics to the Federal Bureau of Investigation with respect to a regional center, a new commercial enterprise, and any affiliated job creating entity, and persons involved with such entities (as described in clause (v)), as may be necessary to determine whether such entities are in compliance with clauses (i) and (ii);
+
+      (II) shall perform such criminal record checks and other background and database checks with respect to a regional center, a new commercial enterprise, and any affiliated job-creating entity, and persons involved with such entities (as described in clause (v)), as may be necessary to determine whether such entities are in compliance with clauses (i) and (ii); and
+
+      (III) may, at the Secretary’s discretion, require the information described to in subclause (I) and may perform the checks described in subclause (II) with respect to any job creating entity and persons involved with such entity if there is a reasonable basis to believe such entity or person is not in compliance with clauses (i) and (ii).
+
+    (iv) *Termination*
+
+      (I) *In general* — The Secretary of Homeland Security may suspend or terminate the designation of any regional center, or the participation under the program of any new commercial enterprise or job-creating entity under this paragraph if the Secretary determines that such entity—
+
+        (aa) knowingly involved a person with such entity in violation of clause (i) or (ii) by failing, within 14 days of acquiring such knowledge—
+
+          (AA) to take commercially reasonable efforts to discontinue the prohibited person’s involvement; or
+
+          (BB) to provide notice to the Secretary;
+
+        (bb) failed to provide an attestation or information requested by the Secretary under clause (iii)(I); or
+
+        (cc) knowingly provided any false attestation or information under clause (iii)(I).
+
+      (II) *Limitation* — The Secretary’s authorized sanctions under subclause (I) shall be limited to entities that have engaged in any activity described in subclause (I).
+
+      (III) *Information*
+
+        (aa) *Notification* — The Secretary, after performing the criminal record checks and other background checks described in clause (iii), shall notify a regional center, new commercial enterprise, or job-creating entity whether any person involved with such entities is not in compliance with clause (i) or (ii), unless the information that provides the basis for the determination is classified or disclosure is otherwise prohibited under law.
+
+        (bb) *Effect of failure to respond* — If the regional center, new commercial enterprise, or job-creating entity fails to discontinue the prohibited person’s involvement with the regional center, new commercial enterprise, or job-creating entity, as applicable, within 30 days after receiving such notification, such entity shall be deemed to have knowledge under subclause (I)(aa) that the involvement of such person with the entity is in violation of clause (i) or (ii).
+
+    (v) *Persons involved with a regional center, new commercial enterprise, or job-creating entity* — For the purposes of this paragraph, unless otherwise determined by the Secretary of Homeland Security, a person is involved with a regional center, a new commercial enterprise, any affiliated job-creating entity, as applicable, if the person is, directly or indirectly, in a position of substantive authority to make operational or managerial decisions over pooling, securitization, investment, release, acceptance, or control or use of any funding that was procured under the program described in subparagraph (E). An individual may be in a position of substantive authority if the person serves as a principal, a representative, an administrator, an owner, an officer, a board member, a manager, an executive, a general partner, a fiduciary, an agent, or in a similar position at the regional center, new commercial enterprise, or job-creating entity, respectively.
+
+  (I) *Compliance with securities laws*
+
+    (i) *Jurisdiction*
+
+      (I) *In general* — The United States has jurisdiction, including subject matter jurisdiction, over the purchase or sale of any security offered or sold, or any investment advice provided, by any regional center or any party associated with a regional center for purposes of the securities laws.
+
+      (II) *Compliance with regulation s* — For purposes of section 5 of the Securities Act of 1933 ([15 U.S.C. 77e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77e&num=0&edition=prelim)), a regional center or any party associated with a regional center is not precluded from offering or selling a security pursuant to Regulation S (17 C.F.R. 230.901 et seq.) to the extent that such offering or selling otherwise complies with that regulation.
+
+      (III) *Savings provision* — Subclause (I) is not intended to modify any existing rules or regulations of the Securities and Exchange Commission related to the application of section 78o(a) of title 15 to foreign brokers or dealers.
+
+    (ii) *Regional center certifications required*
+
+      (I) *Initial certification* — The Secretary of Homeland Security may not approve an application for regional center designation or regional center amendment unless the regional center certifies that, to the best of the certifier’s knowledge, after a due diligence investigation, the regional center is in compliance with and has policies and procedures, including those related to internal and external due diligence, reasonably designed to confirm, as applicable, that all parties associated with the regional center are and will remain in compliance with the securities laws of the United States and of any State in which—
+
+        (aa) the offer, purchase, or sale of securities was conducted;
+
+        (bb) the issuer of securities was located; or
+
+        (cc) the investment advice was provided by the regional center or parties associated with the regional center.
+
+      (II) *Reissue* — A regional center shall annually reissue a certification described in subclause (I), in accordance with subparagraph (G), to certify compliance with clause (iii) by stating that—
+
+        (aa) the certification is made by a certifier;
+
+        (bb) to the best of the certifier’s knowledge, after a due diligence investigation, all such offers, purchases, and sales of securities or the provision of investment advice complied with the securities laws of the United States and the securities laws of any State in which—
+
+          (AA) the offer, purchase, or sale of securities was conducted;
+
+          (BB) the issuer of securities was located; or
+
+          (CC) the investment advice was provided; and
+
+        (cc) records, data, and information related to such offers, purchases, and sales have been maintained.
+
+      (III) *Effect of noncompliance* — If a regional center, through its due diligence, discovered during the previous fiscal year that the regional center or any party associated with the regional center was not in compliance with the securities laws of the United States or the securities laws of any State in which the securities activities were conducted by any party associated with the regional center, the certifier shall—
+
+        (aa) describe the activities that led to noncompliance;
+
+        (bb) describe the actions taken to remedy the noncompliance; and
+
+        (cc) certify that the regional center and all parties associated with the regional center are currently in compliance, to the best of the certifier’s knowledge, after a due diligence investigation.
+
+    (iii) *Oversight required* — Each regional center shall—
+
+      (I) use commercially reasonable efforts to monitor and supervise compliance with the securities laws in relations to all offers, purchases, and sales of, and investment advice relating to, securities made by parties associated with the regional center;
+
+      (II) maintain records, data, and information relating to all such offers, purchases, sales, and investment advice during the 5-year period beginning on the date of their creation; and
+
+      (III) make the records, data, and information described in subclause (II) available to the Secretary or to the Securities and Exchange Commission upon request.
+
+    (iv) *Suspension or termination* — In addition to any other authority provided to the Secretary under this paragraph, the Secretary, in the Secretary’s discretion, may suspend or terminate the designation of any regional center or impose other sanctions against the regional center if the regional center, or any parties associated with the regional center that the regional center knew or reasonably should have known—
+
+      (I) are permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction in connection with the offer, purchase, or sale of a security or the provision of investment advice;
+
+      (II) are subject to any final order of the Securities and Exchange Commission or a State securities regulator that—
+
+        (aa) bars such person from association with an entity regulated by the Securities and Exchange Commission or a State securities regulator; or
+
+        (bb) constitutes a final order based on a finding of an intentional violation or a violation related to fraud or deceit in connection with the offer, purchase, or sale of, or investment advice relating to, a security; or
+
+      (III) submitted, or caused to be submitted, a certification described in clause (ii) that contained an untrue statement of a material fact or omitted to state a material fact necessary in order to make the statements made, in light of the circumstances under which they were made, not misleading.
+
+    (v) *Defined term* — In this subparagraph, the term “parties associated with a regional center” means—
+
+      (I) the regional center;
+
+      (II) any new commercial enterprise or affiliated job-creating entity or issuer of securities associated with the regional center;
+
+      (III) the regional center’s and new commercial enterprise’s owners, officers, directors, managers, partners, agents, employees, promoters and attorneys, or similar position, as determined by the Secretary; and
+
+      (IV) any person under the control of the regional center, new commercial enterprise, or issuer of securities associated with the regional center who is responsible for the marketing, offering, or sale of any security offered in connection with the capital investment project.
+
+    (vi) *Savings provision* — Nothing in this subparagraph may be construed to impair or limit the authority of the Securities and Exchange Commission under the Federal securities laws or any State securities regulator under State securities laws.
+
+  (J) *EB–5 Integrity Fund*
+
+    (i) *Establishment* — There is established in the United States Treasury a special fund, which shall be known as the “EB–5 Integrity Fund” (referred to in this subparagraph as the “Fund”). Amounts deposited into the Fund shall be available to the Secretary of Homeland Security until expended for the purposes set forth in clause (iii).
+
+    (ii) *Fees*
+
+      (I) *Annual fee* — On October 1, 2022, and each October 1 thereafter, the Secretary of Homeland Security shall collect for the Fund an annual fee—
+
+        (aa) except as provided in item (bb), of $20,000 from each regional center designated under subparagraph (E); and
+
+        (bb) of $10,000 from each such regional center with 20 or fewer total investors in the preceding fiscal year in its new commercial enterprises.
+
+      (II) *Petition fee* — Beginning on October 1, 2022, the Secretary shall collect a fee of $1,000 for the Fund with each petition filed under [section 1154(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim) for classification under subparagraph (E). The fee under this subclause is in addition to the fee that the Secretary is authorized to establish and collect for each petition to recover the costs of adjudication and naturalization services under [section 1356(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1356/m&num=0&edition=prelim).
+
+      (III) *Increases* — The Secretary may increase the amounts under this clause by prescribing such regulations as may be necessary to ensure that amounts in the Fund are sufficient to carry out the purposes set forth in clause (iii).
+
+    (iii) *Permissible uses of fund* — The Secretary shall—
+
+      (I) use not less than ⅓ of the amounts deposited into the Fund for investigations based outside of the United States, including—
+
+        (aa) monitoring and investigating program-related events and promotional activities; and
+
+        (bb) ensuring an alien investor’s compliance with subparagraph (L); and
+
+      (II) use amounts deposited into the Fund—
+
+        (aa) to detect and investigate fraud or other crimes;
+
+        (bb) to determine whether regional centers, new commercial enterprises, job-creating entities, and alien investors (and their alien spouses and alien children) comply with the immigration laws;
+
+        (cc) to conduct audits and site visits; and
+
+        (dd) as the Secretary determines to be necessary, including monitoring compliance with the requirements under [section 1153a of this title](./chapter-012-immigration-and-nationality.md#section-1153a).
+
+    (iv) *Failure to pay fee* — The Secretary of Homeland Security shall—
+
+      (I) impose a reasonable penalty, which shall be deposited into the Fund, if any regional center does not pay the fee required under clause (ii) within 30 days after the date on which such fee is due; and
+
+      (II) terminate the designation of any regional center that does not pay the fee required under clause (ii) within 90 days after the date on which such fee is due.
+
+    (v) *Report* — The Secretary shall submit an annual report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that describes how amounts in the Fund were expended during the previous fiscal year.
+
+  (K) *Direct and third-party promoters*
+
+    (i) *Rules and standards* — Direct and third-party promoters (including migration agents) of a regional center, any new commercial enterprise, an affiliated job-creating entity, or an issuer of securities intended to be offered to alien investors in connection with a particular capital investment project shall comply with the rules and standards prescribed by the Secretary of Homeland Security and any applicable Federal or State securities laws, to oversee promotion of any offering of securities related to the EB–5 Program, including—
+
+      (I) registration with U.S. Citizenship and Immigration Services, which—
+
+        (aa) includes identifying and contact information for such promoter and confirmation of the existence of the written agreement required under clause (iii); and
+
+        (bb) may be made publicly available at the discretion of the Secretary;
+
+      (II) certification by each promoter that such promoter is not ineligible under subparagraph (H)(i);
+
+      (III) guidelines for accurately representing the visa process to foreign investors; and
+
+      (IV) guidelines describing permissible fee arrangements under applicable securities and immigration laws.
+
+    (ii) *Effect of violation* — If the Secretary determines that a direct or third-party promoter has violated clause (i), the Secretary shall suspend or permanently bar such individual from participation in the program described in subparagraph (E).
+
+    (iii) *Compliance* — Each regional center, new commercial enterprise, and affiliated job-creating entity shall maintain a written agreement between or among such entities and each direct or third-party promoter operating on behalf of such entities that outlines the rules and standards prescribed under clause (i).
+
+    (iv) *Disclosure* — Each petition filed under [section 1154(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim) shall include a disclosure, signed by the investor, that reflects all fees, ongoing interest, and other compensation paid to any person that the regional center or new commercial enterprise knows has received, or will receive, in connection with the investment, including compensation to agents, finders, or broker dealers involved in the offering, to the extent not already specifically identified in the business plan filed under subparagraph (F).
+
+  (L) *Source of funds*
+
+    (i) *In general* — An alien investor shall demonstrate that the capital required under subparagraph (A) and any funds used to pay administrative costs and fees associated with the alien’s investment were obtained from a lawful source and through lawful means.
+
+    (ii) *Required information* — The Secretary of Homeland Security shall require that an alien investor’s petition under this paragraph contain, as applicable—
+
+      (I) business and tax records, or similar records, including—
+
+        (aa) foreign business registration records;
+
+        (bb) corporate or partnership tax returns (or tax returns of any other entity in any form filed in any country or subdivision of such country), and personal tax returns, including income, franchise, property (whether real, personal, or intangible), or any other tax returns of any kind, filed during the past 7 years (or another period to be determined by the Secretary to ensure that the investment is obtained from a lawful source of funds) with any taxing jurisdiction within or outside the United States by or on behalf of the alien investor; and
+
+        (cc) any other evidence identifying any other source of capital or administrative fees;
+
+      (II) evidence related to monetary judgments against the alien investor, including certified copies of any judgments, and evidence of all pending governmental civil or criminal actions, governmental administrative proceedings, and any private civil actions (pending or otherwise) involving possible monetary judgments against the alien investor from any court within or outside the United States; and
+
+      (III) the identity of all persons who transfer into the United States, on behalf of the investor, any funds that are used to meet the capital requirement under subparagraph (A).
+
+    (iii) *Gift and loan restrictions*
+
+      (I) *In general* — Gifted and borrowed funds may not be counted toward the minimum capital investment requirement under subparagraph (C) unless such funds—
+
+        (aa) were gifted or loaned to the alien investor in good faith; and
+
+        (bb) were not gifted or loaned to circumvent any limitations imposed on permissible sources of capital under this subparagraph, including but not limited to proceeds from illegal activity.
+
+      (II) *Records requirement* — If funds invested under subparagraph (A) are gifted or loaned to the alien investor, the Secretary shall require that the alien investor’s petition under this paragraph includes the records described in subclauses (I) and (II) of clause (ii) from the donor or, if other than a bank, the lender.
+
+  (M) *Treatment of good faith investors following program noncompliance*
+
+    (i) *Termination or debarment of EB–5 entity* — Except as provided in clause (vi), upon the termination or debarment, as applicable, from the program under this paragraph of a regional center, a new commercial enterprise, or a job-creating entity—
+
+      (I) an otherwise qualified petition under [section 1154(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim) or the conditional permanent residence of an alien who has been admitted to the United States pursuant to [section 1186b(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1186b/a/1&num=0&edition=prelim) based on an investment in a terminated regional center, new commercial enterprise, or job-creating entity shall remain valid or continue to be authorized, as applicable, consistent with this subparagraph; and
+
+      (II) the Secretary of Homeland Security shall notify the alien beneficiaries of such petitions of such termination or debarment.
+
+    (ii) *New regional center or investment* — The petition under [section 1154(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim) of an alien described in clause (i) and the conditional permanent resident status of an alien described in clause (i) shall be terminated 180 days after notification of the termination from the program under this paragraph of a regional center, a new commercial enterprise, or a job creating entity (but not sooner than 180 days after March 15, 2022) unless—
+
+      (I) in the case of the termination of a regional center—
+
+        (aa) the new commercial enterprise associates with an approved regional center, regardless of the approved geographical boundaries of such regional center’s designation; or
+
+        (bb) such alien makes a qualifying investment in another new commercial enterprise; or
+
+      (II) in the case of the debarment of a new commercial enterprise or job-creating entity, such alien—
+
+        (aa) associates with a new commercial enterprise in good standing; and
+
+        (bb) invests additional investment capital solely to the extent necessary to satisfy remaining job creation requirements under subparagraph (A)(ii).
+
+    (iii) *Amendments*
+
+      (I) *Filing requirement* — The Secretary shall permit a petition described in clause (i)(I) to be amended to allow such petition to meet the applicable eligibility requirements under clause (ii), or to notify the Secretary that a pending or approved petition continues to meet the eligibility requirements described in clause (ii) notwithstanding termination or debarment described in clause (i) if such amendment is filed not later than 180 days after the Secretary provides notification of termination or debarment of a regional center, a new commercial enterprise, or a job-creating entity, as applicable.
+
+      (II) *Determination of eligibility* — For purposes of determining eligibility under subclause (I)—
+
+        (aa) the Secretary shall permit amendments to the business plan, without such facts underlying the amendment being deemed a material change; and
+
+        (bb) may deem any funds obtained or recovered by an alien investor, directly or indirectly, from claims against third parties, including insurance proceeds, or any additional investment capital provided by the alien, to be such alien’s investment capital for the purposes of subparagraph (A) if such investment otherwise complies with the requirements under this paragraph and [section 1186b of this title](./chapter-012-immigration-and-nationality.md#section-1186b).
+
+    (iv) *Removal of conditions* — Aliens described in subclauses (I)(bb) and (II) of clause (ii) shall be eligible to have their conditions removed pursuant to [section 1186b of this title](./chapter-012-immigration-and-nationality.md#section-1186b) beginning on the date that is 2 years after the date of the subsequent investment.
+
+    (v) *Remedies* — For petitions approved under clause (ii), including following an amendment filed under clause (iii), the Secretary—
+
+      (I) shall retain the immigrant visa priority date related to the original petition and prevent age-out of derivative beneficiaries; and
+
+      (II) may hold such petition in abeyance and extend any applicable deadlines under this paragraph.
+
+    (vi) *Exception* — If the Secretary has reason to believe that an alien was a knowing participant in the conduct that led to the termination of a regional center, new commercial enterprise, or job-creating entity described in clause (i)—
+
+      (I) the alien shall not be accorded any benefit under this subparagraph; and
+
+      (II) the Secretary shall—
+
+        (aa) notify the alien of such belief; and
+
+        (bb) subject to [section 1186b(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1186b/b/2&num=0&edition=prelim), shall deny or initiate proceedings to revoke the approval of such alien’s petition, application, or benefit (and that of any spouse or child, if applicable) described in this paragraph.
+
+  (N) *Threats to the national interest*
+
+    (i) *Denial or revocation* — The Secretary of Homeland Security shall deny or revoke the approval of a petition, application, or benefit described in this paragraph, including the documents described in clause (ii), if the Secretary determines, in the Secretary’s discretion, that the approval of such petition, application, or benefit is contrary to the national interest of the United States for reasons relating to threats to public safety or national security.
+
+    (ii) *Documents* — The documents described in this clause are—
+
+      (I) a certification, designation, or amendment to the designation of a regional center;
+
+      (II) a petition seeking classification of an alien as an alien investor under this paragraph;
+
+      (III) a petition to remove conditions under [section 1186b of this title](./chapter-012-immigration-and-nationality.md#section-1186b);
+
+      (IV) an application for approval of a business plan in a new commercial enterprise under subparagraph (F); or
+
+      (V) a document evidencing conditional permanent resident status that was issued to an alien pursuant to [section 1186b of this title](./chapter-012-immigration-and-nationality.md#section-1186b).
+
+    (iii) *Debarment* — If a regional center, new commercial enterprise, or job-creating entity has its designation or participation in the program under this paragraph terminated for reasons relating to public safety or national security, any person associated with such regional center, new commercial enterprise, or job-creating entity, including an alien investor, shall be permanently barred from future participation in the program under this paragraph if the Secretary of Homeland Security, in the Secretary’s discretion, determines, by a preponderance of the evidence, that such person was a knowing participant in the conduct that led to the termination.
+
+    (iv) *Notice* — If the Secretary of Homeland Security determines that the approval of a petition, application, or benefit described in this paragraph should be denied or revoked pursuant to clause (i), the Secretary shall—
+
+      (I) notify the relevant individual, regional center, or commercial entity of such determination;
+
+      (II) deny or revoke such petition, application, or benefit or terminate the permanent resident status of the alien (and the alien spouse and alien children of such immigrant), as of the date of such determination; and
+
+      (III) provide any United States-owned regional center, new commercial enterprise, or job creating entity an explanation for such determination unless the relevant information is classified or disclosure is otherwise prohibited under law.
+
+    (v) *Judicial review* — Notwithstanding any other provision of law (statutory or nonstatutory), including [section 2241 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2241&num=0&edition=prelim) or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to review a denial or revocation under this subparagraph. Nothing in this clause may be construed as precluding review of constitutional claims or questions of law raised upon a petition for review filed with an appropriate court of appeals in accordance with [section 1252 of this title](./chapter-012-immigration-and-nationality.md#section-1252).
+
+  (O) *Fraud, misrepresentation, and criminal misuse*
+
+    (i) *Denial or revocation* — Subject to subparagraph (M), the Secretary of Homeland Security shall deny or revoke the approval of a petition, application, or benefit described in this paragraph, including the documents described in subparagraph (N)(ii), if the Secretary determines, in the Secretary’s discretion, that such petition, application, or benefit was predicated on or involved fraud, deceit, intentional material misrepresentation, or criminal misuse.
+
+    (ii) *Debarment* — If a regional center, new commercial enterprise, or job-creating entity has its designation or participation in the program under this paragraph terminated for reasons relating to fraud, intentional material misrepresentation, or criminal misuse, any person associated with such regional center, new commercial enterprise, or job-creating entity, including an alien investor, shall be permanently barred from future participation in the program if the Secretary determines, in the Secretary’s discretion, by a preponderance of the evidence, that such person was a knowing participant in the conduct that led to the termination.
+
+    (iii) *Notice* — If the Secretary determines that the approval of a petition, application, or benefit described in this paragraph should be denied or revoked pursuant to clause (i), the Secretary shall—
+
+      (I) notify the relevant individual, regional center, or commercial entity of such determination; and
+
+      (II) deny or revoke such petition, application, or benefit or terminate the permanent resident status of the alien (and the alien spouse and alien children of such immigrant), in accordance with clause (i), as of the date of such determination.
+
+  (P) *Administrative appellate review*
+
+    (i) *In general* — The Director of U.S. Citizenship and Immigration Services shall provide an opportunity for an administrative appellate review by the Administrative Appeals Office of U.S. Citizenship and Immigration Services of any determination made under this paragraph, including—
+
+      (I) an application for regional center designation or regional center amendment;
+
+      (II) an application for approval of a business plan filed under subparagraph (F);
+
+      (III) a petition by an alien investor for status as an immigrant under this paragraph;
+
+      (IV) the termination or suspension of any benefit accorded under this paragraph; and
+
+      (V) any sanction imposed by the Secretary under this paragraph.
+
+    (ii) *Judicial review* — Subject to subparagraph (N)(v) and [section 1252(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1252/a/2&num=0&edition=prelim), and notwithstanding any other provision of law (statutory or nonstatutory), including [section 2241 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2241&num=0&edition=prelim) or any other habeas corpus provision, and sections 1361 and 1651 of such title, no court shall have jurisdiction to review a determination under this paragraph until the regional center, its associated entities, or the alien investor has exhausted all administrative appeals.
+
+  (Q) *Fund administration*
+
+    (i) *In general* — Each new commercial enterprise shall deposit and maintain the capital investment of each alien investor in a separate account, including amounts held in escrow.
+
+    (ii) *Use of funds* — Amounts in a separate account may only—
+
+      (I) be transferred to another separate account or a job creating entity;
+
+      (II) otherwise be deployed into the capital investment project for which the funds were intended; or
+
+      (III) be transferred to the alien investor who contributed the funds as a refund of that investor’s capital investment, if otherwise permitted under this paragraph.
+
+    (iii) *Deployment of funds into an affiliated job-creating entity* — If amounts are transferred to an affiliated job-creating entity pursuant to clause (ii)(I)—
+
+      (I) the affiliated job-creating entity shall maintain such amounts in a separate account until they are deployed into the capital investment project for which they were intended; and
+
+      (II) not later than 30 days after such amounts are deployed pursuant to subclause (I), the affiliated job-creating entity shall provide written notice to the fund administrator retained pursuant to clause (iv) that a construction consultant or other individual authorized by the Secretary has verified that such amounts have been deployed into the project.
+
+    (iv) *Fund administrator* — Except as provided in clause (v), the new commercial enterprise shall retain a fund administrator to fulfill the requirements under this subparagraph. The fund administrator—
+
+      (I) shall be independent of, and not directly related to, the new commercial enterprise, the regional center associated with the new commercial enterprise, the job creating entity, or any of the principals or managers of such entities;
+
+      (II) shall be licensed, active, and in good standing as—
+
+        (aa) a certified public accountant;
+
+        (bb) an attorney;
+
+        (cc) a broker-dealer or investment adviser registered with the Securities and Exchange Commission; or
+
+        (dd) an individual or company that otherwise meets such requirements as may be established by the Secretary;
+
+      (III) shall monitor and track any transfer of amounts from the separate account;
+
+      (IV) shall serve as a cosignatory on all separate accounts;
+
+      (V) before any transfer of amounts from a separate account, shall—
+
+        (aa) verify that the transfer complies with all governing documents, including organizational, operational, and investment documents; and
+
+        (bb) approve such transfer with a written or electronic signature;
+
+      (VI) shall periodically provide each alien investor with information about the activity of the account in which the investor’s capital investment is held, including—
+
+        (aa) the name and location of the bank or financial institution at which the account is maintained;
+
+        (bb) the history of the account; and
+
+        (cc) any additional information required by the Secretary; and
+
+      (VII) shall make and preserve, during the 5-year period beginning on the last day of the Federal fiscal year in which any transactions occurred, books, ledgers, records, and other documentation necessary to comply with this clause, which shall be provided to the Secretary upon request.
+
+    (v) *Waiver*
+
+      (I) *Waiver permitted* — The Secretary of Homeland Security, after consultation with the Securities and Exchange Commission, may waive the requirements under clause (iv) for any new commercial enterprise or affiliated job-creating entity that is controlled by or under common control of an investment adviser or broker-dealer that is registered with the Securities and Exchange Commission if the Secretary, in the Secretary’s discretion, determines that the Securities and Exchange Commission provides comparable protections and transparency for alien investors as the protections and transparency provided under clause (iv).
+
+      (II) *Waiver required* — The Secretary of Homeland Security shall waive the requirements under clause (iv) for any new commercial enterprise that commissions an annual independent financial audit of such new commercial enterprise or job creating entity conducted in accordance with Generally Accepted Auditing Standards, which audit shall be provided to the Secretary and all investors in the new commercial enterprise.
+
+    (vi) *Defined term* — In this subparagraph, the term “separate account” means an account that—
+
+      (I) is maintained in the United States by a new commercial enterprise or job creating entity at a federally regulated bank or at another financial institution (as defined in [section 20 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section20&num=0&edition=prelim)) in the United States;
+
+      (II) is insured; and
+
+      (III) contains only the pooled investment funds of alien investors in a new commercial enterprise with respect to a single capital investment project.
+
+  (R) *Required checks* — Any petition filed by an alien under [section 1154(a)(1)(H) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim) may not be approved under this paragraph unless the Secretary of Homeland Security has searched for the alien and any associated employer of such alien on the Specially Designated Nationals List of the Department of the Treasury Office of Foreign Assets Control.
+
+  (S) *Protection from expired legislation* — Notwithstanding the expiration of legislation authorizing the regional center program under subparagraph (E), the Secretary of Homeland Security—
+
+    (i) shall continue processing petitions under sections 1154(a)(1)(H) and 1186b of this title based on an investment in a new commercial enterprise associated with a regional center that were filed on or before September 30, 2026;
+
+    (ii) may not deny a petition described in clause (i) based on the expiration of such legislation; and
+
+    (iii) may not suspend or terminate the allocation of visas to the beneficiaries of approved petitions described in clause (i).
 
 (6) **Special rules for “K” special immigrants**
 
@@ -3349,12 +4097,42 @@ Pub. L. 97–113, title VII, § 714, Dec. 29, 1981, 95 Stat. 1548, provided that
 
 (4) **Application to self-petitions** — Paragraphs (1) through (3) shall apply to self-petitioners and derivatives of self-petitioners.
 
+(5) **Age determination for children of alien investors** — An alien who has reached 21 years of age and has been admitted under subsection (d) as a lawful permanent resident on a conditional basis as the child of an alien lawfully admitted for permanent residence under subsection (b)(5), whose lawful permanent resident status on a conditional basis is terminated under [section 1186b of this title](./chapter-012-immigration-and-nationality.md#section-1186b) or subsection (b)(5)(M), shall continue to be considered a child of the principal alien for the purpose of a subsequent immigrant petition by such alien under subsection (b)(5) if the alien remains unmarried and the subsequent petition is filed by the principal alien not later than 1 year after the termination of conditional lawful permanent resident status. No alien shall be considered a child under this paragraph with respect to more than 1 petition filed after the alien reaches 21 years of age.
+
 ### Statutory Notes
 
 #### References in Text
 The enactment date of this subsection, referred to in subsec. (b)(2)(B)(ii)(IV), probably means the date of enactment of Pub. L. 106–95, which amended subsec. (b)(2)(B) of this section generally, and which was approved Nov. 12, 1999.
 
+The Securities Act of 1933, referred to in subsec. (b)(5)(F)(i)(III), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+
+This chapter, referred to in subsec. (b)(5)(F)(v)(I)(bb), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
+
 #### Amendments
+2022—Subsec. (b)(5)(A)(i). Pub. L. 117–103, § 102(a)(1)(A), substituted “(C) and which is expected to remain invested for not less than 2 years; and” for “(C), and”.
+
+Subsec. (b)(5)(A)(ii). Pub. L. 117–103, § 102(a)(1)(B), substituted “by creating” for “and create” and inserted “, United States nationals,” after “citizens”.
+
+Subsec. (b)(5)(B). Pub. L. 117–103, § 102(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to set-aside for targeted employment areas.
+
+Subsec. (b)(5)(C)(i). Pub. L. 117–103, § 102(a)(3)(A), substituted “$1,050,000” for “$1,000,000. The Attorney General, in consultation with the Secretary of Labor and the Secretary of State, may from time to time prescribe regulations increasing the dollar amount specified under the previous sentence”.
+
+Subsec. (b)(5)(C)(ii). Pub. L. 117–103, § 102(a)(3)(B), amended cl. (ii) generally. Prior to amendment, text read as follows: “The Attorney General may, in the case of investment made in a targeted employment area, specify an amount of capital required under subparagraph (A) that is less than (but not less than ½ of) the amount specified in clause (i).”
+
+Subsec. (b)(5)(C)(iii). Pub. L. 117–103, § 102(a)(3)(D), added cl. (iii). Former cl. (iii) redesignated (iv).
+
+Subsec. (b)(5)(C)(iv). Pub. L. 117–103, § 102(a)(3)(C), (E), redesignated cl. (iii) as (iv) and, in concluding provisions, substituted “Secretary of Homeland Security” for “Attorney General” and inserted “, as adjusted under clause (iii)” before period at end.
+
+Subsec. (b)(5)(D). Pub. L. 117–103, § 102(a)(4), amended subpar. (D) generally. Prior to amendment, subpar. (D) defined “full-time employment”.
+
+Subsec. (b)(5)(E) to (Q). Pub. L. 117–103, § 103(b)(1), added subpars. (E) to (Q).
+
+Subsec. (b)(5)(R). Pub. L. 117–103, § 103(c)(1), added subpar. (R).
+
+Subsec. (b)(5)(S). Pub. L. 117–103, § 108, added subpar. (S).
+
+Subsec. (h)(5). Pub. L. 117–103, § 102(b), added par. (5).
+
 2006—Subsec. (h)(4). Pub. L. 109–162 added par. (4).
 
 2002—Subsec. (b)(5)(A). Pub. L. 107–273, § 11036(a)(1)(A), substituted “enterprise (including a limited partnership)—” for “enterprise—” in introductory provisions.
@@ -3455,6 +4233,13 @@ Subsec. (a)(4). Pub. L. 86–363, § 3, substituted “married sons or married d
 
 1957—Subsec. (a)(1). Pub. L. 85–316 substituted “or following to join him” for “him”.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–103, div. BB, § 102(e), Mar. 15, 2022, 136 Stat. 1075, provided that: “The amendments made by this section [amending this section and [section 1255 of this title](./chapter-012-immigration-and-nationality.md#section-1255)] shall take effect on the date of the enactment of this Act [Mar. 15, 2022].”
+
+Pub. L. 117–103, div. BB, § 103(b)(2), Mar. 15, 2022, 136 Stat. 1100, provided that: “The amendment made by this subsection [amending this section] shall take effect on the date that is 60 days after the date of the enactment of this Act [Mar. 15, 2022].”
+
+Pub. L. 117–103, div. BB, § 103(c)(2), Mar. 15, 2022, 136 Stat. 1100, provided that: “The amendment made by this subsection [amending this section] shall take effect on the date of the enactment of this Act [Mar. 15, 2022].”
+
 #### Effective Date of 2002 Amendments
 Pub. L. 107–273, div. C, title I, § 11036(c), Nov. 2, 2002, 116 Stat. 1847, provided that: “The amendments made by this section [amending this section and [section 1186b of this title](./chapter-012-immigration-and-nationality.md#section-1186b)] shall take effect on the date of the enactment of this Act [Nov. 2, 2002] and shall apply to aliens having any of the following petitions pending on or after the date of the enactment of this Act: “(1) A petition under section 204(a)(1)(H) of the Immigration and Nationality Act ([8 U.S.C. 1154(a)(1)(H)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim)) (or any predecessor provision), with respect to status under section 203(b)(5) of such Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim)). “(2) A petition under section 216A(c)(1)(A) of such Act ([8 U.S.C. 1186b(c)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1186b/c/1/A&num=0&edition=prelim)) to remove the conditional basis of an alien’s permanent resident status.”
 
@@ -3488,6 +4273,15 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of this title](./chapter-013-immigration-and-naturalization-service.md#section-1551).
 
+#### Enhanced Pay Scale for Certain Federal Employees Administering the Employment Creation Program
+Pub. L. 117–103, div. BB, § 102(c), Mar. 15, 2022, 136 Stat. 1075, provided that: “The Secretary of Homeland Security may establish, fix the compensation of, and appoint individuals to designated critical, technical, and professional positions needed to administer sections 203(b)(5) and 216A of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) and 1186b).”
+
+#### Adjudication of Petitions
+Pub. L. 117–103, div. BB, § 105(c), Mar. 15, 2022, 136 Stat. 1103, provided that: “The Secretary of Homeland Security shall continue to adjudicate petitions and benefits under sections 203(b)(5) and 216A of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) and 1186b) during the implementation of this Act [see Short Title of 2022 Amendment note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101)] and the amendments made by this Act.”
+
+#### Timely Processing
+Pub. L. 117–103, div. BB, § 106, Mar. 15, 2022, 136 Stat. 1103, provided that: “(a) Fee Study.—Not later than 1 year after the date of the enactment of this Act [Mar. 15, 2022], the Director of U.S. Citizenship and Immigration Services shall complete a study of fees charged in the administration of the program described in sections 203(b)(5) and 216A of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) and 1186b). “(b) Adjustment of Fees To Achieve Efficient Processing.—Notwithstanding section 286(m) of the Immigration and Nationality Act ([8 U.S.C. 1356(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1356/m&num=0&edition=prelim)), and except as provided under subsection (c), the Director, not later than 60 days after the completion of the study under subsection (a), shall set fees for services provided under sections 203(b)(5) and 216A of such Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) and 1186b) at a level sufficient to ensure the full recovery only of the costs of providing such services, including the cost of attaining the goal of completing adjudications, on average, not later than—“(1) 180 days after receiving a proposal for the establishment of a regional center described in section 203(b)(5)(E) of such Act; “(2) 180 days after receiving an application for approval of an investment in a new commercial enterprise described in section 203(b)(5)(F) of such Act; “(3) 90 days after receiving an application for approval of an investment in a new commercial enterprise described in section 203(b)(5)(F) of such Act that is located in a targeted employment area (as defined in section 203(b)(5)(D) of such Act); “(4) 240 days after receiving a petition from an alien desiring to be classified under section 203(b)(5)(E) of such Act; “(5) 120 days after receiving a petition from an alien desiring to be classified under section 203(b)(5)(E) of such Act with respect to an investment in a targeted employment area (as defined in section 203(b)(5)(D) of such Act); and “(6) 240 days after receiving a petition from an alien for removal of conditions described in section 216A(c) of such Act. “(c) Additional Fees.—Fees in excess of the fee levels described in subsection (b) may be charged only—“(1) in an amount that is equal to the amount paid by all other classes of fee-paying applicants for immigration-related benefits, to contribute to the coverage or reduction of the costs of processing or adjudicating classes of immigration benefit applications that Congress, or the Secretary of Homeland Security in the case of asylum applications, has authorized to be processed or adjudicated at no cost or at a reduced cost to the applicant; and “(2) in an amount that is not greater than 1 percent of the fee for filing a petition under section 203(b)(5) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim)), to make improvements to the information technology systems used by the Secretary of Homeland Security to process, adjudicate, and archive applications and petitions under such section, including the conversion to electronic format of documents filed by petitioners and applicants for benefits under such section. “(d) Exemption From Paperwork Reduction Act.—During the 1-year period beginning on the date of the enactment of this Act [Mar. 15, 2022], the requirements under chapter 35 of title 44, United States Code, shall not apply to any collection of information required under this division [see Short Title of 2022 Amendment note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101)], any amendment made by this division, or any rule promulgated by the Secretary of Homeland Security to implement this division or the amendments made by this division, to the extent that the Secretary determines that compliance with such requirements would impede the expeditious implementation of this division or the amendments made by this division. “(e) Rule of Construction Regarding Adjudication Delays.—Nothing in this division may be construed to limit the authority of the Secretary of Homeland Security to suspend the adjudication of any application or petition under section 203(b)(5) or 216A of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) and 1186b) pending the completion of a national security or law enforcement investigation relating to such application or petition. “(f) Rule of Construction Regarding Modification of Fees.—Nothing in this section may be construed to require any modification of fees before the completion of—“(1) the fee study described in subsection (a); or “(2) regulations promulgated by the Secretary of Homeland Security, in accordance with subchapter II of chapter 5 and chapter 7 of title 5, United States Code (commonly known as the ‘Administrative Procedure Act’), to carry out subsections (b) and (c).”
+
 #### GAO Study
 Pub. L. 108–156, § 5, Dec. 3, 2003, 117 Stat. 1945, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 3, 2003], the Government Accountability Office shall report to Congress on the immigrant investor program created under section 203(b)(5) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim)). “(b) Contents.—The report described in subsection (a) shall include information regarding—“(1) the number of immigrant investors that have received visas under the immigrant investor program in each year since the inception of the program; “(2) the country of origin of the immigrant investors; “(3) the localities where the immigrant investors are settling and whether those investors generally remain in the localities where they initially settle; “(4) the number of immigrant investors that have sought to become citizens of the United States; “(5) the types of commercial enterprises that the immigrant investors have established; and “(6) the types and number of jobs created by the immigrant investors.”
 
@@ -3511,25 +4305,7 @@ Pub. L. 107–228, div. B, title XIII, § 1304(d), Sept. 30, 2002, 116 Stat. 143
 Pub. L. 102–509, Oct. 24, 1992, 106 Stat. 3316, as amended by Pub. L. 107–228, div. B, title XIII, § 1304(a)–(c), Sept. 30, 2002, 116 Stat. 1436, 1437, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Soviet Scientists Immigration Act of 1992’. “SEC. 2. DEFINITIONS.“For purposes of this Act—“(1) the term ‘Baltic states’ means the sovereign nations of Latvia, Lithuania, and Estonia; “(2) the term ‘independent states of the former Soviet Union’ means the sovereign nations of Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan; and “(3) the term ‘eligible independent states and Baltic scientists’ means aliens—“(A) who are nationals of any of the independent states of the former Soviet Union or the Baltic states; and “(B) who are scientists or engineers who have expertise in nuclear, chemical, biological or other high technology fields or who are working on nuclear, chemical, biological or other high-technology defense projects, as defined by the Attorney General. “SEC. 3. WAIVER OF JOB OFFER REQUIREMENT.“The requirement in section 203(b)(2)(A) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/2/A&num=0&edition=prelim)) that an alien’s services in the sciences, arts, or business be sought by an employer in the United States shall not apply to any eligible independent states or Baltic scientist who is applying for admission to the United States for permanent residence in accordance with that section. “SEC. 4. CLASSIFICATION OF INDEPENDENT STATES SCIENTISTS AS HAVING EXCEPTIONAL ABILITY.“(a) In General.—The Attorney General shall designate a class of eligible independent states and Baltic scientists, based on their level of expertise, as aliens who possess ‘exceptional ability in the sciences’, for purposes of section 203(b)(2)(A) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/2/A&num=0&edition=prelim)), whether or not such scientists possess advanced degrees. A scientist is not eligible for designation under this subsection if the scientist has previously been granted the status of an alien lawfully admitted for permanent residence (as defined in section 101(a)(20) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(20)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/20&num=0&edition=prelim)). “(b) Regulations.—The Attorney General shall prescribe regulations to carry out subsection (a). “(c) Limitation.—Not more than 950 eligible independent states and Baltic scientists (excluding spouses and children if accompanying or following to join) within the class designated under subsection (a) may be allotted visas under section 203(b)(2)(A) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/2/A&num=0&edition=prelim)). “(d) Duration of Authority.—The authority under subsection (a) shall be in effect during the following periods:“(1) The period beginning on the date of the enactment of this Act [Oct. 24, 1992] and ending 4 years after such date. “(2) The period beginning on the date of the enactment of the Security Assistance Act of 2002 [Sept. 30, 2002] and ending 4 years after such date.”
 
 #### Immigration Program
-Pub. L. 102–395, title VI, § 610, Oct. 6, 1992, 106 Stat. 1874, as amended by Pub. L. 105–119, title I, § 116(a), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 106–396, § 402, Oct. 30, 2000, 114 Stat. 1647; Pub. L. 107–273, div. C, title I, § 11037(a), Nov. 2, 2002, 116 Stat. 1847; Pub. L. 108–156, § 4, Dec. 3, 2003, 117 Stat. 1945; Pub. L. 111–83, title V, § 548, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–176, § 1, Sept. 28, 2012, 126 Stat. 1325, provided that: “(a) Of the visas otherwise available under section 203(b)(5) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim)), the Secretary of State, together with the Secretary of Homeland Security, shall set aside visas for a program to implement the provisions of such section. Such program shall involve a regional center in the United States, designated by the Secretary of Homeland Security on the basis of a general proposal, for the promotion of economic growth, including increased export sales, improved regional productivity, job creation, or increased domestic capital investment. A regional center shall have jurisdiction over a limited geographic area, which shall be described in the proposal and consistent with the purpose of concentrating pooled investment in defined economic zones. The establishment of a regional center may be based on general predictions, contained in the proposal, concerning the kinds of commercial enterprises that will receive capital from aliens, the jobs that will be created directly or indirectly as a result of such capital investments, and the other positive economic effects such capital investments will have. “(b) For purposes of the program established in subsection (a), beginning on October 1, 1992, but no later than October 1, 1993, the Secretary of State, together with the Secretary of Homeland Security, shall set aside 3,000 visas annually until September 30, 2015 to include such aliens as are eligible for admission under section 203(b)(5) of the Immigration and Nationality Act [[8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim)] and this section, as well as spouses or children which are eligible, under the terms of the Immigration and Nationality Act [[8 U.S.C. 1101](./chapter-012-immigration-and-nationality.md#section-1101) et seq.], to accompany or follow to join such aliens. “(c) In determining compliance with section 203(b)(5)(A)(iii)[(ii)] of the Immigration and Nationality Act [[8 U.S.C. 1153(b)(5)(A)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/A/iii&num=0&edition=prelim)[(ii)]], and notwithstanding the requirements of 8 CFR 204.6, the Secretary of Homeland Security shall permit aliens admitted under the program described in this section to establish reasonable methodologies for determining the number of jobs created by the program, including such jobs which are estimated to have been created indirectly through revenues generated from increased exports, improved regional productivity, job creation, or increased domestic capital investment resulting from the program. “(d) In processing petitions under section 204(a)(1)(H) of the Immigration and Nationality Act ([8 U.S.C. 1154(a)(1)(H)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim)) for classification under section 203(b)(5) of such Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim)), the Secretary of Homeland Security may give priority to petitions filed by aliens seeking admission under the program described in this section. Notwithstanding section 203(e) of such Act ([8 U.S.C. 1153(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/e&num=0&edition=prelim)), immigrant visas made available under such section 203(b)(5) may be issued to such aliens in an order that takes into account any priority accorded under the preceding sentence.”
-
-[Pub. L. 116–260, div. O, title I, § 104, Dec. 27, 2020, 134 Stat. 2148, provided that: “Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395] ([8 U.S.C. 1153](./chapter-012-immigration-and-nationality.md#section-1153) note) [set out above] shall be applied by substituting ‘June 30, 2021’ for ‘September 30, 2015’.” ]
-
-[Pub. L. 116–94, div. I, title I, § 104, Dec. 20, 2019, 133 Stat. 3019, provided that: “Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395] ([8 U.S.C. 1153](./chapter-012-immigration-and-nationality.md#section-1153) note) [set out above] shall be applied by substituting ‘September 30, 2020’ for ‘September 30, 2015’.” ]
-
-[Pub. L. 116–6, div. H, title I, § 104, Feb. 15, 2019, 133 Stat. 475, provided that: “Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395] ([8 U.S.C. 1153](./chapter-012-immigration-and-nationality.md#section-1153) note) [set out above] shall be applied by substituting ‘September 30, 2019’ for ‘September 30, 2015’.” ]
-
-[Pub. L. 115–141, div. M, title II, § 204, Mar. 23, 2018, 132 Stat. 1049, provided that: “Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395] ([8 U.S.C. 1153](./chapter-012-immigration-and-nationality.md#section-1153) note) [set out above] shall be applied by substituting ‘September 30, 2018’ for ‘September 30, 2015’.” ]
-
-[Pub. L. 115–31, div. F, title V, § 542, May 5, 2017, 131 Stat. 432, provided that: “Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395] ([8 U.S.C. 1153](./chapter-012-immigration-and-nationality.md#section-1153) note) [set out above] shall be applied by substituting ‘September 30, 2017’ for ‘September 30, 2015’.” ]
-
-[Pub. L. 114–113, div. F, title V, § 575, Dec. 18, 2015, 129 Stat. 2526, provided that: “Section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395] ([8 U.S.C. 1153](./chapter-012-immigration-and-nationality.md#section-1153) note) [set out above] shall be applied by substituting ‘September 30, 2016’ for the date specified in section 106(3) of the Continuing Appropriations Act, 2016 (Public Law 114–53) [Dec. 11, 2015, which had been substituted as applied by Pub. L. 114–53, div. B, § 131, Sept. 30, 2015, 129 Stat. 509].” ]
-
-[Pub. L. 110–329, div. A, § 144, Sept. 30, 2008, 122 Stat. 3581, as amended by Pub. L. 111–8, div. J, § 101, Mar. 11, 2009, 123 Stat. 988, provided that: “The requirement set forth in section 610(b) of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993 [Pub. L. 102–395] ([8 U.S.C. 1153](./chapter-012-immigration-and-nationality.md#section-1153) note) [set out above] shall continue through September 30, 2009.” ]
-
-[Pub. L. 107–273, div. C, title I, § 11037(b), Nov. 2, 2002, 116 Stat. 1848, provided that: “The amendments made by this section [amending section 610 of Pub. L. 102–395, set out above] shall take effect on the date of the enactment of this Act [Nov. 2, 2002] and shall apply to— “(1) any proposal for a regional center pending before the Attorney General (whether for an initial decision or on appeal) on or after the date of the enactment of this Act; and “(2) any of the following petitions, if filed on or after the date of the enactment of this Act:“(A) A petition under section 204(a)(1)(H) of the Immigration and Nationality Act ([8 U.S.C. 1154(a)(1)(H)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H&num=0&edition=prelim)) (or any predecessor provision) (or any predecessor provision), with respect to status under section 203(b)(5) of such Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim)). “(B) A petition under section 216A(c)(1)(A) of such Act ([8 U.S.C. 1186b(c)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1186b/c/1/A&num=0&edition=prelim)) to remove the conditional basis of an alien’s permanent resident status.” ]
-
-[Pub. L. 105–119, title I, § 116(b), Nov. 26, 1997, 111 Stat. 2467, provided that: “The amendment made by subsection (a)(2) [amending section 610 of Pub. L. 102–395, set out above] shall be deemed to have become effective on October 6, 1992.” ]
+Pub. L. 102–395, title VI, § 610, Oct. 6, 1992, 106 Stat. 1874, as amended by Pub. L. 105–119, title I, § 116(a), Nov. 26, 1997, 111 Stat. 2467; Pub. L. 106–396, § 402, Oct. 30, 2000, 114 Stat. 1647; Pub. L. 107–273, div. C, title I, § 11037(a), Nov. 2, 2002, 116 Stat. 1847; Pub. L. 108–156, § 4, Dec. 3, 2003, 117 Stat. 1945; Pub. L. 111–83, title V, § 548, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–176, § 1, Sept. 28, 2012, 126 Stat. 1325, which related to an immigration program to implement section 203(b)(5) of the Immigration and Nationality Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim)), was repealed by Pub. L. 117–103, div. BB, § 103(a), Mar. 15, 2022, 136 Stat. 1075.
 
 #### Transition for Spouses and Minor Children of Legalized Aliens
 Pub. L. 101–649, title I, § 112, Nov. 29, 1990, 104 Stat. 4987, as amended by Pub. L. 102–232, title III, § 302(b)(1), Dec. 12, 1991, 105 Stat. 1743, provided that: “(a) Additional Visa Numbers.—“(1) In general.—In addition to any immigrant visas otherwise available, immigrant visa numbers shall be available in each of fiscal years 1992, 1993, and 1994 for spouses and children of eligible, legalized aliens (as defined in subsection (c)) in a number equal to 55,000 minus the number (if any) computed under paragraph (2) for the fiscal year. “(2) Offset.—The number computed under this paragraph for a fiscal year is the number (if any) by which—“(A) the sum of the number of aliens described in subparagraphs (A) and (B) of section 201(b)(2) of the Immigration and Nationality Act [[8 U.S.C. 1151(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1151/b/2&num=0&edition=prelim)] (or, for fiscal year 1992, section 201(b) of such Act) who were issued immigrant visas or otherwise acquired the status of aliens lawfully admitted to the United States for permanent residence in the previous fiscal year, exceeds “(B) 239,000. “(b) Order.—Visa numbers under this section shall be made available in the order in which a petition, in behalf of each such immigrant for classification under section 203(a)(2) of the Immigration and Nationality Act [[8 U.S.C. 1153(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/a/2&num=0&edition=prelim)], is filed with the Attorney General under section 204 of such Act [[8 U.S.C. 1154](./chapter-012-immigration-and-nationality.md#section-1154)]. “(c) Legalized Alien Defined.—In this section, the term ‘legalized alien’ means an alien lawfully admitted for permanent residence who was provided—“(1) temporary or permanent residence status under section 210 of the Immigration and Nationality Act [[8 U.S.C. 1160](./chapter-012-immigration-and-nationality.md#section-1160)], “(2) temporary or permanent residence status under section 245A of the Immigration and Nationality Act [[8 U.S.C. 1255a](./chapter-012-immigration-and-nationality.md#section-1255a)], or “(3) permanent residence status under section 202 of the Immigration Reform and Control Act of 1986 [Pub. L. 99–603, set out as a note under [section 1255a of this title](./chapter-012-immigration-and-nationality.md#section-1255a)]. “(d) Definitions.—The definitions in the Immigration and Nationality Act [[8 U.S.C. 1101](./chapter-012-immigration-and-nationality.md#section-1101) et seq.] shall apply in the administration of this section.”
@@ -3610,6 +4386,114 @@ Pub. L. 85–316, § 12, Sept. 11, 1957, 71 Stat. 642, which provided that alien
 Pub. L. 85–316, § 12A, as added by Pub. L. 85–700, § 2, Aug. 21, 1958, 72 Stat. 699, providing that aliens eligible for quota immigrant status on basis of a petition approved prior to July 1, 1958, shall be held to be nonquota immigrants and issued visas, was repealed by Pub. L. 87–301, § 24(a)(6), Sept. 26, 1961, 75 Stat. 657.
 
 [Repeal of section 12A of Pub. L. 85–316 effective upon expiration of the one hundred and eightieth day immediately following Sept. 26, 1961, see section 24(b) of Pub. L. 87–301, set out as a note under former [section 1255a of this title](./chapter-012-immigration-and-nationality.md#section-1255a).]
+
+
+<a id="section-1153a"></a>
+## § 1153a. Transparency
+**(a) In general** Employees of the Department of Homeland Security, including the Secretary of Homeland Security, the Secretary’s counselors, the Assistant Secretary for the Private Sector, the Director of U.S. Citizenship and Immigration Services, counselors to such Director, and the Chief of the Immigrant Investor Programs Office (or any successor to such Office) at U.S. Citizenship and Immigration Services, shall act impartially and may not give preferential treatment to any entity, organization, or individual in connection with any aspect of the immigrant visa program described in [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim).
+
+**(b) Improper activities** Activities that constitute preferential treatment under subsection (a) shall include—
+
+(1) working on, or in any way attempting to influence, in a manner not available to or accorded to all other petitioners, applicants, and seekers of benefits under the immigrant visa program referred to in subsection (a), the standard processing of an application, petition, or benefit for—
+
+  (A) a regional center;
+
+  (B) a new commercial enterprise;
+
+  (C) a job-creating entity; or
+
+  (D) any person or entity associated with such regional center, new commercial enterprise, or job-creating entity; and
+
+(2) meeting or communicating with persons associated with the entities listed in paragraph (1), at the request of such persons, in a manner not available to or accorded to all other petitioners, applicants, and seekers of benefits under such immigrant visa program.
+
+**(c) Reporting of communications**
+
+(1) **Written communication** — Employees of the Department of Homeland Security, including the officials listed in subsection (a), shall include, in the record of proceeding for a case under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim), actual or electronic copies of all case-specific written communication, including emails from government and private accounts, with non-Department persons or entities advocating for regional center applications or individual petitions under such section that are pending on or after March 15, 2022 (other than routine communications with other agencies of the Federal Government regarding the case, including communications involving background checks and litigation defense).
+
+(2) **Oral communication** — If substantive oral communication, including telephonic communication, virtual communication, or in-person meetings, takes place between officials of the Department of Homeland Security and non-Department persons or entities advocating for regional center applications or individual petitions under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) that are pending on or after March 15, 2022 (except communications exempted under paragraph (1))—
+
+  (A) the conversation shall be recorded; or
+
+  (B) detailed minutes of the session shall be taken and included in the record of proceeding.
+
+(3) **Notification**
+
+  (A) *In general* — If the Secretary, in the course of written or oral communication described in this subsection, receives evidence about a specific case from anyone other than an affected party or his or her representative (excluding Federal Government or law enforcement sources), such information may not be made part of the record of proceeding and may not be considered in adjudicative proceedings unless—
+
+    (i) the affected party has been given notice of such evidence; and
+
+    (ii) if such evidence is derogatory, the affected party has been given an opportunity to respond to the evidence.
+
+  (B) *Information from law enforcement, intelligence agencies, or confidential sources*
+
+    (i) *Law enforcement or intelligence agencies* — Evidence received from law enforcement or intelligence agencies may not be made part of the record of proceeding without the consent of the relevant agency or law enforcement entity.
+
+    (ii) *Whistleblowers, confidential sources, or intelligence agencies* — Evidence received from whistleblowers, other confidential sources, or the intelligence community that is included in the record of proceeding and considered in adjudicative proceedings shall be handled in a manner that does not reveal the identity of the whistleblower or confidential source, or reveal classified information.
+
+**(d) Consideration of evidence**
+
+(1) **In general** — No case-specific communication with persons or entities that are not part of the Department of Homeland Security may be considered in the adjudication of an application or petition under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) unless the communication is included in the record of proceeding of the case.
+
+(2) **Waiver** — The Secretary of Homeland Security may waive the requirement under paragraph (1) only in the interests of national security or for investigative or law enforcement purposes.
+
+**(e) Channels of communication**
+
+(1) **Email address or equivalent** — The Director of U.S. Citizenship and Immigration Services shall maintain an email account (or equivalent means of communication) for persons or entities—
+
+  (A) with inquiries regarding specific petitions or applications under the immigrant visa program described in [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim); or
+
+  (B) seeking information that is not case-specific about the immigrant visa program described in such section 1153(b)(5).
+
+(2) **Communication only through appropriate channels or offices**
+
+  (A) *Announcement of appropriate channels of communication* — Not later than 40 days after March 15, 2022, the Director of U.S. Citizenship and Immigration Services shall announce that the only channels or offices by which industry stakeholders, petitioners, applicants, and seekers of benefits under the immigrant visa program described in [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) may communicate with the Department of Homeland Security regarding specific cases under such section (except for communication made by applicants and petitioners pursuant to regular adjudicatory procedures), or information that is not case-specific about the visa program applicable to certain cases under such section, are through—
+
+    (i) the email address or equivalent channel described in paragraph (1);
+
+    (ii) the National Customer Service Center, or any successor to such Center; or
+
+    (iii) the Office of Public Engagement, Immigrant Investor Program Office, including the Stakeholder Engagement Branch, or any successors to those Offices or that Branch.
+
+  (B) *Direction of incoming communications*
+
+    (i) *In general* — Employees of the Department of Homeland Security shall direct communications described in subparagraph (A) to the channels of communication or offices listed in clauses (i) through (iii) of subparagraph (A).
+
+    (ii) *Rule of construction* — Nothing in this subparagraph may be construed to prevent—
+
+      (I) any person from communicating with the Ombudsman of U.S. Citizenship and Immigration Services regarding the immigrant investor program under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim); or
+
+      (II) the Ombudsman from resolving problems regarding such immigrant investor program pursuant to the authority granted under [section 272 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section272&num=0&edition=prelim).
+
+  (C) *Log*
+
+    (i) *In general* — The Director of U.S. Citizenship and Immigration Services shall maintain a written or electronic log of—
+
+      (I) all communications described in subparagraph (A) and communications from Members of Congress, which shall reference the date, time, and subject of the communication, and the identity of the Department official, if any, to whom the inquiry was forwarded;
+
+      (II) with respect to written communications described in subsection (c)(1), the date on which the communication was received, the identities of the sender and addressee, and the subject of the communication; and
+
+      (III) with respect to oral communications described in subsection (c)(2), the date on which the communication occurred, the participants in the conversation or meeting, and the subject of the communication.
+
+    (ii) *Transparency* — The log of communications described in clause (i) shall be made publicly available in accordance with [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”).
+
+(3) **Publication of information** — Not later than 30 days after a person or entity inquiring about a specific case or generally about the immigrant visa program described in [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) receives, as a result of a communication with an official of the Department of Homeland Security, generally applicable information that is not case-specific about program requirements or administration that has not been made publicly available by the Department, the Director of U.S. Citizenship and Immigration Services shall publish such information on the U.S. Citizenship and Immigration Services website as an update to the relevant Frequently Asked Questions page or by some other comparable mechanism.
+
+**(f) Penalty**
+
+(1) **In general** — Any person who intentionally violates the prohibition on preferential treatment under this section or intentionally violates the reporting requirements under subsection (c) shall be disciplined in accordance with paragraph (2).
+
+(2) **Sanctions** — Not later than 90 days after March 15, 2022, the Secretary of Homeland Security shall establish a graduated set of sanctions based on the severity of the violation referred to in paragraph (1), which may include, in addition to any criminal or civil penalties that may be imposed, written reprimand, suspension, demotion, or removal.
+
+**(g) Rule of construction regarding classified information** Nothing in this section may be construed to modify any law, regulation, or policy regarding the handling or disclosure of classified information.
+
+**(h) Rule of construction regarding private right of action** Nothing in this section may be construed to create or authorize a private right of action to challenge a decision of an employee of the Department of Homeland Security.
+
+**(i) Effective date** This section, and the amendments made by this section, shall take effect on March 15, 2022.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the EB–5 Reform and Integrity Act of 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 
 <a id="section-1154"></a>
@@ -3768,7 +4652,11 @@ Pub. L. 85–316, § 12A, as added by Pub. L. 85–700, § 2, Aug. 21, 1958, 72 
 
     (ii) Aliens claiming status as a special immigrant under [section 1101(a)(27)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/27/D&num=0&edition=prelim) may file a petition only with the Secretary of State and only after notification by the Secretary that such status has been recommended and approved pursuant to such section.
 
-  (H) Any alien desiring to be classified under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) may file a petition with the Attorney General for such classification.
+  (H)
+
+    (i) Any alien seeking classification under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) may file a petition for such classification with the Secretary of Homeland Security. An alien seeking to pool his or her investment with 1 or more additional aliens seeking classification under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) shall file for such classification in accordance with [section 1153(b)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/E&num=0&edition=prelim), or before March 15, 2022, in accordance with [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim). An alien petitioning for classification under [section 1153(b)(5)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/E&num=0&edition=prelim) may file a petition with the Secretary after a regional center has filed an application for approval of an investment under [section 1153(b)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/F&num=0&edition=prelim).
+
+    (ii) A petitioner described in clause (i) shall establish eligibility at the time he or she files a petition for classification under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim). A petitioner who was eligible for such classification at the time of such filing shall be deemed eligible for such classification at the time such petition is adjudicated, subject to the approval of the petitioner’s associated application under [section 1153(b)(5)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/F&num=0&edition=prelim), if applicable.
 
   (I)
 
@@ -3903,6 +4791,8 @@ The Intercountry Adoption Act of 2000, referred to in subsec. (d)(2), is Pub. L.
 Subsection (a)(4)(D) and subsection (a)(1)(D), referred to in subsecs. (i)(1) and (j), probably should refer to subsec. (a)(1)(F) of this section. The reference to subsec. (a)(4)(D) probably should have been to subsec. “(a)(1)(D)”, as no par. (4) of subsec. (a) has been enacted. Subsec. (a)(1)(D) of this section was redesignated subsec. (a)(1)(F) by Pub. L. 106–386, § 1503(d)(1). See 2000 Amendment note below.
 
 #### Amendments
+2022—Subsec. (a)(1)(H). Pub. L. 117–103 amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “Any alien desiring to be classified under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) may file a petition with the Attorney General for such classification.”
+
 2013—Subsec. (a)(1)(I)(iv). Pub. L. 113–6 temporarily added cl. (iv). Text read as follows: “Each petition to compete for consideration for a visa under [section 1153(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/c&num=0&edition=prelim) shall be accompanied by a fee equal to $30. All amounts collected under this clause shall be deposited into the Treasury as miscellaneous receipts.” See Effective and Termination Dates of 2013 Amendment note below.
 
 Subsec. (l)(2)(F), (G). Pub. L. 113–4 added subpar. (F) and redesignated former subpar. (F) as (G).
@@ -4052,6 +4942,9 @@ Subsec. (d). Pub. L. 89–236 substituted provisions requiring the Attorney Gene
 Subsec. (e). Pub. L. 89–236 added subsec. (e).
 
 1962—Subsec. (c). Pub. L. 87–885 provided for submission of reports to Congress.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–103, div. BB, § 105(b), Mar. 15, 2022, 136 Stat. 1103, provided that: “(1) In general.—The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Mar. 15, 2022]. “(2) Applicability to petitions.—Section 204(a)(1)(H)(i) of the Immigration and Nationality Act [[8 U.S.C. 1154(a)(1)(H)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1154/a/1/H/i&num=0&edition=prelim)], as added by subsection (a), shall apply to any petition for classification pursuant to section 203(b)(5)(E) of such Act ([8 U.S.C. 1153(b)(5)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/E&num=0&edition=prelim)) that is filed with the Secretary of Homeland Security on or after the date of the enactment of this Act.”
 
 #### Effective and Termination Dates of 2013 Amendment
 Pub. L. 113–6, div. D, title V, § 563, Mar. 26, 2013, 127 Stat. 380, provided in part that the amendment made by section 563 of Pub. L. 113—6 is effective during the period beginning on Oct. 1, 2013, and ending on Sept. 30, 2014.
@@ -4305,7 +5198,7 @@ Pub. L. 106–484, Nov. 9, 2000, 114 Stat. 2195, as amended by Pub. L. 107–258
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 254], Nov. 29, 1999, 113 Stat. 1536, 1501A–432, provided that: “(a) Establishment of Task Force.—The Secretary of State, in consultation with the Attorney General and other appropriate Federal agencies, shall establish a task force with the goal of determining eligibility guidelines for women seeking refugee status overseas due to gender-related persecution. “(b) Report.—Not later than 1 year after the date of the enactment of this Act [Nov. 29, 1999], the Secretary of State shall prepare and submit to the Congress a report outlining the guidelines determined by the task force under subsection (a).”
 
 #### Establishing Categories of Aliens for Purposes of Refugee Determinations
-Pub. L. 101–167, title V, § 599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, § 598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, § 582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, § 905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, § 512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 575(1)], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, § 101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, § 574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, § 101(f) [title VII, § 705(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, § 1000(a)(4) [title II, § 214(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, § 1(a)(1) [title II, § 212(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, § 213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, § 213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, § 213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, § 213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, § 534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, § 20412(b)(1), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, § 634(k)(1), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, § 7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, § 7034(f)(1), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, § 2121(m)(1), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, § 7034(r)(1), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, § 1706(h)(1), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, § 7034(m)(8)(A), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, § 7034(l)(8)(A), Dec. 16, 2014, 128 Stat. 2625; Pub. L. 114–113, div. K, title VII, § 7034(k)(8)(A), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, § 7034(k)(5)(A), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, § 7034(l)(5)(A), Mar. 23, 2018, 132 Stat. 895; Pub. L. 116–6, div. F, title VII, § 7034(m)(5)(A), Feb. 15, 2019, 133 Stat. 327; Pub. L. 116–94, div. G, title VII, § 7034(l)(5)(A), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, § 7034(l)(5)(A), Dec. 27, 2020, 134 Stat. 1750, provided that: “(a) In General.—In the case of an alien who is within a category of aliens established under subsection (b), the alien may establish, for purposes of admission as a refugee under section 207 of the Immigration and Nationality Act [[8 U.S.C. 1157](./chapter-012-immigration-and-nationality.md#section-1157)], that the alien has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion by asserting such a fear and asserting a credible basis for concern about the possibility of such persecution. “(b) Establishment of Categories.—“(1) For purposes of subsection (a), the Attorney General, in consultation with the Secretary of State and the Coordinator for Refugee Affairs, shall establish—“(A) one or more categories of aliens who are or were nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion,[;] “(B) one or more categories of aliens who are or were nationals and residents of Vietnam, Laos, or Cambodia and who share common characteristics that identify them as targets of persecution in such respective foreign state on such an account; and “(C) one or more categories of aliens who are or were nationals and residents of the Islamic Republic or Iran who, as members of a religious minority in Iran, share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion. “(2)(A) Aliens who are (or were) nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are Jews or Evangelical Christians shall be deemed a category of alien established under paragraph (1)(A). “(B) Aliens who are (or were) nationals of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are current members of, and demonstrate public, active, and continuous participation (or attempted participation) in the religious activities of, the Ukrainian Catholic Church or the Ukrainian Orthodox Church, shall be deemed a category of alien established under paragraph (1)(A). “(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B). “(3) Within the number of admissions of refugees allocated for for [sic] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act [[8 U.S.C. 1157(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1157/a/3&num=0&edition=prelim)] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, and 2021 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B). “(c) Written Reasons for Denials of Refugee Status.—Each decision to deny an application for refugee status of an alien who is within a category established under this section shall be in writing and shall state, to the maximum extent feasible, the reason for the denial. “(d) Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Each alien who is within a category established under this section and who (after August 14, 1988, and before the date of the enactment of this Act [Nov. 21, 1989]) was denied refugee status shall be permitted to reapply for such status. Such an application shall be determined taking into account the application of this section. “(e) Period of Application.—“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act [Nov. 21, 1989] and shall only apply to applications for refugee status submitted before October 1, 2021. “(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2021. “(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2021.”
+Pub. L. 101–167, title V, § 599D, Nov. 21, 1989, 103 Stat. 1261, as amended by Pub. L. 101–513, title V, § 598(a), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 102–391, title V, § 582(a)(1), (b)(1), (c), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, § 905(a), (b)(1), (c), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, § 512(1), Apr. 30, 1994, 108 Stat. 466; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 575(1)], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, § 101(1), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, § 574(1), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, § 101(f) [title VII, § 705(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, § 1000(a)(4) [title II, § 214(1)], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, § 1(a)(1) [title II, § 212(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, § 213(1), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, § 213(1), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, § 213(1), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, § 213(1), Dec. 8, 2004, 118 Stat. 3139; Pub. L. 109–102, title V, § 534(m)(1), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, § 20412(b)(1), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, § 634(k)(1), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, § 7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, § 7034(f)(1), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, § 2121(m)(1), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, § 7034(r)(1), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, § 1706(h)(1), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, § 7034(m)(8)(A), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, § 7034(l)(8)(A), Dec. 16, 2014, 128 Stat. 2625; Pub. L. 114–113, div. K, title VII, § 7034(k)(8)(A), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, § 7034(k)(5)(A), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, § 7034(l)(5)(A), Mar. 23, 2018, 132 Stat. 895; Pub. L. 116–6, div. F, title VII, § 7034(m)(5)(A), Feb. 15, 2019, 133 Stat. 327; Pub. L. 116–94, div. G, title VII, § 7034(l)(5)(A), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, § 7034(l)(5)(A), Dec. 27, 2020, 134 Stat. 1750; Pub. L. 117–103, div. K, title VII, § 7034(l)(5)(A), Mar. 15, 2022, 136 Stat. 623, provided that: “(a) In General.—In the case of an alien who is within a category of aliens established under subsection (b), the alien may establish, for purposes of admission as a refugee under section 207 of the Immigration and Nationality Act [[8 U.S.C. 1157](./chapter-012-immigration-and-nationality.md#section-1157)], that the alien has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion by asserting such a fear and asserting a credible basis for concern about the possibility of such persecution. “(b) Establishment of Categories.—“(1) For purposes of subsection (a), the Attorney General, in consultation with the Secretary of State and the Coordinator for Refugee Affairs, shall establish—“(A) one or more categories of aliens who are or were nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion,[;] “(B) one or more categories of aliens who are or were nationals and residents of Vietnam, Laos, or Cambodia and who share common characteristics that identify them as targets of persecution in such respective foreign state on such an account; and “(C) one or more categories of aliens who are or were nationals and residents of the Islamic Republic or Iran who, as members of a religious minority in Iran, share common characteristics that identify them as targets of persecution in that state on account of race, religion, nationality, membership in a particular social group, or political opinion. “(2)(A) Aliens who are (or were) nationals and residents of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are Jews or Evangelical Christians shall be deemed a category of alien established under paragraph (1)(A). “(B) Aliens who are (or were) nationals of an independent state of the former Soviet Union or of Estonia, Latvia, or Lithuania and who are current members of, and demonstrate public, active, and continuous participation (or attempted participation) in the religious activities of, the Ukrainian Catholic Church or the Ukrainian Orthodox Church, shall be deemed a category of alien established under paragraph (1)(A). “(C) Aliens who are (or were) nationals and residents of Vietnam, Laos, or Cambodia and who are members of categories of individuals determined, by the Attorney General in accordance with ‘Immigration and Naturalization Service Worldwide Guidelines for Overseas Refugee Processing’ (issued by the Immigration and Naturalization Service in August 1983) shall be deemed a category of alien established under paragraph (1)(B). “(3) Within the number of admissions of refugees allocated for for [sic] each of fiscal years 1990, 1991, and 1992 for refugees who are nationals of the Soviet Union under section 207(a)(3) of the Immigration and Nationality Act [[8 U.S.C. 1157(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1157/a/3&num=0&edition=prelim)] and within the number of such admissions allocated for each of fiscal years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, and 2022 for refugees who are nationals of the independent states of the former Soviet Union, Estonia, Latvia, and Lithuania under such section, notwithstanding any other provision of law, the President shall allocate one thousand of such admissions for such fiscal year to refugees who are within the category of aliens described in paragraph (2)(B). “(c) Written Reasons for Denials of Refugee Status.—Each decision to deny an application for refugee status of an alien who is within a category established under this section shall be in writing and shall state, to the maximum extent feasible, the reason for the denial. “(d) Permitting Certain Aliens Within Categories to Reapply for Refugee Status.—Each alien who is within a category established under this section and who (after August 14, 1988, and before the date of the enactment of this Act [Nov. 21, 1989]) was denied refugee status shall be permitted to reapply for such status. Such an application shall be determined taking into account the application of this section. “(e) Period of Application.—“(1) Subsections (a) and (b) shall take effect on the date of the enactment of this Act [Nov. 21, 1989] and shall only apply to applications for refugee status submitted before October 1, 2022. “(2) Subsection (c) shall apply to decisions made after the date of the enactment of this Act and before October 1, 2022. “(3) Subsection (d) shall take effect on the date of the enactment of this Act and shall only apply to reapplications for refugee status submitted before October 1, 2022.”
 
 [Pub. L. 109–102, § 534(m)(1)(A), which directed amendment of section 599D(b)(3) of Pub. L. 101–167, set out above, by substituting “2005, and 2006” for “and 2005”, could not be executed.]
 
@@ -4325,95 +5218,6 @@ Pub. L. 96–212, title II, § 204(d)(1), Mar. 17, 1980, 94 Stat. 109, provided 
 
 #### Delegation of Functions
 For delegation of Congressional reporting functions of President under subsec. (d) of this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
-
-#### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
-Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
-
-Presidential Determination No. 2021–06, May 3, 2021, 86 F.R. 24475.
-
-Presidential Determination No. 2021–05, Apr. 16, 2021, 86 F.R. 21159.
-
-Presidential Determination No. 2021–02, Oct. 27, 2020, 85 F.R. 71219, superseded by Presidential Determination No. 2021–05, subsec. (g), Apr. 16, 2021, 86 F.R. 21160.
-
-Presidential Determination No. 2020–04, Nov. 1, 2019, 84 F.R. 65903.
-
-Presidential Determination No. 2019–01, Oct. 4, 2018, 83 F.R. 55091.
-
-Presidential Determination No. 2017–13, Sept. 29, 2017, 82 F.R. 49083.
-
-Presidential Determination No. 2016–13, Sept. 28, 2016, 81 F.R. 70315.
-
-Presidential Determination No. 2015–14, Sept. 29, 2015, 80 F.R. 62433.
-
-Presidential Determination No. 2014–17, Sept. 30, 2014, 79 F.R. 69753.
-
-Presidential Determination No. 2014–01, Oct. 2, 2013, 78 F.R. 62415.
-
-Presidential Determination No. 2012–17, Sept. 28, 2012, 77 F.R. 61507.
-
-Presidential Determination No. 2011–17, Sept. 30, 2011, 76 F.R. 62597.
-
-Presidential Determination No. 2011–02, Oct. 8, 2010, 75 F.R. 75851.
-
-Presidential Determination No. 2009–32, Sept. 30, 2009, 74 F.R. 52385.
-
-Presidential Determination No. 2008–29, Sept. 30, 2008, 73 F.R. 58865.
-
-Presidential Determination No. 2008–1, Oct. 2, 2007, 72 F.R. 58991.
-
-Presidential Determination No. 2007–1, Oct. 11, 2006, 71 F.R. 64435.
-
-Presidential Determination No. 2006–3, Oct. 24, 2005, 70 F.R. 65825.
-
-Presidential Determination No. 2004–53, Sept. 30, 2004, 69 F.R. 60943.
-
-Presidential Determination No. 2004–06, Oct. 21, 2003, 68 F.R. 63979.
-
-Presidential Determination No. 03–02, Oct. 16, 2002, 67 F.R. 65469.
-
-Presidential Determination No. 02–04, Nov. 21, 2001, 66 F.R. 63487.
-
-Presidential Determination No. 2000–32, Sept. 29, 2000, 65 F.R. 59697.
-
-Presidential Determination No. 99–45, Sept. 30, 1999, 64 F.R. 54505.
-
-Presidential Determination No. 99–33, Aug. 12, 1999, 64 F.R. 47341.
-
-Presidential Determination No. 98–39, Sept. 30, 1998, 63 F.R. 55001.
-
-Presidential Determination No. 97–37, Sept. 30, 1997, 62 F.R. 53219.
-
-Presidential Determination No. 96–59, Sept. 30, 1996, 61 F.R. 56869.
-
-Presidential Determination No. 95–48, Sept. 29, 1995, 60 F.R. 53091.
-
-Presidential Determination No. 95–1, Oct. 1, 1994, 59 F.R. 52393.
-
-Presidential Determination No. 94–1, Oct. 1, 1993, 58 F.R. 52213.
-
-Presidential Determination No. 93–1, Oct. 2, 1992, 57 F.R. 47253.
-
-Presidential Determination No. 92–2, Oct. 9, 1991, 56 F.R. 51633.
-
-Presidential Determination No. 91–3, Oct. 12, 1990, 55 F.R. 41979.
-
-Presidential Determination No. 90–2, Oct. 6, 1989, 54 F.R. 43035.
-
-Presidential Determination No. 89–15, June 19, 1989, 54 F.R. 31493.
-
-Presidential Determination No. 89–2, Oct. 5, 1988, 53 F.R. 45249.
-
-Presidential Determination No. 88–16, May 20, 1988, 53 F.R. 21405.
-
-Presidential Determination No. 88–01, Oct. 5, 1987, 52 F.R. 42073.
-
-Presidential Determination No. 87–1, Oct. 17, 1986, 51 F.R. 39637.
-
-Presidential Determination No. 83–2, Oct. 11, 1982, 47 F.R. 46483.
-
-Presidential Determination No. 82–1, Oct. 10, 1981, 46 F.R. 55233.
-
-Presidential Determination No. 80–28, Sept. 30, 1980, 45 F.R. 68365.
 
 #### Ex. Ord. No. 12208. Consultations on the Admission of Refugees
 Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, § 49, Feb. 28, 2003, 68 F.R. 10628, provided:
@@ -4566,6 +5370,97 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 J.R. Biden, Jr.
+
+#### Presidential Determination Concerning Admission and Adjustment of Status of Refugees
+Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
+
+Presidential Determination No. 2022–02, Oct. 8, 2021, 86 F.R. 57527.
+
+Presidential Determination No. 2021–06, May 3, 2021, 86 F.R. 24475.
+
+Presidential Determination No. 2021–05, Apr. 16, 2021, 86 F.R. 21159.
+
+Presidential Determination No. 2021–02, Oct. 27, 2020, 85 F.R. 71219, superseded by Presidential Determination No. 2021–05, subsec. (g), Apr. 16, 2021, 86 F.R. 21160.
+
+Presidential Determination No. 2020–04, Nov. 1, 2019, 84 F.R. 65903.
+
+Presidential Determination No. 2019–01, Oct. 4, 2018, 83 F.R. 55091.
+
+Presidential Determination No. 2017–13, Sept. 29, 2017, 82 F.R. 49083.
+
+Presidential Determination No. 2016–13, Sept. 28, 2016, 81 F.R. 70315.
+
+Presidential Determination No. 2015–14, Sept. 29, 2015, 80 F.R. 62433.
+
+Presidential Determination No. 2014–17, Sept. 30, 2014, 79 F.R. 69753.
+
+Presidential Determination No. 2014–01, Oct. 2, 2013, 78 F.R. 62415.
+
+Presidential Determination No. 2012–17, Sept. 28, 2012, 77 F.R. 61507.
+
+Presidential Determination No. 2011–17, Sept. 30, 2011, 76 F.R. 62597.
+
+Presidential Determination No. 2011–02, Oct. 8, 2010, 75 F.R. 75851.
+
+Presidential Determination No. 2009–32, Sept. 30, 2009, 74 F.R. 52385.
+
+Presidential Determination No. 2008–29, Sept. 30, 2008, 73 F.R. 58865.
+
+Presidential Determination No. 2008–1, Oct. 2, 2007, 72 F.R. 58991.
+
+Presidential Determination No. 2007–1, Oct. 11, 2006, 71 F.R. 64435.
+
+Presidential Determination No. 2006–3, Oct. 24, 2005, 70 F.R. 65825.
+
+Presidential Determination No. 2004–53, Sept. 30, 2004, 69 F.R. 60943.
+
+Presidential Determination No. 2004–06, Oct. 21, 2003, 68 F.R. 63979.
+
+Presidential Determination No. 03–02, Oct. 16, 2002, 67 F.R. 65469.
+
+Presidential Determination No. 02–04, Nov. 21, 2001, 66 F.R. 63487.
+
+Presidential Determination No. 2000–32, Sept. 29, 2000, 65 F.R. 59697.
+
+Presidential Determination No. 99–45, Sept. 30, 1999, 64 F.R. 54505.
+
+Presidential Determination No. 99–33, Aug. 12, 1999, 64 F.R. 47341.
+
+Presidential Determination No. 98–39, Sept. 30, 1998, 63 F.R. 55001.
+
+Presidential Determination No. 97–37, Sept. 30, 1997, 62 F.R. 53219.
+
+Presidential Determination No. 96–59, Sept. 30, 1996, 61 F.R. 56869.
+
+Presidential Determination No. 95–48, Sept. 29, 1995, 60 F.R. 53091.
+
+Presidential Determination No. 95–1, Oct. 1, 1994, 59 F.R. 52393.
+
+Presidential Determination No. 94–1, Oct. 1, 1993, 58 F.R. 52213.
+
+Presidential Determination No. 93–1, Oct. 2, 1992, 57 F.R. 47253.
+
+Presidential Determination No. 92–2, Oct. 9, 1991, 56 F.R. 51633.
+
+Presidential Determination No. 91–3, Oct. 12, 1990, 55 F.R. 41979.
+
+Presidential Determination No. 90–2, Oct. 6, 1989, 54 F.R. 43035.
+
+Presidential Determination No. 89–15, June 19, 1989, 54 F.R. 31493.
+
+Presidential Determination No. 89–2, Oct. 5, 1988, 53 F.R. 45249.
+
+Presidential Determination No. 88–16, May 20, 1988, 53 F.R. 21405.
+
+Presidential Determination No. 88–01, Oct. 5, 1987, 52 F.R. 42073.
+
+Presidential Determination No. 87–1, Oct. 17, 1986, 51 F.R. 39637.
+
+Presidential Determination No. 83–2, Oct. 11, 1982, 47 F.R. 46483.
+
+Presidential Determination No. 82–1, Oct. 10, 1981, 46 F.R. 55233.
+
+Presidential Determination No. 80–28, Sept. 30, 1980, 45 F.R. 68365.
 
 
 <a id="section-1158"></a>
@@ -7160,6 +8055,8 @@ Pub. L. 103–416, title II, § 219(z), Oct. 25, 1994, 108 Stat. 4318, provided 
 
 Pub. L. 103–416, title II, § 220(c), Oct. 25, 1994, 108 Stat. 4320, as amended by Pub. L. 104–208, div. C, title VI, § 622(a), Sept. 30, 1996, 110 Stat. 3009–695; Pub. L. 107–273, div. C, title I, § 11018(b), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 108–441, § 1(a)(1), Dec. 3, 2004, 118 Stat. 2630; Pub. L. 109–477, § 2, Jan. 12, 2007, 120 Stat. 3572; Pub. L. 110–362, § 1, Oct. 8, 2008, 122 Stat. 4013; Pub. L. 111–9, § 2, Mar. 20, 2009, 123 Stat. 989; Pub. L. 111–83, title V, § 568(b), Oct. 28, 2009, 123 Stat. 2186; Pub. L. 112–176, § 4, Sept. 28, 2012, 126 Stat. 1325, provided that: “The amendments made by this section [amending this section and [section 1184 of this title](./chapter-012-immigration-and-nationality.md#section-1184)] shall apply to aliens admitted to the United States under section 101(a)(15)(J) of the Immigration and Nationality Act [[8 U.S.C. 1101(a)(15)(J)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/J&num=0&edition=prelim)], or acquiring such status after admission to the United States, before, on, or after the date of enactment of this Act [Oct. 25, 1994] and before September 30, 2015.”
 
+[Pub. L. 117–103, div. O, title II, § 203, Mar. 15, 2022, 136 Stat. 788, provided that: “Subclauses [sic; probably should be “Section”] 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 [Pub. L. 103–416] ([8 U.S.C. 1182](./chapter-012-immigration-and-nationality.md#section-1182) note) [set out above] shall be applied by substituting ‘September 30, 2022’ for ‘September 30, 2015’.” ]
+
 [Pub. L. 116–260, div. O, title I, § 103, Dec. 27, 2020, 134 Stat. 2148, provided that: “Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 [Pub. L. 103–416] ([8 U.S.C. 1182](./chapter-012-immigration-and-nationality.md#section-1182) note) [set out above] shall be applied by substituting ‘September 30, 2021’ for ‘September 30, 2015’.” ]
 
 [Pub. L. 116–94, div. I, title I, § 103, Dec. 20, 2019, 133 Stat. 3019, provided that: “Section 220(c) of the Immigration and Nationality Technical Corrections Act of 1994 [Pub. L. 103–416] ([8 U.S.C. 1182](./chapter-012-immigration-and-nationality.md#section-1182) note) [set out above] shall be applied by substituting ‘September 30, 2020’ for ‘September 30, 2015’.” ]
@@ -7289,9 +8186,11 @@ Pub. L. 110–229, title VII, § 702(k), May 8, 2008, 122 Stat. 867, provided th
 Pub. L. 110–161, div. J, title VI, § 691(e), Dec. 26, 2007, 121 Stat. 2365, provided that: “The Secretary of Homeland Security shall provide to the Committees on the Judiciary of the United States Senate and House of Representatives a report, not less than 180 days after the enactment of this Act [Dec. 26, 2007] and every year thereafter, which may include a classified annex, if appropriate, describing— “(1) the number of individuals subject to removal from the United States for having provided material support to a terrorist group who allege that such support was provided under duress; “(2) a breakdown of the types of terrorist organizations to which the individuals described in paragraph (1) have provided material support; “(3) a description of the factors that the Department of Homeland Security considers when evaluating duress waivers; and “(4) any other information that the Secretary believes that the Congress should consider while overseeing the Department’s application of duress waivers.”
 
 #### Inadmissibility of Foreign Officials and Family Members Involved in Kleptocracy or Human Rights Violations
-Pub. L. 116–260, div. K, title VII, § 7031(c), Dec. 27, 2020, 134 Stat. 1743, provided that: “(1) Ineligibility.—“(A) Officials of foreign governments and their immediate family members about whom the Secretary of State has credible information have been involved, directly or indirectly, in significant corruption, including corruption related to the extraction of natural resources, or a gross violation of human rights, including the wrongful detention of locally employed staff of a United States diplomatic mission or a United States citizen or national, shall be ineligible for entry into the United States. “(B) The Secretary shall also publicly or privately designate or identify the officials of foreign governments and their immediate family members about whom the Secretary has such credible information without regard to whether the individual has applied for a visa. “(2) Exception.—Individuals shall not be ineligible for entry into the United States pursuant to paragraph (1) if such entry would further important United States law enforcement objectives or is necessary to permit the United States to fulfill its obligations under the United Nations Headquarters Agreement: Provided, That nothing in paragraph (1) shall be construed to derogate from United States Government obligations under applicable international agreements. “(3) Waiver.—The Secretary may waive the application of paragraph (1) if the Secretary determines that the waiver would serve a compelling national interest or that the circumstances which caused the individual to be ineligible have changed sufficiently. “(4) Report.—Not later than 30 days after enactment of this Act [titles I to VII of div. K of Pub. L. 116–260, approved Dec. 27, 2020], and every 90 days thereafter until September 30, 2021, the Secretary of State shall submit a report, including a classified annex if necessary, to the appropriate congressional committees [Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives] and the Committees on the Judiciary describing the information related to corruption or violation of human rights concerning each of the individuals found ineligible in the previous 12 months pursuant to paragraph (1)(A) as well as the individuals who the Secretary designated or identified pursuant to paragraph (1)(B), or who would be ineligible but for the application of paragraph (2), a list of any waivers provided under paragraph (3), and the justification for each waiver. “(5) Posting of report.—Any unclassified portion of the report required under paragraph (4) shall be posted on the Department of State website. “(6) Clarification.—For purposes of paragraphs (1), (4), and (5), the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance or refusal of visas or permits to enter the United States shall not be considered confidential.”
+Pub. L. 117–103, div. K, title VII, § 7031(c), Mar. 15, 2022, 136 Stat. 615, provided that: “(1) Ineligibility.—“(A) Officials of foreign governments and their immediate family members about whom the Secretary of State has credible information have been involved, directly or indirectly, in significant corruption, including corruption related to the extraction of natural resources, or a gross violation of human rights, including the wrongful detention of locally employed staff of a United States diplomatic mission or a United States citizen or national, shall be ineligible for entry into the United States. “(B) Concurrent with the application of subparagraph (A), the Secretary should, as appropriate, refer the matter to the Office of Foreign Assets Control, Department of the Treasury, to determine whether to apply sanctions authorities in accordance with United States law to block the transfer of property and interests in property, and all financial transactions, in the United States involving any person described in such subparagraph. “(C) The Secretary shall also publicly or privately designate or identify the officials of foreign governments and their immediate family members about whom the Secretary has such credible information without regard to whether the individual has applied for a visa. “(2) Exception.—Individuals shall not be ineligible for entry into the United States pursuant to paragraph (1) if such entry would further important United States law enforcement objectives or is necessary to permit the United States to fulfill its obligations under the United Nations Headquarters Agreement: Provided, That nothing in paragraph (1) shall be construed to derogate from United States Government obligations under applicable international agreements. “(3) Waiver.—The Secretary may waive the application of paragraph (1) if the Secretary determines that the waiver would serve a compelling national interest or that the circumstances which caused the individual to be ineligible have changed sufficiently. “(4) Report.—Not later than 30 days after enactment of this Act [div. K of Pub. L. 117–103, approved Mar. 15, 2022], and every 90 days thereafter until September 30, 2023, the Secretary of State shall submit a report, including a classified annex if necessary, to the appropriate congressional committees [Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives] and the Committees on the Judiciary describing the information related to corruption or violation of human rights concerning each of the individuals found ineligible in the previous 12 months pursuant to paragraph (1)(A) as well as the individuals who the Secretary designated or identified pursuant to paragraph (1)(B), or who would be ineligible but for the application of paragraph (2), a list of any waivers provided under paragraph (3), and the justification for each waiver. “(5) Posting of report.—Any unclassified portion of the report required under paragraph (4) shall be posted on the Department of State website. “(6) Clarification.—For purposes of paragraphs (1), (4), and (5), the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance or refusal of visas or permits to enter the United States shall not be considered confidential.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 116–260, div. K, title VII, § 7031(c), Dec. 27, 2020, 134 Stat. 1743.
 
 Pub. L. 116–94, div. G, title VII, § 7031(c), Dec. 20, 2019, 133 Stat. 2865.
 
@@ -7394,10 +8293,16 @@ Pub. L. 86–648, §§ 1–4, 11, July 14, 1960, 74 Stat. 504, 505, as amended b
 Pub. L. 85–559, July 25, 1958, 72 Stat. 419, provided: “That any alien who was paroled into the United States as a refugee from the Hungarian revolution under section 212(d)(5) of the Immigration and Nationality Act [subsection (d)(5) of this section] subsequent to October 23, 1956, who has been in the United States for at least two years, and who has not acquired permanent residence, shall forthwith return or be returned to the custody of the Immigration and Naturalization Service, and shall thereupon be inspected and examined for admission into the United States, and his case dealt with, in accordance with the provisions of sections 235, 236 and 237 of that Act [sections 1225, 1226 and [former] 1227 of this title]. “Sec. 2. Any such alien who, pursuant to section 1 of this Act, is found, upon inspection by an immigration officer or after hearing before a special inquiry officer, to have been and to be admissible as an immigrant at the time of his arrival in the United States and at the time of his inspection and examination, except for the fact that he was not and is not in possession of the documents required by section 212(a)(20) of the Immigration and Nationality Act [former subsection (a)(20) of this section], shall be regarded as lawfully admitted to the United States for permanent residence as of the date of his arrival. “Sec. 3. Nothing contained in this Act shall be held to repeal, amend, alter, modify, affect, or restrict the powers, duties, functions, or authority of the Attorney General in the administration and enforcement of the Immigration and Nationality Act [this chapter] or any other law relating to immigration, nationality, or naturalization.”
 
 #### Definition of Appropriate Congressional Committees
-Pub. L. 116–260, div. K, title VII, § 7034(q)(1), Dec. 27, 2020, 134 Stat. 1753, provided that: “Unless otherwise defined in this Act [titles I to VII of div. K of Pub. L. 116–260, 134 Stat. 1691, see Tables for classification], for purposes of this Act the term ‘appropriate congressional committees’ means the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives.”
+Pub. L. 117–103, div. K, title VII, § 7034(t)(1), Mar. 15, 2022, 136 Stat. 626, provided that: “Unless otherwise defined in this Act [div. K of Pub. L. 117–103, 136 Stat. 564, see Tables for classification], for purposes of this Act the term ‘appropriate congressional committees’ means the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and Foreign Affairs of the House of Representatives.”
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 116–260, div. K, title VII, § 7034(q)(1), Dec. 27, 2020, 134 Stat. 1753.
 
 #### Presidential Proclamations Suspending Entry of Certain Aliens
 Suspension of entry of certain aliens into the United States were contained in the following Presidential proclamations:
+
+Proc. No. 10309, Nov. 16, 2021, 86 F.R. 64797, relating to immigrants and nonimmigrants responsible for policies or actions that threaten democracy in Nicaragua.
 
 Proc. No. 10052, June 22, 2020, 85 F.R. 38263, as amended by Proc. No. 10054, June 29, 2020, 85 F.R. 40085; Proc. No. 10131, § 2, Dec. 31, 2020, 86 F.R. 418; Proc. No. 10149, § 1, Feb. 24, 2021, 86 F.R. 11847, relating to immigrants and nonimmigrants who present a risk to the United States labor market following the COVID–19 pandemic, expired Mar. 31, 2021.
 
@@ -7422,9 +8327,13 @@ Proc. No. 7750, Jan. 12, 2004, 69 F.R. 2287, relating to persons engaged in or b
 #### Presidential Proclamations Suspending Entry as Immigrants and Nonimmigrants of Persons Who Pose a Risk of Transmitting 2019 Novel Coronavirus
 Suspension of entry into the United States of aliens who were physically present in certain countries during the COVID–19 pandemic were contained in the following Presidential proclamations:
 
-Proc. No. 10199, Apr. 30, 2021, 86 F.R. 24297, relating to noncitizens entering as nonimmigrants who were physically present within the Republic of India.
+Proc. No. 10315, Nov. 26, 2021, 86 F.R. 68385, relating to noncitizens who were physically present within the Republic of Botswana, the Kingdom of Eswatini, the Kingdom of Lesotho, the Republic of Malawi, the Republic of Mozambique, the Republic of Namibia, the Republic of South Africa, and the Republic of Zimbabwe, was revoked by Proc. No. 10329, Dec. 28, 2021, 87 F.R. 149.
 
-Proc. No. 10143, Jan. 25, 2021, 86 F.R. 7467, relating to noncitizens who were physically present within the Schengen Area, the United Kingdom (excluding overseas territories outside of Europe), the Republic of Ireland, and the Federative Republic of Brazil.
+Proc. No. 10294, Oct. 25, 2021, 86 F.R. 59603, relating to certain noncitizens who are nonimmigrants and who are not fully vaccinated against COVID-19 arriving by air.
+
+Proc. No. 10199, Apr. 30, 2021, 86 F.R. 24297, relating to noncitizens entering as nonimmigrants who were physically present within the Republic of India, was revoked by Proc. No. 10294, § 1, Oct. 25, 2021, 86 F.R. 59604.
+
+Proc. No. 10143, Jan. 25, 2021, 86 F.R. 7467, relating to noncitizens who were physically present within the Schengen Area, the United Kingdom (excluding overseas territories outside of Europe), the Republic of Ireland, and the Federative Republic of Brazil, was revoked by Proc. No. 10294, § 1, Oct. 25, 2021, 86 F.R. 59604.
 
 Proc. No. 10041, May 24, 2020, 85 F.R. 31933, as amended by Proc. No. 10042, May 25, 2020, 85 F.R. 32291, relating to aliens present in the Federative Republic of Brazil, was revoked by Proc. No. 10138, Jan. 18, 2021, 86 F.R. 6799.
 
@@ -7432,9 +8341,9 @@ Proc. No. 9996, Mar. 14, 2020, 85 F.R. 15341, relating to aliens present in the 
 
 Proc. No. 9993, Mar. 11, 2020, 85 F.R. 15045, relating to aliens present in the Schengen Area, was revoked by Proc. No. 10138, Jan. 18, 2021, 86 F.R. 6799.
 
-Proc. No. 9992, Feb. 29, 2020, 85 F.R. 12855, as amended by Proc. No. 10143, § 5, Jan. 25, 2021, 86 F.R. 7469, relating to aliens present in the Islamic Republic of Iran.
+Proc. No. 9992, Feb. 29, 2020, 85 F.R. 12855, as amended by Proc. No. 10143, § 5, Jan. 25, 2021, 86 F.R. 7469, relating to aliens present in the Islamic Republic of Iran, was revoked by Proc. No. 10294, § 1, Oct. 25, 2021, 86 F.R. 59604.
 
-Proc. No. 9984, Jan. 31, 2020, 85 F.R. 6709, as amended by Proc. No. 9992, § 4, Feb. 29, 2020, 85 F.R. 12857; Proc. No. 10143, § 5, Jan. 25, 2021, 86 F.R. 7469, relating to aliens present in the People’s Republic of China.
+Proc. No. 9984, Jan. 31, 2020, 85 F.R. 6709, as amended by Proc. No. 9992, § 4, Feb. 29, 2020, 85 F.R. 12857; Proc. No. 10143, § 5, Jan. 25, 2021, 86 F.R. 7469, relating to aliens present in the People’s Republic of China, was revoked by Proc. No. 10294, § 1, Oct. 25, 2021, 86 F.R. 59604.
 
 #### Proc. No. 4865. High Seas Interdiction of Illegal Aliens
 Proc. No. 4865, Sept. 29, 1981, 46 F.R. 48107, provided:
@@ -7542,7 +8451,7 @@ Ex. Ord. No. 13769, Jan. 27, 2017, 82 F.R. 8977, which related to review and sus
 #### Executive Order No. 13780
 Ex. Ord. No. 13780, Mar. 6, 2017, 82 F.R. 13209, which prevented nationals from certain countries from entering the United States, was revoked by Proc. No. 10141, Jan. 20, 2021, 86 F.R. 7005.
 
-[Memorandum of President of the United States, June 14, 2017, 82 F.R. 27965, elated to implementation of Ex. Ord. No. 13780, formerly set out above, in light of preliminary injunctions that barred enforcement of certain provisions and construed to amend the effective date of Ex. Ord. No. 13780 to the extent necessary to comply with such injunctions.]
+[Memorandum of President of the United States, June 14, 2017, 82 F.R. 27965, related to implementation of Ex. Ord. No. 13780, formerly set out above, in light of preliminary injunctions that barred enforcement of certain provisions and construed to amend the effective date of Ex. Ord. No. 13780 to the extent necessary to comply with such injunctions.]
 
 #### Executive Order No. 13815
 Ex. Ord. No. 13815, Oct. 24, 2017, 82 F.R. 50055, which related to resuming the United States Refugee Admissions Program with enhanced vetting capabilities, was revoked by Ex. Ord. No. 14013, § 2(a), Feb. 4, 2021, 86 F.R. 8840, set out in a note under [section 1157 of this title](./chapter-012-immigration-and-nationality.md#section-1157).
@@ -8881,7 +9790,7 @@ Amendment by section 625(a)(1) of Pub. L. 104–208 applicable to individuals wh
 Amendment by section 671(a)(3)(A) of Pub. L. 104–208 effective as if included in the enactment of the Violent Crime Control and Law Enforcement Act of 1994, Pub. L. 103–322, see section 671(a)(7) of Pub. L. 104–208, set out as a note under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101).
 
 #### Effective Date of 1994 Amendment
-Amendment by Pub. L. 103–416 applicable to aliens admitted to United States under [section 1101(a)(15)(J) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/J&num=0&edition=prelim), or acquiring such status after admission to United States, before, on, or after Oct. 25, 1994, and before June 1, 2008, see section 220(c) of Pub. L. 103–416, as amended, set out as an Effective and Termination Dates of 1994 Amendments note under [section 1182 of this title](./chapter-012-immigration-and-nationality.md#section-1182).
+Amendment by Pub. L. 103–416 applicable to aliens admitted to United States under [section 1101(a)(15)(J) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/J&num=0&edition=prelim), or acquiring such status after admission to United States, before, on, or after Oct. 25, 1994, and before Sept. 30, 2015, subject to extensions, see section 220(c) of Pub. L. 103–416, as amended, set out as an Effective and Termination Dates of 1994 Amendment note under [section 1182 of this title](./chapter-012-immigration-and-nationality.md#section-1182), and bracketed notes thereunder.
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–182 effective on date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 342 of Pub. L. 103–182, formerly set out as a note under [section 4561 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4561&num=0&edition=prelim), Customs Duties.
@@ -8912,8 +9821,12 @@ United States Information Agency (other than Broadcasting Board of Governors and
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of this title](./chapter-013-immigration-and-naturalization-service.md#section-1551).
 
-#### Authorization for Increase in Nonagricultural Worker Visas in Fiscal Year 2021
-Pub. L. 116–260, div. O, title I, § 105, Dec. 27, 2020, 134 Stat. 2148, provided that: “Notwithstanding the numerical limitation set forth in section 214(g)(1)(B) of the Immigration and Nationality Act ([8 U.S.C. 1184(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1184/g/1/B&num=0&edition=prelim)), the Secretary of Homeland Security, after consultation with the Secretary of Labor, and upon the determination that the needs of American businesses cannot be satisfied in fiscal year 2021 with United States workers who are willing, qualified, and able to perform temporary nonagricultural labor, may increase the total number of aliens who may receive a visa under section 101(a)(15)(H)(ii)(b) of such Act ([8 U.S.C. 1101(a)(15)(H)(ii)(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/H/ii/b&num=0&edition=prelim)) in such fiscal year above such limitation by not more than the highest number of H–2B nonimmigrants who participated in the H–2B returning worker program in any fiscal year in which returning workers were exempt from such numerical limitation.”
+#### Authorization for Increase in Nonagricultural Worker Visas in Certain Fiscal Years
+Pub. L. 117–103, div. O, title II, § 204, Mar. 15, 2022, 136 Stat. 788, provided that: “Notwithstanding the numerical limitation set forth in section 214(g)(1)(B) of the Immigration and Nationality Act ([8 U.S.C. 1184(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1184/g/1/B&num=0&edition=prelim)), the Secretary of Homeland Security, after consultation with the Secretary of Labor, and upon the determination that the needs of American businesses cannot be satisfied in fiscal year 2022 with United States workers who are willing, qualified, and able to perform temporary nonagricultural labor, may increase the total number of aliens who may receive a visa under section 101(a)(15)(H)(ii)(b) of such Act ([8 U.S.C. 1101(a)(15)(H)(ii)(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/H/ii/b&num=0&edition=prelim)) in such fiscal year above such limitation by not more than the highest number of H–2B nonimmigrants who participated in the H–2B returning worker program in any fiscal year in which returning workers were exempt from such numerical limitation.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 116–260, div. O, title I, § 105, Dec. 27, 2020, 134 Stat. 2148.
 
 #### Limitation on Use of Certain Information
 Pub. L. 109–162, title VIII, § 832(b), Jan. 5, 2006, 119 Stat. 3068, provided that: “The fact that an alien described in clause (i) or (ii) of section 101(a)(15)(K) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(K)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/K&num=0&edition=prelim)) is aware of any information disclosed under the amendments made by this section [amending this section] or under section 833 [enacting [section 1375a of this title](./chapter-012-immigration-and-nationality.md#section-1375a) and repealing [section 1375 of this title](./chapter-012-immigration-and-nationality.md#section-1375)] shall not be used to deny the alien eligibility for relief under any other provision of law.”
@@ -9303,40 +10216,36 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 ## § 1186b. Conditional permanent resident status for certain alien entrepreneurs, spouses, and children
 **(a) In general**
 
-(1) **Conditional basis for status** — Notwithstanding any other provision of this chapter, an alien entrepreneur (as defined in subsection (f)(1)), alien spouse, and alien child (as defined in subsection (f)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
+(1) **Conditional basis for status** — An alien investor, alien spouse, and alien child shall be considered, at the time of obtaining status as an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.
 
 (2) **Notice of requirements**
 
-  (A) *At time of obtaining permanent residence* — At the time an alien entrepreneur, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Attorney General shall provide for notice to such an entrepreneur, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
+  (A) *At time of obtaining permanent residence* — At the time an alien investor, alien spouse, or alien child obtains permanent resident status on a conditional basis under paragraph (1), the Secretary of Homeland Security shall provide for notice to such an investor, spouse, or child respecting the provisions of this section and the requirements of subsection (c)(1) to have the conditional basis of such status removed.
 
-  (B) *At time of required petition* — In addition, the Attorney General shall attempt to provide notice to such an entrepreneur, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A), of the requirements of subsection (c)(1).
+  (B) *At time of required petition* — In addition, the Secretary of Homeland Security shall attempt to provide notice to such an investor, spouse, or child, at or about the beginning of the 90-day period described in subsection (d)(2)(A), of the requirements of subsection (c)(1).
 
-  (C) *Effect of failure to provide notice* — The failure of the Attorney General to provide a notice under this paragraph shall not affect the enforcement of the provisions of this section with respect to such an entrepreneur, spouse, or child.
+  (C) *Effect of failure to provide notice* — The failure of the Secretary of Homeland Security to provide a notice under this paragraph shall not affect the enforcement of the provisions of this section with respect to such an investor, spouse, or child.
 
-**(b) Termination of status if finding that qualifying entrepreneurship improper**
+**(b) Termination of status if finding that qualifying investment improper**
 
-(1) **In general** — In the case of an alien entrepreneur with permanent resident status on a conditional basis under subsection (a), if the Attorney General determines, before the second anniversary of the alien’s obtaining the status of lawful admission for permanent residence, that—
+(1) **In general** — In the case of an alien investor with permanent resident status on a conditional basis under subsection (a), if the Secretary of Homeland Security determines, before the second anniversary of the alien’s obtaining the status of lawful admission for permanent residence, that—
 
   (A) the investment in the commercial enterprise was intended solely as a means of evading the immigration laws of the United States,
 
-  (B)
-
-    (i) the alien did not invest, or was not actively in the process of investing, the requisite capital; or
-
-    (ii) the alien was not sustaining the actions described in clause (i) throughout the period of the alien’s residence in the United States; or
+  (B) the alien did not invest the requisite capital; or
 
   (C) the alien was otherwise not conforming to the requirements of [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim),
-  then the Attorney General shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alien child) involved as of the date of the determination.
+  then the Secretary of Homeland Security shall so notify the alien involved and, subject to paragraph (2), shall terminate the permanent resident status of the alien (and the alien spouse and alien child) involved as of the date of the determination.
 
-(2) **Hearing in removal proceeding** — Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
+(2) **Hearing in removal proceeding** — Any alien whose permanent resident status is terminated under paragraph (1) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Secretary of Homeland Security to establish, by a preponderance of the evidence, that a condition described in paragraph (1) is met.
 
-**(c) Requirements of timely petition and interview for removal of condition**
+**(c) Requirements for removal of condition**
 
-(1) **In general** — In order for the conditional basis established under subsection (a) for an alien entrepreneur, alien spouse, or alien child to be removed—
+(1) **In general** — Except as provided in paragraph (3)(D), in order for the conditional basis established under subsection (a) for an alien investor, alien spouse, or alien child to be removed—
 
-  (A) the alien entrepreneur must submit to the Attorney General, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1), and
+  (A) the alien investor shall submit to the Secretary of Homeland Security, during the period described in subsection (d)(2), a petition which requests the removal of such conditional basis and which states, under penalty of perjury, the facts and information described in subsection (d)(1);
 
-  (B) in accordance with subsection (d)(3), the alien entrepreneur must appear for a personal interview before an officer or employee of the Service respecting the facts and information described in subsection (d)(1).
+  (B) in accordance with subsection (d)(3), the alien investor shall appear for a personal interview before an officer or employee of the Department of Homeland Security respecting the facts and information described in subsection (d)(1); and 11 See Enactment of Subsection (c)(1)(C) note below.
 
 (2) **Termination of permanent resident status for failure to file petition or have personal interview**
 
@@ -9344,8 +10253,8 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
     (i) no petition is filed with respect to the alien in accordance with the provisions of paragraph (1)(A), or
 
-    (ii) unless there is good cause shown, the alien entrepreneur fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3)),
-    the Attorney General shall terminate the permanent resident status of the alien (and the alien’s spouse and children if it was obtained on a conditional basis under this section or [section 1186a of this title](./chapter-012-immigration-and-nationality.md#section-1186a)) as of the second anniversary of the alien’s lawful admission for permanent residence.
+    (ii) unless there is good cause shown, the alien investor fails to appear at the interview described in paragraph (1)(B) (if required under subsection (d)(3)),
+    the Secretary of Homeland Security shall terminate the permanent resident status of the alien (and the alien’s spouse and children if it was obtained on a conditional basis under this section or [section 1186a of this title](./chapter-012-immigration-and-nationality.md#section-1186a)) as of the second anniversary of the alien’s lawful admission for permanent residence.
 
   (B) *Hearing in removal proceeding* — In any removal proceeding with respect to an alien whose permanent resident status is terminated under subparagraph (A), the burden of proof shall be on the alien to establish compliance with the conditions of paragraphs (1)(A) and (1)(B).
 
@@ -9355,53 +10264,127 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
     (i) a petition is filed in accordance with the provisions of paragraph (1)(A), and
 
-    (ii) the alien entrepreneur appears at any interview described in paragraph (1)(B),
-    the Attorney General shall make a determination, within 90 days of the date of the such filing 11 So in original. or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) and alleged in the petition are true with respect to the qualifying commercial enterprise.
+    (ii) the alien investor appears at any interview described in paragraph (1)(B),
+    the Secretary of Homeland Security shall make a determination, within 90 days of the date of such filing or interview (whichever is later), as to whether the facts and information described in subsection (d)(1) and alleged in the petition are true with respect to the qualifying commercial enterprise.
 
-  (B) *Removal of conditional basis if favorable determination* — If the Attorney General determines that such facts and information are true, the Attorney General shall so notify the alien involved and shall remove the conditional basis of the alien’s status effective as of the second anniversary of the alien’s lawful admission for permanent residence.
+  (B) *Removal or extension of conditional basis*
 
-  (C) *Termination if adverse determination* — If the Attorney General determines that such facts and information are not true, the Attorney General shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent resident status of an alien entrepreneur, alien spouse, or alien child as of the date of the determination.
+    (i) *In general* — Except as provided in clause (ii), if the Secretary determines that the facts and information contained in a petition submitted under paragraph (1)(A) are true, including demonstrating that the alien complied with subsection (d)(1)(B)(i), the Secretary shall—
 
-  (D) *Hearing in removal proceeding* — Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not true with respect to the qualifying commercial enterprise.
+      (I) notify the alien involved of such determination; and
+
+      (II) remove the conditional basis of the alien’s status effective as of the second anniversary of the alien’s lawful admission for permanent residence.
+
+    (ii) *Exception* — If the petition demonstrates that the facts and information are true and that the alien is in compliance with subsection (d)(1)(B)(ii)—
+
+      (I) the Secretary, in the Secretary’s discretion, may provide a 1-year extension of the alien’s conditional status; and
+
+      (II)
+
+        (aa) if the alien files a petition not later than 30 days after the third anniversary of the alien’s lawful admission for permanent residence demonstrating that the alien complied with subsection (d)(1)(B)(i), the Secretary shall remove the conditional basis of the alien’s status effective as of such third anniversary; or
+
+        (bb) if the alien does not file the petition described in item (aa), the conditional status shall terminate at the end of such additional year.
+
+  (C) *Termination if adverse determination* — If the Secretary of Homeland Security determines that such facts and information are not true, the Secretary of Homeland Security shall so notify the alien involved and, subject to subparagraph (D), shall terminate the permanent resident status of an alien investor, alien spouse, or alien child as of the date of the determination.
+
+  (D) *Hearing in removal proceeding* — Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Secretary of Homeland Security to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) and alleged in the petition are not true with respect to the qualifying commercial enterprise.
 
 **(d) Details of petition and interview**
 
 (1) **Contents of petition** — Each petition under subsection (c)(1)(A) shall contain facts and information demonstrating that the alien—
 
-  (A)
+  (A) invested the requisite capital;
 
-    (i) invested, or is actively in the process of investing, the requisite capital; and
+  (B)
 
-    (ii) sustained the actions described in clause (i) throughout the period of the alien’s residence in the United States; and
+    (i) created the employment required under [section 1153(b)(5)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/A/ii&num=0&edition=prelim); or
 
-  (B) is otherwise conforming to the requirements of [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim).
+    (ii) is actively in the process of creating the employment required under [section 1153(b)(5)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/A/ii&num=0&edition=prelim) and will create such employment before the third anniversary of the alien’s lawful admission for permanent residence, provided that such alien’s capital will remain invested during such time; and
+
+  (C) is otherwise conforming to the requirements of [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim).
 
 (2) **Period for filing petition**
 
-  (A) *90-day period before second anniversary* — Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) must be filed during the 90-day period before the second anniversary of the alien’s lawful admission for permanent residence.
+  (A) *Ninety-day period before second anniversary*
 
-  (B) *Date petitions for good cause* — Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Attorney General good cause and extenuating circumstances for failure to file the petition during the period described in subparagraph (A).
+    (i) *In general* — Except as provided in clause (ii) and subparagraph (B), a petition under subsection (c)(1)(A) shall be filed during the 90-day period immediately preceding the second anniversary of the alien investor’s lawful admission for permanent residence.
+
+    (ii) *Exception* — Aliens described in subclauses (I)(bb) and (II) of [section 1153(b)(5)(M)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/M/ii&num=0&edition=prelim) shall file a petition under subsection (c)(1)(A) during the 90-day period before the second anniversary of the subsequent investment.
+
+  (B) *Date petitions for good cause* — Such a petition may be considered if filed after such date, but only if the alien establishes to the satisfaction of the Secretary of Homeland Security good cause and extenuating circumstances for failure to file the petition during the period described in subparagraph (A).
 
   (C) *Filing of petitions during removal* — In the case of an alien who is the subject of removal hearings as a result of failure to file a petition on a timely basis in accordance with subparagraph (A), the Attorney General may stay such removal proceedings against an alien pending the filing of the petition under subparagraph (B).
 
-(3) **Personal interview** — The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Service, designated by the Attorney General, which is convenient to the parties involved. The Attorney General, in the Attorney General’s discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.
+(3) **Personal interview**
+
+  (A) *In general* — The interview under subsection (c)(1)(B) shall be conducted within 90 days after the date of submitting a petition under subsection (c)(1)(A) and at a local office of the Department of Homeland Security, designated by the Secretary of Homeland Security, which is convenient to the parties involved.
+
+  (B) *Waiver* — The Secretary of Homeland Security, in the Secretary’s discretion, may waive the deadline for an interview under subsection (c)(1)(B) or the requirement for such an interview according to criteria developed by U.S. Citizenship and Immigration Services, in consultation with its Fraud Detection and National Security Directorate and U.S. Immigration and Customs Enforcement, provided that such criteria do not include a reduction of case processing times or the allocation of adjudicatory resources. A waiver may not be granted under this subparagraph if the alien to be interviewed—
+
+    (i) invested in a regional center, new commercial enterprise, or job-creating entity that was sanctioned under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim); or
+
+    (ii) is in a class of aliens determined by the Secretary to be threats to public safety or national security.
 
 **(e) Treatment of period for purposes of naturalization** For purposes of subchapter III, in the case of an alien who is in the United States as a lawful permanent resident on a conditional basis under this section, the alien shall be considered to have been admitted as an alien lawfully admitted for permanent residence and to be in the United States as an alien lawfully admitted to the United States for permanent residence.
 
 **(f) Definitions** In this section:
 
-(1) The term “alien entrepreneur” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim).
+(1) The term “alien investor” means an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim).
 
-(2) The term “alien spouse” and the term “alien child” mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien entrepreneur.
+(2) The term “alien spouse” and the term “alien child” mean an alien who obtains the status of an alien lawfully admitted for permanent residence (whether on a conditional basis or otherwise) by virtue of being the spouse or child, respectively, of an alien investor.
 
-(3) The term “commercial enterprise” includes a limited partnership.
+(3) The term “commercial enterprise” includes any entity formed for the purpose of doing for-profit business.
 
 ### Statutory Notes
 
-#### References in Text
-This chapter, referred to in subsec. (a)(1), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
+#### Enactment of Subsection (c)(1)(C)
+Pub. L. 117–103, div. BB, § 104(a)(5)(B)(iv), (b), provided that, effective 2 years after March 15, 2022, subsection (c)(1) of this section is amended by adding at the end the following: “(C) the Secretary shall have performed a site visit to the relevant corporate office or business location described in [section 1153(b)(5)(F)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5/F/iv&num=0&edition=prelim).”
+
+See 2022 Amendment note below.
 
 #### Amendments
+2022—Pub. L. 117–103, § 104(a)(2), substituted “investor” for “entrepreneur” wherever appearing.
+
+Pub. L. 117–103, § 104(a)(1), substituted “Secretary of Homeland Security” for “Attorney General” wherever appearing, except in subsec. (d)(2)(C).
+
+Subsec. (a)(1). Pub. L. 117–103, § 104(a)(3), amended par. (1) generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this chapter, an alien investor (as defined in subsection (f)(1)), alien spouse, and alien child (as defined in subsection (f)(2)) shall be considered, at the time of obtaining the status of an alien lawfully admitted for permanent residence, to have obtained such status on a conditional basis subject to the provisions of this section.”
+
+Subsec. (b). Pub. L. 117–103, § 104(a)(4)(A), substituted “investment” for “entrepreneurship” in heading.
+
+Subsec. (b)(1)(B). Pub. L. 117–103, § 104(a)(4)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
+
+“(B)(i) the alien did not invest, or was not actively in the process of investing, the requisite capital; or
+
+“(ii) the alien was not sustaining the actions described in clause (i) throughout the period of the alien’s residence in the United States; or”.
+
+Subsec. (c). Pub. L. 117–103, § 104(a)(5)(A), struck out “of timely petition and interview” after “Requirements” in heading.
+
+Subsec. (c)(1). Pub. L. 117–103, § 104(a)(5)(B)(i), substituted “Except as provided in paragraph (3)(D), in order” for “In order” in introductory provisions.
+
+Subsec. (c)(1)(A). Pub. L. 117–103, § 104(a)(5)(B)(ii), substituted “shall submit” for “must submit” and semicolon at end for “, and”.
+
+Subsec. (c)(1)(B). Pub. L. 117–103, § 104(a)(5)(B)(iii), substituted “shall appear” for “must appear”, “Department of Homeland Security” for “Service”, and “; and” for period at end.
+
+Subsec. (c)(1)(C). Pub. L. 117–103, § 104(a)(5)(B)(iv), added subpar. (C).
+
+Subsec. (c)(3)(A). Pub. L. 117–103, § 104(a)(5)(C)(i), struck out “the” before “such filing” in concluding provisions.
+
+Subsec. (c)(3)(B). Pub. L. 117–103, § 104(a)(5)(C)(ii), amended subpar. (B) generally. Prior to amendment, text read as follows: “If the Secretary of Homeland Security determines that such facts and information are true, the Secretary of Homeland Security shall so notify the alien involved and shall remove the conditional basis of the alien’s status effective as of the second anniversary of the alien’s lawful admission for permanent residence.”
+
+Subsec. (d)(1)(A). Pub. L. 117–103, § 104(a)(6)(A)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+
+“(A)(i) invested, or is actively in the process of investing, the requisite capital; and
+
+“(ii) sustained the actions described in clause (i) throughout the period of the alien’s residence in the United States; and”.
+
+Subsec. (d)(1)(B), (C). Pub. L. 117–103, § 104(a)(6)(A)(ii), (iii), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (d)(2)(A). Pub. L. 117–103, § 104(a)(6)(B), amended subpar. (A) generally. Prior to amendment, text read as follows: “Except as provided in subparagraph (B), the petition under subsection (c)(1)(A) must be filed during the 90-day period before the second anniversary of the alien’s lawful admission for permanent residence.”
+
+Subsec. (d)(3). Pub. L. 117–103, § 104(a)(6)(C), designated existing provisions as subpar. (A), inserted heading, substituted “Department of Homeland Security” for “Service”, struck out “The Secretary of Homeland Security, in the Secretary of Homeland Security’s discretion, may waive the deadline for such an interview or the requirement for such an interview in such cases as may be appropriate.” after “parties involved.”, and added subpar. (B).
+
+Subsec. (f)(3). Pub. L. 117–103, § 104(a)(7), substituted “any entity formed for the purpose of doing for-profit business” for “a limited partnership”.
+
 2002—Subsec. (b)(1)(A). Pub. L. 107–273, § 11036(b)(1)(A), substituted “investment in” for “establishment of”.
 
 Subsec. (b)(1)(B). Pub. L. 107–273, § 11036(b)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
@@ -9433,6 +10416,9 @@ Subsec. (d)(2)(C). Pub. L. 104–208 substituted “removal” for “deportatio
 1991—Subsec. (c)(2)(A). Pub. L. 102–232, § 302(b)(3)(A), in closing provisions inserted parenthetical provision relating to alien’s spouse and children.
 
 Subsecs. (c)(3)(B), (d)(2)(A). Pub. L. 102–232, § 302(b)(3)(B), struck out “obtaining the status of” before “lawful admission”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–103, div. BB, § 104(b), Mar. 15, 2022, 136 Stat. 1102, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Mar. 15, 2022]. “(2) Exceptions.—“(A) Site visits.—The amendment made by subsection (a)(5)(B)(iv) shall take effect on the date that is 2 years after the date of the enactment of this Act. “(B) Petition beneficiaries.—The amendments made by subsection (a) shall not apply to the beneficiary of a petition that is filed under section 216A of the Immigration and Nationality Act ([8 U.S.C. 1186b](./chapter-012-immigration-and-nationality.md#section-1186b)) if the underlying petition was filed under section 203(b)(5) of such Act ([8 U.S.C. 1153(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim)) before the date of the enactment of this Act.”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective Nov. 2, 2002 and applicable to aliens having certain petitions pending under this section or [section 1154 of this title](./chapter-012-immigration-and-nationality.md#section-1154) on or after Nov. 2, 2002, see section 11036(c) of Pub. L. 107–273, set out as a note under [section 1153 of this title](./chapter-012-immigration-and-nationality.md#section-1153).
@@ -9895,7 +10881,7 @@ Pub. L. 107–273, div. C, title I, §§ 11031–11034, Nov. 2, 2002, 116 Stat. 
 
     (ii) *Disposition of amounts collected* — Amounts collected under clause (i)(I) shall be credited to the Travel Promotion Fund established by subsection (d) of [section 2131 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2131&num=0&edition=prelim). Amounts collected under clause (i)(II) shall be transferred to the general fund of the Treasury and made available to pay the costs incurred to administer the System.
 
-    (iii) *Sunset of Travel Promotion Fund fee* — The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after September 30, 2027.
+    (iii) *Sunset of Travel Promotion Fund fee* — The Secretary may not collect the fee authorized by clause (i)(I) for fiscal years beginning after October 31, 2028.
 
   (C) *Validity*
 
@@ -9939,6 +10925,8 @@ The International Emergency Economic Powers Act, referred to in subsec. (a)(12)(
 This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
 
 #### Amendments
+2022—Subsec. (h)(3)(B)(iii). Pub. L. 117–103 substituted “October 31, 2028” for “September 30, 2027”.
+
 2019—Subsec. (h)(3)(B)(i)(I). Pub. L. 116–94 substituted “$17” for “$10”.
 
 2018—Subsec. (h)(3)(B)(iii). Pub. L. 115–123 substituted “September 30, 2027” for “September 30, 2020”.
@@ -14381,7 +15369,7 @@ The relationship between an alien and the alien’s natural parents or prior ado
 
 (3) Upon the approval of adjustment of status under paragraph (1) or (2), the Attorney General shall record the alien’s lawful admission for permanent residence as of the date of such approval and the Secretary of State shall reduce by one the number of visas authorized to be issued under sections 1151(d) and 1153(b)(4) of this title for the fiscal year then current.
 
-**(k) Inapplicability of certain provisions for certain employment-based immigrants** An alien who is eligible to receive an immigrant visa under paragraph (1), (2), or (3) of [section 1153(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b&num=0&edition=prelim) (or, in the case of an alien who is an immigrant described in [section 1101(a)(27)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/27/C&num=0&edition=prelim), under [section 1153(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/4&num=0&edition=prelim)) may adjust status pursuant to subsection (a) and notwithstanding subsection (c)(2), (c)(7), and (c)(8), if—
+**(k) Inapplicability of certain provisions for certain employment-based immigrants** An alien who is eligible to receive an immigrant visa under paragraph (1), (2), (3), or (5) of [section 1153(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b&num=0&edition=prelim) (or, in the case of an alien who is an immigrant described in [section 1101(a)(27)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/27/C&num=0&edition=prelim), under [section 1153(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/4&num=0&edition=prelim)) may adjust status pursuant to subsection (a) and notwithstanding subsection (c)(2), (c)(7), and (c)(8), if—
 
 (1) the alien, on the date of filing an application for adjustment of status, is present in the United States pursuant to a lawful admission;
 
@@ -14454,6 +15442,8 @@ The relationship between an alien and the alien’s natural parents or prior ado
 
   (B) Nothing in paragraph (1)(B) may be construed to prevent the Secretary from consulting with the Attorney General in making a determination whether affirmative evidence demonstrates that the alien unreasonably refused to provide assistance to a State or local law enforcement official, State or local prosecutor, State or local judge, or other State or local authority investigating or prosecuting criminal activity described in [section 1101(a)(15)(U)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/U/iii&num=0&edition=prelim).
 
+**(n) Concurrent or subsequent filing of application for adjustment of status based on visa petition approval** If the approval of a petition for classification under [section 1153(b)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1153/b/5&num=0&edition=prelim) would make a visa immediately available to the alien beneficiary, the alien beneficiary’s application for adjustment of status under this section shall be considered to be properly filed whether the application is submitted concurrently with, or subsequent to, the visa petition.
+
 ### Statutory Notes
 
 #### References in Text
@@ -14464,6 +15454,10 @@ Section 202 of the Immigration Reform and Control Act of 1986, referred to in su
 Section 301 of the Immigration Act of 1990, referred to in subsec. (i)(1)(iii), is section 301 of Pub. L. 101–649, which is set out as a note under [section 1255a of this title](./chapter-012-immigration-and-nationality.md#section-1255a).
 
 #### Amendments
+2022—Subsec. (k). Pub. L. 117–103, § 102(d)(1), substituted “(3), or (5)” for “or (3)” in introductory provisions.
+
+Subsec. (n). Pub. L. 117–103, § 102(d)(2), added subsec. (n).
+
 2008—Subsec. (h)(2)(A). Pub. L. 110–457, § 235(d)(3), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “paragraphs (4), (5)(A), and (7)(A) of [section 1182(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/a&num=0&edition=prelim) shall not apply, and”.
 
 Subsec. (l)(1). Pub. L. 110–457, § 201(d)(1)(C)(ii), which directed amendment of subpar. (C)(ii) by striking out “, or in the case of subparagraph (C)(i), the Attorney General, as appropriate”, was executed by striking out “, or in the case of subparagraph (C)(i), the Attorney General,” before “may adjust” in concluding provisions of par. (1), to reflect the probable intent of Congress.
@@ -14759,7 +15753,7 @@ Pub. L. 106–429, § 101(a) [title V, § 586], Nov. 6, 2000, 114 Stat. 1900, 19
 
 [Pub. L. 108–447, div. D, title V, § 534(m)(7), Dec. 8, 2004, 118 Stat. 3007, provided that: “The amendments made by this subsection [amending section 101(a) [title V, § 586] of Pub. L. 106–429, set out above] shall take effect as if enacted as part of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001 [Pub. L. 106–429].” ]
 
-Pub. L. 101–167, title V, § 599E, Nov. 21, 1989, 103 Stat. 1263, as amended by Pub. L. 101–513, title V, § 598(b), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 101–649, title VI, § 603(a)(22), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 102–232, title III, § 307(l)(9), Dec. 12, 1991, 105 Stat. 1757; Pub. L. 102–391, title V, § 582(a)(2), (b)(2), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, § 905(b)(2), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, § 512(2), Apr. 30, 1994, 108 Stat. 466; Pub. L. 103–416, title II, § 219(bb), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 575(2)], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, § 101(2), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, § 574(2), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, § 101(f) [title VII, § 705(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, § 1000(a)(4) [title II, § 214(2)], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, § 1(a)(1) [title II, § 212(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, § 213(2), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, § 213(2), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, § 213(2), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, § 213(2), Dec. 8, 2004, 118 Stat. 3140; Pub. L. 109–102, title V, § 534(m)(2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, § 20412(b)(2), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, § 634(k)(2), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, § 7034(g)(2), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, § 7034(f)(2), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, § 2121(m)(2), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, § 7034(r)(2), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, § 1706(h)(2), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, § 7034(m)(8)(B), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, § 7034(l)(8)(B), Dec. 16, 2014, 128 Stat. 2625; Pub. L. 114–113, div. K, title VII, § 7034(k)(8)(B), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, § 7034(k)(5)(B), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, § 7034(l)(5)(B), Mar. 23, 2018, 132 Stat. 895; Pub. L. 116–6, div. F, title VII, § 7034(m)(5)(B), Feb. 15, 2019, 133 Stat. 327; Pub. L. 116–94, div. G, title VII, § 7034(l)(5)(B), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, § 7034(l)(5)(B), Dec. 27, 2020, 134 Stat. 1750, provided that: “(a) In General.—The Attorney General shall adjust the status of an alien described in subsection (b) to that of an alien lawfully admitted for permanent residence if the alien—“(1) applies for such adjustment, “(2) has been physically present in the United States for at least 1 year and is physically present in the United States on the date the application for such adjustment is filed, “(3) is admissible to the United States as an immigrant, except as provided in subsection (c), and “(4) pays a fee (determined by the Attorney General) for the processing of such application. “(b) Aliens Eligible for Adjustment of Status.—The benefits provided in subsection (a) shall only apply to an alien who—“(1) was a national of an independent state of the former Soviet Union, Estonia, Latvia, Lithuania, Vietnam, Laos, or Cambodia, and “(2) was inspected and granted parole into the United States during the period beginning on August 15, 1988, and ending on September 30, 2021, after being denied refugee status. “(c) Waiver of Certain Grounds for Inadmissibility.—The provisions of paragraphs (4), (5), and (7)(A) of section 212(a) of the Immigration and Nationality Act [[8 U.S.C. 1182(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/a/4&num=0&edition=prelim), (5), (7)(A)] shall not apply to adjustment of status under this section and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an adjustment for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. “(d) Date of Approval.—Upon the approval of such an application for adjustment of status, the Attorney General shall create a record of the alien’s admission as a lawful permanent resident as of the date of the alien’s inspection and parole described in subsection (b)(2). “(e) No Offset in Number of Visas Available.—When an alien is granted the status of having been lawfully admitted for permanent residence under this section, the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under the Immigration and Nationality Act [[8 U.S.C. 1101](./chapter-012-immigration-and-nationality.md#section-1101) et seq.].”
+Pub. L. 101–167, title V, § 599E, Nov. 21, 1989, 103 Stat. 1263, as amended by Pub. L. 101–513, title V, § 598(b), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 101–649, title VI, § 603(a)(22), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 102–232, title III, § 307(l)(9), Dec. 12, 1991, 105 Stat. 1757; Pub. L. 102–391, title V, § 582(a)(2), (b)(2), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, § 905(b)(2), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, § 512(2), Apr. 30, 1994, 108 Stat. 466; Pub. L. 103–416, title II, § 219(bb), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. A, title I, § 101(c) [title V, § 575(2)], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, § 101(2), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, § 574(2), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, § 101(f) [title VII, § 705(2)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, § 1000(a)(4) [title II, § 214(2)], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, § 1(a)(1) [title II, § 212(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, § 213(2), Jan. 10, 2002, 115 Stat. 2200; Pub. L. 108–7, div. G, title II, § 213(2), Feb. 20, 2003, 117 Stat. 324; Pub. L. 108–199, div. E, title II, § 213(2), Jan. 23, 2004, 118 Stat. 253; Pub. L. 108–447, div. F, title II, § 213(2), Dec. 8, 2004, 118 Stat. 3140; Pub. L. 109–102, title V, § 534(m)(2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 109–289, div. B, title II, § 20412(b)(2), as added by Pub. L. 110–5, § 2, Feb. 15, 2007, 121 Stat. 25; Pub. L. 110–161, div. J, title VI, § 634(k)(2), Dec. 26, 2007, 121 Stat. 2329; Pub. L. 111–8, div. H, title VII, § 7034(g)(2), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111–117, div. F, title VII, § 7034(f)(2), Dec. 16, 2009, 123 Stat. 3361; Pub. L. 112–10, div. B, title XI, § 2121(m)(2), Apr. 15, 2011, 125 Stat. 186; Pub. L. 112–74, div. I, title VII, § 7034(r)(2), Dec. 23, 2011, 125 Stat. 1218; Pub. L. 113–6, div. F, title VII, § 1706(h)(2), Mar. 26, 2013, 127 Stat. 430; Pub. L. 113–76, div. K, title VII, § 7034(m)(8)(B), Jan. 17, 2014, 128 Stat. 516; Pub. L. 113–235, div. J, title VII, § 7034(l)(8)(B), Dec. 16, 2014, 128 Stat. 2625; Pub. L. 114–113, div. K, title VII, § 7034(k)(8)(B), Dec. 18, 2015, 129 Stat. 2765; Pub. L. 115–31, div. J, title VII, § 7034(k)(5)(B), May 5, 2017, 131 Stat. 651; Pub. L. 115–141, div. K, title VII, § 7034(l)(5)(B), Mar. 23, 2018, 132 Stat. 895; Pub. L. 116–6, div. F, title VII, § 7034(m)(5)(B), Feb. 15, 2019, 133 Stat. 327; Pub. L. 116–94, div. G, title VII, § 7034(l)(5)(B), Dec. 20, 2019, 133 Stat. 2873; Pub. L. 116–260, div. K, title VII, § 7034(l)(5)(B), Dec. 27, 2020, 134 Stat. 1750; Pub. L. 117–103, div. K, title VII, § 7034(l)(5)(B), Mar. 15, 2022, 136 Stat. 623, provided that: “(a) In General.—The Attorney General shall adjust the status of an alien described in subsection (b) to that of an alien lawfully admitted for permanent residence if the alien—“(1) applies for such adjustment, “(2) has been physically present in the United States for at least 1 year and is physically present in the United States on the date the application for such adjustment is filed, “(3) is admissible to the United States as an immigrant, except as provided in subsection (c), and “(4) pays a fee (determined by the Attorney General) for the processing of such application. “(b) Aliens Eligible for Adjustment of Status.—The benefits provided in subsection (a) shall only apply to an alien who—“(1) was a national of an independent state of the former Soviet Union, Estonia, Latvia, Lithuania, Vietnam, Laos, or Cambodia, and “(2) was inspected and granted parole into the United States during the period beginning on August 15, 1988, and ending on September 30, 2022, after being denied refugee status. “(c) Waiver of Certain Grounds for Inadmissibility.—The provisions of paragraphs (4), (5), and (7)(A) of section 212(a) of the Immigration and Nationality Act [[8 U.S.C. 1182(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/a/4&num=0&edition=prelim), (5), (7)(A)] shall not apply to adjustment of status under this section and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an adjustment for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. “(d) Date of Approval.—Upon the approval of such an application for adjustment of status, the Attorney General shall create a record of the alien’s admission as a lawful permanent resident as of the date of the alien’s inspection and parole described in subsection (b)(2). “(e) No Offset in Number of Visas Available.—When an alien is granted the status of having been lawfully admitted for permanent residence under this section, the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under the Immigration and Nationality Act [[8 U.S.C. 1101](./chapter-012-immigration-and-nationality.md#section-1101) et seq.].”
 
 [Pub. L. 102–232, title III, § 307(l), Dec. 12, 1991, 105 Stat. 1756, provided that the amendment made by section 307(l) to section 599E of Pub. L. 101–167, set out above, is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.]
 
@@ -16722,7 +17716,9 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 Authority of President under subsec. (d)(4) of this section to undertake demonstration projects of different changes in requirements of employment verification system delegated to Attorney General by section 2 of Ex. Ord. No. 12781, Nov. 20, 1991, 56 F.R. 59203, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 #### Pilot Programs for Employment Eligibility Confirmation
-Pub. L. 104–208, div. C, title IV, subtitle A, Sept. 30, 1996, 110 Stat. 3009–655, as amended by Pub. L. 107–128, § 2, Jan. 16, 2002, 115 Stat. 2407; Pub. L. 108–156, §§ 2, 3, Dec. 3, 2003, 117 Stat. 1944; Pub. L. 111–83, title V, §§ 547, 551, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–176, § 2, Sept. 28, 2012, 126 Stat. 1325, provided that: “SEC. 401. ESTABLISHMENT OF PROGRAMS.“(a) In General.—The Secretary of Homeland Security shall conduct 3 pilot programs of employment eligibility confirmation under this subtitle. “(b) Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act [Sept. 30, 1996]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2015. “(c) Scope of Operation of Pilot Programs.—The Secretary of Homeland Security shall provide for the operation—“(1) of the E-Verify Program (described in section 403(a) of this division) in, at a minimum, 5 of the 7 States with the highest estimated population of aliens who are not lawfully present in the United States, and the Secretary of Homeland Security shall expand the operation of the program to all 50 States not later than December 1, 2004; “(2) of the citizen attestation pilot program (described in section 403(b) of this division) in at least 5 States (or, if fewer, all of the States) that meet the condition described in section 403(b)(2)(A) of this division; and “(3) of the machine-readable-document pilot program (described in section 403(c) of this division) in at least 5 States (or, if fewer, all of the States) that meet the condition described in section 403(c)(2) of this division. “(d) References in Subtitle.—In this subtitle—“(1) Pilot program references.—The terms ‘program’ or ‘pilot program’ refer to any of the 3 pilot programs provided for under this subtitle. “(2) Confirmation system.—The term ‘confirmation system’ means the confirmation system established under section 404 of this division. “(3) References to section 274a.—Any reference in this subtitle to section 274A (or a subdivision of such section) is deemed a reference to such section (or subdivision thereof) of the Immigration and Nationality Act [[8 U.S.C. 1324a](./chapter-012-immigration-and-nationality.md#section-1324a)]. “(4) I–9 or similar form.—The term ‘I–9 or similar form’ means the form used for purposes of section 274A(b)(1)(A) or such other form as the Secretary of Homeland Security determines to be appropriate. “(5) Limited application to recruiters and referrers.—Any reference to recruitment or referral (or a recruiter or referrer) in relation to employment is deemed a reference only to such recruitment or referral (or recruiter or referrer) that is subject to section 274A(a)(1)(B)(ii). “(6) United states citizenship.—The term ‘United States citizenship’ includes United States nationality. “(7) State.—The term ‘State’ has the meaning given such term in section 101(a)(36) of the Immigration and Nationality Act [[8 U.S.C. 1101(a)(36)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/36&num=0&edition=prelim)]. “SEC. 402. VOLUNTARY ELECTION TO PARTICIPATE IN A PILOT PROGRAM.“(a) Voluntary Election.—Subject to subsection (c)(3)(B), any person or other entity that conducts any hiring (or recruitment or referral) in a State in which a pilot program is operating may elect to participate in that pilot program. Except as specifically provided in subsection (e), the Secretary of Homeland Security may not require any person or other entity to participate in a pilot program. “(b) Benefit of Rebuttable Presumption.—“(1) In general.—If a person or other entity is participating in a pilot program and obtains confirmation of identity and employment eligibility in compliance with the terms and conditions of the program with respect to the hiring (or recruitment or referral) of an individual for employment in the United States, the person or entity has established a rebuttable presumption that the person or entity has not violated section 274A(a)(1)(A) with respect to such hiring (or such recruitment or referral). “(2) Construction.—Paragraph (1) shall not be construed as preventing a person or other entity that has an election in effect under subsection (a) from establishing an affirmative defense under section 274A(a)(3) if the person or entity complies with the requirements of section 274A(a)(1)(B) but fails to obtain confirmation under paragraph (1). “(c) General Terms of Elections.—“(1) In general.—An election under subsection (a) shall be in such form and manner, under such terms and conditions, and shall take effect, as the Secretary of Homeland Security shall specify. The Secretary of Homeland Security may not impose any fee as a condition of making an election or participating in a pilot program. “(2) Scope of election.—“(A) In general.—Subject to paragraph (3), any electing person or other entity may provide that the election under subsection (a) shall apply (during the period in which the election is in effect)—“(i) to all its hiring (and all recruitment or referral) in the State (or States) in which the pilot program is operating, or “(ii) to its hiring (or recruitment or referral) in one or more pilot program States or one or more places of hiring (or recruitment or referral, as the case may be) in the pilot program States. “(B) Application of programs in non-pilot program states.—In addition, the Secretary of Homeland Security may permit a person or entity electing the citizen attestation pilot program (described in 403(b) of this division) or the machine-readable-document pilot program (described in section 403(c) of this division) to provide that the election applies to its hiring (or recruitment or referral) in one or more States or places of hiring (or recruitment or referral) in which the pilot program is not otherwise operating but only if such States meet the requirements of 403(b)(2)(A) and 403(c)(2) of this division, respectively. “(3) Termination of elections.—The Secretary of Homeland Security may terminate an election by a person or other entity under this section because the person or entity has substantially failed to comply with its obligations under the pilot program. A person or other entity may terminate an election in such form and manner as the Secretary of Homeland Security shall specify. “(d) Consultation, Education, and Publicity.—“(1) Consultation.—The Secretary of Homeland Security shall closely consult with representatives of employers (and recruiters and referrers) in the development and implementation of the pilot programs, including the education of employers (and recruiters and referrers) about such programs. “(2) Publicity.—The Secretary of Homeland Security shall widely publicize the election process and pilot programs, including the voluntary nature of the pilot programs and the advantages to employers (and recruiters and referrers) of making an election under this section. “(3) Assistance through district offices.—The Secretary of Homeland Security shall designate one or more individuals in each District office of the Immigration and Naturalization Service for a Service District in which a pilot program is being implemented—“(A) to inform persons and other entities that seek information about pilot programs of the voluntary nature of such programs, and “(B) to assist persons and other entities in electing and participating in any pilot programs in effect in the District, in complying with the requirements of section 274A, and in facilitating confirmation of the identity and employment eligibility of individuals consistent with such section. “(e) Select Entities Required to Participate in a Pilot Program.—“(1) Federal government.—“(A) Executive departments.—“(i) In general.—Each Department of the Federal Government shall elect to participate in a pilot program and shall comply with the terms and conditions of such an election. “(ii) Election.—Subject to clause (iii), the Secretary of each such Department— “(I) shall elect the pilot program (or programs) in which the Department shall participate, and “(II) may limit the election to hiring occurring in certain States (or geographic areas) covered by the program (or programs) and in specified divisions within the Department, so long as all hiring by such divisions and in such locations is covered. “(iii) Role of secretary of homeland security.—The Secretary of Homeland Security shall assist and coordinate elections under this subparagraph in such manner as assures that— “(I) a significant portion of the total hiring within each Department within States covered by a pilot program is covered under such a program, and “(II) there is significant participation by the Federal Executive branch in each of the pilot programs. “(B) Legislative branch.—Each Member of Congress, each officer of Congress, and the head of each agency of the legislative branch, that conducts hiring in a State in which a pilot program is operating shall elect to participate in a pilot program, may specify which pilot program or programs (if there is more than one) in which the Member, officer, or agency will participate, and shall comply with the terms and conditions of such an election. “(2) Application to certain violators.—An order under section 274A(e)(4) or section 274B(g) of the Immigration and Nationality Act [[8 U.S.C. 1324a(e)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324a/e/4&num=0&edition=prelim), 1324b(g)] may require the subject of the order to participate in, and comply with the terms of, a pilot program with respect to the subject’s hiring (or recruitment or referral) of individuals in a State covered by such a program. “(3) Consequence of failure to participate.—If a person or other entity is required under this subsection to participate in a pilot program and fails to comply with the requirements of such program with respect to an individual—“(A) such failure shall be treated as a violation of section 274A(a)(1)(B) with respect to that individual, and “(B) a rebuttable presumption is created that the person or entity has violated section 274A(a)(1)(A). Subparagraph (B) shall not apply in any prosecution under section 274A(f)(1). “(f) Construction.—This subtitle shall not affect the authority of the Secretary of Homeland Security under any other law (including section 274A(d)(4)) to conduct demonstration projects in relation to section 274A. “SEC. 403. PROCEDURES FOR PARTICIPANTS IN PILOT PROGRAMS.“(a) E-Verify Program.—A person or other entity that elects to participate in the E-Verify Program described in this subsection agrees to conform to the following procedures in the case of the hiring (or recruitment or referral) for employment in the United States of each individual covered by the election:“(1) Provision of additional information.—The person or entity shall obtain from the individual (and the individual shall provide) and shall record on the I–9 or similar form—“(A) the individual’s social security account number, if the individual has been issued such a number, and “(B) if the individual does not attest to United States citizenship under section 274A(b)(2), such identification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify, and shall retain the original form and make it available for inspection for the period and in the manner required of I–9 forms under section 274A(b)(3). “(2) Presentation of documentation.—“(A) In general.—The person or other entity, and the individual whose identity and employment eligibility are being confirmed, shall, subject to subparagraph (B), fulfill the requirements of section 274A(b) with the following modifications:“(i) A document referred to in section 274A(b)(1)(B)(ii) (as redesignated by section 412(a) of this division) must be designated by the Secretary of Homeland Security as suitable for the purpose of identification in a pilot program. “(ii) A document referred to in section 274A(b)(1)(D) must contain a photograph of the individual. “(iii) The person or other entity has complied with the requirements of section 274A(b)(1) with respect to examination of a document if the document reasonably appears on its face to be genuine and it reasonably appears to pertain to the individual whose identity and work eligibility is being confirmed. “(B) Limitation of requirement to examine documentation.—If the Secretary of Homeland Security finds that a pilot program would reliably determine with respect to an individual whether—“(i) the person with the identity claimed by the individual is authorized to work in the United States, and “(ii) the individual is claiming the identity of another person, if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual’s identity. “(3) Seeking confirmation.—“(A) In general.—The person or other entity shall make an inquiry, as provided in section 404(a)(1) of this division, using the confirmation system to seek confirmation of the identity and employment eligibility of an individual, by not later than the end of 3 working days (as specified by the Secretary of Homeland Security) after the date of the hiring (or recruitment or referral, as the case may be). “(B) Extension of time period.—If the person or other entity in good faith attempts to make an inquiry during such 3 working days and the confirmation system has registered that not all inquiries were received during such time, the person or entity can make an inquiry in the first subsequent working day in which the confirmation system registers that it has received all inquiries. If the confirmation system cannot receive inquiries at all times during a day, the person or entity merely has to assert that the entity attempted to make the inquiry on that day for the previous sentence to apply to such an inquiry, and does not have to provide any additional proof concerning such inquiry. “(4) Confirmation or nonconfirmation.—“(A) Confirmation upon initial inquiry.—If the person or other entity receives an appropriate confirmation of an individual’s identity and work eligibility under the confirmation system within the time period specified under section 404(b) of this division, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a final confirmation of such identity and work eligibility of the individual. “(B) Nonconfirmation upon initial inquiry and secondary verification.—“(i) Nonconfirmation.—If the person or other entity receives a tentative nonconfirmation of an individual’s identity or work eligibility under the confirmation system within the time period specified under 404(b) of this division, the person or entity shall so inform the individual for whom the confirmation is sought. “(ii) No contest.—If the individual does not contest the nonconfirmation within the time period specified in section 404(c) of this division, the nonconfirmation shall be considered final. The person or entity shall then record on the I–9 or similar form an appropriate code which has been provided under the system to indicate a tentative nonconfirmation. “(iii) Contest.—If the individual does contest the nonconfirmation, the individual shall utilize the process for secondary verification provided under section 404(c) of this division. The nonconfirmation will remain tentative until a final confirmation or nonconfirmation is provided by the confirmation system within the time period specified in such section. In no case shall an employer terminate employment of an individual because of a failure of the individual to have identity and work eligibility confirmed under this section until a nonconfirmation becomes final. Nothing in this clause shall apply to a termination of employment for any reason other than because of such a failure. “(iv) Recording of conclusion on form.—If a final confirmation or nonconfirmation is provided by the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual. “(C) Consequences of nonconfirmation.—“(i) Termination or notification of continued employment.—If the person or other entity has received a final nonconfirmation regarding an individual under subparagraph (B), the person or entity may terminate employment (or recruitment or referral) of the individual. If the person or entity does not terminate employment (or recruitment or referral) of the individual, the person or entity shall notify the Secretary of Homeland Security of such fact through the confirmation system or in such other manner as the Secretary of Homeland Security may specify. “(ii) Failure to notify.—If the person or entity fails to provide notice with respect to an individual as required under clause (i), the failure is deemed to constitute a violation of section 274A(a)(1)(B) with respect to that individual and the applicable civil monetary penalty under section 274A(e)(5) shall be (notwithstanding the amounts specified in such section) no less than $500 and no more than $1,000 for each individual with respect to whom such violation occurred. “(iii) Continued employment after final nonconfirmation.—If the person or other entity continues to employ (or to recruit or refer) an individual after receiving final nonconfirmation, a rebuttable presumption is created that the person or entity has violated section 274A(a)(1)(A). The previous sentence shall not apply in any prosecution under section 274A(f)(1). “(b) Citizen Attestation Pilot Program.—“(1) In general.—Except as provided in paragraphs (3) through (5), the procedures applicable under the citizen attestation pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a). “(2) Restrictions.—“(A) State document requirement to participate in pilot program.—The Secretary of Homeland Security may not provide for the operation of the citizen attestation pilot program in a State unless each driver’s license or similar identification document described in section 274A(b)(1)(D)(i) issued by the State—“(i) contains a photograph of the individual involved, and “(ii) has been determined by the Secretary of Homeland Security to have security features, and to have been issued through application and issuance procedures, which make such document sufficiently resistant to counterfeiting, tampering, and fraudulent use that it is a reliable means of identification for purposes of this section. “(B) Authorization to limit employer participation.—The Secretary of Homeland Security may restrict the number of persons or other entities that may elect to participate in the citizen attestation pilot program under this subsection as the Secretary of Homeland Security determines to be necessary to produce a representative sample of employers and to reduce the potential impact of fraud. “(3) No confirmation required for certain individuals attesting to u.s. citizenship.—In the case of a person or other entity hiring (or recruiting or referring) an individual under the citizen attestation pilot program, if the individual attests to United States citizenship (under penalty of perjury on an I–9 or similar form which form states on its face the criminal and other penalties provided under law for a false representation of United States citizenship)—“(A) the person or entity may fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B)(i) or (D) of such section; and “(B) the person or other entity is not required to comply with respect to such individual with the procedures described in paragraphs (3) and (4) of subsection (a), but only if the person or entity retains the form and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3). “(4) Waiver of document presentation requirement in certain cases.—“(A) In general.—In the case of a person or entity that elects, in a manner specified by the Secretary of Homeland Security consistent with subparagraph (B), to participate in the pilot program under this paragraph, if an individual being hired (or recruited or referred) attests (in the manner described in paragraph (3)) to United States citizenship and the person or entity retains the form on which the attestation is made and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3), the person or entity is not required to comply with the procedures described in section 274A(b). “(B) Restriction.—The Secretary of Homeland Security shall restrict the election under this paragraph to no more than 1,000 employers and, to the extent practicable, shall select among employers seeking to make such election in a manner that provides for such an election by a representative sample of employers. “(5) Nonreviewable determinations.—The determinations of the Secretary of Homeland Security under paragraphs (2) and (4) are within the discretion of the Secretary of Homeland Security and are not subject to judicial or administrative review. “(c) Machine-Readable-Document Pilot Program.—“(1) In general.—Except as provided in paragraph (3), the procedures applicable under the machine-readable-document pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a). “(2) State document requirement to participate in pilot program.—The Secretary of Homeland Security may not provide for the operation of the machine-readable-document pilot program in a State unless driver’s licenses and similar identification documents described in section 274A(b)(1)(D)(i) issued by the State include a machine-readable social security account number. “(3) Use of machine-readable documents.—If the individual whose identity and employment eligibility must be confirmed presents to the person or entity hiring (or recruiting or referring) the individual a license or other document described in paragraph (2) that includes a machine-readable social security account number, the person or entity must make an inquiry through the confirmation system by using a machine-readable feature of such document. If the individual does not attest to United States citizenship under section 274A(b)(2), the individual’s identification or authorization number described in subsection (a)(1)(B) shall be provided as part of the inquiry. “(d) Protection From Liability for Actions Taken on the Basis of Information Provided by the Confirmation System.—No person or entity participating in a pilot program shall be civilly or criminally liable under any law for any action taken in good faith reliance on information provided through the confirmation system. “SEC. 404. EMPLOYMENT ELIGIBILITY CONFIRMATION SYSTEM.“(a) In General.—The Secretary of Homeland Security shall establish a pilot program confirmation system through which the Secretary of Homeland Security (or a designee of the Secretary of Homeland Security, which may be a nongovernmental entity)—“(1) responds to inquiries made by electing persons and other entities (including those made by the transmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual’s identity and whether the individual is authorized to be employed, and “(2) maintains records of the inquiries that were made, of confirmations provided (or not provided), and of the codes provided to inquirers as evidence of their compliance with their obligations under the pilot programs. To the extent practicable, the Secretary of Homeland Security shall seek to establish such a system using one or more nongovernmental entities. “(b) Initial Response.—The confirmation system shall provide confirmation or a tentative nonconfirmation of an individual’s identity and employment eligibility within 3 working days of the initial inquiry. If providing confirmation or tentative nonconfirmation, the confirmation system shall provide an appropriate code indicating such confirmation or such nonconfirmation. “(c) Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation. “(d) Design and Operation of System.—The confirmation system shall be designed and operated—“(1) to maximize its reliability and ease of use by persons and other entities making elections under section 402(a) of this division consistent with insulating and protecting the privacy and security of the underlying information; “(2) to respond to all inquiries made by such persons and entities on whether individuals are authorized to be employed and to register all times when such inquiries are not received; “(3) with appropriate administrative, technical, and physical safeguards to prevent unauthorized disclosure of personal information; and “(4) to have reasonable safeguards against the system’s resulting in unlawful discriminatory practices based on national origin or citizenship status, including—“(A) the selective or unauthorized use of the system to verify eligibility; “(B) the use of the system prior to an offer of employment; or “(C) the exclusion of certain individuals from consideration for employment as a result of a perceived likelihood that additional verification will be required, beyond what is required for most job applicants. “(e) Responsibilities of the Commissioner of Social Security.—As part of the confirmation system, the Commissioner of Social Security, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and social security account number provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided regarding an individual whose identity and employment eligibility must be confirmed, the correspondence of the name and number, and whether the individual has presented a social security account number that is not valid for employment. The Commissioner shall not disclose or release social security information (other than such confirmation or nonconfirmation). “(f) Responsibilities of the Commissioner of the Immigration and Naturalization Service.—As part of the confirmation system, the Commissioner of the Immigration and Naturalization Service, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and alien identification or authorization number described in section 403(a)(1)(B) of this division which are provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided, the correspondence of the name and number, and whether the alien is authorized to be employed in the United States. “(g) Updating Information.—The Commissioners of Social Security and the Immigration and Naturalization Service shall update their information in a manner that promotes the maximum accuracy and shall provide a process for the prompt correction of erroneous information, including instances in which it is brought to their attention in the secondary verification process described in subsection (c). “(h) Limitation on Use of the Confirmation System and Any Related Systems.—“(1) In general.—Notwithstanding any other provision of law, nothing in this subtitle shall be construed to permit or allow any department, bureau, or other agency of the United States Government to utilize any information, data base, or other records assembled under this subtitle for any other purpose other than as provided for under this subtitle. “(2) No national identification card.—Nothing in this subtitle shall be construed to authorize, directly or indirectly, the issuance or use of national identification cards or the establishment of a national identification card. “SEC. 405. REPORTS.“(a) In General.—The Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate reports on the pilot programs within 3 months after the end of the third and fourth years in which the programs are in effect. Such reports shall—“(1) assess the degree of fraudulent attesting of United States citizenship, “(2) include recommendations on whether or not the pilot programs should be continued or modified, and “(3) assess the benefits of the pilot programs to employers and the degree to which they assist in the enforcement of section 274A. “(b) Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report—“(1) evaluating whether the problems identified by the report submitted under subsection (a) have been substantially resolved; and “(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a).”
+Pub. L. 104–208, div. C, title IV, subtitle A, Sept. 30, 1996, 110 Stat. 3009–655, as amended by Pub. L. 107–128, § 2, Jan. 16, 2002, 115 Stat. 2407; Pub. L. 108–156, §§ 2, 3, Dec. 3, 2003, 117 Stat. 1944; Pub. L. 111–83, title V, §§ 547, 551, Oct. 28, 2009, 123 Stat. 2177; Pub. L. 112–176, § 2, Sept. 28, 2012, 126 Stat. 1325, provided that: “SEC. 401. ESTABLISHMENT OF PROGRAMS.“(a) In General.—The Secretary of Homeland Security shall conduct 3 pilot programs of employment eligibility confirmation under this subtitle. “(b) Implementation Deadline; Termination.—The Secretary of Homeland Security shall implement the pilot programs in a manner that permits persons and other entities to have elections under section 402 of this division made and in effect no later than 1 year after the date of the enactment of this Act [Sept. 30, 1996]. Unless the Congress otherwise provides, the Secretary of Homeland Security shall terminate a pilot program on September 30, 2015 [see bracketed notes set out below]. “(c) Scope of Operation of Pilot Programs.—The Secretary of Homeland Security shall provide for the operation—“(1) of the E-Verify Program (described in section 403(a) of this division) in, at a minimum, 5 of the 7 States with the highest estimated population of aliens who are not lawfully present in the United States, and the Secretary of Homeland Security shall expand the operation of the program to all 50 States not later than December 1, 2004; “(2) of the citizen attestation pilot program (described in section 403(b) of this division) in at least 5 States (or, if fewer, all of the States) that meet the condition described in section 403(b)(2)(A) of this division; and “(3) of the machine-readable-document pilot program (described in section 403(c) of this division) in at least 5 States (or, if fewer, all of the States) that meet the condition described in section 403(c)(2) of this division. “(d) References in Subtitle.—In this subtitle—“(1) Pilot program references.—The terms ‘program’ or ‘pilot program’ refer to any of the 3 pilot programs provided for under this subtitle. “(2) Confirmation system.—The term ‘confirmation system’ means the confirmation system established under section 404 of this division. “(3) References to section 274a.—Any reference in this subtitle to section 274A (or a subdivision of such section) is deemed a reference to such section (or subdivision thereof) of the Immigration and Nationality Act [[8 U.S.C. 1324a](./chapter-012-immigration-and-nationality.md#section-1324a)]. “(4) I–9 or similar form.—The term ‘I–9 or similar form’ means the form used for purposes of section 274A(b)(1)(A) or such other form as the Secretary of Homeland Security determines to be appropriate. “(5) Limited application to recruiters and referrers.—Any reference to recruitment or referral (or a recruiter or referrer) in relation to employment is deemed a reference only to such recruitment or referral (or recruiter or referrer) that is subject to section 274A(a)(1)(B)(ii). “(6) United states citizenship.—The term ‘United States citizenship’ includes United States nationality. “(7) State.—The term ‘State’ has the meaning given such term in section 101(a)(36) of the Immigration and Nationality Act [[8 U.S.C. 1101(a)(36)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/36&num=0&edition=prelim)]. “SEC. 402. VOLUNTARY ELECTION TO PARTICIPATE IN A PILOT PROGRAM.“(a) Voluntary Election.—Subject to subsection (c)(3)(B), any person or other entity that conducts any hiring (or recruitment or referral) in a State in which a pilot program is operating may elect to participate in that pilot program. Except as specifically provided in subsection (e), the Secretary of Homeland Security may not require any person or other entity to participate in a pilot program. “(b) Benefit of Rebuttable Presumption.—“(1) In general.—If a person or other entity is participating in a pilot program and obtains confirmation of identity and employment eligibility in compliance with the terms and conditions of the program with respect to the hiring (or recruitment or referral) of an individual for employment in the United States, the person or entity has established a rebuttable presumption that the person or entity has not violated section 274A(a)(1)(A) with respect to such hiring (or such recruitment or referral). “(2) Construction.—Paragraph (1) shall not be construed as preventing a person or other entity that has an election in effect under subsection (a) from establishing an affirmative defense under section 274A(a)(3) if the person or entity complies with the requirements of section 274A(a)(1)(B) but fails to obtain confirmation under paragraph (1). “(c) General Terms of Elections.—“(1) In general.—An election under subsection (a) shall be in such form and manner, under such terms and conditions, and shall take effect, as the Secretary of Homeland Security shall specify. The Secretary of Homeland Security may not impose any fee as a condition of making an election or participating in a pilot program. “(2) Scope of election.—“(A) In general.—Subject to paragraph (3), any electing person or other entity may provide that the election under subsection (a) shall apply (during the period in which the election is in effect)—“(i) to all its hiring (and all recruitment or referral) in the State (or States) in which the pilot program is operating, or “(ii) to its hiring (or recruitment or referral) in one or more pilot program States or one or more places of hiring (or recruitment or referral, as the case may be) in the pilot program States. “(B) Application of programs in non-pilot program states.—In addition, the Secretary of Homeland Security may permit a person or entity electing the citizen attestation pilot program (described in 403(b) of this division) or the machine-readable-document pilot program (described in section 403(c) of this division) to provide that the election applies to its hiring (or recruitment or referral) in one or more States or places of hiring (or recruitment or referral) in which the pilot program is not otherwise operating but only if such States meet the requirements of 403(b)(2)(A) and 403(c)(2) of this division, respectively. “(3) Termination of elections.—The Secretary of Homeland Security may terminate an election by a person or other entity under this section because the person or entity has substantially failed to comply with its obligations under the pilot program. A person or other entity may terminate an election in such form and manner as the Secretary of Homeland Security shall specify. “(d) Consultation, Education, and Publicity.—“(1) Consultation.—The Secretary of Homeland Security shall closely consult with representatives of employers (and recruiters and referrers) in the development and implementation of the pilot programs, including the education of employers (and recruiters and referrers) about such programs. “(2) Publicity.—The Secretary of Homeland Security shall widely publicize the election process and pilot programs, including the voluntary nature of the pilot programs and the advantages to employers (and recruiters and referrers) of making an election under this section. “(3) Assistance through district offices.—The Secretary of Homeland Security shall designate one or more individuals in each District office of the Immigration and Naturalization Service for a Service District in which a pilot program is being implemented—“(A) to inform persons and other entities that seek information about pilot programs of the voluntary nature of such programs, and “(B) to assist persons and other entities in electing and participating in any pilot programs in effect in the District, in complying with the requirements of section 274A, and in facilitating confirmation of the identity and employment eligibility of individuals consistent with such section. “(e) Select Entities Required to Participate in a Pilot Program.—“(1) Federal government.—“(A) Executive departments.—“(i) In general.—Each Department of the Federal Government shall elect to participate in a pilot program and shall comply with the terms and conditions of such an election. “(ii) Election.—Subject to clause (iii), the Secretary of each such Department— “(I) shall elect the pilot program (or programs) in which the Department shall participate, and “(II) may limit the election to hiring occurring in certain States (or geographic areas) covered by the program (or programs) and in specified divisions within the Department, so long as all hiring by such divisions and in such locations is covered. “(iii) Role of secretary of homeland security.—The Secretary of Homeland Security shall assist and coordinate elections under this subparagraph in such manner as assures that— “(I) a significant portion of the total hiring within each Department within States covered by a pilot program is covered under such a program, and “(II) there is significant participation by the Federal Executive branch in each of the pilot programs. “(B) Legislative branch.—Each Member of Congress, each officer of Congress, and the head of each agency of the legislative branch, that conducts hiring in a State in which a pilot program is operating shall elect to participate in a pilot program, may specify which pilot program or programs (if there is more than one) in which the Member, officer, or agency will participate, and shall comply with the terms and conditions of such an election. “(2) Application to certain violators.—An order under section 274A(e)(4) or section 274B(g) of the Immigration and Nationality Act [[8 U.S.C. 1324a(e)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1324a/e/4&num=0&edition=prelim), 1324b(g)] may require the subject of the order to participate in, and comply with the terms of, a pilot program with respect to the subject’s hiring (or recruitment or referral) of individuals in a State covered by such a program. “(3) Consequence of failure to participate.—If a person or other entity is required under this subsection to participate in a pilot program and fails to comply with the requirements of such program with respect to an individual—“(A) such failure shall be treated as a violation of section 274A(a)(1)(B) with respect to that individual, and “(B) a rebuttable presumption is created that the person or entity has violated section 274A(a)(1)(A). Subparagraph (B) shall not apply in any prosecution under section 274A(f)(1). “(f) Construction.—This subtitle shall not affect the authority of the Secretary of Homeland Security under any other law (including section 274A(d)(4)) to conduct demonstration projects in relation to section 274A. “SEC. 403. PROCEDURES FOR PARTICIPANTS IN PILOT PROGRAMS.“(a) E-Verify Program.—A person or other entity that elects to participate in the E-Verify Program described in this subsection agrees to conform to the following procedures in the case of the hiring (or recruitment or referral) for employment in the United States of each individual covered by the election:“(1) Provision of additional information.—The person or entity shall obtain from the individual (and the individual shall provide) and shall record on the I–9 or similar form—“(A) the individual’s social security account number, if the individual has been issued such a number, and “(B) if the individual does not attest to United States citizenship under section 274A(b)(2), such identification or authorization number established by the Immigration and Naturalization Service for the alien as the Secretary of Homeland Security shall specify, and shall retain the original form and make it available for inspection for the period and in the manner required of I–9 forms under section 274A(b)(3). “(2) Presentation of documentation.—“(A) In general.—The person or other entity, and the individual whose identity and employment eligibility are being confirmed, shall, subject to subparagraph (B), fulfill the requirements of section 274A(b) with the following modifications:“(i) A document referred to in section 274A(b)(1)(B)(ii) (as redesignated by section 412(a) of this division) must be designated by the Secretary of Homeland Security as suitable for the purpose of identification in a pilot program. “(ii) A document referred to in section 274A(b)(1)(D) must contain a photograph of the individual. “(iii) The person or other entity has complied with the requirements of section 274A(b)(1) with respect to examination of a document if the document reasonably appears on its face to be genuine and it reasonably appears to pertain to the individual whose identity and work eligibility is being confirmed. “(B) Limitation of requirement to examine documentation.—If the Secretary of Homeland Security finds that a pilot program would reliably determine with respect to an individual whether—“(i) the person with the identity claimed by the individual is authorized to work in the United States, and “(ii) the individual is claiming the identity of another person, if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual’s identity. “(3) Seeking confirmation.—“(A) In general.—The person or other entity shall make an inquiry, as provided in section 404(a)(1) of this division, using the confirmation system to seek confirmation of the identity and employment eligibility of an individual, by not later than the end of 3 working days (as specified by the Secretary of Homeland Security) after the date of the hiring (or recruitment or referral, as the case may be). “(B) Extension of time period.—If the person or other entity in good faith attempts to make an inquiry during such 3 working days and the confirmation system has registered that not all inquiries were received during such time, the person or entity can make an inquiry in the first subsequent working day in which the confirmation system registers that it has received all inquiries. If the confirmation system cannot receive inquiries at all times during a day, the person or entity merely has to assert that the entity attempted to make the inquiry on that day for the previous sentence to apply to such an inquiry, and does not have to provide any additional proof concerning such inquiry. “(4) Confirmation or nonconfirmation.—“(A) Confirmation upon initial inquiry.—If the person or other entity receives an appropriate confirmation of an individual’s identity and work eligibility under the confirmation system within the time period specified under section 404(b) of this division, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a final confirmation of such identity and work eligibility of the individual. “(B) Nonconfirmation upon initial inquiry and secondary verification.—“(i) Nonconfirmation.—If the person or other entity receives a tentative nonconfirmation of an individual’s identity or work eligibility under the confirmation system within the time period specified under 404(b) of this division, the person or entity shall so inform the individual for whom the confirmation is sought. “(ii) No contest.—If the individual does not contest the nonconfirmation within the time period specified in section 404(c) of this division, the nonconfirmation shall be considered final. The person or entity shall then record on the I–9 or similar form an appropriate code which has been provided under the system to indicate a tentative nonconfirmation. “(iii) Contest.—If the individual does contest the nonconfirmation, the individual shall utilize the process for secondary verification provided under section 404(c) of this division. The nonconfirmation will remain tentative until a final confirmation or nonconfirmation is provided by the confirmation system within the time period specified in such section. In no case shall an employer terminate employment of an individual because of a failure of the individual to have identity and work eligibility confirmed under this section until a nonconfirmation becomes final. Nothing in this clause shall apply to a termination of employment for any reason other than because of such a failure. “(iv) Recording of conclusion on form.—If a final confirmation or nonconfirmation is provided by the confirmation system under section 404(c) of this division regarding an individual, the person or entity shall record on the I–9 or similar form an appropriate code that is provided under the system and that indicates a confirmation or nonconfirmation of identity and work eligibility of the individual. “(C) Consequences of nonconfirmation.—“(i) Termination or notification of continued employment.—If the person or other entity has received a final nonconfirmation regarding an individual under subparagraph (B), the person or entity may terminate employment (or recruitment or referral) of the individual. If the person or entity does not terminate employment (or recruitment or referral) of the individual, the person or entity shall notify the Secretary of Homeland Security of such fact through the confirmation system or in such other manner as the Secretary of Homeland Security may specify. “(ii) Failure to notify.—If the person or entity fails to provide notice with respect to an individual as required under clause (i), the failure is deemed to constitute a violation of section 274A(a)(1)(B) with respect to that individual and the applicable civil monetary penalty under section 274A(e)(5) shall be (notwithstanding the amounts specified in such section) no less than $500 and no more than $1,000 for each individual with respect to whom such violation occurred. “(iii) Continued employment after final nonconfirmation.—If the person or other entity continues to employ (or to recruit or refer) an individual after receiving final nonconfirmation, a rebuttable presumption is created that the person or entity has violated section 274A(a)(1)(A). The previous sentence shall not apply in any prosecution under section 274A(f)(1). “(b) Citizen Attestation Pilot Program.—“(1) In general.—Except as provided in paragraphs (3) through (5), the procedures applicable under the citizen attestation pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a). “(2) Restrictions.—“(A) State document requirement to participate in pilot program.—The Secretary of Homeland Security may not provide for the operation of the citizen attestation pilot program in a State unless each driver’s license or similar identification document described in section 274A(b)(1)(D)(i) issued by the State—“(i) contains a photograph of the individual involved, and “(ii) has been determined by the Secretary of Homeland Security to have security features, and to have been issued through application and issuance procedures, which make such document sufficiently resistant to counterfeiting, tampering, and fraudulent use that it is a reliable means of identification for purposes of this section. “(B) Authorization to limit employer participation.—The Secretary of Homeland Security may restrict the number of persons or other entities that may elect to participate in the citizen attestation pilot program under this subsection as the Secretary of Homeland Security determines to be necessary to produce a representative sample of employers and to reduce the potential impact of fraud. “(3) No confirmation required for certain individuals attesting to u.s. citizenship.—In the case of a person or other entity hiring (or recruiting or referring) an individual under the citizen attestation pilot program, if the individual attests to United States citizenship (under penalty of perjury on an I–9 or similar form which form states on its face the criminal and other penalties provided under law for a false representation of United States citizenship)—“(A) the person or entity may fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B)(i) or (D) of such section; and “(B) the person or other entity is not required to comply with respect to such individual with the procedures described in paragraphs (3) and (4) of subsection (a), but only if the person or entity retains the form and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3). “(4) Waiver of document presentation requirement in certain cases.—“(A) In general.—In the case of a person or entity that elects, in a manner specified by the Secretary of Homeland Security consistent with subparagraph (B), to participate in the pilot program under this paragraph, if an individual being hired (or recruited or referred) attests (in the manner described in paragraph (3)) to United States citizenship and the person or entity retains the form on which the attestation is made and makes it available for inspection in the same manner as in the case of an I–9 form under section 274A(b)(3), the person or entity is not required to comply with the procedures described in section 274A(b). “(B) Restriction.—The Secretary of Homeland Security shall restrict the election under this paragraph to no more than 1,000 employers and, to the extent practicable, shall select among employers seeking to make such election in a manner that provides for such an election by a representative sample of employers. “(5) Nonreviewable determinations.—The determinations of the Secretary of Homeland Security under paragraphs (2) and (4) are within the discretion of the Secretary of Homeland Security and are not subject to judicial or administrative review. “(c) Machine-Readable-Document Pilot Program.—“(1) In general.—Except as provided in paragraph (3), the procedures applicable under the machine-readable-document pilot program under this subsection shall be the same procedures as those under the E-Verify Program under subsection (a). “(2) State document requirement to participate in pilot program.—The Secretary of Homeland Security may not provide for the operation of the machine-readable-document pilot program in a State unless driver’s licenses and similar identification documents described in section 274A(b)(1)(D)(i) issued by the State include a machine-readable social security account number. “(3) Use of machine-readable documents.—If the individual whose identity and employment eligibility must be confirmed presents to the person or entity hiring (or recruiting or referring) the individual a license or other document described in paragraph (2) that includes a machine-readable social security account number, the person or entity must make an inquiry through the confirmation system by using a machine-readable feature of such document. If the individual does not attest to United States citizenship under section 274A(b)(2), the individual’s identification or authorization number described in subsection (a)(1)(B) shall be provided as part of the inquiry. “(d) Protection From Liability for Actions Taken on the Basis of Information Provided by the Confirmation System.—No person or entity participating in a pilot program shall be civilly or criminally liable under any law for any action taken in good faith reliance on information provided through the confirmation system. “SEC. 404. EMPLOYMENT ELIGIBILITY CONFIRMATION SYSTEM.“(a) In General.—The Secretary of Homeland Security shall establish a pilot program confirmation system through which the Secretary of Homeland Security (or a designee of the Secretary of Homeland Security, which may be a nongovernmental entity)—“(1) responds to inquiries made by electing persons and other entities (including those made by the transmittal of data from machine-readable documents under the machine-readable pilot program) at any time through a toll-free telephone line or other toll-free electronic media concerning an individual’s identity and whether the individual is authorized to be employed, and “(2) maintains records of the inquiries that were made, of confirmations provided (or not provided), and of the codes provided to inquirers as evidence of their compliance with their obligations under the pilot programs. To the extent practicable, the Secretary of Homeland Security shall seek to establish such a system using one or more nongovernmental entities. “(b) Initial Response.—The confirmation system shall provide confirmation or a tentative nonconfirmation of an individual’s identity and employment eligibility within 3 working days of the initial inquiry. If providing confirmation or tentative nonconfirmation, the confirmation system shall provide an appropriate code indicating such confirmation or such nonconfirmation. “(c) Secondary Verification Process in Case of Tentative Nonconfirmation.—In cases of tentative nonconfirmation, the Secretary of Homeland Security shall specify, in consultation with the Commissioner of Social Security and the Commissioner of the Immigration and Naturalization Service, an available secondary verification process to confirm the validity of information provided and to provide a final confirmation or nonconfirmation within 10 working days after the date of the tentative nonconfirmation. When final confirmation or nonconfirmation is provided, the confirmation system shall provide an appropriate code indicating such confirmation or nonconfirmation. “(d) Design and Operation of System.—The confirmation system shall be designed and operated—“(1) to maximize its reliability and ease of use by persons and other entities making elections under section 402(a) of this division consistent with insulating and protecting the privacy and security of the underlying information; “(2) to respond to all inquiries made by such persons and entities on whether individuals are authorized to be employed and to register all times when such inquiries are not received; “(3) with appropriate administrative, technical, and physical safeguards to prevent unauthorized disclosure of personal information; and “(4) to have reasonable safeguards against the system’s resulting in unlawful discriminatory practices based on national origin or citizenship status, including—“(A) the selective or unauthorized use of the system to verify eligibility; “(B) the use of the system prior to an offer of employment; or “(C) the exclusion of certain individuals from consideration for employment as a result of a perceived likelihood that additional verification will be required, beyond what is required for most job applicants. “(e) Responsibilities of the Commissioner of Social Security.—As part of the confirmation system, the Commissioner of Social Security, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and social security account number provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided regarding an individual whose identity and employment eligibility must be confirmed, the correspondence of the name and number, and whether the individual has presented a social security account number that is not valid for employment. The Commissioner shall not disclose or release social security information (other than such confirmation or nonconfirmation). “(f) Responsibilities of the Commissioner of the Immigration and Naturalization Service.—As part of the confirmation system, the Commissioner of the Immigration and Naturalization Service, in consultation with the entity responsible for administration of the system, shall establish a reliable, secure method, which, within the time periods specified under subsections (b) and (c), compares the name and alien identification or authorization number described in section 403(a)(1)(B) of this division which are provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm) the validity of the information provided, the correspondence of the name and number, and whether the alien is authorized to be employed in the United States. “(g) Updating Information.—The Commissioners of Social Security and the Immigration and Naturalization Service shall update their information in a manner that promotes the maximum accuracy and shall provide a process for the prompt correction of erroneous information, including instances in which it is brought to their attention in the secondary verification process described in subsection (c). “(h) Limitation on Use of the Confirmation System and Any Related Systems.—“(1) In general.—Notwithstanding any other provision of law, nothing in this subtitle shall be construed to permit or allow any department, bureau, or other agency of the United States Government to utilize any information, data base, or other records assembled under this subtitle for any other purpose other than as provided for under this subtitle. “(2) No national identification card.—Nothing in this subtitle shall be construed to authorize, directly or indirectly, the issuance or use of national identification cards or the establishment of a national identification card. “SEC. 405. REPORTS.“(a) In General.—The Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and of the Senate reports on the pilot programs within 3 months after the end of the third and fourth years in which the programs are in effect. Such reports shall—“(1) assess the degree of fraudulent attesting of United States citizenship, “(2) include recommendations on whether or not the pilot programs should be continued or modified, and “(3) assess the benefits of the pilot programs to employers and the degree to which they assist in the enforcement of section 274A. “(b) Report on Expansion.—Not later than June 1, 2004, the Secretary of Homeland Security shall submit to the Committees on the Judiciary of the House of Representatives and the Senate a report—“(1) evaluating whether the problems identified by the report submitted under subsection (a) have been substantially resolved; and “(2) describing what actions the Secretary of Homeland Security shall take before undertaking the expansion of the E-Verify Program to all 50 States in accordance with section 401(c)(1), in order to resolve any outstanding problems raised in the report filed under subsection (a).”
+
+[Pub. L. 117–103, div. O, title II, § 201, Mar. 15, 2022, 136 Stat. 787, provided that: “Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 [Pub. L. 104–208] ([8 U.S.C. 1324a](./chapter-012-immigration-and-nationality.md#section-1324a) note) [set out above] shall be applied by substituting ‘September 30, 2022’ for ‘September 30, 2015’.” ]
 
 [Pub. L. 116–260, div. O, title I, § 101, Dec. 27, 2020, 134 Stat. 2148, provided that: “Section 401(b) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 [Pub. L. 104–208] ([8 U.S.C. 1324a](./chapter-012-immigration-and-nationality.md#section-1324a) note) [set out above] shall be applied by substituting ‘September 30, 2021’ for ‘September 30, 2015’.” ]
 
@@ -20166,7 +21162,12 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 Section was enacted as part of the Department of Homeland Security Appropriations Act, 2020, and also as part of the Consolidated Appropriations Act, 2020, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### Application of Section
-Pub. L. 116–260, div. F, title IV, § 403, Dec. 27, 2020, 134 Stat. 1467, provided that: “The terms and conditions of section 403 of the Department of Homeland Security Appropriations Act, 2020 (division D of Public Law 116–93) [[8 U.S.C. 1377a](./chapter-012-immigration-and-nationality.md#section-1377a)] shall apply to this Act [div. F of Pub. L. 116–260, see Tables for classification].”
+Pub. L. 117–103, div. F, title IV, § 403, Mar. 15, 2022, 136 Stat. 334, provided that: “The terms and conditions of section 403 of the Department of Homeland Security Appropriations Act, 2020 (division D of Public Law 116–93) [[8 U.S.C. 1377a](./chapter-012-immigration-and-nationality.md#section-1377a)] shall apply to this Act [div. F of Pub. L. 117–103, see Tables for classification].”
+
+#### Prior Provisions
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 116–260, div. F, title IV, § 403, Dec. 27, 2020, 134 Stat. 1467.
 
 
 <a id="section-1378"></a>
@@ -20288,6 +21289,8 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 116–6, div. A, title II, § 226, Feb. 15, 2019, 133 Stat. 27.
 
 #### Additional Reporting Requirements
+Pub. L. 117–103, div. F, title II, § 217, Mar. 15, 2022, 136 Stat. 323, provided that: “The reports required to be submitted under section 216 of the Department of Homeland Security Appropriations Act, 2021 (division F of Public Law 116–260) [set out below] shall continue to be submitted semimonthly and each matter required to be included in such report by such section 216 shall apply in the same manner and to the same extent during the period described in this section.”
+
 Pub. L. 116–260, div. F, title II, § 216, Dec. 27, 2020, 134 Stat. 1457, provided that: “The reports required to be submitted under section 218 of the Department of Homeland Security Appropriations Act, 2020 (division D of Public Law 116–93) [[8 U.S.C. 1378a](./chapter-012-immigration-and-nationality.md#section-1378a)] shall continue to be submitted with respect to the period beginning 15 days after the date of the enactment of this Act [Dec. 27, 2020] and semimonthly thereafter, and each matter required to be included in such report by such section 218 shall apply in the same manner and to the same extent during the period described in this section, except that for purposes of reports submitted with respect to such period described, the following additional requirements shall be treated as being included as subparagraphs (H) through (J) of paragraph (1) of such section 218— “(1) the average lengths of stay, including average post-determination length of stay in the case of detainees described in subparagraph (F), for individuals who remain in detention as of the last date of each such reporting period; “(2) the number who have been in detention, disaggregated by the number of detainees described in subparagraph (F), for each of the following—“(A) over 2 years; “(B) from over 1 year to 2 years; “(C) from over 6 months to 1 year; and “(D) for less than 6 months; and “(3) the number of individuals described in section 115.5 of title 28, Code of Federal Regulations, including the use and duration of solitary confinement for such person.”
 
 

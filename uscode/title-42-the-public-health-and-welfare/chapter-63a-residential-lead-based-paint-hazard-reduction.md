@@ -341,9 +341,9 @@ This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the origi
 
 This subchapter, referred to in subsec. (i), was in the original “this subtitle”, meaning subtitle A of title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3901, which enacted this subchapter and amended sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title and sections 1703, 1709, and 1715l of Title 12, Banks and Banking.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (o)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (o)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
-The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (o)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079, as amended. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title](./chapter-130-national-affordable-housing.md#section-12701) and Tables.
+The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (o)(1), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title](./chapter-130-national-affordable-housing.md#section-12701) and Tables.
 
 The Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992, referred to in subsec. (o)(2)(B), is Pub. L. 102–139, Oct. 28, 1991, 105 Stat. 736. Title II of the Act relates to appropriations for the Department of Housing and Urban Development. For complete classification of this Act to the Code, see Tables.
 
@@ -452,7 +452,7 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 ### Statutory Notes
 
 #### References in Text
-The Toxic Substances Control Act, referred to in subsec. (b)(5), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in subsec. (b)(5), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-4854a"></a>
@@ -469,9 +469,9 @@ The Secretary of Labor, in promulgating regulations under [section 4853 of this 
 ### Statutory Notes
 
 #### References in Text
-The Toxic Substances Control Act, referred to in text, is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended. Title IV of the Act is classified generally to subchapter IV (§ 2681 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in text, is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003. Title IV of the Act is classified generally to subchapter IV (§ 2681 et seq.) of chapter 53 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
-The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 
 <a id="section-4855"></a>

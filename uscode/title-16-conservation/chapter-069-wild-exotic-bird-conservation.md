@@ -326,7 +326,7 @@ Notwithstanding any prohibition, suspension, or quota under this chapter on the 
 ### Statutory Notes
 
 #### References in Text
-Act of December 28, 1973, referred to in subsec. (a)(1)(D), and the Endangered Species Act of 1973, referred to in subsec. (e), are Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+Act of December 28, 1973, referred to in subsec. (a)(1)(D), and the Endangered Species Act of 1973, referred to in subsec. (e), are Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3371 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3371) and Tables.
 

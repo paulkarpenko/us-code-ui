@@ -61,7 +61,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1988—Par. (3). Pub. L. 100–588 substituted a period for semicolon at end.
@@ -242,7 +242,7 @@ the Federal land manager concerned shall provide to the Governor information con
 ### Statutory Notes
 
 #### References in Text
-The American Indian Religious Freedom Act, referred to in subsec. (a), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
+The American Indian Religious Freedom Act, referred to in subsec. (a), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (c). Pub. L. 104–333 struck out at end “Each such land manager shall submit an annual report to the Committee on Natural Resources of the United States House of Representatives and to the Committee on Energy and Natural Resources of the United States Senate regarding the actions taken under such program.”

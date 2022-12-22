@@ -141,7 +141,7 @@ Pub. L. 117–2, title III, § 3301(a)(2), Mar. 11, 2021, 135 Stat. 69, provided
 
     (ii) the number of individuals employed in such State determined for December 2020.
 
-  (C) *1 Separate allocation for tribal governments*
+  (C) *1 Separate allocation for Tribal governments*
 
     (i) *In general* — With respect to States that are Tribal governments, the Secretary shall determine the 2021 allocation by allocating $500,000,000 among the Tribal governments in the proportion the Secretary determines appropriate, including with consideration to available employment and economic data regarding each such Tribal government.
 

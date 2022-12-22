@@ -79,7 +79,7 @@ He shall forfeit his office upon failure to maintain the qualifications required
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Election Act, referred to in subsecs. (a) and (b)(1), is act Aug. 12, 1955, ch. 862, 69 Stat. 699, as amended, which is not classified to the Code.
+The District of Columbia Election Act, referred to in subsecs. (a) and (b)(1), is act Aug. 12, 1955, ch. 862, 69 Stat. 699, which is not classified to the Code.
 
 #### Effective Date
 Pub. L. 91–405, title II, § 206(b), Sept. 22, 1970, 84 Stat. 855, provided that: “This title and the amendments made by this title [enacting this section and [section 25b of this title](./chapter-002-organization-of-congress.md#section-25b) and amending [section 2106 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2106&num=0&edition=prelim), Government Organization and Employees, sections 4342, 6954, and 9342 of Title 10, Armed Forces, sections 201, 203, 204, 591, 594, and 595 of Title 18, Crimes and Criminal Procedure, and [section 10307 of Title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section10307&num=0&edition=prelim), Voting and Elections] shall take effect on the date of its enactment [Sept. 22, 1970].”

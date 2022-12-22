@@ -464,7 +464,7 @@ Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided th
 
 (4) one-half of the fees collected under [section 1930(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a/5&num=0&edition=prelim);
 
-(5) 100 percent of the fees collected under [section 1930(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a/6&num=0&edition=prelim); 11 See Deposits of Fees Under Subsection (a)(6) for Certain Fiscal Years note below.
+(5) 100 percent of the fees collected under [section 1930(a)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a/6&num=0&edition=prelim); 11 See Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years note below.
 
 (6) three-fourths of the fees collected under the last sentence of [section 1930(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930/a&num=0&edition=prelim);
 
@@ -476,7 +476,7 @@ Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided th
 
 (10) fines imposed under section 110(l) of title 11, United States Code.
 
-**(c)** Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
+**(c)** Amounts in the Fund which are not currently needed for the purposes specified in subsections (a) and (f) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
 **(d)** The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
 
@@ -484,9 +484,9 @@ Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided th
 
 **(f)**
 
-(1) During each of fiscal years 2021 through 2026 and notwithstanding subsections (b) and (c), the fees collected under section 1930(a)(6), less the amount specified in paragraph (2), shall be deposited as follows, in the following order:
+(1) During each of fiscal years 2021 through 2026 and notwithstanding subsection (b)(5), the fees collected under section 1930(a)(6), less the amount specified in paragraph (2), shall be deposited as follows, in the following order:
 
-  (A) First, the amounts specified in the Department of Justice appropriations for that fiscal year, shall be deposited as discretionary offsetting collections to the “United States Trustee System Fund”, pursuant to subsection (a), to remain available until expended.
+  (A) First, the amounts needed to offset the amount specified in the Department of Justice appropriations for that fiscal year, shall be deposited as discretionary offsetting collections to the “United States Trustee System Fund”, pursuant to subsection (a), to remain available until expended.
 
   (B) Second, the amounts determined annually by the Director of the Administrative Office of the United States Courts that are necessary to reimburse the judiciary for the costs of administering payments under [section 330(e) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section330/e&num=0&edition=prelim), shall be deposited as mandatory offsetting collections to the “United States Trustee System Fund”, and transferred and deposited into the special fund established under section 1931(a), and notwithstanding subsection (a), shall be available for expenditure without further appropriation.
 
@@ -502,6 +502,12 @@ Pub. L. 99–554, title I, § 114(b), Oct. 27, 1986, 100 Stat. 3093, provided th
 Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–151, § 2(g)(1), substituted “subsections (a) and (f)” for “subsection (a)”.
+
+Subsec. (f)(1). Pub. L. 117–151, § 2(g)(2)(A), substituted “subsection (b)(5)” for “subsections (b) and (c)” in introductory provisions.
+
+Subsec. (f)(1)(A). Pub. L. 117–151, § 2(g)(2)(B), inserted “needed to offset the amount” after “amounts”.
+
 2021—Subsec. (f). Pub. L. 116–325 added subsec. (f).
 
 2012—Subsec. (b)(2). Pub. L. 112–121 substituted “48.89” for “55”.
@@ -538,6 +544,9 @@ Subsec. (f). Pub. L. 102–140, § 111(c), added subsec. (f).
 
 1989—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–151, § 2(h)(3), June 21, 2022, 136 Stat. 1300, provided that: “The amendments made by subsection (g) [amending this section] shall take effect as if enacted on October 1, 2021.”
+
 #### Effective Date of 2012 Amendment
 Pub. L. 112–121, § 3(e), May 25, 2012, 126 Stat. 349, provided that: “This section [amending this section and [section 1930 of this title](./chapter-123-fees-and-costs.md#section-1930) and enacting and amending provisions set out as notes under [section 1931 of this title](./chapter-123-fees-and-costs.md#section-1931)] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [May 25, 2012].”
 
@@ -563,8 +572,8 @@ Pub. L. 102–140, title I, § 111, Oct. 28, 1991, 105 Stat. 795, provided that 
 #### Effective Date
 Section effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under [section 581 of this title](./chapter-039-united-states-trustees.md#section-581).
 
-#### Deposits of Fees Under Subsection (a)(6) for Certain Fiscal Years
-Pub. L. 116–325, § 3(a), Jan. 12, 2021, 134 Stat. 5087, provided that: “Notwithstanding [section 589a(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a/b&num=0&edition=prelim), United States Code, for each of fiscal years 2021 through 2026— “(1) the fees collected under section 1930(a)(6) of such title, less the amount specified in subparagraph (2), shall be deposited as specified in subsection (b); and “(2) $5,400,000 of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.”
+#### Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years
+Pub. L. 116–325, § 3(a), Jan. 12, 2021, 134 Stat. 5087, provided that: “Notwithstanding [section 589a(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a/b&num=0&edition=prelim), United States Code, for each of fiscal years 2021 through 2026— “(1) the fees collected under section 1930(a)(6) of such title, less the amount specified in subparagraph [sic] (2), shall be deposited as specified in subsection (b) [amending this section]; and “(2) $5,400,000 of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.”
 
 Pub. L. 115–72, div. B, § 1004(b), Oct. 26, 2017, 131 Stat. 1232, provided that: “Notwithstanding [section 589a(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a/b&num=0&edition=prelim), United States Code, for each of fiscal years 2018 through 2022— “(1) 98 percent of the fees collected under section 1930(a)(6) of such title shall be deposited as offsetting collections to the appropriation ‘United States Trustee System Fund’, to remain available until expended; and “(2) 2 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury.”
 

@@ -786,7 +786,7 @@ Pub. L. 94–582, § 8(b), Oct. 21, 1976, 90 Stat. 2874, as amended by Pub. L. 9
 ### Statutory Notes
 
 #### References in Text
-The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
+The United States Warehouse Act, referred to in subsec. (j), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
 
 #### Amendments
 2020—Subsec. (l)(4). Pub. L. 116–216, in first sentence, substituted “2025” for “2020”.
@@ -1798,7 +1798,7 @@ Section, act Aug. 11, 1916, ch. 313, pt. B, § 20, as added Aug. 13, 1981, Pub. 
 #### References in Text
 The enactment of this section, referred to in subsec. (a), means Oct. 24, 1988, the date of enactment of Pub. L. 100–518.
 
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2020—Subsec. (a). Pub. L. 116–216, § 7(1), in last sentence, substituted “successively for more than 2 terms” for “successive terms”.

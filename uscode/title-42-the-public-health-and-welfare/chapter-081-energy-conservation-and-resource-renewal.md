@@ -290,6 +290,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1038 of Pub. L
 #### Transfer of Functions
 Federal Savings and Loan Insurance Corporation and Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under [section 1437 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1437&num=0&edition=prelim), Banks and Banking.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-6833"></a>
 ## § 6833. Updating State building energy efficiency codes
@@ -628,6 +631,9 @@ A prior section 6837, Pub. L. 94–385, title III, § 308, Aug. 14, 1976, 90 Sta
 #### Prior Provisions
 A prior section 6838, Pub. L. 94–385, title III, § 309, Aug. 14, 1976, 90 Stat. 1149; Pub. L. 97–35, title X, § 1041(a), Aug. 13, 1981, 95 Stat. 621, related to consultations by Secretary with interested and affected groups in developing and promulgating voluntary performance standards and establishment of advisory committees, prior to repeal by Pub. L. 102–486, title I, § 101(a)(2), Oct. 24, 1992, 106 Stat. 2783.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 
 <a id="section-6839-6840"></a>
 ## § 6839, 6840. Repealed. Pub. L. 102–486, title I, § 101(a)(2), Oct. 24, 1992, 106 Stat. 2783
@@ -712,7 +718,7 @@ Subsec. (c)(1) of this section which read “The term ‘Administrator’ means 
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy and Conservation Act, referred to in subsec. (a)(5), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part C of title III of the Energy Policy and Conservation Act is classified generally to part B (§ 6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (a)(5), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part C of title III of the Energy Policy and Conservation Act is classified generally to part B (§ 6321 et seq.) of subchapter III of chapter 77 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 [Section 2809(a)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/12&num=0&edition=prelim), referred to in subsec. (a)(6), which was redesignated as section 2809(a)(5) by Pub. L. 95–568, § 5(a)(2)(E), Nov. 2, 1978, 92 Stat. 2426, was subsequently repealed by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519.
 
@@ -743,7 +749,7 @@ For short title of title IV of Pub. L. 94–385, which is classified principally
 ### Statutory Notes
 
 #### References in Text
-The Economic Opportunity Act of 1964, referred to in subsec. (a)(4), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (a)(4), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§ 2701 et seq.) of this title prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1990—Pub. L. 101–440 amended section generally. Prior to amendment, section read as follows:
@@ -762,6 +768,8 @@ The Economic Opportunity Act of 1964, referred to in subsec. (a)(4), is Pub. L. 
 
 #### Weatherization Assistance Program
 Pub. L. 117–58, div. D, title V, § 40551, Nov. 15, 2021, 135 Stat. 1075, provided that: “(a) Authorization of Appropriations.—There is authorized to be appropriated to the Secretary [of Energy] for the weatherization assistance program established under part A of title IV of the Energy Conservation and Production Act ([42 U.S.C. 6861](./chapter-081-energy-conservation-and-resource-renewal.md#section-6861) et seq.) $3,500,000,000 for fiscal year 2022, to remain available until expended. “(b) Application of Wage Rate Requirements to Weatherization Assistance Program.—With respect to work performed under the weatherization assistance program established under part A of title IV of the Energy Conservation and Production Act ([42 U.S.C. 6861](./chapter-081-energy-conservation-and-resource-renewal.md#section-6861) et seq.) on a project assisted in whole or in part by funding made available under subsection (a), the requirements of section 41101 [[42 U.S.C. 18851](./chapter-162-energy-infrastructure.md#section-18851)] shall apply only to work performed on multifamily buildings with not fewer than 5 units.”
+
+[For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).]
 
 
 <a id="section-6863"></a>
@@ -972,7 +980,7 @@ Subsec. (b)(4). Pub. L. 96–294, § 574, added par. (4).
 
 Subsec. (c). Pub. L. 96–294, §§ 573(b), 577(2), substituted “Secretary” for “Administrator” wherever appearing, and struck out provisions relating to determinations respecting inapplicability of allocation requirement and priority for an applicable community action agency.
 
-Subsec. (d), (e). Pub. L. 96–294, § 577(2), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (d), (e). Pub. L. 96–294, § 577(2), substituted “Secretary” for “Administrator” wherever appearing.
 
 1978—Subsec. (a). Pub. L. 95–619, § 231(a)(2), substituted “occupied by low-income families” for “in which the head of the household is a low-income person”.
 
@@ -1019,7 +1027,7 @@ Community Services Administration, which was established by section 601 of Econo
 #### References in Text
 The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(3), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (b)(4), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (b)(4), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title II of the Economic Opportunity Act of 1964 was classified generally to subchapter II (§ 2781 et seq.) of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2014—Subsec. (b)(3). Pub. L. 113–128 substituted “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Innovation and Opportunity Act” for “securing, to the maximum extent practicable, the services of volunteers and training participants and public service employment workers, pursuant to title I of the Workforce Investment Act of 1998”.
@@ -1481,7 +1489,7 @@ The Secretary, in coordination with the Director, shall monitor and evaluate the
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Amendments
 1980—Subsec. (b). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
@@ -1559,7 +1567,7 @@ The Workforce Innovation and Opportunity Act, referred to in text, is Pub. L. 11
 
 The Community Service Senior Opportunities Act, referred to in text, is title V of Pub. L. 89–73, as added Pub. L. 109–365, title V, § 501, Oct. 17, 2006, 120 Stat. 2563, which is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
-The Energy Conservation in Existing Buildings Act of 1976, referred to in text, is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§ 6861 et seq.) of subchapter III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
+The Energy Conservation in Existing Buildings Act of 1976, referred to in text, is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to part A (§ 6861 et seq.) of subchapter III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6801 of this title](./chapter-081-energy-conservation-and-resource-renewal.md#section-6801) and Tables.
 
 Section 222(a)(12) of the Economic Opportunity Act of 1964 [[42 U.S.C. 2809(a)(12)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/12&num=0&edition=prelim)], referred to in text, which was redesignated as section 222(a)(5) [[42 U.S.C. 2809(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2809/a/5&num=0&edition=prelim)] by Pub. L. 95–568, § 5(a)(2)(E), Nov. 2, 1978, 92 Stat. 2426, was subsequently repealed by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519.
 
@@ -1687,6 +1695,9 @@ In subsec. (i)(1), “The term ‘Secretary’ means the Secretary of Energy” 
 
 #### Transfer of Functions
 “Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Federal Energy Administration, in subsecs. (a) to (f) and (h) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-6892"></a>

@@ -189,7 +189,7 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 ### Statutory Notes
 
 #### References in Text
-The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
+The Federal Trade Commission Act, referred to in subsecs. (a) and (b), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see [section 58 of this title](./chapter-002-federal-trade-commission-promotion-of-export-trade-and-prevention-of-unfair-methods-of-competition.md#section-58) and Tables.
 
 This chapter, referred to in subsecs. (c) and (d), was in the original “this Act”, meaning Pub. L. 103–297, Aug. 16, 1994, 108 Stat. 1545, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-087-telemarketing-and-consumer-fraud-and-abuse-prevention.md#section-6101) and Tables.
 

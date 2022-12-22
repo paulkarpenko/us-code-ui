@@ -16,9 +16,11 @@ source: >-
 
   (A) subject to paragraph (3), have a sexual assault evidence collection kit or its probative contents preserved, without charge, for the duration of the maximum applicable statute of limitations or 20 years, whichever is shorter;
 
-  (B) be informed of any result of a sexual assault evidence collection kit, including a DNA profile match, toxicology report, or other information collected as part of a medical forensic examination, if such disclosure would not impede or compromise an ongoing investigation; and
+  (B) be informed of any result of a sexual assault evidence collection kit, including a DNA profile match, toxicology report, or other information collected as part of a medical forensic examination, if such disclosure would not impede or compromise an ongoing investigation;
 
-  (C) be informed in writing of policies governing the collection and preservation of a sexual assault evidence collection kit.
+  (C) be informed in writing of policies governing the collection and preservation of a sexual assault evidence collection kit; and
+
+  (D) be informed of the status and location of a sexual assault evidence collection kit.
 
 (3) The right to—
 
@@ -41,3 +43,9 @@ Section 1402(d)(3)(A)(i) of the Victims of Crime Act of 1984, referred to in sub
 
 #### Prior Provisions
 A prior section 3772, acts June 25, 1948, ch. 645, 62 Stat. 846; May 24, 1949, ch. 139, § 60, 63 Stat. 98; July 7, 1958, Pub. L. 85–508, § 12(l), 72 Stat. 348; Mar. 18, 1959, Pub. L. 86–3, § 14(h), 73 Stat. 11; Oct. 12, 1984, Pub. L. 98–473, title II, § 206, 98 Stat. 1986, related to procedure after verdict, prior to repeal by Pub. L. 100–702, title IV, §§ 404(a), 407, Nov. 19, 1988, 102 Stat. 4651, 4652, effective Dec. 1, 1988.
+
+#### Amendments
+2022—Subsec. (a)(2)(D). Pub. L. 117–103 added subpar. (D).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.

@@ -2,7 +2,7 @@
 title: 50
 chapter: '46'
 heading: CENTRAL INTELLIGENCE AGENCY
-section_count: 32
+section_count: 35
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -332,9 +332,11 @@ Amendment by Pub. L. 97–89 effective Oct. 1, 1981, see section 806 of Pub. L. 
 Amendment by Pub. L. 88–448 effective on first day of first month which begins later than the ninetieth day following Aug. 19, 1964, see section 403 of Pub. L. 88–448, title IV, Aug. 19, 1964, 78 Stat. 496.
 
 #### Restriction on Transfer of Funds Available to Central Intelligence Agency for Drug Interdiction and Counter-Drug Activities
-Pub. L. 116–260, div. C, title VIII, § 8047(b), Dec. 27, 2020, 134 Stat. 1316, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
+Pub. L. 117–103, div. C, title VIII, § 8052(b), Mar. 15, 2022, 136 Stat. 188, provided that: “None of the funds available to the Central Intelligence Agency for any fiscal year for drug interdiction or counter-drug activities may be transferred to any other department or agency of the United States except as specifically provided in an appropriations law.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. C, title VIII, § 8047(b), Dec. 27, 2020, 134 Stat. 1316.
 
 Pub. L. 116–93, div. A, title VIII, § 8047(b), Dec. 20, 2019, 133 Stat. 2348.
 
@@ -473,17 +475,17 @@ A prior section 7 of act June 20, 1949, was renumbered section 6 and is classifi
 #### Amendments
 1996—Pub. L. 104–208 substituted “that the admission” for “that the entry”, “shall be admitted to” for “shall be given entry into”, and “families admitted to” for “families entering”.
 
-#### Change of Name
-Ex. Ord. No. 6166, § 14, June 10, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees, consolidated Bureaus of Immigration and Naturalization of Department of Labor to form an Immigration and Naturalization Service in Department of Labor, to be administered by a Commissioner of Immigration and Naturalization, which was then transferred from Department of Labor to Department of Justice by Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. Accordingly, “Commissioner of Immigration and Naturalization” was substituted for “Commissioner of Immigration”.
-
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim), Aliens and Nationality.
 
-#### Transfer of Functions
-Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, were transferred to Attorney General, with power vested in the Attorney General to authorize their performance or performance of any of the Attorney General’s functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, formerly set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 662. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
-
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1551&num=0&edition=prelim), Aliens and Nationality.
+
+#### Change of Name
+Ex. Ord. No. 6166, § 14, June 10, 1933, set out as a note under [section 901 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section901&num=0&edition=prelim), Government Organization and Employees, consolidated Bureaus of Immigration and Naturalization of Department of Labor to form an Immigration and Naturalization Service in Department of Labor, to be administered by a Commissioner of Immigration and Naturalization, which was then transferred from Department of Labor to Department of Justice by Reorg. Plan No. V of 1940, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. Accordingly, “Commissioner of Immigration and Naturalization” was substituted for “Commissioner of Immigration”.
+
+#### Transfer of Functions
+Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, were transferred to Attorney General, with power vested in the Attorney General to authorize their performance or performance of any of the Attorney General’s functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, formerly set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 662. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
 
 
 <a id="section-3509"></a>
@@ -1012,17 +1014,21 @@ there is hereby established in the Agency an Office of Inspector General (hereaf
 
   (F) An action taken by the Director or the Inspector General under this paragraph shall not be subject to judicial review.
 
-  (G) In this paragraph:
+  (G)
 
-    (i) The term “urgent concern” means any of the following:
+    (i) In this paragraph:
 
-      (I) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.
+      (I) The term “urgent concern” means any of the following:
 
-      (II) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
+        (aa) A serious or flagrant problem, abuse, violation of law or Executive order, or deficiency relating to the funding, administration, or operations of an intelligence activity involving classified information, but does not include differences of opinions concerning public policy matters.
 
-      (III) An action, including a personnel action described in [section 2302(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/A&num=0&edition=prelim), constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) in response to an employee’s reporting an urgent concern in accordance with this paragraph.
+        (bb) A false statement to Congress, or a willful withholding from Congress, on an issue of material fact relating to the funding, administration, or operation of an intelligence activity.
 
-    (ii) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+        (cc) An action, including a personnel action described in [section 2302(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/a/2/A&num=0&edition=prelim), constituting reprisal or threat of reprisal prohibited under subsection (e)(3)(B) in response to an employee’s reporting an urgent concern in accordance with this paragraph.
+
+      (II) The term “intelligence committees” means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+    (ii) Within the executive branch, the Inspector General shall have sole authority to determine whether any complaint or information reported to the Inspector General is a matter of urgent concern under this paragraph.
 
   (H) An individual who has submitted a complaint or information to the Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to the Inspector General, and of the date on which such submission was made.
 
@@ -1141,6 +1147,8 @@ The National Security Act of 1947, referred to in subsec. (d)(4), is act July 26
 Section was formerly classified to [section 403q of this title](./chapter-015-national-security.md#section-403q) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (d)(5)(G). Pub. L. 117–103 inserted cl. (i) designation before “In this” in introductory provisions, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i) and former subcls. (I) to (III) as items (aa) to (cc), respectively, of subcl. (I), and added cl. (ii).
+
 2017—Subsec. (e)(7)(C). Pub. L. 115–31 added subpar. (C).
 
 2015—Subsec. (e)(7). Pub. L. 114–113, § 411(b), designated existing provisions as subpar. (A) and added subpar. (B).
@@ -1539,9 +1547,13 @@ Pub. L. 104–293, title IV, § 402, Oct. 11, 1996, 110 Stat. 3468, provided tha
 
   (B) *Elements* — The regulations prescribed under subparagraph (A) shall include regulations detailing fair and equitable criteria for payment under paragraph (2).
 
+(5) **No effect on other benefits** — Payments made under paragraph (2) are supplemental to any other benefit furnished by the United States Government for which a covered dependent, covered employee, or covered individual is entitled, and the receipt of such payments may not affect the eligibility of such a person to any other benefit furnished by the United States Government.
+
 ### Statutory Notes
 
-#### Editorial Notes
+#### Amendments
+2022—Subsec. (d)(5). Pub. L. 117–103 added par. (5).
+
 2021—Subsec. (b). Pub. L. 117–46, § 2(f), inserted “total disability resulting from” before “certain injuries” in heading.
 
 Subsec. (d). Pub. L. 117–46, § 2(b), added subsec. (d).
@@ -1719,9 +1731,11 @@ For Determination by President that amendment by Pub. L. 108–458 take effect o
 Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under [section 3001 of this title](./chapter-044-national-security.md#section-3001).
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
-Pub. L. 116–260, div. C, title VIII, § 8038, Dec. 27, 2020, 134 Stat. 1312, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 117–103, div. C, title VIII, § 8045, Mar. 15, 2022, 136 Stat. 184, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. C, title VIII, § 8038, Dec. 27, 2020, 134 Stat. 1312.
 
 Pub. L. 116–93, div. A, title VIII, § 8038, Dec. 20, 2019, 133 Stat. 2344.
 
@@ -2076,3 +2090,157 @@ Pub. L. 116–260, div. W, title IV, § 401(b), Dec. 27, 2020, 134 Stat. 2377, p
     (ii) Educational institutions serving women, members of minority groups, and other groups of individuals who traditionally are involved in the science, technology, engineering, arts, and mathematics professions in disproportionately low numbers.
 
 **(d) Designation of advisor** The Director shall designate one or more individuals within the Agency to advise and assist the Director regarding matters relating to science, technology, engineering, the arts, and mathematics education and training.
+
+
+<a id="section-3527"></a>
+## § 3527. Chaplain Corps and Chief of Chaplains
+**(a) Establishment of Chaplain Corps** There is in the Agency a Chaplain Corps for the provision of spiritual or religious pastoral services.
+
+**(b) Chief of Chaplains** The head of the Chaplain Corps shall be the Chief of Chaplains, who shall be appointed by the Director.
+
+**(c) Staff and administration**
+
+(1) **Staff** — The Director may appoint and fix the compensation of such staff of the Chaplain Corps as the Director considers appropriate, except that the Director may not—
+
+  (A) appoint more than 10 full-time equivalent positions; or
+
+  (B) provide basic pay to any member of the staff of the Chaplain Corps at an annual rate of basic pay in excess of the maximum rate of basic pay for grade GS–15 as provided in [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
+
+(2) **Administration** — The Director may—
+
+  (A) reimburse members of the staff of the Chaplain Corps for work-related travel expenses;
+
+  (B) provide security clearances to such members;
+
+  (C) furnish such physical workspace at the headquarters building of the Agency as the Director considers appropriate; and
+
+  (D) certify that all Chaplains meet common standards for professional chaplaincy and board certification by a national chaplaincy and pastoral care organization or equivalent.
+
+
+<a id="section-3528"></a>
+## § 3528. Compensation and professional standards for certain medical officers
+**(a) Office of Medical Services** There is in the Agency an Office of Medical Services.
+
+**(b) Compensation** Beginning not later than 1 year after March 15, 2022, each medical officer of the Office of Medical Services who meets the qualifications under subsection (c) shall be compensated during a pay period pursuant to a pay range that is equal to the pay range published in the Federal Register pursuant to [section 7431(e)(1)(C) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/e/1/C&num=0&edition=prelim) (for the corresponding pay period), for a physician in the Veterans Health Administration in the District of Columbia region with a medical subspecialty that is the equivalent of the medical subspecialty of the officer.
+
+**(c) Clinical practice qualifications** A medical officer meets the qualifications under this subsection if the officer provides direct care services to patients in connection with the official duties of the officer and—
+
+(1) maintains current, active, full, and unrestricted licensure or registration as a physician from a State, the District of Columbia, or a commonwealth or territory of the United States;
+
+(2) holds active board certification and maintains accreditation in an American Board of Medical Specialties direct care clinical specialty; and
+
+(3) except as provided in subsection (d), maintains a minimum of 96 hours per year of clinical practice in an accredited clinic or hospital facility that is not affiliated with the Central Intelligence Agency.
+
+**(d) Exception for overseas service** If a medical officer is a medical officer located in a duty station outside of the United States pursuant to a permanent change of station and greater than 50 percent of the official duties of the officer in such duty station involve direct patient care, the officer, in lieu of performing the minimum hours under subsection (c)(3) on an annual basis, may count up to 480 hours of clinical practice performed as specified in such subsection prior to such change of station, to fulfill in advance the requirement under such subsection for up to 3 years.
+
+**(e) Clinical practice hours** The head of the Office of Medical Services shall make available to medical officers excused absence time to allow for the maintenance of clinical practice hours in accordance with subsection (c)(3).
+
+
+<a id="section-3529"></a>
+## § 3529. Medical advisory board
+**(a) Establishment** The Director shall establish within the Agency a medical advisory board (in this section referred to as the “Board”).
+
+**(b) Duties** The Board shall—
+
+(1) conduct a study on the Office of Medical Services of the Agency, and submit reports regarding such study, in accordance with subsection (c); and
+
+(2) upon request, provide advice and guidance in connection with any independent review of the Office conducted by an inspector general.
+
+**(c) Study**
+
+(1) **Objectives** — In conducting the study under subsection (b)(1), the Board shall seek to—
+
+  (A) contribute to the modernization and reform of the Office of Medical Services;
+
+  (B) ensure that the activities of the Office are of the highest professional quality; and
+
+  (C) ensure that all medical care provided by the Office is provided in accordance with the highest professional medical standards.
+
+(2) **Reports** — The Board shall submit to the congressional intelligence committees, in writing—
+
+  (A) interim reports on the study; and
+
+  (B) a final report on the study, which shall—
+
+    (i) set forth in detail the findings of the study and the recommendations of the Board, based on such findings and taking into consideration the objectives under paragraph (1), regarding any changes to the activities of the Office of Medical Services; and
+
+    (ii) include, as applicable, any additional or dissenting views submitted by a member of the Board.
+
+**(d) Membership**
+
+(1) **Number and appointment** — The Board shall be composed of 9 members, appointed as follows:
+
+  (A) 1 member appointed by the Speaker of the House of Representatives.
+
+  (B) 1 member appointed by the minority leader of the House of Representatives.
+
+  (C) 1 member appointed by the majority leader of the Senate.
+
+  (D) 1 member appointed by the minority leader of the Senate.
+
+  (E) 1 member appointed by the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives.
+
+  (F) 1 member appointed by the ranking minority member of the Permanent Select Committee on Intelligence of the House of Representatives.
+
+  (G) 1 member appointed by the Chairman of the Select Committee on Intelligence of the Senate.
+
+  (H) 1 member appointed by the Vice Chairman of the Select Committee on Intelligence of the Senate.
+
+  (I) 1 member appointed by the Director of National Intelligence.
+
+(2) **Chairperson** — During the first meeting under subsection (e)(1), the members of the Board shall elect a Chairperson of the Board. In addition to meeting the criteria under paragraph (3), the Chairperson may not be an employee, or former employee, of the Agency.
+
+(3) **Criteria** — The members appointed under paragraph (1) shall meet the following criteria:
+
+  (A) Each member shall be a recognized expert in at least 1 medical field, as demonstrated by appropriate credentials.
+
+  (B) Each member shall possess significant and diverse medical experience, including clinical experience.
+
+  (C) Each member shall be eligible to hold an appropriate security clearance.
+
+(4) **Terms**
+
+  (A) *In general* — Each member, including the Chairperson, shall be appointed or elected, as applicable, for the life of the Board.
+
+  (B) *Vacancies* — Any vacancy in the Board occurring prior to the expiration of the term under subparagraph (A) shall be filled in the manner in which the original appointment or election was made.
+
+(5) **Compensation and travel expenses**
+
+  (A) *Compensation* — Except as provided in subparagraph (B), each member of the Board, including the Chairperson, may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) for each day during which that member is engaged in the actual performance of the duties under subsection (b).
+
+  (B) *Exception for federal employees* — Members of the Board, including the Chairperson, who are officers or employees of the United States shall receive no additional pay by reason of the service of the member on the Board.
+
+  (C) *Travel expenses* — Each member of the Board, including the Chairperson, while away from the home or regular places of business of the member in the performance of services for the Board, may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
+
+(6) **Detailees**
+
+  (A) *In general* — Upon request of the Board, the Director of National Intelligence may detail to the Board, without reimbursement from the Board, any of the personnel of the Office of the Director of National Intelligence to assist in carrying out the duties under subsection (b). Any such detailed personnel shall retain the rights, status, and privileges of the regular employment of the personnel without interruption.
+
+  (B) *Clearance* — Any personnel detailed to the Board under subparagraph (A) shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
+
+**(e) Meetings**
+
+(1) **Board meetings** — The Board shall meet not less frequently than on a quarterly basis.
+
+(2) **Meetings with Congress** — The Board shall meet with the congressional intelligence committees on a biannual basis.
+
+**(f) Information access**
+
+(1) **In general** — Except as provided in paragraph (2), the Board may secure directly from any department or agency of the United States Government information necessary to enable it to carry out the duties under subsection (b) and, upon request of the Chairperson of the Board, the head of that department or agency shall furnish such information to the Board.
+
+(2) **Exception** — The Director (without delegation) may deny a request for information made by the Board pursuant to paragraph (1), regardless of the agency from which such information is requested.
+
+(3) **Notification requirement** — If the Director denies a request under paragraph (2), not later than 15 days after the date of such denial, the Director shall submit to the congressional intelligence committees a written notification of such denial.
+
+(4) **Briefings** — The Director shall ensure that the Board receives comprehensive briefings on all activities of the Office of Medical Services, including by promptly scheduling such briefings at the request of the Board.
+
+**(g) Termination** The Board shall terminate on the date that is 5 years after the date of the first meeting of the Board.
+
+**(h) Definitions** In this section, the terms “congressional intelligence committees” and “intelligence community” have the meanings given such terms in [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+### Statutory Notes
+
+#### Deadline for Appointments; First Meetings
+Pub. L. 117–103, div. X, title VI, § 602(b), Mar. 15, 2022, 136 Stat. 995, provided that: “(1) Deadline for appointments.—Each member of the medical advisory board established under section 28 of the Central Intelligence Agency Act of 1949 [[50 U.S.C. 3529](./chapter-046-central-intelligence-agency.md#section-3529)] (as added by subsection (a)), including the Chairperson, shall be appointed or elected, as applicable, in accordance with subsection (d) of such section by not later than 45 days after the date of the enactment of this Act [Mar. 15, 2022]. “(2) First board meeting.—Not later than 30 days after the first date on which at least 5 members of the Board described in paragraph (1) hold the security clearance and are able to access information in accordance with subsection (d)(3)(C) of such section 28, the Board shall meet. During such meeting, the Director of the Central Intelligence Agency shall provide to the Board a comprehensive briefing on all aspects of the Office of Medical Services of the Central Intelligence Agency. “(3) First meeting with congress.—Not later than 30 days after the date of the briefing under paragraph (2), the Board described in such paragraph shall meet with the staff members of the congressional intelligence committees to discuss topics for the Board to examine in carrying out the duties under subsection (b) of such section 28.”
+
+[For definition of “congressional intelligence committees” as used in section 602(b) of div. X of Pub. L. 117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]

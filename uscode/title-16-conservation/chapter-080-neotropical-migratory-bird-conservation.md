@@ -208,7 +208,7 @@ In carrying out this chapter, the Secretary shall—
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2006—Subsec. (b)(1). Pub. L. 109–363 inserted at end “The advisory group as a whole shall have expertise in the methods and procedures set forth in [section 6103(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6103/2&num=0&edition=prelim) in each country and region of the Western Hemisphere”.

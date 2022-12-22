@@ -2,7 +2,7 @@
 title: 42
 chapter: 6A
 heading: PUBLIC HEALTH SERVICE
-section_count: 1471
+section_count: 1481
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -136,6 +136,21 @@ Pub. L. 86–624, § 47(f), July 12, 1960, 74 Stat. 423, provided that: “The a
 
 #### Effective Date of 1959 Amendment
 Amendment by Pub. L. 86–70 effective Jan. 3, 1959, see section 47(d) of Pub. L. 86–70.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–244, § 1, Dec. 20, 2022, 136 Stat. 2340, provided that: “This Act [enacting [section 285b–9 of this title](./chapter-6a-public-health-service.md#section-285b-9)] may be cited as the ‘Cardiovascular Advances in Research and Opportunities Legacy Act’.”
+
+Pub. L. 117–241, § 1, Dec. 20, 2022, 136 Stat. 2332, provided that: “This Act [amending [section 280g–1 of this title](./chapter-6a-public-health-service.md#section-280g-1)] may be cited as the ‘Early Hearing Detection and Intervention Act of 2022’.”
+
+Pub. L. 117–204, § 1, Oct. 17, 2022, 136 Stat. 2231, provided that: “This Act [amending [section 254b of this title](./chapter-6a-public-health-service.md#section-254b) and enacting provisions set out as a note under [section 254b of this title](./chapter-6a-public-health-service.md#section-254b)] may be cited as the ‘Maximizing Outcomes through Better Investments in Lifesaving Equipment for (MOBILE) Health Care Act’.”
+
+Pub. L. 117–105, § 1, Mar. 18, 2022, 136 Stat. 1118, provided that: “This Act [enacting [section 294t of this title](./chapter-6a-public-health-service.md#section-294t) and provisions set out as notes under [section 294t of this title](./chapter-6a-public-health-service.md#section-294t)] may be cited as the ‘Dr. Lorna Breen Health Care Provider Protection Act’.”
+
+Pub. L. 117–104, § 1, Mar. 18, 2022, 136 Stat. 1117, provided that: “This Act [amending [section 285t of this title](./chapter-6a-public-health-service.md#section-285t)] may be cited as the ‘John Lewis NIMHD Research Endowment Revitalization Act of 2021’.”
+
+Pub. L. 117–103, div. W, title XIII, § 1315(a), Mar. 15, 2022, 136 Stat. 938, provided that: “This section [amending [section 300u–7 of this title](./chapter-6a-public-health-service.md#section-300u-7)] may be cited as ‘Bree’s Law’.”
+
+Pub. L. 117–100, § 1, Mar. 15, 2022, 136 Stat. 44, provided that: “This Act [enacting [section 290bb–33 of this title](./chapter-6a-public-health-service.md#section-290bb-33) and provisions set out as a note under [section 290bb–33 of this title](./chapter-6a-public-health-service.md#section-290bb-33)] may be cited as the ‘Suicide Training and Awareness Nationally Delivered for Universal Prevention Act of 2021’ or the ‘STANDUP Act of 2021’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 117–15, § 1, May 26, 2021, 135 Stat. 277, provided that: “This Act [amending sections 274k, 274m, and 282 of this title and enacting and amending provisions set out as notes under [section 274k of this title](./chapter-6a-public-health-service.md#section-274k)] may be cited as the ‘Timely ReAuthorization of Necessary Stem-cell Programs Lends Access to Needed Therapies Act of 2021’ or the ‘TRANSPLANT Act of 2021’.”
@@ -1249,9 +1264,9 @@ Barack Obama.
 ### Statutory Notes
 
 #### References in Text
-The National Emergencies Act, referred to in subsec. (a)(5)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+The National Emergencies Act, referred to in subsec. (a)(5)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(5)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(5)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Amendments
 2020—Subsec. (a)(1)(B). Pub. L. 116–136 substituted “Ready Reserve Corps” for “Active Reserves”.
@@ -1647,6 +1662,8 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 Section effective July 1, 1950, see section 3(a) of act Aug. 9, 1950, set out as an Effective Date of 1950 Amendment note under [section 210 of this title](./chapter-6a-public-health-service.md#section-210).
 
 #### Authorization To Accumulate Excess Annual Leave
+Pub. L. 117–180, div. D, title III, § 302, Sept. 30, 2022, 136 Stat. 2136, provided that: “For purposes of annual leave accumulated in fiscal year 2022, the authority provided in section 2106 of division C of Public Law 116–159 ([42 U.S.C. 210–1](./chapter-6a-public-health-service.md#section-210-1) note) shall apply to such leave by substituting ‘2022’ for ‘2020’ in subsections (a) and (d)(2).”
+
 Pub. L. 116–159, div. C, title I, § 2106, Oct. 1, 2020, 134 Stat. 729, provided that: “(a) In General.—Notwithstanding section 219 of the Public Health Service Act ([42 U.S.C. 210–1](./chapter-6a-public-health-service.md#section-210-1)), a commissioned officer of the Public Health Service who, except for this section, would lose at the end of the fiscal year 2020 accumulated annual leave in excess of 60 days, may retain such amounts of accumulated annual leave in excess of 60 days. “(b) Use of Excess Leave.—Annual leave retained pursuant to subsection (a) shall be lost unless it is used by the officer no later than September 30, 2023. “(c) Applicability.—This section shall not apply to an officer on terminal leave preceding separation, retirement, or release from active duty, as of the effective date specified in subsection (d). “(d) Effective Date.—This section shall become effective on the earlier of—“(1) the date of the enactment of this Act [Oct. 1, 2020]; or “(2) September 30, 2020.”
 
 #### Compensation for Prior Accumulated and Accrued Leave; Limitation; Inapplicable to Officers on Terminal Leave Prior to July 1, 1950
@@ -2583,7 +2600,7 @@ All appointments to advisory committees established to assist in implementing th
 #### References in Text
 The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter (§ 201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
-The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970, referred to in text, is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, which is classified principally to chapter 60 (§ 4541 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4541 of this title](./chapter-060-comprehensive-alcohol-abuse-and-alcoholism-prevention-treatment-and-rehabilitation-program.md#section-4541) and Tables.
+The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970, referred to in text, is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, which is classified principally to chapter 60 (§ 4541 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4541 of this title](./chapter-060-comprehensive-alcohol-abuse-and-alcoholism-prevention-treatment-and-rehabilitation-program.md#section-4541) and Tables.
 
 #### Codification
 Section was not enacted as a part of the Public Health Service Act which comprises this chapter.
@@ -2618,7 +2635,7 @@ Subject to regulations, volunteer and uncompensated services may be accepted by 
 #### References in Text
 [Section 254b of this title](./chapter-6a-public-health-service.md#section-254b), referred to in subsecs. (a) and (b), was in the original a reference to section 329, meaning section 329 of act July 1, 1944, which was omitted in the general amendment of subpart I (§ 254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, § 2, Oct. 11, 1996, 110 Stat. 3626. Section 2 of Pub. L. 104–299 enacted a new section 330 of act July 1, 1944, which is classified to [section 254b of this title](./chapter-6a-public-health-service.md#section-254b).
 
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L. 92–463, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1986—Pub. L. 99–570 redesignated former subsec. (e)(1) to (4) as subsecs. (a) to (d), respectively, in subsec. (c), further redesignated former cls. (A) and (B) as (1) and (2), respectively, and struck out former subsecs. (a) to (d), which related, respectively, to composition, qualifications, appointment and tenure of the National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism; duties of the National Advisory Mental Health Council; duties of the National Advisory Council on Alcohol Abuse and Alcoholism; and the composition, qualifications, and duties of the National Advisory Council on Drug Abuse.
@@ -2905,7 +2922,7 @@ There is authorized to be appropriated a sum not to exceed $7,500,000 for the er
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act July 3, 1946, ch. 538, 60 Stat. 421, as amended, known as the National Mental Health Act, which enacted sections 232 and 242a of this title, amended sections 201, 209, 210, 215, 218, 219, 241, 244, and 246 of this title, and enacted provisions set out as notes under [section 201 of this title](./chapter-6a-public-health-service.md#section-201). For complete classification of this Act to the Code, see Short Title of 1946 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+This Act, referred to in text, is act July 3, 1946, ch. 538, 60 Stat. 421, known as the National Mental Health Act, which enacted sections 232 and 242a of this title, amended sections 201, 209, 210, 215, 218, 219, 241, 244, and 246 of this title, and enacted provisions set out as notes under [section 201 of this title](./chapter-6a-public-health-service.md#section-201). For complete classification of this Act to the Code, see Short Title of 1946 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Codification
 Section was enacted as a part of the National Mental Health Act, and not as a part of the Public Health Service Act which comprises this chapter.
@@ -2977,7 +2994,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
     (iii) Upon the effective date for the election, clauses (i) and (ii) of subparagraph (G) apply to the entity to the same extent and in the same manner as such clauses apply to an entity that has not submitted an application under subparagraph (D).
 
-    (iv) If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application ( 22 So in original. There is no closing parenthesis. and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity, subject to the provisions of this subsection and the subsequent provisions of this section.
+    (iv) If after making the election the entity submits an application under subparagraph (D), the election does not preclude the Secretary from approving the application (and thereby restoring the applicability of this subsection to the entity and each officer, governing board member, employee, and contractor of the entity, subject to the provisions of this subsection and the subsequent provisions of this section).
 
 (2) If, with respect to an entity or person deemed to be an employee for purposes of paragraph (1), a cause of action is instituted against the United States pursuant to this section, any claim of the entity or person for benefits under an insurance policy with respect to medical malpractice relating to such cause of action shall be subrogated to the United States.
 
@@ -3035,7 +3052,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 (2) Subject to appropriations, for each fiscal year, the Secretary shall establish a fund of an amount equal to the amount estimated under paragraph (1) that is attributable to entities receiving funds under each of the grant programs described in paragraph (4) of subsection (g), but not to exceed a total of $10,000,000 for each such fiscal year. Appropriations for purposes of this paragraph shall be made separate from appropriations made for purposes of sections 254b, 254b and 256a of this title.1
 
-(3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) and of officers, governing board member,33 So in original. Probably should be “members,”. employees, or contractors (subject to subsection (g)(5)) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
+(3) In order for payments to be made for judgments against the United States (together with related fees and expenses of witnesses) pursuant to this section arising from the acts or omissions of entities described in subsection (g)(4) and of officers, governing board members, employees, or contractors (subject to subsection (g)(5)) of such entities, the total amount contained within the fund established by the Secretary under paragraph (2) for a fiscal year shall be transferred not later than the December 31 that occurs during the fiscal year to the appropriate accounts in the Treasury.
 
 **(l) Timely response to filing of action or proceeding**
 
@@ -3293,7 +3310,7 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
       (I) the individual who allegedly transmitted the vaccinia, if vaccinia vaccine was administered to such individual as provided by paragraph (2)(B) and such individual was within a category of individuals covered by a declaration under paragraph (2)(A)(i); or
 
-      (II) an entity that employs an individual described by clause (I) 44 So in original. Probably should be “subclause”. or where such individual has privileges or is otherwise authorized to provide health care;
+      (II) an entity that employs an individual described by clause (I) 22 So in original. Probably should be “subclause”. or where such individual has privileges or is otherwise authorized to provide health care;
 
     (vi) an official, agent, or employee of a person described in clause (i), (ii), (iii), or (iv);
 
@@ -3365,15 +3382,13 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 
 (5)
 
-  (A) This subsection shall take effect on October 1, 2017, except as provided in subparagraph (B) and paragraph (6).
+  (A) This subsection shall take effect on October 1, 2017, except as provided in subparagraph (B).
 
   (B) Effective on December 13, 2016—
 
     (i) the Secretary may issue regulations for carrying out this subsection, and the Secretary may accept and consider applications submitted pursuant to paragraph (3)(B); and
 
     (ii) reports under paragraph (4)(B) may be submitted to Congress.
-
-(6) Beginning on October 1, 2022, this subsection shall cease to have any force or effect.
 
 ### Statutory Notes
 
@@ -3382,9 +3397,19 @@ The references to [section 254b of this title](./chapter-6a-public-health-servic
 
 [Section 256a of this title](./chapter-6a-public-health-service.md#section-256a), referred to in subsecs. (g)(1)(G)(ii), (k)(2), and (n)(1)(C), was repealed by Pub. L. 104–299, § 4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
-The Social Security Act, referred to in subsecs. (m)(2) and (o)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (m)(2) and (o)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
+2022—Subsec. (g)(1)(H)(iv). Pub. L. 117–180, § 301(b)(1), substituted “this section).” for “this section.”.
+
+Subsec. (k)(3). Pub. L. 117–180, § 301(b)(2), inserted “governing board members,” after “officers,”.
+
+Subsec. (p)(7)(A)(i)(II). Pub. L. 117–180, § 301(b)(3), realigned margin.
+
+Subsec. (q)(5)(A). Pub. L. 117–180, § 301(b)(4), struck out “and paragraph (6)” after “subparagraph (B)”.
+
+Subsec. (q)(6). Pub. L. 117–180, § 301(a), struck out par. (6) which read as follows: “Beginning on October 1, 2022, this subsection shall cease to have any force or effect.”
+
 2016—Subsec. (q). Pub. L. 114–255 added subsec. (q).
 
 2010—Subsec. (o)(1). Pub. L. 111–148 inserted “, or an officer, governing board member, employee, or contractor of a free clinic shall in providing services for the free clinic,” after “to an individual”.
@@ -3453,7 +3478,7 @@ Subsec. (k)(1)(A). Pub. L. 104–73, § 2(b)(1), substituted “For each fiscal 
 
 Subsec. (k)(2). Pub. L. 104–73, §§ 2(b)(2), 10, substituted “for each fiscal year” for “for each of the fiscal years 1993, 1994, and 1995” and “$10,000,000” for “$30,000,000”.
 
-Subsec. (k)(3). Pub. L. 104–73, § 3(2), which directed amendment of subsec. (k)(3) by inserting “governing board member,” after “officer,”, was executed by inserting such language after “officers,” to reflect the probable intent of Congress.
+Subsec. (k)(3). Pub. L. 104–73, § 3(2), which directed amendment of subsec. (k)(3) by inserting “governing board member,” after “officer,”, could not be executed because “officer,” did not appear.
 
 Subsec. (l). Pub. L. 104–73, § 6, added subsec. (l).
 
@@ -3616,7 +3641,7 @@ The Director of the National Institutes of Health shall submit to the Board for 
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Subchapter B of the Federal Food, Drug, and Cosmetic Act probably means subchapter B of chapter V of the Federal Food, Drug, and Cosmetic Act which is classified generally to part B (section 360aa et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040. Subchapter B of the Federal Food, Drug, and Cosmetic Act probably means subchapter B of chapter V of the Federal Food, Drug, and Cosmetic Act which is classified generally to part B (section 360aa et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 [Section 44H of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section44H&num=0&edition=prelim), referred to in subsec. (e), was renumbered [section 28 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section28&num=0&edition=prelim), by Pub. L. 98–369, div. A, title IV, § 471(c)(1), July 18, 1984, 98 Stat. 826, and subsequently renumbered [section 45C of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section45C&num=0&edition=prelim) by Pub. L. 104–188, title I, § 1205(a)(1), Aug. 20, 1996, 110 Stat. 1775.
 
@@ -3874,7 +3899,7 @@ Appropriations to the Public Health Service available under this chapter for res
 ### Statutory Notes
 
 #### References in Text
-The Mental Health Systems Act, referred to in text, is Pub. L. 96–398, Oct. 7, 1980, 94 Stat. 1564, as amended. Title VI of the Mental Health Systems Act is classified generally to subchapter V (§ 9511 et seq.) of chapter 102 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9401 of this title](./chapter-102-mental-health-systems.md#section-9401) and Tables.
+The Mental Health Systems Act, referred to in text, is Pub. L. 96–398, Oct. 7, 1980, 94 Stat. 1564. Title VI of the Mental Health Systems Act is classified generally to subchapter V (§ 9511 et seq.) of chapter 102 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9401 of this title](./chapter-102-mental-health-systems.md#section-9401) and Tables.
 
 #### Codification
 Section was formerly classified to [section 300aaa–4 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300aaa–4&num=0&edition=prelim) prior to renumbering by Pub. L. 103–43, to [section 300cc–6 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300cc–6&num=0&edition=prelim) prior to renumbering by Pub. L. 100–607, to [section 300aa–6 of this title](./chapter-6a-public-health-service.md#section-300aa-6) prior to renumbering by Pub. L. 99–660, and to [section 225a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section225a&num=0&edition=prelim) prior to renumbering by Pub. L. 98–24.
@@ -4796,7 +4821,7 @@ Except as explicitly provided herein, nothing in this part shall be construed to
 
   (B) for which there is at least a very small risk, as determined by current scientific practices or statistical methods, that some combination of the information, a request for the information, and other available data sources could be used to deduce the identity of an individual.
 
-**(e) Preterm labor and delivery and infant mortality** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery and infant mortality.
+**(e) Preterm labor and delivery and infant mortality** The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand, intensify, and coordinate the activities of the Centers for Disease Control and Prevention with respect to preterm labor and delivery, preventable maternal mortality and severe maternal morbidity, and infant mortality.
 
 **(f) Exemption of certain biomedical information from disclosure**
 
@@ -4827,7 +4852,9 @@ Except as explicitly provided herein, nothing in this part shall be construed to
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (a)(7). Pub. L. 117–81, § 1702(j)(1)(A), substituted “sections 3861 and 4141” for “sections 2353 and 2354”.
+2022—Subsec. (e). Pub. L. 117–103 inserted “, preventable maternal mortality and severe maternal morbidity,” after “delivery”.
+
+2021—Subsec. (a)(7). Pub. L. 117–81 substituted “sections 3861 and 4141” for “sections 2353 and 2354”.
 
 2016—Subsec. (a). Pub. L. 114–255, § 2043(1), redesignated concluding provisions of subsec. (a) as par. (1) of subsec. (h).
 
@@ -4916,6 +4943,14 @@ Amendment by Pub. L. 92–218 effective 60 days after Dec. 23, 1971, or on such 
 
 #### Applicability of 2016 Amendment
 Pub. L. 114–255, div. A, title II, § 2012(b), Dec. 13, 2016, 130 Stat. 1050, provided that: “Beginning 180 days after the date of enactment of this Act [Dec. 13, 2016], all persons engaged in research and authorized by the Secretary of Health and Human Services to protect information under section 301(d) of the Public Health Service Act ([42 U.S.C. 241(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section241/d&num=0&edition=prelim)) prior to the date of enactment of this Act shall be subject to the requirements of such section (as amended by this Act).”
+
+#### Prohibition Against Reinstating Interdisciplinary Review Process for Non-NIH-Funded Researchers
+Pub. L. 117–215, title I, § 106, Dec. 2, 2022, 136 Stat. 2264, provided that: “The Secretary of Health and Human Services may not— “(1) reinstate the Public Health Service interdisciplinary review process described in the guidance entitled ‘Guidance on Procedures for the Provision of Marijuana for Medical Research’ (issued on May 21, 1999); or “(2) require another review of scientific protocols that is applicable only to research on marijuana or its components.”
+
+[For definition of “marijuana” as used in section 106 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim), Food and Drugs.]
+
+#### Director of Advanced Research Projects for Health
+Pub. L. 117–103, div. H, title II, Mar. 15, 2022, 136 Stat. 465, provided in part: “That the President shall appoint in the Department of Health and Human Services a director of advanced research projects for health (Director): Provided further, That funds may be used to make or rescind appointments of scientific, medical, and professional personnel without regard to any provision in title 5 governing appointments under the civil service laws: Provided further, That funds may be used to fix the compensation of such personnel at a rate to be determined by the Director, up to the amount of annual compensation (excluding expenses) specified in [section 102 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section102&num=0&edition=prelim), United States Code: Provided further, That the Director may use funds made available under this heading to make awards in the form of grants, contracts, cooperative agreements, and cash prizes, and enter into other transactions (as defined in section 319L(a)(3) [[42 U.S.C. 247d–7e(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–7e/a/3&num=0&edition=prelim)] of the PHS [Public Health Service] Act): Provided further, That activities supported with funds provided under this heading shall not be subject to the requirements of sections 406(a)(3)(A)(ii) or 492 [[42 U.S.C. 284a(a)(3)(A)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section284a/a/3/A/ii&num=0&edition=prelim), 289a] of the PHS [Public Health Service] Act: Provided further, That the Secretary [of Health and Human Services] may transfer the Advanced Research Projects Agency for Health, including the functions, personnel, missions, activities, authorities, and funds, within 30 days of enactment of this Act [Mar. 15, 2022] to any agency or office of the Department of Health and Human Services, including the National Institutes of Health: Provided further, That the Committees on Appropriations of the House of Representatives and the Senate shall be notified at least 15 days in advance of any transfer pursuant to the preceding proviso.”
 
 #### Coordination of Data Surveys and Reports
 Pub. L. 106–113, div. B, § 1000(a)(6) [title VII, § 703(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: “The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children’s health.”
@@ -5028,9 +5063,9 @@ Barack Obama.
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (a), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (a), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1970—Subsec. (a). Pub. L. 91–513 inserted references to drug dependency, drugs other than narcotic drugs, and substances subject to control under the Controlled Substances Act and the Controlled Substances Import and Export Act, substituted the first day of April of each year for the first day of September of each year as the date by which the study results must be submitted, substituted the Attorney General for the Secretary of the Treasury as the officer to whom the report is to be submitted, and struck out references to the Narcotic Drugs Import and Export Act.
@@ -5393,7 +5428,7 @@ States participating in the System shall designate a State agency to administer 
 #### References in Text
 [Section 3509 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3509&num=0&edition=prelim), referred to in subsec. (j)(4), (5), which required submission of certain plans and forms for collection of information to the Director of the Office of Management and Budget for approval, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 96–511, § 2(a), Dec. 11, 1980, 94 Stat. 2812. Pub. L. 104–13 subsequently enacted a new [section 3509 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3509&num=0&edition=prelim) relating to designation of a central collection agency. Provisions appearing in former section 3509 are contained in [section 3507 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3507&num=0&edition=prelim).
 
-The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Codification
 In subsec. (f), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -5775,7 +5810,7 @@ Subsec. (i)(2). Pub. L. 95–83, § 104(b), authorized appropriation of $33,600,
 Pub. L. 105–392, title IV, § 401(e), Nov. 13, 1998, 112 Stat. 3587, provided that: “This section [amending this section and sections 247b–5, 247b–6, 247c, 285f–2, 300d–1 to 300d–3, 300d–13, 300d–32, 300k, and 300n–1 of this title] is deemed to have taken effect immediately after the enactment of Public Law 103–183 [Dec. 14, 1993].”
 
 #### Effective Date of 1988 Amendment
-Pub. L. 100–690, title II, § 2600, 102 Stat. 4233, provided that: “Except as provided in section 2613(b)(1) [[42 U.S.C. 285m](./chapter-6a-public-health-service.md#section-285m) note], the amendments made by this subtitle [subtitle G (§§ 2600–2641) of title II of Pub. L. 100–690, enacting sections 285m–4 to 285m–6 of this title, amending this section, sections 242c, 281, 284, 284c, 285j, 285m, 285m–1 to 285m–6, 286, 289f, 290cc–28, 290cc–36, 292h, 294a, 295g–4, 295g–7, 295g–8b, 295h, 295h–5, 295j, 297j, 297n, 300cc–3, 300cc–13, 300cc–17, 300cc–20, 300cc–31, 300dd–1, 300dd–3, 300dd–8, 300dd–10, 300dd–12 to 300dd–14, 300dd–21, 300dd–32, 300ee, 300ee–2, 300ee–5, 300ee–12, 300ee–13, 300ee–15 to 300ee–18, 300ee–20, 300ee–22, 300ee–34, 300ff–48, and 300aaa to 300aaa–13 of this title, and [section 393 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section393&num=0&edition=prelim), Food and Drugs, enacting provisions set out as notes under [section 285m of this title](./chapter-6a-public-health-service.md#section-285m), amending provisions set out as notes under sections 201, 292h, 300cc, 300ee–1, and 300ff–48 of this title, and repealing provisions set out as a note under [section 285m of this title](./chapter-6a-public-health-service.md#section-285m)] shall take effect immediately after the enactment of the Health Omnibus Programs Extension of 1988 [Nov. 4, 1988].”
+Pub. L. 100–690, title II, § 2600, Nov. 18, 1988, 102 Stat. 4233, provided that: “Except as provided in section 2613(b)(1) [[42 U.S.C. 285m](./chapter-6a-public-health-service.md#section-285m) note], the amendments made by this subtitle [subtitle G (§§ 2600–2641) of title II of Pub. L. 100–690, enacting sections 285m–4 to 285m–6 of this title, amending this section, sections 242c, 281, 284, 284c, 285j, 285m, 285m–1 to 285m–6, 286, 289f, 290cc–28, 290cc–36, 292h, 294a, 295g–4, 295g–7, 295g–8b, 295h, 295h–5, 295j, 297j, 297n, 300cc–3, 300cc–13, 300cc–17, 300cc–20, 300cc–31, 300dd–1, 300dd–3, 300dd–8, 300dd–10, 300dd–12 to 300dd–14, 300dd–21, 300dd–32, 300ee, 300ee–2, 300ee–5, 300ee–12, 300ee–13, 300ee–15 to 300ee–18, 300ee–20, 300ee–22, 300ee–34, 300ff–48, and 300aaa to 300aaa–13 of this title, and [section 393 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section393&num=0&edition=prelim), Food and Drugs, enacting provisions set out as notes under [section 285m of this title](./chapter-6a-public-health-service.md#section-285m), amending provisions set out as notes under sections 201, 292h, 300cc, 300ee–1, and 300ff–48 of this title, and repealing provisions set out as a note under [section 285m of this title](./chapter-6a-public-health-service.md#section-285m)] shall take effect immediately after the enactment of the Health Omnibus Programs Extension of 1988 [Nov. 4, 1988].”
 
 #### Effective Date of 1987 Amendment
 Pub. L. 100–177, title I, § 106(c), Dec. 1, 1987, 101 Stat. 989, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 242p of this title](./chapter-6a-public-health-service.md#section-242p)] shall apply to reports and profiles required to be submitted after November 1, 1987.”
@@ -6025,7 +6060,7 @@ Section was enacted as part of the Food Allergen Labeling and Consumer Protectio
 
 **(b) Purpose** The Director of the Office shall—
 
-(1) report to the Director of the Centers for Disease Control and Prevention on the current level of the Centers’ activity regarding women’s health conditions across, where appropriate, age, biological, and sociocultural contexts, in all aspects of the Centers’ work, including prevention programs, public and professional education, services, and treatment;
+(1) report to the Director of the Centers for Disease Control and Prevention on the current level of the Centers’ activity regarding women’s health conditions across, where appropriate, age, biological, sociocultural (including among American Indians, Native Hawaiians, and Alaska Natives), and geographical contexts, in all aspects of the Centers’ work, including prevention programs, public and professional education, services, and treatment;
 
 (2) establish short-range and long-range goals and objectives within the Centers for women’s health and, as relevant and appropriate, coordinate with other appropriate offices on activities within the Centers that relate to prevention, research, education and training, service delivery, and policy development, for issues of particular concern to women;
 
@@ -6047,6 +6082,9 @@ Section was enacted as part of the Food Allergen Labeling and Consumer Protectio
 
 #### Prior Provisions
 A prior section 310A of act July 1, 1944, was renumbered section 226 and transferred to [section 235 of this title](./chapter-6a-public-health-service.md#section-235).
+
+#### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–103 substituted “sociocultural (including among American Indians, Native Hawaiians, and Alaska Natives), and geographical contexts,” for “and sociocultural contexts,”.
 
 
 <a id="section-242t"></a>
@@ -6266,6 +6304,9 @@ A prior section 245, act July 1, 1944, ch. 373, title III, § 313, as added Pub.
 Another prior section 245, acts July 1, 1944, ch. 373, title III, § 313, 58 Stat. 693; Oct. 30, 1970, Pub. L. 91–515, title II, § 282, 84 Stat. 1308, provided for collection of vital statistics, prior to repeal by Pub. L. 93–353, title I, § 102(a), July 23, 1974, 88 Stat. 362. See [section 242k(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242k/g&num=0&edition=prelim).
 
 A prior section 313 of act July 1, 1944, was classified to [section 245a of this title](./chapter-6a-public-health-service.md#section-245a) prior to repeal by Pub. L. 94–484.
+
+#### Maternal Vaccination Awareness
+Pub. L. 117–103, div. P, title I, § 135, Mar. 15, 2022, 136 Stat. 797, provided that: “In carrying out the public awareness initiative related to vaccinations pursuant to section 313 of the Public Health Service Act ([42 U.S.C. 245](./chapter-6a-public-health-service.md#section-245)), the Secretary of Health and Human Services shall take into consideration the importance of increasing awareness and knowledge of the safety and effectiveness of vaccines to prevent disease in pregnant and postpartum women and in infants and the need to improve vaccination rates in communities and populations with low rates of vaccination.”
 
 
 <a id="section-245a"></a>
@@ -7050,7 +7091,7 @@ The reference to [section 254b of this title](./chapter-6a-public-health-service
 
 [Section 256a of this title](./chapter-6a-public-health-service.md#section-256a), referred to in subsec. (a)(2), was repealed by Pub. L. 104–299, § 4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
-The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V and XIX of the Act are classified generally to subchapters V (§ 701 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 247b–1, Pub. L. 95–626, title IV, § 401, Nov. 10, 1978, 92 Stat. 3590; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title V, § 509(b), Oct. 17, 1979, 93 Stat. 695; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by Pub. L. 97–35, title IX, § 902(a), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
@@ -7127,7 +7168,7 @@ Pub. L. 106–310, div. A, title XXV, § 2501(c), Oct. 17, 2000, 114 Stat. 1161,
 
 (2) **Activities** — For the purpose described in paragraph (1), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may carry out the following activities:
 
-  (A) The Secretary may continue and improve activities related to a national maternal mortality data collection and surveillance program to identify and support the review of pregnancy-associated deaths and pregnancy-related deaths that occur during, or within 1 year following, pregnancy.
+  (A) The Secretary may continue and improve activities related to a national maternal mortality data collection and surveillance program to identify and support the review of pregnancy-associated deaths and pregnancy-related deaths that occur during, or within 1 year following, pregnancy, including improving disaggregation of data (in a manner consistent with applicable State and Federal privacy laws).
 
   (B) The Secretary may expand the Pregnancy Risk Assessment Monitoring System to provide surveillance and collect data in each State.
 
@@ -7163,9 +7204,11 @@ Pub. L. 106–310, div. A, title XXV, § 2501(c), Oct. 17, 2000, 114 Stat. 1161,
 
   (K) preventing and reducing adverse health consequences that may result from smoking and substance abuse and misuse before, during and after pregnancy;
 
-  (L) preventing infections that cause maternal and infant complications; and
+  (L) preventing infections that cause maternal and infant complications;
 
-  (M) other areas determined appropriate by the Secretary.
+  (M) an examination of the relationship between maternal health and obstetric services in rural areas and outcomes in delivery and postpartum care; and
+
+  (N) other areas determined appropriate by the Secretary.
 
 **(c) Prevention programs** The Secretary may carry out activities to promote safe motherhood, including—
 
@@ -7262,6 +7305,10 @@ Pub. L. 106–310, div. A, title XXV, § 2501(c), Oct. 17, 2000, 114 Stat. 1161,
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(2)(A). Pub. L. 117–103, § 141(c)(1), inserted before period at end “, including improving disaggregation of data (in a manner consistent with applicable State and Federal privacy laws)”.
+
+Subsec. (b)(2)(M), (N). Pub. L. 117–103, § 141(c)(2), added subpar. (M) and redesignated former subpar. (M) as (N).
+
 2018—Subsec. (a)(1). Pub. L. 115–344, § 2(1)(A), substituted “purposes of this subsection are to establish or continue a Federal initiative to support State and tribal maternal mortality review committees, to improve data collection and reporting around maternal mortality, and to develop or support” for “purpose of this subsection is to develop” and “populations at risk of death and severe” for “population at risk of death and”.
 
 Subsec. (a)(2)(A). Pub. L. 115–344, § 2(1)(B)(i), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The Secretary may establish and implement a national surveillance program to identify and promote the investigation of deaths and severe complications that occur during pregnancy.”
@@ -7560,9 +7607,9 @@ Pub. L. 106–398, § 1 [[div. A], title XVII, § 1704], Oct. 30, 2000, 114 Stat
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
+The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
 
 
 <a id="section-247b-17"></a>
@@ -8223,11 +8270,11 @@ For meaning of references to an intellectual disability and to individuals with 
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsecs. (b) to (e) and (g), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§ 201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsecs. (b) to (e) and (g), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter (§ 201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1) and (e)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1) and (e)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Codification
 Section was enacted as part of the Departments of Labor, Health, and Human Services, and Education, and Related Agencies Appropriations Act, 2000, and not as part of the Public Health Service Act which comprises this chapter.
@@ -8436,7 +8483,7 @@ Section, Pub. L. 109–450, § 5, Dec. 22, 2006, 120 Stat. 3343, related to esta
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
 2000—Subsec. (a). Pub. L. 106–505, § 602(a)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may make grants to States and local health departments for the purpose of enabling such States and departments to carry out programs—
@@ -9248,10 +9295,10 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 Pub. L. 107–188, title I, § 144(b), June 12, 2002, 116 Stat. 630, provided that: “The amendment made by subsection (a) [amending this section] applies to any public health emergency under section 319(a) of the Public Health Service Act [[42 U.S.C. 247d(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/a&num=0&edition=prelim)], including any such emergency that was in effect as of the day before the date of the enactment of this Act [June 12, 2002]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment.”
 
 #### Funding for COVID–19 Vaccine Activities at the Centers for Disease Control and Prevention
-Pub. L. 117–2, title II, § 2301, Mar. 11, 2021, 135 Stat. 37, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle D (§§ 2301–2305) of title II of Pub. L. 117–2, see Tables for classification] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,500,000,000, to remain available until expended, to carry out activities to plan, prepare for, promote, distribute, administer, monitor, and track COVID–19 vaccines. “(b) Use of Funds.—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, and in consultation with other agencies, as applicable, shall, in conducting activities referred to in subsection (a)—“(1) conduct activities to enhance, expand, and improve nationwide COVID–19 vaccine distribution and administration, including activities related to distribution of ancillary medical products and supplies related to vaccines; and “(2) provide technical assistance, guidance, and support to, and award grants or cooperative agreements to, State, local, Tribal, and territorial public health departments for enhancement of COVID–19 vaccine distribution and administration capabilities, including—“(A) the distribution and administration of vaccines licensed under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) or authorized under section 564 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3&num=0&edition=prelim)) and ancillary medical products and supplies related to vaccines; “(B) the establishment and expansion, including staffing support, of community vaccination centers, particularly in underserved areas; “(C) the deployment of mobile vaccination units, particularly in underserved areas; “(D) information technology, standards-based data, and reporting enhancements, including improvements necessary to support standards-based sharing of data related to vaccine distribution and vaccinations and systems that enhance vaccine safety, effectiveness, and uptake, particularly among underserved populations; “(E) facilities enhancements; “(F) communication with the public regarding when, where, and how to receive COVID–19 vaccines; and “(G) transportation of individuals to facilitate vaccinations, including at community vaccination centers and mobile vaccination units, particularly for underserved populations. “(c) Supplemental Funding for State Vaccination Grants.—“(1) Definitions.—In this subsection:“(A) Base formula.—The term ‘base formula’ means the allocation formula that applied to the Public Health Emergency Preparedness cooperative agreement in fiscal year 2020. “(B) Alternative allocation.—The term ‘alternative allocation’ means an allocation to each State, territory, or locality calculated using the percentage derived from the allocation received by such State, territory, or locality of the aggregate amount of fiscal year 2020 Public Health Emergency Preparedness cooperative agreement awards under section 319C–1 of the Public Health Service Act ([42 U.S.C. 247d–3a](./chapter-6a-public-health-service.md#section-247d-3a)). “(2) Supplemental funding.—“(A) In general.—Not later than 21 days after the date of enactment of this Act [Mar. 11, 2021], the Secretary shall, out of amounts described in subsection (a), provide supplemental funding to any State, locality, or territory that received less of the amounts that were appropriated under title III of division M of Public Law 116–260 [see Tables for classification] for vaccination grants to be issued by the Centers for Disease Control and Prevention than such State, locality, or territory would have received had such amounts been allocated using the alternative allocation. “(B) Amount.—The amount of supplemental funding provided under this subsection shall be equal to the difference between—“(i) the amount the State, locality, or territory received, or would receive, under the base formula; and “(ii) the amount the State, locality, or territory would receive under the alternative allocation.”
+Pub. L. 117–2, title II, § 2301, Mar. 11, 2021, 135 Stat. 37, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [subtitle D (§§ 2301–2305) of title II of Pub. L. 117–2, see Tables for classification] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,500,000,000, to remain available until expended, to carry out activities to plan, prepare for, promote, distribute, administer, monitor, and track COVID–19 vaccines. “(b) Use of Funds.—The Secretary, acting through the Director of the Centers for Disease Control and Prevention, and in consultation with other agencies, as applicable, shall, in conducting activities referred to in subsection (a)—“(1) conduct activities to enhance, expand, and improve nationwide COVID–19 vaccine distribution and administration, including activities related to distribution of ancillary medical products and supplies related to vaccines; and “(2) provide technical assistance, guidance, and support to, and award grants or cooperative agreements to, State, local, Tribal, and territorial public health departments for enhancement of COVID–19 vaccine distribution and administration capabilities, including—“(A) the distribution and administration of vaccines licensed under section 351 of the Public Health Service Act ([42 U.S.C. 262](./chapter-6a-public-health-service.md#section-262)) or authorized under section 564 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 360bbb–3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section360bbb–3&num=0&edition=prelim)) and ancillary medical products and supplies related to vaccines; “(B) the establishment and expansion, including staffing support, of community vaccination centers, particularly in underserved areas; “(C) the deployment of mobile vaccination units, particularly in underserved areas; “(D) information technology, standards-based data, and reporting enhancements, including improvements necessary to support standards-based sharing of data related to vaccine distribution and vaccinations and systems that enhance vaccine safety, effectiveness, and uptake, particularly among underserved populations; “(E) facilities enhancements; “(F) communication with the public regarding when, where, and how to receive COVID–19 vaccines; and “(G) transportation of individuals to facilitate vaccinations, including at community vaccination centers and mobile vaccination units, particularly for underserved populations. “(c) Supplemental Funding for State Vaccination Grants.—“(1) Definitions.—In this subsection:“(A) Base formula.—The term ‘base formula’ means the allocation formula that applied to the Public Health Emergency Preparedness cooperative agreement in fiscal year 2020. “(B) Alternative allocation.—The term ‘alternative allocation’ means an allocation to each State, territory, or locality calculated using the percentage derived from the allocation received by such State, territory, or locality of the aggregate amount of fiscal year 2020 Public Health Emergency Preparedness cooperative agreement awards under section 319C–1 of the Public Health Service Act ([42 U.S.C. 247d–3a](./chapter-6a-public-health-service.md#section-247d-3a)). “(2) Supplemental funding.—“(A) In general.—Not later than 21 days after the date of enactment of this Act [Mar. 11, 2021], the Secretary shall, out of amounts described in subsection (a), provide supplemental funding to any State, locality, or territory that received less of the amounts that were appropriated under title III of division M of Public Law 116–260 [see Tables for classification] for vaccination grants to be issued by the Centers for Disease Control and Prevention than such State, locality, or territory would have received had such amounts been allocated using the alternative allocation. “(B) Amount.—The amount of supplemental funding provided under this subsection shall be equal to the difference between—“(i) the amount the State, locality, or territory received, or would receive, under the base formula; and “(ii) the amount the State, locality, or territory would receive under the alternative allocation.”
 
 #### Funding for COVID–19 Testing, Contact Tracing, and Mitigation Activities
-Pub. L. 117–2, title II, § 2401, Mar. 11, 2021, 135 Stat. 40, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle E (§§ 2401–2404) of title II of Pub. L. 117–2, see Tables for classification] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $47,800,000,000, to remain available until expended, to carry out activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies to mitigate the spread of COVID–19. “(b) Use of Funds.—From amounts appropriated by subsection (a), the Secretary shall—“(1) implement a national, evidence-based strategy for testing, contact tracing, surveillance, and mitigation with respect to SARS–CoV–2 and COVID–19, including through activities authorized under section 319(a) of the Public Health Service Act [[42 U.S.C. 247d(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/a&num=0&edition=prelim)]; “(2) provide technical assistance, guidance, and support, and award grants or cooperative agreements to State, local, and territorial public health departments for activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies and activities to mitigate the spread of COVID–19; “(3) support the development, manufacturing, procurement, distribution, and administration of tests to detect or diagnose SARS–CoV–2 and COVID–19, including through—“(A) support for the development, manufacture, procurement, and distribution of supplies necessary for administering tests, such as personal protective equipment; and “(B) support for the acquisition, construction, alteration, or renovation of non-federally owned facilities for the production of diagnostics and ancillary medical products and supplies where the Secretary determines that such an investment is necessary to ensure the production of sufficient amounts of such supplies; “(4) establish and expand Federal, State, local, and territorial testing and contact tracing capabilities, including—“(A) through investments in laboratory capacity, such as—“(i) academic and research laboratories, or other laboratories that could be used for processing of COVID–19 testing; “(ii) community-based testing sites and community-based organizations; or “(iii) mobile health units, particularly in medically underserved areas; and “(B) with respect to quarantine and isolation of contacts; “(5) enhance information technology, data modernization, and reporting, including improvements necessary to support sharing of data related to public health capabilities; “(6) award grants to, or enter into cooperative agreements or contracts with, State, local, and territorial public health departments to establish, expand, and sustain a public health workforce; and “(7) to cover administrative and program support costs necessary to conduct activities related to subparagraph (a).”
+Pub. L. 117–2, title II, § 2401, Mar. 11, 2021, 135 Stat. 40, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [subtitle E (§§ 2401–2404) of title II of Pub. L. 117–2, see Tables for classification] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $47,800,000,000, to remain available until expended, to carry out activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies to mitigate the spread of COVID–19. “(b) Use of Funds.—From amounts appropriated by subsection (a), the Secretary shall—“(1) implement a national, evidence-based strategy for testing, contact tracing, surveillance, and mitigation with respect to SARS–CoV–2 and COVID–19, including through activities authorized under section 319(a) of the Public Health Service Act [[42 U.S.C. 247d(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/a&num=0&edition=prelim)]; “(2) provide technical assistance, guidance, and support, and award grants or cooperative agreements to State, local, and territorial public health departments for activities to detect, diagnose, trace, and monitor SARS–CoV–2 and COVID–19 infections and related strategies and activities to mitigate the spread of COVID–19; “(3) support the development, manufacturing, procurement, distribution, and administration of tests to detect or diagnose SARS–CoV–2 and COVID–19, including through—“(A) support for the development, manufacture, procurement, and distribution of supplies necessary for administering tests, such as personal protective equipment; and “(B) support for the acquisition, construction, alteration, or renovation of non-federally owned facilities for the production of diagnostics and ancillary medical products and supplies where the Secretary determines that such an investment is necessary to ensure the production of sufficient amounts of such supplies; “(4) establish and expand Federal, State, local, and territorial testing and contact tracing capabilities, including—“(A) through investments in laboratory capacity, such as—“(i) academic and research laboratories, or other laboratories that could be used for processing of COVID–19 testing; “(ii) community-based testing sites and community-based organizations; or “(iii) mobile health units, particularly in medically underserved areas; and “(B) with respect to quarantine and isolation of contacts; “(5) enhance information technology, data modernization, and reporting, including improvements necessary to support sharing of data related to public health capabilities; “(6) award grants to, or enter into cooperative agreements or contracts with, State, local, and territorial public health departments to establish, expand, and sustain a public health workforce; and “(7) to cover administrative and program support costs necessary to conduct activities related to subparagraph (a).”
 
 #### Importance of the Blood Supply
 Pub. L. 116–136, div. A, title III, § 3226, Mar. 27, 2020, 134 Stat. 383, provided that: “(a) In General.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall carry out a national campaign to improve awareness of, and support outreach to the public and health care providers about the importance and safety of blood donation and the need for donations for the blood supply during the public health emergency declared by the Secretary under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) with respect to COVID–19. “(b) Awareness Campaign.—In carrying out subsection (a), the Secretary may enter into contracts with one or more public or private nonprofit entities, to establish a national blood donation awareness campaign that may include television, radio, internet, and newspaper public service announcements, and other activities to provide for public and professional awareness and education. “(c) Consultation.—In carrying out subsection (a), the Secretary shall consult with the Commissioner of Food and Drugs, the Assistant Secretary for Health, the Director of the Centers for Disease Control and Prevention, the Director of the National Institutes of Health, and the heads of other relevant Federal agencies, and relevant accrediting bodies and representative organizations. “(d) Report to Congress.—Not later than 2 years after the date of enactment of this Act [Mar. 27, 2020], the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report that shall include—“(1) a description of the activities carried out under subsection (a); “(2) a description of trends in blood supply donations; and “(3) an evaluation of the impact of the public awareness campaign, including any geographic or population variations.”
@@ -9871,6 +9918,65 @@ Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impa
 (b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Addressing the Long-Term Effects of COVID–19
+Memorandum of President of the United States, Apr. 5, 2022, 87 F.R. 20995, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. My Administration has made combating the coronavirus disease 2019 (COVID–19) pandemic, and guiding the Nation through the worst public health crisis in more than a century, our top priority. When I came into office, COVID–19 was wreaking havoc on our country—closing our businesses, keeping our kids out of school, and forcing us into isolation. Today, America has the tools to protect against COVID–19 and to dramatically decrease its risks. We move towards a future in which COVID–19 does not disrupt our daily lives and is something we prevent, protect against, and treat.
+
+As we chart the path forward, we remember the more than 950,000 people in the United States lost to COVID–19. They were beloved parents, grandparents, children, siblings, spouses, neighbors, and friends. More than 200,000 children in the United States have lost a parent or caregiver to the disease. Each soul is irreplaceable, and the families and communities left behind are still reeling from profound loss. Many families and communities have already received support from Federal programs that help with the loss they have experienced. As we move forward, we commit to ensuring that families and communities can access these support programs and connect to resources they may need to help with their healing, health, and well-being.
+
+At the same time, many of our family members, neighbors, and friends continue to experience negative long-term effects of COVID–19. Many individuals report debilitating, long-lasting effects of having been infected with COVID–19, often called “long COVID.” These symptoms can happen to anyone who has had COVID–19—including individuals across ages, races, genders, and ethnicities; individuals with or without disabilities; individuals with or without underlying health conditions; and individuals whether or not they had initial symptoms. Individuals experiencing long COVID report experiencing new or recurrent symptoms, which can include anxiety and depression, fatigue, shortness of breath, difficulty concentrating, heart palpitations, disordered sleep, chest and joint pain, headaches, and other symptoms. These symptoms can persist long after the acute COVID–19 infection has resolved. Even young people and otherwise healthy people have reported long COVID symptoms that last for many months. These symptoms may be affecting individuals’ ability to work, conduct daily activities, engage in educational activities, and participate in their communities. Our world-class research and public health organizations have begun the difficult work of understanding these new conditions, their causes, and potential prevention and treatment options. Our health care and support programs are working to help meet the needs of individuals experiencing the lasting effects of COVID–19. To organize the Federal Government’s response, executive departments and agencies (agencies) must work together to use the expertise, resources, and benefit programs of the Federal Government to ensure that we are accelerating scientific progress and providing individuals with the support and services they need.
+
+In addition, the American public is grappling with a mental health crisis exacerbated by the pandemic. Too many have felt the effects of social isolation, sickness, economic insecurity, increased caregiver burdens, and grief. My Administration has made significant investments in mental health as well as substance use disorder prevention, treatment, and recovery support for the American public, including by expanding access to community-based behavioral health services. We are committed to advancing these behavioral health efforts in order to better identify the effects of the pandemic on mental health, substance use, and well-being, and to take steps to address these effects for the people we serve.
+
+Our Nation can continue to protect the public—and spare countless families from the deepest pain imaginable—if everybody does their part. Today, we have numerous tools to protect ourselves and our loved ones from COVID–19—from vaccines to tests, treatments, masks, and more. My Administration recognizes the toll of this pandemic on the American public and commits to redoubling our efforts to support the American people in addressing the long-term effects of COVID–19 on their lives and on society.
+
+Sec. 2. Organizing the Government-Wide Response to the Long-Term Effects of COVID–19. (a) The Secretary of Health and Human Services (Secretary) shall coordinate the Government-wide response to the long-term effects of COVID–19. My Administration will harness the full potential of the Federal Government, in coordination with public- and private-sector partners, to mount a full and effective response. The Secretary shall report on the coordination efforts to the Coordinator of the COVID–19 Response and Counselor to the President and to the Assistant to the President for Domestic Policy.
+
+(b) The heads of agencies shall assist and provide information to the Secretary, consistent with applicable law, as may be necessary to carry out the Secretary’s duties described in subsection (a) of this section.
+
+(c) In performing the duties described in subsection (a) of this section, the Secretary shall seek information from relevant nongovernmental experts, organizations, and stakeholders, including individuals affected directly by the long-term effects of COVID–19. The Secretary shall consider using all available legal authorities, as appropriate and consistent with applicable law, to assist in gathering relevant information, including a waiver under [42 U.S.C. 247d(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d/f&num=0&edition=prelim).
+
+Sec. 3. Report on the Long-Term Effects of COVID–19. The Secretary, supported within the Department of Health and Human Services by the Assistant Secretary for Health and the Assistant Secretary for Mental Health and Substance Use, shall publish a public report within 120 days of the date of this memorandum [Apr. 5, 2022] outlining services and mechanisms of support across agencies to assist the American public in the face of the far-reaching and long-term effects of COVID–19. The report shall outline Federal Government services to support individuals experiencing long COVID, individuals and families experiencing a loss due to COVID–19, and all those grappling with mental health and substance use issues in the wake of this pandemic. The report shall also specifically address the long-term effects of COVID–19 on underserved communities and efforts to address disparities in availability and adoption of services and support for such communities.
+
+Sec. 4. National Research Action Plan on Long COVID. (a) Coordinated efforts across the public and private sectors are needed to advance progress in prevention, diagnosis, treatment, and provision of services for individuals experiencing long COVID. The Secretary, supported by the Assistant Secretary for Health and in collaboration with the Secretary of Defense, the Secretary of Labor, the Secretary of Energy, and the Secretary of Veterans Affairs, shall coordinate a Government-wide effort to develop the first-ever interagency national research agenda on long COVID, to be reflected in a National Research Action Plan. The National Research Action Plan will build on ongoing efforts across the Federal Government, including the landmark RECOVER Initiative implemented by the National Institutes of Health. The Secretary shall release the jointly developed National Research Action Plan within 120 days of the date of this memorandum.
+
+(b) The National Research Action Plan shall build upon existing research efforts and include strategies to:
+
+(i) help measure and characterize long COVID in both children and adults, including with respect to its frequency, severity, duration, risk factors, and trends over time;
+
+(ii) support the development of estimates on prevalence and incidence of long COVID disaggregated by demographic groups and symptoms;
+
+(iii) better understand the epidemiology, course of illness, risk factors, and vaccine effectiveness in prevention of long COVID;
+
+(iv) advance our understanding of the health and socioeconomic burdens on individuals affected by long COVID, including among different race and ethnicity groups, pregnant people, and those with underlying disabilities;
+
+(v) foster development of new treatments and care models for long COVID based on a better understanding of the pathophysiological mechanisms of the SARS–CoV–2 virus;
+
+(vi) inform decisions related to high-quality support, services, and interventions for long COVID;
+
+(vii) improve data-sharing between agencies and academic and industry researchers about long COVID, to the extent permitted by law; and
+
+(viii) specifically account for the pandemic’s effect on underserved communities and rural populations.
+
+Sec. 5. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary is authorized and directed to publish this memorandum in the Federal Register.
 
 J.R. Biden, Jr.
 
@@ -11966,7 +12072,7 @@ Pub. L. 108–276, § 8, July 21, 2004, 118 Stat. 863, provided that: “(a) Ens
 #### References in Text
 Section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (a)(5)(A)(ix), is section 403(b) of Pub. L. 116–22, title IV, June 24, 2019, 133 Stat. 947, which is not classified to the Code.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B)(i)(III)(aa), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Chapter V of the Act is classified generally to subchapter V (§ 351 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B)(i)(III)(aa), is act June 25, 1938, ch. 675, 52 Stat. 1040. Chapter V of the Act is classified generally to subchapter V (§ 351 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 The Project BioShield Act of 2004, referred to in subsec. (c)(7)(B)(iii)(IV), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -12123,7 +12229,7 @@ Pub. L. 107–296, title XVII, § 1705(b), Nov. 25, 2002, 116 Stat. 2316, provid
 Pub. L. 114–268, Dec. 14, 2016, 130 Stat. 1387, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘First Responder Anthrax Preparedness Act’. “SEC. 2. VOLUNTARY PRE-EVENT ANTHRAX VACCINATION PILOT PROGRAM FOR EMERGENCY RESPONSE PROVIDERS.“(a) Pilot Program.—“(1) Establishment.—The Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall carry out a pilot program to provide eligible anthrax vaccines from the Strategic National Stockpile under section 319F–2(a) of the Public Health Service Act ([42 U.S.C. 247d–6b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d–6b/a&num=0&edition=prelim)) that will be nearing the end of their labeled dates of use at the time such vaccines are made available to States for administration to emergency response providers who would be at high risk of exposure to anthrax if such an attack should occur and who voluntarily consent to such administration. “(2) Determination.—The Secretary of Health and Human Services shall determine whether an anthrax vaccine is eligible to be provided to the Secretary of Homeland Security for the pilot program described in paragraph (1) based on—“(A) a determination that the vaccine is not otherwise allotted for other purposes; “(B) a determination that the provision of the vaccine will not reduce, or otherwise adversely affect, the capability to meet projected requirements for this product during a public health emergency, including a significant reduction of available quantities of vaccine in the Strategic National Stockpile; and “(C) such other considerations as determined appropriate by the Secretary of Health and Human Services. “(3) Preliminary requirements.—Before implementing the pilot program required under this subsection, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall—“(A) establish a communication platform for the pilot program; “(B) develop and deliver education and training for the pilot program; “(C) conduct economic analysis of the pilot program, including a preliminary estimate of total costs and expected benefits; “(D) create a logistical platform for the anthrax vaccine request process under the pilot program; “(E) establish goals and desired outcomes for the pilot program; and “(F) establish a mechanism to reimburse the Secretary of Health and Human Services for—“(i) the costs of shipment and transportation of such vaccines provided to the Secretary of Homeland Security from the Strategic National Stockpile under such pilot program, including staff time directly supporting such shipment and transportation; and “(ii) the amount, if any, by which the warehousing costs of the Strategic National Stockpile are increased in order to operate such pilot program. “(4) Location.—“(A) In general.—In carrying out the pilot program required under this subsection, the Secretary of Homeland Security shall select not fewer than 2 nor more than 5 States for voluntary participation in the pilot program. “(B) Requirement.—Each State that participates in the pilot program under this subsection shall ensure that such participation is consistent with the All-Hazards Public Health Emergency Preparedness and Response Plan of the State developed under section 319C–1 of the Public Health Service Act ([42 U.S.C. 247d–3a](./chapter-6a-public-health-service.md#section-247d-3a)). “(5) Guidance for selection.—To ensure that participation in the pilot program under this subsection strategically increases State and local response readiness in the event of an anthrax release, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall provide guidance to participating States and units of local government on identifying emergency response providers who are at high risk of exposure to anthrax. “(6) Distribution of information.—The Secretary of Homeland Security shall require that each State that participates in the pilot program under this subsection submit a written certification to the Secretary of Homeland Security stating that each emergency response provider within the State that participates in the pilot program is provided with disclosures and educational materials designated by the Secretary of Health and Human Services, which may include—“(A) materials regarding the associated benefits and risks of any vaccine provided under the pilot program, and of exposure to anthrax; “(B) additional material consistent with the Centers for Disease Control and Prevention’s clinical guidance; and “(C) notice that the Federal Government is not obligated to continue providing anthrax vaccine after the date on which the pilot program ends. “(7) Memorandum of understanding.—Before implementing the pilot program under this subsection, the Secretary of Homeland Security shall enter into a memorandum of understanding with the Secretary of Health and Human Services to—“(A) define the roles and responsibilities of each Department for the pilot program; and “(B) establish other performance metrics and policies for the pilot program, as appropriate. “(8) Report.—“(A) In general.—Notwithstanding subsection (c), not later than 1 year after the date on which the initial vaccines are administered under this section, and annually thereafter until 1 year after the completion of the pilot program under this section, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall submit to the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the progress and results of the pilot program, including—“(i) a detailed tabulation of the costs to administer the program, including— “(I) total costs for management and administration; “(II) total costs to ship vaccines; “(III) total number of full-time equivalents allocated to the program; and “(IV) total costs to the Strategic National Stockpile; “(ii) the number and percentage of eligible emergency response providers, as determined by each pilot location, that volunteer to participate; “(iii) the degree to which participants complete the vaccine regimen; “(iv) the total number of doses of vaccine administered; and “(v) recommendations to improve initial and recurrent participation in the pilot program. “(B) Final report.—The final report required under subparagraph (A) shall—“(i) consider whether the pilot program required under this subsection should continue after the date described in subsection (c); and “(ii) include— “(I) an analysis of the costs and benefits of continuing the program to provide anthrax vaccines to emergency response providers; “(II) an explanation of the economic, health, and other risks and benefits of administering vaccines through the pilot program rather than post-event treatment; and “(III) in the case of a recommendation under clause (i) to continue the pilot program after the date described in subsection (c), a plan under which the pilot program could be continued. “(b) Deadline for Implementation.—Not later than 1 year after the date of enactment of this Act [Dec. 14, 2016], the Secretary of Homeland Security shall begin implementing the pilot program under this section. “(c) Sunset.—The authority to carry out the pilot program under this section shall expire on the date that is 5 years after the date of enactment of this Act [Dec. 14, 2016].”
 
 #### Stockpile Functions Transferred
-Pub. L. 108–276, § 3(c)(1),(2), July 21, 2004, 118 Stat. 853, provided that: “(1) In general.—Except as provided in paragraph (2), there shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, unexpended balances, and liabilities of the Strategic National Stockpile, including the functions of the Secretary of Homeland Security relating thereto. “(2) Exceptions.—“(A) Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functions as are explicitly assigned to the Secretary of Homeland Security by this Act [see Short Title of 2004 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] (including the amendments made by this Act). “(B) Assets and unexpended balances.—The transfer of assets and unexpended balances pursuant to paragraph (1) shall not include the funds appropriated under the heading ‘biodefense countermeasures’ in the Department of Homeland Security Appropriations Act, 2004 (Public Law 108–90 [117 Stat. 1148]).”
+Pub. L. 108–276, § 3(c)(1), (2), July 21, 2004, 118 Stat. 853, provided that: “(1) In general.—Except as provided in paragraph (2), there shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, unexpended balances, and liabilities of the Strategic National Stockpile, including the functions of the Secretary of Homeland Security relating thereto. “(2) Exceptions.—“(A) Functions.—The transfer of functions pursuant to paragraph (1) shall not include such functions as are explicitly assigned to the Secretary of Homeland Security by this Act [see Short Title of 2004 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] (including the amendments made by this Act). “(B) Assets and unexpended balances.—The transfer of assets and unexpended balances pursuant to paragraph (1) shall not include the funds appropriated under the heading ‘biodefense countermeasures’ in the Department of Homeland Security Appropriations Act, 2004 (Public Law 108–90 [117 Stat. 1148]).”
 
 #### Potassium Iodide
 Pub. L. 107–188, title I, § 127, June 12, 2002, 116 Stat. 615, provided that: “(a) In General.—Through the national stockpile under section 121 [now section 319F–2 of act July 1, 1944, [42 U.S.C. 247d–6b](./chapter-6a-public-health-service.md#section-247d-6b)], the President, subject to subsections (b) and (c), shall make available to State and local governments potassium iodide tablets for stockpiling and for distribution as appropriate to public facilities, such as schools and hospitals, in quantities sufficient to provide adequate protection for the population within 20 miles of a nuclear power plant. “(b) State and Local Plans.—“(1) In general.—Subsection (a) applies with respect to a State or local government, subject to paragraph (2), if the government involved meets the following conditions:“(A) Such government submits to the President a plan for the stockpiling of potassium iodide tablets, and for the distribution and utilization of potassium iodide tablets in the event of a nuclear incident. “(B) The plan is accompanied by certifications by such government that the government has not already received sufficient quantities of potassium iodide tablets from the Federal Government. “(2) Local governments.—Subsection (a) applies with respect to a local government only if, in addition to the conditions described in paragraph (1), the following conditions are met:“(A) The State in which the locality involved is located—“(i) does not have a plan described in paragraph (1)(A); or “(ii) has a plan described in such paragraph, but the plan does not address populations at a distance greater than 10 miles from the nuclear power plant involved. “(B) The local government has petitioned the State to modify the State plan to address such populations, not exceeding 20 miles from such plant, and 60 days have elapsed without the State modifying the State plan to address populations at the full distance sought by the local government through the petition. “(C) The local government has submitted its local plan under paragraph (1)(A) to the State, and the State has approved the plan and certified that the plan is not inconsistent with the State emergency plan. “(c) Guidelines.—Not later than one year after the date of the enactment of this Act [June 12, 2002], the President, in consultation with individuals representing appropriate Federal, State, and local agencies, shall establish guidelines for the stockpiling of potassium iodide tablets, and for the distribution and utilization of potassium iodide tablets in the event of a nuclear incident. Such tablets may not be made available under subsection (a) until such guidelines have been established. “(d) Information.—The President shall carry out activities to inform State and local governments of the program under this section. “(e) Reports.—“(1) President.—Not later than six months after the date on which the guidelines under subsection (c) are issued, the President shall submit to the Congress a report—“(A) on whether potassium iodide tablets have been made available under subsection (a) or other Federal, State, or local programs, and the extent to which State and local governments have established stockpiles of such tablets; and “(B) the measures taken by the President to implement this section. “(2) National academy of sciences.—“(A) In general.—The President shall request the National Academy of Sciences to enter into an agreement with the President under which the Academy conducts a study to determine what is the most effective and safe way to distribute and administer potassium iodide tablets on a mass scale. If the Academy declines to conduct the study, the President shall enter into an agreement with another appropriate public or nonprofit private entity to conduct the study. “(B) Report.—The President shall ensure that, not later than six months after the date of the enactment of this Act [June 12, 2002], the study required in subparagraph (A) is completed and a report describing the findings made in the study is submitted to the Congress. “(f) Applicability.—Subsections (a) and (d) cease to apply as requirements if the President determines that there is an alternative and more effective prophylaxis or preventive measures for adverse thyroid conditions that may result from the release of radionuclides from nuclear power plants.”
@@ -12728,7 +12834,7 @@ Section, Pub. L. 108–276, § 5, July 21, 2004, 118 Stat. 860, related to repor
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and (i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. Chapter V of the Act is classified generally to subchapter V (§ 351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b)(8)(B), (c)(5)(A), (B)(i), (ii)(I), (C)(i), and (i)(7)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. Chapter V of the Act is classified generally to subchapter V (§ 351 et seq.) of chapter 9 of Title 21. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (e)(6)(B), (9), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -13232,7 +13338,7 @@ Subsecs. (d) to (k). Pub. L. 109–417, § 303(b)(1), (4), (5), added subsecs. (
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii), (B)(i) and (c)(2)(C), (4)(B)(iii), (C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii), (B)(i) and (c)(2)(C), (4)(B)(iii), (C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -13651,7 +13757,7 @@ Subsec. (a)(5)(D). Pub. L. 113–5, § 404(2), added subpar. (D).
 ### Statutory Notes
 
 #### References in Text
-The Indian Health Care Improvement Act, referred to in subsec. (b), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (b), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
@@ -13950,6 +14056,8 @@ Section was formerly classified to [section 341h of title 5](https://uscode.hous
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
 
+Pub. L. 116–260, div. B, title II, Dec. 27, 2020, 134 Stat. 1252.
+
 Pub. L. 116–93, div. B, title II, Dec. 20, 2019, 133 Stat. 2402.
 
 Pub. L. 116–6, div. C, title II, Feb. 15, 2019, 133 Stat. 107.
@@ -14094,7 +14202,7 @@ July 7, 1955, ch. 279, title II, 69 Stat. 273.
 ### Statutory Notes
 
 #### References in Text
-The Longshore and Harbor Workers’ Compensation Act, as amended, referred to in subsec. (a)(4), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
+The Longshore and Harbor Workers’ Compensation Act, as amended, referred to in subsec. (a)(4), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (a), “subchapter I of chapter 81 of title 5” substituted for “United States Employees’ Compensation Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -14906,6 +15014,15 @@ Pub. L. 97–377, title I, § 101(e)(1) [title II, § 205], Dec. 21, 1982, 96 St
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)(6)(A)
+Pub. L. 117–204, § 2, Oct. 17, 2022, 136 Stat. 2231, provided that, effective on Jan. 1, 2024, subsection (e)(6)(A) of this section is amended by adding at the end the following:
+
+(v) Mobile units
+
+An existing health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit, regardless of whether the applicant additionally proposes to establish a permanent, full-time site. In the case of a health center that is not currently receiving funds under this section, such health center may be awarded funds under clause (i) to establish a new delivery site that is a mobile unit only if such health center uses a portion of such funds to also establish a permanent, full-time site.
+
+See 2022 Amendment note below.
+
 #### References in Text
 The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
@@ -14923,6 +15040,8 @@ Another prior section 254b, act July 1, 1944, ch. 373, title III, § 329, as add
 A prior section 330 of act July 1, 1944, was classified to [section 254c of this title](./chapter-6a-public-health-service.md#section-254c) prior to the general amendment of this subpart by Pub. L. 104–299.
 
 #### Amendments
+2022—Subsec. (e)(6)(A)(v). Pub. L. 117–204 added cl. (v).
+
 2020—Subsec. (d)(1)(H). Pub. L. 116–260 added subpar. (H).
 
 Subsec. (r)(6). Pub. L. 116–136 added par. (6).
@@ -15129,6 +15248,9 @@ Subsec. (s)(2)(A). Pub. L. 107–251, § 101(11)(B)(i), substituted “(l)(3)”
 
 Subsec. (s)(2)(B). Pub. L. 107–251, § 101(11)(B)(ii), added subpar. (B) and struck out heading and text of former subpar. (B) relating to distribution of grants for fiscal years 1997 through 1999.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–204, § 2(b), Oct. 17, 2022, 136 Stat. 2231, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on January 1, 2024.”
+
 #### Effective Date of 2008 Amendment
 Pub. L. 110–355, § 2(c)(2), Oct. 8, 2008, 122 Stat. 3992, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to grants made on or after January 1, 2009.”
 
@@ -15145,7 +15267,7 @@ Pub. L. 104–299, § 3(b), Oct. 11, 1996, 110 Stat. 3644, provided that: “The
 Pub. L. 111–148, title V, § 5602, Mar. 23, 2010, 124 Stat. 677, provided that: “(a) Establishment.—“(1) In general.—The Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall establish, through a negotiated rulemaking process under subchapter 3 [III] of chapter 5 of title 5, United States Code, a comprehensive methodology and criteria for designation of—“(A) medically underserved populations in accordance with section 330(b)(3) of the Public Health Service Act ([42 U.S.C. 254b(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254b/b/3&num=0&edition=prelim)); “(B) health professions shortage areas under section 332 of the Public Health Service Act ([42 U.S.C. 254e](./chapter-6a-public-health-service.md#section-254e)). “(2) Factors to consider.—In establishing the methodology and criteria under paragraph (1), the Secretary—“(A) shall consult with relevant stakeholders who will be significantly affected by a rule (such as national, State and regional organizations representing affected entities), State health offices, community organizations, health centers and other affected entities, and other interested parties; and “(B) shall take into account—“(i) the timely availability and appropriateness of data used to determine a designation to potential applicants for such designations; “(ii) the impact of the methodology and criteria on communities of various types and on health centers and other safety net providers; “(iii) the degree of ease or difficulty that will face potential applicants for such designations in securing the necessary data; and “(iv) the extent to which the methodology accurately measures various barriers that confront individuals and population groups in seeking health care services. “(b) Publication of Notice.—In carrying out the rulemaking process under this subsection, the Secretary shall publish the notice provided for under [section 564(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section564/a&num=0&edition=prelim), United States Code, by not later than 45 days after the date of the enactment of this Act [Mar. 23, 2010]. “(c) Target Date for Publication of Rule.—As part of the notice under subsection (b), and for purposes of this subsection, the ‘target date for publication’, as referred to in [section 564(a)(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section564/a/5&num=0&edition=prelim), United Sates [sic] Code, shall be July 1, 2010. “(d) Appointment of Negotiated Rulemaking Committee and Facilitator.—The Secretary shall provide for—“(1) the appointment of a negotiated rulemaking committee under [section 565(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section565/a&num=0&edition=prelim), United States Code, by not later than 30 days after the end of the comment period provided for under section 564(c) of such title; and “(2) the nomination of a facilitator under section 566(c) of such title 5 by not later than 10 days after the date of appointment of the committee. “(e) Preliminary Committee Report.—The negotiated rulemaking committee appointed under subsection (d) shall report to the Secretary, by not later than April 1, 2010, regarding the committee’s progress on achieving a consensus with regard to the rulemaking proceeding and whether such consensus is likely to occur before one month before the target date for publication of the rule. If the committee reports that the committee has failed to make significant progress toward such consensus or is unlikely to reach such consensus by the target date, the Secretary may terminate such process and provide for the publication of a rule under this section through such other methods as the Secretary may provide. “(f) Final Committee Report.—If the committee is not terminated under subsection (e), the rulemaking committee shall submit a report containing a proposed rule by not later than one month before the target publication date. “(g) Interim Final Effect.—The Secretary shall publish a rule under this section in the Federal Register by not later than the target publication date. Such rule shall be effective and final immediately on an interim basis, but is subject to change and revision after public notice and opportunity for a period (of not less than 90 days) for public comment. In connection with such rule, the Secretary shall specify the process for the timely review and approval of applications for such designations pursuant to such rules and consistent with this section. “(h) Publication of Rule After Public Comment.—The Secretary shall provide for consideration of such comments and republication of such rule by not later than 1 year after the target publication date.”
 
 #### Funding for Community Health Centers and Community Care
-Pub. L. 117–2, title II, § 2601, Mar. 11, 2021, 135 Stat. 43, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle G (§§ 2601–2605 of title II of Pub. L 117–2, see Tables for classification] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,600,000,000, to remain available until expended, for necessary expenses for awarding grants and cooperative agreements under section 330 of the Public Health Service Act ([42 U.S.C. 254b](./chapter-6a-public-health-service.md#section-254b)) to be awarded without regard to the time limitation in subsection (e)(3) and subsections (e)(6)(A)(iii), (e)(6)(B)(iii), and (r)(2)(B) of such section 330 , and for necessary expenses for awarding grants to Federally qualified health centers, as described in section 1861(aa)(4)(B) of the Social Security Act ([42 U.S.C. 1395x(aa)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/4/B&num=0&edition=prelim)), and for awarding grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act ([42 U.S.C. 11703](./chapter-122-native-hawaiian-health-care.md#section-11703), 11705). Of the total amount appropriated by the preceding sentence, not less than $20,000,000 shall be for grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act ([42 U.S.C. 11703](./chapter-122-native-hawaiian-health-care.md#section-11703), 11705). “(b) Use of Funds.—Amounts made available to an awardee pursuant to subsection (a) shall be used—“(1) to plan, prepare for, promote, distribute, administer, and track COVID–19 vaccines, and to carry out other vaccine-related activities; “(2) to detect, diagnose, trace, and monitor COVID–19 infections and related activities necessary to mitigate the spread of COVID–19, including activities related to, and equipment or supplies purchased for, testing, contact tracing, surveillance, mitigation, and treatment of COVID–19; “(3) to purchase equipment and supplies to conduct mobile testing or vaccinations for COVID–19, to purchase and maintain mobile vehicles and equipment to conduct such testing or vaccinations, and to hire and train laboratory personnel and other staff to conduct such mobile testing or vaccinations, particularly in medically underserved areas; “(4) to establish, expand, and sustain the health care workforce to prevent, prepare for, and respond to COVID–19, and to carry out other health workforce-related activities; “(5) to modify, enhance, and expand health care services and infrastructure; and “(6) to conduct community outreach and education activities related to COVID–19. “(c) Past Expenditures.—An awardee may use amounts awarded pursuant to subsection (a) to cover the costs of the awardee carrying out any of the activities described in subsection (b) during the period beginning on the date of the declaration of a public health emergency by the Secretary under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) on January 31, 2020, with respect to COVID–19 and ending on the date of such award.”
+Pub. L. 117–2, title II, § 2601, Mar. 11, 2021, 135 Stat. 43, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [subtitle G (§§ 2601–2605) of title II of Pub. L 117–2, see Tables for classification] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,600,000,000, to remain available until expended, for necessary expenses for awarding grants and cooperative agreements under section 330 of the Public Health Service Act ([42 U.S.C. 254b](./chapter-6a-public-health-service.md#section-254b)) to be awarded without regard to the time limitation in subsection (e)(3) and subsections (e)(6)(A)(iii), (e)(6)(B)(iii), and (r)(2)(B) of such section 330, and for necessary expenses for awarding grants to Federally qualified health centers, as described in section 1861(aa)(4)(B) of the Social Security Act ([42 U.S.C. 1395x(aa)(4)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa/4/B&num=0&edition=prelim)), and for awarding grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act ([42 U.S.C. 11703](./chapter-122-native-hawaiian-health-care.md#section-11703), 11705). Of the total amount appropriated by the preceding sentence, not less than $20,000,000 shall be for grants or contracts to Papa Ola Lokahi and to qualified entities under sections 4 and 6 of the Native Hawaiian Health Care Improvement Act ([42 U.S.C. 11703](./chapter-122-native-hawaiian-health-care.md#section-11703), 11705). “(b) Use of Funds.—Amounts made available to an awardee pursuant to subsection (a) shall be used—“(1) to plan, prepare for, promote, distribute, administer, and track COVID–19 vaccines, and to carry out other vaccine-related activities; “(2) to detect, diagnose, trace, and monitor COVID–19 infections and related activities necessary to mitigate the spread of COVID–19, including activities related to, and equipment or supplies purchased for, testing, contact tracing, surveillance, mitigation, and treatment of COVID–19; “(3) to purchase equipment and supplies to conduct mobile testing or vaccinations for COVID–19, to purchase and maintain mobile vehicles and equipment to conduct such testing or vaccinations, and to hire and train laboratory personnel and other staff to conduct such mobile testing or vaccinations, particularly in medically underserved areas; “(4) to establish, expand, and sustain the health care workforce to prevent, prepare for, and respond to COVID–19, and to carry out other health workforce-related activities; “(5) to modify, enhance, and expand health care services and infrastructure; and “(6) to conduct community outreach and education activities related to COVID–19. “(c) Past Expenditures.—An awardee may use amounts awarded pursuant to subsection (a) to cover the costs of the awardee carrying out any of the activities described in subsection (b) during the period beginning on the date of the declaration of a public health emergency by the Secretary under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) on January 31, 2020, with respect to COVID–19 and ending on the date of such award.”
 
 #### Studies Relating to Community Health Centers
 Pub. L. 110–355, § 2(b)(1)–(3), Oct. 8, 2008, 122 Stat. 3988, 3989, provided that: “(1) Definitions.—For purposes of this subsection—“(A) the term ‘community health center’ means a health center receiving assistance under section 330 of the Public Health Service Act ([42 U.S.C. 254b](./chapter-6a-public-health-service.md#section-254b)); and “(B) the term ‘medically underserved population’ has the meaning given that term in such section 330. “(2) School-based health center study.—“(A) In general.—Not later than 2 years after the date of enactment of this Act [Oct. 8, 2008], the Comptroller General of the United States shall issue a study of the economic costs and benefits of school-based health centers and the impact on the health of students of these centers. “(B) Content.—In conducting the study under subparagraph (A), the Comptroller General of the United States shall analyze—“(i) the impact that Federal funding could have on the operation of school-based health centers; “(ii) any cost savings to other Federal programs derived from providing health services in school-based health centers; “(iii) the effect on the Federal Budget and the health of students of providing Federal funds to school-based health centers and clinics, including the result of providing disease prevention and nutrition information; “(iv) the impact of access to health care from school-based health centers in rural or underserved areas; and “(v) other sources of Federal funding for school-based health centers. “(3) Health care quality study.—“(A) In general.—Not later than 1 year after the date of enactment of this Act [Oct. 8, 2008], the Secretary of Health and Human Services (referred to in this Act [see Short Title of 2008 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] as the ‘Secretary’), acting through the Administrator of the Health Resources and Services Administration, and in collaboration with the Agency for Healthcare Research and Quality, shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that describes agency efforts to expand and accelerate quality improvement activities in community health centers. “(B) Content.—The report under subparagraph (A) shall focus on—“(i) Federal efforts, as of the date of enactment of this Act, regarding health care quality in community health centers, including quality data collection, analysis, and reporting requirements; “(ii) identification of effective models for quality improvement in community health centers, which may include models that—“(I) incorporate care coordination, disease management, and other services demonstrated to improve care; “(II) are designed to address multiple, co-occurring diseases and conditions; “(III) improve access to providers through non-traditional means, such as the use of remote monitoring equipment; “(IV) target various medically underserved populations, including uninsured patient populations; “(V) increase access to specialty care, including referrals and diagnostic testing; and “(VI) enhance the use of electronic health records to improve quality; “(iii) efforts to determine how effective quality improvement models may be adapted for implementation by community health centers that vary by size, budget, staffing, services offered, populations served, and other characteristics determined appropriate by the Secretary; “(iv) types of technical assistance and resources provided to community health centers that may facilitate the implementation of quality improvement interventions; “(v) proposed or adopted methodologies for community health center evaluations of quality improvement interventions, including any development of new measures that are tailored to safety-net, community-based providers; “(vi) successful strategies for sustaining quality improvement interventions in the long-term; and “(vii) partnerships with other Federal agencies and private organizations or networks as appropriate, to enhance health care quality in community health centers. “(C) Dissemination.—The Administrator of the Health Resources and Services Administration shall establish a formal mechanism or mechanisms for the ongoing dissemination of agency initiatives, best practices, and other information that may assist health care quality improvement efforts in community health centers.”
@@ -15809,6 +15931,8 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
   (L) Entities operating dental clinics.
 
+  (M) Providers of prenatal, labor care, birthing, and postpartum care services, including hospitals that operate obstetric care units.
+
 **(g) Applications** To be eligible to receive a grant under subsection (d), an eligible entity, in consultation with the appropriate State office of rural health or another appropriate State entity, shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
 (1) a description of the project that the eligible entity will carry out using the funds provided under the grant;
@@ -15833,7 +15957,7 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 
   (A) *Organization* — The eligible entity is a rural community-based organization or another community-based organization.
 
-  (B) *Services* — The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health care, public health services, long-term care, home care, preventive care, case management services, or prenatal care for high-risk pregnancies.
+  (B) *Services* — The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health care, public health services, long-term care, home care, preventive care, case management services, prenatal care, labor care, birthing care, or postpartum care.
 
   (C) *Coordination* — The eligible entity demonstrates how the project to be carried out under the grant will be coordinated with other relevant federally funded projects in the areas, communities, and populations to be served through the grant.
 
@@ -15956,6 +16080,10 @@ Section was enacted as part of the Lupus Research and Care Amendments of 2000, a
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (f)(3)(M). Pub. L. 117–103, § 143(1), added subpar. (M).
+
+Subsec. (h)(1)(B). Pub. L. 117–103, § 143(2), substituted “prenatal care, labor care, birthing care, or postpartum care” for “or prenatal care for high-risk pregnancies”.
+
 2020—Subsec. (d)(1). Pub. L. 116–136, § 3212(1)(A)(i), substituted “evidence-based projects that utilize telehealth technologies through telehealth networks” for “projects to demonstrate how telehealth technologies can be used through telehealth networks” in introductory provisions.
 
 Subsec. (d)(1)(A). Pub. L. 116–136, § 3212(1)(A)(ii), substituted “access to, and the quality of,” for “the quality of” and inserted “and” after semicolon.
@@ -16161,7 +16289,7 @@ Subsec. (g)(1). Pub. L. 115–334, § 12608(3), substituted “2019 through 2023
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
 2003—Subsec. (b)(2). Pub. L. 108–163, § 2(d)(1), substituted “subsection (a)(3)” for “subsection (a)(4)”.
@@ -16199,7 +16327,7 @@ Section deemed to have taken effect immediately after the enactment of Pub. L. 1
 
 <a id="section-254c-19"></a>
 ## § 254c–19. Pediatric mental health care access grants
-**(a) In general** The Secretary, acting through the Administrator of the Health Resources and Services Administration and in coordination with other relevant Federal agencies, shall award grants to States, political subdivisions of States, and Indian tribes and tribal organizations (for purposes of this section, as such terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) to promote behavioral health integration in pediatric primary care by—
+**(a) In general** The Secretary, acting through the Administrator of the Health Resources and Services Administration and in coordination with other relevant Federal agencies, shall award grants or cooperative agreements to States, political subdivisions of States, and Indian Tribes and Tribal organizations (for purposes of this section, as such terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) to promote behavioral health integration in pediatric primary care by—
 
 (1) supporting the development of statewide or regional pediatric mental health care telehealth access programs; and
 
@@ -16207,7 +16335,7 @@ Section deemed to have taken effect immediately after the enactment of Pub. L. 1
 
 **(b) Program requirements**
 
-(1) **In general** — A pediatric mental health care telehealth access program referred to in subsection (a), with respect to which a grant under such subsection may be used, shall—
+(1) **In general** — A pediatric mental health care telehealth access program referred to in subsection (a), with respect to which an award under such subsection may be used, shall—
 
   (A) be a statewide or regional network of pediatric mental health teams that provide support to pediatric primary care sites as an integrated team;
 
@@ -16221,23 +16349,71 @@ Section deemed to have taken effect immediately after the enactment of Pub. L. 1
 
   (F) conduct training and provide technical assistance to pediatric primary care providers to support the early identification, diagnosis, treatment, and referral of children with behavioral health conditions;
 
-  (G) provide information to pediatric providers about, and assist pediatric providers in accessing, pediatric mental health care providers, including child and adolescent psychiatrists, and licensed mental health professionals, such as psychologists, social workers, or mental health counselors and in scheduling and conducting technical assistance;
+  (G) provide information to pediatric providers about, and assist pediatric providers in accessing, pediatric mental health care providers, including child and adolescent psychiatrists, developmental-behavioral pediatricians, and licensed mental health professionals, such as psychologists, social workers, or mental health counselors and in scheduling and conducting technical assistance;
 
-  (H) assist with referrals to specialty care and community or behavioral health resources; and
+  (H) provide information to pediatric health care providers about available mental health services for children in the community and assist with referrals to specialty care and community or behavioral health resources; and
 
-  (I) establish mechanisms for measuring and monitoring increased access to pediatric mental health care services by pediatric primary care providers and expanded capacity of pediatric primary care providers to identify, treat, and refer children with mental health problems.
+  (I) establish mechanisms for measuring and monitoring increased access to pediatric mental health care services by pediatric primary care providers and expanded capacity of pediatric primary care providers to identify, treat, and refer children with mental health conditions.
 
-(2) **Pediatric mental health teams** — In this subsection, the term “pediatric mental health team” means a team consisting of at least one case coordinator, at least one child and adolescent psychiatrist, and at least one licensed clinical mental health professional, such as a psychologist, social worker, or mental health counselor. Such a team may be regionally based.
+(2) **Support to schools and emergency departments**
 
-**(c) Application** A State, political subdivision of a State, Indian tribe, or tribal organization seeking a grant under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the comprehensive evaluation of activities that are carried out with funds received under such grant.
+  (A) *In general* — In addition to the activities required under paragraph (1), a pediatric mental health care access program referred to in subsection (a), with respect to which an award under such subsection may be used, may provide information, consultative support, training, and technical assistance to—
 
-**(d) Evaluation** A State, political subdivision of a State, Indian tribe, or tribal organization that receives a grant under this section shall prepare and submit an evaluation of activities that are carried out with funds received under such grant to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including a process and outcome evaluation.
+    (i) emergency departments; and
 
-**(e) Access to broadband** In administering grants under this section, the Secretary may coordinate with other agencies to ensure that funding opportunities are available to support access to reliable, high-speed Internet for providers.
+    (ii) State educational agencies, local educational agencies, Tribal educational agencies, and elementary and secondary schools.
 
-**(f) Matching requirement** The Secretary may not award a grant under this section unless the State, political subdivision of a State, Indian tribe, or tribal organization involved agrees, with respect to the costs to be incurred by the State, political subdivision of a State, Indian tribe, or tribal organization in carrying out the purpose described in this section, to make available non-Federal contributions (in cash or in kind) toward such costs in an amount that is not less than 20 percent of Federal funds provided in the grant.
+  (B) *Requirements for certain recipients* — An entity receiving information, consultative support, training, and technical assistance under subparagraph (A)(ii) shall operate in a manner consistent with, and shall ensure consistency with, the requirements of subsections (a) and (c) of [section 7101 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim) 11 See References in Text note below. with respect to such information, consultative support, training, and technical assistance.
 
-**(g) Authorization of appropriations** To carry out this section, there are authorized to be appropriated, $9,000,000 for the period of fiscal years 2018 through 2022.
+(3) **Pediatric mental health teams** — In this subsection, the term “pediatric mental health team” means a team consisting of at least one case coordinator, at least one child and adolescent psychiatrist, and at least one licensed clinical mental health professional, such as a psychologist, social worker, or mental health counselor, and which may include a developmental-behavioral pediatrician. Such a team may be regionally based.
+
+**(c) Application** A State, political subdivision of a State, Indian Tribe, or Tribal organization seeking an award under this section shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including a plan for the comprehensive evaluation of activities that are carried out with funds received under such award.
+
+**(d) Evaluation** A State, political subdivision of a State, Indian Tribe, or Tribal organization that receives an award under this section shall prepare and submit an evaluation of activities that are carried out with funds received under such award to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require, including a process and outcome evaluation.
+
+**(e) Access to broadband** In administering awards under this section, the Secretary may coordinate with other agencies to ensure that funding opportunities are available to support access to reliable, high-speed Internet for providers.
+
+**(f) Matching requirement** The Secretary may not make an award under this section unless the State, political subdivision of a State, Indian Tribe, or Tribal organization involved agrees, with respect to the costs to be incurred by the State, political subdivision of a State, Indian Tribe, or Tribal organization in carrying out the purpose described in this section, to make available non-Federal contributions (in cash or in kind) toward such costs in an amount that is not less than 20 percent of Federal funds provided in the award.
+
+**(g) Technical assistance** The Secretary may—
+
+(1) provide, or continue to provide, technical assistance to recipients of awards under subsection (a); and
+
+(2) award a grant or contract to an eligible public or nonprofit private entity (as determined by the Secretary) for the purpose of providing such technical assistance pursuant to this subsection.
+
+**(h) Authorization of appropriations** To carry out this section, there are authorized to be appropriated, $31,000,000 for each of fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### References in Text
+[Section 7101 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim), referred to in subsec. (b)(2), was in the original “section 4001 of the Elementary and Secondary Education Act” and was translated as if it had read “section 4001 of the Elementary and Secondary Education Act of 1965” to reflect the probable intent of Congress.
+
+#### Amendments
+2022—Pub. L. 117–159, § 11005(1), made technical amendment to section designation in original Act as added by Pub. L. 114–255, § 10002, resulting in no change in text.
+
+Subsec. (a). Pub. L. 117–159, § 11005(2), inserted “or cooperative agreements” after “award grants” and substituted “Indian Tribes and Tribal organizations” for “Indian tribes and tribal organizations” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 117–159, § 11005(3)(A)(i), substituted “an award” for “a grant” in introductory provisions.
+
+Subsec. (b)(1)(G). Pub. L. 117–159, § 11005(3)(A)(ii), inserted “developmental-behavioral pediatricians,” after “psychiatrists,”.
+
+Subsec. (b)(1)(H). Pub. L. 117–159, § 11005(3)(A)(iii), inserted “provide information to pediatric health care providers about available mental health services for children in the community and” before “assist”.
+
+Subsec. (b)(1)(I). Pub. L. 117–159, § 11005(3)(A)(iv), substituted “conditions” for “problems”.
+
+Subsec. (b)(2). Pub. L. 117–159, § 11005(3)(C), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (b)(3). Pub. L. 117–159, § 11005(3)(B), (D), redesignated par. (2) as (3) and inserted “, and which may include a developmental-behavioral pediatrician” after “or mental health counselor”.
+
+Subsecs. (c), (d). Pub. L. 117–159, § 11005(4), (5), substituted “Indian Tribe, or Tribal organization” for “Indian tribe, or tribal organization”, “an award” for “a grant”, and “such award” for “such grant”.
+
+Subsec. (e). Pub. L. 117–159, § 11005(6), substituted “awards” for “grants”.
+
+Subsec. (f). Pub. L. 117–159, § 11005(4), (7), substituted “make an award” for “award a grant”, “Indian Tribe, or Tribal organization” for “Indian tribe, or tribal organization” in two places, and “the award” for “the grant”.
+
+Subsec. (g). Pub. L. 117–159, § 11005(9), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 117–159, § 11005(8), (10), redesignated subsec. (g) as (h) and substituted “$31,000,000 for each of fiscal years 2023 through 2027” for “$9,000,000 for the period of fiscal years 2018 through 2022”.
 
 
 <a id="section-254c-1a"></a>
@@ -16274,6 +16450,43 @@ Section deemed to have taken effect immediately after the enactment of Pub. L. 1
 
 #### Purpose
 Pub. L. 111–148, title V, § 5208(a), Mar. 23, 2010, 124 Stat. 612, provided that: “The purpose of this section [enacting this section] is to fund the development and operation of nurse-managed health clinics.”
+
+
+<a id="section-254c-1b"></a>
+## § 254c–1b. Rural obstetric network grants
+**(a) Program established** The Secretary shall award grants or cooperative agreements to eligible entities to establish collaborative improvement and innovation networks (referred to in this section as “rural obstetric networks”) to improve maternal and infant health outcomes and reduce preventable maternal mortality and severe maternal morbidity by improving maternity care and access to care in rural areas, frontier areas, maternity care health professional target areas, or jurisdictions of Indian Tribes and Tribal organizations.
+
+**(b) Use of funds** Grants or cooperative agreements awarded pursuant to this section shall be used for the establishment or continuation of collaborative improvement and innovation networks to improve maternal and infant health outcomes and reduce preventable maternal mortality and severe maternal morbidity by improving prenatal care, labor care, birthing, and postpartum care services in rural areas. Rural obstetric networks established in accordance with this section may—
+
+(1) develop a network to improve coordination and increase access to maternal health care and assist pregnant women in the areas described in subsection (a) with accessing and utilizing prenatal care, labor care, birthing, and postpartum care services to improve outcomes in birth and maternal mortality and morbidity;
+
+(2) identify and implement evidence-based and sustainable delivery models for providing prenatal care, labor care, birthing, and postpartum care services, including home visiting programs and culturally appropriate care models that reduce health disparities;
+
+(3) develop a model for maternal health care collaboration between health care settings to improve access to care in areas described in subsection (a), which may include the use of telehealth;
+
+(4) provide training for professionals in health care settings that do not have specialty maternity care;
+
+(5) collaborate with academic institutions that can provide regional expertise and help identify barriers to providing maternal health care, including strategies for addressing such barriers; and
+
+(6) assess and address disparities in infant and maternal health outcomes, including among racial and ethnic minority populations and underserved populations in such areas described in subsection (a).
+
+**(c) Definitions** In this section:
+
+(1) **Eligible entities** — The term “eligible entities” means entities providing prenatal care, labor care, birthing, and postpartum care services in rural areas, frontier areas, or medically underserved areas, or to medically underserved populations or Indian Tribes or Tribal organizations.
+
+(2) **Frontier area** — The term “frontier area” means a frontier county, as defined in [section 1395ww(d)(3)(E)(iii)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ww/d/3/E/iii/III&num=0&edition=prelim).
+
+(3) **Indian Tribes; Tribal organization** — The terms “Indian Tribe” and “Tribal organization” have the meanings given the terms “Indian tribe” and “tribal organization” in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(4) **Maternity care health professional target area** — The term “maternity care health professional target area” has the meaning described in [section 254e(k)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e/k/2&num=0&edition=prelim).
+
+**(d) Report to Congress** Not later than September 30, 2026, the Secretary shall submit to Congress a report on activities supported by grants awarded under this section, including—
+
+(1) a description of activities conducted pursuant to paragraphs (1) through (6) of subsection (b); and
+
+(2) an analysis of the effects of rural obstetric networks on improving maternal and infant health outcomes.
+
+**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2023 through 2027.
 
 
 <a id="section-254c-2"></a>
@@ -16411,6 +16624,69 @@ Pub. L. 105–33, title IV, § 4923, Aug. 5, 1997, 111 Stat. 574, as amended by 
 **(k) Authorization of appropriations** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2022 through 2026.
 
 
+<a id="section-254c-21"></a>
+## § 254c–21. Innovation for maternal health
+**(a) In general** The Secretary, in consultation with experts representing a variety of clinical specialties, State, Tribal, or local public health officials, researchers, epidemiologists, statisticians, and community organizations, shall establish or continue a program to award competitive grants to eligible entities for the purpose of—
+
+(1) identifying, developing, or disseminating best practices to improve maternal health care quality and outcomes, improve maternal and infant health, and eliminate preventable maternal mortality and severe maternal morbidity, which may include—
+
+  (A) information on evidence-based practices to improve the quality and safety of maternal health care in hospitals and other health care settings of a State or health care system by addressing topics commonly associated with health complications or risks related to prenatal care, labor care, birthing, and postpartum care;
+
+  (B) best practices for improving maternal health care based on data findings and reviews conducted by a State maternal mortality review committee that address topics of relevance to common complications or health risks related to prenatal care, labor care, birthing, and postpartum care; and
+
+  (C) information on addressing determinants of health that impact maternal health outcomes for women before, during, and after pregnancy;
+
+(2) collaborating with State maternal mortality review committees to identify issues for the development and implementation of evidence-based practices to improve maternal health outcomes and reduce preventable maternal mortality and severe maternal morbidity, consistent with [section 247b–12 of this title](./chapter-6a-public-health-service.md#section-247b-12);
+
+(3) providing technical assistance and supporting the implementation of best practices identified in paragraph (1) to entities providing health care services to pregnant and postpartum women; and
+
+(4) identifying, developing, and evaluating new models of care that improve maternal and infant health outcomes, which may include the integration of community-based services and clinical care.
+
+**(b) Eligible entities** To be eligible for a grant under subsection (a), an entity shall—
+
+(1) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require; and
+
+(2) demonstrate in such application that the entity is capable of carrying out data-driven maternal safety and quality improvement initiatives in the areas of obstetrics and gynecology or maternal health.
+
+**(c) Report** Not later than September 30, 2025, and every 2 years thereafter, the Secretary shall submit a report to Congress on the practices described in paragraphs (1) and (2) of subsection (a). Such report shall include a description of the extent to which such practices reduced preventable maternal mortality and severe maternal morbidity, and whether such practices improved maternal and infant health. The Secretary shall disseminate information on such practices, as appropriate.
+
+**(d) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $9,000,000 for each of fiscal years 2023 through 2027.
+
+
+<a id="section-254c-22"></a>
+## § 254c–22. Integrated services for pregnant and postpartum women
+**(a) In general** The Secretary may award grants for the purpose of establishing or operating evidence-based or innovative, evidence-informed programs to deliver integrated health care services to pregnant and postpartum women to optimize the health of women and their infants, including to reduce adverse maternal health outcomes, pregnancy-related deaths, and related health disparities (including such disparities associated with racial and ethnic minority populations), and, as appropriate, by addressing issues researched under subsection (b)(2) of [section 247b–12 of this title](./chapter-6a-public-health-service.md#section-247b-12).
+
+**(b) Integrated services for pregnant and postpartum women**
+
+(1) **Eligibility** — To be eligible to receive a grant under subsection (a), a State, Indian Tribe, or Tribal organization (as such terms are defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)) shall work with relevant stakeholders that coordinate care to develop and carry out the program, including—
+
+  (A) State, Tribal, and local agencies responsible for Medicaid, public health, social services, mental health, and substance use disorder treatment and services;
+
+  (B) health care providers who serve pregnant and postpartum women; and
+
+  (C) community-based health organizations and health workers, including providers of home visiting services and individuals representing communities with disproportionately high rates of maternal mortality and severe maternal morbidity, and including those representing racial and ethnic minority populations.
+
+(2) **Terms**
+
+  (A) *Period* — A grant awarded under subsection (a) shall be made for a period of 5 years. Any supplemental award made to a grantee under subsection (a) may be made for a period of less than 5 years.
+
+  (B) *Priorities* — In awarding grants under subsection (a), the Secretary shall—
+
+    (i) give priority to States, Indian Tribes, and Tribal organizations that have the highest rates of maternal mortality and severe maternal morbidity relative to other such States, Indian Tribes, or Tribal organizations, respectively; and
+
+    (ii) shall consider health disparities related to maternal mortality and severe maternal morbidity, including such disparities associated with racial and ethnic minority populations.
+
+  (C) *Evaluation* — The Secretary shall require grantees to evaluate the outcomes of the programs supported under the grant.
+
+**(c) Authorization of appropriations** There are authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### Dissemination of Best Practices
+Pub. L. 117–103, div. P, title I, § 134(b)(2), Mar. 15, 2022, 136 Stat. 797, provided that: “Not later than August 1, 2027, the Secretary of Health and Human Services shall disseminate information on best practices and models of care used by recipients of grants under the amendments made by this section [enacting this section] (including best practices and models of care relating to the reduction of health disparities, including such disparities associated with racial and ethnic minority populations, in rates of maternal mortality and severe maternal morbidity) to relevant stakeholders, which may include health providers, medical schools, nursing schools, relevant State, Tribal, and local agencies, and the general public.”
+
+
 <a id="section-254c-3"></a>
 ## § 254c–3. Special diabetes programs for Indians
 **(a) In general** The Secretary shall make grants for providing services for the prevention and treatment of diabetes in accordance with subsection (b).
@@ -16442,7 +16718,7 @@ Pub. L. 105–33, title IV, § 4923, Aug. 5, 1997, 111 Stat. 574, as amended by 
 #### References in Text
 The Indian Self-Determination Act, referred to in subsec. (b)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (b)(3), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (c)(2)(D). Pub. L. 116–260 substituted “2023” for “2020, and $32,465,753 for the period beginning on October 1, 2020, and ending on December 18, 2020”.
@@ -17108,7 +17384,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### References in Text
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(B), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 332 of act July 1, 1944, was renumbered section 340, and was classified to [section 256 of this title](./chapter-6a-public-health-service.md#section-256) prior to repeal by Pub. L. 95–626.
@@ -17542,7 +17818,7 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(2) and (b)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (a)(2) and (b)(2)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 254g, act July 1, 1944, ch. 373, title III, § 334, as added Pub. L. 94–484, title IV, § 407(b)(3), Oct. 12, 1976, 90 Stat. 2274; amended Pub. L. 97–35, title XXVII, § 2704, Aug. 13, 1981, 95 Stat. 906; Pub. L. 98–194, § 3, Dec. 1, 1983, 97 Stat. 1345; Pub. L. 100–177, title II, § 202(c), Dec. 1, 1987, 101 Stat. 996; Pub. L. 101–597, title I, § 105, title IV, § 401(b)[(a)], Nov. 16, 1990, 104 Stat. 3018, 3035, related to shared responsibility for costs of Corps personnel providing health services in or to a health professional shortage area during the assignment period, prior to repeal by Pub. L. 107–251, title III, § 305, Oct. 26, 2002, 116 Stat. 1647.
@@ -17904,7 +18180,7 @@ The General Schedule, referred to in subsec. (g)(3), is set out under [section 5
 #### Codification
 In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes ([31 U.S.C. 529](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-Section was formerly classified to [section 294t of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294t&num=0&edition=prelim) prior to its renumbering by Pub. L. 97–35.
+Section was formerly classified to [section 294t of this title](./chapter-6a-public-health-service.md#section-294t) prior to its renumbering by Pub. L. 97–35.
 
 #### Amendments
 2003—Subsec. (d)(1)(B). Pub. L. 108–163 realigned margin.
@@ -18492,7 +18768,7 @@ See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254l 
 
   (A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) or [section 254p(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254p/d&num=0&edition=prelim)) to begin such individual’s service obligation under section 254l of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254l(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
   t−s
-  A=3ϕ A——B
+  A= 3ϕ A——B
   t
   in which “A” is the amount the United States is entitled to recover, “ϕ” is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans bearing interest at the maximum legal prevailing rate, as determined by the Treasurer of the United States; “t” is the total number of months in the individual’s period of obligated service; and “s” is the number of months of such period served by him in accordance with [section 254m of this title](./chapter-6a-public-health-service.md#section-254m) or a written agreement under [section 254n of this title](./chapter-6a-public-health-service.md#section-254n).
 
@@ -19844,7 +20120,7 @@ Subpart II of part C of subchapter XXIV, referred to in subsec. (a)(4)(D), was r
 
 The Native Hawaiian Health Care Act of 1988, referred to in subsec. (a)(4)(H), was Pub. L. 100–579, Oct. 31, 1988, 102 Stat. 2916, and subtitle D of title II of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4222, which were classified generally to chapter 122 (§ 11701 et seq.) of this title prior to being amended generally and renamed the Native Hawaiian Health Care Improvement Act by Pub. L. 102–396. For complete classification of this Act to the Code, see Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (a)(4)(I), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (a)(4)(I), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§ 1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
 [Section 247b(j)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247b/j/2&num=0&edition=prelim), referred to in subsec. (a)(4)(K), was repealed and section 247b(j)(1)(B) was redesignated section 247b(j)(2) by Pub. L. 103–183, title III, § 301(b)(1)(A), (C), Dec. 14, 1993, 107 Stat. 2235.
 
@@ -19946,6 +20222,9 @@ Pub. L. 111–309, title II, § 204(a)(2), Dec. 15, 2010, 124 Stat. 3289, provid
 Pub. L. 111–148, title II, § 2501(f)(2), Mar. 23, 2010, 124 Stat. 310, provided that: “The amendments made by this subsection [amending this section] take effect on January 1, 2010.”
 
 Pub. L. 111–148, title VII, § 7101(e), Mar. 23, 2010, 124 Stat. 823, provided that: “(1) In general.—The amendments made by this section [amending this section] and section 7102 [amending this section] shall take effect on January 1, 2010, and shall apply to drugs purchased on or after January 1, 2010. “(2) Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act ([42 U.S.C. 256b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a&num=0&edition=prelim)), notwithstanding any other provision of law.”
+
+#### Eligibility Exception for the Drug Discount Program Due to the Covid–19 Public Health Emergency
+Pub. L. 117–103, div. P, title I, § 121, Mar. 15, 2022, 136 Stat. 792, provided that: “(a) In General.—Notwithstanding any other provision of law, in the case of a hospital described in subsection (b) that, with respect to cost reporting periods that begin during fiscal year 2020 or a subsequent fiscal year, but do not end after December 31, 2022, does not meet the applicable requirement for the disproportionate share adjustment percentage described in subsection (c) by reason of the COVID–19 public health emergency, but otherwise meets the requirements for being a covered entity under subparagraph (L), (M), or (O) of subsection (a)(4) of section 340B of the Public Health Service Act ([42 U.S.C. 256b](./chapter-6a-public-health-service.md#section-256b)) and is in compliance with all other requirements of the program under such section, shall be deemed a covered entity for purposes of such section for the period—“(1) beginning on the date of the enactment of this Act [Mar. 15, 2022] (or, if later, with the first of such cost reporting periods for which the hospital does not so meet such applicable requirement for the disproportionate share adjustment percentage, but otherwise meets all other such requirements for being such a covered entity and of such program); and “(2) ending with the last of such cost reporting periods (ending not later than December 31, 2022) for which the hospital does not so meet such applicable requirement for the disproportionate share adjustment percentage, but otherwise meets all other such requirements for being such a covered entity and of such program. “(b) Hospitals.—A hospital described in this subsection is an entity that, on the day before the first day of the COVID–19 public health emergency, was a covered entity described in subparagraph (L), (M), or (O) of subsection (a)(4) of section 340B of the Public Health Service Act participating in the drug discount program under such section. “(c) Applicable Requirement for Disproportionate Share Adjustment Percentage.—The applicable requirement for the disproportionate share adjustment percentage described in this subsection is—“(1) in the case of a hospital described in subsection (a) that otherwise meets the requirements under subparagraph (L) or (M) of section 340B(a)(4) of the Public Health Service Act, the requirement under subparagraph (L)(ii) of such section; and “(2) in the case of a hospital described in subsection (a) that otherwise meets the requirements under subparagraph (O) of such section 340B(a)(4), the requirement with respect to the disproportionate share adjustment percentage described in such subparagraph (O). “(d) Self-attestation.—“(1) In general.—A hospital described in subsection (a) that fails to meet the applicable requirement for the disproportionate share adjustment percentage described in subsection (c) shall, within 30 days of such failure, or in the case of a hospital where such failure occurred prior to the date of enactment of this Act but after the start of the COVID-19 public health emergency, within 30 days of the date of enactment, provide to the Secretary of Health and Human Services an attestation that contains information on any actions taken by or other impact on such hospital in response to or as a result of the COVID-19 public health emergency that may have impacted the ability to meet the applicable requirement for the disproportionate share adjustment percentage described in subsection (c). “(2) Paperwork reduction act.—Chapter 35 of title 44, United States Code, shall not apply to the collection of information provided pursuant to this subsection. “(e) Definitions.—In this section:“(1) Covered entity.—The term ‘covered entity’ has the meaning given such term in section 340B(a)(4) of the Public Health Service Act ([42 U.S.C. 256b(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256b/a/4&num=0&edition=prelim)). “(2) Covid–19 public health emergency.—The term ‘COVID–19 public health emergency’ means the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) on January 31, 2020, with respect to COVID–19 (or any renewal of such declaration).”
 
 #### Pricing of Diagnostic Testing
 Pub. L. 116–136, div. A, title III, § 3202, Mar. 27, 2020, 134 Stat. 367, provided that: “(a) Reimbursement Rates.—A group health plan or a health insurance issuer providing coverage of items and services described in section 6001(a) of division F of the Families First Coronavirus Response Act (Public Law 116–127) [[42 U.S.C. 1320b–5](./chapter-007-social-security.md#section-1320b-5) note] with respect to an enrollee shall reimburse the provider of the diagnostic testing as follows:“(1) If the health plan or issuer has a negotiated rate with such provider in effect before the public health emergency declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)), such negotiated rate shall apply throughout the period of such declaration. “(2) If the health plan or issuer does not have a negotiated rate with such provider, such plan or issuer shall reimburse the provider in an amount that equals the cash price for such service as listed by the provider on a public internet website, or such plan or issuer may negotiate a rate with such provider for less than such cash price. “(b) Requirement to Publicize Cash Price for Diagnostic Testing for COVID–19.—“(1) In general.—During the emergency period declared under section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)), each provider of a diagnostic test for COVID–19 shall make public the cash price for such test on a public internet website of such provider. “(2) Civil monetary penalties.—The Secretary of Health and Human Services may impose a civil monetary penalty on any provider of a diagnostic test for COVID–19 that is not in compliance with paragraph (1) and has not completed a corrective action plan to comply with the requirements of such paragraph, in an amount not to exceed $300 per day that the violation is ongoing.”
@@ -20358,7 +20637,7 @@ In this subpart, the term “designated dental health professional shortage area
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
 2018—Subsec. (b)(5)(D), (E). Pub. L. 115–302, § 3(1), added subpars. (D) and (E).
@@ -20605,7 +20884,7 @@ Pub. L. 115–63 substituted “2015, $60,000,000” for “2015 and $60,000,000
 2015—Subsec. (g). Pub. L. 114–10 inserted “and $60,000,000 for each of fiscal years 2016 and 2017” before period at end.
 
 #### Funding for Teaching Health Centers That Operate Graduate Medical Education
-Pub. L. 117–2, title II, § 2604, Mar. 11, 2021, 135 Stat. 44, provided that: “(a) In General.—In addition to amounts otherwise available, and notwithstanding the capped amount referenced in sections 340H(b)(2) and 340H(d)(2) of the Public Health Service Act ([42 U.S.C. 256h(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/b/2&num=0&edition=prelim) and (d)(2)), there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $330,000,000, to remain available until September 30, 2023, for the program of payments to teaching health centers that operate graduate medical education under section 340H of the Public Health Service Act ([42 U.S.C. 256h](./chapter-6a-public-health-service.md#section-256h)) and for teaching health center development grants authorized under section 749A of the Public Health Service Act ([42 U.S.C. 293l–1](./chapter-6a-public-health-service.md#section-293l-1)). “(b) Use of Funds.—Amounts made available pursuant to subsection (a) shall be used for the following activities:“(1) For making payments to establish new approved graduate medical residency training programs pursuant to section 340H(a)(1)(C) of the Public Health Service Act ([42 U.S.C. 256h(a)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/1/C&num=0&edition=prelim)). “(2) To provide an increase to the per resident amount described in section 340H(a)(2) of the Public Health Service Act ([42 U.S.C. 256h(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/2&num=0&edition=prelim)) of $10,000. “(3) For making payments under section 340H(a)(1)(A) of the Public Health Service Act ([42 U.S.C. 256h(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/1/A&num=0&edition=prelim))) to qualified teaching health centers for maintenance of filled positions at existing approved graduate medical residency training programs. “(4) For making payments under section 340H(a)(1)(B) of the Public Health Service Act ([42 U.S.C. 256h(a)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/1/B&num=0&edition=prelim)) for the expansion of existing approved graduate medical residency training programs. “(5) For making awards under section 749A of the Public Health Service Act ([42 U.S.C. 293l–1](./chapter-6a-public-health-service.md#section-293l-1)) to teaching health centers for the purpose of establishing new accredited or expanded primary care residency programs. “(6) To cover administrative costs and activities necessary for qualified teaching health centers receiving payments under section 340H of the Public Health Service Act ([42 U.S.C. 256h](./chapter-6a-public-health-service.md#section-256h)) to carry out activities under such section.”
+Pub. L. 117–2, title II, § 2604, Mar. 11, 2021, 135 Stat. 44, provided that: “(a) In General.—In addition to amounts otherwise available, and notwithstanding the capped amount referenced in sections 340H(b)(2) and 340H(d)(2) of the Public Health Service Act ([42 U.S.C. 256h(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/b/2&num=0&edition=prelim) and (d)(2)), there is appropriated to the Secretary [of Health and Human Services] for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $330,000,000, to remain available until September 30, 2023, for the program of payments to teaching health centers that operate graduate medical education under section 340H of the Public Health Service Act ([42 U.S.C. 256h](./chapter-6a-public-health-service.md#section-256h)) and for teaching health center development grants authorized under section 749A of the Public Health Service Act ([42 U.S.C. 293](./chapter-6a-public-health-service.md#section-293)l–1). “(b) Use of Funds.—Amounts made available pursuant to subsection (a) shall be used for the following activities:“(1) For making payments to establish new approved graduate medical residency training programs pursuant to section 340H(a)(1)(C) of the Public Health Service Act ([42 U.S.C. 256h(a)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/1/C&num=0&edition=prelim)). “(2) To provide an increase to the per resident amount described in section 340H(a)(2) of the Public Health Service Act ([42 U.S.C. 256h(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/2&num=0&edition=prelim)) of $10,000. “(3) For making payments under section 340H(a)(1)(A) of the Public Health Service Act ([42 U.S.C. 256h(a)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/1/A&num=0&edition=prelim))) [sic] to qualified teaching health centers for maintenance of filled positions at existing approved graduate medical residency training programs. “(4) For making payments under section 340H(a)(1)(B) of the Public Health Service Act ([42 U.S.C. 256h(a)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section256h/a/1/B&num=0&edition=prelim)) for the expansion of existing approved graduate medical residency training programs. “(5) For making awards under section 749A of the Public Health Service Act ([42 U.S.C. 293](./chapter-6a-public-health-service.md#section-293)l–1) to teaching health centers for the purpose of establishing new accredited or expanded primary care residency programs. “(6) To cover administrative costs and activities necessary for qualified teaching health centers receiving payments under section 340H of the Public Health Service Act ([42 U.S.C. 256h](./chapter-6a-public-health-service.md#section-256h)) to carry out activities under such section.”
 
 #### Payments for Previous Fiscal Years
 Pub. L. 115–123, div. E, title IX, § 50901(d)(7), Feb. 9, 2018, 132 Stat. 289, provided that: “The provisions of section 340H of the Public Health Service Act ([42 U.S.C. 256h](./chapter-6a-public-health-service.md#section-256h)), as in effect on the day before the date of enactment of Public Law 115–96 [Dec. 22, 2017], shall continue to apply with respect to payments under such section for fiscal years before fiscal year 2018.”
@@ -21129,7 +21408,7 @@ The effective date of this paragraph, referred to in subsec. (d)(2), is the effe
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), (j), and (k)(5)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
-Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (k)(7)(D), (9)(A)(i)(I), (ii), is section 7002(e)(4) of Pub. L. 111–148, which is set out as a note under this section.
+Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (k)(7)(D), (9)(A)(i)(I), (ii), is section 7002(e)(4) of Pub. L. 111–148, which is set out in a note under this section.
 
 Sections 526, 527(a), and 505A(d)(4), referred to in subsec. (m)(2)(B), (3)(B), (4), probably mean sections 526, 527(a), and 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, which are classified to sections 360bb, 360cc(a), and 355a(d)(4), respectively, of Title 21, Food and Drugs.
 
@@ -21475,9 +21754,9 @@ References to Secretary and Department of Health, Education, and Welfare substit
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec.(g)(2)(B)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
-The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(2)(B)(iii), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 151 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section151&num=0&edition=prelim) and Tables.
+The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(2)(B)(iii), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, which is classified generally to chapter 5 (§ 151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 151 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section151&num=0&edition=prelim) and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(2)(B)(iv), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
@@ -21949,7 +22228,7 @@ The information to be compiled under paragraphs (1) through (6) shall be informa
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (i)(3) and (n)(6), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Codification
 Subsec. (e)(3) of this section, which required the Secretary to annually prepare and submit to certain committees of Congress a report describing the results of the evaluation conducted under subsec. (e)(2)(D) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 96 of House Document No. 103–7.
@@ -22955,13 +23234,13 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 Ex. Ord. No. 12452, Dec. 22, 1983, 48 F.R. 56927, which specified certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of such diseases, was revoked by Ex. Ord. No. 13295, § 5, Apr. 4, 2003, 68 F.R. 17255, set out below.
 
 #### Ex. Ord. No. 13295. Revised List of Quarantinable Communicable Diseases
-Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, as amended by Ex. Ord. No. 13375, § 1, Apr. 1, 2005, 70 F.R. 17299; Ex. Ord. No. 13674, § 1, July 31, 2014, 79 F.R. 45671, provided:
+Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, as amended by Ex. Ord. No. 13375, § 1, Apr. 1, 2005, 70 F.R. 17299; Ex. Ord. No. 13674, § 1, July 31, 2014, 79 F.R. 45671; Ex. Ord. No. 14047, Sept. 17, 2021, 86 F.R. 52591, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 361(b) of the Public Health Service Act ([42 U.S.C. 264(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section264/b&num=0&edition=prelim)), it is hereby ordered as follows:
 
 Section 1. Based upon the recommendation of the Secretary of Health and Human Services (the “Secretary”), in consultation with the Surgeon General, and for the purpose of specifying certain communicable diseases for regulations providing for the apprehension, detention, or conditional release of individuals to prevent the introduction, transmission, or spread of suspected communicable diseases, the following communicable diseases are hereby specified pursuant to section 361(b) of the Public Health Service Act:
 
-(a) Cholera; Diphtheria; infectious Tuberculosis; Plague; Smallpox; Yellow Fever; and Viral Hemorrhagic Fevers (Lassa, Marburg, Ebola, Crimean-Congo, South American, and others not yet isolated or named).
+(a) Cholera; Diphtheria; infectious Tuberculosis; Measles; Plague; Smallpox; Yellow Fever; and Viral Hemorrhagic Fevers (Lassa, Marburg, Ebola, Crimean-Congo, South American, and others not yet isolated or named).
 
 (b) Severe acute respiratory syndromes, which are diseases that are associated with fever and signs and symptoms of pneumonia or other respiratory illness, are capable of being transmitted from person to person, and that either are causing, or have the potential to cause, a pandemic, or, upon infection, are highly likely to cause mortality or serious morbidity if not properly controlled. This subsection does not apply to influenza.
 
@@ -23228,7 +23507,7 @@ Medical officers of the United States, when performing duties as quarantine offi
 #### References in Text
 Paragraph (2), referred to in subsec. (b)(1), meaning paragraph (2) of subsec. (b) of this section, was redesignated paragraph (3) by section 201(d)(1) of Pub. L. 101–616. See 1990 Amendment note below.
 
-The Social Security Act, referred to in subsec. (b)(1)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 Paragraph (1)(E), referred to in subsec. (b)(2)(A), meaning paragraph (1)(E) of subsec. (b) of this section, was redesignated paragraph (1)(F) by section 701(c)(1) of Pub. L. 106–505 and section 1(a)(1) [title II, § 219(b)(1)] of Pub. L. 106–554. See 2000 Amendment note below.
 
@@ -23525,7 +23804,7 @@ The Secretary shall designate and maintain an identifiable administrative unit i
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in par. (1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in par. (1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 375 of act July 1, 1944, added by act Aug. 3, 1956, ch. 907, § 1, 70 Stat. 962, which related to definitions, was renumbered section 385 and classified to [section 279 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section279&num=0&edition=prelim), prior to repeal by Pub. L. 99–158, § 3(b), Nov. 20, 1985, 99 Stat. 879.
@@ -24212,7 +24491,7 @@ Pub. L. 105–196, § 7, July 16, 1998, 112 Stat. 637, provided that: “This Ac
 Pub. L. 101–616, title I, § 102, Nov. 16, 1990, 104 Stat. 3282, provided that: “(a) In General.—This title [enacting this section and section 274l of this title and amending [section 274a of this title](./chapter-6a-public-health-service.md#section-274a)], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act [Nov. 16, 1990], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act [[42 U.S.C. 274a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274a/b&num=0&edition=prelim)] (as it existed before the amendment made by section 101(b) of this Act). “(b) Continued Effect.—A legal document described in subsection (a) or an order issued in a lawsuit described in subsection (a) shall continue in effect until modified, terminated, or revoked. “(c) Proceedings.—In any administrative proceeding or lawsuit described in subsection (a), parties shall take appeals, and officials shall hold proceedings and render judgments, in the same manner and with the same effect as if this title had not been enacted.”
 
 #### Cord Blood Inventory
-Pub. L. 109–129, § 2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111–264, § 2(a), Oct. 8, 2010, 124 Stat. 2789; Pub. L. 114–104, § 3, Dec. 18, 2015, 129 Stat. 2217; Pub. L. 117–15, § 3, May 26, 2021, 135 Stat. 278, provided that: “(a) In General.—The Secretary of Health and Human Services shall enter into contracts with qualified cord blood banks to assist in the collection and maintenance of the inventory goal of at least 150,000 new units of high-quality cord blood to be made available for transplantation through the C.W. Bill Young Cell Transplantation Program and to carry out the requirements of subsection (b). “(b) Requirements.—The Secretary shall require each recipient of a contract under this section—“(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with the informed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act [[42 U.S.C. 274k(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/c&num=0&edition=prelim)], in a manner that complies with applicable Federal and State regulations; “(2) to encourage donation from a genetically diverse population; “(3) to make cord blood units that are collected pursuant to this section or otherwise and meet all applicable Federal standards available to transplant centers for transplantation; “(4) to make cord blood units that are collected, but not appropriate for clinical use, available for peer-reviewed research; “(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act ([42 U.S.C. 274k(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/3&num=0&edition=prelim)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and “(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act [[42 U.S.C. 274](./chapter-6a-public-health-service.md#section-274)l], as amended by this Act. “(c) Application.—To seek to enter into a contract under this section, a qualified cord blood bank shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. At a minimum, an application for a contract under this section shall include a requirement that the applicant—“(1) will participate in the C.W. Bill Young Cell Transplantation Program for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section; “(2) will make cord blood units collected pursuant to this section available through the C.W. Bill Young Cell Transplantation Program in perpetuity or for such time as determined viable by the Secretary; “(3) will provide a plan to increase cord blood unit collections at collection sites that exist at the time of application, assist with the establishment of new collection sites, or contract with new collection sites; “(4) will annually provide to the Secretary a plan for, and demonstrate, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations; and “(5) if the Secretary determines through an assessment, or through petition by the applicant, that a cord blood bank is no longer operational or does not meet the requirements of section 379(d)(4) of the Public Health Service Act [[42 U.S.C. 274k(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/4&num=0&edition=prelim)] (as added by this Act) and as a result may not distribute the units, transfer the units collected pursuant to this section to another qualified cord blood bank approved by the Secretary to ensure continued availability of cord blood units. “(d) Duration of Contracts.—“(1) In general.—Except as provided in paragraph (2), the term of each contract entered into by the Secretary under this section shall be for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section. The Secretary shall ensure that no Federal funds shall be obligated under any such contract after the date that is 5 years after the date on which the contract is entered into, except as provided in paragraphs (2), (3), and (4). “(2) Extensions.—The Secretary may extend the period of funding under a contract under this section to exceed a period of 5 years if—“(A) the Secretary finds that the inventory goal described in subsection (a) has not yet been met; “(B) the Secretary does not receive an application for a contract under this section meeting the requirements under subsection (c) from any qualified cord blood bank that has not previously entered into a contract under this section; or “(C) the Secretary determines that the outstanding inventory need cannot be met by the qualified cord blood banks under contract under this section. “(3) Extension eligibility.—A qualified cord blood bank shall be eligible for a 5-year extension of a contract awarded under this section, as described in paragraph (2), provided that the qualified cord blood bank—“(A) demonstrates a superior ability to satisfy the requirements described in subsection (b) and achieves the overall goals for which the contract was awarded; “(B) provides a plan for how the qualified cord blood bank will increase cord blood unit collections at collection sites that exist at the time of consideration for such extension of a contract, assist with the establishment of new collection sites, or contract with new collection sites; and “(C) annually provides to the Secretary a plan for, and demonstrates, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations. “(4) Consideration of best science.—The Secretary shall take into consideration the best scientific information available in order to maximize the number of cord blood units available for transplant when entering into contracts under this section, or when extending a period of funding under such a contract under paragraph (2). “(5) Consideration of banked units of cord blood.—In extending contracts pursuant to paragraph (3), and determining new allocation amounts for the next contract period or contract extension for such cord blood bank, the Secretary shall take into account the number of cord blood units banked in the National Cord Blood Inventory by a cord blood bank during the previous contract period, in addition to consideration of the ability of such cord blood bank to increase the collection and maintenance of additional, genetically diverse cord blood units. “(e) Regulations.—The Secretary may promulgate regulations to carry out this section. “(f) Definitions.—In this section:“(1) The term ‘C.W. Bill Young Cell Transplantation Program’ means the C.W. Bill Young Cell Transplantation Program under section 379 of the Public Health Service Act [[42 U.S.C. 274k](./chapter-6a-public-health-service.md#section-274k)], as amended by this Act. “(2) The term ‘cord blood donor’ means a mother who has delivered a baby and consents to donate the neonatal blood remaining in the placenta and umbilical cord after separation from the newborn baby. “(3) The term ‘cord blood unit’ means the neonatal blood collected from the placenta and umbilical cord of a single newborn baby. “(4) The term ‘qualified cord blood bank’ has the meaning given to that term in section 379(d)(4) of the Public Health Service Act [[42 U.S.C. 274k(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/4&num=0&edition=prelim)], as amended by this Act. “(5) The term ‘Secretary’ means the Secretary of Health and Human Services.121“(g) Authorization of Appropriations.—To carry out this section, there is authorized to be appropriated $23,000,000 for each of fiscal years 2022 through 2026.”
+Pub. L. 109–129, § 2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111–264, § 2(a), Oct. 8, 2010, 124 Stat. 2789; Pub. L. 114–104, § 3, Dec. 18, 2015, 129 Stat. 2217; Pub. L. 117–15, § 3, May 26, 2021, 135 Stat. 278, provided that: “(a) In General.—The Secretary of Health and Human Services shall enter into contracts with qualified cord blood banks to assist in the collection and maintenance of the inventory goal of at least 150,000 new units of high-quality cord blood to be made available for transplantation through the C.W. Bill Young Cell Transplantation Program and to carry out the requirements of subsection (b). “(b) Requirements.—The Secretary shall require each recipient of a contract under this section—“(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with the informed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act [[42 U.S.C. 274k(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/c&num=0&edition=prelim)], in a manner that complies with applicable Federal and State regulations; “(2) to encourage donation from a genetically diverse population; “(3) to make cord blood units that are collected pursuant to this section or otherwise and meet all applicable Federal standards available to transplant centers for transplantation; “(4) to make cord blood units that are collected, but not appropriate for clinical use, available for peer-reviewed research; “(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act ([42 U.S.C. 274k(d)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/3&num=0&edition=prelim)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and “(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act [[42 U.S.C. 274](./chapter-6a-public-health-service.md#section-274)l], as amended by this Act. “(c) Application.—To seek to enter into a contract under this section, a qualified cord blood bank shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. At a minimum, an application for a contract under this section shall include a requirement that the applicant—“(1) will participate in the C.W. Bill Young Cell Transplantation Program for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section; “(2) will make cord blood units collected pursuant to this section available through the C.W. Bill Young Cell Transplantation Program in perpetuity or for such time as determined viable by the Secretary; “(3) will provide a plan to increase cord blood unit collections at collection sites that exist at the time of application, assist with the establishment of new collection sites, or contract with new collection sites; “(4) will annually provide to the Secretary a plan for, and demonstrate, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations; and “(5) if the Secretary determines through an assessment, or through petition by the applicant, that a cord blood bank is no longer operational or does not meet the requirements of section 379(d)(4) of the Public Health Service Act [[42 U.S.C. 274k(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/4&num=0&edition=prelim)] (as added by this Act) and as a result may not distribute the units, transfer the units collected pursuant to this section to another qualified cord blood bank approved by the Secretary to ensure continued availability of cord blood units. “(d) Duration of Contracts.—“(1) In general.—Except as provided in paragraph (2), the term of each contract entered into by the Secretary under this section shall be for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section. The Secretary shall ensure that no Federal funds shall be obligated under any such contract after the date that is 5 years after the date on which the contract is entered into, except as provided in paragraphs (2), (3), and (4). “(2) Extensions.—The Secretary may extend the period of funding under a contract under this section to exceed a period of 5 years if—“(A) the Secretary finds that the inventory goal described in subsection (a) has not yet been met; “(B) the Secretary does not receive an application for a contract under this section meeting the requirements under subsection (c) from any qualified cord blood bank that has not previously entered into a contract under this section; or “(C) the Secretary determines that the outstanding inventory need cannot be met by the qualified cord blood banks under contract under this section. “(3) Extension eligibility.—A qualified cord blood bank shall be eligible for a 5-year extension of a contract awarded under this section, as described in paragraph (2), provided that the qualified cord blood bank—“(A) demonstrates a superior ability to satisfy the requirements described in subsection (b) and achieves the overall goals for which the contract was awarded; “(B) provides a plan for how the qualified cord blood bank will increase cord blood unit collections at collection sites that exist at the time of consideration for such extension of a contract, assist with the establishment of new collection sites, or contract with new collection sites; and “(C) annually provides to the Secretary a plan for, and demonstrates, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations. “(4) Consideration of best science.—The Secretary shall take into consideration the best scientific information available in order to maximize the number of cord blood units available for transplant when entering into contracts under this section, or when extending a period of funding under such a contract under paragraph (2). “(5) Consideration of banked units of cord blood.—In extending contracts pursuant to paragraph (3), and determining new allocation amounts for the next contract period or contract extension for such cord blood bank, the Secretary shall take into account the number of cord blood units banked in the National Cord Blood Inventory by a cord blood bank during the previous contract period, in addition to consideration of the ability of such cord blood bank to increase the collection and maintenance of additional, genetically diverse cord blood units. “(e) Regulations.—The Secretary may promulgate regulations to carry out this section. “(f) Definitions.—In this section:“(1) The term ‘C.W. Bill Young Cell Transplantation Program’ means the C.W. Bill Young Cell Transplantation Program under section 379 of the Public Health Service Act [[42 U.S.C. 274k](./chapter-6a-public-health-service.md#section-274k)], as amended by this Act. “(2) The term ‘cord blood donor’ means a mother who has delivered a baby and consents to donate the neonatal blood remaining in the placenta and umbilical cord after separation from the newborn baby. “(3) The term ‘cord blood unit’ means the neonatal blood collected from the placenta and umbilical cord of a single newborn baby. “(4) The term ‘qualified cord blood bank’ has the meaning given to that term in section 379(d)(4) of the Public Health Service Act [[42 U.S.C. 274k(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section274k/d/4&num=0&edition=prelim)], as amended by this Act. “(5) The term ‘Secretary’ means the Secretary of Health and Human Services. “(g) Authorization of Appropriations.—To carry out this section, there is authorized to be appropriated $23,000,000 for each of fiscal years 2022 through 2026.”
 
 #### Report of Inspector General; Plan Regarding Relationship Between Registry and Donor Centers
 Pub. L. 105–196, § 2(b)(2), July 16, 1998, 112 Stat. 632, directed the Secretary of Health and Human Services to ensure that, not later than 1 year after July 16, 1998, the National Bone Marrow Donor Registry (under this section) developed, evaluated, and implemented a plan to effectuate efficiencies in the relationship between such Registry and donor centers.
@@ -24361,7 +24640,7 @@ Pub. L. 99–649, § 2, Nov. 10, 1986, 100 Stat. 3633, provided that: “(a) The
 ### Statutory Notes
 
 #### References in Text
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(3), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(3), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 280b–1 of this title](./chapter-6a-public-health-service.md#section-280b-1).
@@ -24521,9 +24800,9 @@ Another prior section 393 of act July 1, 1944, was renumbered section 394 and wa
 
 (1) educational seminars;
 
-(2) the operation of hotlines;
+(2) the operation of hotlines or utilization of other communication technologies for purposes related to such a hotline;
 
-(3) training programs for professionals;
+(3) training programs for professionals, including school-based professionals, to identify and refer students who may have experienced or are at risk of experiencing sexual violence;
 
 (4) the preparation of informational material;
 
@@ -24531,25 +24810,41 @@ Another prior section 393 of act July 1, 1944, was renumbered section 394 and wa
 
 (6) education to increase awareness about drugs and alcohol used to facilitate rapes or sexual assaults; and
 
-(7) other efforts to increase awareness of the facts about, or to help prevent, sexual assault, including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in [section 12102 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12102)).
+(7) other efforts to increase awareness of the facts about, or to help prevent, sexual violence, sexual assault, and sexual harassment, including efforts to increase awareness in underserved communities and awareness among individuals with disabilities (as defined in [section 12102 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12102)) and Deaf individuals.
 
-**(b) Collection and dissemination of information on sexual assault** The Secretary shall, through the National Resource Center on Sexual Assault established under the National Center for Injury Prevention and Control at the Centers for Disease Control and Prevention, provide resource information, policy, training, and technical assistance to Federal, State, local, and Indian tribal agencies, as well as to State sexual assault coalitions and local sexual assault programs and to other professionals and interested parties on issues relating to sexual assault, including maintenance of a central resource library in order to collect, prepare, analyze, and disseminate information and statistics and analyses thereof relating to the incidence and prevention of sexual assault.
+**(b) Collection and dissemination of information on sexual assault** The Secretary shall, through the National Resource Center on Sexual Assault established under the National Center for Injury Prevention and Control at the Centers for Disease Control and Prevention, provide resource information, policy, training, and technical assistance to Federal, State, local, and Indian Tribal agencies, as well as to State sexual assault coalitions and local sexual assault programs and to other professionals and interested parties on issues relating to sexual assault, including maintenance of a central resource library in order to collect, prepare, analyze, and disseminate information and statistics and analyses thereof relating to the incidence and prevention of sexual assault.
 
-**(c) Authorization of appropriations**
+**(c) Meaningful involvement of State sexual assault coalitions, culturally specific organizations, and underserved communities** In awarding funds to States under this section, the Secretary shall set forth procedures designed to ensure meaningful involvement of sexual assault coalitions, culturally specific organizations, and representatives from underserved communities of the State or territory in the application for, and implementation of, funding.
 
-(1) **In general** — There is authorized to be appropriated to carry out this section $50,000,000 for each of fiscal years 2014 through 2018.
+**(d) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to carry out this section $100,000,000 for each of fiscal years 2023 through 2027.
 
 (2) **National sexual violence resource center allotment** — Of the total amount made available under this subsection in each fiscal year, not less than $1,500,000 shall be available for allotment under subsection (b).
 
-(3) **Baseline funding for States, the District of Columbia, and Puerto Rico** — A minimum allocation of $150,000 shall be awarded in each fiscal year for each of the States, the District of Columbia, and Puerto Rico. A minimum allocation of $35,000 shall be awarded in each fiscal year for each Territory. Any unused or remaining funds shall be allotted to each State, the District of Columbia, and Puerto Rico on the basis of population.
+(3) **Baseline funding for States, the District of Columbia, and Puerto Rico** — A minimum allocation of $150,000 shall be awarded in each fiscal year for each of the States, the District of Columbia, and Puerto Rico. A minimum allocation of $35,000 shall be awarded in each fiscal year for each Territory. Any unused or remaining funds shall be allotted to each State, the District of Columbia, and Puerto Rico on the basis of population. Not less than 80 percent of the total amount made available under this subsection in each fiscal year shall be awarded in accordance with this paragraph.
 
-**(d) Limitations**
+(4) **State, territorial, and Tribal sexual assault coalition allotment**
+
+  (A) *In general* — Of the total amount appropriated under this subsection for a fiscal year, not less than 15 percent shall be allocated to State, territorial, and Tribal sexual assault coalitions for the purposes of coordinating and providing prevention activities, providing assistance to prevention programs, and collaborating and coordinating with applicable Federal, State, Tribal, and local entities engaged in sexual violence prevention, in accordance with this paragraph.
+
+  (B) *Allocations* — Of the total amount appropriated under this subsection and allocated to making awards to sexual assault coalitions, as described in subparagraph (A), for a fiscal year—
+
+    (i) not less than 10 percent shall be made available to Tribal sexual assault coalitions; and
+
+    (ii) any remaining amounts shall be made available, in equal amounts, to each State coalition and each territorial coalition.
+
+  (C) *Clarification* — Receipt of an award under this subsection by a sexual assault coalition shall not preclude the coalition from receiving additional grants or administering funds to carry out the purposes described in subsection (a).
+
+**(e) Limitations**
 
 (1) **Supplement not supplant** — Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services of the type described in subsection (a).
 
 (2) **Studies** — A State may not use more than 2 percent of the amount received by the State under this section for each fiscal year for surveillance studies or prevalence studies.
 
 (3) **Administration** — A State may not use more than 5 percent of the amount received by the State under this section for each fiscal year for administrative expenses.
+
+**(f) Report** Not later than 1 year after March 15, 2022, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall submit to the Committee on Appropriations, the Committee on Energy and Commerce, and the Committee on the Judiciary of the House of Representatives and the Committee on Appropriations, the Committee on Health, Education, Labor, and Pensions, and the Committee on the Judiciary of the Senate a report on the activities funded by grants awarded under this section and best practices relating to rape prevention and education.
 
 ### Statutory Notes
 
@@ -24560,6 +24855,28 @@ Section was formerly classified to [section 280b–1c of this title](./chapter-6
 A prior section 393A of act July 1, 1944, was renumbered section 393B and is classified to [section 280b–1c of this title](./chapter-6a-public-health-service.md#section-280b-1c).
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–103, § 301(1)(A), inserted before semicolon at end “or utilization of other communication technologies for purposes related to such a hotline”.
+
+Subsec. (a)(3). Pub. L. 117–103, § 301(1)(B), substituted “professionals, including school-based professionals, to identify and refer students who may have experienced or are at risk of experiencing sexual violence” for “professionals”.
+
+Subsec. (a)(7). Pub. L. 117–103, § 301(1)(C), substituted “sexual violence, sexual assault, and sexual harassment” for “sexual assault” and inserted “and Deaf individuals” before period at end.
+
+Subsec. (b). Pub. L. 117–103, § 301(2), substituted “Indian Tribal” for “Indian tribal”.
+
+Subsec. (c). Pub. L. 117–103, § 301(4), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 117–103, § 301(3), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 117–103, § 301(5)(A), substituted “$100,000,000 for each of fiscal years 2023 through 2027” for “$50,000,000 for each of fiscal years 2014 through 2018”.
+
+Subsec. (d)(3). Pub. L. 117–103, § 301(5)(B), inserted at end “Not less than 80 percent of the total amount made available under this subsection in each fiscal year shall be awarded in accordance with this paragraph.”
+
+Subsec. (d)(4). Pub. L. 117–103, § 301(5)(C), added par. (4).
+
+Subsec. (e). Pub. L. 117–103, § 301(3), redesignated subsec. (d) as (e).
+
+Subsec. (f). Pub. L. 117–103, § 301(6), added subsec. (f).
+
 2013—Subsec. (a). Pub. L. 113–4, § 301(1)(A), inserted “, territorial or tribal” after “crisis centers, State” in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 113–4, § 301(1)(B), inserted “and alcohol” after “about drugs”.
@@ -24569,6 +24886,9 @@ Subsec. (c)(1). Pub. L. 113–4, § 301(2)(A), substituted “$50,000,000 for ea
 Subsec. (c)(3). Pub. L. 113–4, § 301(2)(B), added par. (3).
 
 2006—Subsec. (c). Pub. L. 109–162 reenacted heading without change and amended text generally. Prior to amendment, text contained provisions in par. (1) authorizing appropriations for fiscal years 2001 through 2005 and in par. (2) directing an allotment under subsec. (b) of this section.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
@@ -24800,9 +25120,9 @@ Pub. L. 106–310 inserted before period at end “, and such sums as may be nec
 ## § 280b–4. Study conducted by the Centers for Disease Control and Prevention
 **(a) Purposes** The Secretary of Health and Human Services acting through the National Center for Injury Prevention and Control at the Centers for Disease Control 11 So in original. Probably should be followed by “and”. Prevention shall make grants to entities, including domestic and sexual assault coalitions and programs, research organizations, tribal organizations, and academic institutions to support research to examine prevention and intervention programs to further the understanding of sexual and domestic violence by and against adults, youth, and children.
 
-**(b) Use of funds** The research conducted under this section shall include evaluation and study of best practices for reducing and preventing violence against women and children addressed by the strategies included in Department of Health and Human Services-related provisions 22 So in original. Probably should be followed by “of”. this title,33 See References in Text note below. including strategies addressing underserved communities.
+**(b) Use of funds** The research conducted under this section shall include evaluation and study of best practices for reducing and preventing violence against adults, youth, and children addressed by the strategies included in Department of Health and Human Services-related provisions 22 So in original. Probably should be followed by “of”. this title,33 See References in Text note below. including strategies addressing underserved communities.
 
-**(c) Authorization of appropriations** There shall be authorized to be appropriated to carry out this title $1,000,000 for each of the fiscal years 2014 through 2018.
+**(c) Authorization of appropriations** There shall be authorized to be appropriated to carry out this title 3 $1,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
@@ -24834,7 +25154,14 @@ Section 280b–11, act July 1, 1944, ch. 373, title III, § 399, formerly § 399
 A prior section 280b–12, act July 1, 1944, ch. 373, title III, § 399b, as added Mar. 13, 1970, Pub. L. 91–212, § 9, 84 Stat. 65, related to transfer of funds, prior to repeal by Pub. L. 93–353, title II, § 204, July 23, 1974, 88 Stat. 373, applicable with respect to fiscal years beginning after June 30, 1974.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–103, § 401(1), substituted “violence against adults, youth,” for “violence against women”.
+
+Subsec. (c). Pub. L. 117–103, § 401(2), substituted “fiscal years 2023 through 2027” for “the fiscal years 2014 through 2018”.
+
 2013—Subsec. (c). Pub. L. 113–4 substituted “$1,000,000 for each of the fiscal years 2014 through 2018” for “$2,000,000 for each of the fiscal years 2007 through 2011”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
@@ -25376,9 +25703,9 @@ Section effective Oct. 1, 1987, see section 701(a) of Pub. L. 100–175, set out
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§ 601 et seq.), V (§ 701 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (a)(3)(A), (b)(6), and (m)(7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles IV, V, and XIX of the Act are classified generally to subchapters IV (§ 601 et seq.), V (§ 701 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (n)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (n)(3), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 399 of act July 1, 1944, was renumbered section 398A by section 502(1) of Pub. L. 102–321 and is classified to [section 280c–4 of this title](./chapter-6a-public-health-service.md#section-280c-4).
@@ -25781,9 +26108,9 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 ### Statutory Notes
 
 #### References in Text
-The Ethics in Government Act, referred to in subsec. (h)(4)(A), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act, referred to in subsec. (h)(4)(A), probably means the Ethics in Government Act of 1978, Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
-The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology Transfer Act of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, as amended, or the National Competitiveness Technology Transfer Act of 1989, part C (§§ 3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim), Commerce and Trade, and Tables.
+The Technology Transfer Act, referred to in subsec. (h)(4)(A), may mean the Federal Technology Transfer Act of 1986, Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, or the National Competitiveness Technology Transfer Act of 1989, part C (§§ 3131–3133) of title XXXI of div. C of Pub. L. 101–189, Nov. 29, 1989, 103 Stat. 1674. For complete classification of these Acts to the Code, see Short Title of 1986 Amendment note and Short Title of 1989 Amendment note both set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim), Commerce and Trade, and Tables.
 
 #### Codification
 Section was formerly classified to [section 280d–11 of this title](./chapter-6a-public-health-service.md#section-280d-11) prior to renumbering by Pub. L. 106–310.
@@ -26164,9 +26491,9 @@ Pub. L. 105–392, title IV, § 419(b), (c), Nov. 13, 1998, 112 Stat. 3591, 3592
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(1), (2)(B) and (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (2)(B) and (b)(1), (2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Act are classified generally to parts B (§ 620 et seq.) and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of this title. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
+The Head Start Act, referred to in subsec. (b)(2)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
 
 #### Prior Provisions
 A prior section 399L of act July 1, 1944, was renumbered section 399F and is classified to [section 280e–4 of this title](./chapter-6a-public-health-service.md#section-280e-4).
@@ -26301,7 +26628,8 @@ Pub. L. 108–377, § 2, Oct. 30, 2004, 118 Stat. 2202, provided that: “The Co
     (i) provided comprehensive, consumer-oriented information about the full range of family support, training, information services, and language acquisition in oral and visual modalities; and
 
     (ii) given the opportunity to consider and obtain the full range of such appropriate services, educational and program placements, and other options for the child from highly qualified providers.
-  The 11 So in original. Probably should be preceded by “(3)”. term “medical evaluation” means key components performed by a physician including history, examination, and medical decisionmaking focused on symptomatic and related body systems for the purpose of diagnosing the etiology of hearing loss and related physical conditions, and for identifying appropriate treatment and referral options.
+
+(3) The term “medical evaluation” means key components performed by a physician including history, examination, and medical decisionmaking focused on symptomatic and related body systems for the purpose of diagnosing the etiology of hearing loss and related physical conditions, and for identifying appropriate treatment and referral options.
 
 (4) The term “medical intervention” means the process by which a physician provides medical diagnosis and direction for medical or surgical treatment options for hearing loss or other medical disorders associated with hearing loss.
 
@@ -26309,9 +26637,9 @@ Pub. L. 108–377, § 2, Oct. 30, 2004, 118 Stat. 2202, provided that: “The Co
 
 **(f) Authorization of appropriations**
 
-(1) **Statewide newborn and infant hearing screening, evaluation and intervention programs and systems** — For the purpose of carrying out subsection (a), there are authorized to be appropriated to the Health Resources and Services Administration $17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022.
+(1) **Statewide newborn and infant hearing screening, evaluation and intervention programs and systems** — For the purpose of carrying out subsection (a), there are authorized to be appropriated to the Health Resources and Services Administration $17,818,000 for each of fiscal years 2023 through 2027.
 
-(2) **Technical assistance, data management, and applied research; Centers for Disease Control and Prevention** — For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention $10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022.
+(2) **Technical assistance, data management, and applied research; Centers for Disease Control and Prevention** — For the purpose of carrying out subsection (b)(1), there are authorized to be appropriated to the Centers for Disease Control and Prevention $10,760,000 for each of fiscal years 2023 through 2027.
 
 (3) **Technical assistance, data management, and applied research; National Institute on Deafness and Other Communication Disorders** — For the purpose of carrying out subsection (b)(2), there are authorized to be appropriated to the National Institute on Deafness and Other Communication Disorders such sums as may be necessary for fiscal years 2011 through 2015.
 
@@ -26323,6 +26651,12 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (a)(1)(
 The Social Security Act, referred to in subsec. (c)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
+2022—Subsec. (e)(3). Pub. L. 117–241, § 2(1), inserted par. (3) designation before “The term “ ‘medical evaluation’ ”.
+
+Subsec. (f)(1). Pub. L. 117–241, § 2(2)(A), substituted “$17,818,000 for each of fiscal years 2023 through 2027” for “$17,818,000 for fiscal year 2018, $18,173,800 for fiscal year 2019, $18,628,145 for fiscal year 2020, $19,056,592 for fiscal year 2021, and $19,522,758 for fiscal year 2022”.
+
+Subsec. (f)(2). Pub. L. 117–241, § 2(2)(B), substituted “$10,760,000 for each of fiscal years 2023 through 2027” for “$10,800,000 for fiscal year 2018, $11,026,800 for fiscal year 2019, $11,302,470 for fiscal year 2020, $11,562,427 for fiscal year 2021, and $11,851,488 for fiscal year 2022”.
+
 2017—Pub. L. 115–71, § 2(a), substituted “Early detection, diagnosis, and treatment regarding deaf and hard-of-hearing newborns, infants, and young children” for “Early detection, diagnosis, and treatment regarding hearing loss in newborns and infants” in section catchline.
 
 Subsec. (a). Pub. L. 115–71, § 2(b)(2), substituted “newborn, infant, and young child” for “newborn and infant” and “providers (including, as appropriate, education and training of family members),” for “providers,” in introductory provisions.
@@ -27230,11 +27564,15 @@ Pub. L. 109–60, § 2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114
 ## § 280g–4. Grants to strengthen the healthcare system’s response to domestic violence, dating violence, sexual assault, and stalking
 **(a) In general** The Secretary shall award grants for—
 
-(1) the development or enhancement and implementation of interdisciplinary training for health professionals, public health staff, and allied health professionals;
+(1) the development or enhancement and implementation of interdisciplinary training for health professionals, public health staff, community health workers, violence prevention advocates working with health providers, and allied health professionals;
 
-(2) the development or enhancement and implementation of education programs for medical, nursing, dental, and other health profession students and residents to prevent and respond to domestic violence, dating violence, sexual assault, and stalking; and
+(2) the development or enhancement and implementation of education programs for medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers (including midwives and doulas);
 
-(3) the development or enhancement and implementation of comprehensive statewide strategies to improve the response of clinics, public health facilities, hospitals, and other health settings (including behavioral and mental health programs) to domestic violence, dating violence, sexual assault, and stalking.
+(3) the development or enhancement and implementation of comprehensive statewide strategies to improve the capacity of clinics, public health facilities, hospitals, and other health settings (including behavioral and mental health programs) to prevent and respond to domestic violence, dating violence, sexual assault, and stalking;
+
+(4) the development or enhancement and implementation of training programs to improve the capacity of early childhood programs to address domestic violence, dating violence, sexual assault, and stalking among families they serve; and
+
+(5) the development or enhancement and implementation of comprehensive statewide strategies for health and violence prevention programs to work together to promote primary prevention of domestic violence, dating violence, sexual assault, and stalking.
 
 **(b) Use of funds**
 
@@ -27242,35 +27580,63 @@ Pub. L. 109–60, § 2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114
 
   (A) fund interdisciplinary training and education programs under paragraphs (1) and (2) of subsection (a) that—
 
-    (i) are designed to train medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers to identify and provide health care services (including mental or behavioral health care services and referrals to appropriate community services) to individuals who are or who have been victims of domestic violence, dating violence, sexual assault, or stalking; and
+    (i) are designed to train medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers to provide universal education on healthy relationships and provide trauma-informed health care services (including mental or behavioral health care services and referrals to appropriate community services) to individuals who are or who have been victims of domestic violence, dating violence, sexual assault, or stalking;
 
-    (ii) plan and develop culturally competent clinical training components for integration into approved internship, residency, and fellowship training or continuing medical or other health education training that address physical, mental, and behavioral health issues, including protective factors, related to domestic violence, dating violence, sexual assault, stalking, and other forms of violence and abuse, focus on reducing health disparities and preventing violence and abuse, and include the primacy of victim safety and confidentiality;
+    (ii) plan and develop training components that center the experiences of, and are developed in collaboration with, culturally specific individuals and American Indians and Alaska Natives, and include community-defined practices such as the use of doulas, midwives, and traditional healers, for integration into approved internship, residency, and fellowship training or continuing medical or other health education training that address physical, mental, and behavioral health issues, including protective factors, related to domestic violence, dating violence, sexual assault, stalking, and other forms of violence and abuse (including labor and sex trafficking), focus on reducing health inequities and preventing violence and abuse, and include the primacy of victim safety and confidentiality;
 
-  (B) design and implement comprehensive strategies to improve the response of the health care system to domestic or sexual violence in clinical and public health settings, hospitals, clinics, and other health settings (including behavioral and mental health), under subsection (a)(3) through—
+    (iii) are designed to be inclusive of the experiences of all individuals, including LGBT individuals, and include training on improving equity and reducing disparities in access to health care services and prevention resources; and
 
-    (i) the implementation, dissemination, and evaluation of policies and procedures to guide health professionals and public health staff in identifying and responding to domestic violence, dating violence, sexual assault, and stalking, including strategies to ensure that health information is maintained in a manner that protects the patient’s privacy and safety, and safely uses health information technology to improve documentation, identification, assessment, treatment, and follow-up care;
+    (iv) include training on the use of a universal prevention education approach to both prevent and respond to domestic violence, dating violence, sexual assault, or stalking in health care settings;
 
-    (ii) the development of on-site access to services to address the safety, medical, and mental health needs of patients by increasing the capacity of existing health care professionals and public health staff to address domestic violence, dating violence, sexual assault, and stalking, or by contracting with or hiring domestic or sexual assault advocates to provide such services or to model other services appropriate to the geographic and cultural needs of a site;
+  (B) design and implement comprehensive strategies to improve the capacity of the health care system to prevent and respond to domestic or sexual violence in clinical and public health settings, hospitals, clinics, and other health settings (including behavioral and mental health), under subsection (a)(3) through—
 
-    (iii) the development of measures and methods for the evaluation of the practice of identification, intervention, and documentation regarding victims of domestic violence, dating violence, sexual assault, and stalking, including the development and testing of quality improvement measurements, in accordance with the multi-stakeholder and quality measurement processes established under paragraphs (7) and (8) of [section 1395aaa(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395aaa/b&num=0&edition=prelim) and [section 1395aaa–1 of this title](./chapter-007-social-security.md#section-1395aaa-1); and
+    (i) the implementation, dissemination, and evaluation of policies and procedures to guide health professionals and public health staff in identifying, responding to, and promoting prevention of domestic violence, dating violence, sexual assault, and stalking during in-person or virtual visits, including strategies to ensure that health information is maintained in a manner that protects the patient’s privacy and safety, and safely uses health information technology to improve documentation, identification, assessment, treatment, and follow-up care and to maximize victim choice on the use and sharing of their health information;
 
-    (iv) the provision of training and follow-up technical assistance to health care professionals, and public health staff, and allied health professionals to identify, assess, treat, and refer clients who are victims of domestic violence, dating violence, sexual assault, or stalking, including using tools and training materials already developed.
+    (ii) the development of services to address the safety, medical, and mental health needs of patients by—
+
+      (I) increasing the capacity of existing health care professionals (including professionals who specialize in trauma or in substance use disorders) in behavioral and mental health care, community health workers, and public health staff to address domestic violence, dating violence, sexual assault, stalking, and children exposed to violence;
+
+      (II) contracting with or hiring advocates for victims of domestic violence or sexual assault to provide such services; or
+
+      (III) providing funding to State domestic and sexual violence coalitions to improve the capacity of such coalitions to coordinate and support health advocates and other health system partnerships;
+
+    (iii) the development of measures and methods for the evaluation of the practice of prevention, intervention, and documentation regarding victims of domestic violence, dating violence, sexual assault, and stalking during in-person or virtual visits, including the development and testing of quality improvement measurements, in accordance with the multi-stakeholder and quality measurement processes established under paragraphs (7) and (8) of [section 1395aaa(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395aaa/b&num=0&edition=prelim) and [section 1395aaa–1 of this title](./chapter-007-social-security.md#section-1395aaa-1);
+
+    (iv) the provision of training and follow-up technical assistance to health care professionals, and public health staff, and allied health professionals to identify, assess, treat, and refer clients who are victims of domestic violence, dating violence, sexual assault, or stalking, and promote prevention during in-person or virtual visits, including using tools and training materials already developed;
+
+    (v) the development, implementation, dissemination, and evaluation of best practices, tools, and training materials, including culturally relevant tools, for mental health, behavioral health, and substance use disorder professionals to identify and respond to domestic violence, sexual violence, stalking, and dating violence; and
+
+    (vi) the development and provision of culturally relevant training and follow-up technical assistance to health care professionals, and public health staff, and allied health professionals to identify, assess, treat, and refer clients who are victims of domestic violence, dating violence, sexual assault, or stalking from culturally specific communities and promote prevention, using tools and training materials, developed by and for culturally specific communities, with priority given to trainings provided by culturally specific organizations; and
+
+  (C) design and implement comprehensive strategies to prevent domestic or sexual violence including through the use of universal education in clinical and public health settings, hospitals, clinics and other health settings.
 
 (2) **Permissible uses**
 
-  (A) *Child and elder abuse* — To the extent consistent with the purpose of this section, a grantee may use amounts received under this section to address, as part of a comprehensive programmatic approach implemented under the grant, issues relating to child or elder abuse.
+  (A) *Child abuse and abuse in later life* — To the extent consistent with the purpose of this section, a grantee may use amounts received under this section to address, as part of a comprehensive programmatic approach implemented under the grant, issues relating to child abuse or abuse in later life.
 
   (B) *Rural areas* — Grants funded under paragraphs (1) and (2) of subsection (a) may be used to offer to rural areas community-based training opportunities, which may include the use of distance learning networks and other available technologies needed to reach isolated rural areas, for medical, nursing, and other health profession students and residents on domestic violence, dating violence, sexual assault, stalking, and, as appropriate, other forms of violence and abuse.
 
   (C) *Other uses* — Grants funded under subsection (a)(3) may be used for—
 
-    (i) the development of training modules and policies that address the overlap of child abuse, domestic violence, dating violence, sexual assault, and stalking and elder abuse, as well as childhood exposure to domestic and sexual violence;
+    (i) the development of training modules and policies that address the overlap of child abuse, domestic violence, dating violence, sexual assault, and stalking and abuse in later life, as well as childhood exposure to domestic and sexual violence;
 
-    (ii) the development, expansion, and implementation of sexual assault forensic medical examination or sexual assault nurse examiner programs;
+    (ii) the development, expansion, and implementation of programs that promote the prevention of sexual assault as well as sexual assault forensic medical examination or sexual assault nurse examiner programs;
 
-    (iii) the inclusion of the health effects of lifetime exposure to violence and abuse as well as related protective factors and behavioral risk factors in health professional training schools including medical, dental, nursing, social work, and mental and behavioral health curricula, and allied health service training courses; or
+    (iii) the inclusion of the health effects of lifetime exposure to violence and abuse and exposure to violence across generations as well as related protective factors and behavioral risk factors in health professional training schools including medical, dental, nursing, social work, and mental and behavioral health curricula, and allied health service training courses;
 
-    (iv) the integration of knowledge of domestic violence, dating violence, sexual assault, and stalking into health care accreditation and professional licensing examinations, such as medical, dental, social work, and nursing boards, and where appropriate, other allied health exams.
+    (iv) the integration of knowledge of domestic violence, dating violence, sexual assault, and stalking into health care accreditation and professional licensing examinations, such as medical, dental, mental health, social work, and nursing boards, and where appropriate, other allied health exams and certifications;
+
+    (v) providing funding to culturally specific organizations to improve the capacity of such organizations to engage and partner with health care providers to support victims and meet increased referrals from health systems;
+
+    (vi) developing a State-level pilot program to—
+
+      (I) improve the response of substance use disorder treatment programs, harm reduction programs for people who use substances, and systems to domestic violence, dating violence, sexual assault, and stalking;
+
+      (II) improve the capacity of substance use disorder treatment programs, harm reduction programs for people who use substances, and systems to serve survivors of domestic violence, dating violence, sexual assault, and stalking dealing with substance use disorder; and
+
+      (III) improve the capacity of domestic violence, dating violence, sexual assault, and stalking programs to serve survivors who have substance use history; or
+
+    (vii) developing and utilizing existing technical assistance and training resources to improve the capacity of substance use disorder treatment programs and harm reduction programs for people who use substances to address domestic violence, dating violence, sexual assault, and stalking among patients the programs serve.
 
 **(c) Requirements for grantees**
 
@@ -27284,7 +27650,13 @@ Pub. L. 109–60, § 2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114
 
 (3) **Application**
 
-  (A) *Preference* — In selecting grant recipients under this section, the Secretary shall give preference to applicants based on the strength of their evaluation strategies, with priority given to outcome based evaluations.
+  (A) *Preference* — In selecting grant recipients under this section, the Secretary shall give preference to applicants based on the strength of their evaluation strategies, with priority given to—
+
+    (i) outcome based evaluations;
+
+    (ii) culturally specific and population specific organizations; and
+
+    (iii) programs developing and implementing community-driven solutions to address domestic violence, dating violence, sexual assault, or stalking.
 
   (B) *Subsection (a)(1) and (2) grantees* — Applications for grants under paragraphs (1) and (2) of subsection (a) shall include—
 
@@ -27294,7 +27666,7 @@ Pub. L. 109–60, § 2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114
 
       (II) a health care facility or system; or
 
-      (III) a government or nonprofit entity with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking; and
+      (III) a government or nonprofit entity, including a culturally specific organization or community-based organization working to address the social determinants of health, with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking; and
 
     (ii) strategies for the dissemination and sharing of curricula and other educational materials developed under the grant, if any, with other interested health professions schools and national resource repositories for materials on domestic violence, dating violence, sexual assault, and stalking.
 
@@ -27302,11 +27674,15 @@ Pub. L. 109–60, § 2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114
 
     (i) documentation that all training, education, screening, assessment, services, treatment, and any other approach to patient care will be informed by an understanding of violence and abuse victimization and trauma-specific approaches that will be integrated into prevention, intervention, and treatment activities;
 
-    (ii) strategies for the development and implementation of policies to prevent and address domestic violence, dating violence, sexual assault, and stalking over the lifespan in health care settings;
+    (ii) strategies—
 
-    (iii) a plan for consulting with State and tribal domestic violence or sexual assault coalitions, national nonprofit victim advocacy organizations, State or tribal law enforcement task forces (where appropriate), and population specific organizations with demonstrated expertise in domestic violence, dating violence, sexual assault, or stalking;
+      (I) for the development and implementation of policies to prevent and address domestic violence, dating violence, sexual assault, and stalking over the lifespan and generations in health care settings; and
 
-    (iv) with respect to an application for a grant under which the grantee will have contact with patients, a plan, developed in collaboration with local victim service providers, to respond appropriately to and make correct referrals for individuals who disclose that they are victims of domestic violence, dating violence, sexual assault, stalking, or other types of violence, and documentation provided by the grantee of an ongoing collaborative relationship with a local victim service provider; and
+      (II) to address primary prevention of domestic violence, dating violence, sexual assault, and stalking over the lifespan and generations, including strategies that address related social determinants of health, economic justice, and equity issues, and that are inclusive of LGBT individuals;
+
+    (iii) a plan for consulting with State and tribal domestic violence or sexual assault coalitions, national nonprofit victim advocacy organizations, culturally specific organizations, and population specific organizations with demonstrated expertise in domestic violence, dating violence, sexual assault, or stalking;
+
+    (iv) with respect to an application for a grant under which the grantee will have contact with patients, a plan, developed in collaboration with local victim service providers (including culturally specific organizations), to respond appropriately to and make correct referrals for individuals who disclose that they are victims of domestic violence, dating violence, sexual assault, stalking, or other types of violence, and documentation provided by the grantee of an ongoing collaborative relationship with a local victim service provider; and
 
     (v) with respect to an application for a grant proposing to fund a program described in subsection (b)(2)(C)(ii), a certification that any sexual assault forensic medical examination and sexual assault nurse examiner programs supported with such grant funds will adhere to the guidelines set forth by the Attorney General.
 
@@ -27324,9 +27700,9 @@ Pub. L. 109–60, § 2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114
 
 (2) **Subsection (a)(3) grantees** — To be eligible to receive funding under subsection (a)(3), an entity shall be—
 
-  (A) a State department (or other division) of health, a State, tribal, or territorial domestic violence or sexual assault coalition or victim service provider, or any other nonprofit, nongovernmental organization with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking, and health care, including physical or mental health care; or
+  (A) a State department (or other division) of health (including mental health or substance abuse agencies), a State, tribal, or territorial domestic violence or sexual assault coalition or victim service provider, or any other nonprofit, nongovernmental organization with a history of effective work in the fields of domestic violence, dating violence, sexual assault, or stalking, and health care, including physical or behavioral health care and substance use disorder prevention and treatment; or
 
-  (B) a local victim service provider, a local department (or other division) of health, a local health clinic, hospital, or health system, or any other community-based organization with a history of effective work in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care.
+  (B) a local victim service provider, a local department (or other division) of health, a local health clinic, hospital, behavioral health treatment system, or health system, a community-based organization with a history of effective work in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment, or a community-based organization with a history of partnership with programs in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment.
 
 **(e) Technical assistance**
 
@@ -27358,9 +27734,9 @@ Pub. L. 109–60, § 2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114
 
   (D) research on the impact of adverse childhood experiences on adult experience with domestic violence, dating violence, sexual assault, stalking, and adult health outcomes, including how to reduce or prevent the impact of adverse childhood experiences through the health care setting.
 
-**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $10,000,000 for each of fiscal years 2014 through 2018.
+**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section, $20,000,000 for each of fiscal years 2023 through 2027.
 
-**(h) Definitions** Except as otherwise provided herein, the definitions provided for in [section 12291 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim) shall apply to this section.
+**(h) Definitions** Except as otherwise provided, the definitions in [section 12291 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim) shall apply to this section.
 
 ### Statutory Notes
 
@@ -27368,13 +27744,256 @@ Pub. L. 109–60, § 2, Aug. 11, 2005, 119 Stat. 1979, as amended by Pub. L. 114
 The Family Violence Prevention and Services Act, referred to in subsec. (c)(1)(A), is title III of Pub. L. 98–457, Oct. 9, 1984, 98 Stat. 1757, which is classified generally to chapter 110 (§ 10401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10401 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10401) and Tables.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–103, § 501(1)(A), inserted “community health workers, violence prevention advocates working with health providers,” after “health staff,”.
+
+Subsec. (a)(2). Pub. L. 117–103, § 501(1)(B), substituted “for medical, psychology, dental, social work, nursing, and other health profession students, interns, residents, fellows, or current health care providers (including midwives and doulas);” for “for medical, nursing, dental, and other health profession students and residents to prevent and respond to domestic violence, dating violence, sexual assault, and stalking; and”.
+
+Subsec. (a)(3). Pub. L. 117–103, § 501(1)(C)(i), (ii), substituted “capacity” for “response” and inserted “prevent and respond to” after “(including behavioral and mental health programs) to”.
+
+Subsec. (a)(4), (5). Pub. L. 117–103, § 501(1)(C)(iii), (D), added pars. (4) and (5).
+
+Subsec. (b)(1)(A)(i). Pub. L. 117–103, § 501(2)(A)(i), substituted “to provide universal education on healthy relationships and provide trauma-informed” for “to identify and provide”.
+
+Subsec. (b)(1)(A)(ii). Pub. L. 117–103, § 501(2)(B), substituted “training components that center the experiences of, and are developed in collaboration with, culturally specific individuals and American Indians and Alaska Natives, and include community-defined practices such as the use of doulas, midwives, and traditional healers,” for “culturally competent clinical training components” and “inequities” for “disparities” and inserted “(including labor and sex trafficking)” after “other forms of violence and abuse”.
+
+Subsec. (b)(1)(A)(iii), (iv). Pub. L. 117–103, § 501(2)(A)(ii), (C), added cls. (iii) and (iv).
+
+Subsec. (b)(1)(B). Pub. L. 117–103, § 501(2)(D), substituted “capacity of the health care system to prevent and respond” for “response of the health care system” in introductory provisions.
+
+Subsec. (b)(1)(B)(i). Pub. L. 117–103, § 501(2)(E), substituted “identifying, responding to, and promoting prevention of” for “identifying and responding to” and inserted “during in-person or virtual visits” after “and stalking” and “and to maximize victim choice on the use and sharing of their health information” before semicolon at end.
+
+Subsec. (b)(1)(B)(ii). Pub. L. 117–103, § 501(2)(F), substituted “services to address the safety, medical, and mental health needs of patients by—” and subcls. (I) to (III) for “on-site access to services to address the safety, medical, and mental health needs of patients by increasing the capacity of existing health care professionals and public health staff to address domestic violence, dating violence, sexual assault, and stalking, or by contracting with or hiring domestic or sexual assault advocates to provide such services or to model other services appropriate to the geographic and cultural needs of a site;”.
+
+Subsec. (b)(1)(B)(iii). Pub. L. 117–103, § 501(2)(G)(i), (ii), substituted “of prevention” for “of identification” and inserted “during in-person or virtual visits” after “and stalking”.
+
+Subsec. (b)(1)(B)(iv). Pub. L. 117–103, § 501(2)(H)(i), inserted “and promote prevention during in-person or virtual visits,” after “or stalking,”.
+
+Subsec. (b)(1)(B)(v), (vi). Pub. L. 117–103, § 501(2)(G)(iii), (H)(ii), (I), added cls. (v) and (vi).
+
+Subsec. (b)(1)(C). Pub. L. 117–103, § 501(2)(J), added subpar. (C).
+
+Subsec. (b)(2)(A). Pub. L. 117–103, § 501(3), substituted “Child abuse and abuse in later life” for “Child and elder abuse” in heading and “child abuse or abuse in later life” for “child or elder abuse” in text.
+
+Subsec. (b)(2)(C)(i). Pub. L. 117–103, § 501(4), substituted “abuse in later life” for “elder abuse”.
+
+Subsec. (b)(2)(C)(ii). Pub. L. 117–103, § 501(5), inserted “programs that promote the prevention of sexual assault as well as” after “implementation of”.
+
+Subsec. (b)(2)(C)(iii). Pub. L. 117–103, § 501(6)(A), inserted “and exposure to violence across generations” after “abuse”.
+
+Subsec. (b)(2)(C)(iv). Pub. L. 117–103, § 501(7), inserted “mental health,” after “dental,” and substituted “exams and certifications;” for “exams.”.
+
+Subsec. (b)(2)(C)(v) to (vii). Pub. L. 117–103, § 501(6)(B), (8), added cls. (v) to (vii).
+
+Subsec. (c)(3)(A). Pub. L. 117–103, § 501(9), substituted “given to—” and cls. (i) to (iii) for “given to outcome based evaluations.”
+
+Subsec. (c)(3)(B)(i)(III). Pub. L. 117–103, § 501(10), inserted “, including a culturally specific organization or community-based organization working to address the social determinants of health,” after “nonprofit entity”.
+
+Subsec. (c)(3)(C)(ii). Pub. L. 117–103, § 501(11), substituted “strategies—” for “strategies”, inserted subcl. (I) designation before “for the development”, inserted “and generations” after “lifespan” and added subcl. (II).
+
+Subsec. (c)(3)(C)(iii). Pub. L. 117–103, § 501(12), substituted “culturally specific organizations” for “State or tribal law enforcement task forces (where appropriate)”.
+
+Subsec. (c)(3)(C)(iv). Pub. L. 117–103, § 501(13), inserted “(including culturally specific organizations)” after “service providers”.
+
+Subsec. (d)(2)(A). Pub. L. 117–103, § 501(14)(C), which directed insertion of “and substance use disorder prevention and treatment” before “the semicolon at the end”, was executed by making the insertion before “; or”, to reflect the probable intent of Congress.
+
+Pub. L. 117–103, § 501(14)(A), (B), inserted “(including mental health or substance abuse agencies)” after “of health” and substituted “or behavioral” for “or mental”.
+
+Subsec. (d)(2)(B). Pub. L. 117–103, § 501(15), substituted “hospital, behavioral health treatment system, or health system, a community-based” for “hospital, or health system, or any other community-based” and inserted “or substance use disorder prevention and treatment, or a community-based organization with a history of partnership with programs in the field of domestic violence, dating violence, sexual assault, or stalking and health care, including physical or mental health care or substance use disorder prevention and treatment” after “mental health care”.
+
+Subsec. (g). Pub. L. 117–103, § 501(16), substituted “$20,000,000” for “$10,000,000” and “2023 through 2027” for “2014 through 2018”.
+
+Subsec. (h). Pub. L. 117–103, § 501(17), struck out “herein” after “otherwise provided” and “provided for” after “definitions”.
+
 2013—Pub. L. 113–4 amended section generally. Prior to amendment, section related to grants to foster public health responses to domestic violence, dating violence, sexual assault, and stalking.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Findings
 Pub. L. 109–162, title V, § 501, Jan. 5, 2006, 119 Stat. 3023, provided that: “Congress makes the following findings: “(1) The health-related costs of intimate partner violence in the United States exceed $5,800,000,000 annually. “(2) Thirty-seven percent of all women who sought care in hospital emergency rooms for violence-related injuries were injured by a current or former spouse, boyfriend, or girlfriend. “(3) In addition to injuries sustained during violent episodes, physical and psychological abuse is linked to a number of adverse physical and mental health effects. Women who have been abused are much more likely to suffer from chronic pain, diabetes, depression, unintended pregnancies, substance abuse and sexually transmitted infections, including HIV/AIDS. “(4) Health plans spend an average of $1,775 more a year on abused women than on general enrollees. “(5) Each year about 324,000 pregnant women in the United States are battered by the men in their lives. This battering leads to complications of pregnancy, including low weight gain, anemia, infections, and first and second trimester bleeding. “(6) Pregnant and recently pregnant women are more likely to be victims of homicide than to die of any other pregnancy-related cause, and evidence exists that a significant proportion of all female homicide victims are killed by their intimate partners. “(7) Children who witness domestic violence are more likely to exhibit behavioral and physical health problems including depression, anxiety, and violence towards peers. They are also more likely to attempt suicide, abuse drugs and alcohol, run away from home, engage in teenage prostitution, and commit sexual assault crimes. “(8) Recent research suggests that women experiencing domestic violence significantly increase their safety-promoting behaviors over the short- and long-term when health care providers screen for, identify, and provide followup care and information to address the violence. “(9) Currently, only about 10 percent of primary care physicians routinely screen for intimate partner abuse during new patient visits and 9 percent routinely screen for intimate partner abuse during periodic checkups. “(10) Recent clinical studies have proven the effectiveness of a 2-minute screening for early detection of abuse of pregnant women. Additional longitudinal studies have tested a 10-minute intervention that was proven highly effective in increasing the safety of pregnant abused women. Comparable research does not yet exist to support the effectiveness of screening men. “(11) Seventy to 81 percent of the patients studied reported that they would like their healthcare providers to ask them privately about intimate partner violence.”
 
 #### Purpose
 Pub. L. 109–162, title V, § 502, Jan. 5, 2006, 119 Stat. 3024, provided that: “It is the purpose of this title [enacting this section, sections 294h and 13973 of this title, and provisions set out as a note above] to improve the health care system’s response to domestic violence, dating violence, sexual assault, and stalking through the training and education of health care providers, developing comprehensive public health responses to violence against women and children, increasing the number of women properly screened, identified, and treated for lifetime exposure to violence, and expanding research on effective interventions in the health care setting.”
+
+
+<a id="section-280g-4a"></a>
+## § 280g–4a. Understanding sexual assault care in health systems
+**(a) Purpose** It is the purpose of this section to identify areas for improvement in health care delivery systems providing forensic examinations to survivors of sexual assault.
+
+**(b) Grants** The Secretary of Health and Human Services (referred to in this section as “the Secretary”) shall award grants to States and Indian Tribes to develop and implement State and Tribal surveys to identify—
+
+(1) the availability of, and patient access to, medical forensic examinations;
+
+(2) the training level of the health care providers who perform medical forensic examinations;
+
+(3) the hospitals or clinics that offer medical forensic examinations and whether each hospital or clinic has full-time, part-time, or on-call coverage;
+
+(4) barriers to medical forensic examinations provided through sexual assault care and services;
+
+(5) billing and reimbursement practices for medical forensic examinations;
+
+(6) State and Tribal requirements, minimum standards, and protocols for training sexual assault examiners for sexual assault forensic examiners and for other personnel involved in medical forensic examinations;
+
+(7) the availability of sexual assault forensic examiner training, the frequency of such training, the providers of such training, the State’s or Indian Tribe’s role in such training, and the processes or procedures in place for continuing education of such examiners; and
+
+(8) the dedicated Federal and State funding available to support sexual assault forensic examiner training.
+
+**(c) Eligibility** To be eligible to receive a grant under this section, a State or Indian Tribe shall submit to the Secretary an application through a competitive process to be determined by the Secretary.
+
+**(d) Public dissemination and campaign**
+
+(1) **Public availability** — The results of the surveys conducted under grants awarded under this section shall be published by the Secretary on the website of the Department of Health and Human Services on a biennial basis.
+
+(2) **Campaigns** — A State or Indian Tribe that receives a grant under this section shall carry out the following activities:
+
+  (A) Make the findings of the survey conducted using amounts received under the grant public, including a map showing health care providers who perform medical forensic examinations, based on the findings from the State and Tribal surveys under subsection (b)(3).
+
+  (B) Use the findings to develop a strategic action plan to increase the number of trained medical forensic examiners available in the State or Tribal community and create policies to increase survivor access to trained examiners.
+
+  (C) Use the findings to develop and implement a public awareness campaign that includes the following:
+
+    (i) An online toolkit describing how and where sexual assault survivors can obtain assistance and care, including medical forensic examinations, in the State or Tribal community.
+
+    (ii) A model standard response protocol for health care providers to implement upon arrival of a patient seeking care for sexual assault.
+
+    (iii) A model sexual assault response team protocol incorporating interdisciplinary community coordination between hospitals, emergency departments, hospital administration, local rape crisis programs, law enforcement, prosecuting attorneys, and other health and human service agencies and stakeholders with respect to delivering survivor-centered sexual assault care and medical forensic examinations.
+
+    (iv) A notice of applicable laws prohibiting charging or billing survivors of sexual assault for care and services related to sexual assault.
+
+**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $7,000,000 for each of fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Violence Against Women Act Reauthorization Act of 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### National Report on Sexual Assault Services in our Nation’s Health System
+Pub. L. 117–103, div. W, title V, § 504, Mar. 15, 2022, 136 Stat. 876, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Mar. 15, 2022], and annually thereafter, the Agency for Healthcare Research and Quality, in consultation with the Centers for Medicare & Medicaid Services, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the Indian Health Service, the Office for Victims of Crime of the Department of Justice, the Office on Women’s Health of the Department of Health and Human Services, and the Office of Violence Against Women of the Department of Justice (collectively referred to in this section as the ‘Agencies’), shall submit to the Secretary of Health and Human Services (referred to in this section as ‘the Secretary’) a report of existing Federal, Indian Tribe, and State practices relating to medical forensic examinations which may include the findings of the surveys developed under section 503 [[42 U.S.C. 280g–4a](./chapter-6a-public-health-service.md#section-280g-4a)]. “(b) Core Competencies.—In conducting activities under this section, the Agencies shall address sexual assault forensic examination competencies, including—“(1) providing medical care to sexual assault patients; “(2) demonstrating the ability to conduct a medical forensic examination, including an evaluation for evidence collection; “(3) showing compassion and sensitivity towards survivors of sexual assault; “(4) testifying in Federal, State, local, and Tribal courts; and “(5) other competencies, as the Agencies determine appropriate. “(c) Publication.—The Agency for Healthcare Research and Quality shall establish, maintain, and publish on the website of the Department of Health and Human Services an online public map of availability of sexual assault forensic examinations. Such maps shall clarify if there is full-time, part-time, or on-call coverage. “(d) Report to Congress.—Not later than 60 days after receiving the report described in subsection (a), the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on Education and Labor of the House of Representatives recommendations for improving sexual assault forensic examination competencies based on the report described in subsection (a).”
+
+[For definition of terms used in section 504 of div. W of Pub. L. 117–103, set out above, see section 12291 Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim)].
+
+#### Definitions
+For definitions of terms used in this section, see [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim), Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim).
+
+
+<a id="section-280g-4b"></a>
+## § 280g–4b. Expanding access to unified care
+**(a) Establishment of program** The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall establish a program (referred to in this section as the “program”) to award grants to eligible entities for the clinical training of sexual assault forensic examiners (including registered nurses, nurse practitioners, nurse midwives, clinical nurse specialists, physician assistants, and physicians) to administer medical forensic examinations and treatments to survivors of sexual assault.
+
+**(b) Purpose** The purpose of the program is to enable each grant recipient to expand access to medical forensic examination services by providing new providers with the clinical training necessary to establish and maintain competency in such services and to test the provisions of such services at new facilities in expanded health care settings.
+
+**(c) Grants** Under the program, the Secretary shall award 3-year grants to eligible entities that meet the requirements established by the Secretary.
+
+**(d) Eligible entities** To be eligible to receive a grant under this section, an entity shall—
+
+(1) be—
+
+  (A) a safety net clinic acting in partnership with a high-volume emergency services provider or a hospital currently providing sexual assault medical forensic examinations performed by sexual assault forensic examiners, that will use grant funds to—
+
+    (i) assign rural health care service providers to the high-volume hospitals for clinical practicum hours to qualify such providers as sexual assault forensic examiners; or
+
+    (ii) assign practitioners at high-volume hospitals to rural health care services providers to instruct, oversee, and approve clinical practicum hours in the community to be served;
+
+  (B) an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from taxation under 501(a) of such title, that provides legal training and technical assistance to Tribal communities and to organizations and agencies serving Indians; or
+
+  (C) an Indian Tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)); and
+
+(2) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a description of whether the applicant will provide services described in subparagraph (A) or (B) of paragraph (1).
+
+**(e) Grant amount** Each grant awarded under this section shall be in an amount not to exceed $400,000 per year. A grant recipient may carry over funds from one fiscal year to the next without obtaining approval from the Secretary.
+
+**(f) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2023 through 2027.
+
+(2) **Set-aside** — Of the amount appropriated under this subsection for a fiscal year, the Secretary shall reserve 15 percent of such amount for purposes of making grants to entities that are affiliated with Indian Tribes or Tribal organizations (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), or Urban Indian organizations (as defined in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim)). Amounts reserved may be used to support referrals and the delivery of emergency first aid, culturally competent support, and forensic evidence collection training.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Violence Against Women Act Reauthorization Act of 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### Improving and Strengthening the Sexual Assault Examiner Workforce Clinical and Continuing Education Pilot Program
+Pub. L. 117–103, div. W, title V, § 505, Mar. 15, 2022, 136 Stat. 876, provided that: “(a) Purpose.—It is the purpose of this section to establish a pilot program to develop, test, and implement training and continuing education that expands and supports the availability of medical forensic examination services for survivors of sexual assault. “(b) Establishment.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Mar. 15, 2022], the Secretary of Health and Human Services (referred to in this section as ‘the Secretary’) shall establish a National Continuing and Clinical Education Pilot Program for sexual assault forensic examiners, sexual assault nurse examiners, and other individuals who perform medical forensic examinations. “(2) Consultation.—In establishing such program, the Secretary shall consult with the Centers for Medicare & Medicaid Services, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the Indian Health Service, the Office for Victims of Crime of the Department of Justice, the Office on Violence Against Women of the Department of Justice, and the Office on Women’s Health of the Department of Health and Human Services, and shall solicit input from regional, national, and Tribal organizations with expertise in forensic nursing, rape trauma or crisis counseling, investigating rape and gender violence cases, survivors’ advocacy and support, sexual assault prevention education, rural health, and responding to sexual violence in Tribal communities. “(c) Functions.—The pilot program established under subsection (b) shall develop, pilot, implement, and update, as appropriate, continuing and clinical education program modules, webinars, and programs for all hospitals and providers to increase access to medical forensic examination services and address ongoing competency issues in medical forensic examination services, including—“(1) training and continuing education to help support sexual assault forensic examiners practicing in rural or underserved areas; “(2) training to help connect sexual assault survivors who are Indian with sexual assault forensic examiners, including through emergency first aid, referrals, culturally competent support, and forensic evidence collection in rural communities; “(3) replication of successful sexual assault forensic examination programs to help develop and improve the evidence base for medical forensic examinations; and “(4) training to increase the number of medical professionals who are considered sexual assault forensic examiners based on the recommendations of the National Sexual Assault Forensic Examination Training Standards issued by the Office on Violence Against Women of the Department of Justice. “(d) Eligibility to Participate in Pilot Programs.—The Secretary shall ensure that medical forensic examination services provided under the pilot program established under subsection (b), and other medical forensic examiner services under the pilot program are provided by health care providers who are also one of the following:“(1) A physician, including a resident physician. “(2) A nurse practitioner. “(3) A nurse midwife. “(4) A physician assistant. “(5) A certified nurse specialist. “(6) A registered nurse. “(7) A community health practitioner or a community health aide who has completed level III or level IV certification and training requirements. “(e) Nature of Training.—The continuing education program established under this section shall incorporate and reflect current best practices and standards on medical forensic examination services consistent with the purpose of this section. “(f) Availability.—After termination of the pilot program established under subsection (b)(1), the training and continuing education program established under such program shall be available to all sexual assault forensic examiners and other providers employed by, or any individual providing services through, facilities that receive Federal funding. “(g) Effective Date.—The pilot program established under this section shall terminate on the date that is 2 years after the date of such establishment. “(h) Authorization.—There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023 through 2025.”
+
+[For definition of terms used in section 505 of div. W of Pub. L. 117–103, set out above, see section 12291 Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim)].
+
+#### Definitions
+For definitions of terms used in this section, see [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim), Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim).
+
+
+<a id="section-280g-4c"></a>
+## § 280g–4c. Expanding access to forensics for victims of interpersonal violence
+**(a) Definitions** In this section:
+
+(1) **Community health aide; community health practitioner** — The terms “community health aide” and “community health practitioner” have the meanings given such terms for purposes of section 1616l of title 25.
+
+(2) **Health care provider** — The term “health care provider” has the meaning given such term by the Secretary, and includes registered nurses, nurse practitioners, nurse midwives, clinical nurse specialists, physician assistants, and physicians.
+
+(3) **Indian tribe; Tribal organization** — The terms “Indian Tribe” and “Tribal organization” shall have the meanings given such terms in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(4) **Institution of higher education** — The term “institution of higher education” has the meaning given such term in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim).
+
+(5) **Interpersonal violence** — The term “interpersonal violence” means any form of violence that is emotional and trauma-inducing for victims, families of victims, perpetrators, and communities.
+
+(6) **Native Hawaiian organization** — The term “Native Hawaiian organization” has the meaning given such term in [section 11711 of this title](./chapter-122-native-hawaiian-health-care.md#section-11711).
+
+(7) **Secretary** — The term “Secretary” means the Secretary of Health and Human Services.
+
+(8) **Trauma-informed care** — The term “trauma-informed care” means care received by trauma survivors that is culturally competent in accordance with professional standards of practice and accounting for patients’ experiences and preferences in order to eliminate or mitigate triggers that may cause re-traumatization of the patient.
+
+(9) **Urban Indian organization** — The term “Urban Indian organization” has the meaning given such term in [section 1603 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1603&num=0&edition=prelim).
+
+**(b) Demonstration grants for comprehensive forensic training**
+
+(1) **Establishment of program** — The Secretary shall establish a demonstration program to award grants to eligible entities for the clinical training of health care providers to provide generalist forensic services and trauma-informed care to survivors of interpersonal violence of all ages.
+
+(2) **Purpose** — The purpose of the demonstration program under this subsection is to develop training and curriculum to provide health care providers with the skills to support the provision of forensic assessment and trauma-informed care to individuals, families, and communities that have experienced violence or trauma and to be available to collaborate with members of an inter-professional forensic team.
+
+(3) **Term** — Grants under this subsection shall be for a term of 5 years.
+
+(4) **Eligible entities** — To be eligible to receive a grant under this subsection, an entity shall—
+
+  (A) be an institute of higher education, including a minority serving institution as described in [section 1067q of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q&num=0&edition=prelim); and
+
+  (B) submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+(5) **Grant amount** — Each grant awarded under this subsection shall be in an amount that does not exceed $400,000 per year. A grant recipient may carry over funds from one fiscal year to the next without obtaining approval from the Secretary.
+
+(6) **Authorization of appropriations**
+
+  (A) *In general* — There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2023 through 2027.
+
+  (B) *Set-aside* — Of the amount appropriated under this paragraph for a fiscal year, the Secretary shall reserve 10 percent for purposes of making grants to support training and curricula that addresses the unique needs of Indian Tribes, Tribal organizations, Urban Indian organizations, and Native Hawaiian organizations. Amounts so reserved may be used to support training, referrals, and the delivery of emergency first aid, culturally competent support, and forensic evidence collection training.
+
+**(c) Technical assistance grants and learning collectives**
+
+(1) **In general** — The Secretary shall establish a State and Tribal forensic provider technical resource center to provide technical assistance and support collaboration and best practices for health care providers, community health aides, and community health practitioners to improve the quality of, and increase access to, forensic services for all survivors of interpersonal violence. The Secretary may enter into contracts with national experts for purposes of carrying out this subsection.
+
+(2) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection, $2,000,000 for each of fiscal years 2023 through 2027.
+
+**(d) National report** Not later than 1 year after March 15, 2022, and annually thereafter, the Office for Victims of Crime of the Department of Justice, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the Indian Health Service, the Office on Women’s Health of the Department of Health and Human Services, and the Office on Violence Against Women of the Department of Justice shall jointly submit to the Secretary a report on the need for, throughout the States, Indian Tribes, and territories—
+
+(1) access to generalist medical forensic services, evidence collection, and documentation that aids in meeting the needs of health care patients and improves future law enforcement investigation and prosecution; and
+
+(2) data for research to support the response to and prevention of interpersonal violence, improved ability of health care providers to adequately respond to patients who exhibit signs of victimization, and address the unique needs of Tribal communities.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Violence Against Women Act Reauthorization Act of 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### Definitions
+For definition of “law enforcement” and “State” as used in this section, see [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim), Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291&num=0&edition=prelim).
 
 
 <a id="section-280g-5"></a>
@@ -28566,11 +29185,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### References in Text
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (c)(1)(A)(iv), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see [section 9857(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsecs. (c)(1)(A)(v)–(vii), (d)(2)(C), and (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (c)(1)(A)(v)–(vii), (d)(2)(C), and (e)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1)(A)(viii) and (d)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1)(A)(viii) and (d)(2)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c)(1)(A)(x), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (d)(2)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of this title](./chapter-144-developmental-disabilities-assistance-and-bill-of-rights.md#section-15001) and Tables.
 
@@ -30446,7 +31065,7 @@ Pub. L. 114–255, div. A, title II, § 2038(i), Dec. 13, 2016, 130 Stat. 1067, 
 Pub. L. 114–255, div. A, title II, § 2039, Dec. 13, 2016, 130 Stat. 1068, provided that: “(a) Establishment.—Not later than 1 year after the date of enactment of this Act [Dec. 13, 2016], the Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall convene a working group under the Advisory Committee to the Director of the National Institutes of Health (referred to in this section as the ‘Advisory Committee’), appointed under section 222 of the Public Health Service Act ([42 U.S.C. 217a](./chapter-6a-public-health-service.md#section-217a)), to develop and issue recommendations through the Advisory Committee for a formal policy, which may incorporate or be informed by relevant existing and ongoing activities, to enhance rigor and reproducibility of scientific research funded by the National Institutes of Health. “(b) Considerations.—In developing and issuing recommendations through the Advisory Committee under subsection (a), the working group established under such subsection shall consider, as appropriate—“(1) preclinical experiment design, including analysis of sex as a biological variable; “(2) clinical experiment design, including—“(A) the diversity of populations studied for clinical research, with respect to biological, social, and other determinants of health that contribute to health disparities; “(B) the circumstances under which summary information regarding biological, social, and other factors that contribute to health disparities should be reported; and “(C) the circumstances under which clinical studies, including clinical trials, should conduct an analysis of the data collected during the study on the basis of biological, social, and other factors that contribute to health disparities; “(3) applicable levels of rigor in statistical methods, methodology, and analysis; “(4) data and information sharing in accordance with applicable privacy laws and regulations; and “(5) any other matter the working group determines relevant. “(c) Policies.—Not later than 18 months after the date of enactment of this Act, the Director of the National Institutes of Health shall consider the recommendations developed by the working group and issued by the Advisory Committee under subsection (a) and develop or update policies as appropriate. “(d) Report.—Not later than 2 years after the date of enactment of this Act, the Director of the National Institutes of Health shall issue a report to the Secretary of Health and Human Services, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives regarding recommendations developed under subsection (a) and any subsequent policy changes implemented, to enhance rigor and reproducibility in scientific research funded by the National Institutes of Health. “(e) Confidentiality.—Nothing in this section authorizes the Secretary of Health and Human Services to disclose any information that is a trade secret, or other privileged or confidential information, described in [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim), United States Code, or [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), United States Code.”
 
 #### Demonstration Grants for Improving Pediatric Device Availability
-Pub. L. 110–85, title III, § 305, Sept. 27, 2007, 121 Stat. 863, as amended by Pub. L. 112–144, title VI, § 620(a), July 9, 2012, 126 Stat. 1064; Pub. L. 115–52, title V, § 502(c), Aug. 18, 2017, 131 Stat. 1037, provided that: “(a) In General.—“(1) Request for proposals.—Not later than 90 days after the date of the enactment of this Act [Sept. 27, 2007], the Secretary of Health and Human Services shall issue a request for proposals for 1 or more grants or contracts to nonprofit consortia for demonstration projects to promote pediatric device development. “(2) Determination on grants or contracts.—Not later than 180 days after the date the Secretary of Health and Human Services issues a request for proposals under paragraph (1), the Secretary shall make a determination on the grants or contracts under this section. “(b) Application.—A nonprofit consortium that desires to receive a grant or contract under this section shall submit an application to the Secretary of Health and Human Services at such time, in such manner, and containing such information as the Secretary may require. “(c) Use of Funds.—A nonprofit consortium that receives a grant or contract under this section shall facilitate the development, production, and distribution of pediatric medical devices by—“(1) encouraging innovation and connecting qualified individuals with pediatric device ideas with potential manufacturers; “(2) mentoring and managing pediatric device projects through the development process, including product identification, prototype design, device development, and marketing; “(3) connecting innovators and physicians to existing Federal and non-Federal resources, including resources from the Food and Drug Administration, the National Institutes of Health, the Small Business Administration, the Department of Energy, the Department of Education, the National Science Foundation, the Department of Veterans Affairs, the Agency for Healthcare Research and Quality, and the National Institute of Standards and Technology; “(4) assessing the scientific and medical merit of proposed pediatric device projects; “(5) providing assistance and advice as needed on business development, personnel training, prototype development, postmarket needs, and other activities consistent with the purposes of this section; and “(6) providing regulatory consultation to device sponsors in support of the submission of an application for a pediatric device, where appropriate. “(d) Coordination.—“(1) National institutes of health.—Each consortium that receives a grant or contract under this section shall—“(A) coordinate with the National Institutes of Health’s pediatric device contact point or office, designated under section 402(b)(23) of the Public Health Service Act [[42 U.S.C. 282(b)(23)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b/23&num=0&edition=prelim)], as added by section 304(a) of this Act; and “(B) provide to the National Institutes of Health any identified pediatric device needs that the consortium lacks sufficient capacity to address or those needs in which the consortium has been unable to stimulate manufacturer interest. “(2) Food and drug administration.—Each consortium that receives a grant or contract under this section shall coordinate with the Commissioner of Food and Drugs and device companies to facilitate the application for approval or clearance of devices labeled for pediatric use. “(3) Effectiveness and outcomes.—Each consortium that receives a grant or contract under this section shall annually report to the Secretary of Health and Human Services on the status of pediatric device development, production, and distribution that has been facilitated by the consortium. “(e) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $5,250,000 for each of fiscal years 2018 through 2022.”
+Pub. L. 110–85, title III, § 305, Sept. 27, 2007, 121 Stat. 863, as amended by Pub. L. 112–144, title VI, § 620(a), July 9, 2012, 126 Stat. 1064; Pub. L. 115–52, title V, § 502(c), Aug. 18, 2017, 131 Stat. 1037; Pub. L. 117–180, div. F, title V, § 5003, Sept. 30, 2022, 136 Stat. 2167; Pub. L. 117–229, div. C, title III, § 304, Dec. 16, 2022, 136 Stat. 2312, provided that: “(a) In General.—“(1) Request for proposals.—Not later than 90 days after the date of the enactment of this Act [Sept. 27, 2007], the Secretary of Health and Human Services shall issue a request for proposals for 1 or more grants or contracts to nonprofit consortia for demonstration projects to promote pediatric device development. “(2) Determination on grants or contracts.—Not later than 180 days after the date the Secretary of Health and Human Services issues a request for proposals under paragraph (1), the Secretary shall make a determination on the grants or contracts under this section. “(b) Application.—A nonprofit consortium that desires to receive a grant or contract under this section shall submit an application to the Secretary of Health and Human Services at such time, in such manner, and containing such information as the Secretary may require. “(c) Use of Funds.—A nonprofit consortium that receives a grant or contract under this section shall facilitate the development, production, and distribution of pediatric medical devices by—“(1) encouraging innovation and connecting qualified individuals with pediatric device ideas with potential manufacturers; “(2) mentoring and managing pediatric device projects through the development process, including product identification, prototype design, device development, and marketing; “(3) connecting innovators and physicians to existing Federal and non-Federal resources, including resources from the Food and Drug Administration, the National Institutes of Health, the Small Business Administration, the Department of Energy, the Department of Education, the National Science Foundation, the Department of Veterans Affairs, the Agency for Healthcare Research and Quality, and the National Institute of Standards and Technology; “(4) assessing the scientific and medical merit of proposed pediatric device projects; “(5) providing assistance and advice as needed on business development, personnel training, prototype development, postmarket needs, and other activities consistent with the purposes of this section; and “(6) providing regulatory consultation to device sponsors in support of the submission of an application for a pediatric device, where appropriate. “(d) Coordination.—“(1) National institutes of health.—Each consortium that receives a grant or contract under this section shall—“(A) coordinate with the National Institutes of Health’s pediatric device contact point or office, designated under section 402(b)(23) of the Public Health Service Act [[42 U.S.C. 282(b)(23)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/b/23&num=0&edition=prelim)], as added by section 304(a) of this Act; and “(B) provide to the National Institutes of Health any identified pediatric device needs that the consortium lacks sufficient capacity to address or those needs in which the consortium has been unable to stimulate manufacturer interest. “(2) Food and drug administration.—Each consortium that receives a grant or contract under this section shall coordinate with the Commissioner of Food and Drugs and device companies to facilitate the application for approval or clearance of devices labeled for pediatric use. “(3) Effectiveness and outcomes.—Each consortium that receives a grant or contract under this section shall annually report to the Secretary of Health and Human Services on the status of pediatric device development, production, and distribution that has been facilitated by the consortium. “(e) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $1,610,959 for the period beginning on October 1, 2022 and ending on December 23, 2022.”
 
 #### Surveillances
 Pub. L. 110–85, title VIII, § 801(c), Sept. 27, 2007, 121 Stat. 921, provided that: “Not later than 12 months after the date of the enactment of this Act [Sept. 27, 2007], the Secretary of Health and Human Services shall issue guidance on how the requirements of section 402(j) of the Public Health Service Act [[42 U.S.C. 282(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section282/j&num=0&edition=prelim)], as added by this section, apply to a pediatric postmarket surveillance described in paragraph (1)(A)(ii)(II) of such section 402(j) that is not a clinical trial.”
@@ -30823,6 +31442,17 @@ Section was formerly classified to [section 283a of this title](./chapter-6a-pub
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 109–482 applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years, see section 109 of Pub. L. 109–482, set out as a note under [section 281 of this title](./chapter-6a-public-health-service.md#section-281).
+
+
+<a id="section-283a-4"></a>
+## § 283a–4. Notification to Director of personnel removed or disciplined for harassment, bullying, retaliation, or hostile working conditions
+
+The Director of the National Institutes of Health shall hereafter require institutions that receive funds through a grant or cooperative agreement during fiscal year 2022 and in future years to notify the Director when individuals identified as a principal investigator or as key personnel in an NIH notice of award are removed from their position or are otherwise disciplined due to concerns about harassment, bullying, retaliation, or hostile working conditions. The Director may issue regulations consistent with this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of Health and Human Services Appropriations Act, 2022, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2022, and the Consolidated Appropriations Act, 2022, and not as part of the Public Health Service Act which comprises this chapter.
 
 
 <a id="section-283b"></a>
@@ -31503,7 +32133,7 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 ### Statutory Notes
 
 #### References in Text
-The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(B) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, which is classified generally to chapter 54 (§ 2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2131 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2131&num=0&edition=prelim) and Tables.
+The Animal Welfare Act, referred to in subsecs. (d)(2)(D), (3)(B) and (e)(3)(A)(ix), is Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, which is classified generally to chapter 54 (§ 2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2131 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2131&num=0&edition=prelim) and Tables.
 
 Section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act, referred to in subsec. (d)(4)(A), is section 3 of Pub. L. 106–551, which is set out as a note below.
 
@@ -31742,7 +32372,7 @@ The Federal Advisory Committee Act shall not apply to the duration of a peer rev
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2021—Subsec. (b)(1). Pub. L. 117–81 substituted “section 3861” for “section 2354” in concluding provisions.
@@ -31774,6 +32404,11 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under [section 242m of this title](./chapter-6a-public-health-service.md#section-242m).
+
+#### Federal Research
+Pub. L. 117–215, title IV, § 401, Dec. 2, 2022, 136 Stat. 2265, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 2, 2022], the Secretary of Health and Human Services, in coordination with the Director of the National Institutes of Health and the heads of other relevant Federal agencies, shall submit to the Caucus on International Narcotics Control, the Committee on the Judiciary, and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce and the Committee on the Judiciary of the House of Representatives a report on—“(1) the potential therapeutic effects of cannabidiol or marijuana on serious medical conditions, including intractable epilepsy; “(2) the potential effects of marijuana, including—“(A) the effect of increasing delta-9-tetrahydrocannabinol levels on the human body and developing adolescent brains; and “(B) the effect of various delta-9-tetrahydrocannabinol levels on cognitive abilities, such as those that are required to operate motor vehicles or other heavy equipment; and “(3) the barriers associated with researching marijuana or cannabidiol in States that have legalized the use of such substances, which shall include—“(A) recommendations as to how such barriers might be overcome, including whether public-private partnerships or Federal-State research partnerships may or should be implemented to provide researchers with access to additional strains of marijuana and cannabidiol; and “(B) recommendations as to what safeguards must be in place to verify—“(i) the levels of tetrahydrocannabinol, cannabidiol, or other cannabinoids contained in products obtained from such States is accurate; and “(ii) that such products do not contain harmful or toxic components. “(b) Activities.—To the extent practicable, the Secretary of Health and Human Services, either directly or through awarding grants, contacts, or cooperative agreements, shall expand and coordinate the activities of the National Institutes of Health and other relevant Federal agencies to better determine the effects of cannabidiol and marijuana, as outlined in the report submitted under paragraphs (1) and (2) of subsection (a).”
+
+[For definitions of terms as used in section 401 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim), Food and Drugs.]
 
 #### Enhancing the Clinical and Translational Science Award
 Pub. L. 109–482, title I, § 106, Jan. 15, 2007, 120 Stat. 3696, provided that: “(a) In General.—In administering the Clinical and Translational Science Award, the Director of NIH shall establish a mechanism to preserve independent funding and infrastructure for pediatric clinical research centers by—“(1) allowing the appointment of a secondary principal investigator under a single Clinical and Translational Science Award, such that a pediatric principal investigator may be appointed with direct authority over a separate budget and infrastructure for pediatric clinical research; or “(2) otherwise securing institutional independence of pediatric clinical research centers with respect to finances, infrastructure, resources, and research agenda. “(b) Report.—As part of the biennial report under section 403 of the Public Health Service Act [[42 U.S.C. 283](./chapter-6a-public-health-service.md#section-283)], the Director of NIH shall provide an evaluation and comparison of outcomes and effectiveness of training programs under subsection (a). “(c) Definition.—For purposes of this section, the term ‘Director of NIH’ has the meaning given such term in section 401 of the Public Health Service Act [[42 U.S.C. 281](./chapter-6a-public-health-service.md#section-281)].”
@@ -32505,7 +33140,7 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 **(d) Authorization of appropriations**
 
-(1) **In general** — There are authorized to be appropriated to carry out this section, $25,000,000 for each of fiscal years 2018 through 2022.
+(1) **In general** — There are authorized to be appropriated to carry out this section, $5,753,425 for the period beginning on October 1, 2022 and ending on December 23, 2022.
 
 (2) **Availability** — Any amount appropriated under paragraph (1) shall remain available to carry out this section until expended.
 
@@ -32515,6 +33150,10 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(10), (11), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–229 substituted “$5,753,425 for the period beginning on October 1, 2022 and ending on December 23, 2022” for “$5,273,973 for the period beginning on October 1, 2022 and ending on December 16, 2022”.
+
+Pub. L. 117–180 substituted “$5,273,973 for the period beginning on October 1, 2022 and ending on December 16, 2022” for “$25,000,000 for each of fiscal years 2018 through 2022”.
+
 2017—Subsec. (a)(2)(A)(ii). Pub. L. 115–52, § 501(1), inserted “and identification of biomarkers for such diseases, disorders, or conditions,” after “biologics,”.
 
 Subsec. (c)(6)(B). Pub. L. 115–52, § 501(2)(A)(i), amended subpar. (B) generally. Prior to amendment, text read as follows: “Each report submitted under subparagraph (A) shall be considered to be in the public domain (subject to section 505A(d)(4) of the Federal Food, Drug, and Cosmetic Act) and shall be assigned a docket number by the Commissioner of Food and Drugs. An interested person may submit written comments concerning such pediatric studies to the Commissioner of Food and Drugs, and the written comments shall become part of the docket file with respect to each of the drugs.”
@@ -34173,6 +34812,54 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 A prior section 285b–8, act July 1, 1944, ch. 373, title IV, § 425, as added Pub. L. 103–43, title V, § 504, June 10, 1993, 107 Stat. 160, authorized appropriations to carry out this subpart, prior to repeal by Pub. L. 109–482, title I, §§ 103(b)(20), 109, Jan. 15, 2007, 120 Stat. 3688, 3697, applicable only with respect to amounts appropriated for fiscal year 2007 or subsequent fiscal years.
 
 
+<a id="section-285b-9"></a>
+## § 285b–9. HHS valvular heart disease activities
+**(a) In General** The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall, as appropriate, continue activities related to research, education, and awareness of valvular heart diseases.
+
+**(b) NIH research related to valvular heart diseases**
+
+(1) **In general** — The Director of the National Institutes of Health, in consultation with the Director of the National Heart, Lung, and Blood Institute, may support or conduct research regarding valvular heart diseases.
+
+(2) **Support further research** — In order to improve information on, and understanding of, causation and risk factors for valvular heart diseases, research conducted or supported under this subsection for such diseases may include the following:
+
+  (A) Use of advanced technological imaging and other relevant methods to generate data related to valvular heart diseases.
+
+  (B) Assessing potential risk factors for sudden cardiac arrest or sudden cardiac death from valvular heart diseases.
+
+  (C) Other activities, as appropriate, in order to improve the availability of information on, and advance research related to, valvular heart diseases.
+
+(3) **Mitral valve prolapse workshop** — Not later than 2 years after December 20, 2022, the Director of the National Heart, Lung, and Blood Institute shall, as appropriate, convene a workshop composed of subject matter experts and stakeholders to identify research needs and opportunities to develop recommendations for the identification and treatment of individuals with mitral valve prolapse, including such individuals who may be at risk for sudden cardiac arrest or sudden cardiac death.
+
+**(c) Prevention activities to improve awareness of sudden cardiac death as a result of valvular heart diseases**
+
+(1) **In general** — The Secretary may carry out activities to increase education and awareness of valvular heart diseases in order to reduce the incidence of sudden cardiac death caused by such diseases. The Secretary may—
+
+  (A) award grants or contracts to public or nonprofit private entities to carry out activities under this subsection; and
+
+  (B) directly, or through grants or contracts, provide technical assistance with respect to such activities.
+
+(2) **Certain activities** — Upon availability of applicable data, projects carried out under paragraph (1) may include—
+
+  (A) continuing activities at the Centers for Disease Control and Prevention related to valvular heart diseases;
+
+  (B) improving the awareness of the public concerning any risk factors for, the symptoms of, and the public health impact of, valvular heart diseases; and
+
+  (C) enhancing public health data collection and improving the quality of such data, as appropriate, regarding cardiac arrests, including cardiac arrests that occur outside of the hospital.
+
+(3) **Grant prioritization** — The Secretary may, in awarding grants or entering into contracts pursuant to paragraph (1), give priority to entities seeking to carry out projects for populations most impacted by valvular heart diseases.
+
+(4) **Coordination of activities** — The Secretary shall, as appropriate, ensure that activities under this section are coordinated with other agencies and offices of the Department of Health and Human Services that carry out activities regarding valvular heart diseases.
+
+(5) **Best practices** — The Secretary shall, as applicable and appropriate, identify and disseminate best practices for relevant health care providers related to valvular heart diseases.
+
+**(d) Authorization of appropriations** For purposes of carrying out this section, there are authorized to be appropriated $28,000,000 for each of fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Cardiovascular Advances in Research and Opportunities Legacy Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+
 <a id="section-285c"></a>
 ## § 285c. Purpose of Institute
 
@@ -34427,9 +35114,9 @@ The description submitted by the Director shall include an evaluation of the act
 #### References in Text
 [Section 284b of this title](./chapter-6a-public-health-service.md#section-284b), referred to in text, was repealed by Pub. L. 109–482, title I, § 104(b)(1)(C), Jan. 15, 2007, 120 Stat. 3693.
 
-The National Diabetes Mellitus Research and Education Act, referred to in par. (1), is Pub. L. 93–354, July 23, 1974, 88 Stat. 373, as amended, which enacted former sections 289c–1a, 289c–2, and 289c–3 of this title, amended section 247b and former [section 289c–1 of this title](./chapter-6a-public-health-service.md#section-289c-1), and enacted provisions formerly set out as notes under [section 289c–2 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section289c–2&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The National Diabetes Mellitus Research and Education Act, referred to in par. (1), is Pub. L. 93–354, July 23, 1974, 88 Stat. 373, which enacted former sections 289c–1a, 289c–2, and 289c–3 of this title, amended section 247b and former [section 289c–1 of this title](./chapter-6a-public-health-service.md#section-289c-1), and enacted provisions formerly set out as notes under [section 289c–2 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section289c–2&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1974 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
-The Arthritis, Diabetes, and Digestive Diseases Amendments of 1976, referred to in par. (2), is Pub. L. 94–562, Oct. 19, 1976, 90 Stat. 2645, as amended, which enacted former sections 289c–3a, 289c–7, and 289c–8 of this title, amended former sections 289c–2, 289c–5, and 289c–6 of this title, and enacted provisions formerly set out as notes under sections 289a, 289c–3a, and 289c–7 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Arthritis, Diabetes, and Digestive Diseases Amendments of 1976, referred to in par. (2), is Pub. L. 94–562, Oct. 19, 1976, 90 Stat. 2645, which enacted former sections 289c–3a, 289c–7, and 289c–8 of this title, amended former sections 289c–2, 289c–5, and 289c–6 of this title, and enacted provisions formerly set out as notes under sections 289a, 289c–3a, and 289c–7 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 
 <a id="section-285c-8"></a>
@@ -35009,7 +35696,7 @@ Pub. L. 100–607, § 142(d)(3), substituted “the Institute” for “the Nati
 ### Statutory Notes
 
 #### References in Text
-Part D, referred to in subsec. (c), probably means part D of title IX of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3808, as amended, which is classified to subchapter IV (§ 11251 et seq.) of chapter 118 of this title. Prior to renumbering by Pub. L. 100–607, this section was part of title IX of Pub. L. 99–660.
+Part D, referred to in subsec. (c), probably means part D of title IX of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3808, which is classified to subchapter IV (§ 11251 et seq.) of chapter 118 of this title. Prior to renumbering by Pub. L. 100–607, this section was part of title IX of Pub. L. 99–660.
 
 #### Codification
 Section was formerly classified to [section 11281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11281&num=0&edition=prelim) prior to renumbering by Pub. L. 100–607.
@@ -35345,7 +36032,7 @@ There shall be in the Institute an Associate Director for Prevention to coordina
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, referred to in subsecs. (d)(3)(A) and (f)(1), probably means the date of enactment of the National Institutes of Health Amendments of 1990, Pub. L. 101–613, which was approved Nov. 16, 1990.
 
@@ -35767,7 +36454,7 @@ Section was enacted as part of the ICCVAM Authorization Act of 2000, and not as 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section was enacted as part of the ICCVAM Authorization Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.
@@ -36429,7 +37116,7 @@ Section 706 of Pub. L. 102–321 directed Secretary of Health and Human Services
 ### Statutory Notes
 
 #### References in Text
-Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188, as amended.
+Sections 1501 and 1504 of title 21, referred to in subsec. (c), were repealed by Pub. L. 100–690, title I, § 1009, Nov. 18, 1988, 102 Stat. 4188.
 
 #### Amendments
 2007—Subsec. (e). Pub. L. 109–482 struck out heading and text of subsec. (e). Text read as follows: “For the purpose of carrying out this section, there are authorized to be appropriated $85,000,000 for fiscal year 1993, and $95,000,000 for fiscal year 1994.”
@@ -36877,9 +37564,9 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 (1) **In general** — The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
 
-  (1) 11 So in original. Probably should be “(A)”. at centers of excellence under [section 293 of this title](./chapter-6a-public-health-service.md#section-293); and
+  (A) at current or former centers of excellence under [section 293 of this title](./chapter-6a-public-health-service.md#section-293); and
 
-  (2) 22 So in original. Probably should be “(B)”. at centers of excellence under [section 285t–1 of this title](./chapter-6a-public-health-service.md#section-285t-1).
+  (B) at current or former centers of excellence under [section 285t–1 of this title](./chapter-6a-public-health-service.md#section-285t-1).
 
 (2) **Eligibility** — The Director of the Institute may provide for a research endowment under paragraph (1) only if the institution involved meets the following conditions:
 
@@ -36909,6 +37596,12 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 Section was formerly classified to [section 287c–31 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section287c–31&num=0&edition=prelim) prior to renumbering by Pub. L. 111–148.
 
 #### Amendments
+2022—Subsec. (h)(1). Pub. L. 117–104 amended par. (1) generally. Prior to amendment, text read as follows: “The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
+
+“(1) at centers of excellence under [section 293 of this title](./chapter-6a-public-health-service.md#section-293); and
+
+“(2) at centers of excellence under [section 285t–1 of this title](./chapter-6a-public-health-service.md#section-285t-1).”
+
 2016—Subsec. (h). Pub. L. 114–255, § 2038(f)(1), redesignated subsec. (h) relating to interagency coordination as (k).
 
 Subsec. (k). Pub. L. 114–255 redesignated subsec. (h) relating to interagency coordination as (k), in heading substituted “Intra-National Institutes of Health” for “Interagency”, in text substituted “as the primary Federal official” for “as the primary Federal officials” and “national research institutes and national centers” for “Institutes and Centers of the National Institutes of Health”, inserted a comma after “review”, and inserted at end “The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.”
@@ -38044,7 +38737,7 @@ Section 287c–34, act July 1, 1944, ch. 373, title IV, § 485H, as added Pub. L
 
     (iii) research on gender differences in disease etiology, course, and treatment;
 
-    (iv) research on obstetrical and gynecological health conditions, diseases, and treatments; and
+    (iv) research on obstetrical and gynecological health conditions, diseases, and treatments, including preventable maternal mortality and severe maternal morbidity; and
 
     (v) research on women’s health conditions which require a multidisciplinary approach;
 
@@ -38083,6 +38776,8 @@ Section 287c–34, act July 1, 1944, ch. 373, title IV, § 485H, as added Pub. L
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (d)(4)(A)(iv). Pub. L. 117–103 inserted “, including preventable maternal mortality and severe maternal morbidity” before “; and”.
+
 2016—Subsec. (c)(2). Pub. L. 114–255 substituted “senior-level staff designees” for “designees”.
 
 2010—Subsec. (a). Pub. L. 111–148 inserted “and who shall report directly to the Director” before period at end.
@@ -40839,14 +41534,14 @@ Repeal effective Oct. 1, 1992, with provision for programs providing financial a
 
 (2) **Support services** — The Director of the National Institutes of Health may provide facilities, utilities and support services to the Foundation if it is determined by the Director to be advantageous to the research programs of the National Institutes of Health.
 
-**(l) Funding** From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $500,000 and not more than $1,250,000 to the Foundation.
+**(l) Funding** From amounts appropriated to the National Institutes of Health, for each fiscal year, the Director of NIH shall transfer not less than $1,250,000 and not more than $5,000,000 to the Foundation.
 
 ### Statutory Notes
 
 #### References in Text
 Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (j)(2), is section 109(16) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, as amended, which enacted this section, [section 285g–4 of this title](./chapter-6a-public-health-service.md#section-285g-4), and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, which enacted this section, [section 285g–4 of this title](./chapter-6a-public-health-service.md#section-285g-4), and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 [Section 284m of this title](./chapter-6a-public-health-service.md#section-284m), referred to in subsec. (j)(9)(B)(iv), was amended generally by Pub. L. 110–85, title V, § 502(b), Sept. 27, 2007, 121 Stat. 886, and, as so amended, does not contain a par. (12) in subsec. (c).
 
@@ -40854,6 +41549,8 @@ The National Institutes of Health Amendments of 1990, referred to in subsec. (j)
 A prior section 499 of act July 1, 1944, was classified to [section 289h of this title](./chapter-6a-public-health-service.md#section-289h) prior to repeal by Pub. L. 103–43.
 
 #### Amendments
+2022—Subsec. (l). Pub. L. 117–101 substituted “$1,250,000 and not more than $5,000,000” for “$500,000 and not more than $1,250,000”.
+
 2012—Subsec. (c)(1)(C). Pub. L. 112–144 struck out “for which the Secretary issues a certification in the affirmative under [section 355a(n)(1)(A) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355a/n/1/A&num=0&edition=prelim)” before period at end.
 
 2011—Subsec. (c)(1)(E). Pub. L. 112–74 substituted “section 287a” for “section 282d”.
@@ -41299,7 +41996,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 290bb–1, act July 1, 1944, ch. 373, title V, § 511, formerly Pub. L. 91–616, title V, § 503, formerly § 504, as added Pub. L. 94–371, § 7, July 26, 1976, 90 Stat. 1039; amended Pub. L. 95–622, title I, § 110(d), Nov. 9, 1978, 92 Stat. 3420; Pub. L. 96–180, § 16, Jan. 2, 1980, 93 Stat. 1305; renumbered § 503 of Pub. L. 91–616 and amended Pub. L. 97–35, title IX, § 965(b), (c), Aug. 13, 1981, 95 Stat. 594; renumbered § 511 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, § 2(b)(9), 97 Stat. 179; Oct. 27, 1986, Pub. L. 99–570, title IV, § 4008, 100 Stat. 3207–115, which related to National Alcohol Research Centers and a mandatory grant for research of the effects of alcohol on the elderly, was renumbered section 464J of title IV of act July 1, 1944, by Pub. L. 102–321 and transferred to [section 285n–2 of this title](./chapter-6a-public-health-service.md#section-285n-2).
@@ -41946,15 +42643,15 @@ Services shall be provided under paragraphs (2) through (8) by a public health n
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 Subparagraph (A)(ii), referred to in subsec. (a)(3)(B)(i), meaning subsec. (a)(3)(A)(ii) of this section was redesignated as subsec. (a)(3)(A)(i)(II) and a new subsec. (a)(3)(A)(ii) was added by Pub. L. 106–310, div. B, title XXXI, § 3106(a)(3)(B)(i), (C), Oct. 17, 2000, 114 Stat. 1176.
 
-The Head Start Act, referred to in subsec. (b)(7)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, as amended, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
+The Head Start Act, referred to in subsec. (b)(7)(B), is subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (b)(8) and (h)(2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Part H of the Act was classified generally to subchapter VIII (§ 1471 et seq.) of chapter 33 of Title 20, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (b)(8) and (h)(2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20, Education. Part H of the Act was classified generally to subchapter VIII (§ 1471 et seq.) of chapter 33 of Title 20, prior to repeal by Pub. L. 105–17, title II, § 203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (n)(3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (n)(3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 280d of this title](./chapter-6a-public-health-service.md#section-280d).
@@ -42649,7 +43346,7 @@ Another prior section 512 of act July 1, 1944, which was classified to [section 
 ### Statutory Notes
 
 #### References in Text
-The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(8), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
+The Protection and Advocacy of Mentally Ill Individuals Act, referred to in subsec. (b)(8), probably means the Protection and Advocacy for Mentally Ill Individuals Act of 1986, which was Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
 
 The Community Mental Health Centers Act, referred to in subsec. (b)(14), is title II of Pub. L. 88–164, as added by Pub. L. 94–63, title III, § 303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§ 2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, § 902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 
@@ -42782,6 +43479,9 @@ Subsec. (e)(1). Pub. L. 101–639, § 2(b), amended par. (1) generally. Prior to
 
 1989—Pub. L. 101–93 substituted “programs” for “program” in section catchline and in subsec. (a) substituted “seriously mentally ill” for “chronically mentally ill” wherever appearing, redesignated par. (5) as (4), and inserted “for” before “demonstration” in pars. (2), (3), and (4).
 
+#### Applicability of Amendment
+Amendment by Pub. L. 117–100 applicable only with respect to applications for assistance under this section that are submitted after Mar. 15, 2022, see section 3 of Pub. L. 117–100, set out as an Effective Date note under [section 290bb–33 of this title](./chapter-6a-public-health-service.md#section-290bb-33).
+
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for programs providing financial assistance, see section 801(c), (d) of Pub. L. 102–321, set out as a note under [section 236 of this title](./chapter-6a-public-health-service.md#section-236).
 
@@ -42790,13 +43490,68 @@ Pub. L. 100–77, title VI, § 612, July 22, 1987, 101 Stat. 523, as amended by 
 
 
 <a id="section-290bb-33"></a>
-## § 290bb–33. Repealed. Pub. L. 114–255, div. B, title IX, § 9017, Dec. 13, 2016, 130 Stat. 1248
+## § 290bb–33. Student suicide awareness and prevention training
+**(a) In general** In awarding funds under [section 290bb–32 of this title](./chapter-6a-public-health-service.md#section-290bb-32), the Secretary shall give priority to applications under such section from a State educational agency, local educational agency, or Tribal educational agency, submitted directly or through a State or Indian Tribe, for funding for activities in secondary schools, where such agency has implemented, or includes in such application a plan to implement, a student suicide awareness and prevention training policy, which may include applicable youth suicide early intervention and prevention strategies implemented through [section 290bb–36 of this title](./chapter-6a-public-health-service.md#section-290bb-36)—
+
+(1) establishing and implementing a school-based student suicide awareness and prevention training policy in accordance with subsection (c);
+
+(2) consulting with stakeholders (including principals, teachers, parents, local Tribal officials, and other relevant experts) and, as appropriate, utilizing information, models, and other resources made available by the Suicide Prevention Technical Assistance Center authorized under [section 290bb–34 of this title](./chapter-6a-public-health-service.md#section-290bb-34) in the development of the policy under paragraph (1); and
+
+(3) collecting and reporting information in accordance with subsection (d).
+
+**(b) Consideration** In giving priority to applicants as described in subsection (a), the Secretary shall, as appropriate, take into consideration the incidence and prevalence of suicide in the applicable jurisdiction and the costs of establishing and implementing, as applicable, a school-based student suicide awareness and prevention training policy.
+
+**(c) School-based student suicide awareness and prevention training policy** A school-based student suicide awareness and prevention training policy implemented pursuant to subsection (a)(1) shall—
+
+(1) be evidence-based;
+
+(2) be culturally- and linguistically-appropriate;
+
+(3) provide evidence-based training to students in grades 6 through 12, in coordination with school-based mental health resources, as applicable, regarding—
+
+  (A) suicide prevention education and awareness, including associated risk factors;
+
+  (B) methods that students can use to seek help; and
+
+  (C) student resources for suicide awareness and prevention; and
+
+(4) provide for periodic retraining of such students.
+
+**(d) Collection of information and reporting** Each State educational agency, local educational agency, and Tribal educational agency that receives priority to implement a new training policy pursuant to subsection (a)(1) shall report to the Secretary the following aggregated information, in a manner that protects personal privacy, consistent with applicable Federal and State privacy laws:
+
+(1) The number of trainings conducted, including the number of student trainings conducted, and the training delivery method used.
+
+(2) The number of students trained, disaggregated by age and grade level.
+
+(3) The number of help-seeking reports made by students after implementation of such policy.
+
+**(e) Evidence-based program availability** The Secretary shall coordinate with the Secretary of Education and the Secretary of the Interior to—
+
+(1) make publicly available the policies established by State educational agencies, local educational agencies, and Tribal educational agencies pursuant to this section and the training that is available to students and teams pursuant to such policies, in accordance with [section 290dd–2a of this title](./chapter-6a-public-health-service.md#section-290dd-2a); and
+
+(2) provide technical assistance and disseminate best practices on student suicide awareness and prevention training policies, including through the Suicide Prevention Technical Assistance Center authorized under [section 290bb–34 of this title](./chapter-6a-public-health-service.md#section-290bb-34), as applicable, to State educational agencies, local educational agencies, and Tribal agencies.
+
+**(f) Implementation** Not later than September 30, 2024, the Secretary shall report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives the number of recipients of funds under [section 290bb–32 of this title](./chapter-6a-public-health-service.md#section-290bb-32) who have implemented training policies described in subsection (a)(1) and a summary of the information received under subsection (d).
+
+**(g) Definitions** In this section:
+
+(1) The term “evidence-based” has the meaning given such term in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+(2) The term “local educational agency” has the meaning given to such term in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+(3) The term “State educational agency” has the meaning given to such term in [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
+
+(4) The term “Tribal educational agency” has the meaning given to the term “tribal educational agency” in [section 7452 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7452&num=0&edition=prelim).
 
 ### Statutory Notes
 
-Section, act July 1, 1944, ch. 373, title V, § 520B, as added Pub. L. 111–148, title X, § 10410(b), Mar. 23, 2010, 124 Stat. 984, related to national centers of excellence for depression.
+#### Prior Provisions
+A prior section 290bb–33, act July 1, 1944, ch. 373, title V, § 520B, as added Pub. L. 111–148, title X, § 10410(b), Mar. 23, 2010, 124 Stat. 984, related to national centers of excellence for depression, prior to repeal by Pub. L. 114–255, div. B, title IX, § 9017, Dec. 13, 2016, 130 Stat. 1248
 
-A prior section 290bb–33, act July 1, 1944, ch. 373, title V, § 520B, formerly title XXIV, § 2441, as added Pub. L. 100–607, title II, § 211, Nov. 4, 1988, 102 Stat. 3092; renumbered title V, § 520B, and amended Pub. L. 102–321, title I, § 118(a), (b)(2), July 10, 1992, 106 Stat. 348, 349, related to demonstration projects for individuals with positive test results, prior to repeal by Pub. L. 106–310, div. B, title XXXII, § 3201(b)(2), Oct. 17, 2000, 114 Stat. 1190.
+Another prior section 290bb–33, act July 1, 1944, ch. 373, title V, § 520B, formerly title XXIV, § 2441, as added Pub. L. 100–607, title II, § 211, Nov. 4, 1988, 102 Stat. 3092; renumbered title V, § 520B, and amended Pub. L. 102–321, title I, § 118(a), (b)(2), July 10, 1992, 106 Stat. 348, 349, related to demonstration projects for individuals with positive test results, prior to repeal by Pub. L. 106–310, div. B, title XXXII, § 3201(b)(2), Oct. 17, 2000, 114 Stat. 1190.
+
+#### Effective Date
+Pub. L. 117–100, § 3, Mar. 15, 2022, 136 Stat. 46, provided that: “The amendment made by this Act [enacting this section] shall apply only with respect to applications for assistance under section 520A of the Public Health Service Act ([42 U.S.C. 290bb–32](./chapter-6a-public-health-service.md#section-290bb-32)) that are submitted after the date of enactment of this Act [Mar. 15, 2022].”
 
 
 <a id="section-290bb-34"></a>
@@ -43018,11 +43773,11 @@ Section, act July 1, 1944, ch. 373, title V, § 520D, as added Pub. L. 106–310
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(5) and (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (a)(5) and (e)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles V, XIX, and XXI of the Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (b)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (b)(1)(C), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§ 1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (b)(1)(C), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, which is classified principally to chapter 18 (§ 1601 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1601&num=0&edition=prelim) and Tables.
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (k), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
@@ -43331,13 +44086,18 @@ Pub. L. 114–255, div. B, title IX, § 9032, Dec. 13, 2016, 130 Stat. 1259, pro
 
 (2) an Internet website to provide a searchable, online treatment services locator of behavioral health treatment providers and community-based organizations, which shall include information on the name, location, contact information, and basic services provided by such providers and organizations.
 
-**(c) Removing practitioner contact information** In the event that the Internet website described in subsection (b)(2) contains information on any qualified practitioner that is certified to prescribe medication for opioid dependency under [section 823(g)(2)(B) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2/B&num=0&edition=prelim), the Assistant Secretary—
+**(c) Removing practitioner contact information** In the event that the Internet website described in subsection (b)(2) contains information on any qualified practitioner that is certified to prescribe medication for opioid dependency under [section 823(h)(2)(B) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2/B&num=0&edition=prelim), the Assistant Secretary—
 
 (1) shall provide an opportunity to such practitioner to have the contact information of the practitioner removed from the website at the request of the practitioner; and
 
 (2) may evaluate other methods to periodically update the information displayed on such website.
 
 **(d) Rule of construction** Nothing in this section shall be construed to prevent the Assistant Secretary from using any unobligated amounts otherwise made available to the Administration to maintain the Routing Service.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–215 substituted “823(h)(2)(B)” for “823(g)(2)(B)” in introductory provisions.
 
 
 <a id="section-290bb-37"></a>
@@ -44539,7 +45299,7 @@ Amendment by Pub. L. 100–607 effective Nov. 4, 1988, see section 831 of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in subsec. (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 4571 of this title](./chapter-060-comprehensive-alcohol-abuse-and-alcoholism-prevention-treatment-and-rehabilitation-program.md#section-4571) prior to renumbering by Pub. L. 98–24.
@@ -44823,7 +45583,7 @@ Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016,
 
 (2) **Maximum grant amount** — A grant awarded under this section may not be for more than $200,000 per grant year.
 
-(3) **Eligible entity** — For purposes of this section, the term “eligible entity” means a Federally qualified health center (as defined in [section 1395x(aa) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa&num=0&edition=prelim)), an opioid treatment program under part 8 of title 42, Code of Federal Regulations, any practitioner dispensing narcotic drugs pursuant to [section 823(g) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim), or any other entity that the Secretary deems appropriate.
+(3) **Eligible entity** — For purposes of this section, the term “eligible entity” means a Federally qualified health center (as defined in [section 1395x(aa) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/aa&num=0&edition=prelim)), an opioid treatment program under part 8 of title 42, Code of Federal Regulations, any practitioner dispensing narcotic drugs pursuant to [section 823(h) of title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h&num=0&edition=prelim), or any other entity that the Secretary deems appropriate.
 
 (4) **Prescribing** — For purposes of this section, the term “prescribing” means, with respect to a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose, the practice of prescribing such drug or device—
 
@@ -44865,6 +45625,9 @@ Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016,
 
 #### References in Text
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(1) and (c)(1) to (4), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2022—Subsec. (a)(3). Pub. L. 117–215 substituted “823(h)” for “823(g)”.
 
 #### Prior Provisions
 A prior section 290dd–3, act July 1, 1944, ch. 373, title V, § 544, formerly Pub. L. 91–616, title III, § 333, Dec. 31, 1970, 84 Stat. 1853, as amended Pub. L. 93–282, title I, § 122(a), May 14, 1974, 88 Stat. 131; Pub. L. 94–581, title I, § 111(c)(4), Oct. 21, 1976, 90 Stat. 2852; renumbered § 523 of act July 1, 1944, Apr. 26, 1983, Pub. L. 98–24, § 2(b)(13), 97 Stat. 181; Aug. 27, 1986, Pub. L. 99–401, title I, § 106(a), 100 Stat. 907; renumbered § 544, July 22, 1987, Pub. L. 100–77, title VI, § 611(2), 101 Stat. 516; June 13, 1991, Pub. L. 102–54, § 13(q)(1)(A)(ii), 105 Stat. 278, which related to confidentiality of patient records for alcohol abuse and alcoholism programs, was omitted in the general revision of this part by Pub. L. 102–321. See [section 290dd–2 of this title](./chapter-6a-public-health-service.md#section-290dd-2).
@@ -45793,7 +46556,7 @@ Section was enacted as part of the Substance Use–Disorder Prevention that Prom
 #### References in Text
 Subsections (b) and (c) of [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), referred to in subsec. (a)(2), do not contain definitions of the terms “Indian tribe” and “tribal organization”. However, such terms are defined elsewhere in that section.
 
-The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 290ff, act July 1, 1944, ch. 373, title V, § 561, as added Nov. 18, 1988, Pub. L. 100–690, title II, § 2081(a), 102 Stat. 4216, which related to action by National Institute on Drug Abuse and States concerning military facilities, was renumbered section 513 of act July 1, 1944, by Pub. L. 102–321 and transferred to [section 290bb–6 of this title](./chapter-6a-public-health-service.md#section-290bb-6).
@@ -45923,9 +46686,9 @@ Pub. L. 106–310, div. B, title XXXI, § 3105(e), Oct. 17, 2000, 114 Stat. 1175
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (d)(3)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (d)(3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2016—Subsec. (b). Pub. L. 114–255 substituted “will provide an individual with access to the system through the age of 21 years” for “will not provide an individual with access to the system if the individual is more than 21 years of age”.
@@ -45965,7 +46728,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1), (3) and (d)(4), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1), (3) and (d)(4), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2004—Subsec. (d)(2). Pub. L. 108–446 substituted “section 602” for “section 602(a)(19)”.
@@ -46076,7 +46839,7 @@ Section effective Oct. 1, 1992, with provision for programs providing financial 
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (e), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (e), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2016—Subsec. (b)(1). Pub. L. 114–255, § 10001(d)(1)(A), substituted “, regardless of whether such public entity is receiving a grant under [section 290ff(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290ff/a&num=0&edition=prelim)” for “receiving a grant under [section 290ff(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290ff/a&num=0&edition=prelim)” in introductory provisions.
@@ -46256,7 +47019,7 @@ Subsec. (g). Pub. L. 107–116 added subsec. (g).
 ### Statutory Notes
 
 #### References in Text
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in text, was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in text, was Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
 
 
 <a id="section-290ii-2"></a>
@@ -46276,7 +47039,7 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 ### Statutory Notes
 
 #### References in Text
-The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
+The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, § 3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§ 10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10801 of this title](./chapter-114-protection-and-advocacy-for-individuals-with-mental-illness.md#section-10801) and Tables.
 
 
 <a id="section-290jj"></a>
@@ -46338,7 +47101,7 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 
 <a id="section-290jj-1"></a>
@@ -47626,21 +48389,17 @@ A prior section 704 of act July 1, 1944, was classified to [section 292d of this
 
     (ii) is or will be a full-time student at the eligible institution;
 
-    (iii) has agreed that all funds received under such loan shall be used solely for tuition, other reasonable educational expenses, including fees, books, and laboratory expenses, and reasonable living expenses, incurred by such students;
+    (iii) has agreed that all funds received under such loan shall be used solely for tuition, other reasonable educational expenses, including fees, books, and laboratory expenses, and reasonable living expenses, incurred by such students; and
 
-    (iv) if required under [section 3802 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim) to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and
-
-    (v) in the case of a pharmacy student, has satisfactorily completed three years of training; or
+    (iv) in the case of a pharmacy student, has satisfactorily completed three years of training; or
 
   (B) an individual who—
 
     (i) has previously had a loan insured under this subpart when the individual was a full-time student at an eligible institution;
 
-    (ii) is in a period during which, pursuant to paragraph (2), the principal amount of such previous loan need not be paid;
+    (ii) is in a period during which, pursuant to paragraph (2), the principal amount of such previous loan need not be paid; and
 
-    (iii) has agreed that all funds received under the proposed loan shall be used solely for repayment of interest due on previous loans made under this subpart; and
-
-    (iv) if required under [section 3802 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim) to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;
+    (iii) has agreed that all funds received under the proposed loan shall be used solely for repayment of interest due on previous loans made under this subpart;
 
 (2) evidenced by a note or other written agreement which—
 
@@ -47698,9 +48457,9 @@ A prior section 704 of act July 1, 1944, was classified to [section 292d of this
 ### Statutory Notes
 
 #### References in Text
-The Peace Corps Act, referred to in subsec. (a)(2)(C), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
+The Peace Corps Act, referred to in subsec. (a)(2)(C), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
-The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended. Title I of the Act is classified generally to subchapter I (§ 4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
+The Domestic Volunteer Service Act of 1973, referred to in subsec. (a)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§ 4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
 
 #### Prior Provisions
 A prior section 292d, act July 1, 1944, ch. 373, title VII, § 704, formerly § 799A, as added Nov. 2, 1970, Pub. L. 91–519, title II, § 207, 84 Stat. 1355; amended Nov. 18, 1971, Pub. L. 92–157, title I, § 110(2), 85 Stat. 461; July 12, 1974, Pub. L. 93–348, title I, § 105, 88 Stat. 347; renumbered § 704, Oct. 12, 1976, Pub. L. 94–484, title II, § 201(c), 90 Stat. 2247; Nov. 4, 1988, Pub. L. 100–607, title VI, §§ 620(c), 628(3), 629(b)(2), 102 Stat. 3141, 3145, 3146, prohibited discrimination on the basis of sex, prior to the general revision of this subchapter by Pub. L. 102–408. See [section 295m of this title](./chapter-6a-public-health-service.md#section-295m).
@@ -47710,6 +48469,10 @@ Another prior section 292d, act July 1, 1944, ch. 373, title VII, § 705, as add
 A prior section 705 of act July 1, 1944, was classified to [section 292e of this title](./chapter-6a-public-health-service.md#section-292e) prior to the general revision of this subchapter by Pub. L. 102–408.
 
 #### Amendments
+2022—Subsec. (a)(1)(A)(iv), (v). Pub. L. 117–103, § 104(1)(A), redesignated cl. (v) as (iv) and struck out former cl. (iv) which read as follows: “if required under [section 3802 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim) to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section; and”.
+
+Subsec. (a)(1)(B)(iv). Pub. L. 117–103, § 104(1)(B), struck out cl. (iv) which read as follows: “if required under [section 3802 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim) to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section;”.
+
 1998—Subsec. (a)(2)(C). Pub. L. 105–392 added cl. (x), redesignated former cl. (x) as (xi) and substituted “(x)” for “(ix)”, and substituted “(xi)” for “(x)” in concluding provisions.
 
 Pub. L. 105–244 substituted “section 1002(a)” for “section 1088(a)” in cl. (i).
@@ -48235,11 +48998,7 @@ A prior section 721 of act July 1, 1944, was classified to [section 293a of this
 
 (2) **Third and fourth years of medical school** — For purposes of paragraph (1), the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary to pay the balances of loans that, from sources other than the student loan fund under [section 292q of this title](./chapter-6a-public-health-service.md#section-292q), were made to the individual for attendance at the school. The authority to make such an increase is subject to the school and the student agreeing that such amount (as increased) will be expended to pay such balances.
 
-**(b) Terms and conditions** Subject to [section 292s of this title](./chapter-6a-public-health-service.md#section-292s), any such loans shall be made on such terms and conditions as the school may determine, but may be made only to a student—
-
-(1) who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree; and
-
-(2) who, if required under [section 3802 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim) to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.
+**(b) Terms and conditions** Subject to [section 292s of this title](./chapter-6a-public-health-service.md#section-292s), any such loans shall be made on such terms and conditions as the school may determine, but may be made only to a student who is in need of the amount thereof to pursue a full-time course of study at the school leading to a degree of doctor of medicine, doctor of dentistry or an equivalent degree, doctor of osteopathy, bachelor of science in pharmacy or an equivalent degree, doctor of pharmacy or an equivalent degree, doctor of podiatric medicine or an equivalent degree, doctor of optometry or an equivalent degree, or doctor of veterinary medicine or an equivalent degree.
 
 **(c) Repayment; exclusions from repayment period** Such loans shall be repayable in equal or graduated periodic installments (with the right of the borrower to accelerate repayment) over the period of not less than 10 years nor more than 25 years, at the discretion of the institution, which begins one year after the student ceases to pursue a full-time course of study at a school of medicine, osteopathic medicine, dentistry, pharmacy, podiatry, optometry, or veterinary medicine, excluding from such period—
 
@@ -48298,12 +49057,18 @@ A prior section 721 of act July 1, 1944, was classified to [section 293a of this
 ### Statutory Notes
 
 #### References in Text
-The Peace Corps Act, referred to in subsec. (c)(1)(B), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
+The Peace Corps Act, referred to in subsec. (c)(1)(B), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 722 of act July 1, 1944, was classified to [section 293b of this title](./chapter-6a-public-health-service.md#section-293b) prior to the general revision of this subchapter by Pub. L. 102–408.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–103 substituted “to a student who is in need” for “to a student—
+
+“(1) who is in need”
+
+and struck out par. (2) which read as follows: “who, if required under [section 3802 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3802&num=0&edition=prelim) to present himself for and submit to registration under such section, has presented himself and submitted to registration under such section.”
+
 1998—Subsec. (a)(1). Pub. L. 105–392, § 134(a)(1), substituted “the cost of attendance (including tuition, other reasonable educational expenses, and reasonable living costs) for that year at the educational institution attended by the student (as determined by such educational institution).” for “the sum of—
 
 “(A) the cost of tuition for such year at such school, and
@@ -49381,7 +50146,7 @@ Subsec. (f). Pub. L. 116–136, § 3401(4)(B), substituted “$28,531,000 for ea
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which enacted this section, to reflect the probable intent of Congress.
@@ -49391,7 +50156,7 @@ A prior section 293l, act July 1, 1944, ch. 373, title VII, § 748, as added Pub
 
 A prior section 749 of act July 1, 1944, was classified to [section 293m of this title](./chapter-6a-public-health-service.md#section-293m) prior to repeal by Pub. L. 105–392.
 
-Another prior section 749 of act July 1, 1944, was classified to [section 294s of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294s&num=0&edition=prelim) prior to renumbering by Pub. L. 97–35.
+Another prior section 749 of act July 1, 1944, was classified to [section 294s of this title](./chapter-6a-public-health-service.md#section-294s) prior to renumbering by Pub. L. 97–35.
 
 #### Amendments
 2020—Subsec. (d)(2). Pub. L. 116–136 substituted “Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives” for “Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives”.
@@ -49678,7 +50443,7 @@ A prior section 751 of act July 1, 1944, was classified to section 293o of this 
 
 Another prior section 751 of act July 1, 1944, was classified to [section 294r of this title](./chapter-6a-public-health-service.md#section-294r) prior to the general amendment of this subchapter by Pub. L. 102–408.
 
-Another prior section 751 of act July 1, 1944, was classified to [section 294t of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section294t&num=0&edition=prelim) prior to renumbering by Pub. L. 97–35.
+Another prior section 751 of act July 1, 1944, was classified to [section 294t of this title](./chapter-6a-public-health-service.md#section-294t) prior to renumbering by Pub. L. 97–35.
 
 #### Amendments
 2020—Subsec. (j)(1). Pub. L. 116–136 substituted “$41,250,000 for each of fiscal years 2021 through 2025” for “$125,000,000 for each of the fiscal years 2010 through 2014”.
@@ -49691,9 +50456,11 @@ Another prior section 751 of act July 1, 1944, was classified to [section 294t o
 Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim), Labor.
 
 #### Waiver of Requirements
-Pub. L. 116–260, div. H, title II, Dec. 27, 2020, 134 Stat. 1567, provided in part: “That for any program operating under section 751 of the PHS [Public Health Service] Act [[42 U.S.C. 294a](./chapter-6a-public-health-service.md#section-294a)] on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the ‘Secretary’) may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.
+Pub. L. 117–103, div. H, title II, Mar. 15, 2022, 136 Stat. 442, provided in part: “That for any program operating under section 751 of the PHS [Public Health Service] Act on or before January 1, 2009, the Secretary of Health and Human Services (referred to in this title as the ‘Secretary’) may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. H, title II, Dec. 27, 2020, 134 Stat. 1567.
 
 Pub. L. 116–94, div. A, title II, Dec. 20, 2019, 133 Stat. 2556.
 
@@ -50152,7 +50919,7 @@ Subsecs. (e), (f). Pub. L. 114–255, § 9021(5), added subsecs. (e) and (f) and
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Pub. L. 111–148, title V, § 5306(a)(2), Mar. 23, 2010, 124 Stat. 626, which directed the amendment of part D of title VII by redesignating section 756 as section 757, without specifying the act to be amended, was executed by redesignating section 756 of act July 1, 1944, as section 757 of the Act, to reflect the probable intent of Congress.
@@ -50690,17 +51457,27 @@ Pub. L. 108–199, div. E, title II, § 219, Jan. 23, 2004, 118 Stat. 255.
 
 
 <a id="section-294p"></a>
-## § 294p. Pediatric rheumatology
-**(a) In general** The Secretary, acting through the appropriate agencies, shall evaluate whether the number of pediatric rheumatologists is sufficient to address the health care needs of children with arthritis and related conditions, and if the Secretary determines that the number is not sufficient, shall develop strategies to help address the shortfall.
+## § 294p. Training for health care providers
+**(a) Grant program** The Secretary shall establish a program to award grants to accredited schools of allopathic medicine, osteopathic medicine, and nursing, and other health professional training programs for the training of health care professionals to improve the provision of prenatal care, labor care, birthing, and postpartum care for racial and ethnic minority populations, including with respect to perceptions and biases that may affect the approach to, and provision of, care.
 
-**(b) Report to Congress** Not later than October 1, 2001, the Secretary shall submit to the Congress a report describing the results of the evaluation under subsection (a), and as applicable, the strategies developed under such subsection.
+**(b) Eligibility** To be eligible for a grant under subsection (a), an entity described in such subsection shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
-**(c) Authorization of appropriations** For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
+**(c) Reporting requirements**
+
+(1) **Periodic grantee reports** — Each entity awarded a grant under this section shall periodically submit to the Secretary a report on the status of activities conducted using the grant, including a description of the impact of such training on patient outcomes, as applicable.
+
+(2) **Report to Congress** — Not later than September 30, 2026, the Secretary shall submit a report to Congress on the activities conducted using grants under subsection (a) and any best practices identified and disseminated under subsection (d).
+
+**(d) Best practices** The Secretary may identify and disseminate best practices for the training described in subsection (a).
+
+**(e) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $5,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
 #### Prior Provisions
-A prior section 294p, act July 1, 1944, ch. 373, title VII, § 778, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2054, authorized grants and contracts to assist provision of health care in rural areas, prior to the general amendment of this part by Pub. L. 105–392.
+A prior section 294p, act July 1, 1944, ch. 373, title VII, § 763, as added Pub. L. 106–310, div. A, title III, § 301(b), Oct. 17, 2000, 114 Stat. 1111, related to pediatric rheumatologists, prior to repeal by Pub. L. 117–103, div. P, title I, § 132, Mar. 15, 2022, 136 Stat. 795
+
+Another prior section 294p, act July 1, 1944, ch. 373, title VII, § 778, as added Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 2054, authorized grants and contracts to assist provision of health care in rural areas, prior to the general amendment of this part by Pub. L. 105–392.
 
 Another prior section 294p, act July 1, 1944, ch. 373, title VII, § 743, as added Sept. 24, 1963, Pub. L. 88–129, § 2(b), 77 Stat. 172; amended Oct. 22, 1965, Pub. L. 89–290, § 4(d), 79 Stat. 1057; Nov. 3, 1966, Pub. L. 89–751, § 5(c)(2), (3), 80 Stat. 1233; Aug. 16, 1968, Pub. L. 90–490, title I, § 121(c), 82 Stat. 778; July 9, 1971, Pub. L. 92–52, § 1(b), 85 Stat. 144; Nov. 18, 1971, Pub. L. 92–157, title I, § 105(e)(2), (f)(2), 85 Stat. 451; Oct. 12, 1976, Pub. L. 94–484, title IV, §§ 405, 406(e), 90 Stat. 2267, 2268; Aug. 13, 1981, Pub. L. 97–35, title XXVII, § 2736, 95 Stat. 920; Oct. 22, 1985, Pub. L. 99–129, title II, § 209(i), 99 Stat. 536; Nov. 4, 1988, Pub. L. 100–607, title VI, § 603(d), 102 Stat. 3125, related to distribution of assets from loan funds, prior to the general amendment of this subchapter by Pub. L. 102–408. See [section 292x of this title](./chapter-6a-public-health-service.md#section-292x).
 
@@ -51101,8 +51878,102 @@ A prior section 294r, act July 1, 1944, ch. 373, title VII, § 751, as added Nov
 
 Another prior section 294r, act July 1, 1944, ch. 373, title VII, § 748, as added Oct. 12, 1976, Pub. L. 94–484, title IV, § 408(a), 90 Stat. 2279; amended Aug. 1, 1977, Pub. L. 95–83, title III, § 307(f), 91 Stat. 391; Dec. 19, 1977, Pub. L. 95–215, § 3, 91 Stat. 1504; Sept. 29, 1979, Pub. L. 96–76, title II, § 206(a), 93 Stat. 583, which related to traineeships for students in schools of public health, was renumbered section 792 of act July 1, 1944, by Pub. L. 97–35 and transferred to [section 295h–1b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section295h–1b&num=0&edition=prelim), and was subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
+#### Definitions
+For definitions of terms used in this section, see section 5002(a) of Pub. L. 111–148, set out as a note under [section 294q of this title](./chapter-6a-public-health-service.md#section-294q).
+
+
+<a id="section-294s"></a>
+## § 294s. Rural maternal and obstetric care training demonstration
+**(a) In general** The Secretary shall award grants to accredited schools of allopathic medicine, osteopathic medicine, and nursing, and other appropriate health professional training programs, to establish a training demonstration program to support—
+
+(1) training for physicians, medical residents, fellows, nurse practitioners, physician assistants, nurses, certified nurse midwives, relevant home visiting workforce professionals and paraprofessionals, or other professionals who meet relevant State training and licensing requirements, as applicable, to reduce preventable maternal mortality and severe maternal morbidity by improving prenatal care, labor care, birthing, and postpartum care in rural community-based settings; and
+
+(2) developing recommendations for such training programs.
+
+**(b) Application** To be eligible to receive a grant under subsection (a), an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+
+**(c) Activities**
+
+(1) **Training for health care professionals** — A recipient of a grant under subsection (a)—
+
+  (A) shall use the grant funds to plan, develop, and operate a training program to provide prenatal care, labor care, birthing, and postpartum care in rural areas; and
+
+  (B) may use the grant funds to provide additional support for the administration of the program or to meet the costs of projects to establish, maintain, or improve faculty development, or departments, divisions, or other units necessary to implement such training.
+
+(2) **Training program requirements** — The recipient of a grant under subsection (a) shall ensure that training programs carried out under the grant are evidence-based and address improving prenatal care, labor care, birthing, and postpartum care in rural areas, and such programs may include training on topics such as—
+
+  (A) maternal mental health, including perinatal depression and anxiety;
+
+  (B) substance use disorders;
+
+  (C) social determinants of health that affect individuals living in rural areas; and
+
+  (D) improving the provision of prenatal care, labor care, birthing, and postpartum care for racial and ethnic minority populations, including with respect to perceptions and biases that may affect the approach to, and provision of, care.
+
+**(d) Evaluation and report**
+
+(1) **Evaluation**
+
+  (A) *In general* — The Secretary shall evaluate the outcomes of the demonstration program under this section.
+
+  (B) *Data submission* — Recipients of a grant under subsection (a) shall submit to the Secretary performance metrics and other related data in order to evaluate the program for the report described in paragraph (2).
+
+(2) **Report to Congress** — Not later than January 1, 2026, the Secretary shall submit to Congress a report that includes—
+
+  (A) an analysis of the effects of the demonstration program under this section on the quality, quantity, and distribution of maternal health care services, including prenatal care, labor care, birthing, and postpartum care services, and the demographics of the recipients of those services;
+
+  (B) an analysis of maternal and infant health outcomes (including quality of care, morbidity, and mortality) before and after implementation of the program in the communities served by entities participating in the demonstration; and
+
+  (C) recommendations on whether the demonstration program should be continued.
+
+**(e) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### Codification
+Another section 764 of act July 1, 1944, is classified to [section 294t of this title](./chapter-6a-public-health-service.md#section-294t).
+
+#### Prior Provisions
 A prior section 294s, act July 1, 1944, ch. 373, title VII, § 749, as added Oct. 12, 1976, Pub. L. 94–484, title IV, § 408(a), 90 Stat. 2280; amended Aug. 1, 1977, Pub. L. 95–83, title III, § 307(f), 91 Stat. 391, Pub. L. 96–88, title III, § 301(a)(1), title V, § 507, 93 Stat. 677, 692, which related to traineeships for students in other graduate programs, was renumbered section 791A of act July 1, 1944, by Pub. L. 97–35 and transferred to [section 295h–1a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section295h–1a&num=0&edition=prelim), and was subsequently omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
+
+<a id="section-294t"></a>
+## § 294t. Programs to promote mental health among the health professional workforce
+**(a) Programs to promote mental health among health care professionals**
+
+(1) **In general** — The Secretary shall award grants or contracts to health care entities, including entities that provide health care services, such as hospitals, community health centers, and rural health clinics, or to medical professional associations, to establish or enhance evidence-based or evidence-informed programs dedicated to improving mental health and resiliency for health care professionals.
+
+(2) **Use of funds** — An eligible entity receiving a grant or contract under this subsection shall use funds received through the grant or contract to implement a new program or enhance an existing program to promote mental health among health care professionals, which may include—
+
+  (A) improving awareness among health care professionals about risk factors for, and signs of, suicide and mental health or substance use disorders, in accordance with evidence-based or evidence-informed practices;
+
+  (B) establishing new, or enhancing existing, evidence-based or evidence-informed programs for preventing suicide and improving mental health and resiliency among health care professionals;
+
+  (C) establishing new, or enhancing existing, peer-support programs among health care professionals; or
+
+  (D) providing mental health care, follow-up services and care, or referral for such services and care, as appropriate.
+
+(3) **Priority** — In awarding grants and contracts under this subsection, the Secretary shall give priority to eligible entities in health professional shortage areas or rural areas.
+
+**(b) Training grants** The Secretary may establish a program to award grants to health professions schools, academic health centers, State or local governments, Indian Tribes or Tribal organizations, or other appropriate public or private nonprofit entities (or consortia of entities, including entities promoting multidisciplinary approaches) to support the training of health care students, residents, or health care professionals in evidence-based or evidence-informed strategies to address mental and substance use disorders and improve mental health and resiliency among health care professionals.
+
+**(c) Grant terms** A grant or contract awarded under subsection (a) or (b) shall be for a period of 3 years.
+
+**(d) Application submission** An entity seeking a grant or contract under subsection (a) or (b) shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may require.
+
+**(e) Reporting** An entity awarded a grant or contract under subsection (a) or (b) shall periodically submit to the Secretary a report evaluating the activities supported by the grant or contract.
+
+**(f) Authorization of appropriations** To carry out this section and section 5 of the Dr. Lorna Breen Health Care Provider Protection Act, there are authorized to be appropriated $35,000,000 for each of fiscal years 2022 through 2024.
+
+### Statutory Notes
+
+#### References in Text
+Section 5 of the Dr. Lorna Breen Health Care Provider Protection Act, referred to in subsec. (f), is section 5 of Pub. L. 117–105, Mar. 18, 2022, 136 Stat. 1120, which is not classified to the Code.
+
+#### Codification
+Another section 764 of act July 1, 1944, is classified to [section 294s of this title](./chapter-6a-public-health-service.md#section-294s).
+
+#### Prior Provisions
 A prior section 294t, act July 1, 1944, ch. 373, title VII, § 751, as added Oct. 12, 1976, Pub. L. 94–484, title IV, § 408(b)(1), 90 Stat. 2281; amended Dec. 19, 1977, Pub. L. 95–215, § 5, 91 Stat. 1506; Nov. 9, 1978, Pub. L. 95–623, § 12(c), 92 Stat. 3457; Nov. 10, 1978, Pub. L. 95–626, title I, § 113(b), 92 Stat. 3563; July 10, 1979, Pub. L. 96–32, § 7(i), 93 Stat. 84, which related to National Health Service Corps Scholarships Program, was renumbered section 338A of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254l of this title.
 
 A prior section 294u, act July 1, 1944, ch. 373, title VII, § 752, as added Oct. 12, 1976, Pub. L. 94–484, title IV, § 408(b)(1), 90 Stat. 2284; amended Nov. 10, 1978, Pub. L. 95–626, title I, § 113(b), 92 Stat. 3563; Sept. 29, 1979, Pub. L. 96–76, title II, § 202(a), (b), 93 Stat. 582, which related to obligated service under contract, was renumbered section 338B of act July 1, 1944, by Pub. L. 97–35 and transferred to [section 254m of this title](./chapter-6a-public-health-service.md#section-254m), and subsequently renumbered section 338C of act July 1, 1944, by Pub. L. 100–177.
@@ -51127,8 +51998,11 @@ Section 294bb, act July 1, 1944, ch. 373, title VII, § 760, as added Nov. 6, 19
 
 Section 294cc, act July 1, 1944, ch. 373, title VII, § 761, as added Nov. 6, 1990, Pub. L. 101–527, § 6, 104 Stat. 2325, related to a loan repayment program regarding service on faculties of certain health professions schools. See [section 293b of this title](./chapter-6a-public-health-service.md#section-293b).
 
-#### Definitions
-For definitions of terms used in this section, see section 5002(a) of Pub. L. 111–148, set out as a note under [section 294q of this title](./chapter-6a-public-health-service.md#section-294q).
+#### Dissemination of Best Practices
+Pub. L. 117–105, § 2, Mar. 18, 2022, 136 Stat. 1118, provided that: “Not later than 2 years after the date of the enactment of this Act [Mar. 18, 2022], the Secretary of Health and Human Services (referred to in this Act [see Short Title of 2022 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)] as the ‘Secretary’) shall identify and disseminate evidence-based or evidence-informed best practices for preventing suicide and improving mental health and resiliency among health care professionals, and for training health care professionals in appropriate strategies to promote their mental health. Such best practices shall include recommendations related to preventing suicide and improving mental health and resiliency among health care professionals.”
+
+#### Education and Awareness Initiative Encouraging Use of Mental Health and Substance Use Disorder Services by Health Care Professionals
+Pub. L. 117–105, § 3, Mar. 18, 2022, 136 Stat. 1118, provided that: “(a) In General.—The Secretary [of Health and Human Services], in consultation with relevant stakeholders, including medical professional associations, shall establish a national evidence-based or evidence-informed education and awareness initiative—“(1) to encourage health care professionals to seek support and care for their mental health or substance use concerns, to help such professionals identify risk factors associated with suicide and mental health conditions, and to help such professionals learn how best to respond to such risks, with the goal of preventing suicide, mental health conditions, and substance use disorders; and “(2) to address stigma associated with seeking mental health and substance use disorder services. “(b) Reporting.—Not later than 2 years after the date of enactment of this Act [Mar. 18, 2022], the Secretary shall provide to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives an update on the activities and outcomes of the initiative under subsection (a), including a description of quantitative and qualitative metrics used to evaluate such activities and outcomes. “(c) Authorization of Appropriations.—To carry out this section, there are authorized to be appropriated $10,000,000 for each of fiscal years 2022 through 2024.”
 
 
 <a id="section-295"></a>
@@ -51212,7 +52086,7 @@ Another prior section 765 of act July 1, 1944, was classified to [section 295d o
 2010—Subsec. (d)(8), (9). Pub. L. 111–148 added par. (8) and redesignated former par. (8) as (9).
 
 #### Funding for Public Health Workforce
-Pub. L. 117–2, title II, § 2501, Mar. 11, 2021, 135 Stat. 42, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [Subtitle F (§§ 2501, 2502) of title II of Pub. L. 117–2, enacting this note] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,660,000,000, to remain available until expended, to carry out activities related to establishing, expanding, and sustaining a public health workforce, including by making awards to State, local, and territorial public health departments. “(b) Use of Funds for Public Health Departments.—Amounts made available to an awardee pursuant to subsection (a) shall be used for the following:“(1) Costs, including wages and benefits, related to the recruiting, hiring, and training of individuals—“(A) to serve as case investigators, contact tracers, social support specialists, community health workers, public health nurses, disease intervention specialists, epidemiologists, program managers, laboratory personnel, informaticians, communication and policy experts, and any other positions as may be required to prevent, prepare for, and respond to COVID–19; and “(B) who are employed by—“(i) the State, territorial, or local public health department involved; or “(ii) a nonprofit private or public organization with demonstrated expertise in implementing public health programs and established relationships with such State, territorial, or local public health departments, particularly in medically underserved areas. “(2) Personal protective equipment, data management and other technology, or other necessary supplies. “(3) Administrative costs and activities necessary for awardees to implement activities funded under this section. “(4) Subawards from recipients of awards under subsection (a) to local health departments for the purposes of the activities funded under this section.”
+Pub. L. 117–2, title II, § 2501, Mar. 11, 2021, 135 Stat. 42, provided that: “(a) In General.—In addition to amounts otherwise available, there is appropriated to the Secretary of Health and Human Services (in this subtitle [subtitle F (§§ 2501, 2502) of title II of Pub. L. 117–2, enacting this note] referred to as the ‘Secretary’) for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $7,660,000,000, to remain available until expended, to carry out activities related to establishing, expanding, and sustaining a public health workforce, including by making awards to State, local, and territorial public health departments. “(b) Use of Funds for Public Health Departments.—Amounts made available to an awardee pursuant to subsection (a) shall be used for the following:“(1) Costs, including wages and benefits, related to the recruiting, hiring, and training of individuals—“(A) to serve as case investigators, contact tracers, social support specialists, community health workers, public health nurses, disease intervention specialists, epidemiologists, program managers, laboratory personnel, informaticians, communication and policy experts, and any other positions as may be required to prevent, prepare for, and respond to COVID–19; and “(B) who are employed by—“(i) the State, territorial, or local public health department involved; or “(ii) a nonprofit private or public organization with demonstrated expertise in implementing public health programs and established relationships with such State, territorial, or local public health departments, particularly in medically underserved areas. “(2) Personal protective equipment, data management and other technology, or other necessary supplies. “(3) Administrative costs and activities necessary for awardees to implement activities funded under this section. “(4) Subawards from recipients of awards under subsection (a) to local health departments for the purposes of the activities funded under this section.”
 
 
 <a id="section-295a"></a>
@@ -52937,7 +53811,7 @@ Amendment by section 222(c)(2) of Pub. L. 90–490 applicable with respect to lo
 ### Statutory Notes
 
 #### References in Text
-The Peace Corps Act, referred to in subsec. (b)(2), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
+The Peace Corps Act, referred to in subsec. (b)(2), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
 Section 6(b) of the Nurse Training Act of 1971, referred to in subsec. (h), is section 6(b) of Pub. L. 92–158, Nov. 18, 1971, 85 Stat. 477. Section 6(b)(1) amended subsec. (b)(3) of this section, added former subsec. (h) of this section, and enacted the provisions editorially classified to subsec. (i) [now (h)] of this section. Section 6(b)(2) enacted [section 297i of this title](./chapter-6a-public-health-service.md#section-297i) which was transferred and redesignated as subsec. (j) [now (i)] of this section pursuant to section 941(h)(5) of Pub. L. 94–63.
 
@@ -53628,7 +54502,7 @@ A prior section 297q, act July 1, 1944, ch. 373, title VIII, § 841, as added Pu
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which enacted this part, to reflect the probable intent of Congress.
@@ -53889,7 +54763,7 @@ Ex. Ord. No. 13017, Sept. 5, 1996, 61 F.R. 47659, as amended by Ex. Ord. No. 130
 
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of this title. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Social Security Amendments of 1967, referred to in subsec. (d), is Pub. L. 90–248, Jan. 2, 1968, 81 Stat. 821, as amended. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Amendments of 1967, referred to in subsec. (d), is Pub. L. 90–248, Jan. 2, 1968, 81 Stat. 821. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 299a, act July 1, 1944, ch. 373, title IX, § 902, as added Pub. L. 101–239, title VI, § 6103(a), Dec. 19, 1989, 103 Stat. 2189; amended Pub. L. 101–639, § 3(d), Nov. 28, 1990, 104 Stat. 4603; Pub. L. 102–410, § 2(b), Oct. 13, 1992, 106 Stat. 2094, required Administrator to conduct and support research, demonstration projects, evaluations, training, guideline development, and dissemination of information on health care services and on systems for delivery of such services, prior to the general amendment of this subchapter by Pub. L. 106–129.
@@ -54363,7 +55237,7 @@ Another prior section 922 of act July 1, 1944, was classified to [section 299c�
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§ 1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 923 of act July 1, 1944, was renumbered section 943 and is classified to [section 299c–2 of this title](./chapter-6a-public-health-service.md#section-299c-2).
@@ -55323,11 +56197,11 @@ Committee on Commerce of House of Representatives changed to Committee on Energy
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(1)(A), (2)(C)(i), (3)(A)(iii), (C)(i), (4)(A), (6)(A), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. Parts C and D of title XVIII of the Act are classified generally to parts C (§ 1395w–21 et seq.) and D (§ 1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(A), (2)(C)(i), (3)(A)(iii), (C)(i), (4)(A), (6)(A), (C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§ 1395 et seq.), XIX (§ 1396 et seq.), and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. Parts C and D of title XVIII of the Act are classified generally to parts C (§ 1395w–21 et seq.) and D (§ 1395w–101 et seq.), respectively, of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
-The Public Health Service Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter. Title IX of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsec. (a)(3)(C)(ii)(I), (4)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter. Title IX of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Codification
 Section was enacted as part of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003, and not as part of the Public Health Service Act which comprises this chapter.
@@ -55704,6 +56578,106 @@ Pub. L. 95–215, § 7, Dec. 19, 1977, 91 Stat. 1507, required Secretary of Heal
 
 #### Congressional Declaration of Purpose
 Pub. L. 91–572, § 2, Dec. 24, 1970, 84 Stat. 1504, provided that: “It is the purpose of this Act [see Short Title of 1970 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201)]— “(1) to assist in making comprehensive voluntary family planning services readily available to all persons desiring such services; “(2) to coordinate domestic population and family planning research with the present and future needs of family planning programs; “(3) to improve administrative and operational supervision of domestic family planning services and of population research programs related to such services; “(4) to enable public and nonprofit private entities to plan and develop comprehensive programs of family planning services; “(5) to develop and make readily available information (including educational materials) on family planning and population growth to all persons desiring such information; “(6) to evaluate and improve the effectiveness of family planning service programs and of population research; “(7) to assist in providing trained manpower needed to effectively carry out programs of population research and family planning services; and “(8) to establish an Office of Population Affairs in the Department of Health, Education, and Welfare as a primary focus within the Federal Government on matters pertaining to population research and family planning, through which the Secretary of Health, Education, and Welfare [now Health and Human Services] (hereafter in this Act referred to as the ‘Secretary’) shall carry out the purposes of this Act.”
+
+#### Ex. Ord. No. 14076. Protecting Access to Reproductive Healthcare Services
+Ex. Ord. No. 14076, July 8, 2022, 87 F.R. 42053, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. Nearly 50 years ago, Roe v. Wade, 410 U.S. 113 (1973), articulated the United States Constitution’s protection of women’s fundamental right to make reproductive healthcare decisions. These deeply private decisions should not be subject to government interference. Yet today, fundamental rights—to privacy, autonomy, freedom, and equality—have been denied to millions of women across the country.
+
+Eliminating the right recognized in Roe has already had and will continue to have devastating implications for women’s health and public health more broadly. Access to reproductive healthcare services is now threatened for millions of Americans, and especially for those who live in States that are banning or severely restricting abortion care. Women’s health clinics are being forced to close—including clinics that offer other preventive healthcare services such as contraception—leaving many communities without access to critical reproductive healthcare services. Women seeking abortion care—especially those in low-income, rural, and other underserved communities—now have to travel to jurisdictions where services remain legal notwithstanding the cost or risks.
+
+In the face of this health crisis, the Federal Government is taking action to protect healthcare service delivery and promote access to critical reproductive healthcare services, including abortion. It remains the policy of my Administration to support women’s right to choose and to protect and defend reproductive rights. Doing so is essential to justice, equality, and our health, safety, and progress as a Nation.
+
+Sec. 2. Definitions. (a) The term “agency” means any authority of the United States that is an “agency” under [44 U.S.C. 3502(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/1&num=0&edition=prelim), other than one considered to be an independent regulatory agency, as defined in [44 U.S.C. 3502(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim).
+
+(b) The term “reproductive healthcare services” means medical, surgical, counseling, or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy.
+
+Sec. 3. Protecting Access to Reproductive Healthcare Services. (a) Within 30 days of the date of this order [July 8, 2022], the Secretary of Health and Human Services shall submit a report to the President:
+
+(i) identifying potential actions:
+
+(A) to protect and expand access to abortion care, including medication abortion; and
+
+(B) to otherwise protect and expand access to the full range of reproductive healthcare services, including actions to enhance family planning services such as access to emergency contraception;
+
+(ii) identifying ways to increase outreach and education about access to reproductive healthcare services, including by launching a public awareness initiative to provide timely and accurate information about such access, which shall:
+
+(A) share information about how to obtain free or reduced cost reproductive healthcare services through Health Resources and Services Administration-Funded Health Centers, Title X clinics, and other providers; and
+
+(B) include promoting awareness of and access to the full range of contraceptive services, as well as know-your-rights information for those seeking or providing reproductive healthcare services; and
+
+(iii) identifying steps to ensure that all patients—including pregnant women and those experiencing pregnancy loss, such as miscarriages and ectopic pregnancies—receive the full protections for emergency medical care afforded under the law, including by considering updates to current guidance on obligations specific to emergency conditions and stabilizing care under the Emergency Medical Treatment and Labor Act, [42 U.S.C. 1395dd](./chapter-007-social-security.md#section-1395dd), and providing data from the Department of Health and Human Services concerning implementation of these efforts.
+
+(b) To promote access to reproductive healthcare services, the Attorney General and the Counsel to the President shall convene a meeting of private pro bono attorneys, bar associations, and public interest organizations in order to encourage lawyers to represent and assist patients, providers, and third parties lawfully seeking these services throughout the country.
+
+Sec. 4. Protecting Privacy, Safety, and Security. (a) To address potential heightened safety and security risks related to the provision of reproductive healthcare services, the Attorney General and the Secretary of Homeland Security shall consider actions, as appropriate and consistent with applicable law, to ensure the safety of patients, providers, and third parties, and to protect the security of clinics (including mobile clinics), pharmacies, and other entities providing, dispensing, or delivering reproductive and related healthcare services.
+
+(b) To address the potential threat to patient privacy caused by the transfer and sale of sensitive health-related data and by digital surveillance related to reproductive healthcare services, and to protect people seeking reproductive health services from fraudulent schemes or deceptive practices:
+
+(i) The Chair of the Federal Trade Commission (FTC) is encouraged to consider actions, as appropriate and consistent with applicable law (including the Federal Trade Commission Act, [15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.), to protect consumers’ privacy when seeking information about and provision of reproductive healthcare services.
+
+(ii) The Secretary of Health and Human Services shall consider actions, including providing guidance under the Health Insurance Portability and Accountability Act [of 1996], Public Law 104–191, 110 Stat. 1936 (1996) as amended by Public Law 111–5, 123 Stat. 115 (2009), and any other statutes as appropriate, to strengthen the protection of sensitive information related to reproductive healthcare services and bolster patient-provider confidentiality.
+
+(iii) The Secretary of Health and Human Services shall, in consultation with the Attorney General, consider actions to educate consumers on how best to protect their health privacy and limit the collection and sharing of their sensitive health-related information.
+
+(iv) The Secretary of Health and Human Services shall, in consultation with the Attorney General and the Chair of the FTC, consider options to address deceptive or fraudulent practices related to reproductive healthcare services, including online, and to protect access to accurate information.
+
+Sec. 5. Coordinating Implementation Efforts. (a) The Secretary of Health and Human Services and the Director of the Gender Policy Council shall establish and co-chair an Interagency Task Force on Reproductive Healthcare Access (Task Force). Additional members shall include the Attorney General and the heads of other agencies as determined by the Secretary of Health and Human Services and the Director of the Gender Policy Council. The Task Force shall work to identify and coordinate activities to protect and strengthen access to essential reproductive healthcare services. In addition, the Task Force shall coordinate Federal interagency policymaking, program development, and outreach efforts to address barriers that individuals and entities may face in seeking and providing reproductive healthcare services. The Department of Health and Human Services shall provide funding and administrative support as may be necessary for the performance and functions of the Task Force.
+
+(b) The Attorney General shall provide technical assistance, as appropriate and consistent with applicable law, concerning Federal constitutional protections to States seeking to afford legal protection to out-of-State patients and providers who offer legal reproductive healthcare.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 14079. Securing Access to Reproductive and Other Healthcare Services
+Ex. Ord. No. 14079, Aug. 3, 2022, 87 F.R. 49505, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. On July 8, 2022, following a decision by the Supreme Court to overrule Roe v. Wade, 410 U.S. 113 (1973), I signed Executive Order 14076 (Protecting Access to Reproductive Healthcare Services) [set out above]. As that order recognized, eliminating the right recognized in Roe has had and will continue to have devastating implications for women’s health and public health more broadly.
+
+Following that order, the Department of Health and Human Services (HHS) has taken critical steps to address those effects. These steps include clarifying the obligation of hospitals and providers under the Emergency Medical Treatment and Labor Act, [42 U.S.C. 1395dd](./chapter-007-social-security.md#section-1395dd), to provide to patients presenting at an emergency department with an emergency medical condition stabilizing care, including an abortion, if that care is necessary to stabilize their emergency medical condition, and issuing guidance to the Nation’s retail pharmacies on their obligations under Federal civil rights laws—including section 504 of the Rehabilitation Act [of 1973], [29 U.S.C. 794](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim), and section 1557 of the [Patient Protection and] Affordable Care Act, [42 U.S.C. 18116](./chapter-157-quality-affordable-health-care-for-all-americans.md#section-18116)—to ensure equal access to comprehensive reproductive and other healthcare services, including for women who are experiencing miscarriages.
+
+However, the continued advancement of restrictive abortion laws in States across the country has created legal uncertainty and disparate access to reproductive healthcare services depending on where a person lives, putting patients, providers, and third parties at risk and fueling confusion for hospitals and healthcare providers, including pharmacies. There have been numerous reports of women denied health- and life-saving emergency care, as providers fearful of legal reprisal delay necessary treatment for patients until their conditions worsen to dangerous levels. There are also reports of women of reproductive age being denied prescription medication at pharmacies—including medication that is used to treat stomach ulcers, lupus, arthritis, and cancer—due to concerns that these medications, some of which can be used in medication abortions, could be used to terminate a pregnancy. Reportedly, a healthcare provider, citing a State law restricting abortion, even temporarily stopped providing emergency contraception.
+
+As it remains the policy of my Administration to support women’s access to reproductive healthcare services, including their ability to travel to seek abortion care in States where it is legal, I am directing my Administration to take further action to protect access to reproductive healthcare services and to address the crisis facing women’s health and public health more broadly.
+
+Sec. 2. Definition. The term “reproductive healthcare services” means medical, surgical, counseling, or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy.
+
+Sec. 3. Advancing the Ability to Obtain Reproductive Healthcare Services. In furtherance of the policy set forth in section 1 of this order, the Secretary of HHS shall consider actions to advance access to reproductive healthcare services, including, to the extent permitted by Federal law, through Medicaid for patients traveling across State lines for medical care.
+
+Sec. 4. Promoting Compliance with Non-Discrimination Law in Obtaining Medical Care. In furtherance of the policy set forth in section 1 of this order, and to ensure that individuals are not denied necessary healthcare on the basis of any ground protected by Federal law, including current pregnancy, past pregnancy, potential or intended pregnancy, or other medical conditions, the Secretary of HHS shall consider all appropriate actions to advance the prompt understanding of and compliance with Federal non-discrimination laws by healthcare providers that receive Federal financial assistance. Such actions may include:
+
+(a) providing technical assistance for healthcare providers that have questions concerning their obligations under Federal non-discrimination laws;
+
+(b) convening healthcare providers to provide information on their obligations under Federal non-discrimination laws and the potential consequences of non-compliance; and
+
+(c) issuing additional guidance, or taking other action as appropriate, in response to any complaints or other reports of non-compliance with Federal non-discrimination laws.
+
+Sec. 5. Data Collection. The Secretary of HHS shall evaluate the adequacy of research, data collection, and data analysis and interpretation efforts at the National Institutes of Health, the Centers for Disease Control and Prevention, and other relevant HHS components in accurately measuring the effect of access to reproductive healthcare on maternal health outcomes and other health outcomes. Following that evaluation, the Secretary shall take appropriate actions to improve those efforts.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 #### The Title X “Gag Rule”
 Memorandum of President of the United States, Jan. 22, 1993, 58 F.R. 7455, provided:
@@ -56540,7 +57514,7 @@ may make the provision of health services or health benefits secondary to the pa
 #### References in Text
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (f)(3), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§ 900 et seq.) of chapter 20 of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsecs. (g) and (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (g) and (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Codification
 In subsecs. (a), (b), (e)(2), (f)(4)(B), (i), and (j), “October 1, 1988” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under [section 300aa–1 of this title](./chapter-6a-public-health-service.md#section-300aa-1).
@@ -56914,7 +57888,7 @@ Subpart effective Oct. 1, 1988, see section 323 of Pub. L. 99–660, set out as 
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 In subsecs. (b)(1), (c), “October 1, 1988” was substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under [section 300aa–1 of this title](./chapter-6a-public-health-service.md#section-300aa-1).
@@ -56949,7 +57923,7 @@ In subsecs. (b)(1), (c), “October 1, 1988” was substituted for “the effect
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (d)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (d)(2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 In subsec. (a), “October 1, 1988” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under [section 300aa–1 of this title](./chapter-6a-public-health-service.md#section-300aa-1).
@@ -57565,7 +58539,7 @@ Section, act July 1, 1944, ch. 373, title X, § 1009, as added Pub. L. 94–63, 
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsecs. (b), (c)(1), and (e), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to this chapter (§ 201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsecs. (b), (c)(1), and (e), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to this chapter (§ 201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 The Community Mental Health Centers Act, referred to in subsecs. (b), (c)(1), and (e), is title II of Pub. L. 88–164, as added Pub. L. 94–63, title III, § 303, July 29, 1975, 89 Stat. 309, and amended, which was classified principally to subchapter III (§ 2689 et seq.) of chapter 33 of this title prior to its repeal by Pub. L. 97–35, title IX, § 902(e)(2)(B), Aug. 13, 1981, 95 Stat. 560.
 
@@ -57799,7 +58773,7 @@ For purposes of this subchapter, the term “qualifying event” means, with res
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 
 <a id="section-300bb-4"></a>
@@ -57922,7 +58896,7 @@ For purposes of paragraph (4), any notification shall be made within 14 days of 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in par. (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
 1996—Par. (3). Pub. L. 104–191 substituted “at any time during the first 60 days of continuation coverage under this subchapter” for “at the time of a qualifying event described in [section 300bb–3(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300bb–3/2&num=0&edition=prelim)”.
@@ -58863,9 +59837,11 @@ Sec. 4. General Provisions. (a) Notwithstanding the provisions of any other Exec
 William J. Clinton.
 
 #### Extension of Term of Presidential Advisory Council on HIV/AIDS
-Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Previous extension of term of Presidential Advisory Council on HIV/AIDS was contained in the following prior Executive Order:
+Previous extensions of term of Presidential Advisory Council on HIV/AIDS were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743 extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -61425,7 +62401,7 @@ Another prior section 1203 of act July 1, 1994, was renumbered section 1202 and 
 ### Statutory Notes
 
 #### References in Text
-The Americans with Disabilities Act of 1990, referred to in subsec. (e)(2)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title II of the Act is classified generally to subchapter II (§ 12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (e)(2)(A), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title II of the Act is classified generally to subchapter II (§ 12131 et seq.) of chapter 126 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–377, § 3(1), inserted “, acting through the Administrator for the Administration for Community Living,” after “The Secretary”.
@@ -62511,7 +63487,7 @@ Pub. L. 100–607, title II, § 251, Nov. 4, 1988, 102 Stat. 3108, as amended by
 ### Statutory Notes
 
 #### References in Text
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the AIDS Amendments of 1988 and as part of the Health Omnibus Programs Extension of 1988, and not as part of the Public Health Service Act which comprises this chapter.
@@ -62581,7 +63557,7 @@ None of the funds provided under this Act or an amendment made by this Act shall
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 100–607, Nov. 4, 1988, 102 Stat. 3048, as amended, known as the “Health Omnibus Programs Extension of 1988”. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+This Act, referred to in text, is Pub. L. 100–607, Nov. 4, 1988, 102 Stat. 3048, known as the “Health Omnibus Programs Extension of 1988”. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Codification
 Section was enacted as part of the AIDS Amendments of 1988 and as part of the Health Omnibus Programs Extension of 1988, and not as part of the Public Health Service Act which comprises this chapter.
@@ -63727,7 +64703,7 @@ An entity which provides health services to a defined population on a prepaid ba
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
 1986—Subsec. (a)(1). Pub. L. 99–660, § 803(b)(2), substituted “loan or loan guarantee” for “grant, contract, loan, or loan guarantee”, “proceeds of the loan” for “proceeds of the grant, contract, or loan”, and “with which the loan was given” for “with which such assistance was given”.
@@ -66879,7 +67855,7 @@ Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L.
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part B of title XXVI of the Act is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XXVI of the Act is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Codification
 Section was enacted as part of the Ryan White CARE Act Amendments of 1996, and not as part of the Public Health Service Act which comprises this chapter.
@@ -69372,9 +70348,6 @@ An entity selected pursuant to the previous sentence to make a determination des
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 107(a) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
-
 #### References in Text
 Section 109(a) of the No Surprises Act, referred to in subsec. (a)(2)(B), is section 109(a) of Pub. L. 116–260, div. BB, title I, Dec. 27, 2020, 134 Stat. 2859, which is not classified to the Code.
 
@@ -70492,9 +71465,6 @@ Pub. L. 116–260, div. BB, title I, § 110, Dec. 27, 2020, 134 Stat. 2861, prov
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 102(a)(3)(A) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
-
 #### References in Text
 Section 2701 of this Act, referred to in subsec. (b)(1)(D), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg), was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to [section 300gg–3 of this title](./chapter-6a-public-health-service.md#section-300gg-3). A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, § 1201(4), title X, § 10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg).
 
@@ -70648,9 +71618,6 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
   if such individual is, or may become, eligible to receive a benefit under the plan or such individual’s beneficiaries may be eligible to receive any such benefit.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 102(a)(3)(B) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.
 
 #### References in Text
 Subparts 1 and 2, referred to in subsecs. (a)(1), (2)(A), (b), and (c)(1), (2), were amended by Pub. L. 111–148, title I, §§ 1001(5), 1201(1), 1563(c)(2), (11), formerly § 1562(c)(2), (11), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 154, 265, 268, 911. The subpart 1 designation and heading “portability, access, and renewability requirements” were struck out and a new subpart I designation and heading “general reform” were enacted preceding [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg), effective for plan years beginning on or after Jan. 1, 2014. A new subpart II designation and heading “improving coverage” were enacted preceding [section 300gg–11 of this title](./chapter-6a-public-health-service.md#section-300gg-11). The subpart 2 designation and heading “other requirements” were struck out preceding [section 300gg–4 of this title](./chapter-6a-public-health-service.md#section-300gg-4), and subpart 4 was redesignated as subpart 2 “exclusion of plans; enforcement; preemption” preceding [section 300gg–21 of this title](./chapter-6a-public-health-service.md#section-300gg-21).
@@ -70841,9 +71808,6 @@ Pub. L. 110–233, title I, § 106, May 21, 2008, 122 Stat. 905, provided that: 
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 102(a)(3)(C) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.
-
 #### References in Text
 [Section 300gg–23 of this title](./chapter-6a-public-health-service.md#section-300gg-23), referred to in subsec. (a)(1), was in the original section “2723”, and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by Pub. L. 111–148, title I, §§ 1001(4), 1563(c)(14)(B), formerly § 1562(c)(14)(B), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.
 
@@ -70916,9 +71880,6 @@ Section applicable with respect to group health plans, and health insurance cove
 (2) **State** — The term “State” includes a State (including the Northern Mariana Islands), any political subdivisions of a State or such Islands, or any agency or instrumentality of either.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 102(a)(3)(D) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.
 
 #### References in Text
 Section 2701, referred to in subsec. (b), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg), was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to [section 300gg–3 of this title](./chapter-6a-public-health-service.md#section-300gg-3). A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, § 1201(4), title X, § 10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg).
@@ -72025,7 +72986,7 @@ Section effective for plan years beginning on or after Jan. 1, 2014, see section
 #### References in Text
 Section 2701 of this Act, referred to in subsecs. (a)(1)(B) and (b)(1)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg), was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to [section 300gg–3 of this title](./chapter-6a-public-health-service.md#section-300gg-3). A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, § 1201(4), title X, § 10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg).
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of this title. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 Section 2712, referred to in subsec. (b)(3), is a reference to section 2712 of act July 1, 1944. Section 2712, which was classified to [section 300gg–12 of this title](./chapter-6a-public-health-service.md#section-300gg-12), was renumbered section 2732 and amended and transferred to subsecs. (b) to (e) of [section 300gg–2 of this title](./chapter-6a-public-health-service.md#section-300gg-2) by Pub. L. 111–148, title I, §§ 1001(3), 1563(c)(9), formerly § 1562(c)(9), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 267, 911. A new section 2712 of act July 1, 1944, related to prohibition on rescissions, was added by Pub. L. 111–148, title I, § 1001(5), Mar. 23, 2010, 124 Stat. 131, effective for plan years beginning on or after the date that is 6 months after Mar. 23, 2010, and is classified to [section 300gg–12 of this title](./chapter-6a-public-health-service.md#section-300gg-12).
 
@@ -72945,7 +73906,7 @@ The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch
 
 Section 2701, referred to in subsecs. (a)(3) and (d)(15)(A), is a reference to section 2701 of act July 1, 1944. Section 2701, which was classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg), was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by Pub. L. 111–148, title I, §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to [section 300gg–3 of this title](./chapter-6a-public-health-service.md#section-300gg-3). A new section 2701 of act July 1, 1944, related to fair health insurance premiums, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended, by Pub. L. 111–148, title I, § 1201(4), title X, § 10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg).
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§ 1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§ 1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 Section 2702, referred to in subsec. (d)(9), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to [section 300gg–1 of this title](./chapter-6a-public-health-service.md#section-300gg-1), was amended by Pub. L. 111–148, title I, § 1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of [section 300gg–4 of this title](./chapter-6a-public-health-service.md#section-300gg-4), effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, § 1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to [section 300gg–1 of this title](./chapter-6a-public-health-service.md#section-300gg-1).
 
@@ -73404,7 +74365,7 @@ The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. 
 
 The Safe Drinking Water Act Amendments of 1996, referred to in subsec. (b)(13)(A), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
-The Environmental Research, Development, and Demonstration Act of 1978, referred to in subsec. (e), probably means the Environmental Research, Development, and Demonstration Authorization Act of 1978 which is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, as amended. Provisions of the Act establishing the Science Advisory Board are classified to [section 4365 of this title](./chapter-055-national-environmental-policy.md#section-4365). For complete classification of this Act to the Code, see Tables.
+The Environmental Research, Development, and Demonstration Act of 1978, referred to in subsec. (e), probably means the Environmental Research, Development, and Demonstration Authorization Act of 1978 which is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257. Provisions of the Act establishing the Science Advisory Board are classified to [section 4365 of this title](./chapter-055-national-environmental-policy.md#section-4365). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1996—Subsec. (a)(3). Pub. L. 104–182, § 102(c)(2), struck out “paragraph (1), (2), or (3) of” before “subsection (b)” in two places.
@@ -75449,9 +76410,9 @@ Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g
 
   (A) *In general* — If the Secretary determines that the number of intermittent disaster response personnel within the National Disaster Medical System under this section is insufficient to address a public health emergency or potential public health emergency, the Secretary may appoint candidates directly to personnel positions for intermittent disaster response within such system. The Secretary shall provide updates on the number of vacant or unfilled positions within such system to the congressional committees of jurisdiction each quarter for which this authority is in effect.
 
-  (B) *Sunset* — The authority under this paragraph shall expire on February 18, 2022.
+  (B) *Sunset* — The authority under this paragraph shall expire on September 30, 2023.
 
-(5) **Service benefit** — Individuals appointed to serve under this subsection shall be considered eligible for benefits under part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[42 U.S.C. 10281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10281&num=0&edition=prelim) et seq.]. The Secretary shall provide notification to any eligible individual of any effect such designation may have on other benefits for which such individual is eligible, including benefits from private entities.
+(5) **Omitted**
 
 **(d) Certain employment issues regarding intermittent appointments**
 
@@ -75485,13 +76446,14 @@ Subsec. (g). Pub. L. 116–22, § 305(a)(4), (6), redesignated subsec. (f) as (g
 
 ### Statutory Notes
 
-#### Amendment of Section
-For termination of amendment by section 301(d)(3) of Pub. L. 116–22, see Termination Date of 2019 Amendment note below.
-
 #### References in Text
 The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (c)(5), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part L of title I of the Act is classified generally to subchapter XI (§ 10281 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (c)(4)(B). Pub. L. 117–103 substituted “September 30, 2023” for “March 11, 2022”.
+
+Pub. L. 117–86 substituted “March 11, 2022” for “February 18, 2022”.
+
 2021—Subsec. (c)(4)(B). Pub. L. 117–70 substituted “February 18, 2022” for “December 3, 2021”.
 
 Pub. L. 117–43 substituted “December 3, 2021” for “September 30, 2021”.
@@ -75502,7 +76464,7 @@ Subsec. (b)(2). Pub. L. 116–22, § 301(a)(2), amended par. (2) generally. Prio
 
 Subsec. (c)(3), (4). Pub. L. 116–22, § 301(a)(3), added pars. (3) and (4).
 
-Subsec. (c)(5). Pub. L. 116–22, §§ 301(d)(1), (3), temporarily added par. (5). See Termination Date of 2019 Amendment note below.
+Subsec. (c)(5). Pub. L. 116–22, §§ 301(d)(1), (3), temporarily added par. (5). Prior to amendment, text read as follows: “Individuals appointed to serve under this subsection shall be considered eligible for benefits under part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[42 U.S.C. 10281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10281&num=0&edition=prelim) et seq.]. The Secretary shall provide notification to any eligible individual of any effect such designation may have on other benefits for which such individual is eligible, including benefits from private entities.” See Termination Date of 2019 Amendment note below.
 
 Subsec. (g). Pub. L. 116–22, § 301(a)(4), substituted “$57,400,000 for each of fiscal years 2019 through 2023” for “$52,700,000 for each of fiscal years 2014 through 2018”.
 
@@ -76362,7 +77324,7 @@ The Clean Water Act, referred to in subsec. (k), is act June 30, 1948, ch. 758, 
 
 The Solid Waste Disposal Act, referred to in subsec. (k), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (k), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (k), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–182, § 501(f)(3), made technical amendment to section catchline and subsec. (a) designation.
@@ -76505,6 +77467,9 @@ The Safe Drinking Water Act, referred to in subsec. (b), is title XIV of act Jul
 
 #### Codification
 Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-300i"></a>
@@ -80583,7 +81548,7 @@ As used in this part—
 ### Statutory Notes
 
 #### References in Text
-The Defense Dependent’s Education Act of 1978, referred to in par. (3)(C), probably means the Defense Dependents’ Education Act of 1978, title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
+The Defense Dependent’s Education Act of 1978, referred to in par. (3)(C), probably means the Defense Dependents’ Education Act of 1978, title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Par. (5). Pub. L. 115–270 inserted “or drinking water fountain” after “water cooler” wherever appearing.
@@ -80613,7 +81578,7 @@ For purposes of the Consumer Product Safety Act [[15 U.S.C. 2051](https://uscode
 ### Statutory Notes
 
 #### References in Text
-The Consumer Product Safety Act, referred to in text, is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to chapter 47 (§ 2051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2051&num=0&edition=prelim) and Tables.
+The Consumer Product Safety Act, referred to in text, is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2051&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–182 made technical amendment to section catchline and first word of text.
@@ -81467,7 +82432,7 @@ Pub. L. 112–74, div. E, title II, Dec. 23, 2011, 125 Stat. 1020, provided in p
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part B of title XVIII of the Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 300k, Pub. L. 93–641, § 2, Jan. 4, 1975, 88 Stat. 2226, set forth Congressional findings relating to national health planning and development, prior to omission in connection with repeal of former section 300k–1 et seq. of this title.
@@ -81630,7 +82595,7 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 300l, act July 1, 1944, ch. 373, title XV, § 1511, as added Jan. 4, 1975, Pub. L. 93–641, § 3, 88 Stat. 2229; amended Apr. 22, 1976, Pub. L. 94–278, title XI, § 1106(a), 90 Stat. 416; Aug. 1, 1977, Pub. L. 95–83, title I, § 106(b), 91 Stat. 384; Oct. 4, 1979, Pub. L. 96–79, title I, § 104(a)(1), (b), 93 Stat. 595, 596, related to establishment of health service areas, prior to repeal by Pub. L. 99–660, title VII, § 701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
@@ -81681,7 +82646,7 @@ The Secretary may not make a grant under [section 300k of this title](./chapter-
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 Prior sections 300l–1 to 300l–5 were repealed by Pub. L. 99–660, title VII, § 701(a), Nov. 14, 1986, 100 Stat. 3799, effective Jan. 1, 1987.
@@ -84059,11 +85024,11 @@ but such term does not include a Federal hospital or a psychiatric hospital (as 
 #### References in Text
 Section 300l–2 of this title, referred to in subsec. (b)(2)(A), was repealed effective Jan. 1, 1987, by Pub. L. 99–660, title VII, § 701(a), Nov. 14, 1986, 100 Stat. 3799.
 
-The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
+The National Labor Relations Act, referred to in subsec. (c)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
 
 [Section 292e of this title](./chapter-6a-public-health-service.md#section-292e), referred to in subsec. (d), was in the original a reference to section 705 of act July 1, 1944. Section 705 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 705 of act July 1, 1944, relating to eligibility of borrowers and terms of insured loans, and a new section 706, relating to certificates of loan insurance, which are classified to sections 292d and 292e, respectively, of this title.
 
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Codification
 In subsec. (b)(1)(D), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 ([40 U.S.C. 276a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276a&num=0&edition=prelim)—276a–5, known as the Davis-Bacon Act)” and “[section 3145 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3145&num=0&edition=prelim)” substituted for “section 2 of the Act of June 13, 1934 ([40 U.S.C. 276c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276c&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -84165,7 +85130,7 @@ Section 312(b)(2) of Pub. L. 100–607 required Secretary of Health and Human Se
 Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, § 8, Sept. 30, 1999, 64 F.R. 53881, which provided for the Secretary of Health and Human Services to develop and coordinate a national program for physical fitness and sports, continued the President’s Council on Physical Fitness and Sports, and provided for termination of the Council on Dec. 31, 1982, was revoked by Ex. Ord. No. 13265, § 5(c), June 6, 2002, 67 F.R. 39842, set out below, prior to amendment by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283.
 
 #### Ex. Ord. No. 13265. President’s Council on Sports, Fitness, and Nutrition
-Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923, provided:
+Ex. Ord. No. 13265, June 6, 2002, 67 F.R. 39841, as amended by Ex. Ord. No. 13545, June 22, 2010, 75 F.R. 37283; Ex. Ord. No. 13824, Feb. 26, 2018, 83 F.R. 8923; Ex. Ord. No. 14048, § 7, Sept. 30, 2021, 86 F.R. 55467, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and to expand the executive branch’s program for physical fitness and sports and establish the President’s Council on Sports, Fitness, and Nutrition (the “Council”), it is hereby ordered as follows:
 
@@ -84173,15 +85138,19 @@ Section 1. Purpose. My Administration recognizes the benefits of youth sports pa
 
 Good health, including physical activity and proper nutrition, supports Americans’, particularly children’s, well-being, growth, and development. Participating in sports allows children to experience the connection between effort and success, and it enhances their academic, economic, and social prospects. Many of America’s leaders attribute their lifetime achievements to lessons learned through sports participation and athletic activity. Additionally, youth sports help working parents and guardians by providing their children opportunities to engage in productive, positive activities outside of school. Unfortunately, during the past decade youth participation in team sports has declined. As of 2016, only 37 percent of children played team sports on a regular basis, down from 45 percent in 2008. Particularly troubling is that sports participation disproportionately lags among young girls and children who are from economically distressed areas.
 
-Sec. 2. Policy. (a) The Secretary of Health and Human Services (Secretary), in carrying out the Secretary’s responsibilities for public health and human services, shall develop a national strategy to expand children’s participation in youth sports, encourage regular physical activity, including active play, and promote good nutrition for all Americans. This national strategy shall focus on children and youth in communities with below-average sports participation and communities with limited access to athletic facilities or recreational areas. Through this national strategy, the Secretary shall seek to:
+Sec. 2. Policy. (a) The Secretary of Health and Human Services (Secretary), in carrying out the Secretary’s responsibilities for public health and human services, shall continue to promulgate a national strategy (the National Youth Sports Strategy) to expand children’s participation in youth sports, encourage regular physical activity, including active play, and promote good nutrition for all Americans. This national strategy shall focus on children and youth in communities with below-average sports participation and communities with limited access to athletic facilities or recreational areas. Through this national strategy, the Secretary shall seek to:
 
 (i) increase awareness of the benefits of participation in sports and regular physical activity, as well as the importance of good nutrition;
 
 (ii) promote private and public sector strategies to increase participation in sports, encourage regular physical activity, and improve nutrition;
 
-(iii) develop metrics that gauge youth sports participation and physical activity to inform efforts that will improve participation in sports and regular physical activity among young Americans; and
+(iii) develop metrics that gauge youth sports participation and physical activity to inform efforts that will improve participation in sports and regular physical activity among young Americans;
 
-(iv) establish a national and local strategy to recruit volunteers who will encourage and support youth participation in sports and regular physical activity, through coaching, mentoring, teaching, or administering athletic and nutritional programs.
+(iv) establish a national and local strategy to recruit volunteers who will encourage and support youth participation in sports and regular physical activity, through coaching, mentoring, teaching, or administering athletic and nutritional programs;
+
+(v) expand national awareness of the importance of mental health as it pertains to physical fitness and nutrition; and
+
+(vi) share information about the positive effects of physical activity on mental health, particularly as it relates to children and adolescents, to combat the negative mental health impacts of the coronavirus disease 2019 (COVID–19) pandemic.
 
 Sec. 3. The President’s Council on Sports, Fitness, and Nutrition. (a) There is hereby established the President’s Council on Sports, Fitness, and Nutrition (Council).
 
@@ -84192,6 +85161,8 @@ Sec. 4. Functions of the Council. (a) The Council shall advise the President, th
 (b) The Council shall recommend to the Secretary actions to expand opportunities at the national, State, and local levels for participation in sports and engagement in physical fitness and activity.
 
 (c) The Council’s performance of these functions shall take into account the Department of Health and Human Services’ Physical Activity Guidelines for Americans, including consideration for youth with disabilities.
+
+(d) The Council members shall function as liaisons and spokespersons on behalf of the Council to relevant State, local, and private entities, and share information about the work of the Council in order to advise the Secretary regarding opportunities to extend and improve physical activity, fitness, sports, and nutrition programs and services at the State, local, and national levels.
 
 Sec. 5. Administration. (a) Each executive department and agency shall, to the extent permitted by law and subject to the availability of funds, furnish such information and assistance to the Secretary and the Council as they may request.
 
@@ -84226,9 +85197,11 @@ Sec. 6. General Provisions. (a) Insofar as the Federal Advisory Committee Act, a
 [Ex. Ord. No. 13824, § 1, revoked Ex. Ord. No. 13545, which had amended Ex. Ord. No. 13265, set out above.]
 
 #### Extension of Term of President’s Council on Fitness, Sports, and Nutrition
-Term of President’s Council on Fitness, Sports, and Nutrition (renamed President’s Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Council on Fitness, Sports, and Nutrition (renamed President’s Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 Previous extensions of term of President’s Council on Fitness, Sports, and Nutrition, formerly President’s Council on Physical Fitness and Sports, were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -85453,9 +86426,13 @@ Pub. L. 111–148, title X, § 10334(b)(3), Mar. 23, 2010, 124 Stat. 973, provid
 
 **(c) Certain demonstration projects**
 
-(1) **In general** — In carrying out subsection (b)(3), the Secretary may make grants to carry out demonstration projects for the purpose of improving adolescent health, including proj­ects to train health care providers in providing services to adolescents and projects to reduce the incidence of violence among adolescents, particularly among minority males.
+(1) **In general** — In carrying out subsection (b)(3), the Secretary may make grants to carry out demonstration projects for the purpose of improving adolescent health, including—
 
-(2) **Authorization of appropriations** — For the purpose of carrying out paragraph (1), there are authorized to be appropriated $5,000,000 for fiscal year 1993, and such sums as may be necessary for each of the fiscal years 1994 through 1997.
+  (A) projects to train health care providers in providing services to adolescents; and
+
+  (B) projects to reduce the incidence of violence among adolescents, particularly violence related to teen dating, which shall include projects to develop and implement educational program to increase abuse awareness and prevention.
+
+(2) **Authorization of appropriations** — For the purpose of carrying out paragraph (1), there are authorized to be appropriated $8,000,000 for each of fiscal years 2023 through 2027.
 
 **(d) Information clearinghouse** In carrying out subsection (b), the Secretary shall establish and maintain a National Information Clearinghouse on Adolescent Health to collect and disseminate to health professionals and the general public information on adolescent health.
 
@@ -85469,15 +86446,51 @@ Pub. L. 111–148, title X, § 10334(b)(3), Mar. 23, 2010, 124 Stat. 973, provid
 
 (3) with respect to which there has been insufficient clinical research involving adolescents as subjects or insufficient clinical data on adolescents.
 
+**(g) Interagency Work Group**
+
+(1) **Establishment** — The Secretary shall establish the Federal Interagency Work Group on Teen Dating Violence (referred to in this section as the “Work Group”).
+
+(2) **In general**
+
+  (A) *Composition* — Not later than 120 days after March 15, 2022, the Secretary shall appoint representatives to the Work Group from the Administration for Children and Families, the Centers for Disease Control and Prevention, the Health Resources and Services Administration, the Department of Education, the Department of Justice, and other Federal agencies as determined appropriate by the Secretary.
+
+  (B) *Consultation* — The Work Group shall consult with—
+
+    (i) experts at the State, Tribal, and local levels with relevant backgrounds in reducing and preventing the incidence of teen dating violence;
+
+    (ii) victims of teen dating violence; and
+
+    (iii) family members of teens who were killed by a dating partner.
+
+(3) **Duties** — The Work Group shall—
+
+  (A) examine all Federal efforts directed towards reducing and preventing teen dating violence;
+
+  (B) identify strategies, resources, and supports to improve State, Tribal, and local responses to the incidence of teen dating violence;
+
+  (C) make recommendations to Congress for improving Federal programs and efforts and coordination across such programs and efforts to reduce and prevent teen dating violence; and
+
+  (D) make recommendations for educating middle and high school students on teen dating violence.
+
+(4) **Annual report to Secretary** — The Work Group shall annually prepare and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Education and Labor of the House of Representatives, a report on the activities carried out by the Work Group under subsection (c), including recommendations to reduce and prevent teen dating violence.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 300u–7, act July 1, 1944, ch. 373, title XVII, § 1708, as added Nov. 10, 1978, Pub. L. 95–626, title V, § 502, 92 Stat. 3594; amended July 10, 1979, Pub. L. 96–32, § 6(l), 93 Stat. 84, related to project grants for physical fitness improvement and research projects, prior to repeal by Pub. L. 98–551, § 2(c), Oct. 30, 1984, 98 Stat. 2816.
 
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–103, § 1315(b)(1), added subsec. (c) and struck out former subsec. (c) which related to grants to carry out certain demonstration projects and authorizations of appropriations for fiscal years 1993 through 1997.
+
+Subsec. (g). Pub. L. 117–103, § 1315(b)(2), added subsec. (g).
+
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-300u-8"></a>
@@ -85716,7 +86729,7 @@ Except as provided in subsection (a)(1)(E), the Secretary may waive the limitati
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title V of the Social Security Act is classified generally to subchapter V (§ 701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title V of the Social Security Act is classified generally to subchapter V (§ 701 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
 2000—Subsec. (a)(1)(E). Pub. L. 106–310, § 511(3), added subpar. (E). Former subpar. (E) redesignated (F).
@@ -85934,7 +86947,7 @@ Pub. L. 102–531, title I, § 103(b), Oct. 27, 1992, 106 Stat. 3473, provided t
 ### Statutory Notes
 
 #### References in Text
-The Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (c), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357, as amended. Title XVII of the Omnibus Budget Reconciliation Act of 1981 enacted sections 3595, and 4511 to 4514 of Title 5, Government Organization and Employees, amended sections 3393, 3593, 3596, 4501, 4502, 4505, 4506, 7542, 7543, 8340, and 8345 of Title 5, and sections 2003 and 2401 of Title 39, Postal Service, and enacted provisions set out as notes under sections 3595, 4501, 5303, 5343, 8340, and 8345 of Title 5, section 1243 of former Title 31, Money and Finance, and sections 403, 2003, 2004, and 2401 of Title 39. For complete classification of this Act to the Code, see Tables.
+The Omnibus Budget Reconciliation Act of 1981, referred to in subsec. (c), is Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 357. Title XVII of the Omnibus Budget Reconciliation Act of 1981 enacted sections 3595, and 4511 to 4514 of Title 5, Government Organization and Employees, amended sections 3393, 3593, 3596, 4501, 4502, 4505, 4506, 7542, 7543, 8340, and 8345 of Title 5, and sections 2003 and 2401 of Title 39, Postal Service, and enacted provisions set out as notes under sections 3595, 4501, 5303, 5343, 8340, and 8345 of Title 5, section 1243 of former Title 31, Money and Finance, and sections 403, 2003, 2004, and 2401 of Title 39. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1992—Pub. L. 102–531, § 104(b)(1), substituted “Reports, data, and audits” for “Reports and audits” in section catchline.
@@ -86008,11 +87021,11 @@ Section effective Oct. 1, 1981, see section 901 of Pub. L. 97–35, set out in p
 ### Statutory Notes
 
 #### References in Text
-The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(2), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
+The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(2), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
+The Education Amendments of 1972, referred to in subsec. (a)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 #### Effective Date
 Section effective Oct. 1, 1981, see section 901 of Pub. L. 97–35, set out in part as a note under [section 300w of this title](./chapter-6a-public-health-service.md#section-300w).
@@ -86494,7 +87507,7 @@ Another prior section 1923 of act July 1, 1944, was classified to [section 300y�
 
 [Section 300x–4 of this title](./chapter-6a-public-health-service.md#section-300x-4), referred to in subsec. (b)(4)(A)(ii), was in the original a reference to section 1916 of act July 1, 1944, which was repealed by Pub. L. 102–321, title II, § 201(2), July 10, 1992, 106 Stat. 378. Section 201(2) of Pub. L. 102–321 enacted new sections 1915 and 1916 of act July 1, 1944, which are classified to sections 300x–4 and 300x–5, respectively, of this title.
 
-The Social Security Act, referred to in subsec. (c)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 1924 of act July 1, 1944, was classified to [section 300x–10 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300x–10&num=0&edition=prelim) prior to repeal by Pub. L. 102–321.
@@ -86790,7 +87803,7 @@ A prior section 1929 of act July 1, 1944, was classified to [section 300y–8 of
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (c)(1)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (c)(1)(A)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Prior Provisions
 A prior section 300x–3, act July 1, 1944, ch. 373, title XIX, § 1915, formerly § 1914, as added Aug. 13, 1981, Pub. L. 97–35, title IX, § 901, 95 Stat. 545; renumbered § 1915 and amended Oct. 19, 1984, Pub. L. 98–509, title I, §§ 105(b), 106(a), (b), (d), (g), 98 Stat. 2358, 2359; Nov. 18, 1988, Pub. L. 100–690, title II, §§ 2024–2026, 102 Stat. 4198, 4199; Aug. 16, 1989, Pub. L. 101–93, § 2(d), 103 Stat. 606; Nov. 28, 1990, Pub. L. 101–639, § 3(a)(2), 104 Stat. 4601, related to the use of grant allotments for alcohol, drug abuse, and mental health services, prior to repeal by Pub. L. 102–321, § 201(2).
@@ -87412,11 +88425,11 @@ Amendment by Pub. L. 102–352 effective immediately upon effectuation of amendm
 ### Statutory Notes
 
 #### References in Text
-The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(1)(B), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
+The Age Discrimination Act of 1975, referred to in subsecs. (a)(1) and (b)(1)(B), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
 
-The Education Amendments of 1972, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
+The Education Amendments of 1972, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (a)(1) and (b)(1)(B), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
 
 <a id="section-300x-58"></a>
@@ -88149,7 +89162,7 @@ Subsec. (b)(3). Pub. L. 98–512, § 2(c), inserted “both” before “for pre
 ### Statutory Notes
 
 #### References in Text
-The Health Services and Centers Amendments of 1978, referred to in subsec. (b), is Pub. L. 95–626, Nov. 10, 1978, 92 Stat. 3551, as amended. Title VI of the Health Services and Centers Amendments of 1978 was classified generally to part A (§ 300a–21 et seq.) of subchapter VIII–A of this chapter prior to its repeal by Pub. L. 97–35, title IX, § 955(b), title XXI, § 2193(f), Aug. 13, 1981, 95 Stat. 592, 828. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Health Services and Centers Amendments of 1978, referred to in subsec. (b), is Pub. L. 95–626, Nov. 10, 1978, 92 Stat. 3551. Title VI of the Health Services and Centers Amendments of 1978 was classified generally to part A (§ 300a–21 et seq.) of subchapter VIII–A of this chapter prior to its repeal by Pub. L. 97–35, title IX, § 955(b), title XXI, § 2193(f), Aug. 13, 1981, 95 Stat. 592, 828. For complete classification of this Act to the Code, see Short Title of 1978 Amendments note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
 1984—Subsec. (a)(4)(H). Pub. L. 98–512 struck out “and referral to such services” after “vocational services”.
@@ -88372,7 +89385,7 @@ The Health Services and Centers Amendments of 1978, referred to in subsec. (b), 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(13) to (15), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts B and E of title IV of the Social Security Act are classified generally to part B (§ 620 et seq.) and part E (§ 670 et seq.) of subchapter IV of chapter 7 of this title. Titles V, XIX, and XX of the Social Security Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (a)(13) to (15), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts B and E of title IV of the Social Security Act are classified generally to part B (§ 620 et seq.) and part E (§ 670 et seq.) of subchapter IV of chapter 7 of this title. Titles V, XIX, and XX of the Social Security Act are classified generally to subchapters V (§ 701 et seq.), XIX (§ 1396 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 
 <a id="section-300z-6"></a>

@@ -1667,9 +1667,13 @@ Pub. L. 106–46, § 1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 1
 #### Compensation of Employees
 Pub. L. 102–429, title I, § 117, Oct. 21, 1992, 106 Stat. 2196, provided that: “[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1992, 106 Stat. 2196.] “(b) Sunset.—Effective 2 years after the date of enactment of this Act [Oct. 21, 1992], subsection (a) is hereby repealed. “(c) Report.—Not later than 1 year after the date of enactment of this Act, the Export-Import Bank of the United States shall submit a report to the Congress on—“(1) the recruitment and employee retention problems of the Bank; “(2) any relief from such problems afforded by the Office of Personnel Management; “(3) any use of the authority provided in subsection (a); and “(4) the conclusions and recommendations of the Bank with respect to—“(A) whether such problems have been satisfactorily addressed; and “(B) whether or not the authority of subsection (a) should be extended.”
 
-[Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) of such section shall remain in effect until September 30, 2021” .]
+[Pub. L. 117–103, div. K, title VI, Mar. 15, 2022, 136 Stat. 588, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) of such section shall remain in effect until September 30, 2022” .]
+
+[Prior to repeal, section 117(a) of Pub. L. 102–429 read as follows: “In General.—The Board of Directors of the Export-Import Bank of the United States may compensate not more than 35 employees of the Bank without regard to the provisions of chapter 51 or subchapter III or VIII of chapter 53 of title 5, United States Code.” ]
 
 [Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716.
 
 [Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598.
 

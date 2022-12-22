@@ -2,7 +2,7 @@
 title: 42
 chapter: '152'
 heading: ENERGY INDEPENDENCE AND SECURITY
-section_count: 142
+section_count: 145
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -419,7 +419,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 **(d) Direct loan program**
 
-(1) **In general** — Not later than 1 year after December 19, 2007, and subject to the availability of appropriated funds, the Secretary shall carry out a program to provide a total of not more than $25,000,000,000 in loans to eligible individuals and entities (as determined by the Secretary) for the costs of activities described in subsection (b). The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.
+(1) **In general** — Not later than 1 year after December 19, 2007, and subject to the availability of appropriated funds, the Secretary shall carry out a program to provide loans to eligible individuals and entities (as determined by the Secretary) for the costs of activities described in subsection (b). The loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest. The full credit subsidy shall be paid by the Secretary using appropriated funds.
 
 (2) **Application** — An applicant for a loan under this subsection shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including a written assurance that—
 
@@ -530,14 +530,16 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (a)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (a)(1)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (d)(2)(B), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
-In subsec. (j)(3), “[section 1901 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1901&num=0&edition=prelim)” substituted for “section 31 of the Office of Federal Procurement Policy Act ([41 U.S.C. 427](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section427&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (i)(3), “[section 1901 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1901&num=0&edition=prelim)” substituted for “section 31 of the Office of Federal Procurement Policy Act ([41 U.S.C. 427](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section427&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–169 struck out “a total of not more than $25,000,000,000 in” after “to provide”.
+
 2021—Subsec. (a)(1). Pub. L. 117–58, § 40401(b)(1), substituted “means—” for “means”, inserted subpar. (A) designation before “an ultra”, redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), respectively, and added subpars. (B) to (F).
 
 Subsec. (b). Pub. L. 117–58, § 40401(b)(3)(A), substituted “ultra efficient vehicle manufacturers, advanced technology vehicle manufacturers, and component suppliers” for “ultra efficient vehicle manufacturers, and component suppliers” in introductory provisions.
@@ -582,6 +584,9 @@ Subsec. (j). Pub. L. 110–329, § 129(c)(3), added subsec. (j).
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 #### Reconsideration of Prior Applications
 Pub. L. 111–85, title III, § 312(b), Oct. 28, 2009, 123 Stat. 2875, provided that: “The Secretary of Energy shall reconsider applications for assistance under section 136 of the Energy Independence and Security Act of 2007 ([42 U.S.C. 17013](./chapter-152-energy-independence-and-security.md#section-17013)) that were— “(1) timely filed under that section before January 1, 2009; “(2) rejected on the basis that the vehicles to which the proposal related were not advanced technology vehicles; and “(3) related to ultra efficient vehicles.”
@@ -1283,6 +1288,9 @@ Section was enacted as part of the Energy Act of 2020, and not as part of the En
 
 #### References in Text
 The Small Business Act, referred to in subsec. (h), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-17063"></a>
@@ -2024,7 +2032,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 #### Change of Name
-Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
+Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, formerly set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 
 <a id="section-17092"></a>
@@ -2106,6 +2114,9 @@ Office of the Federal Environmental Executive reestablished as the Office of the
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-17093"></a>
@@ -2473,7 +2484,7 @@ Section 474, referred to in subsec. (c)(3), probably means section 494 of Pub. L
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 #### Change of Name
-Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
+Office of the Federal Environmental Executive reestablished as the Office of the Chief Sustainability Officer by Ex. Ord. No. 13693, § 6, Mar. 19, 2015, 80 F.R. 15877, formerly set out in a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 
 <a id="section-17113"></a>
@@ -2511,8 +2522,8 @@ This part, referred to in subsec. (a)(1), was in the original “this subtitle�
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17114"></a>
-## § 17114. Storm water runoff requirements for Federal development projects
+<a id="section-17113a"></a>
+## § 17113a. Storm water runoff requirements for Federal development projects
 
 The sponsor of any development or redevelopment project involving a Federal facility with a footprint that exceeds 5,000 square feet shall use site planning, design, construction, and maintenance strategies for the property to maintain or restore, to the maximum extent technically feasible, the predevelopment hydrology of the property with regard to the temperature, rate, volume, and duration of flow.
 
@@ -2522,8 +2533,8 @@ The sponsor of any development or redevelopment project involving a Federal faci
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17115"></a>
-## § 17115. Cost-effective technology acceleration program
+<a id="section-17113b"></a>
+## § 17113b. Cost-effective technology acceleration program
 **(a) Definition of Administrator** In this section, the term “Administrator” means the Administrator of General Services.
 
 **(b) Establishment**
@@ -2633,8 +2644,8 @@ This part, referred to in subsec. (d)(3)(C)(i), was in the original “this subt
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17115a"></a>
-## § 17115a. Authorization of appropriations
+<a id="section-17114"></a>
+## § 17114. Authorization of appropriations
 
 There is authorized to be appropriated to carry out sections 434 through 439 and 482 11 See References in Text note below. $4,000,000 for each of fiscal years 2008 through 2012, to remain available until expended.
 
@@ -2647,8 +2658,8 @@ Sections 434 through 439, referred to in text, are sections 434 to 439 of Pub. L
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17116"></a>
-## § 17116. Future of industry program
+<a id="section-17115"></a>
+## § 17115. Future of industry program
 **(a) Definitions** In this section:
 
 (1) **Eligible entity** — The term “eligible entity” means—
@@ -2781,9 +2792,12 @@ Subsecs. (e), (f). Pub. L. 117–58, § 40521(a)(1)(C), (D), redesignated subsec
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
-<a id="section-17121"></a>
-## § 17121. Energy efficiency for data center buildings
+
+<a id="section-17115a"></a>
+## § 17115a. Energy efficiency for data center buildings
 **(a) Definitions** In this section:
 
 (1) **Data center** — The term “data center” means any facility that primarily contains electronic equipment used to process, store, and transmit digital information, which may be—
@@ -2896,8 +2910,8 @@ Subsecs. (c) to (j). Pub. L. 116–260, § 1003(2), added subsecs. (c) to (j) an
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17122"></a>
-## § 17122. Industrial emissions reduction technology development program
+<a id="section-17116"></a>
+## § 17116. Industrial emissions reduction technology development program
 **(a) Definitions** In this section:
 
 (1) **Director** — The term “Director” means the Director of the Office of Science and Technology Policy.
@@ -3043,8 +3057,220 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 #### Amendments
 2021—Subsec. (b)(2)(C). Pub. L. 117–58 substituted “Future of Industry” for “energy-intensive industries”.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 #### Purpose
 Pub. L. 116–260, div. Z, title VI, § 6001, Dec. 27, 2020, 134 Stat. 2552, provided that: “The purpose of this title [enacting this section and sections 17114 to 17115a of this title and amending [section 6351 of this title](./chapter-077-energy-conservation.md#section-6351)] and the amendments made by this title is to encourage the development and evaluation of innovative technologies aimed at increasing— “(1) the technological and economic competitiveness of industry and manufacturing in the United States; and “(2) the emissions reduction of nonpower industrial sectors.”
+
+
+<a id="section-17121"></a>
+## § 17121. Low-emissions steel manufacturing research program
+**(a) Purpose** The purpose of this section is to encourage the research and development of innovative technologies aimed at—
+
+(1) increasing the technological and economic competitiveness of industry and manufacturing in the United States; and
+
+(2) achieving significant net nonwater greenhouse emissions reductions in the production processes for iron, steel, and steel mill products.
+
+**(b) Definitions** In this section:
+
+(1) **Commercially available steelmaking** — The term “commercially available steelmaking” means the current production method of iron, steel, and steel mill products.
+
+(2) **Critical material** — The term “critical material” has the meaning given such term in [section 1606 of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606&num=0&edition=prelim).
+
+(3) **Critical mineral** — The term “critical mineral” has the meaning given such term in [section 1606 of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606&num=0&edition=prelim).
+
+(4) **Eligible entity** — The term “eligible entity” means—
+
+  (A) an institution of higher education;
+
+  (B) an appropriate State or Federal entity, including a federally funded research and development center of the Department;
+
+  (C) a nonprofit research institution;
+
+  (D) a private entity;
+
+  (E) any other relevant entity the Secretary determines appropriate; and
+
+  (F) a partnership or consortium of two or more entities described in subparagraphs (A) through (E).
+
+(5) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim).
+
+(6) **Low-emissions steel manufacturing** — The term “low-emissions steel manufacturing” means advanced or commercially available steelmaking with the reduction, to the maximum extent practicable, of net nonwater greenhouse gas emissions to the atmosphere from the production of iron, steel, and steel mill products.
+
+**(c) In general** Not later than 180 days after August 9, 2022, the Secretary shall establish a program of research, development, demonstration, and commercial application of advanced tools, technologies, and methods for low-emissions steel manufacturing.
+
+**(d) Requirements** In carrying out the program under subsection (c), the Secretary shall—
+
+(1) coordinate this program with the programs and activities authorized in title VI of division Z of the Consolidated Appropriations Act, 2021;
+
+(2) coordinate across all relevant program offices of the Department, including the Office of Science, Office of Energy Efficiency and Renewable Energy, the Office of Fossil Energy, and the Office of Nuclear Energy;
+
+(3) leverage, to the extent practicable, the research infrastructure of the Department, including scientific computing user facilities, x-ray light sources, neutron scattering facilities, and nanoscale science research centers; and
+
+(4) conduct research, development, and demonstration of low-emissions steel manufacturing technologies that have the potential to increase domestic production and employment in advanced and commercially available steelmaking.
+
+**(e) Strategic plan**
+
+(1) **In general** — Not later than 180 days after August 9, 2022, the Secretary shall develop a 5-year strategic plan identifying research, development, demonstration, and commercial application goals for the program established in subsection (c). The Secretary shall submit this plan to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+
+(2) **Contents** — The strategic plan submitted under paragraph (1) shall—
+
+  (A) identify programs at the Department related to low-emissions steel manufacturing that support the research, development, demonstration, and commercial application activities described in this section, and the demonstration projects under subsection (h);
+
+  (B) establish technological and programmatic goals to achieve the requirements of subsection (d); and
+
+  (C) include timelines for the accomplishment of goals developed under the plan.
+
+(3) **Updates to plan** — Not less than once every two years, the Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an updated version of the plan under paragraph (1).
+
+**(f) Focus areas** In carrying out the program established in subsection (c), the Secretary shall focus on—
+
+(1) medium- and high-temperature heat generation technologies used for low-emissions steel manufacturing, which may include—
+
+  (A) alternative fuels, including hydrogen and biomass;
+
+  (B) alternative reducing agents, including hydrogen;
+
+  (C) renewable heat generation technology, including solar and geothermal;
+
+  (D) electrification of heating processes, including through electrolysis; and
+
+  (E) other heat generation sources;
+
+(2) carbon capture technologies for advanced and commercially available steelmaking processes, which may include—
+
+  (A) combustion and chemical looping technologies;
+
+  (B) use of slag to reduce carbon dioxide emissions;
+
+  (C) pre-combustion technologies; and
+
+  (D) post-combustion technologies;
+
+(3) smart manufacturing technologies and principles, digital manufacturing technologies, and advanced data analytics to develop advanced technologies and practices in information, automation, monitoring, computation, sensing, modeling, and networking to—
+
+  (A) model and simulate manufacturing production lines;
+
+  (B) monitor and communicate production line status; and
+
+  (C) model, simulate, and optimize the energy efficiency of manufacturing processes;
+
+(4) technologies and practices that minimize energy and natural resource consumption, which may include—
+
+  (A) designing products that enable reuse, refurbishment, remanufacturing, and recycling;
+
+  (B) minimizing waste from advanced and commercially available steelmaking processes, including through the reuse of waste as resources in other industrial processes for mutual benefit;
+
+  (C) increasing resource efficiency; and
+
+  (D) increasing the energy efficiency of advanced and commercially available steelmaking processes;
+
+(5) alternative materials and technologies that produce fewer emissions during production and result in fewer emissions during use, which may include—
+
+  (A) innovative raw materials;
+
+  (B) high-performance lightweight materials;
+
+  (C) substitutions for critical materials and critical minerals; and
+
+  (D) other technologies that achieve significant carbon emission reductions in low-emissions steel manufacturing, as determined by the Secretary; and
+
+(6) high-performance computing to develop advanced materials and manufacturing processes contributing to the focus areas described in paragraphs (1) through (5), including—
+
+  (A) modeling, simulation, and optimization of the design of energy efficient and sustainable products; and
+
+  (B) the use of digital prototyping and additive manufacturing to enhance product design.
+
+**(g) Testing and validation** The Secretary, in consultation with the Director of the National Institute of Standards and Technology, shall support the development of standardized testing and technical validation of advanced and commercially available steelmaking and low-emissions steel manufacturing through collaboration with one or more National Laboratories, and one or more eligible entities.
+
+**(h) Demonstration**
+
+(1) **Establishment** — Not later than 180 days after August 9, 2022, the Secretary, in carrying out the program established in subsection (c), and in collaboration with industry partners, institutions of higher education, and the National Laboratories, shall support an initiative for the demonstration of low-emissions steel manufacturing, as identified by the Secretary, that uses either—
+
+  (A) a single technology; or
+
+  (B) a combination of multiple technologies.
+
+(2) **Selection requirements** — Under the initiative established under paragraph (1), the Secretary shall select eligible entities to carry out demonstration projects and to the maximum extent practicable—
+
+  (A) encourage regional diversity among eligible entities, including participation by rural States;
+
+  (B) encourage technological diversity among eligible entities; and
+
+  (C) ensure that specific projects selected—
+
+    (i) expand on the existing technology demonstration programs of the Department; and
+
+    (ii) prioritize projects that leverage matching funds from non-Federal sources.
+
+(3) **Reports** — The Secretary shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate—
+
+  (A) not less frequently than once every two years for the duration of the demonstration initiative under this subsection, a report describing the performance of the initiative; and
+
+  (B) if the initiative established under this subsection is terminated, an assessment of the success of, and education provided by, the measures carried out by recipients of financial assistance under the initiative.
+
+    (i) Additional coordination
+
+(1) **Manufacturing U.S.A.** — In carrying out this section the Secretary shall consider—
+
+  (A) leveraging the resources of relevant existing Manufacturing USA Institutes described in [section 278s(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section278s/d&num=0&edition=prelim);
+
+  (B) integrating program activities into a relevant existing Manufacturing USA Institute; or
+
+  (C) establishing a new institute focused on low-emissions steel manufacturing.
+
+(2) **Other Federal agencies** — In carrying out this section, the Secretary shall coordinate with other Federal agencies that are carrying out research and development initiatives to increase industrial competitiveness and achieve significant net nonwater greenhouse emissions reductions through low-emissions steel manufacturing, including the Department of Defense, Department of Transportation, and the National Institute of Standards and Technology.
+
+### Statutory Notes
+
+#### References in Text
+Title VI of division Z of the Consolidated Appropriations Act, 2021, referred to in subsec. (d)(1), is title VI of div. Z of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2552, which enacted sections 17113 and 17114 to 17115a of this title, amended [section 6351 of this title](./chapter-077-energy-conservation.md#section-6351), and enacted provisions set out as a note under [section 17113 of this title](./chapter-152-energy-independence-and-security.md#section-17113). For complete classification of title VI to the Code, see Tables.
+
+
+<a id="section-17122"></a>
+## § 17122. Advanced industrial facilities deployment program
+**(a) Office of Clean Energy Demonstrations** In addition to amounts otherwise available, there is appropriated to the Secretary, acting through the Office of Clean Energy Demonstrations, for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $5,812,000,000, to remain available through September 30, 2026, to carry out this section.
+
+**(b) Financial assistance** The Secretary shall use funds appropriated by subsection (a) to provide financial assistance, on a competitive basis, to eligible entities to carry out projects for—
+
+(1) the purchase and installation, or implementation, of advanced industrial technology at an eligible facility;
+
+(2) retrofits, upgrades to, or operational improvements at an eligible facility to install or implement advanced industrial technology; or
+
+(3) engineering studies and other work needed to prepare an eligible facility for activities described in paragraph (1) or (2).
+
+**(c) Application** To be eligible to receive financial assistance under subsection (b), an eligible entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require, including the expected greenhouse gas emissions reductions to be achieved by carrying out the project.
+
+**(d) Priority** In providing financial assistance under subsection (b), the Secretary shall give priority consideration to projects on the basis of, as determined by the Secretary—
+
+(1) the expected greenhouse gas emissions reductions to be achieved by carrying out the project;
+
+(2) the extent to which the project would provide the greatest benefit for the greatest number of people within the area in which the eligible facility is located; and
+
+(3) whether the eligible entity participates or would participate in a partnership with purchasers of the output of the eligible facility.
+
+**(e) Cost share** The Secretary shall require an eligible entity to provide not less than 50 percent of the cost of a project carried out pursuant to this section.
+
+**(f) Administrative costs** The Secretary shall reserve not more than $300,000,000 of amounts made available under subsection (a) for administrative costs of carrying out this section.
+
+**(g) Definitions** In this section:
+
+(1) **Advanced industrial technology** — The term “advanced industrial technology” means a technology directly involved in an industrial process, as described in any of paragraphs (1) through (6) of [section 17113(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17113/c&num=0&edition=prelim), and designed to accelerate greenhouse gas emissions reduction progress to net-zero at an eligible facility, as determined by the Secretary.
+
+(2) **Eligible entity** — The term “eligible entity” means the owner or operator of an eligible facility.
+
+(3) **Eligible facility** — The term “eligible facility” means a domestic, non-Federal, nonpower industrial or manufacturing facility engaged in energy-intensive industrial processes, including production processes for iron, steel, steel mill products, aluminum, cement, concrete, glass, pulp, paper, industrial ceramics, chemicals, and other energy intensive industrial processes, as determined by the Secretary.
+
+(4) **Financial assistance** — The term “financial assistance” means a grant, rebate, direct loan, or cooperative agreement.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Pub. L. 117–169, and not as part of the Energy Independence and Security Act of 2007 which comprises this chapter.
+
+#### Definitions
+Pub. L. 117–169, title V, § 50111, Aug. 16, 2022, 136 Stat. 2033, provided that: “In this subtitle [subtitle A (§§ 50111–50173) of title V of Pub. L. 117–169, enacting this section, sections 16517, 18715 to 18715b, and 18795 to 18795b of this title, and amending sections 16511, 16512, and 17013 of this title and [section 3502 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3502&num=0&edition=prelim), Indians]: “(1) Greenhouse gas.—The term ‘greenhouse gas’ has the meaning given the term in section 1610(a) of the Energy Policy Act of 1992 ([42 U.S.C. 13389(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13389/a&num=0&edition=prelim)). “(2) Secretary.—The term ‘Secretary’ means the Secretary of Energy. “(3) State.—The term ‘State’ means a State, the District of Columbia, and a United States Insular Area (as that term is defined in section 50211 [of Pub. L. 117–169; [43 U.S.C. 3006](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section3006&num=0&edition=prelim) note]). “(4) State energy office.—The term ‘State energy office’ has the meaning given the term in section 124(a) of the Energy Policy Act of 2005 ([42 U.S.C. 15821(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15821/a&num=0&edition=prelim)). “(5) State energy program.—The term ‘State Energy Program’ means the State Energy Program established pursuant to part D of title III of the Energy Policy and Conservation Act ([42 U.S.C. 6321](./chapter-077-energy-conservation.md#section-6321) through 6326).”
 
 
 <a id="section-17123"></a>
@@ -3670,6 +3896,9 @@ An eligible entity may use a grant received under this part to carry out activit
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-17157"></a>
@@ -5056,7 +5285,7 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 
   (C) *Economically distressed area* — The term “economically distressed area” means an area described in [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim).
 
-  (D) *Electric drive vehicle battery* — The term “electric drive 11 So in original. vehicle battery” means any battery that is a motive power source for an electric drive vehicle.
+  (D) *Electric drive vehicle battery* — The term “electric drive 22 So in original. vehicle battery” means any battery that is a motive power source for an electric drive vehicle.
 
   (E) *Eligible entity* — The term “eligible entity” means an entity described in any of paragraphs (1) through (5) of [section 16353(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16353/b&num=0&edition=prelim).
 
@@ -5180,7 +5409,7 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 
 (1) the basic research program under subsection (f) $50,000,000 for each of fiscal years 2009 through 2018;
 
-(2) the applied research program under subsection (g) $80,000,000 for each of fiscal years 2009 through 2018; and; 22 So in original.
+(2) the applied research program under subsection (g) $80,000,000 for each of fiscal years 2009 through 2018; and; 2
 
 (3) the energy storage research center program under subsection (h) $100,000,000 for each of fiscal years 2009 through 2018;
 
@@ -5233,6 +5462,9 @@ Subsec. (p)(6). Pub. L. 117–58, § 40208(2), added par. (6) and struck out for
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-17241"></a>
@@ -5395,7 +5627,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
     (i) a State energy office (as defined in [section 15821(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15821/a&num=0&edition=prelim));
 
-    (ii) an Indian Tribe (as defined in [section 4103 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103&num=0&edition=prelim);
+    (ii) an Indian Tribe (as defined in [section 4103 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103&num=0&edition=prelim); 11 So in original. A closing parenthesis probably should precede the semicolon.
 
     (iii) a Tribal organization (as defined in [section 3765 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765&num=0&edition=prelim));
 
@@ -5605,11 +5837,14 @@ Section was enacted as part of the Energy Act of 2020, and not as part of the En
 Section is comprised of section 3201 of div. Z of Pub. L. 116–260. Subsec. (f) of section 3201 of div. Z of Pub. L. 116–260 amended [section 17231 of this title](./chapter-152-energy-independence-and-security.md#section-17231). Section 40334(1) of Pub. L. 117–58, which directed amendment of section 3201 of the Energy Policy Act of 2020 by redesignating subsections (e) through (g) as subsections (f) through (h), respectively, was executed by making the amendment to section 3201 of div. Z of Pub. L. 116–260, known as the Energy Act of 2020, to reflect the probable intent of Congress.
 
 #### Amendments
-2021—Subsec. (c)(1). Pub. L. 117–58, § 40112(1), substituted “including—” for “including”, inserted subpar. (A) designation before “at least” and added subpar. (B).
+2021—Subsec. (c)(1). Pub. L. 117–58, § 40112(1), substituted “including—” for “including”, inserted subpar. (A) designation before “at least”, and added subpar. (B).
 
 Subsec. (c)(3) to (5). Pub. L. 117–58, § 40112(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 Subsecs. (e) to (h). Pub. L. 117–58, § 40334, which directed amendment of section 3201 of the Energy Policy Act of 2020 by adding subsec. (e) and redesignating former subsecs. (e) to (g) as (f) to (h), respectively, was executed to this section, which is section 3201 of the Energy Act of 2020, to reflect the probable intent of Congress.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-17242"></a>
@@ -6581,40 +6816,261 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 
 <a id="section-17321"></a>
-## § 17321. Annual national energy security strategy report
-**(a) Reports**
+## § 17321. Convention on Supplementary Compensation for Nuclear Damage contingent cost allocation
+**(a) Findings and purpose**
 
-(1) **In general** — Subject to paragraph (2), on the date on which the President submits to Congress the budget for the following fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the President shall submit to Congress a comprehensive report on the national energy security of the United States.
+(1) **Findings** — Congress finds that—
 
-(2) **New Presidents** — In addition to the reports required under paragraph (1), the President shall submit a comprehensive report on the national energy security of the United States by not later than 150 days after the date on which the President assumes the office of President after a presidential election.
+  (A) [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) (commonly known as the “Price-Anderson Act”)—
 
-**(b) Contents** Each report under this section shall describe the national energy security strategy of the United States, including a comprehensive description of—
+    (i) provides a predictable legal framework necessary for nuclear projects; and
 
-(1) the worldwide interests, goals, and objectives of the United States that are vital to the national energy security of the United States;
+    (ii) ensures prompt and equitable compensation in the event of a nuclear incident in the United States;
 
-(2) the foreign policy, worldwide commitments, and national defense capabilities of the United States necessary—
+  (B) the Price-Anderson Act, in effect, provides operators of nuclear powerplants with insurance for damage arising out of a nuclear incident and funds the insurance primarily through the assessment of a retrospective premium from each operator after the occurrence of a nuclear incident;
 
-  (A) to deter political manipulation of world energy resources; and
+  (C) the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997, will establish a global system—
 
-  (B) to implement the national energy security strategy of the United States;
+    (i) to provide a predictable legal framework necessary for nuclear energy projects; and
 
-(3) the proposed short-term and long-term uses of the political, economic, military, and other authorities of the United States—
+    (ii) to ensure prompt and equitable compensation in the event of a nuclear incident;
 
-  (A) to protect or promote energy security; and
+  (D) the Convention benefits United States nuclear suppliers that face potentially unlimited liability for nuclear incidents that are not covered by the Price-Anderson Act by replacing a potentially open-ended liability with a predictable liability regime that, in effect, provides nuclear suppliers with insurance for damage arising out of such an incident;
 
-  (B) to achieve the goals and objectives described in paragraph (1);
+  (E) the Convention also benefits United States nuclear facility operators that may be publicly liable for a Price-Anderson incident by providing an additional early source of funds to compensate damage arising out of the Price-Anderson incident;
 
-(4) the adequacy of the capabilities of the United States to protect the national energy security of the United States, including an evaluation of the balance among the capabilities of all elements of the national authority of the United States to support the implementation of the national energy security strategy; and
+  (F) the combined operation of the Convention, the Price-Anderson Act, and this section will augment the quantity of assured funds available for victims in a wider variety of nuclear incidents while reducing the potential liability of United States suppliers without increasing potential costs to United States operators;
 
-(5) such other information as the President determines to be necessary to inform Congress on matters relating to the national energy security of the United States.
+  (G) the cost of those benefits is the obligation of the United States to contribute to the supplementary compensation fund established by the Convention;
 
-**(c) Classified and unclassified form** Each national energy security strategy report shall be submitted to Congress in—
+  (H) any such contribution should be funded in a manner that does not—
 
-(1) a classified form; and
+    (i) upset settled expectations based on the liability regime established under the Price-Anderson Act; or
 
-(2) an unclassified form.
+    (ii) shift to Federal taxpayers liability risks for nuclear incidents at foreign installations;
+
+  (I) with respect to a Price-Anderson incident, funds already available under the Price-Anderson Act should be used; and
+
+  (J) with respect to a nuclear incident outside the United States not covered by the Price-Anderson Act, a retrospective premium should be prorated among nuclear suppliers relieved from potential liability for which insurance is not available.
+
+(2) **Purpose** — The purpose of this section is to allocate the contingent costs associated with participation by the United States in the international nuclear liability compensation system established by the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997—
+
+  (A) with respect to a Price-Anderson incident, by using funds made available under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) to cover the contingent costs in a manner that neither increases the burdens nor decreases the benefits under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210); and
+
+  (B) with respect to a covered incident outside the United States that is not a Price-Anderson incident, by allocating the contingent costs equitably, on the basis of risk, among the class of nuclear suppliers relieved by the Convention from the risk of potential liability resulting from any covered incident outside the United States.
+
+**(b) Definitions** In this section:
+
+(1) **Commission** — The term “Commission” means the Nuclear Regulatory Commission.
+
+(2) **Contingent cost** — The term “contingent cost” means the cost to the United States in the event of a covered incident the amount of which is equal to the amount of funds the United States is obligated to make available under paragraph 1(b) of Article III of the Convention.
+
+(3) **Convention** — The term “Convention” means the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997.
+
+(4) **Covered incident** — The term “covered incident” means a nuclear incident the occurrence of which results in a request for funds pursuant to Article VII of the Convention.
+
+(5) **Covered installation** — The term “covered installation” means a nuclear installation at which the occurrence of a nuclear incident could result in a request for funds under Article VII of the Convention.
+
+(6) **Covered person**
+
+  (A) *In general* — The term “covered person” means—
+
+    (i) a United States person; and
+
+    (ii) an individual or entity (including an agency or instrumentality of a foreign country) that—
+
+      (I) is located in the United States; or
+
+      (II) carries out an activity in the United States.
+
+  (B) *Exclusions* — The term “covered person” does not include—
+
+    (i) the United States; or
+
+    (ii) any agency or instrumentality of the United States.
+
+(7) **Nuclear supplier** — The term “nuclear supplier” means a covered person (or a successor in interest of a covered person) that—
+
+  (A) supplies facilities, equipment, fuel, services, or technology pertaining to the design, construction, operation, or decommissioning of a covered installation; or
+
+  (B) transports nuclear materials that could result in a covered incident.
+
+(8) **Price-Anderson incident** — The term “Price-Anderson incident” means a covered incident for which [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) would make funds available to compensate for public liability (as defined in [section 2014 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2014)).
+
+(9) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+(10) **United States**
+
+  (A) *In general* — The term “United States” has the meaning given the term in [section 2014 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2014).
+
+  (B) *Inclusions* — The term “United States” includes—
+
+    (i) the Commonwealth of Puerto Rico;
+
+    (ii) any other territory or possession of the United States;
+
+    (iii) the Canal Zone; and
+
+    (iv) the waters of the United States territorial sea under Presidential Proclamation Number 5928, dated December 27, 1988 ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) note).
+
+(11) **United States person** — The term “United States person” means—
+
+  (A) any individual who is a resident, national, or citizen of the United States (other than an individual residing outside of the United States and employed by a person who is not a United States person); and
+
+  (B) any corporation, partnership, association, joint stock company, business trust, unincorporated organization, or sole proprietorship that is organized under the laws of the United States.
+
+**(c) Use of Price-Anderson funds**
+
+(1) **In general** — Funds made available under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) shall be used to cover the contingent cost resulting from any Price-Anderson incident.
+
+(2) **Effect** — The use of funds pursuant to paragraph (1) shall not reduce the limitation on public liability established under [section 2210(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/e&num=0&edition=prelim).
+
+**(d) Effect on amount of public liability**
+
+(1) **In general** — Funds made available to the United States under Article VII of the Convention with respect to a Price-Anderson incident shall be used to satisfy public liability resulting from the Price-Anderson incident.
+
+(2) **Amount** — The amount of public liability allowable under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) relating to a Price-Anderson incident under paragraph (1) shall be increased by an amount equal to the difference between—
+
+  (A) the amount of funds made available for the Price-Anderson incident under Article VII of the Convention; and
+
+  (B) the amount of funds used under subsection (c) to cover the contingent cost resulting from the Price-Anderson incident.
+
+**(e) Retrospective risk pooling program**
+
+(1) **In general** — Except as provided under paragraph (2), each nuclear supplier shall participate in a retrospective risk pooling program in accordance with this section to cover the contingent cost resulting from a covered incident outside the United States that is not a Price-Anderson incident.
+
+(2) **Deferred payment**
+
+  (A) *In general* — The obligation of a nuclear supplier to participate in the retrospective risk pooling program shall be deferred until the United States is called on to provide funds pursuant to Article VII of the Convention with respect to a covered incident that is not a Price-Anderson incident.
+
+  (B) *Amount of deferred payment* — The amount of a deferred payment of a nuclear supplier under subparagraph (A) shall be based on the risk-informed assessment formula determined under subparagraph (C).
+
+  (C) *Risk-informed assessment formula*
+
+    (i) *In general* — Not later than 3 years after December 19, 2007, and every 5 years thereafter, the Secretary shall, by regulation, determine the risk-informed assessment formula for the allocation among nuclear suppliers of the contingent cost resulting from a covered incident that is not a Price-Anderson incident, taking into account risk factors such as—
+
+      (I) the nature and intended purpose of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
+
+      (II) the quantity of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
+
+      (III) the hazards associated with the supplied goods and services if the goods and services fail to achieve the intended purposes;
+
+      (IV) the hazards associated with the covered installation outside the United States to which the goods and services are supplied;
+
+      (V) the legal, regulatory, and financial infrastructure associated with the covered installation outside the United States to which the goods and services are supplied; and
+
+      (VI) the hazards associated with particular forms of transportation.
+
+    (ii) *Factors for consideration* — In determining the formula, the Secretary may—
+
+      (I) exclude—
+
+        (aa) goods and services with negligible risk;
+
+        (bb) classes of goods and services not intended specifically for use in a nuclear installation;
+
+        (cc) a nuclear supplier with a de minimis share of the contingent cost; and
+
+        (dd) a nuclear supplier no longer in existence for which there is no identifiable successor; and
+
+      (II) establish the period on which the risk assessment is based.
+
+    (iii) *Application* — In applying the formula, the Secretary shall not consider any covered installation or transportation for which funds would be available under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210).
+
+    (iv) *Report* — Not later than 5 years after December 19, 2007, and every 5 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on whether there is a need for continuation or amendment of this section, taking into account the effects of the implementation of the Convention on the United States nuclear industry and suppliers.
+
+**(f) Reporting**
+
+(1) **Collection of information**
+
+  (A) *In general* — The Secretary may collect information necessary for developing and implementing the formula for calculating the deferred payment of a nuclear supplier under subsection (e)(2).
+
+  (B) *Provision of information* — Each nuclear supplier and other appropriate persons shall make available to the Secretary such information, reports, records, documents, and other data as the Secretary determines, by regulation, to be necessary or appropriate to develop and implement the formula under subsection (e)(2)(C).
+
+(2) **Private insurance** — The Secretary shall make available to nuclear suppliers, and insurers of nuclear suppliers, information to support the voluntary establishment and maintenance of private insurance against any risk for which nuclear suppliers may be required to pay deferred payments under this section.
+
+**(g) Effect on liability** Nothing in any other law (including regulations) limits liability for a covered incident to an amount equal to less than the amount prescribed in paragraph 1(a) of Article IV of the Convention, unless the law—
+
+(1) specifically refers to this section; and
+
+(2) explicitly repeals, alters, amends, modifies, impairs, displaces, or supersedes the effect of this subsection.
+
+**(h) Payments to and by the United States**
+
+(1) **Action by nuclear suppliers**
+
+  (A) *Notification* — In the case of a request for funds under Article VII of the Convention resulting from a covered incident that is not a Price-Anderson incident, the Secretary shall notify each nuclear supplier of the amount of the deferred payment required to be made by the nuclear supplier.
+
+  (B) *Payments*
+
+    (i) *In general* — Except as provided under clause (ii), not later than 60 days after receipt of a notification under subparagraph (A), a nuclear supplier shall pay to the general fund of the Treasury the deferred payment of the nuclear supplier required under subparagraph (A).
+
+    (ii) *Annual payments* — A nuclear supplier may elect to prorate payment of the deferred payment required under subparagraph (A) in 5 equal annual payments (including interest on the unpaid balance at the prime rate prevailing at the time the first payment is due).
+
+  (C) *Vouchers* — A nuclear supplier shall submit payment certification vouchers to the Secretary of the Treasury in accordance with [section 3325 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3325&num=0&edition=prelim).
+
+(2) **Use of funds**
+
+  (A) *In general* — Amounts paid into the Treasury under paragraph (1) shall be available to the Secretary of the Treasury, without further appropriation and without fiscal year limitation, for the purpose of making the contributions of public funds required to be made by the United States under the Convention.
+
+  (B) *Action by Secretary of Treasury* — The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdiction under Article XIII of the Convention with respect to the applicable covered incident.
+
+(3) **Failure to pay** — If a nuclear supplier fails to make a payment required under this subsection, the Secretary may take appropriate action to recover from the nuclear supplier—
+
+  (A) the amount of the payment due from the nuclear supplier;
+
+  (B) any applicable interest on the payment; and
+
+  (C) a penalty of not more than twice the amount of the deferred payment due from the nuclear supplier.
+
+**(i) Limitation on judicial review; cause of action**
+
+(1) **Limitation on judicial review**
+
+  (A) *In general* — In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United States Court of Appeals for the District of Columbia Circuit.
+
+  (B) *Supreme Court jurisdiction* — Nothing in this paragraph affects the jurisdiction of the Supreme Court of the United States under chapter 81 of title 28.
+
+(2) **Cause of action**
+
+  (A) *In general* — Subject to subparagraph (B), in any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, in addition to any other cause of action that may exist, an individual or entity shall have a cause of action against the operator to recover for nuclear damage suffered by the individual or entity.
+
+  (B) *Requirement* — Subparagraph (A) shall apply only if the individual or entity seeks a remedy for nuclear damage (as defined in Article I of the Convention) that was caused by a nuclear incident (as defined in Article I of the Convention) that is not a Price-Anderson incident.
+
+  (C) *Savings provision* — Nothing in this paragraph may be construed to limit, modify, extinguish, or otherwise affect any cause of action that would have existed in the absence of enactment of this paragraph.
+
+**(j) Right of recourse** This section does not provide to an operator of a covered installation any right of recourse under the Convention.
+
+**(k) Protection of sensitive United States information** Nothing in the Convention or this section requires the disclosure of—
+
+(1) any data that, at any time, was Restricted Data (as defined in [section 2014 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2014));
+
+(2) information relating to intelligence sources or methods protected by [section 3024(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/i&num=0&edition=prelim); or
+
+(3) national security information classified under Executive Order 12958 ([former] [50 U.S.C. 435](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim) note; relating to classified national security information) (or a successor Executive Order or regulation).
+
+**(l) Regulations**
+
+(1) **In general** — The Secretary or the Commission, as appropriate, may prescribe regulations to carry out [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) and this section.
+
+(2) **Requirement** — Rules prescribed under this subsection shall ensure, to the maximum extent practicable, that—
+
+  (A) the implementation of [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) and this section is consistent and equitable; and
+
+  (B) the financial and operational burden on a Commission licensee in complying with [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) is not greater as a result of the enactment of this section.
+
+(3) **Applicability of provision** — [Section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) shall apply with respect to the promulgation of regulations under this subsection.
+
+(4) **Effect of subsection** — The authority provided under this subsection is in addition to, and does not impair or otherwise affect, any other authority of the Secretary or the Commission to prescribe regulations.
+
+**(m) Effective date** This section shall take effect on December 19, 2007.
 
 ### Statutory Notes
+
+#### References in Text
+Presidential Proclamation Number 5928, referred to in subsec. (b)(10)(B)(iv), is set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -7462,269 +7918,48 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17381"></a>
-## § 17381. Convention on Supplementary Compensation for Nuclear Damage contingent cost allocation
-**(a) Findings and purpose**
+<a id="section-17375"></a>
+## § 17375. Annual national energy security strategy report
+**(a) Reports**
 
-(1) **Findings** — Congress finds that—
+(1) **In general** — Subject to paragraph (2), on the date on which the President submits to Congress the budget for the following fiscal year under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the President shall submit to Congress a comprehensive report on the national energy security of the United States.
 
-  (A) [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) (commonly known as the “Price-Anderson Act”)—
+(2) **New Presidents** — In addition to the reports required under paragraph (1), the President shall submit a comprehensive report on the national energy security of the United States by not later than 150 days after the date on which the President assumes the office of President after a presidential election.
 
-    (i) provides a predictable legal framework necessary for nuclear projects; and
+**(b) Contents** Each report under this section shall describe the national energy security strategy of the United States, including a comprehensive description of—
 
-    (ii) ensures prompt and equitable compensation in the event of a nuclear incident in the United States;
+(1) the worldwide interests, goals, and objectives of the United States that are vital to the national energy security of the United States;
 
-  (B) the Price-Anderson Act, in effect, provides operators of nuclear powerplants with insurance for damage arising out of a nuclear incident and funds the insurance primarily through the assessment of a retrospective premium from each operator after the occurrence of a nuclear incident;
+(2) the foreign policy, worldwide commitments, and national defense capabilities of the United States necessary—
 
-  (C) the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997, will establish a global system—
+  (A) to deter political manipulation of world energy resources; and
 
-    (i) to provide a predictable legal framework necessary for nuclear energy projects; and
+  (B) to implement the national energy security strategy of the United States;
 
-    (ii) to ensure prompt and equitable compensation in the event of a nuclear incident;
+(3) the proposed short-term and long-term uses of the political, economic, military, and other authorities of the United States—
 
-  (D) the Convention benefits United States nuclear suppliers that face potentially unlimited liability for nuclear incidents that are not covered by the Price-Anderson Act by replacing a potentially open-ended liability with a predictable liability regime that, in effect, provides nuclear suppliers with insurance for damage arising out of such an incident;
+  (A) to protect or promote energy security; and
 
-  (E) the Convention also benefits United States nuclear facility operators that may be publicly liable for a Price-Anderson incident by providing an additional early source of funds to compensate damage arising out of the Price-Anderson incident;
+  (B) to achieve the goals and objectives described in paragraph (1);
 
-  (F) the combined operation of the Convention, the Price-Anderson Act, and this section will augment the quantity of assured funds available for victims in a wider variety of nuclear incidents while reducing the potential liability of United States suppliers without increasing potential costs to United States operators;
+(4) the adequacy of the capabilities of the United States to protect the national energy security of the United States, including an evaluation of the balance among the capabilities of all elements of the national authority of the United States to support the implementation of the national energy security strategy; and
 
-  (G) the cost of those benefits is the obligation of the United States to contribute to the supplementary compensation fund established by the Convention;
+(5) such other information as the President determines to be necessary to inform Congress on matters relating to the national energy security of the United States.
 
-  (H) any such contribution should be funded in a manner that does not—
+**(c) Classified and unclassified form** Each national energy security strategy report shall be submitted to Congress in—
 
-    (i) upset settled expectations based on the liability regime established under the Price-Anderson Act; or
+(1) a classified form; and
 
-    (ii) shift to Federal taxpayers liability risks for nuclear incidents at foreign installations;
-
-  (I) with respect to a Price-Anderson incident, funds already available under the Price-Anderson Act should be used; and
-
-  (J) with respect to a nuclear incident outside the United States not covered by the Price-Anderson Act, a retrospective premium should be prorated among nuclear suppliers relieved from potential liability for which insurance is not available.
-
-(2) **Purpose** — The purpose of this section is to allocate the contingent costs associated with participation by the United States in the international nuclear liability compensation system established by the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997—
-
-  (A) with respect to a Price-Anderson incident, by using funds made available under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) to cover the contingent costs in a manner that neither increases the burdens nor decreases the benefits under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210); and
-
-  (B) with respect to a covered incident outside the United States that is not a Price-Anderson incident, by allocating the contingent costs equitably, on the basis of risk, among the class of nuclear suppliers relieved by the Convention from the risk of potential liability resulting from any covered incident outside the United States.
-
-**(b) Definitions** In this section:
-
-(1) **Commission** — The term “Commission” means the Nuclear Regulatory Commission.
-
-(2) **Contingent cost** — The term “contingent cost” means the cost to the United States in the event of a covered incident the amount of which is equal to the amount of funds the United States is obligated to make available under paragraph 1(b) of Article III of the Convention.
-
-(3) **Convention** — The term “Convention” means the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997.
-
-(4) **Covered incident** — The term “covered incident” means a nuclear incident the occurrence of which results in a request for funds pursuant to Article VII of the Convention.
-
-(5) **Covered installation** — The term “covered installation” means a nuclear installation at which the occurrence of a nuclear incident could result in a request for funds under Article VII of the Convention.
-
-(6) **Covered person**
-
-  (A) *In general* — The term “covered person” means—
-
-    (i) a United States person; and
-
-    (ii) an individual or entity (including an agency or instrumentality of a foreign country) that—
-
-      (I) is located in the United States; or
-
-      (II) carries out an activity in the United States.
-
-  (B) *Exclusions* — The term “covered person” does not include—
-
-    (i) the United States; or
-
-    (ii) any agency or instrumentality of the United States.
-
-(7) **Nuclear supplier** — The term “nuclear supplier” means a covered person (or a successor in interest of a covered person) that—
-
-  (A) supplies facilities, equipment, fuel, services, or technology pertaining to the design, construction, operation, or decommissioning of a covered installation; or
-
-  (B) transports nuclear materials that could result in a covered incident.
-
-(8) **Price-Anderson incident** — The term “Price-Anderson incident” means a covered incident for which [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) would make funds available to compensate for public liability (as defined in [section 2014 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2014)).
-
-(9) **Secretary** — The term “Secretary” means the Secretary of Energy.
-
-(10) **United States**
-
-  (A) *In general* — The term “United States” has the meaning given the term in [section 2014 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2014).
-
-  (B) *Inclusions* — The term “United States” includes—
-
-    (i) the Commonwealth of Puerto Rico;
-
-    (ii) any other territory or possession of the United States;
-
-    (iii) the Canal Zone; and
-
-    (iv) the waters of the United States territorial sea under Presidential Proclamation Number 5928, dated December 27, 1988 ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) note).
-
-(11) **United States person** — The term “United States person” means—
-
-  (A) any individual who is a resident, national, or citizen of the United States (other than an individual residing outside of the United States and employed by a person who is not a United States person); and
-
-  (B) any corporation, partnership, association, joint stock company, business trust, unincorporated organization, or sole proprietorship that is organized under the laws of the United States.
-
-**(c) Use of Price-Anderson funds**
-
-(1) **In general** — Funds made available under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) shall be used to cover the contingent cost resulting from any Price-Anderson incident.
-
-(2) **Effect** — The use of funds pursuant to paragraph (1) shall not reduce the limitation on public liability established under [section 2210(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/e&num=0&edition=prelim).
-
-**(d) Effect on amount of public liability**
-
-(1) **In general** — Funds made available to the United States under Article VII of the Convention with respect to a Price-Anderson incident shall be used to satisfy public liability resulting from the Price-Anderson incident.
-
-(2) **Amount** — The amount of public liability allowable under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) relating to a Price-Anderson incident under paragraph (1) shall be increased by an amount equal to the difference between—
-
-  (A) the amount of funds made available for the Price-Anderson incident under Article VII of the Convention; and
-
-  (B) the amount of funds used under subsection (c) to cover the contingent cost resulting from the Price-Anderson incident.
-
-**(e) Retrospective risk pooling program**
-
-(1) **In general** — Except as provided under paragraph (2), each nuclear supplier shall participate in a retrospective risk pooling program in accordance with this section to cover the contingent cost resulting from a covered incident outside the United States that is not a Price-Anderson incident.
-
-(2) **Deferred payment**
-
-  (A) *In general* — The obligation of a nuclear supplier to participate in the retrospective risk pooling program shall be deferred until the United States is called on to provide funds pursuant to Article VII of the Convention with respect to a covered incident that is not a Price-Anderson incident.
-
-  (B) *Amount of deferred payment* — The amount of a deferred payment of a nuclear supplier under subparagraph (A) shall be based on the risk-informed assessment formula determined under subparagraph (C).
-
-  (C) *Risk-informed assessment formula*
-
-    (i) *In general* — Not later than 3 years after December 19, 2007, and every 5 years thereafter, the Secretary shall, by regulation, determine the risk-informed assessment formula for the allocation among nuclear suppliers of the contingent cost resulting from a covered incident that is not a Price-Anderson incident, taking into account risk factors such as—
-
-      (I) the nature and intended purpose of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
-
-      (II) the quantity of the goods and services supplied by each nuclear supplier to each covered installation outside the United States;
-
-      (III) the hazards associated with the supplied goods and services if the goods and services fail to achieve the intended purposes;
-
-      (IV) the hazards associated with the covered installation outside the United States to which the goods and services are supplied;
-
-      (V) the legal, regulatory, and financial infrastructure associated with the covered installation outside the United States to which the goods and services are supplied; and
-
-      (VI) the hazards associated with particular forms of transportation.
-
-    (ii) *Factors for consideration* — In determining the formula, the Secretary may—
-
-      (I) exclude—
-
-        (aa) goods and services with negligible risk;
-
-        (bb) classes of goods and services not intended specifically for use in a nuclear installation;
-
-        (cc) a nuclear supplier with a de minimis share of the contingent cost; and
-
-        (dd) a nuclear supplier no longer in existence for which there is no identifiable successor; and
-
-      (II) establish the period on which the risk assessment is based.
-
-    (iii) *Application* — In applying the formula, the Secretary shall not consider any covered installation or transportation for which funds would be available under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210).
-
-    (iv) *Report* — Not later than 5 years after December 19, 2007, and every 5 years thereafter, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on whether there is a need for continuation or amendment of this section, taking into account the effects of the implementation of the Convention on the United States nuclear industry and suppliers.
-
-**(f) Reporting**
-
-(1) **Collection of information**
-
-  (A) *In general* — The Secretary may collect information necessary for developing and implementing the formula for calculating the deferred payment of a nuclear supplier under subsection (e)(2).
-
-  (B) *Provision of information* — Each nuclear supplier and other appropriate persons shall make available to the Secretary such information, reports, records, documents, and other data as the Secretary determines, by regulation, to be necessary or appropriate to develop and implement the formula under subsection (e)(2)(C).
-
-(2) **Private insurance** — The Secretary shall make available to nuclear suppliers, and insurers of nuclear suppliers, information to support the voluntary establishment and maintenance of private insurance against any risk for which nuclear suppliers may be required to pay deferred payments under this section.
-
-**(g) Effect on liability** Nothing in any other law (including regulations) limits liability for a covered incident to an amount equal to less than the amount prescribed in paragraph 1(a) of Article IV of the Convention, unless the law—
-
-(1) specifically refers to this section; and
-
-(2) explicitly repeals, alters, amends, modifies, impairs, displaces, or supersedes the effect of this subsection.
-
-**(h) Payments to and by the United States**
-
-(1) **Action by nuclear suppliers**
-
-  (A) *Notification* — In the case of a request for funds under Article VII of the Convention resulting from a covered incident that is not a Price-Anderson incident, the Secretary shall notify each nuclear supplier of the amount of the deferred payment required to be made by the nuclear supplier.
-
-  (B) *Payments*
-
-    (i) *In general* — Except as provided under clause (ii), not later than 60 days after receipt of a notification under subparagraph (A), a nuclear supplier shall pay to the general fund of the Treasury the deferred payment of the nuclear supplier required under subparagraph (A).
-
-    (ii) *Annual payments* — A nuclear supplier may elect to prorate payment of the deferred payment required under subparagraph (A) in 5 equal annual payments (including interest on the unpaid balance at the prime rate prevailing at the time the first payment is due).
-
-  (C) *Vouchers* — A nuclear supplier shall submit payment certification vouchers to the Secretary of the Treasury in accordance with [section 3325 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3325&num=0&edition=prelim).
-
-(2) **Use of funds**
-
-  (A) *In general* — Amounts paid into the Treasury under paragraph (1) shall be available to the Secretary of the Treasury, without further appropriation and without fiscal year limitation, for the purpose of making the contributions of public funds required to be made by the United States under the Convention.
-
-  (B) *Action by Secretary of Treasury* — The Secretary of the Treasury shall pay the contribution required under the Convention to the court of competent jurisdiction under Article XIII of the Convention with respect to the applicable covered incident.
-
-(3) **Failure to pay** — If a nuclear supplier fails to make a payment required under this subsection, the Secretary may take appropriate action to recover from the nuclear supplier—
-
-  (A) the amount of the payment due from the nuclear supplier;
-
-  (B) any applicable interest on the payment; and
-
-  (C) a penalty of not more than twice the amount of the deferred payment due from the nuclear supplier.
-
-**(i) Limitation on judicial review; cause of action**
-
-(1) **Limitation on judicial review**
-
-  (A) *In general* — In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United States Court of Appeals for the District of Columbia Circuit.
-
-  (B) *Supreme Court jurisdiction* — Nothing in this paragraph affects the jurisdiction of the Supreme Court of the United States under chapter 81 of title 28.
-
-(2) **Cause of action**
-
-  (A) *In general* — Subject to subparagraph (B), in any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, in addition to any other cause of action that may exist, an individual or entity shall have a cause of action against the operator to recover for nuclear damage suffered by the individual or entity.
-
-  (B) *Requirement* — Subparagraph (A) shall apply only if the individual or entity seeks a remedy for nuclear damage (as defined in Article I of the Convention) that was caused by a nuclear incident (as defined in Article I of the Convention) that is not a Price-Anderson incident.
-
-  (C) *Savings provision* — Nothing in this paragraph may be construed to limit, modify, extinguish, or otherwise affect any cause of action that would have existed in the absence of enactment of this paragraph.
-
-**(j) Right of recourse** This section does not provide to an operator of a covered installation any right of recourse under the Convention.
-
-**(k) Protection of sensitive United States information** Nothing in the Convention or this section requires the disclosure of—
-
-(1) any data that, at any time, was Restricted Data (as defined in [section 2014 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2014));
-
-(2) information relating to intelligence sources or methods protected by [section 3024(i) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024/i&num=0&edition=prelim); or
-
-(3) national security information classified under Executive Order 12958 ([former] [50 U.S.C. 435](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section435&num=0&edition=prelim) note; relating to classified national security information) (or a successor Executive Order or regulation).
-
-**(l) Regulations**
-
-(1) **In general** — The Secretary or the Commission, as appropriate, may prescribe regulations to carry out [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) and this section.
-
-(2) **Requirement** — Rules prescribed under this subsection shall ensure, to the maximum extent practicable, that—
-
-  (A) the implementation of [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) and this section is consistent and equitable; and
-
-  (B) the financial and operational burden on a Commission licensee in complying with [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) is not greater as a result of the enactment of this section.
-
-(3) **Applicability of provision** — [Section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim) shall apply with respect to the promulgation of regulations under this subsection.
-
-(4) **Effect of subsection** — The authority provided under this subsection is in addition to, and does not impair or otherwise affect, any other authority of the Secretary or the Commission to prescribe regulations.
-
-**(m) Effective date** This section shall take effect on December 19, 2007.
+(2) an unclassified form.
 
 ### Statutory Notes
-
-#### References in Text
-Presidential Proclamation Number 5928, referred to in subsec. (b)(10)(B)(iv), is set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
-
-Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
 
-<a id="section-17382"></a>
-## § 17382. Transparency in extractive industries resource payments
+<a id="section-17381"></a>
+## § 17381. Transparency in extractive industries resource payments
 **(a) Purpose** The purpose of this section is to—
 
 (1) ensure greater United States energy security by combating corruption in the governments of foreign countries that receive revenues from the sale of their natural resources; and
@@ -7755,6 +7990,155 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+
+<a id="section-17382"></a>
+## § 17382. Regional clean energy innovation program
+**(a) Definitions** In this section:
+
+(1) **Regional clean energy innovation partnership** — The term “regional clean energy innovation partnership” means a group of one or more persons, including a covered consortium, who perform a collection of activities that are coordinated by such covered consortium to carry out the purposes of the program under subsection (c) in a region of the United States.
+
+(2) **Covered consortium** — The term “covered consortium” means an individual or group of individuals in partnership with a government entity, including a State, territorial, local, or tribal government or unit of such government, and at least 2 or more of the following additional entities—
+
+  (A) an institution of higher education or a consortium of institutions of higher education, including community colleges;
+
+  (B) a workforce development program;
+
+  (C) a private sector entity or group of entities, including a trade or industry association;
+
+  (D) a nonprofit organization;
+
+  (E) a community group or community-based organization;
+
+  (F) a labor organization or joint labor-management organization;
+
+  (G) a National Laboratory;
+
+  (H) a venture development organization;
+
+  (I) a community development financial institution or minority depository institution;
+
+  (J) a worker cooperative membership association or state or local employee ownership or cooperative development center;
+
+  (K) an organization focused on clean energy technology innovation or entrepreneurship;
+
+  (L) a business or clean energy accelerator or incubator;
+
+  (M) an economic development organization;
+
+  (N) a manufacturing facility or organization;
+
+  (O) a multi-institutional collaboration; or
+
+  (P) any other entity that the Secretary determines to be relevant.
+
+(3) **Program** — The term “program” means the Regional Clean Energy Innovation Program authorized in subsection (b).
+
+(4) **Institution of higher education** — The term “institution of higher education” has the meaning given such term in section 1001 or 1002(a)(1)(B) of title 20.
+
+(5) **National Laboratory** — The term “National Laboratory” has the meaning given that term in [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
+
+(6) **Clean energy technology** — The term “clean energy technology” means a technology that significantly reduces energy use, increases energy efficiency, reduces greenhouse gas emissions, reduces emissions of other pollutants, or mitigates other negative environmental consequences of energy production, transmission or use.
+
+(7) **Community-based organization** — The term “community-based organization” has the meaning given the term in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim).
+
+(8) **Community college** — The term “community college” means—
+
+  (A) a public institution of higher education, including additional locations, at which the highest degree, or the predominantly awarded degree, is an associate degree; or
+
+  (B) any Tribal college or university (as defined in [section 1059c of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c&num=0&edition=prelim)).
+
+(9) **Workforce development program** — The term “workforce development program” has the meaning given the term in section U.S.C. 3102 of title 29.
+
+**(b) In general** The Secretary shall establish a Regional Clean Energy Innovation Program, a research, development, demonstration, and commercial application program designed to enhance the economic, environmental, and energy security of the United States and accelerate the pace of innovation of diverse clean energy technologies through the formation or support of regional clean energy innovation partnerships.
+
+**(c) Purposes of the Program** The purposes of the Program established under subsection (b) are to—
+
+(1) improve the competitiveness of United States’ clean energy technology research, development, demonstration, and commercial application; and
+
+(2) support the development of tools and technologies best suited for use in diverse regions of the United States, including in rural, tribal, and low-income communities.
+
+**(d) Regional clean energy innovation partnerships**
+
+(1) **In general** — The Secretary shall competitively award grants to covered consortia to establish or support regional clean energy innovation partnerships that achieve the purposes of the Program in subsection (c).
+
+(2) **Permissible activities** — Grants awarded under this subsection shall be used for activities determined appropriate by the Secretary to achieve the purposes of the Program in subsection (c), including—
+
+  (A) facilitating the commercial application of clean energy products, processes, and services, including through research, development, demonstration, or technology transfer;
+
+  (B) planning among participants of a regional clean energy innovation partnership to improve the strategic and cost-effective coordination of the partnership;
+
+  (C) improving stakeholder involvement in the development of goals and activities of a regional clean energy innovation partnership;
+
+  (D) assessing different incentive mechanisms for clean energy development and commercial application in the region;
+
+  (E) hosting events and conferences; and
+
+  (F) establishing and updating roadmaps to measure progress on relevant goals, such as those relevant to metrics developed under subsection (g).
+
+(3) **Applications** — Each application submitted to the Secretary under paragraph (1) may include—
+
+  (A) a list of members and roles of members of the covered consortia, as well as any other stakeholders supporting the activities of the regional clean energy innovation partnership;
+
+  (B) an assessment of the relevant clean energy innovation assets needed in a region to achieve proposed outcomes, such as education and workforce development programs, research facilities, infrastructure or site development, access to capital, manufacturing capabilities, or other assets;
+
+  (C) a description of proposed activities that the regional clean energy innovation partnership plans to undertake and how the proposed activities will achieve the purposes described in subsection (c);
+
+  (D) a plan for attracting additional funds and identification of funding sources from non-Federal sources to deliver the proposed outcomes of the regional clean energy innovation partnership;
+
+  (E) a plan for partnering and collaborating with community development financial institutions and minority depository institutions, labor organizations and community groups, worker cooperative membership associations, local and state employee ownership and cooperative development centers, and other local institutions in order to promote employee, community, and public ownership in the clean energy sector, and advance models of local economic development that build and retain wealth in the region;
+
+  (F) a plan for sustaining activities of the regional clean energy innovation partnership after funds received under this program have been expended; and
+
+  (G) a proposed budget, including financial contributions from non-Federal sources.
+
+(4) **Considerations** — In selecting covered consortia for funding under the Program, the Secretary shall, to the maximum extent practicable—
+
+  (A) give special consideration to applications from rural, tribal, and low-income communities; and
+
+  (B) ensure that there is geographic diversity among the covered consortia selected to receive funding.
+
+(5) **Award amount** — Grants given out under this Program shall be in an amount not greater than $10,000,000, with the total grant award in any year less than that in the previous year.
+
+(6) **Cost share** — For grants that are disbursed over the course of three or more years, the Secretary shall require, as a condition of receipt of funds under this section, that a covered consortium provide not less than 50 percent of the funding for the activities of the regional clean energy partnership under this section for years 3, 4, and 5.
+
+(7) **Duration** — Each grant under paragraph shall be for a period of not longer than 5 years.
+
+(8) **Renewal** — A grant awarded under this section may be renewed for a period of not more than 5 years, subject to a rigorous merit review based on the progress of a regional clean energy innovation partnership towards achieving the purposes of the program in subsection (c) and the metrics developed under subsection (g).
+
+(9) **Termination** — Consistent with the existing authorities of the Department, the Secretary may terminate grant funding under this subsection to covered consortia during the performance period if the Secretary determines that the regional clean energy innovation partnership is underperforming.
+
+(10) **Administrative costs** — The Secretary may allow a covered consortium that receives funds under this section to allocate a portion of the funding received to be used for administrative or indirect costs.
+
+(11) **Funding** — The Secretary may accept funds from other Federal agencies to support funding and activities under this section.
+
+**(e) Planning funds** The Secretary may competitively award grants in an amount no greater than $2,000,000 for a period not longer than 2 years to an entity consisting of a government entity, including a State, territorial, local, or tribal government or unit of such government or any entity listed under subsection (a)(2) to plan a regional clean energy innovation partnership or establish a covered consortium for the purpose of applying for funds under subsection (b).
+
+**(f) Information sharing** As part of the program, the Secretary shall support the gathering, analysis, and dissemination of information on best practices for developing and operating successful regional clean energy innovation partnerships.
+
+**(g) Metrics** In evaluating a grant renewal under subsection (d)(8), the Secretary shall work with program evaluation experts to develop and make publicly available metrics to assess the progress of a regional clean energy innovation partnership towards achieving the purposes of the program in subsection (c).
+
+**(h) Coordination** In carrying out the program, the Secretary shall coordinate with, and avoid unnecessary duplication of, the activities carried out under this section with the activities of other research entities of the Department or relevant programs at other Federal agencies.
+
+**(i) Conflicts of interest** In carrying out the program, the Secretary shall maintain conflict of interest procedures, consistent with the conflict of interest procedures of the Department.
+
+**(j) Evaluation by Comptroller General** Not later than 3 years after August 9, 2022, and again 3 years later, the Comptroller General shall submit to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an evaluation on the operation of the program during the most recent 3-year period, including—
+
+(1) an assessment of the progress made towards achieving the purposes specified in subsection (c) based on the metrics developed under subsection (g);
+
+(2) the short-term and long-term metrics used to determine the success of the program under subsection (g), and any changes recommended to the metrics used;
+
+(3) the regional clean energy innovation partnerships established or supported by covered consortia that have received grants under subsection (d); and
+
+(4) any recommendations on how the program may be improved.
+
+**(k) National Laboratories** In supporting technology transfer activities at the National Laboratories, the Secretary shall encourage partnerships with entities that are located in the same region or State as the National Laboratory.
+
+**(l) Security** In carrying out the activities under this section, the Secretary shall ensure proper security controls are in place to protect sensitive information, as appropriate.
+
+**(m) No funds for construction** No funds provided to the Department of Energy under this section shall be used for construction.
+
+**(n) Authorization of appropriations** There are authorized to be appropriated to the Secretary to carry out this section $50,000,000 for each of fiscal years 2023 through 2027.
 
 
 <a id="section-17383"></a>
@@ -8142,7 +8526,7 @@ The Energy Policy and Conservation Act, referred to in subsec. (b)(1), is Pub. L
 [Section 2621(d)(17) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621/d/17&num=0&edition=prelim), referred to in subsec. (c)(3), was redesignated section 2621(d)(19) by Pub. L. 111–5, div. A, title IV, § 408(a), Feb. 17, 2009, 123 Stat. 146.
 
 #### Amendments
-2021—Subsec. (b). Pub. L. 117–58, § 40107(a)(1)(A), substituted “Novmeber 15, 2021” for “December 19, 2007” in introductory provisions.
+2021—Subsec. (b). Pub. L. 117–58, § 40107(a)(1)(A), substituted “November 15, 2021” for “December 19, 2007” in introductory provisions.
 
 Subsec. (b)(9) to (14). Pub. L. 117–58, § 40107(a)(1)(B), (C), added pars. (9) to (13) and redesignated former par. (9) as (14).
 
@@ -8158,6 +8542,9 @@ Subsec. (e). Pub. L. 111–5, § 405(8), amended subsec. (e) generally. Prior to
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
+
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
 
 
 <a id="section-17389"></a>

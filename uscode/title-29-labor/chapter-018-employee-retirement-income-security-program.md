@@ -1096,7 +1096,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
     (i) *In general* — In the case of a single-employer plan for an applicable plan year, each notice under paragraph (1) shall include—
 
-      (I) a statement that the MAP-21, the Highway and Transportation Funding Act of 2014,,33 So in original. The second comma probably should not appear. the Bipartisan Budget Act of 2015,,3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
+      (I) a statement that the MAP-21, the Highway and Transportation Funding Act of 2014,,33 So in original. the Bipartisan Budget Act of 2015,,3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act modified the method for determining the interest rates used to determine the actuarial value of benefits earned under the plan, providing for a 25-year average of interest rates to be taken into account in addition to a 2-year average,
 
       (II) a statement that, as a result of the MAP-21, the Highway and Transportation Funding Act of 2014,,3 the Bipartisan Budget Act of 2015,,3 the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act, the plan sponsor may contribute less money to the plan when interest rates are at historical lows, and
 
@@ -6309,6 +6309,9 @@ Pub. L. 113–235, § 101(b)(1), struck out subpar. (C). Text read as follows: �
 
 2010—Subsec. (b)(8). Pub. L. 111–192 added par. (8).
 
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–2 effective as of the first day of the first plan year ending on or after February 29, 2020, with exceptions and restrictions, see section 9703(b) of Pub. L. 117–2, set out as an Effective Date note under [section 431 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section431&num=0&edition=prelim), Internal Revenue Code.
+
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 applicable to applications submitted under subsec. (d)(1)(C) of this section after Dec. 31, 2014, see section 171(c) of Pub. L. 113–295, set out as a note under [section 431 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section431&num=0&edition=prelim), Internal Revenue Code.
 
@@ -8924,9 +8927,6 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 (5) **Group health plan** — In this subsection, the term “group health plan” has the meaning given such term in [section 1191b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1191b/a&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Applicability of 2020 Amendment
-Amendment by section 202(a) of Pub. L. 116–260 applicable beginning 1 year after Dec. 27, 2020. See 2020 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsecs. (a), (b)(2)(B)(vi)(I), and (h)(3), (4), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
@@ -11923,7 +11923,7 @@ Section applicable with respect to plan years beginning on or after the date tha
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§ 300gg et seq.) of subchapter XXV of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this Title](./chapter-008-fair-labor-standards.md#section-201) 42 and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§ 300gg et seq.) of subchapter XXV of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 The Patient Protection and Affordable Care Act, referred to in text, is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. For complete classification of this Act to the Code, see Short Title note set out under [section 18001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18001&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
@@ -12358,9 +12358,6 @@ Pub. L. 111–148, which directed amendment of subpart B of part 7 of “subtitl
   (B) *Specified item or service defined* — For purposes of subparagraph (A), the term “specified item or service” means an item or service that has low utilization or significant variation in costs (such as when furnished as part of a complex treatment), as specified by the Secretary.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Amendment of section by section 107(b) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
 
 #### References in Text
 Section 109(a) of the No Surprises Act, referred to in subsec. (a)(2), is section 109(a) of Pub. L. 116–260, div. BB, title I, Dec. 27, 2020, 134 Stat. 2859, which is not classified to the Code.

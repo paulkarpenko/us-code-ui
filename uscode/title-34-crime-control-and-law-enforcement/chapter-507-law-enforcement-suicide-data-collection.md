@@ -33,3 +33,8 @@ source: >-
 (2) the term “law enforcement officer” means any current or former officer (including a correctional officer), agent, or employee of the United States, a State, Indian Tribe, or a political subdivision of a State authorized by law to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of the criminal laws of the United States, a State, Indian Tribe, or a political subdivision of a State; and
 
 (3) the term “State” means each of the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+
+### Statutory Notes
+
+#### Short Title
+For short title of Pub. L. 116–143, which is classified to this chapter, as the “Law Enforcement Suicide Data Collection Act”, see section 1 of Pub. L. 116–143, set out as a Short Title of 2020 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).

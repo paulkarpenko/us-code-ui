@@ -314,9 +314,11 @@ Subsec. (b). Pub. L. 109–469, § 102(b), amended subsec. (b) generally. Prior 
 1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
 
 #### Gifts to Office of National Drug Control Policy
-Pub. L. 116–260, div. E, title II, Dec. 27, 2020, 134 Stat. 1394, provided in part: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
+Pub. L. 117–103, div. E, title II, Mar. 15, 2022, 136 Stat. 253, provided that: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. E, title II, Dec. 27, 2020, 134 Stat. 1394.
 
 Pub. L. 116–93, div. C, title II, Dec. 20, 2019, 133 Stat. 2448.
 
@@ -1961,6 +1963,9 @@ Pub. L. 115–271, § 8202(a), revived and restored this section as in effect on
 Pub. L. 109–469, § 501(a), amended section catchline and text generally. Prior to amendment, section related to the President’s Council on Counter-Narcotics.
 
 1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
+
+#### Methamphetamine Response
+Pub. L. 117–99, Mar. 14, 2022, 136 Stat. 43, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Methamphetamine Response Act of 2021’. “SEC. 2. DECLARATION OF EMERGING THREAT.“(a) In General.—Congress declares methamphetamine an emerging drug threat, as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 ([21 U.S.C. 1701](./chapter-022-national-drug-control-policy.md#section-1701)), in the United States. “(b) Required Emerging Threat Response Plan.—Not later than 90 days after the date of enactment of this Act [Mar. 14, 2022], the Director of the Office of National Drug Control Policy shall establish and implement an Emerging Threat Response Plan that is specific to methamphetamine in accordance with section 709(d) of the Office of National Drug Control Policy Reauthorization Act of 1998 ([21 U.S.C. 1708(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1708/d&num=0&edition=prelim)).”
 
 #### Ex. Ord. No. 12992. President’s Council on Counter-Narcotics
 Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§ 2, 3, Nov. 6, 1996, 61 F.R. 57767; Ex. Ord. No. 13284, § 8, Jan. 23, 2003, 68 F.R. 4076, provided:

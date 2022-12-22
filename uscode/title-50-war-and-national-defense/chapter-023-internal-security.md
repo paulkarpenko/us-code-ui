@@ -136,7 +136,7 @@ The foregoing provisions of this subchapter shall be construed as being in addit
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this title”, meaning title I of act Sept. 23, 1950, ch. 1024, 64 Stat. 987, as amended, known as the Subversive Activities Control Act of 1950, which is classified principally to this subchapter. For complete classification of title I of such act to the Code, see Short Title note set out under [section 781 of this title](./chapter-023-internal-security.md#section-781) and Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title I of act Sept. 23, 1950, ch. 1024, 64 Stat. 987, known as the Subversive Activities Control Act of 1950, which is classified principally to this subchapter. For complete classification of title I of such act to the Code, see Short Title note set out under [section 781 of this title](./chapter-023-internal-security.md#section-781) and Tables.
 
 
 <a id="section-797"></a>
@@ -299,7 +299,7 @@ The Communist Party of the United States, or any successors of such party regard
 ### Statutory Notes
 
 #### References in Text
-The Internal Security Act of 1950, as amended, referred to in text, is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, as amended, which is classified principally to subchapters I to III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 781 of this title](./chapter-023-internal-security.md#section-781) and Tables.
+The Internal Security Act of 1950, as amended, referred to in text, is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, which is classified principally to subchapters I to III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 781 of this title](./chapter-023-internal-security.md#section-781) and Tables.
 
 #### Codification
 Section was enacted as part of the Communist Control Act of 1954, and not as part of the Internal Security Act of 1950 which comprises subchapters I to III of this chapter.
@@ -314,7 +314,7 @@ Section was enacted as part of the Communist Control Act of 1954, and not as par
 ### Statutory Notes
 
 #### References in Text
-The Internal Security Act of 1950, as amended, referred to in subsec. (a), is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, as amended, which is classified principally to subchapters I to III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 781 of this title](./chapter-023-internal-security.md#section-781) and Tables.
+The Internal Security Act of 1950, as amended, referred to in subsec. (a), is act Sept. 23, 1950, ch. 1024, 64 Stat. 987, which is classified principally to subchapters I to III of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 781 of this title](./chapter-023-internal-security.md#section-781) and Tables.
 
 #### Codification
 Section was enacted as part of the Communist Control Act of 1954, and not as part of the Internal Security Act of 1950 which comprises subchapters I to III of this chapter.
@@ -441,7 +441,7 @@ Section was not enacted as part of the Internal Security Act of 1950 which compr
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in subsec. (b), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Chapter 4 of title II of the Act is classified generally to part IV (§ 1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b), is act June 27, 1952, ch. 477, 66 Stat. 163. Chapter 4 of title II of the Act is classified generally to part IV (§ 1221 et seq.) of subchapter II of chapter 12 of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was not enacted as part of the Internal Security Act of 1950 which comprises subchapters I to III of this chapter.

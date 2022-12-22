@@ -81,7 +81,7 @@ Subsec. (b). Pub. L. 116–283, § 1850(c), as amended by Pub. L. 117–81, § 1
 Subsec. (c). Pub. L. 116–283, § 1850(d), transferred subsec. (f) of [section 2433 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2433) to this section, redesignated it as subsec. (c), and substituted “under this chapter” for “under this section” and “section 4202” for “section 2430”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -126,7 +126,7 @@ Subsec. (b). Pub. L. 116–283, § 1850(e)(2), as amended by Pub. L. 117–81, �
 Subsec. (b)(4). Pub. L. 116–283, § 1850(e)(4)(B), substituted “section 4214” for “section 2435”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -320,9 +320,9 @@ Subsec. (e). Pub. L. 116–283, § 1850(i)(3)(A)–(C), inserted subsec. heading
 Subsec. (e)(2). Pub. L. 116–283, § 1850(i)(3)(D), inserted heading and substituted “subsection (b)” for “subsection (e)”.
 
 #### Effective Date of 2021 Amendment
-Amendment by section 1701(c)(4), (d)(12) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by section 1701(c)(4), (d)(12) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
-Amendment by section 1701(o)(6)(E)(iv) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by section 1701(o)(6)(E)(iv) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -389,7 +389,7 @@ Pub. L. 116–283, § 1850(j)(3)(B), as amended by Pub. L. 117–81, § 1701(o)(
 Subsec. (b)(2), (3). Pub. L. 116–283, § 1850(j)(4)(B)–(D), realigned margins and inserted headings.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -446,7 +446,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 ### Statutory Notes
 
 #### References in Text
-Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (a)(5), is section 205 of Pub. L. 111–23, which amended [section 4252 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4252) and enacted provisions set out as notes under this section and [section 2366b of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2366b).
+Section 205 of the Weapon Systems Acquisition Reform Act of 2009, referred to in subsec. (a)(5), is section 205 of Pub. L. 111–23, which amended [section 4252 of this title](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4252) and enacted provisions set out as notes under this section and former [section 2366b of this title](./chapter-chapter-139-chapter-chapter-139.md#section-2366b).
 
 #### Codification
 The text of subsec. (c) of [section 2433a of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2433a), which was transferred to this section and redesignated as subsec. (a) by Pub. L. 116–283, § 1850(k)(1), was based on Pub. L. 111–23, title II, § 206(a)(1), May 22, 2009, 123 Stat. 1726; Pub. L. 112–81, div. A, title VIII, §§ 801(e)(4), 831, Dec. 31, 2011, 125 Stat. 1484, 1503; Pub. L. 112–239, div. A, title VIII, § 813, Jan. 2, 2013, 126 Stat. 1829.
@@ -508,7 +508,14 @@ Subsec. (c)(2). Pub. L. 116–283, § 1850(k)(7)(A), (B), substituted “this pa
 Subsec. (c)(2)(A), (B). Pub. L. 116–283, § 1850(k)(7)(C), redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Reviews of Programs Restructured After Experiencing Critical Cost Growth
+Pub. L. 111–23, title II, § 205(c), May 22, 2009, 123 Stat. 1725, as amended by Pub. L. 111–383, div. A, title VIII, § 813(e), title X, § 1075(k)(2), Jan. 7, 2011, 124 Stat. 4266, 4378, provided that: “The official designated to perform oversight of performance assessment pursuant to section 103 of this Act [formerly set out as a note under [section 2430 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2430), see [10 U.S.C. 4273](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4273)], shall assess the performance of each major defense acquisition program that has exceeded critical cost growth thresholds established pursuant to [former] [section 2433(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2433/e&num=0&edition=prelim), United States Code [see [10 U.S.C. 4375(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4375/a&num=0&edition=prelim) to (c)], but has not been terminated in accordance with [former] section 2433a of such title [see [10 U.S.C. 4376](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4376), 4377] (as added by section 206(a) of this Act) not less often than semi-annually until one year after the date on which such program receives a new milestone approval, in accordance with [former] section 2433a(c)(1)(C) of such title [see [10 U.S.C. 4377(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4377/a/3&num=0&edition=prelim)] (as so added). The results of reviews performed under this subsection shall be reported to the Under Secretary of Defense for Acquisition, Technology, and Logistics and summarized in the next annual report of such designated official.”
+
+[Pub. L. 111–383, div. A, title VIII, § 813(e), Jan. 7, 2011, 124 Stat. 4266, provided that the amendment made by section 813(e) to section 205(c) of Pub. L. 111–23, set out above, is effective as of May 22, 2009, and as if included in Pub. L. 111–23, as enacted.]
+
+[For definition of “major defense acquisition program” as used in section 205(c) of Pub. L. 111–23, set out above, see section 2(2) of Pub. L. 111–23, set out as a note preceding [section 4321 of this title](./chapter-323-life-cycle-and-sustainment.md#section-4321).]

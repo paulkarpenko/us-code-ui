@@ -1191,6 +1191,9 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 #### Effective Date of 1977 Amendment
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115 and repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
+#### Short Title
+For short title of part B of title II of Pub. L. 93–415, which is classified to this part, as the “Charles Grassley Juvenile Justice and Delinquency Prevention Program”, see section 220 of Pub. L. 93–415, set out as a Short Title of 1974 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-11132"></a>
 ## § 11132. Allocation of funds
@@ -3076,6 +3079,9 @@ Par. (5). Pub. L. 102–586, § 3(a)(3), substituted “care (including preventi
 
 Pars. (6) to (10). Pub. L. 102–586, § 3(a)(2), (4), added pars. (6) to (10).
 
+#### Short Title
+For short title of title III of Pub. L. 93–415, which is classified to this subchapter, as the “Runaway and Homeless Youth Act”, see section 301 of Pub. L. 93–415, set out as a Short Title of 1974 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-11212"></a>
 ## § 11212. Promulgation of rules
@@ -4209,6 +4215,9 @@ Pub. L. 115–267, § 4, Oct. 11, 2018, 132 Stat. 3760, provided that: “(a) Ef
 #### Effective Date
 Subchapter effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set out as an Effective Date of 1984 Amendment note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
+#### Short Title
+For short title of title IV of Pub. L. 93–415, which is classified to this subchapter, as the “Missing Children’s Assistance Act”, see section 401 of Pub. L. 93–415, set out as a Short Title of 1974 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-11292"></a>
 ## § 11292. Definitions
@@ -4923,6 +4932,9 @@ Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated
 
 #### Effective Date
 Pub. L. 107–273, div. C, title II, § 12222(b), Nov. 2, 2002, 116 Stat. 1896, as amended by Pub. L. 108–7, div. B, title I, § 110(1), Feb. 20, 2003, 117 Stat. 67, provided that: “The amendment made by subsection (a) [see Tables for classification] shall take effect on the effective date provided in section 12102(b) [set out as a note under [section 10401 of this title](./chapter-101-justice-system-improvement.md#section-10401)], and shall not apply with respect to grants made before such date.”
+
+#### Short Title
+For short title of title V of Pub. L. 93–415, which is classified to this subchapter, as the “Incentive Youth Promise Grants for Local Delinquency Prevention Programs Act of 2018”, see section 501 of Pub. L. 93–415, set out as a Short Title of 1974 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
 #### GAO Studies and Reports
 Pub. L. 102–586, § 5(b), Nov. 4, 1992, 106 Stat. 5029, as amended by Pub. L. 104–316, title I, § 122(n), Oct. 19, 1996, 110 Stat. 3838; Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814, provided that: “Under such conditions as the Comptroller General of the United States determines appropriate, the Government Accountability Office may conduct studies and report to Congress on the effects of the program established by subsection (a) [enacting former title V of Pub. L. 93–415, former [42 U.S.C. 5781–578](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5781–578&num=0&edition=prelim)5] in encouraging States and units of general local government to comply with the requirements of part B of title II of the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5631–563](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5631–563&num=0&edition=prelim)3) [now [34 U.S.C. 11131–111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11131–111&num=0&edition=prelim)33].”

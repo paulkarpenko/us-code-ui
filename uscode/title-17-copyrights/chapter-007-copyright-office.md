@@ -165,12 +165,28 @@ The Register is authorized to fix fees for other services, including the cost of
 
 (3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office.
 
+**(e)**
+
+(1) In this subsection, the term “covered competition” means—
+
+  (A) an art competition sponsored by the Congressional Institute that is open only to high school students; or
+
+  (B) the competition established under section 3 of House Resolution 77, 113th Congress, agreed to February 26, 2013.
+
+(2) With respect to a work that wins a covered competition, the Register of Copyrights—
+
+  (A) shall waive the requirement under subsection (a)(1) with respect to an application for registration of a copyright claim for that work if that application is submitted to the Copyright Office not later than the last day of the calendar year following the year in which the work claimed by the application wins the covered competition (referred to in this paragraph as the “covered year”); and
+
+  (B) may waive a fee described in subparagraph (A) for an application submitted after the end of the covered year if the fee would have been waived under that subparagraph had the application been submitted before the last day of the covered year.
+
 ### Statutory Notes
 
 #### References in Text
 Subsection (b) of section 115, referred to in subsec. (a)(5), was struck out and a new subsection (b) was added by Pub. L. 115–264, title I, § 102(a)(2), Oct. 11, 2018, 132 Stat. 3678.
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–201 added subsec. (e).
+
 2010—Subsec. (a). Pub. L. 111–175, § 106(4), inserted at end of concluding provisions “Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements.”
 
 Subsec. (a)(10), (11). Pub. L. 111–175, § 106(1)–(3), added pars. (10) and (11).

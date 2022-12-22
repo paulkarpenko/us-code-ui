@@ -133,13 +133,13 @@ In subsection (c)(3)(A), the words “contracts, cooperative agreements, or othe
 In subsection (d), the words “Notwithstanding any other provision of law” are omitted as unnecessary. The words “commencing April 1, 1996” are omitted as obsolete. The words “or its successor” and “or redevelopment” are omitted as unnecessary.
 
 #### References in Text
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a)(1), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and subchapter II of this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a)(1), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and subchapter II of this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 Section 5 of the Act was classified to section 874 of former Title 40 prior to repeal by Pub. L. 107–217.
 
-The Federal Triangle Development Act, referred to in subsecs. (a)(1), (b)(1)(G), and (2)(D), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, as amended, which was classified to chapter 22 (§ 1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as subchapter III of this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Federal Triangle Development Act, referred to in subsecs. (a)(1), (b)(1)(G), and (2)(D), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, which was classified to chapter 22 (§ 1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as subchapter III of this chapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b)(1)(F), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b)(1)(F), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) and Tables.
 
 #### Change of Name
 Pub. L. 111–11, title VII, § 7116(k)(2), Mar. 30, 2009, 123 Stat. 1204, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the Pennsylvania Avenue National Historic Park shall be deemed to be a reference to the ‘Pennsylvania Avenue National Historic Site’.”
@@ -162,7 +162,7 @@ The text of 40:871(a)–(e) is omitted as obsolete.
 The words “being the southwest corner of the intersection of Fifteenth Street and E Street Northwest” are omitted as unnecessary.
 
 #### References in Text
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-6712"></a>
@@ -180,7 +180,7 @@ This subchapter and the Pennsylvania Avenue Development Corporation Act of 1972 
 In this subchapter, the words “Administrator of General Services” are substituted for “Corporation” to reflect the transfer of the responsibilities of the Pennsylvania Avenue Development Corporation. See section 6702 of the revised title.
 
 #### References in Text
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 5(a) of the Act was classified to section 874(a) of former Title 40 prior to repeal by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in text, is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 5(a) of the Act was classified to section 874(a) of former Title 40 prior to repeal by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-6713"></a>
@@ -219,9 +219,9 @@ Section 5(a) of the Pennsylvania Avenue Development Corporation Act of 1972, ref
 In subsection (c), the words “retail, wholesale, service or other” and “or its agent” are omitted as unnecessary. The words “upon implementation of the development plan” are omitted as obsolete.
 
 #### References in Text
-The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) and Tables.
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (a), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally to chapter 61 (§ 4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4601&num=0&edition=prelim) and Tables.
 
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (c), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (c), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-6715"></a>
@@ -246,7 +246,7 @@ The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subs
 In subsection (b), the word “reconstructing” is omitted as unnecessary.
 
 #### References in Text
-The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, which was classified to chapter 19 (§ 871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as [section 6701 of this title](./chapter-067-pennsylvania-avenue-development.md#section-6701) and this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-6716"></a>
@@ -404,7 +404,7 @@ In subsection (f)(2), the text of 40:1105(b)(4) is omitted as obsolete.
 Subsection (f)(3) is substituted for 40:1105(d) to eliminate unnecessary words.
 
 #### References in Text
-The Federal Triangle Development Act, referred to in subsec. (f)(2)(B), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, as amended, which was classified to chapter 22 (§ 1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+The Federal Triangle Development Act, referred to in subsec. (f)(2)(B), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, which was classified to chapter 22 (§ 1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as this subchapter by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
 
 #### Reference to Ronald Reagan Building and International Trade Center
 Pub. L. 104–68, § 2, Dec. 22, 1995, 109 Stat. 766, provided that: “Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 [now [40 U.S.C. 6734(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section6734/a&num=0&edition=prelim)] shall be deemed to be a reference to the ‘Ronald Reagan Building and International Trade Center’.”

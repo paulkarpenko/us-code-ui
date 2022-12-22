@@ -111,7 +111,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
+The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2008—Subsec. (c)(1)(H). Pub. L. 110–229, § 602(b)(1), substituted “sheet and bar steels” for “coatings for sheet steels”.
@@ -188,7 +188,7 @@ Proposals received by the Department of Energy before November 17, 1988, may be 
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in text, is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in text, is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1992—Subsec. (a). Pub. L. 102–486 substituted “fiscal year 1991, fiscal year 1992, fiscal year 1993, fiscal year 1994, fiscal year 1995, fiscal year 1996, and fiscal year 1997” for “or fiscal year 1991” in two places.

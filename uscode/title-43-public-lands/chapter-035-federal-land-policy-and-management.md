@@ -725,6 +725,8 @@ Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321�
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 349.
+
 Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1479.
 
 Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2688.
@@ -1950,9 +1952,11 @@ Subsec. (b)(2) of this section is comprised of second and third sentences of sec
 1978—Subsec. (b)(1). Pub. L. 95–514 inserted “or $10,000,000 per annum, whichever is greater” after “50 per centum” and substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
 
 #### Credit on Grazing Fee for Approved Conservation Practices
-Pub. L. 116–260, div. G, title III, Dec. 27, 2020, 134 Stat. 1518, provided in part: “That notwithstanding section 33 of the Bankhead[-]Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred, and, that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary”.
+Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 391, provided in part: “That notwithstanding section 33 of the Bankhead Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred, and that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. G, title III, Dec. 27, 2020, 134 Stat. 1518.
 
 Pub. L. 116–94, div. D, title III, Dec. 20, 2019, 133 Stat. 2725.
 

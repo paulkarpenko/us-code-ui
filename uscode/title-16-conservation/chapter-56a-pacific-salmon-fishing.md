@@ -39,7 +39,7 @@ Pub. L. 102–251, title III, §§ 306(a), 308, Mar. 9, 1992, 106 Stat. 66, prov
 (h) “Special areas” means the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, the term refers to those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured.
 
 #### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 1996—Subsec. (c). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
@@ -126,7 +126,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2000—Subsec. (f). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(A)], added subsec. (f). Former subsec. (f) redesignated (g).
@@ -186,7 +186,7 @@ If any State or treaty Indian tribe has taken any action, or omitted to take any
 Pub. L. 102–251, title III, §§ 306(b), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” after “Exclusive Economic Zone”.
 
 #### References in Text
-The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under [section 773 of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773).
@@ -381,7 +381,7 @@ New spending authority or authority to enter into contracts provided in this cha
 ### Statutory Notes
 
 #### References in Text
-Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, known as the Endangered Species Act of 1973, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+Public Law 93–205, referred to in subsec. (b)(1)(B)(iii), (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, known as the Endangered Species Act of 1973, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Codification
 Section is comprised of section 16 of Pub. L. 99–5. Section 16(c) of Pub. L. 99–5 amended [section 3632 of this title](./chapter-56a-pacific-salmon-fishing.md#section-3632).

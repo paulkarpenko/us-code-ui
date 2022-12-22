@@ -2,7 +2,7 @@
 title: 47
 chapter: '5'
 heading: WIRE OR RADIO COMMUNICATION
-section_count: 250
+section_count: 251
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47&num=0&edition=prelim
 ---
@@ -2019,7 +2019,7 @@ This chapter, referred to in subsec. (h)(1)(A), was in the original “this Act�
 
 Section 1104 of the Internet Tax Freedom Act, referred to in subsec. (h)(1)(C), is section 1104 of title XI of div. C of Pub. L. 105–277, which is set out in a note under [section 151 of this title](./chapter-005-wire-or-radio-communication.md#section-151). The term “Internet” is defined in section 1105 of Pub. L. 105–277, which is set out in the same note under [section 151 of this title](./chapter-005-wire-or-radio-communication.md#section-151).
 
-The Library Services and Construction Act, referred to in subsec. (h)(5), is act June 19, 1956, ch. 407, 70 Stat. 293, as amended. Title III of the Act was classified generally to subchapter III (§ 355e et seq.) of chapter 16 of Title 20, Education, and was repealed by Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 708(a)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
+The Library Services and Construction Act, referred to in subsec. (h)(5), is act June 19, 1956, ch. 407, 70 Stat. 293. Title III of the Act was classified generally to subchapter III (§ 355e et seq.) of chapter 16 of Title 20, Education, and was repealed by Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 708(a)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–312.
 
 #### Amendments
 2013—Subsec. (a)(1)(A). Pub. L. 113–4, § 1102(1), struck out “annoy,” after “intent to” in concluding provisions.
@@ -2928,7 +2928,7 @@ Pub. L. 101–435, § 2, Oct. 17, 1990, 104 Stat. 986, provided that: “The Con
 This chapter, referred to in subsecs. (b)(4)(A), (B) and (e)(5)(A)(i), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 #### Constitutionality
-For information regarding constitutionality of provisions of subsection (b)(1)(A)(iii) of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of provisions of subsection (b)(1)(A)(iii) of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 2019—Subsec. (b)(2)(I). Pub. L. 116–105, § 8(a), added subpar. (I).
@@ -3587,7 +3587,7 @@ This chapter, referred to in subsecs. (d) and (e)(2), was in the original “thi
 ### Statutory Notes
 
 #### References in Text
-The Electronic Communications Privacy Act of 1986, referred to in subsec. (e)(4), is Pub. L. 99–508, Oct. 21, 1986, 100 Stat. 1848, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 2510 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
+The Electronic Communications Privacy Act of 1986, referred to in subsec. (e)(4), is Pub. L. 99–508, Oct. 21, 1986, 100 Stat. 1848. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 2510 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2510&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
 
 #### Codification
 Section 509 of Pub. L. 104–104, which directed amendment of title II of the Communications Act of 1934 ([47 U.S.C. 201](./chapter-005-wire-or-radio-communication.md#section-201) et seq.) by adding section 230 at end, was executed by adding the section at end of part I of title II of the Act to reflect the probable intent of Congress and amendments by sections 101(a), (b), and 151(a) of Pub. L. 104–104 designating §§ 201 to 229 as part I and adding parts II (§ 251 et seq.) and III (§ 271 et seq.) to title II of the Act.
@@ -5112,7 +5112,7 @@ This chapter, referred to in subsecs. (d)(7), (e)(1), and (f), was in the origin
 ### Statutory Notes
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in subsec. (i)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (i)(4), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 
 <a id="section-275"></a>
@@ -6277,7 +6277,7 @@ shall be granted by the Commission earlier than thirty days following issuance o
     (v) the Commission has failed under [section 332(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/c/3&num=0&edition=prelim) to grant or deny within the time required by such section any petition that a State has filed within 90 days after August 10, 1993;
     until such failure has been corrected.
 
-(11) **Termination** — The authority of the Commission to grant a license or permit under this subsection shall expire September 30, 2022, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025, and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021.
+(11) **Termination** — The authority of the Commission to grant a license or permit under this subsection shall expire December 23, 2022, except that, with respect to the electromagnetic spectrum identified under section 1004(a) of the Spectrum Pipeline Act of 2015, such authority shall expire on September 30, 2025, and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021.
 
 (12) **Repealed. Pub. L. 115–141, div. P, title IV, § 402(i)(4)(A), Mar. 23, 2018, 132 Stat. 1089**
 
@@ -6454,6 +6454,10 @@ Section 1004(a) of the Spectrum Pipeline Act of 2015, referred to in subsec. (j)
 Section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, referred to in subsec. (j)(11), is section 90008(b)(2)(A)(ii) of Pub. L. 117–58, which is set out in a note under [section 921 of this title](./chapter-008-national-telecommunications-and-information-administration.md#section-921).
 
 #### Amendments
+2022—Subsec. (j)(11). Pub. L. 117–229 substituted “December 23, 2022” for “December 16, 2022”.
+
+Pub. L. 117–180 substituted “December 16, 2022” for “September 30, 2022”.
+
 2021—Subsec. (j)(11). Pub. L. 117–58 inserted before period at end “, and with respect to the electromagnetic spectrum identified under section 90008(b)(2)(A)(ii) of the Infrastructure Investment and Jobs Act, such authority shall expire on the date that is 7 years after November 15, 2021”.
 
 2018—Subsec. (j)(8)(B). Pub. L. 115–141, § 402(h)(2), struck out at end: “No sums may be retained under this subparagraph during any fiscal year beginning after September 30, 1998, if the annual report of the Commission under [section 154(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section154/k&num=0&edition=prelim) for the second preceding fiscal year fails to include in the itemized statement required by paragraph (3) of such section a statement of each expenditure made for purposes of conducting competitive bidding under this subsection during such second preceding fiscal year.”
@@ -6870,7 +6874,7 @@ The Federal Communications Commission may revoke any private operator’s licens
 ### Statutory Notes
 
 #### References in Text
-The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to this chapter (§ 151 et seq.). For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to this chapter (§ 151 et seq.). For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 #### Codification
 Section was enacted as part of the Anti-Drug Abuse Act of 1986, and also as part of the National Drug Interdiction Improvement Act of 1986, and not as part of the Communications Act of 1934 which comprises this chapter.
@@ -7722,13 +7726,13 @@ A prior section 331, act June 19, 1934, ch. 652, title III, § 331, as added Sep
 #### References in Text
 Provisions of part III of title 5, referred to in subsec. (b)(2), are classified to section 2101 et seq. of Title 5, Government Organization and Employees.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (b)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5.
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
-The Communications Satellite Act of 1962, referred to in subsec. (c)(4), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended. Titles III and IV of the Act are classified generally to subchapters III (§ 731 et seq.) and IV (§ 741 et seq.), respectively, of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-006-communications-satellite-system.md#section-701) and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (c)(4), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419. Titles III and IV of the Act are classified generally to subchapters III (§ 731 et seq.) and IV (§ 741 et seq.), respectively, of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-006-communications-satellite-system.md#section-701) and Tables.
 
-The Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (c)(6), is Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312, as amended. For complete classification of this Act to the Code, see Tables.
+The Omnibus Budget Reconciliation Act of 1993, referred to in subsec. (c)(6), is Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 In subsec. (b)(2), “[section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim)” substituted for “section 3679(b) of the Revised Statutes ([31 U.S.C. 665(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section665/b&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -9115,6 +9119,171 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 Pub. L. 117–58, div. F, title VI, § 60602(b), Nov. 15, 2021, 135 Stat. 1249, provided that: “Section 344 of the Communications Act of 1934 [[47 U.S.C. 344](./chapter-005-wire-or-radio-communication.md#section-344)], as added by subsection (a), shall be repealed on the day after the date on which the interagency working group established under subsection (b)(1) of that section submits the report to Congress under subsection (g) of that section.”
 
 
+<a id="section-345"></a>
+## § 345. Protection of survivors of domestic violence, human trafficking, and related crimes
+**(a) Definitions** In this section:
+
+(1) **Abuser** — The term “abuser” means an individual who has committed or allegedly committed a covered act against—
+
+  (A) an individual who seeks relief under subsection (b); or
+
+  (B) an individual in the care of an individual who seeks relief under subsection (b).
+
+(2) **Covered act**
+
+  (A) *In general* — The term “covered act” means conduct that constitutes—
+
+    (i) a crime described in section 12291(a)of title 34, including domestic violence, dating violence, sexual assault, stalking, and sex trafficking;
+
+    (ii) an act or practice described in paragraph (11) or (12) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim) (relating to severe forms of trafficking in persons and sex trafficking, respectively); or
+
+    (iii) an act under State law, Tribal law, or the Uniform Code of Military Justice that is similar to an offense described in clause (i) or (ii).
+
+  (B) *Conviction not required* — Nothing in subparagraph (A) shall be construed to require a criminal conviction or any other determination of a court in order for conduct to constitute a covered act.
+
+(3) **Covered provider** — The term “covered provider” means a provider of a private mobile service or commercial mobile service, as those terms are defined in [section 332(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/d&num=0&edition=prelim).
+
+(4) **Primary account holder** — The term “primary account holder” means an individual who is a party to a mobile service contract with a covered provider.
+
+(5) **Shared mobile service contract** — The term “shared mobile service contract”—
+
+  (A) means a mobile service contract for an account that includes not less than 2 consumers; and
+
+  (B) does not include enterprise services offered by a covered provider.
+
+(6) **Survivor** — The term “survivor” means an individual who is not less than 18 years old and—
+
+  (A) against whom a covered act has been committed or allegedly committed; or
+
+  (B) who cares for another individual against whom a covered act has been committed or allegedly committed (provided that the individual providing care did not commit or allegedly commit the covered act).
+
+**(b) Separation of lines from shared mobile service contract**
+
+(1) **In general** — Not later than 2 business days after receiving a completed line separation request from a survivor pursuant to subsection (c), a covered provider shall, as applicable, with respect to a shared mobile service contract under which the survivor and the abuser each use a line—
+
+  (A) separate the line of the survivor, and the line of any individual in the care of the survivor, from the shared mobile service contract; or
+
+  (B) separate the line of the abuser from the shared mobile service contract.
+
+(2) **Limitations on penalties, fees, and other requirements** — Except as provided in paragraphs (5) through (7), a covered provider may not make separation of a line from a shared mobile service contract under paragraph (1) contingent on any requirement other than the requirements under subsection (c), including—
+
+  (A) payment of a fee, penalty, or other charge;
+
+  (B) maintaining contractual or billing responsibility of a separated line with the provider;
+
+  (C) approval of separation by the primary account holder, if the primary account holder is not the survivor;
+
+  (D) a prohibition or limitation, including one described in subparagraph (A), on number portability, provided such portability is technically feasible, or a request to change phone numbers;
+
+  (E) a prohibition or limitation on the separation of lines as a result of arrears accrued by the account;
+
+  (F) an increase in the rate charged for the mobile service plan of the primary account holder with respect to service on any remaining line or lines; or
+
+  (G) any other limitation or requirement not listed under subsection (c).
+
+(3) **Rule of construction** — Nothing in paragraph (2) shall be construed to require a covered provider to provide a rate plan for the primary account holder that is not otherwise commercially available.
+
+(4) **Remote option** — A covered provider shall offer a survivor the ability to submit a line separation request under subsection (c) through secure remote means that are easily navigable, provided that remote options are commercially available and technically feasible.
+
+(5) **Responsibility for transferred telephone numbers** — Notwithstanding paragraph (2), beginning on the date on which a covered provider transfers billing responsibilities for and use of a telephone number or numbers to a survivor under paragraph (1)(A) in response to a line separation request submitted by the survivor under subsection (c), unless ordered otherwise by a court, the survivor shall assume financial responsibility, including for monthly service costs, for the transferred telephone number or numbers.
+
+(6) **Responsibility for transferred telephone numbers from a survivor’s account** — Notwithstanding paragraph (2), upon the transfer of a telephone number under paragraph (1)(B) in response to a line separation request submitted by a survivor under subsection (c), the survivor shall have no further financial responsibilities to the transferring covered provider for the services provided by the transferring covered provider for the telephone number or for any mobile device associated with the telephone number.
+
+(7) **Responsibility for mobile device** — Notwithstanding paragraph (2), beginning on the date on which a covered provider transfers billing responsibilities for and rights to a telephone number or numbers to a survivor under paragraph (1)(A) in response to a line separation request submitted by the survivor under subsection (c), unless otherwise ordered by a court, the survivor shall not assume financial responsibility for any mobile device associated with the separated line, unless the survivor purchased the mobile device, or affirmatively elects to maintain possession of the mobile device.
+
+(8) **Notice to survivor** — If a covered provider separates a line from a shared mobile service contract under paragraph (1) and the primary account holder is not the survivor, the covered provider shall notify the survivor of the date on which the covered provider intends to give any formal notice to the primary account holder.
+
+**(c) Line separation request**
+
+(1) **In general** — In the case of a survivor seeking to separate a line from a shared mobile service contract, the survivor shall submit to the covered provider a line separation request that—
+
+  (A) verifies that an individual who uses a line under the shared mobile service contract has committed or allegedly committed a covered act against the survivor or an individual in the survivor’s care, by providing—
+
+    (i) a copy of a signed affidavit from a licensed medical or mental health care provider, licensed military medical or mental health care provider, licensed social worker, victim services provider, or licensed military victim services provider, or an employee of a court, acting within the scope of that person’s employment; or
+
+    (ii) a copy of a police report, statements provided by police, including military police, to magistrates or judges, charging documents, protective or restraining orders, military protective orders, or any other official record that documents the covered act;
+
+  (B) in the case of relief sought under subsection (b)(1)(A), with respect to—
+
+    (i) a line used by the survivor that the survivor seeks to have separated, states that the survivor is the user of that specific line; and
+
+    (ii) a line used by an individual in the care of the survivor that the survivor seeks to have separated, includes an affidavit setting forth that the individual—
+
+      (I) is in the care of the survivor; and
+
+      (II) is the user of that specific line; and
+
+  (C) requests relief under subparagraph (A) or (B) of subsection (b)(1) and identifies each line that should be separated.
+
+(2) **Communications from covered providers**
+
+  (A) *In general* — A covered provider shall notify a survivor seeking relief under subsection (b) in clear and accessible language that the covered provider may contact the survivor, or designated representative of the survivor, to confirm the line separation, or if the covered provider is unable to complete the line separation for any reason, pursuant to subparagraphs (B) and (C).
+
+  (B) *Remote means* — A covered provider shall notify a survivor under subparagraph (A) through remote means, provided that remote means are commercially available and technically feasible.
+
+  (C) *Election of manner of contact* — When completing a line separation request submitted by a survivor through remote means under paragraph (1), a covered provider shall allow the survivor to elect in the manner in which the covered provider may—
+
+    (i) contact the survivor, or designated representative of the survivor, in response to the request, if necessary; or
+
+    (ii) notify the survivor, or designated representative of the survivor, of the inability of the covered provider to complete the line separation.
+
+(3) **Enhanced protections under State law** — This subsection shall not affect any law or regulation of a State providing communications protections for survivors (or any similar category of individuals) that has less stringent requirements for providing evidence of a covered act (or any similar category of conduct) than this subsection.
+
+**(d) Confidential and secure treatment of personal information**
+
+(1) **In general** — Notwithstanding [section 222(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section222/c/2&num=0&edition=prelim), a covered provider and any officer, director, employee, vendor, or agent thereof shall treat any information submitted by a survivor under subsection (c) as confidential and securely dispose of the information not later than 90 days after receiving the information.
+
+(2) **Rule of construction** — Nothing in paragraph (1) shall be construed to prohibit a covered provider from maintaining, for longer than the period specified in that paragraph, a record that verifies that a survivor fulfilled the conditions of a line separation request under subsection (c).
+
+**(e) Availability of information to consumers** A covered provider shall make information about the options and process described in subsections (b) and (c) readily available to consumers—
+
+(1) on the website and the mobile application of the provider;
+
+(2) in physical stores; and
+
+(3) in other forms of public-facing consumer communication.
+
+**(f) Technical infeasibility**
+
+(1) **In general** — The requirement to effectuate a line separation request pursuant to subsection (b)(1) shall not apply to a covered provider if the covered provider cannot operationally or technically effectuate the request.
+
+(2) **Notification** — If a covered provider cannot operationally or technically effectuate a line separation request as described in paragraph (1), the covered provider shall—
+
+  (A) notify the survivor who submitted the request of that infeasibility—
+
+    (i) at the time of the request; or
+
+    (ii) in the case of a survivor who has submitted the request using remote means, not later than 2 business days after receiving the request; and
+
+  (B) provide the survivor with information about other alternatives to submitting a line separation request, including starting a new line of service.
+
+**(g) Liability protection**
+
+(1) **In general** — A covered provider and any officer, director, employee, vendor, or agent thereof shall not be subject to liability for any claims deriving from an action taken or omission made with respect to compliance with this section and the rules adopted to implement this section.
+
+(2) **Commission authority** — Nothing in this subsection shall limit the authority of the Commission to enforce this section or any rules or regulations promulgated by the Commission pursuant to this section.
+
+### Statutory Notes
+
+#### Delayed Effective Date
+For delayed effective date of section, see Effective Date note below.
+
+#### Effective Date
+Pub. L. 117–223, § 6, Dec. 7, 2022, 136 Stat. 2288, provided that: “The requirements under section 345 of the Communications Act of 1934 [[47 U.S.C. 345](./chapter-005-wire-or-radio-communication.md#section-345)], as added by section 4 of this Act, shall take effect 60 days after the date on which the Federal Communications Commission adopts the rules implementing that section pursuant to section 5(b)(1) of this Act [section 5(b)(1) of Pub. L. 117–223, set out below].”
+
+#### Savings Clause
+Pub. L. 117–223, § 7, Dec. 7, 2022, 136 Stat. 2288, provided that: “Nothing in this Act [enacting this section and provisions set out as notes under this section] or the amendments made by this Act shall be construed to abrogate, limit, or otherwise affect the provisions set forth in the Communications Assistance for Law Enforcement Act ([title I of] Public Law 103–414; 108 Stat. 4279) [[47 U.S.C. 1001](./chapter-009-interception-of-digital-and-other-communications.md#section-1001) et seq.] and the amendments made by that Act, any authority granted to the Federal Communications Commission pursuant to that Act or the amendments made by that Act, or any regulations promulgated by the Federal Communications Commission pursuant to that Act or the amendments made by that Act.”
+
+#### Findings
+Pub. L. 117–223, § 3, Dec. 7, 2022, 136 Stat. 2280, provided that: “Congress finds the following: “(1) Domestic violence, dating violence, stalking, sexual assault, human trafficking, and related crimes are life-threatening issues and have lasting and harmful effects on individuals, families, and entire communities. “(2) Survivors often lack meaningful support and options when establishing independence from an abuser, including barriers such as financial insecurity and limited access to reliable communications tools to maintain essential connections with family, social safety networks, employers, and support services. “(3) Perpetrators of violence and abuse described in paragraph (1) increasingly use technological and communications tools to exercise control over, monitor, and abuse their victims. “(4) Communications law can play a public interest role in the promotion of safety, life, and property with respect to the types of violence and abuse described in paragraph (1). For example, independent access to a wireless phone plan can assist survivors in establishing security and autonomy. “(5) Safeguards within communications services can serve a role in preventing abuse and narrowing the digital divide experienced by survivors of abuse.”
+
+#### Rulemaking on Protections for Survivors of Domestic Violence
+Pub. L. 117–223, § 5, Dec. 7, 2022, 136 Stat. 2285, provided that: “(a) Definitions.—In this section—“(1) the term ‘Affordable Connectivity Program’ means the program established under section 904(b) of division N of the Consolidated Appropriations Act, 2021 (Public Law 116–260) [[47 U.S.C. 1752(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1752/b&num=0&edition=prelim)], as amended by section 60502 of the Infrastructure Investment and Jobs Act (Public Law 117–58), or any successor program; “(2) the term ‘appropriate congressional committees’ means the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives; “(3) the term ‘Commission’ means the Federal Communications Commission; “(4) the term ‘covered hotline’ means a hotline related to domestic violence, dating violence, sexual assault, stalking, sex trafficking, severe forms of trafficking in persons, or any other similar act; “(5) the term ‘designated program’ means the program designated by the Commission under subsection (b)(2)(A)(i) to provide emergency communications support to survivors; “(6) the term ‘Lifeline program’ means the program set forth in subpart E of part 54 of title 47, Code of Federal Regulations (or any successor regulation); “(7) the term ‘text message’ has the meaning given the term in section 227(e)(8) of the Communications Act of 1934 ([47 U.S.C. 227(e)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227/e/8&num=0&edition=prelim)); and “(8) the term ‘voice service’ has the meaning given such term in section 4(a) of the Pallone-Thune Telephone Robocall Abuse Criminal Enforcement and Deterrence Act ([47 U.S.C. 227b(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section227b/a&num=0&edition=prelim)). “(b) Rulemakings.—“(1) Line separations.—“(A) In general.—Not later than 18 months after the date of enactment of this Act [Dec. 7, 2022], the Commission shall adopt rules to implement section 345 of the Communications Act of 1934 [[47 U.S.C. 345](./chapter-005-wire-or-radio-communication.md#section-345)], as added by section 4 of this Act. “(B) Considerations.—In adopting rules under subparagraph (A), the Commission shall consider—“(i) privacy protections; “(ii) account security and fraud detection; “(iii) account billing procedures; “(iv) procedures for notification of survivors about line separation processes; “(v) notice to primary account holders; “(vi) situations in which a covered provider cannot operationally or technically separate a telephone number or numbers from a shared mobile service contract such that the provider cannot effectuate a line separation request; “(vii) the requirements for remote submission of a line separation request, including how that option facilitates submission of verification information and meets the other requirements of section 345 of the Communications Act of 1934 [[47 U.S.C. 345](./chapter-005-wire-or-radio-communication.md#section-345)], as added by section 4 of this Act; “(viii) feasibility of remote options for small covered providers; “(ix) implementation timelines, including those for small covered providers; “(x) financial responsibility for transferred telephone numbers; “(xi) whether and how the survivor can affirmatively elect to take financial responsibility for the mobile device associated with the separated line; “(xii) compliance with subpart U of part 64 of title 47, Code of Federal Regulations, or any successor regulations (relating to customer proprietary network information) or any other legal or law enforcement requirements; and “(xiii) ensuring covered providers have the necessary account information to comply with the rules and with section 345 of the Communications Act of 1934, as added by section 4 of this Act. “(2) Emergency communications support for survivors.—“(A) In general.—Not later than 18 months after the date of enactment of this Act, or as part of a general rulemaking proceeding relating to the Lifeline program or the Affordable Connectivity Program, whichever occurs earlier, the Commission shall adopt rules that—“(i) designate a single program, which shall be either the Lifeline program or the Affordable Connectivity Program, to provide emergency communications support to survivors in accordance with this paragraph; and “(ii) allow a survivor who is suffering from financial hardship and meets the requirements under section 345(c)(1) of the Communications Act of 1934 [[47 U.S.C. 345(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section345/c/1&num=0&edition=prelim)], as added by section 4 of this Act, without regard to whether the survivor meets the otherwise applicable eligibility requirements of the designated program, to— “(I) enroll in the designated program as quickly as is feasible; and “(II) participate in the designated program based on such qualifications for not more than 6 months. “(B) Considerations.—In adopting rules under subparagraph (A), the Commission shall consider—“(i) how survivors who are eligible for relief and elected to separate a line under section 345(c)(1) of the Communications Act of 1934, as added by section 4 of this Act, but whose lines could not be separated due to operational or technical infeasibility, can participate in the designated program; and “(ii) confidentiality in the transfer and retention of any necessary documentation regarding the eligibility of a survivor to enroll in the designated program. “(C) Evaluation.—Not later than 2 years after completing the rulemaking under subparagraph (A), the Commission shall—“(i) evaluate the effectiveness of the Commission’s provision of support to survivors through the designated program; “(ii) assess the detection and elimination of fraud, waste, and abuse with respect to the support described in clause (i); and “(iii) submit to the appropriate congressional committees a report that includes the evaluation and assessment described in clauses (i) and (ii), respectively. “(D) Rule of construction.—Nothing in this paragraph shall be construed to limit the ability of a survivor who meets the requirements under section 345(c)(1) of the Communications Act of 1934 [[47 U.S.C. 345(c)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section345/c/1&num=0&edition=prelim)], as added by section 4 of this Act, to participate in the designated program indefinitely if the survivor otherwise qualifies for the designated program under the rules of the designated program. “(E) Notification.—A covered provider that receives a line separation request pursuant to section 345 of the Communications Act of 1934 [[47 U.S.C. 345](./chapter-005-wire-or-radio-communication.md#section-345)], as added by section 4 of this Act, shall inform the survivor who submitted the request of—“(i) the existence of the designated program; “(ii) who qualifies to participate in the designated program under the rules adopted under subparagraph (A) that are specially applicable to survivors; and “(iii) how to participate in the designated program under the rules described in clause (ii). “(3) Hotline calls.—“(A) In general.—Not later than 180 days after the date of enactment of this Act, the Commission shall commence a rulemaking proceeding to consider whether to, and how the Commission should—“(i) establish, and update on a monthly basis, a central database of covered hotlines to be used by a covered provider or a wireline provider of voice service; and “(ii) require a covered provider or a wireline provider of voice service to omit from consumer-facing logs of calls or text messages any records of calls or text messages to covered hotlines in the central database described in clause (i), while maintaining internal records of those calls and messages. “(B) Considerations.—The rulemaking conducted under subparagraph (A) shall include consideration of—“(i) the ability of law enforcement agencies or survivors to access a log of calls or text messages in a criminal investigation or civil proceeding; “(ii) the ability of a covered provider or a wireline provider of voice service to— “(I) identify logs that are consumer-facing; and “(II) omit certain consumer-facing logs, while maintaining internal records of such calls and text messages; and “(iii) any other factors associated with the implementation of clauses (i) and (ii) to protect survivors, including factors that may impact smaller providers. “(C) No effect on law enforcement.—Nothing in subparagraph (A) shall be construed to—“(i) limit or otherwise affect the ability of a law enforcement agency to access a log of calls or text messages in a criminal investigation; or “(ii) alter or otherwise expand provider requirements under the Communications Assistance for Law Enforcement Act ([title I of] Public Law 103–414; 108 Stat. 4279) [[47 U.S.C. 1001](./chapter-009-interception-of-digital-and-other-communications.md#section-1001) et seq.] or the amendments made by that Act. “(D) Compliance.—If the Commission establishes a central database through the rulemaking under subparagraph (A) and a covered provider updates its own databases to match the central database not less frequently than once every 30 days, no cause of action shall lie or be maintained in any court against the covered provider or its officers, employees, or agents for claims deriving from omission from consumer-facing logs of calls or text messages of any records of calls or text messages to covered hotlines in the central database.”
+
+#### Definitions
+Pub. L. 117–223, § 2, Dec. 7, 2022, 136 Stat. 2280, provided that: “Except as otherwise provided in this Act [enacting this section and provisions set out as notes under this section], terms used in this Act that are defined in section 345(a) of the Communications Act of 1934 [[47 U.S.C. 345(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section345/a&num=0&edition=prelim)], as added by section 4 of this Act, have the meanings given those terms in such section 345(a).”
+
+
 <a id="section-351"></a>
 ## § 351. Ship radio stations and operations
 **(a)** Except as provided in section 352 hereof it shall be unlawful—
@@ -10314,7 +10483,7 @@ Section effective Nov. 2, 1978, see section 403 of Pub. L. 95–567, set out as 
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Nonprofit Corporation Act, referred to in subsecs. (b), (c)(4), and (g)(3), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsecs. (b), (c)(4), and (g)(3), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 Section 5(c) of the Public Telecommunications Act of 1992, referred to in subsec. (c)(5), is section 5(c) of Pub. L. 102–356, which is set out below.
 
@@ -11701,7 +11870,7 @@ Pub. L. 102–385, § 10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: “Wit
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 1996—Subsec. (c)(2). Pub. L. 104–104 substituted “a cable operator may refuse to transmit any leased access program or portion of a leased access program which contains obscenity, indecency, or nudity and” for “an operator”.
@@ -13499,7 +13668,7 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Effective Date
 Pub. L. 104–104, title V, § 505(b), Feb. 8, 1996, 110 Stat. 136, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect 30 days after the date of enactment of this Act [Feb. 8, 1996].”
@@ -13986,6 +14155,9 @@ This chapter may be cited as the “Communications Act of 1934.”
 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which enacted this chapter, amended [section 35 of this title](./chapter-002-submarine-cables.md#section-35), [section 21 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section21&num=0&edition=prelim), Commerce and Trade, section 487 of former Title 46, Shipping, and sections 1, 2, 5, and 15 of former Title 49, Transportation, and repealed sections 484 to 487 of former Title 46. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–223, § 1, Dec. 7, 2022, 136 Stat. 2280, provided that: “This Act [enacting [section 345 of this title](./chapter-005-wire-or-radio-communication.md#section-345) and provisions set out as notes under [section 345 of this title](./chapter-005-wire-or-radio-communication.md#section-345)] may be cited as the ‘Safe Connections Act of 2022’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 117–58, div. F, title VI, § 60601, Nov. 15, 2021, 135 Stat. 1246, provided that: “This title [enacting and repealing [section 344 of this title](./chapter-005-wire-or-radio-communication.md#section-344) and enacting provisions set out as notes under [section 344 of this title](./chapter-005-wire-or-radio-communication.md#section-344) and [section 3111 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3111&num=0&edition=prelim), Labor] may be cited as the ‘Telecommunications Skilled Workforce Act’.”
@@ -15500,6 +15672,9 @@ Subsec. (b)(5)(C)(i). Pub. L. 117–58, § 60102(h)(2)(E)(i), substituted “cha
 
 Subsec. (c)(6). Pub. L. 117–58, § 60103(e), inserted “, including on a publicly available website,” after “make public” in introductory provisions. Directory language amending “the matter preceding paragraph (6)” was executed as if it had referred to the matter preceding subpar. (A), to reflect the probable intent of Congress.
 
+#### Data Mapping to Save Moms’ Lives
+Pub. L. 117–247, Dec. 20, 2022, 136 Stat. 2347, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Data Mapping to Save Moms’ Lives Act’. “SEC. 2. MAPPING BROADBAND CONNECTIVITY AND MATERNAL HEALTH OUTCOMES.“(a) Incorporation of Maternal Mortality and Severe Maternal Morbidity Data.—Not later than 180 days after the date of the enactment of this Act [Dec. 20, 2022], the Federal Communications Commission shall incorporate publicly available data on maternal mortality and severe maternal morbidity, including for not less than 1 year postpartum, into the Mapping Broadband Health in America platform of the Commission. “(b) Consultation With CDC.—The Federal Communications Commission shall consult with the Director of the Centers for Disease Control and Prevention regarding the maternal mortality and severe maternal morbidity data that should be incorporated under subsection (a).”
+
 #### Implementation
 For requirement to implement amendment made by section 60102(h)(2)(E)(i) of Pub. L. 117–58 as soon as possible after Nov. 15, 2021, see [section 1702(h)(2)(E)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section1702/h/2/E/iii&num=0&edition=prelim).
 
@@ -15565,7 +15740,7 @@ It shall be unlawful for an entity or individual to willfully and knowingly, or 
 
 “(C) not later than 14 months after March 23, 2020, publish on the website of the Commission, and submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report regarding the testing described in subparagraph (B), which shall include—
 
-“(i) a determination regarding whether the partnerships with Federal agencies described in that subparagraph are able to facilit”ate the collection and submission of information described in paragraph (1); and
+“(i) a determination regarding whether the partnerships with Federal agencies described in that subparagraph are able to facilitate the collection and submission of information described in paragraph (1); and
 
 “(ii) any steps that the Commission plans to take to facilitate the partnerships described in that subparagraph.”
 

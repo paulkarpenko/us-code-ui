@@ -91,7 +91,7 @@ In order to achieve the objectives and to carry out the purposes of this chapter
 ### Statutory Notes
 
 #### References in Text
-The Communications Act of 1934, as amended, referred to in subsec. (c), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+The Communications Act of 1934, as amended, referred to in subsec. (c), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 #### Codification
 Subsecs. (a)(1), (5), (6), (b), and (c)(1), (3) to (5), (8) to (10) of this section ceased to be effective Mar. 17, 2000, pursuant to [section 765d(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section765d/1&num=0&edition=prelim). Prior to being omitted, subsec. (a)(1), (5) and (6) directed the President to aid in a national program to establish and operate a commercial communications satellite system, to insure arrangements were made for foreign participation in the establishment and use of the system, and to insure availability and utilization of the system for general governmental purposes, subsec. (b) directed the National Aeronautics and Space Administration to give technical advice to the Commission and to cooperate with, assist, and provide services to the corporation, and subsec. (c)(1), (3) to (5), (8) to (10) directed the Federal Communications Commission to insure effective competition in procurement of services, to require establishment of communication to a particular foreign point when advised by the Secretary of State, to insure technical compatibility of the system with satellite terminal stations, to insure system economies are reflected in rates, to authorize the corporation to issue stock, borrow moneys, and assume securities obligations, to insure that substantial additions to the system or stations are made only when necessary, and to require necessary additions to be made with respect to the system or stations.
@@ -432,7 +432,7 @@ the Commission may by rule prohibit United States carriers from paying an amount
 ### Statutory Notes
 
 #### References in Text
-The Communications Act of 1934, referred to in subsec. (b), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+The Communications Act of 1934, referred to in subsec. (b), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 
 <a id="section-765a"></a>
@@ -469,7 +469,7 @@ Nothing in this subchapter or the Communications Act of 1934 [[47 U.S.C. 151](./
 ### Statutory Notes
 
 #### References in Text
-The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
+The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 609 of this title](./chapter-005-wire-or-radio-communication.md#section-609) and Tables.
 
 
 <a id="section-765c"></a>

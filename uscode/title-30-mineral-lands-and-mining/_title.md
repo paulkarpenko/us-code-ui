@@ -2,7 +2,7 @@
 title: 30
 heading: MINERAL LANDS AND MINING
 positive_law: false
-sections: 625
+sections: 626
 chapters: 34
 ---
 # Title 30. MINERAL LANDS AND MINING

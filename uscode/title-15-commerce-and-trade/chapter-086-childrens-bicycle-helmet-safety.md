@@ -79,7 +79,7 @@ Sections 7, 9, and 30(d) 11 See References in Text note below. of the Consumer P
 #### References in Text
 Section 30(d) of the Consumer Product Safety Act, referred to in subsec. (c), was classified to [section 2079(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2079/d&num=0&edition=prelim) prior to repeal by Pub. L. 110–314, title II, § 237, Aug. 14, 2008, 122 Stat. 3076.
 
-The Consumer Product Safety Act, referred to in subsec. (d), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051) and Tables.
+The Consumer Product Safety Act, referred to in subsec. (d), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051) and Tables.
 
 
 <a id="section-6005"></a>

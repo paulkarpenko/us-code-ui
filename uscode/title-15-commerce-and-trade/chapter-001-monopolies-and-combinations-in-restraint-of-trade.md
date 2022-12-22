@@ -802,13 +802,13 @@ Any property owned under any contract or by any combination, or pursuant to any 
 #### References in Text
 Words “herein” and “this Act”, referred to in the three paragraphs of subsec. (a), mean the Clayton Act. For classification of the Clayton Act to the Code, see last paragraph hereunder.
 
-The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety, referred to in subsec. (a), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of this title.
+The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety, referred to in subsec. (a), is act July 2, 1890, ch. 647, 26 Stat. 209, known as the Sherman Act, which is classified to sections 1 to 7 of this title.
 
-The Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four, referred to in subsec. (a), is act Aug. 27, 1894, ch. 349, 28 Stat. 509, as amended, known as the Wilson Tariff Act. Sections seventy-three to seventy-six thereof are set out as sections 8 to 11 of this title.
+The Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four, referred to in subsec. (a), is act Aug. 27, 1894, ch. 349, 28 Stat. 509, known as the Wilson Tariff Act. Sections seventy-three to seventy-six thereof are set out as sections 8 to 11 of this title.
 
-The Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’,” approved February twelfth, nineteen hundred and thirteen, referred to in subsec. (a), is act Feb. 12, 1913, ch. 40, 37 Stat. 667, as amended, which is classified to sections 8 and 11 of this title.
+The Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’,” approved February twelfth, nineteen hundred and thirteen, referred to in subsec. (a), is act Feb. 12, 1913, ch. 40, 37 Stat. 667, which is classified to sections 8 and 11 of this title.
 
-The Clayton Act, referred to in subsec. (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. Sections 9 and 21 to 25 of the act were repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948, and their provisions are now covered by sections 402, 660, 3285 and 3691 of Title 18, Crimes and Criminal Procedure, except that former section 23 of the act is obsolete and not now covered. Sections 17 to 19 of the act were repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948, and their provisions are now covered by rule 65 of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
+The Clayton Act, referred to in subsec. (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. Sections 9 and 21 to 25 of the act were repealed by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948, and their provisions are now covered by sections 402, 660, 3285 and 3691 of Title 18, Crimes and Criminal Procedure, except that former section 23 of the act is obsolete and not now covered. Sections 17 to 19 of the act were repealed by act June 25, 1948, ch. 646, § 39, 62 Stat. 992, eff. Sept. 1, 1948, and their provisions are now covered by rule 65 of the Federal Rules of Civil Procedure, set out in the Appendix to Title 28, Judiciary and Judicial Procedure. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 The 3d par. of subsec. (a) is also classified to [section 53 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section53&num=0&edition=prelim), Labor.
@@ -1058,7 +1058,7 @@ Injuries sustained prior to Sept. 30, 1976, not covered by this section, see sec
 #### References in Text
 The antitrust laws, referred to in subsec. (a), are defined in [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12).
 
-This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
+This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
 
 #### Effective Date
 Injuries sustained prior to Sept. 30, 1976, not covered by this section, see section 304 of Pub. L. 94–435, set out as a note under [section 15c of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-15c).
@@ -1651,7 +1651,7 @@ The several district courts of the United States are invested with jurisdiction 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
+This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 20, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
 
 #### Change of Name
 Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys of the United States”. See section 541 et seq. of Title 28, Judiciary and Judicial Procedure.
@@ -1753,7 +1753,7 @@ For short title of Pub. L. 96–493 as the “Gasohol Competition Act of 1980”
 #### References in Text
 The antitrust laws, referred to in text, are defined in [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12).
 
-Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, as amended, which is classified generally to chapter 32 (§ 1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Public Law 87–331, referred to in subsec. (b)(4), is Pub. L. 87–331, Sept. 30, 1961, 75 Stat. 732, which is classified generally to chapter 32 (§ 1291 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Another section 27 of act Oct. 15, 1914, ch. 323, was renumbered section 28 and is classified to [section 27 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-27).
@@ -1770,7 +1770,7 @@ If any clause, sentence, paragraph, or part of this Act shall, for any reason, b
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
+This Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
 
 
 <a id="section-27a"></a>
@@ -1900,7 +1900,7 @@ Pub. L. 98–544, § 6, Oct. 24, 1984, 98 Stat. 2751, provided that: “This Act
 #### References in Text
 For the effective date of this Act, referred to in subsec. (b), see Effective Date note below.
 
-The Clayton Act, referred to in subsecs. (a) and (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title and to sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
+The Clayton Act, referred to in subsecs. (a) and (b), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of this title and to sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-12) and Tables.
 
 #### Effective Date
 Section effective thirty days before Oct. 24, 1984, see section 6 of Pub. L. 98–544, set out as a note under [section 34 of this title](./chapter-001-monopolies-and-combinations-in-restraint-of-trade.md#section-34).

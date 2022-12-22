@@ -267,7 +267,7 @@ Subsec. (b)(2). Pub. L. 100–509, § 7(b)(1), substituted “10” for “5”.
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(5) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsecs. (a)(5) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of this title, respectively. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 #### Amendments
 2016—Subsec. (a)(7). Pub. L. 114–255 substituted “is located, and make publicly available, a report” for “is located a report”.

@@ -678,6 +678,61 @@ Pub. L. 116–92, div. F, title LXXV, Dec. 20, 2019, 133 Stat. 2300, as amended 
 
 [Functions and authorities of President under sections 7503(d), (f), and (h) of Pub. L. 116–92, set out above, delegated to Secretary of State, in consultation with the Secretary of the Treasury, and under sections 7503(c) and (g) of Pub. L. 116–92 to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(a)(i)–(iii) and (b)(i), (ii) of Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, set out as a note under [section 286yy of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286yy).]
 
+#### Ex. Ord. No. 14039. Blocking Property With Respect to Certain Russian Energy Export Pipelines
+Ex. Ord. No. 14039, Aug. 20, 2021, 86 F.R. 47205, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act ([50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) et seq.) (IEEPA), the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) (NEA), the Protecting Europe’s Energy Security Act of 2019 (Title LXXV, National Defense Authorization Act for Fiscal Year 2020, Public Law 116–92) [set out above], as amended by section 1242 of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) (PEESA), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code,
+
+I, JOSEPH R. BIDEN JR., President of the United States of America, in order to take additional steps with respect to the national emergency declared in Executive Order 14024 of April 15, 2021 (Blocking Property With Respect To Specified Harmful Foreign Activities of the Government of the Russian Federation) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note], hereby order:
+
+Section 1. (a) With respect to any foreign person identified by the Secretary of State, in consultation with the Secretary of the Treasury, in a report to the Congress pursuant to section 7503(a)(1)(B) of PEESA, all property and interests in property of such person that are in the United States, that hereafter come within the United States, or that are or hereafter come within the possession or control of any United States person are blocked and may not be transferred, paid, exported, withdrawn, or otherwise dealt in.
+
+(b) Sanctions under subsection (a) of this section shall not apply to any foreign person with respect to whom a waiver under section 7503(f) of PEESA has been issued.
+
+(c) The prohibitions in subsection (a) of this section apply except to the extent provided by statutes, or in regulations, orders, directives, or licenses that may be issued pursuant to this order, and notwithstanding any contract entered into or any license or permit granted prior to the date of this order.
+
+Sec. 2. The Secretary of State shall implement section 7503(b) of PEESA as it applies to visas, and the Secretary of Homeland Security shall implement section 7503(b) of PEESA as it applies to admission and parole. Such implementation shall be consistent with any exceptions or waivers provided by statute, or in regulations, orders, or directives that may be issued pursuant to this order.
+
+Sec. 3. The prohibitions in section 1 of this order include:
+
+(a) the making of any contribution or provision of funds, goods, or services by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to this order; and
+
+(b) the receipt of any contribution or provision of funds, goods, or services from any such person.
+
+Sec. 4. (a) Any transaction that evades or avoids, has the purpose of evading or avoiding, causes a violation of, or attempts to violate any of the prohibitions set forth in this order is prohibited.
+
+(b) Any conspiracy formed to violate any of the prohibitions set forth in this order is prohibited.
+
+Sec. 5. I hereby determine that the making of donations of the types of articles specified in section 203(b)(2) of IEEPA ([50 U.S.C. 1702(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702/b/2&num=0&edition=prelim)) by, to, or for the benefit of any person whose property and interests in property are blocked pursuant to this order would seriously impair my ability to deal with the national emergency declared in Executive Order 14024, and I hereby prohibit such donations as provided by section 1 of this order.
+
+Sec. 6. For the purposes of this order:
+
+(a) the term “entity” means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization;
+
+(b) the term “foreign person” means an individual or entity that is not a United States person;
+
+(c) the term “person” means an individual or entity; and
+
+(d) the term “United States person” means any United States citizen, lawful permanent resident, entity organized under the laws of the United States or any jurisdiction within the United States (including foreign branches), or any person in the United States.
+
+Sec. 7. For those persons whose property and interests in property are blocked pursuant to this order who might have a constitutional presence in the United States, I find that because of the ability to transfer funds or other assets instantaneously, prior notice to such persons of measures to be taken pursuant to this order would render those measures ineffectual. I therefore determine that for these measures to be effective in addressing the national emergency declared in Executive Order 14024, there need be no prior notice of a listing or determination made pursuant to section 1 of this order.
+
+Sec. 8. The Secretary of the Treasury, in consultation with the Secretary of State, is hereby authorized to take such actions, including the promulgation of rules and regulations, and to employ all powers granted to the President by IEEPA and PEESA, as may be necessary to carry out the purposes of this order. The Secretary of the Treasury may, consistent with applicable law, redelegate any of these functions within the Department of the Treasury. All departments and agencies of the United States shall take all appropriate measures within their authority to carry out the provisions of this order.
+
+Sec. 9. Nothing in this order shall prohibit transactions for the conduct of the official business of the Federal Government or the United Nations, including its programs, funds, and other entities and bodies, as well as its specialized agencies and related organizations, by employees, grantees, and contractors thereof.
+
+Sec. 10. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
 
 <a id="section-9529"></a>
 ## § 9529. Sanctions with respect to investment in or facilitation of privatization of State-owned assets by the Russian Federation
@@ -911,14 +966,14 @@ It is the sense of Congress that—
 
   (A) the Sergei Magnitsky Rule of Law Accountability Act of 2012 (title IV of Public Law 112–208; [22 U.S.C. 5811](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5811) note); and
 
-  (B) the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; [22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note).
+  (B) the Global Magnitsky Human Rights Accountability Act (subtitle F of title XII of Public Law 114–328; [22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
 The Sergei Magnitsky Rule of Law Accountability Act of 2012, referred to in par. (10)(A), is title IV of Pub. L. 112–208, Dec. 14, 2012, 126 Stat. 1502, which is set out as a note under [section 5811 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5811).
 
-The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B), is subtitle F (§§ 1261–1265) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is set out as a note under [section 2656 of this title](./chapter-038-department-of-state.md#section-2656).
+The Global Magnitsky Human Rights Accountability Act, referred to in par. (10)(B), is subtitle F (§§ 1261–1264) of title XII of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2533, which is classified generally to chapter 108 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10101 of this title](./chapter-108-global-magnitsky-human-rights-accountability.md#section-10101) and Tables.
 
 
 <a id="section-9543"></a>
@@ -1293,6 +1348,17 @@ The BUILD Act, referred to in subsec. (e), probably means the BUILD Act of 2018,
 Section was enacted as part of the European Energy Security and Diversification Act of 2019, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Countering Russian Influence in Europe and Eurasia Act of 2017 which comprises this chapter.
 
 Section is comprised of section 2004 of Pub. L. 116–94. Subsec. (d) of section 2004 of Pub. L. 116–94 amended sections 2421 and 9543 of this title.
+
+#### Delegation of Authority Under the European Energy Security and Diversification Act of 2019
+Memorandum of President of the United States, June 8, 2022, 87 F.R. 35853, provided:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Secretary of State the functions and authorities vested in the President by section 2004(e)(1)(C) of the European Energy Security and Diversification Act of 2019 ([22 U.S.C. 9563(e)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9563/e/1/C&num=0&edition=prelim)) (the “Act”). The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum. Any reference in this memorandum to the Act shall be deemed to be a reference to such Act as amended from time to time.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
 
 
 <a id="section-9564"></a>

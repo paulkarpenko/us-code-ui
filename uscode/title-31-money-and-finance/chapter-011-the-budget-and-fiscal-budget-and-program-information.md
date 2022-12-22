@@ -666,7 +666,7 @@ Pub. L. 107–296, title VIII, § 889(c), Nov. 25, 2002, 116 Stat. 2251, provide
 Amendment by Pub. L. 106–58 effective at noon on Jan. 20, 2001, see section 638(h) of Pub. L. 106–58, set out as a note under [section 503 of this title](./chapter-005-office-of-management-and-budget.md#section-503).
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Effective and Termination Dates of 1988 Amendments
 Amendment by Pub. L. 100–690 effective Jan. 21, 1989, and repealed Sept. 30, 1997, see sections 1012 and 1009, respectively, of Pub. L. 100–690.
@@ -1183,7 +1183,7 @@ Pub. L. 103–356, title III, § 301, Oct. 13, 1994, 108 Stat. 3412, provided th
 Section, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 916, related to budget information on consulting services.
 
 #### Effective Date of Repeal
-For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of repeal, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-1115"></a>

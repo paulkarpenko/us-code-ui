@@ -29,7 +29,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, as amended, known as the Coastal Barrier Resources Act, which is classified generally to this chapter (§ 3501 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 97–348, Oct. 18, 1982, 96 Stat. 1653, known as the Coastal Barrier Resources Act, which is classified generally to this chapter (§ 3501 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 1999—Subsec. (b). Pub. L. 106–167 substituted “the John H. Chafee Coastal Barrier Resources System” for “a Coastal Barrier Resources System”.
@@ -400,11 +400,11 @@ Subsec. (b)(2). Pub. L. 101–591, § 2(b)(2)(C), struck out “of enactment” 
 ### Statutory Notes
 
 #### References in Text
-The Coastal Zone Management Act of 1972, referred to in subsec. (a)(6)(C), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (a)(6)(C), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
 
 Section 1362 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4103&num=0&edition=prelim)), referred to in subsec. (a)(6)(E), was repealed by Pub. L. 103–325, title V, § 551(a), Sept. 23, 1994, 108 Stat. 2269.
 
-The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (a)(6)(C). Pub. L. 113–287, which directed the substitution of “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–4 through 11)” in section 6(a)(6)(C) of the Coastal Barrier Act of 1968, was executed by making the substitution for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 4601–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4601–4&num=0&edition=prelim) through 11)” in this section, which is section 6 of the Coastal Barrier Resources Act, to reflect the probable intent of Congress.

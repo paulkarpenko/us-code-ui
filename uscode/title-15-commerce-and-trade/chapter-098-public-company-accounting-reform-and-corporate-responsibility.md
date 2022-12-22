@@ -189,7 +189,7 @@ Pub. L. 107–204, title VII, § 701, July 30, 2002, 116 Stat. 797, directed the
 #### References in Text
 This Act, referred to in text, is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (b)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 #### Codification
 Section is comprised of section 3 of Pub. L. 107–204. Subsec. (b)(2)–(4) of section 3 of Pub. L. 107–204 amended sections 78l, 78u, and 78u–3 of this title.
@@ -282,10 +282,10 @@ Section is comprised of section 3 of Pub. L. 107–204. Subsec. (b)(2)–(4) of 
 #### References in Text
 This Act, referred to in subsecs. (b), (c)(5), (6), (f), and (g)(1), (4), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–203, § 982(b)(2), substituted “companies that” for “public companies that” and struck out “for companies the securities of which are sold to, and held by and for, public investors” after “independent audit reports”.
@@ -934,7 +934,7 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 This Act and the Sarbanes-Oxley Act of 2002, referred to in text, are Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table ofLaws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 2010—Subsec. (d)(3). Pub. L. 111–203 substituted “any person who is, or at the time of the alleged misconduct was, a member” for “any member” in introductory provisions.

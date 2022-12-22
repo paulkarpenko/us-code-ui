@@ -162,7 +162,7 @@ For purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-SARA, referred to in the heading of subsec. (c), means the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, as amended. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
+SARA, referred to in the heading of subsec. (c), means the Superfund Amendments and Reauthorization Act of 1986, Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
 
 
 <a id="section-13107"></a>

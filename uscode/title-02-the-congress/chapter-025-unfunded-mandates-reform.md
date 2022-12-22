@@ -140,7 +140,7 @@ This chapter shall not apply to any provision in a bill, joint resolution, amend
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–4, Mar. 22, 1995, 109 Stat. 48, known as the Unfunded Mandates Reform Act of 1995. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-025-unfunded-mandates-reform.md#section-1501) and Tables.
 
-The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in par. (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1514"></a>
@@ -169,7 +169,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ### Statutory Notes
 
 #### References in Text
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Part B of title IV of the Act is classified generally to part B (§ 658 et seq.) of subchapter II of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621) and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (c), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Part B of title IV of the Act is classified generally to part B (§ 658 et seq.) of subchapter II of chapter 17A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of this title](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-621) and Tables.
 
 #### Effective Date
 Pub. L. 104–4, title I, § 110, Mar. 22, 1995, 109 Stat. 64, provided that: “This title [enacting this subchapter and sections 658 to 658g of this title and amending sections 602, 632, and 653 of this title] shall take effect on January 1, 1996 or on the date 90 days after appropriations are made available as authorized under section 109 [[2 U.S.C. 1516](./chapter-025-unfunded-mandates-reform.md#section-1516)], whichever is earlier and shall apply to legislation considered on and after such date.”
@@ -338,7 +338,7 @@ For provisions stating regulatory philosophy and principles and setting forth re
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Delegation of Authority To Issue Guidelines and Instructions
 Memorandum of President of the United States, Aug. 25, 1995, 60 F.R. 45039, provided:

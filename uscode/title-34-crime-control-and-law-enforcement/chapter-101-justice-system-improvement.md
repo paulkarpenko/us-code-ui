@@ -2,7 +2,7 @@
 title: 34
 chapter: '101'
 heading: JUSTICE SYSTEM IMPROVEMENT
-section_count: 234
+section_count: 239
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -26,6 +26,27 @@ Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 
 #### Effective Date
 Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that: “(a) Except as provided in subsection (b), this division and the amendments made by this title [probably means division, see Short Title of 1984 Act note below] shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever is later. “(b)(1) The amendment made by section 609F [amending sections 10281, 10282, 10284, and 10285 of this title] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984. “(2) Section 609Z [repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] shall take effect on October 1, 1984.”
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–262, § 1, Dec. 21, 2022, 136 Stat. 2394, provided that: “This Act [amending [section 21117 of this title](./chapter-211-combating-child-exploitation.md#section-21117)] may be cited as the ‘Providing Resources, Officers, and Technology to Eradicate Cyber Threats to Our Children Act of 2022’ or the ‘PROTECT Our Children Act of 2022’.”
+
+Pub. L. 117–250, § 1, Dec. 20, 2022, 136 Stat. 2352, provided that: “This Act [amending [section 10701 of this title](./chapter-101-justice-system-improvement.md#section-10701)] may be cited as the ‘Rural Opioid Abuse Prevention Act’.”
+
+Pub. L. 117–172, § 1, Aug. 16, 2022, 136 Stat. 2098, provided that: “This Act [amending sections 10225, 10281, and 10284 of this title and enacting provisions set out as notes under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] may be cited as the ‘Public Safety Officer Support Act of 2022’.”
+
+Pub. L. 117–170, § 1, Aug. 16, 2022, 136 Stat. 2091, provided that: “This Act [enacting [section 10653 of this title](./chapter-101-justice-system-improvement.md#section-10653), amending [section 10651 of this title](./chapter-101-justice-system-improvement.md#section-10651), and enacting provisions set out as a note under [section 10653 of this title](./chapter-101-justice-system-improvement.md#section-10653)] may be cited as the ‘Traumatic Brain Injury and Post-Traumatic Stress Disorder Law Enforcement Training Act’ or the ‘TBI and PTSD Law Enforcement Training Act’.”
+
+Pub. L. 117–164, § 1, Aug. 3, 2022, 136 Stat. 1358, provided that: “This Act [enacting chapter 609 of this title] may be cited as the ‘Homicide Victims’ Families’ Rights Act of 2021’.”
+
+Pub. L. 117–103, div. W, § 1, Mar. 15, 2022, 136 Stat. 840, provided that: “This Act [div. W of Pub. L. 117–103, see Tables for classification] may be cited as the ‘Violence Against Women Act Reauthorization Act of 2022’.”
+
+Pub. L. 117–103, div. W, title II, § 205(a), Mar. 15, 2022, 136 Stat. 858, provided that: “This section [enacting part O (§ 12513) of subchapter III of chapter 121 of this title] may be cited as the ‘Abby Honold Act’.”
+
+Pub. L. 117–103, div. W, title XIII, § 1316(a), Mar. 15, 2022, 136 Stat. 939, provided that: “This section [amending [section 20102 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20102)] may be cited as the ‘Fairness for Rape Kit Backlog Survivors Act of 2022’.”
+
+Pub. L. 117–103, div. W, title XIII, § 1318(a), Mar. 15, 2022, 136 Stat. 940, provided that: “This section [amending [section 40723 of this title](./chapter-407-dna-identification.md#section-40723)] may be cited as the ‘Supporting Access to Nurse Exams Act’ or the ‘SANE Act’.”
+
+Pub. L. 117–103, div. W, title XV, § 1501, Mar. 15, 2022, 136 Stat. 951, provided that: “This title [enacting [section 10462a of this title](./chapter-101-justice-system-improvement.md#section-10462a) and section 1161l–6 of Title 20, Education, amending sections 10446 and 10463 to 10465 of this title and [section 3772 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3772&num=0&edition=prelim), Crimes and Criminal Procedure, and enacting provisions set out as notes under [section 10446 of this title](./chapter-101-justice-system-improvement.md#section-10446)] may be cited as the ‘Keeping Children Safe From Family Violence Act’ or ‘Kayden’s Law’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 117–61, § 1, Nov. 18, 2021, 135 Stat. 1474, provided that: “This Act [amending sections 10225, 10281, 10284, 10285, 10288, and 10306 of this title, and enacting and amending provisions set out as notes under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] may be cited as the ‘Protecting America’s First Responders Act of 2021’.”
@@ -251,9 +272,9 @@ Pub. L. 106–71, § 1, Oct. 12, 1999, 113 Stat. 1032, provided that: “This Ac
 #### Short Title of 1998 Act
 Pub. L. 105–390, § 1, Nov. 13, 1998, 112 Stat. 3495, provided that: “This Act [amending sections 10301, 10302, 10304, 10306, and 10307 of this title] may be cited as the ‘Police, Fire, and Emergency Officers Educational Assistance Act of 1998’.”
 
-Pub. L. 105–251, title I, § 101, Oct. 9, 1998, 112 Stat. 1871, provided that: “This title [enacting [section 40301 of this title](./chapter-403-criminal-justice-identification-information-and-communication.md#section-40301)] may be cited as the ‘Crime Identification Technology Act of 1998’.”
+Pub. L. 105–251, title I, § 101, Oct. 9, 1998, 112 Stat. 1871, provided that: “This title [enacting subchapter I of chapter 403 of this title] may be cited as the ‘Crime Identification Technology Act of 1998’.”
 
-Pub. L. 105–251, title II, § 201, Oct. 9, 1998, 112 Stat. 1874, provided that: “This title [enacting subchapter II of chapter 403 of this title, amending sections 40102 and 40103 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘National Criminal History Access and Child Protection Act’.”
+Pub. L. 105–251, title II, § 201, Oct. 9, 1998, 112 Stat. 1874, provided that: “This title [enacting subchapter II of chapter 403 of this title, amending sections 40102 and 40103 of this title, and enacting provisions set out as notes under this section] may be cited as the ‘National Criminal History Access and Child Protection Act’.”
 
 Pub. L. 105–251, title II, § 211, Oct. 9, 1998, 112 Stat. 1874, provided that: “This subtitle [subtitle A (§§ 211–217) of title II of Pub. L. 105–251, enacting subchapter II of chapter 403 of this title] may be cited as the ‘National Crime Prevention and Privacy Compact Act of 1998’.”
 
@@ -264,7 +285,7 @@ Pub. L. 105–181, § 1, June 16, 1998, 112 Stat. 512, provided that: “This Ac
 Pub. L. 105–180, § 1, June 16, 1998, 112 Stat. 511, provided that: “This Act [amending sections 10283 and 10285 of this title] may be cited as the ‘Care for Police Survivors Act of 1998’.”
 
 #### Short Title of 1996 Act
-Pub. L. 104–238, § 1, Oct. 3, 1996, 110 Stat. 3114, provided that: “This Act [enacting part B of subchapter XI of this chapter] may be cited as the ‘Federal Law Enforcement Dependents Assistance Act of 1996’.”
+Pub. L. 104–238, § 1, Oct. 3, 1996, 110 Stat. 3114, provided that: “This Act [enacting part B (§ 10301 et seq.) of subchapter XI of this chapter] may be cited as the ‘Federal Law Enforcement Dependents Assistance Act of 1996’.”
 
 Pub. L. 104–132, title II, § 231, Apr. 24, 1996, 110 Stat. 1243, provided that: “This subtitle [subtitle C (§§ 231–236) of title II of Pub. L. 104–132, enacting sections 20105 and 20142 of this title, amending this section and sections 20102 and 20103 of this title, and enacting provisions set out as notes under [section 20102 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20102)] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
 
@@ -755,6 +776,39 @@ Section was enacted as part of the Violence Against Women and Department of Just
 Section was formerly classified to [section 3715a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3715a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 
+<a id="section-10112"></a>
+## § 10112. Senior Policy Advisor on Culturally Specific Communities within the Office of Justice Programs
+**(a) Establishment; duties** There shall be a Senior Policy Advisor on Culturally Specific Communities within the Office of Justice Programs who shall, under the guidance and authority of the Assistant Attorney General of the Office of Justice Programs—
+
+(1) advise on the administration of grants related to culturally specific (as defined in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim)) services and contracts with culturally specific organizations;
+
+(2) coordinate development of Federal policy, protocols, and guidelines on matters relating to domestic violence, dating violence, sexual assault, and stalking (as those terms are defined in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim)), in culturally specific communities;
+
+(3) advise the Assistant Attorney General for the Office of Justice Programs concerning policies, legislation, implementation of laws, and other issues relating to domestic violence, dating violence, sexual assault, and stalking in culturally specific communities;
+
+(4) provide technical assistance, coordination, and support to other offices and bureaus in the Department of Justice to develop policy and to enforce Federal laws relating to domestic violence, dating violence, sexual assault, and stalking in culturally specific communities;
+
+(5) ensure that appropriate technical assistance, developed and provided by entities having expertise in culturally specific communities, is made available to grantees and potential grantees proposing to serve culturally specific communities; and
+
+(6) ensure access to grants and technical assistance for culturally specific organizations and analyze the distribution of funding in order to identify barriers for culturally specific organizations.
+
+**(b) Qualifications** The Senior Policy Advisor on Culturally Specific Communities shall be an individual with—
+
+(1) personal, lived, and work experience from a culturally specific community; and
+
+(2) a demonstrated history of and expertise in addressing domestic violence or sexual assault in a nongovernmental agency.
+
+**(c) Initial appointment** Not later than 120 days after March 15, 2022, the Assistant Attorney General of the Office of Justice Programs shall appoint an individual as Senior Policy Advisor on Culturally Specific Communities.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Violence Against Women Act Reauthorization Act of 2022, and also as part of the Consolidated Appropriations Act, 2022, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+
 <a id="section-10121"></a>
 ## § 10121. Statement of purpose
 
@@ -1232,7 +1286,7 @@ Pub. L. 109–162, title XI, § 1111(d), Jan. 5, 2006, 119 Stat. 3102, provided 
 ## § 10152. Description
 **(a) Grants authorized**
 
-(1) **In general** — From amounts made available to carry out this part, the Attorney General may, in accordance with the formula established under [section 10156 of this title](./chapter-101-justice-system-improvement.md#section-10156), make grants to States and units of local government, for use by the State or unit of local government to provide additional personnel, equipment, supplies, contractual support, training, technical assistance, and information systems for criminal justice, including for any one or more of the following programs:
+(1) **In general** — From amounts made available to carry out this part, the Attorney General may, in accordance with the formula established under [section 10156 of this title](./chapter-101-justice-system-improvement.md#section-10156), make grants to States and units of local government, for use by the State or unit of local government to provide additional personnel, equipment, supplies, contractual support, training, technical assistance, and information systems for criminal justice or civil proceedings, including for any one or more of the following programs:
 
   (A) Law enforcement programs.
 
@@ -1249,6 +1303,24 @@ Pub. L. 109–162, title XI, § 1111(d), Jan. 5, 2006, 119 Stat. 3102, provided 
   (G) Crime victim and witness programs (other than compensation).
 
   (H) Mental health programs and related law enforcement and corrections programs, including behavioral programs and crisis intervention teams.
+
+  (I) Implementation of State crisis intervention court proceedings and related programs or initiatives, including but not limited to—
+
+    (i) mental health courts;
+
+    (ii) drug courts;
+
+    (iii) veterans courts; and
+
+    (iv) extreme risk protection order programs, which must include, at a minimum—
+
+      (I) pre-deprivation and post-deprivation due process rights that prevent any violation or infringement of the Constitution of the United States, including but not limited to the Bill of Rights, and the substantive or procedural due process rights guaranteed under the Fifth and Fourteenth Amendments to the Constitution of the United States, as applied to the States, and as interpreted by State courts and United States courts (including the Supreme Court of the United States). Such programs must include, at the appropriate phase to prevent any violation of constitutional rights, at minimum, notice, the right to an in-person hearing, an unbiased adjudicator, the right to know opposing evidence, the right to present evidence, and the right to confront adverse witnesses;
+
+      (II) the right to be represented by counsel at no expense to the government;
+
+      (III) pre-deprivation and post-deprivation heightened evidentiary standards and proof which mean not less than the protections afforded to a similarly situated litigant in Federal court or promulgated by the State’s evidentiary body, and sufficient to ensure the full protections of the Constitution of the United States, including but not limited to the Bill of Rights, and the substantive and procedural due process rights guaranteed under the Fifth and Fourteenth Amendments to the Constitution of the United States, as applied to the States, and as interpreted by State courts and United States courts (including the Supreme Court of the United States). The heightened evidentiary standards and proof under such programs must, at all appropriate phases to prevent any violation of any constitutional right, at minimum, prevent reliance upon evidence that is unsworn or unaffirmed, irrelevant, based on inadmissible hearsay, unreliable, vague, speculative, and lacking a foundation; and
+
+      (IV) penalties for abuse of the program.
 
 (2) **Rule of construction** — Paragraph (1) shall be construed to ensure that a grant under that paragraph may be used for any purpose for which a grant was authorized to be used under either or both of the programs specified in [section 10151(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10151/b&num=0&edition=prelim), as those programs were in effect immediately before January 5, 2006.
 
@@ -1286,6 +1358,16 @@ Pub. L. 109–162, title XI, § 1111(d), Jan. 5, 2006, 119 Stat. 3102, provided 
 
 **(g) Rule of construction** Subparagraph (d)(1) shall not be construed to prohibit the use, directly or indirectly, of funds provided under this part to provide security at a public event, such as a political convention or major sports event, so long as such security is provided under applicable laws and procedures.
 
+**(h) Annual report on crisis intervention programs** The Attorney General shall publish an annual report with respect to grants awarded for crisis intervention programs or initiatives under subsection (a)(1)(I) that contains—
+
+(1) a description of the grants awarded and the crisis intervention programs or initiatives funded by the grants, broken down by grant recipient;
+
+(2) an evaluation of the effectiveness of the crisis intervention programs or initiatives in preventing violence and suicide;
+
+(3) measures that have been taken by each grant recipient to safeguard the constitutional rights of an individual subject to a crisis intervention program or initiative; and
+
+(4) efforts that the Attorney General is making, in coordination with the grant recipients, to protect the constitutional rights of individuals subject to the crisis intervention programs or initiatives.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1304,6 +1386,12 @@ Another prior section 501 of title I of Pub. L. 90–351, as added Pub. L. 96–
 Another prior section 501 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 205; Pub. L. 93–83, § 2, Aug. 6, 1973, 87 Stat. 211; Pub. L. 94–503, title I, § 120, Oct. 15, 1976, 90 Stat. 2418, related to administrative rules, regulations, and procedures, prior to the general amendment of title I of Pub. L. 90–351 by Pub. L. 96–157.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–159, § 12003(a)(1), inserted “or civil proceedings” after “criminal justice” in introductory provisions.
+
+Subsec. (a)(1)(I). Pub. L. 117–159, § 12003(a)(2), added subpar. (I).
+
+Subsec. (h). Pub. L. 117–159, § 12003(b), added subsec. (h).
+
 2016—Subsec. (a)(1)(H). Pub. L. 114–255 added subpar. (H).
 
 2006—Subsec. (b)(3). Pub. L. 109–271 struck out par. (3) which read as follows: “tribal governments.”
@@ -2142,7 +2230,7 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 <a id="section-10225"></a>
 ## § 10225. Subpoena power; employment of hearing officers; authority to hold hearings
 
-The Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated by the Attorney General, be understood to be comprised within the meaning of “special government employee” under [section 202 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202&num=0&edition=prelim)) such hearing examiners or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to [section 3344 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3344&num=0&edition=prelim), as shall be necessary to carry out their respective powers and duties or other law. The Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof or any hearing examiner or administrative law judge assigned to or employed thereby shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, conduct examinations and receive evidence at any place in the United States they respectively may designate.
+The Assistant Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated, be understood to be comprised within the meaning of “special government employee” under [section 202 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202&num=0&edition=prelim) (without regard to the days limitation prescribed therein), but shall, in no event, be understood to be (or to have the authority of) officers of the United States) or administrative law judges or request the use of such administrative law judges selected by the Office of Personnel Management pursuant to [section 3344 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3344&num=0&edition=prelim), as shall be necessary or convenient to assist them in carrying out their respective powers and duties under any law administered by or under the Office. The Assistant Attorney General, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics or upon authorization, any member thereof, or (subject to such limitations as the appointing authority may, in its sole discretion, impose from time to time) any hearing examiner or administrative law judge assigned to or employed thereby, shall have the power to hold hearings and issue subpoenas, administer oaths, examine witnesses, conduct examinations, and receive evidence at any place in the United States they respectively may designate.
 
 ### Statutory Notes
 
@@ -2155,6 +2243,12 @@ A prior section 806 of Pub. L. 90–351 was classified to [section 3786 of Title
 Provisions similar to this section were contained in part in [section 3788 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3788&num=0&edition=prelim), The Public Health and Welfare, prior to repeal of such section by section 609B(e) of Pub. L. 98–473.
 
 #### Amendments
+2022—Pub. L. 117–172, § 4(a)(2), in second sentence, substituted “The Assistant Attorney General, the Bureau of Justice Assistance” for “The Attorney General, the Bureau of Justice Assistance” and “, or (subject to such limitations as the appointing authority may, in its sole discretion, impose from time to time) any” for “or any” and inserted comma after “thereby” and after “examinations”.
+
+Pub. L. 117–172, § 4(a)(1)(E), which directed amendment of first sentence by substituting “necessary or convenient to assist them in carrying out their respective powers and duties under any law administered by or under the Office” for “necessary to carry out their respective powers and duties under this chapter”, was executed by making the substitution for “necessary to carry out their respective powers and duties or other law”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–61. See 2021 Amendment note below.
+
+Pub. L. 117–172, § 4(a)(1)(A)–(D), in first sentence, substituted “The Assistant Attorney General, the Bureau of Justice Assistance” for “The Attorney General, the Bureau of Justice Assistance”, “title 18 (without regard to the days limitation prescribed therein), but shall, in no event, be understood to be (or to have the authority of) officers of the United States)” for “title 18)”, and “or administrative law judges” for “such hearing examiners or administrative law judges” and struck out “by the Attorney General” after “if so designated”.
+
 2021—Pub. L. 117–61 inserted “Attorney General, the” before “Bureau of Justice Assistance” and “conduct examinations” after “examine witnesses,” and substituted “may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated by the Attorney General, be understood to be comprised within the meaning of ‘special government employee’ under [section 202 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202&num=0&edition=prelim))” for “may appoint” and “or other law. The Attorney General, the” for “under this chapter. The”.
 
 #### Effective Date of 2021 Amendment
@@ -2750,9 +2844,9 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
   (E) $72,000,000 for fiscal year 2000.
 
-(18) There is authorized to be appropriated to carry out subchapter XIX $222,000,000 for each of fiscal years 2014 through 2018.
+(18) There is authorized to be appropriated to carry out subchapter XIX $222,000,000 for each of fiscal years 2023 through 2027.
 
-(19) There is authorized to be appropriated to carry out subchapter XX $73,000,000 for each of fiscal years 2014 through 2018. Funds appropriated under this paragraph shall remain available until expended.
+(19) There is authorized to be appropriated to carry out subchapter XX $73,000,000 for each of fiscal years 2023 through 2027. Funds appropriated under this paragraph shall remain available until expended.
 
 (20) There are authorized to be appropriated to carry out part V,1 $10,000,000 for each of fiscal years 2001 through 2004.
 
@@ -2827,6 +2921,10 @@ Section was formerly classified to [section 3793 of Title 42](https://uscode.hou
 Another section 1001 of Pub. L. 90–351 enacted [section 7313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7313&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (a)(18). Pub. L. 117–103, § 101(b), substituted “2023 through 2027” for “2014 through 2018”.
+
+Subsec. (a)(19). Pub. L. 117–103, § 102(c), substituted “2023 through 2027” for “2014 through 2018”.
+
 2019—Subsec. (a)(21). Pub. L. 116–32 amended par. (21) generally. Prior to amendment, par. (21) authorized appropriations for fiscal years 1996 to 2000 to carry out subchapter XXII.
 
 Subsec. (a)(23). Pub. L. 116–18 substituted “subchapter XXIV, $30,000,000 for fiscal year 2020, and each fiscal year thereafter.” for “subchapter XXIV, $25,000,000 for each of fiscal years 2016 through 2020.”
@@ -3048,6 +3146,9 @@ Subsec. (a)(6), (7). Pub. L. 99–570, § 1552(c)(1)(B), (C), added par. (6) and
 Subsec. (b). Pub. L. 99–570, § 1552(c)(2), inserted reference to subchapter XII–A of this chapter.
 
 1984—Pub. L. 98–473, in amending section generally, designated existing provisions as subsec. (a), substituted appropriations authorization of necessary sums for fiscal years 1984 through 1988 for authorizations for fiscal years ending Sept. 30, 1980, through 1983, struck out provisions authorizing appropriations for subchapter VIII and for carrying out remaining functions of the Law Enforcement Assistance Administration, and added subsec. (b).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
@@ -3292,6 +3393,60 @@ unless competent medical evidence establishes that the heart attack, stroke, or 
 
 **(n) Confidentiality** The public safety agency, organization, or unit responsible for maintaining on file an executed designation of beneficiary or executed life insurance policy for purposes of subsection (a)(4) shall maintain the confidentiality of the designation or policy in the same manner as the agency, organization, or unit maintains personnel or other similar records of the public safety officer.
 
+**(o) Post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders**
+
+(1) **Definitions** — In this section:
+
+  (A) *Mass casualty event* — The term “mass casualty event” means an incident resulting in casualties to not fewer than 3 victims, including—
+
+    (i) an incident that exceeds the normal resources for emergency response available in the jurisdiction where the incident takes place; and
+
+    (ii) an incident that results in a sudden and timely surge of injured individuals necessitating emergency services.
+
+  (B) *Mass fatality event* — The term “mass fatality event” means an incident resulting in the fatalities of not fewer than 3 individuals at 1 or more locations close to one another with a common cause.
+
+  (C) *Mass shooting* — The term “mass shooting” means a multiple homicide incident in which not fewer than 3 victims are killed—
+
+    (i) with a firearm;
+
+    (ii) during one event; and
+
+    (iii) in one or more locations in close proximity.
+
+  (D) *Exposed* — The term “exposed” includes—
+
+    (i) directly experiencing or witnessing an event; or
+
+    (ii) being subjected, in an intense way, to aversive consequences of the event (including a public safety officer collecting human remains).
+
+  (E) *Traumatic event* — The term “traumatic event” means, in the case of a public safety officer exposed to an event, an event that is—
+
+    (i) a homicide, suicide, or the violent or gruesome death of another individual (including such a death resulting from a mass casualty event, mass fatality event, or mass shooting);
+
+    (ii) a harrowing circumstance posing an extraordinary and significant danger or threat to the life of or of serious bodily harm to any individual (including such a circumstance as a mass casualty event, mass fatality event, or mass shooting); or
+
+    (iii) an act of criminal sexual violence committed against any individual.
+
+(2) **Personal injury sustained in line of duty** — As determined by the Bureau—
+
+  (A) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders suffered by a public safety officer and diagnosed by a licensed medical or mental health professional, shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer, if the officer was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder;
+
+  (B) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who has contacted or attempted to contact the employee assistance program of the agency or entity that the officer serves, a licensed medical or mental health professional, suicide prevention services, or another mental health assistance service in order to receive help, treatment, or diagnosis for post-traumatic stress disorder or acute stress disorder, shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer, if the officer, was exposed, while on duty, to one or more traumatic events and such exposure was a substantial factor in the disorder; and
+
+  (C) post-traumatic stress disorder, acute stress disorder, or trauma and stress related disorders, suffered by a public safety officer who was exposed, while on duty, to one or more traumatic events shall be presumed to constitute a personal injury within the meaning of subsection (a), sustained in the line of duty by the officer if such exposure was a substantial factor in the disorder.
+
+(3) **Presumption of death or total disability** — A public safety officer shall be presumed to have died or become permanently and totally disabled (within the meaning of subsection (a) or (b)) as the direct and proximate result of a personal injury sustained in the line of duty, if (as determined by the Bureau) the officer either—
+
+  (A) took an action, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability and exposure, while on duty, to one or more traumatic events was a substantial factor in the action taken by the officer; or
+
+  (B) took an action within 45 days of the end of exposure, while on duty, to a traumatic event, which action was intended to bring about the officer’s death and directly and proximately resulted in such officer’s death or permanent and total disability, if such action was not inconsistent with a psychiatric disorder.
+
+(4) **Applicability of limitations on benefits**
+
+  (A) *Intentional actions* — [Section 10282(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10282/a/1&num=0&edition=prelim) shall not apply to any claim for a benefit under this part that is payable in accordance with this subsection.
+
+  (B) *Substance use* — [Section 10282(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10282/a/2&num=0&edition=prelim) shall not preclude the payment of a benefit under this part if the benefit is otherwise payable in accordance with this subsection.
+
 ### Statutory Notes
 
 #### References in Text
@@ -3308,6 +3463,8 @@ A prior section 1201 of title I of Pub. L. 90–351, as added Pub. L. 96–157, 
 Another prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, § 104(b), May 19, 1986, 100 Stat. 459.
 
 #### Amendments
+2022—Subsec. (o). Pub. L. 117–172 added subsec. (o).
+
 2021—Subsec. (a). Pub. L. 117–61, § 2(1), in introductory provisions, struck out “the Bureau shall pay” before “a benefit of $250,000,” and inserted “, and calculated in accordance with subsection (i), shall be payable by the Bureau” after “ subsection (h)”.
 
 Subsec. (b). Pub. L. 117–61, § 2(2), substituted “a benefit shall be payable” for “the Bureau shall pay the same benefit”, “in the same amount that would be payable, as of the date such injury was sustained (including” for “that is payable under subsection (a) with respect to the date on which the catastrophic injury occurred,”, and “necessary.” for “necessary: Provided further, That the amount payable under this subsection shall be the amount payable as of the date of catastrophic injury of such public safety officer.” and inserted “, and calculated in accordance with subsection (i)), if such determination were a determination under subsection (a)” before “: Provided, That”.
@@ -3368,6 +3525,9 @@ Subsec. (a)(4). Pub. L. 100–690, § 6105(c), struck out “dependent” before
 
 Subsecs. (g), (h). Pub. L. 100–690, § 6105(b), added subsecs. (g) and (h).
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–172, § 3(b), Aug. 16, 2022, 136 Stat. 2099, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall—“(A) take effect on the date of enactment of this Act [Aug. 16, 2022]; and “(B) apply to any matter pending, before the Bureau of Justice Assistance or otherwise, on the date of enactment of this Act, or filed (consistent with pre-existing effective dates) or accruing after that date. “(2) Exceptions.—The amendments made by this section shall apply to any action taken by a public safety officer described in paragraph (3) of section 1201(o) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 [[34 U.S.C. 10281](./chapter-101-justice-system-improvement.md#section-10281)(o)(3)] (as added by this Act) that occurred on or after January 1, 2019.”
+
 #### Effective Date of 2021 Amendment
 Pub. L. 117–61, § 8, Nov. 18, 2021, 135 Stat. 1479, provided that: “(a) In General.—Except as otherwise provided in this section, the amendments made by this Act [amending this section and sections 10225, 10284, 10285, 10288, and 10306 of this title, and amending provisions set out as a note below] shall take effect on the date of enactment of this Act [Nov. 18, 2021]. “(b) Applicability.—“(1) Certain injuries.—The amendments made to paragraphs (2) and (7) of section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284)) shall apply with respect to injuries occurring on or after January 1, 2008. “(2) Matters pending.—Except as provided in paragraph (1), the amendments made by this Act shall apply to any matter pending, before the Bureau or otherwise, on the date of enactment of this Act, or filed (consistent with pre-existing effective dates) or accruing after that date. “(c) Effective Date for WTC Responders.—“(1) Certain new claims.—Not later than two years after the effective date of this Act, a WTC responder may file a claim, under section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)), that is predicated on a personal injury sustained in the line of duty by such responder as a result of the September 11, 2001, attacks, where—“(A) no claim under such section 1201(b) so predicated has previously been filed; or “(B) a claim under such section 1201(b) so predicated had previously been denied, in a final agency determination, on the basis (in whole or in part) that the claimant was not totally disabled. “(2) Claims for a deceased wtc responder.—Not later than two years after the effective date of this Act, a claim may be filed, constructively under section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)), where a WTC responder who otherwise could have filed a claim pursuant to paragraph (1) has died before such effective date (or dies not later than 365 days after such effective date), or where a WTC responder has filed such a claim but dies while it is pending before the Bureau: Provided, That—“(A) no claim under such section 1201(a) otherwise shall have been filed, or determined, in a final agency determination; and “(B) if it is determined, in a final agency determination, that a claim under such paragraph (1) would have been payable had the WTC responder not died, then the WTC responder shall irrebutably be presumed (solely for purposes of determining to whom benefits otherwise pursuant to such paragraph (1) may be payable under the claim filed constructively under such section 1201(a)) to have died as the direct and proximate result of the injury on which the claim under such paragraph (1) would have been predicated. “(3) Difference in benefit pay.—In the event that a claim under section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)) and predicated on an injury sustained in the line of duty by a WTC responder as a result of the September 11, 2001, attacks was approved, in a final agency determination, before the effective date of this Act, the Bureau shall, upon application filed (not later than three years after such effective date of this Act) by the payee (or payees) indicated in subparagraphs (A) or (B), pay a bonus in the amount of the difference (if any) between the amount that was paid pursuant to such determination and the amount that would have been payable had the amendments made by this Act, other than those indicated in subsection (b)(1), been in effect on the date of such determination—“(A) to the WTC responder, if living on the date the application is determined, in a final agency determination; or “(B) if the WTC responder is not living on the date indicated in subparagraph (A), to the individual (or individuals), if living on such date, to whom benefits would have been payable on such date under section 1201(a) of such title I ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)) had the application been, instead, a claim under such section 1201(a). “(4) Special limited rule of construction.—A claim filed pursuant to paragraph (1) or (2) shall be determined as though the date of catastrophic injury of the public safety officer were the date of enactment of this Act [Nov. 18, 2021], for purposes of determining the amount that may be payable.”
 
@@ -3391,6 +3551,9 @@ Pub. L. 100–690, title VI, § 6105(e), Nov. 18, 1988, 102 Stat. 4341, provided
 
 #### Effective Date
 Subchapter effective Oct. 1, 1984, and inapplicable with respect to injuries sustained before Oct. 1, 1984, see section 609AA(b)(1) of Pub. L. 98–473, set out as a note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
+#### Findings
+Pub. L. 117–172, § 2, Aug. 16, 2022, 136 Stat. 2098, provided that: “Congress finds the following: “(1) Every day, public safety officers, including police officers, firefighters, emergency medical technicians, and others, work to maintain the safety, health, and well-being of the communities they serve. “(2) This means public safety officers are routinely called to respond to stressful and potentially traumatic situations, often putting their own lives in danger. “(3) This work not only puts public safety officers at-risk for experiencing harm, serious injury, and cumulative and acute trauma, but also places them at up to 25.6 times higher risk for developing post-traumatic stress disorder when compared to individuals without such experiences. “(4) Psychological evidence indicates that law enforcement officers experience significant job-related stressors and exposures that may confer increased risk for mental health morbidities (such as post-traumatic stress disorder and suicidal thoughts, ideation, intents, and behaviors) and hastened mortality. “(5) Public safety officers often do not have the resources or support they need, leaving them at higher risk for long-term mental health consequences. “(6) Whereas, although the Department of Defense already considers servicemember suicides to be line-of-duty deaths and provides Federal support to eligible surviving families, the Federal Government does not recognize public safety officer suicides as deaths in the line of duty. “(7) In 2017, the Department of Justice approved 481 claims under the Public Safety Officers’ Benefits Program under subpart 1 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281](./chapter-101-justice-system-improvement.md#section-10281) et seq.), but not one of them for the more than 240 public safety officers who died by suicide that year. “(8) Public safety officers who have died or are disabled as a result of suicide or post-traumatic stress disorder do not qualify for the Public Safety Officers’ Benefits Program, despite the fact that public safety officers are more likely to die by suicide than from any other line-of-duty cause of death.”
 
 #### Safeguarding America’s First Responders
 Pub. L. 116–157, Aug. 14, 2020, 134 Stat. 704, as amended by Pub. L. 117–61, § 9, Nov. 18, 2021, 135 Stat. 1481, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Safeguarding America’s First Responders Act of 2020’. “SEC. 2. SENSE OF CONGRESS; PURPOSE.“(a) Sense of Congress.—It is the sense of Congress that—“(1) an infectious disease pandemic known as COVID–19 exists; “(2) to date, there is much still unknown about COVID–19, but it is known that COVID–19 and related complications may be fatal; “(3) services provided by public safety officers are nonetheless essential during this pandemic; “(4) due to the COVID–19 pandemic and what is currently known about how the disease is spread, public safety officers are uncharacteristically at risk of contracting the disease; and “(5) although the Public Safety Officers’ Benefits program currently covers deaths and permanent and total disabilities resulting from infectious disease sustained by public safety officers in carrying out their duties, the determination of claims involving personal injuries believed to have resulted from COVID–19 or its complications may be uniquely challenging or delayed given the lack of—“(A) definitive testing and medical records at this time; and “(B) a definitive uniform body of medical information about how the disease is spread or its effects. “(b) Purpose.—The purpose of this Act is to establish a carefully drawn framework wherein claims under the Public Safety Officers’ Benefits program, arising under the unique circumstances described in subsection (a), can be processed expeditiously and under fair and clear standards. “SEC. 3. PUBLIC SAFETY OFFICER BENEFITS.“(a) Death Benefits.—As determined by the Bureau of Justice Assistance, unless competent medical evidence establishes that the death of a public safety officer (as defined in section 1204 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10284](./chapter-101-justice-system-improvement.md#section-10284))) was directly and proximately caused by something other than COVID–19, COVID–19 (or complications therefrom) suffered by the public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/a&num=0&edition=prelim)), sustained in the line of duty by the officer and directly and proximately resulting in death, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer; and “(3) evidence indicates that the officer had COVID–19 (or complications therefrom) at the time of the officer’s death. “(b) Disability Benefits.—As determined by the Bureau of Justice Assistance, COVID–19 (or complications therefrom) suffered by a public safety officer shall be presumed to constitute a personal injury within the meaning of section 1201(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10281(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10281/b&num=0&edition=prelim)), sustained in the line of duty by the officer, if—“(1) the officer engaged in a line of duty action or activity during the period beginning on January 1, 2020, and ending on the termination date; and “(2) the officer was diagnosed with COVID–19 (or evidence indicates that the officer had COVID–19) during the 45-day period beginning on the last day of duty of the officer. “(c) Termination Date.—For purposes of this section, the term ‘termination date’ means the earlier of—“(1) the date on which the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) on January 31, 2020, with respect to the Coronavirus Disease (COVID–19), expires; and “(2) December 31, 2023.”
@@ -3568,13 +3731,13 @@ As used in this subchapter—
 
     (ii) engages in rescue activities or provides emergency medical services as part of an official emergency response system;
 
-(11) “neurocognitive disorder” means a disorder that is characterized by a clinically significant decline in cognitive functioning and may include symptoms and signs such as disturbances in memory, executive functioning (that is, higher-level cognitive processes, such as, regulating attention, planning, inhibiting responses, decision-making), visual-spatial functioning, language, speech, perception, insight, judgment, or an insensitivity to social standards; and
+(11) “neurocognitive disorder” means a disorder that is characterized by a clinically significant decline in cognitive functioning and may include symptoms and signs such as disturbances in memory, executive functioning (that is, higher-level cognitive processes, such as, regulating attention, planning, inhibiting responses, decision-making), visual-spatial functioning, language, speech, perception, insight, judgment, or an insensitivity to social standards;
 
 (12) “sedentary work” means work that—
 
   (A) involves lifting articles weighing no more than 10 pounds at a time or occasionally lifting or carrying articles such as docket files, ledgers, or small tools; and
 
-  (B) despite involving sitting on a regular basis, may require walking or standing on an occasional basis.
+  (B) despite involving sitting on a regular basis, may require walking or standing on an occasional basis;
 
 (13) “public agency” means the United States, any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States, or any unit of local government, department, agency, or instrumentality of any of the foregoing, and includes (as may be prescribed by regulation hereunder) a legally organized volunteer fire department that is a nonprofit entity and provides services without regard to any particular relationship (such as a subscription) a member of the public may have with such a department; and
 
@@ -3610,9 +3773,9 @@ As used in this subchapter—
 
     (iii) would have resulted in the payment of full line-of-duty death or disability benefits (as applicable), if any such benefits typically were payable by (or with respect to or on behalf of) such applicable agency or entity, as of the date the action was taken;
 
-  (F) 22 So in original. There are two subpars. designated (F). omitted
+  (F) omitted
 
-  (F) an employee or contractor of the Department of Energy who—
+  (G) an employee or contractor of the Department of Energy who—
 
     (i) is—
 
@@ -3642,6 +3805,12 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 1204 of Pub. L. 90–351 was renumbered section 1205 and is classified to [section 10285 of this title](./chapter-101-justice-system-improvement.md#section-10285).
 
 #### Amendments
+2022—Par. (11). Pub. L. 117–172, § 4(b)(1), struck out “and” at end.
+
+Par. (12)(B). Pub. L. 117–172, § 4(b)(2), substituted semicolon for period at end.
+
+Par. (14)(F), (G). Pub. L. 117–172, § 4(b)(3), redesignated subpar. (F) relating to an employee or contractor of the Department of Energy as (G).
+
 2021—Pars. (1) to (3). Pub. L. 117–61, § 3(8), added pars. (1) to (3). Former pars. (1) to (3) redesignated (4) to (6), respectively.
 
 Par. (4). Pub. L. 117–61, § 3(2), added par. (4) and struck out former par. (4) which read as follows: “ ‘catastrophic injury’ means an injury, the direct and proximate consequences of which permanently prevent an individual from performing any gainful work;”.
@@ -3949,7 +4118,7 @@ Amendment by Pub. L. 112–239 effective Jan. 2, 2013, and applicable to matters
 Section was formerly classified to [section 3796c–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796c–3&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-2021—Subsec. (b). Pub. L. 117–61 substituted “the Bureau—” and pars. (1) and (2) for “the Bureau may not”.
+2021—Subsec. (b). Pub. L. 117–61 substituted “the Bureau—” and pars. (1) and (2) for “the Bureau may not abandon the benefit claim unless the Bureau has utilized the investigative tools available to the Bureau to obtain the necessary information or documentation, including subpoenas.”.
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any matter pending, before the Bureau or otherwise, on Nov. 18, 2021, or filed (consistent with pre-existing effective dates) or accruing after that date, see section 8(a) and (b)(2) of Pub. L. 117–61, set out in a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281).
@@ -3976,6 +4145,9 @@ Section was formerly classified to [section 3796d of Title 42](https://uscode.ho
 
 #### Amendments
 1998—Par. (1). Pub. L. 105–390 substituted “public safety” for “civilian Federal law enforcement”.
+
+#### Short Title
+For short title of Pub. L. 104–238, which enacted this subchapter, as the “Federal Law Enforcement Dependents Assistance Act of 1996”, see section 1 of Pub. L. 104–238, set out as a Short Title of 1996 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
 
 <a id="section-10302"></a>
@@ -5650,11 +5822,11 @@ Section was formerly classified as a note under [section 4352 of Title 18](https
 
 (2) developing, training, or expanding units of law enforcement officers, judges, other court personnel, and prosecutors specifically targeting violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
 
-(3) developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims;
+(3) developing and implementing more effective police, court, and prosecution policies, protocols, orders, and services specifically devoted to preventing, identifying, and responding to violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking, as well as the appropriate treatment of victims, including implementation of the grant conditions in [section 12291(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/b&num=0&edition=prelim);
 
 (4) developing, installing, or expanding data collection and communication systems, including computerized systems, linking police, prosecutors, and courts or for the purpose of identifying, classifying, and tracking arrests, protection orders, violations of protection orders, prosecutions, and convictions for violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
 
-(5) developing, enlarging, or strengthening victim services and legal assistance programs, including sexual assault, domestic violence, dating violence, and stalking programs, developing or improving delivery of victim services to underserved populations, providing specialized domestic violence court advocates in courts where a significant number of protection orders are granted, and increasing reporting and reducing attrition rates for cases involving violent crimes against women, including crimes of domestic violence, dating violence, sexual assault, and stalking;
+(5) developing, enlarging, or strengthening victim services and legal assistance programs, including sexual assault, domestic violence, dating violence, and stalking programs, developing or improving delivery of victim services and legal assistance to underserved populations, providing specialized domestic violence court advocates in courts where a significant number of protection orders are granted, and increasing reporting and reducing attrition rates for cases involving violent crimes against women, including crimes of domestic violence, dating violence, sexual assault, and stalking;
 
 (6) developing, enlarging, or strengthening programs addressing the needs and circumstances of Indian tribes in dealing with violent crimes against women, including the crimes of domestic violence, dating violence, sexual assault, and stalking;
 
@@ -5662,11 +5834,11 @@ Section was formerly classified as a note under [section 4352 of Title 18](https
 
 (8) training of sexual assault forensic medical personnel examiners in the collection and preservation of evidence, analysis, prevention, and providing expert testimony and treatment of trauma related to sexual assault;
 
-(9) developing, enlarging, or strengthening programs to assist law enforcement, prosecutors, courts, and others to address the needs and circumstances of older and disabled women who are victims of domestic violence, dating violence, sexual assault, or stalking, including recognizing, investigating, and prosecuting instances of such violence or assault and targeting outreach and support, counseling, and other victim services to such older and disabled individuals;
+(9) developing, enlarging, or strengthening programs to assist law enforcement, prosecutors, courts, and others to address the needs and circumstances of individuals 50 years of age or over, individuals with disabilities, and Deaf individuals who are victims of domestic violence, dating violence, sexual assault, or stalking, including recognizing, investigating, and prosecuting instances of such violence or assault and targeting outreach and support, counseling, legal assistance, and other victim services to such individuals;
 
 (10) providing assistance to victims of domestic violence and sexual assault in immigration matters;
 
-(11) maintaining core victim services and criminal justice initiatives, while supporting complementary new initiatives and emergency services for victims and their families;
+(11) maintaining core victim services and criminal justice initiatives, while supporting complementary new initiatives and emergency services for victims and their families, including rehabilitative work with offenders;
 
 (12) supporting the placement of special victim assistants (to be known as “Jessica Gonzales Victim Assistants”) in local law enforcement agencies to serve as liaisons between victims of domestic violence, dating violence, sexual assault, and stalking and personnel in local law enforcement agencies in order to improve the enforcement of protection orders. Jessica Gonzales Victim Assistants shall have expertise in domestic violence, dating violence, sexual assault, or stalking and may undertake the following activities—
 
@@ -5697,9 +5869,21 @@ Section was formerly classified as a note under [section 4352 of Title 18](https
 
 (18) identifying and conducting inventories of backlogs of sexual assault evidence collection kits and developing protocols and policies for responding to and addressing such backlogs, including protocols and policies for notifying and involving victims;
 
-(19) developing, enlarging, or strengthening programs and projects to provide services and responses targeting male and female victims of domestic violence, dating violence, sexual assault, or stalking, whose ability to access traditional services and responses is affected by their sexual orientation or gender identity, as defined in [section 249(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section249/c&num=0&edition=prelim); and
+(19) developing, enlarging, or strengthening programs and projects to provide services and responses targeting male and female victims of domestic violence, dating violence, sexual assault, or stalking, whose ability to access traditional services and responses is affected by their sexual orientation or gender identity, as defined in [section 249(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section249/c&num=0&edition=prelim);
 
-(20) developing, enhancing, or strengthening prevention and educational programming to address domestic violence, dating violence, sexual assault, or stalking, with not more than 5 percent of the amount allocated to a State to be used for this purpose.
+(20) developing, enhancing, or strengthening prevention and educational programming to address domestic violence, dating violence, sexual assault, stalking, or female genital mutilation or cutting, with not more than 5 percent of the amount allocated to a State to be used for this purpose;
+
+(21) developing, enhancing, or strengthening programs and projects to improve evidence collection methods for victims of domestic violence, dating violence, sexual assault, or stalking, including through funding for technology that better detects bruising and injuries across skin tones and related training;
+
+(22) developing, enlarging, or strengthening culturally specific victim services programs to provide culturally specific victim services and responses to female genital mutilation or cutting;
+
+(23) providing victim advocates in State or local law enforcement agencies, prosecutors’ offices, and courts to provide supportive services and advocacy to Indian victims of domestic violence, dating violence, sexual assault, and stalking; and
+
+(24) paying any fees charged by any governmental authority for furnishing a victim or the child of a victim with any of the following documents:
+
+  (A) A birth certificate or passport of the individual, as required by law.
+
+  (B) An identification card issued to the individual by a State or Tribe, that shows that the individual is a resident of the State or a member of the Tribe.
 
 **(c) State coalition grants**
 
@@ -5737,7 +5921,7 @@ Section was formerly classified as a note under [section 4352 of Title 18](https
 
   (B) organizations that propose to incorporate and operate a tribal coalition in areas where Indian tribes are located but no tribal coalition exists.
 
-(3) **Use of amounts** — For each of fiscal years 2014 through 2018, of the amounts appropriated to carry out this subsection—
+(3) **Use of amounts** — For each of fiscal years 2023 through 2027, of the amounts appropriated to carry out this subsection—
 
   (A) not more than 10 percent shall be made available to organizations described in paragraph (2)(B), provided that 1 or more organizations determined by the Attorney General to be qualified apply;
 
@@ -5761,6 +5945,20 @@ Section was formerly classified to [section 3796gg of Title 42](https://uscode.h
 A prior section 2001 of Pub. L. 90–351 was renumbered section 2601 and is classified to [section 10541 of this title](./chapter-101-justice-system-improvement.md#section-10541).
 
 #### Amendments
+2022—Subsec. (b)(3). Pub. L. 117–103, § 101(a)(1)(A)(i), inserted “, including implementation of the grant conditions in [section 12291(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/b&num=0&edition=prelim)” before semicolon at end.
+
+Subsec. (b)(5). Pub. L. 117–103, § 101(a)(1)(A)(ii), inserted “and legal assistance” after “improving delivery of victim services”.
+
+Subsec. (b)(9). Pub. L. 117–103, § 101(a)(1)(A)(iii), substituted “individuals 50 years of age or over, individuals with disabilities, and Deaf individuals” for “older and disabled women” and “such individuals” for “such older and disabled individuals” and inserted “legal assistance,” after “counseling,”.
+
+Subsec. (b)(11). Pub. L. 117–103, § 101(a)(1)(A)(iv), inserted “, including rehabilitative work with offenders” before semicolon at end.
+
+Subsec. (b)(20). Pub. L. 117–103, § 101(a)(1)(A)(vi)(I), substituted “stalking, or female genital mutilation or cutting” for “or stalking”.
+
+Subsec. (b)(21) to (24). Pub. L. 117–103, § 101(a)(1)(A)(v), (vi)(II), (vii), added pars. (21) to (24).
+
+Subsec. (d)(3). Pub. L. 117–103, § 101(a)(1)(B), substituted “2023 through 2027” for “2014 through 2018” in introductory provisions.
+
 2013—Subsec. (b). Pub. L. 113–4, § 101(2)(A), substituted “resources” for “equipment” and inserted “for the protection and safety of victims,” after “women,” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 113–4, § 101(2)(B), substituted “domestic violence, dating violence, sexual assault, and stalking, including the appropriate use of nonimmigrant status under subparagraphs (T) and (U) of [section 1101(a)(15) of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim)” for “sexual assault, domestic violence, and dating violence”.
@@ -5833,6 +6031,9 @@ Subsec. (b)(11). Pub. L. 106–386, § 1512(a), added par. (11).
 
 Subsec. (c). Pub. L. 106–386, § 1103(b)(1)(B), added subsec. (c).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
 
@@ -5846,23 +6047,39 @@ Pub. L. 106–386, div. B, title IV, § 1405, Oct. 28, 2000, 114 Stat. 1515, pro
 
 
 <a id="section-10442"></a>
-## § 10442. Establishment of Violence Against Women Office
-**(a) In general** There is hereby established within the Department of Justice, under the general authority of the Attorney General, a Violence Against Women Office (in this subchapter referred to as the “Office”).
+## § 10442. Establishment of Office on Violence Against Women
+**(a) In general** There is hereby established within the Department of Justice, under the general authority of the Attorney General, an Office on Violence Against Women (in this subchapter referred to as the “Office”).
 
-**(b) Separate office** The Office shall be a separate and distinct office within the Department of Justice, headed by a Director, who shall report to the Attorney General and serve as Counsel to the Attorney General on the subject of violence against women, and who shall have final authority over all grants, cooperative agreements, and contracts awarded by the Office.
+**(b) Separate office** The Office shall be a separate and distinct office within the Department of Justice, not subsumed by any other office, headed by a Director, who shall report to the Attorney General and serve as Counsel to the Attorney General on the subject of violence against women, and who shall have final authority over all grants, cooperative agreements, and contracts awarded by the Office.
 
 **(c) Jurisdiction** Under the general authority of the Attorney General, the Office—
 
 (1) shall have sole jurisdiction over all duties and functions described in [section 10444 of this title](./chapter-101-justice-system-improvement.md#section-10444); and
 
-(2) shall be solely responsible for coordination with other departments, agencies, or offices of all activities authorized or undertaken under the Violence Against Women Act of 1994 (title VI of Public 103–322) 11 So in original. Probably should be “(title IV of Public Law 103–322)”. and the Violence Against Women Act of 2000 (Division B of Public Law 106–386).
+(2) shall be solely responsible for coordination with other departments, agencies, or offices of all activities authorized or undertaken under—
+
+  (A) the Violence Against Women Act of 1994 (title IV of Public Law 103–322);
+
+  (B) the Violence Against Women Act of 2000 (division B of Public Law 106–386);
+
+  (C) the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960);
+
+  (D) the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54); and
+
+  (E) the Violence Against Women Act Reauthorization Act of 2022.
 
 ### Statutory Notes
 
 #### References in Text
-The Violence Against Women Act of 1994, referred to in subsec. (c)(2), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+The Violence Against Women Act of 1994, referred to in subsec. (c)(2)(A), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
-The Violence Against Women Act of 2000, referred to in subsec. (c)(2), is div. B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+The Violence Against Women Act of 2000, referred to in subsec. (c)(2)(B), is div. B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+The Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsec. (c)(2)(C), is Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960. For complete classification of this Act to the Code, see section 1 of Pub. L. 109–162, set out as a Short Title of 2006 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+
+The Violence Against Women Reauthorization Act of 2013, referred to in subsec. (c)(2)(D), is Pub. L. 113–4, Mar. 7, 2013, 127 Stat. 54. For complete classification of this Act to the Code, see section 1 of Pub. L. 113–4, set out as a Short Title of 2013 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+
+The Violence Against Women Act Reauthorization Act of 2022, referred to in subsec. (c)(2)(E), is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
 #### Codification
 Section was formerly classified to [section 3796gg–0 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg–0&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -5870,19 +6087,31 @@ Section was formerly classified to [section 3796gg–0 of Title 42](https://usco
 #### Prior Provisions
 A prior section 2002 of Pub. L. 90–351 was renumbered section 2007 and is classified to [section 10446 of this title](./chapter-101-justice-system-improvement.md#section-10446).
 
+#### Amendments
+2022—Pub. L. 117–103, § 901(a)(1), substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
+
+Subsec. (a). Pub. L. 117–103, § 901(a)(2), substituted “an Office on Violence Against Women” for “a Violence Against Women Office”.
+
+Subsec. (b). Pub. L. 117–103, § 901(a)(3), inserted “, not subsumed by any other office” after “within the Department of Justice”.
+
+Subsec. (c)(2). Pub. L. 117–103, § 901(a)(4), substituted “authorized or undertaken under—” and subpars. (A) to (E) for “authorized or undertaken under the Violence Against Women Act of 1994 (title VI of Public 103–322) and the Violence Against Women Act of 2000 (Division B of Public Law 106–386).”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Effective Date
 Pub. L. 107–273, div. A, title IV, § 403, Nov. 2, 2002, 116 Stat. 1791, provided that: “This title [enacting this section and sections 10443 to 10445 of this title and former [section 3796gg–0d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg–0d&num=0&edition=prelim), The Public Health and Welfare, amending sections 10446 to 10450 of this title, and enacting provisions set out as a note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] shall take effect 90 days after this bill becomes law [Nov. 2, 2002].”
 
 
 <a id="section-10443"></a>
-## § 10443. Director of Violence Against Women Office
-**(a) Appointment** The President, by and with the advice and consent of the Senate, shall appoint a Director for the Violence Against Women Office (in this subchapter 11 See References in Text note below. referred to as the “Director”) to be responsible, under the general authority of the Attorney General, for the administration, coordination, and implementation of the programs and activities of the Office.
+## § 10443. Director of Office on Violence Against Women
+**(a) Appointment** The President, by and with the advice and consent of the Senate, shall appoint a Director for the Office on Violence Against Women (in this subchapter referred to as the “Director”) to be responsible, under the general authority of the Attorney General, for the administration, coordination, and implementation of the programs and activities of the Office.
 
 **(b) Other employment** The Director shall not—
 
 (1) engage in any employment other than that of serving as Director; or
 
-(2) hold any office in, or act in any capacity for, any organization, agency, or institution with which the Office makes any contract or other agreement under the Violence Against Women Act of 1994 (title IV of Public Law 103–322) or the Violence Against Women Act of 2000 (division B of Public Law 106–386).
+(2) hold any office in, or act in any capacity for, any organization, agency, or institution with which the Office makes any contract or other agreement under the Violence Against Women Act of 1994 (title IV of Public Law 103–322), the Violence Against Women Act of 2000 (division B of Public Law 106–386), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), or the Violence Against Women Act Reauthorization Act of 2022.
 
 **(c) Vacancy** In the case of a vacancy, the President may designate an officer or employee who shall act as Director during the vacancy.
 
@@ -5891,11 +6120,15 @@ Pub. L. 107–273, div. A, title IV, § 403, Nov. 2, 2002, 116 Stat. 1791, provi
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsec. (a), was in the original “this title”, and was translated as reading “this part”, meaning part T of title I of Pub. L. 90–351, to reflect the probable intent of Congress.
-
 The Violence Against Women Act of 1994, referred to in subsec. (b)(2), is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 The Violence Against Women Act of 2000, referred to in (b)(2), is div. B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+The Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in subsec. (b)(2), is Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960. For complete classification of this Act to the Code, see section 1 of Pub. L. 109–162, set out as a Short Title of 2006 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+
+The Violence Against Women Reauthorization Act of 2013, referred to in subsec. (b)(2), is Pub. L. 113–4, Mar. 7, 2013, 127 Stat. 54. For complete classification of this Act to the Code, see section 1 of Pub. L. 113–4, set out as a Short Title of 2013 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+
+The Violence Against Women Act Reauthorization Act of 2022, referred to in subsec. (b)(2), is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
 #### Codification
 Section was formerly classified to [section 3796gg–0a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg–0a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -5903,12 +6136,22 @@ Section was formerly classified to [section 3796gg–0a of Title 42](https://usc
 #### Prior Provisions
 A prior section 2003 of Pub. L. 90–351 was renumbered section 2008 and is classified to [section 10447 of this title](./chapter-101-justice-system-improvement.md#section-10447).
 
+#### Amendments
+2022—Pub. L. 117–103, § 901(b)(1), substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
+
+Subsec. (a). Pub. L. 117–103, § 901(b)(2), substituted “the Office on Violence Against Women” for “the Violence Against Women Office” and made technical amendment to reference in original act which appears in text as reference to this subchapter.
+
+Subsec. (b)(2). Pub. L. 117–103, § 901(b)(3), substituted “103–322), the Violence” for “103–322) or the Violence” and inserted before period at end “, the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), or the Violence Against Women Act Reauthorization Act of 2022”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Effective Date
 Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as a note under [section 10442 of this title](./chapter-101-justice-system-improvement.md#section-10442).
 
 
 <a id="section-10444"></a>
-## § 10444. Duties and functions of Director of Violence Against Women Office
+## § 10444. Duties and functions of Director of Office on Violence Against Women
 
 The Director shall have the following duties:
 
@@ -5920,7 +6163,7 @@ The Director shall have the following duties:
 
 (4) Serving, at the request of the President, acting through the Attorney General, as the representative of the United States Government on human rights and economic justice matters related to violence against women in international fora, including, but not limited to, the United Nations.
 
-(5) Carrying out the functions of the Department of Justice under the Violence Against Women Act of 1994 (title IV of Public Law 103–322) and the Violence Against Women Act of 2000 (division B of Public Law 106–386), including with respect to those functions—
+(5) Carrying out the functions of the Department of Justice under the Violence Against Women Act of 1994 (title IV of Public Law 103–322), the Violence Against Women Act of 2000 (division B of Public Law 106–386), the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), and the Violence Against Women Act Reauthorization Act of 2022, including with respect to those functions—
 
   (A) the development of policy, protocols, and guidelines;
 
@@ -5932,7 +6175,7 @@ The Director shall have the following duties:
 
   (A) other components of the Department of Justice, in efforts to develop policy and to enforce Federal laws relating to violence against women, including the litigation of civil and criminal actions relating to enforcing such laws;
 
-  (B) other Federal, State, local, and tribal agencies, in efforts to develop policy, provide technical assistance, and improve coordination among agencies carrying out efforts to eliminate violence against women, including Indian or indigenous women; and
+  (B) other Federal, State, local, and tribal agencies, in efforts to develop policy, provide technical assistance, synchronize Federal definitions and protocols, and improve coordination among agencies carrying out efforts to eliminate violence against women, including Indian or indigenous women; and
 
   (C) grantees, in efforts to combat violence against women and to provide support and assistance to victims of such violence.
 
@@ -5947,18 +6190,34 @@ The Violence Against Women Act of 1994, referred to in par. (5), is title IV of 
 
 The Violence Against Women Act of 2000, referred to in par. (5), is div. B of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1491. For complete classification of this Act to the Code, see Short Title of 2000 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
+The Violence Against Women and Department of Justice Reauthorization Act of 2005, referred to in par. (5), is Pub. L. 109–162, Jan. 5, 2006, 119 Stat. 2960. For complete classification of this Act to the Code, see section 1 of Pub. L. 109–162, set out as a Short Title of 2006 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+
+The Violence Against Women Reauthorization Act of 2013, referred to in par. (5), is Pub. L. 113–4, Mar. 7, 2013, 127 Stat. 54. For complete classification of this Act to the Code, see section 1 of Pub. L. 113–4, set out as a Short Title of 2013 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+
+The Violence Against Women Act Reauthorization Act of 2022, referred to in par. (5), is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+
 #### Codification
 Section was formerly classified to [section 3796gg–0b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg–0b&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
 A prior section 2004 of Pub. L. 90–351 was renumbered section 2009 and is classified to [section 10448 of this title](./chapter-101-justice-system-improvement.md#section-10448).
 
+#### Amendments
+2022—Pub. L. 117–103, § 901(c)(1), substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
+
+Par. (5). Pub. L. 117–103, § 901(c)(2), in introductory provisions, substituted “103–322), the Violence” for “103–322) and the Violence” and “, the Violence Against Women and Department of Justice Reauthorization Act of 2005 (Public Law 109–162; 119 Stat. 2960), the Violence Against Women Reauthorization Act of 2013 (Public Law 113–4; 127 Stat. 54), and the Violence Against Women Act Reauthorization Act of 2022, including with” for “, including with”.
+
+Par. (6)(B). Pub. L. 117–103, § 901(c)(3), inserted “synchronize Federal definitions and protocols,” before “and improve coordination”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Effective Date
 Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as a note under [section 10442 of this title](./chapter-101-justice-system-improvement.md#section-10442).
 
 
 <a id="section-10445"></a>
-## § 10445. Staff of Violence Against Women Office
+## § 10445. Staff of Office on Violence Against Women
 
 The Attorney General shall ensure that the Director has adequate staff to support the Director in carrying out the Director’s responsibilities under this subchapter.
 
@@ -5969,6 +6228,12 @@ Section was formerly classified to [section 3796gg–0c of Title 42](https://usc
 
 #### Prior Provisions
 A prior section 2005 of Pub. L. 90–351 was renumbered section 2010 and is classified to [section 10449 of this title](./chapter-101-justice-system-improvement.md#section-10449).
+
+#### Amendments
+2022—Pub. L. 117–103 substituted “Office on Violence Against Women” for “Violence Against Women Office” in section catchline.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date
 Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as a note under [section 10442 of this title](./chapter-101-justice-system-improvement.md#section-10442).
@@ -6044,9 +6309,13 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 
 (4) proof of compliance with the requirements prohibiting polygraph examinations of victims of sexual assault, described in [section 10451 of this title](./chapter-101-justice-system-improvement.md#section-10451);
 
-(5) an implementation plan required under subsection (i); and
+(5) proof of compliance with the requirements regarding training for victim-centered prosecution described in [section 10454 of this title](./chapter-101-justice-system-improvement.md#section-10454);
 
-(6) any other documentation that the Attorney General may require.
+(6) certification of compliance with the grant conditions under [section 12291(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/b&num=0&edition=prelim), as applicable;
+
+(7) an implementation plan required under subsection (i); and
+
+(8) any other documentation that the Attorney General may require.
 
 **(e) Disbursement**
 
@@ -6088,7 +6357,7 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 
 **(i) Implementation plans** A State applying for a grant under this subchapter shall—
 
-(1) develop an implementation plan in consultation with the entities listed in subsection (c)(2), that identifies how the State will use the funds awarded under this subchapter, including how the State will meet the requirements of subsection (c)(5); and
+(1) develop an implementation plan in consultation with the entities listed in subsection (c)(2), that identifies how the State will use the funds awarded under this subchapter, including how the State will meet the requirements of subsection (c)(5) and the requirements under [section 12291(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/b&num=0&edition=prelim), as applicable; and
 
 (2) submit to the Attorney General—
 
@@ -6104,7 +6373,7 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 
     (iii) the expected result of the grant funds; and
 
-    (iv) the demographic characteristics of the populations to be served, including age, disability, race, ethnicity, and language background;
+    (iv) the demographic characteristics of the populations to be served, including age, disability, race, ethnicity, sexual orientation, gender identity, and language background;
 
   (D) a description of how the State will ensure that any subgrantees will consult with victim service providers during the course of developing their grant applications in order to ensure that the proposed activities are designed to promote the safety, confidentiality, and economic independence of victims;
 
@@ -6120,7 +6389,153 @@ Section effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–2
 
 (1) funds from a subgrant awarded under this subchapter are returned to the State; or
 
-(2) the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4) 66 So in original. Probably should be followed by a period.
+(2) the State does not receive sufficient eligible applications to award the full funding within the allocations in subsection (c)(4).
+
+**(k) Grant increases for States with certain child custody proceeding laws and standards**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Child custody proceeding* — The term “child custody proceeding”—
+
+    (i) means a private family court proceeding in State or local court that, with respect to a child, involves the care or custody of the child in a private divorce, separation, visitation, paternity, child support, legal or physical custody, or civil protection order proceeding between the parents of the child; and
+
+    (ii) does not include—
+
+      (I) any child protective, abuse, or neglect proceeding;
+
+      (II) a juvenile justice proceeding; or
+
+      (III) any child placement proceeding in which a State, local, or Tribal government, a designee of such a government, or any contracted child welfare agency or child protective services agency of such a government is a party to the proceeding.
+
+  (B) *Eligible State* — The term “eligible State” means a State that—
+
+    (i) receives a grant under subsection (a); and
+
+    (ii) has in effect—
+
+      (I) each law described in paragraph (3);
+
+      (II) the standards described in paragraph (4); and
+
+      (III) the training program described in paragraph (5).
+
+  (C) *Reunification treatment* — The term “reunification treatment” means a treatment or therapy aimed at reuniting or reestablishing a relationship between a child and an estranged or rejected parent or other family member of the child.
+
+(2) **Increase**
+
+  (A) *In general* — The Attorney General shall increase the amount of a grant awarded under subsection (a) to an eligible State that submits an application under paragraph (6) by an amount that is not more than 10 percent of the average of the total amount of funding provided to the State under subsection (a) under the 3 most recent awards to the State.
+
+  (B) *Term of increase* — An increase of a grant under subparagraph (A) shall be for 1 fiscal year.
+
+  (C) *Renewal* — An eligible State that receives an increase under subparagraph (A) may submit an application for renewal of the increase at such time, in such manner, and containing such information as the Attorney General may reasonably require.
+
+  (D) *Limit* — An eligible State may not receive an increase under subparagraph (A) for more than 4 fiscal years.
+
+(3) **Laws** — The laws described in this paragraph are the following:
+
+  (A) A law that ensures that, with respect to a child custody proceeding in which a parent has been alleged to have committed domestic violence or child abuse, including child sexual abuse—
+
+    (i) expert evidence from a court-appointed or outside professional relating to the alleged abuse may be admitted only if the professional possesses demonstrated expertise and clinical experience in working with victims of domestic violence or child abuse, including child sexual abuse, that is not solely of a forensic nature; and
+
+    (ii) in making a finding regarding any allegation of domestic violence or child abuse, including child sexual abuse, in addition to any other relevant admissible evidence, evidence of past sexual or physical abuse committed by the accused parent shall be considered, including—
+
+      (I) any past or current protection or restraining orders against the accused parent;
+
+      (II) sexual violence abuse protection orders against the accused parent;
+
+      (III) arrests of the accused parent for domestic violence, sexual violence, or child abuse; or
+
+      (IV) convictions of the accused parent for domestic violence, sexual violence, or child abuse.
+
+  (B) A law that ensures that, during a child custody proceeding—
+
+    (i) a court may not, solely in order to improve a deficient relationship with the other parent of a child, remove the child from a parent or litigating party—
+
+      (I) who is competent, protective, and not physically or sexually abusive; and
+
+      (II) with whom the child is bonded or to whom the child is attached;
+
+    (ii) a court may not, solely in order to improve a deficient relationship with the other parent of a child, restrict contact between the child and a parent or litigating party—
+
+      (I) who is competent, protective, and not physically or sexually abusive; and
+
+      (II) with whom the child is bonded or to whom the child is attached;
+
+    (iii) a court may not order a reunification treatment, unless there is generally accepted and scientifically valid proof of the safety, effectiveness, and therapeutic value of the reunification treatment;
+
+    (iv) a court may not order a reunification treatment that is predicated on cutting off a child from a parent with whom the child is bonded or to whom the child is attached; and
+
+    (v) any order to remediate the resistance of a child to have contact with a violent or abusive parent primarily addresses the behavior of that parent or the contributions of that parent to the resistance of the child before ordering the other parent of the child to take steps to potentially improve the relationship of the child with the parent with whom the child resists contact.
+
+  (C) A law that requires judges and magistrates who hear child custody proceedings and other relevant court personnel involved in child custody proceedings, including guardians ad litem, best interest attorneys, counsel for children, custody evaluators, masters, and mediators to complete, with respect to the training program described in paragraph (5)—
+
+    (i) not less than 20 hours of initial training; and
+
+    (ii) not less than 15 hours of ongoing training every 5 years.
+
+(4) **Uniform required standards** — The standards described in this paragraph are uniform required standards that—
+
+  (A) apply to any neutral professional appointed by a court during a child custody proceeding to express an opinion relating to abuse, trauma, or the behaviors of victims and perpetrators of abuse and trauma; and
+
+  (B) require that a professional described in subparagraph (A) possess demonstrated expertise and clinical experience in working with victims of domestic violence or child abuse, including child sexual abuse, that is not solely of a forensic nature.
+
+(5) **Training and education program** — The training program described in this paragraph is an ongoing training and education program that—
+
+  (A) focuses solely on domestic and sexual violence and child abuse, including—
+
+    (i) child sexual abuse;
+
+    (ii) physical abuse;
+
+    (iii) emotional abuse;
+
+    (iv) coercive control;
+
+    (v) implicit and explicit bias, including biases relating to parents with disabilities;
+
+    (vi) trauma;
+
+    (vii) long- and short-term impacts of domestic violence and child abuse on children; and
+
+    (viii) victim and perpetrator behavior patterns and relationship dynamics within the cycle of violence;
+
+  (B) is provided by—
+
+    (i) a professional with substantial experience in assisting survivors of domestic violence or child abuse, including a victim service provider (as defined in [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291)); and
+
+    (ii) if possible, a survivor of domestic violence or child physical or sexual abuse;
+
+  (C) relies on evidence-based and peer-reviewed research by recognized experts in the types of abuse described in subparagraph (A);
+
+  (D) does not include theories, concepts, or belief systems unsupported by the research described in subparagraph (C); and
+
+  (E) is designed to improve the ability of courts to—
+
+    (i) recognize and respond to child physical abuse, child sexual abuse, domestic violence, and trauma in all family victims, particularly children; and
+
+    (ii) make appropriate custody decisions that—
+
+      (I) prioritize child safety and well-being; and
+
+      (II) are culturally sensitive and appropriate for diverse communities.
+
+(6) **Application**
+
+  (A) *In general* — An eligible State desiring a grant increase under this subsection shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may reasonably require.
+
+  (B) *Contents* — An application submitted by an eligible State under subparagraph (A) shall include information relating to—
+
+    (i) the laws described paragraph (3);
+
+    (ii) the standards described in paragraph (4); and
+
+    (iii) the training program described in paragraph (5).
+
+(7) **Use of funds** — An eligible State that receives a grant increase under paragraph (2)(A) shall use the total amount of the increase for the purposes described in subparagraph (C) or (D) of subsection (c)(4).
+
+(8) **Rule of construction** — Nothing in this subsection shall be interpreted as discouraging States from adopting additional provisions to increase safe outcomes for children. Additional protective provisions are encouraged.
+
+(9) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
@@ -6139,6 +6554,16 @@ Section was formerly classified to [section 3796gg–1 of Title 42](https://usco
 Another section 2007 of Pub. L. 90–351 was renumbered section 2015 and is classified to [section 10452 of this title](./chapter-101-justice-system-improvement.md#section-10452).
 
 #### Amendments
+2022—Subsec. (d)(5) to (8). Pub. L. 117–103, § 101(a)(2)(A), added pars. (5) and (6) and redesignated former pars. (5) and (6) as (7) and (8), respectively.
+
+Subsec. (i)(1). Pub. L. 117–103, § 101(a)(2)(B)(i), which directed amendment of par. (1) by inserting “and the requirements under [section 12291(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/b&num=0&edition=prelim), as applicable” before “semicolon at the end”, was executed by making the insertion before “; and”, to reflect the probable intent of Congress.
+
+Subsec. (i)(2)(C)(iv). Pub. L. 117–103, § 101(a)(2)(B)(ii), inserted “sexual orientation, gender identity,” after “ethnicity,”.
+
+Subsec. (j)(2). Pub. L. 117–103, § 101(a)(2)(C), inserted period at end.
+
+Subsec. (k). Pub. L. 117–103, § 1504, added subsec. (k).
+
 2013—Subsec. (a). Pub. L. 113–4, § 101(3)(A), which directed substitution of “victim service providers” for “nonprofit nongovernmental victim service programs”, was executed by making the substitution for “nonprofit nongovernmental victim services programs” to reflect the probable intent of Congress.
 
 Subsec. (b)(6). Pub. L. 113–4, § 101(3)(B), struck out “(not including populations of Indian tribes)” before period at end.
@@ -6225,6 +6650,9 @@ Subsec. (c)(3). Pub. L. 106–386, § 1102(a)(2)(B), added par. (3) and struck o
 
 Subsec. (d)(1). Pub. L. 106–386, § 1102(a)(2)(C), inserted “court,” after “law enforcement,” in introductory provisions.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
 
@@ -6236,6 +6664,16 @@ Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276, provided
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–273 effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as an Effective Date note under [section 10442 of this title](./chapter-101-justice-system-improvement.md#section-10442).
+
+#### Findings
+Pub. L. 117–103, div. W, title XV, § 1502, Mar. 15, 2022, 136 Stat. 951, provided that: “Congress finds the following: “(1) Approximately 1 in 15 children is exposed to domestic violence each year. “(2) Most child abuse is perpetrated in the family and by a parent. Intimate partner violence and child abuse overlap in the same families at rates between 30 and 60 percent. A child’s risk of abuse increases after a perpetrator of intimate partner violence separates from a domestic partner, even when the perpetrator has not previously directly abused the child. Children who have witnessed intimate partner violence are approximately 4 times more likely to experience direct child maltreatment than children who have not witnessed intimate partner violence. “(3) More than 75 percent of child sexual abuse is perpetrated by a family member or a person known to the child. Data of the Department of Justice shows that family members are 49 percent, or almost half, of the perpetrators of crimes against child sex assault victims younger than 6 years of age. “(4) Research suggests a child’s exposure to a batterer is among the strongest indicators of risk of incest victimization. One study found that female children with fathers who are batterers of their mothers were 6.5 times more likely to experience father-daughter incest than female children who do not have abusive fathers. “(5) Child abuse is a major public health issue in the United States. Total lifetime financial costs associated with just 1 year of confirmed cases of child maltreatment, including child physical abuse, sexual abuse, psychological abuse, and neglect, result in $124,000,000,000 in annual costs to the economy of the United States, or approximately 1 percent of the gross domestic product of the United States. “(6) Empirical research indicates that courts regularly discount allegations of child physical and sexual abuse when those allegations are raised in child custody cases. Courts believed less than ¼ of claims that a father has committed child physical or sexual abuse. With respect to cases in which an allegedly abusive parent claimed the mother “alienated” the child, courts believed only 1 out of 51 claims of sexual molestation by a father. Independent research indicates that child sexual abuse allegations are credible between 50 and 70 percent of the time. “(7) Empirical research shows that alleged or known abusive parents are often granted custody or unprotected parenting time by courts. Approximately ⅓ of parents alleged to have committed child abuse took primary custody from the protective parent reporting the abuse, placing children at ongoing risk. “(8) Researchers have documented nearly 800 child murders in the United States since 2008 committed by a divorcing or separating parent. More than 100 of these child murders are known to have occurred after a court ordered the child to have contact with the dangerous parent over the objection of a safe parent or caregiver. “(9) Scientifically unsound theories that treat abuse allegations of mothers as likely false attempts to undermine fathers are frequently applied in family court to minimize or deny reports of abuse of parents and children. Many experts who testify against abuse allegations lack expertise in the relevant type of alleged abuse, relying instead on unsound and unproven theories. “(10) Judges presiding over custody cases involving allegations of child abuse, child sexual abuse, and domestic violence are rarely required to receive training on these subjects, and most States have not established standards for such training.”
+
+[For definitions of terms used in section 1502 of div. W of Pub. L. 117–103, set out above, see [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291).]
+
+#### Purposes
+Pub. L. 117–103, div. W, title XV, § 1503, Mar. 15, 2022, 136 Stat. 952, provided that: “The purposes of this title [see Short Title of 2022 Amendment note set out under section 10101 of tihs title] are to— “(1) increase the priority given to child safety in any State court divorce, separation, visitation, paternity, child support, civil protection order, or family custody court proceeding affecting the custody and care of children, excluding child protective, abuse, or neglect proceedings and juvenile justice proceedings; “(2) strengthen the abilities of courts to—“(A) recognize and adjudicate domestic violence and child abuse allegations based on valid, admissible evidence; and “(B) enter orders that protect and minimize the risk of harm to children; and “(3) ensure that professional personnel involved in cases containing domestic violence or child abuse allegations receive trauma-informed and culturally appropriate training on the dynamics, signs, and impact of domestic violence and child abuse, including child sexual abuse.”
+
+[For definitions of terms used in section 1503 of div. W of Pub. L. 117–103, set out above, see [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291).]
 
 
 <a id="section-10447"></a>
@@ -6539,13 +6977,58 @@ Section was formerly classified to [section 3796gg–11 of Title 42](https://usc
 Section not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under [section 10261 of this title](./chapter-101-justice-system-improvement.md#section-10261).
 
 
+<a id="section-10454"></a>
+## § 10454. Grant eligibility regarding compelling victim testimony
+
+In order for a prosecutor’s office to be eligible to receive grant funds under this subchapter, the head of the office shall certify, to the State, Indian Tribal government, or territorial government receiving the grant funding, that the office will, during the 3-year period beginning on the date on which the grant is awarded, engage in planning, developing and implementing—
+
+(1) training developed by experts in the field regarding victim-centered approaches in domestic violence, sexual assault, dating violence, and stalking cases;
+
+(2) policies that support a victim-centered approach, informed by such training; and
+
+(3) a protocol outlining alternative practices and procedures for material witness petitions and bench warrants, consistent with best practices, that shall be exhausted before employing material witness petitions and bench warrants to obtain victim-witness testimony in the investigation, prosecution, and trial of a crime related to domestic violence, sexual assault, dating violence, and stalking of the victim in order to prevent further victimization and trauma to the victim.
+
+### Statutory Notes
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+
+<a id="section-10455"></a>
+## § 10455. Senior Policy Advisor for Culturally Specific Communities
+**(a) Establishment** There is established in the Office on Violence Against Women a Senior Policy Advisor for Culturally Specific Communities.
+
+**(b) Duties** The Senior Policy Advisor for Culturally Specific Communities, under the guidance and authority of the Director, shall—
+
+(1) advise on the administration of grants related to culturally specific services and contracts with culturally specific organizations;
+
+(2) coordinate development of Federal policy, protocols, and guidelines on matters relating to domestic violence, dating violence, sexual assault, and stalking in culturally specific communities;
+
+(3) advise the Director on policies, legislation, implementation of laws, and other issues relating to domestic violence, dating violence, sexual assault, and stalking in culturally specific communities;
+
+(4) provide technical assistance, coordination, and support to other offices and bureaus in the Department of Justice to develop policy and to enforce Federal laws relating to domestic violence, dating violence, sexual assault, and stalking in culturally specific communities;
+
+(5) ensure that appropriate technical assistance, developed and provided by entities with expertise in culturally specific communities, is made available to grantees and potential grantees proposing to serve culturally specific communities;
+
+(6) ensure access to grants and technical assistance for culturally specific organizations; and
+
+(7) analyze the distribution of grant funding in order to identify barriers for culturally specific organizations.
+
+**(c) Qualifications** Not later than 120 days after March 15, 2022, the Director shall hire for the position established under subsection (a) an individual with personal, lived, and work experience from a culturally specific community, and a demonstrated history and expertise addressing domestic violence or sexual assault in a nongovernmental agency.
+
+### Statutory Notes
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+
 <a id="section-10461"></a>
 ## § 10461. Grants
-**(a) Purpose** The purpose of this subchapter is to encourage States, Indian tribal governments, State and local courts (including juvenile courts), tribal courts, and units of local government to treat domestic violence, dating violence, sexual assault, and stalking as serious violations of criminal law.
+**(a) Purpose** The purpose of this subchapter is to assist States, Indian Tribal governments, State and local courts (including juvenile courts), Tribal courts, and units of local government to improve the criminal justice response to domestic violence, dating violence, sexual assault, and stalking as serious violations of criminal law, and to seek safety and autonomy for victims.
 
 **(b) Grant authority** The Attorney General may make grants to eligible grantees for the following purposes:
 
-(1) To implement proarrest programs and policies in police departments, including policies for protection order violations and enforcement of protection orders across State and tribal lines.
+(1) To implement offender accountability and homicide reduction programs and policies in police departments, including policies for protection order violations and enforcement of protection orders across State and tribal lines.
 
 (2) To develop policies, educational programs, protection order registries, data collection systems, and training in police departments to improve tracking of cases and classification of complaints involving domestic violence, dating violence, sexual assault, and stalking. Policies, educational programs, protection order registries, and training described in this paragraph shall incorporate confidentiality, and privacy protections for victims of domestic violence, dating violence, sexual assault, and stalking.
 
@@ -6553,13 +7036,13 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
 (4) To coordinate computer tracking systems and provide the appropriate training and education about domestic violence, dating violence, sexual assault, and stalking to ensure communication between police, prosecutors, parole and probation officers, and both criminal and family courts.
 
-(5) To strengthen legal advocacy service programs and other victim services for victims of domestic violence, dating violence, sexual assault, and stalking, including strengthening assistance to such victims in immigration matters.
+(5) To strengthen legal advocacy and legal assistance programs and other victim services for victims of domestic violence, dating violence, sexual assault, and stalking, including strengthening assistance to such victims in immigration matters.
 
 (6) To educate Federal, State, tribal, territorial, and local judges, courts, and court-based and court-related personnel in criminal and civil courts (including juvenile courts) about domestic violence, dating violence, sexual assault, and stalking and to improve judicial handling of such cases.
 
 (7) To provide technical assistance and computer and other equipment to police departments, prosecutors, courts, and tribal jurisdictions to facilitate the widespread enforcement of protection orders, including interstate enforcement, enforcement between States and tribal jurisdictions, and enforcement between tribal jurisdictions.
 
-(8) To develop or strengthen policies and training for police, prosecutors, and the judiciary in recognizing, investigating, and prosecuting instances of domestic violence 11 So in original. Probably should be followed by a comma. dating violence, sexual assault, and stalking against older individuals (as defined in [section 3002 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3002&num=0&edition=prelim)) and individuals with disabilities (as defined in [section 12102(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102/2&num=0&edition=prelim)).
+(8) To develop or strengthen policies and training for police, prosecutors, and the judiciary in recognizing, investigating, and prosecuting instances of domestic violence 11 So in original. Probably should be followed by a comma. dating violence, sexual assault, and stalking against individuals 50 years of age or over, Deaf individuals, and individuals with disabilities (as defined in [section 12102(2) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102/2&num=0&edition=prelim)).
 
 (9) To develop State, tribal, territorial, or local policies, procedures, and protocols for preventing dual arrests and prosecutions in cases of domestic violence, dating violence, sexual assault, and stalking, and to develop effective methods for identifying the pattern and history of abuse that indicates which party is the actual perpetrator of abuse.
 
@@ -6581,7 +7064,7 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
 (18) To develop, implement, or enhance Sexual Assault Response Teams or similar coordinated community responses to sexual assault.
 
-(19) To develop and strengthen policies, protocols, and training for law enforcement officers and prosecutors regarding the investigation and prosecution of sexual assault cases and the appropriate treatment of victims.
+(19) To develop and strengthen policies, protocols, and training for law enforcement officers and prosecutors regarding the investigation and prosecution of sexual assault cases and the appropriate treatment of victims, including victims among underserved populations (as defined in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim)).
 
 (20) To provide human immunodeficiency virus testing programs, counseling, and prophylaxis for victims of sexual assault.
 
@@ -6599,15 +7082,23 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
 (24) To compile and annually report data to the Attorney General related to missing or murdered Indians, as described in [section 5705 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5705&num=0&edition=prelim).
 
+(25) To develop Statewide databases with information on where sexual assault nurse examiners are located.
+
+(26) To develop and implement alternative methods of reducing crime in communities, to supplant punitive programs or policies. For purposes of this paragraph, a punitive program or policy is a program or policy that—
+
+  (A) imposes a penalty on a victim of domestic violence, dating violence, sexual assault, or stalking, on the basis of a request by the victim for law enforcement or emergency assistance; or
+
+  (B) imposes a penalty on such a victim because of criminal activity at the property in which the victim resides.
+
 **(c) Eligibility** Eligible grantees are—
 
 (1) States, Indian tribal governments 1 State and local courts (including juvenile courts), or units of local government that—
 
   (A) except for a court, certify that their laws or official policies—
 
-    (i) encourage or mandate arrests of domestic violence offenders based on probable cause that an offense has been committed; and
+    (i) encourage arrests of domestic violence, dating violence, sexual assault, and stalking offenders based on probable cause that an offense has been committed; and
 
-    (ii) encourage or mandate arrest of domestic violence offenders who violate the terms of a valid and outstanding protection order;
+    (ii) encourage arrest of offenders who violate the terms of a valid and outstanding protection order;
 
   (B) except for a court, demonstrate that their laws, policies, or practices and their training programs discourage dual arrests of offender and victim;
 
@@ -6619,7 +7110,17 @@ Section not effective until the beginning of fiscal year 2007, see section 4 of 
 
     (i) no law enforcement officer, prosecuting officer or other government official shall ask or require an adult, youth, or child victim of a sex offense as defined under Federal, tribal, State, territorial, or local law to submit to a polygraph examination or other truth telling device as a condition for proceeding with the investigation of, trial of, or sentencing for such an offense; and
 
-    (ii) the refusal of a victim to submit to an examination described in clause (i) shall not prevent the investigation of, trial of, or sentencing for the offense; and
+    (ii) the refusal of a victim to submit to an examination described in clause (i) shall not prevent the investigation of, trial of, or sentencing for the offense;
+
+  (F) except for a court, not later than 3 years after the date on which an eligible grantee receives the first award under this subchapter after March 15, 2022, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located ensure that prosecutor’s offices engage in planning, developing, and implementing—
+
+    (i) training developed by experts in the field regarding victim-centered approaches in domestic violence, sexual assault, dating violence, and stalking cases;
+
+    (ii) policies that support a victim-centered approach, informed by such training; and
+
+    (iii) a protocol outlining alternative practices and procedures for material witness petitions and bench warrants, consistent with best practices, that shall be exhausted before employing material witness petitions and bench warrants to obtain victim-witness testimony in the investigation, prosecution, and trial of a crime related to domestic violence, sexual assault, dating violence, and stalking of the victim in order to prevent further victimization and trauma to the victim; and
+
+  (G) except for a court, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located prohibits the prosecution of a minor under the age of 18 with respect to prostitution; and
 
 (2) a State, tribal, or territorial domestic violence or sexual assault coalition or a victim service provider that partners with a State, Indian tribal government, or unit of local government that certifies that the State, Indian tribal government, or unit of local government meets the requirements under paragraph (1).
 
@@ -6661,6 +7162,24 @@ Section was formerly classified to [section 3796hh of Title 42](https://uscode.h
 A prior section 2101 of Pub. L. 90–351 was renumbered section 2601 and is classified to [section 10541 of this title](./chapter-101-justice-system-improvement.md#section-10541).
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–103, § 102(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The purpose of this subchapter is to encourage States, Indian tribal governments, State and local courts (including juvenile courts), tribal courts, and units of local government to treat domestic violence, dating violence, sexual assault, and stalking as serious violations of criminal law.”
+
+Subsec. (b)(1). Pub. L. 117–103, § 102(b)(2)(A), substituted “offender accountability and homicide reduction” for “proarrest”.
+
+Subsec. (b)(5). Pub. L. 117–103, § 102(b)(2)(B), substituted “legal advocacy and legal assistance programs” for “legal advocacy service programs”.
+
+Subsec. (b)(8). Pub. L. 117–103, § 102(b)(2)(C), substituted “individuals 50 years of age or over, Deaf individuals,” for “older individuals (as defined in [section 3002 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3002&num=0&edition=prelim))”.
+
+Subsec. (b)(19). Pub. L. 117–103, § 102(b)(2)(D), inserted “, including victims among underserved populations (as defined in [section 12291(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12291/a&num=0&edition=prelim))” before period at end.
+
+Subsec. (b)(25), (26). Pub. L. 117–103, § 102(b)(2)(E), added pars. (25) and (26).
+
+Subsec. (c)(1)(A)(i). Pub. L. 117–103, § 102(b)(3)(A)(i), substituted “encourage arrests of domestic violence, dating violence, sexual assault, and stalking offenders” for “encourage or mandate arrests of domestic violence offenders”.
+
+Subsec. (c)(1)(A)(ii). Pub. L. 117–103, § 102(b)(3)(A)(ii), substituted “encourage arrest of offenders” for “encourage or mandate arrest of domestic violence offenders”.
+
+Subsec. (c)(1)(F), (G). Pub. L. 117–103, § 102(b)(3)(B), (C), added subpars. (F) and (G).
+
 2020—Subsec. (b)(23), (24). Pub. L. 116–165 added pars. (23) and (24).
 
 2013—Subsec. (b). Pub. L. 113–4, § 102(a)(1)(A)(i), in introductory provisions, substituted “grantees” for “States, Indian tribal governments State, tribal, territorial, and local courts (including juvenile courts),, or units of local government”.
@@ -6753,6 +7272,9 @@ Subsec. (d). Pub. L. 106–386, § 1101(b)(2)(B), added subsec. (d).
 
 Subsec. (e). Pub. L. 106–386, § 1102(b)(4), added subsec. (e).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
 
@@ -6820,6 +7342,151 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under [section 10261 of this title](./chapter-101-justice-system-improvement.md#section-10261).
 
 
+<a id="section-10462a"></a>
+## § 10462a. Grants to State and Tribal courts to implement protection order pilot programs
+**(a) Definition of eligible entity** In this section, the term “eligible entity” means a State or Tribal court that is part of a multidisciplinary partnership that includes, to the extent practicable—
+
+(1) a State, Tribal, or local law enforcement agency;
+
+(2) a State, Tribal, or local prosecutor’s office;
+
+(3) a victim service provider or State or Tribal domestic violence coalition;
+
+(4) a provider of culturally specific services;
+
+(5) a nonprofit program or government agency with demonstrated experience in providing legal assistance or legal advice to victims of domestic violence and sexual assault;
+
+(6) the bar association of the applicable State or Indian Tribe;
+
+(7) the State or Tribal association of court clerks;
+
+(8) a State, Tribal, or local association of criminal defense attorneys;
+
+(9) not fewer than 2 individuals with expertise in the design and management of court case management systems and systems of integration;
+
+(10) not fewer than 2 State or Tribal court judges with experience in—
+
+  (A) the field of domestic violence; and
+
+  (B) issuing protective orders; and
+
+(11) a judge assigned to the criminal docket of the State or Tribal court.
+
+**(b) Grants authorized**
+
+(1) **In general** — The Attorney General shall make grants to eligible entities to carry out the activities described in subsection (c) of this section.
+
+(2) **Number** — The Attorney General may award not more than 10 grants under paragraph (1).
+
+(3) **Amount** — The amount of a grant awarded under paragraph (1) may be not more than $1,500,000.
+
+**(c) Mandatory activities**
+
+(1) **In general** — An eligible entity that receives a grant under this section shall use the grant funds, in consultation with the partners of the eligible entity described in subsection (a), to—
+
+  (A) develop and implement a program for properly and legally serving protection orders through electronic communication methods to—
+
+    (i) modernize the service process and make the process more effective and efficient;
+
+    (ii) provide for improved safety of victims; and
+
+    (iii) make protection orders enforceable as quickly as possible;
+
+  (B) develop best practices relating to the service of protection orders through electronic communication methods;
+
+  (C) ensure that the program developed under subparagraph (A) complies with due process requirements and any other procedures required by law or by a court; and
+
+  (D) implement any technology necessary to carry out the program developed under subparagraph (A), such as technology to verify and track the receipt of a protection order by the intended party.
+
+(2) **Timeline** — An eligible entity that receives a grant under this section shall—
+
+  (A) implement the program required under paragraph (1)(A) not later than 2 years after the date on which the eligible entity receives the grant; and
+
+  (B) carry out the program required under paragraph (1)(A) for not fewer than 3 years.
+
+**(d) Diversity of recipients** The Attorney General shall award grants under this section to eligible entities in a variety of areas and situations, including, to the extent practicable—
+
+(1) a State court that serves a population of not fewer than 1,000,000 individuals;
+
+(2) a State court that—
+
+  (A) serves a State that is among the 7 States with the lowest population density in the United States; and
+
+  (B) has a relatively low rate of successful service with respect to protection orders, as determined by the Attorney General;
+
+(3) a State court that—
+
+  (A) serves a State that is among the 7 States with the highest population density in the United States; and
+
+  (B) has a relatively low rate of successful service with respect to protection orders, as determined by the Attorney General;
+
+(4) a court that uses an integrated, statewide case management system;
+
+(5) a court that uses a standalone case management system;
+
+(6) a Tribal court; and
+
+(7) a court that primarily serves a culturally specific and underserved population.
+
+**(e) Application**
+
+(1) **In general** — An eligible entity desiring a grant under this section shall submit to the Attorney General an application that includes—
+
+  (A) a description of the process that the eligible entity uses for service of protection orders at the time of submission of the application;
+
+  (B) to the extent practicable, statistics relating to protection orders during the 3 calendar years preceding the date of submission of the application, including rates of—
+
+    (i) successful service; and
+
+    (ii) enforcement;
+
+  (C) an initial list of the entities serving as the partners of the eligible entity described in subsection (a); and
+
+  (D) any other information the Attorney General may reasonably require.
+
+(2) **No other application required** — An eligible entity shall not be required to submit an application under [section 10462 of this title](./chapter-101-justice-system-improvement.md#section-10462) to receive a grant under this section.
+
+**(f) Report to Attorney General**
+
+(1) **Initial report** — Not later than 2 years after the date on which an eligible entity receives a grant under this section, the eligible entity shall submit to the Attorney General a report that details the plan of the eligible entity for implementation of the program under subsection (c).
+
+(2) **Subsequent reports**
+
+  (A) *In general* — Not later than 1 year after the date on which an eligible entity implements a program under subsection (c), and not later than 2 years thereafter, the eligible entity shall submit to the Attorney General a report that describes the program, including, with respect to the program—
+
+    (i) the viability;
+
+    (ii) the cost;
+
+    (iii) service statistics;
+
+    (iv) the challenges;
+
+    (v) an analysis of the technology used to fulfill the goals of the program;
+
+    (vi) an analysis of any legal or due process issues resulting from the electronic service method described in subsection (c)(1)(A); and
+
+    (vii) best practices for implementing such a program in other similarly situated locations.
+
+  (B) *Contents of final report* — An eligible entity shall include in the second report submitted under subparagraph (A) recommendations for—
+
+    (i) future nationwide implementation of the program implemented by the eligible entity; and
+
+    (ii) usage of electronic service, similar to the service used by the eligible entity, for other commonly used court orders, including with respect to viability and cost.
+
+**(g) No regulations or guidelines required** Notwithstanding [section 10464 of this title](./chapter-101-justice-system-improvement.md#section-10464), the Attorney General shall not be required to publish regulations or guidelines implementing this section.
+
+**(h) Authorization of appropriations** There is authorized to be appropriated to carry out this section $10,000,000 for fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 2103 of Pub. L. 90–351 was renumbered section 2104 and is classified to [section 10463 of this title](./chapter-101-justice-system-improvement.md#section-10463).
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+
 <a id="section-10463"></a>
 ## § 10463. Reports
 
@@ -6829,6 +7496,12 @@ Each grantee receiving funds under this subchapter shall submit a report to the 
 
 #### Codification
 Section was formerly classified to [section 3796hh–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796hh–2&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Prior Provisions
+A prior section 2104 of Pub. L. 90–351 was renumbered section 2105 and is classified to [section 10464 of this title](./chapter-101-justice-system-improvement.md#section-10464).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-10464"></a>
@@ -6841,6 +7514,12 @@ Not later than 120 days after September 13, 1994, the Attorney General shall pub
 #### Codification
 Section was formerly classified to [section 3796hh–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796hh–3&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Prior Provisions
+A prior section 2105 of Pub. L. 90–351 was renumbered section 2106 and is classified to [section 10465 of this title](./chapter-101-justice-system-improvement.md#section-10465).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 
 <a id="section-10465"></a>
 ## § 10465. Definitions and grant conditions
@@ -6852,10 +7531,16 @@ In this subchapter the definitions and grant conditions in [section 12291 of thi
 #### Codification
 Section was formerly classified to [section 3796hh–4 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796hh–4&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Prior Provisions
+A prior section 2106 of Pub. L. 90–351 was classified to [section 3796hh–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796hh–5&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by Pub. L. 109–271, § 2(f)(2), Aug. 12, 2006, 120 Stat. 752.
+
 #### Amendments
 2006—Pub. L. 109–162 amended section generally. Prior to amendment, section consisted of pars. (1) to (3) defining for purposes of this subchapter “domestic violence”, “protection order”, and “dating violence”.
 
 2000—Par. (3). Pub. L. 106–386 added par. (3).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-10471"></a>
@@ -9147,6 +9832,9 @@ The Attorney General shall award grants to rural State criminal justice agencies
 #### Codification
 Section was formerly classified to [section 3797y of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797y&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+#### Short Title
+For short title of section 11027 of Pub. L. 107–273, which enacted this subchapter, as the “Crime-Free Rural States Act of 2002”, see section 11027(a) of Pub. L. 107–273, set out as a Short Title of 2002 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-10642"></a>
 ## § 10642. Use of funds
@@ -9478,7 +10166,7 @@ Section was formerly classified to [section 3797y–3 of Title 42](https://uscod
 
 (1) **Authorization** — The Attorney General is authorized to make grants under this section to States, units of local government, Indian tribes, and tribal organizations for the following purposes:
 
-  (A) *Training programs* — To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved.
+  (A) *Training programs* — To provide for programs that offer law enforcement personnel specialized and comprehensive training in procedures to identify and respond appropriately to incidents in which the unique needs of individuals with mental illnesses are involved, including the training developed under [section 10653 of this title](./chapter-101-justice-system-improvement.md#section-10653).
 
   (B) *Receiving centers* — To provide for the development of specialized receiving centers to assess individuals in the custody of law enforcement personnel for suicide risk and mental health and substance abuse treatment needs.
 
@@ -9698,13 +10386,7 @@ Section was formerly classified to [section 3797y–3 of Title 42](https://uscod
 
 **(o) Authorization of appropriations**
 
-(1) **In general** — There are authorized to be appropriated to the Department of Justice to carry out this section—
-
-  (A) $50,000,000 for fiscal year 2005;
-
-  (B) such sums as may be necessary for each of the fiscal years 2006 and 2007; and
-
-  (C) $50,000,000 for each of the fiscal years 2017 through 2021.
+(1) **In general** — There is authorized to be appropriated to the Department of Justice to carry out this section $54,000,000 for each of fiscal years 2023 through 2027.
 
 (2) **Allocation of funding for administrative purposes** — For fiscal year 2009 and each subsequent fiscal year, of the amounts authorized under paragraph (1) for such fiscal year, the Attorney General may obligate not more than 3 percent for the administrative expenses of the Attorney General in carrying out this section for such fiscal year.
 
@@ -9721,6 +10403,10 @@ This Act, referred to in subsec. (n)(1), is Pub. L. 90–351, June 19, 1968, 82 
 Section was formerly classified to [section 3797aa of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797aa&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (h)(1)(A). Pub. L. 117–170, § 3(1)(A), inserted before period at end “, including the training developed under [section 10653 of this title](./chapter-101-justice-system-improvement.md#section-10653)”.
+
+Subsec. (o)(1). Pub. L. 117–170, § 3(1)(B), amended par. (1) generally. Prior to amendment, par. (1) authorized appropriations for fiscal years 2005 to 2007 and 2017 to 2021.
+
 2018—Subsec. (b)(4)(D), (E). Pub. L. 115–391, § 612(1)(A), (B), redesignated subpar. (E) as (D) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: “The amount of a planning grant may not exceed $75,000, except that the Attorney General may, for good cause, approve a grant in a higher amount.”
 
 Subsec. (e). Pub. L. 115–391, § 612(2), substituted “shall use not less than 6 percent” for “may use up to 3 percent” in introductory provisions.
@@ -9903,6 +10589,26 @@ Pub. L. 114–255, div. B, title XIV, § 14008, Dec. 13, 2016, 130 Stat. 1296, p
 
 #### Federal Law Enforcement Training
 Pub. L. 114–255, div. B, title XIV, § 14025, Dec. 13, 2016, 130 Stat. 1310, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 13, 2016], the Attorney General shall provide direction and guidance for the following: “(1) Training programs.—Programs that offer specialized and comprehensive training, in procedures to identify and appropriately respond to incidents in which the unique needs of individuals who have a mental illness are involved, to first responders and tactical units of—“(A) Federal law enforcement agencies; and “(B) other Federal criminal justice agencies such as the Bureau of Prisons, the Administrative Office of the United States Courts, and other agencies that the Attorney General determines appropriate. “(2) Improved technology.—The establishment of, or improvement of existing, computerized information systems to provide timely information to employees of Federal law enforcement agencies, and Federal criminal justice agencies to improve the response of such employees to situations involving individuals who have a mental illness.”
+
+
+<a id="section-10653"></a>
+## § 10653. Creation of a TBI and PTSD training for first responders
+**(a) In general** Not later than one year after August 16, 2022, the Attorney General, acting through the Director of the Bureau of Justice Assistance, in consultation with the Director of the Centers for Disease Control and Prevention and the Assistant Secretary for Mental Health and Substance Use, shall solicit best practices regarding techniques to interact with persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder from first responder, brain injury, veteran, and mental health organizations, health care and mental health providers, hospital emergency departments, and other relevant stakeholders, and shall develop crisis intervention training tools for use by first responders (as such term is defined in [section 10705 of this title](./chapter-101-justice-system-improvement.md#section-10705)) that provide—
+
+(1) information on the conditions and symptoms of a traumatic brain injury, an acquired brain injury, and post-traumatic stress disorder;
+
+(2) techniques to interact with persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder; and
+
+(3) information on how to recognize persons who have a traumatic brain injury, an acquired brain injury, or post-traumatic stress disorder.
+
+**(b) Use of training tools at Law Enforcement Mental Health Learning Sites** The Attorney General shall ensure that not less than one Law Enforcement Mental Health Learning Site designated by the Director of the Bureau of Justice Assistance uses the training tools developed under subsection (a).
+
+**(c) Police Mental Health Collaboration Toolkit** The Attorney General shall make the training tools developed under subsection (a) available as part of the Police-Mental Health Collaboration Toolkit provided by the Bureau of Justice Assistance.
+
+### Statutory Notes
+
+#### Findings
+Pub. L. 117–170, § 2, Aug. 16, 2022, 136 Stat. 2091, provided that: “Congress finds the following: “(1) According to the Centers for Disease Control and Prevention, there were approximately 2.9 million traumatic brain injury-related emergency department visits, hospitalizations, and deaths in the United States in 2014. “(2) Effects of traumatic brain injury (TBI) can be short-term or long-term, and include impaired thinking or memory, movement, vision or hearing, or emotional functioning, such as personality changes or depression. “(3) Currently, between 3.2 million and 5.3 million persons are living with a TBI-related disability in the United States. “(4) About 7 or 8 percent of Americans will experience post-traumatic stress disorder (PTSD) at some point in their lives, and about 8 million adults have PTSD during the course of a given year. “(5) TBI and PTSD have been recognized as the signature injuries of the Wars in Iraq and Afghanistan. “(6) According to the Department of Defense, 383,000 men and women deployed to Iraq and Afghanistan sustained a brain injury while in the line of duty between 2000 and 2018. “(7) Approximately 13.5 percent of Operations Iraqi Freedom and Enduring Freedom veterans screen positive for PTSD, according to the Department of Veteran Affairs. “(8) About 12 percent of Gulf War Veterans have PTSD in a given year while about 30 percent of Vietnam Veterans have had PTSD in their lifetime. “(9) Physical signs of TBI can include motor impairment, dizziness or poor balance, slurred speech, impaired depth perception, or impaired verbal memory, while physical signs of PTSD can include agitation, irritability, hostility, hypervigilance, self-destructive behavior, fear, severe anxiety, or mistrust. “(10) Physical signs of TBI and PTSD often overlap with physical signs of alcohol or drug impairment, which complicate a first responder’s ability to quickly and effectively identify an individual’s condition.”
 
 
 <a id="section-10661"></a>
@@ -10177,6 +10883,9 @@ Section was formerly classified to [section 3797cc–21 of Title 42](https://usc
 
 Another section 3001 of Pub. L. 90–351 was classified to [section 10681 of this title](./chapter-101-justice-system-improvement.md#section-10681), prior to repeal by Pub. L. 115–391.
 
+#### Short Title
+For short title of part E of title IX of Pub. L. 110–315, which enacted this subchapter, as the “John R. Justice Prosecutors and Defenders Incentive Act of 2008”, see section 951 of Pub. L. 110–315, set out as a Short Title of 2008 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-10681"></a>
 ## § 10681. Repealed. Pub. L. 115–391, title V, § 502(c)(1), Dec. 21, 2018, 132 Stat. 5228
@@ -10240,9 +10949,11 @@ Section was formerly classified to [section 3797ee–1 of Title 42](https://usco
 
   (E) a veterans treatment court program, including the activities described in subsection (i) of [section 10651 of this title](./chapter-101-justice-system-improvement.md#section-10651);
 
-  (F) a focus on parents whose incarceration could result in their children entering the child welfare system; and
+  (F) a focus on parents whose incarceration could result in their children entering the child welfare system;
 
-  (G) a community-based substance use diversion program sponsored by a law enforcement agency.
+  (G) a community-based substance use diversion program sponsored by a law enforcement agency; and
+
+  (H) a pilot program for rural areas to implement community response programs that focus on reducing opioid overdose deaths, which may include presenting alternatives to incarceration, as described in subsection (f).
 
 (2) In the case of a State, facilitating or enhancing planning and collaboration between State criminal justice agencies and State substance abuse agencies in order to more efficiently and effectively carry out activities or services described in any paragraph of this subsection that address problems related to opioid abuse.
 
@@ -10280,10 +10991,25 @@ Section was formerly classified to [section 3797ee–1 of Title 42](https://usco
 
 **(e) Period** The period of a grant made under this subchapter may not be longer than 4 years, except that renewals and extensions beyond that period may be granted at the discretion of the Attorney General.
 
+**(f) Rural pilot program**
+
+(1) **In general** — The pilot program described under this subsection shall make grants to rural areas to implement community response programs to reduce opioid overdose deaths. Grants issued under this subsection shall be jointly operated by units of local government, in collaboration with public safety and public health agencies or public safety, public health and behavioral health collaborations. A community response program under this subsection shall identify gaps in community prevention, treatment, and recovery services for individuals who encounter the criminal justice system and shall establish treatment protocols to address identified shortcomings. The Attorney General, through the Office of Justice Programs, shall increase the amount provided as a grant under this section for a pilot program by no more than five percent for each of the two years following certification by the Attorney General of the submission of data by the rural area on the prescribing of schedules II, III, and IV controlled substances to a prescription drug monitoring program, or any other centralized database administered by an authorized State agency, which includes tracking the dispensation of such substances, and providing for interoperability and data sharing with each other such program (including an electronic health records system) in each other State, and with any interstate entity that shares information between such programs.
+
+(2) **Rules of construction** — Nothing in this subsection shall be construed to—
+
+  (A) direct or encourage a State to use a specific interstate data sharing program; or
+
+  (B) limit or prohibit the discretion of a prescription drug monitoring program for interoperability connections to other programs (including electronic health records systems, hospital systems, pharmacy dispensing systems, or health information exchanges).
+
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 3797ff of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797ff&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2022—Subsec. (a)(1)(H). Pub. L. 117–250, § 2(1), added subpar. (H).
+
+Subsec. (f). Pub. L. 117–250, § 2(2), added subsec. (f).
 
 
 <a id="section-10702"></a>
@@ -10501,6 +11227,11 @@ Section was formerly classified to [section 3797ff–6 of Title 42](https://usco
 
 (3) Internet-based crime against children and child pornography.
 
+### Statutory Notes
+
+#### Short Title
+For short title of part MM of title I of Pub. L. 90–351, which is classified to this subchapter, as the “National White Collar Crime Control Act of 2017”, see section 3030 of Pub. L. 90–351, set out as a Short Title of 1968 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+
 
 <a id="section-10722"></a>
 ## § 10722. Purposes
@@ -10621,6 +11352,9 @@ The Director of the Bureau of Justice Assistance shall promulgate such rules and
 
 #### References in Text
 Section 223(d) of the Protecting Access to Medicare Act of 2014, referred to in subsec. (d)(2), is section 223(d) of Pub. L. 113–93, which is set out as a note under [section 1396a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a&num=0&edition=prelim), The Public Health and Welfare.
+
+#### Short Title
+For short title ofPub. L. 116–281, which enacted this subchapter, as the “Crisis Stabilization and Community Reentry Act of 2020”, see section 1 of Pub. L. 116–281, set out as a Short Title of 2020 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
 
 <a id="section-10752"></a>

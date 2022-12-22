@@ -51,7 +51,7 @@ In subsection (e), the words “by the Secretary” are omitted as surplus. The 
 For transfer of duties, powers, and authority of Research and Special Programs Administration under this chapter to the Administrator of the Pipeline and Hazardous Materials Safety Administration, see section 2(b) of Pub. L. 108–426, set out as a note under [section 108 of this title](./chapter-001-organization.md#section-108).
 
 #### Study and Report on User Fee Assessment Factors
-Pub. L. 104–304, § 17, Oct. 12, 1996, 110 Stat. 3803, provided that,not later than 1 year after Oct. 12, 1996, the Secretary of Transportation, after considering a wide range of assessment factors and suggestions and comments from the public, would transmit to Congress a report assessing pipeline safety user fees solely on the basis of mileage to determine whether that measure of the resources of the Department of Transportation was the most appropriate measure of the resources used by the Department or another basis of assessment would be more appropriate.
+Pub. L. 104–304, § 17, Oct. 12, 1996, 110 Stat. 3803, provided that, not later than 1 year after Oct. 12, 1996, the Secretary of Transportation, after considering a wide range of assessment factors and suggestions and comments from the public, would transmit to Congress a report assessing pipeline safety user fees solely on the basis of mileage to determine whether that measure of the resources of the Department of Transportation was the most appropriate measure of the resources used by the Department or another basis of assessment would be more appropriate.
 
 
 <a id="section-60302"></a>

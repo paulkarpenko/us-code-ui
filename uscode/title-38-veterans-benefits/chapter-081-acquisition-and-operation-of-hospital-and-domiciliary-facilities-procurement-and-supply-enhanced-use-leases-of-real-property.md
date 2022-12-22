@@ -171,12 +171,28 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
   (B) The term “covered training curriculum” means, with respect to employees specified in subparagraph (A), a training curriculum relating to construction or facilities management.
 
+**(h)**
+
+(1) Notwithstanding any other provision of law requiring the use of competitive procedures, including [section 2304 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim), when the Secretary determines it to be in the best interest of the Department, the Secretary may enter into a lease with an academic affiliate or covered entity to acquire space for the purpose of providing health-care resources to veterans.
+
+(2) In this subsection:
+
+  (A) The term “academic affiliate” means an institution or organization described in [section 7302(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7302/d&num=0&edition=prelim).
+
+  (B) The term “covered entity” means a unit or subdivision of a State, local, or municipal government, public or nonprofit agency, institution, or organization, or other institution or organization as the Secretary considers appropriate that owns property controlled by an academic affiliate to be leased under this subsection.
+
+  (C) The term “health-care resource” has the meaning given that term in [section 8152(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8152/1&num=0&edition=prelim).
+
+  (D) The term “space” means any room, unit, floor, wing, building, parking facility, or other subdivision of a building or facility owned or controlled by an academic affiliate.
+
 ### Statutory Notes
 
 #### References in Text
 The fiscal year during which the VA Asset and Infrastructure Review Act of 2018 is enacted, referred to in subsec. (g)(1)(A), (5)(A), is the fiscal year during which Pub. L. 115–182, which was approved June 6, 2018, was enacted.
 
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–168 added subsec. (h).
+
 2018—Subsec. (g). Pub. L. 115–182 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary shall ensure that each employee of the Department with responsibilities, as determined by the Secretary, relating to the infrastructure construction or alteration of medical facilities, including such construction or alteration carried out pursuant to contracts or agreements, undergoes a program of ongoing professional training and development. Such program shall be designed to ensure that employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services. The Secretary may provide the program under this subsection directly or through a contract or agreement with a non-Federal entity or with a non-Department Federal entity.”
 
 2016—Subsecs. (f), (g). Pub. L. 114–315 added subsecs. (f) and (g).
@@ -217,51 +233,71 @@ Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Admini
 
 (1) The purpose of this subsection is to enable Congress to ensure the equitable distribution of medical facilities throughout the United States, taking into consideration the comparative urgency of the need for the services to be provided in the case of each particular facility.
 
-(2) No funds may be appropriated for any fiscal year, and the Secretary may not obligate or expend funds (other than for advance planning and design), for any major medical facility project or any major medical facility lease unless funds for that project or lease have been specifically authorized by law.
+(2)
+
+  (A) No funds may be appropriated for any fiscal year, and the Secretary may not obligate or expend funds (other than for advance planning and design), for any major medical facility project unless funds for that project have been specifically authorized by law.
+
+  (B) No funds may be appropriated for any fiscal year, and the Secretary may not obligate or expend funds (other than for advance planning and design), for any major medical facility lease unless the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives each adopt a resolution approving the lease.
 
 (3) For purposes of this subsection:
 
   (A) The term “major medical facility project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $20,000,000, but such term does not include an acquisition by exchange, nonrecurring maintenance projects of the Department, or the construction, alteration, or acquisition of a shared Federal medical facility for which the Department’s estimated share of the project costs does not exceed $20,000,000.
 
-  (B) The term “major medical facility lease” means a lease for space for use as a new medical facility at an average annual rent of more than $1,000,000.
+  (B) The term “major medical facility lease”—
 
-**(b)** Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
+    (i) means a lease for space for use as a new medical facility approved through the General Services Administration under [section 3307(a) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3307/a&num=0&edition=prelim) at an average annual rent equal to or greater than the appropriate dollar threshold described in such section, which shall be subject to annual adjustment in accordance with section 3307(h) of such title; and
 
-(1) A detailed estimate of the total costs of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a detailed report of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under [section 8111 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8111). Such detailed estimate shall include an identification of each of the following:
+    (ii) does not include a lease for space for use as a shared Federal medical facility for which the Department’s estimated share of the lease costs does not exceed such dollar threshold.
 
-  (A) Total construction costs.
+**(b)**
 
-  (B) Activation costs.
+(1) Whenever the President or the Secretary submit 11 So in original. Probably should be “submits”. to Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
-  (C) Special purpose alterations (lump-sum payment) costs.
+  (A) A detailed estimate of the total costs of the medical facility to be constructed, altered, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a detailed report of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under [section 8111 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8111). Such detailed estimate shall include an identification of each of the following:
 
-  (D) Number of personnel.
+    (i) Total construction costs.
 
-  (E) Total costs of ancillary services, equipment, and all other items.
+    (ii) Activation costs.
 
-(2) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period, a ten-year period, and a twenty-year period.
+    (iii) Special purpose alterations (lump-sum payment) costs.
 
-(3) Current and projected workload and utilization data regarding the facility, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period.
+    (iv) Number of personnel.
 
-(4) Projected operating costs of the facility, including both recurring and non-recurring costs (including and identifying both recurring and non-recurring costs (including activation costs and total costs of ancillary services, equipment and all other items)) over a five-year period, a ten-year period, and a twenty-year period.
+    (v) Total costs of ancillary services, equipment, and all other items.
 
-(5) The priority score assigned to the project or lease under the Department’s prioritization methodology and, if the project or lease is being proposed for funding before a project or lease with a higher score, a specific explanation of the factors other than the priority score that were considered and the basis on which the project or lease is proposed for funding ahead of projects or leases with higher priority scores.
+  (B) Demographic data applicable to such facility, including information on projected changes in the population of veterans to be served by the facility over a five-year period, a ten-year period, and a twenty-year period.
 
-(6) In the case of a prospectus proposing the construction of a new or replacement medical facility, each of the following:
+  (C) Current and projected workload and utilization data regarding the facility, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period.
 
-  (A) A detailed estimate of the total costs (including total construction costs, activation costs, special purpose alterations (lump-sum payment) costs, number of personnel and total costs of ancillary services, equipment and all other items) for each alternative to construction of the facility that was considered.
+  (D) Projected operating costs of the facility, including both recurring and non-recurring costs (including and identifying both recurring and non-recurring costs (including activation costs and total costs of ancillary services, equipment and all other items)) over a five-year period, a ten-year period, and a twenty-year period.
 
-  (B) A comparison of total costs to total benefits for each such alternative.
+  (E) The priority score assigned to the project under the Department’s prioritization methodology and, if the project is being proposed for funding before a project with a higher score, a specific explanation of the factors other than the priority score that were considered and the basis on which the project is proposed for funding ahead of projects with higher priority scores.
 
-  (C) An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
+  (F) In the case of a prospectus proposing the construction of a new or replacement medical facility, each of the following:
 
-(7) In the case of a prospectus proposing funding for a major medical facility lease, a detailed analysis of how the lease is expected to comply with Office of Management and Budget Circular A–11 and [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim) (commonly referred to as the “Anti-Deficiency Act”). Any such analysis shall include—
+    (i) A detailed estimate of the total costs (including total construction costs, activation costs, special purpose alterations (lump-sum payment) costs, number of personnel and total costs of ancillary services, equipment and all other items) for each alternative to construction of the facility that was considered.
 
-  (A) an analysis of the classification of the lease as a “lease-purchase”, “capital lease”, or “operating lease” as those terms are defined in Office of Management and Budget Circular A–11;
+    (ii) A comparison of total costs to total benefits for each such alternative.
 
-  (B) an analysis of the obligation of budgetary resources associated with the lease; and
+    (iii) An explanation of why the preferred alternative is the most effective means to achieve the stated project goals and the most cost-effective alternative.
 
-  (C) an analysis of the methodology used in determining the asset cost, fair market value, and cancellation costs of the lease.
+(2) Whenever the President or the Secretary submit to Congress a request for the funding of a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
+
+  (A) A description of the facility to be leased.
+
+  (B) An estimate of the cost to the Federal Government of the facility to be leased.
+
+  (C) An estimate of the energy performance of the proposed lease space, to include a description of anticipated utilization of renewable energy, energy efficient and climate resilient elements, and related matters.
+
+  (D) Current and projected workload and utilization data regarding the facility to be leased, including information on projected changes in workload and utilization over a five-year period, a ten-year period, and a twenty-year period.
+
+  (E) A detailed analysis of how the lease is expected to comply with Office of Management and Budget Circular A–11 and [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim) (commonly referred to as the “Anti-Deficiency Act”). Any such analysis shall include—
+
+    (i) an analysis of the classification of the lease as a “lease purchase”, a “capital lease”, or an “operating lease” as those terms are defined in Office of Management and Budget Circular A–11;
+
+    (ii) an analysis of the obligation of budgetary resources associated with the lease; and
+
+    (iii) an analysis of the methodology used in determining the asset cost, fair market value, and cancellation costs of the lease.
 
 **(c)**
 
@@ -333,9 +369,41 @@ Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Admini
 
 (3) Not more than 30 days after entering into a major medical facility lease, the Secretary shall submit to each committee described in paragraph (1) a report on any material differences between the lease that was entered into and the proposed lease described under such paragraph, including how the lease that was entered into changes the previously submitted scoring analysis described in subparagraph (D) of such paragraph.
 
+**(i)**
+
+(1) Notwithstanding subsection (a)(2)(B), the Secretary may carry out interim leasing actions as the Secretary considers necessary for the following leases:
+
+  (A) Major medical facility leases (as defined in subsection (a)(3)(B)) approved pursuant to this section and for which a prospectus for a replacement lease has been submitted to Congress pursuant to subsection (b)(2).
+
+  (B) Replacement leases that do not require approval under this section and for which a prospectus has been submitted to Congress pursuant to subsection (b)(2).
+
+(2) In this subsection, the term “interim leasing actions” has the meaning given that term by the Administrator of the General Services Administration.
+
+**(j)** The Secretary may obligate and expend funds to exercise a purchase option included in any major medical facility lease (as defined in subsection (a)(3)(B)).
+
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–168, § 703(a), designated existing provisions as subpar. (A), struck out “or any major medical facility lease” after “major medical facility project” and “or lease” after “for that project”, and added subpar. (B).
+
+Subsec. (a)(3)(B). Pub. L. 117–168, § 703(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘major medical facility lease’ means a lease for space for use as a new medical facility at an average annual rent of more than $1,000,000.”
+
+Subsec. (b). Pub. L. 117–168, § 703(c)(5), (8), designated existing provisions as par. (1), substituted “to Congress” for “to the Congress” and struck out “or a major medical facility lease (as defined in subsection (a)(3)(B))” after “subsection (a)(3)(A))” in introductory provisions, and added par. (2). Former pars. (1) and (2) redesignated subpars. (A) and (B), respectively, of par. (1). Amendment directing the striking out of “or a major medical facility lease (as defined in subsection (a)(3)(b))” was executed by striking text containing “(a)(3)(B)” instead of “(a)(3)(b)”, to reflect the probable intent of Congress.
+
+Subsec. (b)(1)(A). Pub. L. 117–168, § 703(c)(2), (4), (6), redesignated subsec. (b)(1) and its subpars. (A) to (E) as subsec. (b)(1)(A) and cls. (i) to (v), respectively, and struck out “leased,” after “altered,” in introductory provisions.
+
+Subsec. (b)(1)(B) to (D). Pub. L. 117–168, § 703(c)(4), redesignated subsec. (b)(2) to (4) as subsec. (b)(1)(B) to (D), respectively.
+
+Subsec. (b)(1)(E). Pub. L. 117–168, § 703(c)(4), (7), redesignated subsec. (b)(5) as subsec. (b)(1)(E) and struck out “or lease” after “project” wherever appearing and “or leases” after “projects”.
+
+Subsec. (b)(6). Pub. L. 117–168, § 703(c)(3), (4), redesignated subsec. (b)(6) and its subpars. (A) to (C) as subsec. (b)(1)(F) and cls. (i) to (iii), respectively.
+
+Subsec. (b)(7). Pub. L. 117–168, § 703(c)(1), struck out par. (7) which required detailed analyses of proposed funding for major medical facility leases.
+
+Subsec. (i). Pub. L. 117–168, § 703(d), added subsec. (i).
+
+Subsec. (j). Pub. L. 117–168, § 703(e), added subsec. (j).
+
 2019—Subsec. (a)(3). Pub. L. 116–61 added par. (3) and struck out former par. (3) which read as follows: “For purposes of this subsection, the term ‘major medical facility project’ means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $20,000,000, but such term does not include an acquisition by exchange, nonrecurring maintenance projects of the Department, or the construction, alteration, or acquisition of a shared Federal medical facility for which the Department’s estimated share of the project costs does not exceed $20,000,000.”
 
 2018—Subsec. (a)(3). Pub. L. 115–182, which directed the general amendment of par. (3) of section 8104(a), without specifying the Code title to be amended, was executed by amending par. (3) of subsec. (a) of this section, to reflect the probable intent of Congress. Prior to amendment, par. (3) read as follows: “For the purpose of this subsection:
@@ -453,6 +521,9 @@ Subsecs. (d) to (f). Pub. L. 100–322, § 422(d), redesignated subsecs. (e) and
 “(2) no appropriation may be made for the lease of any space for use as a medical facility at an average annual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof.”
 
 Subsec. (b)(1). Pub. L. 99–166, § 303, inserted “and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase” after “such facility”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–168, title VII, § 703(f), Aug. 10, 2022, 136 Stat. 1799, provided that: “The amendments made by this section [amending this section] shall apply with respect to any lease that has not been specifically authorized by law on or before the date of the enactment of this Act [Aug. 10, 2022].”
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–262, title II, § 205(b), Oct. 9, 1996, 110 Stat. 3190, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to any prospectus submitted by the Secretary of Veterans Affairs after the date of the enactment of this Act [Oct. 9, 1996].”
@@ -880,7 +951,7 @@ Pub. L. 97–306, title IV, § 409(a), Oct. 14, 1982, 96 Stat. 1446, provided th
 
 (2) To facilitate the incentive program, there is established in the Treasury a fund to be known as the “DOD–VA Health Care Sharing Incentive Fund”. Each Secretary shall annually contribute to the fund a minimum of $15,000,000 from the funds appropriated to that Secretary’s Department. Such funds shall remain available until expended and shall be available for any purpose authorized by this section.
 
-(3) The program under this subsection shall terminate on September 30, 2023.
+(3) The program under this subsection shall terminate on September 30, 2026.
 
 **(e) Guidelines and Policies for Implementation of Coordination and Sharing Recommendations, Contracts, and Agreements.—**
 
@@ -975,6 +1046,8 @@ The Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred 
 Provisions similar to those comprising this section were contained in former [section 5003 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5003&num=0&edition=prelim) prior to the general revision of this subchapter by Pub. L. 96–22.
 
 #### Amendments
+2022—Subsec. (d)(3). Pub. L. 117–180 substituted “September 30, 2026” for “September 30, 2023”.
+
 2019—Subsec. (d)(3). Pub. L. 116–92 substituted “September 30, 2023” for “September 30, 2020”.
 
 2015—Subsec. (d)(3). Pub. L. 114–92, which directed substitution of “September 30, 2020” for “September 30, 2015”, was executed by making the substitution for “September 30, 2016” to reflect the probable intent of Congress and the intervening amendment by Pub. L. 114–58. See below.
@@ -1221,7 +1294,7 @@ Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care se
 
 <a id="section-8111b"></a>
 ## § 8111B. Shared medical facilities with Department of Defense
-**(a) Agreements.—** The Secretary of Veterans Affairs may enter into agreements with the Secretary of Defense for the planning, design, and construction of facilities to be operated as shared medical facilities.
+**(a) Agreements.—** The Secretary of Veterans Affairs may enter into agreements with the Secretary of Defense for the planning, design, and construction, or the leasing, of facilities to be operated as shared medical facilities.
 
 **(b) Transfer of Funds by Secretary of Veterans Affairs.—**
 
@@ -1233,11 +1306,15 @@ Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care se
 
   (B) the other requirements of [section 8104 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8104) have been met with respect to amounts identified for transfer.
 
+(3) The Secretary of Veterans Affairs may transfer to the Department of Defense amounts appropriated to the “Medical Facilities” account of the Department of Veterans Affairs for the purpose of leasing space for a shared medical facility if the estimated share of the Department of Veterans Affairs for the lease costs does not exceed the amount specified in [section 8104(a)(3)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8104/a/3/B&num=0&edition=prelim).
+
 **(c) Transfer of Funds to Secretary of Veterans Affairs.—**
 
 (1) Any amount transferred to the Secretary of Veterans Affairs by the Secretary of Defense for necessary expenses for the planning, design, or construction of a shared medical facility, if the estimated share of the project costs of the Department of Veterans Affairs does not exceed the amount specified in [section 8104(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8104/a/3/A&num=0&edition=prelim), may be credited to the “Construction, minor projects” account of the Department of Veterans Affairs and used for the necessary expenses of constructing such shared medical facility.
 
 (2) Any amount transferred to the Secretary of Veterans Affairs by the Secretary of Defense for necessary expenses for the planning, design, or construction of a shared medical facility, if the estimated share of the project costs of the Department of Veterans Affairs exceeds the amount specified in [section 8104(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8104/a/3/A&num=0&edition=prelim), may be credited to the “Construction, major projects” account of the Department of Veterans Affairs and used for the necessary expenses of constructing such shared medical facility if the other requirements of [section 8104 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8104) have been met with respect to amounts identified for transfer.
+
+(3) Any amount transferred to the Secretary of Veterans Affairs by the Secretary of Defense for the purpose of leasing space for a shared medical facility may be credited to the “Medical Facilities” account of the Department of Veterans Affairs and may be used for such purpose.
 
 **(d) Merger of Amounts Transferred.—** Any amount transferred to the Secretary of Defense under subsection (b) and any amount transferred to the Secretary of Veterans Affairs under subsection (c) shall be merged with and available for the same purposes and the same period as the appropriation or fund to which transferred.
 
@@ -1248,6 +1325,15 @@ Ex. Ord. No. 12751, Feb. 14, 1991, 56 F.R. 6787, which related to health care se
 (1) means a building or buildings, or a campus, intended to be used by both the Department of Veterans Affairs and the Department of Defense for the provision of health care services, whether under the jurisdiction of the Secretary of Veterans Affairs or the Secretary of Defense, and whether or not located on a military installation or on real property under the jurisdiction of the Secretary of Veterans Affairs; and
 
 (2) includes any necessary building and auxiliary structure, garage, parking facility, mechanical equipment, abutting and covered sidewalks, and accommodations for attending personnel.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–168, § 706(b)(1), inserted “, or the leasing,” after “design, and construction”.
+
+Subsec. (b)(3). Pub. L. 117–168, § 706(b)(2), added par. (3).
+
+Subsec. (c)(3). Pub. L. 117–168, § 706(b)(3), added par. (3).
 
 
 <a id="section-8112"></a>
@@ -1485,7 +1571,7 @@ Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended by 
 
 (4) The Secretary may enter into partnerships or agreements with public or private entities dedicated to historic preservation to facilitate the transfer, leasing, or adaptive use of structures or properties specified in subsection (b)(3)(D).
 
-(5) The authority of the Secretary under paragraph (1) expires on September 30, 2022.
+(5) The authority of the Secretary under paragraph (1) expires on September 30, 2024.
 
 **(b)**
 
@@ -1514,6 +1600,8 @@ Pub. L. 107–188, title I, § 154, June 12, 2002, 116 Stat. 631, as amended by 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(5). Pub. L. 117–180 substituted “September 30, 2024” for “September 30, 2022”.
+
 2020—Subsec. (a)(5). Pub. L. 116–159 substituted “September 30, 2022” for “September 30, 2020”.
 
 2018—Subsec. (a)(5). Pub. L. 115–251 substituted “September 30, 2020” for “December 31, 2018”.
@@ -2321,13 +2409,9 @@ Subsec. (f)(8). Pub. L. 116–283, § 862(b)(1)(B)(vi), redesignated par. (8) as
 
 Subsec. (k). Pub. L. 116–283, § 862(b)(1)(D), added subsec. (k). Former subsec. (k) redesignated (l).
 
-Pub. L. 116–183 , § 2(a)(2), added subsec. (k). Former subsec. (k) redesignated (l).
-
 Subsec. (k)(3)(A). Pub. L. 116–315 substituted “or any other” for “and any other”.
 
 Subsec. (l). Pub. L. 116–283, § 862(b)(1)(C), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
-
-Pub. L. 116–183,, § 2(a)(1) redesignated subsec. (k) as (l).
 
 Subsec. (m). Pub. L. 116–283, § 862(b)(1)(E), added par. (1) and redesigated pars. (1) to (3) as (2) to (4), respectively.
 
@@ -3389,7 +3473,29 @@ Pub. L. 104–110, title II, § 202(c), Feb. 13, 1996, 110 Stat. 771, provided t
 
 (1) The Secretary may in accordance with this subchapter enter into leases with respect to real property that is under the jurisdiction or control of the Secretary. Any such lease under this subchapter may be referred to as an “enhanced-use lease”. The Secretary may dispose of any such property that is leased to another party under this subchapter in accordance with [section 8164 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8164). The Secretary may exercise the authority provided by this subchapter notwithstanding [section 8122 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8122), subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40, or any other provision of law (other than Federal laws relating to environmental and historic preservation) inconsistent with this section. The applicability of this subchapter to section 421(b) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) is covered by subsection (c).
 
-(2) The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and if the lease is not inconsistent with and will not adversely affect the mission of the Department.
+(2)
+
+  (A) The Secretary may enter into an enhanced-use lease on or after the date of the enactment of this paragraph only if the Secretary determines—
+
+    (i) that the lease will not be inconsistent with, and will not adversely affect—
+
+      (I) the mission of the Department; or
+
+      (II) the operation of facilities, programs, and services of the Department in the area of the leased property; and
+
+    (ii) that—
+
+      (I) the lease will enhance the use of the leased property by directly or indirectly benefitting veterans; or
+
+      (II) the leased property will provide supportive housing.
+
+  (B) The Secretary shall give priority to enhanced-use leases that, on the leased property—
+
+    (i) provide supportive housing for veterans;
+
+    (ii) provide direct services or benefits targeted to veterans; or
+
+    (iii) provide services or benefits that indirectly support veterans.
 
 (3) The provisions of sections 3141–3144, 3146, and 3147 of title 40 shall not, by reason of this section, become inapplicable to property that is leased to another party under an enhanced-use lease.
 
@@ -3399,7 +3505,7 @@ Pub. L. 104–110, title II, § 202(c), Feb. 13, 1996, 110 Stat. 771, provided t
 
 (1) If the Secretary has determined that a property should be leased to another party through an enhanced-use lease, the Secretary shall, at the Secretary’s discretion, select the party with whom the lease will be entered into using such selection procedures as the Secretary considers appropriate.
 
-(2) The term of an enhanced-use lease may not exceed 75 years.
+(2) The term of an enhanced-use lease may not exceed 99 years.
 
 (3)
 
@@ -3430,11 +3536,17 @@ Pub. L. 104–110, title II, § 202(c), Feb. 13, 1996, 110 Stat. 771, provided t
 #### References in Text
 Section 421(b) of the Veterans’ Benefits and Services Act of 1988, referred to in subsecs. (a)(1) and (c), is section 421(b) of Pub. L. 100–322, title IV, May 20, 1988, 102 Stat. 553, which is not classified to the Code.
 
+The date of the enactment of this paragraph, referred to in subsec. (a)(2)(A), is the date of enactment of Pub. L. 117–168, which was approved Aug. 10, 2022.
+
 Section 224(a) of the Military Construction and Veterans Affairs and Related Agencies Appropriations Act, 2008, referred to in subsec. (c), is section 224(a) of title II of div. I of Pub. L. 110–161, Dec. 26, 2007, 121 Stat. 2272, which is not classified to the Code.
 
 No act with the title “Los Angeles Homeless Veterans Leasing Act of 2016”, referred to in subsec. (c), has been enacted. However, a bill, H.R. 3484, entitled “Los Angeles Homeless Veterans Leasing Act of 2016”, was introduced in the House of Representatives on Sept. 10, 2015, during the 114th Congress. That bill contained provisions similar to section 2 of Pub. L. 114–226, Sept. 29, 2016, 130 Stat. 926, known as the “West Los Angeles Leasing Act of 2016”. Section 2(m)(2) of Pub. L. 114–226 amended this section; the remainder of section 2 of Pub. L. 114–226 is not classified to the Code.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–168, § 705(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary may enter into an enhanced-use lease only for the provision of supportive housing and if the lease is not inconsistent with and will not adversely affect the mission of the Department.”
+
+Subsec. (b)(2). Pub. L. 117–168, § 705(b), substituted “99 years” for “75 years”.
+
 2018—Subsec. (b)(6). Pub. L. 115–182, which directed the general amendment of “section 8162(b)(6)” without specifying the Code title to be amended, was executed by generally amending par. (6) of subsec. (b) of this section, to reflect the probable intent of Congress. Prior to amendment, par. (6) read as follows: “The Secretary may not enter into an enhanced-use lease without certification in advance in writing by the Director of the Office of Management and Budget that such lease complies with the requirements of this subchapter.”
 
 2016—Subsec. (b)(3)(D). Pub. L. 114–226, § 3(a), added subpar. (D).
@@ -3669,7 +3781,11 @@ Subsec. (c). Pub. L. 108–170, § 202(b)(3), substituted “45 days” for “9
 ## § 8165. Use of proceeds
 **(a)**
 
-(1) Funds received by the Department under an enhanced-use lease and remaining after any deduction from those funds under subsection (b) shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund established under [section 1729A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1729a).
+(1) Funds received by the Department under an enhanced-use lease and remaining after any deduction from those funds under subsection (b) shall, at the discretion of the Secretary, be deposited in—
+
+  (A) the Department of Veterans Affairs Medical Care Collections Fund established under [section 1729A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1729a); or
+
+  (B) the Medical Facilities or Construction, Minor Projects account of the Department to be used to defray the costs of administration, maintenance, repair, and related expenses incurred by the Department with respect to property that is owned by or under the jurisdiction or control of the Department.
 
 (2) Funds received by the Department from a disposal of leased property under [section 8164 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8164) shall be deposited into the Department of Veterans Affairs Construction, Major Projects account or Construction, Minor Projects account, as the Secretary considers appropriate.
 
@@ -3678,6 +3794,8 @@ Subsec. (c). Pub. L. 108–170, § 202(b)(3), substituted “45 days” for “9
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–168 substituted “shall, at the discretion of the Secretary, be deposited in—” and subpars. (A) and (B) for “shall be deposited in the Department of Veterans Affairs Medical Care Collections Fund established under [section 1729A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1729a).”
+
 2012—Subsec. (a)(2). Pub. L. 112–154 substituted “into the Department of Veterans Affairs Construction, Major Projects account or Construction, Minor Projects account, as the Secretary considers appropriate” for “in the Department of Veterans Affairs Capital Asset Fund established under [section 8118 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8118)”.
 
 2004—Subsec. (a)(2). Pub. L. 108–422 substituted “Department of Veterans Affairs Capital Asset Fund established under [section 8118 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8118)” for “nursing home revolving fund”.
@@ -3781,22 +3899,8 @@ Pub. L. 112—154, title II, § 211(i)(2), Aug. 6, 2012, 126 Stat. 1182, provide
 
 
 <a id="section-8169"></a>
-## § 8169. Expiration
-
-The authority of the Secretary to enter into enhanced-use leases under this subchapter expires on December 31, 2023.
+## § 8169. Repealed. Pub. L. 117–168, title VII, § 705(d), Aug. 10, 2022, 136 Stat. 1800]
 
 ### Statutory Notes
 
-#### Amendments
-2012—Pub. L. 112–154 substituted “December 31, 2023” for “December 31, 2011”.
-
-1999—Pub. L. 106–117 substituted “December 31, 2011” for “December 31, 2001”.
-
-1997—Pub. L. 105–114 substituted “December 31, 2001” for “December 31, 1997”.
-
-1996—Pub. L. 104–110 substituted “December 31, 1997” for “December 31, 1995”.
-
-1994—Pub. L. 103–452 substituted “December 31, 1995” for “December 31, 1994”.
-
-#### Ratification of Actions During Period of Expired Authority
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under [section 1710 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1710).
+Section, added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 422; amended Pub. L. 103–452, title I, § 103(d), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(k), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, § 205(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 106–117, title II, § 208(e), Nov. 30, 1999, 113 Stat. 1568; Pub. L. 112—154, title II, § 211(j), Aug. 6, 2012, 126 Stat. 1182, provided that the authority of the Secretary to enter into enhanced-use leases under this subchapter would expire on Dec. 31, 2023.

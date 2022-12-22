@@ -246,7 +246,7 @@ As used in this chapter, the term—
 #### References in Text
 [Section 1434(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1434/a/1/C&num=0&edition=prelim), referred to in par. (1), was amended generally by Pub. L. 106–513, § 6(a), Nov. 13, 2000, 114 Stat. 2383, and, as so amended, no longer contains a cl. (v).
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
 2000—Par. (2). Pub. L. 106–513, § 19(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘Magnuson Act’ means the Magnuson Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.);”.
@@ -545,9 +545,9 @@ Pub. L. 104–283, § 10, Oct. 11, 1996, 110 Stat. 3368, provided that: “No de
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(2)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Submerged Lands Act, referred to in subsec. (a)(2)(C)(iv), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim), and Tables.
+The Submerged Lands Act, referred to in subsec. (a)(2)(C)(iv), is act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim), and Tables.
 
 This Act, referred to in subsec. (b)(1), means Pub. L. 92–532, which enacted this chapter, chapter 32A (§ 1447 et seq.) of this title, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters.
 
@@ -1182,7 +1182,7 @@ Pub. L. 102–587, title II, § 2201, Nov. 4, 1992, 106 Stat. 5047, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2000—Subsec. (a). Pub. L. 106–513, § 16, substituted “advise and make recommendations” for “provide assistance”.
@@ -1359,7 +1359,7 @@ For similar provisions relating to the Dr. Nancy Foster Scholarship Program, see
 ### Statutory Notes
 
 #### References in Text
-The National Marine Sanctuaries Act, referred to in subsec. (e), is title III of Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1061, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-032-marine-sanctuaries.md#section-1431) and Tables.
+The National Marine Sanctuaries Act, referred to in subsec. (e), is title III of Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1061, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-032-marine-sanctuaries.md#section-1431) and Tables.
 
 #### Codification
 For similar provisions relating to the Dr. Nancy Foster Scholarship Program, see [section 1445c of this title](./chapter-032-marine-sanctuaries.md#section-1445c).

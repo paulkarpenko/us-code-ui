@@ -14,7 +14,7 @@ As declared by the Congress in the Arms Control and Disarmament Act [[22 U.S.C. 
 ### Statutory Notes
 
 #### References in Text
-The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, as amended, which is classified generally to chapter 35 (§ 2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551), and Tables.
+The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, which is classified generally to chapter 35 (§ 2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2551 of this title](./chapter-035-arms-control-and-disarmament.md#section-2551), and Tables.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
@@ -618,7 +618,7 @@ Section effective July 1, 1968, see section 41 of Pub. L. 90–629, set out as a
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(3)(B), (C), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 729, which made provision for expedited procedures in the Senate, and was not classified to the Code.
 
@@ -828,7 +828,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§ 2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§ 2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in subsec. (g), is not classified to the Code.
 
@@ -998,7 +998,7 @@ For delegation of certain functions of the President under this section, see sec
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
+The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
 #### Amendments
 1999—Subsec. (d). Pub. L. 106–113 designated existing provisions as par. (1) and added par. (2).
@@ -1082,7 +1082,7 @@ For delegation of functions of the President under subsec. (a) of this section, 
 #### References in Text
 This chapter, referred to in subsecs. (a), (g)(1), and (h), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (g)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 1996—Subsecs. (f) to (g). Pub. L. 104–164 added subsecs. (f) to (g).
@@ -1281,7 +1281,7 @@ This chapter, referred to in subsecs. (a)(1), (5)(B), (6) and (d), was in the or
 
 Subsection (d) of this section, referred to in subsec. (a)(5)(B), probably means the subsec. (d) added by section 112(b) of Pub. L. 99–83, defining cash flow financing.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 2014—Subsec. (e). Pub. L. 113–276 substituted “Foreign Affairs” for “International Relations”.
@@ -1730,7 +1730,7 @@ For delegation of functions of the President under this section, with certain co
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, as amended, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, as amended, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 The Food for Peace Act, as amended, referred to in subsec. (a), is act July 10, 1954, ch. 469, 68 Stat. 454, which is classified principally to chapter 41 (§ 1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1691 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1691&num=0&edition=prelim) and Tables.
 
@@ -2503,7 +2503,7 @@ Section 104 of the Foreign Corrupt Practices Act ([15 U.S.C. 78dd–2](https://u
 
 Sections 3, 4, 5, and 6 of the Prevention of Terrorist Access to Destructive Weapons Act of 2004, referred to in subsec. (g)(1)(A)(xii), probably means sections 6903, 6904, 6905, and 6906, respectively, of Pub. L. 108–458, which enacted [section 2332g of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332g&num=0&edition=prelim), Crimes and Criminal Procedure, amended sections 2122 and 2272 of Title 42, The Public Health and Welfare, and enacted sections 2332h and 175c of Title 18.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(9)(C), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 The International Emergency Economic Powers Act, referred to in subsec. (k)(3)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
@@ -2723,9 +2723,9 @@ Upon a finding that an export of uranium depleted in the isotope 235 is incorpor
 #### References in Text
 The Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
-The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, as amended, which is classified principally to chapter 47 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201) and Tables.
+The Nuclear Non-Proliferation Act of 1978, referred to in text, is Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§ 3201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3201 of this title](./chapter-047-nuclear-non-proliferation.md#section-3201) and Tables.
 
-The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to this chapter (§ 2751 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
+The Arms Export Control Act, referred to in text, is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to this chapter (§ 2751 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
 The Export Administration Act of 1979, referred to in text, is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
@@ -2955,7 +2955,7 @@ To the extent possible, the information specified in subparagraph (B) of paragra
 #### References in Text
 This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original “this Act”, and this chapter, referred to in subsec. (i)(2), was in the original “the Arms Export Control Act”, both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 Section 40(d) of the Arms Export Control Act, referred to in subsec. (f)(2)(A), is classified to subsec. (d) of this section.
 
@@ -3039,7 +3039,7 @@ For delegation of functions of the President under this section, see section 1(q
 #### References in Text
 This chapter, referred to in subsecs. (a)(1) and (d), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Codification
 Another section 40A of Pub. L. 90–629 is classified to [section 2781 of this title](./chapter-039-arms-export-control.md#section-2781).
@@ -3252,7 +3252,7 @@ For purposes of this chapter, the term—
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+The Atomic Energy Act of 1954, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Par. (2). Pub. L. 113–276, § 208(b)(1)(B), substituted “2761(a) of this title,” for “2761(a) of this title,,” in introductory provisions.
@@ -3315,7 +3315,7 @@ together with such funds as may be authorized and appropriated or otherwise made
 #### References in Text
 This chapter, referred to in subsec. (a)(1) to (3), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a) and (b)(3), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 1996—Subsec. (a)(4). Pub. L. 104–164 redesignated subpar. (A) as entire par. (4) and struck out subpar. (B) which read as follows: “Each report pursuant to [section 2795b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2795b/a&num=0&edition=prelim) shall designate the defense articles that have been acquired or are to be acquired pursuant to this paragraph and the defense articles acquired under this subchapter that were transferred for use in narcotics control purposes.”
@@ -3349,7 +3349,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Delegation of Functions
 For delegation of functions of the President under subsec. (b) of this section, see section 1(s) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751). Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
@@ -3398,7 +3398,7 @@ The preceding sentence does not constitute authorization of appropriations for p
 #### References in Text
 This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Codification
 Amendment by Pub. L. 102–145 is based on section 545 of H.R. 2621, One Hundred Second Congress, 1st Session, as passed by the House of Representatives on June 19, 1991, which was enacted into law by Pub. L. 102–145, § 118, as added by Pub. L. 102–266, § 102, Apr. 1, 1992, 106 Stat. 93. Section 118 of Pub. L. 102–145 provided that the authority and conditions provided in such section 545 shall be applicable to funds appropriated by Pub. L. 102–145 (and are hereby enacted) in lieu of the authority and conditions provided in section 546 of Pub. L. 101–513. See 1990, 1991, and 1992 Amendment notes below.
@@ -3476,7 +3476,7 @@ For delegation of functions of the President under this section, see section 1(t
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
@@ -3519,7 +3519,7 @@ For delegation of functions of the President under subsec. (a) of this section, 
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 2 of part II of that Act is classified generally to part II (§ 2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (b), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 765, which made provision for expedited procedures in the Senate, and was not classified to the Code.
 
@@ -4105,7 +4105,7 @@ The authorities provided in this subchapter shall be exercised consistent with t
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
@@ -4221,7 +4221,7 @@ Sanctions contained in this section waived in certain regards with respect to In
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (b)(2)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (b)(2)(A), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Chapters 4 and 6 of part II of the Act are classified generally to parts IV (§ 2346 et seq.) and VI (§ 2348 et seq.), respectively, of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 This chapter, referred to in subsecs. (a)(1) and (b)(2)(B)(i), (C), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 

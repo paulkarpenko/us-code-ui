@@ -42,7 +42,7 @@ In this chapter—
 #### References in Text
 Division A, section 101(e), title I of Public Law 105–277, referred to in par. (4), is Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–232. Provisions under the heading “multinational species conservation fund” in Pub. L. 105–277, § 101(e) [title I] appear at 112 Stat. 2681–237, and are classified in part to [section 4246 of this title](./chapter-062-african-elephant-conservation.md#section-4246).
 
-The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Amendments
 2002—Par. (4). Pub. L. 107–111 substituted “the account established by division A, section 101(e), title I of Public Law 105–277 under the heading ‘multinational species conservation fund’ ” for “the African Elephant Conservation Fund established by [section 4212 of this title](./chapter-062-african-elephant-conservation.md#section-4212)”.
@@ -83,7 +83,7 @@ In fiscal year 1999 and thereafter, donations to provide assistance under [secti
 ### Statutory Notes
 
 #### References in Text
-The African Elephant Conservation Act, referred to in text, is title II of Pub. L. 100–478, Oct. 7, 1988, 102 Stat. 2315, as amended. Part I of the Act is classified generally to subchapter I (§ 4211 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4201 of this title](./chapter-062-african-elephant-conservation.md#section-4201) and Tables.
+The African Elephant Conservation Act, referred to in text, is title II of Pub. L. 100–478, Oct. 7, 1988, 102 Stat. 2315. Part I of the Act is classified generally to subchapter I (§ 4211 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4201 of this title](./chapter-062-african-elephant-conservation.md#section-4201) and Tables.
 
 #### Codification
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1999, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the African Elephant Conservation Act which comprises this chapter.
@@ -140,7 +140,7 @@ The Congress finds the following:
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in par. (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in par. (3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 
 <a id="section-4213"></a>
@@ -240,7 +240,7 @@ Section, Pub. L. 100–478, title II, § 2103, Oct. 7, 1988, 102 Stat. 2317, whi
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2002—Subsec. (a). Pub. L. 107–141 made technical amendment to reference in original act which appears in text as reference to this chapter.
@@ -362,7 +362,7 @@ The authority of the Secretary under this chapter is in addition to and shall no
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in text, is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in text, is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 The Lacey Act Amendments of 1981, referred to in text, is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to chapter 53 (§ 3371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3371 of this title](./chapter-053-control-of-illegally-taken-fish-and-wildlife.md#section-3371) and Tables.
 

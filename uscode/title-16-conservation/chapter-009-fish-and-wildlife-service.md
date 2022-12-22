@@ -23,7 +23,7 @@ Section, R.S. § 4395; acts Jan. 20, 1888, ch. 1, 25 Stat. 1; Feb. 27, 1925, ch.
 Section, acts Mar. 4, 1911, ch. 285, § 1, 36 Stat. 1436; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, provided for an acting Commissioner of Fisheries.
 
 #### Transfer of Functions
-Reorg. Plan No. II of 1939, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, transferred Bureau of Fisheries in Department of Commerce and its functions, and Bureau of Biological Survey in Department of Agriculture and its functions, to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior.
+Reorg. Plan No. II of 1939, § 4(e), (f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, set out in the Appendix to Title 5, Government Organization and Employees, transferred Bureau of Fisheries in Department of Commerce and its functions, and Bureau of Biological Survey in Department of Agriculture and its functions, to Department of the Interior, to be administered under direction and supervision of Secretary of the Interior.
 
 Reorg. Plan No. III of 1940, § 3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees, consolidated Bureau of Fisheries and Bureau of Biological Survey into one agency in Department of the Interior to be known as the Fish and Wildlife Service. It was further provided that functions of consolidated agency should be administered under direction and supervision of Secretary of the Interior by a director and assistants, and that offices of Commissioner and Deputy Commissioner of Fisheries and offices of Chief and Associate Chief of Bureau of Biological Survey should be abolished and their functions transferred to consolidated agency.
 
@@ -45,7 +45,7 @@ The Congress declares that the fish, shellfish, and wildlife resources of the Na
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–168, § 1, Apr. 23, 2018, 132 Stat. 1284, provided that: “This Act [amending [section 742f of this title](./chapter-009-fish-and-wildlife-service.md#section-742f)] may be cited as the ‘Keep America’s Refuges Operational Act’.”
@@ -81,7 +81,7 @@ Act Aug. 8, 1956, ch. 1036, § 1, 70 Stat. 1119, provided: “This Act [enacting
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 742a of this title](./chapter-009-fish-and-wildlife-service.md#section-742a) and Tables.
+This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 742a of this title](./chapter-009-fish-and-wildlife-service.md#section-742a) and Tables.
 
 #### Amendments
 1974—Subsec. (a). Pub. L. 93–271, § 1(1), (2), struck out provisions relating to the establishment of the position of and the appointment of the Commissioner of Fish and Wildlife. Provisions for the establishment of the United States Fish and Wildlife Service within the Department of the Interior, consisting of the Bureau of Commercial Fisheries and the Bureau of Sport Fisheries and Wildlife, the appointment of a Director for each of the Bureaus, and the succession of the United States Fish and Wildlife Service to the Fish and Wildlife Service of the Department, were also struck out.
@@ -134,9 +134,9 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior in
 ### Statutory Notes
 
 #### References in Text
-The Pittman-Robertson Wildlife Restoration Act, referred to in subsec. (c), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669) and Tables.
+The Pittman-Robertson Wildlife Restoration Act, referred to in subsec. (c), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to chapter 5B (§ 669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669) and Tables.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (c), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777) and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsec. (c), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777) and Tables.
 
 
 <a id="section-742c"></a>
@@ -293,7 +293,7 @@ Section 2 of Pub. L. 85–582, Aug. 1, 1958, 72 Stat. 479, as amended by Pub. L.
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 742a of this title](./chapter-009-fish-and-wildlife-service.md#section-742a) and Tables.
+This Act, referred to in subsec. (a), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 742a of this title](./chapter-009-fish-and-wildlife-service.md#section-742a) and Tables.
 
 #### Transfer of Functions
 All functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget were transferred to the President of the United States by section 101 of 1970 Reorg. Plan No. 2, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of 1970 Reorg. Plan No. 2 redesignated Bureau of the Budget as Office of Management and Budget.
@@ -553,9 +553,9 @@ Nothing in this Act shall be construed (1) to interfere in any manner with the r
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 742a of this title](./chapter-009-fish-and-wildlife-service.md#section-742a) and Tables.
+This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 742a of this title](./chapter-009-fish-and-wildlife-service.md#section-742a) and Tables.
 
-The Submerged Lands Act, referred to in text, is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Submerged Lands Act, referred to in text, is act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-742j"></a>
@@ -566,7 +566,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 742a of this title](./chapter-009-fish-and-wildlife-service.md#section-742a) and Tables.
+This Act, referred to in text, is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 742a of this title](./chapter-009-fish-and-wildlife-service.md#section-742a) and Tables.
 
 
 <a id="section-742j-1"></a>

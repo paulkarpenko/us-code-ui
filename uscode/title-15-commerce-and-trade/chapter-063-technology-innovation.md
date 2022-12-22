@@ -2,7 +2,7 @@
 title: 15
 chapter: '63'
 heading: TECHNOLOGY INNOVATION
-section_count: 35
+section_count: 37
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -196,7 +196,7 @@ As used in this chapter, unless the context otherwise requires, the term—
 ### Statutory Notes
 
 #### References in Text
-The Plant Variety Protection Act, referred to in par. (7), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§ 2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2321 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2321&num=0&edition=prelim) and Tables.
+The Plant Variety Protection Act, referred to in par. (7), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2321 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2007—Pub. L. 110–69 redesignated pars. (2) and (4) to (13) as (1) and (2) to (11), respectively, and struck out pars. (1) and (3) which defined “Office” and “Under Secretary”, respectively.
@@ -718,7 +718,7 @@ A prior section 8 of Pub. L. 96–480 was renumbered section 9 and is classified
 ### Statutory Notes
 
 #### References in Text
-The National Science Foundation Act of 1950, referred to in subsec. (c), is act May 10, 1950, ch. 171, 64 Stat. 149, as amended, which is classified generally to chapter 16 (§ 1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1861 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1861&num=0&edition=prelim) and Tables.
+The National Science Foundation Act of 1950, referred to in subsec. (c), is act May 10, 1950, ch. 171, 64 Stat. 149, which is classified generally to chapter 16 (§ 1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1861 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1861&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 9 of Pub. L. 96–480 was renumbered section 10 and is classified to [section 3708 of this title](./chapter-063-technology-innovation.md#section-3708).
@@ -1291,6 +1291,9 @@ Subsec. (b)(4), (5). Pub. L. 100–519, § 301(2), added par. (4) and redesignat
 #### Applicability of 2021 Amendment
 Pub. L. 117–58, div. D, title III, § 40322(b)(2), Nov. 15, 2021, 135 Stat. 1018, provided that: “(A) Definition.—In this subsection, the term ‘cooperative research and development agreement’ has the meaning given the term in section 12(d) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a/d&num=0&edition=prelim)). “(B) Retroactive effect.—Clause (ii) [sic] of section 12(c)(7)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a(c)(7)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a/c/7/B&num=0&edition=prelim)), as added by subsection (a) of this section, shall apply with respect to any cooperative research and development agreement that is in effect as of the day before the date of enactment of this Act [Nov. 15, 2021].”
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Review of Cooperative Research and Development Agreement Procedures
 Pub. L. 106–404, § 8, Nov. 1, 2000, 114 Stat. 1746, provided that: “(a) Review.—Within 90 days after the date of the enactment of this Act [Nov. 1, 2000], each Federal agency with a federally funded laboratory that has in effect on that date of the enactment one or more cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a](./chapter-063-technology-innovation.md#section-3710a)) shall report to the Committee on National Security of the National Science and Technology Council and the Congress on the general policies and procedures used by that agency to gather and consider the views of other agencies on—“(1) joint work statements under section 12(c)(5)(C) or (D) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a(c)(5)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a/c/5/C&num=0&edition=prelim) or (D)); or “(2) in the case of laboratories described in section 12(d)(2)(A) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a(d)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3710a/d/2/A&num=0&edition=prelim)), cooperative research and development agreements under such section 12, with respect to major proposed cooperative research and development agreements that involve critical national security technology or may have a significant impact on domestic or international competitiveness. “(b) Procedures.—Within 1 year after the date of the enactment of this Act [Nov. 1, 2000], the Committee on National Security of the National Science and Technology Council, in conjunction with relevant Federal agencies and national laboratories, shall—“(1) determine the adequacy of existing procedures and methods for interagency coordination and awareness with respect to cooperative research and development agreements described in subsection (a); and “(2) establish and distribute to appropriate Federal agencies—“(A) specific criteria to indicate the necessity for gathering and considering the views of other agencies on joint work statements or cooperative research and development agreements as described in subsection (a); and “(B) additional procedures, if any, for carrying out such gathering and considering of agency views with respect to cooperative research and development agreements described in subsection (a). Procedures established under this subsection shall be designed to the extent possible to use or modify existing procedures, to minimize burdens on Federal agencies, to encourage industrial partnerships with national laboratories, and to minimize delay in the approval or disapproval of joint work statements and cooperative research and development agreements. “(c) Limitation.—Nothing in this Act [see Short Title of 2000 Amendment note set out under [section 3701 of this title](./chapter-063-technology-innovation.md#section-3701)], nor any procedures established under this section shall provide to the Office of Science and Technology Policy, the National Science and Technology Council, or any Federal agency the authority to disapprove a cooperative research and development agreement or joint work statement, under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a](./chapter-063-technology-innovation.md#section-3710a)), of another Federal agency.”
 
@@ -1470,6 +1473,8 @@ Pub. L. 105–309, § 10, Oct. 30, 1998, 112 Stat. 2939, provided that: “In th
 
   (F) Nonprofit organizations.
 
+  (G) Community.
+
 (2) The Secretary may at any time expand, subdivide, or otherwise modify the list of categories within which awards may be made as initially in effect under paragraph (1), and may establish separate awards for other organizations including units of government, upon a determination that the objectives of this section would be better served thereby; except that any such expansion, subdivision, modification, or establishment shall not be effective unless and until the Secretary has submitted a detailed description thereof to the Congress and a period of 30 days has elapsed since that submission.
 
 (3) In any year, not more than 18 awards may be made under this section to recipients who have not previously received an award under this section, and no award shall be made within any category described in paragraph (1) if there are no qualifying enterprises in that category.
@@ -1500,6 +1505,10 @@ Pub. L. 105–309, § 10, Oct. 30, 1998, 112 Stat. 2939, provided that: “In th
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (c)(1)(D), (E). Pub. L. 117–167, § 10246(b)(1)(A), realigned margin.
+
+Subsec. (c)(1)(G). Pub. L. 117–167, § 10246(b)(1)(B), added subpar. (G).
+
 2007—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory).”
 
 2004—Subsec. (c)(1)(F). Pub. L. 108–320 added subpar. (F).
@@ -2166,9 +2175,7 @@ Subsec. (p)(2)(G). Pub. L. 114–329, § 401(b)(12)(C)(iii), added subpar. (G).
 
 (1) **Annual independent audits** — The Secretary shall enter into an arrangement with an independent auditor for annual evaluations of the program under this section.
 
-(2) **Comptroller general review** — The Comptroller General of the United States shall conduct a biennial review of the Secretary’s execution of the program under this section.
-
-(3) **Report** — The results of the independent audit under paragraph (1) and the Comptroller General’s review under paragraph (2) shall be provided directly to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+(2) **Report** — The results of the independent audit under paragraph (1) shall be provided directly to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 **(n) Report to Congress** Concurrent with the submission to Congress of the President’s annual budget request in each year after January 4, 2011, the Secretary shall transmit to the Committee on Science and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing a summary of all activities carried out under this section.
 
@@ -2201,6 +2208,9 @@ Subsec. (p)(2)(G). Pub. L. 114–329, § 401(b)(12)(C)(iii), added subpar. (G).
 **(t) Authorization of appropriations** There are authorized to be appropriated $20,000,000 for each of fiscal years 2011 through 2013 to provide the cost of loan guarantees under this section.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Subsec. (m)(2), (3). Pub. L. 117–167 redesignated par. (3) as (2), struck out “and the Comptroller General’s review under paragraph (2)” before “shall be provided”, and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The Comptroller General of the United States shall conduct a biennial review of the Secretary’s execution of the program under this section.”
 
 #### Change of Name
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
@@ -2360,6 +2370,603 @@ Committee on Science and Technology of House of Representatives changed to Commi
 2019—Pub. L. 116–92 amended section generally. Prior to amendment, section related to regional innovation program, consisting of subsecs. (a) to (g).
 
 2014—Pub. L. 113–235 amended section generally. Prior to amendment, text related to regional innovation program and consisted of subsecs. (a) to (i), including provisions relating to establishment of program, cluster grants, science and research park development grants, loan guarantees for science park infrastructure, regional innovation research and information program, interagency coordination, evaluation of program, definitions, and authorization of appropriations.
+
+
+<a id="section-3722a"></a>
+## § 3722a. Regional Technology and Innovation Hub Program
+**(a) Definitions** In this section:
+
+(1) **Appropriate committees of Congress** — The term “appropriate committees of Congress” means—
+
+  (A) the Committee on Commerce, Science, and Transportation, the Committee on Environment and Public Works, and the Committee on Appropriations of the Senate; and
+
+  (B) the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.
+
+(2) **Cooperative extension services** — The term “cooperative extension services” has the meaning given the term in [section 3103 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103&num=0&edition=prelim).
+
+(3) **Site connectivity infrastructure** — The term “site connectivity infrastructure” means localized driveways and access roads to a facility as well as hookups to the new facility for drinking water, waste water, broadband, and other basic infrastructure services already present in the area.
+
+(4) **Venture development organization** — The term “venture development organization” has the meaning given such term in [section 3722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722/a&num=0&edition=prelim).11 See References in Text note below.
+
+(5) **Community development financial institution** — The term “community development financial institution” has the meaning given in [section 4702 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4702&num=0&edition=prelim).
+
+(6) **Minority depository institution** — The term “minority depository institution” means an entity that is—
+
+  (A) a minority depository institution, as defined in section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 ([12 U.S.C. 1463](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1463&num=0&edition=prelim) note); or
+
+  (B) considered to be a minority depository institution by—
+
+    (i) the appropriate Federal banking agency; or
+
+    (ii) the National Credit Union Administration, in the case of an insured credit union.
+
+(7) **Low population State** — The term “low population State” means a State without an urbanized area with a population greater than 250,000 as reported in the decennial census.
+
+(8) **Small and rural communities** — The term “small and rural community” means a noncore area, a micropolitan area, or a small metropolitan statistical area with a population of not more than 250,000.
+
+**(b) Regional Technology and Innovation Hub Program**
+
+(1) **In general** — Subject to the availability of appropriations, the Secretary shall carry out a program—
+
+  (A) to encourage new and constructive collaborations among local, State, Tribal, and Federal government entities, institutions of higher education, the private sector, economic development organizations, labor organizations, nonprofit organizations, and community organizations that promote broad-based regional innovation initiatives;
+
+  (B) to support eligible consortia in the development and implementation of regional innovation strategies;
+
+  (C) to designate eligible consortia as regional technology and innovation hubs and facilitate activities by consortia designated as regional technology and innovation hubs in implementing their regional innovation strategies—
+
+    (i) to enable United States leadership in technology and innovation sectors critical to national and economic security;
+
+    (ii) to support regional economic development and resilience, including in small cities and rural areas, and promote increased geographic diversity of innovation across the United States;
+
+    (iii) to promote the benefits of technology development and innovation for all Americans, including underserved communities and vulnerable communities;
+
+    (iv) to support the modernization and expansion of United States manufacturing based on advances in technology and innovation;
+
+    (v) to support domestic job creation and broad-based economic growth; and
+
+    (vi) to improve the pace of market readiness, industry maturation, and overall commercialization and domestic production of innovative research;
+
+  (D) to ensure that the regional technology and innovation hubs address the intersection of emerging technologies and either regional challenges or national challenges; and
+
+  (E) to conduct ongoing research, evaluation, analysis, and dissemination of best practices for regional development and competitiveness in technology and innovation.
+
+(2) **Awards** — The Secretary shall carry out the program required by paragraph (1) through the award of the following:
+
+  (A) Strategy development grants or cooperative agreements to eligible consortia under subsection (e).
+
+  (B) Strategy implementation grants or cooperative agreements to regional technology and innovation hubs under subsection (f).
+
+(3) **Administration** — The Secretary shall carry out this section through the Assistant Secretary of Commerce for Economic Development in coordination with the Under Secretary of Commerce for Standards and Technology.
+
+**(c) Eligible consortia** For purposes of this section, an eligible consortium is a consortium that—
+
+(1) includes 1 or more of each of the following—
+
+  (A) institutions of higher education, which may include Historically Black Colleges and Universities, Tribal Colleges or Universities, and minority-serving institutions;
+
+  (B) State, territorial, local, or Tribal governments or other political subdivisions of a State, including State and local agencies, or a consortium thereof;
+
+  (C) industry or firms in relevant technology, innovation, or manufacturing sectors;
+
+  (D) economic development organizations or similar entities that are focused primarily on improving science, technology, innovation, entrepreneurship, or access to capital; and
+
+  (E) labor organizations or workforce training organizations, which may include State and local workforce development boards as established under sections 3111 and 3122 of title 29; 1 and
+
+(2) **may include 1 or more—**
+
+  (A) economic development entities with relevant expertise, including a district organization (as defined in section 300.3 of title 13, Code of Federal Regulations, or successor regulation);
+
+  (B) organizations that contribute to increasing the participation of underserved populations in science, technology, innovation, and entrepreneurship;
+
+  (C) venture development organizations;
+
+  (D) organizations that promote local economic stability, high-wage domestic jobs, and broad-based economic opportunities, such as employee ownership membership associations and State or local employee ownerships and cooperative development centers, financial institutions and investment funds, including community development financial institutions and minority depository institutions;
+
+  (E) elementary schools and secondary schools, including area career and technical education schools (as defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (29 22 So in original. Probably should be “20”. U.S.C. 2302);
+
+  (F) National Laboratories (as defined in [section 15801 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801&num=0&edition=prelim));
+
+  (G) Federal laboratories;
+
+  (H) Manufacturing extension centers;
+
+  (I) Manufacturing USA institutes;
+
+  (J) transportation planning organizations;
+
+  (K) a cooperative extension services;
+
+  (L) organizations that represent the perspectives of underserved communities in economic development initiatives; and
+
+  (M) institutions receiving an award under [section 19108 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section19108&num=0&edition=prelim).
+
+**(d) Designation of regional technology and innovation hubs**
+
+(1) **In general** — In carrying out subsection (b)(1)(C), the Secretary shall use a competitive, merit-review process to designate eligible consortia as regional technology and innovation hubs.
+
+(2) **Distribution** — In conducting the competitive process under paragraph (1), the Secretary shall ensure geographic and demographic diversity in the designation of regional technology hubs by, subject to available appropriations, designating at least 20 technology hubs, and—
+
+  (A) seeking to designate at least three technology hubs in each region covered by a regional office of the Economic Development Administration, while—
+
+    (i) ensuring that not fewer than one-third of eligible consortia so designated as regional technology hubs significantly benefit a small and rural community, which may include a State or territory described in clauses (ii) and (iii);
+
+    (ii) ensuring that not fewer than one-third of eligible consortia so designated as regional technology hubs include as a member of the eligible consortia at least 1 member that is a State or territory that is eligible to receive funding from the Established Program to Stimulate Competitive Research of the National Science Foundation; and
+
+    (iii) ensuring that at least one eligible consortium so designated as a regional technology hub is headquartered in a low population State that is eligible to receive funding from the Established Program to Stimulate Competitive Research of the National Science Foundation;
+
+  (B) seeking to designate an additional two regional technology hubs based on selection factors which shall include likelihood of success and may include regional factors such as the extent to which the regional technology and innovation hub significantly engages and benefits underserved communities in and near metropolitan areas;
+
+  (C) encouraging eligible consortia to leverage institutions of higher education serving populations historically underrepresented in STEM, including historically Black Colleges and Universities, Tribal Colleges or Universities, and minority-serving institutions to significantly benefit an area or region; and
+
+  (D) encouraging proposals from eligible consortia that would significantly benefit an area or region whose economy significantly relies on or has recently relied on coal, oil, or natural gas production or development.
+
+(3) **Relation to certain grant awards** — The Secretary shall not require an eligible consortium to receive a grant or cooperative agreement under subsection (e) in order to be designated as a regional technology and innovation hub under paragraph (1) of this subsection.
+
+**(e) Strategy development grants and cooperative agreements**
+
+(1) **In general** — The Secretary shall use a competitive, merit-review process to award grants or cooperative agreements to eligible consortia for the development of regional innovation strategies.
+
+(2) **Number of recipients** — Subject to availability of appropriations, the Secretary shall seek to award a grant or cooperative agreement under paragraph (1) to not fewer than 60 eligible consortia.
+
+(3) **Geographic diversity and representation**
+
+  (A) *In general* — The Secretary shall carry out paragraph (1) in a manner that ensures geographic diversity and representation from communities of differing populations.
+
+  (B) *Awards to small and rural communities* — In carrying out paragraph (1), the Secretary shall—
+
+    (i) award not fewer than one-third of the grants and cooperative agreements under such paragraph to eligible consortia that significantly benefit a small and rural community, which may include a State described in clause (ii); and
+
+    (ii) award not fewer than one-third of the grants and cooperative agreements under such paragraph to eligible consortia that include as a member of the eligible consortia at least 1 member that is a State or territory that is eligible to receive funding from the Established Program to Stimulate Competitive Research of the National Science Foundation.
+
+(4) **Use of funds**
+
+  (A) Use of funds under this grant shall include—
+
+    (i) coordination of a locally defined planning processes, across jurisdictions and agencies, relating to developing a comprehensive regional technology strategy;
+
+    (ii) identification of regional partnerships for developing and implementing a comprehensive regional technology strategy;
+
+    (iii) implementation or updating of assessments to determine regional needs and capabilities;
+
+    (iv) development or updating of goals and strategies to implement an existing comprehensive regional plan;
+
+    (v) identification or implementation of planning and local zoning and other code changes necessary to implement a comprehensive regional technology strategy; and
+
+    (vi) development of plans for promoting broad-based economic growth in a region.
+
+  (B) Use of funds under this grant may include the formation of a workforce development strategy, according to the needs for a skilled and technical workforce at all skill and degree levels in the region proposed to be served by the eligible consortia. Any workforce development strategy submitted pursuant to paragraph (1) should include—
+
+    (i) how the eligible consortia will develop, offer, or improve educational or career training programs and curriculum for a skilled and technical workforce;
+
+    (ii) the extent to which such programs developed and offered by the eligible consortia will meet the educational or career training needs of a skilled and technical workforce in the region to be served;
+
+    (iii) how the eligible consortia will provide facilities for students to receive training under such programs developed and offered by the eligible consortia; and
+
+    (iv) how the eligible consortia will enhance outreach and recruitment for such programs developed and offered by the eligible consortia to populations underrepresented in STEM.
+
+(5) **Federal share** — The Federal share of the cost of an effort carried out using a grant or cooperative agreement awarded under this subsection may not exceed 80 percent—
+
+  (A) where in-kind contributions may be used for all or part of the non-Federal share, but Federal funding from other government sources may not count towards the non-Federal share;
+
+  (B) except in the case of an eligible consortium that represents all or part of a small and rural or other underserved community, the Federal share may be up to 90 percent of the total cost, subject to subparagraph (A); and
+
+  (C) except in the case of an eligible consortium that is led by a Tribal government, the Federal share may be up to 100 percent of the total cost of the project.
+
+**(f) Strategy implementation grants and cooperative agreements**
+
+(1) **In general** — The Secretary shall use a competitive, merit-review process to award grants or cooperative agreements to regional technology and innovation hubs for the implementation of regional innovation strategies, including regional strategies for infrastructure and site development, in support of the regional innovation and technology and innovation hub’s plans and programs. The Secretary should determine the size and number of awards based on appropriations available to ensure the success of regional technology and innovation hubs as outlined in subsection (h).
+
+(2) **Use of funds** — Grants or cooperative agreements awarded under paragraph (1) to a regional technology and innovation hub may be used by the regional technology and innovation hub to support any of the following activities, consistent with the most current regional innovation strategy of the regional technology and innovation hub, which may have been developed with or without financial assistance received under subsection (e) of this section:
+
+  (A) *Workforce development activities* — Workforce development activities including activities relating to the following:
+
+    (i) The creation of partnerships between industry, workforce, nonprofit, and educational institutions, which may include community colleges, to create and align technical training and educational programs, including for a skilled technical workforce.
+
+    (ii) The design, development, and updating of educational and training curriculum and programs, including training of trainers, teachers, or instructors tied to demonstrated regional skilled and technical workforce needs.
+
+    (iii) The procurement of facilities and equipment, as required to train a skilled and technical workforce.
+
+    (iv) The development and execution of programs, including traineeships and apprenticeships, to rapidly provide training and award certificates or credentials recognized by regional industries or other organizations.
+
+    (v) The matching of regional employers with a potential new entrant, underemployed, underrepresented, reentering, or incumbent workforce, as well as the securing of commitments from employers to hire workers who successfully complete training programs, or who are awarded certificates or credentials.
+
+    (vi) The expansion of successful training programs at a scale required by the region served by the regional technology and innovation hub, including through the use of online education and mentoring.
+
+    (vii) The development and expansion of programs with the goal of increasing the participation of persons historically underrepresented in STEM and manufacturing in the workforce development plans of the regional technology and innovation hub.
+
+    (viii) The provision of support services for attendees of training programs developed, updated, or expanded pursuant to this subsection, including career counseling.
+
+    (ix) The implementation of outreach and recruitment for training programs developed, updated, or expanded pursuant to this subsection, particularly at local educational institutions, including high schools and community colleges.
+
+  (B) *Business and entrepreneur development activities* — Business and entrepreneur development activities, including activities relating to the following:
+
+    (i) The development and growth of local and regional businesses and the training of entrepreneurs, which may include support for the expansion of employee owned businesses and cooperatives.
+
+    (ii) The support of technology commercialization, including funding for activities relevant to the protection of intellectual property and for advancing potential ventures such as acceleration, incubation, early-stage production and other relevant programming.
+
+    (iii) The development of local and regional capital networks and consortia to attract necessary private funding to businesses and entrepreneurs in the region.
+
+    (iv) The development of local and regional networks for business and entrepreneur mentorship.
+
+  (C) *Technology development and maturation activities* — Technology maturation activities, including activities relating to the following:
+
+    (i) The development and deployment of technologies in sectors critical to the region served by the regional technology and innovation hub or to national and economic security, including industry-university research cooperation, proof of concept, prototype development, testing, and scale-up for manufacturing.
+
+    (ii) The development of programming to support the creation and transfer of intellectual property into private use, such as through startup creation.
+
+    (iii) The provision of facilities for technology maturation, including incubators and production testbeds for collaborative development of technologies by private sector, academic, nonprofit, and other entities.
+
+    (iv) Activities to provide or ensure access to capital for new business and business expansion, including by attracting new private, public, and philanthropic investment and by establishing local and regional venture and loan funds, community development financial institutions, and minority depository institutions.
+
+  (D) *Infrastructure-related activities* — The building of facilities and site connectivity infrastructure necessary to carry out activities described in subparagraphs (A), (B), and (C), including activities relating to the following:
+
+    (i) Establishing a center with required tools and instrumentation for workforce development.
+
+    (ii) Establishing a facility for technology development, demonstration, and testing.
+
+    (iii) Establishing collaborative incubators to support technology commercialization and entrepreneur training.
+
+(3) **Term**
+
+  (A) *Initial performance period* — The term of an initial grant or cooperative agreement awarded under this subsection shall be for a period that the Secretary deems appropriate for the proposed activities but not less than 2 years.
+
+  (B) *Subsequent performance period* — The Secretary may renew a grant or cooperative agreement awarded to a regional technology and innovation hub under paragraph (1) for such period as the Secretary considers appropriate, if the Secretary determines that the regional technology and innovation hub has made satisfactory progress towards the metrics agreed to under subsection (j).
+
+  (C) *Flexible approach* — In renewing a grant or cooperative agreement under subparagraph (B), the Secretary and the eligible consortium may agree to new or additional uses of funds in order to meet changes in the needs of the region.
+
+(4) **Limitation on amount of awards**
+
+  (A) *Initial performance period* — The amount of an initial grant or cooperative agreements awarded to a regional technology and innovation hub under paragraph (3)(A) shall be no more than $150,000,000.
+
+  (B) *Subsequent performance period* — Upon renewal of a grant or cooperative agreement under paragraph (3)(B), the Secretary may award funding in the amount that the Secretary considers appropriate, ensuring that no single regional technology and innovation hub receives more than 10 percent of the aggregate amount of the grants and cooperative agreements awarded under this subsection.
+
+(5) **Matching required**
+
+  (A) *Initial performance period* — Except in the case of a regional technology and innovation hub described in subparagraph (C), the total amount of all grants awarded to a regional technology and innovation hub under this subsection in phase one shall not exceed 90 percent of the total operating costs of the regional technology and innovation hub during the initial performance period.
+
+  (B) *Subsequent performance period* — Except in the case of a regional technology and innovation hub described in subparagraph (C), the total amount of all grants awarded to a regional technology and innovation hub in subsequent performance periods shall not exceed 75 percent of the total operating costs of the regional technology and innovation hub in each year of the grant or cooperative agreement.
+
+  (C) *Small and rural communities, underserved communities, and Indian Tribes*
+
+    (i) *In general* — The total Federal financial assistance awarded in a given year to a regional technology and innovation hub under this subsection shall not exceed amounts as follows:
+
+      (I) In the case of a regional technology and innovation hub that primarily serves a small and rural community or other underserved community, in a fiscal year, 90 percent of the total funding of the regional technology and innovation hub in that fiscal year.
+
+      (II) In the case of a regional technology and innovation hub that is led by a Tribal government, in a fiscal year, 100 percent of the total funding of the regional technology and innovation hub in that fiscal year.
+
+    (ii) *Minimum threshold of rural representation* — For purposes of clause (i)(I), the Secretary shall establish a minimum threshold of rural representation in the regional technology and innovation hub.
+
+  (D) *In-kind contributions* — For purposes of this paragraph, in-kind contributions may be used for part of the non-Federal share of the total funding of a regional technology and innovation hub in a fiscal year.
+
+(6) **Grants for infrastructure** — Any grant or cooperative agreement awarded under this subsection to support the construction of facilities and site connectivity infrastructure shall be awarded pursuant to section 201 of the Public Works and Economic Development Act of 1965 ([42 U.S.C. 3141](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3141&num=0&edition=prelim)) and subject to the provisions of such Act [[42 U.S.C. 3121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) et seq.], except that subsection (b) of such section [[42 U.S.C. 3141(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3141/b&num=0&edition=prelim)] and sections 204 and 301 of such Act ([42 U.S.C. 3144](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3144&num=0&edition=prelim); 3161) shall not apply.
+
+(7) **Relation to certain grant awards** — The Secretary shall not require a regional technology and innovation hub to receive a grant or cooperative agreement under subsection (e) in order to receive a grant or cooperative agreement under this subsection.
+
+**(g) Applications** An eligible consortium seeking designation as a regional technology and innovation hub under subsection (d) or a grant or cooperative agreement under subsection (e) or (f) shall submit to the Secretary an application therefore at such time, in such manner, and containing such information as the Secretary may specify.
+
+**(h) Considerations for designation and award of strategy implementation grants and cooperative agreements** In selecting an eligible consortium that submitted an application under subsection (g) for designation under subsection (d) or for a grant or cooperative agreement under subsection (f), the Secretary shall consider the following:
+
+(1) The potential of the eligible consortium to advance the research, development, deployment, and domestic manufacturing of technologies in a key technology focus area, as described in [section 19107 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section19107&num=0&edition=prelim) or other technology or innovation sector critical to national security and economic competitiveness.
+
+(2) The likelihood of positive regional economic effect, including increasing the number of high wage domestic jobs, creating new economic opportunities for economically disadvantaged and underrepresented populations, and building and retaining wealth in the region.
+
+(3) How the eligible consortium plans to integrate with and leverage the resources of 1 or more federally funded research and development centers, National Laboratories, Federal laboratories, Manufacturing USA institutes, Hollings Manufacturing Extension Partnership centers, regional innovation engines or translation accelerators established under sections 19108 and 19109 of title 42, test beds established and operated under [section 19110 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section19110&num=0&edition=prelim), or other Federal entities.
+
+(4) How the eligible consortium will engage with the private sector, including small- and medium-sized businesses and cooperatives, and employee-owned businesses and cooperatives, to commercialize new technologies and improve the resiliency and sustainability of domestic supply chains in a key technology focus area, or other technology or innovation sector critical to national security and economic competitiveness.
+
+(5) How the eligible consortium will carry out workforce development and skills acquisition programming, including through partnerships with entities that include State and local workforce development boards, institutions of higher education, including community colleges, historically Black colleges and universities, Tribal Colleges or Universities, and minority-serving institutions, labor organizations, nonprofit organizations, workforce development programs, and other related activities authorized by the Secretary, to support the development of a skilled technical workforce for the regional technology and innovation hub, including key technology focus area or other technology or innovation sector critical to national security and economic competitiveness.
+
+(6) How the eligible consortium will improve or expand science, technology, engineering, and mathematics education programs and opportunities in the identified region in elementary and secondary school and higher education institutions located in the identified region to support the development of a key technology focus area or other technology or innovation sector critical to national security and economic competitiveness.
+
+(7) How the eligible consortium plans to develop partnerships with venture development organizations, community development financial institutions and minority depository institutions, and sources of private investment in support of private sector activity, including launching new or expanding existing companies in a key technology focus area or other technology or innovation sector critical to national security and economic competitiveness.
+
+(8) How the eligible consortium plans to organize the activities of regional partners across sectors in support of a regional technology and innovation hub.
+
+(9) How the eligible consortium considers opportunities to support local and regional businesses through procurement, including from minority-owned and women-owned businesses.
+
+(10) How the eligible consortium will ensure that growth in technology, innovation, and advanced manufacturing sectors produces opportunity across the identified region and for economically disadvantaged, minority, underrepresented and rural populations, including, as appropriate, consideration of how the eligible consortium takes into account the relevant impact of existing regional status and plans or may affect regional goals for affordable housing availability, local and regional transportation, high-speed internet access, and primary and secondary education.
+
+(11) How well the region’s education institutions align their activities, including research, educational programs, training, with the proposed areas of focus.
+
+(12) The likelihood efforts served by the consortium will be sustained once Federal support ends.
+
+(13) How the eligible consortium will, as appropriate—
+
+  (A) enhance the economic, environmental, and energy security of the United States by promoting domestic development, manufacture, and deployment of innovative clean technologies and advanced manufacturing practices; and
+
+  (B) support translational research, technology development, manufacturing innovation, and commercialization activities relating to clean technology.
+
+**(i) Coordination and collaboration**
+
+(1) **Coordination with regional innovation program** — The Secretary shall ensure the activities under this section do not duplicate activities or efforts under [section 3722 of this title](./chapter-063-technology-innovation.md#section-3722).
+
+(2) **Coordination among hubs** — The Secretary shall ensure eligible consortia that receive a grant or cooperative agreement under this section coordinate and share best practices for regional economic development.
+
+(3) **Coordination with programs of the National Institute of Standards and Technology** — The Secretary shall coordinate the activities of regional technology and innovation hubs designated under this section, the Hollings Manufacturing Extension Partnership, and the Manufacturing USA Program, as the Secretary considers appropriate, to maintain the effectiveness of a manufacturing extension center or a Manufacturing USA institute.
+
+(4) **Coordination with Department of Energy programs** — The Secretary shall, in collaboration with the Secretary of Energy, coordinate the activities and selection of regional technology and innovation hubs designated under this section, as the Secretaries consider appropriate, to maintain the effectiveness of activities at the Department of Energy and the National Laboratories.
+
+(5) **Interagency collaboration** — In designating regional technology and innovation hubs under subsection (d) and awarding grants or cooperative agreements under subsection (f), the Secretary—
+
+  (A) shall collaborate with Federal departments and agencies whose missions contribute to the goals of the regional technology and innovation hub;
+
+  (B) shall consult with the Director of the National Science Foundation for the purpose of ensuring that the regional technology and innovation hubs are aligned with relevant science, technology, and engineering expertise; and
+
+  (C) may accept funds from other Federal agencies to support grants, cooperative agreements, and activities under this section.
+
+**(j) Performance measurement, transparency, and accountability**
+
+(1) **Metrics, standards, and assessment** — For each grant and cooperative agreement awarded under subsection (f) for a regional technology and innovation hub, the Secretary shall—
+
+  (A) in consultation with the regional technology and innovation hub, develop metrics, which may include metrics relating to domestic job creation, patent awards, increases in research funding, business formation and expansion, and participation of individuals or communities historically underrepresented in STEM, to assess the effectiveness of the activities funded in making progress toward the purposes set forth under subsection (b)(1);
+
+  (B) establish standards for the performance of the regional technology and innovation hub that are based on the metrics developed under subparagraph (A); and
+
+  (C) prior to any award made under a subsequent performance period in subsection (f) and every 2 years thereafter until Federal financial assistance under this section for the regional technology and innovation hub is discontinued, conduct an assessment of the regional technology and innovation hub to confirm whether the performance of the regional technology and innovation hub is meeting the standards for performance established under subparagraph (B) of this paragraph.
+
+(2) **Final reports by recipients of strategy implementation grants and cooperative agreements**
+
+  (A) *In general* — The Secretary shall require each eligible consortium that receives a grant or cooperative agreement under subsection (f) for activities of a regional technology and innovation hub, as a condition of receipt of such grant or cooperative agreement, to submit to the Secretary, not later than 120 days after the last day of the term of the grant or cooperative agreement, a report on the activities of the regional technology and innovation hub supported by the grant or cooperative agreement.
+
+  (B) *Contents of report* — Each report submitted by an eligible consortium under subparagraph (A) shall include the following:
+
+    (i) A detailed description of the activities carried out by the regional technology and innovation hub using the grant or cooperative agreement described in subparagraph (A), including the following:
+
+      (I) A description of each project the regional technology and innovation hub completed using such grant or cooperative agreement.
+
+      (II) An explanation of how each project described in subclause (I) achieves a specific goal under this section in the region of the regional technology and innovation hub with respect to—
+
+        (aa) the resiliency and sustainability of a supply chain;
+
+        (bb) research, development, and deployment of a critical technology;
+
+        (cc) workforce training and development;
+
+        (dd) domestic job creation;
+
+        (ee) entrepreneurship and company formation;
+
+        (ff) commercialization;
+
+        (gg) access to private capital; or
+
+        (hh) participation of individuals or communities historically underrepresented in STEM.
+
+    (ii) A discussion of any obstacles encountered by the regional technology and innovation hub in the implementation of the regional technology and innovation hub and how the regional technology and innovation hub overcame those obstacles.
+
+    (iii) An evaluation of the success of the projects of the regional technology and innovation hub using the performance standards and measures established under paragraph (1), including an evaluation of the planning process and how the project contributes to carrying out the regional innovation strategy of the regional technology and innovation hub.
+
+    (iv) The effectiveness of the regional technology and innovation hub in ensuring that, in the region of the regional technology and innovation hub, growth in technology and innovation sectors produces broadly shared opportunity across the region, including for economic disadvantaged and underrepresented populations and rural areas.
+
+    (v) Information regarding such other matters as the Secretary may require.
+
+(3) **Interim reports by recipients of grants and cooperative agreements** — In addition to requiring submittal of final reports under paragraph (2)(A), the Secretary may require a regional technology and innovation hub described in such paragraph to submit to the Secretary such interim reports as the Secretary considers appropriate.
+
+(4) **Annual reports to Congress** — Not less frequently than once each year, the Secretary shall submit to the appropriate committees of Congress an annual report on the results of the assessments conducted by the Secretary under paragraph (1)(C) during the period covered by the report.
+
+**(k) Authorization of appropriations** There is authorized to be appropriated to the Secretary—
+
+(1) $50,000,000 to award grants and cooperative agreements under subsection (e) for the period of fiscal years 2023 through 2027;
+
+(2) $2,950,000,000 to award grants and cooperative agreements under subsection (f) for the period of fiscal years 2023 and 2024; and
+
+(3) $7,000,000,000 to award grants and cooperative agreements under subsection (f) for the period of fiscal years 2025 through 2027.
+
+**(l) Administration** The Secretary may use funds made available to carry out this section for administrative costs under this section.
+
+### Statutory Notes
+
+#### References in Text
+[Section 3722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722/a&num=0&edition=prelim), referred to in subsec. (a)(4), was in the original “section 27(a) of the Stevenson-Wydler Act of 1980” and was translated as reading “section 27(a) of the Stevenson-Wydler Technology Innovation Act of 1980”, to reflect the probable intent of Congress.
+
+Section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, referred to in subsec. (a)(6)(A), is section 308 of Pub. L. 101–73, which is set out as a note under [section 1463 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1463&num=0&edition=prelim), Banks and Banking.
+
+Sections 3111 and 3122 of title 29, referred to in subsec. (c)(1)(E), was in the original “sections 101 and 107 of the Workforce Investment and Opportunity Act” and was translated as reading “sections 101 and 107 of the Workforce Innovation and Opportunity Act”, to reflect the probable intent of Congress.
+
+Such Act, referred to in subsec. (f)(6), is the Public Works and Economic Development Act of 1965, Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
+
+#### Prior Provisions
+A prior section 28 of Pub. L. 96–480 was renumbered section 30 and is classified to [section 3723 of this title](./chapter-063-technology-innovation.md#section-3723).
+
+#### Initial Designations and Awards
+Pub. L. 117–167, div. B, title VI, § 10621(b), Aug. 9, 2022, 136 Stat. 1659, provided that: “(1) Competition required.—Not later than 1 year after the date of the enactment of this Act [Aug. 9, 2022], subject to the availability of appropriations, the Secretary of Commerce shall commence a competition under subsection (d)(1) of section 28 of the Stevenson-Wydler Technology Innovation Act of 1980 [[15 U.S.C. 3722a(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722a/d/1&num=0&edition=prelim)] (as added by this section). “(2) Designation and award.—Not later than 18 months after the date of the enactment of this Act, if the Secretary has received at least 1 application under subsection (g) of section 28 of the Stevenson-Wydler Technology Innovation Act of 1980 [[15 U.S.C. 3722a(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722a/g&num=0&edition=prelim)] (as added by this section) from an eligible consortium which the Secretary considers suitable for designation under subsection (d)(1) of such section 28, the Secretary shall—“(A) designate at least 1 regional technology and innovation hub under subsection (d)(1) of such section 28; and “(B) award a grant or cooperative agreement under subsection (f)(1) of such section 28 [[15 U.S.C. 3722a(f)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722a/f/1&num=0&edition=prelim)] to each regional technology and innovation hub designated pursuant to subparagraph (A) of this paragraph.”
+
+
+<a id="section-3722b"></a>
+## § 3722b. Distressed area Recompete Pilot Program
+**(a) In general** Within the program authorized under [section 3722a of this title](./chapter-063-technology-innovation.md#section-3722a), the Secretary is authorized to establish a pilot program, to be known as the “Recompete Pilot Program”, to provide grants to eligible recipients representing eligible areas or Tribal lands to alleviate persistent economic distress and support long-term comprehensive economic development and job creation in eligible areas.
+
+**(b) Strategy development grants and cooperative agreements** Subject to available appropriations, the Secretary is authorized, on the application of an eligible recipient, to award up to one half of the number of grants under subsection (e) of [section 3722a of this title](./chapter-063-technology-innovation.md#section-3722a) to eligible recipients to develop a recompete plan and carry out related predevelopment activities.
+
+**(c) Strategy implementation grants and cooperative agreements** Subject to available appropriations and subsection (f), the Secretary shall award, on the application of an eligible recipient, at least ten strategy implementation grants, in accordance with a recompete plan review and approved by the Secretary, to carry out coordinated and comprehensive economic development programs and activities in an eligible area, consistent with a recompete plan approved by the Secretary. Such activities may include—
+
+(1) workforce development activities of the kind described in [section 3722a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722a/f&num=0&edition=prelim) or other job training and workforce outreach programs oriented to local employer needs, such as—
+
+  (A) customized job training programs carried out by local community colleges and other training or educational organizations in partnership with local businesses;
+
+  (B) workforce outreach programs located in, and targeted to, lower-income and underemployed neighborhoods; and
+
+  (C) programs to embed job placement and training services in neighborhood institutions such as churches, housing projects, and community advocacy programs; and
+
+  (D) job retention programs and activities, such as the provision of career coaches;
+
+(2) business and entrepreneur development activities of the kind described in [section 3722a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722a/f&num=0&edition=prelim), technology development and maturation activities of the kind described in such section, or the provision of business advice and assistance to small and medium-sized local businesses and entrepreneurs. Such advice and assistance may include—
+
+  (A) manufacturing extension services;
+
+  (B) small business development centers;
+
+  (C) centers to help businesses bid for Federal procurement contracts;
+
+  (D) entrepreneurial assistance programs that link entrepreneurs with available public and private resources;
+
+  (E) legal advice and resources; and
+
+  (F) assistance in accessing capital;
+
+(3) infrastructure related activities of the kind described in [section 3722a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722a/f&num=0&edition=prelim) or other land and site development programs, such as brownfield redevelopment, research and technology parks, business incubators, business corridor development, and other infrastructure activities related to supporting job creation and employment for residents, subject to the requirements of [section 3722a(f)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3722a/f/6&num=0&edition=prelim); and
+
+(4) additional planning, predevelopment, technical assistance, and other administrative activities as may be necessary for the ongoing implementation, administration, and operation of the programs and activities carried out with a grant or cooperative agreement under this section, including but not limited to economic development planning and evaluation.
+
+**(d) Term**
+
+(1) **Initial performance period** — The term of an initial grant or cooperative agreement awarded under subsection (c) shall be for a period that the Secretary deems appropriate for the proposed activities but not less than 2 years.
+
+(2) **Subsequent performance period** — The Secretary may renew a grant or cooperative agreement awarded under subsection (c) for such period, such amount, and such terms as the Secretary considers appropriate, if the Secretary determines that the recipient of an award under subsection (c) has made satisfactory progress towards metrics or benchmarking requirements established by the Secretary at time of award.
+
+(3) **Flexible approach** — In renewing a grant or cooperative agreement under subsection (c), the Secretary may approve new or additional uses of funds, consistent with the uses described in subsection (c), to meet changes in the needs of the region.
+
+**(e) Limitations**
+
+(1) **Limitation on eligible areas** — An eligible area may not benefit from more than 1 grant or cooperative agreement described in subsection (b) and 1 grant or cooperative agreement described in subsection (c), provided that a renewal described in subsection (d)(2) shall not constitute an additional grant.
+
+(2) **Limitation on recipients** — For purposes of the program under this section, an eligible recipient may not receive multiple grants described in subsection (c) on behalf of more than 1 eligible area.
+
+**(f) Award amount**
+
+(1) **In general** — In determining the amount of a grant that an eligible recipient may be awarded under subsection (c), the Secretary shall—
+
+  (A) take into consideration the proposed activities and projected expenditures outlined in an approved recompete plan; and
+
+  (B) award not more than the product obtained by multiplying—
+
+    (i) the prime-age employment gap of the eligible area;
+
+    (ii) the prime-age population of the eligible area; and
+
+    (iii) either—
+
+      (I) $70,585 for local labor markets; or
+
+      (II) $53,600 for local communities.
+
+(2) **Minimum amount** — The Secretary may not make an award that is less than $20,000,000 to an eligible recipient.
+
+**(g) Applications** To be considered for a grant or cooperative agreement under—
+
+(1) subsection (b) of this section, an eligible recipient shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be appropriate; and
+
+(2) subsection (c) of this section, an eligible recipient shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary determines to be appropriate, including a recompete plan approved by the Secretary.
+
+**(h) Relation to certain grant awards** The Secretary shall not require an eligible recipient to receive a grant or cooperative agreement under subsection (b) in order to receive a grant or cooperative agreement under subsection (c).
+
+**(i) Authorization of appropriations** There is authorized to be appropriated to the Secretary $1,000,000,000 to award grants and cooperative agreements under subsection (c) of this section, for the period of fiscal years 2022 through 2026.
+
+**(j) Definitions** In this section:
+
+(1) **Eligible area** — The term “eligible area” means either of the following:
+
+  (A) A local labor market that—
+
+    (i) has a prime-age employment gap equal to not less than 2.5 percent; and
+
+    (ii) meets additional criteria as the Secretary may establish.
+
+  (B) A local community that—
+
+    (i) has a prime-age employment gap equal to not less than 5 percent;
+
+    (ii) is not located within an eligible local labor market that meets the criteria described in subparagraph (A);
+
+    (iii) has a median annual household income of not more than $75,000; and
+
+    (iv) meets additional criteria as the Secretary may establish.
+
+(2) **Eligible recipient** — The term “eligible recipient” means a specified entity that has been authorized in a manner as determined by the Secretary to represent and act on behalf of an eligible area for the purposes of this section.
+
+(3) **Local labor market** — The term “local labor market” means any of the following areas that contains 1 or more specified entities described in subparagraphs (A) through (D) of paragraph (6) 11 So in original. Probably should be paragraph “(7)”.:
+
+  (A) A metropolitan statistical area or micropolitan statistical area, excluding any area described in subparagraph (C).
+
+  (B) A commuting zone, excluding any areas described in subparagraphs (A) and (C).
+
+  (C) The Tribal land with a Tribal prime-age population represented by a Tribal government.
+
+(4) **Local community** — The term “local community” means the area served by a general-purpose unit of local government that is located within, but does not cover the entire area of, a local labor market that does not meet the criteria described in paragraph (1)(A).
+
+(5) **Prime-age employment gap**
+
+  (A) *In general* — The term “prime-age employment gap” means the difference (expressed as a percentage) between—
+
+    (i) the national 5-year average prime-age employment rate; and
+
+    (ii) the 5-year average prime-age employment rate of the eligible area.
+
+  (B) *Calculation* — For the purposes of subparagraph (A), an individual is prime-age if such individual between the ages of 25 years and 54 years.
+
+(6) **Recompete plan** — The term “recompete plan” means a comprehensive multiyear economic development plan that—
+
+  (A) includes—
+
+    (i) proposed programs and activities to be carried out with a grant awarded under subsection (c) to address the economic challenges of the eligible area in a comprehensive manner that promotes long-term, sustained economic growth, lasting job creation, per capita wage increases, and reduction in the prime-age employment gap of the eligible area;
+
+    (ii) projected costs and annual expenditures and proposed disbursement schedule;
+
+    (iii) the roles and responsibilities of specified entities that may receive grant funds awarded under subsection (c); and
+
+    (iv) other information as the Secretary determines appropriate;
+
+  (B) is submitted to the Secretary for approval for an eligible recipient to be considered for a grant described in subsection (c); and
+
+  (C) may be modified over the term of the grant by the eligible recipient, subject to the approval of the Secretary or at the direction of the Secretary, if the Secretary determines benchmarking requirements are repeatedly not met or if other circumstances necessitate a modification.
+
+(7) **Specified entity** — The term “specified entity” means—
+
+  (A) a unit of local government;
+
+  (B) the District of Columbia;
+
+  (C) a territory of the United States;
+
+  (D) a Tribal government;
+
+  (E) political subdivision of a State or other entity, including a special-purpose entity engaged in economic development activities;
+
+  (F) a public entity or nonprofit organization, acting in cooperation with the officials of a political subdivision of a State or other entity described in subparagraph (E);
+
+  (G) an economic development district (as defined in [section 3122 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3122&num=0&edition=prelim)); and
+
+  (H) a consortium of any of the specified entities described in this paragraph which serve or are contained within the same eligible area.
+
+(8) **Tribal land** — The term “Tribal land” means any land—
+
+  (A) located within the boundaries of an Indian reservation, pueblo, or rancheria; or
+
+  (B) not located within the boundaries of an Indian reservation, pueblo, or rancheria, the title to which is held—
+
+    (i) in trust by the United States for the benefit of an Indian Tribe or an individual Indian;
+
+    (ii) by an Indian Tribe or an individual Indian, subject to restriction against alienation under laws of the United States; or
+
+    (iii) by a dependent Indian community.
+
+(9) **Tribal prime-age population**
+
+  (A) *In general* — The term “Tribal prime-age population” shall be equal to the sum obtained by adding—
+
+    (i) the product obtained by multiplying—
+
+      (I) the total number of individuals ages 25 through 54 residing on the Tribal land of the Tribal government; and
+
+      (II) 0.65; and
+
+    (ii) the product obtained by multiplying—
+
+      (I) the total number of individuals ages 25 through 54 included on the membership roll of the Tribal government; and
+
+      (II) 0.35 22 So in original. Probably should be followed by a period.
+
+  (B) *Use of data* — A calculation under subparagraph (A) shall be determined based on data provided by the applicable Tribal government to the Department of the Treasury under the Coronavirus State and Local Fiscal Recovery Fund programs under title VI of the Social Security Act ([42 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section801&num=0&edition=prelim) et seq.).
+
+### Statutory Notes
+
+#### References in Text
+The Social Security Act, referred to in subsec. (j)(9)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title VI of the Act is classified generally to subchapter VI (§ 801 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+#### Distressed Area Designation and Award
+Pub. L. 117–167, div. B, title VI, § 10621(c), Aug. 9, 2022, 136 Stat. 1660, provided that: “Not later than 18 months after the date of the enactment of this section [Aug. 9, 2022], subject to the availability of appropriations, if the Secretary [of Commerce] has received applications under section 29 of the Stevenson-Wydler Technology Innovation Act of 1980 [[15 U.S.C. 3722b](./chapter-063-technology-innovation.md#section-3722b)] (as added by this section) from an eligible recipient which the Secretary considers suitable for award under such section 29, the Secretary shall award grants or cooperative agreement under subsections (b) and (c) of such section 29 to one or more eligible recipients.”
+
+[For definition of “recipient” as used in section 10621(c) of Pub. L. 117–167, set out above, see [section 18901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18901&num=0&edition=prelim), The Public Health and Welfare.]
 
 
 <a id="section-3723"></a>

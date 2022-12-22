@@ -47,7 +47,9 @@ source: >-
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 117–81, div. A, title V, § 543(a), (c), Dec. 27, 2021, 135 Stat. 1709, 1710, provided that, effective two years after Dec. 27, 2021, this section is amended to read as follows: § 1561. Complaints of sexual harassment: independent investigation
+Pub. L. 117–81, div. A, title V, § 543(a), (c), Dec. 27, 2021, 135 Stat. 1709, 1710, provided that, effective two years after Dec. 27, 2021, and applicable to any investigation of a formal complaint of sexual harassment made on or after that date, this section is amended to read as follows:
+
+§ 1561. Complaints of sexual harassment: independent investigation
 
 (a) Action on Complaints Alleging Sexual Harassment.—A commanding officer or officer in charge of a unit, vessel, facility, or area of the Army, Navy, Air Force, Marine Corps, or Space Force who receives from a member of the command or a civilian employee under the supervision of the officer a formal complaint alleging a claim of sexual harassment by a member of the armed forces or a civilian employee of the Department of Defense shall, to the extent practicable, direct that an independent investigation of the matter be carried out in accordance with this section.
 

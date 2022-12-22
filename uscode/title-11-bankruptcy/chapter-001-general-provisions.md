@@ -99,11 +99,9 @@ In this title the following definitions shall apply:
 
       (II) payments to victims of war crimes or crimes against humanity on account of their status as victims of such crimes;
 
-      (III) payments to victims of international terrorism or domestic terrorism, as those terms are defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim), on account of their status as victims of such terrorism;
+      (III) payments to victims of international terrorism or domestic terrorism, as those terms are defined in [section 2331 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim), on account of their status as victims of such terrorism; and
 
-      (IV) any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title; and
-
-      (V) Payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the coronavirus disease 2019 (COVID–19).
+      (IV) any monthly compensation, pension, pay, annuity, or allowance paid under title 10, 37, or 38 in connection with a disability, combat-related injury or disability, or death of a member of the uniformed services, except that any retired pay excluded under this subclause shall include retired pay paid under chapter 61 of title 10 only to the extent that such retired pay exceeds the amount of retired pay to which the debtor would otherwise be entitled if retired under any provision of title 10 other than chapter 61 of that title.
 
 (11) The term “custodian” means—
 
@@ -177,7 +175,7 @@ In this title the following definitions shall apply:
 
 (18) The term “family farmer” means—
 
-  (A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
+  (A) individual or individual and spouse engaged in a farming operation whose aggregate debts do not exceed $10,000,000 1 and not less than 50 percent of whose aggregate noncontingent, liquidated debts (excluding a debt for the principal residence of such individual or such individual and spouse unless such debt arises out of a farming operation), on the date the case is filed, arise out of a farming operation owned or operated by such individual or such individual and spouse, and such individual or such individual and spouse receive from such farming operation more than 50 percent of such individual’s or such individual and spouse’s gross income for—
 
     (i) the taxable year preceding; or
 
@@ -188,7 +186,7 @@ In this title the following definitions shall apply:
 
     (i) more than 80 percent of the value of its assets consists of assets related to the farming operation;
 
-    (ii) its aggregate debts do not exceed $10,000,000 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
+    (ii) its aggregate debts do not exceed $10,000,000 1 and not less than 50 percent of its aggregate noncontingent, liquidated debts (excluding a debt for one dwelling which is owned by such corporation or partnership and which a shareholder or partner maintains as a principal residence, unless such debt arises out of a farming operation), on the date the case is filed, arise out of the farming operation owned or operated by such corporation or such partnership; and
 
     (iii) if such corporation issues stock, such stock is not publicly traded.
 
@@ -584,11 +582,11 @@ In this title the following definitions shall apply:
 
   (B) does not include—
 
-    (i) any member of a group of affiliated debtors that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 1 (excluding debt owed to 1 or more affiliates or insiders);
+    (i) any member of a group of affiliated debtors under this title that has aggregate noncontingent liquidated secured and unsecured debts in an amount greater than $2,000,000 1 (excluding debt owed to 1 or more affiliates or insiders);
 
     (ii) any debtor that is a corporation subject to the reporting requirements under section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim), 78o(d)); or
 
-    (iii) any debtor that is an affiliate of an issuer (as defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim))).
+    (iii) any debtor that is an affiliate of a corporation described in clause (ii).
 
 (52) The term “State” includes the District of Columbia and Puerto Rico, except for the purpose of defining who may be a debtor under chapter 9 of this title.
 
@@ -671,9 +669,6 @@ In this title the following definitions shall apply:
 (55) The term “United States”, when used in a geographical sense, includes all locations where the judicial jurisdiction of the United States extends, including territories and possessions of the United States.
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (10A)(B)(ii)(V)
-Pub. L. 116–136, div. A, title I, § 1113(b)(2)(A)(i), (B), Mar. 27, 2020, 134 Stat. 311, 312, as amended by Pub. L. 117–5, § 2(a)(2), Mar. 27, 2021, 135 Stat. 249, provided that, effective 2 years after Mar. 27, 2020, paragraph (10A)(B)(ii)(V) of this section is amended by striking subclause (V). See 2020 Amendment note below.
 
 #### legislative statements
 Section 101(2) defines “affiliate.” The House amendment contains a provision that is a compromise between the definition in the House-passed version of H.R. 8200 and the Senate amendment in the nature of a substitute to H.R. 8200. Subparagraphs (A) and (B) are derived from the Senate amendment and subparagraph (D) is taken from the House bill, while subparagraph (C) represents a compromise, taking the House position with respect to a person whose business is operated under a lease or an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and with respect to a person substantially all of whose property is operated under an operating agreement by the debtor and the Senate position on leased property. Thus, the definition of “affiliate” excludes persons substantially all of whose property is operated under a lease agreement by a debtor, such as a small company which owns equipment all of which is leased to a larger nonrelated company.
@@ -796,8 +791,6 @@ Paragraph (40) defines “transfer.” It is derived and adapted, with stylistic
 #### References in Text
 The Social Security Act, referred to in par. (10A)(B)(ii)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The National Emergencies Act, referred to in par. (10A)(B)(ii)(V), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
-
 The Internal Revenue Code of 1986, referred to in pars. (12A)(B) and (41)(C), is classified generally to Title 26, Internal Revenue Code.
 
 Section 3 of the Federal Deposit Insurance Act, referred to in pars. (12A)(D), (21B)(A), (33)(A), (35)(A), and (54A), is classified to [section 1813 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim), Banks and Banking.
@@ -822,6 +815,10 @@ The Commodity Exchange Act, referred to in par. (53B)(B), is act Sept. 21, 1922,
 Pub. L. 116–52, effective Aug. 23, 2019, and Pub. L. 116–92, effective Dec. 20, 2019, made similar amendments, striking out subpar. (B) of par. (10A) and enacting almost identical subpars. (B). The text of par. (10A)(B) is based on the text enacted by Pub. L. 116–52.
 
 #### Amendments
+2022—Par. (51D)(B)(i). Pub. L. 117–151, § 2(a)(1), inserted “under this title” after “affiliated debtors”.
+
+Par. (51D)(B)(iii). Pub. L. 117–151, § 2(a)(2), substituted “a corporation described in clause (ii).” for “an issuer (as defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim))).”
+
 2020—Par. (10A)(B)(ii)(V). Pub. L. 116–136, § 1113(b)(2)(A)(i), struck out subcl. (V) which read as follows: “Payments made under Federal law relating to the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the coronavirus disease 2019 (COVID–19).”
 
 Pub. L. 116–136, § 1113(b)(1)(A), added subcl. (V).
@@ -1304,6 +1301,9 @@ Pars. (37) to (39). Pub. L. 97–222, § 1(a)(1), redesignated pars. (36) to (38
 
 Pars. (40), (41). Pub. L. 97–222, § 1(a)(1), (d), redesignated former par. (39) as (40) and restructured its provisions by dividing the former introductory provisions into subpars. (A) and (B) and by redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (B). Former par. (40) redesignated (41).
 
+#### Effective Date of 2022 Amendment; Retroactive Application
+Pub. L. 117–151, § 2(h)(2), June 21, 2022, 136 Stat. 1299, provided that: “The amendments made by subsections (a), (d), (e), and (f) [amending this section and sections 1182, 1183, and 1191 of this title, respectively] shall apply with respect to any case that— “(A) is commenced under title 11, United States Code, on or after March 27, 2020; and “(B) with respect to a case that was commenced on or after March 27, 2020 and before the date of enactment of this Act [June 21, 2022], is pending on the date of enactment of this Act.”
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–136, div. A, title I, § 1113(b)(1)(D)(i), Mar. 27, 2020, 134 Stat. 312, provided that: “The amendments made by subparagraphs (A) and (B) [amending this section and [section 1325 of this title](./chapter-013-adjustment-of-debts-of-an-individual-with-regular-income.md#section-1325)] shall apply to any case commenced before, on, or after the date of enactment of this Act [Mar. 27, 2020].”
 
@@ -1338,6 +1338,9 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 #### Effective Date of 1984 Amendment
 Pub. L. 98–353, title III, § 552, formerly § 553, July 10, 1984, 98 Stat. 392, as renumbered by Pub. L. 98–531, § 1(2), Oct. 19, 1984, 98 Stat. 2704, provided that: “(a) Except as otherwise provided in this section the amendments made by this title [see Tables for classification] shall become effective to cases filed 90 days after the date of enactment of this Act [July 10, 1984]. “(b) The amendments made by section 426(b) [amending [section 303 of this title](./chapter-003-case-administration.md#section-303)] shall become effective upon the date of enactment of this Act. “(c) The amendments made by subtitle J [enacting [section 1113 of this title](./chapter-011-reorganization.md#section-1113)], shall become effective as provided in section 541(c) [set out as an Effective Date note under [section 1113 of this title](./chapter-011-reorganization.md#section-1113)].”
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–151, § 1, June 21, 2022, 136 Stat. 1298, provided that: “This Act [amending this section, sections 104, 109, 1182, 1183, and 1191 of this title, and [section 589a of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a&num=0&edition=prelim), Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, sections 104 and 109 of this title, and [section 589a of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a&num=0&edition=prelim)] may be cited as the ‘Bankruptcy Threshold Adjustment and Technical Corrections Act’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 117–5, § 1, Mar. 27, 2021, 135 Stat. 249, provided that: “This Act [amending [section 1329 of this title](./chapter-013-adjustment-of-debts-of-an-individual-with-regular-income.md#section-1329) and provisions set out as notes under this section and sections 1182 and 1329 of this title] may be cited as the ‘COVID–19 Bankruptcy Relief Extension Act of 2021’.”
@@ -1422,7 +1425,9 @@ Pub. L. 109–8, title XII, § 1226, Apr. 20, 2005, 119 Stat. 199, provided that
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in par. (3), dollar amount “192,450” was adjusted to “204,425”; in par. (18), dollar amount “4,153,150” was adjusted to “4,411,400” each time it appeared; in par. (19A), dollar amount “1,924,550” was adjusted to “2,044,225” each time it appeared; and, in par. (51D), dollar amount “2,566,050” was adjusted to “2,725,625” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in par. (3), dollar amount “204,425” was adjusted to “226,850”; in par. (18), dollar amount “10,000,000” was adjusted to “11,097,350” each time it appeared; in par. (19A), dollar amount “2,044,225” was adjusted to “2,268,550” each time it appeared; and, in par. (51D), dollar amount “2,725,625” was adjusted to “3,024,725” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in par. (3), dollar amount “192,450” was adjusted to “204,425”; in par. (18), dollar amount “4,153,150” was adjusted to “4,411,400” each time it appeared; in par. (19A), dollar amount “1,924,550” was adjusted to “2,044,225” each time it appeared; and, in par. (51D), dollar amount “2,566,050” was adjusted to “2,725,625” each time it appeared.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in par. (3), dollar amount “186,825” was adjusted to “192,450”; in par. (18), dollar amount “4,031,575” was adjusted to “4,153,150” each time it appeared; in par. (19A), dollar amount “1,868,200” was adjusted to “1,924,550” each time it appeared; and, in par. (51D), dollar amount “2,490,925” was adjusted to “2,566,050” each time it appeared.
 
@@ -1584,13 +1589,13 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 <a id="section-104"></a>
 ## § 104. Adjustment of dollar amounts
-**(a)** On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and [section 1409(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1409/b&num=0&edition=prelim) immediately before such April 1 shall be adjusted—
+**(a)** On April 1, 1998, and at each 3-year interval ending on April 1 thereafter, each dollar amount in effect under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1182(1), 1322(d), 1325(b), and 1326(b)(3) of this title and [section 1409(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1409/b&num=0&edition=prelim) immediately before such April 1 shall be adjusted—
 
 (1) to reflect the change in the Consumer Price Index for All Urban Consumers, published by the Department of Labor, for the most recent 3-year period ending immediately before January 1 preceding such April 1, and
 
 (2) to round to the nearest $25 the dollar amount that represents such change.
 
-**(b)** Not later than March 1, 1998, and at each 3-year interval ending on March 1 thereafter, the Judicial Conference of the United States shall publish in the Federal Register the dollar amounts that will become effective on such April 1 under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1322(d), 1325(b), and 1326(b)(3) of this title and [section 1409(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1409/b&num=0&edition=prelim).
+**(b)** Not later than March 1, 1998, and at each 3-year interval ending on March 1 thereafter, the Judicial Conference of the United States shall publish in the Federal Register the dollar amounts that will become effective on such April 1 under sections 101(3), 101(18), 101(19A), 101(51D), 109(e), 303(b), 507(a), 522(d), 522(f)(3) and 522(f)(4), 522(n), 522(p), 522(q), 523(a)(2)(C), 541(b), 547(c)(9), 707(b), 1182(1), 1322(d), 1325(b), and 1326(b)(3) of this title and [section 1409(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1409/b&num=0&edition=prelim).
 
 **(c)** Adjustments made in accordance with subsection (a) shall not apply with respect to cases commenced before the date of such adjustments.
 
@@ -1608,6 +1613,10 @@ This section requires the Judicial Conference to report to the Congress every fo
 If the Judicial Conference has policy recommendations concerning the appropriate dollar amounts in the bankruptcy code based other than on cost of living considerations there are adequate channels through which it may communicate its views. This section is solely for the housekeeping function of maintaining the dollar amounts in the code at fairly constant real dollar levels.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–151, § 2(b)(1), inserted “1182(1),” after “707(b),” in introductory provisions.
+
+Subsec. (b). Pub. L. 117–151, § 2(b)(2), inserted “1182(1),” after “707(b),”.
+
 2008—Pub. L. 110–406 redesignated subsec. (b)(1) as (a), subpars. (A) and (B) of subsec. (b)(1) as pars. (1) and (2), respectively, of subsec. (a), and pars. (2) and (3) of subsec. (b) as subsecs. (b) and (c), respectively, substituted “subsection (a)” for “paragraph (1)” in subsec. (c), and struck out former subsec. (a) which read as follows: “The Judicial Conference of the United States shall transmit to the Congress and to the President before May 1, 1985, and before May 1 of every sixth year after May 1, 1985, a recommendation for the uniform percentage adjustment of each dollar amount in this title and in [section 1930 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1930&num=0&edition=prelim).”
 
 2005—Subsec. (b)(1). Pub. L. 109–8, § 1202(1)–(4), in introductory provisions, inserted “101(19A),” after “101(18),”, “522(f)(3) and 522(f)(4),” after “522(d),”, and “541(b), 547(c)(9),” after “523(a)(2)(C),” and substituted “1322(d), 1325(b), and 1326(b)(3) of this title and [section 1409(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1409/b&num=0&edition=prelim)” for “and 1325(b)(3)”.
@@ -1640,6 +1649,9 @@ Pub. L. 109–8, § 102(j), substituted “523(a)(2)(C), 707(b), and 1325(b)(3)�
 
 1994—Pub. L. 103–394 designated existing provisions as subsec. (a) and added subsec. (b).
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–151, § 2(h)(1), June 21, 2022, 136 Stat. 1299, provided that: “Subsections (b) and (c) [amending this section and [section 109 of this title](./chapter-001-general-provisions.md#section-109)] and the amendments made by subsections (b) and (c) shall take effect on the date of enactment of this Act [June 21, 2022].”
+
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendments by sections 102(j), 224(e)(2), 226(b), 432(c), 1002, and 1202 of Pub. L. 109–8 not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, and amendment by section 322(b) of Pub. L. 109–8 applicable with respect to cases commenced under this title on or after Apr. 20, 2005, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
@@ -1647,68 +1659,64 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, with amendm
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Adjustment of Dollar Amounts
-By notice dated Feb. 5, 2019, 84 F.R. 3488, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (a) of this section, effective Apr. 1, 2019, as follows:
+By notice dated Jan. 31, 2022, 87 F.R. 6625, the Judicial Conference of the United States adjusted the dollar amounts in provisions specified in subsec. (a) of this section, effective Apr. 1, 2022, as follows:
 
 | 28 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount 1 |
 | --- | --- | --- |
 | Section 1409(b)—a trustee may commence a proceeding arising in or related to a case to recover |  |  |
-| (1)—money judgment of or property worth less than | $1,300 | $1,375 |
-| (2)—a consumer debt less than | $19,250 | $20,450 |
-| (3)—a non consumer debt against a non insider less than | $12,850 | $13,650 |
+| (1)—money judgment of or property worth less than | $1,375 | $1,525. |
+| (2)—a consumer debt less than | $20,450 | $22,700. |
+| (3)—a non consumer debt against a non-insider less than | $25,000 | $27,750. |
 
 | 11 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount 1 |
 | --- | --- | --- |
-| 1 The New (Adjusted) Dollar Amounts reflect a 6.218 percent increase, rounded to the nearest $25. |  |  |
-| 2 So in original. Probably should indicate “each time it appears”. |  |  |
-| Section 101(3)—definition of assisted person | $192,450 | $204,425. |
-| Section 101(18)—definition of family farmer | $4,153,150 (each time it appears) | $4,411,400 (each time it appears) |
-| Section 101(19A)—definition of family fisherman | $1,924,550 (each time it appears) | $2,044,225 (each time it appears) |
-| Section 101(51D)—definition of small business debtor | $2,566,050 (each time it appears) | $2,725,625 (each time it appears) |
-| Section 109(e)—debt limits for individual filing bankruptcy under chapter 13 | $394,725 (each time it appears) $1,184,200 (each time it appears) | $419,275 (each time it appears) $1,257,850 2 |
-| Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary chapter 7 or 11 petition |  |  |
-| (1)—in paragraph (1) | $15,775 | $16,750 |
-| (2)—in paragraph (2) | $15,775 | $16,750 |
-| Section 507(a)—priority expenses and claims |  |  |
-| (1)—in paragraph (4) | $12,850 | $13,650 |
-| (2)—in paragraph (5)(B)(i) | $12,850 | $13,650 |
-| (3)—in paragraph (6)(B) | $6,325 | $6,725 |
-| (4)—in paragraph (7) | $2,850 | $3,025 |
-| Section 522(d)—value of property exemptions allowed to the debtor |  |  |
-| (1)—in paragraph (1) | $23,675 | $25,150 |
-| (2)—in paragraph (2) | $3,775 | $4,000 |
-| (3)—in paragraph (3) | $600 $12,625 | $625 $13,400 |
-| (4)—in paragraph (4) | $1,600 | $1,700 |
-| (5)—in paragraph (5) | $1,250 $11,850 | $1,325 $12,575 |
-| (6)—in paragraph (6) | $2,375 | $2,525 |
-| (7)—in paragraph (8) | $12,625 | $13,400 |
-| (8)—in paragraph (11)(D) | $23,675 | $25,150 |
-| Section 522(f)(3)—exception to lien avoidance under certain state laws | $6,425 | $6,825 |
-| Section 522(f)(4)—items excluded from definition of household goods for lien avoidance purposes | $675 (each time it appears) | $725 (each time it appears) |
-| Section 522(n)—maximum aggregate value of assets in individual retirement accounts exempted | $1,283,025 | $1,362,800 |
-| Section 522(p)—qualified homestead exemption | $160,375 | $170,350 |
-| Section 522(q)—state homestead exemption | $160,375 | $170,350 |
-| Section 523(a)(2)(C)—exceptions to discharge |  |  |
-| (1)—in paragraph (i)(I)—consumer debts for luxury goods or services incurred < 90 days before filing owed to a single creditor in the aggregate | $675 | $725 |
-| (2)—in paragraph (i)(II)—cash advances incurred < 70 days before filing in the aggregate | $950 | $1,000 |
-| Section 541(b)—property of the estate exclusions |  |  |
-| (1)—in paragraph (5)(C)—education IRA funds in the aggregate | $6,425 | $6,825 |
-| (2)—in paragraph (6)(C)—pre-purchased tuition credits in the aggregate | $6,425 | $6,825 |
-| (3)—in paragraph (10)(C)—qualified ABLE program funds in the aggregate | $6,425 | $6,825 |
-| Section 547(c)(9)—preferences, trustee may not avoid a transfer if, in a case filed by a debtor whose debts are not primarily consumer debts, the aggregate value of property is less than | $6,425 | $6,825 |
-| Section 707(b)—dismissal of a chapter 7 case or conversion to chapter 11 or 13 (means test) |  |  |
-| (1)—in paragraph (2)(A)(i)(I) | $7,700 | $8,175 |
-| (2)—in paragraph (2)(A)(i)(II) | $12,850 | $13,650 |
-| (3)—in paragraph (2)(A)(ii)(IV) | $1,925 | $2,050 |
-| (4)—in paragraph (2)(B)(iv)(I) | $7,700 | $8,175 |
-| (5)—in paragraph (2)(B)(iv)(II) | $12,850 | $13,650 |
-| (6)—in paragraph (5)(B) | $1,300 | $1,375 |
-| (7)—in paragraph (6)(C) | $700 | $750 |
-| (8)—in paragraph (7)(A)(iii) | $700 | $750 |
-| Section 1322(d)—contents of chapter 13 plan, monthly income | $700 (each time it appears) | $750 (each time it appears) |
-| Section 1325(b)—chapter 13 confirmation of plan, disposable income | $700 (each time it appears) | $750 (each time it appears) |
-| Section 1326(b)(3)—payments to former chapter 7 trustee | $25 | $25 |
+| 1 The New (Adjusted) Dollar Amounts reflect a 10.97347880254584 percent increase, rounded to the nearest $25. |  |  |
+| Section 101(3)—definition of assisted person | $204,425 | $226,850. |
+| Section 101(18)—definition of family farmer | $10,000,000 (each time it appears) | $11,097,350 (each time it appears). |
+| Section 101(19A)—definition of family fisherman | $2,044,225 (each time it appears) | $2,268,550 (each time it appears). |
+| Section 101(51D)—definition of small business debtor | $2,725,625 (each time it appears) | $3,024,725 (each time it appears). |
+| Section 109(e)—debt limits for individual filing bankruptcy under chapter 13 | $419,275 (each time it appears) $1,257,850 (each time it appears) | $465,275 (each time it appears) $1,395,875 (each time it appears). |
+| Section 303(b)—minimum aggregate claims needed for the commencement of an involuntary chapter 7 or 11 petition | $16,750 (each time it appears) | $18,600 (each time it appears). |
+| Section 507(a)—priority expenses and claims: |  |  |
+| (1)—in paragraph (4) | $13,650 | $15,150. |
+| (2)—in paragraph (5)(B)(i) | $13,650 | $15,150. |
+| (3)—in paragraph (6)(B) | $6,725 | $7,475. |
+| (4)—in paragraph (7) | $3,025 | $3,350. |
+| Section 522(d)—value of property exemptions allowed to the debtor: |  |  |
+| (1)—in paragraph (1) | $25,150 | $27,900. |
+| (2)—in paragraph (2) | $4,000 | $4,450. |
+| (3)—in paragraph (3) | $625 $13,400 | $700 $14,875. |
+| (4)—in paragraph (4) | $1,700 | $1,875. |
+| (5)—in paragraph (5) | $1,325 $12,575 | $1,475 $13,950. |
+| (6)—in paragraph (6) | $2,525 | $2,800. |
+| (7)—in paragraph (8) | $13,400 | $14,875. |
+| (8)—in paragraph (11)(D) | $25,150 | $27,900. |
+| Section 522(f)(3)—exception to lien avoidance under certain state laws | $6,825 | $7,575. |
+| Section 522(f)(4)—items excluded from definition of household goods for lien avoidance purposes | $725 (each time it appears) | $800 (each time it appears). |
+| Section 522(n)—maximum aggregate value of assets in individual retirement accounts exempted | $1,362,800 | $1,512,350. |
+| Section 522(p)—state homestead exemption, limit for interest acquired 1215 days before filing | $170,350 | $189,050. |
+| Section 522(q)—state homestead exemption, limit under particular circumstances | $170,350 | $189,050. |
+| Section 523(a)(2)(C)—exceptions to discharge—presumption of nondischargeability: |  |  |
+| (1)—in paragraph (i)(I)—consumer debts for luxury goods or services incurred < 90 days before filing owed to a single creditor in the aggregate | $725 | $800. |
+| (2)—in paragraph (i)(II)—certain cash advances obtained < 70 days before filing, in the aggregate | $1,000 | $1,100. |
+| Section 541(b)—certain property of the estate exclusion limits | $6,825 (each time it appears) | $7,575 (each time it appears). |
+| Section 547(c)(9)—minimum preference avoidance value in cases with primarily non-consumer debts | $6,825 | $7,575. |
+| Section 707(b)—dismissal of a chapter 7 case or conversion to chapter 11 or 13 (means test): |  |  |
+| (1)—in paragraph (2)(A)(i)(I) | $8,175 | $9,075. |
+| (2)—in paragraph (2)(A)(i)(II) | $13,650 | $15,150. |
+| (3)—in paragraph (2)(A)(ii)(IV) | $2,050 | $2,275. |
+| (4)—in paragraph (2)(B)(iv)(I) | $8,175 | $9,075. |
+| (5)—in paragraph (2)(B)(iv)(II) | $13,650 | $15,150. |
+| (6)—in paragraph (5)(B) | $1,375 | $1,525. |
+| (7)—in paragraph (6)(C) | $750 | $825. |
+| (8)—in paragraph (7)(A)(iii) | $750 | $825. |
+| Section 1322(d)—length of chapter 13 plan, current monthly income, 4+ household | $750 (each time it appears) | $825 (each time it appears). |
+| Section 1325(b)—confirmation of chapter 13 plan, current monthly income, 4+ household | $750 (each time it appears) | $825 (each time it appears). |
+| Section 1326(b)(3)—payments to former chapter 7 trustee | $25 | $25. |
 
 Similar notices by the Judicial Conference of the United States adjusting the dollar amounts in provisions specified in subsec. (a) of this section were contained in the following:
+
+Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019.
 
 Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016.
 
@@ -1996,7 +2004,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(d)** Only a railroad, a person that may be a debtor under chapter 7 of this title (except a stockbroker or a commodity broker), and an uninsured State member bank, or a corporation organized under section 25A of the Federal Reserve Act, which operates, or operates as, a multilateral clearing organization pursuant to section 409 1 of the Federal Deposit Insurance Corporation Improvement Act of 1991 may be a debtor under chapter 11 of this title.
 
-**(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 22 See Adjustment of Dollar Amounts notes below. and noncontingent, liquidated, secured debts of less than $750,000,2 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 2 and noncontingent, liquidated, secured debts of less than $750,000 2 may be a debtor under chapter 13 of this title.
+**(e)** Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated debts of less than $2,750,000 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated debts that aggregate less than $2,750,000 may be a debtor under chapter 13 of this title.
 
 **(f)** Only a family farmer or family fisherman with regular annual income may be a debtor under chapter 12 of this title.
 
@@ -2031,6 +2039,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 (4) The requirements of paragraph (1) shall not apply with respect to a debtor whom the court determines, after notice and hearing, is unable to complete those requirements because of incapacity, disability, or active military duty in a military combat zone. For the purposes of this paragraph, incapacity means that the debtor is impaired by reason of mental illness or mental deficiency so that he is incapable of realizing and making rational decisions with respect to his financial responsibilities; and “disability” means that the debtor is so physically impaired as to be unable, after reasonable effort, to participate in an in person, telephone, or Internet briefing required under paragraph (1).
 
 ### Statutory Notes
+
+#### Amendment of Subsection (e)
+Pub. L. 117–151, § 2(i)(1)(A), June 21, 2022, 136 Stat. 1300, provided that, effective 2 years after June 21, 2022, subsection (e) of this section is amended to read as such subsection read on the day before June 21, 2022. See 2022 Amendment note below.
 
 #### legislative statements
 Section 109(b) of the House amendment adopts a provision contained in H.R. 8200 as passed by the House. Railroad liquidations will occur under chapter 11, not chapter 7.
@@ -2073,6 +2084,10 @@ Section 409 of the Federal Deposit Insurance Corporation Improvement Act of 1991
 Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b)(3)(B), is classified to [section 3101 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3101&num=0&edition=prelim), Banks and Banking.
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–151, § 2(i)(1)(A), amended subsec. (e) to read as it read on the day before the date of enactment of Pub. L. 117–151, which is June 21, 2022. See note below. Prior to reversion, subsec. (e), as amended by section 2(c) of Pub. L. 117–151, read as follows: “Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated debts of less than $2,750,000 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated debts that aggregate less than $2,750,000 may be a debtor under chapter 13 of this title.”
+
+Subsec. (e). Pub. L. 117–151, § 2(c), added subsec. (e) and struck out former subsec. (e) which read as follows: “Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.” For adjustments to dollar amounts in quoted text, see Adjustment of Dollar Amounts notes below.
+
 2010—Subsec. (b)(3)(B). Pub. L. 111–327, § 2(a)(6)(A), inserted closing parenthesis after “1978”.
 
 Subsec. (h)(1). Pub. L. 111–327, § 2(a)(6)(B), inserted “other than paragraph (4) of this subsection” after “this section” and substituted “ending on” for “preceding”.
@@ -2115,6 +2130,11 @@ Subsec. (f). Pub. L. 98–353, § 301, added subsec. (f).
 
 1982—Subsec. (b)(2). Pub. L. 97–320 inserted reference to industrial banks or similar institutions which are insured banks as defined in section 3(h) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/h&num=0&edition=prelim)).
 
+#### Effective Date of 2022 Amendment
+Amendment by section 2(c) of Pub. L. 117–151 effective June 21, 2022, see section 2(h)(1) of Pub. L. 117–151, set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+Pub. L. 117–151, § 2(i), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(A) is effective on the date that is 2 years after June 21, 2022.
+
 #### Effective Date of 2009 Amendment
 Pub. L. 111–16, § 7, May 7, 2009, 123 Stat. 1609, provided that: “The amendments made by this Act [amending this section, sections 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, [section 853 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim), Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure] shall take effect on December 1, 2009.”
 
@@ -2133,10 +2153,15 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
-#### Adjustment of Dollar Amounts
-The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
+#### Amounts Specified in Subsection (e) After Reversion
+Pub. L. 117–151, § 2(i)(2), June 21, 2022, 136 Stat. 1300, provided that: “For purposes of applying subsection (e) of [section 109 of title 11](./chapter-001-general-provisions.md#section-109), United States Code, as amended by paragraph (1)(A), the amounts specified in such subsection shall be the amounts that were in effect on the day before the date of enactment of this Act [June 21, 2022].”
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (e), dollar amounts “394,725” and “1,184,200” were adjusted to “419,275” and “1,257,850”, respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+#### Adjustment of Dollar Amounts
+The dollar amounts specified in this section, prior to the amendment made by Pub. L. 117–151, § 2(c), were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
+
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (e), dollar amounts “419,275” and “1,257,850” were adjusted to “465,275” and “1,395,875”, respectively, each time they appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (e), dollar amounts “394,725” and “1,184,200” were adjusted to “419,275” and “1,257,850”, respectively, each time they appeared.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (e), dollar amounts “383,175” and “1,149,525” were adjusted to “394,725” and “1,184,200”, respectively, each time they appeared.
 

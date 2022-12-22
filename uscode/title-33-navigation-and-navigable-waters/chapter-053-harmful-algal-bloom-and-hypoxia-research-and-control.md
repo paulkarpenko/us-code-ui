@@ -2,7 +2,7 @@
 title: 33
 chapter: '53'
 heading: HARMFUL ALGAL BLOOM AND HYPOXIA RESEARCH AND CONTROL
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -164,6 +164,9 @@ Subsec. (e). Pub. L. 108–456, § 104, added subsec. (e). Former subsec. (e) st
 Pub. L. 108–456, § 102, struck out subsec. (e) which provided that the President could disestablish the Task Force after submission of the plan in [section 4004 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4004).
 
 Subsecs. (f) to (i). Pub. L. 108–456, § 104, added subsecs. (f) to (i).
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–144, § 1, June 16, 2022, 136 Stat. 1266, provided that: “This Act [enacting [section 4004a of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4004a) and amending sections 4005 to 4009 of this title] may be cited as the ‘South Florida Clean Coastal Waters Act of 2021’.”
 
 #### Short Title of 2019 Amendment
 Pub. L. 115–423, § 9(a), Jan. 7, 2019, 132 Stat. 5462, provided that: “This section [enacting [section 4010 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4010), and amending this section and sections 4001a, 4002, and 4009 of this title] may be cited as the ‘Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2017’.”
@@ -409,6 +412,82 @@ Section was formerly set out in a note under [section 1451 of Title 16](https://
 2014—Pub. L. 113–124 amended section generally. Prior to amendment, section required the Task Force to submit an integrated assessment of hypoxia in the northern Gulf of Mexico and develop a plan for reducing, mitigating, and controlling such hypoxia.
 
 
+<a id="section-4004a"></a>
+## § 4004a. South Florida harmful algal blooms and hypoxia
+**(a) South Florida** In this section, the term “South Florida” means—
+
+(1) all lands and waters within the administrative boundaries of the South Florida Water Management District;
+
+(2) regional coastal waters, including Biscayne Bay, the Caloosahatchee Estuary, Florida Bay, Indian River Lagoon, and St. Lucie River Estuary; and
+
+(3) the Florida Reef Tract.
+
+**(b) Integrated assessment**
+
+(1) **Interim integrated assessment** — Not later than 540 days after June 16, 2022, the Task Force, in accordance with the authority under [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001), shall complete and submit to Congress and the President an interim integrated assessment.
+
+(2) **Finalized integrated assessment** — Not later than 3 years after June 16, 2022, the Task Force shall finalize, and submit to Congress and the President, the interim integrated assessment required by paragraph (1).
+
+(3) **Contents of integrated assessment** — The integrated assessment required by paragraphs (1) and (2) shall examine the causes, consequences, and potential approaches to reduce harmful algal blooms and hypoxia in South Florida, and the status of, and gaps within, current harmful algal bloom and hypoxia research, monitoring, management, prevention, response, and control activities that directly affect the region by—
+
+  (A) Federal agencies;
+
+  (B) State agencies;
+
+  (C) regional research consortia;
+
+  (D) academia;
+
+  (E) private industry;
+
+  (F) nongovernmental organizations; and
+
+  (G) Indian tribes (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).
+
+**(c) Action plan**
+
+(1) **In general** — Not later than 3 years and 180 days after June 16, 2022, the Task Force shall develop and submit to Congress a plan, based on the integrated assessment under subsection (b), for reducing, mitigating, and controlling harmful algal blooms and hypoxia in South Florida.
+
+(2) **Contents** — The plan submitted under paragraph (1) shall—
+
+  (A) address the monitoring needs identified in the integrated assessment under subsection (b);
+
+  (B) develop a timeline and budgetary requirements for deployment of future assets;
+
+  (C) identify requirements for the development and verification of South Florida harmful algal bloom and hypoxia models, including—
+
+    (i) all assumptions built into the models; and
+
+    (ii) data quality methods used to ensure the best available data are utilized; and
+
+  (D) propose a plan to implement a remote monitoring network and early warning system for alerting local communities in the region to harmful algal bloom risks that may impact human health.
+
+(3) **Requirements** — In developing the action plan, the Task Force shall—
+
+  (A) consult with the State of Florida, and affected local and tribal governments;
+
+  (B) consult with representatives from regional academic, agricultural, industry, and other stakeholder groups;
+
+  (C) ensure that the plan complements and does not duplicate activities conducted by other Federal or State agencies, including the South Florida Ecosystem Restoration Task Force;
+
+  (D) identify critical research for reducing, mitigating, and controlling harmful algal bloom events and their effects;
+
+  (E) evaluate cost-effective, incentive-based partnership approaches;
+
+  (F) ensure that the plan is technically sound and cost-effective;
+
+  (G) utilize existing research, assessments, reports, and program activities;
+
+  (H) publish a summary of the proposed plan in the Federal Register at least 180 days prior to submitting the completed plan to Congress; and
+
+  (I) after submitting the completed plan to Congress, provide biennial progress reports on the activities toward achieving the objectives of the plan.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 605 of Pub. L. 105–383 was renumbered section 606 and is classified to [section 4005 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4005).
+
+
 <a id="section-4005"></a>
 ## § 4005. Great Lakes hypoxia and harmful algal blooms
 **(a) Integrated assessment** Not later than 18 months after June 30, 2014, the Task Force, in accordance with the authority under [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001), shall complete and submit to the Congress and the President an integrated assessment that examines the causes, consequences, and approaches to reduce hypoxia and harmful algal blooms in the Great Lakes, including the status of and gaps within current research, monitoring, management, prevention, response, and control activities by—
@@ -472,6 +551,9 @@ Section was formerly set out in a note under [section 1451 of Title 16](https://
 #### Codification
 Section was formerly set out in a note under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), Conservation.
 
+#### Prior Provisions
+A prior section 606 of Pub. L. 105–383 was renumbered section 607 and is classified to [section 4006 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4006).
+
 #### Amendments
 2014—Pub. L. 113–124 amended section generally. Prior to amendment, section authorized appropriations for research, education, and monitoring activities related to the prevention, reduction, and control of harmful algal blooms and hypoxia for fiscal years 1999 to 2010.
 
@@ -514,12 +596,20 @@ The Coastal Zone Management Act of 1972, referred to in text, is title III of Pu
 #### Codification
 Section was formerly set out in a note under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), Conservation.
 
+#### Prior Provisions
+A prior section 607 of Pub. L. 105–383 was renumbered section 608 and is classified to [section 4007 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4007).
+
 
 <a id="section-4007"></a>
 ## § 4007. Effect on other Federal authority
 **(a) Authority preserved** Nothing in this chapter supersedes or limits the authority of any agency to carry out its responsibilities and missions under other laws.
 
 **(b) Regulatory authority** Nothing in this chapter may be construed as establishing new regulatory authority for any agency.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 608 of Pub. L. 105–383 was renumbered section 609 and is classified to [section 4008 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4008).
 
 
 <a id="section-4008"></a>
@@ -544,6 +634,11 @@ In this chapter:
 (8) **Under Secretary** — The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
 
 (9) **United States coastal waters** — The term “United States coastal waters” includes the Great Lakes.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 609 of Pub. L. 105–383 was renumbered section 610 and is classified to [section 4009 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4009).
 
 
 <a id="section-4009"></a>

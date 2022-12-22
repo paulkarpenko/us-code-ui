@@ -219,7 +219,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 **(b) Transmission of Advisory Copy to Theater Component Commander.—** When transmitting a report under subsection (a)(2) recommending that a person be placed in a missing status, the commander transmitting that report shall transmit an advisory copy of the report to the theater component commander with jurisdiction over the missing person.
 
-**(c) Safeguarding and Forwarding of Rec­ords.—** A commander making a preliminary assessment under subsection (a) with respect to a missing person shall (in accordance with procedures prescribed under [section 1501 of this title](./chapter-076-missing-persons.md#section-1501)) safeguard and forward for official use any information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person.
+**(c) Safeguarding and Forwarding of Records.—** A commander making a preliminary assessment under subsection (a) with respect to a missing person shall (in accordance with procedures prescribed under [section 1501 of this title](./chapter-076-missing-persons.md#section-1501)) safeguard and forward for official use any information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person.
 
 ### Statutory Notes
 

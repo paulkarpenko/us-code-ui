@@ -1964,75 +1964,70 @@ Section, Pub. L. 85–132, § 2, Aug. 14, 1957, 71 Stat. 348, which related to t
 
 
 <a id="section-565"></a>
-## § 565. Omitted
+## § 565. Repealed. Pub. L. 117–261, § 2, Dec. 21, 2022, 136 Stat. 2393
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 89–224, § 1, Oct. 1, 1965, 79 Stat. 897, which authorized the Secretary of the Interior to distribute to the Klamath Tribe funds obtained from the Indian Claims Commission from the tribe’s judgment against the United States, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–224, § 1, Oct. 1, 1965, 79 Stat. 897, authorized the Secretary of the Interior to distribute to the Klamath Tribe funds obtained from the Indian Claims Commission from the tribe’s judgment against the United States.
+
+#### Short Title of Repeal
+Pub. L. 117–261, § 1, Dec. 21, 2022, 136 Stat. 2393, provided that: “This Act [repealing this subchapter] may be cited as the ‘Klamath Tribe Judgment Fund Repeal Act’.”
 
 
 <a id="section-565a"></a>
-## § 565a. Omitted
+## § 565a. Repealed. Pub. L. 117–261, § 2, Dec. 21, 2022, 136 Stat. 2393
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 89–224, § 2, Oct. 1, 1965, 79 Stat. 897, which related to distribution of judgment funds to tribe members, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–224, § 2, Oct. 1, 1965, 79 Stat. 897, related to distribution of judgment funds to tribe members.
 
 
 <a id="section-565b"></a>
-## § 565b. Omitted
+## § 565b. Repealed. Pub. L. 117–261, § 2, Dec. 21, 2022, 136 Stat. 2393
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 89–224, § 3, Oct. 1, 1965, 79 Stat. 897, which related to timing of payments and claims for shares of deceased enrollees, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–224, § 3, Oct. 1, 1965, 79 Stat. 897, related to timing of payments and claims for shares of deceased enrollees.
 
 
 <a id="section-565c"></a>
-## § 565c. Omitted
+## § 565c. Repealed. Pub. L. 117–261, § 2, Dec. 21, 2022, 136 Stat. 2393
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 89–224, § 4, Oct. 1, 1965, 79 Stat. 897, which related to disposition of funds remaining after distribution, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–224, § 4, Oct. 1, 1965, 79 Stat. 897, related to disposition of funds remaining after distribution.
 
 
 <a id="section-565d"></a>
-## § 565d. Omitted
+## § 565d. Repealed. Pub. L. 117–261, § 2, Dec. 21, 2022, 136 Stat. 2393
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 89–224, § 5, Oct. 1, 1965, 79 Stat. 898, which directed that remaining funds be deposited in the Treasury of the United States if insufficient to justify a further distribution, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–224, § 5, Oct. 1, 1965, 79 Stat. 898, directed that remaining funds be deposited in the Treasury of the United States if insufficient to justify a further distribution.
 
 
 <a id="section-565e"></a>
-## § 565e. Omitted
+## § 565e. Repealed. Pub. L. 117–261, § 2, Dec. 21, 2022, 136 Stat. 2393
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 89–224, § 6, Oct. 1, 1965, 79 Stat. 898, which related to payment of costs of distribution, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–224, § 6, Oct. 1, 1965, 79 Stat. 898, related to payment of costs of distribution.
 
 
 <a id="section-565f"></a>
-## § 565f. Omitted
+## § 565f. Repealed. Pub. L. 117–261, § 2, Dec. 21, 2022, 136 Stat. 2393
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 89–224, § 7, Oct 1, 1965, 79 Stat. 898, which exempted funds distributed pursuant to this subchapter from Federal and State income taxes, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–224, § 7, Oct 1, 1965, 79 Stat. 898, exempted funds distributed pursuant to this subchapter from Federal and State income taxes.
 
 
 <a id="section-565g"></a>
-## § 565g. Omitted
+## § 565g. Repealed. Pub. L. 117–261, § 2, Dec. 21, 2022, 136 Stat. 2393
 
 ### Statutory Notes
 
-#### Codification
-Section, Pub. L. 89–224, § 8, Oct. 1, 1965, 79 Stat. 898, which authorized the Secretary of the Interior to prescribe rules and regulations to carry out the provisions of this subchapter, was omitted from the Code as being of special and not general application.
+Section, Pub. L. 89–224, § 8, Oct. 1, 1965, 79 Stat. 898, authorized the Secretary of the Interior to prescribe rules and regulations to carry out the provisions of this subchapter.
 
 
 <a id="section-566"></a>

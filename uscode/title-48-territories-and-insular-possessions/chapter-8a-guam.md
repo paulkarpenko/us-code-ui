@@ -1043,11 +1043,11 @@ Subsec. (c). Act Oct. 31, 1951, struck out references to chapters 21, 41, and 57
 #### Effective Date of 1984 Amendment
 Amendments by Pub. L. 98–454 effective on ninetieth day following Oct. 5, 1984, see section 1005 of Pub. L. 98–454, set out as a note under [section 1424 of this title](./chapter-8a-guam.md#section-1424).
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of this title](./chapter-014-trust-territory-of-the-pacific-islands.md#section-1681).
-
 #### Extension of Term of District Judges; Applicability; Effective Date
 Pub. L. 98–454, title X, § 1004, Oct. 5, 1984, 98 Stat. 1746, provided that: “The provisions of sections 706(a), 802(a), and 901(a) of this Act [amending sections 1614, 1424b, and 1821, respectively, of this title] extending the terms of district court judges of the Virgin Islands, Guam, and the Northern Mariana Islands, respectively, from eight to ten years shall be applicable to the judges of those courts holding office on the effective date of this Act [Oct. 5, 1984].”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of this title](./chapter-014-trust-territory-of-the-pacific-islands.md#section-1681).
 
 
 <a id="section-1424c"></a>

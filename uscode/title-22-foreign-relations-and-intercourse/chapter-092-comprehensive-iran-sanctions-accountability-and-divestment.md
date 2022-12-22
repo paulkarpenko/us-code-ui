@@ -641,6 +641,8 @@ Barack Obama.
 #### Presidential Determinations Relating to Petroleum or Petroleum Products from Iran
 The following Presidential Determinations related to the existence of sufficient supplies of petroleum and petroleum products from countries other than Iran pursuant to subsec. (d)(4)(B) and (C) of this section:
 
+Determination of President of the United States, No. 2022–12, May 12, 2022, 87 F.R. 30383.
+
 Determination of President of the United States, No. 2022–04, Nov. 12, 2021, 86 F.R. 64795.
 
 Determination of President of the United States, No. 2021–07, May 19, 2021, 86 F.R. 28235.

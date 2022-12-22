@@ -14,7 +14,7 @@ The purpose of this chapter is to enable the Government of the United States to 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 Pub. L. 87–256, § 1, Sept. 21, 1961, 75 Stat. 527, provided: “That this Act [enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and [section 410 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim), The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and former section 1641(b)(2) of the former Appendix to Title 50, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26] may be cited as the ‘Mutual Educational and Cultural Exchange Act of 1961’.”
@@ -97,7 +97,7 @@ Section, Pub. L. 89–685, § 8, Oct. 15, 1966, 80 Stat. 974, required registrat
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Amendments
 1998—Subsec. (b)(12). Pub. L. 105–292 added par. (12).
@@ -195,7 +195,7 @@ The program under this section shall be coordinated by the Department of State.
 ### Statutory Notes
 
 #### References in Text
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (a), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (a), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Codification
 Section was enacted as part of the National and Community Service Act of 1990, and not as part of the Mutual Educational and Cultural Exchange Act of 1961 which comprises this chapter.
@@ -316,7 +316,7 @@ Pub. L. 110–53, title XX, § 2014(a), Aug. 3, 2007, 121 Stat. 512, provided th
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 [Section 1513(b)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1513/b/6&num=0&edition=prelim), referred to in subsec. (a), was repealed by act Aug. 26, 1954, ch. 937, title V, § 542(a), 68 Stat. 861.
 
@@ -364,9 +364,9 @@ Functions of President under this section delegated to Secretary of State, see E
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (b), (d), (e)(1), (2), (4), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+This chapter, referred to in subsecs. (a), (b), (d), (e)(1), (2), (4), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
-The Immigration and Nationality Act, referred to in subsec. (g)(4), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (g)(4), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 5108 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim)” substituted for “the Classification Act of 1949, as amended” and “section 505 of the Classification Act of 1949, as amended”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. In the original, [section 1105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1105&num=0&edition=prelim) read section 505 of the Classification Act of 1949, as amended.
@@ -585,7 +585,7 @@ any currencies of foreign nations received or to be received by the United State
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+This chapter, referred to in subsecs. (a) to (d), (f), and (g), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 Section 3651 of the Revised Statutes ([31 U.S.C. 543](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section543&num=0&edition=prelim)), referred to in subsec. (b), was repealed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
@@ -636,7 +636,7 @@ Functions of President under this section delegated to Secretary of State, Direc
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (d), and (e), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+This chapter, referred to in subsecs. (a), (d), and (e), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Codification
 Subsec. (b), which established the United States Advisory Commission on International Educational and Cultural Affairs to replace the United States Advisory Commission on Educational Exchange, and provided for its functions and the appointment and terms of its members, and the provisions of subsecs. (e) and (f) referring to the “Commission”, were omitted pursuant to Reorg. Plan No. 2 of 1977, § 9(a)(3), 42 F.R. 62461, 91 Stat. 1639, set out under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461), which abolished that Commission effective on or before July 1, 1978, at such time as specified by the President.
@@ -689,7 +689,7 @@ The Board shall submit annual reports to the Congress and such other reports to 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Codification
 Provisions relating to the submission of reports to Congress by the United States Advisory Commission on International Educational and Cultural Affairs [which replaced the United States Advisory Commission on Educational Exchange], and the Advisory Committee on the Arts, were omitted pursuant to Reorg. Plan No. 2 of 1977, § 9(a)(3), (6), 42 F.R. 62461, 91 Stat. 1639, set out under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461), which abolished the Commission and the Committee effective on or before July 1, 1978, at such time as specified by the President.
@@ -718,7 +718,7 @@ Advisory commissions or committees in existence on Jan. 5, 1973, to terminate no
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 The United States Information and Educational Exchange Act of 1948, as amended, referred to in subsecs. (b) and (d), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. Title VIII of the Act, referred to in subsec. (d), is classified generally to subchapter VII (§ 1471 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
 
@@ -922,13 +922,13 @@ Sec. 6. This Order shall be effective on April 1, 1978.
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
-The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
+The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
 
-The Support for East European Democracy Act, referred to in subsec. (d)(2), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
+The Support for East European Democracy Act, referred to in subsec. (d)(2), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 2002—Subsec. (d). Pub. L. 107–228, § 221, designated existing provisions as par. (1) and added par. (2).
@@ -1027,7 +1027,7 @@ William J. Clinton.
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Amendments
 1993—Pub. L. 103–199, § 301(2)(A), substituted “Exchanges between United States and independent states of the former Soviet Union” for “United States-Soviet exchanges” in section catchline.
@@ -1065,7 +1065,7 @@ In subsec. (a), independent states of the former Soviet Union and independent st
 ### Statutory Notes
 
 #### References in Text
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (a), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (a), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 This Act, referred to in subsec. (a), probably means title III of Pub. L. 106–309, Oct. 17, 2000, 114 Stat. 1094, known as the International Academic Opportunity Act of 2000, which enacted this section and provisions set out as notes under this section. For complete classification of this Act to the Code, see Tables.
 

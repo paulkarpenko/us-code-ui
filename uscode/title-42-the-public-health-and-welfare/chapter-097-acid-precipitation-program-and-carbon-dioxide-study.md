@@ -178,7 +178,7 @@ Section was enacted as part of the National Aeronautics and Space Administration
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, as amended, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8801 of this title](./chapter-096-biomass-energy-and-alcohol-fuels.md#section-8801) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8801 of this title](./chapter-096-biomass-energy-and-alcohol-fuels.md#section-8801) and Tables.
 
 
 <a id="section-8912"></a>

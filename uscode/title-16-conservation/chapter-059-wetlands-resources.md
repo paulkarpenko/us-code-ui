@@ -146,7 +146,7 @@ The Secretary is authorized to purchase wetlands or interests in wetlands, which
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Conservation Act of 1929, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
+The Migratory Bird Conservation Act of 1929, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 
 <a id="section-3923"></a>

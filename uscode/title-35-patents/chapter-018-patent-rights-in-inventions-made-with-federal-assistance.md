@@ -49,7 +49,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Plant Variety Protection Act, referred to in subsec. (d), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, as amended, which is classified principally to chapter 57 (§ 2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2321 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2321&num=0&edition=prelim) and Tables.
+The Plant Variety Protection Act, referred to in subsec. (d), is Pub. L. 91–577, Dec. 24, 1970, 84 Stat. 1542, which is classified principally to chapter 57 (§ 2321 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2321 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2321&num=0&edition=prelim) and Tables.
 
 Section 41 of the Plant Variety Protection Act ([7 U.S.C. 2401(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2401/d&num=0&edition=prelim)), referred to in subsec. (e), was subsequently amended, and no longer defines the term “date of determination”.
 
@@ -508,7 +508,7 @@ Section effective July 1, 1981, but implementing regulations authorized to be is
 
 (18) section 21(d) of the Federal Fire Prevention and Control Act of 1974 ([15 U.S.C. 2218(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2218/d&num=0&edition=prelim); 88 Stat. 1548);
 
-(19) section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 ([42 U.S.C. 5585(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5585/b&num=0&edition=prelim); 92 Stat. 2516);
+(19) section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 ([42 U.S.C. 5585(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5585/b&num=0&edition=prelim); 92 Stat. 2516); 1
 
 (20) section 12 of the Native Latex Commercialization and Economic Development Act of 1978 ([7 U.S.C. 178j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section178j&num=0&edition=prelim); 92 Stat. 2533); and
 
@@ -537,6 +537,8 @@ Section 12 of the National Science Foundation Act of 1950 ([42 U.S.C. 1871(a)](h
 Section 3 of the Act of April 5, 1944 ([30 U.S.C. 323](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section323&num=0&edition=prelim); 58 Stat. 191), referred to in subsec. (a)(13), was omitted from the Code.
 
 Section 306(d) of the Surface Mining and Reclamation Act, referred to in subsec. (a)(17), was classified to [section 1226(d) of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1226/d&num=0&edition=prelim), Mineral Lands and Mining, prior to enactment of Pub. L. 98–409, which enacted a new [section 1226 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1226&num=0&edition=prelim). See [section 1226(c) of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1226/c&num=0&edition=prelim).
+
+Section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 ([42 U.S.C. 5585(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5585/b&num=0&edition=prelim); 92 Stat. 2516), referred to in subsec. (a)(19), was repealed by Pub. L. 116–260, div. Z, title III, § 3006(f), Dec. 27, 2020, 134 Stat. 2513.
 
 The Native Latex Commercialization and Economic Development Act of 1978, referred to in subsec. (a)(20), is Pub. L. 95–592, Nov. 4, 1978, 92 Stat. 2529, which, as amended by Pub. L. 98–284, May 16, 1984, 98 Stat. 181, is known as the Critical Agricultural Materials Act and is classified principally to subchapter II (§ 178 et seq.) of chapter 8A of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 178 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section178&num=0&edition=prelim) and Tables.
 

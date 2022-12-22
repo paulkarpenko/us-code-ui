@@ -88,7 +88,7 @@ The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937
 ### Statutory Notes
 
 #### References in Text
-The Older Americans Act of 1965, referred to in subsecs. (c) and (d), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (c) and (d), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
 #### Amendments
 1984—Subsec. (i). Pub. L. 98–479 substituted “Health and Human Services” for “the Department of Health, Education, and Welfare”.
@@ -209,7 +209,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (b)(2) of this
 ### Statutory Notes
 
 #### References in Text
-The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 
 <a id="section-8010"></a>
@@ -574,17 +574,17 @@ The Secretary shall act on each application within 60 days of its submission.
 ### Statutory Notes
 
 #### References in Text
-The Older Americans Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title III of the Act is classified generally to subchapter III (§ 3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act of 1965, referred to in subsec. (d)(2)(B)(i), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title III of the Act is classified generally to subchapter III (§ 3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
-The Congregate Housing Services Act of 1978, referred to in subsecs. (d)(2)(B)(ii), (i)(1)(A)(i), (B)(i), and (j)(3), is title IV of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2104, as amended, which is classified principally to this chapter (§ 8001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 8001 of this title](./chapter-089-congregate-housing-services.md#section-8001) and Tables.
+The Congregate Housing Services Act of 1978, referred to in subsecs. (d)(2)(B)(ii), (i)(1)(A)(i), (B)(i), and (j)(3), is title IV of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2104, which is classified principally to this chapter (§ 8001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 8001 of this title](./chapter-089-congregate-housing-services.md#section-8001) and Tables.
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified principally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (j)(1)(A), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified principally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (k)(6)(A), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, and amended. Title II of the Act, which was classified generally to subchapter II (§ 1437aa et seq.) of chapter 8 of this title, was repealed by Pub. L. 104–330, title V, § 501(a), Oct. 26, 1996, 110 Stat. 4041. For complete classification of this Act to the Code, see Short title note set out under [section 1437 of this title](./chapter-008-low-income-housing.md#section-1437) and Tables.
 
 Section 8(b)(2) of the United States Housing Act, referred to in subsec. (k)(6)(B), probably means section 8(b)(2) of the United States Housing Act of 1937, which was classified to [section 1437f(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f/b/2&num=0&edition=prelim) and was repealed by Pub. L. 98–181, title I [title II, § 209(a)(2)], Nov. 30, 1983, 97 Stat. 1183.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (k)(9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (k)(9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -765,7 +765,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ### Statutory Notes
 
 #### References in Text
-The Older Americans Act of 1965, referred to in subsec. (d)(12), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title III of the Act is classified generally to subchapter III (§ 3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act of 1965, referred to in subsec. (d)(12), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218. Title III of the Act is classified generally to subchapter III (§ 3021 et seq.) of chapter 35 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
 [Section 1437a(b)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b/11&num=0&edition=prelim), referred to in subsec. (g)(5), was repealed by Pub. L. 104–330, title V, § 501(b)(1)(D), Oct. 26, 1996, 110 Stat. 4041, and a new section 1437a(b)(11), defining “public housing agency plan”, was enacted by Pub. L. 105–276, title V, § 506(4), Oct. 21, 1998, 112 Stat. 2524.
 
@@ -1253,7 +1253,7 @@ Subsec. (k)(6). Pub. L. 111–374, § 5(7)(E)(ii), which directed striking out �
 
 Pub. L. 111–374, § 5(7)(E)(i), inserted as concluding provisions the matter directed to be inserted as concluding provisions after section 811(k)(6)(D) of the Housing Act of 1959 by section 841 of Pub. L. 106–569. See 2000 Amendment note below.
 
-Subsec. (l)(1). Pub. L. 111–374, § 3(h), amended par. (1) generally. Prior to amendment, text read as follows: “Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b)(2) that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.”.
+Subsec. (l)(1). Pub. L. 111–374, § 3(h), amended par. (1) generally. Prior to amendment, text read as follows: “Of any amount made available for assistance under this section in any fiscal year, an amount shall be used for assistance under subsection (b)(2) that is not less than the amount made available in appropriation Acts for such assistance in the preceding year.”
 
 Subsec. (l)(2). Pub. L. 111–374, § 5(8)(A), substituted “subsection (d)(1)” for “subsection (c)(1)”.
 

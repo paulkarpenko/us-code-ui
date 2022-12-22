@@ -120,14 +120,14 @@ In order to minimize the burden caused by existing application and reporting pro
 
 Subsec. (a). Pub. L. 95–348, § 9(2), substituted “Any” for “Notwithstanding any provision of law to the contrary, any”.
 
-#### Termination of Trust Territory of the Pacific Islands
-For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of this title](./chapter-014-trust-territory-of-the-pacific-islands.md#section-1681).
-
 #### Maintenance or Level of Effort Requirements; Adjustment or Modification by Administrator of Environmental Protection Agency
 Pub. L. 99–396, § 12(a), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding assistance grants, consolidated under the provisions of title V of the Act entitled ‘An Act to authorize certain appropriations for the territories of the United States, to amend certain Acts related thereto, and for other purposes’ (91 Stat. 1159, as amended) [[42 U.S.C. 4368b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4368b&num=0&edition=prelim); [48 U.S.C. 1469a](./chapter-010-territorial-provisions-of-a-general-nature.md#section-1469a)], to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands or the Virgin Islands, the Administrator of the Environmental Protection Agency may, in his discretion, adjust or otherwise modify maintenance or level of effort requirements.”
 
 #### Application of Subsection (d) to Department of the Interior
 Pub. L. 96–205, title VI, § 601, Mar. 12, 1980, 94 Stat. 90, as amended Pub. L. 98–213, § 6, Dec. 8, 1983, 97 Stat. 1460; Pub. L. 98–454, title VI, § 601(b), Oct. 5, 1984, 98 Stat. 1736, provided that this section shall be applied with respect to the Department of the Interior by substituting “shall” for “may” in the last sentence of subsection (d), and adding the following sentence at the end of subsection (d): “Notwithstanding any other provision of law, in the case of American Samoa, Guam, the Virgin Islands, and the Northern Mariana Islands any department or agency shall waive any requirement for local matching funds under $200,000 (including in-kind contributions) required by law to be provided by American Samoa, Guam, the Virgin Islands, or the Northern Mariana Islands.”
+
+#### Termination of Trust Territory of the Pacific Islands
+For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of this title](./chapter-014-trust-territory-of-the-pacific-islands.md#section-1681).
 
 
 <a id="section-1469a-1"></a>
@@ -168,6 +168,8 @@ Section is from the appropriation act cited as the credit to this section.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1497.
 
 Pub. L. 116–94, div. D, title I, Dec. 20, 2019, 133 Stat. 2704.
 

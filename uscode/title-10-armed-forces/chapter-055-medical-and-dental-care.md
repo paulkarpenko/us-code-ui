@@ -2,7 +2,7 @@
 title: 10
 chapter: '55'
 heading: MEDICAL AND DENTAL CARE
-section_count: 94
+section_count: 95
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -42,6 +42,9 @@ Pub. L. 100–180, div. A, title VII, § 701, Dec. 4, 1987, 101 Stat. 1108, prov
 
 #### Short Title of 1966 Amendment
 Pub. L. 89–614, § 1, Sept. 30, 1966, 80 Stat. 862, provided: “That this Act [enacting sections 1086 and 1087 of this title, amending this section and sections 1072 to 1074, 1076 to 1079, 1082, and 1084 of this title, and enacting provisions set out as a note under this section] may be cited as the ‘Military Medical Benefits Amendments of 1966’.”
+
+#### Biennial Briefing on Individual Longitudinal Exposure Record
+Pub. L. 117–168, title VIII, § 802, Aug. 10, 2022, 136 Stat. 1801, provided that: “(a) In General.—Not later than one year after the date on which the Individual Longitudinal Exposure Record achieves full operational capability, as determined by the Secretary of Defense, and every two years thereafter, the Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall provide the appropriate committees of Congress a briefing on—“(1) the quality of the databases of the Department of Defense that provide the information presented in such Individual Longitudinal Exposure Record; and “(2) the usefulness of such Individual Longitudinal Exposure Record or system in supporting members of the Armed Forces and veterans in receiving health care and benefits from the Department of Defense and the Department of Veterans Affairs. “(b) Elements.—Each briefing required by subsection (a) shall include, for the period covered by the report, the following:“(1) An identification of potential exposures to occupational or environmental hazards captured by the current systems of the Department of Defense for environmental, occupational, and health monitoring, and recommendations for how to improve those systems. “(2) An analysis of the quality and accuracy of the location data used by the Department of Defense in determining potential exposures to occupational or environmental hazards by members of the Armed Forces and veterans, and recommendations for how to improve the quality of such data if necessary. “(c) Definitions.—In this section:“(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services and the Committee on Veterans’ Affairs of the Senate; and “(B) the Committee on Armed Services and the Committee on Veterans’ Affairs of the House of Representatives. “(2) Individual longitudinal exposure record.—The term ‘Individual Longitudinal Exposure Record’ has the meaning given such term in [section 1171 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1171&num=0&edition=prelim), United States Code, as added by section 202.”
 
 #### Appeals to Physical Evaluation Board Determinations of Fitness for Duty
 Pub. L. 117–81, div. A, title V, § 524, Dec. 27, 2021, 135 Stat. 1687, provided that: “Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall incorporate a formal appeals process (including timelines established by the Secretary of Defense) into the policies and procedures applicable to the implementation of the Integrated Disability Evaluation System of the Department of Defense. The appeals process shall include the following: “(1) The Secretary concerned shall ensure that a member of the Armed Forces may submit a formal appeal made with respect to determinations of fitness for duty to a Physical Evaluation Board of such Secretary. “(2) The appeals process shall include, at the request of such member, an impartial hearing on a fitness for duty determination to be conducted by the Secretary concerned. “(3) Such member shall have the option to be represented at a hearing by legal counsel.”
@@ -1016,8 +1019,8 @@ Subsec. (a)(2). Pub. L. 115–91, § 713(2), substituted “military commander o
 
 Subsec. (a)(4). Pub. L. 115–91, § 713(3), added par. (4) relating to authorization of military director or other senior military officer to serve as a commanding officer.
 
-#### Requirements for Consultations
-Pub. L. 117–81, div. A, title VII, § 712(b), Dec. 27, 2021, 135 Stat. 1783, provided that: “The Secretary of Defense shall ensure that consultations are carried out under [section 1073c(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1073c/f&num=0&edition=prelim), United States Code (as added by subsection (a)), to include the plans of each military department to ensure a comprehensive transition of any military medical research organizations of the military department with respect to the establishment of the Defense Health Agency Research and Development.”
+#### Requirements for Consultations Relating to Military Medical Research and Defense Health Agency Research and Development
+Pub. L. 117–81, div. A, title VII, § 712(b), (c), Dec. 27, 2021, 135 Stat. 1783, 1784, provided that: “(b) Requirements for Consultations.—The Secretary of Defense shall ensure that consultations are carried out under [section 1073c(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1073c/f&num=0&edition=prelim), United States Code (as added by subsection (a)), to include the plans of each military department to ensure a comprehensive transition of any military medical research organizations of the military department with respect to the establishment of the Defense Health Agency Research and Development. “(c) Deadline for Initial Consultations.—Initial consultations shall be carried out under [section 1073c(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1073c/f&num=0&edition=prelim), United States Code (as added by subsection (a)), with each military department by not later than March 1, 2022.”
 
 #### Limitation on Closures and Downsizings in Connection With Transition of Administration
 Pub. L. 115–232, div. A, title VII, § 711(a)(3), Aug. 13, 2018, 132 Stat. 1807, provided that: “In carrying out the transition of responsibility for the administration of military medical treatment facilities pursuant to subsection (a) of [section 1073c of title 10](./chapter-055-medical-and-dental-care.md#section-1073c), United States Code (as amended by paragraph (1)), and in addition to any other applicable requirements under section 1073d of that title, the Secretary of Defense may not close any military medical treatment facility, or downsize any medical center, hospital, or ambulatory care center (as specified in section 1073d of that title), that addresses the medical needs of beneficiaries and the community in the vicinity of such facility, center, hospital, or care center until the Secretary submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth the following: “(A) A description of the methodology and criteria to be used by the Secretary to make decisions to close any military medical treatment facility, or to downsize any medical center, hospital, or ambulatory care center, in connection with the transition, including input from the military department concerned. “(B) A requirement that no closure of a military medical treatment facility, or downsizing of a medical center, hospital, or ambulatory care center, in connection with the transition will occur until 90 days after the date on which Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a report on the closure or downsizing.”
@@ -4319,19 +4322,19 @@ Pub. L. 117–81, div. A, title VII, § 701(a), (d), Dec. 27, 2021, 135 Stat. 17
 
 (2) by adding at the end the following new subsection:
 
-“(r)(1) The provision of health care services for an eating disorder under subsection (a)(18) may include the following services:
+(r)(1) The provision of health care services for an eating disorder under subsection (a)(18) may include the following services:
 
-“(A) Outpatient services for in-person or telehealth care, including partial hospitalization services and intensive outpatient services.
+(A) Outpatient services for in-person or telehealth care, including partial hospitalization services and intensive outpatient services.
 
-“(B) Inpatient services, which shall include residential services only if medically indicated for treatment of a primary diagnosis of an eating disorder.
+(B) Inpatient services, which shall include residential services only if medically indicated for treatment of a primary diagnosis of an eating disorder.
 
-“(2) A dependent provided health care services for an eating disorder under subsection (a)(18) shall be provided such services without regard to—
+(2) A dependent provided health care services for an eating disorder under subsection (a)(18) shall be provided such services without regard to—
 
-“(A) the age of the dependent, except with respect to residential services under paragraph (1)(B), which may be provided only to a dependent who is not eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act ([42 U.S.C. 1395c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395c&num=0&edition=prelim) et seq.); and
+(A) the age of the dependent, except with respect to residential services under paragraph (1)(B), which may be provided only to a dependent who is not eligible for hospital insurance benefits under part A of title XVIII of the Social Security Act ([42 U.S.C. 1395c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395c&num=0&edition=prelim) et seq.); and
 
-“(B) except as otherwise specified in paragraph (1)(B), whether the eating disorder is the primary or secondary diagnosis of the dependent.
+(B) except as otherwise specified in paragraph (1)(B), whether the eating disorder is the primary or secondary diagnosis of the dependent.
 
-“(3) In this section, the term ‘eating disorder’ has the meaning given the term ‘feeding and eating disorders’ in the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (or successor edition), published by the American Psychiatric Association.”
+(3) In this section, the term “eating disorder” has the meaning given the term “feeding and eating disorders” in the Diagnostic and Statistical Manual of Mental Disorders, 5th Edition (or successor edition), published by the American Psychiatric Association.
 
 See 2021 Amendment notes below.
 
@@ -4688,7 +4691,7 @@ Subsec. (b). Pub. L. 89–614 incorporated existing provisions of subsec. (a)(6)
 Subsecs. (c) to (f). Pub. L. 89–614 added subsecs. (c) to (f).
 
 #### Effective Date of 2021 Amendment
-Pub. L. 117–81, div. A, title VII, § 701(d), Dec. 27, 2021, 135 Stat. 1779, provided that: “The amendments made by this section [enacting [section 1090a of this title](./chapter-055-medical-and-dental-care.md#section-1090a), transferring former [section 1090a of this title](./chapter-055-medical-and-dental-care.md#section-1090a) to [section 1090b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1090b&num=0&edition=prelim), and amending this section and [section 1086 of this title](./chapter-055-medical-and-dental-care.md#section-1086)] shall take effect on October 1, 2022.”
+Pub. L. 117–81, div. A, title VII, § 701(d), Dec. 27, 2021, 135 Stat. 1779, provided that: “The amendments made by this section [enacting [section 1090a of this title](./chapter-055-medical-and-dental-care.md#section-1090a), transferring former [section 1090a of this title](./chapter-055-medical-and-dental-care.md#section-1090a) to [section 1090b of this title](./chapter-055-medical-and-dental-care.md#section-1090b), and amending this section and [section 1086 of this title](./chapter-055-medical-and-dental-care.md#section-1086)] shall take effect on October 1, 2022.”
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–163, div. A, title VII, § 715(b), Jan. 6, 2006, 119 Stat. 3345, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 7, 2001, and shall apply with respect to deaths occurring on or after that date.”
@@ -5175,12 +5178,12 @@ Pub. L. 117–81, div. A, title VII, § 701(b), (d), Dec. 27, 2021, 135 Stat. 17
 
 (2) by adding at the end the following new subsection:
 
-“(i) If, prior to October 1, 2022, a category of persons covered by this section was eligible to receive a specific type of treatment for eating disorders under a plan contracted for under subsection (a), the general prohibition on the provision of treatments for eating disorders specified in such subsection shall not apply with respect to the provision of the specific type of treatment to such category of persons.”
+(i) If, prior to October 1, 2022, a category of persons covered by this section was eligible to receive a specific type of treatment for eating disorders under a plan contracted for under subsection (a), the general prohibition on the provision of treatments for eating disorders specified in such subsection shall not apply with respect to the provision of the specific type of treatment to such category of persons.
 
 See 2021 Amendment notes below.
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Parts A and B of title XVIII of the Act are classified generally to parts A (§ 1395c et seq.) and B (§ 1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 1086, act Aug. 10, 1956, ch. 1041, 70A Stat. 88, authorized the mailing of official post cards, ballots, voting instructions, and envelopes, free of postage, prior to repeal by Pub. L. 85–861, § 36(B)(5), Sept. 2, 1958, 72 Stat. 1570, as superseded by the Federal Voting Assistance Act of 1955 which is classified to subchapter I–D (§ 1973cc et seq.) of chapter 20 of Title 42, The Public Health and Welfare.
@@ -5444,7 +5447,7 @@ The Secretary of Defense may not take any action that would require, or have the
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title XVIII of the Social Security Act, is classified generally to Part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title XVIII of the Social Security Act, is classified generally to Part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1986—Subsec. (b)(2). Pub. L. 99–661 substituted “Act ([42 U.S.C. 1395c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395c&num=0&edition=prelim) et seq.))” for “Act. ([42 U.S.C. 1395c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395c&num=0&edition=prelim) et seq.)”.
@@ -5575,7 +5578,25 @@ Pub. L. 115–232, div. A, title VII, § 716, Aug. 13, 2018, 132 Stat. 1814, pro
 
 
 <a id="section-1090a"></a>
-## § 1090a. Commanding officer and supervisor referrals of members for mental health evaluations
+## § 1090a. Identifying and treating eating disorders.11 So in original. The period probably should not appear.
+**(a) Identification, Treatment, and Rehabilitation.—** The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations, implement procedures using each practical and available method, and provide necessary facilities to identify, treat, and rehabilitate members of the armed forces who have an eating disorder.
+
+**(b) Facilities Available.—**
+
+(1) In this section, the term “necessary facilities” includes facilities that provide the services specified in [section 1079(r)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079/r/1&num=0&edition=prelim).
+
+(2) Consistent with [section 1079(r)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079/r/1/B&num=0&edition=prelim), residential services shall be provided to a member pursuant to this section only if the member has a primary diagnosis of an eating disorder and treatment at such facility is medically indicated for treatment of that eating disorder.
+
+**(c) Eating Disorder Defined.—** In this section, the term “eating disorder” has the meaning given that term in [section 1079(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079/r&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 1, 2022, see section 701(d) of Pub. L. 117–81, set out as an Effective Date of 2021 Amendment note under [section 1079 of this title](./chapter-055-medical-and-dental-care.md#section-1079).
+
+
+<a id="section-1090b"></a>
+## § 1090b. Commanding officer and supervisor referrals of members for mental health evaluations
 **(a) Regulations.—** The Secretary of Defense shall prescribe and maintain regulations relating to commanding officer and supervisor referrals of members of the armed forces for mental health evaluations. The regulations shall incorporate the requirements set forth in subsections (b), (c), and (d) and such other matters as the Secretary considers appropriate.
 
 **(b) Reduction of Perceived Stigma.—** The regulations required by subsection (a) shall, to the greatest extent possible—
@@ -5602,7 +5623,7 @@ Pub. L. 115–232, div. A, title VII, § 716, Aug. 13, 2018, 132 Stat. 1814, pro
 
     (i) requiring the commanding officer or supervisor of the member to refer the member to a mental health provider for a mental health evaluation as soon as practicable following the request of the member (including by providing to the mental health provider the name and contact information of the member and providing to the member the date, time, and place of the scheduled mental health evaluation); and
 
-    (ii) ensure the member may request a referral pursuant to subparagraph (A) on any basis (including on the basis of a concern relating to fitness for duty, occupational requirements, safety issues, significant changes in performance, or behavioral changes that may be attributable to possible changes in mental status); and
+    (ii) ensure 11 So in original. Probably should be “ensuring”. the member may request a referral pursuant to subparagraph (A) on any basis (including on the basis of a concern relating to fitness for duty, occupational requirements, safety issues, significant changes in performance, or behavioral changes that may be attributable to possible changes in mental status); and
 
   (C) ensure that the process described in subparagraph (A)—
 
@@ -5636,31 +5657,18 @@ Pub. L. 115–232, div. A, title VII, § 716, Aug. 13, 2018, 132 Stat. 1814, pro
 
 ### Statutory Notes
 
-#### Transfer of Section
-Pub. L. 117–81, div. A, title VII, § 701(c)(1), (d), Dec. 27, 2021, 135 Stat. 1778, 1779, provided that, effective Oct. 1, 2022, this chapter is amended by redesignating this section as [section 1090b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1090b&num=0&edition=prelim) and inserting after section 1090 the following new section:
-
-§ 1090a. Identifying and treating eating disorders.
-
-(a) Identification, Treatment, and Rehabilitation.—The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations, implement procedures using each practical and available method, and provide necessary facilities to identify, treat, and rehabilitate members of the armed forces who have an eating disorder.
-
-(b) Facilities Available.—(1) In this section, the term “necessary facilities” includes facilities that provide the services specified in [section 1079(r)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079/r/1&num=0&edition=prelim).
-
-(2) Consistent with [section 1079(r)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079/r/1/B&num=0&edition=prelim), residential services shall be provided to a member pursuant to this section only if the member has a primary diagnosis of an eating disorder and treatment at such facility is medically indicated for treatment of that eating disorder.
-
-(c) Eating Disorder Defined.—In this section, the term “eating disorder” has the meaning given that term in [section 1079(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079/r&num=0&edition=prelim).
-
-See 2021 Amendment notes below.
-
 #### References in Text
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 #### Amendments
-2021—Subsec. (c). Pub. L. 117–81, § 704(1), inserted “or is required to make such a referral pursuant to the process described in subsection (e)(1)(A)” after “mental health evaluation” in introductory provisions.
+2021—Pub. L. 117–81, § 701(c)(1)(A), renumbered [section 1090a of this title](./chapter-055-medical-and-dental-care.md#section-1090a) as this section.
+
+Subsec. (c). Pub. L. 117–81, § 704(1), inserted “or is required to make such a referral pursuant to the process described in subsection (e)(1)(A)” after “mental health evaluation” in introductory provisions.
 
 Subsecs. (e) to (g). Pub. L. 117–81, § 704(2), (3), added subsecs. (e) and (f) and redesignated former subsec. (e) as (g).
 
 #### Effective Date of 2021 Amendment
-Amendment by section 701(c)(1)(A) of Pub. L. 117–81 effective Oct. 1, 2022, see section 701(d) of Pub. L. 117–81, set out as a note under [section 1079 of this title](./chapter-055-medical-and-dental-care.md#section-1079).
+Transfer of section by section 701(c)(1)(A) of Pub. L. 117–81 effective Oct. 1, 2022, see section 701(d) of Pub. L. 117–81, set out as a note under [section 1079 of this title](./chapter-055-medical-and-dental-care.md#section-1079).
 
 
 <a id="section-1091"></a>
@@ -6094,7 +6102,7 @@ Pub. L. 107–107, div. A, title VII, § 738, Dec. 28, 2001, 115 Stat. 1173, aut
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Social Security Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Public Law 87–693, referred to in subsec. (i)(2), is Pub. L. 87–693, Sept. 25, 1962, 76 Stat. 593, which is classified generally to chapter 32 (§ 2651 et seq.) of Title 42. For complete classification of this Act to the Code, see Tables.
 
@@ -6281,7 +6289,7 @@ Functions of President under this section delegated to Secretary of Defense, see
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2002—Subsec. (d). Pub. L. 107–314 added subsec. (d).
@@ -6666,7 +6674,7 @@ Pub. L. 106–65, div. A, title VII, § 716(b), Oct. 5, 1999, 113 Stat. 691, dir
 #### References in Text
 [Section 1079(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079/j&num=0&edition=prelim), referred to in subsec. (a)(1), was redesignated [section 1079(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1079/i&num=0&edition=prelim) by Pub. L. 113–291, div. A, title VII, § 703(a)(3), Dec. 19, 2014, 128 Stat. 3411.
 
-The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1862 of the Act is classified to [section 1395y of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395y&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1862 of the Act is classified to [section 1395y of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395y&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 5000 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2), is classified to [section 5000 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5000&num=0&edition=prelim), Internal Revenue Code.
 
@@ -7013,7 +7021,7 @@ Amendment by Pub. L. 107–314 effective Oct. 1, 2003, see section 721(c) of Pub
 
 <a id="section-1104a"></a>
 ## § 1104a. Shared medical facilities with Department of Veterans Affairs
-**(a) Agreements.—** Secretary of Defense may enter into agreements with the Secretary of Veterans Affairs for the planning, design, and construction of facilities to be operated as shared medical facilities.
+**(a) Agreements.—** Secretary of Defense may enter into agreements with the Secretary of Veterans Affairs for the planning, design, and construction, or the leasing, of facilities to be operated as shared medical facilities.
 
 **(b) Transfer of Funds by Secretary of Defense.—**
 
@@ -7025,7 +7033,7 @@ Amendment by Pub. L. 107–314 effective Oct. 1, 2003, see section 721(c) of Pub
 
     (ii) the other requirements of such section have been met with respect to funds identified for transfer.
 
-  (B) For the planning, design, and construction of space for a shared medical facility, amounts appropriated for the Defense Health Program.
+  (B) For the planning, design, and construction, or the leasing, of space for a shared medical facility, amounts appropriated for the Defense Health Program.
 
 (2) The authority to transfer funds under this section is in addition to any other authority to transfer funds available to the Secretary of Defense.
 
@@ -7033,9 +7041,9 @@ Amendment by Pub. L. 107–314 effective Oct. 1, 2003, see section 721(c) of Pub
 
 **(c) Transfer of Funds to Secretary of Defense.—**
 
-(1) Any amount transferred to the Secretary of Defense by the Secretary of Veterans Affairs for necessary expenses for the planning, design, and construction of a shared medical facility, if the amount of the share of the Department of Defense for the cost of such project does not exceed the amount specified in [section 2805(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/a/2&num=0&edition=prelim), may be credited to accounts of the Department of Defense available for the construction of a shared medical facility.
+(1) Any amount transferred to the Secretary of Defense by the Secretary of Veterans Affairs for necessary expenses for the planning, design, and construction, or the leasing, of a shared medical facility, if the amount of the share of the Department of Defense for the cost of such project does not exceed the amount specified in [section 2805(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/a/2&num=0&edition=prelim), may be credited to accounts of the Department of Defense available for the construction of a shared medical facility.
 
-(2) Any amount transferred to the Secretary of Defense by the Secretary of Veterans Affairs for the purpose of the planning and design of space for a shared medical facility may be credited to accounts of the Department of Defense available for such purposes, and may be used for such purposes.
+(2) Any amount transferred to the Secretary of Defense by the Secretary of Veterans Affairs for the purpose of the planning and design, or the leasing, of space for a shared medical facility may be credited to accounts of the Department of Defense available for such purposes, and may be used for such purposes.
 
 (3) Using accounts credited with transfers from the Secretary of Veterans Affairs under paragraph (1), the Secretary of Defense may carry out unspecified minor military construction projects, if the share of the Department of Defense for the cost of such project does not exceed the amount specified in [section 2805(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2805/a/2&num=0&edition=prelim).
 
@@ -7048,6 +7056,13 @@ Amendment by Pub. L. 107–314 effective Oct. 1, 2003, see section 721(c) of Pub
 (1) means a building or buildings, or a campus, intended to be used by both the Department of Veterans Affairs and the Department of Defense for the provision of health care services, whether under the jurisdiction of the Secretary of Veterans Affairs or the Secretary of Defense, and whether or not located on a military installation or on real property under the jurisdiction of the Secretary of Veterans Affairs; and
 
 (2) includes any necessary building and auxiliary structure, garage, parking facility, mechanical equipment, abutting and covered sidewalks, and accommodations for attending personnel.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsecs. (a), (b)(1)(B), (c)(1). Pub. L. 117–168, § 706(a)(1), inserted “, or the leasing,” after “design, and construction”.
+
+Subsec. (c)(2). Pub. L. 117–168, § 706(a)(2), inserted “, or the leasing,” after “design”.
 
 
 <a id="section-1105"></a>
@@ -7409,7 +7424,7 @@ Pub. L. 108–136, div. A, title XVI, § 1603(d), Nov. 24, 2003, 117 Stat. 1690,
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), and (j)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title XVIII of the Act is classified generally to Part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to [section 1395ss of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ss&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (b)(1)(A), (D)(i), and (j)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title XVIII of the Act is classified generally to Part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1882 of the Act is classified to [section 1395ss of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ss&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 1896 of the Social Security Act, referred to in subsec. (c)(3), was classified to [section 1395ggg of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395ggg&num=0&edition=prelim), The Public Health and Welfare, and was omitted from the Code.
 
@@ -7516,9 +7531,9 @@ Pub. L. 105–261, div. A, title VII, § 741(c), Oct. 17, 1998, 112 Stat. 2074, 
 
 Subsec. (a). Pub. L. 117–81, § 716(a)(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 117–81, § 716(a)(1), (b)(2), redesignated subsec. (a) as (b), inserted “From Anthrax Vaccine Immunization Program” after “Exemptions” in subsec. heading, and substituted “Secretary” for “Secretary of Defense” in par. (1). Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 117–81, § 716(a)(1), (b)(2), redesignated subsec. (a) as (b), inserted “From Anthrax Vaccine Immunization Program” after “Exemptions” in heading, and substituted “Secretary” for “Secretary of Defense” in par. (1). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 117–81, § 716(a)(1), (b)(3), redesignated subsec. (b) as (c) and inserted “to Anthrax Vaccine” after “Reactions” in subsec. heading.
+Subsec. (c). Pub. L. 117–81, § 716(a)(1), (b)(3), redesignated subsec. (b) as (c) and inserted “to Anthrax Vaccine” after “Reactions” in heading.
 
 #### Deadline for Establishment of System
 Pub. L. 117–81, div. A, title VII, § 716(d), Dec. 27, 2021, 135 Stat. 1789, provided that: “The Secretary of Defense shall establish the system under [section 1110 of title 10](./chapter-055-medical-and-dental-care.md#section-1110), United States Code, as added by subsection (a), by not later than January 1, 2023.”
@@ -7527,7 +7542,7 @@ Pub. L. 117–81, div. A, title VII, § 716(d), Dec. 27, 2021, 135 Stat. 1789, p
 Pub. L. 117–81, div. A, title VII, § 720, Dec. 27, 2021, 135 Stat. 1791, provided that: “(a) Standards.—The Secretary of Defense shall establish uniform standards under which covered members may be exempted from receiving an otherwise mandated COVID–19 vaccine for administrative, medical, or religious reasons. “(b) Definitions.—In this section:“(1) The term ‘covered member’ means a member of an Armed Force under the jurisdiction of the Secretary of a military department. “(2) The term ‘COVID–19 vaccine’ means any vaccine for the coronavirus disease 2019 (COVID–19), including any subsequent booster shot for COVID–19.”
 
 #### Deadlines for Establishment and Implementation
-Pub. L. 106–398, § 1 [[div. A], title VII, § 751(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that: “The Secretary of Defense shall— “(1) not later than April 1, 2001, establish the uniform procedures for exemption from participation in the anthrax vaccine immunization program of the Department of Defense required under subsection (a) of [section 1110 of title 10](./chapter-055-medical-and-dental-care.md#section-1110), United States Code (as added by subsection (b)); “(2) not later than July 1, 2001, establish the system for monitoring adverse reactions of members of the Armed Forces to the anthrax vaccine required under subsection (b)(1) of such section; “(3) not later than April 1, 2001, establish the guidelines under which members of the Armed Forces may obtain access to a Department of Defense Center of Excellence treatment facility for expedited treatment and follow up required under subsection (b)(3) of such section; and “(4) not later than July 1, 2001, prescribe the regulations regarding emergency essential employees of the Department of Defense required under subsection (a) of section 1580a of such title (as added by subsection(c)).”
+Pub. L. 106–398, § 1 [[div. A], title VII, § 751(e)], Oct. 30, 2000, 114 Stat. 1654, 1654A–195, provided that: “The Secretary of Defense shall— “(1) not later than April 1, 2001, establish the uniform procedures for exemption from participation in the anthrax vaccine immunization program of the Department of Defense required under subsection (a) [now (b)] of [section 1110 of title 10](./chapter-055-medical-and-dental-care.md#section-1110), United States Code (as added by subsection (b)); “(2) not later than July 1, 2001, establish the system for monitoring adverse reactions of members of the Armed Forces to the anthrax vaccine required under subsection (b)(1) [now (c)(1)] of such section; “(3) not later than April 1, 2001, establish the guidelines under which members of the Armed Forces may obtain access to a Department of Defense Center of Excellence treatment facility for expedited treatment and follow up required under subsection (b)(3) [now (c)(3)] of such section; and “(4) not later than July 1, 2001, prescribe the regulations regarding emergency essential employees of the Department of Defense required under subsection (a) of section 1580a of such title (as added by subsection (c)).”
 
 
 <a id="section-1110a"></a>

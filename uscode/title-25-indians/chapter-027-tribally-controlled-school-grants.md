@@ -124,7 +124,7 @@ a grant under this chapter to plan, conduct, and administer all of, or any porti
 ### Statutory Notes
 
 #### References in Text
-The Education Amendments of 1978, referred to in subsecs. (a)(1)(A) and (f)(3)(B), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+The Education Amendments of 1978, referred to in subsecs. (a)(1)(A) and (f)(3)(B), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (f)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -232,9 +232,9 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 #### References in Text
 The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(3)(A) and (b)(1)(A)(i), (3)(A), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title I of the Act is classified generally to subchapter I (§ 6301 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(3)(B) and (b)(1)(A)(ii), (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(3)(B) and (b)(1)(A)(ii), (3)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
-The Education Amendments of 1978, referred to in subsec. (b)(1)(A)(iii), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+The Education Amendments of 1978, referred to in subsec. (b)(1)(A)(iii), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 Section 1124 of the Education Amendments of 1978 ([25 U.S.C. 2005(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2005/a&num=0&edition=prelim)), referred to in subsec. (b)(4)(B)(iii), probably should be section 1125 of the Education Amendments of 1978, Pub. L. 95–561, which is classified to [section 2005 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2005) and requires, in subsec. (b), compliance with health and safety standards. Section 1124 of Pub. L. 95–561, which is classified to [section 2004 of this title](./chapter-022-bureau-of-indian-affairs-programs.md#section-2004), relates to school boundaries.
 
@@ -366,7 +366,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 ### Statutory Notes
 
 #### References in Text
-The Education Amendments of 1978, referred to in subsecs. (a)(1)(A), (B), (b)(1), and (c)(1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
+The Education Amendments of 1978, referred to in subsecs. (a)(1)(A), (B), (b)(1), and (c)(1), is Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143. Title XI of the Act is classified principally to chapter 22 (§ 2000 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education, and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (a)(2) and (f)(1)(C), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -567,7 +567,7 @@ Section effective Jan. 8, 2002, except with respect to certain noncompetitive pr
 #### References in Text
 The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
-The Equal Access to Justice Act, referred to in subsec. (e), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 504 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), Government Organization and Employees, and Tables.
+The Equal Access to Justice Act, referred to in subsec. (e), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325. For complete classification of this Act to the Code, see Short Title note set out under [section 504 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section504&num=0&edition=prelim), Government Organization and Employees, and Tables.
 
 #### Prior Provisions
 A prior section 2507, Pub. L. 100–297, title V, § 5208, Apr. 28, 1988, 102 Stat. 393; Pub. L. 100–427, § 13, Sept. 9, 1988, 102 Stat. 1609; Pub. L. 103–382, title III, § 382(c), Oct. 20, 1994, 108 Stat. 4017, related to payment of grants and investment of funds, prior to repeal by Pub. L. 107–110, title X, § 1043, Jan. 8, 2002, 115 Stat. 2063. See [section 2506 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2506).
@@ -676,7 +676,7 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (4), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 This Act, referred to in par. (7), is Pub. L. 100–297 and probably should be “this part”, meaning part B of title V of Pub. L. 100–297, known as the Tribally Controlled Schools Act of 1988, which is classified generally to this chapter. For complete classification of part B to the Code, see Short Title note set out under [section 2501 of this title](./chapter-027-tribally-controlled-school-grants.md#section-2501) and Tables.
 

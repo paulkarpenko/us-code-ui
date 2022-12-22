@@ -2,7 +2,7 @@
 title: 34
 chapter: '601'
 heading: PRISONS
-section_count: 5
+section_count: 6
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -25,6 +25,9 @@ Congress finds the following:
 
 #### Codification
 Section was formerly classified to [section 13726 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13726&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Short Title
+For short title of Pub. L. 106–560, which is classified to sections 60101 to 60104 of this title, as the “Interstate Transportation of Dangerous Criminals Act of 2000” and also as “Jeanna’s Act”, see section 1 of Pub. L. 106–560, set out as a Short Title of 2000 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
 #### Guidelines for States Regarding Infectious Diseases in Correctional Institutions
 Pub. L. 105–370, § 2(c), Nov. 12, 1998, 112 Stat. 3375, provided that: “Not later than 1 year after the date of the enactment of this Act [Nov. 12, 1998], the Attorney General, in consultation with the Secretary of Health and Human Services, shall provide to the several States proposed guidelines for the prevention, detection, and treatment of incarcerated persons and correctional employees who have, or may be exposed to, infectious diseases in correctional institutions.”
@@ -149,3 +152,62 @@ Section 3(a), referred to in subsec. (f)(1), is section 3(a) of Pub. L. 113–24
 
 #### Codification
 Section was formerly classified to [section 13727 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13727&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+
+<a id="section-60106"></a>
+## § 60106. Incentives for States
+**(a) Authority to make grants** The Attorney General is authorized to make grants to States that have in effect a law that—
+
+(1) makes it a criminal offense for any person acting under color of law of the State to knowingly engage in a sexual act with an individual who is under arrest, in detention, or otherwise in the actual custody of any law enforcement officer; and
+
+(2) prohibits a person charged with an offense described in paragraph (1) from asserting the consent of the other individual as a defense.
+
+**(b) Reporting requirement** A State that receives a grant under this section shall submit to the Attorney General, on an annual basis, information on—
+
+(1) the number of reports made to law enforcement agencies in that State regarding persons engaging in a sexual act while acting under color of law during the previous year; and
+
+(2) the disposition of each case in which sexual misconduct by a person acting under color of law was reported during the previous year.
+
+**(c) Application** A State seeking a grant under this section shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may reasonably require, including information about the law described in subsection (a).
+
+**(d) Grant amount** The amount of a grant to a State under this section shall be in an amount that is not greater than 10 percent of the average of the total amount of funding of the 3 most recent awards that the State received under the following grant programs:
+
+(1) Part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10441](./chapter-101-justice-system-improvement.md#section-10441) et seq.) (commonly referred to as the “STOP Violence Against Women Formula Grant Program”).
+
+(2) [Section 12511 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12511) (commonly referred to as the “Sexual Assault Services Program”).
+
+**(e) Grant term**
+
+(1) **In general** — The Attorney General shall provide an increase in the amount provided to a State under the grant programs described in subsection (d) for a 2-year period.
+
+(2) **Renewal** — A State that receives a grant under this section may submit an application for a renewal of such grant at such time, in such manner, and containing such information as the Attorney General may reasonably require.
+
+(3) **Limit** — A State may not receive a grant under this section for more than 4 years.
+
+**(f) Uses of funds** A State that receives a grant under this section shall use—
+
+(1) 25 percent of such funds for any of the permissible uses of funds under the grant program described in paragraph (1) of subsection (d); and
+
+(2) 75 percent of such funds for any of the permissible uses of funds under the grant program described in paragraph (2) of subsection (d).
+
+**(g) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023 through 2027.
+
+**(h) Definition** For purposes of this section, the term “State” means each of the several States and the District of Columbia, Indian Tribes, and the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Northern Mariana Islands.
+
+### Statutory Notes
+
+#### References in Text
+The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (d)(1), is Pub. L. 90–351, June 19, 1968, 82 Stat. 197. Part T of title I of the Act is classified principally to subchapter XIX (§ 10441 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title of 1968 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+#### Reports to Congress
+Pub. L. 117–103, div. W, title XII, § 1204, Mar. 15, 2022, 136 Stat. 926, provided that: “(a) Report by Attorney General.—Not later than 1 year after the date of enactment of this Act [Mar. 15, 2022], and each year thereafter, the Attorney General shall submit to Congress and make publicly available on the Department of Justice website a report containing—“(1) the information required to be reported to the Attorney General under section 1203(b) [[34 U.S.C. 60106(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section60106/b&num=0&edition=prelim)]; and “(2) information on—“(A) the number of reports made, during the previous year, to Federal law enforcement agencies regarding persons engaging in a sexual act while acting under color of law; and “(B) the disposition of each case in which sexual misconduct by a person acting under color of law was reported. “(b) Report by GAO.—Not later than 1 year after the date of enactment of this Act, and each year thereafter, the Comptroller General of the United States shall submit to Congress a report on any violations of [section 2243(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2243/c&num=0&edition=prelim), United States Code, as amended by section 1302, committed during the 1-year period covered by the report. “(c) Report by Attorney General on Conflicts Between State’s Marriage-age and Age-based Sex Offenses.—Not later than 1 year after the date of enactment of this Act, and each year thereafter, the Attorney General shall submit to Congress a report that examines inconsistencies between State laws on marriage-age and State laws on age-based sex offenses and, in particular, States with laws that—“(1) provide an exception to definitions of age-based sex offenses (including statutory rape), or a defense to prosecution for such offenses, based on the marriage of the perpetrator to the victim; or “(2) allow marriages between parties at ages, or with age differences between them, such that sexual acts between those parties outside of marriage would constitute an age-based sex offense (including statutory rape).”
+
+[For definitions of terms used in section 1204 of div. W of Pub. L. 117–103, set out above, see [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), and section 1205 of Pub. L. 117–103, set out below.]
+
+#### Definition
+Pub. L. 117–103, div. W, title XII, § 1205, Mar. 15, 2022, 136 Stat. 927, provided that: “In this title [see Short Title of 2022 Amendment note set out under [section 1 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1&num=0&edition=prelim), Crimes and Criminal Procedure], the term ‘sexual act’ has the meaning given the term in [section 2246 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2246&num=0&edition=prelim), United States Code.”
+
+For definitions of other terms used in this section, see [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291).

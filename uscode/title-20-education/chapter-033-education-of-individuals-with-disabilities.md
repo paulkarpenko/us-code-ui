@@ -980,9 +980,9 @@ A prior section 1409, Pub. L. 91–230, title VI, § 610, as added Pub. L. 101�
 ### Statutory Notes
 
 #### References in Text
-Public Law 95–134, referred to in subsec. (b)(1)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to [section 1469a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1469a&num=0&edition=prelim), Territories and Insular Possessions.
+Public Law 95–134, referred to in subsec. (b)(1)(B), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to [section 1469a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1469a&num=0&edition=prelim), Territories and Insular Possessions.
 
-The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (e)(3)(H), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 1411, Pub. L. 91–230, title VI, § 611, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 49, related to authorization, allotment, use of funds, and authorization of appropriations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
@@ -1003,11 +1003,13 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 Subchapter effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
 
 #### Effect of Reduction
-Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1601, provided in part: “That the Secretary [of Education] may, in any fiscal year in which a State’s allocation under section 611 [[20 U.S.C. 1411](./chapter-033-education-of-individuals-with-disabilities.md#section-1411)] is reduced in accordance with section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)], reduce the amount a State may reserve under section 611(e)(1) [[20 U.S.C. 1411(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/e/1&num=0&edition=prelim)] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) [[20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] in the absence of the reduction: Provided further, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) [[20 U.S.C. 1412(a)(18)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/A&num=0&edition=prelim)] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act ([20 U.S.C. 1234a](./chapter-031-general-provisions-concerning-education.md#section-1234a))”.
+Pub. L. 117–103, div. H, title III, Mar. 15, 2022, 136 Stat. 478, provided in part: “That the Secretary [of Education] may, in any fiscal year in which a State’s allocation under section 611 [[20 U.S.C. 1411](./chapter-033-education-of-individuals-with-disabilities.md#section-1411)] is reduced in accordance with section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)], reduce the amount a State may reserve under section 611(e)(1) [[20 U.S.C. 1411(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/e/1&num=0&edition=prelim)] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) [[20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] in the absence of the reduction: Provided further, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) [[20 U.S.C. 1412(a)(18)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/A&num=0&edition=prelim)] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act ([20 U.S.C. 1234a](./chapter-031-general-provisions-concerning-education.md#section-1234a))”.
 
-Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1601, provided in part: “That the amount by which a State’s allocation under section 611(d) of the IDEA [Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] is reduced under section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
+Pub. L. 117–103, div. H, title III, Mar. 15, 2022, 136 Stat. 478, provided in part: “That the amount by which a State’s allocation under section 611(d) of the IDEA [Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] is reduced under section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1601.
 
 Pub. L. 116–94, div. A, title III, Dec. 20, 2019, 133 Stat. 2589, 2590.
 
@@ -1455,9 +1457,9 @@ Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 394.
 ### Statutory Notes
 
 #### References in Text
-The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(11)(A)(iii), (21)(B)(v), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
+The McKinney-Vento Homeless Assistance Act, referred to in subsec. (a)(11)(A)(iii), (21)(B)(v), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title VII of the Act is classified generally to part B (§ 11431 et seq.) of subchapter VI of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11301&num=0&edition=prelim) and Tables.
 
-The Controlled Substances Act, referred to in subsec. (a)(25)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(25)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 For the effective date of the Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (c)(1), (3), see section 302(a), (b) of Pub. L. 108–446, set out as an Effective Date note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
 
@@ -1676,7 +1678,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(C)(ii), (f)(5), and (j)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(2)(C)(ii), (f)(5), and (j)(3), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 For the effective date of the Individuals with Disabilities Education Improvement Act of 2004, referred to in subsec. (b)(1), (3), see section 302(a), (b) of Pub. L. 108–446, set out as an Effective Date note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
 
@@ -2619,11 +2621,11 @@ Section 327 of the District of Columbia Appropriations Act, 2005, referred to in
 
 The Federal Rules of Civil Procedure, referred to in subsec. (i)(3)(D)(i)(I), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in subsec. (k)(7)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (l), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (l), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (l), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Act is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (l), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Act is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 1415, Pub. L. 91–230, title VI, § 615, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 88; amended Pub. L. 106–25, § 6(a), Apr. 29, 1999, 113 Stat. 49, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
@@ -2838,7 +2840,7 @@ Another prior section 1415, Pub. L. 91–230, title VI, § 615, as added Pub. L.
 ### Statutory Notes
 
 #### References in Text
-The General Education Provisions Act, referred to in subsec. (g), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221) and Tables.
+The General Education Provisions Act, referred to in subsec. (g), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, which is classified generally to chapter 31 (§ 1221 et seq.) of this title. For complete classification of this Act to the Code, see [section 1221 of this title](./chapter-031-general-provisions-concerning-education.md#section-1221) and Tables.
 
 #### Prior Provisions
 A prior section 1416, Pub. L. 91–230, title VI, § 616, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 99, related to withholding of payments and judicial review, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
@@ -3816,7 +3818,7 @@ Another prior section 1442, Pub. L. 91–230, title VI, § 642, Apr. 13, 1970, 8
 ### Statutory Notes
 
 #### References in Text
-Public Law 95–134, referred to in subsec. (a)(2), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to [section 1469a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1469a&num=0&edition=prelim), Territories and Insular Possessions.
+Public Law 95–134, referred to in subsec. (a)(2), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to [section 1469a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1469a&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Prior Provisions
 A prior section 1443, Pub. L. 91–230, title VI, § 643, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 118, related to allocation of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
@@ -3918,7 +3920,7 @@ A prior section 1445, Pub. L. 91–230, title VI, § 645, as added Pub. L. 105�
 ### Statutory Notes
 
 #### References in Text
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part E of the Act is classified generally to part E (§ 9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501) and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(2), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§ 9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501) and Tables.
 
 #### Prior Provisions
 A prior section 1482, Pub. L. 91–230, title VI, § 682, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 149, related to parent training and information centers, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
@@ -4396,11 +4398,11 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 #### References in Text
 [Section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801), referred to in subsec. (a)(1)(B), was in the original “section 8101 of such Act”, which was translated as meaning section 8101 of the Elementary and Secondary Education Act of 1965, to reflect the probable intent of Congress.
 
-The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (b)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title II of the Act is classified generally to subchapter II (§ 1021 et seq.) of chapter 28 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
 [Section 6613(c)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6613/c/18&num=0&edition=prelim) (as such section was in effect on the day before December 10, 2015), referred to in subsec. (b)(10), means [section 6613(c)(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6613/c/18&num=0&edition=prelim) prior to repeal by Pub. L. 114–95, title II, § 2002, Dec. 10, 2015, 129 Stat. 1913. Section 2002 of Pub. L. 114–95 enacted a new [section 6613 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6613).
 
-Public Law 95–134, referred to in subsec. (e), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants to the outlying areas are contained in section 501 of Pub. L. 95–134 which is classified to [section 1469a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1469a&num=0&edition=prelim), Territories and Insular Possessions.
+Public Law 95–134, referred to in subsec. (e), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159. Provisions relating to consolidation of grants to the outlying areas are contained in section 501 of Pub. L. 95–134 which is classified to [section 1469a of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1469a&num=0&edition=prelim), Territories and Insular Possessions.
 
 #### Prior Provisions
 A prior section 1454, Pub. L. 91–230, title VI, § 654, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 128, related to use of funds, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
@@ -4682,7 +4684,7 @@ Another prior section 1461, Pub. L. 91–230, title VI, § 661, Apr. 13, 1970, 8
 ### Statutory Notes
 
 #### References in Text
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(vii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(vii), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) and Tables.
 
 #### Prior Provisions
 A prior section 1462, Pub. L. 91–230, title VI, § 662, as added Pub. L. 99–457, title III, § 317, Oct. 8, 1986, 100 Stat. 1172; amended Pub. L. 101–476, title VII, § 702, Oct. 30, 1990, 104 Stat. 1141, authorized appropriations, prior to repeal by Pub. L. 105–17, title II, § 203(c), June 4, 1997, 111 Stat. 157, effective Oct. 1, 1997.
@@ -4769,10 +4771,10 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part D of the Act is classified generally to part D (§ 9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501) and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (e), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part D of the Act is classified generally to part D (§ 9561 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501) and Tables.
 
 #### Amendments
-2015—Subsec. (b)(2). Pub. L. 114–95, which directed amendment of subsec. (b)(2) by “striking and inserting the following:” followed by the text of a new par. (2), was executed by subtituting the new par. (2) for the existing par. (2) to reflect the probable intent of Congress. Prior to amendment, par. (2) read as follows: “improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing adequate yearly progress, as described under [section 6311(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/B&num=0&edition=prelim);”.
+2015—Subsec. (b)(2). Pub. L. 114–95, which directed amendment of subsec. (b)(2) by “striking and inserting the following:” followed by the text of a new par. (2), was executed by substituting the new par. (2) for the existing par. (2) to reflect the probable intent of Congress. Prior to amendment, par. (2) read as follows: “improving the alignment, compatibility, and development of valid and reliable assessments and alternate assessments for assessing adequate yearly progress, as described under [section 6311(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/B&num=0&edition=prelim);”.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -4893,7 +4895,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, as amended. Part E of the Act is classified generally to part E (§ 9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501) and Tables.
+The Education Sciences Reform Act of 2002, referred to in subsec. (d)(1), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§ 9567 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501) and Tables.
 
 
 <a id="section-1466"></a>
@@ -5265,9 +5267,9 @@ Another prior section 1473, Pub. L. 91–230, title VI, § 673, as added Pub. L.
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (e)(3)(A), (5), was in the original “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 91–230, as amended, which enacted this chapter, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (e)(3)(A), (5), was in the original “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 91–230, which enacted this chapter, to reflect the probable intent of Congress.
 
-“An Act to provide books for the adult blind”, approved March 3, 1931, referred to in subsec. (e)(3)(A), is act Mar. 3, 1931, ch. 400, 46 Stat. 1487, as amended, which is classified generally to sections 135a and 135b of Title 2, The Congress. For complete classification of this Act to the Code, see Tables.
+“An Act to provide books for the adult blind”, approved March 3, 1931, referred to in subsec. (e)(3)(A), is act Mar. 3, 1931, ch. 400, 46 Stat. 1487, which is classified generally to sections 135a and 135b of Title 2, The Congress. For complete classification of this Act to the Code, see Tables.
 
 [Section 121(d) of title 17](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section121/d&num=0&edition=prelim), referred to in subsec. (e)(3)(D), was amended by Pub. L. 115–261, § 2(a)(1)(D), Oct. 9, 2018, 132 Stat. 3667, and no longer defines the term “specialized formats”.
 

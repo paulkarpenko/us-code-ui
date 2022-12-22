@@ -261,7 +261,7 @@ Section was formerly classified as a note under [section 249 of Title 18](https:
 
     (ii) has reported no hate crimes through the Uniform Crime Reports program in each of the 3 most recent calendar years for which such data is available.
 
-(3) **State** — The term “State” has the meaning given the term in section 10251of this title.
+(3) **State** — The term “State” has the meaning given the term in [section 10251 of this title](./chapter-101-justice-system-improvement.md#section-10251).
 
 (4) **Uniform Crime Reports** — The term “Uniform Crime Reports” means the reports authorized under [section 534 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim) and administered by the Federal Bureau of Investigation that compile nationwide criminal statistics for use—
 
@@ -269,7 +269,7 @@ Section was formerly classified as a note under [section 249 of Title 18](https:
 
   (B) to assess the nature and type of crime in the United States.
 
-(5) **Unit of local government** — The term “unit of local government” has the meaning given the term in section 10251of this title.
+(5) **Unit of local government** — The term “unit of local government” has the meaning given the term in [section 10251 of this title](./chapter-101-justice-system-improvement.md#section-10251).
 
 **(d) Reporting of hate crimes**
 

@@ -2,7 +2,7 @@
 title: 15
 chapter: '49'
 heading: FIRE PREVENTION AND CONTROL
-section_count: 40
+section_count: 41
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -37,6 +37,9 @@ The Congress finds that—
 
 #### References in Text
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§ 201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under [section 278f of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278f). The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–246, § 1, Dec. 20, 2022, 136 Stat. 2345, provided that: “This Act [enacting [section 2235 of this title](./chapter-049-fire-prevention-and-control.md#section-2235)] may be cited as the ‘Empowering the U.S. Fire Administration Act’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–98, § 1, Jan. 3, 2018, 131 Stat. 2239, provided that: “This Act [amending sections 2216, 2229, and 2229a of this title and enacting provisions set out as notes under [section 2229 of this title](./chapter-049-fire-prevention-and-control.md#section-2229)] may be cited as the ‘United States Fire Administration, AFG, and SAFER Program Reauthorization Act of 2017’.”
@@ -1294,7 +1297,7 @@ Upon request, the Administrator shall assist the Consumer Product Safety Commiss
 ### Statutory Notes
 
 #### References in Text
-The Consumer Product Safety Act, referred to in text, is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, as amended, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051) and Tables.
+The Consumer Product Safety Act, referred to in text, is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051) and Tables.
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -1777,7 +1780,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246,which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 [Section 1441a(c) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/c&num=0&edition=prelim), referred to in subsec. (a)(5)(B), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
 
@@ -2079,7 +2082,7 @@ No funds shall be made available to a State or local government under [section 2
 
       (IV) the strategic plan the recipient proposes to carry out under the grant;
 
-    (ii) give special consideration in selecting recipients under subparagraph (A) to an applicant for a grant that consists of a partnership between—
+    (ii) give special consideration in selecting recipients under subparagraph (A) 22 So in original. Probably should be “clause (i)”. to an applicant for a grant that consists of a partnership between—
 
       (I) a national fire service organization or a national fire safety organization; and
 
@@ -2109,7 +2112,7 @@ No funds shall be made available to a State or local government under [section 2
 
   (B) *Exception for entities serving small communities* — In the case that an applicant seeking a grant to carry out an activity under subsection (c) serves a jurisdiction of—
 
-    (i) more than 20,000 residents but not more than 1,000,000 residents, the application shall agree to make available non-Federal funds in an amount equal to not less than 10 percent of the grant awarded to such applicant under such subsection; and
+    (i) more than 20,000 residents but not more than 1,000,000 residents, the application 33 So in original. Probably should be “applicant”. shall agree to make available non-Federal funds in an amount equal to not less than 10 percent of the grant awarded to such applicant under such subsection; and
 
     (ii) 20,000 residents or fewer, the applicant shall agree to make available non-Federal funds in an amount equal to not less than 5 percent of the grant awarded to such applicant under such subsection.
 
@@ -2139,7 +2142,7 @@ No funds shall be made available to a State or local government under [section 2
 
       (I) Changes in rates of unemployment from previous years.
 
-      (II) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 22 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
+      (II) Whether the rates of unemployment of the relevant communities are currently and have consistently exceeded 44 So in original. Probably should be “are currently exceeding and have consistently exceeded”. the annual national average rates of unemployment.
 
       (III) Changes in percentages of individuals eligible to receive food stamps from previous years.
 
@@ -2661,3 +2664,48 @@ The Administrator shall promote adoption by fire services of national voluntary 
 (2) encouraging the adoption at all levels of government of such standards; and
 
 (3) making recommendations on other ways in which the Federal Government can promote the adoption of such standards by fire services.
+
+
+<a id="section-2235"></a>
+## § 2235. Investigation authorities
+**(a) In general** In the case of a major fire, the Administrator may send incident investigators, which may include safety specialists, fire protection engineers, codes and standards experts, researchers, and fire training specialists, to the site of the fire to conduct a fire safety investigation as described in subsection (b).
+
+**(b) Investigation required** A fire safety investigation conducted under this section—
+
+(1) shall be conducted in coordination and cooperation with appropriate Federal, State, local, Tribal, and territorial authorities, including Federal agencies that are authorized to investigate any fire; and
+
+(2) shall examine the previously determined cause and origin of the fire and assess broader systematic matters to include use of codes and standards, demographics, structural characteristics, smoke and fire dynamics (movement) during the event, and costs of associated injuries and deaths.
+
+**(c) Report**
+
+(1) **In general** — Subject to paragraph (2), upon concluding any fire safety investigation under this section, the Administrator shall—
+
+  (A) issue a public report to the appropriate Federal, State, local, Tribal, and territorial authorities on the findings of such investigation; or
+
+  (B) collaborate with another investigating Federal, State, local, Tribal, or territorial agency on the report of that agency.
+
+(2) **Exception** — If the Administrator, in consultation with appropriate Federal, State, local, Tribal, and territorial authorities determines that issuing a report under paragraph (1) would have a negative impact on a potential or ongoing criminal investigation, the Administrator is not required to issue such report.
+
+(3) **Contents** — Each public report issued under paragraph (1) shall include recommendations on—
+
+  (A) any other buildings with similar characteristics that may bear similar fire risks;
+
+  (B) improving tactical response to similar fires;
+
+  (C) improving civilian safety practices;
+
+  (D) assessing the costs and benefits to the community of adding fire safety features; and
+
+  (E) how to mitigate the causes of the fire.
+
+**(d) Discretionary authority** In addition to a fire safety investigation conducted pursuant to subsection (a), provided doing so would not have a negative impact on a potential or ongoing criminal investigation, the Administrator may send fire investigators to conduct a fire safety investigation at the site of any fire with unusual or remarkable context that results in losses less severe than those occurring as a result of a major fire, in coordination and cooperation with the appropriate Federal, State, local, Tribal, and territorial authorities, including Federal agencies that are authorized to investigate the fire.
+
+**(e) Construction** Nothing in this section shall be construed to—
+
+(1) affect or otherwise diminish the authorities or the mandates vested in other Federal agencies;
+
+(2) grant the Administrator authority to investigate a major fire for the purpose of an enforcement action or criminal prosecution; or
+
+(3) require the Administrator to send investigators or issue a report for a major fire when the Administrator, in coordination and cooperation with the appropriate Federal, State, local, Tribal, and territorial authorities, determine that it may compromise a potential or ongoing criminal investigation.
+
+**(f) Major fire defined** For purposes of this section, the term “major fire” shall have the meaning given such term under regulations to be issued by the Administrator.

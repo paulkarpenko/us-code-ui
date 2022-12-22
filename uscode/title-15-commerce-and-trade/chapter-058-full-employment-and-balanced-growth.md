@@ -41,7 +41,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 #### References in Text
 For definition of “this chapter”, referred to in subsecs. (a), (b), and (d), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
 
-The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Subsec. (d). Pub. L. 105–277 substituted “include, in the annual report referred to in [section 1022a(f)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1022a/f/2/B&num=0&edition=prelim),” for “include, in the annual Employment and Training Report of the President provided under section 705(a) of CETA,”.
@@ -60,7 +60,7 @@ The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352
 #### References in Text
 For definition of “this chapter”, referred to in text, see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
 
-The Fair Labor Standards Act, referred to in subsec. (b), is act June 25, 1938, ch. 676. 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim), and Tables.
+The Fair Labor Standards Act, referred to in subsec. (b), is act June 25, 1938, ch. 676. 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim), and Tables.
 
 #### Codification
 “Sections 3141–3144, 3146, and 3147 of title 40 apply” substituted in subsec. (b) for “the Davis-Bacon Act ([40 U.S.C. 276a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section276a&num=0&edition=prelim)—276a–5) applies” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -172,7 +172,7 @@ For definition of “this chapter”, referred to in text, see References in Tex
 #### References in Text
 For definition of “this chapter”, referred to in subsec. (a), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
 
-The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
+The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
 
 #### Executive Order No. 12329
 Ex. Ord. No. 12329, Oct. 14, 1981, 46 F.R. 50919, which established the President’s Task Force on Private Sector Initiatives and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12399, § 4(i), Dec. 31, 1982, 48 F.R. 380, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
@@ -258,7 +258,7 @@ For definition of “this chapter”, referred to in subsec. (b), see References
 #### References in Text
 For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
 
-The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
+The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsecs. (b) and (c)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
@@ -311,7 +311,7 @@ The tax code, referred to in subsec. (b)(1), means Title 26, Internal Revenue Co
 
 For definition of “this chapter”, referred to in subsec. (c), see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
 
-The Employment Act of 1946, referred to in subsec. (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
+The Employment Act of 1946, referred to in subsec. (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
 
 
 <a id="section-3151"></a>
@@ -327,7 +327,7 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 For definition of “this chapter”, referred to in text, see References in Text note set out under [section 3102 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3102).
 
-The Employment Act of 1946, referred to in subsecs. (a) and (b), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
+The Employment Act of 1946, referred to in subsecs. (a) and (b), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
 
 
 <a id="section-3152"></a>
@@ -343,4 +343,4 @@ The Employment Act of 1946, referred to in subsecs. (a) and (b), is act Feb. 20,
 ### Statutory Notes
 
 #### References in Text
-The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
+The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.

@@ -54,7 +54,7 @@ Pub. L. 99–519, § 1, Oct. 22, 1986, 100 Stat. 2970, provided that: “This Ac
 #### Short Title
 Pub. L. 94–469, § 1, Oct. 11, 1976, 90 Stat. 2003; renumbered title I, Pub. L. 99–519, § 3(c), Oct. 22, 1986, 100 Stat. 2989, provided that: “This Act [enacting this chapter and provisions set out as notes under this section] may be cited as the ‘Toxic Substances Control Act’.”
 
-#### Modification of Definition of Sport Fishing Equipment under Toxic Substances Control Act
+#### Modification of Definition of Sport Fishing Equipment Under Toxic Substances Control Act
 Pub. L. 116–188, title I, § 108, Oct. 30, 2020, 134 Stat. 920, provided that: “(a) Prohibition.—During the 5-year period beginning on the date of enactment of this Act [Oct. 30, 2020], the Administrator of the Environmental Protection Agency shall not take any action to regulate the lead content of sport fishing equipment or sport fishing equipment components under the Toxic Substances Control Act ([15 U.S.C. 2601](./chapter-053-toxic-substances-control.md#section-2601) et seq.). “(b) Definition of Sport Fishing Equipment.—In this section, the term ‘sport fishing equipment’ means any sport fishing equipment (as such term is defined in section 4162(a) of the Internal Revenue Code of 1986 [[26 U.S.C. 4162(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4162/a&num=0&edition=prelim)]) the sale of which is subject to the tax imposed by section 4161(a) of such Code [[26 U.S.C. 4161(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4161/a&num=0&edition=prelim)] (determined without regard to any exemptions from such tax provided by section 4162 or 4221 or any other provision of such Code [[26 U.S.C. 4162](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4162&num=0&edition=prelim), 4221]).”
 
 #### No Retroactivity of Pub. L. 114–182 Amendments
@@ -453,7 +453,7 @@ which indicates to the Administrator that there may be a reasonable basis to con
 ### Statutory Notes
 
 #### References in Text
-The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2016—Subsec. (a)(1). Pub. L. 114–182, § 4(2)(B)(x), in concluding provisions, inserted “, or, in the case of a chemical substance or mixture described in subparagraph (A)(i), by rule, order, or consent agreement,” after “shall by rule”, substituted “information” for “data” in two places, and substituted “and which is relevant” for “and which are relevant”.
@@ -3250,7 +3250,7 @@ For purposes of this subchapter—
 ### Statutory Notes
 
 #### References in Text
-The Defense Dependents’ Education Act of 1978, referred to in par. (7)(C), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in par. (7)(C), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Par. (7)(A). Pub. L. 114–95, § 9215(xxx)(1)(A), made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
@@ -3407,7 +3407,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ### Statutory Notes
 
 #### References in Text
-The Defense Dependents’ Education Act of 1978, referred to in subsec. (l)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (l)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1990—Subsec. (d)(7). Pub. L. 101–637 added par. (7).
@@ -3701,7 +3701,7 @@ unless such person is accredited by a State under subsection (b) or is accredite
 ### Statutory Notes
 
 #### References in Text
-The Defense Dependents’ Education Act of 1978, referred to in subsec. (b)(2), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
+The Defense Dependents’ Education Act of 1978, referred to in subsec. (b)(2), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, which is classified principally to chapter 25A (§ 921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 921 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section921&num=0&edition=prelim) and Tables.
 
 The Asbestos School Hazard Abatement Act of 1984, referred to in subsec. (e)(2), is title V of Pub. L. 98–377, Aug. 11, 1984, 98 Stat. 1287, as amended, which is classified generally to subchapter V (§ 4011 et seq.) of chapter 52 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 4011 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section4011&num=0&edition=prelim) and Tables.
 

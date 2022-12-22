@@ -18,34 +18,7 @@ source: >-
 
 **(e)** A claim arising from the liability of a debtor for fuel use tax assessed consistent with the requirements of [section 31705 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31705&num=0&edition=prelim) may be filed by the base jurisdiction designated pursuant to the International Fuel Tax Agreement (as defined in [section 31701 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31701&num=0&edition=prelim)) and, if so filed, shall be allowed as a single claim.
 
-**(f)**
-
-(1) In this subsection—
-
-  (A) the term “CARES forbearance claim” means a supplemental claim for the amount of a Federally backed mortgage loan or a Federally backed multifamily mortgage loan that was not received by an eligible creditor during the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057);
-
-  (B) the term “eligible creditor” means a servicer (as defined in section 6(i) of the Real Estate Settlement Procedures Act of 1974 ([12 U.S.C. 2605(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim)) 11 So in original. Probably should be followed by another closing parenthesis. with a claim for a Federally backed mortgage loan or a Federally backed multifamily mortgage loan of the debtor that is provided for by a plan under section 1322(b)(5);
-
-  (C) the term “Federally backed mortgage loan” has the meaning given the term in section 4022(a) of the CARES Act ([15 U.S.C. 9056(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056/a&num=0&edition=prelim)); and
-
-  (D) the term “Federally backed multifamily mortgage loan” has the meaning given the term in section 4023(f) of the CARES Act ([15 U.S.C. 9057(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9057/f&num=0&edition=prelim)).
-
-(2)
-
-  (A) Only an eligible creditor may file a supplemental proof of claim for a CARES forbearance claim.
-
-  (B) If an underlying mortgage loan obligation has been modified or deferred by an agreement of the debtor and an eligible creditor of the mortgage loan in connection with a mortgage forbearance granted under section 4022 or 4023 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057) in order to cure mortgage payments forborne under the forbearance, the proof of claim filed under subparagraph (A) shall include—
-
-    (i) the relevant terms of the modification or deferral;
-
-    (ii) for a modification or deferral that is in writing, a copy of the modification or deferral; and
-
-    (iii) a description of the payments to be deferred until the date on which the mortgage loan matures.
-
 ### Statutory Notes
-
-#### Amendment of Subsection (f)
-Pub. L. 116–260, div. FF, title X, § 1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (f). See 2020 Amendment note below.
 
 #### legislative statements
 The House amendment adopts section 501(b) of the Senate amendment leaving the Rules of Bankruptcy Procedure free to determine where a proof of claim must be filed.
@@ -133,11 +106,9 @@ Pub. L. 103–394, title III, § 304(g), Oct. 22, 1994, 108 Stat. 4134, provided
 
 (9) proof of such claim is not timely filed, except to the extent tardily filed as permitted under paragraph (1), (2), or (3) of section 726(a) or under the Federal Rules of Bankruptcy Procedure, except that—
 
-  (A) a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide;
+  (A) a claim of a governmental unit shall be timely filed if it is filed before 180 days after the date of the order for relief or such later time as the Federal Rules of Bankruptcy Procedure may provide; and
 
-  (B) in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required; and
-
-  (C) a CARES forbearance claim (as defined in section 501(f)(1)) shall be timely filed if the claim is filed before the date that is 120 days after the expiration of the forbearance period of a loan granted forbearance under section 4022 or 4023 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057).
+  (B) in a case under chapter 13, a claim of a governmental unit for a tax with respect to a return filed under section 1308 shall be timely if the claim is filed on or before the date that is 60 days after the date on which such return was filed as required.
 
 **(c)** There shall be estimated for purpose of allowance under this section—
 
@@ -194,17 +165,6 @@ Pub. L. 103–394, title III, § 304(g), Oct. 22, 1994, 108 Stat. 4134, provided
   (B) the proposed alternative repayment schedule was made prior to expiration of the 60-day period specified in paragraph (1)(B)(i).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(9)
-Pub. L. 116–260, div. FF, title X, § 1001(d)(3), Dec. 27, 2020, 134 Stat. 3218, provided that, effective on the date that is 1 year after Dec. 27, 2020, subsection (b)(9) of this section is amended:
-
-(1) in subparagraph (A), by adding “and” at the end;
-
-(2) in subparagraph (B), by striking “; and” and inserting a period; and
-
-(3) by striking subparagraph (C).
-
-See 2020 Amendment note below.
 
 #### legislative statements
 The House amendment adopts a compromise position in section 502(a) between H.R. 8200, as passed by the House, and the Senate amendment. Section 502(a) has been modified to make clear that a party in interest includes a creditor of a partner in a partnership that is a debtor under chapter 7. Since the trustee of the partnership is given an absolute claim against the estate of each general partner under section 723(c), creditors of the partner must have standing to object to claims against the partnership at the partnership level because no opportunity will be afforded at the partner’s level for such objection.
@@ -459,27 +419,6 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 ### Statutory Notes
 
-#### Amendment of Subsection (b) and Termination of Amendment
-Pub. L. 116–260, div. N, title III, § 320(b), (f)(1), Dec. 27, 2020, 134 Stat. 2015, 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, subsection (b) of this section is amended—
-
-(1) in paragraph (8)(B), by striking “and” at the end;
-
-(2) in paragraph (9), by striking the period at the end and inserting “; and”; and
-
-(3) by adding at the end the following:
-
-(10) any debt incurred under [section 364(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section364/g/1&num=0&edition=prelim).
-
-Pub. L. 116–260, div. N, title III, § 320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, § 320(b), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, subsection (b) of this section is amended—
-
-(1) in paragraph (8)(B), by adding “and” at the end;
-
-(2) in paragraph (9), by striking “; and” at the end and inserting a period; and
-
-(3) by striking paragraph (10).
-
-See 2020 Amendment notes below.
-
 #### legislative statements
 Section 503(a) of the House amendment represents a compromise between similar provisions in the House bill and the Senate amendment by leaving to the Rules of Bankruptcy Procedure the determination of the location at which a request for payment of an administrative expense may be filed. The preamble to section 503(b) of the House bill makes a similar change with respect to the allowance of administrative expenses.
 
@@ -549,6 +488,8 @@ Subsec. (b)(6). Pub. L. 98–353, § 446(7), substituted “; and” for period 
 
 #### Effective and Termination Dates of 2020 Amendment
 Amendment by section 320(b) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(ii) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under [section 364 of this title](./chapter-003-case-administration.md#section-364).
+
+[Pursuant to [15 U.S.C. 636(a)(36)(A)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36/A/iii&num=0&edition=prelim), the “covered period” for loans under the Paycheck Protection Program ended on June 30, 2021.]
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -867,20 +808,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(c)** For the purpose of subsection (a) of this section, a claim of a governmental unit arising from an erroneous refund or credit of a tax has the same priority as a claim for the tax to which such refund or credit relates.
 
-**(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), or (a)(9) or subparagraphs (A) through (E) and (G) of subsection (a)(8) of this section is not subrogated to the right of the holder of such claim to priority under such subsection or subparagraph.
+**(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 116–260, div. FF, title X, § 1001(i)(2), Dec. 27, 2020, 134 Stat. 3221, provided that, effective on the date that is 1 year after Dec. 27, 2020, subsection (d) of this section is amended:
-
-(1) by inserting “, (a)(8)” before “, or (a)(9)”;
-
-(2) by striking “or subparagraphs (A) through (E) and (G) of subsection (a)(8)”; and
-
-(3) by striking “or subparagraph” after “such subsection”.
-
-See 2020 Amendment note below.
 
 #### legislative statements
 Section 507(a)(3) of the House amendment represents a compromise dollar amount and date for the priority between similar provisions contained in H.R. 8200 as passed by the House and the Senate amendments. A similar compromise is contained in section 507(a)(4).
@@ -1110,9 +1040,11 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(4), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(5)(B)(i), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(6)(B), dollar amount “6,325” was adjusted to “6,725”; and, in subsec. (a)(7), dollar amount “2,850” was adjusted to “3,025”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (a)(4), dollar amount “13,650” was adjusted to “15,150”; in subsec. (a)(5)(B)(i), dollar amount “13,650” was adjusted to “15,150”; in subsec. (a)(6), dollar amount “6,725” was adjusted to “7,475”; and, in subsec. (a)(7), dollar amount “3,025” was adjusted to “3,350”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
 
-By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(4), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(5)(B)(i), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(6)(B), dollar amount “6,150” was adjusted to “6,325”; and, in subsec. (a)(7), dollar amount “2,775” was adjusted to “2,850”.
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(4), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(5)(B)(i), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(6)(B) [sic], dollar amount “6,325” was adjusted to “6,725”; and, in subsec. (a)(7), dollar amount “2,850” was adjusted to “3,025”
+
+By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(4), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(5)(B)(i), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(6)(B) [sic], dollar amount “6,150” was adjusted to “6,325”; and, in subsec. (a)(7), dollar amount “2,775” was adjusted to “2,850”.
 
 By notice dated Feb. 12, 2013, 78 F.R. 12089, effective Apr. 1, 2013, in subsec. (a)(4), dollar amount “11,725” was adjusted to “12,475”; in subsec. (a)(5), dollar amount “11,725” was adjusted to “12,475”; in subsec. (a)(6), dollar amount “5,775” was adjusted to “6,150”; and, in subsec. (a)(7), dollar amount “2,600” was adjusted to “2,775”.
 
@@ -2002,7 +1934,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (d)(1), dollar amount “23,675” was adjusted to “25,150”; in subsec. (d)(2), dollar amount “3,775” was adjusted to “4,000”; in subsec. (d)(3), dollar amounts “600” and “12,625” were adjusted to “625” and “13,400”, respectively; in subsec. (d)(4), dollar amount “1,600” was adjusted to “1,700”; in subsec. (d)(5), dollar amounts “1,250” and “11,850” were adjusted to “1,325” and “12,575”, respectively; in subsec. (d)(6), dollar amount “2,375” was adjusted to “2,525”; in subsec. (d)(8), dollar amount “12,625” was adjusted to “13,400”; in subsec. (d)(11)(D), dollar amount “23,675” was adjusted to “25,150”; in subsec. (f)(3), dollar amount “6,425” was adjusted to “6,825”; in subsec. (f)(4), dollar amount “675” was adjusted to “725” each time it appeared; in subsec. (n), dollar amount “1,283,025” was adjusted to “1,362,800”; in subsec. (p), dollar amount “160,375” was adjusted to “170,350”; and, in subsec. (q), dollar amount “160,375” was adjusted to “170,350”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (d)(1), dollar amount “25,150” was adjusted to “27,900”; in subsec. (d)(2), dollar amount “4,000” was adjusted to “4,450”; in subsec. (d)(3), dollar amounts “625” and “13,400” were adjusted to “700” and “14,875”, respectively; in subsec. (d)(4), dollar amount “1,700” was adjusted to “1,875”; in subsec. (d)(5), dollar amounts “1,325” and “12,575” were adjusted to “1,475” and “13,950”, respectively; in subsec. (d)(6), dollar amount “2,525” was adjusted to “2,800”; in subsec. (d)(8), dollar amount “13,400” was adjusted to “14,875”; in subsec. (d)(11)(D), dollar amount “25,150” was adjusted to “27,900”; in subsec. (f)(3), dollar amount “6,825” was adjusted to “7,575”; in subsec. (f)(4), dollar amount “725” was adjusted to “800” each time it appeared; in subsec. (n), dollar amount “1,362,800” was adjusted to “1,512,350”; in subsec. (p), dollar amount “170,350” was adjusted to “189,050”; and, in subsec. (q), dollar amount “170,350” was adjusted to “189,050”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (d)(1), dollar amount “23,675” was adjusted to “25,150”; in subsec. (d)(2), dollar amount “3,775” was adjusted to “4,000”; in subsec. (d)(3), dollar amounts “600” and “12,625” were adjusted to “625” and “13,400”, respectively; in subsec. (d)(4), dollar amount “1,600” was adjusted to “1,700”; in subsec. (d)(5), dollar amounts “1,250” and “11,850” were adjusted to “1,325” and “12,575”, respectively; in subsec. (d)(6), dollar amount “2,375” was adjusted to “2,525”; in subsec. (d)(8), dollar amount “12,625” was adjusted to “13,400”; in subsec. (d)(11)(D), dollar amount “23,675” was adjusted to “25,150”; in subsec. (f)(3), dollar amount “6,425” was adjusted to “6,825”; in subsec. (f)(4), dollar amount “675” was adjusted to “725” each time it appeared; in subsec. (n), dollar amount “1,283,025” was adjusted to “1,362,800”; in subsec. (p), dollar amount “160,375” was adjusted to “170,350”; and, in subsec. (q), dollar amount “160,375” was adjusted to “170,350”.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (d)(1), dollar amount “22,975” was adjusted to “23,675”; in subsec. (d)(2), dollar amount “3,675” was adjusted to “3,775”; in subsec. (d)(3), dollar amounts “575” and “12,250” were adjusted to “600” and “12,625”, respectively; in subsec. (d)(4), dollar amount “1,550” was adjusted to “1,600”; in subsec. (d)(5), dollar amounts “1,225” and “11,500” were adjusted to “1,250” and “11,850”, respectively; in subsec. (d)(6), dollar amount “2,300” was adjusted to “2,375”; in subsec. (d)(8), dollar amount “12,250” was adjusted to “12,625”; in subsec. (d)(11)(D), dollar amount “22,975” was adjusted to “23,675”; in subsec. (f)(3), dollar amount “6,225” was adjusted to “6,425”; in subsec. (f)(4), dollar amount “650” was adjusted to “675” each time it appeared; in subsec. (n), dollar amount “1,245,475” was adjusted to “1,283,025”; in subsec. (p), dollar amount “155,675” was adjusted to “160,375”; and, in subsec. (q), dollar amount “155,675” was adjusted to “160,375”.
 
@@ -2438,7 +2372,9 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 2334(c) of Pub
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(2)(C)(i)(I), dollar amount “675” was adjusted to “725” and, in subsec. (a)(2)(C)(i)(II), dollar amount “950” was adjusted to “1,000”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (a)(2)(C)(i)(I), dollar amount “725” was adjusted to “800” and, in subsec. (a)(2)(C)(i)(II), dollar amount “1,000” was adjusted to “1,100”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(2)(C)(i)(I), dollar amount “675” was adjusted to “725” and, in subsec. (a)(2)(C)(i)(II), dollar amount “950” was adjusted to “1,000”.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(2)(C)(i)(I), dollar amount “650” was adjusted to “675” and, in subsec. (a)(2)(C)(i)(II), dollar amount “925” was adjusted to “950”.
 
@@ -2904,12 +2840,7 @@ Pub. L. 103–394, title I, § 111(b), Oct. 22, 1994, 108 Stat. 4117, provided t
 
 (2) In this section, “student loan program” means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.
 
-**(d)** A person may not be denied relief under sections 4022 through 4024 of the CARES Act ([15 U.S.C. 9056](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9056&num=0&edition=prelim), 9057, 9058) because the person is or has been a debtor under this title.
-
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 116–260, div. FF, title X, § 1001(c)(2), Dec. 27, 2020, 134 Stat. 3217, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.
 
 #### senate report no. 95–989
 This section is additional debtor protection. It codifies the result of Perez v. Campbell, 402 U.S. 637 (1971), which held that a State would frustrate the Congressional policy of a fresh start for a debtor if it were permitted to refuse to renew a drivers license because a tort judgment resulting from an automobile accident had been unpaid as a result of a discharge in bankruptcy.
@@ -3215,7 +3146,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
   (A) on or after the date that is 14 days prior to the date on which the petition is filed; and
 
   (B) under an agreement with a money order issuer that prohibits the commingling of such proceeds with property of the debtor (notwithstanding that, contrary to the agreement, the proceeds may have been commingled with property of the debtor),
-  unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition;
+  unless the money order issuer had not taken action, prior to the filing of the petition, to require compliance with the prohibition; or
 
 (10) funds placed in an account of a qualified ABLE program (as defined in section 529A(b) of the Internal Revenue Code of 1986) not later than 365 days before the date of the filing of the petition in a case under this title, but—
 
@@ -3227,9 +3158,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 
     (ii) are not excess contributions (as described in section 4973(h) of the Internal Revenue Code of 1986); and
 
-  (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225; 2 or
-
-(11) recovery rebates made under section 6428 of the Internal Revenue Code of 1986.
+  (C) in the case of funds placed in all such accounts having the same designated beneficiary not earlier than 720 days nor later than 365 days before such date, only so much of such funds as does not exceed $6,225.2
 Paragraph (4) shall not be construed to exclude from the estate any consideration the debtor retains, receives, or is entitled to receive for transferring an interest in liquid or gaseous hydrocarbons pursuant to a farmout agreement.
 
 **(c)**
@@ -3249,17 +3178,6 @@ Paragraph (4) shall not be construed to exclude from the estate any consideratio
 **(f)** Notwithstanding any other provision of this title, property that is held by a debtor that is a corporation described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code may be transferred to an entity that is not such a corporation, but only under the same conditions as would apply if the debtor had not filed a case under this title.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 116–260, div. FF, title X, § 1001(a)(2), Dec. 27, 2020, 134 Stat. 3216, provided that, effective on the date that is 1 year after Dec. 27, 2020, subsection (b) of this section is amended:
-
-(1) in paragraph (9), in the matter following subparagraph (B), by adding “or” at the end;
-
-(2) in paragraph (10)(C), by striking “; or” and inserting a period; and
-
-(3) by striking paragraph (11).
-
-See 2020 Amendment note below.
 
 #### legislative statements
 Section 541(a)(7) is new. The provision clarifies that any interest in property that the estate acquires after the commencement of the case is property of the estate; for example, if the estate enters into a contract, after the commencement of the case, such a contract would be property of the estate. The addition of this provision by the House amendment merely clarifies that section 541(a) is an all-embracing definition which includes charges on property, such as liens held by the debtor on property of a third party, or beneficial rights and interests that the debtor may have in property of another. However, only the debtor’s interest in such property becomes property of the estate. If the debtor holds bare legal title or holds property in trust for another, only those rights which the debtor would have otherwise had emanating from such interest pass to the estate under section 541. Neither this section nor section 545 will affect various statutory provisions that give a creditor a lien that is valid both inside and outside bankruptcy against a bona fide purchaser of property from the debtor, or that creates a trust fund for the benefit of creditors meeting similar criteria. See Packers and Stockyards Act § 206, [7 U.S.C. 196](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section196&num=0&edition=prelim) (1976).
@@ -3306,7 +3224,7 @@ Section 541(e) [enacted as (d)] confirms the current status under the Bankruptcy
 #### References in Text
 The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§ 1001 et seq.) of Title 20, Education. Part C of title IV of the Act was formerly classified to part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, prior to transfer to part C (§ 1087–51 et seq.) of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
-The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10), (11) and (f), is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10) and (f), is classified generally to Title 26, Internal Revenue Code.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
@@ -3386,7 +3304,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(5)(C), (6)(C), (10)(C), dollar amount “6,425” was adjusted to “6,825”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b), dollar amount “6,825” was adjusted to “7,575” each time it appeared. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(5)(C), (6)(C), (10)(C), dollar amount “6,425” was adjusted to “6,825”.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(5)(C), (6)(C), dollar amount “6,225” was adjusted to “6,425”.
 
@@ -4087,7 +4007,9 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (c)(9), dollar amount “6,425” was adjusted to “6,825”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (c)(9), dollar amount “6,825” was adjusted to “7,575”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (c)(9), dollar amount “6,425” was adjusted to “6,825”.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (c)(9), dollar amount “6,225” was adjusted to “6,425”.
 

@@ -36,7 +36,10 @@ Par. (2). Pub. L. 116–283, § 1820(b)(4), inserted heading, inserted dash afte
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
+
+#### Provisions Not Affected by Pub. L. 103–355
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former [40 U.S.C. 759](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759&num=0&edition=prelim) or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding this section.
 
 
 <a id="section-3403"></a>
@@ -133,7 +136,7 @@ Subsec. (g). Pub. L. 116–283, § 1820(c)(5), substituted “section 3405” fo
 2003—Subsecs. (f) to (h). Pub. L. 108–136 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Relatin to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -141,7 +144,10 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Pub. L. 110–181, div. A, title VIII, § 843(a)(3)(A), Jan. 28, 2008, 122 Stat. 237, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on the date that is 120 days after the date of the enactment of this Act [Jan. 28, 2008], and shall apply with respect to any contract awarded on or after such date.”
 
 #### Effective Date
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
+
+#### Provisions Not Affected by Pub. L. 103–355
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former [40 U.S.C. 759](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759&num=0&edition=prelim) or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding [section 3401 of this title](./chapter-245-task-and-delivery-order-contracts-multiple-award-contracts.md#section-3401).
 
 
 <a id="section-3405"></a>
@@ -220,12 +226,15 @@ Subsec. (h)(2). Pub. L. 116–283, § 1820(d)(7)(C), inserted heading and realig
 2011—Subsecs. (c), (f)(3). Pub. L. 111–350 substituted “[section 1708 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1708&num=0&edition=prelim)” for “section 18 of the Office of Federal Procurement Policy Act ([41 U.S.C. 416](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section416&num=0&edition=prelim))”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
+
+#### Provisions Not Affected by Pub. L. 103–355
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former [40 U.S.C. 759](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759&num=0&edition=prelim) or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding [section 3401 of this title](./chapter-245-task-and-delivery-order-contracts-multiple-award-contracts.md#section-3401).
 
 
 <a id="section-3406"></a>
@@ -353,4 +362,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Pub. L. 110–181, div. A, title VIII, § 843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: “The amendments made by paragraph (2) [amending this section] shall take effect on the date that is 120 days after the date of the enactment of this Act [Jan. 28, 2008], and shall apply with respect to any task or delivery order awarded on or after such date.”
 
 #### Effective Date
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
+
+#### Provisions Not Affected by Pub. L. 103–355
+This section not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former [40 U.S.C. 759](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759&num=0&edition=prelim) or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding [section 3401 of this title](./chapter-245-task-and-delivery-order-contracts-multiple-award-contracts.md#section-3401).

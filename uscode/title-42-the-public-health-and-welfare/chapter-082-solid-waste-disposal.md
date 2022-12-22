@@ -55,7 +55,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (b)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (b)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 The Water Pollution Control Act, referred to in subsec. (b)(3), probably means act June 30, 1948, ch. 758, 62 Stat. 1155, known as the Federal Water Pollution Control Act, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
@@ -358,9 +358,9 @@ For transfer of certain enforcement functions of Administrator or other official
 #### References in Text
 The Federal Water Pollution Control Act, referred to in subsecs. (a) and (b), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Marine Protection, Research and Sanctuaries Act of 1972, referred to in subsecs. (a) and (b), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which enacted chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
+The Marine Protection, Research and Sanctuaries Act of 1972, referred to in subsecs. (a) and (b), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which enacted chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
 
 The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -368,7 +368,7 @@ The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is act July 14, 1955, 
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (c), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (c), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 3257 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3257&num=0&edition=prelim), prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
@@ -380,11 +380,11 @@ Subsec. (b)(3). Pub. L. 98–616, § 501(f)(2), added par. (3).
 
 1980—Subsec. (c). Pub. L. 96–482 added subsec. (c).
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 6903 of this title](./chapter-082-solid-waste-disposal.md#section-6903).
-
 #### Uranium Mill Tailings
 Pub. L. 98–616, title VII, § 703, Nov. 8, 1984, 98 Stat. 3289, provided that: “Nothing in the Hazardous and Solid Waste Amendments of 1984 [see Short Title of 1984 Amendment note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901)] shall be construed to affect, modify, or amend the Uranium Mill Tailings Radiation Control Act of 1978 [[42 U.S.C. 7901](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7901) et seq.]”.
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 6903 of this title](./chapter-082-solid-waste-disposal.md#section-6903).
 
 
 <a id="section-6906"></a>
@@ -437,7 +437,7 @@ Where appropriate, such suggested guidelines also shall include minimum informat
 #### References in Text
 The Federal Water Pollution Control Act, referred to in subsec. (a)(2), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, as amended, referred to in subsec. (a)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, as amended, referred to in subsec. (a)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 3254c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3254c&num=0&edition=prelim), prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
@@ -571,7 +571,7 @@ The Assistant Administrator of the Environmental Protection Agency appointed to 
 #### References in Text
 Reorganization Plan Numbered 3 of 1970, referred to in text, is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Toxic Substances Control Act, referred to in text, is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in text, is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, and not as part of the Solid Waste Disposal Act which comprises this chapter.
@@ -925,9 +925,6 @@ Subsec. (i). Pub. L. 98–616, § 223(a), added subsec. (i).
 #### Regulation
 Pub. L. 99–499, title I, § 124(b), Oct. 17, 1986, 100 Stat. 1689, provided that: “Unless the Administrator of the Environmental Protection Agency promulgates regulations under subtitle C of the Solid Waste Disposal Act [[42 U.S.C. 6921](./chapter-082-solid-waste-disposal.md#section-6921) et seq.] addressing the extraction of wastes from landfills as part of the process of recovering methane from such landfills, the owner and operator of equipment used to recover methane from a landfill shall not be deemed to be managing, generating, transporting, treating, storing, or disposing of hazardous or liquid wastes within the meaning of that subtitle. If the aqueous or hydrocarbon phase of the condensate or any other waste material removed from the gas recovered from the landfill meets any of the characteristics identified under section 3001 of subtitle C of the Solid Waste Disposal Act [[42 U.S.C. 6921](./chapter-082-solid-waste-disposal.md#section-6921)], the preceding sentence shall not apply and such condensate phase or other waste material shall be deemed a hazardous waste under that subtitle, and shall be regulated accordingly.”
 
-#### Transfer of Functions
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 6903 of this title](./chapter-082-solid-waste-disposal.md#section-6903).
-
 #### Ash Management and Disposal
 Pub. L. 101–549, title III, § 306, Nov. 15, 1990, 104 Stat. 2584, provided that for 2 years after Nov. 15, 1990, ash from solid waste incineration units burning municipal waste would not be regulated by the Administrator of the Environmental Protection Agency pursuant to this section.
 
@@ -942,6 +939,9 @@ Pub. L. 98–616, title II, § 221(e), Nov. 8, 1984, 98 Stat. 3250, directed Adm
 
 #### Educational Institutions; Accumulation, Storage and Disposal of Hazardous Wastes; Study
 Pub. L. 98–616, title II, § 221(f), Nov. 8, 1984, 98 Stat. 3250, as amended by Pub. L. 107–110, title X, § 1076(aa), Jan. 8, 2002, 115 Stat. 2093, directed Administrator of Environmental Protection Agency, in consultation with Secretary of Education, the States, and appropriate educational associations, to conduct a comprehensive study of problems associated with accumulation, storage, and disposal of hazardous wastes from educational institutions, such study to include an investigation of feasibility and availability of environmentally sound methods for treatment, storage, or disposal of hazardous waste from such institutions, taking into account the types and quantities of such waste which are generated by these institutions, and the nonprofit nature of these institutions, and directed Administrator to submit a report to Congress containing the findings of the study not later than Apr. 1, 1987.
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 6903 of this title](./chapter-082-solid-waste-disposal.md#section-6903).
 
 
 <a id="section-6922"></a>
@@ -977,7 +977,7 @@ Pub. L. 98–616, title II, § 221(f), Nov. 8, 1984, 98 Stat. 3250, as amended b
 ### Statutory Notes
 
 #### References in Text
-The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(5), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
+The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(5), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1984—Subsec. (a). Pub. L. 98–616, § 224(a)(1), designated existing provisions as subsec. (a).
@@ -1021,7 +1021,7 @@ For transfer of certain enforcement functions of Administrator or other official
 #### References in Text
 [Section 6922(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6922/5&num=0&edition=prelim), referred to in subsec. (a)(3), was redesignated [section 6922(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6922/a/5&num=0&edition=prelim), by Pub. L. 98–616, title II, § 224(a)(1), Nov. 8, 1984, 98 Stat. 3253.
 
-The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(4), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
+The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(4), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (b), “chapter 51 of title 49” substituted for “the Hazardous Materials Transportation Act (88 Stat. 2156) [49 App. U.S.C. 1801 et seq.]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
@@ -1154,7 +1154,7 @@ No private entity shall be precluded by reason of criteria established under par
 
 (3) If the Administrator fails to make a determination under paragraph (2) for any hazardous waste referred to in paragraph (2) of subsection (d) or in paragraph (2) of subsection (e) within forty-five months after November 8, 1984, such hazardous waste shall be prohibited from disposal into any deep injection well.
 
-(4) As used in this subsection, the term “deep injection well” means a well used for the underground injection of hazardous waste other than a well to which section 6979a(a) 22 See References in Text note below. of this title applies.
+(4) As used in this subsection, the term “deep injection well” means a well used for the underground injection of hazardous waste other than a well to which section 6979a(a) 1 of this title applies.
 
 **(g) Additional land disposal prohibition determinations**
 
@@ -1166,7 +1166,7 @@ No private entity shall be precluded by reason of criteria established under par
 
 (2) The Administrator shall base the schedule on a ranking of such listed wastes considering their intrinsic hazard and their volume such that decisions regarding the land disposal of high volume hazardous wastes with high intrinsic hazard shall, to the maximum extent possible, be made by the date forty-five months after November 8, 1984. Decisions regarding low volume hazardous wastes with lower intrinsic hazard shall be made by the date sixty-six months after November 8, 1984.
 
-(3) The preparation and submission of the schedule under this subsection shall not be subject to the Paperwork Reduction Act of 1980.2 No hearing on the record shall be required for purposes of preparation or submission of the schedule. The schedule shall not be subject to judicial review.
+(3) The preparation and submission of the schedule under this subsection shall not be subject to the Paperwork Reduction Act of 1980.1 No hearing on the record shall be required for purposes of preparation or submission of the schedule. The schedule shall not be subject to judicial review.
 
 (4) The schedule under this subsection shall require that the Administrator shall promulgate regulations in accordance with paragraph (5) or make a determination under paragraph (5)—
 
@@ -1273,7 +1273,7 @@ No private entity shall be precluded by reason of criteria established under par
 
   (A) The Administrator shall promulgate regulations or issue guidance documents implementing the requirements of paragraph (1)(A) within two years after November 8, 1984.
 
-  (B) Until the effective date of such regulations or guidance documents, the requirement for the installation of two or more liners may be satisfied by the installation of a top liner designed, operated, and constructed of materials to prevent the migration of any constituent into such liner during the period such facility remains in operation (including any post-closure monitoring period), and a lower liner designed, operated 33 So in original. Probably should be followed by a comma. and constructed to prevent the migration of any constituent through such liner during such period. For the purpose of the preceding sentence, a lower liner shall be deemed to satisfy such requirement if it is constructed of at least a 3-foot thick layer of recompacted clay or other natural material with a permeability of no more than 1×10−7 centimeter per second.
+  (B) Until the effective date of such regulations or guidance documents, the requirement for the installation of two or more liners may be satisfied by the installation of a top liner designed, operated, and constructed of materials to prevent the migration of any constituent into such liner during the period such facility remains in operation (including any post-closure monitoring period), and a lower liner designed, operated 22 So in original. Probably should be followed by a comma. and constructed to prevent the migration of any constituent through such liner during such period. For the purpose of the preceding sentence, a lower liner shall be deemed to satisfy such requirement if it is constructed of at least a 3-foot thick layer of recompacted clay or other natural material with a permeability of no more than 1×10−7 centimeter per second.
 
 (6) Any permit under [section 6925 of this title](./chapter-082-solid-waste-disposal.md#section-6925) which is issued for a landfill located within the State of Alabama shall require the installation of two or more liners and a leachate collection system above and between such liners, notwithstanding any other provision of this chapter.
 
@@ -1370,11 +1370,11 @@ Pending promulgation of such regulations, the Administrator shall issue correcti
 #### References in Text
 [Section 6922(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6922/5&num=0&edition=prelim), referred to in subsec. (a)(2), was redesignated [section 6922(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6922/a/5&num=0&edition=prelim), by Pub. L. 98–616, title II, § 224(a)(1), Nov. 8, 1984, 98 Stat. 3253.
 
-The Safe Drinking Water Act, referred to in subsec. (c)(3), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Safe Drinking Water Act, referred to in subsec. (c)(3), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 [Section 6979a of this title](./chapter-082-solid-waste-disposal.md#section-6979a), referred to in subsec. (f)(4), was in the original a reference to section 7010 of Pub. L. 89–272, which was renumbered section 3020 of Pub. L. 89–272 by Pub. L. 99–339, title II, § 201(c), June 19, 1986, 100 Stat. 654, and transferred to [section 6939b of this title](./chapter-082-solid-waste-disposal.md#section-6939b).
 
-The Paperwork Reduction Act of 1980, referred to in subsec. (g)(3), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (g)(3), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
 
 The Federal Bankruptcy Code, referred to in subsec. (t)(2), probably means a reference to Title 11, Bankruptcy.
 
@@ -1583,9 +1583,9 @@ For transfer of certain enforcement functions of Administrator or other official
 ### Statutory Notes
 
 #### References in Text
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (f), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (j)(12)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Safe Drinking Water Act, referred to in subsec. (j)(12)(C), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
 1996—Subsec. (a). Pub. L. 104–119, § 4(6), substituted “polychlorinated” for “polycholorinated”.
@@ -1835,7 +1835,7 @@ shall, upon conviction, be subject to a fine of not more than $50,000 for each d
 ### Statutory Notes
 
 #### References in Text
-The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (d)(1), (2)(A), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
+The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (d)(1), (2)(A), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1401&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1986—Subsec. (d)(4). Pub. L. 99–499, § 205(i)(1), inserted “or any used oil not identified or listed as a hazardous waste under this subchapter”.
@@ -2262,7 +2262,7 @@ The prohibitions established under this section shall take effect 6 months after
 ### Statutory Notes
 
 #### References in Text
-Title XIV of the Public Health Service Act, referred to in subsec. (d), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, known as the Safe Drinking Water Act, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+Title XIV of the Public Health Service Act, referred to in subsec. (d), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, known as the Safe Drinking Water Act, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Codification
 Section was formerly classified to [section 6979a of this title](./chapter-082-solid-waste-disposal.md#section-6979a), prior to renumbering by Pub. L. 99–339.
@@ -2564,6 +2564,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### References in Text
 The Solid Waste Disposal Act, referred to in subsecs. (b)(2) and (d)(1), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to this chapter. Subtitle C of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
+#### Codification
+Section was enacted as part of the Mercury Export Ban Act of 2008, and not as part of the Solid Waste Disposal Act which comprises this chapter.
+
 #### Amendments
 2016—Subsec. (a)(2). Pub. L. 114–182, § 10(c)(1), substituted “2019” for “2013”.
 
@@ -2580,9 +2583,6 @@ Subsec. (d)(1). Pub. L. 114–182, § 10(d), struck out “in existence on or be
 Subsec. (g)(2)(C). Pub. L. 114–182, § 10(c)(3)(A), (B), redesignated concluding provisions of subpar. (B) as (C), substituted “Subparagraph (B)” for “This subparagraph”, and inserted “of that subparagraph” before period at end.
 
 Subsec. (g)(2)(D), (E). Pub. L. 114–182, § 10(c)(3)(C), added subpars. (D) and (E).
-
-#### Codification
-Section was enacted as part of the Mercury Export Ban Act of 2008, and not as part of the Solid Waste Disposal Act which comprises this chapter.
 
 #### Deposit of Fees
 Pub. L. 116–94, div. C, title III, § 309, Dec. 20, 2019, 133 Stat. 2681, provided that: “Beginning in fiscal year 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (b)(1) of [section 6939f of title 42](./chapter-082-solid-waste-disposal.md#section-6939f), United States Code, shall be deposited in ‘Department of Energy—Energy Programs—Non-Defense Environmental Cleanup’ as discretionary offsetting collections.”
@@ -3358,7 +3358,7 @@ For transfer of certain enforcement functions of Administrator or other official
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short title note set out under [section 1251 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
@@ -3689,7 +3689,7 @@ Subsec. (e). Pub. L. 95–609, § 7(n)(3), inserted provision dealing with certi
 “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (e) on authority of section 1301(d) of Pub. L. 113–235, set out as a note under [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8752&num=0&edition=prelim), Armed Forces.
 
 #### Transfer of Functions
 For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 6903 of this title](./chapter-082-solid-waste-disposal.md#section-6903).
@@ -4183,7 +4183,7 @@ Section was enacted as part of the Infrastructure Investment and Jobs Act, and n
 ### Statutory Notes
 
 #### References in Text
-The Occupational Safety and Health Act of 1970, referred to in subsec. (f), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (f), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1980—Subsec. (f). Pub. L. 96–482 added subsec. (f).
@@ -4270,7 +4270,7 @@ Any action under paragraph (a)(1) of this subsection shall be brought in the dis
 ### Statutory Notes
 
 #### References in Text
-That Act, referred to in subsec. (b)(2)(B)(iii), (C)(iii), means Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
+That Act, referred to in subsec. (b)(2)(B)(iii), (C)(iii), means Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to chapter 103 (§ 9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of this title](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601) and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -4511,7 +4511,7 @@ A prior section 7010 of Pub. L. 89–272, which was classified to [section 6979a
 
 (1) In carrying out subsection (a) of this section respecting solid waste research, studies, development, and demonstration, except as otherwise specifically provided in [section 6984(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6984/d&num=0&edition=prelim), the Administrator may make grants to or enter into contracts (including contracts for construction) with, public agencies and authorities or private persons.
 
-(2) Contracts for research, development, or demonstrations or for both (including contracts for construction) shall be made in accordance with and subject to the limitations provided with respect to research contracts of the military departments in [section 2353 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2353&num=0&edition=prelim), except that the determination, approval, and certification required thereby shall be made by the Administrator.
+(2) Contracts for research, development, or demonstrations or for both (including contracts for construction) shall be made in accordance with and subject to the limitations provided with respect to research contracts of the military departments in section 2353 11 See References in Text note below. of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator.
 
 (3) Any invention made or conceived in the course of, or under, any contract under this chapter shall be subject to section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 [[42 U.S.C. 5908](./chapter-074-nonnuclear-energy-research-and-development.md#section-5908)] to the same extent and in the same manner as inventions made or conceived in the course of contracts under such Act [[42 U.S.C. 5901](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) et seq.], except that in applying such section, the Environmental Protection Agency shall be substituted for the Secretary of Energy and the words “solid waste” shall be substituted for the word “energy” where appropriate.
 
@@ -4520,7 +4520,9 @@ A prior section 7010 of Pub. L. 89–272, which was classified to [section 6979a
 ### Statutory Notes
 
 #### References in Text
-Such Act, referred to in subsec. (c)(3), means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§ 5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
+[Section 2353 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2353&num=0&edition=prelim), referred to in subsec. (c)(2), was renumbered [section 4174 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4174&num=0&edition=prelim) by Pub. L. 116–283, div. A, title XVIII, § 1844(b)(1), Jan. 1, 2021, 134 Stat. 4245, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 2154.
+
+Such Act, referred to in subsec. (c)(3), means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§ 5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5901 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5901) and Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 3253 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3253&num=0&edition=prelim), prior to the general amendment of the Solid Waste Disposal Act by Pub. L. 94–580.
@@ -4533,8 +4535,6 @@ Subsec. (a)(13). Pub. L. 95–609, § 7(s)(2), inserted “treatment,” after �
 #### Transfer of Functions
 “Secretary of Energy” was substituted for “Administrator of the Federal Energy Administration, the Administrator of the Energy Research and Development Administration, or the Chairman of the Federal Power Commission” in subsec. (a), and for “Energy Research and Development Administration” in subsecs. (b)(2) and (c)(3), in view of the termination of the Federal Energy Administration, the Energy Research and Development Administration, and the Federal Power Commission and the transfer of their functions and the functions of the Administrators and Chairman thereof (with certain exceptions) to the Secretary of Energy pursuant to sections 301, 703, and 707 of Pub. L. 95–91, which are classified to sections 7151, 7293, and 7297 of this title.
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 6903 of this title](./chapter-082-solid-waste-disposal.md#section-6903).
-
 #### EPA Study of Methods To Reduce Plastic Pollution
 Pub. L. 100–220, title II, § 2202, Dec. 29, 1987, 101 Stat. 1465, directed Administrator of Environmental Protection Agency, in consultation with Secretary of Commerce, to conduct a study of the adverse effects of improper disposal of plastic articles on environment and on waste disposal, and various methods to reduce or eliminate such adverse effects, and directed Administrator, within 18 months after Dec. 29, 1987, to report results of this study to Congress.
 
@@ -4546,6 +4546,9 @@ Pub. L. 94–580, § 3, Oct. 21, 1976, 90 Stat. 2840, provided for a study of pr
 
 #### Leachate Control Research Program in Delaware
 Pub. L. 94–580, § 4, Oct. 21, 1976, 90 Stat. 2840, directed Administrator of Environmental Protection Agency, in order to demonstrate effective means of dealing with contamination of public water supplies by leachate from abandoned or other landfills, to provide technical and financial assistance for a research program, designed by New Castle County areawide waste treatment management program, to control leachate from Llangollen Landfill in New Castle County, Delaware, and provided up to $250,000 in each of the fiscal years 1978 and 1979 for the operating costs of a counter-pumping program to contain the leachate from the Llangollen Landfill during the period of this study.
+
+#### Transfer of Functions
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under [section 6903 of this title](./chapter-082-solid-waste-disposal.md#section-6903).
 
 
 <a id="section-6982"></a>
@@ -5027,7 +5030,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (1)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (1)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2005—Pub. L. 109–58 substituted “In this subchapter:” for “For the purposes of this subchapter—” in introductory provisions, added pars. (1) and (9), redesignated former pars. (1) to (8) as pars. (10), (7), (4), (3), (8), (5), (2), and (6), respectively, and, in par. (4)(A), substituted “substances” for “sustances”.
@@ -6053,7 +6056,7 @@ A prior section 11008 of Pub. L. 89–272 was classified to [section 6992g of th
 ### Statutory Notes
 
 #### References in Text
-The Paperwork Reduction Act of 1980, referred to in subsec. (b), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
+The Paperwork Reduction Act of 1980, referred to in subsec. (b), is Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 11009 of Pub. L. 89–272 was renumbered section 11008 and is classified to [section 6992h of this title](./chapter-082-solid-waste-disposal.md#section-6992h).

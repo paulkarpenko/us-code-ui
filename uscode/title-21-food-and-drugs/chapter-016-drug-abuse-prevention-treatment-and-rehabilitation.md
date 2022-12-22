@@ -75,7 +75,7 @@ The Congress declares that it is the policy of the United States and the purpose
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, as amended, known as the Drug Abuse Prevention, Treatment, and Rehabilitation Act, which comprises this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-016-drug-abuse-prevention-treatment-and-rehabilitation.md#section-1101) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, known as the Drug Abuse Prevention, Treatment, and Rehabilitation Act, which comprises this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-016-drug-abuse-prevention-treatment-and-rehabilitation.md#section-1101) and Tables.
 
 #### Amendments
 1980—Pub. L. 96–181 inserted additional declarations of policy prescribing methods and programs by which the goals are to be reached.

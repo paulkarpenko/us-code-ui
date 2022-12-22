@@ -1643,9 +1643,11 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 #### Overall Minimum Share Requirement
-Pub. L. 116–260, div. H, title IV, § 402, Dec. 27, 2020, 134 Stat. 1614, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
+Pub. L. 117–103, div. H, title IV, § 402, Mar. 15, 2022, 136 Stat. 488, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. H, title IV, § 402, Dec. 27, 2020, 134 Stat. 1614.
 
 Pub. L. 116–94, div. A, title IV, § 402, Dec. 20, 2019, 133 Stat. 2599.
 
@@ -2669,7 +2671,7 @@ Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as 
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (b), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 132 of Pub. L. 101–610 was renumbered section 199L and classified to [section 12655k of this title](./chapter-129-national-and-community-service.md#section-12655k), prior to repeal by Pub. L. 103–82, § 101(e)(8)(A).
@@ -3346,6 +3348,9 @@ Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out
 
 ### Statutory Notes
 
+#### Prior Provisions
+A prior section 147 of Pub. L. 101–610 was classified to [section 12577 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12577&num=0&edition=prelim) prior to the general amendment of subtitle D of title I of Pub. L. 101–610 [former part D of this subchapter] by Pub. L. 103–82, § 102(a).
+
 #### Amendments
 2009—Pub. L. 111–13, § 1404(1), substituted section catchline for former section catchline.
 
@@ -3358,9 +3363,6 @@ Subsec. (a). Pub. L. 111–13, § 1404(2), amended subsec. (a) generally. Prior 
 Subsec. (b). Pub. L. 111–13, § 1404(3), struck out “, for each of not more than 2 of such terms of service,” after “having a value”.
 
 Subsecs. (d), (e). Pub. L. 111–13, § 1404(4), added subsecs. (d) and (e).
-
-#### Prior Provisions
-A prior section 147 of Pub. L. 101–610 was classified to [section 12577 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12577&num=0&edition=prelim) prior to the general amendment of subtitle D of title I of Pub. L. 101–610 [former part D of this subchapter] by Pub. L. 103–82, § 102(a).
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
@@ -4674,11 +4676,11 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of this title](./chapter-021-civil-rights.md#section-2000a) and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
+The Education Amendments of 1972, referred to in subsec. (b), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
 
-The Age Discrimination Act of 1975, referred to in subsec. (b), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
+The Age Discrimination Act of 1975, referred to in subsec. (b), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, which is classified generally to chapter 76 (§ 6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6101 of this title](./chapter-076-age-discrimination-in-federally-assisted-programs.md#section-6101) and Tables.
 
 #### Amendments
 1993—Pub. L. 103–82 amended section generally, making revisions relating to discrimination based on disability, the laws for which assistance under this subchapter constitutes Federal financial assistance, and the responsibility for promulgating regulations.
@@ -6083,7 +6085,7 @@ Section 8E of the Inspector General Act of 1978, referred to in subsec. (g)(6), 
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(10)(A), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§ 4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5.
 
 #### Amendments
 2009—Subsec. (g). Pub. L. 111–13, § 1702(1), substituted “shall have responsibility for setting overall policy for the Corporation and shall—” for “shall—” in introductory provisions.
@@ -8085,7 +8087,7 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
 
 #### Codification
 Section was formerly classified to [section 12550 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12550&num=0&edition=prelim) prior to renumbering by Pub. L. 103–82, § 101(a).
@@ -8161,7 +8163,7 @@ Repeal effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as a
 ### Statutory Notes
 
 #### References in Text
-The Fair Labor Standards Act of 1938, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified principally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (b)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified principally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 12553 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12553&num=0&edition=prelim) prior to renumbering by Pub. L. 103–82, § 101(a).

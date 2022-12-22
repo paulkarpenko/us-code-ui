@@ -505,7 +505,7 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 (1) In addition to the conditions specified in subsection (b) of this section, any grant to a State or county under this section to assist such State or county in establishing a veterans’ cemetery shall be made on the condition that such cemetery shall conform to such standards and guidelines relating to site selection, planning, and construction as the Secretary may by regulation prescribe. In prescribing regulations for the purposes of the preceding sentence, the Secretary shall take into account the standards and guidelines for site selection, planning, and construction that are applicable to cemeteries under the control of the National Cemetery Administration, including those provided in subsections (b), (c), and (d) of [section 2404 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2404).
 
-(2) The Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
+(2) Except as provided in subsection (i), the Secretary may by regulation prescribe such additional terms and conditions for grants under this section as the Secretary considers appropriate.
 
 **(e)**
 
@@ -557,7 +557,25 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 
 (3) The Secretary shall prescribe regulations to carry out this subsection.
 
-**(i)** For purposes of this section:
+**(i)**
+
+(1) The Secretary may not establish a condition for a grant under this section that restricts the ability of a State receiving such a grant to inter in a veterans’ cemetery owned by that State any individual described in paragraph (2) solely by reason of the ineligibility of such individual for burial in an open national cemetery under the control of the National Cemetery Administration under [section 2402(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a&num=0&edition=prelim).
+
+(2) An individual described in this paragraph is the following:
+
+  (A) Any member of a reserve component of the Armed Forces who was discharged or released from service under conditions other than dishonorable or whose death occurs under conditions other than dishonorable while a member of such a reserve component.
+
+  (B) Any member of the Army National Guard or the Air National Guard who was discharged or released from service under conditions other than dishonorable or whose death occurs under conditions other than dishonorable while a member of the Army National Guard or the Air National Guard.
+
+  (C) Any member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force whose death occurs under conditions other than dishonorable while a member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force.
+
+  (D) Any spouse of any member described in subparagraphs (A) through (C).
+
+  (E) Any minor child or unmarried adult child (as such terms are defined in [section 2402(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2402/a&num=0&edition=prelim)) of any member described in subparagraphs (A) through (C).
+
+**(j)** The Secretary may not deny an application for a grant under this section solely on the basis that the State receiving such grant may use funds from such grant to expand, improve, operate, or maintain a veterans’ cemetery in which interment of individuals described in subsection (i)(2) is allowed.
+
+**(k)** For purposes of this section:
 
 (1) The term “tribal organization” has the meaning given that term in [section 3765(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765/4&num=0&edition=prelim).
 
@@ -569,6 +587,10 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 Amendment of section by section 2205(a) and (b)(1) of Pub. L. 116–315 applicable with respect to grants applications submitted on or after the date that is two years after Jan. 5, 2021. See 2021 Amendment notes and Effective Date of 2021 Amendment; Applicability note below.
 
 #### Amendments
+2022—Subsec. (d)(2). Pub. L. 117–103, § 102(a)(1), substituted “Except as provided in subsection (i), the Secretary may” for “The Secretary may”.
+
+Subsecs. (i) to (k). Pub. L. 117–103, § 102(a)(2), (3), added subsecs. (i) and (j) and redesignated former subsec. (i) as (k).
+
 2021—Pub. L. 116–315, § 2205(b)(1), inserted “, counties, and tribal organizations” after “States” in section catchline.
 
 Pub. L. 116–315, § 2205(a)(1), inserted “or county” after “State” wherever appearing.
@@ -662,6 +684,9 @@ Section effective Oct. 18, 1978, see section 205(a) of Pub. L. 95–476, set out
 
 #### Regulations
 Pub. L. 110–157, title II, § 202(b)(4), Dec. 26, 2007, 121 Stat. 1833, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 26, 2007], the Secretary of Veterans Affairs shall prescribe regulations to carry out the amendments made by this subsection [amending this section].”
+
+#### Prohibition on Enforcing Certain Conditions on Grants for State Veterans’ Cemeteries
+Pub. L. 117–103, div. CC, § 102(b), Mar. 15, 2022, 136 Stat. 1110, provided that: “The Secretary of Veterans Affairs may not enforce a condition on a grant described in subsection (i)(1) of [section 2408 of title 38](./chapter-024-national-cemeteries-and-memorials.md#section-2408), United States Code, as added by subsection (a), that was established before the date of the enactment of this Act [Mar. 15, 2022].”
 
 
 <a id="section-2409"></a>

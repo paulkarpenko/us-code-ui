@@ -2,7 +2,7 @@
 title: 42
 chapter: '85'
 heading: AIR POLLUTION PREVENTION AND CONTROL
-section_count: 178
+section_count: 185
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -89,9 +89,6 @@ Act July 14, 1955, ch. 360, title IV, § 401, as added by Dec. 31, 1970, Pub. L.
 #### Savings Provision
 Pub. L. 101–549, title VII, § 711(a), Nov. 15, 1990, 104 Stat. 2684, provided that: “Except as otherwise expressly provided in this Act [see Tables for classification], no suit, action, or other proceeding lawfully commenced by the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Clean Air Act [[42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.], as in effect immediately prior to the date of enactment of this Act [Nov. 15, 1990], shall abate by reason of the taking effect of the amendments made by this Act.”
 
-#### Transfer of Functions
-Reorg. Plan No. 3 of 1970, § 2(a)(3), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, transferred to Administrator of Environmental Protection Agency functions vested by law in Secretary of Health, Education, and Welfare or in Department of Health, Education, and Welfare which are administered through Environmental Health Service, including functions exercised by National Air Pollution Control Administration, and Environmental Control Administration’s Bureau of Solid Waste Management, Bureau of Water Hygiene, and Bureau of Radiological Health, except insofar as functions carried out by Bureau of Radiological Health pertain to regulation of radiation from consumer products, including electronic product radiation, radiation as used in healing arts, occupational exposure to radiation, and research, technical assistance, and training related to radiation from consumer products, radiation as used in healing arts, and occupational exposure to radiation.
-
 #### Impact on Small Communities
 Pub. L. 101–549, title VIII, § 810, Nov. 15, 1990, 104 Stat. 2690, provided that: “Before implementing a provision of this Act [see Tables for classification], the Administrator of the Environmental Protection Agency shall consult with the Small Communities Coordinator of the Environmental Protection Agency to determine the impact of such provision on small communities, including the estimated cost of compliance with such provision.”
 
@@ -118,6 +115,9 @@ Pub. L. 95–95, title IV, § 404, Aug. 7, 1977, 91 Stat. 793, as amended by H. 
 
 #### Study and Report Concerning Economic Approaches to Controlling Air Pollution
 Pub. L. 95–95, title IV, § 405, Aug. 7, 1977, 91 Stat. 794, directed Administrator, in conjunction with Council of Economic Advisors, to undertake a study and assessment of economic measures for control of air pollution which could strengthen effectiveness of existing methods of controlling air pollution, provide incentives to abate air pollution greater than that required by Clean Air Act, and serve as primary incentive for controlling air pollution problems not addressed by Clean Air Act, and directed that not later than 2 years after Aug. 7, 1977, Administrator and Council conclude study and submit a report to President and Congress.
+
+#### Transfer of Functions
+Reorg. Plan No. 3 of 1970, § 2(a)(3), eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, transferred to Administrator of Environmental Protection Agency functions vested by law in Secretary of Health, Education, and Welfare or in Department of Health, Education, and Welfare which are administered through Environmental Health Service, including functions exercised by National Air Pollution Control Administration, and Environmental Control Administration’s Bureau of Solid Waste Management, Bureau of Water Hygiene, and Bureau of Radiological Health, except insofar as functions carried out by Bureau of Radiological Health pertain to regulation of radiation from consumer products, including electronic product radiation, radiation as used in healing arts, occupational exposure to radiation, and research, technical assistance, and training related to radiation from consumer products, radiation as used in healing arts, and occupational exposure to radiation.
 
 #### National Industrial Pollution Control Council
 For provisions relating to establishment of National Industrial Pollution Control Council, see Ex. Ord. No. 11523, Apr. 9, 1970, 35 F.R. 5993, set out as a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
@@ -489,7 +489,7 @@ Not later than 2 years after November 15, 1990, and every 4 years thereafter, th
 
     (i) actual and projected emissions and acid deposition trends;
 
-    (ii) average ambient concentrations of acid deposition percursors 22 So in original. Probably should be “precursors”. and their transformation products;
+    (ii) average ambient concentrations of acid deposition percursors 11 So in original. Probably should be “precursors”. and their transformation products;
 
     (iii) the status of ecosystems (including forests and surface waters), materials, and visibility affected by acid deposition;
 
@@ -620,11 +620,11 @@ Pub. L. 86–493, June 8, 1960, 74 Stat. 162, directed Surgeon General of Public
 
   (E) producing synthetic or new fuels which, when used, result in decreased atmospheric emissions.11 So in original. The period probably should be a semicolon.
 
-(2) provide for Federal grants to public or nonprofit agencies, institutions, and organizations and to individuals, and contracts with public or private agencies, institutions, or persons, for payment of (A) part of the cost of acquiring, constructing, or otherwise securing for research and development purposes, new or improved devices or methods having industrywide application of preventing or controlling discharges into the air of various types of pollutants; (B) part of the cost of programs to develop low emission alternatives to the present internal combustion engine; (C) the cost to purchase vehicles and vehicle engines, or portions thereof, for research, development, and testing purposes; and (D) carrying out the other provisions of this section, without regard to section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim): Provided, That research or demonstration contracts awarded pursuant to this subsection (including contracts for construction) may be made in accordance with, and subject to the limitations provided with respect to research contracts of the military departments in, [section 2353 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2353&num=0&edition=prelim), except that the determination, approval, and certification required thereby shall be made by the Administrator; Provided further, That no grant may be made under this paragraph in excess of $1,500,000;
+(2) provide for Federal grants to public or nonprofit agencies, institutions, and organizations and to individuals, and contracts with public or private agencies, institutions, or persons, for payment of (A) part of the cost of acquiring, constructing, or otherwise securing for research and development purposes, new or improved devices or methods having industrywide application of preventing or controlling discharges into the air of various types of pollutants; (B) part of the cost of programs to develop low emission alternatives to the present internal combustion engine; (C) the cost to purchase vehicles and vehicle engines, or portions thereof, for research, development, and testing purposes; and (D) carrying out the other provisions of this section, without regard to section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim): Provided, That research or demonstration contracts awarded pursuant to this subsection (including contracts for construction) may be made in accordance with, and subject to the limitations provided with respect to research contracts of the military departments in, section 2353 22 See References in Text note below. of title 10, except that the determination, approval, and certification required thereby shall be made by the Administrator; Provided further, That no grant may be made under this paragraph in excess of $1,500,000;
 
 (3) determine, by laboratory and pilot plant testing, the results of air pollution research and studies in order to develop new or improved processes and plant designs to the point where they can be demonstrated on a large and practical scale;
 
-(4) construct, operate, and maintain, or assist in meeting the cost of the construction, operation, and maintenance of new or improved demonstration plants or processes which have promise of accomplishing the purposes of this chapter; 22 So in original. The word “and” probably should appear.
+(4) construct, operate, and maintain, or assist in meeting the cost of the construction, operation, and maintenance of new or improved demonstration plants or processes which have promise of accomplishing the purposes of this chapter; 33 So in original. The word “and” probably should appear.
 
 (5) study new or improved methods for the recovery and marketing of commercially valuable byproducts resulting from the removal of pollutants.
 
@@ -643,6 +643,9 @@ Pub. L. 86–493, June 8, 1960, 74 Stat. 162, directed Surgeon General of Public
 **(c) Clean alternative fuels** The Administrator shall conduct a research program to identify, characterize, and predict air emissions related to the production, distribution, storage, and use of clean alternative fuels to determine the risks and benefits to human health and the environment relative to those from using conventional gasoline and diesel fuels. The Administrator shall consult with other Federal agencies to ensure coordination and to avoid duplication of activities authorized under this subsection.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 2353 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2353&num=0&edition=prelim), referred to in subsec. (a)(2), was renumbered [section 4174 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4174&num=0&edition=prelim) by Pub. L. 116–283, div. A, title XVIII, § 1844(b)(1), Jan. 1, 2021, 134 Stat. 4245, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(u)(6)(B), Dec. 27, 2021, 135 Stat. 2154.
 
 #### Codification
 In subsec. (a)(2)(D), “section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “sections 3648 and 3709 of the Revised Statutes ([31 U.S.C. 529](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section529&num=0&edition=prelim); [41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -1383,7 +1386,7 @@ Pub. L. 101–549, title VIII, § 817, Nov. 15, 1990, 104 Stat. 2697, provided t
 ### Statutory Notes
 
 #### References in Text
-The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (a)(3)(B), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section791&num=0&edition=prelim) and Tables.
+The Energy Supply and Environmental Coordination Act of 1974, referred to in subsec. (a)(3)(B), is Pub. L. 93–319, June 22, 1974, 88 Stat. 246, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section791&num=0&edition=prelim) and Tables.
 
 [Section 7413 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7413), referred to in subsecs. (a)(3)(C), (6), (f)(5), (g)(3), and (i), was amended generally by Pub. L. 101–549, title VII, § 701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsecs. (d) and (e) of section 7413 no longer relates to final compliance orders and steel industry compliance extension, respectively.
 
@@ -1680,7 +1683,7 @@ Federal Energy Administration terminated and functions vested by law in Administ
 ### Statutory Notes
 
 #### References in Text
-Such Act, referred to in subsec. (a)(8), means Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, known as the Energy Supply and Environmental Coordination Act of 1974, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section791&num=0&edition=prelim) and Tables.
+Such Act, referred to in subsec. (a)(8), means Pub. L. 93–319, June 22, 1974, 88 Stat. 246, known as the Energy Supply and Environmental Coordination Act of 1974, which is classified principally to chapter 16C (§ 791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 791 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section791&num=0&edition=prelim) and Tables.
 
 [Section 7413 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7413), referred to in subsec. (a)(8), was amended generally by Pub. L. 101–549, title VII, § 701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
 
@@ -1761,7 +1764,7 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 Enforcement functions of Administrator or other official in Environmental Protection Agency related to compliance with new source performance standards under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, eff. July 1, 1979, §§ 102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
 
 #### Power Sector Carbon Pollution Standards
-Memorandum of President of the United States, June 25, 2013, 78 F.R. 39535, which related to carbon pollution standards for power plants, was revoked by Ex. Ord. No. 13783, § 3(a)(ii), Mar. 28, 2017, 82 F.R. 16094, set out as a note under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201).
+Memorandum of President of the United States, June 25, 2013, 78 F.R. 39535, which related to carbon pollution standards for power plants, was revoked by Ex. Ord. No. 13783, § 3(a)(ii), Mar. 28, 2017, 82 F.R. 16094, formerly set out as a note under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201).
 
 
 <a id="section-7412"></a>
@@ -2526,13 +2529,13 @@ The Atomic Energy Act, referred to in subsec. (d)(9), probably means the Atomic 
 
 The Federal Water Pollution Control Act, referred to in subsecs. (e)(5) and (m)(1)(D), (5)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§ 1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Toxic Substances Control Act, referred to in subsec. (k)(3)(C), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, as amended, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
+The Toxic Substances Control Act, referred to in subsec. (k)(3)(C), is Pub. L. 94–469, Oct. 11, 1976, 90 Stat. 2003, which is classified generally to chapter 53 (§ 2601 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2601&num=0&edition=prelim) and Tables.
 
 The Federal Insecticide, Fungicide and Rodenticide Act, referred to in subsec. (k)(3)(C), probably means the Federal Insecticide, Fungicide, and Rodenticide Act, act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
 The Resource Conservation and Recovery Act, referred to in subsec. (k)(3)(C), probably means the Resource Conservation and Recovery Act of 1976, Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2796, as amended, which is classified generally to chapter 82 (§ 6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (m)(1)(D), (5)(D), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Safe Drinking Water Act, referred to in subsec. (m)(1)(D), (5)(D), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (n)(7), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795. Subtitle C of the Act is classified generally to subchapter III (§ 6921 et seq.) of chapter 82 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of this title](./chapter-082-solid-waste-disposal.md#section-6901) and Tables.
 
@@ -2547,7 +2550,7 @@ The Occupational Safety and Health Act, referred to in subsec. (r)(6)(C)(ii), (K
 #### Codification
 In subsec. (r)(6)(N), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “[section 5 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim) of the United States Code” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-Section was formerly classified to section 1857c-7 of this title.
+Section was formerly classified to [section 1857c–7 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1857c–7&num=0&edition=prelim).
 
 #### Amendments
 1999—Subsec. (r)(2)(D). Pub. L. 106–40, § 2(5), added subpar. (D).
@@ -3178,7 +3181,7 @@ Ex. Ord. No. 11507, Feb. 4, 1970, 35 F.R. 2573, which provided for the preventio
   (A) by the Administrator, after thirty days’ notice to the State, or
 
   (B) by the State in which such source is located, but no such order issued by the State shall take effect until the Administrator determines that such order has been issued in accordance with the requirements of this chapter.
-  Not later than ninety days after submission by the State to the Administrator of notice of the issuance of a primary nonferrous smelter order under this section, the Administrator shall determine whether or not such order has been issued by the State in accordance with the requirements of this chapter. If the Administrator determines that such order has not been issued in accordance with such requirements, he shall conduct a hearing respecting the reasonably available control technology for pri­mary nonferrous smelters.
+  Not later than ninety days after submission by the State to the Administrator of notice of the issuance of a primary nonferrous smelter order under this section, the Administrator shall determine whether or not such order has been issued by the State in accordance with the requirements of this chapter. If the Administrator determines that such order has not been issued in accordance with such requirements, he shall conduct a hearing respecting the reasonably available control technology for primary nonferrous smelters.
 
 (2)
 
@@ -3458,11 +3461,11 @@ Section 7412(b)(1), referred to in subsec. (a), was amended generally by Pub. L.
 #### Effective Date
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401).
 
-#### Transfer of Functions
-For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
-
 #### Study by Administrator of Environmental Protection Agency
 Pub. L. 95–95, title I, § 120(b), Aug. 7, 1977, 91 Stat. 721, directed Administrator of Environmental Protection Agency to conduct a study, in conjunction with other appropriate agencies, concerning effect on public health and welfare of sulfates, radioactive pollutants, cadmium, arsenic, and polycyclic organic matter which are present or may reasonably be anticipated to occur in the ambient air, such study to include a thorough investigation of how sulfates are formed and how to protect public health and welfare from the injurious effects, if any, of sulfates, cadmium, arsenic, and polycyclic organic matter.
+
+#### Transfer of Functions
+For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
 
 
 <a id="section-7423"></a>
@@ -3740,6 +3743,359 @@ Within 6 months after November 15, 1990, and at least every 3 years thereafter, 
 Nothing in this chapter constitutes an infringement on the existing authority of counties and cities to plan or control land use, and nothing in this chapter provides or transfers authority over such land use.
 
 
+<a id="section-7432"></a>
+## § 7432. Clean heavy-duty vehicles
+**(a) Appropriations**
+
+(1) **In general** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $600,000,000, to remain available until September 30, 2031, to carry out this section.
+
+(2) **Nonattainment areas** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $400,000,000, to remain available until September 30, 2031, to make awards under this section to eligible recipients and to eligible contractors that propose to replace eligible vehicles to serve 1 or more communities located in an air quality area designated pursuant to [section 7407 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7407) as nonattainment for any air pollutant.
+
+(3) **Reservation** — Of the funds appropriated by paragraph (1), the Administrator shall reserve 3 percent for administrative costs necessary to carry out this section.
+
+**(b) Program** Beginning not later than 180 days after August 16, 2022, the Administrator shall implement a program to make awards of grants and rebates to eligible recipients, and to make awards of contracts to eligible contractors for providing rebates, for up to 100 percent of costs for—
+
+(1) the incremental costs of replacing an eligible vehicle that is not a zero-emission vehicle with a zero-emission vehicle, as determined by the Administrator based on the market value of the vehicles;
+
+(2) purchasing, installing, operating, and maintaining infrastructure needed to charge, fuel, or maintain zero-emission vehicles;
+
+(3) workforce development and training to support the maintenance, charging, fueling, and operation of zero-emission vehicles; and
+
+(4) planning and technical activities to support the adoption and deployment of zero-emission vehicles.
+
+**(c) Applications** To seek an award under this section, an eligible recipient or eligible contractor shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator shall prescribe.
+
+**(d) Definitions** For purposes of this section:
+
+(1) **Eligible contractor** — The term “eligible contractor” means a contractor that has the capacity—
+
+  (A) to sell, lease, license, or contract for service zero-emission vehicles, or charging or other equipment needed to charge, fuel, or maintain zero-emission vehicles, to individuals or entities that own, lease, license, or contract for service an eligible vehicle; or
+
+  (B) to arrange financing for such a sale, lease, license, or contract for service.
+
+(2) **Eligible recipient** — The term “eligible recipient” means—
+
+  (A) a State;
+
+  (B) a municipality;
+
+  (C) an Indian tribe; or
+
+  (D) a nonprofit school transportation association.
+
+(3) **Eligible vehicle** — The term “eligible vehicle” means a Class 6 or Class 7 heavy-duty vehicle as defined in section 1037.801 of title 40, Code of Federal Regulations (as in effect on August 16, 2022).
+
+(4) **Greenhouse gas** — The term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+(5) **Zero-emission vehicle** — The term “zero-emission vehicle” means a vehicle that has a drivetrain that produces, under any possible operational mode or condition, zero exhaust emissions of—
+
+  (A) any air pollutant that is listed pursuant to [section 7408(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7408/a&num=0&edition=prelim) (or any precursor to such an air pollutant); and
+
+  (B) any greenhouse gas.
+
+
+<a id="section-7433"></a>
+## § 7433. Grants to reduce air pollution at ports
+**(a) Appropriations**
+
+(1) **General assistance** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $2,250,000,000, to remain available until September 30, 2027, to award rebates and grants to eligible recipients on a competitive basis—
+
+  (A) to purchase or install zero-emission port equipment or technology for use at, or to directly serve, one or more ports;
+
+  (B) to conduct any relevant planning or permitting in connection with the purchase or installation of such zero-emission port equipment or technology; and
+
+  (C) to develop qualified climate action plans.
+
+(2) **Nonattainment areas** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $750,000,000, to remain available until September 30, 2027, to award rebates and grants to eligible recipients to carry out activities described in paragraph (1) with respect to ports located in air quality areas designated pursuant to [section 7407 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7407) as nonattainment for an air pollutant.
+
+**(b) Limitation** Funds awarded under this section shall not be used by any recipient or subrecipient to purchase or install zero-emission port equipment or technology that will not be located at, or directly serve, the one or more ports involved.
+
+**(c) Administration of funds** Of the funds made available by this section, the Administrator shall reserve 2 percent for administrative costs necessary to carry out this section.
+
+**(d) Definitions** In this section:
+
+(1) **Eligible recipient** — The term “eligible recipient” means—
+
+  (A) a port authority;
+
+  (B) a State, regional, local, or Tribal agency that has jurisdiction over a port authority or a port;
+
+  (C) an air pollution control agency; or
+
+  (D) a private entity that—
+
+    (i) applies for a grant under this section in partnership with an entity described in any of subparagraphs (A) through (C); and
+
+    (ii) owns, operates, or uses the facilities, cargo-handling equipment, transportation equipment, or related technology of a port.
+
+(2) **Greenhouse gas** — The term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+(3) **Qualified climate action plan** — The term “qualified climate action plan” means a detailed and strategic plan that—
+
+  (A) establishes goals, implementation strategies, and accounting and inventory practices to reduce emissions at one or more ports of—
+
+    (i) greenhouse gases;
+
+    (ii) an air pollutant that is listed pursuant to [section 7408(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7408/a&num=0&edition=prelim) (or any precursor to such an air pollutant); and
+
+    (iii) hazardous air pollutants;
+
+  (B) includes a strategy to collaborate with, communicate with, and address potential effects on low-income and disadvantaged near-port communities and other stakeholders that may be affected by implementation of the plan; and
+
+  (C) describes how an eligible recipient has implemented or will implement measures to increase the resilience of the one or more ports involved.
+
+(4) **Zero-emission port equipment or technology** — The term “zero-emission port equipment or technology” means human-operated equipment or human-maintained technology that—
+
+  (A) produces zero emissions of any air pollutant that is listed pursuant to [section 7408(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7408/a&num=0&edition=prelim) (or any precursor to such an air pollutant) and any greenhouse gas other than water vapor; or
+
+  (B) captures 100 percent of the emissions described in subparagraph (A) that are produced by an ocean-going vessel at berth.
+
+
+<a id="section-7434"></a>
+## § 7434. Greenhouse gas reduction fund
+**(a) Appropriations**
+
+(1) **Zero-emission technologies** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $7,000,000,000, to remain available until September 30, 2024, to make grants, on a competitive basis and beginning not later than 180 calendar days after August 16, 2022, to States, municipalities, Tribal governments, and eligible recipients for the purposes of providing grants, loans, or other forms of financial assistance, as well as technical assistance, to enable low-income and disadvantaged communities to deploy or benefit from zero-emission technologies, including distributed technologies on residential rooftops, and to carry out other greenhouse gas emission reduction activities, as determined appropriate by the Administrator in accordance with this section.
+
+(2) **General assistance** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $11,970,000,000, to remain available until September 30, 2024, to make grants, on a competitive basis and beginning not later than 180 calendar days after August 16, 2022, to eligible recipients for the purposes of providing financial assistance and technical assistance in accordance with subsection (b).
+
+(3) **Low-income and disadvantaged communities** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $8,000,000,000, to remain available until September 30, 2024, to make grants, on a competitive basis and beginning not later than 180 calendar days after August 16, 2022, to eligible recipients for the purposes of providing financial assistance and technical assistance in low-income and disadvantaged communities in accordance with subsection (b).
+
+(4) **Administrative costs** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $30,000,000, to remain available until September 30, 2031, for the administrative costs necessary to carry out activities under this section.
+
+**(b) Use of funds** An eligible recipient that receives a grant pursuant to subsection (a) shall use the grant in accordance with the following:
+
+(1) **Direct investment** — The eligible recipient shall—
+
+  (A) provide financial assistance to qualified projects at the national, regional, State, and local levels;
+
+  (B) prioritize investment in qualified projects that would otherwise lack access to financing; and
+
+  (C) retain, manage, recycle, and monetize all repayments and other revenue received from fees, interest, repaid loans, and all other types of financial assistance provided using grant funds under this section to ensure continued operability.
+
+(2) **Indirect investment** — The eligible recipient shall provide funding and technical assistance to establish new or support existing public, quasi-public, not-for-profit, or nonprofit entities that provide financial assistance to qualified projects at the State, local, territorial, or Tribal level or in the District of Columbia, including community- and low-income-focused lenders and capital providers.
+
+**(c) Definitions** In this section:
+
+(1) **Eligible recipient** — The term “eligible recipient” means a nonprofit organization that—
+
+  (A) is designed to provide capital, leverage private capital, and provide other forms of financial assistance for the rapid deployment of low- and zero-emission products, technologies, and services;
+
+  (B) does not take deposits other than deposits from repayments and other revenue received from financial assistance provided using grant funds under this section;
+
+  (C) is funded by public or charitable contributions; and
+
+  (D) invests in or finances projects alone or in conjunction with other investors.
+
+(2) **Greenhouse gas** — The term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+(3) **Qualified project** — The term “qualified project” includes any project, activity, or technology that—
+
+  (A) reduces or avoids greenhouse gas emissions and other forms of air pollution in partnership with, and by leveraging investment from, the private sector; or
+
+  (B) assists communities in the efforts of those communities to reduce or avoid greenhouse gas emissions and other forms of air pollution.
+
+(4) **Zero-emission technology** — The term “zero-emission technology” means any technology that produces zero emissions of—
+
+  (A) any air pollutant that is listed pursuant to [section 7408(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7408/a&num=0&edition=prelim) (or any precursor to such an air pollutant); and
+
+  (B) any greenhouse gas.
+
+
+<a id="section-7435"></a>
+## § 7435. Low emissions electricity program
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, to remain available until September 30, 2031—
+
+(1) $17,000,000 for consumer-related education and partnerships with respect to reductions in greenhouse gas emissions that result from domestic electricity generation and use;
+
+(2) $17,000,000 for education, technical assistance, and partnerships within low-income and disadvantaged communities with respect to reductions in greenhouse gas emissions that result from domestic electricity generation and use;
+
+(3) $17,000,000 for industry-related outreach, technical assistance, and partnerships with respect to reductions in greenhouse gas emissions that result from domestic electricity generation and use;
+
+(4) $17,000,000 for outreach and technical assistance to, and partnerships with, State, Tribal, and local governments with respect to reductions in greenhouse gas emissions that result from domestic electricity generation and use;
+
+(5) $1,000,000 to assess, not later than 1 year after August 16, 2022, the reductions in greenhouse gas emissions that result from changes in domestic electricity generation and use that are anticipated to occur on an annual basis through fiscal year 2031; and
+
+(6) $18,000,000 to ensure that reductions in greenhouse gas emissions are achieved through use of the existing authorities of this chapter, incorporating the assessment under paragraph (5).
+
+**(b) Administration of funds** Of the amounts made available under subsection (a), the Administrator shall reserve 2 percent for the administrative costs necessary to carry out activities pursuant to that subsection.
+
+**(c) Definition of greenhouse gas** In this section, the term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+
+<a id="section-7436"></a>
+## § 7436. Methane emissions and waste reduction incentive program for petroleum and natural gas systems
+**(a) Incentives for methane mitigation and monitoring** In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $850,000,000, to remain available until September 30, 2028—
+
+(1) for grants, rebates, contracts, loans, and other activities of the Environmental Protection Agency for the purposes of providing financial and technical assistance to owners and operators of applicable facilities to prepare and submit greenhouse gas reports under subpart W of part 98 of title 40, Code of Federal Regulations;
+
+(2) for grants, rebates, contracts, loans, and other activities of the Environmental Protection Agency authorized under subsections (a) through (c) of [section 7403 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7403) for methane emissions monitoring;
+
+(3) for grants, rebates, contracts, loans, and other activities of the Environmental Protection Agency for the purposes of providing financial and technical assistance to reduce methane and other greenhouse gas emissions from petroleum and natural gas systems, mitigate legacy air pollution from petroleum and natural gas systems, and provide funding for—
+
+  (A) improving climate resiliency of communities and petroleum and natural gas systems;
+
+  (B) improving and deploying industrial equipment and processes that reduce methane and other greenhouse gas emissions and waste;
+
+  (C) supporting innovation in reducing methane and other greenhouse gas emissions and waste from petroleum and natural gas systems;
+
+  (D) permanently shutting in and plugging wells on non-Federal land;
+
+  (E) mitigating health effects of methane and other greenhouse gas emissions, and legacy air pollution from petroleum and natural gas systems in low-income and disadvantaged communities; and
+
+  (F) supporting environmental restoration; and
+
+(4) to cover all direct and indirect costs required to administer this section, prepare inventories, gather empirical data, and track emissions.
+
+**(b) Incentives for methane mitigation from conventional wells** In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $700,000,000, to remain available until September 30, 2028, for activities described in paragraphs (1) through (4) of subsection (a) at marginal conventional wells.
+
+**(c) Waste emissions charge** The Administrator shall impose and collect a charge on methane emissions that exceed an applicable waste emissions threshold under subsection (f) from an owner or operator of an applicable facility that reports more than 25,000 metric tons of carbon dioxide equivalent of greenhouse gases emitted per year pursuant to subpart W of part 98 of title 40, Code of Federal Regulations, regardless of the reporting threshold under that subpart.
+
+**(d) Applicable facility** For purposes of this section, the term “applicable facility” means a facility within the following industry segments, as defined in subpart W of part 98 of title 40, Code of Federal Regulations:
+
+(1) Offshore petroleum and natural gas production.
+
+(2) Onshore petroleum and natural gas production.
+
+(3) Onshore natural gas processing.
+
+(4) Onshore natural gas transmission compression.
+
+(5) Underground natural gas storage.
+
+(6) Liquefied natural gas storage.
+
+(7) Liquefied natural gas import and export equipment.
+
+(8) Onshore petroleum and natural gas gathering and boosting.
+
+(9) Onshore natural gas transmission pipeline.
+
+**(e) Charge amount** The amount of a charge under subsection (c) for an applicable facility shall be equal to the product obtained by multiplying—
+
+(1) the number of metric tons of methane emissions reported pursuant to subpart W of part 98 of title 40, Code of Federal Regulations, for the applicable facility that exceed the applicable annual waste emissions threshold listed in subsection (f) during the previous reporting period; and
+
+(2)
+
+  (A) $900 for emissions reported for calendar year 2024;
+
+  (B) $1,200 for emissions reported for calendar year 2025; or
+
+  (C) $1,500 for emissions reported for calendar year 2026 and each year thereafter.
+
+**(f) Waste emissions threshold**
+
+(1) **Petroleum and natural gas production** — With respect to imposing and collecting the charge under subsection (c) for an applicable facility in an industry segment listed in paragraph (1) or (2) of subsection (d), the Administrator shall impose and collect the charge on the reported metric tons of methane emissions from such facility that exceed—
+
+  (A) 0.20 percent of the natural gas sent to sale from such facility; or
+
+  (B) 10 metric tons of methane per million barrels of oil sent to sale from such facility, if such facility sent no natural gas to sale.
+
+(2) **Nonproduction petroleum and natural gas systems** — With respect to imposing and collecting the charge under subsection (c) for an applicable facility in an industry segment listed in paragraph (3), (6), (7), or (8) of subsection (d), the Administrator shall impose and collect the charge on the reported metric tons of methane emissions that exceed 0.05 percent of the natural gas sent to sale from or through such facility.
+
+(3) **Natural gas transmission** — With respect to imposing and collecting the charge under subsection (c) for an applicable facility in an industry segment listed in paragraph (4), (5), or (9) of subsection (d), the Administrator shall impose and collect the charge on the reported metric tons of methane emissions that exceed 0.11 percent of the natural gas sent to sale from or through such facility.
+
+(4) **Common ownership or control** — In calculating the total emissions charge obligation for facilities under common ownership or control, the Administrator shall allow for the netting of emissions by reducing the total obligation to account for facility emissions levels that are below the applicable thresholds within and across all applicable segments identified in subsection (d).
+
+(5) **Exemption** — Charges shall not be imposed pursuant to paragraph (1) on emissions that exceed the waste emissions threshold specified in such paragraph if such emissions are caused by unreasonable delay, as determined by the Administrator, in environmental permitting of gathering or transmission infrastructure necessary for offtake of increased volume as a result of methane emissions mitigation implementation.
+
+(6) **Exemption for regulatory compliance**
+
+  (A) *In general* — Charges shall not be imposed pursuant to subsection (c) on an applicable facility that is subject to and in compliance with methane emissions requirements pursuant to subsections (b) and (d) of [section 7411 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7411) upon a determination by the Administrator that—
+
+    (i) methane emissions standards and plans pursuant to subsections (b) and (d) of [section 7411 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7411) have been approved and are in effect in all States with respect to the applicable facilities; and
+
+    (ii) compliance with the requirements described in clause (i) will result in equivalent or greater emissions reductions as would be achieved by the proposed rule of the Administrator entitled “Standards of Performance for New, Reconstructed, and Modified Sources and Emissions Guidelines for Existing Sources: Oil and Natural Gas Sector Climate Review” (86 Fed. Reg. 63110 (November 15, 2021)), if such rule had been finalized and implemented.
+
+  (B) *Resumption of charge* — If the conditions in clause (i) or (ii) of subparagraph (A) cease to apply after the Administrator has made the determination in that subparagraph, the applicable facility will again be subject to the charge under subsection (c) beginning in the first calendar year in which the conditions in either clause (i) or (ii) of that subparagraph are no longer met.
+
+(7) **Plugged wells** — Charges shall not be imposed with respect to the emissions rate from any well that has been permanently shut-in and plugged in the previous year in accordance with all applicable closure requirements, as determined by the Administrator.
+
+**(g) Period** The charge under subsection (c) shall be imposed and collected beginning with respect to emissions reported for calendar year 2024 and for each year thereafter.
+
+**(h) Reporting** Not later than 2 years after August 16, 2022, the Administrator shall revise the requirements of subpart W of part 98 of title 40, Code of Federal Regulations, to ensure the reporting under such subpart, and calculation of charges under subsections (e) and (f) of this section, are based on empirical data, including data collected pursuant to subsection (a)(4), accurately reflect the total methane emissions and waste emissions from the applicable facilities, and allow owners and operators of applicable facilities to submit empirical emissions data, in a manner to be prescribed by the Administrator, to demonstrate the extent to which a charge under subsection (c) is owed.
+
+**(i) Definition of greenhouse gas** In this section, the term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+
+<a id="section-7437"></a>
+## § 7437. Greenhouse gas air pollution plans and implementation grants
+**(a) Appropriations**
+
+(1) **Greenhouse gas air pollution planning grants** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any amounts in the Treasury not otherwise appropriated, $250,000,000, to remain available until September 30, 2031, to carry out subsection (b).
+
+(2) **Greenhouse gas air pollution implementation grants** — In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any amounts in the Treasury not otherwise appropriated, $4,750,000,000, to remain available until September 30, 2026, to carry out subsection (c).
+
+(3) **Administrative costs** — Of the funds made available under paragraph (2), the Administrator shall reserve 3 percent for administrative costs necessary to carry out this section, to provide technical assistance to eligible entities, to develop a plan that could be used as a model by grantees in developing a plan under subsection (b), and to model the effects of plans described in this section.
+
+**(b) Greenhouse gas air pollution planning grants** The Administrator shall make a grant to at least one eligible entity in each State for the costs of developing a plan for the reduction of greenhouse gas air pollution to be submitted with an application for a grant under subsection (c). Each such plan shall include programs, policies, measures, and projects that will achieve or facilitate the reduction of greenhouse gas air pollution. Not later than 270 days after August 16, 2022, the Administrator shall publish a funding opportunity announcement for grants under this subsection.
+
+**(c) Greenhouse gas air pollution reduction implementation grants**
+
+(1) **In general** — The Administrator shall competitively award grants to eligible entities to implement plans developed under subsection (b).
+
+(2) **Application** — To apply for a grant under this subsection, an eligible entity shall submit to the Administrator an application at such time, in such manner, and containing such information as the Administrator shall require, which such application shall include information regarding the degree to which greenhouse gas air pollution is projected to be reduced in total and with respect to low-income and disadvantaged communities.
+
+(3) **Terms and conditions** — The Administrator shall make funds available to a grantee under this subsection in such amounts, upon such a schedule, and subject to such conditions based on its performance in implementing its plan submitted under this section and in achieving projected greenhouse gas air pollution reduction, as determined by the Administrator.
+
+**(d) Definitions** In this section:
+
+(1) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a State;
+
+  (B) an air pollution control agency;
+
+  (C) a municipality;
+
+  (D) an Indian tribe; and
+
+  (E) a group of one or more entities listed in subparagraphs (A) through (D).
+
+(2) **Greenhouse gas** — The term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+
+<a id="section-7438"></a>
+## § 7438. Environmental and climate justice block grants
+**(a) Appropriation** In addition to amounts otherwise available, there is appropriated to the Administrator for fiscal year 2022, out of any money in the Treasury not otherwise appropriated—
+
+(1) $2,800,000,000 to remain available until September 30, 2026, to award grants for the activities described in subsection (b); and
+
+(2) $200,000,000 to remain available until September 30, 2026, to provide technical assistance to eligible entities related to grants awarded under this section.
+
+**(b) Grants**
+
+(1) **In general** — The Administrator shall use amounts made available under subsection (a)(1) to award grants for periods of up to 3 years to eligible entities to carry out activities described in paragraph (2) that benefit disadvantaged communities, as defined by the Administrator.
+
+(2) **Eligible activities** — An eligible entity may use a grant awarded under this subsection for—
+
+  (A) community-led air and other pollution monitoring, prevention, and remediation, and investments in low- and zero-emission and resilient technologies and related infrastructure and workforce development that help reduce greenhouse gas emissions and other air pollutants;
+
+  (B) mitigating climate and health risks from urban heat islands, extreme heat, wood heater emissions, and wildfire events;
+
+  (C) climate resiliency and adaptation;
+
+  (D) reducing indoor toxics and indoor air pollution; or
+
+  (E) facilitating engagement of disadvantaged communities in State and Federal advisory groups, workshops, rulemakings, and other public processes.
+
+(3) **Eligible entities** — In this subsection, the term “eligible entity” means—
+
+  (A) a partnership between—
+
+    (i) an Indian tribe, a local government, or an institution of higher education; and
+
+    (ii) a community-based nonprofit organization;
+
+  (B) a community-based nonprofit organization; or
+
+  (C) a partnership of community-based nonprofit organizations.
+
+**(c) Administrative costs** The Administrator shall reserve 7 percent of the amounts made available under subsection (a) for administrative costs to carry out this section.
+
+**(d) Definition of greenhouse gas** In this section, the term “greenhouse gas” means the air pollutants carbon dioxide, hydrofluorocarbons, methane, nitrous oxide, perfluorocarbons, and sulfur hexafluoride.
+
+
 <a id="section-7450-to-7459"></a>
 ## § 7450 to 7459. Repealed. Pub. L. 101–549, title VI, § 601, Nov. 15, 1990, 104 Stat. 2648
 
@@ -3870,7 +4226,7 @@ Subsec. (b). Pub. L. 101–549, § 110(2), substituted “designated pursuant to
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsec. (c)(1)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (c)(1)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1977—Subsec. (a). Pub. L. 95–190 inserted “section” before “7475”.
@@ -4211,7 +4567,7 @@ Subpart effective Aug. 7, 1977, except as otherwise expressly provided, see sect
 #### References in Text
 The Clean Air Act Amendments of 1990, referred to in subsec. (b), probably means Pub. L. 101–549, Nov. 15, 1990, 104 Stat. 2399. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-7501"></a>
@@ -4647,7 +5003,7 @@ The Administrator shall approve or disapprove any such petition or recommendatio
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-7507"></a>
@@ -5079,7 +5435,7 @@ Any reference to the term “attainment date” in subsection (b), (c), or (d) w
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Policy Act of 1978, referred to in subsec. (e)(3), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended. Title III of the Act is classified generally to subchapter III (§ 3361 et seq.) of chapter 60 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3301&num=0&edition=prelim) and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (e)(3), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350. Title III of the Act is classified generally to subchapter III (§ 3361 et seq.) of chapter 60 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3301&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1995—Subsec. (d)(1)(B). Pub. L. 104–70 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Within 2 years after November 15, 1990, the State shall submit a revision requiring employers in such area to implement programs to reduce work-related vehicle trips and miles traveled by employees. Such revision shall be developed in accordance with guidance issued by the Administrator pursuant to [section 7408(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7408/f&num=0&edition=prelim) and shall, at a minimum, require that each employer of 100 or more persons in such area increase average passenger occupancy per vehicle in commuting trips between home and the workplace during peak travel periods by not less than 25 percent above the average vehicle occupancy for all such trips in the area at the time the revision is submitted. The guidance of the Administrator may specify average vehicle occupancy rates which vary for locations within a nonattainment area (suburban, center city, business district) or among nonattainment areas reflecting existing occupancy rates and the availability of high occupancy modes. The revision shall provide that each employer subject to a vehicle occupancy requirement shall submit a compliance plan within 2 years after the date the revision is submitted which shall convincingly demonstrate compliance with the requirements of this paragraph not later than 4 years after such date.”
@@ -5748,7 +6104,7 @@ The enactment of the Clean Air Act Amendments of 1990, referred to in subsec. (a
 
 Paragraph (5) of subsec. (b), referred to in subsec. (b)(1)(A), related to waivers for model years 1981 and 1982, and was repealed by Pub. L. 101–549, title II, § 230(3), Nov. 15, 1990, 104 Stat. 2529. See 1990 Amendment note below.
 
-The Energy Policy and Conservation Act, referred to in subsec. (b)(3)(C), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (b)(3)(C), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 #### Codification
 Section was formerly classified to [section 1857f–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1857f–1&num=0&edition=prelim).
@@ -5947,6 +6303,55 @@ Sec. 6. General Provisions. (a) This order shall be implemented in accordance wi
 
 (c) This order is not intended to, and does not, create any right, benefit or privilege, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, instrumentalities, or entities, its officers or employees, or any other person.
 
+#### Ex. Ord. No. 14037. Strengthening American Leadership in Clean Cars and Trucks
+Ex. Ord. No. 14037, Aug. 5, 2021, 86 F.R. 43583, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote the interests of American workers, businesses, consumers, and communities, it is hereby ordered as follows:
+
+Section 1. Policy. America must lead the world on clean and efficient cars and trucks. That means bolstering our domestic market by setting a goal that 50 percent of all new passenger cars and light trucks sold in 2030 be zero-emission vehicles, including battery electric, plug-in hybrid electric, or fuel cell electric vehicles. My Administration will prioritize setting clear standards, expanding key infrastructure, spurring critical innovation, and investing in the American autoworker. This will allow us to boost jobs—with good pay and benefits—across the United States along the full supply chain for the automotive sector, from parts and equipment manufacturing to final assembly.
+
+It is the policy of my Administration to advance these objectives in order to improve our economy and public health, boost energy security, secure consumer savings, advance environmental justice, and address the climate crisis.
+
+Sec. 2. Light-, Medium-, and Certain Heavy-Duty Vehicles Multi-Pollutant and Fuel Economy Standards for 2027 and Later.
+
+(a) The Administrator of the Environmental Protection Agency (EPA) shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Clean Air Act ([42 U.S.C. 7401–767](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401–767&num=0&edition=prelim)1q) to establish new multi-pollutant emissions standards, including for greenhouse gas emissions, for light- and medium-duty vehicles beginning with model year 2027 and extending through and including at least model year 2030.
+
+(b) The Secretary of Transportation shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Energy Independence and Security Act of 2007 (Public Law 110–140, 121 Stat. 1492) (EISA) [see Tables for classification] to establish new fuel economy standards for passenger cars and light-duty trucks beginning with model year 2027 and extending through and including at least model year 2030.
+
+(c) The Secretary of Transportation shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under EISA to establish new fuel efficiency standards for heavy-duty pickup trucks and vans beginning with model year 2028 and extending through and including at least model year 2030.
+
+Sec. 3. Heavy-Duty Engines and Vehicles Multi-Pollutant Standards for 2027 and Later. (a) The Administrator of the EPA shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Clean Air Act to establish new oxides of nitrogen standards for heavy-duty engines and vehicles beginning with model year 2027 and extending through and including at least model year 2030.
+
+(b) The Administrator of the EPA shall, as appropriate and consistent with applicable law, and in consideration of the role that zero-emission heavy-duty vehicles might have in reducing emissions from certain market segments, consider updating the existing greenhouse gas emissions standards for heavy-duty engines and vehicles beginning with model year 2027 and extending through and including at least model year 2029.
+
+Sec. 4. Medium- and Heavy-Duty Engines and Vehicles Greenhouse Gas and Fuel Efficiency Standards as Soon as 2030 and Later. (a) The Administrator of the EPA shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under the Clean Air Act to establish new greenhouse gas emissions standards for heavy-duty engines and vehicles to begin as soon as model year 2030.
+
+(b) The Secretary of Transportation shall, as appropriate and consistent with applicable law, consider beginning work on a rulemaking under EISA to establish new fuel efficiency standards for medium- and heavy-duty engines and vehicles to begin as soon as model year 2030.
+
+Sec. 5. Rulemaking Targets. (a) With respect to the rulemaking described in section 3(a) of this order, the Administrator of the EPA shall, as appropriate and consistent with applicable law, consider issuing a notice of proposed rulemaking by January 2022 and any final rulemaking by December 2022.
+
+(b) With respect to the other rulemakings described in section 2 and section 4 of this order, the Secretary of Transportation and the Administrator of the EPA shall, as appropriate and consistent with applicable law, consider issuing any final rulemakings no later than July 2024.
+
+Sec. 6. Coordination and Engagement. (a) The Secretary of Transportation and the Administrator of the EPA shall coordinate, as appropriate and consistent with applicable law, during the consideration of any rulemakings pursuant to this order.
+
+(b) The Secretary of Transportation and the Administrator of the EPA shall consult with the Secretaries of Commerce, Labor, and Energy on ways to achieve the goals laid out in section 1 of this order, to accelerate innovation and manufacturing in the automotive sector, to strengthen the domestic supply chain for that sector, and to grow jobs that provide good pay and benefits.
+
+(c) Given the significant expertise and historical leadership demonstrated by the State of California with respect to establishing emissions standards for light-, medium-, and heavy-duty vehicles, the Administrator of the EPA shall coordinate the agency’s activities pursuant to sections 2 through 4 of this order, as appropriate and consistent with applicable law, with the State of California as well as other States that are leading the way in reducing vehicle emissions, including by adopting California’s standards.
+
+(d) In carrying out any of the actions described in this order, the Secretary of Transportation and the Administrator of the EPA shall seek input from a diverse range of stakeholders, including representatives from labor unions, States, industry, environmental justice organizations, and public health experts.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
 
 <a id="section-7522"></a>
 ## § 7522. Prohibited acts
@@ -6037,7 +6442,7 @@ Subsec. (b)(3). Pub. L. 95–95, § 218(d), substituted “[section 7521 of this
 
 Subsec. (a)(2). Pub. L. 91–604, § 7(a)(2), substituted “section 208” for “section 207”, both of which, for purposes of codification, are translated as “[section 7542 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7542)”.
 
-Subsec. (a)(3). Pub. L. 91–604, §§ 7(a)(3), 11(a)(2)(A), substituted “part” for “subchapter” and inserted provisions prohibiting the knowing removal or inoperation by manufacturers or dealers of devices or elements of design after sale and delivery to the ultimate pur­chaser.
+Subsec. (a)(3). Pub. L. 91–604, §§ 7(a)(3), 11(a)(2)(A), substituted “part” for “subchapter” and inserted provisions prohibiting the knowing removal or inoperation by manufacturers or dealers of devices or elements of design after sale and delivery to the ultimate purchaser.
 
 Subsec. (a)(4). Pub. L. 91–604, § 7(a)(4), added par. (4).
 
@@ -7734,7 +8139,7 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 ### Statutory Notes
 
 #### References in Text
-The Federal Credit Reform Act of 1990, referred to in subsec. (b)(1), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, as amended, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (b)(1), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
 The Energy Policy Act, referred to in subsec. (b)(1), probably means the Energy Policy Act of 2005, Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594. Title XIV of the Act probably should be a reference to title XV of the Act which relates to ethanol and motor fuels and enacted subchapter XIV (§ 16501 et seq.) of chapter 149 of this title and sections 6991i to 6991m and 7546 of this title, amended sections 6991 to 6991f, 6991h, 1991i, 7135, 7545, and 13220 of this title, and enacted provisions set out as notes under [section 7545 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7545). Title XIV of the Act, which contains miscellaneous provisions, is classified principally to subchapter XIII (§ 16491 et seq.) of chapter 149 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
 
@@ -7897,6 +8302,7 @@ Par. (3). Pub. L. 91–604, § 10(d)(2), inserted provisions which defined such 
 
 ### Statutory Notes
 
+#### Codification
 Section, Pub. L. 95–95, title II, § 203, Aug. 7, 1977, 91 Stat. 754; Pub. L. 97–375, title I, § 106(a), Dec. 21, 1982, 96 Stat. 1820, which required the Administrator of the Environmental Protection Agency to report to Congress respecting the motor vehicle fuel consumption associated with the standards applicable for the immediately preceding model year, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, the 5th item on page 165 of House Document No. 103–7. Section was enacted as part of the Clean Air Act Amendments of 1977, and not as part of the Clean Air Act which comprises this chapter.
 
 
@@ -8026,7 +8432,7 @@ Pub. L. 101–549, title II, § 233, Nov. 15, 1990, 104 Stat. 2529, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, § 7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+The Department of Transportation Act, referred to in subsecs. (a) and (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, § 7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
 #### Codification
 In subsecs. (a) and (b), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act [49 App. U.S.C. 1301 et seq.]” and “the Federal Aviation Act of 1958 [49 App. U.S.C. 1301 et seq.]” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
@@ -8789,7 +9195,7 @@ Richard Nixon.
 
 <a id="section-7607"></a>
 ## § 7607. Administrative proceedings and judicial review
-**(a) Administrative subpenas; confidentiality; wit­nesses** In connection with any determination under [section 7410(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7410/f&num=0&edition=prelim), or for purposes of obtaining information under section 7521(b)(4) 11 See References in Text note below. or 7545(c)(3) of this title, any investigation, monitoring, reporting requirement, entry, compliance inspection, or administrative enforcement proceeding under the 22 So in original. Probably should be “this”. chapter (including but not limited to section 7413, section 7414, section 7420, section 7429, section 7477, section 7524, section 7525, section 7542, section 7603, or [section 7606 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7606)),,33 So in original. the Administrator may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Except for emission data, upon a showing satisfactory to the Administrator by such owner or operator that such papers, books, documents, or information or particular part thereof, if made public, would divulge trade secrets or secret processes of such owner or operator, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), except that such paper, book, document, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter, to persons carrying out the National Academy of Sciences’ study and investigation provided for in [section 7521(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7521/c&num=0&edition=prelim), or when relevant in any proceeding under this chapter. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subparagraph,44 So in original. Probably should be “subsection,”. the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+**(a) Administrative subpenas; confidentiality; witnesses** In connection with any determination under [section 7410(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7410/f&num=0&edition=prelim), or for purposes of obtaining information under section 7521(b)(4) 11 See References in Text note below. or 7545(c)(3) of this title, any investigation, monitoring, reporting requirement, entry, compliance inspection, or administrative enforcement proceeding under the 22 So in original. Probably should be “this”. chapter (including but not limited to section 7413, section 7414, section 7420, section 7429, section 7477, section 7524, section 7525, section 7542, section 7603, or [section 7606 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7606)),,33 So in original. the Administrator may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Except for emission data, upon a showing satisfactory to the Administrator by such owner or operator that such papers, books, documents, or information or particular part thereof, if made public, would divulge trade secrets or secret processes of such owner or operator, the Administrator shall consider such record, report, or information or particular portion thereof confidential in accordance with the purposes of [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), except that such paper, book, document, or information may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter, to persons carrying out the National Academy of Sciences’ study and investigation provided for in [section 7521(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7521/c&num=0&edition=prelim), or when relevant in any proceeding under this chapter. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person under this subparagraph,44 So in original. Probably should be “subsection,”. the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 **(b) Judicial review**
 
@@ -9223,7 +9629,7 @@ In the case of construction of a treatment works which would result, directly or
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act, referred to in subsec. (c), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act, referred to in subsec. (c), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 #### Prior Provisions
 A prior section 316 of act July 14, 1955, ch. 360, title III, formerly § 13, as added Dec. 17, 1963, Pub. L. 88–206, § 1, 77 Stat. 401; renumbered § 306 and amended Oct. 20, 1965, Pub. L. 89–272, title I, § 101(4), (6), (7), 79 Stat. 992; Oct. 15, 1966, Pub. L. 89–675, § 2(a), 80 Stat. 954; renumbered § 309 and amended Nov. 21, 1967, Pub. L. 90–148, § 2, 81 Stat. 506; renumbered § 316 and amended Dec. 31, 1970, Pub. L. 91–604, §§ 12(a), 13(b), 84 Stat. 1705, 1709; Apr. 9, 1973, Pub. L. 93–15, § 1(c), 87 Stat. 11; June 22, 1974, Pub. L. 93–319, § 13(c), 88 Stat. 265, authorized appropriations for air pollution control, prior to repeal by section 306 of Pub. L. 95–95. See [section 7626 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7626).
@@ -9637,7 +10043,7 @@ Section effective Aug. 7, 1977, except as otherwise expressly provided, see sect
 ### Statutory Notes
 
 #### References in Text
-The Outer Continental Shelf Lands Act, referred to in subsec. (a)(4)(C)(ii), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (a)(4)(C)(ii), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2011—Subsec. (a)(1). Pub. L. 112–74, § 432(b), inserted “(other than Outer Continental Shelf sources located offshore of the North Slope Borough of the State of Alaska)” after “Outer Continental Shelf sources located offshore of the States along the Pacific, Arctic and Atlantic Coasts” and “and this chapter” after “regulations”.
@@ -9938,9 +10344,9 @@ Another section 402 of act July 14, 1955, as added by Pub. L. 91–604, § 14, D
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsec. (f), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (f), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (j), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (j), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Another section 403 of act July 14, 1955, as added by Pub. L. 91–604, § 14, Dec. 31, 1970, 84 Stat. 1710, is classified to [section 7642 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7642).
@@ -10103,7 +10509,7 @@ Pub. L. 101–549, title IV, § 402, Nov. 15, 1990, 104 Stat. 2631, provided tha
   (B) has decreased its sulfur dioxide emissions rate by 60 percent or greater since 1980, and
 
   (C) is part of a utility system which has a weighted average sulfur dioxide emissions rate for all fossil fueled-fired units below 1.0 lbs/mmBtu,
-  at the election of the owner or operator of such unit, the unit’s baseline may be calculated (i) as provided under section 7651a(d) 1010 So in original. Probably should be section “7651a(4)”. of this title, or (ii) by utilizing the unit’s average annual fuel consumption at a 60 percent capacity factor. Such election shall be made no later than March 1, 1991.
+  at the election of the owner or operator of such unit, the unit’s baseline may be calculated (i) as provided under section 7651a(d) 1 of this title, or (ii) by utilizing the unit’s average annual fuel consumption at a 60 percent capacity factor. Such election shall be made no later than March 1, 1991.
 
 (2) **Allowance allocation** — Whenever a unit referred to in paragraph (1) elects to calculate its baseline as provided in clause (ii) of paragraph (1), the Administrator shall allocate allowances for the unit pursuant to [section 7651b(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7651b/a/1&num=0&edition=prelim), this section, and [section 7651d of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7651d) (as basic Phase II allowance allocations) in an amount equal to the baseline selected multiplied by the lower of the average annual emission rate for such unit in 1989, or 1.0 lbs./mmBtu. Such allowance allocation shall be in lieu of any allocation of allowances under this section and [section 7651d of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7651d).
 
@@ -10881,7 +11287,7 @@ Nothing in the preceding sentence shall alter or affect the provisions of [secti
 #### References in Text
 The Small Business Act, referred to in subsec. (c)(1)(B), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
-The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
+The Paperwork Reduction Act, referred to in subsecs. (d)(2) and (e)(1)(B), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
 
 The Regulatory Flexibility Act, referred to in subsecs. (d)(2) and (e)(1)(B), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§ 601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) and Tables.
 
@@ -10936,7 +11342,7 @@ As used in this subchapter—
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in par. (8), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in par. (8), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 
 <a id="section-7671a"></a>
@@ -11388,15 +11794,15 @@ For purposes of [section 7416 of this title](./chapter-085-air-pollution-prevent
 
 <a id="section-7675"></a>
 ## § 7675. American innovation and manufacturing
-**(a) Short title** This section may be cited as the ‘American Innovation and Manufacturing Act of 2020’.
+**(a) Short title** This section may be cited as the “American Innovation and Manufacturing Act of 2020”.
 
 **(b) Definitions** In this section:
 
-(1) **Administrator** — The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+(1) **Administrator** — The term “Administrator” means the Administrator of the Environmental Protection Agency.
 
-(2) **Allowance** — The term ‘allowance’ means a limited authorization for the production or consumption of a regulated substance established under subsection (e).
+(2) **Allowance** — The term “allowance” means a limited authorization for the production or consumption of a regulated substance established under subsection (e).
 
-(3) **Consumption** — The term ‘consumption’, with respect to a regulated substance, means a quantity equal to the difference between—
+(3) **Consumption** — The term “consumption”, with respect to a regulated substance, means a quantity equal to the difference between—
 
   (A) a quantity equal to the sum of—
 
@@ -11406,37 +11812,37 @@ For purposes of [section 7416 of this title](./chapter-085-air-pollution-prevent
 
   (B) the quantity of the regulated substance exported from the United States.
 
-(4) **Consumption baseline** — The term ‘consumption baseline’ means the baseline established for the consumption of regulated substances under subsection (e)(1)(C).
+(4) **Consumption baseline** — The term “consumption baseline” means the baseline established for the consumption of regulated substances under subsection (e)(1)(C).
 
-(5) **Exchange value** — The term ‘exchange value’ means the value assigned to a regulated substance in accordance with subsections (c) and (e), as applicable.
+(5) **Exchange value** — The term “exchange value” means the value assigned to a regulated substance in accordance with subsections (c) and (e), as applicable.
 
-(6) **Import** — The term ‘import’ means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, regardless of whether that landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+(6) **Import** — The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, regardless of whether that landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 (7) **Produce**
 
-  (A) *In general* — The term ‘produce’ means the manufacture of a regulated substance from a raw material or feedstock chemical (but not including the destruction of a regulated substance by a technology approved by the Administrator).
+  (A) *In general* — The term “produce” means the manufacture of a regulated substance from a raw material or feedstock chemical (but not including the destruction of a regulated substance by a technology approved by the Administrator).
 
-  (B) *Exclusions* — The term ‘produce’ does not include—
+  (B) *Exclusions* — The term “produce” does not include—
 
     (i) the manufacture of a regulated substance that is used and entirely consumed (except for trace quantities) in the manufacture of another chemical; or
 
     (ii) the reclamation, reuse, or recycling of a regulated substance.
 
-(8) **Production baseline** — The term ‘production baseline’ means the baseline established for the production of regulated substances under subsection (e)(1)(B).
+(8) **Production baseline** — The term “production baseline” means the baseline established for the production of regulated substances under subsection (e)(1)(B).
 
-(9) **Reclaim; reclamation** — The terms ‘reclaim’ and ‘reclamation’ mean—
+(9) **Reclaim; reclamation** — The terms “reclaim” and “reclamation” mean—
 
   (A) the reprocessing of a recovered regulated substance to at least the purity described in standard 700–2016 of the Air-Conditioning, Heating, and Refrigeration Institute (or an appropriate successor standard adopted by the Administrator); and
 
   (B) the verification of the purity of that regulated substance using, at a minimum, the analytical methodology described in the standard referred to in subparagraph (A).
 
-(10) **Recover** — The term ‘recover’ means the process by which a regulated substance is—
+(10) **Recover** — The term “recover” means the process by which a regulated substance is—
 
   (A) removed, in any condition, from equipment; and
 
   (B) stored in an external container, with or without testing or processing the regulated substance.
 
-(11) **Regulated substance** — The term ‘regulated substance’ means—
+(11) **Regulated substance** — The term “regulated substance” means—
 
   (A) a substance listed in the table contained in subsection (c)(1); and
 

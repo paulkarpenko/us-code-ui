@@ -22,7 +22,7 @@ A prior section 3062 was renumbered [section 7062 of this title](./chapter-707-t
 Pub. L. 117–81, § 1701(b)(2)(A), amended directory language of Pub. L. 116–283, § 1807(b)(1), which enacted this section.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -88,7 +88,7 @@ Subsec. (a). Pub. L. 116–283, § 1807(c)(3)(A), as amended by Pub. L. 117–81
 Subsec. (b). Pub. L. 116–283, § 1807(c)(3)(B), inserted heading and substituted “The provisions of this part that are chapter 137 legacy provisions” for “The provisions of this chapter”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -144,13 +144,13 @@ Pub. L. 98–369 inserted provision relating to the exception provided in [secti
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 #### Effective Date of 1984 Amendment
-Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bids or proposals issued after Mar. 31, 1985, see section 2751 of Pub. L. 98–369, set out as a note under [section 4751 of this title](./chapter-367-other-administrative-matters.md#section-4751).
 
 #### Effective Date of 1962 Amendment
-For effective date of amendment by Pub. L. 87–653, see section 1(h) of Pub. L. 87–653, set out as a note under [section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304).
+Pub. L. 87–653, § 1(h), Sept. 10, 1962, 76 Stat. 529, provided that: “The amendments made by this Act [amending this section and sections 2304, 2306, and 2310 (now 4751) of this title] shall take effect on the first day of the third calendar month which begins after the date of enactment of this Act [Sept. 10, 1962].”
 
 
 <a id="section-3066"></a>
@@ -228,7 +228,7 @@ Another prior section 3068, acts Aug. 10, 1956, ch. 1041, 70A Stat. 168; Sept. 7
 Subsec. (b). Pub. L. 116–283, § 1807(e)(3), as amended by Pub. L. 117–81, § 1701(b)(2)(C)(ii), transferred text of [section 2315 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2315&num=0&edition=prelim) to this section, designated it as subsec. (b), and inserted heading.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -283,6 +283,14 @@ A prior section 3069 was renumbered [section 7069 of this title](./chapter-707-t
 2021—Pub. L. 116–283 renumbered [section 2308 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2308) as this section.
 
 Subsec. (b)(2). Pub. L. 116–283 substituted “sections 3201 through 3205” for “section 2304”.
+
+2016—Subsec. (c). Pub. L. 114–328 designated existing provisions as par. (1), inserted “, except as provided in paragraph (2),” after “but”, and added par. (2).
+
+2003—Subsec. (e)(2). Pub. L. 108–136 redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which read as follows: “The term ‘congressional defense committees’ means—
+
+“(i) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+
+“(ii) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

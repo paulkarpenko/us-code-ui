@@ -58,8 +58,8 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 | Absaroka-Beartooth Wilderness, Custer, Gallatin, and Shoshone National Forests, Montana.—Pub. L. 95–249, Mar. 27, 1978, 92 Stat. 162; Pub. L. 98–550, title II, § 201(a)(13), Oct. 30, 1984, 98 Stat. 2809; Pub. L. 98–140, § 3(d), Oct. 31, 1983, 97 Stat. 903. |
 | Aden Lava Flow Wilderness, Doña Ana County, New Mexico.—Pub. L. 116–9, title I, § 1201(b)(1)(A), Mar. 12, 2019, 133 Stat. 642. |
 | Agassiz Wilderness, Agassiz National Wildlife Refuge, Minnesota.—Pub. L. 94–557, § 1(h), Oct. 19, 1976, 90 Stat. 2633. |
-| Ah-shi-sle-pah Wilderness, New Mexico.—Pub. L. 116–9, title I, § 1121(c)(1), Mar. 12, 2019, 133 Stat. 639. |
 | Agua Tibia Wilderness, Cleveland National Forest, California.—Pub. L. 93–632, § 2(a), Jan. 3, 1975, 88 Stat. 2154; Pub. L. 111–11, title I, § 1851(b)(1)(A), Mar. 30, 2009, 123 Stat. 1062. |
+| Ah-shi-sle-pah Wilderness, New Mexico.—Pub. L. 116–9, title I, § 1121(c)(1), Mar. 12, 2019, 133 Stat. 639. |
 | Alaska Peninsula National Wildlife Refuge Wilderness, Alaska.—Pub. L. 111–11, title VI, § 6404(3), Mar. 30, 2009, 123 Stat. 1182. |
 | Aldo Leopold Wilderness, Gila National Forest, New Mexico.—Pub. L. 96–550, title I, § 102(a)(1), Dec. 19, 1980, 94 Stat. 3221. |
 | Aleutian Islands Wilderness, Alaska Maritime National Wildlife Refuge, Aleutian Islands Unit, Alaska.—Pub. L. 96–487, title VII, § 702(1), Dec. 2, 1980, 94 Stat. 2417. |
@@ -897,13 +897,13 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 #### References in Text
 Act of June 4, 1897, referred to in subsec. (a)(1), is act June 4, 1897, ch. 2, 30 Stat. 11, the Sundry Civil Appropriation Act for Fiscal Year 1898. For classification of that part of this Act classified to the Code, see Tables.
 
-The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (a)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (a)(1), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of this title](./chapter-002-national-forests.md#section-528) and Tables.
 
 The Shipstead-Nolan Act, referred to in subsec. (a)(2), is act July 10, 1930, ch. 881, 46 Stat. 1020, which is classified to sections 577 to 577b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 577 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-577) and Tables.
 
-The Thye-Blatnik Act, referred to in subsec. (a)(2), is act June 22, 1948, ch. 593, 62 Stat. 568, as amended, which is classified to sections 577c, 577d, and 577e to 577h of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 577 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-577) and Tables.
+The Thye-Blatnik Act, referred to in subsec. (a)(2), is act June 22, 1948, ch. 593, 62 Stat. 568, which is classified to sections 577c, 577d, and 577e to 577h of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 577 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-577) and Tables.
 
-The Humphrey-Thye-Blatnik-Andresen Act, referred to in subsec. (a)(2), is act June 22, 1956, ch. 425, 70 Stat. 326, as amended, which is classified to sections 577d–1, 577g–1, and 577h of this title. For complete classification of this Act to the Code, see Tables.
+The Humphrey-Thye-Blatnik-Andresen Act, referred to in subsec. (a)(2), is act June 22, 1956, ch. 425, 70 Stat. 326, which is classified to sections 577d–1, 577g–1, and 577h of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2014—Subsec. (a)(3). Pub. L. 113–287, § 5(d)(21)(B), which directed substitution of “[section 796(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796/2&num=0&edition=prelim); and chapters 3201 and 3203 of title 54” for “the Act of June 8, 1906 (34 Stat. 225; [16 U.S.C. 432](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-432) et seq); section 3(2) of the Federal Power Act ([16 U.S.C. 796(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section796/2&num=0&edition=prelim)); and the Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) et seq.)”, was executed by making the substitution for the same text as directed except with a period at the end of “432 et seq”, to reflect the probable intent of Congress.

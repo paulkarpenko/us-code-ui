@@ -808,7 +808,7 @@ Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referr
 
 2019—Subsec. (a)(6). Pub. L. 116–9, § 2502(a), substituted “4,900” for “three thousand seven hundred”, “the Ohio River in Pittsburgh, Pennsylvania,” for “Wood River, Illinois,”, and “the map entitled ‘Lewis and Clark National Historic Trail Authorized Trail Including Proposed Eastern Legacy Extension’, dated April 2018, and numbered 648/143721.” for “maps identified as, ‘Vicinity Map, Lewis and Clark Trail’ study report dated April 1977.”
 
-Subsec. (a)(8). Pub. L. 116–9, § 2501(2), substituted “ ‘North Country National Scenic Trail, Authorized Route’, dated February 2014, and numbered 649/116870.” for “Proposed North Country Trail-Vicinity Map’ in the Department of the Interior ‘North Country Trail Report’, dated June 1975.”
+Subsec. (a)(8). Pub. L. 116–9, § 2501(2), substituted “ ‘North Country National Scenic Trail, Authorized Route’, dated February 2014, and numbered 649/116870.” for “ ‘Proposed North Country Trail-Vicinity Map’ in the Department of the Interior ‘North Country Trail Report’, dated June 1975.”
 
 Pub. L. 116–9, § 2501(1), which directed substitution of “4,600 miles, extending from the Appalachian Trail in Vermont” for “thirty two hundred miles, extending from eastern New York State”, was executed by making the substitution for “thirty-two hundred miles, extending from eastern New York State” to reflect the probable intent of Congress.
 
@@ -1161,7 +1161,7 @@ Enforcement functions of Secretary or other official in Department of the Interi
 #### References in Text
 Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classified to section 461 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 97–35, title III, § 313(b), Aug. 13, 1981, 95 Stat. 398.
 
-The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§ 1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking, and Tables.
+The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§ 1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim), Banks and Banking, and Tables.
 
 The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsec. (d), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim), Railroads, and Tables.
 
@@ -1226,9 +1226,9 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsecs. (d)(2) and (f)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsecs. (d)(2) and (f)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (f)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 #### Amendments
 2014—Subsec. (e)(3). Pub. L. 113–287 substituted “[section 200302 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200302&num=0&edition=prelim)” for “section 460l–5 of this title”.
@@ -1349,7 +1349,7 @@ Pub. L. 96–370, § 2, Oct. 3, 1980, 94 Stat. 1360, provided that: “Authoriza
 ### Statutory Notes
 
 #### References in Text
-The Volunteers in the Forests Act of 1972, referred to in subsec. (a)(2), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, as amended, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
+The Volunteers in the Forests Act of 1972, referred to in subsec. (a)(2), probably means the Volunteers in the National Forests Act of 1972, Pub. L. 92–300, May 18, 1972, 86 Stat. 147, which is classified generally to section 558a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 558a of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-558a) and Tables.
 
 #### Amendments
 2014—Subsec. (a)(2). Pub. L. 113–287 substituted “[section 102301 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section102301&num=0&edition=prelim)” for “the Volunteers in the Parks Act of 1969” and “200305 of title 54” for “section 460l–8 of this title”.

@@ -142,9 +142,9 @@ Section 8229, Pub. L. 95–619, title II, § 228, as added Pub. L. 99–412, tit
 ### Statutory Notes
 
 #### References in Text
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(5), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim) and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b)(5), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2601&num=0&edition=prelim) and Tables.
 
-The Federal Disaster Protection Act of 1973, referred to in subsec. (b)(5), probably means the Flood Disaster Protection Act of 1973, Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, as amended, which enacted sections 4002, 4003, 4012a, 4104 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, repealed [section 4021 of this title](./chapter-050-national-flood-insurance.md#section-4021), and enacted a provision set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001). For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
+The Federal Disaster Protection Act of 1973, referred to in subsec. (b)(5), probably means the Flood Disaster Protection Act of 1973, Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 975, which enacted sections 4002, 4003, 4012a, 4104 to 4107, and 4128 of this title, amended sections 4001, 4013 to 4016, 4026, 4054, 4056, 4101, and 4121 of this title and sections 24 and 1709–1 of Title 12, repealed [section 4021 of this title](./chapter-050-national-flood-insurance.md#section-4021), and enacted a provision set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001). For complete classification of this Act to the Code, see Short Title of 1973 Amendment note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
 1991—Subsec. (a). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
@@ -164,7 +164,7 @@ The President shall conduct a study which shall monitor the weatherization activ
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
+This Act, referred to in text, is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, known as the National Energy Conservation Policy Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the President report annually to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the last item on page 40 of House Document No. 103–7.
@@ -277,7 +277,7 @@ The Federal Energy Regulatory Commission may exempt from any provisions in secti
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended. Title II of the Natural Gas Policy Act of 1978 was classified generally to subchapter II (§ 3341 et seq.) of chapter 60 of Title 15, Commerce and Trade, prior to its repeal by Pub. L. 100–42, § 2(a), May 21, 1987, 101 Stat. 314. Title IV of the Natural Gas Policy Act of 1978 is classified generally to subchapter IV (§ 3391 et seq.) of chapter 60 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3301&num=0&edition=prelim) and Tables.
+The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350. Title II of the Natural Gas Policy Act of 1978 was classified generally to subchapter II (§ 3341 et seq.) of chapter 60 of Title 15, Commerce and Trade, prior to its repeal by Pub. L. 100–42, § 2(a), May 21, 1987, 101 Stat. 314. Title IV of the Natural Gas Policy Act of 1978 is classified generally to subchapter IV (§ 3391 et seq.) of chapter 60 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3301&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Pub. L. 105–388 substituted “([15 U.S.C. 717c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717c&num=0&edition=prelim)” for “([17 U.S.C. 717c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title17-section717c&num=0&edition=prelim)”.
@@ -314,11 +314,11 @@ The Natural Gas Policy Act of 1978, referred to in text, is Pub. L. 95–621, No
 #### References in Text
 [Section 8216 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8216&num=0&edition=prelim), referred to in subsec. (b), was omitted from the Code pursuant to [section 8229 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8229&num=0&edition=prelim), which terminated authority under that section June 30, 1989.
 
-The Sherman Act ([15 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) et seq.), referred to in subsec. (c)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
+The Sherman Act ([15 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) et seq.), referred to in subsec. (c)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
-The Clayton Act ([15 U.S.C. 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) et seq.), referred to in subsec. (c)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
+The Clayton Act ([15 U.S.C. 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) et seq.), referred to in subsec. (c)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
 
-The Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.), referred to in subsec. (c)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act ([15 U.S.C. 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section41&num=0&edition=prelim) et seq.), referred to in subsec. (c)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 
 <a id="section-8235g"></a>
@@ -1151,6 +1151,9 @@ Subsec. (d)(3) to (5). Pub. L. 102–486, § 152(c)(4), (5), added pars. (3) and
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
 
+#### Wage Rate Requirements
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
+
 #### Reporting Baseline
 Pub. L. 109–58, title I, § 102(a)(2), Aug. 8, 2005, 119 Stat. 606, provided that: “The energy reduction goals and baseline established in paragraph (1) of section 543(a) of the National Energy Conservation Policy Act ([42 U.S.C. 8253(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8253/a/1&num=0&edition=prelim)), as amended by this subsection, supersede all previous goals and baselines under such paragraph, and related reporting requirements.”
 
@@ -1201,11 +1204,11 @@ The President shall transmit to the Congress, along with each budget that is sub
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy and Conservation Act, referred to in par. (2), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
+The Energy Policy and Conservation Act, referred to in par. (2), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, which is classified principally to chapter 77 (§ 6201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201) and Tables.
 
 Executive Order 12003, referred to in par. (2), is Ex. Ord. No. 12003, July 20, 1977, 42 F.R. 37523 which amended Ex. Ord. No. 11912, April 13, 1976, 41 F.R. 15825, set out as a note under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201).
 
-Executive Order 12759, referred to in par. (2), is Ex. Ord. No. 12759, April 17, 1991, 56 F.R. 16257, as amended, which was set out as a note under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201), prior to revocation by Ex. Ord. No. 13123, § 604, June 3, 1999, 64 F.R. 30859, formerly set out as a note under [section 8251 of this title](./chapter-091-national-energy-conservation-policy.md#section-8251).
+Executive Order 12759, referred to in par. (2), is Ex. Ord. No. 12759, April 17, 1991, 56 F.R. 16257, which was set out as a note under [section 6201 of this title](./chapter-077-energy-conservation.md#section-6201), prior to revocation by Ex. Ord. No. 13123, § 604, June 3, 1999, 64 F.R. 30859, formerly set out as a note under [section 8251 of this title](./chapter-091-national-energy-conservation-policy.md#section-8251).
 
 #### Amendments
 1992—Pub. L. 102–486 amended section generally. Prior to amendment, section read as follows: “Each agency, in support of the President’s annual budget request to the Congress, shall specifically set forth and identify funds requested for energy conservation measures.”
@@ -1879,7 +1882,7 @@ Sections 2 and 11(2) of the Inspector General Act of 1978, referred to in subsec
 
 Section 8E as established by section 8E(a)(2) of the Inspector General Act Amendments of 1988, referred to in subsec. (a), probably means section 8E of the Inspector General Act of 1978, Pub. L. 95–452, as added by Pub. L. 100–504, title I, § 104(a), Oct. 18, 1988, 102 Stat. 2522. Section 8E of the Inspector General Act of 1978 was successively renumbered section 8F by Pub. L. 103–82, title II, § 202(g)(1), Sept. 21, 1993, 107 Stat. 889, then section 8G by Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5.
 
-The National Energy Conservation Policy Act, referred to in subsecs. (a)(1) and (c), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 3 of title V of the Act is classified generally to part B (§ 8251 et seq.) of subchapter III of chapter 91 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
+The National Energy Conservation Policy Act, referred to in subsecs. (a)(1) and (c), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206. Part 3 of title V of the Act is classified generally to part B (§ 8251 et seq.) of subchapter III of chapter 91 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
 
 This subtitle, referred to in subsec. (c), is subtitle F (§§ 151–168) of title I of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2843, which enacted this section and sections 8258a, 8258b, 8262a to 8262k of this title, amended sections 8252 to 8256, 8258, 8259, 8287, and 8287c of this title and section 490 of former Title 40, Public Buildings, Property, and Works, enacted provisions set out as notes under [section 8262h of this title](./chapter-091-national-energy-conservation-policy.md#section-8262h) and former [section 1815 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1815&num=0&edition=prelim), The Congress, and repealed provisions set out as a note under [section 8253 of this title](./chapter-091-national-energy-conservation-policy.md#section-8253). For complete classification of subtitle F to the Code, see Tables.
 
@@ -2607,7 +2610,7 @@ The Secretary in fiscal year 1999 and thereafter, shall continue the process beg
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy Act of 1992, referred to in text, is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
+The Energy Policy Act of 1992, referred to in text, is Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 2776. For complete classification of this Act to the Code, see Short Title note set out under [section 13201 of this title](./chapter-134-energy-policy.md#section-13201) and Tables.
 
 #### Codification
 Section was enacted as part of Department of the Interior and Related Agencies Appropriations Act, 1999, and also as part of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the National Energy Conservation Policy Act which comprises this chapter.

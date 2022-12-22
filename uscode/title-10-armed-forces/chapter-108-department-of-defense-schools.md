@@ -577,7 +577,7 @@ Pub. L. 107–107, div. A, title V, § 528(b), Dec. 28, 2001, 115 Stat. 1103, pr
 #### Amendments
 2021—Pub. L. 117–81, § 556(a)(1), substituted “Associate or Bachelor” for “Associate” in section catchline.
 
-Subsec. (a). Pub. L. 117–81, § 556(a)(2), amended subsec. (a). generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b), the Commandant of the Defense Language Institute may confer an Associate of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree.”
+Subsec. (a). Pub. L. 117–81, § 556(a)(2), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to subsection (b), the Commandant of the Defense Language Institute may confer an Associate of Arts degree in a foreign language upon any graduate of the Foreign Language Center of the Institute who fulfills the requirements for that degree.”
 
 
 <a id="section-2169"></a>

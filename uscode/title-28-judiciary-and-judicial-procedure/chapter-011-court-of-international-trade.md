@@ -83,7 +83,7 @@ A provision for monthly salary payments was omitted since time of payment is a m
 Changes were made in phraseology.
 
 #### References in Text
-Section 225 of the Federal Salary Act of 1967, referred to in text, is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, as amended, which is classified to chapter 11 (§ 351 et seq.) of Title 2, The Congress.
+Section 225 of the Federal Salary Act of 1967, referred to in text, is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, which is classified to chapter 11 (§ 351 et seq.) of Title 2, The Congress.
 
 #### Amendments
 1980—Pub. L. 96–417 substituted “Judges of the Court of International Trade” for “Judge of the Customs Court”.

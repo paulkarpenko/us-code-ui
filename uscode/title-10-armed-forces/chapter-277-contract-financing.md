@@ -18,12 +18,12 @@ source: >-
 
 (1) **Prime contractors.—** — For a prime contractor (as defined in [section 8701 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8701&num=0&edition=prelim)) that is a small business concern (as defined in section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim))), the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due.
 
-(2) **Subcontractors.—** — For a prime contractor that subcontracts with a small business concern, the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if the prime contractor agrees or proposes to make payments to the subcontractor in accordance with the accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to the subcontractor.
+(2) **Subcontractors.—** — For a prime contractor that subcontracts with a small business concern, the Secretary of Defense shall, to the fullest extent permitted by law, establish an accelerated payment date with a goal of 15 days after receipt of a proper invoice for the amount due if the prime contractor agrees to make payments to the subcontractor in accordance with the accelerated payment date, to the maximum extent practicable, without any further consideration from or fees charged to the subcontractor.
 
 ### Statutory Notes
 
 #### Codification
-The text of subsec. (a) of [section 2307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1834(b), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, § 9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 103–355, title II, § 2001(a)(2), (c), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 115–232, div. A, title VIII, § 852, Aug. 13, 2018, 132 Stat. 1884; Pub. L. 116–92, div. A, title XVII, § 1731(a)(40), Dec. 20, 2019, 133 Stat. 1814; Pub. L. 116–283, div. A, title VIII, § 815, Jan. 1, 2021, 134 Stat. 3750.
+The text of subsec. (a) of [section 2307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1834(b), was based on act Aug. 10, 1956, ch. 1041, 70A Stat. 131; Pub. L. 85–800, § 9, Aug. 28, 1958, 72 Stat. 967; Pub. L. 103–355, title II, § 2001(a)(2), (c), Oct. 13, 1994, 108 Stat. 3301, 3302; Pub. L. 115–232, div. A, title VIII, § 852, Aug. 13, 2018, 132 Stat. 1884; Pub. L. 116–92, div. A, title XVII, § 1731(a)(40), Dec. 20, 2019, 133 Stat. 1814; Pub. L. 116–283, div. A, title VIII, § 815, Jan. 1, 2021, 134 Stat. 3750; Pub. L. 117–81, div. A, title VIII, § 814, Dec. 27, 2021, 135 Stat. 1823.
 
 #### Amendments
 2021—Subsec. (a). Pub. L. 116–283, § 1834(b)(1)(A), (2), transferred subsec. (a) of [section 2307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307&num=0&edition=prelim) to this section, struck out par. (1) designation before “The head of”, and redesignated subpars. (A) and (B) as pars. (1) and (2), respectively. Former par. (2) of subsec. (a) redesignated subsec. (b).
@@ -78,6 +78,9 @@ Subsec. (e). Pub. L. 116–283, § 1834(c)(2)(C), (7), after redesignation of [s
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Regulations
+Pub. L. 114–328, div. A, title VIII, § 831(b), Dec. 23, 2016, 130 Stat. 2283, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall revise the Department of Defense Federal Acquisition Regulation Supplement to conform with [section 2307(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307/b&num=0&edition=prelim), United States Code [see [10 U.S.C. 3802(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3802/a&num=0&edition=prelim)–(c), (e)], as amended by subsection (a).”
 
 
 <a id="section-3803"></a>
@@ -233,7 +236,7 @@ The text of subsec. (h) of [section 2307 of this title](https://uscode.house.gov
 2021—Pub. L. 116–283, § 1834(h), as amended by Pub. L. 117–81, § 1701(b)(13), transferred subsec. (h) of [section 2307 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307&num=0&edition=prelim) to this section, struck out subsec. (h) designation and heading “Vesting of Title in the United States” at beginning, and substituted “[section 3801(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3801/a&num=0&edition=prelim)” for “subsection (a)(1)”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -293,7 +296,7 @@ Subsec. (b). Pub. L. 116–283, § 1834(i)(3), as added by Pub. L. 117–81, § 
 Subsec. (c). Pub. L. 116–283, § 1834(i)(4), as added by Pub. L. 117–81, § 1701(n)(2), inserted heading.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

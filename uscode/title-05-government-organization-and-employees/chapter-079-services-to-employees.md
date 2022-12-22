@@ -239,9 +239,11 @@ By the authority vested in me as President by the Constitution and statutes of t
 Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt use by Federal employees, was revoked by Ex. Ord. No. 13043, § 5, formerly § 6, Apr. 16, 1997, 62 F.R. 19218, as renumbered by Ex. Ord. No. 13652, § 5, Sept. 30, 2013, 78 F.R. 61818, set out as a note under [section 402 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section402&num=0&edition=prelim), Highways.
 
 #### Extension of Term of Federal Advisory Council on Occupational Safety and Health
-Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Previous extensions of term of Federal Advisory Council on Occupational Safety and Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 

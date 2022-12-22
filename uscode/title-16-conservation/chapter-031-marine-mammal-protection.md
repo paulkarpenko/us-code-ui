@@ -548,9 +548,9 @@ The effective date of this chapter, referred to in subsec. (a), means the effect
 
 For effective date of section 4 of the International Dolphin Conservation Program Act [Pub. L. 105–42], referred to in subsec. (a)(2)(B)(i), see section 8 of Pub. L. 105–42 set out as an Effective Date of 1997 Amendment note under [section 1362 of this title](./chapter-031-marine-mammal-protection.md#section-1362).
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(4)(B), (5)(E)(i), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i)(I), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§ 916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916) and Tables.
+The Whaling Convention Act of 1949, referred to in subsec. (a)(5)(A)(i)(I), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, which is classified generally to subchapter II (§ 916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916) and Tables.
 
 Act of November 7, 1986, referred to in subsec. (a)(5)(E)(vi), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended [section 718b of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718b) and provisions listed in a table of National Wildlife Refuges set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd) and enacted provisions set out as a note under [section 1536 of this title](./chapter-035-endangered-species.md#section-1536). For complete classification of this Act to the Code, see Tables.
 
@@ -1040,7 +1040,7 @@ A duplicate copy of the issued permit must be physically attached to the contain
 ### Statutory Notes
 
 #### References in Text
-[7 U.S.C. 2131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2131&num=0&edition=prelim) et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, as amended, known as the Animal Welfare Act, which is classified generally to chapter 54 (§ 2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2131 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2131&num=0&edition=prelim) and Tables.
+[7 U.S.C. 2131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2131&num=0&edition=prelim) et seq., referred to in subsec. (c)(2)(A)(ii), is the classification for Pub. L. 89–544, Aug. 24, 1966, 80 Stat. 350, known as the Animal Welfare Act, which is classified generally to chapter 54 (§ 2131 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2131 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2131&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2003—Subsec. (c)(5)(D). Pub. L. 108–108, which directed the substitution of “February 18, 1997” for “April 30, 1994” in “Section 104 ([16 U.S.C. 1374](./chapter-031-marine-mammal-protection.md#section-1374))” without indicating the act to be amended, was executed by amending this section, which is section 104 of the Marine Mammal Protection Act of 1972, to reflect the probable intent of Congress.
@@ -2178,7 +2178,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1387"></a>
@@ -2505,11 +2505,11 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (f)(11), and (g)(1)(C)(iii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (f)(11), and (g)(1)(C)(iii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended [section 718b of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718b) and provisions set out as a table of National Wildlife Refuges under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd) and enacted provisions set out as a note under [section 1536 of this title](./chapter-035-endangered-species.md#section-1536). For complete classification of this Act to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1996—Subsecs. (a)(1), (c)(2)(B)(ii), (l). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802 and 1824(b) of this title.
@@ -2771,9 +2771,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
-The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, as amended, which is classified generally to subchapter II (§ 916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916) and Tables.
+The Whaling Convention Act of 1949, referred to in subsec. (a)(1), is act Aug. 9, 1950, ch. 653, 64 Stat. 421, which is classified generally to subchapter II (§ 916 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 916 of this title](./chapter-014-regulation-of-whaling.md#section-916) and Tables.
 
-The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, as amended, which is classified generally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1151 of this title](./chapter-024-conservation-and-protection-of-north-pacific-fur-seals.md#section-1151) and Tables.
+The Fur Seal Act of 1966, referred to in subsec. (a)(1), is Pub. L. 89–702, Nov. 2, 1966, 80 Stat. 1091, which is classified generally to chapter 24 (§ 1151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1151 of this title](./chapter-024-conservation-and-protection-of-north-pacific-fur-seals.md#section-1151) and Tables.
 
 [Section 1404 of this title](./chapter-031-marine-mammal-protection.md#section-1404), referred to in subsec. (b), was omitted from the Code.
 
@@ -3035,7 +3035,7 @@ For effective date of section, see section 8 of Pub. L. 105–42, set out as an 
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act, referred to in subsec. (a)(2)(A), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Prior Provisions
 A prior section 1413, Pub. L. 92–522, title III, § 303, as added Pub. L. 102–523, § 2(a), Oct. 26, 1992, 106 Stat. 3426, related to research programs prior to repeal by Pub. L. 105–42, § 6(c), Aug. 15, 1997, 111 Stat. 1130.
@@ -3414,7 +3414,7 @@ Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-1421d"></a>

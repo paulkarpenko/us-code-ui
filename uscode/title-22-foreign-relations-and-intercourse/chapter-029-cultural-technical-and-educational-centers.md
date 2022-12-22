@@ -103,7 +103,7 @@ Sections, Pub. L. 86–472, ch. VIII, §§ 801, 802, May 14, 1960, 75 Stat. 142,
 ### Statutory Notes
 
 #### References in Text
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsecs. (b) and (d), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in subsecs. (b) and (d), is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, which is classified principally to chapter 33 (§ 2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Codification
 Section is comprised of section 208 of Pub. L. 102–138. Subsec. (f) of section 208 of Pub. L. 102–138 repealed a prior [section 2075 of this title](./chapter-029-cultural-technical-and-educational-centers.md#section-2075). See Prior Provisions note below.
@@ -150,7 +150,7 @@ United States Information Agency (other than Broadcasting Board of Governors and
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (e), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 1 of part I and chapter 4 of part II of the Act are classified generally to part I (§ 2151 et seq.) of subchapter I and part IV (§ 2346 et seq.) of subchapter II, respectively, of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 2008—Subsec. (d). Pub. L. 110–246 made technical amendment to reference in original act which appears in text as reference to [section 1738m of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1738m&num=0&edition=prelim).

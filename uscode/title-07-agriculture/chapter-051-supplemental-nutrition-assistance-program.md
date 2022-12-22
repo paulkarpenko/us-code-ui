@@ -1203,7 +1203,7 @@ In no event shall the standards of eligibility for the Virgin Islands of the Uni
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a), (d)(5), (11), (12), (16), (18), (f)(4), (g)(2)(D), (6)(A)(i), (j), (k)(1)(A), and (n), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles I, II, IV, X, XIV, XVI, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), IV (§ 601 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a), (d)(5), (11), (12), (16), (18), (f)(4), (g)(2)(D), (6)(A)(i), (j), (k)(1)(A), and (n), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles I, II, IV, X, XIV, XVI, and XIX of the Social Security Act are classified generally to subchapters I (§ 301 et seq.), II (§ 401 et seq.), IV (§ 601 et seq.), X (§ 1201 et seq.), XIV (§ 1351 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Parts A and D of title IV of the Act are classified generally to parts A (§ 601 et seq.) and D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 [Section 3507 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3507&num=0&edition=prelim), referred to in subsec. (d)(13), was repealed by Pub. L. 111–226, title II, § 219(a)(1), Aug. 10, 2010, 124 Stat. 2403.
 
@@ -3566,7 +3566,7 @@ Pub. L. 94–4, Feb. 20, 1975, 89 Stat. 6, provided that notwithstanding the pro
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1305) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -3765,7 +3765,7 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 
     (ii) whether such facilities, programs, and arrangements should continue to be authorized to participate in the supplemental nutrition assistance program.
 
-(2) **Limitation** — Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution prior to December 31, 2021.
+(2) **Limitation** — Nothing in this subsection shall authorize the Secretary to deny any application for continued authorization, any application for authorization, or any request to withdraw the authorization of any such facility, program, or arrangement based on a determination that residents of any such facility or entity are residents of an institution prior to December 31, 2022.
 
 **(j) Incentives**
 
@@ -3796,12 +3796,14 @@ Pub. L. 95–113, title XIII, § 1301, Sept. 29, 1977, 91 Stat. 958, provided th
 ### Statutory Notes
 
 #### References in Text
-That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, as amended, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) and Tables.
+That Act, meaning the Child Nutrition Act of 1966, referred to in subsec. (c), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1771&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (i)(2). Pub. L. 117–103 substituted “December 31, 2022” for “December 31, 2021”.
+
 2020—Subsec. (i)(2). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (i)(2). Pub. L. 116–94 substituted “prior to December 31, 2020” for “for a period of 18 months from December 20, 2018”.
@@ -3919,7 +3921,7 @@ Regulations issued pursuant to this chapter shall provide for the redemption of 
 ### Statutory Notes
 
 #### References in Text
-The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) and Tables.
+The Federal Credit Union Act, referred to in text, is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1751 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1751&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -7830,9 +7832,9 @@ Pub. L. 97–35, title I, § 116(b), Aug. 13, 1981, 95 Stat. 366, provided for a
 ### Statutory Notes
 
 #### References in Text
-The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (a)(1), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title IV of the Act is classified generally to subchapter IV (§ 601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title IV of the Act is classified generally to subchapter IV (§ 601 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -8112,7 +8114,7 @@ Repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the dat
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a), (b)(2), (3)(A), (B)(ii), (iii), (C)(ii), (iii), (5), (7), and (g)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part F of title IV of the Act was classified generally to part F (§ 681 et seq.) of subchapter IV of chapter 7 of Title 42, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 482 of the Social Security Act, referred to in subsec. (b)(11), was classified to [section 682 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section682&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167.
 
@@ -8491,7 +8493,7 @@ Pub. L. 107–171, title IV, § 4125(b), May 13, 2002, 116 Stat. 327, provided t
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (c) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (c) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

@@ -367,11 +367,11 @@ This section also contains an alternate procedure for the collection of a civil 
 
 Subsec. (f)(1). Pub. L. 98–557, § 8(c), inserted provisions relating to advice by the Secretary or manufacturer of the vessel, equipment or component respecting defects creating substantial risk of personal injury to the public.
 
-#### Effective Date of 2021 Amendment
-Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8316(c), Jan. 1, 2021, 134 Stat. 4700, provided that: “The amendments made in subsections (a) and (b) [amending this section and [section 4312 of this title](./chapter-043-recreational-vessels.md#section-4312)] shall take effect 90 days after the date of the enactment of this section [Jan. 1, 2021], unless the Commandant [of the Coast Guard], prior to the date that is 90 days after the date of the enactment of this section, determines that the use requirement enacted in subsection (a) [see [section 4312(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4312/b&num=0&edition=prelim)] would not promote recreational boating safety.”
-
 #### Change of Name
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (d) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
+
+#### Effective Date of 2021 Amendment
+Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8316(c), Jan. 1, 2021, 134 Stat. 4700, provided that: “The amendments made in subsections (a) and (b) [amending this section and [section 4312 of this title](./chapter-043-recreational-vessels.md#section-4312)] shall take effect 90 days after the date of the enactment of this section [Jan. 1, 2021], unless the Commandant [of the Coast Guard], prior to the date that is 90 days after the date of the enactment of this section, determines that the use requirement enacted in subsection (a) [see [section 4312(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4312/b&num=0&edition=prelim)] would not promote recreational boating safety.”
 
 
 <a id="section-4312"></a>

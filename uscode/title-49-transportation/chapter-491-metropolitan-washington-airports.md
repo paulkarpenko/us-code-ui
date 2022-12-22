@@ -42,7 +42,7 @@ Congress finds that—
 In clause (4), the word “authority” is substituted for “agency” for consistency in the revised title and with other titles of the United States Code.
 
 #### References in Text
-The Airline Deregulation Act of 1978, referred to in par. (4), is Pub. L. 95–504, Oct. 24, 1978, 92 Stat. 1705, as amended, which was classified principally to sections of former Title 49, Transportation. The Act was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+The Airline Deregulation Act of 1978, referred to in par. (4), is Pub. L. 95–504, Oct. 24, 1978, 92 Stat. 1705, which was classified principally to sections of former Title 49, Transportation. The Act was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
 #### Prior Provisions
 A prior section 49101 was renumbered [section 50101 of this title](./chapter-501-buy-american-preferences.md#section-50101).
@@ -207,7 +207,7 @@ In subsection (b), the text of section 6005(b)(2) of the Metropolitan Washington
 #### References in Text
 Section 6005(a) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (a), is section 6005(a) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–375, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–378, which was classified to section 2454(a) of former Title 49, Transportation, and was repealed and reenacted as subsec. (a) of this section by Pub. L. 105–102, §§ 2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217.
 
-The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, as amended, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as subchapter I of chapter 471 of Title 49, Transportation.
+The Airport and Airway Improvement Act of 1982, referred to in subsec. (a)(3), is title V of Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 671, which was classified principally to chapter 31 (§ 2201 et seq.) of former Title 49, Transportation, and was substantially repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as subchapter I of chapter 471 of Title 49, Transportation.
 
 #### Prior Provisions
 A prior section 49104 was renumbered [section 50104 of this title](./chapter-501-buy-american-preferences.md#section-50104).

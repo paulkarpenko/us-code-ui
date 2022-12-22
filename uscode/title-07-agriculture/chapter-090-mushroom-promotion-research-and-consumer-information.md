@@ -37,7 +37,7 @@ source: >-
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of subtitle B of title XIX of Pub. L. 101–624, which enacted this chapter (sections 6101 et seq.), see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of subtitle B of title XIX of Pub. L. 101–624, which enacted this chapter (sections 6101 et seq.), see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Short Title
 Pub. L. 101–624, title XIX, § 1921, Nov. 28, 1990, 104 Stat. 3854, provided that: “This subtitle [subtitle B (§§ 1921–1933) of title XIX of Pub. L. 101–624, enacting this chapter] may be cited as the ‘Mushroom Promotion, Research, and Consumer Information Act of 1990’.”
@@ -256,7 +256,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, as amended, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) and Tables.
+The Agricultural Marketing Act of 1946, referred to in subsec. (h), is title II of act Aug. 14, 1946, ch. 966, 60 Stat. 1087, which is classified generally to chapter 38 (§ 1621 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1621 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1621) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

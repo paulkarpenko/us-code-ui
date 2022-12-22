@@ -633,7 +633,7 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 <a id="section-20324"></a>
 ## § 20324. Authorization of appropriations
-**(a) Authorization** There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2014 through 2018.
+**(a) Authorization** There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2023 through 2027.
 
 **(b) Limitation** No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5611&num=0&edition=prelim) et seq.) 11 See References in Text note below. for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
 
@@ -648,6 +648,8 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 Section was formerly classified to [section 13014 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13014&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–103 substituted “2023 through 2027” for “2014 through 2018”.
+
 2013—Subsec. (a). Pub. L. 113–4 substituted “fiscal years 2014 through 2018” for “fiscal years 2007 through 2011”.
 
 2006—Subsec. (a). Pub. L. 109–162, § 112(e)(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There is authorized to be appropriated to carry out this subchapter $12,000,000 for each of fiscal years 2001 through 2005.”
@@ -671,6 +673,9 @@ Subsec. (c). Pub. L. 109–162, § 112(e)(2), added subsec. (c).
 “(1) $5,000,000 in fiscal year 1991; and
 
 “(2) such sums as may be necessary to carry out this subchapter in each of fiscal years 1992, 1993, and 1994.”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under [section 2261 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2261&num=0&edition=prelim), Crimes and Criminal Procedure.
@@ -780,11 +785,11 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 <a id="section-20334"></a>
 ## § 20334. Authorization of appropriations
-**(a) Authorization** There is authorized to be appropriated to carry out this subchapter $2,300,000 for each of fiscal years 2014 through 2018.
+**(a) Authorization** There is authorized to be appropriated to carry out this subchapter $2,300,000 for each of fiscal years 2023 through 2027 11 So in original. Probably should be followed by a period.
 
 **(b) Use of funds** Of the amounts appropriated in subsection (a), not less than 80 percent shall be used for grants under [section 20333(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20333/b&num=0&edition=prelim).
 
-**(c) Limitation** No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5611&num=0&edition=prelim) et seq.) 11 See References in Text note below. for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
+**(c) Limitation** No funds are authorized to be appropriated for a fiscal year to carry out this subchapter unless the aggregate amount appropriated to carry out title II of the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5611&num=0&edition=prelim) et seq.) 22 See References in Text note below. for such fiscal year is not less than the aggregate amount appropriated to carry out such title for the preceding fiscal year.
 
 ### Statutory Notes
 
@@ -795,6 +800,8 @@ The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subs
 Section was formerly classified to [section 13024 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13024&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–103 substituted “subchapter $2,300,000 for each of fiscal years 2023 through 2027” for “subchapter $2,300,000 for each of fiscal years 2014 through 2018.”
+
 2013—Subsec. (a). Pub. L. 113–4 substituted “$2,300,000 for each of fiscal years 2014 through 2018.” for “$2,300,000 for each of fiscal years 2001 through 2005.”
 
 2000—Subsec. (a). Pub. L. 106–386 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “There are authorized to be appropriated to carry out this subchapter—
@@ -814,6 +821,9 @@ Section was formerly classified to [section 13024 of Title 42](https://uscode.ho
 “(1) $10,000,000 in fiscal year 1991; and
 
 “(2) such sums as may be necessary to carry out this chapter in each of fiscal years 1992, 1993, and 1994.”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-20341"></a>

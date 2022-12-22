@@ -167,7 +167,7 @@ Pub. L. 116–283, div. E, § 5001, Jan. 1, 2021, 134 Stat. 4523, provided that:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (d) and (e), was in the original “this division”, meaning div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to this chapter. For complete classification of div. E to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsecs. (d) and (e), was in the original “this division”, meaning div. E of Pub. L. 116–283, Jan. 1, 2021, 134 Stat. 4523, which is classified principally to this chapter. For complete classification of div. E to the Code, see Short Title note set out under [section 9401 of this title](./chapter-119-national-artificial-intelligence-initiative.md#section-9401) and Tables.
 
 [50 U.S.C. 3003](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim), referred to in subsec. (d)(1), was so in the original, but probably should have been a reference to section 3 of the National Security Act of 1947, act July 26, 1947, ch. 343, which is classified to [section 3003 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003&num=0&edition=prelim), War and National Defense.
 

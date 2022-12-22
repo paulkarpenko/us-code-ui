@@ -1125,9 +1125,9 @@ Pub. L. 105–178, title I, § 1214(a), June 9, 1998, 112 Stat. 204, provided th
 #### References in Text
 The John F. Kennedy Center Act Amendments of 1994, referred to in subsec. (c), is Pub. L. 103–279, July 21, 1994, 108 Stat. 1409, which enacted sections 76r and 76s of this title, amended this section, sections 76h, 76j, 76l, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, and enacted and amended provisions set out as notes under [section 76h of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76h). For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 76h of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76h) and Tables.
 
-The National Labor Relations Act, referred to in subsec. (f)(2), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
+The National Labor Relations Act, referred to in subsec. (f)(2), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
 
-The Labor Management Relations Act, 1947, referred to in subsec. (f)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§ 141 et seq.) of Title 29. For complete classification of this Act to the Code, see [section 141 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section141&num=0&edition=prelim) and Tables.
+The Labor Management Relations Act, 1947, referred to in subsec. (f)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of Title 29. For complete classification of this Act to the Code, see [section 141 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section141&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1997—Subsec. (g). Pub. L. 105–95 added subsec. (g).
@@ -1166,7 +1166,7 @@ Subsecs. (d) to (f). Pub. L. 103–279, § 4(c), added subsecs. (d) to (f).
 #### References in Text
 [Section 76r of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-76r), referred to in subsec. (d), was in the original a reference to section 12 of Pub. L. 85–874. Section 12 of Pub. L. 85–874 was renumbered as section 13, and a new section 12 was added, by Pub. L. 107–224, § 2, Sept. 18, 2002, 116 Stat. 1340. Sections 12 and 13 are classified to sections 76q–1 and 76r, respectively, of this title.
 
-The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1998—Subsecs. (d) to (f). Pub. L. 105–226 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “Not less than once every 3 years, the Comptroller General shall review and audit the accounts of the John F. Kennedy Center for the Performing Arts for the purpose of examining expenditures of funds appropriated under the authority provided by this subchapter.”
@@ -2159,7 +2159,7 @@ for each day (including travel time) during which they are engaged in the perfor
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1996—Subsec. (a). Pub. L. 104–278, § 5(1), in first sentence, inserted “and unassociated funerary objects, sacred objects, and objects of cultural patrimony under [section 80q–9a of this title](./chapter-003-smithsonian-institution-national-museums-and-art-galleries.md#section-80q-9a)” before period.
@@ -2854,7 +2854,7 @@ Authority under this subchapter to enter into contracts or to make payments shal
 ### Statutory Notes
 
 #### References in Text
-The Congressional Budget Act, referred to in section catchline, probably means the Congressional Budget Act of 1974, which is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
+The Congressional Budget Act, referred to in section catchline, probably means the Congressional Budget Act of 1974, which is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim), The Congress, and Tables.
 
 
 <a id="section-80r-8"></a>

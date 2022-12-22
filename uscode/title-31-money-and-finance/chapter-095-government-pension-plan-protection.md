@@ -73,7 +73,7 @@ In clause (1), before subclause (A), the word “Federal” is omitted as unnece
 In clause (2), 31:68d(1st sentence) is omitted as executed. The definition in 31:68d(last sentence) is made applicable to the chapter for clarity because the defined term is used in 9503(a)(1)(B) of the revised title.
 
 #### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in par. (1)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in par. (1)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1986—Par. (1)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.

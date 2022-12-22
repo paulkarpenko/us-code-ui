@@ -71,7 +71,7 @@ For purposes of this chapter:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–398, Oct. 7, 1980, 94 Stat. 1564, as amended, known as the Mental Health Systems Act, which enacted this chapter, amended sections 210, 225a, 229b, 242a, 246, 289k–1, 300l–2, 300m–2, 1396b, 2689a to 2689c, 2689e, 2689g, and 2689h of this title, repealed [section 2689q of this title](./chapter-033-community-mental-health-centers.md#section-2689q), and enacted provisions set out as notes under sections 242a, 246, 289k–1, and 2689b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9401 of this title](./chapter-102-mental-health-systems.md#section-9401) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–398, Oct. 7, 1980, 94 Stat. 1564, known as the Mental Health Systems Act, which enacted this chapter, amended sections 210, 225a, 229b, 242a, 246, 289k–1, 300l–2, 300m–2, 1396b, 2689a to 2689c, 2689e, 2689g, and 2689h of this title, repealed [section 2689q of this title](./chapter-033-community-mental-health-centers.md#section-2689q), and enacted provisions set out as notes under sections 242a, 246, 289k–1, and 2689b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9401 of this title](./chapter-102-mental-health-systems.md#section-9401) and Tables.
 
 #### Amendments
 1981—Pub. L. 97–35 redesignated former par. (5) as (3). Former pars. (3), (4), (6), and (7), which defined “State mental health authority”, “mental health service area”, “priority population group”, and “Governor”, respectively, were struck out.

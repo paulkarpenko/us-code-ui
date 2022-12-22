@@ -386,7 +386,7 @@ except that no actions, plans or programs hereunder shall be inconsistent with e
 ### Statutory Notes
 
 #### References in Text
-The Older Americans Act, referred to in subsec. (g), probably means the Older Americans Act of 1965, Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
+The Older Americans Act, referred to in subsec. (g), probably means the Older Americans Act of 1965, Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001) and Tables.
 
 #### Codification
 In subsec. (b)(2), “[section 44715 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44715&num=0&edition=prelim)” substituted for reference to section 7 of this Act, meaning section 7 of Pub. L. 92–574, which generally amended section 611 of the Federal Aviation Act of 1958 (49 App. U.S.C. 1431), on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
@@ -556,7 +556,7 @@ Subsecs. (c) to (e). Pub. L. 117–58, § 22423(a), added subsec. (c) and redesi
 ### Statutory Notes
 
 #### References in Text
-The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, as amended, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, § 7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
+The Department of Transportation Act, referred to in subsec. (b), is Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which was classified principally to sections 1651 to 1660 of former Title 49, Transportation. The Act was repealed and the provisions thereof reenacted in Title 49, Transportation, by Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2413, and Pub. L. 103–272, July 5, 1994, 108 Stat. 745. The Act was also repealed by Pub. L. 104–287, § 7(5), Oct. 11, 1996, 110 Stat. 3400. For disposition of sections of former Title 49, see Table at the beginning of Title 49.
 
 #### Codification
 In subsec. (b), “subtitle IV of title 49” substituted for “the Interstate Commerce Act [[49 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1&num=0&edition=prelim) et seq.]” on authority of Pub. L. 95–473, § 3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.

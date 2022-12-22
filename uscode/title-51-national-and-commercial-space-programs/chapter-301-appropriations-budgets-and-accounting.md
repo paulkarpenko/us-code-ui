@@ -168,9 +168,11 @@ In subsection (c), in the matter before paragraph (1), the words “For fiscal y
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Estimates of Receipts and Collections and Proposed Use of Funds From Leases of Non-Excess Property
-Pub. L. 116–260, div. B, title III, Dec. 27, 2020, 134 Stat. 1270, provided in part: “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to [section 20145 of title 51](./chapter-201-national-aeronautics-and-space-program.md#section-20145), United States Code.”
+Pub. L. 117–103, div. B, title III, Mar. 15, 2022, 136 Stat. 137, provided in part: “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to [section 20145 of title 51](./chapter-201-national-aeronautics-and-space-program.md#section-20145), United States Code.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. B, title III, Dec. 27, 2020, 134 Stat. 1270.
 
 Pub. L. 116–93, div. B, title III, Dec. 20, 2019, 133 Stat. 2418.
 

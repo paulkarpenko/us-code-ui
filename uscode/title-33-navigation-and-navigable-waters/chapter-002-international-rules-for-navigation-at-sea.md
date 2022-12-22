@@ -267,7 +267,7 @@ Section 147b, act Oct. 11, 1951, ch. 495, § 6, Pt. D, 65 Stat. 420, related to 
 
 Section 147c, act Oct. 11, 1951, ch. 495, § 6, Pt. D, 65 Stat. 420, related to distress signals.
 
-Section 147d, act Oct. 11, 1951, ch. 495, § 6, Pt. D, 65 Stat. 420, related to orders to helmsmen, and has been omitted.
+Section 147d, act Oct. 11, 1951, ch. 495, § 6, Pt. D, 65 Stat. 420, related to orders to helmsmen.
 
 #### Effective Date of Repeal
 Repeal effective Sept. 1, 1963, see Proc. No. 3632, Dec. 29, 1964, 29 F.R. 19167, and section 3 of Pub. L. 88–131, both set out as notes under [section 1051 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1051&num=0&edition=prelim).

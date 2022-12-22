@@ -184,7 +184,7 @@ In order to carry out the national tourism policy established in [section 2121(b
 ### Statutory Notes
 
 #### References in Text
-The United States National Tourism Organization Act of 1996, referred to in text, is Pub. L. 104–288, Oct. 11, 1996, 110 Stat. 3407, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 2121 of this title](./chapter-031-international-travel.md#section-2121) and Tables.
+The United States National Tourism Organization Act of 1996, referred to in text, is Pub. L. 104–288, Oct. 11, 1996, 110 Stat. 3407. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 2121 of this title](./chapter-031-international-travel.md#section-2121) and Tables.
 
 #### Amendments
 1996—Pub. L. 104–288 amended section generally to narrow tourism-related duties of Secretary of Commerce, in view of creation of United States National Tourism Organization, with Secretary to focus on critical promotion functions which, in determination of Secretary, are not being carried out by new Organization or other private sector or State entities.

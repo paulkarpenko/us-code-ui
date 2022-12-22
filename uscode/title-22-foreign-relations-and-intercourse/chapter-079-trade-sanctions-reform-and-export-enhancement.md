@@ -289,13 +289,13 @@ The Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in te
 
 Executive Order No. 12947, referred to in par. (1), is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
 
-The Antiterrorism and Effective Death Penalty Act of 1996, referred to in par. (2), is Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 1 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
+The Antiterrorism and Effective Death Penalty Act of 1996, referred to in par. (2), is Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under [section 1 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
 
 Executive Order No. 13224, referred to in par. (3), is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
 
 Executive Order No. 12978, referred to in par. (4), is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
 
-The Foreign Narcotics Kingpin Designation Act, referred to in par. (4), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, as amended, which is classified principally to chapter 24 (§ 1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1901&num=0&edition=prelim) and Tables.
+The Foreign Narcotics Kingpin Designation Act, referred to in par. (4), is title VIII of Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1626, which is classified principally to chapter 24 (§ 1901 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1901&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 or USA PATRIOT Act, and not as part of the Trade Sanctions Reform and Export Enhancement Act of 2000 which comprises this chapter.

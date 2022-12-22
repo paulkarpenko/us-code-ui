@@ -13,6 +13,9 @@ In recognition of the demonstrated relationship between food and good nutrition 
 
 ### Statutory Notes
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–129, § 1, May 21, 2022, 136 Stat. 1225, provided that: “This Act [amending [section 1786 of this title](./chapter-13a-child-nutrition.md#section-1786)] may be cited as the ‘Access to Baby Formula Act of 2022’.”
+
 #### Short Title of 2008 Amendment
 Pub. L. 110–247, § 1, June 20, 2008, 122 Stat. 2314, provided that: “This Act [enacting [section 1792 of this title](./chapter-13a-child-nutrition.md#section-1792) and provisions set out as notes under [section 1792 of this title](./chapter-13a-child-nutrition.md#section-1792)] may be cited as the ‘Federal Food Donation Act of 2008’.”
 
@@ -58,7 +61,7 @@ Pub. L. 89–642, § 1, Oct. 11, 1966, 80 Stat. 885, provided: “That this Act 
 ### Statutory Notes
 
 #### References in Text
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (a)(1), (2), (5), (b), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (a)(1), (2), (5), (b), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -804,7 +807,7 @@ The food and milk service programs in schools and nonprofit institutions receivi
 ### Statutory Notes
 
 #### References in Text
-The Richard B. Russell National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in text, is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
 
 #### Amendments
 2010—Pub. L. 111–296 inserted subsec. (a) heading, added subsec. (b), and struck out former subsec. (b) which related to sale of competitive foods approved by the Secretary.
@@ -916,7 +919,7 @@ For the purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in par. (7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§ 760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in par. (7), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. Title II of the Act is classified generally to subchapter II (§ 760 et seq.) of chapter 16 of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
@@ -984,7 +987,7 @@ Pub. L. 95–166, § 20, Nov. 10, 1977, 91 Stat. 1346, provided that the amendme
 ### Statutory Notes
 
 #### References in Text
-The Richard B. Russell National School Lunch Act, referred to in subsec. (b), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
 
 #### Amendments
 1999—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” in two places.
@@ -1074,6 +1077,8 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 (23) **State alliance.—** — The term “State alliance” means 2 or more State agencies that join together for the purpose of procuring infant formula under the program by soliciting competitive bids for infant formula.
 
+(24) **Supply chain disruption.—** — The term “supply chain disruption” means a shortage of supplemental foods that impedes the redemption of food instruments, as determined by the Secretary.
+
 **(c) Grants-in-aid; cash grants; ratable reduction of amount an agency may distribute; affirmative action; regulations relating to dual receipt of benefits under commodity supplemental food program**
 
 (1) The Secretary may carry out a special supplemental nutrition program to assist State agencies through grants-in-aid and other means to provide, through local agencies, at no cost, supplemental foods, nutrition education, and breastfeeding support and promotion to low-income pregnant, postpartum, and breastfeeding women, infants, and children who satisfy the eligibility requirements specified in subsection (d) of this section. The program shall be supplementary to—
@@ -1124,7 +1129,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
       (II) provided under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) for housing that is acquired or constructed under subchapter IV of chapter 169 of title 10 or any related provision of law; and
 
-    (ii) any cost-of-living allowance provided under section 475 11 See References in Text below. of title 37 to a member of a uniformed service who is on duty outside the contiguous States of the United States.
+    (ii) any cost-of-living allowance provided under section 475 11 See References in Text note below. of title 37 to a member of a uniformed service who is on duty outside the contiguous States of the United States.
 
   (C) *Combat pay.—* — For the purpose of determining income eligibility under this section, a State agency shall exclude from income any additional payment under chapter 5 of title 37, or otherwise designated by the Secretary to be appropriate for exclusion under this subparagraph, that is received by or from a member of the United States Armed Forces deployed to a designated combat zone, if the additional pay—
 
@@ -1526,7 +1531,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
       (II) may transfer the funds to local agencies for use in carrying out the program.
 
-    (iv) *Implementation.—* — The Secretary shall provide the first performance bonuses not later than 1 year after December 13, 2010, and may subsequently revise the criteria for awarding performance bonuses; and 11 So in original. The “; and” probably should be a period.
+    (iv) *Implementation.—* — The Secretary shall provide the first performance bonuses not later than 1 year after December 13, 2010, and may subsequently revise the criteria for awarding performance bonuses; and 22 So in original. The “; and” probably should be a period.
 
 (5)
 
@@ -1651,6 +1656,14 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
   (J) A State shall not incur any interest liability to the Federal Government on rebate funds for infant formula and other foods if all interest earned by the State on the funds is used for program purposes.
 
   (K) *Reporting.—* — Effective beginning October 1, 2011, each State agency shall report rebate payments received from manufacturers in the month in which the payments are received, rather than in the month in which the payments were earned.
+
+  (L) *Infant formula cost containment contract requirement.—*
+
+    (i) *In general.—* — The Secretary shall require that each infant formula cost containment contract renewed or entered into on or after May 21, 2022, includes remedies in the event of an infant formula recall, including how an infant formula manufacturer would protect against disruption to program participants in the State.
+
+    (ii) *Rebates.—* — In the case of an infant formula recall, an infant formula manufacturer contracted to provide infant formula under this section shall comply with the contract requirements under clause (i).
+
+  (M) *Memorandum of understanding.—* — Not later than 30 days after May 21, 2022, the Secretary shall ensure there is a memorandum of understanding between the Secretary and the Secretary of Health and Human Services that includes procedures to promote coordination and information sharing between the Department of Agriculture and the Department of Health and Human Services regarding any supply chain disruption, including a supplemental food recall.
 
 (9) **Cost containment measure.—**
 
@@ -1921,9 +1934,9 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 (4) As used in this subsection:
 
-  (A) The term “community health center” has the meaning given the term in section 254c(a) 22 See References in Text note below. of this title.
+  (A) The term “community health center” has the meaning given the term in section 254c(a) 1 of this title.
 
-  (B) The term “migrant health center” has the meaning given the term in section 254b(a)(1) 2 of this title.
+  (B) The term “migrant health center” has the meaning given the term in section 254b(a)(1) 1 of this title.
 
 **(k) National Advisory Council on Maternal, Infant, and Fetal Nutrition; establishment; membership; term; officers; meetings; quorum; technical assistance by Secretary**
 
@@ -2015,7 +2028,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
     (iii) demonstrated ability to satisfactorily operate the existing program; and
 
-    (iv) whether, in the case of a State that intends to use any funding provided under subparagraph (G)(i) 2 to increase the value of the Federal share of the benefits received by a recipient, the funding provided under subparagraph (G)(i) 2 will increase the rate of coupon redemption.
+    (iv) whether, in the case of a State that intends to use any funding provided under subparagraph (G)(i) 1 to increase the value of the Federal share of the benefits received by a recipient, the funding provided under subparagraph (G)(i) 1 will increase the rate of coupon redemption.
 
   (D)
 
@@ -2165,6 +2178,76 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 **(q) Provision of technical assistance to Secretary of Defense** The Secretary of Agriculture shall provide technical assistance to the Secretary of Defense, if so requested by the Secretary of Defense, for the purpose of carrying out the overseas special supplemental food program established under [section 1060a(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1060a/a&num=0&edition=prelim).
 
+**(r) Emergencies and disasters**
+
+(1) **In general** — Notwithstanding any other provision of law, during an emergency period, the Secretary may modify or waive any qualified administrative requirement for one or more State agencies if—
+
+  (A) the qualified administrative requirement cannot be met by State agencies during any portion of the emergency period under the conditions which prompted the emergency period; and
+
+  (B) the modification or waiver of such a requirement—
+
+    (i) is necessary to provide assistance under this section; and
+
+    (ii) does not substantially weaken the nutritional quality of supplemental foods provided under this section.
+
+(2) **Duration** — A waiver established under this subsection may be available for a period of not greater than the emergency period and the 60 days after the end of such emergency period.
+
+(3) **Definitions** — In this subsection:
+
+  (A) *Emergency period* — The term “emergency period” means a period during which there exists—
+
+    (i) a public health emergency declared by the Secretary of Health and Human Services under [section 247d of this title](./chapter-6a-public-health-service.md#section-247d);
+
+    (ii) any renewal of such a public health emergency pursuant to such section 247d;
+
+    (iii) a presidentially declared major disaster as defined under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122); or
+
+    (iv) a presidentially declared emergency as defined under [section 5122 of this title](./chapter-068-disaster-relief.md#section-5122).
+
+  (B) *Qualified administrative requirement* — The term “qualified administrative requirement” means a requirement under this section or a regulatory requirement issued pursuant to this section.
+
+**(s) Supply chain disruptions**
+
+(1) **In general** — Notwithstanding any other provision of law, during a supply chain disruption, including a supplemental food product recall, the Secretary may modify or waive any qualified administrative requirement for one or more State agencies if—
+
+  (A) the qualified administrative requirement cannot be met by State agencies during any portion of the supply chain disruption, including a supplemental food product recall, under the conditions which prompted such disruption or recall; and
+
+  (B) the modification or waiver of such a requirement—
+
+    (i) is necessary to provide assistance under this section; and
+
+    (ii) does not substantially weaken the nutritional quality of supplemental foods provided under this section.
+
+(2) **Waiver authority** — The Secretary may, under a waiver or modification under paragraph (1)—
+
+  (A) permit authorized vendors to exchange or substitute authorized supplemental foods obtained with food instruments beyond exchanges for an identical (exact brand and size) food item;
+
+  (B) waive any requirement with respect to medical documentation for the issuance of noncontract brand infant formula, except for the requirements for participants receiving Food Package III (as defined in section 246.10(e)(3) of title 7, Code of Federal Regulations (as in effect on May 21, 2022));
+
+  (C) waive the maximum monthly allowance for infant formula; and
+
+  (D) waive any additional qualified administrative requirement to address a supply chain disruption, including a supplemental food product recall.
+
+(3) **Duration** — A waiver or modification established under this subsection—
+
+  (A) may be—
+
+    (i) available for a period of not more than 45 days, to begin on a date determined by the Secretary; and
+
+    (ii) renewed so long as the Secretary provides notice at least 15 days before such renewal; and
+
+  (B) shall not be available after the date that is 60 days after the supply chain disruption for which such waiver is established ceases to exist.
+
+(4) **Transparency**
+
+  (A) *In general* — If the Secretary determines that a supply chain disruption exists and issues a waiver or modification under this subsection, the Secretary shall notify each State agency affected by such disruption and include with such notification an explanation of such determination.
+
+  (B) *Publication* — The Secretary shall make each determination described in subparagraph (A) publicly available on the website of the Department.
+
+  (C) *State agency requirements* — In the case of a waiver or modification under this subsection related to infant formula, a State agency notified under subparagraph (A) shall notify each infant formula manufacturer that has a contract with such State agency with respect to such notification.
+
+(5) **Qualified administrative requirement defined** — For purposes of this subsection, the term “qualified administrative requirement” has the meaning given the term in subsection (r).
+
 ### Statutory Notes
 
 #### References in Text
@@ -2192,6 +2275,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2022—Subsec. (b)(24). Pub. L. 117–129, § 2(1), added par. (24).
+
+Subsec. (h)(8)(L), (M). Pub. L. 117–129, § 2(2), added subpars. (L) and (M).
+
+Subsecs. (r), (s). Pub. L. 117–129, § 2(3), added subsecs. (r) and (s).
+
 2013—Subsec. (d)(2)(B)(ii). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
 
 2011—Subsec. (d)(2)(B)(ii). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “475” for “405”.
@@ -3311,7 +3400,7 @@ Section, Pub. L. 89–642, § 18, as added Pub. L. 94–105, § 23, Oct. 7, 1975
 ### Statutory Notes
 
 #### References in Text
-The Richard B. Russell National School Lunch Act, referred to in subsecs. (d)(1) and (h)(3)(D), (5)(B)(vi), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsecs. (d)(1) and (h)(3)(D), (5)(B)(vi), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
 
 Section 204 of the Child Nutrition and WIC Reauthorization Act of 2004, referred to in subsec. (h)(3)(C), is section 204 of Pub. L. 108–265, which is set out as a note under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751).
 

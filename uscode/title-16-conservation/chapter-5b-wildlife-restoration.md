@@ -165,7 +165,7 @@ Pub. L. 116–17, §§ 2, 3, May 10, 2019, 133 Stat. 866, 867, provided that: �
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
+The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 #### Amendments
 2015—Subsec. (b)(2)(C). Pub. L. 114–113 substituted “2026” for “2016”.
@@ -326,11 +326,11 @@ Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Ac
 Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
 
 #### Amendments
-2021—Subsec. (a)(1)(B). Pub. L. 117–58, § 28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B), which provided amounts available for fiscal years 2001 and thereafter.
+2021—Subsec. (a)(1)(B). Pub. L. 117–58, § 28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which provided amounts available for fiscal years 2001 and thereafter.
 
 Subsec. (a)(2)(A). Pub. L. 117–58, § 28001(b)(1)(B)(i), inserted “subsequent” before “fiscal year.”
 
-Subsec. (a)(2)(B). Pub. L. 117–58, § 28001(b)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B), which related to apportionment of unobligated amounts.
+Subsec. (a)(2)(B). Pub. L. 117–58, § 28001(b)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which related to apportionment of unobligated amounts.
 
 2019—Subsec. (c). Pub. L. 116–94, § 501(d)(1)(A), inserted heading.
 
@@ -385,7 +385,7 @@ For each fiscal year, the Secretary of the Interior shall certify, at the time a
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
+The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 #### Amendments
 2000—Pub. L. 106–408 in first sentence inserted “, at the time at which a deduction or apportionment is made,” after “certify” and struck out “and executing” after “for administering”.
@@ -484,7 +484,7 @@ The Secretary of the Interior is authorized to cooperate with the Secretary of A
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
+The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
 #### Amendments
 1986—Pub. L. 99–396 inserted reference to hunter safety programs as provided by [section 669g(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section669g/b&num=0&edition=prelim).
@@ -585,19 +585,17 @@ In subsec. (d)(2)(A), “[section 132 of title 41](https://uscode.house.gov/view
 
 Subsec. (a)(2). Pub. L. 117–58, § 28001(b)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
 
-Pub. L. 117–58, § 28001(b)(2)(B), redesignated par. (3) as (2).
+Pub. L. 117–58, § 28001(b)(2)(A), (B), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
 
-Pub. L. 117–58, § 28001(b)(2)(A), struck out par. (2) which read as follows: “personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;”.
-
-Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively.
+Subsec. (a)(3), (4). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (4) and (5) as (3) and (4), respectively. Former par. (3) redesignated (2).
 
 Subsec. (a)(4)(B). Pub. L. 117–58, § 28001(b)(2)(D), substituted “employee authorized under paragraph (1)” for “full-time equivalent employee authorized under paragraphs (1) and (2)”.
 
-Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively.
+Subsec. (a)(5) to (8). Pub. L. 117–58, § 28001(b)(2)(B), redesignated pars. (6) to (9) as (5) to (8), respectively. Former par. (5) redesignated (4).
 
 Subsec. (a)(8)(A). Pub. L. 117–58, § 28001(b)(2)(E), struck out “on a full-time basis” after “administer this chapter”.
 
-Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(b)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”.
+Subsec. (a)(9) to (12). Pub. L. 117–58, § 28001(b)(2)(B), (F), redesignated pars. (10) to (12) as (9) to (11), respectively, and in par. (10), inserted “or part-time” after “full-time” and “, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter” after “incurred”. Former par. (9) redesignated (8).
 
 2000—Pub. L. 106–408 amended section generally. Prior to amendment, section read as follows: “Out of the deductions set aside for administering and executing this chapter and the Migratory Bird Conservation Act, the Secretary of the Interior is authorized to employ such assistants, clerks, and other persons in the city of Washington and elsewhere, to be taken from the eligible lists of the Civil Service; to rent or construct buildings outside of the city of Washington; to purchase such supplies, materials, equipment, office fixtures, and apparatus; and to incur such travel and other expenses, including purchase, maintenance, and hire of passenger-carrying motor vehicles, as he may deem necessary for carrying out the purposes of this chapter.”
 
@@ -731,7 +729,7 @@ Subsec. (c)(1). Pub. L. 116–17, § 4(c)(3), designated existing provisions as 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 11 of act Sept. 2, 1937, was classified to [section 669j of this title](./chapter-5b-wildlife-restoration.md#section-669j) prior to repeal by act Aug. 7, 1946.
@@ -813,9 +811,9 @@ Section, act Sept. 2, 1937, ch. 899, § 11, 50 Stat. 919; Reorg. Plan No. II, §
 #### References in Text
 This title, referred to in subsec. (a), is title I of Pub. L. 106–408, Nov. 1, 2000, 114 Stat. 1762, known as the Wildlife and Sport Fish Restoration Programs Improvement Act of 2000. For complete classification of title I to the Code, see Short Title of 2000 Amendment note set out under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669) and Tables.
 
-The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669) and Tables.
+The Pittman-Robertson Wildlife Restoration Act, referred to in subsecs. (c)(4) to (6) and (d)(1), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, also known as the Federal Aid in Wildlife Restoration Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 669 of this title](./chapter-5b-wildlife-restoration.md#section-669) and Tables.
 
-The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b), (c), and (d)(1), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. Section 4(d) of the Act was redesignated section 4(b) by Pub. L. 109–59, title X, § 10113(1), Aug. 10, 2005, 119 Stat. 1927, and is classified to [section 777c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c/b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777) and Tables.
+The Dingell-Johnson Sport Fish Restoration Act, referred to in subsecs. (b), (c), and (d)(1), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, also known as the Federal Aid in Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§ 777 et seq.) of this title. Section 4(d) of the Act was redesignated section 4(b) by Pub. L. 109–59, title X, § 10113(1), Aug. 10, 2005, 119 Stat. 1927, and is classified to [section 777c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section777c/b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 777 of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777) and Tables.
 
 #### Codification
 Section was enacted as part of the Fish and Wildlife Programs Improvement and National Wildlife Refuge System Centennial Act of 2000, and not as part of the Pittman-Robertson Wildlife Restoration Act which comprises this chapter.

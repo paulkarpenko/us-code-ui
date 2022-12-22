@@ -2,7 +2,7 @@
 title: 2
 chapter: '29'
 heading: CAPITOL POLICE
-section_count: 63
+section_count: 64
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -187,7 +187,7 @@ Section was formerly set out as a note under [section 1901 of this title](./chap
 <a id="section-1902"></a>
 ## § 1902. Compensation of Chief
 
-The annual rate of pay for the Chief of the Capitol Police shall be the amount equal to $1,000 less than the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).
+The annual rate of pay for the Chief of the Capitol Police shall be the amount equal to the annual rate of basic pay for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -195,6 +195,8 @@ The annual rate of pay for the Chief of the Capitol Police shall be the amount e
 Section was classified to section 206–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–103 substituted “the annual rate of basic pay for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim).” for “$1,000 less than the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).”
+
 2019—Pub. L. 116–94 substituted “the maximum rate of pay in effect under [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).” for “the lower of the annual rate of pay in effect for the Sergeant-at-Arms of the House of Representatives or the annual rate of pay in effect for the Sergeant-at-Arms and Doorkeeper of the Senate.”
 
 2003—Pub. L. 108–7 amended section generally. Prior to amendment, section read as follows: “The Chief of the Capitol Police shall receive compensation at a rate determined by the Capitol Police Board, but not to exceed $2,500 less than the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate.”
@@ -202,6 +204,9 @@ Section was classified to section 206–1 of former Title 40, prior to the enact
 2002—Pub. L. 107–117 substituted “but not to exceed $2,500 less than the lesser of the annual salary for the Sergeant at Arms of the House of Representatives or the annual salary for the Sergeant at Arms and Doorkeeper of the Senate” for “but not to exceed the rate of basic pay payable for level ES–4 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)”.
 
 2000—Pub. L. 106–554 substituted “the rate of basic pay payable for level ES–4 of the Senior Executive Service, as established under subchapter VIII of chapter 53 of title 5 (taking into account any comparability payments made under section 5304(h) of such title)” for “the annual rate of basic pay payable for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim)”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 effective on the first day of the first applicable pay period beginning on or after Mar. 15, 2022, see section 212(c) of Pub. L. 117–103, set out as a note under [section 1802 of this title](./chapter-028-architect-of-the-capitol.md#section-1802).
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
@@ -403,6 +408,13 @@ Amendment by Pub. L. 108–7 effective Feb. 20, 2003, and applicable to fiscal y
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+
+<a id="section-1905b"></a>
+## § 1905b. Notification of obligation
+**(a)** Beginning on March 15, 2022, the Chief of the United States Capitol Police shall provide written notice to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives before any obligation of funds under [section 1905(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1905/a/2&num=0&edition=prelim) that equals or exceeds $100,000.
+
+**(b)** This section shall apply with respect to fiscal year 2022 and each fiscal year thereafter.
 
 
 <a id="section-1906"></a>
@@ -620,7 +632,7 @@ Pub. L. 111–145, § 4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothin
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsecs. (c)(1), (2) and (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsecs. (c)(1), (2) and (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The provisions of title 5 regarding appointments in the competitive service, referred to in subsec. (d)(2)(A), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -827,7 +839,7 @@ Pub. L. 102–397, title I, § 104, Oct. 6, 1992, 106 Stat. 1950, as amended by 
 ### Statutory Notes
 
 #### References in Text
-The Family and Medical Leave Act of 1993, referred to in subsec. (b)(1)(D), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, as amended, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended [section 2105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), and enacted provisions set out as notes under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) and Tables.
+The Family and Medical Leave Act of 1993, referred to in subsec. (b)(1)(D), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of this title, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, Labor, amended [section 2105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), and enacted provisions set out as notes under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was classified to section 207b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -1278,7 +1290,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 ### Statutory Notes
 
 #### References in Text
-This section and sections 1922, 1966, 1967, and 1969 of this title, referred to in subsec. (a), was in the original a reference to the act of July 31, 1946, meaning act July 31, 1946, ch. 707, 60 Stat. 718, as amended, which enacted this section, sections 1922, 1966, 1967, and 1969 of this title, and provisions set out as a note below. For complete classification of the act of July 31, 1946, to the Code, see Tables.
+This section and sections 1922, 1966, 1967, and 1969 of this title, referred to in subsec. (a), was in the original a reference to the act of July 31, 1946, meaning act July 31, 1946, ch. 707, 60 Stat. 718, which enacted this section, sections 1922, 1966, 1967, and 1969 of this title, and provisions set out as a note below. For complete classification of the act of July 31, 1946, to the Code, see Tables.
 
 This Act, referred to in subsec. (a), probably means Pub. L. 101–520, Nov. 5, 1990, 104 Stat. 2254, known as the Legislative Branch Appropriations Act, 1991, which amended this section generally. For complete classification of this Act to the Code, see Tables.
 
@@ -1536,7 +1548,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 <a id="section-1965a"></a>
 ## § 1965a. Prohibition on use of funds for installation of permanent fencing on Capitol Grounds
 
-None of the funds made available in this or any other Act in prior fiscal years, this fiscal year, or any fiscal year thereafter may be used to install permanent, above-ground fencing around the perimeter, or any portion thereof, of the United States Capitol Grounds, as described in [section 5102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section5102&num=0&edition=prelim), United States Code.
+None of the funds made available in this or any other Act in prior fiscal years, this fiscal year, or any fiscal year thereafter may be used to install permanent, above-ground fencing around the perimeter, or any portion thereof, of the United States Capitol Grounds, as described in [section 5102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section5102&num=0&edition=prelim).
 
 
 <a id="section-1966"></a>
@@ -1646,7 +1658,7 @@ Section was classified to section 212a–5 of former Title 40, prior to the enac
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Traffic Act of 1925, as amended, referred to in subsec. (a), is act Mar. 3, 1925, ch. 443, 43 Stat. 1119, as amended, which is not classified to the Code.
+The District of Columbia Traffic Act of 1925, referred to in subsec. (a), is act Mar. 3, 1925, ch. 443, 43 Stat. 1119, as amended, which is not classified to the Code.
 
 #### Codification
 Section was classified to section 212b of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -1723,7 +1735,7 @@ Except as otherwise provided in Reorg. Plan No. 3, of 1967, functions of Board o
 ### Statutory Notes
 
 #### References in Text
-Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in subsec. (a)(1), (3)(A), (4)(B)(ii)(III), was in the original a reference to the Act of July 31, 1946 ([40 U.S.C. 212a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section212a–2&num=0&edition=prelim)), which is act July 31, 1946, ch. 707, 60 Stat. 718, as amended. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under [section 1961 of this title](./chapter-029-capitol-police.md#section-1961). Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding [section 101 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section101&num=0&edition=prelim), provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
+Sections 1922, 1961, 1966, 1967, and 1969 of this title and sections 5101 to 5107 and 5109 of title 40, referred to in subsec. (a)(1), (3)(A), (4)(B)(ii)(III), was in the original a reference to the Act of July 31, 1946 ([40 U.S.C. 212a–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section212a–2&num=0&edition=prelim)), which is act July 31, 1946, ch. 707, 60 Stat. 718. Sections 9, 9A, 9B, 9C, and 14 of the Act are classified, respectively, to sections 1961, 1966, 1967, 1922, and 1969 of this title, and section 16(b) of the Act is set out as a note under [section 1961 of this title](./chapter-029-capitol-police.md#section-1961). Sections 1 to 8, 10 to 13, and 16(a) of the Act, which were classified to sections 193a to 193m of former Title 40, Public Buildings, Property, and Works, were repealed and reenacted as sections 5101 to 5107 and 5109 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1312, the first section of which enacted Title 40. Section 5(c) of Pub. L. 107–217, set out as a note preceding [section 101 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section101&num=0&edition=prelim), provides that a reference to a law replaced by section 1 of Pub. L. 107–217 is deemed to refer to the corresponding provision enacted by Pub. L. 107–217. For complete classification of the act of July 31, 1946, to the Code, see Tables. For disposition of sections of former Title 40, see table at the beginning of Title 40.
 
 #### Codification
 Section was classified to section 212c of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -1990,7 +2002,7 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (e)(1), is div. G of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3166, as amended, known as the Legislative Branch Appropriations Act, 2005, which was enacted Dec. 8, 2004.
+This Act, referred to in subsec. (e)(1), is div. G of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3166, known as the Legislative Branch Appropriations Act, 2005, which was enacted Dec. 8, 2004.
 
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.

@@ -380,7 +380,7 @@ Section effective upon the expiration of 180 days following Aug. 22, 1974, see s
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (f)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the National Housing Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (f)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the National Housing Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (a)(2)(B), “[section 132 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section132&num=0&edition=prelim)” substituted for “section 4 of the Office of Federal Procurement Policy Act” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -573,7 +573,7 @@ Section effective upon the expiration of 180 days following Aug. 22, 1974, see s
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (c)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. Title I of the Act is classified generally to subchapter I (§ 1702 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (c)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. Title I of the Act is classified generally to subchapter I (§ 1702 et seq.) of chapter 13 of Title 12. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Codification
 References to “mobile homes”, wherever appearing in subsec. (a)(1) to (3), changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under [section 1703 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1703&num=0&edition=prelim), Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.

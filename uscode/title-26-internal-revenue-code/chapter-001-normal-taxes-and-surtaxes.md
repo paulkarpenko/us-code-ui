@@ -2,7 +2,7 @@
 title: 26
 chapter: '1'
 heading: NORMAL TAXES AND SURTAXES
-section_count: 854
+section_count: 864
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -1553,7 +1553,9 @@ Pub. L. 94–164, § 1A, Dec. 23, 1975, 89 Stat. 970, provided that: “(a) Cong
 Pub. L. 88–272, § 1, Feb. 26, 1964, 78 Stat. 19, provided that: “It is the sense of Congress that the tax reduction provided by this Act [see Short Title of 1964 Amendment note above] through stimulation of the economy, will, after a brief transitional period, raise (rather than lower) revenues and that such revenue increases should first be used to eliminate the deficits in the administrative budgets and then to reduce the public debt. To further the objective of obtaining balanced budgets in the near future, Congress by this action, recognizes the importance of taking all reasonable means to restrain Government spending and urges the President to declare his accord with this objective.”
 
 #### Inflation Adjusted Items for Certain Years
-Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 179D, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+2022—Revenue Procedure 2021–45.
 
 2021—Revenue Procedure 2020–45.
 
@@ -1986,11 +1988,13 @@ For applicability of amendment by section 701(e)(4)(A) of Pub. L. 99–514 notwi
 
 (3) subchapter M (sec. 851 and following, relating to regulated investment companies and real estate investment trusts).
 
-**(d) Foreign corporations** In the case of a foreign corporation, the tax imposed by subsection (a) shall apply only as provided by section 882.
+**(d) Foreign corporations** In the case of a foreign corporation, the taxes imposed by subsection (a) and section 55 shall apply only as provided by section 882.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–169 substituted “the taxes imposed by subsection (a) and section 55” for “the tax imposed by subsection (a)”.
+
 2017—Subsec. (b). Pub. L. 115–97, § 13001(a), amended subsec. (b) generally. Prior to amendment, text read as follows:
 
 “(1) In general.—The amount of the tax imposed by subsection (a) shall be the sum of—
@@ -2107,6 +2111,9 @@ Subsec. (d)(3). Pub. L. 86–779 inserted “and real estate investment trusts�
 
 1955—Subsec. (b). Act Mar. 30, 1955, substituted “April 1, 1956” for “April 1, 1955” and “March 31, 1956” for “March 31, 1955” wherever appearing.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 10101(f), Aug. 16, 2022, 136 Stat. 1828, provided that: “The amendments made by this section [enacting [section 56A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-56a) and amending this section and sections 12, 38, 53, 55, 59, 860E, 882, 897, 6425, and 6655 of this title] shall apply to taxable years beginning after December 31, 2022.”
+
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 12001(c), Dec. 22, 2017, 131 Stat. 2094, provided that: “The amendments made by this section [amending this section and sections 12, 38, 53, 55, 56, 58, 59, 168, 847, 848, 882, 897, 911, 962, 1561, 6425, and 6655 of this title] shall apply to taxable years beginning after December 31, 2017.”
 
@@ -2167,9 +2174,13 @@ Pub. L. 94–12, title III, § 303(c)(1), Mar. 29, 1975, 89 Stat. 44, provided i
 
 (4) For rate of withholding in case of foreign corporations, see section 1442.
 
+(5) For alternative minimum tax, see section 55.
+
 ### Statutory Notes
 
 #### Amendments
+2022—Par. (5). Pub. L. 117–169 added par. (5).
+
 2017—Pars. (4) to (6). Pub. L. 115–97, § 13001(b)(2)(B), redesignated par. (5) as (4) and struck out former pars. (4) and (6) which read as follows:
 
 “(4) For alternative tax in case of capital gains, see section 1201(a).
@@ -2189,6 +2200,9 @@ Par. (7). Pub. L. 115–97, § 12001(b)(12), struck out par. (7) which read as f
 1969—Par. (8). Pub. L. 91–172 added par. (8).
 
 1964—Par. (8). Pub. L. 88–272 struck out par. (8) which referred to section 1503 for additional tax for corporations filing consolidated returns.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 12001(b)(12) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
@@ -2442,7 +2456,7 @@ The amount determined under paragraph (1) or (2) (whichever is applicable) shall
 
 (2) **Increase in dollar limit on amount creditable** — Subsection (c) shall be applied—
 
-  (A) by substituting“$8,000” for “$3,000” in paragraph (1) thereof, and
+  (A) by substituting “$8,000” for “$3,000” in paragraph (1) thereof, and
 
   (B) by substituting “$16,000” for “$6,000” in paragraph (2) thereof.
 
@@ -3202,7 +3216,7 @@ Pub. L. 104–188, title I, § 1807(d), Aug. 20, 1996, 110 Stat. 1903, provided 
 
   (B) *Applicable threshold amount* — For purposes of this paragraph, the term “applicable threshold amount” means—
 
-    (i) $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)),
+    (i) $150,000, in the case of a joint return or surviving spouse (as defined in section 2(a)) ,11 So in original.
 
     (ii) $112,500, in the case of a head of household (as defined in section 2(b)), and
 
@@ -4445,26 +4459,36 @@ Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years b
 
 
 <a id="section-25c"></a>
-## § 25C. Nonbusiness energy property
-**(a) Allowance of credit** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
+## § 25C. Energy efficient home improvement credit
+**(a) Allowance of credit** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the sum of—
 
-(1) 10 percent of the amount paid or incurred by the taxpayer for qualified energy efficiency improvements installed during such taxable year, and
+(1) the amount paid or incurred by the taxpayer for qualified energy efficiency improvements installed during such taxable year,
 
-(2) the amount of the residential energy property expenditures paid or incurred by the taxpayer during such taxable year.
+(2) the amount of the residential energy property expenditures paid or incurred by the taxpayer during such taxable year, and
+
+(3) the amount paid or incurred by the taxpayer during the taxable year for home energy audits.
 
 **(b) Limitations**
 
-(1) **Lifetime limitation** — The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed the excess (if any) of $500 over the aggregate credits allowed under this section with respect to such taxpayer for all prior taxable years ending after December 31, 2005.
+(1) **In general** — The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed $1,200.
 
-(2) **Windows** — In the case of amounts paid or incurred for components described in subsection (c)(3)(B) by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
+(2) **Energy property** — The credit allowed under this section by reason of subsection (a)(2) with respect to any taxpayer for any taxable year shall not exceed, with respect to any item of qualified energy property, $600.
 
-(3) **Limitation on residential energy property expenditures** — The amount of the credit allowed under this section by reason of subsection (a)(2) shall not exceed—
+(3) **Windows** — The credit allowed under this section by reason of subsection (a)(1) with respect to any taxpayer for any taxable year shall not exceed, in the aggregate with respect to all exterior windows and skylights, $600.
 
-  (A) $50 for any advanced main air circulating fan,
+(4) **Doors** — The credit allowed under this section by reason of subsection (a)(1) with respect to any taxpayer for any taxable year shall not exceed—
 
-  (B) $150 for any qualified natural gas, propane, or oil furnace or hot water boiler, and
+  (A) $250 in the case of any exterior door, and
 
-  (C) $300 for any item of energy-efficient building property.
+  (B) $500 in the aggregate with respect to all exterior doors.
+
+(5) **Heat pump and heat pump water heaters; biomass stoves and boilers** — Notwithstanding paragraphs (1) and (2), the credit allowed under this section by reason of subsection (a)(2) with respect to any taxpayer for any taxable year shall not, in the aggregate, exceed $2,000 with respect to amounts paid or incurred for property described in clauses (i) and (ii) of subsection (d)(2)(A) and in subsection (d)(2)(B).
+
+(6) **Home energy audits**
+
+  (A) *Dollar limitation* — The amount of the credit allowed under this section by reason of subsection (a)(3) shall not exceed $150.
+
+  (B) *Substantiation requirement* — No credit shall be allowed under this section by reason of subsection (a)(3) unless the taxpayer includes with the taxpayer’s return of tax such information or documentation as the Secretary may require.
 
 **(c) Qualified energy efficiency improvements** For purposes of this section—
 
@@ -4478,21 +4502,19 @@ Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years b
 
 (2) **Energy efficient building envelope component** — The term “energy efficient building envelope component” means a building envelope component which meets—
 
-  (A) applicable Energy Star program requirements, in the case of a roof or roof products,
+  (A) in the case of an exterior window or skylight, Energy Star most efficient certification requirements,
 
-  (B) version 6.0 Energy Star program requirements, in the case of an exterior window, a skylight, or an exterior door, and
+  (B) in the case of an exterior door, applicable Energy Star requirements, and
 
-  (C) the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, in the case of any other component.
+  (C) in the case of any other component, the prescriptive criteria for such component established by the most recent International Energy Conservation Code standard in effect as of the beginning of the calendar year which is 2 years prior to the calendar year in which such component is placed in service.
 
 (3) **Building envelope component** — The term “building envelope component” means—
 
-  (A) any insulation material or system which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit,
+  (A) any insulation material or system, including air sealing material or system, which is specifically and primarily designed to reduce the heat loss or gain of a dwelling unit when installed in or on such dwelling unit,
 
-  (B) exterior windows (including skylights),
+  (B) exterior windows (including skylights), and
 
-  (C) exterior doors, and
-
-  (D) any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.
+  (C) exterior doors.
 
 (4) **Manufactured homes included** — The term “dwelling unit” includes a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations).
 
@@ -4500,48 +4522,72 @@ Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years b
 
 (1) **In general** — The term “residential energy property expenditures” means expenditures made by the taxpayer for qualified energy property which is—
 
-  (A) installed on or in connection with a dwelling unit located in the United States and owned and used by the taxpayer as the taxpayer’s principal residence (within the meaning of section 121), and
+  (A) installed on or in connection with a dwelling unit located in the United States and used as a residence by the taxpayer, and
 
   (B) originally placed in service by the taxpayer.
   Such term includes expenditures for labor costs properly allocable to the onsite preparation, assembly, or original installation of the property.
 
-(2) **Qualified energy property**
+(2) **Qualified energy property** — The term “qualified energy property” means any of the following:
 
-  (A) *In general* — The term “qualified energy property” means—
+  (A) Any of the following which meet or exceed the highest efficiency tier (not including any advanced tier) established by the Consortium for Energy Efficiency which is in effect as of the beginning of the calendar year in which the property is placed in service:
 
-    (i) energy-efficient building property,
+    (i) An electric or natural gas heat pump water heater.
 
-    (ii) a qualified natural gas, propane, or oil furnace or hot water boiler, or
+    (ii) An electric or natural gas heat pump.
 
-    (iii) an advanced main air circulating fan.
+    (iii) A central air conditioner.
 
-  (B) *Performance and quality standards* — Property described under subparagraph (A) shall meet the performance and quality standards, and the certification requirements (if any), which—
+    (iv) A natural gas, propane, or oil water heater.
 
-    (i) have been prescribed by the Secretary by regulations (after consultation with the Secretary of Energy or the Administrator of the Environmental Protection Agency, as appropriate), and
+    (v) A natural gas, propane, or oil furnace or hot water boiler.
 
-    (ii) are in effect at the time of the acquisition of the property, or at the time of the completion of the construction, reconstruction, or erection of the property, as the case may be.
+  (B) A biomass stove or boiler which—
 
-  (C) *Requirements and standards for air conditioners and heat pumps* — The standards and requirements prescribed by the Secretary under subparagraph (B) with respect to the energy efficiency ratio (EER) for central air conditioners and electric heat pumps—
+    (i) uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
 
-    (i) shall require measurements to be based on published data which is tested by manufacturers at 95 degrees Fahrenheit, and
+    (ii) has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
 
-    (ii) may be based on the certified data of the Air Conditioning and Refrigeration Institute that are prepared in partnership with the Consortium for Energy Efficiency.
+  (C) Any oil furnace or hot water boiler which—
 
-(3) **Energy-efficient building property** — The term “energy-efficient building property” means—
+    (i) is placed in service after December 31, 2022, and before January 1, 2027, and—
 
-  (A) an electric heat pump water heater which yields a Uniform Energy Factor of at least 2.2 in the standard Department of Energy test procedure,
+      (I) meets or exceeds 2021 Energy Star efficiency criteria, and
 
-  (B) an electric heat pump which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009,
+      (II) is rated by the manufacturer for use with fuel blends at least 20 percent of the volume of which consists of an eligible fuel, or
 
-  (C) a central air conditioner which achieves the highest efficiency tier established by the Consortium for Energy Efficiency, as in effect on January 1, 2009, and
+    (ii) is placed in service after December 31, 2026, and—
 
-  (D) a natural gas, propane, or oil water heater which has either a Uniform Energy Factor of at least 0.82 or a thermal efficiency of at least 90 percent.
+      (I) achieves an annual fuel utilization efficiency rate of not less than 90, and
 
-(4) **Qualified natural gas, propane, or oil furnace or hot water boiler** — The term “qualified natural gas, propane, or oil furnace or hot water boiler” means a natural gas, propane, or oil furnace or hot water boiler which achieves an annual fuel utilization efficiency rate of not less than 95.
+      (II) is rated by the manufacturer for use with fuel blends at least 50 percent of the volume of which consists of an eligible fuel.
 
-(5) **Advanced main air circulating fan** — The term “advanced main air circulating fan” means a fan used in a natural gas, propane, or oil furnace and which has an annual electricity use of no more than 2 percent of the total annual energy use of the furnace (as determined in the standard Department of Energy test procedures).
+  (D) Any improvement to, or replacement of, a panelboard, sub-panelboard, branch circuits, or feeders which—
 
-**(e) Special rules** For purposes of this section—
+    (i) is installed in a manner consistent with the National Electric Code,
+
+    (ii) has a load capacity of not less than 200 amps,
+
+    (iii) is installed in conjunction with—
+
+      (I) any qualified energy efficiency improvements, or
+
+      (II) any qualified energy property described in subparagraphs (A) through (C) for which a credit is allowed under this section for expenditures with respect to such property, and
+
+    (iv) enables the installation and use of any property described in subclause (I) or (II) of clause (iii).
+
+(3) **Eligible fuel** — For purposes of paragraph (2), the term “eligible fuel” means—
+
+  (A) biodiesel and renewable diesel (within the meaning of section 40A), and
+
+  (B) second generation biofuel (within the meaning of section 40).
+
+**(e) Home energy audits** For purposes of this section, the term “home energy audit” means an inspection and written report with respect to a dwelling unit located in the United States and owned or used by the taxpayer as the taxpayer’s principal residence (within the meaning of section 121) which—
+
+(1) identifies the most significant and cost-effective energy efficiency improvements with respect to such dwelling unit, including an estimate of the energy and cost savings with respect to each such improvement, and
+
+(2) is conducted and prepared by a home energy auditor that meets the certification or other requirements specified by the Secretary in regulations or other guidance (as prescribed by the Secretary not later than 365 days after the date of the enactment of this subsection).
+
+**(f) Special rules** For purposes of this section—
 
 (1) **Application of rules** — Rules similar to the rules under paragraphs (4), (5), (6), (7), and (8) of section 25D(e) shall apply.
 
@@ -4553,20 +4599,108 @@ Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years b
 
 (3) **Property financed by subsidized energy financing** — For purposes of determining the amount of expenditures made by any individual with respect to any property, there shall not be taken into account expenditures which are made from subsidized energy financing (as defined in section 48(a)(4)(C)).
 
-**(f) Basis adjustments** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
+**(g) Basis adjustments** For purposes of this subtitle, if a credit is allowed under this section for any expenditure with respect to any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so allowed.
 
-**(g) Termination** This section shall not apply with respect to any property placed in service—
+**(h) Termination** This section shall not apply with respect to any property placed in service—
 
 (1) after December 31, 2007, and before January 1, 2009, or
 
-(2) after December 31, 2021.
+(2) after December 31, 2032.
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(C), is the date of enactment of title I of div. B of Pub. L. 111–5, which was approved Feb. 17, 2009.
+#### Amendment of Section
+Pub. L. 117–169, title I, § 13704(b)(1), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (d)(3) of this section is amended by striking “and” at the end of subparagraph (A), striking the period at the end of subparagraph (B) and inserting “, and”, and adding at the end the following new subparagraph:
+
+(C) transportation fuel (as defined in section 45Z(d)(5)).
+
+See 2022 Amendment note below.
+
+Pub. L. 117–169, title I, § 13301(g)(1), (i)(3), Aug. 16, 2022, 136 Stat. 1941, 1946, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended by redesignating subsection (h) as subsection (i) and by inserting after subsection (g) the following new subsection:
+
+(h) Product identification number requirement
+
+(1) In general
+
+No credit shall be allowed under subsection (a) with respect to any item of specified property placed in service after December 31, 2024, unless—
+
+(A) such item is produced by a qualified manufacturer, and
+
+(B) the taxpayer includes the qualified product identification number of such item on the return of tax for the taxable year.
+
+(2) Qualified product identification number
+
+For purposes of this section, the term “qualified product identification number” means, with respect to any item of specified property, the product identification number assigned to such item by the qualified manufacturer pursuant to the methodology referred to in paragraph (3).
+
+(3) Qualified manufacturer
+
+For purposes of this section, the term “qualified manufacturer” means any manufacturer of specified property which enters into an agreement with the Secretary which provides that such manufacturer will—
+
+(A) assign a product identification number to each item of specified property produced by such manufacturer utilizing a methodology that will ensure that such number (including any alphanumeric) is unique to each such item (by utilizing numbers or letters which are unique to such manufacturer or by such other method as the Secretary may provide),
+
+(B) label such item with such number in such manner as the Secretary may provide, and
+
+(C) make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) of the product identification numbers so assigned and including such information as the Secretary may require with respect to the item of specified property to which such number was so assigned.
+
+(4) Specified property
+
+For purposes of this subsection, the term “specified property” means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).
+
+See 2022 Amendment note below.
 
 #### Amendments
+2022—Pub. L. 117–169, § 13301(h)(1), substituted “Energy efficient home improvement credit” for “Nonbusiness energy property” in section catchline.
+
+Subsec. (a). Pub. L. 117–169, § 13301(b), amended subsec. (a) generally. Prior to amendment, text read as follows: “In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of—
+
+“(1) 10 percent of the amount paid or incurred by the taxpayer for qualified energy efficiency improvements installed during such taxable year, and
+
+“(2) the amount of the residential energy property expenditures paid or incurred by the taxpayer during such taxable year.”
+
+Subsec. (a)(3). Pub. L. 117–169, § 13301(f)(1), added par. (3).
+
+Subsec. (b). Pub. L. 117–169, § 13301(c), amended subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows:
+
+“(1) Lifetime limitation.—The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed the excess (if any) of $500 over the aggregate credits allowed under this section with respect to such taxpayer for all prior taxable years ending after December 31, 2005.
+
+“(2) Windows.—In the case of amounts paid or incurred for components described in subsection (c)(3)(B) by any taxpayer for any taxable year, the credit allowed under this section with respect to such amounts for such year shall not exceed the excess (if any) of $200 over the aggregate credits allowed under this section with respect to such amounts for all prior taxable years ending after December 31, 2005.
+
+“(3) Limitation on residential energy property expenditures.—The amount of the credit allowed under this section by reason of subsection (a)(2) shall not exceed—
+
+“(A) $50 for any advanced main air circulating fan,
+
+“(B) $150 for any qualified natural gas, propane, or oil furnace or hot water boiler, and
+
+“(C) $300 for any item of energy-efficient building property.”
+
+Subsec. (b)(6). Pub. L. 117–169, § 13301(f)(2), added par. (6).
+
+Subsec. (c)(2). Pub. L. 117–169, § 13301(d)(1), substituted “meets—” and subpars. (A) to (C) for “meets—” and former subpars. (A) to (C) which read as follows:
+
+“(A) applicable Energy Star program requirements, in the case of a roof or roof products,
+
+“(B) version 6.0 Energy Star program requirements, in the case of an exterior window, a skylight, or an exterior door, and
+
+“(C) the prescriptive criteria for such component established by the 2009 International Energy Conservation Code, as such Code (including supplements) is in effect on the date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, in the case of any other component.”
+
+Subsec. (c)(3)(A). Pub. L. 117–169, § 13301(d)(3), inserted “, including air sealing material or system,” after “material or system”.
+
+Subsec. (c)(3)(D). Pub. L. 117–169, § 13301(d)(2), struck out subpar. (D) which read as follows: “any metal roof or asphalt roof installed on a dwelling unit, but only if such roof has appropriate pigmented coatings or cooling granules which are specifically and primarily designed to reduce the heat gain of such dwelling unit.”
+
+Subsec. (d). Pub. L. 117–169, § 13301(e), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to residential energy property expenditures and defined the terms “residential energy property expenditures”, “qualified energy property” and applicable standards, “energy-efficient building property”, “qualified natural gas, propane, or oil furnace or hot water boiler”, and “advanced main air circulating fan”.
+
+Subsec. (d)(3)(C). Pub. L. 117–169, § 13704(b)(1), added subpar. (C).
+
+Subsecs. (e) to (g). Pub. L. 117–169, § 13301(f)(3)(A), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively. Former subsec. (g) redesignated (h).
+
+Subsec. (g)(2). Pub. L. 117–169, § 13301(a), substituted “December 31, 2032” for “December 31, 2021”.
+
+Subsec. (h). Pub. L. 117–169, § 13301(g)(1), added subsec. (h). Former subsec. (h) redesignated (i).
+
+Pub. L. 117–169, § 13301(f)(3)(A), redesignated subsec. (g) as (h).
+
+Subsec. (i). Pub. L. 117–169, § 13301(g)(1), redesignated subsec. (h) as (i).
+
 2020—Subsec. (d)(3)(E). Pub. L. 116–260, § 148(b)(3)(A), struck out subpar. (E) which read as follows: “a stove which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and which has a thermal efficiency rating of at least 75 percent.”
 
 Subsec. (d)(6). Pub. L. 116–260, § 148(b)(3)(B), struck out par. (6). Text read as follows: “The term ‘biomass fuel’ means any plant-derived fuel available on a renewable or recurring basis, including agricultural crops and trees, wood and wood waste and residues (including wood pellets), plants (including aquatic plants), grasses, residues, and fibers.”
@@ -4679,6 +4813,11 @@ Subsec. (g). Pub. L. 110–343, § 302(a), substituted “placed in service—�
 
 2005—Subsec. (b)(2). Pub. L. 109–135 substituted “subsection (c)(2)(B)” for “subsection (c)(3)(B)”.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13301(i), Aug. 16, 2022, 136 Stat. 1946, provided that: “(1) In general.—Except as otherwise provided by this subsection, the amendments made by this section [amending this section and sections 1016 and 6213 of this title] shall apply to property placed in service after December 31, 2022. “(2) Extension of credit.—The amendments made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2021. “(3) Identification number requirement.—The amendments made by subsection (g) [amending this section and [section 6213 of this title](./chapter-063-assessment.md#section-6213)] shall apply to property placed in service after December 31, 2024.”
+
+Amendment by section 13704(b)(1) of Pub. L. 117–169 applicable to transportation fuel produced after Dec. 31, 2024, see section 13704(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45Z of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45z).
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 141(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
 
@@ -4715,7 +4854,7 @@ Pub. L. 109–58, title XIII, § 1333(c), Aug. 8, 2005, 119 Stat. 1030, provided
 
 
 <a id="section-25d"></a>
-## § 25D. Residential energy efficient property
+## § 25D. Residential clean energy credit
 **(a) Allowance of credit** In the case of an individual, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable percentages of—
 
 (1) the qualified solar electric property expenditures,
@@ -4728,7 +4867,7 @@ Pub. L. 109–58, title XIII, § 1333(c), Aug. 8, 2005, 119 Stat. 1030, provided
 
 (5) the qualified geothermal heat pump property expenditures, and
 
-(6) the qualified biomass fuel property expenditures, and
+(6) the qualified battery storage technology expenditures,
 made by the taxpayer during such year.
 
 **(b) Limitations**
@@ -4745,7 +4884,7 @@ made by the taxpayer during such year.
 
 (2) **Qualified solar electric property expenditure** — The term “qualified solar electric property expenditure” means an expenditure for property which uses solar energy to generate electricity for use in a dwelling unit located in the United States and used as a residence by the taxpayer.
 
-(3) **Qualified fuel cell property expenditure** — The term “qualified fuel cell property expenditure” means an expenditure for qualified fuel cell property (as defined in section 48(c)(1)) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
+(3) **Qualified fuel cell property expenditure** — The term “qualified fuel cell property expenditure” means an expenditure for qualified fuel cell property (as defined in section 48(c)(1), without regard to subparagraph (D) thereof) installed on or in connection with a dwelling unit located in the United States and used as a principal residence (within the meaning of section 121) by the taxpayer.
 
 (4) **Qualified small wind energy property expenditure** — The term “qualified small wind energy property expenditure” means an expenditure for property which uses a wind turbine to generate electricity for use in connection with a dwelling unit located in the United States and used as a residence by the taxpayer.
 
@@ -4759,15 +4898,11 @@ made by the taxpayer during such year.
 
     (ii) meets the requirements of the Energy Star program which are in effect at the time that the expenditure for such equipment is made.
 
-(6) **Qualified biomass fuel property expenditure**
+(6) **Qualified battery storage technology expenditure** — The term “qualified battery storage technology expenditure” means an expenditure for battery storage technology which—
 
-  (A) *In general* — The term “qualified biomass fuel property expenditure” means an expenditure for property—
+  (A) is installed in connection with a dwelling unit located in the United States and used as a residence by the taxpayer, and
 
-    (i) which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
-
-    (ii) which has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
-
-  (B) *Biomass fuel* — For purposes of this section, the term “biomass fuel” means any plant-derived fuel available on a renewable or recurring basis.
+  (B) has a capacity of not less than 3 kilowatt hours.
 
 **(e) Special rules** For purposes of this section—
 
@@ -4813,15 +4948,41 @@ made by the taxpayer during such year.
 
 (1) in the case of property placed in service after December 31, 2016, and before January 1, 2020, 30 percent,
 
-(2) in the case of property placed in service after December 31, 2019, and before January 1, 2023, 26 percent, and
+(2) in the case of property placed in service after December 31, 2019, and before January 1, 2022, 26 percent,
 
-(3) in the case of property placed in service after December 31, 2022, and before January 1, 2024, 22 percent.
+(3) in the case of property placed in service after December 31, 2021, and before January 1, 2033, 30 percent,
 
-**(h) Termination** The credit allowed under this section shall not apply to property placed in service after December 31, 2023.
+(4) in the case of property placed in service after December 31, 2032, and before January 1, 2034, 26 percent, and
+
+(5) in the case of property placed in service after December 31, 2033, and before January 1, 2035, 22 percent.
+
+**(h) Termination** The credit allowed under this section shall not apply to property placed in service after December 31, 2034.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–169, § 13302(c)(2), substituted “clean energy credit” for “energy efficient property” in section catchline.
+
+Subsec. (a)(6). Pub. L. 117–169, § 13302(b)(1), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “the qualified biomass fuel property expenditures, and”.
+
+Subsec. (d)(3). Pub. L. 117–169, § 13302(c)(1), inserted “, without regard to subparagraph (D) thereof” after “section 48(c)(1)”.
+
+Subsec. (d)(6). Pub. L. 117–169, § 13302(b)(2), amended par. (6) generally. Prior to amendment, par. (6) related to qualified biomass fuel property expenditure, and subpars. (A) and (B) read as follows:
+
+“(A) In general.—The term ‘qualified biomass fuel property expenditure’ means an expenditure for property—
+
+“(i) which uses the burning of biomass fuel to heat a dwelling unit located in the United States and used as a residence by the taxpayer, or to heat water for use in such a dwelling unit, and
+
+“(ii) which has a thermal efficiency rating of at least 75 percent (measured by the higher heating value of the fuel).
+
+“(B) Biomass fuel.—For purposes of this section, the term ‘biomass fuel’ means any plant-derived fuel available on a renewable or recurring basis.”
+
+Subsec. (g)(2). Pub. L. 117–169, § 13302(a)(2)(A), substituted “before January 1, 2022, 26 percent,” for “before January 1, 2023, 26 percent, and”
+
+Subsec. (g)(3) to (5). Pub. L. 117–169, § 13302(a)(2)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: “in the case of property placed in service after December 31, 2022, and before January 1, 2024, 22 percent.”
+
+Subsec. (h). Pub. L. 117–169, § 13302(a)(1), substituted “December 31, 2034” for “December 31, 2023”.
+
 2020—Subsec. (a)(6). Pub. L. 116–260, § 148(b)(1), added par. (6).
 
 Subsec. (d)(6). Pub. L. 116–260, § 148(b)(2), added par. (6).
@@ -4910,6 +5071,9 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, § 402(i)(2), amended subpars. (A) an
 
 “(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year.”
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13302(d), Aug. 16, 2022, 136 Stat. 1947, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to expenditures made after December 31, 2021. “(2) Residential clean energy credit for battery storage technology; certain expenditures disallowed.—The amendments made by subsection (b) [amending this section] shall apply to expenditures made after December 31, 2022.”
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 148(c)(1), Dec. 27, 2020, 134 Stat. 3056, provided that: “The amendments made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2020.”
 
@@ -4939,6 +5103,100 @@ Amendments by Pub. L. 109–135 effective as if included in the provisions of th
 
 #### Effective Date
 Section applicable to property placed in service after Dec. 31, 2005, in taxable years ending after such date, see section 1335(c) of Pub. L. 109–58, set out as an Effective and Termination Dates of 2005 Amendments note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+
+
+<a id="section-25e"></a>
+## § 25E. Previously-owned clean vehicles
+**(a) Allowance of credit** In the case of a qualified buyer who during a taxable year places in service a previously-owned clean vehicle, there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the lesser of—
+
+(1) $4,000, or
+
+(2) the amount equal to 30 percent of the sale price with respect to such vehicle.
+
+**(b) Limitation based on modified adjusted gross income**
+
+(1) **In general** — No credit shall be allowed under subsection (a) for any taxable year if—
+
+  (A) the lesser of—
+
+    (i) the modified adjusted gross income of the taxpayer for such taxable year, or
+
+    (ii) the modified adjusted gross income of the taxpayer for the preceding taxable year, exceeds
+
+  (B) the threshold amount.
+
+(2) **Threshold amount** — For purposes of paragraph (1)(B), the threshold amount shall be—
+
+  (A) in the case of a joint return or a surviving spouse (as defined in section 2(a)), $150,000,
+
+  (B) in the case of a head of household (as defined in section 2(b)), $112,500, and
+
+  (C) in the case of a taxpayer not described in subparagraph (A) or (B), $75,000.
+
+(3) **Modified adjusted gross income** — For purposes of this subsection, the term “modified adjusted gross income” means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.
+
+**(c) Definitions** For purposes of this section—
+
+(1) **Previously-owned clean vehicle** — The term “previously-owned clean vehicle” means, with respect to a taxpayer, a motor vehicle—
+
+  (A) the model year of which is at least 2 years earlier than the calendar year in which the taxpayer acquires such vehicle,
+
+  (B) the original use of which commences with a person other than the taxpayer,
+
+  (C) which is acquired by the taxpayer in a qualified sale, and
+
+  (D) which—
+
+    (i) meets the requirements of subparagraphs (C), (D), (E), (F), and (H) (except for clause (iv) thereof) of section 30D(d)(1), or
+
+    (ii) is a motor vehicle which—
+
+      (I) satisfies the requirements under subparagraphs (A) and (B) of section 30B(b)(3), and
+
+      (II) has a gross vehicle weight rating of less than 14,000 pounds.
+
+(2) **Qualified sale** — The term “qualified sale” means a sale of a motor vehicle—
+
+  (A) by a dealer (as defined in section 30D(g)(8)),
+
+  (B) for a sale price which does not exceed $25,000, and
+
+  (C) which is the first transfer since the date of the enactment of this section to a qualified buyer other than the person with whom the original use of such vehicle commenced.
+
+(3) **Qualified buyer** — The term “qualified buyer” means, with respect to a sale of a motor vehicle, a taxpayer—
+
+  (A) who is an individual,
+
+  (B) who purchases such vehicle for use and not for resale,
+
+  (C) with respect to whom no deduction is allowable with respect to another taxpayer under section 151, and
+
+  (D) who has not been allowed a credit under this section for any sale during the 3-year period ending on the date of the sale of such vehicle.
+
+(4) **Motor vehicle; capacity** — The terms “motor vehicle” and “capacity” have the meaning given such terms in paragraphs (2) and (4) of section 30D(d), respectively.
+
+**(d) VIN number requirement** No credit shall be allowed under subsection (a) with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.
+
+**(e) Application of certain rules** For purposes of this section, rules similar to the rules of section 30D(f) (without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section.
+
+**(f) Termination** No credit shall be allowed under this section with respect to any vehicle acquired after December 31, 2032.
+
+### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 117–169, title I, § 13402(b), (e)(2), Aug. 16, 2022, 136 Stat. 1963, 1964, provided that, applicable to vehicles acquired after Dec. 31, 2023, this section is amended by redesignating subsection (f) as subsection (g) and adding the following new subsection (f):
+
+(f) Transfer of credit
+
+Rules similar to the rules of section 30D(g) shall apply.
+
+See 2022 Amendment note below.
+
+#### Amendments
+2022—Subsecs. (f), (g). Pub. L. 117–169, § 13402(b), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13402(e), Aug. 16, 2022, 136 Stat. 1964, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [enacting this section and amending this section and [section 6213 of this title](./chapter-063-assessment.md#section-6213)] shall apply to vehicles acquired after December 31, 2022. “(2) Transfer of credit.—The amendments made by subsection (b) [amending this section] shall apply to vehicles acquired after December 31, 2023.”
 
 
 <a id="section-26"></a>
@@ -5649,7 +5907,7 @@ Pub. L. 109–432, div. A, title I, § 119, Dec. 20, 2006, 120 Stat. 2942, as am
 
 (7) **Property used outside United States, etc., not qualified** — No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1) or with respect to the portion of the cost of any property taken into account under section 179.
 
-(8) **Recapture** — The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle), except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle.
+(8) **Recapture** — The Secretary shall, by regulations, provide for recapturing the benefit of any credit allowable under subsection (a) with respect to any property which ceases to be property eligible for such credit (including recapture in the case of a lease period of less than the economic life of a vehicle).
 
 (9) **Election to not take credit** — No credit shall be allowed under subsection (a) for any vehicle if the taxpayer elects to not have this section apply to such vehicle.
 
@@ -5659,15 +5917,7 @@ Pub. L. 109–432, div. A, title I, § 119, Dec. 20, 2006, 120 Stat. 2942, as am
 
   (B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
 
-**(i) Plug-in conversion credit**
-
-(1) **In general** — For purposes of subsection (a), the plug-in conversion credit determined under this subsection with respect to any motor vehicle which is converted to a qualified plug-in electric drive motor vehicle is 10 percent of so much of the cost of the converting such vehicle as does not exceed $40,000.
-
-(2) **Qualified plug-in electric drive motor vehicle** — For purposes of this subsection, the term “qualified plug-in electric drive motor vehicle” means any new qualified plug-in electric drive motor vehicle (as defined in section 30D, determined without regard to whether such vehicle is made by a manufacturer or whether the original use of such vehicle commences with the taxpayer).
-
-(3) **Credit allowed in addition to other credits** — The credit allowed under this subsection shall be allowed with respect to a motor vehicle notwithstanding whether a credit has been allowed with respect to such motor vehicle under this section (other than this subsection) in any preceding taxable year.
-
-(4) **Termination** — This subsection shall not apply to conversions made after December 31, 2011.
+**(i) Repealed. Pub. L. 117–169, title I, § 13401(i)(2)(B), Aug. 16, 2022, 136 Stat. 1961]**
 
 **(j) Regulations**
 
@@ -5695,6 +5945,10 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(B) and
 The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (e)(2), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
 #### Amendments
+2022—Subsec. (h)(8). Pub. L. 117–169, § 13401(i)(2)(A), struck out “, except that no benefit shall be recaptured if such property ceases to be eligible for such credit by reason of conversion to a qualified plug-in electric drive motor vehicle” before period at end.
+
+Subsec. (i). Pub. L. 117–169, § 13401(i)(2)(B), struck out subsec. (i) which related to plug-in conversion credit.
+
 2020—Subsec. (k)(1). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (k)(1). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
@@ -5732,6 +5986,9 @@ Subsecs. (i) to (k). Pub. L. 111–5, § 1143(a), added subsec. (i) and redesign
 2005—Subsec. (g)(2)(A). Pub. L. 109–135, § 412(d), substituted “regular tax liability (as defined in section 26(b))” for “regular tax”.
 
 Subsec. (h)(6). Pub. L. 109–135, § 402(j), inserted at end “For purposes of subsection (g), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to vehicles placed in service after Dec. 31, 2022, see section 13401(k)(1) of Pub. L. 117–169, set out in an Effective Date of 2022 Amendment; Transition Rule note under [section 30D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30d).
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 142(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to property purchased after December 31, 2020.”
@@ -5777,29 +6034,51 @@ Pub. L. 109–58, title XIII, § 1341(c), Aug. 8, 2005, 119 Stat. 1049, provided
 
 <a id="section-30c"></a>
 ## § 30C. Alternative fuel vehicle refueling property credit
-**(a) Credit allowed** There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent of the cost of any qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year.
+**(a) Credit allowed** There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to 30 percent (6 percent in the case of property of a character subject to depreciation) of the cost of any qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year.
 
-**(b) Limitation** The credit allowed under subsection (a) with respect to all qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year at a location shall not exceed—
+**(b) Limitation** The credit allowed under subsection (a) with respect to any single item of qualified alternative fuel vehicle refueling property placed in service by the taxpayer during the taxable year shall not exceed—
 
-(1) $30,000 in the case of a property of a character subject to an allowance for depreciation, and
+(1) $100,000 in the case of any such item of property of a character subject to an allowance for depreciation, and
 
 (2) $1,000 in any other case.
 
-**(c) Qualified alternative fuel vehicle refueling property** For purposes of this section, the term “qualified alternative fuel vehicle refueling property” has the same meaning as the term “qualified clean-fuel vehicle refueling property” would have under section 179A if—
+**(c) Qualified alternative fuel vehicle refueling property** For purposes of this section—
 
-(1) paragraph (1) of section 179A(d) did not apply to property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, and
+(1) **In general** — The term “qualified alternative fuel vehicle refueling property” has the same meaning as the term “qualified clean-fuel vehicle refueling property” would have under section 179A if—
 
-(2) only the following were treated as clean-burning fuels for purposes of section 179A(d):
+  (A) paragraph (1) of section 179A(d) did not apply to property installed on property which is used as the principal residence (within the meaning of section 121) of the taxpayer, and
 
-  (A) Any fuel at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquified natural gas, liquefied petroleum gas, or hydrogen.
+  (B) only the following were treated as clean-burning fuels for purposes of section 179A(d):
 
-  (B) Any mixture—
+    (i) Any fuel at least 85 percent of the volume of which consists of one or more of the following: ethanol, natural gas, compressed natural gas, liquified natural gas, liquefied petroleum gas, or hydrogen.
 
-    (i) which consists of two or more of the following: biodiesel (as defined in section 40A(d)(1)), diesel fuel (as defined in section 4083(a)(3)), or kerosene, and
+    (ii) Any mixture—
 
-    (ii) at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.
+      (I) which consists of two or more of the following: biodiesel (as defined in section 40A(d)(1)), diesel fuel (as defined in section 4083(a)(3)), or kerosene, and
 
-  (C) Electricity.
+      (II) at least 20 percent of the volume of which consists of biodiesel (as so defined) determined without regard to any kerosene in such mixture.
+
+    (iii) Electricity.
+
+(2) **Bidirectional charging equipment** — Property shall not fail to be treated as qualified alternative fuel vehicle refueling property solely because such property—
+
+  (A) is capable of charging the battery of a motor vehicle propelled by electricity, and
+
+  (B) allows discharging electricity from such battery to an electric load external to such motor vehicle.
+
+(3) **Property required to be located in eligible census tracts**
+
+  (A) *In general* — Property shall not be treated as qualified alternative fuel vehicle refueling property unless such property is placed in service in an eligible census tract.
+
+  (B) *Eligible census tract*
+
+    (i) *In general* — For purposes of this paragraph, the term “eligible census tract” means any population census tract which—
+
+      (I) is described in section 45D(e), or
+
+      (II) is not an urban area.
+
+    (ii) *Urban area* — For purposes of clause (i)(II), the term “urban area” means a census tract (as defined by the Bureau of the Census) which, according to the most recent decennial census, has been designated as an urban area by the Secretary of Commerce.
 
 **(d) Application with other credits**
 
@@ -5825,16 +6104,85 @@ Pub. L. 109–58, title XIII, § 1341(c), Aug. 8, 2005, 119 Stat. 1049, provided
 
 (6) **Reference** — For purposes of this section, any reference to section 179A shall be treated as a reference to such section as in effect immediately before its repeal.
 
-**(f) Regulations** The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
+**(f) Special rule for electric charging stations for certain vehicles with 2 or 3 wheels** For purposes of this section—
 
-**(g) Termination** This section shall not apply to any property placed in service after December 31, 2021.
+(1) **In general** — The term “qualified alternative fuel vehicle refueling property” includes any property described in subsection (c) for the recharging of a motor vehicle described in paragraph (2), but only if such property—
+
+  (A) meets the requirements of subsection (a)(2),11 So in original. There is no subsec. (a)(2) in this section. and
+
+  (B) is of a character subject to depreciation.
+
+(2) **Motor vehicle** — A motor vehicle is described in this paragraph if the motor vehicle—
+
+  (A) is manufactured primarily for use on public streets, roads, or highways (not including a vehicle operated exclusively on a rail or rails),
+
+  (B) has 2 or 3 wheels, and
+
+  (C) is propelled by electricity.
+
+**(g) Wage and apprenticeship requirements**
+
+(1) **Increased credit amount**
+
+  (A) *In general* — In the case of any qualified alternative fuel vehicle refueling project which satisfies the requirements of subparagraph (C), the amount of the credit determined under subsection (a) for any qualified alternative fuel vehicle refueling property of a character subject to an allowance for depreciation which is part of such project shall be equal to such amount (determined without regard to this sentence) multiplied by 5.
+
+  (B) *Qualified alternative fuel vehicle refueling project* — For purposes of this subsection, the term “qualified alternative fuel vehicle refueling project” means a project consisting of one or more properties that are part of a single project.
+
+  (C) *Project requirements* — A project meets the requirements of this subparagraph if it is one of the following:
+
+    (i) A project the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (2)(A) and (3).
+
+    (ii) A project which satisfies the requirements of paragraphs (2)(A) and (3).
+
+(2) **Prevailing wage requirements**
+
+  (A) *In general* — The requirements described in this subparagraph with respect to any qualified alternative fuel vehicle refueling project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of any qualified alternative fuel vehicle refueling property which is part of such project shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+
+  (B) *Correction and penalty related to failure to satisfy wage requirements* — Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+(3) **Apprenticeship requirements** — Rules similar to the rules of section 45(b)(8) shall apply.
+
+(4) **Regulations and guidance** — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+**(h) Regulations** The Secretary shall prescribe such regulations as necessary to carry out the provisions of this section.
+
+**(i) Termination** This section shall not apply to any property placed in service after December 31, 2032.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (c)(1)(B)
+Pub. L. 117–169, title I, § 13704(b)(2), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (c)(1)(B) of this section is amended by adding at the end the following new clause (iv):
+
+(iv) Any transportation fuel (as defined in section 45Z(d)(5)).
+
+See 2022 Amendment note below.
 
 #### References in Text
 Section 179A as in effect immediately before its repeal, referred to in subsec. (e)(6), means [section 179A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-179a) as in effect before it was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(34)(A), Dec, 19, 2014, 128 Stat. 4042, effective Dec. 19, 2014.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–169, § 13404(b)(1), inserted “(6 percent in the case of property of a character subject to depreciation)” after “30 percent”.
+
+Subsec. (b). Pub. L. 117–169, § 13404(b)(2)(A), in introductory provisions, substituted “with respect to any single item of” for “with respect to all” and struck out “at a location” after “taxable year”.
+
+Subsec. (b)(1). Pub. L. 117–169, § 13404(b)(2)(B), substituted “$100,000 in the case of any such item of property” for “$30,000 in the case of a property”.
+
+Subsec. (c). Pub. L. 117–169, § 13404(b)(3), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to qualified alternative fuel vehicle refueling property.
+
+Subsec. (c)(1)(B)(iv). Pub. L. 117–169, § 13704(b)(2), added cl. (iv).
+
+Subsec. (c)(3). Pub. L. 117–169, § 13404(e), added par. (3).
+
+Subsec. (f). Pub. L. 117–169, § 13404(c), added subsec. (f). Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 117–169, § 13404(d), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 117–169, § 13404(c), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 117–169, § 13404(a), substituted “December 31, 2032” for “December 31, 2021”.
+
+Subsecs. (h), (i). Pub. L. 117–169, § 13404(d), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
+
 2020—Subsec. (g). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (g). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
@@ -5885,6 +6233,11 @@ Subsec. (c). Pub. L. 110–172, § 6(b)(2), reenacted heading without change and
 
 Subsec. (e)(2). Pub. L. 109–135, § 402(k), inserted at end “For purposes of subsection (d), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13404(f), Aug. 16, 2022, 136 Stat. 1968, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2022. “(2) Extension.—The amendments made by subsection (a) [amending this section] shall apply to property placed in service after December 31, 2021.”
+
+Amendment by section 13704(b)(2) of Pub. L. 117–169 applicable to transportation fuel produced after Dec. 31, 2024, see section 13704(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45Z of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45z).
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 143(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
 
@@ -5934,12 +6287,12 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 
 <a id="section-30d"></a>
-## § 30D. New qualified plug-in electric drive motor vehicles
-**(a) Allowance of credit** There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each new qualified plug-in electric drive motor vehicle placed in service by the taxpayer during the taxable year.
+## § 30D. Clean vehicle credit
+**(a) Allowance of credit** There shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each new clean vehicle placed in service by the taxpayer during the taxable year.
 
 **(b) Per vehicle dollar limitation**
 
-(1) **In general** — The amount determined under this subsection with respect to any new qualified plug-in electric drive motor vehicle is the sum of the amounts determined under paragraphs (2) and (3) with respect to such vehicle.
+(1) **In general** — The amount determined under this subsection with respect to any new clean vehicle is the sum of the amounts determined under paragraphs (2) and (3) with respect to such vehicle.
 
 (2) **Base amount** — The amount determined under this paragraph is $2,500.
 
@@ -5951,47 +6304,51 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 (2) **Personal credit** — For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after application of paragraph (1)) shall be treated as a credit allowable under subpart A for such taxable year.
 
-**(d) New qualified plug-in electric drive motor vehicle** For purposes of this section—
+**(d) New clean vehicle** For purposes of this section—
 
-(1) **In general** — The term “new qualified plug-in electric drive motor vehicle” means a motor vehicle—
+(1) **In general** — The term “new clean vehicle” means a motor vehicle—
 
   (A) the original use of which commences with the taxpayer,
 
   (B) which is acquired for use or lease by the taxpayer and not for resale,
 
-  (C) which is made by a manufacturer,
+  (C) which is made by a qualified manufacturer,
 
   (D) which is treated as a motor vehicle for purposes of title II of the Clean Air Act,
 
-  (E) which has a gross vehicle weight rating of less than 14,000 pounds, and
+  (E) which has a gross vehicle weight rating of less than 14,000 pounds,
 
   (F) which is propelled to a significant extent by an electric motor which draws electricity from a battery which—
 
-    (i) has a capacity of not less than 4 kilowatt hours, and
+    (i) has a capacity of not less than 7 kilowatt hours, and
 
-    (ii) is capable of being recharged from an external source of electricity.
+    (ii) is capable of being recharged from an external source of electricity,
+
+  (G) the final assembly of which occurs within North America, and
+
+  (H) for which the person who sells any vehicle to the taxpayer furnishes a report to the taxpayer and to the Secretary, at such time and in such manner as the Secretary shall provide, containing—
+
+    (i) the name and taxpayer identification number of the taxpayer,
+
+    (ii) the vehicle identification number of the vehicle, unless, in accordance with any applicable rules promulgated by the Secretary of Transportation, the vehicle is not assigned such a number,
+
+    (iii) the battery capacity of the vehicle,
+
+    (iv) verification that original use of the vehicle commences with the taxpayer, and
+
+    (v) the maximum credit under this section allowable to the taxpayer with respect to the vehicle.
 
 (2) **Motor vehicle** — The term “motor vehicle” means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
 
-(3) **Manufacturer** — The term “manufacturer” has the meaning given such term in regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act ([42 U.S.C. 7521](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7521&num=0&edition=prelim) et seq.).
+(3) **Qualified manufacturer** — he term “qualified manufacturer” means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act ([42 U.S.C. 7521](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7521&num=0&edition=prelim) et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require.
 
 (4) **Battery capacity** — The term “capacity” means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
 
-**(e) Limitation on number of new qualified plug-in electric drive motor vehicles eligible for credit**
+(5) **Final assembly** — For purposes of paragraph (1)(G), the term “final assembly” means the process by which a manufacturer produces a new clean vehicle at, or through the use of, a plant, factory, or other place from which the vehicle is delivered to a dealer or importer with all component parts necessary for the mechanical operation of the vehicle included with the vehicle, whether or not the component parts are permanently installed in or on the vehicle.
 
-(1) **In general** — In the case of a new qualified plug-in electric drive motor vehicle sold during the phaseout period, only the applicable percentage of the credit otherwise allowable under subsection (a) shall be allowed.
+(6) **New qualified fuel cell motor vehicle** — For purposes of this section, the term “new clean vehicle” shall include any new qualified fuel cell motor vehicle (as defined in section 30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).
 
-(2) **Phaseout period** — For purposes of this subsection, the phaseout period is the period beginning with the second calendar quarter following the calendar quarter which includes the first date on which the number of new qualified plug-in electric drive motor vehicles manufactured by the manufacturer of the vehicle referred to in paragraph (1) sold for use in the United States after December 31, 2009, is at least 200,000.
-
-(3) **Applicable percentage** — For purposes of paragraph (1), the applicable percentage is—
-
-  (A) 50 percent for the first 2 calendar quarters of the phaseout period,
-
-  (B) 25 percent for the 3d and 4th calendar quarters of the phaseout period, and
-
-  (C) 0 percent for each calendar quarter thereafter.
-
-(4) **Controlled groups** — Rules similar to the rules of section 30B(f)(4) shall apply for purposes of this subsection.
+**(e) Repealed. Pub. L. 117–169, title I, § 13401(d), Aug. 16, 2022, 136 Stat. 1956]**
 
 **(f) Special rules**
 
@@ -6012,6 +6369,48 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
   (A) the applicable provisions of the Clean Air Act for the applicable make and model year of the vehicle (or applicable air quality provisions of State law in the case of a State which has adopted such provision under a waiver under section 209(b) of the Clean Air Act), and
 
   (B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
+
+(8) **One credit per vehicle** — In the case of any vehicle, the credit described in subsection (a) shall only be allowed once with respect to such vehicle, as determined based upon the vehicle identification number of such vehicle.
+
+(9) **VIN requirement** — No credit shall be allowed under this section with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.
+
+(10) **Limitation based on modified adjusted gross income**
+
+  (A) *In general* — No credit shall be allowed under subsection (a) for any taxable year if—
+
+    (i) the lesser of—
+
+      (I) the modified adjusted gross income of the taxpayer for such taxable year, or
+
+      (II) the modified adjusted gross income of the taxpayer for the preceding taxable year, exceeds
+
+    (ii) the threshold amount.
+
+  (B) *Threshold amount* — For purposes of subparagraph (A)(ii), the threshold amount shall be—
+
+    (i) in the case of a joint return or a surviving spouse (as defined in section 2(a)), $300,000,
+
+    (ii) in the case of a head of household (as defined in section 2(b)), $225,000, and
+
+    (iii) in the case of a taxpayer not described in clause (i) or (ii), $150,000.
+
+  (C) *Modified adjusted gross income* — For purposes of this paragraph, the term “modified adjusted gross income” means adjusted gross income increased by any amount excluded from gross income under section 911, 931, or 933.
+
+(11) **Manufacturer’s suggested retail price limitation**
+
+  (A) *In general* — No credit shall be allowed under subsection (a) for a vehicle with a manufacturer’s suggested retail price in excess of the applicable limitation.
+
+  (B) *Applicable limitation* — For purposes of subparagraph (A), the applicable limitation for each vehicle classification is as follows:
+
+    (i) *Vans* — In the case of a van, $80,000.
+
+    (ii) *Sport utility vehicles* — In the case of a sport utility vehicle, $80,000.
+
+    (iii) *Pickup trucks* — In the case of a pickup truck, $80,000.
+
+    (iv) *Other* — In the case of any other vehicle, $55,000.
+
+  (C) *Regulations and guidance* — For purposes of this paragraph, the Secretary shall prescribe such regulations or other guidance as the Secretary determines necessary for determining vehicle classifications using criteria similar to that employed by the Environmental Protection Agency and the Department of the Energy to determine size and class of vehicles.
 
 **(g) Credit allowed for 2- and 3-wheeled plug-in electric vehicles**
 
@@ -6043,12 +6442,247 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
     (ii) in the case of a vehicle that has 2 wheels, after December 31, 2014, and before January 1, 2022.
 
+**(h) Termination** No credit shall be allowed under this section with respect to any vehicle placed in service after December 31, 2032.
+
 ### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 117–169, title I, § 13401(a), (e), (k)(3), Aug. 16, 2022, 136 Stat. 1954, 1956, 1961, provided that, applicable to vehicles placed in service after the date on which the proposed guidance described in subsection (e)(3)(B) of this section, set out below, is issued by the Secretary of the Treasury (or the Secretary’s delegate), this section is amended as follows:
+
+(1) in subsection (b), by striking paragraphs (2) and (3) and inserting the following:
+
+“(2) Critical minerals
+
+“In the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.
+
+“(3) Battery components
+
+“In the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750.”;
+
+(2) in subsection (d), by adding at the end the following:
+
+“(7) Excluded entities
+
+“For purposes of this section, the term ‘new clean vehicle’ shall not include—
+
+“(A) any vehicle placed in service after December 31, 2024, with respect to which any of the applicable critical minerals contained in the battery of such vehicle (as described in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and Jobs Act ([42 U.S.C. 18741(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18741/a/5&num=0&edition=prelim))), or
+
+“(B) any vehicle placed in service after December 31, 2023, with respect to which any of the components contained in the battery of such vehicle (as described in subsection (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined).”; and
+
+(3) by inserting after subsection (d) the following:
+
+“(e) Critical mineral and battery component requirements
+
+“(1) Critical minerals requirement
+
+“(A) In general
+
+“The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the applicable critical minerals (as defined in section 45X(c)(6)) contained in such battery that were—
+
+“(i) extracted or processed—
+
+“(I) in the United States, or
+
+“(II) in any country with which the United States has a free trade agreement in effect, or
+
+“(ii) recycled in North America,
+
+is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).
+
+“(B) Applicable percentage
+
+“For purposes of subparagraph (A), the applicable percentage shall be—
+
+“(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 40 percent,
+
+“(ii) in the case of a vehicle placed in service during calendar year 2024, 50 percent,
+
+“(iii) in the case of a vehicle placed in service during calendar year 2025, 60 percent,
+
+“(iv) in the case of a vehicle placed in service during calendar year 2026, 70 percent, and
+
+“(v) in the case of a vehicle placed in service after December 31, 2026, 80 percent.
+
+“(2) Battery components
+
+“(A) In general
+
+“The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the components contained in such battery that were manufactured or assembled in North America is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).
+
+“(B) Applicable percentage
+
+“For purposes of subparagraph (A), the applicable percentage shall be—
+
+“(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 50 percent,
+
+“(ii) in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent,
+
+“(iii) in the case of a vehicle placed in service during calendar year 2026, 70 percent,
+
+“(iv) in the case of a vehicle placed in service during calendar year 2027, 80 percent,
+
+“(v) in the case of a vehicle placed in service during calendar year 2028, 90 percent,
+
+“(vi) in the case of a vehicle placed in service after December 31, 2028, 100 percent.
+
+“(3) Regulations and guidance
+
+“(A) In general
+
+“The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+“(B) Deadline for proposed guidance
+
+“Not later than December 31, 2022, the Secretary shall issue proposed guidance with respect to the requirements under this subsection.”
+
+See 2022 Amendment notes below.
+
+Pub. L. 117–169, title I, § 13401(g), (k)(4), Aug. 16, 2022, 136 Stat. 1958, 1962, provided that, applicable to vehicles placed in service after Dec. 31, 2023, this section is amended as follows:
+
+(1) in subsection (d)(1)(H), by striking “and” at the end of clause (iv), striking the period at the end of clause (v) and inserting “, and”, and adding at the end the following:
+
+“(vi) in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer.”;
+
+(2) in subsection (f):
+
+(A) by striking paragraph (3); and
+
+(B) in paragraph (8), by inserting “, including any vehicle with respect to which the taxpayer elects the application of subsection (g)” before the period at the end; and
+
+(3) by striking subsection (g) and inserting the following:
+
+“(g) Transfer of credit
+
+“(1) In general
+
+“Subject to such regulations or other guidance as the Secretary determines necessary, if the taxpayer who acquires a new clean vehicle elects the application of this subsection with respect to such vehicle, the credit which would (but for this subsection) be allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible entity specified in such election (and not to such taxpayer).
+
+“(2) Eligible entity
+
+“For purposes of this subsection, the term ‘eligible entity’ means, with respect to the vehicle for which the credit is allowed under subsection (a), the dealer which sold such vehicle to the taxpayer and has—
+
+“(A) subject to paragraph (4), registered with the Secretary for purposes of this paragraph, at such time, and in such form and manner, as the Secretary may prescribe,
+
+“(B) prior to the election described in paragraph (1) and not later than at the time of such sale, disclosed to the taxpayer purchasing such vehicle—
+
+“(i) the manufacturer’s suggested retail price,
+
+“(ii) the value of the credit allowed and any other incentive available for the purchase of such vehicle, and
+
+“(iii) the amount provided by the dealer to such taxpayer as a condition of the election described in paragraph (1),
+
+“(C) not later than at the time of such sale, made payment to such taxpayer (whether in cash or in the form of a partial payment or down payment for the purchase of such vehicle) in an amount equal to the credit otherwise allowable to such taxpayer, and
+
+“(D) with respect to any incentive otherwise available for the purchase of a vehicle for which a credit is allowed under this section, including any incentive in the form of a rebate or discount provided by the dealer or manufacturer, ensured that—
+
+“(i) the availability or use of such incentive shall not limit the ability of a taxpayer to make an election described in paragraph (1), and
+
+“(ii) such election shall not limit the value or use of such incentive.
+
+“(3) Timing
+
+“An election described in paragraph (1) shall be made by the taxpayer not later than the date on which the vehicle for which the credit is allowed under subsection (a) is purchased.
+
+“(4) Revocation of registration
+
+“Upon determination by the Secretary that a dealer has failed to comply with the requirements described in paragraph (2), the Secretary may revoke the registration (as described in subparagraph (A) of such paragraph) of such dealer.
+
+“(5) Tax treatment of payments
+
+“With respect to any payment described in paragraph (2)(C), such payment—
+
+“(A) shall not be includible in the gross income of the taxpayer, and
+
+“(B) with respect to the dealer, shall not be deductible under this title.
+
+“(6) Application of certain other requirements
+
+“In the case of any election under paragraph (1) with respect to any vehicle—
+
+“(A) the requirements of paragraphs (1) and (2) of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as if the credit determined under this section with respect to such vehicle were allowed to such taxpayer,
+
+“(B) paragraph (6) of such subsection shall not apply, and
+
+“(C) the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied if the eligible entity provides the vehicle identification number of such vehicle to the Secretary in such manner as the Secretary may provide.
+
+“(7) Advance payment to registered dealers
+
+“(A) In general
+
+“The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph (1) has been made.
+
+“(B) Excessive payments
+
+“Rules similar to the rules of section 6417(d)(6) shall apply for purposes of this paragraph.
+
+“(C) Treatment of advance payments
+
+“For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under subparagraph (A) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+“(8) Dealer
+
+“For purposes of this subsection, the term ‘dealer’ means a person licensed by a State, the District of Columbia, the Commonwealth of Puerto Rico, any other territory or possession of the United States, an Indian tribal government, or any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/m&num=0&edition=prelim)) to engage in the sale of vehicles.
+
+“(9) Indian tribal government
+
+“For purposes of this subsection, the term ‘Indian tribal government’ means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 5131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim)).
+
+“(10) Recapture
+
+“In the case of any taxpayer who has made an election described in paragraph (1) with respect to a new clean vehicle and received a payment described in paragraph (2)(C) from an eligible entity, if the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer.”
+
+See 2022 Amendment notes below.
 
 #### References in Text
 The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to [section 7543(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7543/b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Pub. L. 117–169, § 13401(i)(1), substituted “Clean vehicle credit” for “New qualified plug-in electric drive motor vehicles” in section catchline.
+
+Subsec. (a). Pub. L. 117–169, § 13401(c)(2)(A), substituted “new clean vehicle” for “new qualified plug-in electric drive motor vehicle”.
+
+Subsec. (b)(1). Pub. L. 117–169, § 13401(c)(2)(B), substituted “new clean vehicle” for “new qualified plug-in electric drive motor vehicle”.
+
+Subsec. (b)(2), (3). Pub. L. 117–169, § 13401(a), added pars. (2) and (3) and struck out former pars. (2) and (3) which related to base amount and amount based on battery capacity to be used to determine amount of credit.
+
+Subsec. (d). Pub. L. 117–169, § 13401(c)(1)(A), substituted “clean” for “qualified plug-in electric drive motor” in heading.
+
+Subsec. (d)(1). Pub. L. 117–169, § 13401(c)(1)(B)(i), substituted “clean” for “qualified plug-in electric drive motor” in introductory provisions.
+
+Subsec. (d)(1)(C). Pub. L. 117–169, § 13401(c)(1)(B)(ii), inserted “qualified” before “manufacturer”.
+
+Subsec. (d)(1)(F)(i). Pub. L. 117–169, § 13401(c)(1)(B)(iii)(I), substituted “7” for “4”.
+
+Subsec. (d)(1)(G). Pub. L. 117–169, § 13401(b)(1), added subpar. (G).
+
+Subsec. (d)(1)(H). Pub. L. 117–169, § 13401(c)(1)(B)(iii)(II), (iv), (v), added subpar. (H).
+
+Subsec. (d)(1)(H)(vi). Pub. L. 117–169, § 13401(g)(2)(A), added cl. (vi).
+
+Subsec. (d)(3). Pub. L. 117–169, § 13401(c)(1)(C), substituted “Qualified manufacturer” for “Manufacturer” in heading and, in text, substituted “The term ‘qualified manufacturer’ means any manufacturer (within the meaning of the” for “The term ‘manufacturer’ has the meaning given such term in” and inserted “) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require” before period at end.
+
+Subsec. (d)(5). Pub. L. 117–169, § 13401(b)(2), added par. (5).
+
+Subsec. (d)(6). Pub. L. 117–169, § 13401(c)(1)(D), added par. (6).
+
+Subsec. (d)(7). Pub. L. 117–169, § 13401(e)(2), added par. (7).
+
+Subsec. (e). Pub. L. 117–169, § 13401(e)(1), added subsec. (e).
+
+Pub. L. 117–169, § 13401(d), struck out subsec. (e) which related to limitation on number of new qualified plug-in electric drive motor vehicles eligible for credit.
+
+Subsec. (f)(3). Pub. L. 117–169, § 13401(g)(2)(B)(i), struck out par. (3). Prior to amendment, text read as follows: “In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+
+Subsec. (f)(8). Pub. L. 117–169, § 13401(g)(2)(B)(ii), inserted “, including any vehicle with respect to which the taxpayer elects the application of subsection (g)” before period at end.
+
+Pub. L. 117–169, § 13401(f), added par. (8).
+
+Subsec. (f)(9) to (11). Pub. L. 117–169, § 13401(f), added pars. (9) to (11).
+
+Subsec. (g). Pub. L. 117–169, § 13401(g)(1), added subsec. (g) and struck out former subsec. (g) which related to credit allowed for 2- and 3-wheeled plug-in electric vehicles.
+
+Subsec. (h). Pub. L. 117–169, § 13401(h), added subsec. (h).
+
 2020—Subsec. (g)(3)(E)(ii). Pub. L. 116–260 substituted “January 1, 2022” for “January 1, 2021”.
 
 2019—Subsec. (g)(3)(E)(ii). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2018”.
@@ -6072,6 +6706,11 @@ Subsec. (g). Pub. L. 112–240, § 403(a), added subsec. (g).
 2010—Subsec. (c)(2)(B)(ii). Pub. L. 111–148, § 10909(b)(2)(H), (c), as amended by Pub. L. 111–312, temporarily substituted “section 25D” for “sections 23 and 25D”. See Effective and Termination Dates of 2010 Amendment note below.
 
 2009—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
+
+#### Effective Date of 2022 Amendment; Transition Rule
+Pub. L. 117–169, title I, § 13401(k), Aug. 16, 2022, 136 Stat. 1961, provided that: “(1) In general.—Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section [amending this section and sections 30B, 38, 6213, and 6501 of this title] shall apply to vehicles placed in service after December 31, 2022. “(2) Final assembly.—The amendments made by subsection (b) [amending this section] shall apply to vehicles sold after the date of enactment of this Act [Aug. 16, 2022]. “(3) Per vehicle dollar limitation and related requirements.—The amendments made by subsections (a) and (e) [amending this section] shall apply to vehicles placed in service after the date on which the proposed guidance described in paragraph (3)(B) of section 30D(e) of the Internal Revenue Code of 1986 (as added by subsection (e)) is issued by the Secretary of the Treasury (or the Secretary’s delegate). “(4) Transfer of credit.—The amendments made by subsection (g) [amending this section] shall apply to vehicles placed in service after December 31, 2023. “(5) Elimination of manufacturer limitation.—The amendment made by subsection (d) [amending this section] shall apply to vehicles sold after December 31, 2022.”
+
+Pub. L. 117–169, title I, § 13401(l), Aug. 16, 2022, 136 Stat. 1962, provided that: “Solely for purposes of the application of section 30D of the Internal Revenue Code of 1986, in the case of a taxpayer that—“(1) after December 31, 2021, and before the date of enactment of this Act [Aug. 16, 2022], purchased, or entered into a written binding contract to purchase, a new qualified plug-in electric drive motor vehicle (as defined in section 30D(d)(1) of the Internal Revenue Code of 1986, as in effect on the day before the date of enactment of this Act), and “(2) placed such vehicle in service on or after the date of enactment of this Act, such taxpayer may elect (at such time, and in such form and manner, as the Secretary of the Treasury, or the Secretary’s delegate, may prescribe) to treat such vehicle as having been placed in service on the day before the date of enactment of this Act.”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 144(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to vehicles acquired after December 31, 2020.”
@@ -6103,6 +6742,9 @@ Amendment by Pub. L. 111–5 applicable to vehicles acquired after Dec. 31, 2009
 
 #### Effective Date
 Section applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
+
+#### Gross-Up of Direct Spending
+Pub. L. 117–169, title I, § 13401(j), Aug. 16, 2022, 136 Stat. 1961, provided that: “Beginning in fiscal year 2023 and each fiscal year thereafter, the portion of any credit allowed to an eligible entity (as defined in section 30D(g)(2) of the Internal Revenue Code of 1986) pursuant to an election made under section 30D(g) of the Internal Revenue Code of 1986 that is direct spending shall be increased by 6.0445 percent.”
 
 
 <a id="section-31"></a>
@@ -6392,7 +7034,7 @@ any refund made to an individual (or the spouse of an individual) by reason of t
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (c)(2)(B)(v), (m), and (n)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B and E of title IV of the Act are classified generally to parts A (§ 601 et seq.), B (§ 620 et seq.), and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Sections 205(c)(2)(B)(i) and 407(d)(4), (7) of the Act are classified to sections 405(c)(2)(B)(i) and 607(d)(4), (7), respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (c)(2)(B)(v), (m), and (n)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B, and E of title IV of the Act are classified generally to parts A (§ 601 et seq.), B (§ 620 et seq.), and E (§ 670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Sections 205(c)(2)(B)(i) and 407(d)(4), (7) of the Act are classified to sections 405(c)(2)(B)(i) and 607(d)(4), (7), respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (l)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under [section 1437 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim) and Tables.
 
@@ -7709,7 +8351,7 @@ Pub. L. 111–5, div. B, title I, § 1001(b), Feb. 17, 2009, 123 Stat. 310, with
 
       (III) *Failsafe* — Subclause (II) shall apply for any calendar year only if the aggregate amount of premium tax credits under this section and cost-sharing reductions under section 1402 of the Patient Protection and Affordable Care Act for the preceding calendar year exceeds an amount equal to 0.504 percent of the gross domestic product for the preceding calendar year.
 
-    (iii) *Temporary percentages for 2021 and 2022* — In the case of a taxable year beginning in 2021 or 2022—
+    (iii) *Temporary percentages for 2021 through 2025* — In the case of a taxable year beginning after December 31, 2020, and before January 1, 2026—
 
       (I) clause (ii) shall not apply for purposes of adjusting premium percentages under this subparagraph, and
 
@@ -7758,7 +8400,7 @@ Pub. L. 111–5, div. B, title I, § 1001(b), Feb. 17, 2009, 123 Stat. 310, with
 
   (D) *Denial of credit to dependents* — No credit shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual’s taxable year begins.
 
-  (E) *Temporary rule for 2021 and 2022* — In the case of a taxable year beginning in 2021 or 2022, subparagraph (A) shall be applied without regard to “but does not exceed 400 percent”.
+  (E) *Temporary rule for 2021 through 2025* — In the case of a taxable year beginning after December 31, 2020, and before January 1, 2026, subparagraph (A) shall be applied without regard to “but does not exceed 400 percent”.
 
 (2) **Coverage month** — For purposes of this subsection—
 
@@ -7947,6 +8589,10 @@ Section 1311(d)(2)(B)(ii)(I) of the Patient Protection and Affordable Care Act, 
 The Social Security Act, referred to in subsec. (c)(1)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(3)(A)(iii). Pub. L. 117–169, § 12001(a), substituted “2021 through 2025” for “2021 and 2022” in heading and “after December 31, 2020, and before January 1, 2026” for “in 2021 or 2022” in introductory provisions.
+
+Subsec. (c)(1)(E). Pub. L. 117–169, § 12001(b), substituted “2021 through 2025” for “2021 and 2022” in heading and “after December 31, 2020, and before January 1, 2026” for “in 2021 or 2022” in text.
+
 2021—Subsec. (b)(3)(A)(iii). Pub. L. 117–2, § 9661(a), added cl. (iii).
 
 Subsec. (c)(1)(E). Pub. L. 117–2, § 9661(b), added subpar. (E).
@@ -8002,6 +8648,9 @@ Subsec. (f)(2)(B). Pub. L. 111–309, § 208(a), amended generally subpar. headi
 Subsec. (f)(2)(B)(ii). Pub. L. 111–309, § 208(b), inserted “in the table contained” after “each of the dollar amounts” in introductory provisions.
 
 Subsec. (f)(3). Pub. L. 111–152, § 1004(c), added par. (3).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 12001(c), Aug. 16, 2022, 136 Stat. 1906, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2022.”
 
 #### Effective Date of 2021 Amendment
 Pub. L. 117–2, title IX, § 9661(c), Mar. 11, 2021, 135 Stat. 183, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020.”
@@ -8123,13 +8772,21 @@ A prior section 37 was renumbered [section 22 of this title](./chapter-001-norma
 
 (29) the carbon dioxide sequestration credit determined under section 45Q(a),
 
-(30) the portion of the new qualified plug-in electric drive motor vehicle credit to which section 30D(c)(1) applies,
+(30) the portion of the new clean vehicle credit to which section 30D(c)(1) applies,
 
 (31) the small employer health insurance credit determined under section 45R,
 
 (32) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a), plus
 
 (33) in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a).
+
+(35) 11 See Amendment of Subsection (b) note below. the sustainable aviation fuel credit determined under section 40B,
+
+(36) the clean hydrogen production credit determined under section 45V(a),
+
+(37) the qualified commercial clean vehicle credit determined under section 45W, plus
+
+(38) the advanced manufacturing production credit determined under section 45X(a).
 
 **(c) Limitation based on amount of tax**
 
@@ -8221,7 +8878,13 @@ A prior section 37 was renumbered [section 22 of this title](./chapter-001-norma
 
   (D) *Estates and trusts* — In the case of an estate or trust, the $25,000 amount specified under subparagraph (B) of paragraph (1) shall be reduced to an amount which bears the same ratio to $25,000 as the portion of the income of the estate or trust which is not allocated to beneficiaries bears to the total income of the estate or trust.
 
-  (E) *Corporations* — In the case of a corporation, this subsection shall be applied by treating the corporation as having a tentative minimum tax of zero.
+  (E) *Corporations* — In the case of a corporation—
+
+    (i) the first sentence of paragraph (1) shall be applied by substituting “25 percent of the taxpayer’s net income tax as exceeds $25,000” for “the greater of” and all that follows,
+
+    (ii) paragraph (2)(A) shall be applied without regard to clause (ii)(I) thereof, and
+
+    (iii) paragraph (4)(A) shall be applied without regard to clause (ii)(I) thereof.
 
 **(d) Ordering rules** For purposes of any provision of this title where it is necessary to ascertain the extent to which the credits determined under any section referred to in subsection (b) are used in a taxable year or as a carryback or carryforward—
 
@@ -8230,6 +8893,25 @@ A prior section 37 was renumbered [section 22 of this title](./chapter-001-norma
 (2) **Components of investment credit** — The order in which the credits listed in section 46 are used shall be determined on the basis of the order in which such credits are listed in section 46 as of the close of the taxable year in which the credit is used.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (b)
+Pub. L. 117–169, title I, § 13105(b)(1), (c), Aug. 16, 2022, 136 Stat. 1931, provided that, applicable to electricity produced and sold after Dec. 31, 2023, in taxable years beginning after such date, subsection (b) of this section is amended by striking “plus” at the end of paragraph (32), striking the period at the end of paragraph (33) and inserting “, plus”, and adding at the end the following new paragraph:
+
+(34) the zero-emission nuclear power production credit determined under section 45U(a).
+
+See 2022 Amendment note below.
+
+Pub. L. 117–169, title I, § 13701(b)(1), (c), Aug. 16, 2022, 136 Stat. 1990, provided that, applicable to facilities placed in service after Dec. 31, 2024, subsection (b) of this section is amended by striking “plus” at the end of paragraph (37), striking the period at the end of paragraph (38) and inserting “, plus”, and adding at the end the following new paragraph:
+
+(39) the clean electricity production credit determined under section 45Y(a).
+
+See 2022 Amendment note below.
+
+Pub. L. 117–169, title I, § 13704(b)(3), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (b) of this section is amended by striking “plus” at the end of paragraph (38), striking the period at the end of paragraph (39) and inserting “, plus”, and adding at the end the following new paragraph:
+
+(40) the clean fuel production credit determined under section 45Z(a).
+
+See 2022 Amendment note below.
 
 #### References in Text
 The date of the enactment of this paragraph, referred to in subsec. (c)(4)(B)(iv)(I), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
@@ -8245,6 +8927,24 @@ A prior section 38, added Pub. L. 87–834, § 2(a), Oct. 16, 1962, 76 Stat. 962
 Another prior section 38 was renumbered [section 37 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-37).
 
 #### Amendments
+2022—Subsec. (b)(30). Pub. L. 117–169, § 13401(i)(3), substituted “clean” for “qualified plug-in electric drive motor”.
+
+Subsec. (b)(34). Pub. L. 117–169, § 13105(b)(1), added par. (34).
+
+Subsec. (b)(35). Pub. L. 117–169, § 13203(b), added par. (35).
+
+Subsec. (b)(36). Pub. L. 117–169, § 13204(a)(4)(A), added par. (36).
+
+Subsec. (b)(37). Pub. L. 117–169, § 13403(b)(1), added par. (37).
+
+Subsec. (b)(38). Pub. L. 117–169, § 13502(b)(1), added par. (38).
+
+Subsec. (b)(39). Pub. L. 117–169, § 13701(b)(1), added par. (39).
+
+Subsec. (b)(40). Pub. L. 117–169, § 13704(b)(3), added par. (40).
+
+Subsec. (c)(6)(E). Pub. L. 117–169, § 10101(d), amended subpar. (E) generally. Prior to amendment, text read as follows: “In the case of a corporation, this subsection shall be applied by treating the corporation as having a tentative minimum tax of zero.”
+
 2019—Subsec. (b)(33). Pub. L. 116–94 added par. (33).
 
 2018—Subsec. (b)(24), (25). Pub. L. 115–141, § 401(d)(2)(B), redesignated pars. (25) and (26) as (24) and (25), respectively, and struck out former par. (24) which read as follows: “the energy efficient appliance credit determined under section 45M(a),”.
@@ -8497,6 +9197,25 @@ Pub. L. 99–514, § 231(d)(3)(B), inserted “41(a),” after “40(a),”.
 
 1984—Subsec. (c)(2). Pub. L. 98–369, § 612(e)(1), substituted “section 26(b)” for “section 25(b)”.
 
+#### Effective Date of 2022 Amendment
+Amendment by section 10101(d) of Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
+
+Amendment by section 13105(b)(1) of Pub. L. 117–169 applicable to electricity produced and sold after Dec. 31, 2023, in taxable years beginning after such date, see section 13105(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45U of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45u).
+
+Amendment by section 13203(b) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2022, see section 13203(f) of Pub. L. 117–169, set out as an Effective Date note under [section 40B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40b).
+
+Amendment by section 13204(a)(4)(A) of Pub. L. 117–169 applicable to hydrogen produced after Dec. 31, 2022, see section 13204(a)(5)(A) of Pub. L. 117–169, set out in an Effective Date note under [section 45V of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45v).
+
+Amendment by section 13401(i)(3) of Pub. L. 117–169 applicable to vehicles placed in service after Dec. 31, 2022, see section 13401(k)(1) of Pub. L. 117–169, set out in an Effective Date of 2022 Amendment; Transition Rule note under [section 30D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30d).
+
+Amendment by section 13403(b)(1) of Pub. L. 117–169 applicable to vehicles acquired after Dec. 31, 2022, see section 13403(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45W of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45w).
+
+Amendment by section 13502(b)(1) of Pub. L. 117–169 applicable to components produced and sold after Dec. 31, 2022, see section 13502(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45X of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45x).
+
+Amendment by section 13701(b)(1) of Pub. L. 117–169 applicable to facilities placed in service after Dec. 31, 2024, see section 13701(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45Y of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45y).
+
+Amendment by section 13704(b)(3) of Pub. L. 117–169 applicable to transportation fuel produced after Dec. 31, 2024, see section 13704(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45Z of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45z).
+
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. O, title I, § 105(d), Dec. 20, 2019, 133 Stat. 3148, provided that: “The amendments made by this section [enacting [section 45T of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45t) and amending this section] shall apply to taxable years beginning after December 31, 2019.”
 
@@ -8710,6 +9429,18 @@ Section 203(e) of Pub. L. 88–272, not applicable to public utility property to
 
     (ii) by substituting “24 taxable years” for “20 taxable years” in subparagraph (B) thereof.
 
+(4) **3-year carryback for applicable credits** — Notwithstanding subsection (d), in the case of any applicable credit (as defined in section 6417(b))—
+
+  (A) this section shall be applied separately from the business credit (other than the applicable credit),
+
+  (B) paragraph (1) shall be applied by substituting “each of the 3 taxable years” for “the taxable year” in subparagraph (A) thereof, and
+
+  (C) paragraph (2) shall be applied—
+
+    (i) by substituting “23 taxable years” for “21 taxable years” in subparagraph (A) thereof, and
+
+    (ii) by substituting “22 taxable years” for “20 taxable years” in subparagraph (B) thereof.
+
 **(b) Limitation on carrybacks** The amount of the unused credit which may be taken into account under section 38(a)(3) for any preceding taxable year shall not exceed the amount by which the limitation imposed by section 38(c) for such taxable year exceeds the sum of—
 
 (1) the amounts determined under paragraphs (1) and (2) of section 38(a) for such taxable year, plus
@@ -8728,6 +9459,8 @@ A prior section 39 was renumbered [section 34 of this title](./chapter-001-norma
 Another prior section 39 was renumbered [section 37 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-37).
 
 #### Amendments
+2022—Subsec. (a)(4). Pub. L. 117–169 added par. (4).
+
 2018—Subsec. (a)(3)(A). Pub. L. 115–141, § 401(b)(5)(F), struck out “or the eligible small business credits” after “gas well production credit)”.
 
 Subsec. (a)(4). Pub. L. 115–141, § 401(b)(5)(E), struck out par. (4) which related to 5-year carryback for eligible small business credits.
@@ -8783,6 +9516,9 @@ Pub. L. 101–508, § 11511(b)(2), added par. (5) relating to carryback of enhan
 Subsec. (d)(2)(B). Pub. L. 99–514, § 1846(2), substituted “as defined in section 26(b)” for “as so defined in section 25(b)”.
 
 Subsec. (d)(3). Pub. L. 99–514, § 231(d)(3)(C)(i), added par. (3).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 13801(g) of Pub. L. 117–169, set out as an Effective Date note under [section 6417 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6417).
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–240, title II, § 2012(c), Sept. 27, 2010, 124 Stat. 2554, provided that: “The amendments made by this section [amending this section] shall apply to credits determined in taxable years beginning after December 31, 2009.”
@@ -8979,7 +9715,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
   (J) *Application of paragraph*
 
-    (i) *In general* — This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2022.
+    (i) *In general* — This paragraph shall apply with respect to qualified second generation biofuel production after December 31, 2008, and before January 1, 2025.
 
     (ii) *No carryover to certain years after expiration* — If this paragraph ceases to apply for any period by reason of clause (i), rules similar to the rules of subsection (e)(2) shall apply.
 
@@ -9129,6 +9865,8 @@ A prior section 40, added Pub. L. 92–178, title VI, § 601(a), Dec. 10, 1971, 
 Another prior section 40 was renumbered [section 37 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-37).
 
 #### Amendments
+2022—Subsec. (b)(6)(J)(i). Pub. L. 117–169 substituted “2025” for “2022”.
+
 2020—Subsec. (b)(6)(J)(i). Pub. L. 116–260 substituted “January 1, 2022” for “January 1, 2021”.
 
 2019—Subsec. (b)(6)(J)(i). Pub. L. 116–94 substituted “January 1, 2021” for “January 1, 2018”.
@@ -9303,6 +10041,9 @@ Subsec. (d)(3)(A), (B). Pub. L. 97–424, § 511(d)(3), substituted “50 cents�
 
 1981—Subsec. (e)(2)(A). Pub. L. 97–34 substituted “15” for “7” in two places, and “14” for “6” in one place.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13202(b), Aug. 16, 2022, 136 Stat. 1932, provided that: “The amendment made by subsection (a) [amending this section] shall apply to qualified second generation biofuel production after December 31, 2021.”
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 140(b), Dec. 27, 2020, 134 Stat. 3054, provided that: “The amendment made by this section [amending this section] shall apply to qualified second generation biofuel production after December 31, 2020.”
 
@@ -9456,7 +10197,7 @@ Pub. L. 96–223, title II, § 232(h)(1), (4), Apr. 2, 1980, 94 Stat. 281, as am
   (A) the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 211 of the Clean Air Act ([42 U.S.C. 7545](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7545&num=0&edition=prelim)), and
 
   (B) the requirements of the American Society of Testing and Materials D6751.
-  Such term shall not include any liquid with respect to which a credit may be determined under section 40.
+  Such term shall not include any liquid with respect to which a credit may be determined under section 40 or 40B.
 
 (2) **Agri-biodiesel** — The term “agri-biodiesel” means biodiesel derived solely from virgin oils, including esters derived from virgin vegetable oils from corn, soybeans, sunflower seeds, cottonseeds, canola, crambe, rapeseeds, safflowers, flaxseeds, rice bran, mustard seeds, and camelina, and from animal fats.
 
@@ -9543,13 +10284,7 @@ Pub. L. 96–223, title II, § 232(h)(1), (4), Apr. 2, 1980, 94 Stat. 281, as am
   (B) the requirements of the American Society of Testing and Materials D975 or D396, or other equivalent standard approved by the Secretary.
   Such term shall not include any liquid with respect to which a credit may be determined under section 40. Such term does not include any fuel derived from coprocessing biomass with a feedstock which is not biomass. For purposes of this paragraph, the term “biomass” has the meaning given such term by section 45K(c)(3).
 
-(4) **Certain aviation fuel**
-
-  (A) *In general* — Except as provided in the last 3 sentences of paragraph (3), the term “renewable diesel” shall include fuel derived from biomass which meets the requirements of a Department of Defense specification for military jet fuel or an American Society of Testing and Materials specification for aviation turbine fuel.
-
-  (B) *Application of mixture credits* — In the case of fuel which is treated as renewable diesel solely by reason of subparagraph (A), subsection (b)(1) and section 6426(c) shall be applied with respect to such fuel by treating kerosene as though it were diesel fuel.
-
-**(g) Termination** This section shall not apply to any sale or use after December 31, 2022.
+**(g) Termination** This section shall not apply to any sale or use after December 31, 2024.
 
 ### Statutory Notes
 
@@ -9557,6 +10292,12 @@ Pub. L. 96–223, title II, § 232(h)(1), (4), Apr. 2, 1980, 94 Stat. 281, as am
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–169, § 13203(c)(1), inserted “or 40B” after “determined under section 40” in concluding provisions.
+
+Subsec. (f)(4). Pub. L. 117–169, § 13203(c)(2), struck out par. (4) which defined renewable diesel to include certain aviation fuel.
+
+Subsec. (g). Pub. L. 117–169, § 13201(a), substituted “December 31, 2024” for “December 31, 2022”.
+
 2019—Subsec. (g). Pub. L. 116–94 substituted “December 31, 2022” for “December 31, 2017”.
 
 2018—Subsec. (g). Pub. L. 115–123 substituted “December 31, 2017” for “December 31, 2016”.
@@ -9629,6 +10370,11 @@ Pub. L. 109–58, § 1345(c), redesignated subsec. (e) as (f).
 
 Subsec. (g). Pub. L. 109–58, § 1346(a), redesignated subsec. (f) as (g).
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13201(f), Aug. 16, 2022, 136 Stat. 1932, provided that: “The amendments made by this section [amending this section and sections 6426 and 6427 of this title] shall apply to fuel sold or used after December 31, 2021.”
+
+Amendment by section 13203(c) of Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2022, see section 13203(f) of Pub. L. 117–169, set out as an Effective Date note under [section 40B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40b).
+
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. Q, title I, § 121(a)(2), Dec. 20, 2019, 133 Stat. 3230, provided that: “The amendment made by this subsection [amending this section] shall apply to fuel sold or used after December 31, 2017.”
 
@@ -9665,6 +10411,91 @@ Pub. L. 109–58, title XIII, § 1346(c), Aug. 8, 2005, 119 Stat. 1056, provided
 
 #### Effective Date
 Section applicable to fuel produced, and sold or used, after Dec. 31, 2004, in taxable years ending after such date, see section 302(d) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendment note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
+
+
+<a id="section-40b"></a>
+## § 40B. Sustainable aviation fuel credit
+**(a) In general** For purposes of section 38, the sustainable aviation fuel credit determined under this section for the taxable year is, with respect to any sale or use of a qualified mixture which occurs during such taxable year, an amount equal to the product of—
+
+(1) the number of gallons of sustainable aviation fuel in such mixture, multiplied by
+
+(2) the sum of—
+
+  (A) $1.25, plus
+
+  (B) the applicable supplementary amount with respect to such sustainable aviation fuel.
+
+**(b) Applicable supplementary amount** For purposes of this section, the term “applicable supplementary amount” means, with respect to any sustainable aviation fuel, an amount equal to $0.01 for each percentage point by which the lifecycle greenhouse gas emissions reduction percentage with respect to such fuel exceeds 50 percent. In no event shall the applicable supplementary amount determined under this subsection exceed $0.50.
+
+**(c) Qualified mixture** For purposes of this section, the term “qualified mixture” means a mixture of sustainable aviation fuel and kerosene if—
+
+(1) such mixture is produced by the taxpayer in the United States,
+
+(2) such mixture is used by the taxpayer (or sold by the taxpayer for use) in an aircraft,
+
+(3) such sale or use is in the ordinary course of a trade or business of the taxpayer, and
+
+(4) the transfer of such mixture to the fuel tank of such aircraft occurs in the United States.
+
+**(d) Sustainable aviation fuel**
+
+(1) **In general** — For purposes of this section, the term “sustainable aviation fuel” means liquid fuel, the portion of which is not kerosene, which—
+
+  (A) meets the requirements of—
+
+    (i) ASTM International Standard D7566, or
+
+    (ii) the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1,
+
+  (B) is not derived from coprocessing an applicable material (or materials derived from an applicable material) with a feedstock which is not biomass,
+
+  (C) is not derived from palm fatty acid distillates or petroleum, and
+
+  (D) has been certified in accordance with subsection (e) as having a lifecycle greenhouse gas emissions reduction percentage of at least 50 percent.
+
+(2) **Definitions** — In this subsection—
+
+  (A) *Applicable material* — The term “applicable material” means—
+
+    (i) monoglycerides, diglycerides, and triglycerides,
+
+    (ii) free fatty acids, and
+
+    (iii) fatty acid esters.
+
+  (B) *Biomass* — The term “biomass” has the same meaning given such term in section 45K(c)(3).
+
+**(e) Lifecycle greenhouse gas emissions reduction percentage** For purposes of this section, the term “lifecycle greenhouse gas emissions reduction percentage” means, with respect to any sustainable aviation fuel, the percentage reduction in lifecycle greenhouse gas emissions achieved by such fuel as compared with petroleum-based jet fuel, as defined in accordance with—
+
+(1) the most recent Carbon Offsetting and Reduction Scheme for International Aviation which has been adopted by the International Civil Aviation Organization with the agreement of the United States, or
+
+(2) any similar methodology which satisfies the criteria under section 211(o)(1)(H) of the Clean Air Act ([42 U.S.C. 7545](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7545&num=0&edition=prelim)(o)(1)(H)), as in effect on the date of enactment of this section.
+
+**(f) Registration of sustainable aviation fuel producers** No credit shall be allowed under this section with respect to any sustainable aviation fuel unless the producer or importer of such fuel—
+
+(1) is registered with the Secretary under section 4101, and
+
+(2) provides—
+
+  (A) certification (in such form and manner as the Secretary shall prescribe) from an unrelated party demonstrating compliance with—
+
+    (i) any general requirements, supply chain traceability requirements, and information transmission requirements established under the Carbon Offsetting and Reduction Scheme for International Aviation described in paragraph (1) of subsection (e), or
+
+    (ii) in the case of any methodology established under paragraph (2) of such subsection, requirements similar to the requirements described in clause (i), and
+
+  (B) such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section.
+
+**(g) Coordination with credit against excise tax** The amount of the credit determined under this section with respect to any sustainable aviation fuel shall, under rules prescribed by the Secretary, be properly reduced to take into account any benefit provided with respect to such sustainable aviation fuel solely by reason of the application of section 6426 or 6427(e).
+
+**(h) Termination** This section shall not apply to any sale or use after December 31, 2024.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13203(f), Aug. 16, 2022, 136 Stat. 1935, provided that: “The amendments made by this section [enacting this section and amending sections 38, 40A, 87, 4101, 6426, and 6427 of this title] shall apply to fuel sold or used after December 31, 2022.”
 
 
 <a id="section-41"></a>
@@ -9838,7 +10669,7 @@ Section applicable to fuel produced, and sold or used, after Dec. 31, 2004, in t
 
 (1) **In general** — The term “qualified research” means research—
 
-  (A) 11 See Amendment of Subsection (d)(1)(A) note below. with respect to which expenditures may be treated as expenses under section 174,
+  (A) with respect to which expenditures may be treated as specified research or experimental expenditures under section 174,
 
   (B) which is undertaken for the purpose of discovering information—
 
@@ -10210,7 +11041,11 @@ the amount determined under subsection (a) for any taxable year shall not exceed
 
   (B) *Limitations*
 
-    (i) *Amount* — The amount specified in any election made under this subsection shall not exceed $250,000.
+    (i) *Amount*
+
+      (I) *In general* — The amount specified in any election made under this subsection shall not exceed $250,000.
+
+      (II) *Increase* — In the case of taxable years beginning after December 31, 2022, the amount in subclause (I) shall be increased by $250,000.
 
     (ii) *Number of taxable years* — A person may not make an election under this subsection if such person (or any other person treated as a single taxpayer with such person under paragraph (5)(A)) has made an election under this subsection for 5 or more preceding taxable years.
 
@@ -10224,7 +11059,7 @@ the amount determined under subsection (a) for any taxable year shall not exceed
 
     (i) each of the persons treated as a single taxpayer under subparagraph (A) may separately make the election under paragraph (1) for any taxable year, and
 
-    (ii) the $250,000 amount under paragraph (4)(B)(i) shall be allocated among all persons treated as a single taxpayer under subparagraph (A) in the same manner as under subparagraph (A)(ii) or (B)(ii) of subsection (f)(1), whichever is applicable.
+    (ii) each of the $250,000 amounts under paragraph (4)(B)(i) shall be allocated among all persons treated as a single taxpayer under subparagraph (A) in the same manner as under subparagraph (A)(ii) or (B)(ii) of subsection (f)(1), whichever is applicable.
 
 (6) **Regulations** — The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including—
 
@@ -10236,13 +11071,6 @@ the amount determined under subsection (a) for any taxable year shall not exceed
 
 ### Statutory Notes
 
-#### Amendment of Subsection (d)(1)(A)
-Pub. L. 115–97, title I, § 13206(d)(1), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, amended subsection (d)(1)(A) of this section, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021. After amendment, subsection (d)(1)(A) reads as follows:
-
-(A) with respect to which expenditures may be treated as specified research or experimental expenditures under section 174,
-
-See 2017 Amendment note below.
-
 #### References in Text
 The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (b)(3)(D)(iv), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
@@ -10252,6 +11080,10 @@ A prior section 41, added Pub. L. 97–34, title III, § 331(a), Aug. 13, 1981, 
 Another prior section 41 was renumbered [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
 
 #### Amendments
+2022—Subsec. (h)(4)(B)(i). Pub. L. 117–169, § 13902(a), designated existing provisions as subcl. I, inserted heading, and added subcl. (II).
+
+Subsec. (h)(5)(B)(ii). Pub. L. 117–169, § 13902(c), substituted “each of the $250,000 amounts” for “the $250,000 amount”.
+
 2018—Subsec. (c)(4). Pub. L. 115–141, § 101(c)(1), (2), redesignated par. (5) as (4) and struck out former par. (4) which related to election of alternative incremental credit.
 
 Subsec. (c)(4)(A). Pub. L. 115–141, § 401(b)(6), struck out “(12 percent in the case of taxable years ending before January 1, 2009)” after “14 percent”.
@@ -10465,6 +11297,9 @@ Pub. L. 98–369, § 474(i)(1)(B), amended subpar. (A) generally, substituting �
 1982—Subsec. (f)(2)(A). Pub. L. 97–354, § 5(a)(3)(A), substituted “Pass-thru in the case of estates and trusts” for “Pass-through in the case of subchapter S corporations, etc.” in subpar. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 Subsec. (g)(1)(B)(iv). Pub. L. 97–354, § 5(a)(3)(B), substituted “an S corporation” for “an electing small business corporation (within the meaning of section 1371(b))”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13902(d), Aug. 16, 2022, 136 Stat. 2014, provided that: “The amendments made by this section [amending this section and [section 3111 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3111)] shall apply to taxable years beginning after December 31, 2022.”
 
 #### Effective Date of 2018 Amendment
 Amendment by section 101(c) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
@@ -12445,6 +13280,8 @@ Pub. L. 101–508, title XI, § 11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pr
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+2021—Internal Revenue Notice 2021–47.
+
 2020—Internal Revenue Notice 2020–31.
 
 2019—Internal Revenue Notice 2019–36.
@@ -12618,7 +13455,7 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 ## § 45. Electricity produced from certain renewable resources, etc.
 **(a) General rule** For purposes of section 38, the renewable electricity production credit for any taxable year is an amount equal to the product of—
 
-(1) 1.5 cents, multiplied by
+(1) 0.3 cents, multiplied by
 
 (2) the kilowatt hours of electricity—
 
@@ -12638,26 +13475,18 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
   (B) 3 cents.
 
-(2) **Credit and phaseout adjustment based on inflation** — The 1.5 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), the $2 amount in subsection (e)(8)(D)(ii)(I), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002 shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+(2) **Credit and phaseout adjustment based on inflation** — The 0.3 cent amount in subsection (a), the 8 cent amount in paragraph (1), the $4.375 amount in subsection (e)(8)(A), the $2 amount in subsection (e)(8)(D)(ii)(I), and in subsection (e)(8)(B)(i) the reference price of fuel used as a feedstock (within the meaning of subsection (c)(7)(A)) in 2002 shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale occurs. If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
 
-(3) **Credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits** — The amount of the credit determined under subsection (a) with respect to any project for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of ½ or a fraction—
+(3) **Credit reduced for tax-exempt bonds** — The amount of the credit determined under subsection (a) with respect to any facility for any taxable year (determined after the application of paragraphs (1) and (2)) shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of 15 percent or a fraction—
 
-  (A) the numerator of which is the sum, for the taxable year and all prior taxable years, of—
+  (A) the numerator of which is the sum, for the taxable year and all prior taxable years, of proceeds of an issue of any obligations the interest on which is exempt from tax under section 103 and which is used to provide financing for the qualified facility, and
 
-    (i) grants provided by the United States, a State, or a political subdivision of a State for use in connection with the project,
-
-    (ii) proceeds of an issue of State or local government obligations used to provide financing for the project the interest on which is exempt from tax under section 103,
-
-    (iii) the aggregate amount of subsidized energy financing provided (directly or indirectly) under a Federal, State, or local program provided in connection with the project, and
-
-    (iv) the amount of any other credit allowable with respect to any property which is part of the project, and
-
-  (B) the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years.
-  The amounts under the preceding sentence for any taxable year shall be determined as of the close of the taxable year. This paragraph shall not apply with respect to any facility described in subsection (d)(2)(A)(ii).
+  (B) the denominator of which is the aggregate amount of additions to the capital account for the qualified facility for the taxable year and all prior taxable years.
+  The amounts under the preceding sentence for any taxable year shall be determined as of the close of the taxable year.
 
 (4) **Credit rate and period for electricity produced and sold from certain facilities**
 
-  (A) *Credit rate* — In the case of electricity produced and sold in any calendar year after 2003 at any qualified facility described in paragraph (3), (5), (6), (7), (9), or (11) of subsection (d), the amount in effect under subsection (a)(1) for such calendar year (determined before the application of the last sentence of paragraph (2) of this subsection) shall be reduced by one-half.
+  (A) *Credit rate* — In the case of electricity produced and sold in any calendar year after 2003 at any qualified facility described in paragraph (3), (5), (6), or (7) of subsection (d), the amount in effect under subsection (a)(1) for such calendar year (determined before the application of the last two sentences of paragraph (2) of this subsection) shall be reduced by one-half.
 
   (B) *Credit period*
 
@@ -12667,7 +13496,7 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
     (iii) *Termination* — Clause (i) shall not apply to any facility placed in service after the date of the enactment of this clause.
 
-(5) **Phaseout of credit for wind facilities** — In the case of any facility using wind to produce electricity, the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1), (2), and (3) and without regard to this paragraph) shall be reduced by—
+(5) **Phaseout of credit for wind facilities** — In the case of any facility using wind to produce electricity which is placed in service before January 1, 2022, the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1), (2), and (3) and without regard to this paragraph) shall be reduced by—
 
   (A) in the case of any facility the construction of which begins after December 31, 2016, and before January 1, 2018, 20 percent,
 
@@ -12676,6 +13505,188 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
   (C) in the case of any facility the construction of which begins after December 31, 2018, and before January 1, 2020, 60 percent, and
 
   (D) in the case of any facility the construction of which begins after December 31, 2019, and before January 1, 2022, 40 percent.
+
+(6) **Increased credit amount for qualified facilities**
+
+  (A) *In general* — In the case of any qualified facility which satisfies the requirements of subparagraph (B), the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1) through (5) and without regard to this paragraph) shall be equal to such amount multiplied by 5.
+
+  (B) *Qualified facility requirements* — A qualified facility meets the requirements of this subparagraph if it is one of the following:
+
+    (i) A facility with a maximum net output of less than 1 megawatt (as measured in alternating current).
+
+    (ii) A facility the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (7)(A) and (8).
+
+    (iii) A facility which satisfies the requirements of paragraphs (7)(A) and (8).
+
+(7) **Prevailing wage requirements**
+
+  (A) *In general* — The requirements described in this subparagraph with respect to any qualified facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in—
+
+    (i) the construction of such facility, and
+
+    (ii) with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2)(A)(ii), the alteration or repair of such facility,
+    shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. For purposes of determining an increased credit amount under paragraph (6)(A) for a taxable year, the requirement under clause (ii) is applied to such taxable year in which the alteration or repair of the qualified facility occurs.
+
+  (B) *Correction and penalty related to failure to satisfy wage requirements*
+
+    (i) *In general* — In the case of any taxpayer which fails to satisfy the requirement under subparagraph (A) with respect to the construction of any qualified facility or with respect to the alteration or repair of a facility in any year during the period described in subparagraph (A)(ii), such taxpayer shall be deemed to have satisfied such requirement under such subparagraph with respect to such facility for any year if, with respect to any laborer or mechanic who was paid wages at a rate below the rate described in such subparagraph for any period during such year, such taxpayer—
+
+      (I) makes payment to such laborer or mechanic in an amount equal to the sum of—
+
+        (aa) an amount equal to the difference between—
+
+          (AA) the amount of wages paid to such laborer or mechanic during such period, and
+
+          (BB) the amount of wages required to be paid to such laborer or mechanic pursuant to such subparagraph during such period, plus
+
+        (bb) interest on the amount determined under item (aa) at the underpayment rate established under section 6621 (determined by substituting “6 percentage points” for “3 percentage points” in subsection (a)(2) of such section) for the period described in such item, and
+
+      (II) makes payment to the Secretary of a penalty in an amount equal to the product of—
+
+        (aa) $5,000, multiplied by
+
+        (bb) the total number of laborers and mechanics who were paid wages at a rate below the rate described in subparagraph (A) for any period during such year.
+
+    (ii) *Deficiency procedures not to apply* — Subchapter B of chapter 63 (relating to deficiency procedures for income, estate, gift, and certain excise taxes) shall not apply with respect to the assessment or collection of any penalty imposed by this paragraph.
+
+    (iii) *Intentional disregard* — If the Secretary determines that any failure described in clause (i) is due to intentional disregard of the requirements under subparagraph (A), such clause shall be applied—
+
+      (I) in subclause (I), by substituting “three times the sum” for “the sum”, and
+
+      (II) in subclause (II), by substituting “$10,000” for “5,000 11 So in original. Probably should be “$5,000”. ” in item (aa) thereof.
+
+    (iv) *Limitation on period for payment* — Pursuant to rules issued by the Secretary, in the case of a final determination by the Secretary with respect to any failure by the taxpayer to satisfy the requirement under subparagraph (A), subparagraph (B)(i) shall not apply unless the payments described in subclauses (I) and (II) of such subparagraph are made by the taxpayer on or before the date which is 180 days after the date of such determination.
+
+(8) **Apprenticeship requirements** — The requirements described in this paragraph with respect to the construction of any qualified facility are as follows:
+
+  (A) *Labor hours*
+
+    (i) *Percentage of total labor hours* — Taxpayers shall ensure that, with respect to the construction of any qualified facility, not less than the applicable percentage of the total labor hours of the construction, alteration, or repair work (including such work performed by any contractor or subcontractor) with respect to such facility shall, subject to subparagraph (B), be performed by qualified apprentices.
+
+    (ii) *Applicable percentage* — For purposes of clause (i), the applicable percentage shall be—
+
+      (I) in the case of a qualified facility the construction of which begins before January 1, 2023, 10 percent,
+
+      (II) in the case of a qualified facility the construction of which begins after December 31, 2022, and before January 1, 2024, 12.5 percent, and
+
+      (III) in the case of a qualified facility the construction of which begins after December 31, 2023, 15 percent.
+
+  (B) *Apprentice to journeyworker ratio* — The requirement under subparagraph (A)(i) shall be subject to any applicable requirements for apprentice-to-journeyworker ratios of the Department of Labor or the applicable State apprenticeship agency.
+
+  (C) *Participation* — Each taxpayer, contractor, or subcontractor who employs 4 or more individuals to perform construction, alteration, or repair work with respect to the construction of a qualified facility shall employ 1 or more qualified apprentices to perform such work.
+
+  (D) *Exception*
+
+    (i) *In general* — A taxpayer shall not be treated as failing to satisfy the requirements of this paragraph if such taxpayer—
+
+      (I) satisfies the requirements described in clause (ii), or
+
+      (II) subject to clause (iii), in the case of any failure by the taxpayer to satisfy the requirement under subparagraphs (A) and (C) with respect to the construction, alteration, or repair work on any qualified facility to which subclause (I) does not apply, makes payment to the Secretary of a penalty in an amount equal to the product of—
+
+        (aa) $50, multiplied by
+
+        (bb) the total labor hours for which the requirement described in such subparagraph was not satisfied with respect to the construction, alteration, or repair work on such qualified facility.
+
+    (ii) *Good faith effort* — For purposes of clause (i), a taxpayer shall be deemed to have satisfied the requirements under this paragraph with respect to a qualified facility if such taxpayer has requested qualified apprentices from a registered apprenticeship program, as defined in section 3131(e)(3)(B), and—
+
+      (I) such request has been denied, provided that such denial is not the result of a refusal by the taxpayer or any contractors or subcontractors engaged in the performance of construction, alteration, or repair work with respect to such qualified facility to comply with the established standards and requirements of the registered apprenticeship program, or
+
+      (II) the registered apprenticeship program fails to respond to such request within 5 business days after the date on which such registered apprenticeship program received such request.
+
+    (iii) *Intentional disregard* — If the Secretary determines that any failure described in subclause (i)(II) is due to intentional disregard of the requirements under subparagraphs (A) and (C), subclause (i)(II) shall be applied by substituting “$500” for “$50” in item (aa) thereof.
+
+  (E) *Definitions* — For purposes of this paragraph—
+
+    (i) *Labor hours* — The term “labor hours”—
+
+      (I) means the total number of hours devoted to the performance of construction, alteration, or repair work by any individual employed by the taxpayer or by any contractor or subcontractor, and
+
+      (II) excludes any hours worked by—
+
+        (aa) foremen,
+
+        (bb) superintendents,
+
+        (cc) owners, or
+
+        (dd) persons employed in a bona fide executive, administrative, or professional capacity (within the meaning of those terms in part 541 of title 29, Code of Federal Regulations).
+
+    (ii) *Qualified apprentice* — The term “qualified apprentice” means an individual who is employed by the taxpayer or by any contractor or subcontractor and who is participating in a registered apprenticeship program, as defined in section 3131(e)(3)(B).
+
+(9) **Domestic content bonus credit amount**
+
+  (A) *In general* — In the case of any qualified facility which satisfies the requirement under subparagraph (B)(i), the amount of the credit determined under subsection (a) (determined after the application of paragraphs (1) through (8)) shall be increased by an amount equal to 10 percent of the amount so determined.
+
+  (B) *Requirement*
+
+    (i) *In general* — The requirement described in this clause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under section 22 So in original. Probably should be “part”. 661 of title 49, Code of Federal Regulations).
+
+    (ii) *Steel and iron* — In the case of steel or iron, clause (i) shall be applied in a manner consistent with section 661.5 of title 49, Code of Federal Regulations.
+
+    (iii) *Manufactured product* — For purposes of clause (i), the manufactured products which are components of a qualified facility upon completion of construction shall be deemed to have been produced in the United States if not less than the adjusted percentage (as determined under subparagraph (C)) of the total costs of all such manufactured products of such facility are attributable to manufactured products (including components) which are mined, produced, or manufactured in the United States.
+
+  (C) *Adjusted percentage*
+
+    (i) *In general* — Subject to subclause (ii), for purposes of subparagraph (B)(iii), the adjusted percentage shall be 40 percent.
+
+    (ii) *Offshore wind facility* — For purposes of subparagraph (B)(iii), in the case of a qualified facility which is an offshore wind facility, the adjusted percentage shall be 20 percent.
+
+(10) **Phaseout for elective payment**
+
+  (A) *In general* — In the case of a taxpayer making an election under section 6417 with respect to a credit under this section, the amount of such credit shall be replaced with—
+
+    (i) the value of such credit (determined without regard to this paragraph), multiplied by
+
+    (ii) the applicable percentage.
+
+  (B) *100 percent applicable percentage for certain qualified facilities* — In the case of any qualified facility—
+
+    (i) which satisfies the requirements under paragraph (9)(B), or
+
+    (ii) with a maximum net output of less than 1 megawatt (as measured in alternating current),
+    the applicable percentage shall be 100 percent.
+
+  (C) *Phased domestic content requirement* — Subject to subparagraph (D), in the case of any qualified facility which is not described in subparagraph (B), the applicable percentage shall be—
+
+    (i) if construction of such facility began before January 1, 2024, 100 percent, and
+
+    (ii) if construction of such facility began in calendar year 2024, 90 percent.
+
+  (D) *Exception*
+
+    (i) *In general* — For purposes of this paragraph, the Secretary shall provide exceptions to the requirements under this paragraph if—
+
+      (I) the inclusion of steel, iron, or manufactured products which are produced in the United States increases the overall costs of construction of qualified facilities by more than 25 percent, or
+
+      (II) relevant steel, iron, or manufactured products are not produced in the United States in sufficient and reasonably available quantities or of a satisfactory quality.
+
+    (ii) *Applicable percentage* — In any case in which the Secretary provides an exception pursuant to clause (i), the applicable percentage shall be 100 percent.
+
+(11) **Special rule for qualified facility located in energy community**
+
+  (A) *In general* — In the case of a qualified facility which is located in an energy community, the credit determined under subsection (a) (determined after the application of paragraphs (1) through (10), without the application of paragraph (9)) shall be increased by an amount equal to 10 percent of the amount so determined.
+
+  (B) *Energy community* — For purposes of this paragraph, the term “energy community” means—
+
+    (i) a brownfield site (as defined in subparagraphs (A), (B), and (D)(ii)(III) of section 101(39) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601(39)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601/39&num=0&edition=prelim))),
+
+    (ii) a metropolitan statistical area or non-metropolitan statistical area which—
+
+      (I) has (or, at any time during the period beginning after December 31, 2009, had) 0.17 percent or greater direct employment or 25 percent or greater local tax revenues related to the extraction, processing, transport, or storage of coal, oil, or natural gas (as determined by the Secretary), and
+
+      (II) has an unemployment rate at or above the national average unemployment rate for the previous year (as determined by the Secretary), or
+
+    (iii) a census tract—
+
+      (I) in which—
+
+        (aa) after December 31, 1999, a coal mine has closed, or
+
+        (bb) after December 31, 2009, a coal-fired electric generating unit has been retired, or
+
+      (II) which is directly adjoining to any census tract described in subclause (I).
+
+(12) **Regulations and guidance** — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 
 **(c) Resources** For purposes of this section:
 
@@ -12799,24 +13810,30 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
     (ii) free flowing water in rivers, lakes, and streams,
 
-    (iii) free flowing water in an irrigation system, canal, or other man-made channel, including projects that utilize nonmechanical structures to accelerate the flow of water for electric power production purposes, or
+    (iii) free flowing water in an irrigation system, canal, or other man-made channel, including projects that utilize nonmechanical structures to accelerate the flow of water for electric power production purposes,
 
-    (iv) differentials in ocean temperature (ocean thermal energy conversion).
+    (iv) differentials in ocean temperature (ocean thermal energy conversion), or
+
+    (v) pressurized water used in a pipeline (or similar man-made water conveyance) which is operated—
+
+      (I) for the distribution of water for agricultural, municipal, or industrial consumption, and
+
+      (II) not primarily for the generation of electricity.
 
   (B) *Exceptions* — Such term shall not include any energy which is derived from any source which utilizes a dam, diversionary structure (except as provided in subparagraph (A)(iii)), or impoundment for electric power production purposes.
 
 **(d) Qualified facilities** For purposes of this section:
 
-(1) **Wind facility** — In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2022. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
+(1) **Wind facility** — In the case of a facility using wind to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after December 31, 1993, and the construction of which begins before January 1, 2025. Such term shall not include any facility with respect to which any qualified small wind energy property expenditure (as defined in subsection (d)(4) of section 25D) is taken into account in determining the credit under such section.
 
 (2) **Closed-loop biomass facility**
 
   (A) *In general* — In the case of a facility using closed-loop biomass to produce electricity, the term “qualified facility” means any facility—
 
-    (i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2022, or
+    (i) owned by the taxpayer which is originally placed in service after December 31, 1992, and the construction of which begins before January 1, 2025, or
 
-    (ii) owned by the taxpayer which before January 1, 2022, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
-    For purposes of clause (ii), a facility shall be treated as modified before January 1, 2022, if the construction of such modification begins before such date.
+    (ii) owned by the taxpayer which before January 1, 2025, is originally placed in service and modified to use closed-loop biomass to co-fire with coal, with other biomass, or with both, but only if the modification is approved under the Biomass Power for Rural Development Programs or is part of a pilot project of the Commodity Credit Corporation as described in 65 Fed. Reg. 63052.
+    For purposes of clause (ii), a facility shall be treated as modified before January 1, 2025, if the construction of such modification begins before such date.
 
   (B) *Expansion of facility* — Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A)(i), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
@@ -12832,28 +13849,23 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
     (i) in the case of a facility using agricultural livestock waste nutrients—
 
-      (I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2022, and
+      (I) is originally placed in service after the date of the enactment of this subclause and the construction of which begins before January 1, 2025, and
 
       (II) the nameplate capacity rating of which is not less than 150 kilowatts, and
 
-    (ii) in the case of any other facility, the construction of which begins before January 1, 2022.
+    (ii) in the case of any other facility, the construction of which begins before January 1, 2025.
 
   (B) *Expansion of facility* — Such term shall include a new unit placed in service after the date of the enactment of this subparagraph in connection with a facility described in subparagraph (A), but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
   (C) *Credit eligibility* — In the case of any facility described in subparagraph (A), if the owner of such facility is not the producer of the electricity, the person eligible for the credit allowable under subsection (a) shall be the lessee or the operator of such facility.
 
-(4) **Geothermal or solar energy facility** — In the case of a facility using geothermal or solar energy to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and which—
-
-  (A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
-
-  (B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022.
-  Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
+(4) **Geothermal or solar energy facility** — In the case of a facility using geothermal or solar energy to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025. Such term shall not include any property described in section 48(a)(3) the basis of which is taken into account by the taxpayer for purposes of determining the energy credit under section 48.
 
 (5) **Small irrigation power facility** — In the case of a facility using small irrigation power to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and before October 3, 2008.
 
-(6) **Landfill gas facilities** — In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
+(6) **Landfill gas facilities** — In the case of a facility producing electricity from gas derived from the biodegradation of municipal solid waste, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025.
 
-(7) **Trash facilities** — In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
+(7) **Trash facilities** — In the case of a facility (other than a facility described in paragraph (6)) which uses municipal solid waste to produce electricity, the term “qualified facility” means any facility owned by the taxpayer which is originally placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025. Such term shall include a new unit placed in service in connection with a facility placed in service on or before the date of the enactment of this paragraph, but only to the extent of the increased amount of electricity produced at the facility by reason of such new unit.
 
 (8) **Refined coal production facility** — In the case of a facility that produces refined coal, the term “refined coal production facility” means—
 
@@ -12865,21 +13877,21 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
   (A) *In general* — In the case of a facility producing qualified hydroelectric production described in subsection (c)(8), the term “qualified facility” means—
 
-    (i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2022, and
+    (i) in the case of any facility producing incremental hydropower production, such facility but only to the extent of its incremental hydropower production attributable to efficiency improvements or additions to capacity described in subsection (c)(8)(B) placed in service after the date of the enactment of this paragraph and before January 1, 2025, and
 
-    (ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
+    (ii) any other facility placed in service after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025.
 
   (B) *Credit period* — In the case of a qualified facility described in subparagraph (A), the 10-year period referred to in subsection (a) shall be treated as beginning on the date the efficiency improvements or additions to capacity are placed in service.
 
-  (C) *Special rule* — For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2022, if the construction of such improvement or addition begins before such date.
+  (C) *Special rule* — For purposes of subparagraph (A)(i), an efficiency improvement or addition to capacity shall be treated as placed in service before January 1, 2025, if the construction of such improvement or addition begins before such date.
 
 (10) **Indian coal production facility** — The term “Indian coal production facility” means a facility that produces Indian coal.
 
 (11) **Marine and hydrokinetic renewable energy facilities** — In the case of a facility producing electricity from marine and hydrokinetic renewable energy, the term “qualified facility” means any facility owned by the taxpayer—
 
-  (A) which has a nameplate capacity rating of at least 150 kilowatts, and
+  (A) which has a nameplate capacity rating of at least 25 kilowatts, and
 
-  (B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2022.
+  (B) which is originally placed in service on or after the date of the enactment of this paragraph and the construction of which begins before January 1, 2025.
 
 **(e) Definitions and special rules** For purposes of this section—
 
@@ -12976,7 +13988,7 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
   (B) *Refined coal facilities*
 
-    (i) *In general* — The term “refined coal production facility” shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29,11 See References in Text note below. as in effect on the day before the date of enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
+    (i) *In general* — The term “refined coal production facility” shall not include any facility the production from which is allowed as a credit under section 45K for the taxable year or any prior taxable year (or under section 29,33 See References in Text note below. as in effect on the day before the date of enactment of the Energy Tax Incentives Act of 2005, for any prior taxable year).
 
     (ii) *Exception for steel industry coal* — In the case of a facility producing steel industry fuel, clause (i) shall not apply to so much of the refined coal produced at such facility as is steel industry fuel.
 
@@ -13027,6 +14039,14 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 
   (D) *Eligible cooperative defined* — For purposes of this section the term “eligible cooperative” means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
 
+(12) **Coordination with energy credit for qualified biogas property** — The term “qualified facility” shall not include any facility which produces electricity from gas produced by qualified biogas property (as defined in section 48(c)(7)) if a credit is allowed under section 48 with respect to such property for the taxable year or any prior taxable year.
+
+(13) **Special rule for electricity used at a qualified clean hydrogen production facility** — Electricity produced by the taxpayer shall be treated as sold by such taxpayer to an unrelated person during the taxable year if—
+
+  (A) such electricity is used during such taxable year by the taxpayer or a person related to the taxpayer at a qualified clean hydrogen production facility (as defined in section 45V(c)(3)) to produce qualified clean hydrogen (as defined in section 45V(c)(2)), and
+
+  (B) such use and production is verified (in such form or manner as the Secretary may prescribe) by an unrelated third party.
+
 ### Statutory Notes
 
 #### Inflation Adjusted Items for Certain Years
@@ -13049,6 +14069,54 @@ The date of enactment of the Energy Tax Incentives Act of 2005, referred to in s
 A prior section 45 was renumbered [section 37 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-37).
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–169, § 13101(b)(1), substituted “0.3 cents” for “1.5 cents”.
+
+Subsec. (b)(2). Pub. L. 117–169, § 13101(i)(1), substituted “If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.” for “If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.”Pub. L. 117–169, § 13101(b)(2), substituted “0.3 cent” for “1.5 cent”.
+
+Subsec. (b)(3). Pub. L. 117–169, § 13101(h), amended par. (3) generally. Prior to amendment, par. (3) related to credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits.
+
+Subsec. (b)(4)(A). Pub. L. 117–169, § 13101(j)(1), substituted “or (7)” for “(7), (9), or (11)”.
+
+Pub. L. 117–169, § 13101(i)(2), substituted “last two sentences” for “last sentence”.
+
+Subsec. (b)(5). Pub. L. 117–169, § 13101(e)(2)(A), inserted “which is placed in service before January 1, 2022” after “using wind to produce electricity” in introductory provisions.
+
+Subsec. (b)(6) to (8). Pub. L. 117–169, § 13101(f), added pars. (6) to (8).
+
+Subsec. (b)(9). Pub. L. 117–169, § 13101(g)(2), added par. (9). Former par. (9) (added by section 13101(f), see below) redesignated (12).Pub. L. 117–169, § 13101(f), added par. (9), which was subsequently redesignated (12).
+
+Subsec. (b)(10), (11). Pub. L. 117–169, § 13101(g)(2), added pars. (10) and (11).
+
+Subsec. (b)(12). Pub. L. 117–169, § 13101(g)(1), redesignated par. (9) as (12).
+
+Subsec. (c)(10)(A)(v). Pub. L. 117–169, § 13101(j)(2)(A), added cl. (v). Conforming amendment striking “or” in cl. (iii) was executed by striking the “or” at the end of the clause, to reflect the probable intent of Congress.
+
+Subsec. (d)(1). Pub. L. 117–169, § 13101(e)(1), substituted “January 1, 2025” for “January 1, 2022”.
+
+Subsec. (d)(2)(A). Pub. L. 117–169, § 13101(a)(1), substituted “January 1, 2025” for “January 1, 2022” wherever appearing.
+
+Subsec. (d)(3)(A)(i)(I), (ii). Pub. L. 117–169, § 13101(a)(2), substituted “January 1, 2025” for “January 1, 2022”.
+
+Subsec. (d)(4). Pub. L. 117–169, § 13101(c), substituted “and the construction of which begins before January 1, 2025” for “and which—
+
+“(A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
+
+“(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022”
+
+Concluding provisions following former subpar. (B) were joined with the preceding paragraph to reflect the probable intent of Congress.
+
+Subsec. (d)(6), (7). Pub. L. 117–169, § 13101(a)(3), (4), substituted “January 1, 2025” for “January 1, 2022”.
+
+Subsec. (d)(9)(A)(i), (ii), (C). Pub. L. 117–169, § 13101(a)(5), substituted “January 1, 2025” for “January 1, 2022”.
+
+Subsec. (d)(11)(A). Pub. L. 117–169, § 13101(j)(2)(B), substituted “25” for “150”.
+
+Subsec. (d)(11)(B). Pub. L. 117–169, § 13101(a)(6), substituted “January 1, 2025” for “January 1, 2022”.
+
+Subsec. (e)(12). Pub. L. 117–169, § 13102(f)(4), added par. (12).
+
+Subsec. (e)(13). Pub. L. 117–169, § 13204(b)(1), added par. (13).
+
 2020—Subsec. (b)(5)(D). Pub. L. 116–260, § 131(c)(1), substituted “January 1, 2022” for “January 1, 2021”.
 
 Subsec. (d)(1), (2)(A), (3)(A), (4)(B), (6), (7), (9), (11)(B). Pub. L. 116–260, § 131(a), substituted “January 1, 2022” for “January 1, 2021” wherever appearing.
@@ -13296,6 +14364,13 @@ Subsec. (c)(3). Pub. L. 106–170, § 507(a), reenacted heading without change a
 Subsec. (c)(4). Pub. L. 106–170, § 507(b)(2), added par. (4).
 
 Subsec. (d)(6), (7). Pub. L. 106–170, § 507(c), added pars. (6) and (7).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13101(k), Aug. 16, 2022, 136 Stat. 1913, provided that: “(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section and [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48)] shall apply to facilities placed in service after December 31, 2021. “(2) Credit reduced for tax-exempt bonds.—The amendment made by subsection (h) [amending this section] shall apply to facilities the construction of which begins after the date of enactment of this Act [Aug. 16, 2022]. “(3) Domestic content, phaseout, energy communities, and hydropower.—The amendments made by subsections (g) and (j) [amending this section] shall apply to facilities placed in service after December 31, 2022.”
+
+Pub. L. 117–169, title I, § 13102(q), Aug. 16, 2022, 136 Stat. 1921, provided that: “(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section and sections 48, 50, and 7701 of this title] shall apply to property placed in service after December 31, 2021. “(2) Other property.—The amendments made by subsections (f), (g), (h), (i), (j), (l), (n), and (o) [amending this section and sections 48, 50, and 7701 of this title] shall apply to property placed in service after December 31, 2022. “(3) Special rule for property financed by tax-exempt bonds.—The amendments made by subsection (m) [amending [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48)] shall apply to property the construction of which begins after the date of enactment of this Act [Aug. 16, 2022].”
+
+Pub. L. 117–169, title I, § 13204(b)(3), Aug. 16, 2022, 136 Stat. 1940, provided that: “The amendments made by this subsection [amending this section and [section 45U of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45u)] shall apply to electricity produced after December 31, 2022.”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 131(d), Dec. 27, 2020, 134 Stat. 3052, provided that: “The amendments made by this section [amending this section and [section 48 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48)] shall take effect on January 1, 2021.”
@@ -15237,9 +16312,17 @@ Provisions relating to inflation adjustment of items in this section and referen
 
 (2) **Applicable amount** — For purposes of paragraph (1), the applicable amount is an amount equal to—
 
-  (A) in the case of a dwelling unit described in paragraph (1) or (2) of subsection (c), $2,000, and
+  (A) in the case of a dwelling unit which is eligible to participate in the Energy Star Residential New Construction Program or the Energy Star Manufactured New Homes program—
 
-  (B) in the case of a dwelling unit described in paragraph (3) of subsection (c), $1,000.
+    (i) which meets the requirements of subsection (c)(1)(A) (and which does not meet the requirements of subsection (c)(1)(B)), $2,500, and
+
+    (ii) which meets the requirements of subsection (c)(1)(B), $5,000, and
+
+  (B) in the case of a dwelling unit which is part of a building eligible to participate in the Energy Star Multifamily New Construction Program—
+
+    (i) which meets the requirements of subsection (c)(1)(A) (and which does not meet the requirements of subsection (c)(1)(B)), $500, and
+
+    (ii) which meets the requirements of subsection (c)(1)(B), $1,000.
 
 **(b) Definitions** For purposes of this section—
 
@@ -15261,25 +16344,33 @@ Provisions relating to inflation adjustment of items in this section and referen
 
 (4) **Acquire** — The term “acquire” includes purchase.
 
-**(c) Energy saving requirements** A dwelling unit meets the energy saving requirements of this subsection if such unit is—
+**(c) Energy saving requirements**
 
-(1) certified—
+(1) **In general**
 
-  (A) to have a level of annual heating and cooling energy consumption which is at least 50 percent below the annual level of heating and cooling energy consumption of a comparable dwelling unit—
+  (A) *In general* — A dwelling unit meets the requirements of this subparagraph if such dwelling unit meets the requirements of paragraph (2) or (3) (whichever is applicable).
 
-    (i) which is constructed in accordance with the standards of chapter 4 of the 2006 International Energy Conservation Code, as such Code (including supplements) is in effect on January 1, 2006, and
+  (B) *Zero energy ready home program* — A dwelling unit meets the requirements of this subparagraph if such dwelling unit is certified as a zero energy ready home under the zero energy ready home program of the Department of Energy as in effect on January 1, 2023 (or any successor program determined by the Secretary).
 
-    (ii) for which the heating and cooling equipment efficiencies correspond to the minimum allowed under the regulations established by the Department of Energy pursuant to the National Appliance Energy Conservation Act of 1987 and in effect at the time of completion of construction, and
+(2) **Single-family home requirements** — A dwelling unit meets the requirements of this paragraph if—
 
-  (B) to have building envelope component improvements account for at least ⅕ of such 50 percent,
+  (A) such dwelling unit meets—
 
-(2) a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations) and which meets the requirements of paragraph (1), or
+    (i)
 
-(3) a manufactured home which conforms to Federal Manufactured Home Construction and Safety Standards (part 3280 of title 24, Code of Federal Regulations) and which—
+      (I) in the case of a dwelling unit acquired before January 1, 2025, the Energy Star Single-Family New Homes National Program Requirements 3.1, or
 
-  (A) meets the requirements of paragraph (1) applied by substituting “30 percent” for “50 percent” both places it appears therein and by substituting “⅓” for “⅕” in subparagraph (B) thereof, or
+      (II) in the case of a dwelling unit acquired after December 31, 2024, the Energy Star Single-Family New Homes National Program Requirements 3.2, and
 
-  (B) meets the requirements established by the Administrator of the Environmental Protection Agency under the Energy Star Labeled Homes program.
+    (ii) the most recent Energy Star Single-Family New Homes Program Requirements applicable to the location of such dwelling unit (as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date the dwelling unit was acquired), or
+
+  (B) such dwelling unit meets the most recent Energy Star Manufactured Home National program requirements as in effect on the latter of January 1, 2023, or January 1 of two calendar years prior to the date such dwelling unit is acquired.
+
+(3) **Multi-family home requirements** — A dwelling unit meets the requirements of this paragraph if—
+
+  (A) such dwelling unit meets the most recent Energy Star Multifamily New Construction National Program Requirements (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later), and
+
+  (B) such dwelling unit meets the most recent Energy Star Multifamily New Construction Regional Program Requirements applicable to the location of such dwelling unit (as in effect on either January 1, 2023, or January 1 of three calendar years prior to the date the dwelling was acquired, whichever is later).
 
 **(d) Certification**
 
@@ -15287,11 +16378,27 @@ Provisions relating to inflation adjustment of items in this section and referen
 
 (2) **Form** — Any certification described in subsection (c) shall be made in writing in a manner which specifies in readily verifiable fashion the energy efficient building envelope components and energy efficient heating or cooling equipment installed and their respective rated energy efficiency performance.
 
-**(e) Basis adjustment** For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined.
+**(e) Basis adjustment** For purposes of this subtitle, if a credit is allowed under this section in connection with any expenditure for any property, the increase in the basis of such property which would (but for this subsection) result from such expenditure shall be reduced by the amount of the credit so determined. This subsection shall not apply for purposes of determining the adjusted basis of any building under section 42.
 
 **(f) Coordination with investment credit** For purposes of this section, expenditures taken into account under section 47 or 48(a) shall not be taken into account under this section.
 
-**(g) Termination** This section shall not apply to any qualified new energy efficient home acquired after December 31, 2021.
+**(g) Prevailing wage requirement**
+
+(1) **In general** — In the case of a qualifying residence described in subsection (a)(2)(B) meeting the prevailing wage requirements of paragraph (2)(A), the credit amount allowed with respect to such residence shall be—
+
+  (A) $2,500 in the case of a residence which meets the requirements of subparagraph (A) of subsection (c)(1) (and which does not meet the requirements of subparagraph (B) of such subsection), and
+
+  (B) $5,000 in the case of a residence which meets the requirements of subsection (c)(1)(B).
+
+(2) **Prevailing wage requirements**
+
+  (A) *In general* — The requirements described in this subparagraph with respect to any qualified residence are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the construction of such residence shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such residence is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+
+  (B) *Correction and penalty related to failure to satisfy wage requirements* — Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+(3) **Regulations and guidance** — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+**(h) Termination** This section shall not apply to any qualified new energy efficient home acquired after December 31, 2032.
 
 ### Statutory Notes
 
@@ -15301,6 +16408,16 @@ The date of the enactment of this section, referred to in subsec. (b)(2)(B), is 
 The National Appliance Energy Conservation Act of 1987, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 100–12, Mar. 17, 1987, 101 Stat. 103. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under [section 6201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6201&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–169, § 13304(b), amended par. (2) generally. Prior to amendment, par. (2) related to applicable amount for dwelling unit.
+
+Subsec. (c). Pub. L. 117–169, § 13304(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to energy saving requirements of dwelling unit.
+
+Subsec. (e). Pub. L. 117–169, § 13304(e), inserted at end “This subsection shall not apply for purposes of determining the adjusted basis of any building under section 42.”
+
+Subsec. (g). Pub. L. 117–169, § 13304(d), added subsec. (g). Former subsec. (g) redesignated (h).Pub. L. 117–169, § 13304(a), substituted “December 31, 2032” for “December 31, 2021”.
+
+Subsec. (h). Pub. L. 117–169, § 13304(d), redesignated subsec. (g) as (h).
+
 2020—Subsec. (g). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
 
 2019—Subsec. (g). Pub. L. 116–94 substituted “December 31, 2020” for “December 31, 2017”.
@@ -15322,6 +16439,9 @@ Subsec. (g). Pub. L. 112–240, § 408(a), substituted “December 31, 2013” f
 2007—Subsec. (c)(2), (3). Pub. L. 110–172 substituted “part 3280” for “section 3280” in par. (2) and in introductory provisions of par. (3).
 
 2006—Subsec. (g). Pub. L. 109–432 substituted “2008” for “2007”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13304(f), Aug. 16, 2022, 136 Stat. 1954, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section] shall apply to dwelling units acquired after December 31, 2022. “(2) Extension of credit.—The amendments made by subsection (a) [amending this section] shall apply to dwelling units acquired after December 31, 2021.”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 146(b), Dec. 27, 2020, 134 Stat. 3055, provided that: “The amendment made by this section [amending this section] shall apply to homes acquired after December 31, 2020.”
@@ -15596,21 +16716,33 @@ Section applicable to amounts paid after June 17, 2008, see section 111(e) of Pu
 
 (1) **Applicable dollar amount**
 
-  (A) *In general* — The applicable dollar amount shall be an amount equal to—
+  (A) *In general* — Except as provided in subparagraph (B) or (C), the applicable dollar amount shall be an amount equal to—
 
     (i) for any taxable year beginning in a calendar year after 2016 and before 2027—
 
-      (I) for purposes of paragraph (3) of subsection (a), the dollar amount established by linear interpolation between $22.66 and $50 for each calendar year during such period, and
+      (I) for purposes of paragraph (3) of subsection (a), $17, and
 
-      (II) for purposes of paragraph (4) of such subsection, the dollar amount established by linear interpolation between $12.83 and $35 for each calendar year during such period, and
+      (II) for purposes of paragraph (4) of such subsection, $12, and
 
     (ii) for any taxable year beginning in a calendar year after 2026—
 
-      (I) for purposes of paragraph (3) of subsection (a), an amount equal to the product of $50 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”, and
+      (I) for purposes of paragraph (3) of subsection (a), an amount equal to the product of $17 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”, and
 
-      (II) for purposes of paragraph (4) of such subsection, an amount equal to the product of $35 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”.
+      (II) for purposes of paragraph (4) of such subsection, an amount equal to the product of $12 and the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2025” for “1990”.
 
-  (B) *Rounding* — The applicable dollar amount determined under subparagraph (A) shall be rounded to the nearest cent.
+  (B) *Special rule for direct air capture facilities* — In the case of any qualified facility described in subsection (d)(2)(A) which is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined with respect to such qualified facility under subparagraph (A), except that such subparagraph shall be applied—
+
+    (i) by substituting “$36” for “$17” each place it appears, and
+
+    (ii) by substituting “$26” for “$12” each place it appears.
+
+  (C) *Applicable dollar amount for additional carbon capture equipment* — In the case of any qualified facility which is placed in service before January 1, 2023, if any additional carbon capture equipment is installed at such facility and such equipment is placed in service after December 31, 2022, the applicable dollar amount shall be an amount equal to the applicable dollar amount otherwise determined under this paragraph, except that subparagraph (B) shall be applied—
+
+    (i) by substituting “before January 1, 2023” for “after December 31, 2022”, and
+
+    (ii) by substituting “the additional carbon capture equipment installed at such qualified facility” for “such qualified facility”.
+
+  (D) *Rounding* — The applicable dollar amount determined under subparagraph (A), (B), or (C) shall be rounded to the nearest cent.
 
 (2) **Installation of additional carbon capture equipment on existing qualified facility** — In the case of a qualified facility placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, for which additional carbon capture equipment is placed in service on or after the date of the enactment of such Act, the amount of qualified carbon oxide which is captured by the taxpayer shall be equal to—
 
@@ -15658,23 +16790,48 @@ Section applicable to amounts paid after June 17, 2008, see section 111(e) of Pu
 
 **(d) Qualified facility** For purposes of this section, the term “qualified facility” means any industrial facility or direct air capture facility—
 
-(1) the construction of which begins before January 1, 2026, and—
+(1) the construction of which begins before January 1, 2033, and either—
 
   (A) construction of carbon capture equipment begins before such date, or
 
   (B) the original planning and design for such facility includes installation of carbon capture equipment, and
 
-(2) which captures—
+(2) which—
 
-  (A) in the case of a facility which emits not more than 500,000 metric tons of carbon oxide into the atmosphere during the taxable year, not less than 25,000 metric tons of qualified carbon oxide during the taxable year which is utilized in a manner described in subsection (f)(5),
+  (A) in the case of a direct air capture facility, captures not less than 1,000 metric tons of qualified carbon oxide during the taxable year,
 
-  (B) in the case of an electricity generating facility which is not described in subparagraph (A), not less than 500,000 metric tons of qualified carbon oxide during the taxable year, or
+  (B) in the case of an electricity generating facility—
 
-  (C) in the case of a direct air capture facility or any facility not described in subparagraph (A) or (B), not less than 100,000 metric tons of qualified carbon oxide during the taxable year.
+    (i) captures not less than 18,750 metric tons of qualified carbon oxide during the taxable year, and
+
+    (ii) with respect to any carbon capture equipment for the applicable electric generating unit at such facility, has a capture design capacity of not less than 75 percent of the baseline carbon oxide production of such unit, or
+
+  (C) in the case of any other facility, captures not less than 12,500 metric tons of qualified carbon oxide during the taxable year.
 
 **(e) Definitions** For purposes of this section—
 
-(1) **Direct air capture facility**
+(1) **Applicable electric generating unit** — The term “applicable electric generating unit” means the principal electric generating unit for which the carbon capture equipment is originally planned and designed.
+
+(2) **Baseline carbon oxide production**
+
+  (A) *In general* — The term “baseline carbon oxide production” means either of the following:
+
+    (i) In the case of an applicable electric generating unit which was originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins, the average annual carbon oxide production, by mass, from such unit during—
+
+      (I) in the case of an applicable electric generating unit which was originally placed in service more than 1 year prior to the date on which construction of the carbon capture equipment begins and on or after the date which is 3 years prior to the date on which construction of such equipment begins, the period beginning on the date such unit was placed in service and ending on the date on which construction of such equipment began, and
+
+      (II) in the case of an applicable electric generating unit which was originally placed in service more than 3 years prior to the date on which construction of the carbon capture equipment begins, the 3 years with the highest annual carbon oxide production during the 12-year period preceding the date on which construction of such equipment began.
+
+    (ii) In the case of an applicable electric generating unit which—
+
+      (I) as of the date on which construction of the carbon capture equipment begins, is not yet placed in service, or
+
+      (II) was placed in service during the 1-year period prior to the date on which construction of the carbon capture equipment begins,
+    the designed annual carbon oxide production, by mass, as determined based on an assumed capacity factor of 60 percent.
+
+  (B) *Capacity factor* — The term “capacity factor” means the ratio (expressed as a percentage) of the actual electric output from the applicable electric generating unit to the potential electric output from such unit.
+
+(3) **Direct air capture facility**
 
   (A) *In general* — Subject to subparagraph (B), the term “direct air capture facility” means any facility which uses carbon capture equipment to capture carbon dioxide directly from the ambient air.
 
@@ -15684,9 +16841,9 @@ Section applicable to amounts paid after June 17, 2008, see section 111(e) of Pu
 
     (ii) using natural photosynthesis.
 
-(2) **Qualified enhanced oil or natural gas recovery project** — The term “qualified enhanced oil or natural gas recovery project” has the meaning given the term “qualified enhanced oil recovery project” by section 43(c)(2), by substituting “crude oil or natural gas” for “crude oil” in subparagraph (A)(i) thereof.
+(4) **Qualified enhanced oil or natural gas recovery project** — The term “qualified enhanced oil or natural gas recovery project” has the meaning given the term “qualified enhanced oil recovery project” by section 43(c)(2), by substituting “crude oil or natural gas” for “crude oil” in subparagraph (A)(i) thereof.
 
-(3) **Tertiary injectant** — The term “tertiary injectant” has the same meaning as when used within section 193(b)(1).
+(5) **Tertiary injectant** — The term “tertiary injectant” has the same meaning as when used within section 193(b)(1).
 
 **(f) Special rules**
 
@@ -15751,24 +16908,64 @@ Section applicable to amounts paid after June 17, 2008, see section 111(e) of Pu
 
   (B) the inflation adjustment factor for such calendar year determined under section 43(b)(3)(B) for such calendar year, determined by substituting “2008” for “1990”.
 
-(3) **11 So in original. Probably should be “(8)”. Credit reduced for certain tax-exempt bonds** — The amount of the credit determined under subsection (a) with respect to any project for any taxable year shall be reduced by the amount which is the product of the amount so determined for such year and the lesser of ½ or a fraction—
+(8) **Credit reduced for tax-exempt bonds** — Rules similar to the rule under section 45(b)(3) shall apply for purposes of this section.
 
-  (A) the numerator of which is the sum, for the taxable year and all prior taxable years, of the proceeds from an issue described in section 142(a)(17) used to provide financing for the project the interest on which is exempt from tax under section 103, and
+(9) **Election** — For purposes of paragraphs (3) and (4) of subsection (a), a person described in paragraph (3)(A)(ii) may elect, at such time and in such manner as the Secretary may prescribe, to have the 12–year period begin on the first day of the first taxable year in which a credit under this section is claimed with respect to carbon capture equipment which is originally placed in service at a qualified facility on or after the date of the enactment of the Bipartisan Budget Act of 2018 (after application of paragraph (6), where applicable) if—
 
-  (B) the denominator of which is the aggregate amount of additions to the capital account for the project for the taxable year and all prior taxable years.
-  The amounts under the preceding sentence for any taxable year shall be determined as of the close of the taxable year.
+  (A) no taxpayer claimed a credit under this section with respect to such carbon capture equipment for any prior taxable year,
 
-**(g) Application of section for certain carbon capture equipment** In the case of any carbon capture equipment placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, the credit under this section shall apply with respect to qualified carbon oxide captured using such equipment before the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that, during the period beginning after October 3, 2008, a total of 75,000,000 metric tons of qualified carbon oxide have been taken into account in accordance with—
+  (B) the qualified facility at which such carbon capture equipment is placed in service is located in an area affected by a federally-declared disaster (as defined by section 165(i)(5)(A)) after the carbon capture equipment is originally placed in service, and
+
+  (C) such federally-declared disaster results in a cessation of the operation of the qualified facility or the carbon capture equipment after such equipment is originally placed in service.
+
+**(g) Application of section for certain carbon capture equipment** In the case of any carbon capture equipment placed in service before the date of the enactment of the Bipartisan Budget Act of 2018, the credit under this section shall apply with respect to qualified carbon oxide captured using such equipment before the earlier of January 1, 2023, and the end of the calendar year in which the Secretary, in consultation with the Administrator of the Environmental Protection Agency, certifies that, during the period beginning after October 3, 2008, a total of 75,000,000 metric tons of qualified carbon oxide have been taken into account in accordance with—
 
 (1) subsection (a) of this section, as in effect on the day before the date of the enactment of the Bipartisan Budget Act of 2018, and
 
 (2) paragraphs (1) and (2) of subsection (a) of this section.
 
-**(h) Regulations** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, including regulations or other guidance to—
+**(h) Increased credit amount for qualified facilities and carbon capture equipment**
 
-(1) ensure proper allocation under subsection (a) for qualified carbon oxide captured by a taxpayer during the taxable year ending after the date of the enactment of the Bipartisan Budget Act of 2018, and
+(1) **In general** — In the case of any qualified facility or any carbon capture equipment which satisfy the requirements of paragraph (2), the amount of the credit determined under subsection (a) shall be equal to such amount (determined without regard to this sentence) multiplied by 5.
 
-(2) determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year.
+(2) **Requirements** — The requirements described in this paragraph are that—
+
+  (A) with respect to any qualified facility the construction of which begins on or after the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), as well as any carbon capture equipment placed in service at such facility—
+
+    (i) subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements under subparagraph (A) of such paragraph with respect to such facility and equipment, and
+
+    (ii) the taxpayer satisfies the requirements under paragraph (4) with respect to the construction of such facility and equipment,
+
+  (B) with respect to any carbon capture equipment the construction of which begins on or after the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and which is installed at a qualified facility the construction of which began prior to such date—
+
+    (i) subject to subparagraph (B) of paragraph (3), the taxpayer satisfies the requirements under subparagraph (A) of such paragraph with respect to such equipment, and
+
+    (ii) the taxpayer satisfies the requirements under paragraph (4) with respect to the construction of such equipment, or
+
+  (C) the construction of carbon capture equipment begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and such equipment is installed at a qualified facility the construction of which begins prior to such date.
+
+(3) **Prevailing wage requirements**
+
+  (A) *In general* — The requirements described in this subparagraph with respect to any qualified facility and any carbon capture equipment placed in service at such facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in—
+
+    (i) the construction of such facility or equipment, and
+
+    (ii) with respect to any taxable year, for any portion of such taxable year which is within the period described in paragraph (3)(A) or (4)(A) of subsection (a), the alteration or repair of such facility or such equipment,
+    shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility and equipment are located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. For purposes of determining an increased credit amount under paragraph (1) for a taxable year, the requirement under clause (ii) of this subparagraph is applied to such taxable year in which the alteration or repair of qualified facility occurs.
+
+  (B) *Correction and penalty related to failure to satisfy wage requirements* — Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+(4) **Apprenticeship requirements** — Rules similar to the rules of section 45(b)(8) shall apply.
+
+(5) **Regulations and guidance** — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+**(i) Regulations** The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, including regulations or other guidance to—
+
+(1) ensure proper allocation under subsection (a) for qualified carbon oxide captured by a taxpayer during the taxable year ending after the date of the enactment of the Bipartisan Budget Act of 2018,
+
+(2) determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year, and
+
+(3) for purposes of subsection (d)(2)(B)(ii), adjust the baseline carbon oxide production with respect to any applicable electric generating unit at any electricity generating facility if, after the date on which the carbon capture equipment is placed in service, modifications which are chargeable to capital account are made to such unit which result in a significant increase or decrease in carbon oxide production.
 
 ### Statutory Notes
 
@@ -15779,7 +16976,37 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 The date of the enactment of the Bipartisan Budget Act of 2018 and the date of the enactment of such Act, referred to in text, is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 #### Amendments
-2021—Subsec. (f)(3). Pub. L. 117–58 added par. (3) relating to certain tax-exempt bonds at end of subsec. (f).
+2022—Subsec. (b)(1)(A). Pub. L. 117–169, § 13104(c)(2)(A), substituted “Except as provided in subparagraph (B) or (C), the applicable dollar amount” for “The applicable dollar amount” in introductory provisions.
+
+Subsec. (b)(1)(A)(i)(I). Pub. L. 117–169, § 13104(b)(1)(A), substituted “$17” for “the dollar amount established by linear interpolation between $22.66 and $50 for each calendar year during such period”.
+
+Subsec. (b)(1)(A)(i)(II). Pub. L. 117–169, § 13104(b)(1)(B), substituted “$12” for “the dollar amount established by linear interpolation between $12.83 and $35 for each calendar year during such period”.
+
+Subsec. (b)(1)(A)(ii)(I). Pub. L. 117–169, § 13104(b)(2)(A), substituted “$17” for “$50”.
+
+Subsec. (b)(1)(A)(ii)(II). Pub. L. 117–169, § 13104(b)(2)(B), substituted “$12” for “$35”.
+
+Subsec. (b)(1)(B), (C). Pub. L. 117–169, § 13104(c)(1)(B), added subpars. (B) and (C). Former subpar. (B) redesignated (D).
+
+Subsec. (b)(1)(D). Pub. L. 117–169, § 13104(c)(2)(B), substituted “subparagraph (A), (B), or (C)” for “subparagraph (A)”.Pub. L. 117–169, § 13104(c)(1)(A), redesignated subpar. (B) as (D).
+
+Subsec. (d). Pub. L. 117–169, § 13104(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined qualified facility.
+
+Subsec. (e). Pub. L. 117–169, § 13104(a)(2)(A), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
+
+Subsec. (f)(3). Pub. L. 117–169, § 13104(e)(1), struck out par. (3) which related to credit reduced for certain tax-exempt bonds at end of subsec. (f).
+
+Subsec. (f)(8). Pub. L. 117–169, § 13104(e)(2), added par. (8).
+
+Subsec. (f)(9). Pub. L. 117–169, § 13104(g), added par. (9).
+
+Subsec. (g). Pub. L. 117–169, § 13104(f), inserted “the earlier of January 1, 2023, and” before “the end of the calendar year” in introductory provisions.
+
+Subsecs. (h), (i). Pub. L. 117–169, § 13104(d), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+Subsec. (i)(3). Pub. L. 117–169, § 13104(h), added par. (3).
+
+2021—Subsec. (f)(3). Pub. L. 117–58 added par. (3) relating to credit reduced for certain tax-exempt bonds at end of subsec. (f).
 
 2020—Subsec. (d)(1). Pub. L. 116–260 substituted “January 1, 2026” for “January 1, 2024” in introductory provisions.
 
@@ -15794,6 +17021,9 @@ Subsec. (a)(2)(C). Pub. L. 111–5, § 1131(a), added subpar. (C).
 Subsec. (d)(2). Pub. L. 111–5, § 1131(b)(1), inserted “the Secretary of Energy, and the Secretary of the Interior,” after “Environmental Protection Agency” and substituted “paragraph (1)(B) or (2)(C) of subsection (a)” for “subsection (a)(1)(B)” and “, oil and gas reservoirs, and unminable coal seams” for “and unminable coal seems”.
 
 Subsec. (e). Pub. L. 111–5, § 1131(b)(3), substituted “taken into account in accordance with subsection (a)” for “captured and disposed of or used as a tertiary injectant”.
+
+#### Effective Dates of 2022 Amendment
+Pub. L. 117–169, title I, § 13104(i), Aug. 16, 2022, 136 Stat. 1929, provided that: “(1) In general.—Except as provided in paragraphs (2), (3), and (4), the amendments made by this section [amending this section and [section 142 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-142)] shall apply to facilities or equipment placed in service after December 31, 2022. “(2) Modification of carbon oxide capture requirements.—The amendments made by subsection (a) [amending this section and [section 142 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-142)] shall apply to facilities or equipment the construction of which begins after the date of enactment of this Act [Aug. 16, 2022]. “(3) Application of section for certain carbon capture equipment.—The amendments made by subsection (f) [amending this section] shall take effect on the date of enactment of this Act. “(4) Election.—The amendments made by subsection (g) [amending this section] shall apply to carbon oxide captured and disposed of after December 31, 2021.”
 
 #### Effective Date of 2021 Amendment
 Pub. L. 117–58, div. H, title IV, § 80402(f), Nov. 15, 2021, 135 Stat. 1334, provided that: “The amendments made by this section [amending this section and sections 141, 142, and 146 of this title] shall apply to obligations issued after December 31, 2021.”
@@ -15812,6 +17042,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2021—Internal Revenue Notice 2021–35.
 
 2020—Internal Revenue Notice 2020–40.
 
@@ -16115,6 +17347,1302 @@ Section applicable to wages paid in taxable years beginning after Dec. 31, 2017,
 Section applicable to taxable years beginning after Dec. 31, 2019, see section 105(d) of Pub. L. 116–94, set out as an Effective Date of 2019 Amendment note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
 
 
+<a id="section-45u"></a>
+## § 45U. Zero-emission nuclear power production credit
+**(a) Amount of credit** For purposes of section 38, the zero-emission nuclear power production credit for any taxable year is an amount equal to the amount by which—
+
+(1) the product of—
+
+  (A) 0.3 cents, multiplied by
+
+  (B) the kilowatt hours of electricity—
+
+    (i) produced by the taxpayer at a qualified nuclear power facility, and
+
+    (ii) sold by the taxpayer to an unrelated person during the taxable year, exceeds
+
+(2) the reduction amount for such taxable year.
+
+**(b) Definitions**
+
+(1) **Qualified nuclear power facility** — For purposes of this section, the term “qualified nuclear power facility” means any nuclear facility—
+
+  (A) which is owned by the taxpayer and which uses nuclear energy to produce electricity,
+
+  (B) which is not an advanced nuclear power facility as defined in subsection (d)(1) of section 45J, and
+
+  (C) which is placed in service before the date of the enactment of this section.
+
+(2) **Reduction amount**
+
+  (A) *In general* — For purposes of this section, the term “reduction amount” means, with respect to any qualified nuclear power facility for any taxable year, the amount equal to the lesser of—
+
+    (i) the amount determined under subsection (a)(1), or
+
+    (ii) the amount equal to 16 percent of the excess of—
+
+      (I) subject to subparagraph (B), the gross receipts from any electricity produced by such facility (including any electricity services or products provided in conjunction with the electricity produced by such facility) and sold to an unrelated person during such taxable year, over
+
+      (II) the amount equal to the product of—
+
+        (aa) 2.5 cents, multiplied by
+
+        (bb) the amount determined under subsection (a)(1)(B).
+
+  (B) *Treatment of certain receipts*
+
+    (i) *In general* — Subject to clause (iii), the amount determined under subparagraph (A)(ii)(I) shall include any amount received by the taxpayer during the taxable year with respect to the qualified nuclear power facility from a zero-emission credit program. For purposes of determining the amount received during such taxable year, the taxpayer shall take into account any reductions required under such program.
+
+    (ii) *Zero-emission credit program* — For purposes of this subparagraph, the term “zero-emission credit program” means any payments with respect to a qualified nuclear power facility as a result of any Federal, State or local government program for, in whole or in part, the zero-emission, zero-carbon, or air quality attributes of any portion of the electricity produced by such facility.
+
+    (iii) *Exclusion* — For purposes of clause (i), any amount received by the taxpayer from a zero-emission credit program shall be excluded from the amount determined under subparagraph (A)(ii)(I) if the full amount of the credit calculated pursuant to subsection (a) (determined without regard to this subparagraph) is used to reduce payments from such zero-emission credit program.
+
+(3) **Electricity** — For purposes of this section, the term “electricity” means the energy produced by a qualified nuclear power facility from the conversion of nuclear fuel into electric power.
+
+**(c) Other rules**
+
+(1) **Inflation adjustment** — The 0.3 cent amount in subsection (a)(1)(A) and the 2.5 cent amount in subsection (b)(2)(A)(ii)(II)(aa) shall each be adjusted by multiplying such amount by the inflation adjustment factor (as determined under section 45(e)(2), as applied by substituting “calendar year 2023” for “calendar year 1992” in subparagraph (B) thereof) for the calendar year in which the sale occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If the 2.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+
+(2) **Special rules** — Rules similar to the rules of paragraphs (1), (3), (4), (5), and (13) of section 45(e) shall apply for purposes of this section.
+
+**(d) Wage requirements**
+
+(1) **Increased credit amount for qualified nuclear power facilities** — In the case of any qualified nuclear power facility which satisfies the requirements of paragraph (2)(A), the amount of the credit determined under subsection (a) shall be equal to such amount (as determined without regard to this sentence) multiplied by 5.
+
+(2) **Prevailing wage requirements**
+
+  (A) *In general* — The requirements described in this subparagraph with respect to any qualified nuclear power facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the alteration or repair of such facility shall be paid wages at rates not less than the prevailing rates for alteration or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+
+  (B) *Correction and penalty related to failure to satisfy wage requirements* — Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+(3) **Regulations and guidance** — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+**(e) Termination** This section shall not apply to taxable years beginning after December 31, 2032.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (b)(1)(C), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
+#### Amendments
+2022—Subsec. (c)(2). Pub. L. 117–169, § 13204(b)(2), substituted “(5), and (13)” for “and (5)”.
+
+#### Effective Date of 2022 Amendment
+Amendment by section 13204(b)(2) of Pub. L. 117–169 applicable to electricity produced after Dec. 31, 2022, see section 13204(b)(3) of Pub. L. 117–169, set out as a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13105(c), Aug. 16, 2022, 136 Stat. 1931, provided that: “This section [enacting this section and amending [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38)] shall apply to electricity produced and sold after December 31, 2023, in taxable years beginning after such date.”
+
+
+<a id="section-45v"></a>
+## § 45V. Credit for production of clean hydrogen
+**(a) Amount of credit** For purposes of section 38, the clean hydrogen production credit for any taxable year is an amount equal to the product of—
+
+(1) the kilograms of qualified clean hydrogen produced by the taxpayer during such taxable year at a qualified clean hydrogen production facility during the 10-year period beginning on the date such facility was originally placed in service, multiplied by
+
+(2) the applicable amount (as determined under subsection (b)) with respect to such hydrogen.
+
+**(b) Applicable amount**
+
+(1) **In general** — For purposes of subsection (a)(2), the applicable amount shall be an amount equal to the applicable percentage of $0.60. If any amount as determined under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+
+(2) **Applicable percentage** — For purposes of paragraph (1), the applicable percentage shall be determined as follows:
+
+  (A) In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of—
+
+    (i) not greater than 4 kilograms of CO2e per kilogram of hydrogen, and
+
+    (ii) not less than 2.5 kilograms of CO2e per kilogram of hydrogen,
+    the applicable percentage shall be 20 percent.
+
+  (B) In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of—
+
+    (i) less than 2.5 kilograms of CO2e per kilogram of hydrogen, and
+
+    (ii) not less than 1.5 kilograms of CO2e per kilogram of hydrogen,
+    the applicable percentage shall be 25 percent.
+
+  (C) In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of—
+
+    (i) less than 1.5 kilograms of CO2e per kilogram of hydrogen, and
+
+    (ii) not less than 0.45 kilograms of CO2e per kilogram of hydrogen,
+    the applicable percentage shall be 33.4 percent.
+
+  (D) In the case of any qualified clean hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of less than 0.45 kilograms of CO2e per kilogram of hydrogen, the applicable percentage shall be 100 percent.
+
+(3) **Inflation adjustment** — The $0.60 amount in paragraph (1) shall be adjusted by multiplying such amount by the inflation adjustment factor (as determined under section 45(e)(2), determined by substituting “2022” for “1992” in subparagraph (B) thereof) for the calendar year in which the qualified clean hydrogen is produced. If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+
+**(c) Definitions** For purposes of this section—
+
+(1) **Lifecycle greenhouse gas emissions**
+
+  (A) *In general* — Subject to subparagraph (B), the term “lifecycle greenhouse gas emissions” has the same meaning given such term under subparagraph (H) of section 211(o)(1) of the Clean Air Act ([42 U.S.C. 7545](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7545&num=0&edition=prelim)(o)(1)), as in effect on the date of enactment of this section.
+
+  (B) *GREET model* — The term “lifecycle greenhouse gas emissions” shall only include emissions through the point of production (well-to-gate), as determined under the most recent Greenhouse gases, Regulated Emissions, and Energy use in Transportation model (commonly referred to as the “GREET model”) developed by Argonne National Laboratory, or a successor model (as determined by the Secretary).
+
+(2) **Qualified clean hydrogen**
+
+  (A) *In general* — The term “qualified clean hydrogen” means hydrogen which is produced through a process that results in a lifecycle greenhouse gas emissions rate of not greater than 4 kilograms of CO2e per kilogram of hydrogen.
+
+  (B) *Additional requirements* — Such term shall not include any hydrogen unless—
+
+    (i) such hydrogen is produced—
+
+      (I) in the United States (as defined in section 638(1)) or a possession of the United States (as defined in section 638(2)),
+
+      (II) in the ordinary course of a trade or business of the taxpayer, and
+
+      (III) for sale or use, and
+
+    (ii) the production and sale or use of such hydrogen is verified by an unrelated party.
+
+  (C) *Provisional emissions rate* — In the case of any hydrogen for which a lifecycle greenhouse gas emissions rate has not been determined for purposes of this section, a taxpayer producing such hydrogen may file a petition with the Secretary for determination of the lifecycle greenhouse gas emissions rate with respect to such hydrogen.
+
+(3) **Qualified clean hydrogen production facility** — The term “qualified clean hydrogen production facility” means a facility—
+
+  (A) owned by the taxpayer,
+
+  (B) which produces qualified clean hydrogen, and
+
+  (C) the construction of which begins before January 1, 2033.
+
+**(d) Special rules**
+
+(1) **Treatment of facilities owned by more than 1 taxpayer** — Rules similar to the rules section 45(e)(3) shall apply for purposes of this section.
+
+(2) **Coordination with credit for carbon oxide sequestration** — No credit shall be allowed under this section with respect to any qualified clean hydrogen produced at a facility which includes carbon capture equipment for which a credit is allowed to any taxpayer under section 45Q for the taxable year or any prior taxable year.
+
+(3) **Credit reduced for tax-exempt bonds** — Rules similar to the rule under section 45(b)(3) shall apply for purposes of this section.
+
+(4) **Modification of existing facilities** — For purposes of subsection (a)(1), in the case of any facility which—
+
+  (A) was originally placed in service before January 1, 2023, and, prior to the modification described in subparagraph (B), did not produce qualified clean hydrogen, and
+
+  (B) after the date such facility was originally placed in service—
+
+    (i) is modified to produce qualified clean hydrogen, and
+
+    (ii) amounts paid or incurred with respect to such modification are properly chargeable to capital account of the taxpayer,
+  such facility shall be deemed to have been originally placed in service as of the date that the property required to complete the modification described in subparagraph (B) is placed in service.
+
+**(e) Increased credit amount for qualified clean hydrogen production facilities**
+
+(1) **In general** — In the case of any qualified clean hydrogen production facility which satisfies the requirements of paragraph (2), the amount of the credit determined under subsection (a) with respect to qualified clean hydrogen described in subsection (b)(2) shall be equal to such amount (determined without regard to this sentence) multiplied by 5.
+
+(2) **Requirements** — A facility meets the requirements of this paragraph if it is one of the following:
+
+  (A) A facility—
+
+    (i) the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3)(A) and (4), and
+
+    (ii) which meets the requirements of paragraph (3)(A) with respect to alteration or repair of such facility which occurs after such date.
+
+  (B) A facility which satisfies the requirements of paragraphs (3)(A) and (4).
+
+(3) **Prevailing wage requirements**
+
+  (A) *In general* — The requirements described in this subparagraph with respect to any qualified clean hydrogen production facility are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in—
+
+    (i) the construction of such facility, and
+
+    (ii) with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2), the alteration or repair of such facility,
+    shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such facility is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. For purposes of determining an increased credit amount under paragraph (1) for a taxable year, the requirement under clause (ii) of this subparagraph is applied to such taxable year in which the alteration or repair of qualified facility occurs.
+
+  (B) *Correction and penalty related to failure to satisfy wage requirements* — Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+(4) **Apprenticeship requirements** — Rules similar to the rules of section 45(b)(8) shall apply.
+
+(5) **Regulations and guidance** — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+**(f) Regulations** Not later than 1 year after the date of enactment of this section, the Secretary shall issue regulations or other guidance to carry out the purposes of this section, including regulations or other guidance for determining lifecycle greenhouse gas emissions.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (c)(1)(A) and (f), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
+#### Amendments
+2022—Subsec. (d)(3). Pub. L. 117–169, § 13204(a)(2), added par. (3).
+
+Subsec. (d)(4). Pub. L. 117–169, § 13204(a)(3), added par. (4).
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13204(a)(5), Aug. 16, 2022, 136 Stat. 1939, provided that: “(A) In general.—The amendments made by paragraphs (1) [enacting this section] and (4) [amending [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38)] of this subsection shall apply to hydrogen produced after December 31, 2022. “(B) Credit reduced for tax-exempt bonds.—The amendment made by paragraph (2) [amending this section] shall apply to facilities the construction of which begins after the date of enactment of this Act [Aug. 16, 2022]. “(C) Modification of existing facilities.—The amendment made by paragraph (3) [amending this section] shall apply to modifications made after December 31, 2022.”
+
+
+<a id="section-45w"></a>
+## § 45W. Credit for qualified commercial clean vehicles
+**(a) In general** For purposes of section 38, the qualified commercial clean vehicle credit for any taxable year is an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each qualified commercial clean vehicle placed in service by the taxpayer during the taxable year.
+
+**(b) Per vehicle amount**
+
+(1) **In general** — Subject to paragraph (4), the amount determined under this subsection with respect to any qualified commercial clean vehicle shall be equal to the lesser of—
+
+  (A) 15 percent of the basis of such vehicle (30 percent in the case of a vehicle not powered by a gasoline or diesel internal combustion engine), or
+
+  (B) the incremental cost of such vehicle.
+
+(2) **Incremental cost** — For purposes of paragraph (1)(B), the incremental cost of any qualified commercial clean vehicle is an amount equal to the excess of the purchase price for such vehicle over such price of a comparable vehicle.
+
+(3) **Comparable vehicle** — For purposes of this subsection, the term “comparable vehicle” means, with respect to any qualified commercial clean vehicle, any vehicle which is powered solely by a gasoline or diesel internal combustion engine and which is comparable in size and use to such vehicle.
+
+(4) **Limitation** — The amount determined under this subsection with respect to any qualified commercial clean vehicle shall not exceed—
+
+  (A) in the case of a vehicle which has a gross vehicle weight rating of less than 14,000 pounds, $7,500, and
+
+  (B) in the case of a vehicle not described in subparagraph (A), $40,000.
+
+**(c) Qualified commercial clean vehicle** For purposes of this section, the term “qualified commercial clean vehicle” means any vehicle which—
+
+(1) meets the requirements of section 30D(d)(1)(C) and is acquired for use or lease by the taxpayer and not for resale,
+
+(2) either—
+
+  (A) meets the requirements of subparagraph (D) of section 30D(d)(1) and is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails), or
+
+  (B) is mobile machinery, as defined in section 4053(8) (including vehicles that are not designed to perform a function of transporting a load over the public highways),
+
+(3) either—
+
+  (A) is propelled to a significant extent by an electric motor which draws electricity from a battery which has a capacity of not less than 15 kilowatt hours (or, in the case of a vehicle which has a gross vehicle weight rating of less than 14,000 pounds, 7 kilowatt hours) and is capable of being recharged from an external source of electricity, or
+
+  (B) is a motor vehicle which satisfies the requirements under subparagraphs (A) and (B) of section 30B(b)(3), and
+
+(4) is of a character subject to the allowance for depreciation.
+
+**(d) Special rules**
+
+(1) **In general** — Rules similar to the rules under subsection (f) of section 30D (without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section.
+
+(2) **Vehicles placed in service by tax-exempt entities** — Subsection (c)(4) shall not apply to any vehicle which is not subject to a lease and which is placed in service by a tax-exempt entity described in clause (i), (ii), or (iv) of section 168(h)(2)(A).
+
+(3) **No double benefit** — No credit shall be allowed under this section with respect to any vehicle for which a credit was allowed under section 30D.
+
+**(e) VIN number requirement** No credit shall be determined under subsection (a) with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.
+
+**(f) Regulations and guidance** The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this section, including regulations or other guidance relating to determination of the incremental cost of any qualified commercial clean vehicle.
+
+**(g) Termination** No credit shall be determined under this section with respect to any vehicle acquired after December 31, 2032.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13403(c), Aug. 16, 2022, 136 Stat. 1966, provided that: “The amendments made by this section [enacting this section and amending sections 38 and 6213 of this title] shall apply to vehicles acquired after December 31, 2022.”
+
+
+<a id="section-45x"></a>
+## § 45X. Advanced manufacturing production credit
+**(a) In general**
+
+(1) **Allowance of credit** — For purposes of section 38, the advanced manufacturing production credit for any taxable year is an amount equal to the sum of the credit amounts determined under subsection (b) with respect to each eligible component which is—
+
+  (A) produced by the taxpayer, and
+
+  (B) during the taxable year, sold by such taxpayer to an unrelated person.
+
+(2) **Production and sale must be in trade or business** — Any eligible component produced and sold by the taxpayer shall be taken into account only if the production and sale described in paragraph (1) is in a trade or business of the taxpayer.
+
+(3) **Unrelated person**
+
+  (A) *In general* — For purposes of this subsection, a taxpayer shall be treated as selling components to an unrelated person if such component is sold to such person by a person related to the taxpayer.
+
+  (B) *Election*
+
+    (i) *In general* — At the election of the taxpayer (in such form and manner as the Secretary may prescribe), a sale of components by such taxpayer to a related person shall be deemed to have been made to an unrelated person.
+
+    (ii) *Requirement* — As a condition of, and prior to, any election described in clause (i), the Secretary may require such information or registration as the Secretary deems necessary for purposes of preventing duplication, fraud, or any improper or excessive amount determined under paragraph (1).
+
+**(b) Credit amount**
+
+(1) **In general** — Subject to paragraph (3), the amount determined under this subsection with respect to any eligible component, including any eligible component it incorporates, shall be equal to—
+
+  (A) in the case of a thin film photovoltaic cell or a crystalline photovoltaic cell, an amount equal to the product of—
+
+    (i) 4 cents, multiplied by
+
+    (ii) the capacity of such cell (expressed on a per direct current watt basis),
+
+  (B) in the case of a photovoltaic wafer, $12 per square meter,
+
+  (C) in the case of solar grade polysilicon, $3 per kilogram,
+
+  (D) in the case of a polymeric backsheet, 40 cents per square meter,
+
+  (E) in the case of a solar module, an amount equal to the product of—
+
+    (i) 7 cents, multiplied by
+
+    (ii) the capacity of such module (expressed on a per direct current watt basis),
+
+  (F) in the case of a wind energy component—
+
+    (i) if such component is a related offshore wind vessel, an amount equal to 10 percent of the sales price of such vessel, and
+
+    (ii) if such component is not described in clause (i), an amount equal to the product of—
+
+      (I) the applicable amount with respect to such component (as determined under paragraph (2)(A)), multiplied by
+
+      (II) the total rated capacity (expressed on a per watt basis) of the completed wind turbine for which such component is designed,
+
+  (G) in the case of a torque tube, 87 cents per kilogram,
+
+  (H) in the case of a structural fastener, $2.28 per kilogram,
+
+  (I) in the case of an inverter, an amount equal to the product of—
+
+    (i) the applicable amount with respect to such inverter (as determined under paragraph (2)(B)), multiplied by
+
+    (ii) the capacity of such inverter (expressed on a per alternating current watt basis),
+
+  (J) in the case of electrode active materials, an amount equal to 10 percent of the costs incurred by the taxpayer with respect to production of such materials,
+
+  (K) in the case of a battery cell, an amount equal to the product of—
+
+    (i) $35, multiplied by
+
+    (ii) subject to paragraph (4), the capacity of such battery cell (expressed on a kilowatt-hour basis),
+
+  (L) in the case of a battery module, an amount equal to the product of—
+
+    (i) $10 (or, in the case of a battery module which does not use battery cells, $45), multiplied by
+
+    (ii) subject to paragraph (4), the capacity of such battery module (expressed on a kilowatt-hour basis), and
+
+  (M) in the case of any applicable critical mineral, an amount equal to 10 percent of the costs incurred by the taxpayer with respect to production of such mineral.
+
+(2) **Applicable amounts**
+
+  (A) *Wind energy components* — For purposes of paragraph (1)(F)(ii), the applicable amount with respect to any wind energy component shall be—
+
+    (i) in the case of a blade, 2 cents,
+
+    (ii) in the case of a nacelle, 5 cents,
+
+    (iii) in the case of a tower, 3 cents, and
+
+    (iv) in the case of an offshore wind foundation—
+
+      (I) which uses a fixed platform, 2 cents, or
+
+      (II) which uses a floating platform, 4 cents.
+
+  (B) *Inverters* — For purposes of paragraph (1)(I), the applicable amount with respect to any inverter shall be—
+
+    (i) in the case of a central inverter, 0.25 cents,
+
+    (ii) in the case of a utility inverter, 1.5 cents,
+
+    (iii) in the case of a commercial inverter, 2 cents,
+
+    (iv) in the case of a residential inverter, 6.5 cents, and
+
+    (v) in the case of a microinverter or a distributed wind inverter, 11 cents.
+
+(3) **Phase out**
+
+  (A) *In general* — Subject to subparagraph (C), in the case of any eligible component sold after December 31, 2029, the amount determined under this subsection with respect to such component shall be equal to the product of—
+
+    (i) the amount determined under paragraph (1) with respect to such component, as determined without regard to this paragraph, multiplied by
+
+    (ii) the phase out percentage under subparagraph (B).
+
+  (B) *Phase out percentage* — The phase out percentage under this subparagraph is equal to—
+
+    (i) in the case of an eligible component sold during calendar year 2030, 75 percent,
+
+    (ii) in the case of an eligible component sold during calendar year 2031, 50 percent,
+
+    (iii) in the case of an eligible component sold during calendar year 2032, 25 percent,
+
+    (iv) in the case of an eligible component sold after December 31, 2032, 0 percent.
+
+  (C) *Exception* — For purposes of determining the amount under this subsection with respect to any applicable critical mineral, this paragraph shall not apply.
+
+(4) **Limitation on capacity of battery cells and battery modules**
+
+  (A) *In general* — For purposes of subparagraph (K)(ii) or (L)(ii) of paragraph (1), the capacity determined under either subparagraph with respect to a battery cell or battery module shall not exceed a capacity-to-power ratio of 100:1.
+
+  (B) *Capacity-to-power ratio* — For purposes of this paragraph, the term “capacity-to-power ratio” means, with respect to a battery cell or battery module, the ratio of the capacity of such cell or module to the maximum discharge amount of such cell or module.
+
+**(c) Definitions** For purposes of this section—
+
+(1) **Eligible component**
+
+  (A) *In general* — The term “eligible component” means—
+
+    (i) any solar energy component,
+
+    (ii) any wind energy component,
+
+    (iii) any inverter described in subparagraphs (B) through (G) of paragraph (2),
+
+    (iv) any qualifying battery component, and
+
+    (v) any applicable critical mineral.
+
+  (B) *Application with other credits* — The term “eligible component” shall not include any property which is produced at a facility if the basis of any property which is part of such facility is taken into account for purposes of the credit allowed under section 48C after the date of the enactment of this section.
+
+(2) **Inverters**
+
+  (A) *In general* — The term “inverter” means an end product which is suitable to convert direct current electricity from 1 or more solar modules or certified distributed wind energy systems into alternating current electricity.
+
+  (B) *Central inverter* — The term “central inverter” means an inverter which is suitable for large utility-scale systems and has a capacity which is greater than 1,000 kilowatts (expressed on a per alternating current watt basis).
+
+  (C) *Commercial inverter* — The term “commercial inverter” means an inverter which—
+
+    (i) is suitable for commercial or utility-scale applications,
+
+    (ii) has a rated output of 208, 480, 600, or 800 volt three-phase power, and
+
+    (iii) has a capacity which is not less than 20 kilowatts and not greater than 125 kilowatts (expressed on a per alternating current watt basis).
+
+  (D) *Distributed wind inverter*
+
+    (i) *In general* — The term “distributed wind inverter” means an inverter which—
+
+      (I) is used in a residential or non-residential system which utilizes 1 or more certified distributed wind energy systems, and
+
+      (II) has a rated output of not greater than 150 kilowatts.
+
+    (ii) *Certified distributed wind energy system* — The term “certified distributed wind energy system” means a wind energy system which is certified by an accredited certification agency to meet Standard 9.1-2009 of the American Wind Energy Association (including any subsequent revisions to or modifications of such Standard which have been approved by the American National Standards Institute).
+
+  (E) *Microinverter* — The term “microinverter” means an inverter which—
+
+    (i) is suitable to connect with one solar module,
+
+    (ii) has a rated output of—
+
+      (I) 120 or 240 volt single-phase power, or
+
+      (II) 208 or 480 volt three-phase power, and
+
+    (iii) has a capacity which is not greater than 650 watts (expressed on a per alternating current watt basis).
+
+  (F) *Residential inverter* — The term “residential inverter” means an inverter which—
+
+    (i) is suitable for a residence,
+
+    (ii) has a rated output of 120 or 240 volt single-phase power, and
+
+    (iii) has a capacity which is not greater than 20 kilowatts (expressed on a per alternating current watt basis).
+
+  (G) *Utility inverter* — The term “utility inverter” means an inverter which—
+
+    (i) is suitable for commercial or utility-scale systems,
+
+    (ii) has a rated output of not less than 600 volt three-phase power, and
+
+    (iii) has a capacity which is greater than 125 kilowatts and not greater than 1000 kilowatts (expressed on a per alternating current watt basis) 11 So in original. Probably should be followed by a period.
+
+(3) **Solar energy component**
+
+  (A) *In general* — The term “solar energy component” means any of the following:
+
+    (i) Solar modules.
+
+    (ii) Photovoltaic cells.
+
+    (iii) Photovoltaic wafers.
+
+    (iv) Solar grade polysilicon.
+
+    (v) Torque tubes or structural fasteners.
+
+    (vi) Polymeric backsheets.
+
+  (B) *Associated definitions*
+
+    (i) *Photovoltaic cell* — The term “photovoltaic cell” means the smallest semiconductor element of a solar module which performs the immediate conversion of light into electricity.
+
+    (ii) *Photovoltaic wafer* — The term “photovoltaic wafer” means a thin slice, sheet, or layer of semiconductor material of at least 240 square centimeters—
+
+      (I) produced by a single manufacturer either—
+
+        (aa) directly from molten or evaporated solar grade polysilicon or deposition of solar grade thin film semiconductor photon absorber layer, or
+
+        (bb) through formation of an ingot from molten polysilicon and subsequent slicing, and
+
+      (II) which comprises the substrate or absorber layer of one or more photovoltaic cells.
+
+    (iii) *Polymeric backsheet* — The term “polymeric backsheet” means a sheet on the back of a solar module which acts as an electric insulator and protects the inner components of such module from the surrounding environment.
+
+    (iv) *Solar grade polysilicon* — The term “solar grade polysilicon” means silicon which is—
+
+      (I) suitable for use in photovoltaic manufacturing, and
+
+      (II) purified to a minimum purity of 99.999999 percent silicon by mass.
+
+    (v) *Solar module* — The term “solar module” means the connection and lamination of photovoltaic cells into an environmentally protected final assembly which is—
+
+      (I) suitable to generate electricity when exposed to sunlight, and
+
+      (II) ready for installation without an additional manufacturing process.
+
+    (vi) *Solar tracker* — The term “solar tracker” means a mechanical system that moves solar modules according to the position of the sun and to increase energy output.
+
+    (vii) *Solar tracker components*
+
+      (I) *Torque tube* — The term “torque tube” means a structural steel support element (including longitudinal purlins) which—
+
+        (aa) is part of a solar tracker,
+
+        (bb) is of any cross-sectional shape,
+
+        (cc) may be assembled from individually manufactured segments,
+
+        (dd) spans longitudinally between foundation posts,
+
+        (ee) supports solar panels and is connected to a mounting attachment for solar panels (with or without separate module interface rails), and
+
+        (ff) is rotated by means of a drive system.
+
+      (II) *Structural fastener* — The term “structural fastener” means a component which is used—
+
+        (aa) to connect the mechanical and drive system components of a solar tracker to the foundation of such solar tracker,
+
+        (bb) to connect torque tubes to drive assemblies, or
+
+        (cc) to connect segments of torque tubes to one another.
+
+(4) **Wind energy component**
+
+  (A) *In general* — The term “wind energy component” means any of the following:
+
+    (i) Blades.
+
+    (ii) Nacelles.
+
+    (iii) Towers.
+
+    (iv) Offshore wind foundations.
+
+    (v) Related offshore wind vessels.
+
+  (B) *Associated definitions*
+
+    (i) *Blade* — The term “blade” means an airfoil-shaped blade which is responsible for converting wind energy to low-speed rotational energy.
+
+    (ii) *Offshore wind foundation* — The term “offshore wind foundation” means the component (including transition piece) which secures an offshore wind tower and any above-water turbine components to the seafloor using—
+
+      (I) fixed platforms, such as offshore wind monopiles, jackets, or gravity-based foundations, or
+
+      (II) floating platforms and associated mooring systems.
+
+    (iii) *Nacelle* — The term “nacelle” means the assembly of the drivetrain and other tower-top components of a wind turbine (with the exception of the blades and the hub) within their cover housing.
+
+    (iv) *Related offshore wind vessel* — The term “related offshore wind vessel” means any vessel which is purpose-built or retrofitted for purposes of the development, transport, installation, operation, or maintenance of offshore wind energy components.
+
+    (v) *Tower* — The term “tower” means a tubular or lattice structure which supports the nacelle and rotor of a wind turbine.
+
+(5) **Qualifying battery component**
+
+  (A) *In general* — The term “qualifying battery component” means any of the following:
+
+    (i) Electrode active materials.
+
+    (ii) Battery cells.
+
+    (iii) Battery modules.
+
+  (B) *Associated definitions*
+
+    (i) *Electrode active material* — The term “electrode active material” means cathode materials, anode materials, anode foils, and electrochemically active materials, including solvents, additives, and electrolyte salts that contribute to the electrochemical processes necessary for energy storage.
+
+    (ii) *Battery cell* — The term “battery cell” means an electrochemical cell—
+
+      (I) comprised of 1 or more positive electrodes and 1 or more negative electrodes,
+
+      (II) with an energy density of not less than 100 watt-hours per liter, and
+
+      (III) capable of storing at least 12 watt-hours of energy.
+
+    (iii) *Battery module* — The term “battery module” means a module—
+
+      (I)
+
+        (aa) in the case of a module using battery cells, with 2 or more battery cells which are configured electrically, in series or parallel, to create voltage or current, as appropriate, to a specified end use, or
+
+        (bb) with no battery cells, and
+
+      (II) with an aggregate capacity of not less than 7 kilowatt-hours (or, in the case of a module for a hydrogen fuel cell vehicle, not less than 1 kilowatt-hour).
+
+(6) **Applicable critical minerals** — The term “applicable critical mineral” means any of the following:
+
+  (A) *Aluminum* — Aluminum which is—
+
+    (i) converted from bauxite to a minimum purity of 99 percent alumina by mass, or
+
+    (ii) purified to a minimum purity of 99.9 percent aluminum by mass.
+
+  (B) *Antimony* — Antimony which is—
+
+    (i) converted to antimony trisulfide concentrate with a minimum purity of 90 percent antimony trisulfide by mass, or
+
+    (ii) purified to a minimum purity of 99.65 percent antimony by mass.
+
+  (C) *Barite* — Barite which is barium sulfate purified to a minimum purity of 80 percent barite by mass.
+
+  (D) *Beryllium* — Beryllium which is—
+
+    (i) converted to copper-beryllium master alloy, or
+
+    (ii) purified to a minimum purity of 99 percent beryllium by mass.
+
+  (E) *Cerium* — Cerium which is—
+
+    (i) converted to cerium oxide which is purified to a minimum purity of 99.9 percent cerium oxide by mass, or
+
+    (ii) purified to a minimum purity of 99 percent cerium by mass.
+
+  (F) *Cesium* — Cesium which is—
+
+    (i) converted to cesium formate or cesium carbonate, or
+
+    (ii) purified to a minimum purity of 99 percent cesium by mass.
+
+  (G) *Chromium* — Chromium which is—
+
+    (i) converted to ferrochromium consisting of not less than 60 percent chromium by mass, or
+
+    (ii) purified to a minimum purity of 99 percent chromium by mass.
+
+  (H) *Cobalt* — Cobalt which is—
+
+    (i) converted to cobalt sulfate, or
+
+    (ii) purified to a minimum purity of 99.6 percent cobalt by mass.
+
+  (I) *Dysprosium* — Dysprosium which is—
+
+    (i) converted to not less than 99 percent pure dysprosium iron alloy by mass, or
+
+    (ii) purified to a minimum purity of 99 percent dysprosium by mass.
+
+  (J) *Europium* — Europium which is—
+
+    (i) converted to europium oxide which is purified to a minimum purity of 99.9 percent europium oxide by mass, or
+
+    (ii) purified to a minimum purity of 99 percent by mass.
+
+  (K) *Fluorspar* — Fluorspar which is—
+
+    (i) converted to fluorspar which is purified to a minimum purity of 97 percent calcium fluoride by mass, or
+
+    (ii) purified to a minimum purity of 99 percent fluorspar by mass.
+
+  (L) *Gadolinium* — Gadolinium which is—
+
+    (i) converted to gadolinium oxide which is purified to a minimum purity of 99.9 percent gadolinium oxide by mass, or
+
+    (ii) purified to a minimum purity of 99 percent gadolinium by mass.
+
+  (M) *Germanium* — Germanium which is—
+
+    (i) converted to germanium tetrachloride, or
+
+    (ii) purified to a minimum purity of 99.99 percent germanium by mass.
+
+  (N) *Graphite* — Graphite which is purified to a minimum purity of 99.9 percent graphitic carbon by mass.
+
+  (O) *Indium* — Indium which is—
+
+    (i) converted to—
+
+      (I) indium tin oxide, or
+
+      (II) indium oxide which is purified to a minimum purity of 99.9 percent indium oxide by mass, or
+
+    (ii) purified to a minimum purity of 99 percent indium by mass.
+
+  (P) *Lithium* — Lithium which is—
+
+    (i) converted to lithium carbonate or lithium hydroxide, or
+
+    (ii) purified to a minimum purity of 99.9 percent lithium by mass.
+
+  (Q) *Manganese* — Manganese which is—
+
+    (i) converted to manganese sulphate, or
+
+    (ii) purified to a minimum purity of 99.7 percent manganese by mass.
+
+  (R) *Neodymium* — Neodymium which is—
+
+    (i) converted to neodymium-praseodymium oxide which is purified to a minimum purity of 99 percent neodymium-praseodymium oxide by mass,
+
+    (ii) converted to neodymium oxide which is purified to a minimum purity of 99.5 percent neodymium oxide by mass 22 So in original. Probably should be followed by “, or”.
+
+    (iii) purified to a minimum purity of 99.9 percent neodymium by mass.
+
+  (S) *Nickel* — Nickel which is—
+
+    (i) converted to nickel sulphate, or
+
+    (ii) purified to a minimum purity of 99 percent nickel by mass.
+
+  (T) *Niobium* — Niobium which is—
+
+    (i) converted to ferronibium, or
+
+    (ii) purified to a minimum purity of 99 percent niobium by mass.
+
+  (U) *Tellurium* — Tellurium which is—
+
+    (i) converted to cadmium telluride, or
+
+    (ii) purified to a minimum purity of 99 percent tellurium by mass.
+
+  (V) *Tin* — Tin which is purified to low alpha emitting tin which—
+
+    (i) has a purity of greater than 99.99 percent by mass, and
+
+    (ii) possesses an alpha emission rate of not greater than 0.01 counts per hour per centimeter square.
+
+  (W) *Tungsten* — Tungsten which is converted to ammonium paratungstate or ferrotungsten.
+
+  (X) *Vanadium* — Vanadium which is converted to ferrovanadium or vanadium pentoxide.
+
+  (Y) *Yttrium* — Yttrium which is—
+
+    (i) converted to yttrium oxide which is purified to a minimum purity of 99.999 percent yttrium oxide by mass, or
+
+    (ii) purified to a minimum purity of 99.9 percent yttrium by mass.
+
+  (Z) *Other minerals* — Any of the following minerals, provided that such mineral is purified to a minimum purity of 99 percent by mass:
+
+    (i) Arsenic.
+
+    (ii) Bismuth.
+
+    (iii) Erbium.
+
+    (iv) Gallium.
+
+    (v) Hafnium.
+
+    (vi) Holmium.
+
+    (vii) Iridium.
+
+    (viii) Lanthanum.
+
+    (ix) Lutetium.
+
+    (x) Magnesium.
+
+    (xi) Palladium.
+
+    (xii) Platinum.
+
+    (xiii) Praseodymium.
+
+    (xiv) Rhodium.
+
+    (xv) Rubidium.
+
+    (xvi) Ruthenium.
+
+    (xvii) Samarium.
+
+    (xviii) Scandium.
+
+    (xix) Tantalum.
+
+    (xx) Terbium.
+
+    (xxi) Thulium.
+
+    (xxii) Titanium.
+
+    (xxiii) Ytterbium.
+
+    (xxiv) Zinc.
+
+    (xxv) Zirconium.
+
+**(d) Special rules** In this section—
+
+(1) **Related persons** — Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b).
+
+(2) **Only production in the United States taken into account** — Sales shall be taken into account under this section only with respect to eligible components the production of which is within—
+
+  (A) the United States (within the meaning of section 638(1)), or
+
+  (B) a possession of the United States (within the meaning of section 638(2)).
+
+(3) **Pass-thru in the case of estates and trusts** — Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
+
+(4) **Sale of integrated components** — For purposes of this section, a person shall be treated as having sold an eligible component to an unrelated person if such component is integrated, incorporated, or assembled into another eligible component which is sold to an unrelated person.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (c)(1)(B), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13502(c), Aug. 16, 2022, 136 Stat. 1981, provided that: “The amendments made by this section [enacting this section and amending [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38)] shall apply to components produced and sold after December 31, 2022.”
+
+
+<a id="section-45y"></a>
+## § 45Y. Clean electricity production credit
+**(a) Amount of credit**
+
+(1) **In general** — For purposes of section 38, the clean electricity production credit for any taxable year is an amount equal to the product of—
+
+  (A) the kilowatt hours of electricity—
+
+    (i) produced by the taxpayer at a qualified facility, and
+
+    (ii)
+
+      (I) sold by the taxpayer to an unrelated person during the taxable year, or
+
+      (II) in the case of a qualified facility which is equipped with a metering device which is owned and operated by an unrelated person, sold, consumed, or stored by the taxpayer during the taxable year, multiplied by
+
+  (B) the applicable amount with respect to such qualified facility.
+
+(2) **Applicable amount**
+
+  (A) *Base amount* — Subject to subsection (g)(7), in the case of any qualified facility which is not described in clause (i) or (ii) of subparagraph (B) and does not satisfy the requirements described in clause (iii) of such subparagraph, the applicable amount shall be 0.3 cents.
+
+  (B) *Alternative amount* — Subject to subsection (g)(7), in the case of any qualified facility—
+
+    (i) with a maximum net output of less than 1 megawatt (as measured in alternating current),
+
+    (ii) the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (9) and (10) of subsection (g), or
+
+    (iii) which—
+
+      (I) satisfies the requirements under paragraph (9) of subsection (g), and
+
+      (II) with respect to the construction of such facility, satisfies the requirements under paragraph (10) of subsection (g),
+    the applicable amount shall be 1.5 cents.
+
+**(b) Qualified facility**
+
+(1) **In general**
+
+  (A) *Definition* — Subject to subparagraphs (B), (C), and (D), the term “qualified facility” means a facility owned by the taxpayer—
+
+    (i) which is used for the generation of electricity,
+
+    (ii) which is placed in service after December 31, 2024, and
+
+    (iii) for which the greenhouse gas emissions rate (as determined under paragraph (2)) is not greater than zero.
+
+  (B) *10-year production credit* — For purposes of this section, a facility shall only be treated as a qualified facility during the 10-year period beginning on the date the facility was originally placed in service.
+
+  (C) *Expansion of facility; incremental production* — The term “qualified facility” shall include either of the following in connection with a facility described in subparagraph (A) (without regard to clause (ii) of such subparagraph) which was placed in service before January 1, 2025, but only to the extent of the increased amount of electricity produced at the facility by reason of the following:
+
+    (i) A new unit which is placed in service after December 31, 2024.
+
+    (ii) Any additions of capacity which are placed in service after December 31, 2024.
+
+  (D) *Coordination with other credits* — The term “qualified facility” shall not include any facility for which a credit determined under section 45, 45J, 45Q, 45U, 48, 48A, or 48E is allowed under section 38 for the taxable year or any prior taxable year.
+
+(2) **Greenhouse gas emissions rate**
+
+  (A) *In general* — For purposes of this section, the term “greenhouse gas emissions rate” means the amount of greenhouse gases emitted into the atmosphere by a facility in the production of electricity, expressed as grams of CO2e per KWh.
+
+  (B) *Fuel combustion and gasification* — In the case of a facility which produces electricity through combustion or gasification, the greenhouse gas emissions rate for such facility shall be equal to the net rate of greenhouse gases emitted into the atmosphere by such facility (taking into account lifecycle greenhouse gas emissions, as described in section 211(o)(1)(H) of the Clean Air Act ([42 U.S.C. 7545](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7545&num=0&edition=prelim)(o)(1)(H))) in the production of electricity, expressed as grams of CO2e per KWh.
+
+  (C) *Establishment of emissions rates for facilities*
+
+    (i) *Publishing emissions rates* — The Secretary shall annually publish a table that sets forth the greenhouse gas emissions rates for types or categories of facilities, which a taxpayer shall use for purposes of this section.
+
+    (ii) *Provisional emissions rate* — In the case of any facility for which an emissions rate has not been established by the Secretary, a taxpayer which owns such facility may file a petition with the Secretary for determination of the emissions rate with respect to such facility.
+
+  (D) *Carbon capture and sequestration equipment* — For purposes of this subsection, the amount of greenhouse gases emitted into the atmosphere by a facility in the production of electricity shall not include any qualified carbon dioxide that is captured by the taxpayer and—
+
+    (i) pursuant to any regulations established under paragraph (2) of section 45Q(f), disposed of by the taxpayer in secure geological storage, or
+
+    (ii) utilized by the taxpayer in a manner described in paragraph (5) of such section.
+
+**(c) Inflation adjustment**
+
+(1) **In general** — In the case of a calendar year beginning after 2024, the 0.3 cent amount in paragraph (2)(A) of subsection (a) and the 1.5 cent amount in paragraph (2)(B) of such subsection shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale, consumption, or storage of the electricity occurs. If the 0.3 cent amount as increased under this paragraph is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. If the 1.5 cent amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.
+
+(2) **Annual computation** — The Secretary shall, not later than April 1 of each calendar year, determine and publish in the Federal Register the inflation adjustment factor for such calendar year in accordance with this subsection.
+
+(3) **Inflation adjustment factor** — The term “inflation adjustment factor” means, with respect to a calendar year, a fraction the numerator of which is the GDP implicit price deflator for the preceding calendar year and the denominator of which is the GDP implicit price deflator for the calendar year 1992. The term “GDP implicit price deflator” means the most recent revision of the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce before March 15 of the calendar year.
+
+**(d) Credit phase-out**
+
+(1) **In general** — The amount of the clean electricity production credit under subsection (a) for any qualified facility the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of—
+
+  (A) the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by
+
+  (B) the phase-out percentage under paragraph (2).
+
+(2) **Phase-out percentage** — The phase-out percentage under this paragraph is equal to—
+
+  (A) for a facility the construction of which begins during the first calendar year following the applicable year, 100 percent,
+
+  (B) for a facility the construction of which begins during the second calendar year following the applicable year, 75 percent,
+
+  (C) for a facility the construction of which begins during the third calendar year following the applicable year, 50 percent, and
+
+  (D) for a facility the construction of which begins during any calendar year subsequent to the calendar year described in subparagraph (C), 0 percent.
+
+(3) **Applicable year** — For purposes of this subsection, the term “applicable year” means the later of—
+
+  (A) the calendar year in which the Secretary determines that the annual greenhouse gas emissions from the production of electricity in the United States are equal to or less than 25 percent of the annual greenhouse gas emissions from the production of electricity in the United States for calendar year 2022, or
+
+  (B) 2032.
+
+**(e) Definitions** For purposes of this section:
+
+(1) **CO2e per KWh** — The term “CO2e per KWh” means, with respect to any greenhouse gas, the equivalent carbon dioxide (as determined based on global warming potential) per kilowatt hour of electricity produced.
+
+(2) **Greenhouse gas** — The term “greenhouse gas” has the same meaning given such term under section 211(o)(1)(G) of the Clean Air Act ([42 U.S.C. 7545](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7545&num=0&edition=prelim)(o)(1)(G)), as in effect on the date of the enactment of this section.
+
+(3) **Qualified carbon dioxide** — The term “qualified carbon dioxide” means carbon dioxide captured from an industrial source which—
+
+  (A) would otherwise be released into the atmosphere as industrial emission of greenhouse gas,
+
+  (B) is measured at the source of capture and verified at the point of disposal or utilization, and
+
+  (C) is captured and disposed or utilized within the United States (within the meaning of section 638(1)) or a possession of the United States (within the meaning of section 638(2)).
+
+**(f) Guidance** Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section, including calculation of greenhouse gas emission rates for qualified facilities and determination of clean electricity production credits under this section.
+
+**(g) Special rules**
+
+(1) **Only production in the United States taken into account** — Consumption, sales, or storage shall be taken into account under this section only with respect to electricity the production of which is within—
+
+  (A) the United States (within the meaning of section 638(1)), or
+
+  (B) a possession of the United States (within the meaning of section 638(2)).
+
+(2) **Combined heat and power system property**
+
+  (A) *In general* — For purposes of subsection (a)—
+
+    (i) the kilowatt hours of electricity produced by a taxpayer at a qualified facility shall include any production in the form of useful thermal energy by any combined heat and power system property within such facility, and
+
+    (ii) the amount of greenhouse gases emitted into the atmosphere by such facility in the production of such useful thermal energy shall be included for purposes of determining the greenhouse gas emissions rate for such facility.
+
+  (B) *Combined heat and power system property* — For purposes of this paragraph, the term “combined heat and power system property” has the same meaning given such term by section 48(c)(3) (without regard to subparagraphs (A)(iv), (B), and (D) thereof).
+
+  (C) *Conversion from BTU to KWh*
+
+    (i) *In general* — For purposes of subparagraph (A)(i), the amount of kilowatt hours of electricity produced in the form of useful thermal energy shall be equal to the quotient of—
+
+      (I) the total useful thermal energy produced by the combined heat and power system property within the qualified facility, divided by
+
+      (II) the heat rate for such facility.
+
+    (ii) *Heat rate* — For purposes of this subparagraph, the term “heat rate” means the amount of energy used by the qualified facility to generate 1 kilowatt hour of electricity, expressed as British thermal units per net kilowatt hour generated.
+
+(3) **Production attributable to the taxpayer** — In the case of a qualified facility in which more than 1 person has an ownership interest, except to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility.
+
+(4) **Related persons** — Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling electricity to an unrelated person if such electricity is sold to such a person by another member of such group.
+
+(5) **Pass-thru in the case of estates and trusts** — Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
+
+(6) **Allocation of credit to patrons of agricultural cooperative**
+
+  (A) *Election to allocate*
+
+    (i) *In general* — In the case of an eligible cooperative organization, any portion of the credit determined under subsection (a) for the taxable year may, at the election of the organization, be apportioned among patrons of the organization on the basis of the amount of business done by the patrons during the taxable year.
+
+    (ii) *Form and effect of election* — An election under clause (i) for any taxable year shall be made on a timely filed return for such year. Such election, once made, shall be irrevocable for such taxable year. Such election shall not take effect unless the organization designates the apportionment as such in a written notice mailed to its patrons during the payment period described in section 1382(d).
+
+  (B) *Treatment of organizations and patrons* — The amount of the credit apportioned to any patrons under subparagraph (A)—
+
+    (i) shall not be included in the amount determined under subsection (a) with respect to the organization for the taxable year, and
+
+    (ii) shall be included in the amount determined under subsection (a) for the first taxable year of each patron ending on or after the last day of the payment period (as defined in section 1382(d)) for the taxable year of the organization or, if earlier, for the taxable year of each patron ending on or after the date on which the patron receives notice from the cooperative of the apportionment.
+
+  (C) *Special rules for decrease in credits for taxable year* — If the amount of the credit of a cooperative organization determined under subsection (a) for a taxable year is less than the amount of such credit shown on the return of the cooperative organization for such year, an amount equal to the excess of—
+
+    (i) such reduction, over
+
+    (ii) the amount not apportioned to such patrons under subparagraph (A) for the taxable year,
+    shall be treated as an increase in tax imposed by this chapter on the organization. Such increase shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit under this chapter.
+
+  (D) *Eligible cooperative defined* — For purposes of this section, the term “eligible cooperative” means a cooperative organization described in section 1381(a) which is owned more than 50 percent by agricultural producers or by entities owned by agricultural producers. For this purpose an entity owned by an agricultural producer is one that is more than 50 percent owned by agricultural producers.
+
+(7) **Increase in credit in energy communities** — In the case of any qualified facility which is located in an energy community (as defined in section 45(b)(11)(B)), for purposes of determining the amount of the credit under subsection (a) with respect to any electricity produced by the taxpayer at such facility during the taxable year, the applicable amount under paragraph (2) of such subsection shall be increased by an amount equal to 10 percent of the amount otherwise in effect under such paragraph.
+
+(8) **Credit reduced for tax-exempt bonds** — Rules similar to the rules of section 45(b)(3) shall apply.
+
+(9) **Wage requirements** — Rules similar to the rules of section 45(b)(7) shall apply.
+
+(10) **Apprenticeship requirements** — Rules similar to the rules of section 45(b)(8) shall apply.
+
+(11) **Domestic content bonus credit amount**
+
+  (A) *In general* — In the case of any qualified facility which satisfies the requirement under subparagraph (B)(i), the amount of the credit determined under subsection (a) shall be increased by an amount equal to 10 percent of the amount so determined (as determined without application of paragraph (7)).
+
+  (B) *Requirement*
+
+    (i) *In general* — The requirement described in this subclause is satisfied with respect to any qualified facility if the taxpayer certifies to the Secretary (at such time, and in such form and manner, as the Secretary may prescribe) that any steel, iron, or manufactured product which is a component of such facility (upon completion of construction) was produced in the United States (as determined under [section 661 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section661&num=0&edition=prelim), Code of Federal Regulations).
+
+    (ii) *Steel and iron* — In the case of steel or iron, clause (i) shall be applied in a manner consistent with section 661.5 of title 49, Code of Federal Regulations.
+
+    (iii) *Manufactured product* — For purposes of clause (i), the manufactured products which are components of a qualified facility upon completion of construction shall be deemed to have been produced in the United States if not less than the adjusted percentage (as determined under subparagraph (C)) of the total costs of all such manufactured products of such facility are attributable to manufactured products (including components) which are mined, produced, or manufactured in the United States.
+
+  (C) *Adjusted percentage*
+
+    (i) *In general* — Subject to subclause (ii), for purposes of subparagraph (B)(iii), the adjusted percentage shall be—
+
+      (I) in the case of a facility the construction of which begins before January 1, 2025, 40 percent,
+
+      (II) in the case of a facility the construction of which begins after December 31, 2024, and before January 1, 2026, 45 percent,
+
+      (III) in the case of a facility the construction of which begins after December 31, 2025, and before January 1, 2027, 50 percent, and
+
+      (IV) in the case of a facility the construction of which begins after December 31, 2026, 55 percent.
+
+    (ii) *Offshore wind facility* — For purposes of subparagraph (B)(iii), in the case of a qualified facility which is an offshore wind facility, the adjusted percentage shall be—
+
+      (I) in the case of a facility the construction of which begins before January 1, 2025, 20 percent,
+
+      (II) in the case of a facility the construction of which begins after December 31, 2024, and before January 1, 2026, 27.5 percent,
+
+      (III) in the case of a facility the construction of which begins after December 31, 2025, and before January 1, 2027, 35 percent,
+
+      (IV) in the case of a facility the construction of which begins after December 31, 2026, and before January 1, 2028, 45 percent, and
+
+      (V) in the case of a facility the construction of which begins after December 31, 2027, 55 percent.
+
+(12) **Phaseout for elective payment**
+
+  (A) *In general* — In the case of a taxpayer making an election under section 6417 with respect to a credit under this section, the amount of such credit shall be replaced with—
+
+    (i) the value of such credit (determined without regard to this paragraph), multiplied by
+
+    (ii) the applicable percentage.
+
+  (B) *100 percent applicable percentage for certain qualified facilities* — In the case of any qualified facility—
+
+    (i) which satisfies the requirements under paragraph (11)(B), or
+
+    (ii) with a maximum net output of less than 1 megawatt (as measured in alternating current),
+    the applicable percentage shall be 100 percent.
+
+  (C) *Phased domestic content requirement* — Subject to subparagraph (D), in the case of any qualified facility which is not described in subparagraph (B), the applicable percentage shall be—
+
+    (i) if construction of such facility began before January 1, 2024, 100 percent,
+
+    (ii) if construction of such facility began in calendar year 2024, 90 percent,
+
+    (iii) if construction of such facility began in calendar year 2025, 85 percent, and
+
+    (iv) if construction of such facility began after December 31, 2025, 0 percent.
+
+  (D) *Exception*
+
+    (i) *In general* — For purposes of this paragraph, the Secretary shall provide exceptions to the requirements under this paragraph if—
+
+      (I) the inclusion of steel, iron, or manufactured products which are produced in the United States increases the overall costs of construction of qualified facilities by more than 25 percent, or
+
+      (II) relevant steel, iron, or manufactured products are not produced in the United States in sufficient and reasonably available quantities or of a satisfactory quality.
+
+    (ii) *Applicable percentage* — In any case in which the Secretary provides an exception pursuant to clause (i), the applicable percentage shall be 100 percent.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13701(c), Aug. 16, 2022, 136 Stat. 1990, provided that: “The amendments made by this section [enacting this section and amending [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38)] shall apply to facilities placed in service after December 31, 2024.”
+
+
+<a id="section-45z"></a>
+## § 45Z. Clean fuel production credit
+**(a) Amount of credit**
+
+(1) **In general** — For purposes of section 38, the clean fuel production credit for any taxable year is an amount equal to the product of—
+
+  (A) the applicable amount per gallon (or gallon equivalent) with respect to any transportation fuel which is—
+
+    (i) produced by the taxpayer at a qualified facility, and
+
+    (ii) sold by the taxpayer in a manner described in paragraph (4) during the taxable year, and
+
+  (B) the emissions factor for such fuel (as determined under subsection (b)).
+
+(2) **Applicable amount**
+
+  (A) *Base amount* — In the case of any transportation fuel produced at a qualified facility which does not satisfy the requirements described in subparagraph (B), the applicable amount shall be 20 cents.
+
+  (B) *Alternative amount* — In the case of any transportation fuel produced at a qualified facility which satisfies the requirements under paragraphs (6) and (7) of subsection (f), the applicable amount shall be $1.00.
+
+(3) **Special rate for sustainable aviation fuel**
+
+  (A) *In general* — In the case of a transportation fuel which is sustainable aviation fuel, paragraph (2) shall be applied—
+
+    (i) in the case of fuel produced at a qualified facility described in paragraph (2)(A), by substituting “35 cents” for “20 cents”, and
+
+    (ii) in the case of fuel produced at a qualified facility described in paragraph (2)(B), by substituting “$1.75” for “$1.00”.
+
+  (B) *Sustainable aviation fuel* — For purposes of this subparagraph (A),11 So in original. the term “sustainable aviation fuel” means liquid fuel, the portion of which is not kerosene, which is sold for use in an aircraft and which—
+
+    (i) meets the requirements of—
+
+      (I) ASTM International Standard D7566, or
+
+      (II) the Fischer Tropsch provisions of ASTM International Standard D1655, Annex A1, and
+
+    (ii) is not derived from palm fatty acid distillates or petroleum.
+
+(4) **Sale** — For purposes of paragraph (1), the transportation fuel is sold in a manner described in this paragraph if such fuel is sold by the taxpayer to an unrelated person—
+
+  (A) for use by such person in the production of a fuel mixture,
+
+  (B) for use by such person in a trade or business, or
+
+  (C) who sells such fuel at retail to another person and places such fuel in the fuel tank of such other person.
+
+(5) **Rounding** — If any amount determined under paragraph (1) is not a multiple of 1 cent, such amount shall be rounded to the nearest cent.
+
+**(b) Emissions factors**
+
+(1) **Emissions factor**
+
+  (A) *Calculation*
+
+    (i) *In general* — The emissions factor of a transportation fuel shall be an amount equal to the quotient of—
+
+      (I) an amount equal to—
+
+        (aa) 50 kilograms of CO2e per mmBTU, minus
+
+        (bb) the emissions rate for such fuel, divided by
+
+      (II) 50 kilograms of CO2e per mmBTU.
+
+  (B) *Establishment of emissions rate*
+
+    (i) *In general* — Subject to clauses (ii) and (iii), the Secretary shall annually publish a table which sets forth the emissions rate for similar types and categories of transportation fuels based on the amount of lifecycle greenhouse gas emissions (as described in section 211(o)(1)(H) of the Clean Air Act ([42 U.S.C. 7545](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7545&num=0&edition=prelim)(o)(1)(H)), as in effect on the date of the enactment of this section) for such fuels, expressed as kilograms of CO2e per mmBTU, which a taxpayer shall use for purposes of this section.
+
+    (ii) *Non-aviation fuel* — In the case of any transportation fuel which is not a sustainable aviation fuel, the lifecycle greenhouse gas emissions of such fuel shall be based on the most recent determinations under the Greenhouse gases, Regulated Emissions, and Energy use in Transportation model developed by Argonne National Laboratory, or a successor model (as determined by the Secretary).
+
+    (iii) *Aviation fuel* — In the case of any transportation fuel which is a sustainable aviation fuel, the lifecycle greenhouse gas emissions of such fuel shall be determined in accordance with—
+
+      (I) the most recent Carbon Offsetting and Reduction Scheme for International Aviation which has been adopted by the International Civil Aviation Organization with the agreement of the United States, or
+
+      (II) any similar methodology which satisfies the criteria under section 211(o)(1)(H) of the Clean Air Act ([42 U.S.C. 7545](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7545&num=0&edition=prelim)(o)(1)(H)), as in effect on the date of enactment of this section.
+
+  (C) *Rounding of emissions rate*
+
+    (i) *In general* — Subject to clause (ii), the Secretary may round the emissions rates under subparagraph (B) to the nearest multiple of 5 kilograms of CO2e per mmBTU.
+
+    (ii) *Exception* — In the case of an emissions rate that is between 2.5 kilograms of CO2e per mmBTU and -2.5 kilograms of CO2e per mmBTU, the Secretary may round such rate to zero.
+
+  (D) *Provisional emissions rate* — In the case of any transportation fuel for which an emissions rate has not been established under subparagraph (B), a taxpayer producing such fuel may file a petition with the Secretary for determination of the emissions rate with respect to such fuel.
+
+(2) **Rounding** — If any amount determined under paragraph (1)(A) is not a multiple of 0.1, such amount shall be rounded to the nearest multiple of 0.1.
+
+**(c) Inflation adjustment**
+
+(1) **In general** — In the case of calendar years beginning after 2024, the 20 cent amount in subsection (a)(2)(A), the $1.00 amount in subsection (a)(2)(B), the 35 cent amount in subsection (a)(3)(A)(i), and the $1.75 amount in subsection (a)(3)(A)(ii) shall each be adjusted by multiplying such amount by the inflation adjustment factor for the calendar year in which the sale of the transportation fuel occurs. If any amount as increased under the preceding sentence is not a multiple of 1 cent, such amount shall be rounded to the nearest multiple of 1 cent.
+
+(2) **Inflation adjustment factor** — For purposes of paragraph (1), the inflation adjustment factor shall be the inflation adjustment factor determined and published by the Secretary pursuant to section 45Y(c), determined by substituting “calendar year 2022” for “calendar year 1992” in paragraph (3) thereof.
+
+**(d) Definitions** In this section:
+
+(1) **mmBTU** — The term “mmBTU” means 1,000,000 British thermal units.
+
+(2) **CO2e** — The term “CO2e” means, with respect to any greenhouse gas, the equivalent carbon dioxide (as determined based on relative global warming potential).
+
+(3) **Greenhouse gas** — The term “greenhouse gas” has the same meaning given that term under section 211(o)(1)(G) of the Clean Air Act ([42 U.S.C. 7545](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7545&num=0&edition=prelim)(o)(1)(G)), as in effect on the date of the enactment of this section.
+
+(4) **Qualified facility** — The term “qualified facility”—
+
+  (A) means a facility used for the production of transportation fuels, and
+
+  (B) does not include any facility for which one of the following credits is allowed under section 38 for the taxable year:
+
+    (i) The credit for production of clean hydrogen under section 45V.
+
+    (ii) The credit determined under section 46 to the extent that such credit is attributable to the energy credit determined under section 48 with respect to any specified clean hydrogen production facility for which an election is made under subsection (a)(15) of such section.
+
+    (iii) The credit for carbon oxide sequestration under section 45Q.
+
+(5) **Transportation fuel**
+
+  (A) *In general* — The term “transportation fuel” means a fuel which—
+
+    (i) is suitable for use as a fuel in a highway vehicle or aircraft,
+
+    (ii) has an emissions rate which is not greater than 50 kilograms of CO2e per mmBTU, and
+
+    (iii) is not derived from coprocessing an applicable material (or materials derived from an applicable material) with a feedstock which is not biomass.
+
+  (B) *Definitions* — In this paragraph—
+
+    (i) *Applicable material* — The term “applicable material” means—
+
+      (I) monoglycerides, diglycerides, and triglycerides,
+
+      (II) free fatty acids, and
+
+      (III) fatty acid esters.
+
+    (ii) *Biomass* — The term “biomass” has the same meaning given such term in section 45K(c)(3).
+
+**(e) Guidance** Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section, including calculation of emissions factors for transportation fuel, the table described in subsection (b)(1)(B)(i), and the determination of clean fuel production credits under this section.
+
+**(f) Special rules**
+
+(1) **Only registered production in the United States taken into account**
+
+  (A) *In general* — No clean fuel production credit shall be determined under subsection (a) with respect to any transportation fuel unless—
+
+    (i) the taxpayer—
+
+      (I) is registered as a producer of clean fuel under section 4101 at the time of production, and
+
+      (II) in the case of any transportation fuel which is a sustainable aviation fuel, provides—
+
+        (aa) certification (in such form and manner as the Secretary shall prescribe) from an unrelated party demonstrating compliance with—
+
+          (AA) any general requirements, supply chain traceability requirements, and information transmission requirements established under the Carbon Offsetting and Reduction Scheme for International Aviation described in subclause (I) of subsection (b)(1)(B)(iii), or
+
+          (BB) in the case of any methodology described in subclause (II) of such subsection, requirements similar to the requirements described in subitem (AA), and
+
+        (bb) such other information with respect to such fuel as the Secretary may require for purposes of carrying out this section, and
+
+    (ii) such fuel is produced in the United States.
+
+  (B) *United States* — For purposes of this paragraph, the term “United States” includes any possession of the United States.
+
+(2) **Production attributable to the taxpayer** — In the case of a facility in which more than 1 person has an ownership interest, except to the extent provided in regulations prescribed by the Secretary, production from the facility shall be allocated among such persons in proportion to their respective ownership interests in the gross sales from such facility.
+
+(3) **Related persons** — Persons shall be treated as related to each other if such persons would be treated as a single employer under the regulations prescribed under section 52(b). In the case of a corporation which is a member of an affiliated group of corporations filing a consolidated return, such corporation shall be treated as selling fuel to an unrelated person if such fuel is sold to such a person by another member of such group.
+
+(4) **Pass-thru in the case of estates and trusts** — Under regulations prescribed by the Secretary, rules similar to the rules of subsection (d) of section 52 shall apply.
+
+(5) **Allocation of credit to patrons of agricultural cooperative** — Rules similar to the rules of section 45Y(g)(6) shall apply.
+
+(6) **Prevailing wage requirements**
+
+  (A) *In general* — Subject to subparagraph (B), rules similar to the rules of section 45(b)(7) shall apply.
+
+  (B) *Special rule for facilities placed in service before January 1, 2025* — For purposes of subparagraph (A), in the case of any qualified facility placed in service before January 1, 2025—
+
+    (i) clause (i) of section 45(b)(7)(A) shall not apply, and
+
+    (ii) clause (ii) of such section shall be applied by substituting “with respect to any taxable year beginning after December 31, 2024, for which the credit is allowed under this section” for “with respect to any taxable year, for any portion of such taxable year which is within the period described in subsection (a)(2)(A)(ii)”.
+
+(7) **Apprenticeship requirements** — Rules similar to the rules of section 45(b)(8) shall apply.
+
+**(g) Termination** This section shall not apply to transportation fuel sold after December 31, 2027.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsecs. (b)(1)(B)(i), (iii)(II) and (d)(3), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13704(c), Aug. 16, 2022, 136 Stat. 2003, provided that: “The amendments made by this section [enacting this section and amending sections 25C, 30C, 38, and 4101 of this title] shall apply to transportation fuel produced after December 31, 2024.”
+
+
 <a id="section-46"></a>
 ## § 46. Amount of credit
 
@@ -16130,11 +18658,22 @@ For purposes of section 38, the amount of the investment credit determined under
 
 (5) the qualifying advanced energy project credit, and
 
-(6) the qualifying therapeutic discovery project credit.
+(6) the advanced manufacturing investment credit.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–169, title I, § 13702(b)(1), (c), Aug. 16, 2022, 136 Stat. 1996, 1997, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended by adding at the end the following:
+
+“(7) the clean electricity investment credit.”
+
+See 2022 Amendment note below.
+
 #### Amendments
+2022—Par. (6). Pub. L. 117–167 amended par. (6) generally. Prior to amendment, text read as follows: “the qualifying therapeutic discovery project credit.”
+
+Par. (7). Pub. L. 117–169, § 13702(b)(1), added par. (7).
+
 2014—Par. (4). Pub. L. 113–295 inserted a comma at end.
 
 2010—Par. (2). Pub. L. 111–148, § 9023(b)(1), inserted a comma at end.
@@ -16472,6 +19011,11 @@ Pub. L. 89–384 added any additional tax imposed for the taxable year by sectio
 Subsec. (b)(1). Pub. L. 89–800, § 3(b), substituted “7 taxable years” for “5 taxable years” in subpar. (B) and “10 taxable years” and “other 9 taxable years” for “8 taxable years” and “other 7 taxable years”, respectively, in text following subpar. (B).
 
 1964—Subsec. (a)(3)(B) to (D). Pub. L. 88–272 struck out subpar. (B) relating to section 34, and redesignated subpars. (C) and (D) as (B) and (C), respectively.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2024, see section 13702(c) of Pub. L. 117–169, set out as an Effective Date note under [section 48E of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48e).
+
+Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–148, title IX, § 9023(f), Mar. 23, 2010, 124 Stat. 883, provided that: “The amendments made by subsections (a) through (d) of this section [enacting [section 48D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48d) and amending this section and sections 49 and 280C of this title] shall apply to amounts paid or incurred after December 31, 2008, in taxable years beginning after such date.”
@@ -17000,19 +19544,27 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (A) *In general* — Except as provided in paragraphs (6) and (7), the energy percentage is—
 
-    (i) 30 percent in the case of—
+    (i) 6 percent in the case of—
 
       (I) qualified fuel cell property,
 
-      (II) energy property described in paragraph (3)(A)(i) but only with respect to property the construction of which begins before January 1, 2024,
+      (II) energy property described in clause (i) or (iii) of paragraph (3)(A) but only with respect to property the construction of which begins before January 1, 2025,
 
       (III) energy property described in paragraph (3)(A)(ii),
 
-      (IV) qualified small wind energy property, and
+      (IV) qualified small wind energy property,
 
-      (V) waste energy recovery property, and
+      (V) waste energy recovery property,
 
-    (ii) in the case of any energy property to which clause (i) does not apply, 10 percent.
+      (VI) energy storage technology,
+
+      (VII) qualified biogas property,
+
+      (VIII) microgrid controllers, and
+
+      (IX) energy property described in clauses (v) and (vii) of paragraph (3)(A), and
+
+    (ii) in the case of any energy property to which clause (i) does not apply, 2 percent.
 
   (B) *Coordination with rehabilitation credit* — The energy percentage shall not apply to that portion of the basis of any property which is attributable to qualified rehabilitation expenditures.
 
@@ -17022,7 +19574,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (i) equipment which uses solar energy to generate electricity, to heat or cool (or provide hot water for use in) a structure, or to provide solar process heat, excepting property used to generate energy for the purposes of heating a swimming pool,
 
-    (ii) equipment which uses solar energy to illuminate the inside of a structure using fiber-optic distributed sunlight but only with respect to property the construction of which begins before January 1, 2024,
+    (ii) equipment which uses solar energy to illuminate the inside of a structure using fiber-optic distributed sunlight, or electrochromic glass which uses electricity to change its light transmittance properties in order to heat or cool a structure, but only with respect to property the construction of which begins before January 1, 2025,
 
     (iii) equipment used to produce, distribute, or use energy derived from a geothermal deposit (within the meaning of section 613(e)(2)), but only, in the case of electricity generated by geothermal power, up to (but not including) the electrical transmission stage,
 
@@ -17032,9 +19584,15 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (vi) qualified small wind energy property,
 
-    (vii) equipment which uses the ground or ground water as a thermal energy source to heat a structure or as a thermal energy sink to cool a structure, but only with respect to property the construction of which begins before January 1, 2024, or
+    (vii) equipment which uses the ground or ground water as a thermal energy source to heat a structure or as a thermal energy sink to cool a structure, but only with respect to property the construction of which begins before January 1, 2035,
 
     (viii) waste energy recovery property,
+
+    (ix) energy storage technology,
+
+    (x) qualified biogas property, or
+
+    (xi) microgrid controllers,
 
   (B)
 
@@ -17051,24 +19609,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
     (ii) are in effect at the time of the acquisition of the property.
   Such term shall not include any property which is part of a facility the production from which is allowed as a credit under section 45 for the taxable year or any prior taxable year.
 
-(4) **Special rule for property financed by subsidized energy financing or industrial development bonds**
-
-  (A) *Reduction of basis* — For purposes of applying the energy percentage to any property, if such property is financed in whole or in part by—
-
-    (i) subsidized energy financing, or
-
-    (ii) the proceeds of a private activity bond (within the meaning of section 141) the interest on which is exempt from tax under section 103,
-    the amount taken into account as the basis of such property shall not exceed the amount which (but for this subparagraph) would be so taken into account multiplied by the fraction determined under subparagraph (B).
-
-  (B) *Determination of fraction* — For purposes of subparagraph (A), the fraction determined under this subparagraph is 1 reduced by a fraction—
-
-    (i) the numerator of which is that portion of the basis of the property which is allocable to such financing or proceeds, and
-
-    (ii) the denominator of which is the basis of the property.
-
-  (C) *Subsidized energy financing* — For purposes of subparagraph (A), the term “subsidized energy financing” means financing provided under a Federal, State, or local program a principal purpose of which is to provide subsidized financing for projects designed to conserve or produce energy.
-
-  (D) *Termination* — This paragraph shall not apply to periods after December 31, 2008, under rules similar to the rules of section 48(m) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990).
+(4) **Special rule for property financed by tax-exempt bonds** — Rules similar to the rule under section 45(b)(3) shall apply for purposes of this section.
 
 (5) **Election to treat qualified facilities as energy property**
 
@@ -17076,7 +19617,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (i) such property shall be treated as energy property for purposes of this section, and
 
-    (ii) the energy percentage with respect to such property shall be 30 percent.
+    (ii) the energy percentage with respect to such property shall be 6 percent.
 
   (B) *Denial of production credit* — No credit shall be allowed under section 45 for any taxable year with respect to any qualified investment credit facility.
 
@@ -17084,7 +19625,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (i) which is a qualified facility (within the meaning of section 45) described in paragraph (1), (2), (3), (4), (6), (7), (9), or (11) of section 45(d),
 
-    (ii) which is placed in service after 2008 and the construction of which begins before January 1, 2022, and
+    (ii) which is placed in service after 2008 and the construction of which begins before January 1, 2025, and
 
     (iii) with respect to which—
 
@@ -17106,7 +19647,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (iv) the original use of which commences with the taxpayer.
 
-  (E) *Phaseout of credit for wind facilities* — In the case of any facility using wind to produce electricity which is treated as energy property by reason of this paragraph, the amount of the credit determined under this section (determined after the application of paragraphs (1) and (2) and without regard to this subparagraph) shall be reduced by—
+  (E) *Phaseout of credit for wind facilities* — In the case of any facility using wind to produce electricity which is placed in service before January 1, 2022, and treated as energy property by reason of this paragraph, the amount of the credit determined under this section (determined after the application of paragraphs (1) and (2) and without regard to this subparagraph) shall be reduced by—
 
     (i) in the case of any facility the construction of which begins after December 31, 2016, and before January 1, 2018, 20 percent,
 
@@ -17118,35 +19659,132 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (F) *Qualified offshore wind facilities*
 
-    (i) *In general* — In the case of any qualified offshore wind facility—
-
-      (I) subparagraph (C)(ii) shall be applied by substituting “January 1, 2026” for “January 1, 2022”,
-
-      (II) subparagraph (E) shall not apply, and
-
-      (III) for purposes of this paragraph, section 45(d)(1) shall be applied by substituting “January 1, 2026” for “January 1, 2022”.
+    (i) *In general* — In the case of any qualified offshore wind facility, subparagraph (E) shall not apply.
 
     (ii) *Qualified offshore wind facility* — For purposes of this subparagraph, the term “qualified offshore wind facility” means a qualified facility (within the meaning of section 45) described in paragraph (1) of section 45(d) (determined without regard to any date by which the construction of the facility is required to begin) which is located in the inland navigable waters of the United States or in the coastal waters of the United States.
 
-(6) **Phaseout for solar energy property**
+(6) **Phaseout for certain energy property** — In the case of any qualified fuel cell property, qualified small wind property, or energy property described in clause (i) or clause (ii) of paragraph (3)(A) the construction of which begins after December 31, 2019, and which is placed in service before January 1, 2022, the energy percentage determined under paragraph (2) shall be equal to 26 percent.
 
-  (A) *In general* — Subject to subparagraph (B), in the case of any energy property described in paragraph (3)(A)(i) the construction of which begins before January 1, 2024, the energy percentage determined under paragraph (2) shall be equal to—
+(7) **Phaseout for certain energy property** — In the case of any energy property described in clause (vii) of paragraph (3)(A), the energy percentage determined under paragraph (2) shall be equal to—
 
-    (i) in the case of any property the construction of which begins after December 31, 2019, and before January 1, 2023, 26 percent, and
+  (A) in the case of any property the construction of which begins before January 1, 2033, and which is placed in service after December 31, 2021, 6 percent,
 
-    (ii) in the case of any property the construction of which begins after December 31, 2022, and before January 1, 2024, 22 percent.
+  (B) in the case of any property the construction of which begins after December 31, 2032, and before January 1, 2034, 5.2 percent, and
 
-  (B) *Placed in service deadline* — In the case of any energy property described in paragraph (3)(A)(i) the construction of which begins before January 1, 2024, and which is not placed in service before January 1, 2026, the energy percentage determined under paragraph (2) shall be equal to 10 percent.
+  (C) in the case of any property the construction of which begins after December 31, 2033, and before January 1, 2035, 4.4 percent.
 
-(7) **Phaseout for certain other energy property**
+(8) **Interconnection property**
 
-  (A) *In general* — Subject to subparagraph (B), in the case of any qualified fuel cell property, qualified small wind property, waste energy recovery property, or energy property described in paragraph (3)(A)(ii), the energy percentage determined under paragraph (2) shall be equal to—
+  (A) *In general* — For purposes of determining the credit under subsection (a), energy property shall include amounts paid or incurred by the taxpayer for qualified interconnection property in connection with the installation of energy property (as defined in paragraph (3)) which has a maximum net output of not greater than 5 megawatts (as measured in alternating current), to provide for the transmission or distribution of the electricity produced or stored by such property, and which are properly chargeable to the capital account of the taxpayer.
 
-    (i) in the case of any property the construction of which begins after December 31, 2019, and before January 1, 2023, 26 percent, and
+  (B) *Qualified interconnection property* — The term “qualified interconnection property” means, with respect to an energy project which is not a microgrid controller, any tangible property—
 
-    (ii) in the case of any property the construction of which begins after December 31, 2022, and before January 1, 2024, 22 percent.
+    (i) which is part of an addition, modification, or upgrade to a transmission or distribution system which is required at or beyond the point at which the energy project interconnects to such transmission or distribution system in order to accommodate such interconnection,
 
-  (B) *Placed in service deadline* — In the case of any energy property described in subparagraph (A) which is not placed in service before January 1, 2026, the energy percentage determined under paragraph (2) shall be equal to 0 percent.
+    (ii) either—
+
+      (I) which is constructed, reconstructed, or erected by the taxpayer, or
+
+      (II) for which the cost with respect to the construction, reconstruction, or erection of such property is paid or incurred by such taxpayer, and
+
+    (iii) the original use of which, pursuant to an interconnection agreement, commences with a utility.
+
+  (C) *Interconnection agreement* — The term “interconnection agreement” means an agreement with a utility for the purposes of interconnecting the energy property owned by such taxpayer to the transmission or distribution system of such utility.
+
+  (D) *Utility* — For purposes of this paragraph, the term “utility” means the owner or operator of an electrical transmission or distribution system which is subject to the regulatory authority of a State or political subdivision thereof, any agency or instrumentality of the United States, a public service or public utility commission or other similar body of any State or political subdivision thereof, or the governing or ratemaking body of an electric cooperative.
+
+  (E) *Special rule for interconnection property* — In the case of expenses paid or incurred for interconnection property, amounts otherwise chargeable to capital account with respect to such expenses shall be reduced under rules similar to the rules of section 50(c).
+
+(9) **Increased credit amount for energy projects**
+
+  (A) *In general*
+
+    (i) *Rule* — In the case of any energy project which satisfies the requirements of subparagraph (B), the amount of the credit determined under this subsection (determined after the application of paragraphs (1) through (8) and paragraph (15) and without regard to this clause) shall be equal to such amount multiplied by 5.
+
+    (ii) *Energy project defined* — For purposes of this subsection, the term “energy project” means a project consisting of one or more energy properties that are part of a single project.
+
+  (B) *Project requirements* — A project meets the requirements of this subparagraph if it is one of the following:
+
+    (i) A project with a maximum net output of less than 1 megawatt of electrical (as measured in alternating current) or thermal energy.
+
+    (ii) A project the construction of which begins before the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (10)(A) and (11).
+
+    (iii) A project which satisfies the requirements of paragraphs (10)(A) and (11).
+
+(10) **Prevailing wage requirements**
+
+  (A) *In general* — The requirements described in this subparagraph with respect to any energy project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in—
+
+    (i) the construction of such energy project, and
+
+    (ii) for the 5-year period beginning on the date such project is originally placed in service, the alteration or repair of such project,
+    shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code. Subject to subparagraph (C), for purposes of any determination under paragraph (9)(A)(i) for the taxable year in which the energy project is placed in service, the taxpayer shall be deemed to satisfy the requirement under clause (ii) at the time such project is placed in service.
+
+  (B) *Correction and penalty related to failure to satisfy wage requirements* — Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+  (C) *Recapture* — The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under this subsection by reason of this paragraph with respect to any project which does not satisfy the requirements under subparagraph (A) (after application of subparagraph (B)) for the period described in clause (ii) of subparagraph (A) (but which does not cease to be investment credit property within the meaning of section 50(a)). The period and percentage of such recapture shall be determined under rules similar to the rules of section 50(a).
+
+(11) **Apprenticeship requirements** — Rules similar to the rules of section 45(b)(8) shall apply.
+
+(12) **Domestic content bonus credit amount**
+
+  (A) *In general* — In the case of any energy project which satisfies the requirement under subparagraph (B), for purposes of applying paragraph (2) with respect to such property, the energy percentage shall be increased by the applicable credit rate increase.
+
+  (B) *Requirement* — Rules similar to the rules of section 45(b)(9)(B) shall apply.
+
+  (C) *Applicable credit rate increase* — For purposes of subparagraph (A), the applicable credit rate increase shall be—
+
+    (i) in the case of an energy project which does not satisfy the requirements of paragraph (9)(B), 2 percentage points, and
+
+    (ii) in the case of an energy project which satisfies the requirements of paragraph (9)(B), 10 percentage points.
+
+(13) **Phaseout for elective payment** — In the case of a taxpayer making an election under section 6417 with respect to a credit under this section, rules similar to the rules of section 45(b)(10) shall apply.
+
+(14) **Increase in credit rate for energy communities**
+
+  (A) *In general* — In the case of any energy project that is placed in service within an energy community (as defined in section 45(b)(11)(B), as applied by substituting “energy project” for “qualified facility” each place it appears), for purposes of applying paragraph (2) with respect to energy property which is part of such project, the energy percentage shall be increased by the applicable credit rate increase.
+
+  (B) *Applicable credit rate increase* — For purposes of subparagraph (A), the applicable credit rate increase shall be equal to—
+
+    (i) in the case of any energy project which does not satisfy the requirements of paragraph (9)(B), 2 percentage points, and
+
+    (ii) in the case of any energy project which satisfies the requirements of paragraph (9)(B), 10 percentage points.
+
+(15) **Election to treat clean hydrogen production facilities as energy property**
+
+  (A) *In general* — In the case of any qualified property (as defined in paragraph (5)(D)) which is part of a specified clean hydrogen production facility—
+
+    (i) such property shall be treated as energy property for purposes of this section, and
+
+    (ii) the energy percentage with respect to such property is—
+
+      (I) in the case of a facility which is designed and reasonably expected to produce qualified clean hydrogen which is described in a subparagraph (A) of section 45V(b)(2), 1.2 percent,
+
+      (II) in the case of a facility which is designed and reasonably expected to produce qualified clean hydrogen which is described in a subparagraph (B) of such section, 1.5 percent,
+
+      (III) in the case of a facility which is designed and reasonably expected to produce qualified clean hydrogen which is described in a subparagraph (C) of such section, 2 percent, and
+
+      (IV) in the case of a facility which is designed and reasonably expected to produce qualified clean hydrogen which is described in subparagraph (D) of such section, 6 percent.
+
+  (B) *Denial of production credit* — No credit shall be allowed under section 45V or section 45Q for any taxable year with respect to any specified clean hydrogen production facility or any carbon capture equipment included at such facility.
+
+  (C) *Specified clean hydrogen production facility* — For purposes of this paragraph, the term “specified clean hydrogen production facility” means any qualified clean hydrogen production facility (as defined in section 45V(c)(3))—
+
+    (i) which is placed in service after December 31, 2022,
+
+    (ii) with respect to which—
+
+      (I) no credit has been allowed under section 45V or 45Q, and
+
+      (II) the taxpayer makes an irrevocable election to have this paragraph apply, and
+
+    (iii) for which an unrelated third party has verified (in such form or manner as the Secretary may prescribe) that such facility produces hydrogen through a process which results in lifecycle greenhouse gas emissions which are consistent with the hydrogen that such facility was designed and expected to produce under subparagraph (A)(ii).
+
+  (D) *Qualified clean hydrogen* — For purposes of this paragraph, the term “qualified clean hydrogen” has the meaning given such term by section 45V(c)(2).
+
+  (E) *Regulations* — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this section, including regulations or other guidance which recaptures so much of any credit allowed under this section as exceeds the amount of the credit which would have been allowed if the expected production were consistent with the actual verified production (or all of the credit so allowed in the absence of such verification).
+
+(16) **Regulations and guidance** — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 
 **(b) Certain progress expenditure rules made applicable** Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
 
@@ -17156,15 +19794,17 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (A) *In general* — The term “qualified fuel cell property” means a fuel cell power plant which—
 
-    (i) has a nameplate capacity of at least 0.5 kilowatt of electricity using an electrochemical process, and
+    (i) has a nameplate capacity of at least 0.5 kilowatt (1 kilowatt in the case of a fuel cell power plant with a linear generator assembly) of electricity using an electrochemical or electromechanical process, and
 
     (ii) has an electricity-only generation efficiency greater than 30 percent.
 
   (B) *Limitation* — In the case of qualified fuel cell property placed in service during the taxable year, the credit otherwise determined under subsection (a) for such year with respect to such property shall not exceed an amount equal to $1,500 for each 0.5 kilowatt of capacity of such property.
 
-  (C) *Fuel cell power plant* — The term “fuel cell power plant” means an integrated system comprised of a fuel cell stack assembly and associated balance of plant components which converts a fuel into electricity using electrochemical means.
+  (C) *Fuel cell power plant* — The term “fuel cell power plant” means an integrated system comprised of a fuel cell stack assembly, or linear generator assembly, and associated balance of plant components which converts a fuel into electricity using electrochemical or electromechanical means.
 
-  (D) *Termination* — The term “qualified fuel cell property” shall not include any property the construction of which does not begin before January 1, 2024.
+  (D) *Linear generator assembly* — The term “linear generator assembly” does not include any assembly which contains rotating parts.
+
+  (E) *Termination* — The term “qualified fuel cell property” shall not include any property the construction of which does not begin before January 1, 2025.
 
 (2) **Qualified microturbine property**
 
@@ -17178,7 +19818,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (C) *Stationary microturbine power plant* — The term “stationary microturbine power plant” means an integrated system comprised of a gas turbine engine, a combustor, a recuperator or regenerator, a generator or alternator, and associated balance of plant components which converts a fuel into electricity and thermal energy. Such term also includes all secondary components located between the existing infrastructure for fuel delivery and the existing infrastructure for power distribution, including equipment and controls for meeting relevant power standards, such as voltage, frequency, and power factors.
 
-  (D) *Termination* — The term “qualified microturbine property” shall not include any property the construction of which does not begin before January 1, 2024.
+  (D) *Termination* — The term “qualified microturbine property” shall not include any property the construction of which does not begin before January 1, 2025.
 
 (3) **Combined heat and power system property**
 
@@ -17194,7 +19834,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
     (iii) the energy efficiency percentage of which exceeds 60 percent, and
 
-    (iv) the construction of which begins before January 1, 2024.
+    (iv) the construction of which begins before January 1, 2025.
 
   (B) *Limitation*
 
@@ -17228,7 +19868,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (B) *Qualifying small wind turbine* — The term “qualifying small wind turbine” means a wind turbine which has a nameplate capacity of not more than 100 kilowatts.
 
-  (C) *Termination* — The term “qualified small wind energy property” shall not include any property the construction of which does not begin before January 1, 2024.
+  (C) *Termination* — The term “qualified small wind energy property” shall not include any property the construction of which does not begin before January 1, 2025.
 
 (5) **Waste energy recovery property**
 
@@ -17238,7 +19878,80 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (C) *No double benefit* — Any waste energy recovery property (determined without regard to this subparagraph) which is part of a system which is a combined heat and power system property shall not be treated as waste energy recovery property for purposes of this section unless the taxpayer elects to not treat such system as a combined heat and power system property for purposes of this section.
 
-  (D) *Termination* — The term “waste energy recovery property” shall not include any property the construction of which does not begin before January 1, 2024.
+  (D) *Termination* — The term “waste energy recovery property” shall not include any property the construction of which does not begin before January 1, 2025.
+
+(6) **Energy storage technology**
+
+  (A) *In general* — The term “energy storage technology” means—
+
+    (i) property (other than property primarily used in the transportation of goods or individuals and not for the production of electricity) which receives, stores, and delivers energy for conversion to electricity (or, in the case of hydrogen, which stores energy), and has a nameplate capacity of not less than 5 kilowatt hours, and
+
+    (ii) thermal energy storage property.
+
+  (B) *Modifications of certain property* — In the case of any property which either—
+
+    (i) was placed in service before the date of enactment of this section 11 See References in Text note below. and would be described in subparagraph (A)(i), except that such property has a capacity of less than 5 kilowatt hours and is modified in a manner that such property (after such modification) has a nameplate capacity of not less than 5 kilowatt hours, or
+
+    (ii) is described in subparagraph (A)(i) and is modified in a manner that such property (after such modification) has an increase in nameplate capacity of not less than 5 kilowatt hours,
+    such property shall be treated as described in subparagraph (A)(i) except that the basis of any existing property prior to such modification shall not be taken into account for purposes of this section. In the case of any property to which this subparagraph applies, subparagraph (D) shall be applied by substituting “modification” for “construction”.
+
+  (C) *Thermal energy storage property*
+
+    (i) *In general* — Subject to clause (ii), for purposes of this paragraph, the term “thermal energy storage property” means property comprising a system which—
+
+      (I) is directly connected to a heating, ventilation, or air conditioning system,
+
+      (II) removes heat from, or adds heat to, a storage medium for subsequent use, and
+
+      (III) provides energy for the heating or cooling of the interior of a residential or commercial building.
+
+    (ii) *Exclusion* — The term “thermal energy storage property” shall not include—
+
+      (I) a swimming pool,
+
+      (II) combined heat and power system property, or
+
+      (III) a building or its structural components.
+
+  (D) *Termination* — The term “energy storage technology” shall not include any property the construction of which begins after December 31, 2024.
+
+(7) **Qualified biogas property**
+
+  (A) *In general* — The term “qualified biogas property” means property comprising a system which—
+
+    (i) converts biomass (as defined in section 45K(c)(3), as in effect on the date of enactment of this paragraph) into a gas which—
+
+      (I) consists of not less than 52 percent methane by volume, or
+
+      (II) is concentrated by such system into a gas which consists of not less than 52 percent methane, and
+
+    (ii) captures such gas for sale or productive use, and not for disposal via combustion.
+
+  (B) *Inclusion of cleaning and conditioning property* — The term “qualified biogas property” includes any property which is part of such system which cleans or conditions such gas.
+
+  (C) *Termination* — The term “qualified biogas property” shall not include any property the construction of which begins after December 31, 2024.
+
+(8) **Microgrid controller**
+
+  (A) *In general* — The term “microgrid controller” means equipment which is—
+
+    (i) part of a qualified microgrid, and
+
+    (ii) designed and used to monitor and control the energy resources and loads on such microgrid.
+
+  (B) *Qualified microgrid* — The term “qualified microgrid” means an electrical system which—
+
+    (i) includes equipment which is capable of generating not less than 4 kilowatts and not greater than 20 megawatts of electricity,
+
+    (ii) is capable of operating—
+
+      (I) in connection with the electrical grid and as a single controllable entity with respect to such grid, and
+
+      (II) independently (and disconnected) from such grid, and
+
+    (iii) is not part of a bulk-power system (as defined in section 215 of the Federal Power Act ([16 U.S.C. 824o](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824o&num=0&edition=prelim))).
+
+  (C) *Termination* — The term “microgrid controller” shall not include any property the construction of which begins after December 31, 2024.
 
 **(d) Coordination with Department of Treasury grants** In the case of any property with respect to which the Secretary makes a grant under section 1603 of the American Recovery and Reinvestment Tax Act of 2009—
 
@@ -17258,14 +19971,169 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (B) shall be taken into account in determining the basis of the property to which such grant relates, except that the basis of such property shall be reduced under section 50(c) in the same manner as a credit allowed under subsection (a).
 
+**(e) Special rules for certain solar and wind facilities placed in service in connection with low-income communities**
+
+(1) **In general** — In the case of any qualified solar and wind facility with respect to which the Secretary makes an allocation of environmental justice solar and wind capacity limitation under paragraph (4)—
+
+  (A) the energy percentage otherwise determined under paragraph (2) or (5) of subsection (a) with respect to any eligible property which is part of such facility shall be increased by—
+
+    (i) in the case of a facility described in subclause (I) of paragraph (2)(A)(iii) and not described in subclause (II) of such paragraph, 10 percentage points, and
+
+    (ii) in the case of a facility described in subclause (II) of paragraph (2)(A)(iii), 20 percentage points, and
+
+  (B) the increase in the credit determined under subsection (a) by reason of this subsection for any taxable year with respect to all property which is part of such facility shall not exceed the amount which bears the same ratio to the amount of such increase (determined without regard to this subparagraph) as—
+
+    (i) the environmental justice solar and wind capacity limitation allocated to such facility, bears to
+
+    (ii) the total megawatt nameplate capacity of such facility, as measured in direct current.
+
+(2) **Qualified solar and wind facility** — For purposes of this subsection—
+
+  (A) *In general* — The term “qualified solar and wind facility” means any facility—
+
+    (i) which generates electricity solely from property described in section 45(d)(1) or in clause (i) or (vi) of subsection (a)(3)(A),
+
+    (ii) which has a maximum net output of less than 5 megawatts (as measured in alternating current), and
+
+    (iii) which—
+
+      (I) is located in a low-income community (as defined in section 45D(e)) or on Indian land (as defined in section 2601(2) of the Energy Policy Act of 1992 ([25 U.S.C. 3501(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3501/2&num=0&edition=prelim))), or
+
+      (II) is part of a qualified low-income residential building project or a qualified low-income economic benefit project.
+
+  (B) *Qualified low-income residential building project* — A facility shall be treated as part of a qualified low-income residential building project if—
+
+    (i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 ([34 U.S.C. 12491(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491/a/3&num=0&edition=prelim)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/22&num=0&edition=prelim))) or such other affordable housing programs as the Secretary may provide, and
+
+    (ii) the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
+
+  (C) *Qualified low-income economic benefit project* — A facility shall be treated as part of a qualified low-income economic benefit project if at least 50 percent of the financial benefits of the electricity produced by such facility are provided to households with income of—
+
+    (i) less than 200 percent of the poverty line (as defined in section 36B(d)(3)(A)) applicable to a family of the size involved, or
+
+    (ii) less than 80 percent of area median gross income (as determined under section 142(d)(2)(B)).
+
+  (D) *Financial benefit* — For purposes of subparagraphs (B) and (C), electricity acquired at a below-market rate shall not fail to be taken into account as a financial benefit.
+
+(3) **Eligible property** — For purposes of this section, the term “eligible property” means energy property which—
+
+  (A) is part of a facility described in section 45(d)(1) for which an election was made under subsection (a)(5), or
+
+  (B) is described in clause (i) or (vi) of subsection (a)(3)(A),
+  including energy storage technology (as described in subsection (a)(3)(A)(ix)) installed in connection with such energy property.
+
+(4) **Allocations**
+
+  (A) *In general* — Not later than 180 days after the date of enactment of this subsection, the Secretary shall establish a program to allocate amounts of environmental justice solar and wind capacity limitation to qualified solar and wind facilities. In establishing such program and to carry out the purposes of this subsection, the Secretary shall provide procedures to allow for an efficient allocation process, including, when determined appropriate, consideration of multiple projects in a single application if such projects will be placed in service by a single taxpayer.
+
+  (B) *Limitation* — The amount of environmental justice solar and wind capacity limitation allocated by the Secretary under subparagraph (A) during any calendar year shall not exceed the annual capacity limitation with respect to such year.
+
+  (C) *Annual capacity limitation* — For purposes of this paragraph, the term “annual capacity limitation” means 1.8 gigawatts of direct current capacity for each of calendar years 2023 and 2024, and zero thereafter.
+
+  (D) *Carryover of unused limitation* — If the annual capacity limitation for any calendar year exceeds the aggregate amount allocated for such year under this paragraph, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after 2024 except as provided in section 48E(h)(4)(D)(ii).
+
+  (E) *Placed in service deadline*
+
+    (i) *In general* — Paragraph (1) shall not apply with respect to any property which is placed in service after the date that is 4 years after the date of the allocation with respect to the facility of which such property is a part.
+
+    (ii) *Application of carryover* — Any amount of environmental justice solar and wind capacity limitation which expires under clause (i) during any calendar year shall be taken into account as an excess described in subparagraph (D) (or as an increase in such excess) for such calendar year, subject to the limitation imposed by the last sentence of such subparagraph.
+
+(5) **Recapture** — The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning of section 50(a)). The period and percentage of such recapture shall be determined under rules similar to the rules of section 50(a). To the extent provided by the Secretary, such recapture may not apply with respect to any property if, within 12 months after the date the taxpayer becomes aware (or reasonably should have become aware) of such property ceasing to be property eligible for such increase, the eligibility of such property for such increase is restored. The preceding sentence shall not apply more than once with respect to any facility.
+
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsecs. (a)(4)(D) and (b), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
+
+The date of enactment of this section, referred to in subsec. (c)(6)(B)(i), probably should be “the date of enactment of this paragraph” which is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
+The date of enactment of this paragraph, referred to in subsec. (c)(7)(A)(i), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 Section 1603 of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (d), is section 1603 of Pub. L. 111–5, which is set out as a note below.
 
+The Housing Act of 1949, referred to in subsec. (e)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+
+The date of enactment of this subsection, referred to in subsec. (e)(4)(A), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
 #### Amendments
+2022—Subsec. (a)(2)(A)(i). Pub. L. 117–169, § 13102(d)(1)(A)(i), substituted “6 percent” for “30 percent” in introductory provisions.
+
+Subsec. (a)(2)(A)(i)(II). Pub. L. 117–169, § 13102(a)(1), (e) substituted “clause (i) or (iii) of paragraph (3)(A)” for “paragraph (3)(A)(i)” and “January 1, 2025” for “January 1, 2024”.
+
+Subsec. (a)(2)(A)(i)(VI) to (IX). Pub. L. 117–169, § 13102(f)(2), added subcls. (VI) to (IX).
+
+Subsec. (a)(2)(A)(ii). Pub. L. 117–169, § 13102(d)(1)(A)(ii), substituted “2 percent” for “10 percent”.
+
+Subsec. (a)(3)(A)(ii). Pub. L. 117–169, § 13102(h), inserted “, or electrochromic glass which uses electricity to change its light transmittance properties in order to heat or cool a structure,” after “sunlight”.
+
+Pub. L. 117–169, § 13102(a)(2), substituted “January 1, 2025” for “January 1, 2024”.
+
+Subsec. (a)(3)(A)(vii). Pub. L. 117–169, § 13102(b), substituted “January 1, 2035” for “January 1, 2024”.
+
+Subsec. (a)(3)(A)(ix) to (xi). Pub. L. 117–169, § 13102(f)(1), added cls. (ix) to (xi).
+
+Subsec. (a)(4). Pub. L. 117–169, § 13102(m), amended par. (4) generally. Prior to amendment, par. (4) related to special rule for property financed by subsidized energy financing or industrial development bonds.
+
+Subsec. (a)(5)(A)(ii). Pub. L. 117–169, § 13102(d)(1)(B), substituted “6 percent” for “30 percent”.
+
+Subsec. (a)(5)(C)(ii). Pub. L. 117–169, § 13101(d), substituted “January 1, 2025” for “January 1, 2022”.
+
+Subsec. (a)(5)(E). Pub. L. 117–169, § 13101(e)(2)(B), inserted “placed in service before January 1, 2022, and” before “treated as energy property” in introductory provisions.
+
+Subsec. (a)(5)(F)(i). Pub. L. 117–169, § 13101(e)(3), substituted “offshore wind facility, subparagraph (E) shall not apply.” for “offshore wind facility—
+
+“(I) subparagraph (C)(ii) shall be applied by substituting ‘January 1, 2026’ for ‘January 1, 2022’,
+
+“(II) subparagraph (E) shall not apply, and
+
+“(III) for purposes of this paragraph, section 45(d)(1) shall be applied by substituting ‘January 1, 2026’ for ‘January 1, 2022’.”
+
+Subsec. (a)(6). Pub. L. 117–169, § 13102(c), added par. (6) and struck out former par. (6) which related to phaseout for solar energy property the construction of which began before Jan. 1, 2024.
+
+Subsec. (a)(7). Pub. L. 117–169, § 13102(d)(2), added par. (7).
+
+Pub. L. 117–169, § 13102(c), struck out par. (7) which related to phaseout for any qualified fuel cell property, qualified small wind property, waste energy recovery property, and certain other energy property.
+
+Subsec. (a)(8). Pub. L. 117–169, § 13102(j), added par. (8).
+
+Subsec. (a)(9). Pub. L. 117–169, § 13102(k), added par. (9).
+
+Subsec. (a)(9)(A)(i). Pub. L. 117–169, § 13204(c)(2), inserted “and paragraph (15)” after “paragraphs (1) through (8)”.
+
+Subsec. (a)(10), (11). Pub. L. 117–169, § 13102(k), added pars. (10) and (11).
+
+Subsec. (a)(12), (13). Pub. L. 117–169, § 13102(l), added pars. (12) and (13).
+
+Subsec. (a)(14). Pub. L. 117–169, § 13102(o), added par. (14).
+
+Subsec. (a)(15). Pub. L. 117–169, § 13204(c)(1), added par. (15). Former par. (15) redesignated (16).
+
+Pub. L. 117–169, § 13102(p), added par. (15).
+
+Subsec. (a)(16). Pub. L. 117–169, § 13204(c)(1), redesignated par. (15) as (16).
+
+Subsec. (c)(1)(A)(i). Pub. L. 117–169, § 13102(g)(1)(A), inserted “(1 kilowatt in the case of a fuel cell power plant with a linear generator assembly)” after “0.5 kilowatt” and “or electromechanical” after “electrochemical”.
+
+Subsec. (c)(1)(C). Pub. L. 117–169, § 13102(g)(1)(B), inserted “, or linear generator assembly,” after “a fuel cell stack assembly” and “or electromechanical” after “electrochemical”.
+
+Subsec. (c)(1)(D). Pub. L. 117–169, § 13102(g)(2), added subpar. (D). Former subpar. (D) redesignated (E).
+
+Pub. L. 117–169, § 13102(a)(3), substituted “January 1, 2025” for “January 1, 2024”.
+
+Subsec. (c)(1)(E). Pub. L. 117–169, § 13102(g)(2), redesignated subpar. (D) as (E).
+
+Subsec. (c)(2)(D). Pub. L. 117–169, § 13102(a)(4), substituted “January 1, 2025” for “January 1, 2024”.
+
+Subsec. (c)(3)(A)(iv). Pub. L. 117–169, § 13102(a)(5), substituted “January 1, 2025” for “January 1, 2024”.
+
+Subsec. (c)(4)(C). Pub. L. 117–169, § 13102(a)(6), substituted “January 1, 2025” for “January 1, 2024”.
+
+Subsec. (c)(5)(D). Pub. L. 117–169, § 13102(a)(7), substituted “January 1, 2025” for “January 1, 2024”.
+
+Subsec. (c)(6) to (8). Pub. L. 117–169, § 13102(f)(3), added pars. (6) to (8).
+
+Subsec. (e). Pub. L. 117–169, § 13103(a), added subsec. (e).
+
 2020—Subsec. (a)(2)(A)(i)(II). Pub. L. 116–260, § 132(a)(1)(A), substituted “January 1, 2024” for “January 1, 2022”.
 
 Subsec. (a)(2)(A)(i)(V). Pub. L. 116–260, § 203(b), added subcl. (V).
@@ -17799,6 +20667,19 @@ Subsecs. (h) to (k). Pub. L. 89–800, § 1(a), added subsecs. (h) to (j) and re
 Subsec. (d). Pub. L. 88–272, § 203(a)(3)(A), (b), substituted “except as provided in paragraph (2)” for “if such property was constructed by the lessor (or by a corporation which controls or is controlled by the lessor within the meaning of section 368(c))” in par. (1), “if such property is leased by a corporation which is a member of an affiliated group (within the meaning of section 46(a)(5) to another corporation which is a member of the same affiliated group” for “if paragraph (1) does not apply” in par. (2), and deleted provisions which stated that if a lessor made an election under this subsection, subsec. (g) would not apply with respect to such property, and deductions otherwise allowable under section 162 to the lessee for amounts paid the lessor would be adjusted consistent with subsec. (g).
 
 Subsec. (g). Pub. L. 88–272, § 203(a)(1), repealed subsec. (g) which required that the basis of section 38 property be reduced by 7 percent of the qualified investment.
+
+#### Effective Date of 2022 Amendment
+Amendment by section 13101(d), (e)(2)(B), (3) of Pub. L. 117–169 applicable to facilities placed in service after Dec. 31, 2021, see section 13101(k)(1) of Pub. L. 117–169, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+Amendment by section 13102(a)–(e), (k), (p) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2021, see section 13102(q)(1) of Pub. L. 117–169, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+Amendment by section 13102(f)(3), (g), (h), (j), (l), (o) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13102(q)(2) of Pub. L. 117–169, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+Amendment by section 13102(m) of Pub. L. 117–169 applicable to property the construction of which begins after Aug. 16, 2022, see section 13102(q)(3) of Pub. L. 117–169, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+Pub. L. 117–169, title I, § 13103(b), Aug. 16, 2022, 136 Stat. 1924, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2023.”
+
+Pub. L. 117–169, title I, § 13204(c)(3), Aug. 16, 2022, 136 Stat. 1941, provided that: “The amendments made by this subsection [amending this section] shall apply to property placed in service after December 31, 2022, and, for any property the construction of which begins prior to January 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after December 31, 2022.”
 
 #### Effective Date of 2020 Amendment
 Amendment by section 131 of Pub. L. 116–260 effective Jan. 1, 2021, see section 131(d) of div. EE of Pub. L. 116–260, set out as a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
@@ -18494,31 +21375,59 @@ Section applicable to periods after Aug. 8, 2005, under rules similar to the rul
 
 (1) **Qualifying advanced energy project**
 
-  (A) *In general* — The term “qualifying advanced energy project” means a project—
+  (A) *In general* — The term “qualifying advanced energy project” means a project, any portion of the qualified investment of which is certified by the Secretary under subsection (e) as eligible for a credit under this section—
 
-    (i) which re-equips, expands, or establishes a manufacturing facility for the production of—
+    (i) which re-equips, expands, or establishes an industrial or manufacturing facility for the production or recycling of—
 
-      (I) property designed to be used to produce energy from the sun, wind, geothermal deposits (within the meaning of section 613(e)(2)), or other renewable resources,
+      (I) property designed to be used to produce energy from the sun, water, wind, geothermal deposits (within the meaning of section 613(e)(2)), or other renewable resources,
 
-      (II) fuel cells, microturbines, or an energy storage system for use with electric or hybrid-electric motor vehicles,
+      (II) fuel cells, microturbines, or energy storage systems and components,
 
-      (III) electric grids to support the transmission of intermittent sources of renewable energy, including storage of such energy,
+      (III) electric grid modernization equipment or components,
 
-      (IV) property designed to capture and sequester carbon dioxide emissions,
+      (IV) property designed to capture, remove, use, or sequester carbon oxide emissions,
 
-      (V) property designed to refine or blend renewable fuels or to produce energy conservation technologies (including energy-conserving lighting technologies and smart grid technologies),
+      (V) equipment designed to refine, electrolyze, or blend any fuel, chemical, or product which is—
 
-      (VI) new qualified plug-in electric drive motor vehicles (as defined by section 30D) or components which are designed specifically for use with such vehicles, including electric motors, generators, and power control units, or
+        (aa) renewable, or
 
-      (VII) other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary, and
+        (bb) low-carbon and low-emission,
 
-    (ii) any portion of the qualified investment of which is certified by the Secretary under subsection (d) as eligible for a credit under this section.
+      (VI) property designed to produce energy conservation technologies (including residential, commercial, and industrial applications),
+
+      (VII) light-, medium-, or heavy-duty electric or fuel cell vehicles, as well as—
+
+        (aa) technologies, components, or materials for such vehicles, and
+
+        (bb) associated charging or refueling infrastructure,
+
+      (VIII) hybrid vehicles with a gross vehicle weight rating of not less than 14,000 pounds, as well as technologies, components, or materials for such vehicles, or
+
+      (IX) other advanced energy property designed to reduce greenhouse gas emissions as may be determined by the Secretary,
+
+    (ii) which re-equips an industrial or manufacturing facility with equipment designed to reduce greenhouse gas emissions by at least 20 percent through the installation of—
+
+      (I) low- or zero-carbon process heat systems,
+
+      (II) carbon capture, transport, utilization and storage systems,
+
+      (III) energy efficiency and reduction in waste from industrial processes, or
+
+      (IV) any other industrial technology designed to reduce greenhouse gas emissions, as determined by the Secretary, or
+
+    (iii) which re-equips, expands, or establishes an industrial facility for the processing, refining, or recycling of critical materials (as defined in section 7002(a) of the Energy Act of 2020 ([30 U.S.C. 1606(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/a&num=0&edition=prelim)) 11 So in original. Probably should be followed by a closing parenthesis..
 
   (B) *Exception* — Such term shall not include any portion of a project for the production of any property which is used in the refining or blending of any transportation fuel (other than renewable fuels).
 
 (2) **Eligible property** — The term “eligible property” means any property—
 
-  (A) which is necessary for the production of property described in paragraph (1)(A)(i),
+  (A) which is necessary for—
+
+    (i) the production or recycling of property described in clause (i) of paragraph (1)(A),
+
+    (ii) re-equipping an industrial or manufacturing facility described in clause (ii) of such paragraph, or
+
+    (iii) re-equipping, expanding, or establishing an industrial facility described in clause (iii) of such paragraph,
 
   (B) which is—
 
@@ -18574,7 +21483,43 @@ Section applicable to periods after Aug. 8, 2005, under rules similar to the rul
 
 (5) **Disclosure of allocations** — The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.
 
-**(e) Denial of double benefit** A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, or 48B.
+**(e) Additional allocations**
+
+(1) **In general** — Not later than 180 days after the date of enactment of this subsection, the Secretary shall establish a program to consider and award certifications for qualified investments eligible for credits under this section to qualifying advanced energy project sponsors.
+
+(2) **Limitation** — The total amount of credits which may be allocated under the program established under paragraph (1) shall not exceed $10,000,000,000, of which not greater than $6,000,000,000 may be allocated to qualified investments which are not located within a census tract which—
+
+  (A) is described in clause (iii) of section 45(b)(11)(B), and
+
+  (B) prior to the date of enactment of this subsection, had no project which received a certification and allocation of credits under subsection (d).
+
+(3) **Certifications**
+
+  (A) *Application requirement* — Each applicant for certification under this subsection shall submit an application at such time and containing such information as the Secretary may require.
+
+  (B) *Time to meet criteria for certification* — Each applicant for certification shall have 2 years from the date of acceptance by the Secretary of the application during which to provide to the Secretary evidence that the requirements of the certification have been met.
+
+  (C) *Period of issuance* — An applicant which receives a certification shall have 2 years from the date of issuance of the certification in order to place the project in service and to notify the Secretary that such project has been so placed in service, and if such project is not placed in service by that time period, then the certification shall no longer be valid. If any certification is revoked under this subparagraph, the amount of the limitation under paragraph (2) shall be increased by the amount of the credit with respect to such revoked certification.
+
+  (D) *Location of project* — In the case of an applicant which receives a certification, if the Secretary determines that the project has been placed in service at a location which is materially different than the location specified in the application for such project, the certification shall no longer be valid.
+
+(4) **Credit rate conditioned upon wage and apprenticeship requirements**
+
+  (A) *Base rate* — For purposes of allocations under this subsection, the amount of the credit determined under subsection (a) shall be determined by substituting “6 percent” for “30 percent”.
+
+  (B) *Alternative rate* — In the case of any project which satisfies the requirements of paragraphs (5)(A) and (6), subparagraph (A) shall not apply.
+
+(5) **Prevailing wage requirements**
+
+  (A) *In general* — The requirements described in this subparagraph with respect to a project are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the re-equipping, expansion, or establishment of a manufacturing facility shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such project is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+
+  (B) *Correction and penalty related to failure to satisfy wage requirements* — Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+(6) **Apprenticeship requirements** — Rules similar to the rules of section 45(b)(8) shall apply.
+
+(7) **Disclosure of allocations** — The Secretary shall, upon making a certification under this subsection, publicly disclose the identity of the applicant and the amount of the credit with respect to such applicant.
+
+**(f) Denial of double benefit** A credit shall not be allowed under this section for any qualified investment for which a credit is allowed under section 48, 48A, 48B, 48E, 45Q, or 45V.
 
 ### Statutory Notes
 
@@ -18583,10 +21528,39 @@ Subsections (c)(4) and (d) of section 46 (as in effect on the day before the ena
 
 The date of enactment of this section, referred to in subsec. (d)(1)(A), (4)(A), is the date of enactment of Pub. L. 111–5, which was approved Feb. 17, 2009.
 
+The date of enactment of this subsection, referred to in subsec. (e)(1), (2)(B), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
 #### Amendments
+2022—Subsec. (c)(1)(A). Pub. L. 117–169, § 13501(b)(1), inserted “, any portion of the qualified investment of which is certified by the Secretary under subsection (e) as eligible for a credit under this section” after “means a project” in introductory provisions.
+
+Subsec. (c)(1)(A)(i). Pub. L. 117–169, § 13501(b)(2)(A), substituted “an industrial or manufacturing facility for the production or recycling of” for “a manufacturing facility for the production of” in introductory provisions.
+
+Subsec. (c)(1)(A)(i)(I). Pub. L. 117–169, § 13501(b)(2)(B), inserted “water,” after “sun,”.
+
+Subsec. (c)(1)(A)(i)(II). Pub. L. 117–169, § 13501(b)(2)(C), substituted “energy storage systems and components” for “an energy storage system for use with electric or hybrid-electric motor vehicles”.
+
+Subsec. (c)(1)(A)(i)(III). Pub. L. 117–169, § 13501(b)(2)(D), substituted “grid modernization equipment or components” for “grids to support the transmission of intermittent sources of renewable energy, including storage of such energy”.
+
+Subsec. (c)(1)(A)(i)(IV). Pub. L. 117–169, § 13501(b)(2)(E), substituted “, remove, use, or sequester carbon oxide emissions” for “and sequester carbon dioxide emissions”.
+
+Subsec. (c)(1)(A)(i)(V). Pub. L. 117–169, § 13501(b)(2)(F), added subcl. (V) and struck out former subcl. (V) which read as follows: “property designed to refine or blend renewable fuels or to produce energy conservation technologies (including energy-conserving lighting technologies and smart grid technologies),”.
+
+Subsec. (c)(1)(A)(i)(VI) to (IX). Pub. L. 117–169, § 13501(b)(2)(G)–(J), added subcls. (VI) to (VIII), redesignated former subcl. (VII) as (IX), struck out “and” at end of subcl. (IX), and struck out former subcl. (VI) which read as follows: “new qualified plug-in electric drive motor vehicles (as defined by section 30D) or components which are designed specifically for use with such vehicles, including electric motors, generators, and power control units, or”.
+
+Subsec. (c)(1)(A)(ii), (iii). Pub. L. 117–169, § 13501(b)(3), added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “any portion of the qualified investment of which is certified by the Secretary under subsection (d) as eligible for a credit under this section.”
+
+Subsec. (c)(2)(A). Pub. L. 117–169, § 13501(c), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “which is necessary for the production of property described in paragraph (1)(A)(i),”.
+
+Subsec. (e). Pub. L. 117–169, § 13501(a), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 117–169, § 13501(a), (d), redesignated subsec. (e) as (f) and substituted “48B, 48E, 45Q, or 45V” for “or 48B”.
+
 2014—Subsec. (b)(3). Pub. L. 113–295, § 209(g), inserted “as the qualified investment” after “The amount which is treated”.
 
 Subsec. (c)(1)(A)(i)(VI). Pub. L. 113–295, § 221(a)(2)(C), struck out “, qualified plug-in electric vehicles (as defined by section 30(d)),” before “or components”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13501(e), Aug. 16, 2022, 136 Stat. 1971, provided that: “The amendments made by this section [amending this section] shall take effect on January 1, 2023.”
 
 #### Effective Date of 2014 Amendment
 Amendment by section 209(g) of Pub. L. 113–295 effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009, Pub. L. 111–5, div. B, title I, to which such amendment relates, see section 209(k) of Pub. L. 113–295, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
@@ -18598,19 +21572,376 @@ Section applicable to periods after Feb. 17, 2009, under rules similar to the ru
 
 
 <a id="section-48d"></a>
-## § 48D. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(3)(A), Mar. 23, 2018, 132 Stat. 1209]
+## § 48D. Advanced manufacturing investment credit
+**(a) Establishment of credit** For purposes of section 46, the advanced manufacturing investment credit for any taxable year is an amount equal to 25 percent of the qualified investment for such taxable year with respect to any advanced manufacturing facility of an eligible taxpayer.
+
+**(b) Qualified investment**
+
+(1) **In general** — For purposes of subsection (a), the qualified investment with respect to any advanced manufacturing facility for any taxable year is the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of an advanced manufacturing facility.
+
+(2) **Qualified property**
+
+  (A) *In general* — For purposes of this subsection, the term “qualified property” means property—
+
+    (i) which is tangible property,
+
+    (ii) with respect to which depreciation (or amortization in lieu of depreciation) is allowable,
+
+    (iii) which is—
+
+      (I) constructed, reconstructed, or erected by the taxpayer, or
+
+      (II) acquired by the taxpayer if the original use of such property commences with the taxpayer, and
+
+    (iv) which is integral to the operation of the advanced manufacturing facility.
+
+  (B) *Buildings and structural components*
+
+    (i) *In general* — The term “qualified property” includes any building or its structural components which otherwise satisfy the requirements under subparagraph (A).
+
+    (ii) *Exception* — Clause (i) shall not apply with respect to a building or portion of a building used for offices, administrative services, or other functions unrelated to manufacturing.
+
+(3) **Advanced manufacturing facility** — For purposes of this section, the term “advanced manufacturing facility” means a facility for which the primary purpose is the manufacturing of semiconductors or semiconductor manufacturing equipment.
+
+(4) **Coordination with rehabilitation credit** — The qualified investment with respect to any advanced manufacturing facility for any taxable year shall not include that portion of the basis of any property which is attributable to qualified rehabilitation expenditures (as defined in section 47(c)(2)).
+
+(5) **Certain progress expenditure rules made applicable** — Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
+
+**(c) Eligible taxpayer** For purposes of this section, the term “eligible taxpayer” means any taxpayer which—
+
+(1) is not a foreign entity of concern (as defined in section 9901(6) 11 See References in Text note below. of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021), and
+
+(2) has not made an applicable transaction (as defined in section 50(a)) during the taxable year.
+
+**(d) Elective payment**
+
+(1) **In general** — Except as otherwise provided in paragraph (2)(A), in the case of a taxpayer making an election (at such time and in such manner as the Secretary may provide) under this subsection with respect to the credit determined under subsection (a) with respect to such taxpayer, such taxpayer shall be treated as making a payment against the tax imposed by subtitle A (for the taxable year with respect to which such credit was determined) equal to the amount of such credit.
+
+(2) **Special rules** — For purposes of this subsection—
+
+  (A) *Application to partnerships and s corporations*
+
+    (i) *In general* — In the case of the credit determined under subsection (a) with respect to any property held directly by a partnership or S corporation, any election under paragraph (1) shall be made by such partnership or S corporation. If such partnership or S corporation makes an election under such paragraph (in such manner as the Secretary may provide) with respect to such credit—
+
+      (I) the Secretary shall make a payment to such partnership or S corporation equal to the amount of such credit,
+
+      (II) paragraph (3) shall be applied with respect to such credit before determining any partner’s distributive share, or shareholder’s pro rata share, of such credit,
+
+      (III) any amount with respect to which the election in paragraph (1) is made shall be treated as tax exempt income for purposes of sections 705 and 1366, and
+
+      (IV) a partner’s distributive share of such tax exempt income shall be based on such partner’s distributive share of the otherwise applicable credit for each taxable year.
+
+    (ii) *Coordination with application at partner or shareholder level* — In the case of any property held directly by a partnership or S corporation, no election by any partner or shareholder shall be allowed under paragraph (1) with respect to any credit determined under subsection (a) with respect to such property.
+
+  (B) *Elections* — Any election under paragraph (1) shall be made not later than the due date (including extensions of time) for the return of tax for the taxable year for which the election is made, but in no event earlier than 270 days after the date of the enactment of this section. Any such election, once made, shall be irrevocable. Except as otherwise provided in this subparagraph, any election under paragraph (1) shall apply with respect to any credit for the taxable year for which the election is made.
+
+  (C) *Timing* — The payment described in paragraph (1) shall be treated as made on the later of the due date (determined without regard to extensions) of the return of tax for the taxable year or the date on which such return is filed.
+
+  (D) *Treatment of payments to partnerships and s corporations* — For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under subparagraph (A)(i)(I) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+  (E) *Additional information* — As a condition of, and prior to, any amount being treated as a payment which is made by the taxpayer under paragraph (1) or any payment being made pursuant to subparagraph (A), the Secretary may require such information or registration as the Secretary deems necessary or appropriate for purposes of preventing duplication, fraud, improper payments, or excessive payments under this section.
+
+  (F) *Excessive payment*
+
+    (i) *In general* — In the case of any amount treated as a payment which is made by the taxpayer under paragraph (1), or any payment made pursuant to subparagraph (A), which the Secretary determines constitutes an excessive payment, the tax imposed on such taxpayer by chapter 1 for the taxable year in which such determination is made shall be increased by an amount equal to the sum of—
+
+      (I) the amount of such excessive payment, plus
+
+      (II) an amount equal to 20 percent of such excessive payment.
+
+    (ii) *Reasonable cause* — Clause (i)(II) shall not apply if the taxpayer demonstrates to the satisfaction of the Secretary that the excessive payment resulted from reasonable cause.
+
+    (iii) *Excessive payment defined* — For purposes of this subparagraph, the term “excessive payment” means, with respect to property for which an election is made under this subsection for any taxable year, an amount equal to the excess of—
+
+      (I) the amount treated as a payment which is made by the taxpayer under paragraph (1), or the amount of the payment made pursuant to subparagraph (A), with respect to such property for such taxable year, over
+
+      (II) the amount of the credit which, without application of this subsection, would be otherwise allowable (determined without regard to section 38(c)) under subsection (a) with respect to such property for such taxable year.
+
+(3) **Denial of double benefit** — In the case of a taxpayer making an election under this subsection with respect to the credit determined under subsection (a), such credit shall be reduced to zero and shall, for any other purposes under this title, be deemed to have been allowed to the taxpayer for such taxable year.
+
+(4) **Mirror code possessions** — In the case of any possession of the United States with a mirror code tax system (as defined in section 24(k)), this subsection shall not be treated as part of the income tax laws of the United States for purposes of determining the income tax law of such possession unless such possession elects to have this subsection be so treated.
+
+(5) **Basis reduction and recapture** — Rules similar to the rules of subsections (a) and (c) of section 50 shall apply with respect to—
+
+  (A) any amount treated as a payment which is made by the taxpayer under paragraph (1), and
+
+  (B) any payment made pursuant to paragraph (2)(A).
+
+(6) **Regulations** — The Secretary shall issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this subsection, including—
+
+  (A) regulations or other guidance providing rules for determining a partner’s distributive share of the tax exempt income described in paragraph (2)(A)(i)(III), and
+
+  (B) guidance to ensure that the amount of the payment or deemed payment made under this subsection is commensurate with the amount of the credit that would be otherwise allowable (determined without regard to section 38(c)).
+
+**(e) Termination of credit** The credit allowed under this section shall not apply to property the construction of which begins after December 31, 2026.
 
 ### Statutory Notes
 
-Section, added Pub. L. 111–148, title IX, § 9023(a), Mar. 23, 2010, 124 Stat. 877, provided for a qualifying therapeutic discovery project credit.
+#### References in Text
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b)(5), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
-#### Savings Provision
-Pub. L. 115–141, div. U, title IV, § 401(d)(3)(C), Mar. 23, 2018, 132 Stat. 1209, provided that: “In the case of the repeal of section 48D(e)(1) of the Internal Revenue Code of 1986, the amendments made by this paragraph [amending sections 49, 50, and 280C of this title and repealing this section] shall not apply to expenditures made in taxable years beginning before January 1, 2011.”
+Section 9901(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (c)(1), means section 9901(6) of Pub. L. 116–283, but probably should be a reference to section 9901(8) of the Act, which defines “foreign entity of concern” and which is classified to [section 4651(8) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4651/8&num=0&edition=prelim), Commerce and Trade.
 
-For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+The date of the enactment of this section, referred to in subsec. (d)(2)(B), is the date of enactment of Pub. L. 117–167, which was approved Aug. 9. 2022.
 
-#### Grants for Qualified Investments in Therapeutic Discovery Projects in Lieu of Tax Credits
-Pub. L. 111–148, title IX, § 9023(e), Mar. 23, 2010, 124 Stat. 881, directed the Secretary of the Treasury to award grants for 50 percent of a qualified investment in a qualifying therapeutic discovery project in 2009 or 2010 in lieu of tax credit allowed under [section 48D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48d).
+#### Prior Provisions
+A prior section 48D, added Pub. L. 111–148, title IX, § 9023(a), Mar. 23, 2010, 124 Stat. 877, provided for a qualifying therapeutic discovery project credit, prior to repeal by Pub. L. 115–141, div. U, title IV, § 401(d)(3)(A), Mar. 23, 2018, 132 Stat. 1209.
+
+#### Effective Date
+Section applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as an Effective Date of 2022 Amendment note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
+
+
+<a id="section-48e"></a>
+## § 48E. Clean electricity investment credit
+**(a) Investment credit for qualified property**
+
+(1) **In general** — For purposes of section 46, the clean electricity investment credit for any taxable year is an amount equal to the applicable percentage of the qualified investment for such taxable year with respect to—
+
+  (A) any qualified facility, and
+
+  (B) any energy storage technology.
+
+(2) **Applicable percentage**
+
+  (A) *Qualified facilities* — Subject to paragraph (3)—
+
+    (i) *Base rate* — In the case of any qualified facility which is not described in subclause (I) or (II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent.
+
+    (ii) *Alternative rate* — In the case of any qualified facility—
+
+      (I) with a maximum net output of less than 1 megawatt (as measured in alternating current),
+
+      (II) the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3) and (4) of subsection (d), or
+
+      (III) which—
+
+        (aa) satisfies the requirements of subsection (d)(3), and
+
+        (bb) with respect to the construction of such facility, satisfies the requirements of subsection (d)(4),
+
+  (B) *Energy storage technology* — Subject to paragraph (3)—
+
+    (i) *Base rate* — In the case of any energy storage technology which is not described in subclause (I) or (II) of clause (ii) and does not satisfy the requirements described in subclause (III) of such clause, the applicable percentage shall be 6 percent.
+
+    (ii) *Alternative rate* — In the case of any energy storage technology—
+
+      (I) with a capacity of less than 1 megawatt,
+
+      (II) the construction of which begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (3) and (4) of subsection (d), or
+
+      (III) which—
+
+        (aa) satisfies the requirements of subsection (d)(3), and
+
+        (bb) with respect to the construction of such property, satisfies the requirements of subsection (d)(4),
+    the applicable percentage shall be 30 percent.
+
+(3) **Increase in credit rate in certain cases**
+
+  (A) *Energy communities*
+
+    (i) *In general* — In the case of any qualified investment with respect to a qualified facility or with respect to energy storage technology which is placed in service within an energy community (as defined in section 45(b)(11)(B)), for purposes of applying paragraph (2) with respect to such property or investment, the applicable percentage shall be increased by the applicable credit rate increase.
+
+    (ii) *Applicable credit rate increase* — For purposes of clause (i), the applicable credit rate increase shall be an amount equal to—
+
+      (I) in the case of any qualified investment with respect to a qualified facility described in paragraph (2)(A)(i) or with respect to energy storage technology described in paragraph (2)(B)(i), 2 percentage points, and
+
+      (II) in the case of any qualified investment with respect to a qualified facility described in paragraph (2)(A)(ii) or with respect to energy storage technology described in paragraph (2)(B)(ii), 10 percentage points.
+
+  (B) *Domestic content* — Rules similar to the rules of section 48(a)(12) shall apply.
+
+**(b) Qualified investment with respect to a qualified facility**
+
+(1) **In general** — For purposes of subsection (a), the qualified investment with respect to any qualified facility for any taxable year is the sum of—
+
+  (A) the basis of any qualified property placed in service by the taxpayer during such taxable year which is part of a qualified facility, plus
+
+  (B) the amount of any expenditures which are—
+
+    (i) paid or incurred by the taxpayer for qualified interconnection property—
+
+      (I) in connection with a qualified facility which has a maximum net output of not greater than 5 megawatts (as measured in alternating current), and
+
+      (II) placed in service during the taxable year of the taxpayer, and
+
+    (ii) properly chargeable to capital account of the taxpayer.
+
+(2) **Qualified property** — For purposes of this section, the term “qualified property” means property—
+
+  (A) which is—
+
+    (i) tangible personal property, or
+
+    (ii) other tangible property (not including a building or its structural components), but only if such property is used as an integral part of the qualified facility,
+
+  (B) with respect to which depreciation (or amortization in lieu of depreciation) is allowable, and
+
+  (C)
+
+    (i) the construction, reconstruction, or erection of which is completed by the taxpayer, or
+
+    (ii) which is acquired by the taxpayer if the original use of such property commences with the taxpayer.
+
+(3) **Qualified facility**
+
+  (A) *In general* — For purposes of this section, the term “qualified facility” means a facility—
+
+    (i) which is used for the generation of electricity,
+
+    (ii) which is placed in service after December 31, 2024, and
+
+    (iii) for which the anticipated greenhouse gas emissions rate (as determined under subparagraph (B)(ii)) is not greater than zero.
+
+  (B) *Additional rules*
+
+    (i) *Expansion of facility; incremental production* — Rules similar to the rules of section 45Y(b)(1)(C) shall apply for purposes of this paragraph.
+
+    (ii) *Greenhouse gas emissions rate* — Rules similar to the rules of section 45Y(b)(2) shall apply for purposes of this paragraph.
+
+  (C) *Exclusion* — The term “qualified facility” shall not include any facility for which—
+
+    (i) a renewable electricity production credit determined under section 45,
+
+    (ii) an advanced nuclear power facility production credit determined under section 45J,
+
+    (iii) a carbon oxide sequestration credit determined under section 45Q,
+
+    (iv) a zero-emission nuclear power production credit determined under section 45U,
+
+    (v) a clean electricity production credit determined under section 45Y,
+
+    (vi) an energy credit determined under section 48, or
+
+    (vii) a qualifying advanced coal project credit under section 48A,
+    is allowed under section 38 for the taxable year or any prior taxable year.
+
+(4) **Qualified interconnection property** — For purposes of this paragraph, the term “qualified interconnection property” has the meaning given such term in section 48(a)(8)(B).
+
+(5) **Coordination with rehabilitation credit** — The qualified investment with respect to any qualified facility for any taxable year shall not include that portion of the basis of any property which is attributable to qualified rehabilitation expenditures (as defined in section 47(c)(2)).
+
+(6) **Definitions** — For purposes of this subsection, the terms “CO2e per KWh” and “greenhouse gas emissions rate” have the same meaning given such terms under section 45Y.
+
+**(c) Qualified investment with respect to energy storage technology**
+
+(1) **Qualified investment** — For purposes of subsection (a), the qualified investment with respect to energy storage technology for any taxable year is the basis of any energy storage technology placed in service by the taxpayer during such taxable year.
+
+(2) **Energy storage technology** — For purposes of this section, the term “energy storage technology” has the meaning given such term in section 48(c)(6) (except that subparagraph (D) of such section shall not apply).
+
+**(d) Special rules**
+
+(1) **Certain progress expenditure rules made applicable** — Rules similar to the rules of subsections (c)(4) and (d) of section 46 (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) shall apply for purposes of subsection (a).
+
+(2) **Special rule for property financed by subsidized energy financing or private activity bonds** — Rules similar to the rules of section 45(b)(3) shall apply.
+
+(3) **Prevailing wage requirements** — Rules similar to the rules of section 48(a)(10) shall apply.
+
+(4) **Apprenticeship requirements** — Rules similar to the rules of section 45(b)(8) shall apply.
+
+(5) **Domestic content requirement for elective payment** — In the case of a taxpayer making an election under section 6417 with respect to a credit under this section, rules similar to the rules of section 45Y(g)(12) shall apply.
+
+**(e) Credit phase-out**
+
+(1) **In general** — The amount of the clean electricity investment credit under subsection (a) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during a calendar year described in paragraph (2) shall be equal to the product of—
+
+  (A) the amount of the credit determined under subsection (a) without regard to this subsection, multiplied by
+
+  (B) the phase-out percentage under paragraph (2).
+
+(2) **Phase-out percentage** — The phase-out percentage under this paragraph is equal to—
+
+  (A) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during the first calendar year following the applicable year, 100 percent,
+
+  (B) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during the second calendar year following the applicable year, 75 percent,
+
+  (C) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during the third calendar year following the applicable year, 50 percent, and
+
+  (D) for any qualified investment with respect to any qualified facility or energy storage technology the construction of which begins during any calendar year subsequent to the calendar year described in subparagraph (C), 0 percent.
+
+(3) **Applicable year** — For purposes of this subsection, the term “applicable year” has the same meaning given such term in section 45Y(d)(3).
+
+**(f) Greenhouse gas** In this section, the term “greenhouse gas” has the same meaning given such term under section 45Y(e)(2).
+
+**(g) Recapture of credit** For purposes of section 50, if the Secretary determines that the greenhouse gas emissions rate for a qualified facility is greater than 10 grams of CO2e per KWh, any property for which a credit was allowed under this section with respect to such facility shall cease to be investment credit property in the taxable year in which the determination is made.
+
+**(h) Special rules for certain facilities placed in service in connection with low-income communities**
+
+(1) **In general** — In the case of any applicable facility with respect to which the Secretary makes an allocation of environmental justice capacity limitation under paragraph (4)—
+
+  (A) the applicable percentage otherwise determined under subsection (a)(2) with respect to any eligible property which is part of such facility shall be increased by—
+
+    (i) in the case of a facility described in subclause (I) of paragraph (2)(A)(iii) and not described in subclause (II) of such paragraph, 10 percentage points, and
+
+    (ii) in the case of a facility described in subclause (II) of paragraph (2)(A)(iii), 20 percentage points, and
+
+  (B) the increase in the credit determined under subsection (a) by reason of this subsection for any taxable year with respect to all property which is part of such facility shall not exceed the amount which bears the same ratio to the amount of such increase (determined without regard to this subparagraph) as—
+
+    (i) the environmental justice capacity limitation allocated to such facility, bears to
+
+    (ii) the total megawatt nameplate capacity of such facility, as measured in direct current.
+
+(2) **Applicable facility** — For purposes of this subsection—
+
+  (A) *In general* — The term “applicable facility” means any qualified facility—
+
+    (i) which is not described in section 45Y(b)(2)(B),
+
+    (ii) which has a maximum net output of less than 5 megawatts (as measured in alternating current), and
+
+    (iii) which—
+
+      (I) is located in a low-income community (as defined in section 45D(e)) or on Indian land (as defined in section 2601(2) of the Energy Policy Act of 1992 ([25 U.S.C. 3501(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3501/2&num=0&edition=prelim))), or
+
+      (II) is part of a qualified low-income residential building project or a qualified low-income economic benefit project.
+
+  (B) *Qualified low-income residential building project* — A facility shall be treated as part of a qualified low-income residential building project if—
+
+    (i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 ([34 U.S.C. 12491(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491/a/3&num=0&edition=prelim)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/22&num=0&edition=prelim))) or such other affordable housing programs as the Secretary may provide, and
+
+    (ii) the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
+
+  (C) *Qualified low-income economic benefit project* — A facility shall be treated as part of a qualified low-income economic benefit project if at least 50 percent of the financial benefits of the electricity produced by such facility are provided to households with income of—
+
+    (i) less than 200 percent of the poverty line (as defined in section 36B(d)(3)(A)) applicable to a family of the size involved, or
+
+    (ii) less than 80 percent of area median gross income (as determined under section 142(d)(2)(B)).
+
+  (D) *Financial benefit* — For purposes of subparagraphs (B) and (C), electricity acquired at a below-market rate shall not fail to be taken into account as a financial benefit.
+
+(3) **Eligible property** — For purposes of this subsection, the term “eligible property” means a qualified investment with respect to any applicable facility.
+
+(4) **Allocations**
+
+  (A) *In general* — Not later than January 1, 2025, the Secretary shall establish a program to allocate amounts of environmental justice capacity limitation to applicable facilities. In establishing such program and to carry out the purposes of this subsection, the Secretary shall provide procedures to allow for an efficient allocation process, including, when determined appropriate, consideration of multiple projects in a single application if such projects will be placed in service by a single taxpayer.
+
+  (B) *Limitation* — The amount of environmental justice capacity limitation allocated by the Secretary under subparagraph (A) during any calendar year shall not exceed the annual capacity limitation with respect to such year.
+
+  (C) *Annual capacity limitation* — For purposes of this paragraph, the term “annual capacity limitation” means 1.8 gigawatts of direct current capacity for each calendar year during the period beginning on January 1, 2025, and ending on December 31 of the applicable year (as defined in section 45Y(d)(3)), and zero thereafter.
+
+  (D) *Carryover of unused limitation*
+
+    (i) *In general* — If the annual capacity limitation for any calendar year exceeds the aggregate amount allocated for such year under this paragraph, such limitation for the succeeding calendar year shall be increased by the amount of such excess. No amount may be carried under the preceding sentence to any calendar year after the third calendar year following the applicable year (as defined in section 45Y(d)(3)).
+
+    (ii) *Carryover from section 48 for calendar year 2025* — If the annual capacity limitation for calendar year 2024 under section 48(e)(4)(D) exceeds the aggregate amount allocated for such year under such section, such excess amount may be carried over and applied to the annual capacity limitation under this subsection for calendar year 2025. The annual capacity limitation for calendar year 2025 shall be increased by the amount of such excess.
+
+  (E) *Placed in service deadline*
+
+    (i) *In general* — Paragraph (1) shall not apply with respect to any property which is placed in service after the date that is 4 years after the date of the allocation with respect to the facility of which such property is a part.
+
+    (ii) *Application of carryover* — Any amount of environmental justice capacity limitation which expires under clause (i) during any calendar year shall be taken into account as an excess described in subparagraph (D)(i) (or as an increase in such excess) for such calendar year, subject to the limitation imposed by the last sentence of such subparagraph.
+
+(5) **Recapture** — The Secretary shall, by regulations or other guidance, provide for recapturing the benefit of any increase in the credit allowed under subsection (a) by reason of this subsection with respect to any property which ceases to be property eligible for such increase (but which does not cease to be investment credit property within the meaning of section 50(a)). The period and percentage of such recapture shall be determined under rules similar to the rules of section 50(a). To the extent provided by the Secretary, such recapture may not apply with respect to any property if, within 12 months after the date the taxpayer becomes aware (or reasonably should have become aware) of such property ceasing to be property eligible for such increase, the eligibility of such property for such increase is restored. The preceding sentence shall not apply more than once with respect to any facility.
+
+**(i) Guidance** Not later than January 1, 2025, the Secretary shall issue guidance regarding implementation of this section.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
+
+The Housing Act of 1949, referred to in subsec. (h)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+
+#### Effective Date
+Pub. L. 117–169, title I, § 13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: “The amendments made by this section [enacting this section and amending sections 46, 49 and 50 of this title] shall apply to property placed in service after December 31, 2024.”
 
 
 <a id="section-49"></a>
@@ -18635,9 +21966,11 @@ Pub. L. 111–148, title IX, § 9023(e), Mar. 23, 2010, 124 Stat. 881, directed 
 
     (iii) the basis of any property which is part of a qualifying advanced coal project under section 48A,
 
-    (iv) the basis of any property which is part of a qualifying gasification project under section 48B, and
+    (iv) the basis of any property which is part of a qualifying gasification project under section 48B,
 
-    (v) the basis of any property which is part of a qualifying advanced energy project under section 48C.
+    (v) the basis of any property which is part of a qualifying advanced energy project under section 48C, and
+
+    (vi) the basis of any qualified property (as defined in subsection (b)(2) of section 48D) which is part of an advanced manufacturing facility (as defined in subsection (b)(3) of such section).
 
   (D) *Nonqualified nonrecourse financing*
 
@@ -18715,6 +22048,21 @@ Pub. L. 111–148, title IX, § 9023(e), Mar. 23, 2010, 124 Stat. 881, directed 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(1)(C)
+Pub. L. 117–169, title I, § 13702(b)(2), (c), Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to property placed in service after Dec. 31, 2024, subsection (a)(1)(C) of this section is amended:
+
+(1) by striking “and” at the end of clause (v),
+
+(2) by striking the period at the end of clause (vi) and inserting a comma, and
+
+(3) by adding at the end the following new clauses:
+
+(vii) the basis of any qualified property which is part of a qualified facility under section 48E, and
+
+(viii) the basis of any energy storage technology under section 48E.
+
+See 2022 Amendment note below.
+
 #### References in Text
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsecs. (a)(1)(F) and (b)(3), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
@@ -18722,6 +22070,10 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 A prior section 49, Pub. L. 91–172, title VII, § 703(a), Dec. 30, 1969, 83 Stat. 660; Pub. L. 92–178, title I, § 101(b)(1)–(4), Dec. 10, 1971, 85 Stat. 498, 499, related to termination of rules for computing credit for investment in certain depreciable property for period beginning Apr. 19, 1969, and ending during 1971, prior to repeal by Pub. L. 95–600, title III, § 312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
+2022—Subsec. (a)(1)(C)(vi). Pub. L. 117–167 added cl. (vi).
+
+Subsec. (a)(1)(C)(vii), (viii). Pub. L. 117–169, § 13702(b)(2), added cls. (vii) and (viii).
+
 2018—Subsec. (a)(1)(C)(vi). Pub. L. 115–141, § 401(d)(3)(B)(i), struck out cl. (vi) which read as follows: “the basis of any property to which paragraph (1) of section 48D(e) applies which is part of a qualifying therapeutic discovery project under such section 48D.”
 
 Subsec. (a)(1)(D)(iii). Pub. L. 115–141, § 401(a)(24), substituted “shareholder” for “share-holder” in concluding provisions.
@@ -18752,6 +22104,11 @@ Subsec. (d)(1). Pub. L. 100–647, § 1002(e)(1), amended par. (1) generally. Pr
 
 “(B) without regard to paragraph (4) thereof (relating to election of reduced credit in lieu of basis adjustment).”
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2024, see section 13702(c) of Pub. L. 117–169, set out as an Effective Date note under [section 48E of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48e).
+
+Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
+
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–148 applicable to amounts paid or incurred after Dec. 31, 2008, in taxable years beginning after such date, see section 9023(f) of Pub. L. 111–148, set out as a note under [section 46 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-46).
 
@@ -18776,7 +22133,7 @@ Amendment by section 1002(e)(8)(B) of Pub. L. 100–647 applicable to taxable ye
 Pub. L. 99–514, title II, § 211(e), Oct. 22, 1986, 100 Stat. 2169, as amended by Pub. L. 100–647, title I, § 1002(e)(4)–(7), Nov. 10, 1988, 102 Stat. 3367, 3368, provided that: “(1) In general.—Except as provided in this subsection, the amendments made by this section [enacting this section and provisions set out below] shall apply to property placed in service after December 31, 1985, in taxable years ending after such date. Section 49(c) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to taxable years ending after June 30, 1987, and to amounts carried to such taxable years. “(2) Exceptions for certain films.—For purposes of determining whether any property is transition property within the meaning of section 49(e) of the Internal Revenue Code of 1986—“(A) in the case of any motion picture or television film, construction shall be treated as including production for purposes of section 203(b)(1) of this Act [enacting provisions set out as a note under [section 168 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-168)], and written contemporary evidence of an agreement (in accordance with industry practice) shall be treated as a written binding contract for such purposes, “(B) in the case of any television film, a license agreement or agreement for production services between a television network and a producer shall be treated as a binding contract for purposes of section 203(b)(1)(A) of this Act, and “(C) a motion picture film shall be treated as described in section 203(b)(1)(A) of this Act if—“(i) funds were raised pursuant to a public offering before September 26, 1985, for the production of such film, “(ii) 40 percent of the funds raised pursuant to such public offering are being spent on films the production of which commenced before such date, and “(iii) all of the films funded by such public offering are required to be distributed pursuant to distribution agreements entered into before September 26, 1985. “(3) Normalization rules.—The provisions of subsection (b) [see Normalization Rules note below] shall apply to any violation of the normalization requirements under paragraph (1) or (2) of section 46(f) of the Internal Revenue Code of 1986 occurring in taxable years ending after December 31, 1985. “(4) Additional exceptions.—“(A) Subsections (c) and (d) of section 49 of the Internal Revenue Code of 1986 shall not apply to any continuous caster facility for slabs and blooms which is subject to a lease and which is part of a project the second phase of which is a continuous slab caster which was placed in service before December 31, 1985. “(B) For purposes of determining whether an automobile manufacturing facility (including equipment and incidental appurtenances) is transition property within the meaning of section 49(e), property with respect to which the Board of Directors of an automobile manufacturer formally approved the plan for the project on January 7, 1985 shall be treated as transition property and subsections (c) and (d) of section 49 of such Code shall not apply to such property, but only with respect to $70,000,000 of regular investment tax credits. “(C) Any solid waste disposal facility which will process and incinerate solid waste of one or more public or private entities including Dakota County, Minnesota, and with respect to which a bond carryforward from 1985 was elected in an amount equal to $12,500,000 shall be treated as transition property within the meaning of section 49(e) of the Internal Revenue Code of 1986. “(D) For purposes of section 49 of such Code, the following property shall be treated as transition property:“(i) 2 catamarans built by a shipbuilder incorporated in the State of Washington in 1964, the contracts for which were signed on April 22, 1986 and November 12, 1985, and 1 barge built by such shipbuilder the contract for which was signed on August 7, 1985. “(ii) 2 large passenger ocean-going United States flag cruise ships with a passenger rated capacity of up to 250 which are built by the shipbuilder described in clause (i), which are the first such ships built in the United States since 1952, and which were designed at the request of a Pacific Coast cruise line pursuant to a contract entered into in October 1985. This clause shall apply only to that portion of the cost of each ship which does not exceed $40,000,000. “(iii) Property placed in service during 1986 by Satellite Industries, Inc., with headquarters in Minneapolis, Minnesota, to the extent that the cost of such property does not exceed $1,950,000. “(E) Subsections (c) and (d) of section 49 of such Code shall not apply to property described in section 204(a)(4) of this Act [enacting provisions set out as a note under [section 168 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-168)].”
 
 #### Savings Provision
-For provisions that amendment made by section 401(d)(3)(B)(i) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of [section 48D(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section48D/e/1&num=0&edition=prelim), see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under [section 48D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48d).
+Pub. L. 115–141, div. U, title IV, § 401(d)(3)(C), Mar. 23, 2018, 132 Stat. 1209, provided that: “In the case of the repeal of section 48D(e)(1) of the Internal Revenue Code of 1986, the amendments made by this paragraph [amending this section and sections 50 and 280C of this title and repealing former [section 48D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48d)] shall not apply to expenditures made in taxable years beginning before January 1, 2011.”
 
 For provisions that nothing in amendment by section 401(d)(3)(B)(i) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
@@ -18809,18 +22166,26 @@ Pub. L. 99–514, title II, § 211(d), Oct. 22, 1986, 100 Stat. 2168, provided t
 
   (D) *Coordination with paragraph (1)* — If, after property is placed in service, there is a disposition or other cessation described in paragraph (1), then paragraph (1) shall be applied as if any credit which was allowable by reason of section 47(d) and which has not been required to be recaptured before such disposition, cessation, or change in use were allowable for the taxable year the property was placed in service.
 
-  (E) *Special rules* — Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), or 48C(b)(2).
+  (E) *Special rules* — Rules similar to the rules of this paragraph shall apply in cases where qualified progress expenditures were taken into account under the rules referred to in section 48(b), 48A(b)(3), 48B(b)(3), 48C(b)(2), or 48D(b)(5).
 
-(3) **Carrybacks and carryovers adjusted** — In the case of any cessation described in paragraph (1) or (2), the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation.
+(3) **Certain expansions in connection with advanced manufacturing facilities**
 
-(4) **Subsection not to apply in certain cases** — Paragraphs (1) and (2) shall not apply to—
+  (A) *In general* — If there is a an applicable transaction by an applicable taxpayer before the close of the 10-year period beginning on the date such taxpayer placed in service investment credit property which is eligible for the advanced manufacturing investment credit under section 48D(a), then the tax under this chapter for the taxable year in which such transaction occurs shall be increased by 100 percent of the aggregate decrease in the credits allowed under section 38 for all prior taxable years which would have resulted solely from reducing to zero any credit determined under section 46 which is attributable to the advanced manufacturing investment credit under section 48D(a) with respect to such property.
+
+  (B) *Exception* — Subparagraph (A) shall not apply if the applicable taxpayer demonstrates to the satisfaction of the Secretary that the applicable transaction has been ceased or abandoned within 45 days of a determination and notice by the Secretary.
+
+  (C) *Regulations and guidance* — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance which provide for requirements for recordkeeping or information reporting for purposes of administering the requirements of this paragraph.
+
+(4) **Carrybacks and carryovers adjusted** — In the case of any cessation described in paragraph (1) or (2), or any applicable transaction to which paragraph (3)(A) applies, the carrybacks and carryovers under section 39 shall be adjusted by reason of such cessation or applicable transaction.
+
+(5) **Subsection not to apply in certain cases** — Paragraphs (1) and (2) shall not apply to—
 
   (A) a transfer by reason of death, or
 
   (B) a transaction to which section 381(a) applies.
   For purposes of this subsection, property shall not be treated as ceasing to be investment credit property with respect to the taxpayer by reason of a mere change in the form of conducting the trade or business so long as the property is retained in such trade or business as investment credit property and the taxpayer retains a substantial interest in such trade or business.
 
-(5) **Definitions and special rules**
+(6) **Definitions and special rules**
 
   (A) *Investment credit property* — For purposes of this subsection, the term “investment credit property” means any property eligible for a credit determined under this subpart.
 
@@ -18830,7 +22195,15 @@ Pub. L. 99–514, title II, § 211(d), Oct. 22, 1986, 100 Stat. 2168, provided t
 
     (ii) the same tax treatment under this subsection with respect to the transferred property shall apply to the transferee as would have applied to the transferor.
 
-  (C) *Special rule* — Any increase in tax under paragraph (1) or (2) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
+  (C) *Special rule* — Any increase in tax under paragraph (1), (2), or (3) shall not be treated as tax imposed by this chapter for purposes of determining the amount of any credit allowable under this chapter.
+
+  (D) *Applicable transaction* — For purposes of this subsection—
+
+    (i) *In general* — The term “applicable transaction” means, with respect to any applicable taxpayer, any significant transaction (as determined by the Secretary, in coordination with the Secretary of Commerce and the Secretary of Defense) involving the material expansion of semiconductor manufacturing capacity of such applicable taxpayer in the People’s Republic of China or a foreign country of concern (as defined in section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
+
+    (ii) *Exception* — Such term shall not include a transaction which primarily involves the expansion of manufacturing capacity for legacy semiconductors (as defined in section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021).
+
+  (E) *Applicable taxpayer* — For purposes of this subsection, the term “applicable taxpayer” means any taxpayer who has been allowed a credit under section 48D(a) for any prior taxable year.
 
 **(b) Certain property not eligible** No credit shall be determined under this subpart with respect to—
 
@@ -18876,9 +22249,11 @@ Pub. L. 99–514, title II, § 211(d), Oct. 22, 1986, 100 Stat. 2168, provided t
 
 (3) **Special rule** — In the case of any energy credit—
 
-  (A) only 50 percent of such credit shall be taken into account under paragraph (1), and
+  (A) only 50 percent of such credit shall be taken into account under paragraph (1),
 
-  (B) only 50 percent of any recapture amount attributable to such credit shall be taken into account under paragraph (2).
+  (B) only 50 percent of any recapture amount attributable to such credit shall be taken into account under paragraph (2), and
+
+  (C) paragraph (1) shall not apply for purposes of determining eligible basis under section 42.
 
 (4) **Recapture of reductions**
 
@@ -18897,7 +22272,13 @@ Pub. L. 99–514, title II, § 211(d), Oct. 22, 1986, 100 Stat. 2168, provided t
 
 (1) Section 46(e) (relating to limitations with respect to certain persons).
 
-(2) Section 46(f) (relating to limitation in case of certain regulated companies).
+(2) Section 46(f) (relating to limitation in case of certain regulated companies). At the election of a taxpayer, this paragraph shall not apply to any energy storage technology (as defined in section 48(c)(6)), provided—
+
+  (A) no election under this paragraph shall be permitted if the making of such election is prohibited by a State or political subdivision thereof, by any agency or instrumentality of the United States, or by a public service or public utility commission or other similar body of any State or political subdivision that regulates public utilities as described in section 7701(a)(33)(A),
+
+  (B) an election under this paragraph shall be made separately with respect to each energy storage technology by the due date (including extensions) of the Federal tax return for the taxable year in which the energy storage technology is placed in service by the taxpayer, and once made, may be revoked only with the consent of the Secretary, and
+
+  (C) an election shall not apply with respect to any energy storage technology if such energy storage technology has a maximum capacity equal to or less than 500 kilowatt hours.
 
 (3) Section 46(h) (relating to special rules for cooperatives).
 
@@ -18908,17 +22289,56 @@ Pub. L. 99–514, title II, § 211(d), Oct. 22, 1986, 100 Stat. 2168, provided t
 (6) Section 48(f) (relating to estates and trusts).
 
 (7) Section 48(r) (relating to certain 501(d) organizations).
-Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995.
+Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any taxable year beginning after December 31, 1995. In the case of a real estate investment trust making an election under section 6418, paragraphs (1)(B) and (2)(B) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies.
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–169, title I, § 13702(b)(3), (4), (c), Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended:
+
+(1) in subsection (a)(2)(E), by striking “or 48D(b)(5)” and inserting “48D(b)(5), or 48E(e)”; and
+
+(2) in subsection (c)(3), by inserting “or clean electricity investment credit” after “In the case of any energy credit”.
+
+See 2022 Amendment notes below.
+
 #### References in Text
+Section 9901(7) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (a)(6)(D)(i), is section 9901(7) of Pub. L. 116–283, which is classified to [section 4651(7) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4651/7&num=0&edition=prelim), Commerce and Trade.
+
+Section 9902(a)(6) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, referred to in subsec. (a)(6)(D)(ii), is section 9902(a)(6) of Pub. L. 116–283, which is classified to [section 4652(a)(6) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4652/a/6&num=0&edition=prelim), Commerce and Trade.
+
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (d), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Prior Provisions
 A prior section 50, Pub. L. 92–178, title I, § 101(a), Dec. 10, 1971, 85 Stat. 498, related to restoration of credit for investment in certain depreciable property, prior to repeal by Pub. L. 95–600, title III, § 312(c)(1), Nov. 6, 1978, 92 Stat. 2826, applicable to taxable years ending after Dec. 31, 1978.
 
 #### Amendments
+2022—Subsec. (a)(2)(E). Pub. L. 117–169, § 13702(b)(3), substituted “48D(b)(5), or 48E(e)” for “or 48D(b)(5)”.
+
+Pub. L. 117–167, § 107(d)(3), substituted “48C(b)(2), or 48D(b)(5)” for “or 48C(b)(2)”.
+
+Subsec. (a)(3). Pub. L. 117–167, § 107(b)(1), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 117–167, § 107(b)(3)(A)(ii), inserted “or applicable transaction” before period at end.
+
+Pub. L. 117–167, § 107(b)(3)(A)(i), which directed the insertion of “, or any applicable transaction to which paragraph (3)(A) applies” after “paragraphs (1) and (2)”, was executed by making the insertion after “paragraph (1) or (2)” to reflect the probable intent of Congress.
+
+Pub. L. 117–167, § 107(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(5), (6). Pub. L. 117–167, § 107(b)(1), redesignated pars. (4) as (5) as (5) and (6), respectively.
+
+Subsec. (a)(6)(C). Pub. L. 117–167, § 107(b)(3)(B), substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)”.
+
+Subsec. (a)(6)(D), (E). Pub. L. 117–167, § 107(b)(2), added subpars. (D) and (E).
+
+Subsec. (c)(3). Pub. L. 117–169, § 13702(b)(4), inserted “or clean electricity investment credit” after “In the case of any energy credit” in introductory provisions.
+
+Subsec. (c)(3)(C). Pub. L. 117–169, § 13102(i), added subpar. (C).
+
+Subsec. (d). Pub. L. 117–169, § 13801(c), inserted “In the case of a real estate investment trust making an election under section 6418, paragraphs (1)(B) and (2)(B) of the section 46(e) referred to in paragraph (1) of this subsection shall not apply to any investment credit property of such real estate investment trust to which such election applies.” at end of concluding provisions.
+
+Subsec. (d)(2). Pub. L. 117–169, § 13102(f)(5), inserted “At the election of a taxpayer, this paragraph shall not apply to any energy storage technology (as defined in section 48(c)(6)), provided—” after “companies).” and added subpars. (A) to (C).
+
 2018—Subsec. (a)(2)(E). Pub. L. 115–141, § 401(d)(3)(B)(ii), substituted “or 48C(b)(2)” for “48C(b)(2), or 48D(b)(4)”.
 
 Subsec. (b)(2)(A). Pub. L. 115–141, § 401(a)(25), substituted semicolon for period at end.
@@ -18937,6 +22357,15 @@ Subsec. (a)(2)(E). Pub. L. 104–188, § 1702(h)(11), substituted “48(a)(5)”
 
 Subsec. (d). Pub. L. 104–188, § 1616(b)(1), inserted closing provisions.
 
+#### Effective Date of 2022 Amendment
+Amendment by section 13102(f)(5), (i) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13102(q)(2) of Pub. L. 117–169, set out in a note under [section 45 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45).
+
+Amendment by section 13702(b)(3), (4) of Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2024, see section 13702(c) of Pub. L. 117–169, set out as an Effective Date note under [section 48E of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48e).
+
+Amendment by section 13801(c) of Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 13801(g) of Pub. L. 117–169, set out as an Effective Date note under [section 6417 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6417).
+
+Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
+
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–357 applicable with respect to expenditures paid or incurred after Oct. 22, 2004, see section 322(e) of Pub. L. 108–357, set out as a note under [section 46 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-46).
 
@@ -18952,7 +22381,7 @@ Amendment by section 1702(h)(11) of Pub. L. 104–188 effective, except as other
 Section applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in [section 49(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section49/e&num=0&edition=prelim)), any property with respect to which qualified progress expenditures were previously taken into account under [section 46(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section46/d&num=0&edition=prelim), and any property described in [section 46(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section46/b/2/C&num=0&edition=prelim), as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as an Effective Date of 1990 Amendment note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
 #### Savings Provision
-For provisions that amendment made by section 401(d)(3)(B)(ii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of [section 48D(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section48D/e/1&num=0&edition=prelim), see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under [section 48D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48d).
+For provisions that amendment made by section 401(d)(3)(B)(ii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of [section 48D(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section48D/e/1&num=0&edition=prelim), see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under [section 49 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-49).
 
 For provisions that nothing in amendment by section 401(d)(3)(B)(ii) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
@@ -19934,39 +23363,26 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
       (II) the adjusted net minimum tax for any taxable year is the amount of the net minimum tax for such year.
 
-(2) **Tentative minimum tax** — The term “tentative minimum tax” has the meaning given to such term by section 55(b), except that in the case of a corporation, the tentative minimum tax shall be treated as zero.
+(2) **Tentative minimum tax** — The term “tentative minimum tax” has the meaning given to such term by section 55(b).
 
-(3) **AMT term references** — In the case of a corporation, any references in this subsection to section 55, 56, or 57 shall be treated as a reference to such section as in effect before the amendments made by Tax Cuts and Jobs Act.11 So in original. Probably should be “the Tax Cuts and Jobs Act.”
+**(e) Application to applicable corporations** In the case of a corporation—
 
-**(e) Portion of credit treated as refundable**
+(1) subsection (b)(1) shall be applied by substituting “the net minimum tax for all prior taxable years beginning after 2022” for “the adjusted net minimum tax imposed for all prior taxable years beginning after 1986”, and
 
-(1) **In general** — In the case of any taxable year of a corporation beginning in 2018 or 2019, the limitation under subsection (c) shall be increased by the AMT refundable credit amount for such year.
-
-(2) **AMT refundable credit amount** — For purposes of paragraph (1), the AMT refundable credit amount is an amount equal to 50 percent (100 percent in the case of a taxable year beginning in 2019) of the excess (if any) of—
-
-  (A) the minimum tax credit determined under subsection (b) for the taxable year, over
-
-  (B) the minimum tax credit allowed under subsection (a) for such year (before the application of this subsection for such year).
-
-(3) **Credit refundable** — For purposes of this title (other than this section), the credit allowed by reason of this subsection shall be treated as a credit allowed under subpart C (and not this subpart).
-
-(4) **Short taxable years** — In the case of any taxable year of less than 365 days, the AMT refundable credit amount determined under paragraph (2) with respect to such taxable year shall be the amount which bears the same ratio to such amount determined without regard to this paragraph as the number of days in such taxable year bears to 365.
-
-(5) **Special rule** — In the case of a corporation making an election under this paragraph—
-
-  (A) paragraph (1) shall not apply, and
-
-  (B) subsection (c) shall not apply to the first taxable year of such corporation beginning in 2018.
+(2) the amount determined under subsection (c)(1) shall be increased by the amount of tax imposed under section 59A for the taxable year.
 
 ### Statutory Notes
-
-#### References in Text
-The Tax Cuts and Jobs Act, referred to in subsec. (d)(3), probably means title I of Pub. L. 115–97, Dec. 22, 2017, 131 Stat. 2054. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97. For complete classification of title I of Pub. L. 115–97 to the Code, see Tables.
 
 #### Prior Provisions
 A prior section 53, added Pub. L. 95–30, title II, § 202(b), May 23, 1977, 91 Stat. 146; amended Pub. L. 95–600, title III, § 321(c)(2), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 97–34, title II, § 207(c)(2), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–248, title II, § 201(d)(8)(A), formerly § 201(c)(8)(A), and § 265(b)(2)(A)(iii), Sept. 3, 1982, 96 Stat. 420, 547, renumbered § 201(d)(8)(A), Pub. L. 97–448, title III, § 306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; 97–354, § 5(a)(12), Oct. 19, 1982, 96 Stat. 1693; 97–448, title I, § 102(d)(3), Jan. 12, 1983, 96 Stat. 2370; Pub. L. 98–21, title I, § 122(c)(1), Apr. 20, 1983, 97 Stat. 87; Pub. L. 98–369, div. A, title VII, § 713(c)(1)(C), July 18, 1984, 98 Stat. 957, placed limitations on the amount of credit allowed by former section 44B for employment of certain new employees, prior to repeal by Pub. L. 98–369, div. A, title IV, § 474(p)(8), July 18, 1984, 98 Stat. 838, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 #### Amendments
+2022—Subsec. (d)(2). Pub. L. 117–169, § 10101(e)(2)(A), struck out “, except that in the case of a corporation, the tentative minimum tax shall be treated as zero” after “section 55(b)”.
+
+Subsec. (d)(3). Pub. L. 117–169, § 10101(e)(2)(B), struck out par. (3). Prior to amendment, text read as follows: “In the case of a corporation, any references in this subsection to section 55, 56, or 57 shall be treated as a reference to such section as in effect before the amendments made by Tax Cuts and Jobs Act.”
+
+Subsec. (e). Pub. L. 117–169, § 10101(e)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to portion of credit treated as refundable.
+
 2020—Subsec. (e)(1). Pub. L. 116–136, § 2305(a)(1), substituted “2018 or 2019” for “2018, 2019, 2020, or 2021”.
 
 Subsec. (e)(2). Pub. L. 116–136, § 2305(a)(2), substituted “2019” for “2021” in introductory provisions.
@@ -20034,6 +23450,9 @@ Pub. L. 101–239, § 7612(a)(1), added cl. (iv).
 1988—Subsec. (d)(1)(B)(ii). Pub. L. 100–647, § 1007(g)(4), substituted “current earnings” for “earnings and profits” in last sentence.
 
 Subsec. (d)(1)(B)(iii). Pub. L. 100–647, § 6304(a), added cl. (iii).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–136, div. A, title II, § 2305(c), Mar. 27, 2020, 134 Stat. 357, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
@@ -20155,15 +23574,15 @@ Pub. L. 111–5, div. B, title I, § 1531(d), Feb. 17, 2009, 123 Stat. 360, prov
 
 <a id="section-55"></a>
 ## § 55. Alternative minimum tax imposed
-**(a) General rule** In the case of a taxpayer other than a corporation, there is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
+**(a) General rule** There is hereby imposed (in addition to any other tax imposed by this subtitle) a tax equal to the excess (if any) of—
 
 (1) the tentative minimum tax for the taxable year, over
 
-(2) the regular tax for the taxable year.
+(2) the regular tax for the taxable year plus, in the case of an applicable corporation, the tax imposed by section 59A.
 
 **(b) Tentative minimum tax** For purposes of this part—
 
-(1) **Amount of tentative tax**
+(1) **Noncorporate taxpayers** — In the case of a taxpayer other than a corporation—
 
   (A) *In general* — The tentative minimum tax for the taxable year is the sum of—
 
@@ -20176,12 +23595,22 @@ Pub. L. 111–5, div. B, title I, § 1531(d), Feb. 17, 2009, 123 Stat. 360, prov
 
   (C) *Married individual filing separate return* — In the case of a married individual filing a separate return, subparagraph (A) shall be applied by substituting 50 percent of the dollar amount otherwise applicable under clause (i) and clause (ii) thereof. For purposes of the preceding sentence, marital status shall be determined under section 7703.
 
-(2) **Alternative minimum taxable income** — The term “alternative minimum taxable income” means the taxable income of the taxpayer for the taxable year—
+  (D) *Alternative minimum taxable income* — The term “alternative minimum taxable income” means the taxable income of the taxpayer for the taxable year—
 
-  (A) determined with the adjustments provided in section 56 and section 58, and
+    (i) determined with the adjustments provided in section 56 and section 58, and
 
-  (B) increased by the amount of the items of tax preference described in section 57.
-  If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).
+    (ii) increased by the amount of the items of tax preference described in section 57.
+    If a taxpayer is subject to the regular tax, such taxpayer shall be subject to the tax imposed by this section (and, if the regular tax is determined by reference to an amount other than taxable income, such amount shall be treated as the taxable income of such taxpayer for purposes of the preceding sentence).
+
+(2) **Corporations**
+
+  (A) *Applicable corporations* — In the case of an applicable corporation, the tentative minimum tax for the taxable year shall be the excess of—
+
+    (i) 15 percent of the adjusted financial statement income for the taxable year (as determined under section 56A), over
+
+    (ii) the corporate AMT foreign tax credit for the taxable year.
+
+  (B) *Other corporations* — In the case of any corporation which is not an applicable corporation, the tentative minimum tax for the taxable year shall be zero.
 
 (3) **Maximum rate of tax on net capital gain of noncorporate taxpayers** — The amount determined under the first sentence of paragraph (1)(A) shall not exceed the sum of—
 
@@ -20313,6 +23742,16 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 55, Pub. L. 95–600, title IV, § 421(a), Nov. 6, 1978, 92 Stat. 2871; amended Pub. L. 96–222, title I, § 104(a)(4)(A)–(D), (G), (H)(i), (ii), (viii), Apr. 1, 1980, 94 Stat. 215–218; Pub. L. 96–223, title II, § 232(b)(2)(A), (c)(2), Apr. 2, 1980, 94 Stat. 276, 277; Pub. L. 96–603, § 4(a), (b), Dec. 28, 1980, 94 Stat. 3513, 3514; Pub. L. 97–34, title I, § 101(d)(1), title II, § 221(b)(1)(A), title III, § 331(d)(1)(A), Aug. 13, 1981, 95 Stat. 183, 246, 294; Pub. L. 97–248, title II, § 201(a), Sept. 3, 1982, 96 Stat. 411; Pub. L. 97–354, § 5(a)(13), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 97–448, title I, § 103(g)(2)(E), title III, §§ 305(c), 306(a)(1)(B), (C), Jan. 12, 1983, 96 Stat. 2379, 2399, 2400; Pub. L. 98–369, div. A, title IV, §§ 474(q), 491(d)(1), title VI, § 612(e)(3), title VII, § 711(a)(1), (4), (5), July 18, 1984, 98 Stat. 838, 849, 912, 942, 943; Pub. L. 99–514, title XVIII, § 1847(a), Oct. 22, 1986, 100 Stat. 2856, related to alternative minimum tax for taxpayers other than corporations, prior to the general revision of this part by Pub. L. 99–514, § 701(a).
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–169, § 10101(a)(4)(A), substituted “There” for “In the case of a taxpayer other than a corporation, there” in introductory provisions.
+
+Subsec. (a)(2). Pub. L. 117–169, § 10101(a)(3), inserted “plus, in the case of an applicable corporation, the tax imposed by section 59A” before period at end.
+
+Subsec. (b)(1). Pub. L. 117–169, § 10101(a)(4)(B)(i)(I), substituted “Noncorporate taxpayers” for “Amount of tentative tax” in heading and inserted introductory provisions.
+
+Subsec. (b)(1)(D). Pub. L. 117–169, § 10101(a)(4)(B)(i)(II), added subpar. (D).
+
+Subsec. (b)(2). Pub. L. 117–169, § 10101(a)(1), amended par. (2) generally. Prior to amendment, par. (2) defined “alternative minimum taxable income”.
+
 2019—Subsec. (d)(4)(A)(iii). Pub. L. 116–94 added cl. (iii).
 
 2017—Subsec. (a). Pub. L. 115–97, § 12001(a), substituted “In the case of a taxpayer other than a corporation, there” for “There” in introductory provisions.
@@ -20512,6 +23951,9 @@ Pub. L. 100–647, § 1002(l)(27), substituted “subsection (j) or (k) of secti
 Subsec. (d)(3). Pub. L. 100–647, § 1007(a)(3), inserted at end “In the case of a taxpayer described in paragraph (1)(C)(i), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over $155,000, or (ii) $20,000.”
 
 1986—Subsec. (c)(1). Pub. L. 99–514, § 252(c), inserted “or section 42(j)”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–94 applicable to taxable years beginning after Dec. 31, 2017, see section 501(c)(2) of Pub. L. 116–94, set out in a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -21272,6 +24714,143 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 [enacting t
 Pub. L. 99–514, title VII, § 702, Oct. 22, 1986, 100 Stat. 2345, required Secretary of the Treasury or his delegate to conduct a study of operation and effect of provisions of section 56(f) and former section 56(g) of the Internal Revenue Code of 1986, prior to repeal by Pub. L. 101–508, title XI, § 11832(4), Nov. 5, 1990, 104 Stat. 1388–559.
 
 
+<a id="section-56a"></a>
+## § 56A. Adjusted financial statement income
+**(a) In general** For purposes of this part, the term “adjusted financial statement income” means, with respect to any corporation for any taxable year, the net income or loss of the taxpayer set forth on the taxpayer’s applicable financial statement for such taxable year, adjusted as provided in this section.
+
+**(b) Applicable financial statement** For purposes of this section, the term “applicable financial statement” means, with respect to any taxable year, an applicable financial statement (as defined in section 451(b)(3) or as specified by the Secretary in regulations or other guidance) which covers such taxable year.
+
+**(c) General adjustments**
+
+(1) **Statements covering different taxable years** — Appropriate adjustments shall be made in adjusted financial statement income in any case in which an applicable financial statement covers a period other than the taxable year.
+
+(2) **Special rules for related entities**
+
+  (A) *Consolidated financial statements* — If the financial results of a taxpayer are reported on the applicable financial statement for a group of entities, rules similar to the rules of section 451(b)(5) shall apply.
+
+  (B) *Consolidated returns* — Except as provided in regulations prescribed by the Secretary, if the taxpayer is part of an affiliated group of corporations filing a consolidated return for any taxable year, adjusted financial statement income for such group for such taxable year shall take into account items on the group’s applicable financial statement which are properly allocable to members of such group.
+
+  (C) *Treatment of dividends and other amounts* — In the case of any corporation which is not included on a consolidated return with the taxpayer, adjusted financial statement income of the taxpayer with respect to such other corporation shall be determined by only taking into account the dividends received from such other corporation (reduced to the extent provided by the Secretary in regulations or other guidance) and other amounts which are includible in gross income or deductible as a loss under this chapter (other than amounts required to be included under sections 951 and 951A or such other amounts as provided by the Secretary) with respect to such other corporation.
+
+  (D) *Treatment of partnerships*
+
+    (i) *In general* — Except as provided by the Secretary, if the taxpayer is a partner in a partnership, adjusted financial statement income of the taxpayer with respect to such partnership shall be adjusted to only take into account the taxpayer’s distributive share of adjusted financial statement income of such partnership.
+
+    (ii) *Adjusted financial statement income of partnerships* — For the purposes of this part, the adjusted financial statement income of a partnership shall be the partnership’s net income or loss set forth on such partnership’s applicable financial statement (adjusted under rules similar to the rules of this section).
+
+(3) **Adjustments to take into account certain items of foreign income**
+
+  (A) *In general* — If, for any taxable year, a taxpayer is a United States shareholder of one or more controlled foreign corporations, the adjusted financial statement income of such taxpayer with respect to such controlled foreign corporation (as determined under paragraph (2)(C)) shall be adjusted to also take into account such taxpayer’s pro rata share (determined under rules similar to the rules under section 951(a)(2)) of items taken into account in computing the net income or loss set forth on the applicable financial statement (as adjusted under rules similar to those that apply in determining adjusted financial statement income) of each such controlled foreign corporation with respect to which such taxpayer is a United States shareholder.
+
+  (B) *Negative adjustments* — In any case in which the adjustment determined under subparagraph (A) would result in a negative adjustment for such taxable year—
+
+    (i) no adjustment shall be made under this paragraph for such taxable year, and
+
+    (ii) the amount of the adjustment determined under this paragraph for the succeeding taxable year (determined without regard to this paragraph) shall be reduced by an amount equal to the negative adjustment for such taxable year.
+
+(4) **Effectively connected income** — In the case of a foreign corporation, to determine adjusted financial statement income, the principles of section 882 shall apply.
+
+(5) **Adjustments for certain taxes** — Adjusted financial statement income shall be appropriately adjusted to disregard any Federal income taxes, or income, war profits, or excess profits taxes (within the meaning of section 901) with respect to a foreign country or possession of the United States, which are taken into account on the taxpayer’s applicable financial statement. To the extent provided by the Secretary, the preceding sentence shall not apply to income, war profits, or excess profits taxes (within the meaning of section 901) that are imposed by a foreign country or possession of the United States and taken into account on the taxpayer’s applicable financial statement if the taxpayer does not choose to have the benefits of subpart A of part III of subchapter N for the taxable year. The Secretary shall prescribe such regulations or other guidance as may be necessary and appropriate to provide for the proper treatment of current and deferred taxes for purposes of this paragraph, including the time at which such taxes are properly taken into account.
+
+(6) **Adjustment with respect to disregarded entities** — Adjusted financial statement income shall be adjusted to take into account any adjusted financial statement income of a disregarded entity owned by the taxpayer.
+
+(7) **Special rule for cooperatives** — In the case of a cooperative to which section 1381 applies, the adjusted financial statement income (determined without regard to this paragraph) shall be reduced by the amounts referred to in section 1382(b) (relating to patronage dividends and per-unit retain allocations) to the extent such amounts were not otherwise taken into account in determining adjusted financial statement income.
+
+(8) **Rules for Alaska native corporations** — Adjusted financial statement income shall be appropriately adjusted to allow—
+
+  (A) cost recovery and depletion attributable to property the basis of which is determined under section 21(c) of the Alaska Native Claims Settlement Act ([43 U.S.C. 1620(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1620/c&num=0&edition=prelim)), and
+
+  (B) deductions for amounts payable made pursuant to section 7(i) or section 7(j) of such Act ([43 U.S.C. 1606(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1606/i&num=0&edition=prelim) and 1606(j)) only at such time as the deductions are allowed for tax purposes.
+
+(9) **Amounts attributable to elections for direct payment of certain credits** — Adjusted financial statement income shall be appropriately adjusted to disregard any amount treated as a payment against the tax imposed by subtitle A pursuant to an election under section 48D(d) or 6417, to the extent such amount was not otherwise taken into account under paragraph (5).
+
+(10) **Consistent treatment of mortgage servicing income of taxpayer other than a regulated investment company**
+
+  (A) *In general* — Adjusted financial statement income shall be adjusted so as not to include any item of income in connection with a mortgage servicing contract any earlier than when such income is included in gross income under any other provision of this chapter.
+
+  (B) *Rules for amounts not representing reasonable compensation* — The Secretary shall provide regulations to prevent the avoidance of taxes imposed by this chapter with respect to amounts not representing reasonable compensation (as determined by the Secretary) with respect to a mortgage servicing contract.
+
+(11) **Adjustment with respect to defined benefit pensions**
+
+  (A) *In general* — Except as otherwise provided in rules prescribed by the Secretary in regulations or other guidance, adjusted financial statement income shall be—
+
+    (i) adjusted to disregard any amount of income, cost, or expense that would otherwise be included on the applicable financial statement in connection with any covered benefit plan,
+
+    (ii) increased by any amount of income in connection with any such covered benefit plan that is included in the gross income of the corporation under any other provision of this chapter, and
+
+    (iii) reduced by deductions allowed under any other provision of this chapter with respect to any such covered benefit plan.
+
+  (B) *Covered benefit plan* — For purposes of this paragraph, the term “covered benefit plan” means—
+
+    (i) a defined benefit plan (other than a multiemployer plan described in section 414(f)) if the trust which is part of such plan is an employees’ trust described in section 401(a) which is exempt from tax under section 501(a),
+
+    (ii) any qualified foreign plan (as defined in section 404A(e)), or
+
+    (iii) any other defined benefit plan which provides post-employment benefits other than pension benefits.
+
+(12) **Tax-exempt entities** — In the case of an organization subject to tax under section 511, adjusted financial statement income shall be appropriately adjusted to only take into account any adjusted financial statement income—
+
+  (A) of an unrelated trade or business (as defined in section 513) of such organization, or
+
+  (B) derived from debt-financed property (as defined in section 514) to the extent that income from such property is treated as unrelated business taxable income.
+
+(13) **Depreciation** — Adjusted financial statement income shall be—
+
+  (A) reduced by depreciation deductions allowed under section 167 with respect to property to which section 168 applies to the extent of the amount allowed as deductions in computing taxable income for the taxable year, and
+
+  (B) appropriately adjusted—
+
+    (i) to disregard any amount of depreciation expense that is taken into account on the taxpayer’s applicable financial statement with respect to such property, and
+
+    (ii) to take into account any other item specified by the Secretary in order to provide that such property is accounted for in the same manner as it is accounted for under this chapter.
+
+(14) **Qualified wireless spectrum**
+
+  (A) *In general* — Adjusted financial statement income shall be—
+
+    (i) reduced by amortization deductions allowed under section 197 with respect to qualified wireless spectrum to the extent of the amount allowed as deductions in computing taxable income for the taxable year, and
+
+    (ii) appropriately adjusted—
+
+      (I) to disregard any amount of amortization expense that is taken into account on the taxpayer’s applicable financial statement with respect to such qualified wireless spectrum, and
+
+      (II) to take into account any other item specified by the Secretary in order to provide that such qualified wireless spectrum is accounted for in the same manner as it is accounted for under this chapter.
+
+  (B) *Qualified wireless spectrum* — For purposes of this paragraph, the term “qualified wireless spectrum” means wireless spectrum which—
+
+    (i) is used in the trade or business of a wireless telecommunications carrier, and
+
+    (ii) was acquired after December 31, 2007, and before the date of enactment of this section.
+
+(15) **Secretarial authority to adjust items** — The Secretary shall issue regulations or other guidance to provide for such adjustments to adjusted financial statement income as the Secretary determines necessary to carry out the purposes of this section, including adjustments—
+
+  (A) to prevent the omission or duplication of any item, and
+
+  (B) to carry out the principles of part II of subchapter C of this chapter (relating to corporate liquidations), part III of subchapter C of this chapter (relating to corporate organizations and reorganizations), and part II of subchapter K of this chapter (relating to partnership contributions and distributions).
+
+**(d) Deduction for financial statement net operating loss**
+
+(1) **In general** — Adjusted financial statement income (determined after application of subsection (c) and without regard to this subsection) shall be reduced by an amount equal to the lesser of—
+
+  (A) the aggregate amount of financial statement net operating loss carryovers to the taxable year, or
+
+  (B) 80 percent of adjusted financial statement income computed without regard to the deduction allowable under this subsection.
+
+(2) **Financial statement net operating loss carryover** — A financial statement net operating loss for any taxable year shall be a financial statement net operating loss carryover to each taxable year following the taxable year of the loss. The portion of such loss which shall be carried to subsequent taxable years shall be the amount of such loss remaining (if any) after the application of paragraph (1).
+
+(3) **Financial statement net operating loss defined** — For purposes of this subsection, the term “financial statement net operating loss” means the amount of the net loss (if any) set forth on the corporation’s applicable financial statement (determined after application of subsection (c) and without regard to this subsection) for taxable years ending after December 31, 2019.
+
+**(e) Regulations and other guidance** The Secretary shall provide for such regulations and other guidance as necessary to carry out the purposes of this section, including regulations and other guidance relating to the effect of the rules of this section on partnerships with income taken into account by an applicable corporation.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (c)(14)(B)(ii), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
+
+#### Effective Date
+Section applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as an Effective Date of 2022 Amendment note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
+
+
 <a id="section-57"></a>
 ## § 57. Items of tax preference
 **(a) General rule** For purposes of this part, the items of tax preference determined under this section are—
@@ -21654,12 +25233,123 @@ For applicability of amendment by section 701(a) of Pub. L. 99–514 [enacting t
   (B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “1997” for “2016” in subparagraph (A)(ii) thereof.
   If any increase determined under the preceding sentence is not a multiple of $50, such increase shall be rounded to the nearest multiple of $50.
 
+**(k) Applicable corporation** For purposes of this part—
+
+(1) **Applicable corporation defined**
+
+  (A) *In general* — The term “applicable corporation” means, with respect to any taxable year, any corporation (other than an S corporation, a regulated investment company, or a real estate investment trust) which meets the average annual adjusted financial statement income test of subparagraph (B) for one or more taxable years which—
+
+    (i) are prior to such taxable year, and
+
+    (ii) end after December 31, 2021.
+
+  (B) *Average annual adjusted financial statement income test* — For purposes of this subsection—
+
+    (i) a corporation meets the average annual adjusted financial statement income test for a taxable year if the average annual adjusted financial statement income of such corporation (determined without regard to section 56A(d)) for the 3-taxable-year period ending with such taxable year exceeds $1,000,000,000, and
+
+    (ii) in the case of a corporation described in paragraph (2), such corporation meets the average annual adjusted financial statement income test for a taxable year if—
+
+      (I) the corporation meets the requirements of clause (i) for such taxable year (determined after the application of paragraph (2)), and
+
+      (II) the average annual adjusted financial statement income of such corporation (determined without regard to the application of paragraph (2) and without regard to section 56A(d)) for the 3-taxable-year-period ending with such taxable year is $100,000,000 or more.
+
+  (C) *Exception* — Notwithstanding subparagraph (A), the term “applicable corporation” shall not include any corporation which otherwise meets the requirements of subparagraph (A) if—
+
+    (i) such corporation—
+
+      (I) has a change in ownership, or
+
+      (II) has a specified number (to be determined by the Secretary and which shall, as appropriate, take into account the facts and circumstances of the taxpayer) of consecutive taxable years, including the most recent taxable year, in which the corporation does not meet the average annual adjusted financial statement income test of subparagraph (B), and
+
+    (ii) the Secretary determines that it would not be appropriate to continue to treat such corporation as an applicable corporation.
+    The preceding sentence shall not apply to any corporation if, after the Secretary makes the determination described in clause (ii), such corporation meets the average annual adjusted financial statement income test of subparagraph (B) for any taxable year beginning after the first taxable year for which such determination applies.
+
+  (D) *Special rules for determining applicable corporation status* — Solely for purposes of determining whether a corporation is an applicable corporation under this paragraph, all adjusted financial statement income of persons treated as a single employer with such corporation under subsection (a) or (b) of section 52 shall be treated as adjusted financial statement income of such corporation, and adjusted financial statement income of such corporation shall be determined without regard to paragraphs (2)(D)(i) and (11) of section 56A(c).
+
+  (E) *Other special rules*
+
+    (i) *Corporations in existence for less than 3 years* — If the corporation was in existence for less than 3-taxable years, subparagraph (B) shall be applied on the basis of the period during which such corporation was in existence.
+
+    (ii) *Short taxable years* — Adjusted financial statement income for any taxable year of less than 12 months shall be annualized by multiplying the adjusted financial statement income for the short period by 12 and dividing the result by the number of months in the short period.
+
+    (iii) *Treatment of predecessors* — Any reference in this subparagraph to a corporation shall include a reference to any predecessor of such corporation.
+
+(2) **Special rule for foreign-parented multinational groups**
+
+  (A) *In general* — If a corporation is a member of a foreign-parented multinational group for any taxable year, then, solely for purposes of determining whether such corporation meets the average annual adjusted financial statement income test under paragraph (1)(B)(ii)(I) for such taxable year, the adjusted financial statement income of such corporation for such taxable year shall include the adjusted financial statement income of all members of such group. Solely for purposes of this subparagraph, adjusted financial statement income shall be determined without regard to paragraphs (2)(D)(i), (3), (4), and (11) of section 56A(c).
+
+  (B) *Foreign-parented multinational group* — For purposes of subparagraph (A), the term “foreign-parented multinational group” means, with respect to any taxable year, two or more entities if—
+
+    (i) at least one entity is a domestic corporation and another entity is a foreign corporation,
+
+    (ii) such entities are included in the same applicable financial statement with respect to such year, and
+
+    (iii) either—
+
+      (I) the common parent of such entities is a foreign corporation, or
+
+      (II) if there is no common parent, the entities are treated as having a common parent which is a foreign corporation under subparagraph (D).
+
+  (C) *Foreign corporations engaged in a trade or business within the United States* — For purposes of this paragraph, if a foreign corporation is engaged in a trade or business within the United States, such trade or business shall be treated as a separate domestic corporation that is wholly owned by the foreign corporation.
+
+  (D) *Other rules* — The Secretary shall, applying the principles of this section, prescribe rules for the application of this paragraph, including rules for the determination of—
+
+    (i) the entities (if any) which are to be to be treated under subparagraph (B)(iii)(II) as having a common parent which is a foreign corporation,
+
+    (ii) the entities to be included in a foreign-parented multinational group, and
+
+    (iii) the common parent of a foreign-parented multinational group.
+
+(3) **Regulations or other guidance** — The Secretary shall provide regulations or other guidance for the purposes of carrying out this subsection, including regulations or other guidance—
+
+  (A) providing a simplified method for determining whether a corporation meets the requirements of paragraph (1), and’(B) 11 So in original. addressing the application of this subsection to a corporation that experiences a change in ownership.
+
+**(l) Corporate AMT foreign tax credit**
+
+(1) **In general** — For purposes of this part, if an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N for any taxable year, the corporate AMT foreign tax credit for the taxable year of the applicable corporation is an amount equal to sum of—
+
+  (A) the lesser of—
+
+    (i) the aggregate of the applicable corporation’s pro rata share (as determined under section 56A(c)(3)) of the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States which are—
+
+      (I) taken into account on the applicable financial statement of each controlled foreign corporation with respect to which the applicable corporation is a United States shareholder, and
+
+      (II) paid or accrued (for Federal income tax purposes) by each such controlled foreign corporation, or
+
+    (ii) the product of the amount of the adjustment under section 56A(c)(3) and the percentage specified in section 55(b)(2)(A)(i), and
+
+  (B) in the case of an applicable corporation that is a domestic corporation, the amount of income, war profits, and excess profits taxes (within the meaning of section 901) imposed by any foreign country or possession of the United States to the extent such taxes are—
+
+    (i) taken into account on the applicable corporation’s applicable financial statement, and
+
+    (ii) paid or accrued (for Federal income tax purposes) by the applicable corporation.
+
+(2) **Carryover of excess tax paid** — For any taxable year for which an applicable corporation chooses to have the benefits of subpart A of part III of subchapter N, the excess of the amount described in paragraph (1)(A)(i) over the amount described in paragraph (1)(A)(ii) shall increase the amount described in paragraph (1)(A)(i) in any of the first 5 succeeding taxable years to the extent not taken into account in a prior taxable year.
+
+(3) **Regulations or other guidance** — The Secretary shall provide for such regulations or other guidance as is necessary to carry out the purposes of this subsection.
+
 ### Statutory Notes
 
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Amendments
+2022—Subsec. (k). Pub. L. 117–169, § 10101(a)(2), added subsec. (k).
+
+Subsec. (k)(1)(D). Pub. L. 117–169, § 13904(a), amended subpar. (D) generally. Prior to amendment, text of subpar. (D) read as follows:
+
+“(i) In general.—Solely for purposes of determining whether a corporation is an applicable corporation under this paragraph, all adjusted financial statement income of persons treated as a single employer with such corporation under subsection (a) or (b) of section 52 (determined with the modifications described in clause (ii)) shall be treated as adjusted financial statement income of such corporation, and adjusted financial statement income of such corporation shall be determined without regard to paragraphs (2)(D)(i) and (11) of section 56A(c).
+
+“(ii) Modifications.—For purposes of this subparagraph—
+
+“(I) section 52(a) shall be applied by substituting ‘component members’ for ‘members’, and
+
+“(II) for purposes of applying section 52(b), the term ‘trade or business’ shall include any activity treated as a trade or business under paragraph (5) or (6) of section 469(c) (determined without regard to the phrase ‘To the extent provided in regulations’ in such paragraph (6)).
+
+“(iii) Component member.—For purposes of this subparagraph, the term ‘component member’ has the meaning given such term by section 1563(b), except that the determination shall be made without regard to section 1563(b)(2).”
+
+Subsec. (l). Pub. L. 117–169, § 10101(c), added subsec. (l).
+
 2018—Subsec. (a)(1). Pub. L. 115–141 substituted “27” for “27(a)” in introductory provisions.
 
 2017—Subsec. (a)(1)(C). Pub. L. 115–97, § 12001(b)(3)(C)(i), substituted “section 55(b)(1) in lieu of the highest rate of tax specified in section 1” for “subparagraph (A)(i) or (B)(i) of section 55(b)(1) (whichever applies) in lieu of the highest rate of tax specified in section 1 or 11 (whichever applies)”.
@@ -21753,6 +25443,9 @@ Subsec. (h). Pub. L. 100–647, § 1007(e)(2), substituted “taxable year with 
 Subsec. (i). Pub. L. 100–647, § 1007(e)(4), inserted “(other than this part)” after “of this subtitle” and substituted “subtitle” for “title” before “solely”.
 
 Subsec. (j). Pub. L. 100–647, § 1014(e)(5)(A), added subsec. (j).
+
+#### Effective Date of 2022 Amendment
+Amendment by section 10101(a)(2), (c) of Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 11002(d)(4) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 11002(e) of Pub. L. 115–97, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -25781,16 +29474,23 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Gross income includes—
 
-(1) the amount of the alcohol fuel credit determined with respect to the taxpayer for the taxable year under section 40(a), and
+(1) the amount of the alcohol fuel credit determined with respect to the taxpayer for the taxable year under section 40(a),
 
-(2) the biodiesel fuels credit determined with respect to the taxpayer for the taxable year under section 40A(a).
+(2) the biodiesel fuels credit determined with respect to the taxpayer for the taxable year under section 40A(a), and
+
+(3) the sustainable aviation fuel credit determined with respect to the taxpayer for the taxable year under section 40B(a).
 
 ### Statutory Notes
 
 #### Amendments
+2022—Par. (3). Pub. L. 117–169 added par. (3).
+
 2004—Pub. L. 108–357 amended section catchline and text generally. Prior to amendment, text read as follows: “Gross income includes the amount of the alcohol fuel credit determined with respect to the taxpayer for the taxable year under section 40(a).”
 
 1984—Pub. L. 98–369 amended section generally, substituting “the amount of the alcohol fuel credit determined with respect to the taxpayer for the taxable year under section 40(a)” for “an amount equal to the amount of the credit allowable to the taxpayer under section 44E for the taxable year (determined without regard to subsection (e) thereof)”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to fuel sold or used after Dec. 31, 2022, see section 13203(f) of Pub. L. 117–169, set out as an Effective Date note under [section 40B of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-40b).
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–357 applicable to fuel produced, and sold or used, after Dec. 31, 2004, in taxable years ending after such date, see section 302(d) of Pub. L. 108–357, set out as a note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
@@ -31498,7 +35198,7 @@ Pub. L. 102–486, title XIX, § 1912(c), Oct. 24, 1992, 106 Stat. 3016, provide
 (1) under which the employer provides such employees with adoption assistance, and
 
 (2) which meets requirements similar to the requirements of paragraphs (2), (3), (5), and (6) of section 127(b).
-An adoption reimbursement program operated under [section 1052 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1052&num=0&edition=prelim), United States Code (relating to armed forces) or section 541 11 See References in Text note below. of title 14, United States Code (relating to members of the Coast Guard) shall be treated as an adoption assistance program for purposes of this section.
+An adoption reimbursement program operated under [section 1052 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1052&num=0&edition=prelim), United States Code (relating to armed forces) or section 541 22 See References in Text note below. of title 14, United States Code (relating to members of the Coast Guard) shall be treated as an adoption assistance program for purposes of this section.
 
 **(d) Qualified adoption expenses** For purposes of this section, the term “qualified adoption expenses” has the meaning given such term by section 23(d) (determined without regard to reimbursements under this section).
 
@@ -32869,7 +36569,7 @@ Pub. L. 99–514, title XIII, § 1301(e), Oct. 22, 1986, 100 Stat. 2655, provide
 
   (A) the eligible components of an industrial carbon dioxide facility, and
 
-  (B) a direct air capture facility (as defined in section 45Q(e)(1)).
+  (B) a direct air capture facility (as defined in section 45Q(e)(3)).
 
 (2) **Definitions** — For purposes of this subsection:
 
@@ -32939,7 +36639,7 @@ Pub. L. 99–514, title XIII, § 1301(e), Oct. 22, 1986, 100 Stat. 2655, provide
 
     (iii) *Definitions* — For purposes of this subparagraph—
 
-      (I) *Petroleum residue* — The term “petroleum residue”means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
+      (I) *Petroleum residue* — The term “petroleum residue” means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
 
       (II) *Geological gas facility* — The term “geological gas facility” means a facility that—
 
@@ -32998,6 +36698,8 @@ The date of the enactment of this subsection, referred to in subsec. (m)(1)(A), 
 A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated individuals not eligible for standard deduction, prior to repeal by Pub. L. 95–30, title I, § 101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
+2022—Subsec. (o)(1)(B). Pub. L. 117–169 substituted “section 45Q(e)(3)” for “45Q(e)(1)”.
+
 2021—Subsec. (a)(16). Pub. L. 117–58, § 80401(a), added par. (16).
 
 Subsec. (a)(17). Pub. L. 117–58, § 80402(a), added par. (17).
@@ -33075,6 +36777,9 @@ Subsec. (c). Pub. L. 100–647, § 6180(b)(2), substituted “mass commuting fac
 Subsec. (d)(4)(B)(iii). Pub. L. 100–647, § 1013(a)(1), substituted “average gross rent” for “average rent”.
 
 Subsec. (i). Pub. L. 100–647, § 6180(b)(1), added subsec. (i).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to facilities or equipment the construction of which begins after Aug. 16, 2022, see section 13104(i)(2) of Pub. L. 117–169, set out in a note under [section 45Q of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45q).
 
 #### Effective Date of 2021 Amendment
 Pub. L. 117–58, div. H, title IV, § 80401(d), Nov. 15, 2021, 135 Stat. 1331, provided that: “The amendments made by this section [amending this section and [section 146 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-146)] shall apply to obligations issued in calendar years beginning after the date of the enactment of this Act [Nov. 15, 2021].”
@@ -38815,6 +42520,10 @@ In addition, there shall be allowed as a deduction State and local, and foreign,
 Section 2604, referred to in subsec. (b)(4)(A)(ii), was repealed by Pub. L. 113–295, div. A, title II, § 221(a)(95)(B)(i), Dec. 19, 2014, 128 Stat. 4051, effective Dec. 19, 2014.
 
 #### Amendments
+2022—Subsec. (b)(6). Pub. L. 117–169, § 13903(a)(1), amended par. (6), “as amended by section 13904”, by substituting “2025” for “2026” in heading and “2026” for “2027” in introductory provisions. See note below.
+
+Pub. L. 117–169, § 13904(b)(1), substituted “2026” for “2025” in heading and “2027” for “2026” in introductory provisions.
+
 2017—Subsec. (b)(6). Pub. L. 115–97 added par. (6).
 
 2015—Subsec. (b)(5)(I). Pub. L. 114–113 struck out subpar. (I). Text read as follows: “This paragraph shall apply to taxable years beginning after December 31, 2003, and before January 1, 2015.”
@@ -38916,6 +42625,11 @@ Subsec. (f). Pub. L. 88–272, § 207(b)(1), inserted “State” before “real
 Subsec. (g). Pub. L. 88–272, § 207(b)(2), designated existing provisions as par. (1), substituted “1451” for “1451(f)” and added par. (2).
 
 1958—Subsecs. (f), (g). Pub. L. 85–866, § 6(a), added subsec. (f) and redesignated former subsec. (f) as (g).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13903(a)(2), Aug. 16, 2022, 136 Stat. 2014, provided that: “The amendments made by this subsection [amending this section] shall apply to taxable years beginning after December 31, 2022.”
+
+Pub. L. 117–169, title I, § 13904(b)(2), Aug. 16, 2022, 136 Stat. 2015, provided that: “The amendments made by this subsection [amending this section] shall apply to taxable years beginning after December 31, 2022.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 11042(b), Dec. 22, 2017, 131 Stat. 2086, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2016.”
@@ -41227,6 +44941,19 @@ Pub. L. 93–482, § 4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99�
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)(3)(B)
+Pub. L. 117–169, title I, § 13703, Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to facilities and property placed in service after Dec. 31, 2024, subsection (e)(3)(B) of this section is amended—
+
+(1) in clause (vi)(III), by striking “and” at the end,
+
+(2) in clause (vii), by striking the period at the end and inserting “, and”, and
+
+(3) by inserting after clause (vii) the following:
+
+(viii) any qualified facility (as defined in section 45Y(b)(1)(A)), any qualified property (as defined in subsection (b)(2) of section 48E) which is a qualified investment (as defined in subsection (b)(1) of such section), or any energy storage technology (as defined in subsection (c)(2) of such section).
+
+See 2022 Amendment note below.
+
 #### References in Text
 Paragraph (2)(D), referred to in subsec. (b)(5), means par. (2)(D) of subsec. (b) of this section, which was redesignated par. (2)(C) of subsec. (b) by Pub. L. 115–97, title I, § 13203(b), Dec. 22, 2017, 131 Stat. 2109.
 
@@ -41257,6 +44984,8 @@ A prior section 168, acts Aug. 16, 1954, ch. 746, 68A Stat. 52; Aug. 26, 1957, P
 Pub. L. 94–455, title XIX, § 1951(b)(4)(B), Oct. 4, 1976, 90 Stat. 1837, provided that: “Notwithstanding the repeal made by subparagraph (A) [repealing former section 168], if a certificate was issued before January 1, 1960, with respect to an emergency facility which is or has been placed in service before the date of the enactment of this Act [Oct. 4, 1976], the provisions of [former] section 168 shall not, with respect to such facility, be considered repealed. The benefit of deductions by reason of the preceding sentence shall be allowed to estates and trusts in the same manner as in the case of an individual. The allowable deduction shall be apportioned between the income beneficiaries and the fiduciary in accordance with regulations prescribed under section 642(f).”
 
 #### Amendments
+2022—Subsec. (e)(3)(B)(viii). Pub. L. 117–169 added cl. (viii).
+
 2020—Subsec. (e)(3)(A)(i)(I). Pub. L. 116–260, § 137(a)(1), substituted “January 1, 2022” for “January 1, 2021”.
 
 Subsec. (e)(3)(A)(i)(II). Pub. L. 116–260, § 137(a)(2), substituted “December 31, 2021” for “December 31, 2020”.
@@ -42246,6 +45975,9 @@ Subsec. (i). Pub. L. 97–248, § 209(b), amended subsec. (i) generally, substit
 Pub. L. 97–248, § 208(a)(1), added subsec. (i). Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 97–248, § 208(a)(1), redesignated former subsec. (i) as (j).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13703(b), Aug. 16, 2022, 136 Stat. 1997, provided that: “The amendments made by this section [amending this section] shall apply to facilities and property placed in service after December 31, 2024.”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 115(b), Dec. 27, 2020, 134 Stat. 3050, provided that: “The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
@@ -45319,86 +49051,30 @@ For applicability of amendment by Pub. L. 99–514 notwithstanding any treaty ob
 
 
 <a id="section-174"></a>
-## § 174. Research and experimental expenditures
-**(a) Treatment as expenses**
-
-(1) **In general** — A taxpayer may treat research or experimental expenditures which are paid or incurred by him during the taxable year in connection with his trade or business as expenses which are not chargeable to capital account. The expenditures so treated shall be allowed as a deduction.
-
-(2) **When method may be adopted**
-
-  (A) *Without consent* — A taxpayer may, without the consent of the Secretary, adopt the method provided in this subsection for his first taxable year for which expenditures described in paragraph (1) are paid or incurred.
-
-  (B) *With consent* — A taxpayer may, with the consent of the Secretary, adopt at any time the method provided in this subsection.
-
-(3) **Scope** — The method adopted under this subsection shall apply to all expenditures described in paragraph (1). The method adopted shall be adhered to in computing taxable income for the taxable year and for all subsequent taxable years unless, with the approval of the Secretary, a change to a different method is authorized with respect to part or all of such expenditures.
-
-**(b) Amortization of certain research and experimental expenditures**
-
-(1) **In general** — At the election of the taxpayer, made in accordance with regulations prescribed by the Secretary, research or experimental expenditures which are—
-
-  (A) paid or incurred by the taxpayer in connection with his trade or business,
-
-  (B) not treated as expenses under subsection (a), and
-
-  (C) chargeable to capital account but not chargeable to property of a character which is subject to the allowance under section 167 (relating to allowance for depreciation, etc.) or section 611 (relating to allowance for depletion),
-  may be treated as deferred expenses. In computing taxable income, such deferred expenses shall be allowed as a deduction ratably over such period of not less than 60 months as may be selected by the taxpayer (beginning with the month in which the taxpayer first realizes benefits from such expenditures). Such deferred expenses are expenditures properly chargeable to capital account for purposes of section 1016(a)(1) (relating to adjustments to basis of property).
-
-(2) **Time for and scope of election** — The election provided by paragraph (1) may be made for any taxable year, but only if made not later than the time prescribed by law for filing the return for such taxable year (including extensions thereof). The method so elected, and the period selected by the taxpayer, shall be adhered to in computing taxable income for the taxable year for which the election is made and for all subsequent taxable years unless, with the approval of the Secretary, a change to a different method (or to a different period) is authorized with respect to part or all of such expenditures. The election shall not apply to any expenditure paid or incurred during any taxable year before the taxable year for which the taxpayer makes the election.
-
-**(c) Land and other property** This section shall not apply to any expenditure for the acquisition or improvement of land, or for the acquisition or improvement of property to be used in connection with the research or experimentation and of a character which is subject to the allowance under section 167 (relating to allowance for depreciation, etc.) or section 611 (relating to allowance for depletion); but for purposes of this section allowances under section 167, and allowances under section 611, shall be considered as expenditures.
-
-**(d) Exploration expenditures** This section shall not apply to any expenditure paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral (including oil and gas).
-
-**(e) Only reasonable research expenditures eligible** This section shall apply to a research or experimental expenditure only to the extent that the amount thereof is reasonable under the circumstances.
-
-**(f) Cross references**
-
-(1) For adjustments to basis of property for amounts allowed as deductions as deferred expenses under subsection (b), see section 1016(a)(14).
-
-(2) For election of 10-year amortization of expenditures allowable as a deduction under subsection (a), see section 59(e).
-
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–97, title I, § 13206(a), (e), Dec. 22, 2017, 131 Stat. 2111, 2113, provided that, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021, with additional provision relating to change in method of accounting applicable in taxable years beginning after Dec. 31, 2021, this section is amended to read as follows:
-
-§ 174. Amortization of research and experimental expenditures
-
-(a) In general
-
-In the case of a taxpayer’s specified research or experimental expenditures for any taxable year—
+## § 174. Amortization of research and experimental expenditures
+**(a) In general** In the case of a taxpayer’s specified research or experimental expenditures for any taxable year—
 
 (1) except as provided in paragraph (2), no deduction shall be allowed for such expenditures, and
 
 (2) the taxpayer shall—
 
-(A) charge such expenditures to capital account, and
+  (A) charge such expenditures to capital account, and
 
-(B) be allowed an amortization deduction of such expenditures ratably over the 5-year period (15-year period in the case of any specified research or experimental expenditures which are attributable to foreign research (within the meaning of section 41(d)(4)(F))) beginning with the midpoint of the taxable year in which such expenditures are paid or incurred.
+  (B) be allowed an amortization deduction of such expenditures ratably over the 5-year period (15-year period in the case of any specified research or experimental expenditures which are attributable to foreign research (within the meaning of section 41(d)(4)(F))) beginning with the midpoint of the taxable year in which such expenditures are paid or incurred.
 
-(b) Specified research or experimental expenditures
+**(b) Specified research or experimental expenditures** For purposes of this section, the term “specified research or experimental expenditures” means, with respect to any taxable year, research or experimental expenditures which are paid or incurred by the taxpayer during such taxable year in connection with the taxpayer’s trade or business.
 
-For purposes of this section, the term “specified research or experimental expenditures” means, with respect to any taxable year, research or experimental expenditures which are paid or incurred by the taxpayer during such taxable year in connection with the taxpayer’s trade or business.
+**(c) Special rules**
 
-(c) Special rules
+(1) **Land and other property** — This section shall not apply to any expenditure for the acquisition or improvement of land, or for the acquisition or improvement of property to be used in connection with the research or experimentation and of a character which is subject to the allowance under section 167 (relating to allowance for depreciation, etc.) or section 611 (relating to allowance for depletion); but for purposes of this section allowances under section 167, and allowances under section 611, shall be considered as expenditures.
 
-(1) Land and other property
+(2) **Exploration expenditures** — This section shall not apply to any expenditure paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral (including oil and gas).
 
-This section shall not apply to any expenditure for the acquisition or improvement of land, or for the acquisition or improvement of property to be used in connection with the research or experimentation and of a character which is subject to the allowance under section 167 (relating to allowance for depreciation, etc.) or section 611 (relating to allowance for depletion); but for purposes of this section allowances under section 167, and allowances under section 611, shall be considered as expenditures.
+(3) **Software development** — For purposes of this section, any amount paid or incurred in connection with the development of any software shall be treated as a research or experimental expenditure.
 
-(2) Exploration expenditures
+**(d) Treatment upon disposition, retirement, or abandonment** If any property with respect to which specified research or experimental expenditures are paid or incurred is disposed, retired, or abandoned during the period during which such expenditures are allowed as an amortization deduction under this section, no deduction shall be allowed with respect to such expenditures on account of such disposition, retirement, or abandonment and such amortization deduction shall continue with respect to such expenditures.
 
-This section shall not apply to any expenditure paid or incurred for the purpose of ascertaining the existence, location, extent, or quality of any deposit of ore or other mineral (including oil and gas).
-
-(3) Software development
-
-For purposes of this section, any amount paid or incurred in connection with the development of any software shall be treated as a research or experimental expenditure.
-
-(d) Treatment upon disposition, retirement, or abandonment
-
-If any property with respect to which specified research or experimental expenditures are paid or incurred is disposed, retired, or abandoned during the period during which such expenditures are allowed as an amortization deduction under this section, no deduction shall be allowed with respect to such expenditures on account of such disposition, retirement, or abandonment and such amortization deduction shall continue with respect to such expenditures.
-
-See 2017 Amendment note below.
+### Statutory Notes
 
 #### Amendments
 2017—Pub. L. 115–97 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (f) relating to treatment of research and experimental expenditures as expenses, amortization of certain research and experimental expenditures, expenditure for the acquisition or improvement of land or property, ore and mineral deposit exploration expenditures, limitation to reasonable research expenditures eligible, and cross references, respectively.
@@ -46210,15 +49886,39 @@ Pub. L. 109–58, title XIII, § 1323(c), Aug. 8, 2005, 119 Stat. 1015, provided
 ## § 179D. Energy efficient commercial buildings deduction
 **(a) In general** There shall be allowed as a deduction an amount equal to the cost of energy efficient commercial building property placed in service during the taxable year.
 
-**(b) Maximum amount of deduction** The deduction under subsection (a) with respect to any building for any taxable year shall not exceed the excess (if any) of—
+**(b) Maximum amount of deduction**
 
-(1) the product of—
+(1) **In general** — The deduction under subsection (a) with respect to any building for any taxable year shall not exceed the excess (if any) of—
 
-  (A) $1.80, and
+  (A) the product of—
 
-  (B) the square footage of the building, over
+    (i) the applicable dollar value, and
 
-(2) the aggregate amount of the deductions under subsection (a) with respect to the building for all prior taxable years.
+    (ii) the square footage of the building, over
+
+  (B) the aggregate amount of the deductions under subsections (a) and (f) with respect to the building for the 3 taxable years immediately preceding such taxable year (or, in the case of any such deduction allowable to a person other than the taxpayer, for any taxable year ending during the 4-taxable-year period ending with such taxable year).
+
+(2) **Applicable dollar value** — For purposes of paragraph (1)(A)(i), the applicable dollar value shall be an amount equal to $0.50 increased (but not above $1.00) by $0.02 for each percentage point by which the total annual energy and power costs for the building are certified to be reduced by a percentage greater than 25 percent.
+
+(3) **Increased deduction amount for certain property**
+
+  (A) *In general* — In the case of any property which satisfies the requirements of subparagraph (B), paragraph (2) shall be applied by substituting “$2.50” for “$0.50”, “$.10” for “$.02”, and “$5.00” for “$1.00”.
+
+  (B) *Property requirements* — In the case of any energy efficient commercial building property, energy efficient building retrofit property, or property installed pursuant to a qualified retrofit plan, such property shall meet the requirements of this subparagraph if—
+
+    (i) installation of such property begins prior to the date that is 60 days after the Secretary publishes guidance with respect to the requirements of paragraphs (4)(A) and (5), or
+
+    (ii) installation of such property satisfies the requirements of paragraphs (4)(A) and (5).
+
+(4) **Prevailing wage requirements**
+
+  (A) *In general* — The requirements described in this subparagraph with respect to any property are that the taxpayer shall ensure that any laborers and mechanics employed by the taxpayer or any contractor or subcontractor in the installation of any property shall be paid wages at rates not less than the prevailing rates for construction, alteration, or repair of a similar character in the locality in which such property is located as most recently determined by the Secretary of Labor, in accordance with subchapter IV of chapter 31 of title 40, United States Code.
+
+  (B) *Correction and penalty related to failure to satisfy wage requirements* — Rules similar to the rules of section 45(b)(7)(B) shall apply.
+
+(5) **Apprenticeship requirements** — Rules similar to the rules of section 45(b)(8) shall apply.
+
+(6) **Regulations** — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
 
 **(c) Definitions** For purposes of this section—
 
@@ -46240,28 +49940,21 @@ Pub. L. 109–58, title XIII, § 1323(c), Aug. 8, 2005, 119 Stat. 1015, provided
 
     (iii) the building envelope, and
 
-  (D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Reference Standard 90.1 using methods of calculation under subsection (d)(2).
+  (D) which is certified in accordance with subsection (d)(5) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 25 percent or more in comparison to a reference building which meets the minimum requirements of Reference Standard 90.1 using methods of calculation under subsection (d)(1).
 
-(2) **Reference Standard 90.1** — The term “Reference Standard 90.1” means, with respect to any property, the most recent Standard 90.1 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
+(2) **Reference Standard 90.1** — The term “Reference Standard 90.1” means, with respect to any property, the more recent of—
+
+  (A) Standard 90.1-2007 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America, or
+
+  (B) the most recent Standard 90.1 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America for which the Department of Energy has issued a final determination and which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 4 years before the date such property is placed in service.
 
 **(d) Special rules**
 
-(1) **Partial allowance**
+(1) **Methods of calculation** — The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost with respect to any property, based on the provisions of the most recent California Nonresidential Alternative Calculation Method Approval Manual which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 4 years before the date such property is placed in service.
 
-  (A) *In general* — Except as provided in subsection (f), if—
+(2) **Computer software**
 
-    (i) the requirement of subsection (c)(1)(D) is not met, but
-
-    (ii) there is a certification in accordance with paragraph (6) that any system referred to in subsection (c)(1)(C) satisfies the energy-savings targets established by the Secretary under subparagraph (B) with respect to such system,
-    then the requirement of subsection (c)(1)(D) shall be treated as met with respect to such system, and the deduction under subsection (a) shall be allowed with respect to energy efficient commercial building property installed as part of such system and as part of a plan to meet such targets, except that subsection (b) shall be applied to such property by substituting “$.60” for “$1.80”.
-
-  (B) *Regulations* — The Secretary, after consultation with the Secretary of Energy, shall establish a target for each system described in subsection (c)(1)(C) such that, if such targets were met for all such systems, the building would meet the requirements of subsection (c)(1)(D).
-
-(2) **Methods of calculation** — The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost with respect to any property, based on the provisions of the most recent California Nonresidential Alternative Calculation Method Approval Manual which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
-
-(3) **Computer software**
-
-  (A) *In general* — Any calculation under paragraph (2) shall be prepared by qualified computer software.
+  (A) *In general* — Any calculation under paragraph (1) shall be prepared by qualified computer software.
 
   (B) *Qualified computer software* — For purposes of this paragraph, the term “qualified computer software” means software—
 
@@ -46271,11 +49964,21 @@ Pub. L. 109–58, title XIII, § 1323(c), Aug. 8, 2005, 119 Stat. 1015, provided
 
     (iii) which provides a notice form which documents the energy efficiency features of the building and its projected annual energy costs.
 
-(4) **Allocation of deduction for public property** — In the case of energy efficient commercial building property installed on or in property owned by a Federal, State, or local government or a political subdivision thereof, the Secretary shall promulgate a regulation to allow the allocation of the deduction to the person primarily responsible for designing the property in lieu of the owner of such property. Such person shall be treated as the taxpayer for purposes of this section.
+(3) **Allocation of deduction by certain tax-exempt entities**
 
-(5) **Notice to owner** — Each certification required under this section shall include an explanation to the building owner regarding the energy efficiency features of the building and its projected annual energy costs as provided in the notice under paragraph (3)(B)(iii).
+  (A) *In general* — In the case of energy efficient commercial building property installed on or in property owned by a specified tax-exempt entity, the Secretary shall promulgate regulations or guidance to allow the allocation of the deduction to the person primarily responsible for designing the property in lieu of the owner of such property. Such person shall be treated as the taxpayer for purposes of this section.
 
-(6) **Certification**
+  (B) *Specified tax-exempt entity* — For purposes of this paragraph, the term “specified tax-exempt entity” means—
+
+    (i) the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing,
+
+    (ii) an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/m&num=0&edition=prelim)), and
+
+    (iii) any organization exempt from tax imposed by this chapter.
+
+(4) **Notice to owner** — Each certification required under this section shall include an explanation to the building owner regarding the energy efficiency features of the building and its projected annual energy costs as provided in the notice under paragraph (2)(B)(iii).
+
+(5) **Certification**
 
   (A) *In general* — The Secretary shall prescribe the manner and method for the making of certifications under this section.
 
@@ -46285,42 +49988,127 @@ Pub. L. 109–58, title XIII, § 1323(c), Aug. 8, 2005, 119 Stat. 1015, provided
 
 **(e) Basis reduction** For purposes of this subtitle, if a deduction is allowed under this section with respect to any energy efficient commercial building property, the basis of such property shall be reduced by the amount of the deduction so allowed.
 
-**(f) Interim rules for lighting systems** Until such time as the Secretary issues final regulations under subsection (d)(1)(B) with respect to property which is part of a lighting system—
+**(f) Alternative deduction for energy efficient building retrofit property**
 
-(1) **In general** — The lighting system target under subsection (d)(1)(A)(ii) shall be a reduction in lighting power density of 25 percent (50 percent in the case of a warehouse) of the minimum requirements in Table 9.5.1 or Table 9.6.1 (not including additional interior lighting power allowances) of Standard 90.1–2007.
+(1) **In general** — In the case of a taxpayer which elects (at such time and in such manner as the Secretary may provide) the application of this subsection with respect to any qualified building, there shall be allowed as a deduction for the taxable year which includes the date of the qualifying final certification with respect to the qualified retrofit plan of such building, an amount equal to the lesser of—
 
-(2) **Reduction in deduction if reduction less than 40 percent**
+  (A) the excess described in subsection (b) (determined by substituting “energy use intensity” for “total annual energy and power costs” in paragraph (2) thereof), or
 
-  (A) *In general* — If, with respect to the lighting system of any building other than a warehouse, the reduction in lighting power density of the lighting system is not at least 40 percent, only the applicable percentage of the amount of deduction otherwise allowable under this section with respect to such property shall be allowed.
+  (B) the aggregate adjusted basis (determined after taking into account all adjustments with respect to such taxable year other than the reduction under subsection (e)) of energy efficient building retrofit property placed in service by the taxpayer pursuant to such qualified retrofit plan.
 
-  (B) *Applicable percentage* — For purposes of subparagraph (A), the applicable percentage is the number of percentage points (not greater than 100) equal to the sum of—
+(2) **Qualified retrofit plan** — For purposes of this subsection, the term “qualified retrofit plan” means a written plan prepared by a qualified professional which specifies modifications to a building which, in the aggregate, are expected to reduce such building’s energy use intensity by 25 percent or more in comparison to the baseline energy use intensity of such building. Such plan shall provide for a qualified professional to—
 
-    (i) 50, and
+  (A) as of any date during the 1-year period ending on the date on which the property installed pursuant to such plan is placed in service, certify the energy use intensity of such building as of such date,
 
-    (ii) the amount which bears the same ratio to 50 as the excess of the reduction of lighting power density of the lighting system over 25 percentage points bears to 15.
+  (B) certify the status of property installed pursuant to such plan as meeting the requirements of subparagraphs (B) and (C) of paragraph (3), and
 
-  (C) *Exceptions* — This subsection shall not apply to any system—
+  (C) as of any date that is more than 1 year after the date on which the property installed pursuant to such plan is placed in service, certify the energy use intensity of such building as of such date.
 
-    (i) the controls and circuiting of which do not comply fully with the mandatory and prescriptive requirements of Standard 90.1–2007 and which do not include provision for bilevel switching in all occupancies except hotel and motel guest rooms, store rooms, restrooms, and public lobbies, or
+(3) **Energy efficient building retrofit property** — For purposes of this subsection, the term “energy efficient building retrofit property” means property—
 
-    (ii) which does not meet the minimum requirements for calculated lighting levels as set forth in the Illuminating Engineering Society of North America Lighting Handbook, Performance and Application, Ninth Edition, 2000.
+  (A) with respect to which depreciation (or amortization in lieu of depreciation) is allowable,
 
-**(g) Inflation adjustment** In the case of a taxable year beginning after 2020, each dollar amount in subsection (b) or subsection (d)(1)(A) shall be increased by an amount equal to—
+  (B) which is installed on or in any qualified building,
+
+  (C) which is installed as part of—
+
+    (i) the interior lighting systems,
+
+    (ii) the heating, cooling, ventilation, and hot water systems, or
+
+    (iii) the building envelope, and
+
+  (D) which is certified in accordance with paragraph (2)(B) as meeting the requirements of subparagraphs (B) and (C).
+
+(4) **Qualified building** — For purposes of this subsection, the term “qualified building” means any building which—
+
+  (A) is located in the United States, and
+
+  (B) was originally placed in service not less than 5 years before the establishment of the qualified retrofit plan with respect to such building.
+
+(5) **Qualifying final certification** — For purposes of this subsection, the term “qualifying final certification” means, with respect to any qualified retrofit plan, the certification described in paragraph (2)(C) if the energy use intensity certified in such certification is not more than 75 percent of the baseline energy use intensity of the building.
+
+(6) **Baseline energy use intensity**
+
+  (A) *In general* — For purposes of this subsection, the term “baseline energy use intensity” means the energy use intensity certified under paragraph (2)(A), as adjusted to take into account weather.
+
+  (B) *Determination of adjustment* — For purposes of subparagraph (A), the adjustments described in such subparagraph shall be determined in such manner as the Secretary may provide.
+
+(7) **Other definitions** — For purposes of this subsection—
+
+  (A) *Energy use intensity* — The term “energy use intensity” means the annualized, measured site energy use intensity determined in accordance with such regulations or other guidance as the Secretary may provide and measured in British thermal units.
+
+  (B) *Qualified professional* — The term “qualified professional” means an individual who is a licensed architect or a licensed engineer and meets such other requirements as the Secretary may provide.
+
+(8) **Coordination with deduction otherwise allowed under subsection (a)**
+
+  (A) *In general* — In the case of any building with respect to which an election is made under paragraph (1), the term “energy efficient commercial building property” shall not include any energy efficient building retrofit property with respect to which a deduction is allowable under this subsection.
+
+  (B) *Certain rules not applicable*
+
+    (i) *In general* — Except as provided in clause (ii), subsection (d) shall not apply for purposes of this subsection.
+
+    (ii) *Allocation of deduction by certain tax-exempt entities* — Rules similar to subsection (d)(3) shall apply for purposes of this subsection.
+
+**(g) Inflation adjustment** In the case of a taxable year beginning after 2022, each dollar amount in subsection (b) shall be increased by an amount equal to—
 
 (1) such dollar amount, multiplied by
 
-(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2019” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2021” for “calendar year 2016” in subparagraph (A)(ii) thereof.
 Any increase determined under the preceding sentence which is not a multiple of 1 cent shall be rounded to the nearest cent.
 
 **(h) Regulations** The Secretary shall promulgate such regulations as necessary—
 
 (1) to take into account new technologies regarding energy efficiency and renewable energy for purposes of determining energy efficiency and savings under this section, and
 
-(2) to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) or (d)(1)(A) is not fully implemented.
+(2) to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) is not fully implemented.
 
 ### Statutory Notes
 
+#### Inflation Adjusted Items for Certain Years
+For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–169, § 13303(a)(1), amended subsec. (b) generally. Prior to amendment, text read as follows: “The deduction under subsection (a) with respect to any building for any taxable year shall not exceed the excess (if any) of—
+
+“(1) the product of—
+
+“(A) $1.80, and
+
+“(B) the square footage of the building, over
+
+“(2) the aggregate amount of the deductions under subsection (a) with respect to the building for all prior taxable years.”
+
+Subsec. (c)(1)(D). Pub. L. 117–169, § 13303(a)(2), (5)(B)(i), substituted “subsection (d)(5)” for “subsection (d)(6)”, “25 percent” for “50 percent”, and “subsection (d)(1)” for “subsection (d)(2)”.
+
+Subsec. (c)(2). Pub. L. 117–169, § 13303(a)(3), substituted “the more recent of—
+
+“(A) Standard 90.1-2007 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America, or
+
+“(B) the most recent”
+
+for “the most recent”.
+
+Subsec. (c)(2)(B). Pub. L. 117–169, § 13303(a)(4), inserted “for which the Department of Energy has issued a final determination and” before “which has been affirmed” and substituted “4 years” for “2 years” and “such property is placed in service” for “that construction of such property begins”.
+
+Subsec. (d). Pub. L. 117–169, § 13303(a)(5)(A), redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which provided for a partial allowance for a deduction.
+
+Subsec. (d)(1). Pub. L. 117–169, § 13303(c), substituted “not later than the date that is 4 years before the date such property is placed in service” for “not later than the date that is 2 years before the date that construction of such property begins”.
+
+Subsec. (d)(2)(A). Pub. L. 117–169, § 13303(a)(5)(B)(ii), substituted “paragraph (1)” for “paragraph (2)”.
+
+Subsec. (d)(3). Pub. L. 117–169, § 13303(a)(6), amended par. (3) generally. Prior to amendment, text read as follows: “In the case of energy efficient commercial building property installed on or in property owned by a Federal, State, or local government or a political subdivision thereof, the Secretary shall promulgate a regulation to allow the allocation of the deduction to the person primarily responsible for designing the property in lieu of the owner of such property. Such person shall be treated as the taxpayer for purposes of this section.”
+
+Subsec. (d)(4). Pub. L. 117–169, § 13303(a)(5)(B)(iii), substituted “paragraph (2)(B)(iii)” for “paragraph (3)(B)(iii)”.
+
+Subsec. (f). Pub. L. 117–169, § 13303(a)(5)(B)(iv), (7), added subsec. (f) and struck out former subsec. (f) which related to interim rules for lighting systems.
+
+Subsec. (g). Pub. L. 117–169, § 13303(a)(8)(A), (B), in introductory provisions, substituted “2022” for “2020” and struck out “or subsection (d)(1)(A)” after “subsection (b)”.
+
+Subsec. (g)(2). Pub. L. 117–169, § 13303(a)(8)(C), substituted “2021” for “2019”.
+
+Subsec. (h)(2). Pub. L. 117–169, § 13303(a)(5)(B)(v), struck out “or (d)(1)(A)” after “subsection (c)(1)(D)”.
+
 2020—Subsec. (c)(1)(B)(ii), (D). Pub. L. 116–260, § 102(c)(1)(A), substituted “Reference Standard 90.1” for “Standard 90.1–2007”.
 
 Subsec. (c)(2). Pub. L. 116–260, § 102(c)(1)(B), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘Standard 90.1–2007’ means Standard 90.1–2007 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on the day before the date of the adoption of Standard 90.1–2010 of such Societies).”
@@ -46350,6 +50138,9 @@ Subsec. (h). Pub. L. 114–113, § 190(a), substituted “December 31, 2016” f
 2008—Subsec. (h). Pub. L. 110–343 substituted “December 31, 2013” for “December 31, 2008”.
 
 2006—Subsec. (h). Pub. L. 109–432 substituted “2008” for “2007”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13303(d), Aug. 16, 2022, 136 Stat. 1952, provided that: “(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and [section 312 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-312)] shall apply to taxable years beginning after December 31, 2022. “(2) Alternative deduction for energy efficient building retrofit property.—Subsection (f) of section 179D of the Internal Revenue Code of 1986 (as amended by this section), and any other provision of such section solely for purposes of applying such subsection, shall apply to property placed in service after December 31, 2022 (in taxable years ending after such date) if such property is placed in service pursuant to qualified retrofit plan (within the meaning of such section) established after such date.”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title I, § 102(d), Dec. 27, 2020, 134 Stat. 3040, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2020.”
@@ -50194,7 +53985,7 @@ Repeal of section applicable to taxable years beginning after Dec. 31, 2020, see
 
     (i) coverage for any benefit provided by permitted insurance,
 
-    (ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021) telehealth and other remote care, and
+    (ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023,) 11 So in original. The comma probably should not appear. telehealth and other remote care, and
 
     (iii) for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
 
@@ -50232,9 +54023,19 @@ Repeal of section applicable to taxable years beginning after Dec. 31, 2020, see
 
     (ii) *Annual deductible* — Such plan’s annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
 
-  (E) *Safe harbor for absence of deductible for telehealth* — In the case of plan years beginning on or before December 31, 2021, a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
+  (E) *Safe harbor for absence of deductible for telehealth* — In the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023, a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
 
   (F) *Special rule for surprise billing* — A plan shall not fail to be treated as a high deductible health plan by reason of providing benefits for medical care in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to individuals, prior to the satisfaction of the deductible under paragraph (2)(A)(i).
+
+  (G) *Safe harbor for absence of deductible for certain insulin products*
+
+    (i) *In general* — A plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for selected insulin products.
+
+    (ii) *Selected insulin products* — For purposes of this subparagraph—
+
+      (I) *In general* — The term “selected insulin products” means any dosage form (such as vial, pump, or inhaler dosage forms) of any different type (such as rapid-acting, short-acting, intermediate-acting, long-acting, ultra long-acting, and premixed) of insulin.
+
+      (II) *Insulin* — The term “insulin” means insulin that is licensed under subsection (a) or (k) of section 351 of the Public Health Service Act ([42 U.S.C. 262](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim)) and continues to be marketed under such section, including any insulin product that has been deemed to be licensed under section 351(a) of such Act pursuant to section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009 (Public Law 111–148) and continues to be marketed pursuant to such licensure.
 
 (3) **Permitted insurance** — The term “permitted insurance” means—
 
@@ -50393,9 +54194,6 @@ The reports required by this subsection shall be filed at such time and in such 
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 102 of div. BB of Pub. L. 116–260 applicable for plan years beginning on or after Jan. 1, 2022. See 2020 Amendment notes below.
-
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below and under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
@@ -50406,10 +54204,18 @@ Sections 2799A–1 and 2799A–2 of the Public Health Service Act, referred to i
 
 Sections 716 and 717 of the Employee Retirement Income Security Act of 1974, referred to in subsec. (c)(1)(D), (2)(F), are classified to sections 1185e and 1185f, respectively, of Title 29, Labor.
 
+Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009, referred to in subsec. (c)(2)(G)(ii)(II), is section 7002(e)(4) of Pub. L. 111–148, which is set out in a note under [section 262 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), The Public Health and Welfare.
+
 #### Prior Provisions
 A prior section 223 was renumbered [section 224 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-224).
 
 #### Amendments
+2022—Subsec. (c)(1)(B)(ii). Pub. L. 117–103, § 307(b), inserted “, or in the case of months beginning after March 31, 2022, and before January 1, 2023,” after “December 31, 2021”.
+
+Subsec. (c)(2)(E). Pub. L. 117–103, § 307(a), inserted “or in the case of months beginning after March 31, 2022, and before January 1, 2023,” after “December 31, 2021,”.
+
+Subsec. (c)(2)(G). Pub. L. 117–169 added subpar. (G).
+
 2020—Subsec. (c)(1)(B)(ii). Pub. L. 116–136, § 3701(b), substituted “long-term care, or (in the case of plan years beginning on or before December 31, 2021) telehealth and other remote care” for “or long-term care”.
 
 Subsec. (c)(1)(D). Pub. L. 116–260, § 102(c)(4)(A)(i), added subpar. (D).
@@ -50459,6 +54265,11 @@ Subsec. (d)(1)(A)(ii)(I). Pub. L. 109–432, § 303(b), substituted “subsectio
 Subsec. (g)(1). Pub. L. 109–432, § 304, inserted concluding provisions.
 
 2005—Subsec. (d)(2)(A). Pub. L. 109–135 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 11408(b), Aug. 16, 2022, 136 Stat. 1905, provided that: “The amendment made by this section [amending this section] shall apply to plan years beginning after December 31, 2022.”
+
+Pub. L. 117–103, div. P, title II, § 307(c), Mar. 15, 2022, 136 Stat. 807, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Mar. 15, 2022].”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. BB, title I, § 102(c)(4)(B), Dec. 27, 2020, 134 Stat. 2796, provided that: “The amendments made by subparagraph (A) [amending this section] shall apply for plan years beginning on or after January 1, 2022.”
@@ -54132,7 +57943,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 (5) Taxes on real property, to the extent that section 164(d) requires such taxes to be treated as imposed on another taxpayer.
 
-(6) Taxes imposed by chapters 41, 42, 43, 44, 45, 46, and 54.
+(6) Taxes imposed by chapters 37, 41, 42, 43, 44, 45, 46, 50A, and 54.
 Paragraph (1) shall not apply to any taxes to the extent such taxes are allowable as a deduction under section 164(f).
 
 **(b) Cross reference** For disallowance of certain other taxes, see section 164(c).
@@ -54146,6 +57957,10 @@ The Federal Insurance Contributions Act, referred to in subsec. (a)(1)(A), is ac
 Pub. L. 95–600, § 701(t)(3)(B) (effective Oct. 4, 1976, see Pub. L. 95–600, § 701(t)(5), set out as an Effective Date of 1978 Amendment note under [section 859 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-859)) repealed § 1605(b)(1) of Pub. L. 94–455, cited as a credit to this section, which had duplicated the amendment to subsec. (a)(6) made by § 1307(d)(2)(A) of Pub. L. 94–455.
 
 #### Amendments
+2022—Subsec. (a)(6). Pub. L. 117–169, § 11003(b), inserted “50A,” after “46”.
+
+Pub. L. 117–169, § 10201(b), inserted “37,” before “41”.
+
 2014—Subsec. (a). Pub. L. 113–295 struck out “Paragraph (1) shall not apply to the tax imposed by section 59A.” at end of concluding provisions.
 
 2007—Subsec. (a)(4). Pub. L. 110–172 substituted “if the taxpayer chooses to take to any extent the benefits of section 901.” for “if—
@@ -54183,6 +57998,11 @@ Subsec. (a)(1). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. Se
 Subsec. (a)(6). Pub. L. 94–455, §§ 1307(d)(2)(A), 1605(b)(1), inserted reference to chapters 41 and 44.
 
 1974—Subsec. (a)(6). Pub. L. 93–406 added par. (6).
+
+#### Effective Date of 2022 Amendment
+Amendment by section 10201(b) of Pub. L. 117–169 applicable to repurchases (within the meaning of [section 4501(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4501/c&num=0&edition=prelim)) of stock after Dec. 31, 2022, see section 10201(d) of Pub. L. 117–169, set out as an Effective Date note under [section 4501 of this title](./chapter-037-repurchase-of-corporate-stock.md#section-4501).
+
+Amendment by section 11003(b) of Pub. L. 117–169 applicable to sales after Aug. 16, 2022, see section 11003(d) of Pub. L. 117–169, set out as an Effective Date note under [section 5000D of this title](./chapter-50a-designated-drugs.md#section-5000d).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -54746,22 +58566,20 @@ Pub. L. 94–455, title XXI, § 2124(b)(3), Oct. 4, 1976, 90 Stat. 1918, which h
 
 (4) **Controlled groups** — In the case of a corporation which is a member of a controlled group of corporations (within the meaning of section 41(f)(5)) or a trade or business which is treated as being under common control with other trades or business (within the meaning of section 41(f)(1)(B)), this subsection shall be applied under rules prescribed by the Secretary similar to the rules applicable under subparagraphs (A) and (B) of section 41(f)(1).
 
-**(c) 11 See Amendment of Subsection (c) note below. Credit for increasing research activities**
+**(c) Credit for increasing research activities**
 
-(1) **In general** — No deduction shall be allowed for that portion of the qualified research expenses (as defined in section 41(b)) or basic research expenses (as defined in section 41(e)(2)) otherwise allowable as a deduction for the taxable year which is equal to the amount of the credit determined for such taxable year under section 41(a).
-
-(2) **Similar rule where taxpayer capitalizes rather than deducts expenses** — If—
+(1) **In general** — If—
 
   (A) the amount of the credit determined for the taxable year under section 41(a)(1), exceeds
 
-  (B) the amount allowable as a deduction for such taxable year for qualified research expenses or basic research expenses (determined without regard to paragraph (1)),
+  (B) the amount allowable as a deduction for such taxable year for qualified research expenses or basic research expenses,
   the amount chargeable to capital account for the taxable year for such expenses shall be reduced by the amount of such excess.
 
-(3) **Election of reduced credit**
+(2) **Election of reduced credit**
 
   (A) *In general* — In the case of any taxable year for which an election is made under this paragraph—
 
-    (i) paragraphs (1) and (2) shall not apply, and
+    (i) paragraph (1) shall not apply, and
 
     (ii) the amount of the credit under section 41(a) shall be the amount determined under subparagraph (B).
 
@@ -54777,7 +58595,7 @@ Pub. L. 94–455, title XXI, § 2124(b)(3), Oct. 4, 1976, 90 Stat. 1918, which h
 
   (C) *Election* — An election under this paragraph for any taxable year shall be made not later than the time for filing the return of tax for such year (including extensions), shall be made on such return, and shall be made in such manner as the Secretary may prescribe. Such an election, once made, shall be irrevocable.
 
-(4) **Controlled groups** — Paragraph (3) of subsection (b) shall apply for purposes of this subsection.
+(3) **Controlled groups** — Paragraph (3) of subsection (b) shall apply for purposes of this subsection.
 
 **(d) Credit for low sulfur diesel fuel production** The deductions otherwise allowed under this chapter for the taxable year shall be reduced by the amount of the credit determined for the taxable year under section 45H(a).
 
@@ -54790,53 +58608,6 @@ Pub. L. 94–455, title XXI, § 2124(b)(3), Oct. 4, 1976, 90 Stat. 1918, which h
 **(h) Credit for employee health insurance expenses of small employers** No deduction shall be allowed for that portion of the premiums for qualified health plans (as defined in section 1301(a) of the Patient Protection and Affordable Care Act), or for health insurance coverage in the case of taxable years beginning in 2010, 2011, 2012, or 2013, paid by an employer which is equal to the amount of the credit determined under section 45R(a) with respect to the premiums.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 115–97, title I, § 13206(d)(2), (e), Dec. 22, 2017, 131 Stat. 2112, 2113, amended subsection (c) of this section, applicable to amounts paid or incurred in taxable years beginning after Dec. 31, 2021. After amendment, subsection (c) reads as follows:
-
-(c) Credit for increasing research activities
-
-(1) In general
-
-If—
-
-(A) the amount of the credit determined for the taxable year under section 41(a)(1), exceeds
-
-(B) the amount allowable as a deduction for such taxable year for qualified research expenses or basic research expenses,
-
-the amount chargeable to capital account for the taxable year for such expenses shall be reduced by the amount of such excess.
-
-(2) Election of reduced credit
-
-(A) In general
-
-In the case of any taxable year for which an election is made under this paragraph—
-
-(i) paragraph (1) shall not apply, and
-
-(ii) the amount of the credit under section 41(a) shall be the amount determined under subparagraph (B).
-
-(B) Amount of reduced credit
-
-The amount of credit determined under this subparagraph for any taxable year shall be the amount equal to the excess of—
-
-(i) the amount of credit determined under section 41(a) without regard to this paragraph, over
-
-(ii) the product of—
-
-(I) the amount described in clause (i), and
-
-(II) the maximum rate of tax under section 11(b).
-
-(C) Election
-
-An election under this paragraph for any taxable year shall be made not later than the time for filing the return of tax for such year (including extensions), shall be made on such return, and shall be made in such manner as the Secretary may prescribe. Such an election, once made, shall be irrevocable.
-
-(3) Controlled groups
-
-Paragraph (3) of subsection (b) shall apply for purposes of this subsection.
-
-See 2017 Amendment notes below.
 
 #### References in Text
 Section 1301(a) of the Patient Protection and Affordable Care Act, referred to in subsec. (h), is classified to [section 18021(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18021/a&num=0&edition=prelim), The Public Health and Welfare.
@@ -55003,14 +58774,14 @@ Pub. L. 95–600, title III, § 322(e), Nov. 6, 1978, 92 Stat. 2839, as amended 
 Section applicable to taxable years beginning after Dec. 31, 1976, and to credit carrybacks from such years, see section 202(e) of Pub. L. 95–30, set out as a note under [section 51 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-51).
 
 #### Savings Provision
-For provisions that amendment made by section 401(d)(3)(B)(iii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of [section 48D(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section48D/e/1&num=0&edition=prelim), see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under [section 48D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-48d).
+For provisions that amendment made by section 401(d)(3)(B)(iii) of Pub. L. 115–141 not apply to expenditures made in taxable years beginning before Jan. 1, 2011, in the case of the repeal of [section 48D(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section48D/e/1&num=0&edition=prelim), see section 401(d)(3)(C) of Pub. L. 115–141, set out as a note under [section 49 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-49).
 
 For provisions that amendment made by section 401(d)(6)(B)(iv) of Pub. L. 115–141 not apply, in the case of certain repeals, to various types of wages, bonds, property, or other items before specific dates, see section 401(d)(6)(C) of Pub. L. 115–141, set out as a note under former [section 1400L of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1400L&num=0&edition=prelim).
 
 For provisions that nothing in amendment by section 401(d)(3)(B)(iii), (6)(B)(iv) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
 
-#### Time and Form of Certain Elections Under Subsection (c)(3)
-Pub. L. 101–239, title VII, § 7814(e)(2)(B), Dec. 19, 1989, 103 Stat. 2413, provided that: “In the case of a taxable year for which the last date for making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) is on or before the date which is 75 days after the date of the enactment of this Act [Dec. 19, 1989], such an election for such year may be made— “(i) at any time before the date which is 75 days after such date of enactment, and “(ii) in such form and manner as the Secretary of the Treasury or his delegate may prescribe.”
+#### Time and Form of Certain Elections Under Subsection (c)(2)
+Pub. L. 101–239, title VII, § 7814(e)(2)(B), Dec. 19, 1989, 103 Stat. 2413, provided that: “In the case of a taxable year for which the last date for making the election under section 280C(c)(3) of the Internal Revenue Code of 1986 (as added by subparagraph (A)) [see [26 U.S.C. 280C(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section280C/c/2&num=0&edition=prelim)] is on or before the date which is 75 days after the date of the enactment of this Act [Dec. 19, 1989], such an election for such year may be made— “(i) at any time before the date which is 75 days after such date of enactment, and “(ii) in such form and manner as the Secretary of the Treasury or his delegate may prescribe.”
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
@@ -55368,6 +59139,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2021—Revenue Procedure 2021–31.
 
 2020—Revenue Procedure 2020–37.
 
@@ -57171,7 +60944,11 @@ then the earnings and profits of the corporation shall be increased by the amoun
 
   (A) *In general* — Except as provided in subparagraph (B), in the case of tangible property to which section 168 applies, the adjustment to earnings and profits for depreciation for any taxable year shall be determined under the alternative depreciation system (within the meaning of section 168(g)(2)).
 
-  (B) *Treatment of amounts deductible under section 179, 179B, 179C, 179D, or 179E* — For purposes of computing the earnings and profits of a corporation, any amount deductible under section 179, 179B, 179C, 179D, or 179E shall be allowed as a deduction ratably over the period of 5 taxable years (beginning with the taxable year for which such amount is deductible under section 179, 179B, 179C, 179D, or 179E, as the case may be).
+  (B) *Treatment of amounts deductible under section 179, 179B, 179C, 179D, or 179E*
+
+    (i) *In general* — For purposes of computing the earnings and profits of a corporation, except as provided in clause (ii), any amount deductible under section 179, 179B, 179C, 179D, or 179E shall be allowed as a deduction ratably over the period of 5 taxable years (beginning with the taxable year for which such amount is deductible under section 179, 179B, 179C, 179D, or 179E, as the case may be).
+
+    (ii) *Special rule* — In the case of a corporation that is a real estate investment trust, any amount deductible under section 179D shall be allowed in the year in which the property giving rise to such deduction is placed in service (or, in the case of energy efficient building retrofit property, the year in which the qualifying final certification is made).
 
 (4) **Certain foreign corporations** — The provisions of paragraph (1) shall not apply in computing the earnings and profits of a foreign corporation for any taxable year for which less than 20 percent of the gross income from all sources of such corporation is derived from sources within the United States.
 
@@ -57273,6 +61050,8 @@ then the earnings and profits of the corporation shall be increased by the amoun
 Section 263A(f)(4)(B), referred to in subsec. (n)(1)(C), was redesignated section 263A(f)(5)(B) by Pub. L. 115–97, title I, § 13801(a)(1), Dec. 22, 2017, 131 Stat. 2169.
 
 #### Amendments
+2022—Subsec. (k)(3)(B). Pub. L. 117–169 designated existing provisions as cl. (i), inserted heading, substituted “For purposes of computing the earnings and profits of a corporation, except as provided in clause (ii)” for “For purposes of computing the earnings and profits of a corporation”, and added cl. (ii).
+
 2014—Subsec. (d)(2), (3). Pub. L. 113–295, § 221(a)(49), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “In the case of a distribution of stock or securities, or property, to which section 115(h) of the Internal Revenue Code of 1939 (or the corresponding provision of prior law) applied, the effect on earnings and profits of such distribution shall be determined under such section 115(h), or the corresponding provision of prior law, as the case may be.”
 
 Subsec. (k)(3)(B). Pub. L. 113–295, § 221(a)(34)(F), struck out “179A,” after “section 179,” in heading and in two places in text.
@@ -57400,6 +61179,9 @@ Pub. L. 88–272 inserted reference to section 1250(a).
 Subsec. (k). Pub. L. 87–403 added subsec. (k).
 
 Subsec. (l). Pub. L. 87–834, § 14(b)(1), added subsec. (l).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 13303(d)(1) of Pub. L. 117–169, set out as a note under [section 179D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-179d).
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -64192,6 +67974,8 @@ Pub. L. 93–406, title II, § 2006, Sept. 2, 1974, 88 Stat. 992, as amended by 
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 401, 402, 404, 408, 408A, 409, 414 to 416, 430, 432, 457, and 664 of this title for certain years were contained in the following:
+
+2022—Internal Revenue Notice 2021–61.
 
 2021—Internal Revenue Notice 2020–79.
 
@@ -77264,7 +81048,7 @@ The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1
 
 Subsec. (h)(2)(C)(iv)(I). Pub. L. 117–2, § 9706(a)(2), inserted at end “Notwithstanding anything in this subclause, if the average of the first, second, or third segment rate for any 25-year period is less than 5 percent, such average shall be deemed to be 5 percent.”
 
-Subsec. (h)(2)(C)(iv)(II). Pub. L. 117–58 amended table generally, revising calendar years and percentages.
+Subsec. (h)(2)(C)(iv)(II). Pub. L. 117–58 amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2029 and after.
 
 Pub. L. 117–2, § 9706(a)(1), amended table generally. Prior to amendment, table related to applicable minimum and maximum percentages for calendar years 2012 to 2023 and after.
 
@@ -77736,7 +81520,7 @@ Pub. L. 113–235, § 101(b)(2), struck out subpar. (C). Text read as follows: �
 
 2010—Subsec. (b)(8). Pub. L. 111–192 added par. (8).
 
-#### Effective Date
+#### Effective Date of 2021 Amendment
 Pub. L. 117–2, title IX, § 9703(b), Mar. 11, 2021, 135 Stat. 189, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 1084 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1084&num=0&edition=prelim), Labor] shall take effect as of the first day of the first plan year ending on or after February 29, 2020, except that any election a plan makes pursuant to this section that affects the plan’s funding standard account for the first plan year beginning after February 29, 2020, shall be disregarded for purposes of applying the provisions of section 305 of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1085](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1085&num=0&edition=prelim)] and section 432 of the Internal Revenue Code of 1986 to such plan year. “(2) Restrictions on benefit increases.—Notwithstanding paragraph (1), the restrictions on plan amendments increasing benefits in sections 304(b)(8)(D) of such Act [[29 U.S.C. 1084(b)(8)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1084/b/8/D&num=0&edition=prelim)] and 431(b)(8)(D) of such Code, as applied by the amendments made by this section, shall take effect on the date of enactment of this Act [Mar. 11, 2021].”
 
 #### Effective Date of 2014 Amendment
@@ -78594,7 +82378,7 @@ The date of enactment of the Multiemployer Pension Reform Act of 2014, referred 
 
 Section 230 of the Social Security Act, referred to in subsec. (e)(9)(H)(v)(III)(bb), is classified to [section 430 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section430&num=0&edition=prelim), The Public Health and Welfare.
 
-The date of enactment of this subsection, referred to in subsec. (k)(3)(A)(iv), is the date of enactment of Pub. L. 117–2, which was approved Mar. 11, 2021.
+The date of enactment of this subsection, referred to in subsec. (k)(3)(A)(ii), (iv), is the date of enactment of Pub. L. 117–2, which was approved Mar. 11, 2021.
 
 #### Amendments
 2021—Subsec. (a)(4). Pub. L. 117–2, § 9704(d)(1), added par. (4).
@@ -82734,10 +86518,10 @@ then the deduction shall be allowed for the taxable year of the transfer. This s
 
 ### Statutory Notes
 
-#### Amendment of Subsection (l)
-Pub. L. 117–2, title IX, § 9041, Mar. 11, 2021, 135 Stat. 122, provided that, applicable to taxable years beginning after December 31, 2025, subsection (l)(1) of this section is amended by striking “January 1, 2026” each place it appears and inserting “January 1, 2027”.
+#### Amendment of Subsection (l)(1)
+Pub. L. 117–169, title I, § 13903(b), Aug. 16, 2022, 136 Stat. 2014, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (l)(1) of this section is amended by striking “January 1, 2027” each place it appears and inserting “January 1, 2029”. See 2022 Amendment note below.
 
-See 2021 Amendment note below.
+Pub. L. 117–2, title IX, § 9041, Mar. 11, 2021, 135 Stat. 122, provided that, applicable to taxable years beginning after December 31, 2025, subsection (l)(1) of this section is amended by striking “January 1, 2026” each place it appears and inserting “January 1, 2027”. See 2021 Amendment note below.
 
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
@@ -82751,6 +86535,8 @@ Subsec. (c) of [section 464 of this title](./chapter-001-normal-taxes-and-surtax
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (l)(1). Pub. L. 117–169 substituted “January 1, 2029” for “January 1, 2027” in two places.
+
 2021—Subsec. (l)(1). Pub. L. 117–2 substituted “January 1, 2027” for “January 1, 2026” in two places.
 
 2020—Subsec. (l)(1). Pub. L. 116–136, § 2304(a), amended par. (1) generally. Prior to amendment, text read as follows: “In the case of taxable year of a taxpayer other than a corporation beginning after December 31, 2017, and before January 1, 2026—
@@ -82848,6 +86634,9 @@ Subsec. (g). Pub. L. 94–455, § 208(a), added subsec. (g).
 1962—Subsec. (e). Pub. L. 87–876 added subsec. (e).
 
 1960—Subsec. (d). Pub. L. 86–781 added subsec. (d).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–169, title I, § 13903(b)(2), Aug. 16, 2022, 136 Stat. 2014, provided that: “The amendments made by this subsection [amending this section] shall apply to taxable years beginning after December 31, 2026.”
 
 #### Effective Date of 2021 Amendment
 Pub. L. 117–2, title IX, § 9041(b), Mar. 11, 2021, 135 Stat. 122, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2025.”
@@ -89354,7 +93143,7 @@ such amount shall be treated as an amount not diverted for the personal use of t
   (F) Ranges of contributions and expenditures.
 
   (G) Time periods of the notices and reports.
-Such database shall be downloadable.
+  Such database shall be downloadable.
 
 **(l) Authority to waive** The Secretary may waive all or any portion of the—
 
@@ -104846,7 +108635,7 @@ Amendment by section 1006(t)(2)(A)(i), (19) of Pub. L. 100–647 effective, exce
 
 (4) **Coordination with minimum tax** — For purposes of part VI of subchapter A of this chapter—
 
-  (A) the reference in section 55(b)(2) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
+  (A) the reference in section 55(b)(1)(D) to taxable income shall be treated as a reference to taxable income determined without regard to this subsection,
 
   (B) the alternative minimum taxable income of any holder of a residual interest in a REMIC for any taxable year shall in no event be less than the excess inclusion for such taxable year, and
 
@@ -104956,6 +108745,8 @@ Rules similar to the rules of the preceding sentence shall apply also in the cas
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(4)(A). Pub. L. 117–169 substituted “55(b)(1)(D)” for “55(b)(2)”.
+
 2020—Subsec. (a)(3)(B). Pub. L. 116–136 substituted “subsection (a)(2)(B)(ii)(I) and the second sentence of subsection (b)(2) of section 172.” for “the 2nd sentence of section 172(b)(2).”
 
 2017—Subsec. (e)(2)(B), (6)(A)(ii). Pub. L. 115–97 substituted “section 11(b)” for “section 11(b)(1)”.
@@ -104985,6 +108776,9 @@ Subsec. (d). Pub. L. 100–647, § 1006(t)(23), inserted at end “Rules similar
 Subsec. (e). Pub. L. 100–647, § 1006(t)(16)(B), added subsec. (e).
 
 Subsec. (f). Pub. L. 100–647, § 1006(t)(26), added subsec. (f).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–136 applicable to taxable years beginning after Dec. 31, 2017, and to taxable years beginning on or before Dec. 31, 2017, to which net operating losses arising in taxable years beginning after Dec. 31, 2017, are carried, see section 2303(d)(1) of Pub. L. 116–136, set out in a note under [section 172 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-172).
@@ -106240,14 +110034,12 @@ For purposes of subsec. (b) of this section, all amounts allowable as a deductio
 #### References in Text
 Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (e)(5)(D)(i), is classified to [section 1841(a) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841/a&num=0&edition=prelim), Banks and Banking.
 
-The date of the enactment of this paragraph, referred to in subsec. (f)(5)(C)(i), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
-
 Section 174, referred to in subsec. (g)(2), was amended generally by Pub. L. 115–97, title I, § 13206(a), Dec. 22, 2017, 131 Stat. 2111. Provisions similar to those contained in former subsec. (c) of section 174 are now contained in subsec. (c)(1) of section 174. For provisions similar to those contained in former subsec. (b) of section 174 relating to amortization of certain research and experimental expenditures, see subsecs. (a) and (b) of section 174.
 
 Section 936, referred to in subsec. (g)(4)(B), (C), was repealed by Pub. L. 115–141, div. U, title IV, § 401(d)(1)(C), Mar. 23, 2018, 132 Stat. 1206.
 
 #### Amendments
-2021—Subsec. (f). Pub. L. 117–2 struck out subsec. (f) which related to election to allocate interest on worldwide basis.
+2021—Subsec. (f). Pub. L. 117–2 struck out subsec. (f) which related to election to allocate interest and other expenses on worldwide basis.
 
 2018—Subsec. (d)(5). Pub. L. 115–141, § 401(d)(1)(D)(x), amended par. (5) generally. Prior to amendment, par. (5) related to certain provisions that did not apply to any amount treated as interest under par. (1) or (6).
 
@@ -108589,7 +112381,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ## § 882. Tax on income of foreign corporations connected with United States business
 **(a) Imposition of tax**
 
-(1) **In general** — A foreign corporation engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 11 or 59A,11 So in original. The comma probably should not appear. on its taxable income which is effectively connected with the conduct of a trade or business within the United States.
+(1) **In general** — A foreign corporation engaged in trade or business within the United States during the taxable year shall be taxable as provided in section 11, 55, or 59A,11 So in original. The comma probably should not appear. on its taxable income which is effectively connected with the conduct of a trade or business within the United States.
 
 (2) **Determination of taxable income** — In determining taxable income for purposes of paragraph (1), gross income includes only gross income which is effectively connected with the conduct of a trade or business within the United States.
 
@@ -108637,6 +112429,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–169 inserted “, 55,” after “section 11”.
+
 2017—Subsec. (a)(1). Pub. L. 115–97, § 14401(d)(2), which directed insertion of “or 59A,” after “section 11,”, was executed by making the insertion after “section 11” to reflect the probable intent of Congress and the amendment by Pub. L. 115–97, § 12001(b)(14). See below.
 
 Pub. L. 115–97, § 13001(b)(2)(L), struck out “or 1201(a)” before “on its taxable income”.
@@ -108666,6 +112460,9 @@ Subsec. (e). Pub. L. 99–514, § 1236(a), inserted “The preceding sentence sh
 1976—Subsecs. (c)(1)(A), (2), (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
 
 1966—Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, introduced the concept of taxable income effectively connected with the conduct of a trade or business within the United States into provisions dealing with the imposition of tax, substituted a concept of gross income that included gross income derived from sources within the United States not effectively connected with the conduct of a trade or business within the United States and gross income effectively connected with the conduct of a trade or business within the United States for a concept of gross income that included only gross income from sources within the United States, and inserted provisions for an election to treat real property income as income connected with United States business, treatment of interest on United States obligations received by banks organized in possessions, and the returns of tax by agents, and inserted cross reference to section 906(b)(1).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2017 Amendment
 Amendment by section 12001(b)(14) of Pub. L. 115–97 applicable to taxable years beginning after Dec. 31, 2017, see section 12001(c) of Pub. L. 115–97, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
@@ -109317,7 +113114,7 @@ Section applicable with respect to taxable years beginning after Dec. 31, 1966, 
 
   (A) *In general* — In the case of any nonresident alien individual, the taxable excess for purposes of section 55(b)(1) shall not be less than the lesser of—
 
-    (i) the individual’s alternative minimum taxable income (as defined in section 55(b)(2)) for the taxable year, or
+    (i) the individual’s alternative minimum taxable income (as defined in section 55(b)(1)(D)) for the taxable year, or
 
     (ii) the individual’s net United States real property gain for the taxable year.
 
@@ -109654,6 +113451,8 @@ Section 2 of the Investment Company Act of 1940, referred to in subsec. (h)(4)(E
 Section 857(b)(3)(F), referred to in subsec. (k)(2)(C)(ii), was redesignated section 857(b)(3)(E) and a new subsec. (b)(3)(F) added by Pub. L. 115–97, title I, § 13001(b)(2)(K)(i), (iv), Dec. 22, 2017, 131 Stat. 2096, 2097.
 
 #### Amendments
+2022—Subsec. (a)(2)(A)(i). Pub. L. 117–169 substituted “55(b)(1)(D)” for “55(b)(2)”.
+
 2018—Subsec. (a)(1)(A). Pub. L. 115–141, § 401(a)(155), substituted “section 871(b)(1)” for “section 871(B)(1)”.
 
 Subsec. (h)(4)(A)(ii). Pub. L. 115–141, § 101(p)(6), repealed Pub. L. 114–113, § 322(b)(2), and provided that cl. (ii) shall be applied as if amendment had never been enacted. See 2015 Amendment note below.
@@ -109791,6 +113590,9 @@ Subsec. (d)(1)(B). Pub. L. 97–34, § 831(c), substituted “Exceptions” for 
 Subsec. (i). Pub. L. 97–34, § 831(d), in par. (1)(A) substituted “holds a United States real property interest” for “has a permanent establishment in the United States”, in par. (1)(B) substituted “treaty obligation of the United States the foreign corporation is entitled to nondiscriminatory treatment with respect to that interest” for “treaty, such permanent establishment may not be treated less favorably than domestic corporations carrying on the same activities”, in par. (3) inserted subpar. (A), designated existing provisions as subpar. (B), in subpar. (B) substituted “such other conditions as the Secretary may prescribe by regulations with respect to the corporation or its shareholders” for “such conditions as may be prescribed by the Secretary”, and prescribed percentage interest required for making the requisite election and application of constructive ownership rules in determining existence of the required percentage of a class of interest.
 
 Subsecs. (j) to (l). Pub. L. 97–34, § 831(f), (g), added subsecs. (j) to (l).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 #### Effective Date of 2018 Amendment
 Amendment by section 101(p)(1)–(6), (q) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
@@ -117877,7 +121679,7 @@ Amendment by Pub. L. 85–866 applicable to taxable years beginning after Dec. 3
 
 (32) to the extent provided in section 45L(e), in the case of amounts with respect to which a credit has been allowed under section 45L,2
 
-(33) to the extent provided in section 25C(f), in the case of amounts with respect to which a credit has been allowed under section 25C,2
+(33) to the extent provided in section 25C(g), in the case of amounts with respect to which a credit has been allowed under section 25C,2
 
 (34) to the extent provided in section 25D(f), in the case of amounts with respect to which a credit has been allowed under section 25D,2
 
@@ -117951,6 +121753,8 @@ Section 174, referred to in subsec. (a)(14), was amended generally by Pub. L. 11
 Section 10909(b)(2)(L) of Pub. L. 111–148, which directed the amendment of section 1016(a)(26) without specifying the act to be amended, was executed to this section, which is section 1016 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
+2022—Subsec. (a)(33). Pub. L. 117–169 substituted “section 25C(g)” for “section 25C(f)”.
+
 2018—Subsec. (a)(3)(D). Pub. L. 115–141, § 401(a)(166), inserted “as in effect prior to its repeal by the Tax Reform Act of 1986” before “(or the corresponding provisions of prior income tax laws)”.
 
 Subsec. (a)(27). Pub. L. 115–141, § 401(d)(4)(B)(iv), struck out par. (27) which read as follows: “in the case of a residence with respect to which a credit was allowed under section 1400C, to the extent provided in section 1400C(h),”.
@@ -118166,6 +121970,9 @@ Subsec. (a)(17). Pub. L. 86–69, § 3(d)(2), added par. (17).
 Subsec. (a)(18). Pub. L. 85–866, § 64(d)(2), added par. (18).
 
 1956—Subsec. (a)(16). Act June 29, 1956, added par. (16).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–169 applicable to property placed in service after Dec. 31, 2022, see section 13301(i)(1) of Pub. L. 117–169, set out in a note under [section 25C of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-25c).
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–97, title I, § 13313(c), Dec. 22, 2017, 131 Stat. 2133, provided that: “The amendments made by this section [amending this section and repealing [section 1044 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1044)] shall apply to sales after December 31, 2017.”
@@ -129761,7 +133568,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 **(d) Coordination with investment credit recapture**
 
-(1) **No recapture by reason of election** — Any election under section 1362 shall be treated as a mere change in the form of conducting a trade or business for purposes of the second sentence of section 50(a)(4).
+(1) **No recapture by reason of election** — Any election under section 1362 shall be treated as a mere change in the form of conducting a trade or business for purposes of the second sentence of section 50(a)(5).
 
 (2) **Corporation continues to be liable** — Notwithstanding an election under section 1362, an S corporation shall continue to be liable for any increase in tax under section 49(b) or 50(a) attributable to credits allowed for taxable years for which such corporation was not an S corporation.
 
@@ -129781,6 +133588,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 A prior section 1371, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1650; amended Pub. L. 86–376, § 2(a), Sept. 23, 1959, 73 Stat. 699; Pub. L. 88–272, title II, § 233(a), Feb. 26, 1964, 78 Stat. 112; Pub. L. 94–455, title IX, § 902(a)(1), (2), (c)(1), (2), Oct. 4, 1976, 90 Stat. 1608, 1609; Pub. L. 95–600, title III, §§ 341, 342, title VII, § 701(y)(1), Nov. 6, 1978, 92 Stat. 2843, 2921; Pub. L. 96–589, § 5(d), Dec. 24, 1980, 94 Stat. 3406; Pub. L. 97–34, title II, §§ 233(a), 234(a), (b), Aug. 13, 1981, 95 Stat. 250, 251; Pub. L. 97–448, title I, § 102(i)(1), Jan. 12, 1983, 96 Stat. 2372, related to definitions applicable to election of small business corporations as to taxable status, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–167 substituted “section 50(a)(5)” for “section 50(a)(4)”.
+
 2017—Subsec. (f). Pub. L. 115–97 added subsec. (f).
 
 1996—Subsec. (a). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
@@ -129804,6 +133613,9 @@ Subsec. (d)(3). Pub. L. 98–369, § 721(e)(1), added par. (3).
 Subsec. (e). Pub. L. 98–369, § 721(o), amended subsec. (e) generally, designating existing provisions as par. (1) and adding par. (2).
 
 Subsec. (e)(2). Pub. L. 98–369, § 721(x)(3), inserted “(within the meaning of section 1368(e))”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–167 applicable to property placed in service after Dec. 31, 2022, and, for any property the construction of which begins prior to Jan. 1, 2023, only to the extent of the basis thereof attributable to the construction, reconstruction, or erection after Aug. 9, 2022, see section 107(f) of Pub. L. 117–167, set out as a note under [section 905 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section905&num=0&edition=prelim), The Congress.
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–188 applicable to taxable years beginning after Dec. 31, 1996, see section 1317(a) of Pub. L. 104–188, set out as a note under [section 641 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-641).
@@ -129876,7 +133688,7 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 
   (A) *In general* — Except as provided in subparagraph (B), no credit shall be allowable under part IV of subchapter A of this chapter (other than under section 34) against the tax imposed by subsection (a).
 
-  (B) *11 See Amendment of Subsection (b)(3)(B) note below. Business credit carryforwards from C years allowed* — Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11. A similar rule shall apply in the case of the minimum tax credit under section 53 to the extent attributable to taxable years for which the corporation was a C corporation.
+  (B) *Business credit carryforwards from C years allowed* — Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11.
 
 **(c) Limitations**
 
@@ -129966,15 +133778,6 @@ Section applicable to taxable years beginning after Dec. 31, 1982, see section 6
 **(e) Regulations** The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this section including regulations providing for the appropriate treatment of successor corporations.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (b)(3)(B)
-Pub. L. 115–97, title I, § 12002(c), (d), Dec. 22, 2017, 131 Stat. 2095, amended subsection (b)(3)(B) of this section, applicable to taxable years beginning after Dec. 31, 2021. After amendment, subsection (b)(3)(B) reads as follows:
-
-(B) Business credit carryforwards from C years allowed
-
-Notwithstanding section 1371(b)(1), any business credit carryforward under section 39 arising in a taxable year for which the corporation was a C corporation shall be allowed as a credit against the tax imposed by subsection (a) in the same manner as if it were imposed by section 11.
-
-See 2017 Amendment note below.
 
 #### Prior Provisions
 A prior section 1374, added Pub. L. 85–866, title I, § 64(a), Sept. 2, 1958, 72 Stat. 1653; amended Pub. L. 86–376, § 2(b), Sept. 23, 1959, 73 Stat. 699; Pub. L. 94–455, title XIX, § 1901(a)(150), Oct. 4, 1976, 90 Stat. 1788, related to allowance to shareholders of corporation net operating loss, prior to the general revision of this subchapter by section 2 of Pub. L. 97–354.

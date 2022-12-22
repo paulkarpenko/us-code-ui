@@ -95,7 +95,7 @@ For purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 The Indian Self-Determination Act, referred to in par. (5), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§ 5321 et seq.) of chapter 46 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5301) and Tables.
 
@@ -501,7 +501,7 @@ The Indian Education Assistance Act, referred to in subsec. (b)(1), is title II 
 
 The Indian Elementary and Secondary School Assistance Act, referred to in subsec. (b)(2), is title III of act Sept. 30, 1950, ch. 1124, as added by Pub. L. 92–318, title IV, § 411(a), June 23, 1972, 86 Stat. 334, as amended, which was classified generally to subchapter III (§ 241aa et seq.) of chapter 13 of Title 20, Education, and was repealed by Pub. L. 100–297, title V, § 5352(1), Apr. 28, 1988, 102 Stat. 414.
 
-The Indian Education Act, referred to in subsec. (b)(3), is title IV of Pub. L. 92–318, June 23, 1972, 86 Stat. 334, as amended. [Section 3385 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3385&num=0&edition=prelim), which was enacted by section 421(a) of the Act, was repealed by Pub. L. 100–297, title V, § 5352(2), Apr. 28, 1988. For complete classification of this Act to the Code, see Tables.
+The Indian Education Act, referred to in subsec. (b)(3), is title IV of Pub. L. 92–318, June 23, 1972, 86 Stat. 334. [Section 3385 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3385&num=0&edition=prelim), which was enacted by section 421(a) of the Act, was repealed by Pub. L. 100–297, title V, § 5352(2), Apr. 28, 1988. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Pub. L. 111–211, § 241(b), which directed amendment of “[s]ection 4212 of the Indian Alcohol and Substance Abuse Prevention Act of 1986”, was executed to this section, which is section 4212 of the Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, to reflect the probable intent of Congress. See 2010 Amendment note below.

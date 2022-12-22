@@ -210,7 +210,7 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (i)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (i)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2019—Subsec. (i)(1). Pub. L. 116–9, § 7001(c)(2)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Every 2 years, the Secretary may convene a panel of experts to identify the greatest needs for the conservation of great apes.”

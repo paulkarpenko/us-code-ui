@@ -206,7 +206,9 @@ Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect 
 #### Adjustment of Dollar Amounts
 The dollar amounts specified in this section were adjusted by notices of the Judicial Conference of the United States pursuant to [section 104 of this title](./chapter-001-general-provisions.md#section-104) as follows:
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(1), (2), dollar amount “15,775” was adjusted to “16,750”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (b)(1), (2), dollar amount “16,750” was adjusted to “18,600”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
+
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (b)(1), (2), dollar amount “15,775” was adjusted to “16,750”.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (b)(1), (2), dollar amount “15,325” was adjusted to “15,775”.
 
@@ -792,7 +794,7 @@ The date of the enactment of the Bankruptcy Reform Act of 1994, referred to in s
 #### Amendments
 2021—Subsec. (e). Pub. L. 116–325 added subsec. (e).
 
-Subsec. (e)(3). Pub. L. 117–43 struck out before period at end “in that fiscal year”.
+Subsec. (e)(3). Pub. L. 117–43 struck out “in that fiscal year” before period at end.
 
 2005—Subsec. (a)(1). Pub. L. 109–8, § 1104(b)(1), inserted “an ombudsman appointed under section 333, or” before “a professional person” in introductory provisions.
 
@@ -2481,19 +2483,6 @@ Pub. L. 109–8, title XII, § 1221(e), Apr. 20, 2005, 119 Stat. 196, provided t
 
 ### Statutory Notes
 
-#### Amendment of Section and Termination of Amendment
-Pub. L. 116–260, div. N, title III, § 320(a), (f)(1), Dec. 27, 2020, 134 Stat. 2015, 2016, provided that, effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title would be eligible for a loan under paragraphs (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such effective date, this section is amended by adding at the end the following:
-
-(g)(1) The court, after notice and a hearing, may authorize a debtor in possession or a trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of this title to obtain a loan under paragraph (36) or (37) of section 7(a) of the Small Business Act ([15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim)), and such loan shall be treated as a debt to the extent the loan is not forgiven in accordance with section 7A of the Small Business Act or subparagraph (J) of such paragraph (37), as applicable, with priority equal to a claim of the kind specified in subsection (c)(1) of this section.
-
-(2) The trustee may incur debt described in paragraph (1) notwithstanding any provision in a contract, prior order authorizing the trustee to incur debt under this section, prior order authorizing the trustee to use cash collateral under section 363, or applicable law that prohibits the debtor from incurring additional debt.
-
-(3) The court shall hold a hearing within 7 days after the filing and service of the motion to obtain a loan described in paragraph (1). Notwithstanding the Federal Rules of Bankruptcy Procedure, at such hearing, the court may grant relief on a final basis.
-
-Pub. L. 116–260, div. N, title III, § 320(f)(2), Dec. 27, 2020, 134 Stat. 2016, provided that, if the amendment made to this section by Pub. L. 116–260, § 320(a), takes effect, effective on the date that is 2 years after Dec. 27, 2020, with provisions relating to applicability to cases commenced before such date, this section is amended by striking subsection (g).
-
-See 2020 Amendment notes below.
-
 #### legislative statements
 Section 364(f) of the House amendment is new. This provision continues the exemption found in section 3(a)(7) of the Securities Act of 1933 [[15 U.S.C. 77c(a)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/a/7&num=0&edition=prelim)] for certificates of indebtedness issued by a trustee in bankruptcy. The exemption applies to any debt security issued under [section 364 of title 11](./chapter-003-case-administration.md#section-364). The section does not intend to change present law which exempts such securities from the Trust Indenture Act, [15 U.S.C. 77aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim), et seq. (1976).
 
@@ -2538,6 +2527,8 @@ Subsec. (f). Pub. L. 103–394, § 501(d)(9)(B), struck out “([15 U.S.C. 77e](
 
 #### Effective and Termination Dates of 2020 Amendment
 Pub. L. 116–260, div. N, title III, § 320(f), Dec. 27, 2020, 134 Stat. 2016, provided that: “(1) Effective date.—The amendments made by subsections (a) through (e) [amending this section and sections 503, 1191, 1225, and 1325 of this title] shall—“(A) take effect on the date on which the Administrator [of the Small Business Administration] submits to the Director of the Executive Office for United States Trustees a written determination that, subject to satisfying any other eligibility requirements, any debtor in possession or trustee that is authorized to operate the business of the debtor under section 1183, 1184, 1203, 1204, or 1304 of title 11, United States Code, would be eligible for a loan under paragraphs (36) and (37) of section 7(a) of the Small Business Act ([15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim)); and “(B) apply to any case pending on or commenced on or after the date described in subparagraph (A). “(2) Sunset.—“(A) In general.—If the amendments made by subsections (a) through (e) take effect under paragraph (1), effective on the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020]—“(i) [section 364 of title 11](./chapter-003-case-administration.md#section-364), United States Code, is amended by striking subsection (g); “(ii) [section 503(b) of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b&num=0&edition=prelim), United States Code, is amended—“(I) in paragraph (8)(B), by adding ‘and’ at the end; “(II) in paragraph (9), by striking ‘; and’ at the end and inserting a period; and “(III) by striking paragraph (10); “(iii) [section 1191 of title 11](./chapter-011-reorganization.md#section-1191), United States Code, is amended by striking subsection (f); “(iv) [section 1225 of title 11](./chapter-012-adjustment-of-debts-of-a-family-farmer-or-fisherman-with-regular-annual-income.md#section-1225), United States Code, is amended by striking subsection (d); and “(v) [section 1325 of title 11](./chapter-013-adjustment-of-debts-of-an-individual-with-regular-income.md#section-1325), United States Code, is amended by striking subsection (d). “(B) Applicability.—Notwithstanding the amendments made by subparagraph (A) of this paragraph, if the amendments made by subsections (a) through (e) take effect under paragraph (1) of this subsection, such amendments shall apply to any case under title 11, United States Code, commenced before the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020].”
+
+[Pursuant to [15 U.S.C. 636(a)(36)(A)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36/A/iii&num=0&edition=prelim), the “covered period” for loans under the Paycheck Protection Program ended on June 30, 2021.]
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -3021,18 +3012,7 @@ Pub. L. 102–365, § 19(a), Sept. 2, 1992, 106 Stat. 982, provided that: “Con
 
 (4) Notwithstanding any other provision of law, with respect to a case subject to this subsection, a utility may recover or set off against a security deposit provided to the utility by the debtor before the date of the filing of the petition without notice or order of the court.
 
-**(d)** Notwithstanding any other provision of this section, a utility may not alter, refuse, or discontinue service to a debtor who does not furnish adequate assurance of payment under this section if the debtor—
-
-(1) is an individual;
-
-(2) makes a payment to the utility for any debt owed to the utility for service provided during the 20-day period beginning on the date of the order for relief; and
-
-(3) after the date on which the 20-day period beginning on the date of the order for relief ends, makes a payment to the utility for services provided during the pendency of case when such a payment becomes due.
-
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 116–260, div. FF, title X, § 1001(h)(2), Dec. 27, 2020, 134 Stat. 3221, provided that, effective on the date that is 1 year after Dec. 27, 2020, this section is amended by striking subsection (d). See 2020 Amendment note below.
 
 #### legislative statements
 Section 366 of the House amendment represents a compromise between comparable provisions contained in H.R. 8200 as passed by the House and the Senate amendment. Subsection (a) is modified so that the applicable date is the date of the order for relief rather than the date of the filing of the petition. Subsection (b) contains a similar change but is otherwise derived from section 366(b) of the Senate amendment, with the exception that a time period for continued service of 20 days rather than 10 days is adopted.

@@ -369,11 +369,11 @@ Section was not enacted as part of the Puerto Rican Federal Relations Act which 
 #### Change of Name
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to [section 731a of this title](./chapter-004-puerto-rico.md#section-731a).
 
-#### Transfer of Functions
-All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise of Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
-
 #### Expenditures for Governmental and Public Purposes
 The amount of customs revenue received by the United States on importations from Puerto Rico since its evacuation by the Spanish forces together with all that should thereafter be collected under the existing law were placed at the disposal of the President to be used for governmental and public purposes in Puerto Rico, by act Mar. 24, 1900, ch. 91, 31 Stat. 51.
+
+#### Transfer of Functions
+All offices of collector of customs, comptroller of customs, surveyor of customs, and appraiser of merchandise of Bureau of Customs of Department of the Treasury to which appointments were required to be made by President with advice and consent of Senate ordered abolished, with such offices to be terminated not later than December 31, 1966, by Reorg. Plan No. 1, of 1965, eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317, set out in the Appendix to Title 5, Government Organization and Employees. All functions of offices eliminated were already vested in Secretary of the Treasury by Reorg. Plan No. 26 of 1950, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5.
 
 
 <a id="section-741"></a>

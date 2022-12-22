@@ -49,8 +49,8 @@ In subsection (a), the words “The Trust Fund shall consist of amounts” are s
 
 
 <a id="section-40903"></a>
-## § 40903. Experimental Program to Stimulate Competitive Research—merit grant competition requirements
-**(a) Definition of Eligible State.—** In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the National Science Foundation’s Experimental Program to Stimulate Competitive Research.
+## § 40903. Established Program to Stimulate Competitive Research—merit grant competition requirements
+**(a) Definition of Eligible State.—** In this section, the term “eligible State” means a State designated by the Administrator as eligible to compete in the National Science Foundation’s Established Program to Stimulate Competitive Research.
 
 **(b) Competition.—** Making use of the existing infrastructure established in eligible States by the National Science Foundation, the Administrator shall conduct a merit grant competition among the eligible States in areas of research important to the mission of the Administration. With respect to a grant application by an eligible State, the Administrator shall consider—
 
@@ -77,6 +77,11 @@ In subsection (a), the words “The Trust Fund shall consist of amounts” are s
 | 40903(d) | [42 U.S.C. 17781(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section17781/b&num=0&edition=prelim). | Pub. L. 110–422, title VII, § 704(b), Oct. 15, 2008, 122 Stat. 4802. |
 
 In subsection (d) the words “eligible States” are substituted for “EPSCoR States” for clarity and consistency in the section.
+
+#### Amendments
+2022—Pub. L. 117–167, § 10851(e)(1), substituted “Established” for “Experimental” in section catchline.
+
+Subsec. (a). Pub. L. 117–167, § 10851(e)(2), substituted “Established” for “Experimental”.
 
 #### Congressional Findings and Policy
 Pub. L. 102–588, title III, §§ 301–303, Nov. 4, 1992, 106 Stat. 5119, provided that: “SEC. 301. SHORT TITLE.“This title [see Tables for classification] may be cited as the ‘Experimental Program to Stimulate Competitive Research on Space and Aeronautics Act’. “SEC. 302. FINDINGS.“Congress finds that—“(1) the report of the Advisory Committee on the Future of the United States Space Program has provided a framework within which a consensus on the goals of the space program can be developed; “(2) the National Aeronautics and Space Administration’s space science and applications, aeronautical research and technology, and space research and technology programs will serve as the fulcrum for future initiatives by the United States in civil space and aviation; “(3) colleges and universities in many States are currently not able to compete successfully for research grants awarded by the National Aeronautics and Space Administration through its space science and applications, aeronautical research and technology, and space research and technology programs; “(4) balanced programs of space science and applications, aeronautical research and technology, and space research and technology should include initiatives designed to foster competitive research capacity in all geographic areas of the Nation; and “(5) by strengthening the competitive research capacity in those geographic areas of the Nation which are not currently fully competitive, the education and training of scientists and engineers important to the future of the United States civil space and aviation programs will be fostered. “SEC. 303. POLICY.“It is the policy of the United States that—“(1) the Administrator [of the National Aeronautics and Space Administration], in planning for national programs in space science and applications, aeronautical research, space flight, and exploration, should ensure the resilience of the space and aeronautics research infrastructure; “(2) a stable and balanced program of space science and applications, aeronautical research and technology, and space research and technology should include programs to assure that geographic areas of the United States that currently do not successfully participate in competitive space and aeronautical research activities are enabled to become more competitive; and “(3) programs to improve competitive capabilities should be a part of the research and the educational activities of the National Aeronautics and Space Administration.”

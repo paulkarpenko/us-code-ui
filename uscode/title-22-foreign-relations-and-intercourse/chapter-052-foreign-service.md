@@ -45,11 +45,11 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (a)(3), is act May 24, 1924, ch. 182, 43 Stat. 140, as amended, which was classified generally to section 1 et seq. of this title and was repealed in large part by section 1131 of title XI of act Aug. 13, 1946, ch. 957, 60 Stat. 1037, known as the Foreign Service Act of 1946, which generally revised the laws relating to the administration of the Foreign Service (see below). For complete classification of Act May 24, 1924 to the Code, see Tables.
+Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (a)(3), is act May 24, 1924, ch. 182, 43 Stat. 140, which was classified generally to section 1 et seq. of this title and was repealed in large part by section 1131 of title XI of act Aug. 13, 1946, ch. 957, 60 Stat. 1037, known as the Foreign Service Act of 1946, which generally revised the laws relating to the administration of the Foreign Service (see below). For complete classification of Act May 24, 1924 to the Code, see Tables.
 
-The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
+The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date
 Pub. L. 96–465, title II, § 2403, Oct. 17, 1980, 94 Stat. 2169, as amended by Pub. L. 99–93, title I, § 119(b), Aug. 16, 1985, 99 Stat. 412, provided that: “(a) Except as otherwise provided, this Act [see Short Title note set out below] shall take effect on February 15, 1981. “(b) Personnel actions may be taken on and after the effective date of this Act on the basis of any then current Foreign Service evaluation cycle as if this Act [see Short Title note set out below] had been in effect at the beginning of that cycle. “[(c) Repealed. Pub. L. 99–93, title I, § 119(b), Aug. 16, 1985, 99 Stat. 412, eff. Oct. 1, 1985] “(d)(1) Section 812 of this Act [[section 4052 of this title](./chapter-052-foreign-service.md#section-4052)], and the repeal of sections 631 and 632 of the Foreign Service Act of 1946 [sections 1001 and 1002 of this title] and section 625(k) of the Foreign Assistance Act of 1961 [[section 2385(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2385/k&num=0&edition=prelim)], shall be effective as of the date of enactment of this Act [Oct. 17, 1980]. “(2) For purposes of implementing section 2101 [[section 4151 of this title](./chapter-052-foreign-service.md#section-4151)], sections 402(a) and 403 [sections 3962(a) and 3963 of this title] shall be effective as of the date of enactment of this Act [Oct. 17, 1980]. “(e)(1) The provisions of chapter 8 of title I [subchapter VIII of this chapter] regarding the rights of former spouses to any annuity under section 814(a) [[section 4054(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4054/a&num=0&edition=prelim)] shall apply in the case of any individual who after the effective date of this Act becomes a former spouse of an individual who separates from the Service after such date. “(2) Except to the extent provided in section 2109 [[section 4159 of this title](./chapter-052-foreign-service.md#section-4159)], the provisions of such chapter [subchapter VIII of this chapter] regarding the rights of former spouses to receive survivor annuities under chapter 8 [subchapter VIII of this chapter] shall apply in the case of any individual who after the effective date of this Act becomes a former spouse of a participant or former participant in the Foreign Service Retirement and Disability System.”
@@ -407,7 +407,7 @@ Subsec. (d)(2) of this section, which required the Secretary to transmit at leas
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 
 <a id="section-3922"></a>
@@ -770,7 +770,7 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in Title 5, Appendix, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in Title 5, Appendix, Government Organization and Employees.
 
 #### Amendments
 2016—Subsec. (c)(6). Pub. L. 114–323 added par. (6).
@@ -1011,7 +1011,7 @@ The Secretary may appoint the members of the Service (other than the members of 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Prohibition on Certain Employment at United States Diplomatic and Consular Missions in Communist Countries
 Pub. L. 100–204, title I, § 157, Dec. 22, 1987, 101 Stat. 1354, provided that: “(a) Prohibition.—After September 30, 1990, no national of a Communist country may be employed as a foreign national employee in any area of a United States diplomatic or consular facility in any Communist country where classified materials are maintained. “(b) Definition.—As used in this section, the term ‘Communist country’ means a country listed in section 620(f) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2370(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/f&num=0&edition=prelim)]. “(c) Additional Funds for Hiring United States Citizens.—The Congress expresses its willingness to provide additional funds to the Department of State for the expenses of employing United States nationals to replace the individuals dismissed by reason of subsection (a). “(d) Report and Request for Funds.—As a part of the Department of State’s authorization request for fiscal years 1990 and 1991, the Secretary of State, in consultation with the heads of all relevant agencies, shall submit—“(1) a report, which shall include—“(A) a feasibility study of the implementation of this section; and “(B) an analysis of the impact of the implementation of this section on the budget of the Department of State; and “(2) a request for funds necessary for the implementation of this section pursuant to the findings and conclusions specified in the report under paragraph (1). “(e) Waiver.—The President may waive this section—“(1) if funds are not specifically authorized and appropriated to carry out this section; or “(2) the President determines that it is in the national security interest of the United States to continue to employ foreign service nationals. The President shall notify the appropriate committees of Congress each time he makes the waiver conferred on him by this section.”
@@ -1143,9 +1143,11 @@ A career candidate for appointment as a Foreign Service officer may not be initi
 ### Statutory Notes
 
 #### USAID Overseas Program
-Pub. L. 116–260, div. K, title VII, § 7064(a)–(d), Dec. 27, 2020, 134 Stat. 1809, provided that: “(a) Authority.—Up to $110,000,000 of the funds made available in title III of this Act [title III of div. K of Pub. L. 116–260, 134 Stat. 1702] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948) and 3949). “(b) Restriction.—The authority to hire individuals contained in subsection (a) shall expire on September 30, 2022. “(c) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. K of Pub. L. 116–260, 134 Stat. 1701] under the heading ‘Operating Expenses’. “(d) Foreign Service Limited Extensions.—Individuals hired and employed by USAID [United States Agency for International Development], with funds made available in this Act [titles I to VII of div. K of Pub. L. 116–260, 134 Stat. 1691] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
+Pub. L. 117–103, div. K, title VII, § 7065(a)–(d), Mar. 15, 2022, 136 Stat. 678, provided that: “(a) Authority.—Up to $170,000,000 of the funds made available in title III of this Act [title III of div. K of Pub. L. 117–103, 136 Stat. 575] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948) and 3949). “(b) Restriction.—The authority to hire individuals contained in subsection (a) shall expire on September 30, 2023. “(c) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. K of Pub. L. 117–103, 136 Stat. 574] under the heading ‘Operating Expenses’. “(d) Foreign Service Limited Extensions.—Individuals hired and employed by USAID [United States Agency for International Development], with funds made available in this Act [div. K. of Pub. L. 117–103, 136 Stat. 564] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. K, title VII, § 7064(a)–(d), Dec. 27, 2020, 134 Stat. 1809.
 
 Pub. L. 116–94, div. G, title VII, § 7064(a)–(d), Dec. 20, 2019, 133 Stat. 2928, 2929, as amended by Pub. L. 116–136, div. B, title XI, § 21004, Mar. 27, 2020, 134 Stat. 591.
 
@@ -2487,7 +2489,7 @@ Committee on International Relations of House of Representatives changed to Comm
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Codification
 In subsec. (a)(5), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim)) and section 302 of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 252](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section252&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -2757,7 +2759,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1946, referred to in subsec. (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+The Foreign Service Act of 1946, referred to in subsec. (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
 #### Amendments
 1986—Subsec. (a). Pub. L. 99–335, §§ 402(a)(2), 414(1), substituted “Except as provided in subsection (d), the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
@@ -2863,7 +2865,7 @@ As used in this part, unless otherwise specified, the term—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Amendments
 1998—Par. (15). Pub. L. 105–382 added par. (15).
@@ -2936,7 +2938,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (4) Notwithstanding the preceding provisions of this subsection and any provision of section 206(b)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, the percentage of basic pay required under this subsection in the case of a participant described in [section 4071b(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4071b/c&num=0&edition=prelim) shall, with respect to any covered service (as defined by section 203(a)(3) of such Act) performed by such individual after December 31, 1983, and before January 1, 1987, be equal to 1.3 percent.
 
-(5) Notwithstanding paragraph (1), a special contribution for past service as a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development which would have been creditable toward retirement under either section 8336(c) or 8412(d) of title 5, and for which a special contribution has not been made shall be equal to the difference between the amount actually contributed pursuant to either this section or [section 4071e of this title](./chapter-052-foreign-service.md#section-4071e) and the amount that should have been contributed pursuant to either section 8334 or 8422 of title 5.
+(5) Notwithstanding paragraph (1), a special contribution for past service as a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development which would have been creditable toward retirement under either section 8336(c) or 8412(d)(1) of title 5, and for which a special contribution has not been made shall be equal to the difference between the amount actually contributed pursuant to either this section or [section 4071e of this title](./chapter-052-foreign-service.md#section-4071e) and the amount that should have been contributed pursuant to either section 8334 or 8422 of title 5.
 
 (6) Subject to paragraph (4) and subsection (h), for purposes of applying this subsection with respect to prior service as a special agent, the percentages of basic pay set forth in [section 8334(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8334/c&num=0&edition=prelim), with respect to a law enforcement officer, shall apply instead of the percentages set forth in paragraph (1).
 
@@ -2965,6 +2967,9 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
+
 #### Amendment of Section
 Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under [section 4059 of this title](./chapter-052-foreign-service.md#section-4059), as determined by the Secretary of the Treasury.
 
@@ -2975,9 +2980,11 @@ Section 505(h) of the Department of Transportation and Related Agencies Appropri
 
 Sections 206(b)(3) and 203(a)(3) of the Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in subsec. (d)(4), are set out as a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees.
 
-The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (d)(5). Pub. L. 117–225, which directed amendment of title VIII of the Foreign Service Act of 1980 by inserting “(1)” after “or 8412(d)” in subsec. (d)(5) of this section, was executed as if the amendment had been directed to chapter 8 of title I of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+
 2012—Subsec. (a)(2)(B). Pub. L. 112–96 substituted “section 8415(e)” for “section 8415(d)”.
 
 2002—Subsec. (a)(1). Pub. L. 107–228, § 322(a)(2)(C), which directed amendment of par. (1) by substituting “employing agency” for “Department” wherever appearing, was executed by making the substitution in two places in the last sentence but not in the second sentence where “Department” appears before “of Transportation and Related Agencies Appropriations Act, 2001”, to reflect the probable intent of Congress.
@@ -3021,6 +3028,9 @@ Subsec. (h). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” fo
 Pub. L. 99–335, § 405(a)(2), added subsec. (h).
 
 1983—Subsecs. (e) to (g). Ex. Ord. No. 12446 added subsecs. (e) and (f), struck out former subsec. (e), and redesignated former subsec. (f) as (g). Prior to amendment, subsec. (e) read as follows: “Contributions shall not be required for any period of military and naval service or for any period for which credit is allowed to individuals of Japanese ancestry under [section 4056 of this title](./chapter-052-foreign-service.md#section-4056) for periods of internment during World War II.”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–228, div. A, title III, § 322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(2) [amending this section] and (b)(2) [amending [section 4071e of this title](./chapter-052-foreign-service.md#section-4071e)] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act [Sept. 30, 2002].”
@@ -3090,6 +3100,48 @@ Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659
     (ii) dies in service after completing at least 20 years of service as a special agent, when an annuity is payable under [section 4049 of this title](./chapter-052-foreign-service.md#section-4049).
 
   (C) For purposes of subparagraph (B), included with the years of service performed by an individual as a special agent shall be any service performed by such individual as a law enforcement officer (within the meaning of section 8331(20) or [section 8401(17) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401/17&num=0&edition=prelim)), or a member of the Capitol Police.
+
+  (D)
+
+    (i) In this subparagraph—
+
+      (I) the term “affected special agent” means an individual covered under this subchapter who—
+
+        (aa) is performing service as a special agent;
+
+        (bb) while on duty as a special agent, becomes ill or is injured as a direct result of the performance of such duties before the date on which the individual becomes entitled to an annuity under [section 4051 of this title](./chapter-052-foreign-service.md#section-4051);
+
+        (cc) because of the illness or injury described in item (bb), is permanently unable to render useful and efficient service in the employee’s covered position, as determined by the Secretary; and
+
+        (dd) is appointed to a position in the Foreign Service that is not a covered position; and
+
+      (II) the term “covered position” means a position as—
+
+        (aa) a law enforcement officer described in section 8331(20) or 8401(17) of title 5;
+
+        (bb) a customs and border protection officer described in section 8331(31) or 8401(36) of title 5;
+
+        (cc) a firefighter described in section 8331(21) or 8401(14) of title 5;
+
+        (dd) an air traffic controller described in section 8331(30) or 8401(35) of title 5;
+
+        (ee) a nuclear materials courier described in section 8331(27) or 8401(33) of title 5;
+
+        (ff) a member of the United States Capitol Police;
+
+        (gg) a member of the Supreme Court Police;
+
+        (hh) an employee of the Agency designated under [section 2152(a) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152/a&num=0&edition=prelim); or
+
+        (ii) a special agent.
+
+    (ii) Unless an affected special agent files an election described in clause (iv), creditable service by the affected special agent in a position described in clause (i)(I)(dd) shall be treated as creditable service as a special agent for purposes of this subchapter, including determining the amount to be deducted and withheld from the pay of the individual under [section 4045 of this title](./chapter-052-foreign-service.md#section-4045).
+
+    (iii) Clause (ii) shall only apply if the special agent transitions to a position described in clause (i)(I)(dd) without a break in service exceeding 3 days.
+
+    (iv) The service of an affected employee shall no longer be eligible for treatment under clause (ii) if such service occurs after the employee is transferred to a supervisory or administrative position related to the activities of the former covered position of the employee.
+
+    (v) In accordance with procedures established by the Secretary, an affected special agent may file an election to have any creditable service performed by the affected special agent treated in accordance with this subchapter, without regard to clause (ii).
 
 (7) In the case of a special agent who becomes or became subject to part II—
 
@@ -3212,6 +3264,9 @@ shall be computed as if [section 8349 of title 5](https://uscode.house.gov/view.
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
+
 #### Amendment of Section
 Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that subsection (a) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to exclude from the computation of creditable civilian service under [section 4056(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4056/a&num=0&edition=prelim) any period of civilian service for which retirement deductions or contributions have not been made under [section 4045(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/d&num=0&edition=prelim) unless—
 
@@ -3220,9 +3275,13 @@ Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set ou
 (2) no contribution is required for such service as provided under [section 4045(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/f&num=0&edition=prelim) as deemed to be amended by this Order, or under any other statute.
 
 #### References in Text
-The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+This subchapter, referred to in subsec. (a)(6)(D), was so in the original but probably should have been a reference to “this chapter”, meaning chapter 8 of title I of the Foreign Service Act of 1980, which is classified to this subchapter.
+
+The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (a)(6)(D). Pub. L. 117–225 added subpar. (D).
+
 2012—Subsec. (a)(2)(B), (3). Pub. L. 112–96 substituted “section 8415(e)” for “section 8415(d)”.
 
 2002—Subsec. (a)(9). Pub. L. 107–228 added par. (9).
@@ -3263,6 +3322,9 @@ Pub. L. 99–335, § 406, added subsec. (m).
 
 Subsec. (n). Pub. L. 99–335, § 407, added subsec. (n).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
+
 #### Effective Date of 2002 Amendment
 Pub. L. 107–228, div. A, title III, § 322(c)(1), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(1) [amending this section] and (b)(1) [amending [section 4071d of this title](./chapter-052-foreign-service.md#section-4071d)] shall apply to service performed on or after the first day of the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act [Sept. 30, 2002].”
 
@@ -3278,6 +3340,9 @@ Pub. L. 99–556, title IV, § 408, Oct. 27, 1986, 100 Stat. 3139, provided that
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under [section 8401 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401&num=0&edition=prelim), Government Organization and Employees.
 
 Pub. L. 99–335, title IV, § 417, June 6, 1986, 100 Stat. 622, provided that: “(a) Regulations.—Notwithstanding section 702 of this Act [[5 U.S.C. 8401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401&num=0&edition=prelim) note], the authority of the Secretary of State to issue regulations under subchapter II of title 8 [probably means subchapter II of chapter 8 of title I] of the Foreign Service Act of 1980 [part II of this subchapter] shall take effect on the date of enactment of this Act [June 6, 1986]. “(b) 18-Month Period to Elect Survivor Annuity.—(1) Notwithstanding section 702 of this Act, the amendment made by section 407 [enacting subsec. (n) of this section] shall take effect 3 months after the date of enactment of this Act. “(2)(A) Subject to subparagraph (B), the amendment made by section 407 shall apply with respect to participants and former participants who retire before, on, or after such amendment first takes effect. “(B) For the purpose of applying the provisions of paragraph (1) of section 806(n) of the Foreign Service Act of 1980 (as added by section 407) to former participants who retire before the date on which the amendment first takes effect—“(i) the period referred to in subparagraph (A) or (B) of such paragraph (as the case may be) shall be considered to begin on the date on which such amendment first becomes effective; and “(ii) the amount referred to in paragraph (2) of such section 806(n) shall be computed without regard to the provisions of subparagraph (B)(ii) of such paragraph (relating to interest). “(3) For purposes of this subsection, the term ‘participant’ has the meaning given that term in section 803 of the Foreign Service Act of 1980 ([22 U.S.C. 4043](./chapter-052-foreign-service.md#section-4043)).”
+
+#### Regulations
+For provisions relating to promulgation of regulations to carry out the amendments made by Pub. L. 117–225, see section 3(e) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
 
 #### Election To Provide Survivor Annuity for Certain Spouses Acquired before Effective Date of Foreign Service Act of 1980
 Pub. L. 100–238, title II, § 203, Jan. 8, 1988, 101 Stat. 1769, provided that: “(a) Election.—A former participant who married his or her current spouse before the effective date of the Foreign Service Act of 1980 [see Effective Date note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901)] and who married such spouse after retirement under the Foreign Service Retirement and Disability System and who was unable to provide a survivor annuity for such spouse because—“(1) the participant was married at the time of retirement and elected not to provide a survivor annuity for that spouse at the time of retirement, or “(2) subject to subsection (e), the participant failed to notify the Secretary of State of the participant’s post-retirement marriage within one year after the marriage, may make the election described in subsection (b). “(b) Election Described.—“(1) The election referred to in subsection (a) is an election in writing—“(A) to provide for a survivor annuity for such spouse under section 806(g) of the Foreign Service Act of 1980 ([22 U.S.C. 4046(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4046/g&num=0&edition=prelim)); “(B) to have his or her annuity reduced under section 806(b)(2) of such Act; and “(C) to deposit in the Foreign Service Retirement and Disability Fund an amount determined by the Secretary of State, as nearly as may be administratively feasible, to reflect the amount by which such participant’s annuity would have been reduced had the election been continuously in effect since the annuity commenced, plus interest computed under paragraph (2). “(2) For the purposes of paragraph (1), the annual rate of interest shall be 6 percent for each year during which the annuity would have been reduced if the election had been in effect on and after the date the annuity commenced. “(c) Offset.—If the participant does not make the deposit referred to in subsection (b)(1)(C), the Secretary of State shall collect such amount by offset against such participant’s annuity, up to a maximum of 25 percent of the net annuity otherwise payable to such participant. Such participant is deemed to consent to such offset. “(d) Notice.—The Secretary of State shall provide for notice to the general public of the right to make an election under this section. “(e) Proof of Attempted Election.—In any case in which subsection (a)(2) applies, the retired employee or Member shall provide the Secretary of State with such documentation as the Secretary of State shall decide is appropriate, to show that such participant attempted to elect a reduced annuity with survivor benefit for his or her current spouse and that such election was rejected by the Secretary of State because it was untimely filed. “(f) Deposit.—A deposit required by this subsection may be made by the surviving spouse of the participant. “(g) Limitation.—The election authorized in subsection (a) may only be made within one year after the date of enactment of this title [Jan. 8, 1988] in accordance with procedures prescribed by the Secretary of State. “(h) Definitions.—For the purposes of this section, the terms ‘participant’ and ‘surviving spouse’ have the same meaning given such terms in subchapter I of chapter 8 of the Foreign Service Act of 1980 [this part].”
@@ -3472,7 +3537,7 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
   (A) an individual described in section 4(a)(2) of the Department of State Special Agents Retirement Act of 1998 who is otherwise eligible for immediate retirement under this subchapter; or
 
-  (B) a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible for retirement pursuant to either section 8336(c) or 8412(d) of title 5, as applicable, had the employee remained in civil service,
+  (B) a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible for retirement pursuant to either section 8336(c) or 8412(d)(1) of title 5, as applicable, had the employee remained in civil service,
   shall be separated from the Service on the last day of the month in which such individual under subparagraph (A) or such Foreign Service criminal investigator/inspector under subparagraph (B) attains 57 years of age or completes 20 years of service if then over that age. If the head of the agency judges that the public interest so requires, that agency head may exempt such an employee from automatic separation under this subsection until that employee attains 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days before that date. Action to separate the employee is not effective without the consent of the employee, until the last day of the month in which the 60-day notice expires.
 
 **(b)**
@@ -3485,15 +3550,23 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 
 ### Statutory Notes
 
+#### Applicability of Amendment
+For provisions relating to delayed applicability of amendment by Pub. L. 117–225, see Effective Date of 2022 Amendment note set out under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
+
 #### References in Text
 Section 4(a)(2) of the Department of State Special Agents Retirement Act of 1998, referred to in subsec. (a)(2)(A), is section 4(a)(2) of Pub. L. 105–382, which is set out as a note under [section 4044 of this title](./chapter-052-foreign-service.md#section-4044).
 
 #### Amendments
+2022—Subsec. (a)(2)(B). Pub. L. 117–225, which directed amendment of title VIII of the Foreign Service Act of 1980 by inserting “(1)” after “or 8412(d)” in subsec. (a)(2)(B) of this section, was executed as if the amendment had been directed to chapter 8 of title I of the Foreign Service Act of 1980, to reflect the probable intent of Congress.
+
 1998—Subsec. (a)(2). Pub. L. 105–382 amended first sentence generally. Prior to amendment, first sentence read as follows: “Notwithstanding paragraph (1), a Foreign Service criminal investigator/inspector of the Office of Inspector General of the Agency for International Development who would have been eligible for retirement pursuant to either section 8336(c) or 8412(d) of title 5, as applicable, had the employee remained in civil service, shall be separated from the Service on the last day of the month in which that Foreign Service criminal investigator/inspector attains 57 years of age or completes 20 years of service if then over that age.”
 
 1992—Subsec. (a)(2). Pub. L. 102–499 substituted “57” for “55”.
 
 1990—Subsec. (a). Pub. L. 101–513 designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under [section 4044 of this title](./chapter-052-foreign-service.md#section-4044).
@@ -4804,7 +4877,7 @@ Section effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100�
 ### Statutory Notes
 
 #### References in Text
-The Civil Service Retirement Spouse Equity Act of 1984, referred to in subsec. (a), is Pub. L. 98–615, Nov. 8, 1984, 98 Stat. 3195, as amended. Section 4 of that Act is set out as a note under [section 8341 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8341&num=0&edition=prelim), Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim) and Tables.
+The Civil Service Retirement Spouse Equity Act of 1984, referred to in subsec. (a), is Pub. L. 98–615, Nov. 8, 1984, 98 Stat. 3195. Section 4 of that Act is set out as a note under [section 8341 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8341&num=0&edition=prelim), Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim) and Tables.
 
 For effective date of this section, referred to in subsec. (a), see Effective Date note set out below.
 
@@ -4909,7 +4982,7 @@ As used in this part, unless otherwise specified—
 ### Statutory Notes
 
 #### References in Text
-The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (3)(A) and (7)(B)(iii)(II), is title II of Pub. L. 98–168, Nov. 29, 1983, 97 Stat. 1106, as amended, which is set out as a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees.
+The Federal Employees’ Retirement Contribution Temporary Adjustment Act of 1983, referred to in pars. (3)(A) and (7)(B)(iii)(II), is title II of Pub. L. 98–168, Nov. 29, 1983, 97 Stat. 1106, which is set out as a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
 2013—Par. (7)(B). Pub. L. 113–67, § 402(a)(2), inserted “and before January 1, 2014,” after “after December 31, 2012,”.
@@ -4998,9 +5071,9 @@ Section 414 of the Federal Employees’ Retirement System Act of 1986, referred 
 
 The Central Intelligence Agency Retirement Act, referred to in subsecs. (a)(3) and (d), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196. Titles II and III of the Act are classified generally to subchapters II (§ 2011 et seq.) and III (§ 2151 et seq.), respectively, of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2001&num=0&edition=prelim) and Tables.
 
-The Peace Corps Act, referred to in subsec. (c)(1)(A), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
+The Peace Corps Act, referred to in subsec. (c)(1)(A), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of this title](./chapter-034-the-peace-corps.md#section-2501) and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508, as amended. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452, as added by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
+The Economic Opportunity Act of 1964, referred to in subsec. (c)(1)(B), is Pub. L. 88–452, Aug. 20, 1964, 73 Stat. 508. Part A of title VIII of the Act is part A of title VIII of Pub. L. 88–452, as added by Pub. L. 90–222, title I, § 110, Dec. 23, 1967, 81 Stat. 722, which was classified generally to part A (§ 2992 et seq.) of subchapter VIII of chapter 34 of Title 42, The Public Health and Welfare, prior to its repeal by Pub. L. 93–113, title VI, § 603, Oct. 1, 1973, 87 Stat. 417. See sections 4951 et seq., 5042(13)(A), and 5055 of Title 42.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(1)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Parts A and C of title I of the Act are classified generally to parts A (§ 4951 et seq.) and C (§ 4991 et seq.), respectively, of subchapter I of chapter 66 of Title 42, The Public Health and Welfare. Part B of title I of the Act, which had been classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of Title 42, was repealed by Pub. L. 111–13, title II, § 2121, Apr. 21, 2009, 123 Stat. 1584. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4950&num=0&edition=prelim) and Tables.
 
@@ -5085,7 +5158,7 @@ Pub. L. 105–33, title VII, § 7001(e)(2), Aug. 5, 1997, 111 Stat. 662, provide
 
   (B) Any calculation for a widow or widower of a participant or former participant under section 8442(f)(2)(A) shall be based on an “assumed FSRDS annuity” rather than an “assumed CSRS annuity” as stated in such section. For the purpose of this subparagraph, the term “assumed FSRDS annuity” means the amount of the survivor annuity to which the widow or widower would be entitled under part I based on the service of the deceased annuitant determined under section 8442(f)(5) of such title 5.
 
-**(c) Annuity supplement** A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) of such title.
+**(c) Annuity supplement** A participant who is entitled to an immediate annuity under subsection (b) shall be entitled to receive an annuity supplement while the annuitant is under 62 years of age. The annuity supplement shall be based on the total creditable service of the annuitant and shall be computed in accordance with sections 8421(b) and 8421a of title 5 as if the participant were a law enforcement officer retired under section 8412(d) 1 of such title.
 
 **(d) Separation for cause based on disloyalty** Any participant who is separated for cause under [section 4010 of this title](./chapter-052-foreign-service.md#section-4010) shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
 
@@ -5095,6 +5168,8 @@ Pub. L. 105–33, title VII, § 7001(e)(2), Aug. 5, 1997, 111 Stat. 662, provide
 [Section 8414 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8414&num=0&edition=prelim), referred to in subsec. (a)(3), does not contain the term “average pay”. [Section 8415 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8415&num=0&edition=prelim) relates to annuity computation, and [section 8401 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401&num=0&edition=prelim) defines “average pay”.
 
 The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)(ii), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2001&num=0&edition=prelim) and Tables.
+
+Subsec. (d) of [section 8412 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8412&num=0&edition=prelim), referred to in subsec. (c), was redesignated as subsec. (d)(1) of that section, and a new subsec. (d)(2) was added, by Pub. L. 117–225, § 3(b)(1), Dec. 9, 2022, 136 Stat. 2294.
 
 #### Amendments
 2012—Subsec. (b)(2)(A). Pub. L. 112–96, § 5001(c)(2)(F)(i), substituted “section 8415(e)(1)” for “section 8415(d)(1)” in introductory provisions.
@@ -5243,7 +5318,7 @@ The Secretary of State shall issue regulations providing for the transition from
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
@@ -5328,7 +5403,7 @@ A spousal agreement is any written agreement (properly authenticated as determin
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 
 <a id="section-4081"></a>
@@ -6777,7 +6852,7 @@ may not be retired under [section 4008 of this title](./chapter-052-foreign-serv
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 Section 633(a)(2) of the Foreign Service Act of 1946, referred to in subsec. (e)(2), which was classified to [section 1003(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1003/a/2&num=0&edition=prelim), was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
@@ -6855,9 +6930,9 @@ Pub. L. 101–246, title I, § 161, Feb. 16, 1990, 104 Stat. 46, as amended by P
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1946, referred to in subsecs. (a) and (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, as amended, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
+The Foreign Service Act of 1946, referred to in subsecs. (a) and (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Codification
 In subsecs. (a) and (b), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
@@ -7350,7 +7425,7 @@ Every secretary of embassy or legation and consular officer is authorized, whene
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, probably means the act of Aug. 18, 1856, ch. 127, 11 Stat. 52, as amended. That act was incorporated into the Revised Statutes as R.S. §§ 208, 211, 1674 to 1676, 1680, 1685 to 1687, 1689, 1690, 1692, 1695, 1697, 1699, 1700, 1701, 1703, 1706, 1708, 1711, 1713, 1715, 1718, 1719, 1730, 1731, 1735, 1738 to 1741, 1743 to 1748, 1750 to 1752, 4207, 4213, 4580, 4581, 4583, and 4584. For complete classification of those sections of the Revised Statutes to the Code, see Tables.
+This Act, referred to in text, probably means the act of Aug. 18, 1856, ch. 127, 11 Stat. 52. That act was incorporated into the Revised Statutes as R.S. §§ 208, 211, 1674 to 1676, 1680, 1685 to 1687, 1689, 1690, 1692, 1695, 1697, 1699, 1700, 1701, 1703, 1706, 1708, 1711, 1713, 1715, 1718, 1719, 1730, 1731, 1735, 1738 to 1741, 1743 to 1748, 1750 to 1752, 4207, 4213, 4580, 4581, 4583, and 4584. For complete classification of those sections of the Revised Statutes to the Code, see Tables.
 
 #### Codification
 R.S. § 1750 derived from act Aug. 18, 1856, ch. 127, § 24, 11 Stat. 61.

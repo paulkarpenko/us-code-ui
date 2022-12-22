@@ -25,7 +25,7 @@ The Secretary of Agriculture is requested to extend to cotton growers facilities
 ### Statutory Notes
 
 #### References in Text
-The United States Cotton Futures Act, referred to in text, is part A of act Aug. 11, 1916, ch. 313, 39 Stat. 476, as amended, which was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. For complete classification of this Act to the Code prior to its repeal, see Tables.
+The United States Cotton Futures Act, referred to in text, is part A of act Aug. 11, 1916, ch. 313, 39 Stat. 476, which was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
 #### Codification
 This section was not enacted as part of the United States Cotton Standards Act which comprises this chapter.
@@ -102,7 +102,7 @@ The Secretary of Agriculture is authorized to establish from time to time standa
 ### Statutory Notes
 
 #### References in Text
-The United States Cotton Futures Act, referred to in text, is part A of act Aug. 11, 1916, ch. 313, 39 Stat. 476, as amended, which was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. For complete classification of this Act to the Code prior to its repeal, see Tables.
+The United States Cotton Futures Act, referred to in text, is part A of act Aug. 11, 1916, ch. 313, 39 Stat. 476, which was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
 #### Codification
 Section is composed of the first five sentences of subsec. (a) of section 6 of act Mar. 4, 1923, as renumbered by section 401(b), of act Sept. 21, 1944. Last sentence of subsec. (a) of section 6 is classified to [section 57 of this title](./chapter-002-cotton-standards.md#section-57). Subsec. (b) of section 6 is classified to [section 57a of this title](./chapter-002-cotton-standards.md#section-57a).
@@ -161,11 +161,11 @@ The Secretary of Agriculture shall hold annual meetings with representatives of 
 ### Statutory Notes
 
 #### References in Text
-The Cotton Standards Act, referred to in text, probably meaning the United States Cotton Standards Act, is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 51 of this title](./chapter-002-cotton-standards.md#section-51) and Tables.
+The Cotton Standards Act, referred to in text, probably meaning the United States Cotton Standards Act, is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, which is classified generally to this chapter. For complete classification of this Act to the Code, see [section 51 of this title](./chapter-002-cotton-standards.md#section-51) and Tables.
 
-The Cotton Statistics and Estimates Act, referred to in text, is act Mar. 3, 1927, ch. 337, 44 Stat. 1372, as amended, which is classified generally to chapter 19 (§ 471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 471 of this title](./chapter-019-cotton-statistics-and-estimates.md#section-471) and Tables.
+The Cotton Statistics and Estimates Act, referred to in text, is act Mar. 3, 1927, ch. 337, 44 Stat. 1372, which is classified generally to chapter 19 (§ 471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 471 of this title](./chapter-019-cotton-statistics-and-estimates.md#section-471) and Tables.
 
-The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
+The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§ 241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 241 of this title](./chapter-010-warehouses.md#section-241) and Tables.
 
 #### Codification
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1981, and not as part of the United States Cotton Standards Act which comprises this chapter.

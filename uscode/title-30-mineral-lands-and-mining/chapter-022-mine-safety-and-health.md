@@ -130,6 +130,8 @@ Section was enacted as part of the Departments of Labor, Health and Human Servic
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 117–103, div. H, title I, Mar. 15, 2022, 136 Stat. 432.
+
 Pub. L. 116–260, div. H, title I, Dec. 27, 2020, 134 Stat. 1558.
 
 Pub. L. 116–94, div. A, title I, Dec. 20, 2019, 133 Stat. 2547.
@@ -3444,13 +3446,15 @@ The Secretary is authorized to accept lands, buildings, equipment, and other con
 ### Statutory Notes
 
 #### References in Text
-Secretary, referred to in text, is the Secretary of Labor as referred to in title I of division H of Pub. L. 116–260. See paragraph (2)(A) under the heading “Training and Employment Services” (134 Stat. 1548), which is not classified to the Code.
+Secretary, referred to in text, is the Secretary of Labor as referred to in title I of division H of Pub. L. 117–103. See paragraph (2)(A) under the heading “Training and Employment Services” (136 Stat. 422), which is not classified to the Code.
 
 #### Codification
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
 
 #### Similar Provisions
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. H, title I, Dec. 27, 2020, 134 Stat. 1558.
 
 Pub. L. 116–94, div. A, title I, Dec. 20, 2019, 133 Stat. 2547.
 

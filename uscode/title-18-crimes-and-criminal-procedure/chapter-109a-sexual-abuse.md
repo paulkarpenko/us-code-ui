@@ -66,13 +66,15 @@ Pub. L. 99–646, § 87(a), Nov. 10, 1986, 100 Stat. 3620, and Pub. L. 99–654,
 
 Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly—
 
-(1) causes another person to engage in a sexual act by threatening or placing that other person in fear (other than by threatening or placing that other person in fear that any person will be subjected to death, serious bodily injury, or kidnapping); or
+(1) causes another person to engage in a sexual act by threatening or placing that other person in fear (other than by threatening or placing that other person in fear that any person will be subjected to death, serious bodily injury, or kidnapping);
 
 (2) engages in a sexual act with another person if that other person is—
 
   (A) incapable of appraising the nature of the conduct; or
 
-  (B) physically incapable of declining participation in, or communicating unwillingness to engage in, that sexual act;
+  (B) physically incapable of declining participation in, or communicating unwillingness to engage in, that sexual act; or
+
+(3) engages in a sexual act with another person without that other person’s consent, to include doing so through coercion;
 or attempts to do so, shall be fined under this title and imprisoned for any term of years or for life.
 
 ### Statutory Notes
@@ -81,6 +83,8 @@ or attempts to do so, shall be fined under this title and imprisoned for any ter
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2242.
 
 #### Amendments
+2022—Par. (3). Pub. L. 117–103 added par. (3).
+
 2007—Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General” in introductory provisions.
 
 2006—Pub. L. 109–248 inserted comma after “Attorney General” in introductory provisions and substituted “and imprisoned for any term of years or for life” for “, imprisoned not more than 20 years, or both” in concluding provisions.
@@ -89,9 +93,12 @@ Pub. L. 109–162 inserted “or in any prison, institution, or facility in whic
 
 1994—Par. (1). Pub. L. 103–322 substituted “kidnapping” for “kidnaping”.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 
 <a id="section-2243"></a>
-## § 2243. Sexual abuse of a minor or ward
+## § 2243. Sexual abuse of a minor, a ward, or an individual in Federal custody
 **(a) Of a Minor.—** Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in a sexual act with another person who—
 
 (1) has attained the age of 12 years but has not attained the age of 16 years; and
@@ -105,13 +112,11 @@ Pub. L. 109–162 inserted “or in any prison, institution, or facility in whic
 (2) under the custodial, supervisory, or disciplinary authority of the person so engaging;
 or attempts to do so, shall be fined under this title, imprisoned not more than 15 years, or both.
 
-**(c) Defenses.—**
+**(c) Of an Individual in Federal Custody.—** Whoever, while acting in their capacity as a Federal law enforcement officer, knowingly engages in a sexual act with an individual who is under arrest, under supervision, in detention, or in Federal custody, shall be fined under this title, imprisoned not more than 15 years, or both.
 
-(1) In a prosecution under subsection (a) of this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the other person had attained the age of 16 years.
+**(d) Defenses.—** In a prosecution under subsection (a) of this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the defendant reasonably believed that the other person had attained the age of 16 years.
 
-(2) In a prosecution under this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.
-
-**(d) State of Mind Proof Requirement.—** In a prosecution under subsection (a) of this section, the Government need not prove that the defendant knew—
+**(e) State of Mind Proof Requirement.—** In a prosecution under subsection (a) of this section, the Government need not prove that the defendant knew—
 
 (1) the age of the other person engaging in the sexual act; or
 
@@ -123,6 +128,16 @@ or attempts to do so, shall be fined under this title, imprisoned not more than 
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2243.
 
 #### Amendments
+2022—Pub. L. 117–103, § 1202(c)(1)(A), substituted “Sexual abuse of a minor, a ward, or an individual in Federal custody” for “Sexual abuse of a minor or ward” in section catchline.
+
+Subsec. (c). Pub. L. 117–103, § 1202(c)(1)(C), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 117–103, § 1312, struck out par. (1) designation before “In a prosecution” and struck out par. (2) which read as follows: “In a prosecution under this section, it is a defense, which the defendant must establish by a preponderance of the evidence, that the persons engaging in the sexual act were at that time married to each other.” Amendment was directed to subsec. (c) but executed to subsec. (d) to reflect the probable intent of Congress and the intervening redesignation of subsec. (c) as (d) by Pub. L. 117–103, § 1202(c)(1)(B). See below.
+
+Pub. L. 117–103, § 1202(c)(1)(B), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 117–103, § 1202(c)(1)(B), redesignated subsec. (d) as (e).
+
 2007—Subsecs. (a), (b). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General” in introductory provisions.
 
 2006—Subsec. (a). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General” in introductory provisions.
@@ -139,6 +154,9 @@ Pub. L. 109–162, § 1177(a)(4), (b)(1), inserted “or in any prison, institut
 
 1990—Subsec. (a). Pub. L. 101–647 substituted “15 years” for “five years” in concluding provisions.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
 
 <a id="section-2244"></a>
 ## § 2244. Abusive sexual contact
@@ -150,9 +168,11 @@ Pub. L. 109–162, § 1177(a)(4), (b)(1), inserted “or in any prison, institut
 
 (3) subsection (a) of [section 2243 of this title](./chapter-109a-sexual-abuse.md#section-2243) had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than two years, or both;
 
-(4) subsection (b) of [section 2243 of this title](./chapter-109a-sexual-abuse.md#section-2243) had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than two years, or both; or
+(4) subsection (b) of [section 2243 of this title](./chapter-109a-sexual-abuse.md#section-2243) had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than two years, or both;
 
-(5) subsection (c) of [section 2241 of this title](./chapter-109a-sexual-abuse.md#section-2241) had the sexual contact been a sexual act, shall be fined under this title and imprisoned for any term of years or for life.
+(5) subsection (c) of [section 2241 of this title](./chapter-109a-sexual-abuse.md#section-2241) had the sexual contact been a sexual act, shall be fined under this title and imprisoned for any term of years or for life; or
+
+(6) subsection (c) of [section 2243 of this title](./chapter-109a-sexual-abuse.md#section-2243) had the sexual contact been a sexual act, shall be fined under this title, imprisoned not more than two years, or both; 11 So in original. The semicolon probably should be a period.
 
 **(b) In Other Circumstances.—** Whoever, in the special maritime and territorial jurisdiction of the United States or in a Federal prison, or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the head of any Federal department or agency, knowingly engages in sexual contact with another person without that other person’s permission shall be fined under this title, imprisoned not more than two years, or both.
 
@@ -164,6 +184,8 @@ Pub. L. 109–162, § 1177(a)(4), (b)(1), inserted “or in any prison, institut
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2244.
 
 #### Amendments
+2022—Subsec. (a)(6). Pub. L. 117–103 added par. (6).
+
 2007—Subsecs. (a), (b). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General”.
 
 2006—Subsec. (a). Pub. L. 109–248, § 207(2), inserted comma after “Attorney General” in introductory provisions.
@@ -187,6 +209,9 @@ Subsec. (c). Pub. L. 109–248, § 206(a)(2)(B), inserted “(other than subsect
 1994—Subsecs. (a)(4), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
 
 1988—Subsec. (a). Pub. L. 100–690 substituted “ten years” for “five years” in par. (1) and “two years” for “one year” in par. (3).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-2245"></a>
@@ -228,9 +253,11 @@ As used in this chapter—
   (A) detention by a Federal officer or employee, or under the direction of a Federal officer or employee, following arrest for an offense; following surrender in lieu of arrest for an offense; following a charge or conviction of an offense, or an allegation or finding of juvenile delinquency; following commitment as a material witness; following civil commitment in lieu of criminal proceedings or pending resumption of criminal proceedings that are being held in abeyance, or pending extradition, deportation, or exclusion; or
 
   (B) custody by a Federal officer or employee, or under the direction of a Federal officer or employee, for purposes incident to any detention described in subparagraph (A) of this paragraph, including transportation, medical diagnosis or treatment, court appearance, work, and recreation;
-  but does not include supervision or other control (other than custody during specified hours or days) after release on bail, probation, or parole, or after release following a finding of juvenile delinquency; and
+  but does not include supervision or other control (other than custody during specified hours or days) after release on bail, probation, or parole, or after release following a finding of juvenile delinquency;
 
-(6) the term “State” means a State of the United States, the District of Columbia, and any commonwealth, possession, or territory of the United States.
+(6) the term “State” means a State of the United States, the District of Columbia, and any commonwealth, possession, or territory of the United States; and
+
+(7) the term “Federal law enforcement officer” has the meaning given the term in section 115.
 
 ### Statutory Notes
 
@@ -238,11 +265,16 @@ As used in this chapter—
 Pub. L. 99–646 and Pub. L. 99–654 added identical sections.
 
 #### Amendments
+2022—Par. (7). Pub. L. 117–103 added par. (7).
+
 1998—Par. (6). Pub. L. 105–314 added par. (6).
 
 1994—Pub. L. 103–322, § 60010(a)(1), renumbered [section 2245 of this title](./chapter-109a-sexual-abuse.md#section-2245) as this section.
 
 Par. (2)(D). Pub. L. 103–322, § 40502, added subpar. (D).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 
 <a id="section-2247"></a>

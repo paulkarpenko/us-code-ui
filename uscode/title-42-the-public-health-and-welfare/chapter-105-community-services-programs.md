@@ -15,7 +15,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Community Services Block Grant Act, referred to in subsec. (a), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-community-services-block-grant-program.md#section-9901) and Tables.
+The Community Services Block Grant Act, referred to in subsec. (a), is subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-community-services-block-grant-program.md#section-9901) and Tables.
 
 
 <a id="section-9802"></a>
@@ -39,7 +39,7 @@ Funds appropriated to the Rural Development Loan Fund under title VII of the Eco
 ### Statutory Notes
 
 #### References in Text
-The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Title VII of the Economic Opportunity Act of 1964 was classified generally to subchapter VII (§ 2981 et seq.) of chapter 34 of this title, prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in text, is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Title VII of the Economic Opportunity Act of 1964 was classified generally to subchapter VII (§ 2981 et seq.) of chapter 34 of this title, prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 “August 12, 1981” substituted in text for “the day before the date of the enactment of this Act”.
@@ -307,9 +307,9 @@ Loans made by the Secretary pursuant to this section shall bear interest at a ra
 ### Statutory Notes
 
 #### References in Text
-Chapter 106 of this title, referred to in subsec. (a), was in the original “subtitle B of this title”, meaning subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, as amended, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-community-services-block-grant-program.md#section-9901) and Tables.
+Chapter 106 of this title, referred to in subsec. (a), was in the original “subtitle B of this title”, meaning subtitle B (§ 671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, known as the Community Services Block Grant Act, which is classified generally to chapter 106 (§ 9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9901 of this title](./chapter-106-community-services-block-grant-program.md#section-9901) and Tables.
 
-The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended. Part A of title III of the Economic Opportunity Act of 1964 was classified generally to part A (§ 2841 et seq.) of subchapter III of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (c)(2), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508. Part A of title III of the Economic Opportunity Act of 1964 was classified generally to part A (§ 2841 et seq.) of subchapter III of chapter 34 of this title prior to repeal by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1990—Subsec. (c)(2). Pub. L. 101–624 inserted “, or the Rural Development Administration” after “Farmers Home Administration”.
@@ -401,9 +401,9 @@ The Secretary of Housing and Urban Development, after consultation with the Secr
 #### References in Text
 Section 811 of the Housing and Community Development Act of 1974, referred to in text, is section 811 of Pub. L. 93–383, title VIII, Aug. 22, 1974, 88 Stat. 735, which amended [section 1701x of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701x&num=0&edition=prelim), Banks and Banking.
 
-The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.
+The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-069-community-development.md#section-5301) and Tables.
 
-Section 701 of the Housing Act of 1954, referred to in text, is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat. 640, as amended, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, 313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701 of the Housing Act of 1954, referred to in text, is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat. 640, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, 313(b), Aug. 13, 1981, 95 Stat. 398.
 
 Section 401 of the Housing and Community Development Act of 1974, referred to in text, is section 401 of Pub. L. 93–383, title IV, Aug. 22, 1974, 88 Stat. 686, subsecs. (a) and (b) of which amended section 461 of former Title 40, Public Buildings, Property, and Works, prior to its repeal by Pub. L. 97–35, and subsec. (c) of which amended section 460 of former Title 40.
 
@@ -425,11 +425,11 @@ The Secretary of Agriculture or, where appropriate, the Administrator of the Far
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, referred to in par. (1), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
+The Housing Act of 1949, referred to in par. (1), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§ 1441 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1441) and Tables.
 
-The Consolidated Farmers Home Administration Act of 1961, referred to in par. (2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which was redesignated the Consolidated Farm and Rural Development Act by Pub. L. 92–419, § 101, Aug. 30, 1972, 86 Stat. 657, and is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farmers Home Administration Act of 1961, referred to in par. (2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which was redesignated the Consolidated Farm and Rural Development Act by Pub. L. 92–419, § 101, Aug. 30, 1972, 86 Stat. 657, and is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
-The Rural Development Act of 1972, referred to in par. (2), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim).
+The Rural Development Act of 1972, referred to in par. (2), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim).
 
 #### Amendments
 1990—Pub. L. 101–624 substituted “Department of Agriculture; Rural Development Administration programs” for “Department of Agriculture and Farmers Home Administration programs” in section catchline and inserted “, or of the Rural Development Administration” after “of the Farmers Home Administration” in text.
@@ -4303,7 +4303,7 @@ Subsec. (d)(9). Pub. L. 110–134, § 20(2)(B), (D), redesignated par. (8) as (9
 
 “(A) may include the use of a data set that existed prior to the initiation of the study; and
 
-“(B) shall compare the educational achievement, social adaptation, and health status of the participating children and the eligible nonparticipating children; and”
+“(B) shall compare the educational achievement, social adaptation, and health status of the participating children and the eligible nonparticipating children; and”.
 
 Subsec. (d)(10). Pub. L. 110–134, § 20(2)(B), added par. (10) and struck out former par. (10) which provided for using the Survey of Income and Program Participation to conduct certain analyses, the National Longitudinal Survey of Youth to examine certain outcomes, and the Survey of Program Dynamics to begin certain annual reporting.
 
@@ -4433,7 +4433,7 @@ Promptly after submitting such report to the Committee on Education and Labor of
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(8), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (a)(8), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (d)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part C of the Act is classified generally to subchapter III (§ 1431 et seq.) of chapter 33 of Title 20. Section 619 of the Act is classified to [section 1419 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1419&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
@@ -5198,7 +5198,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (c)(2)(E)(i)(IV), (ii)(I), (N)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(E)(i)(IV), (ii)(I), (N)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 The Head Start Act, referred to in subsec. (c)(2)(E)(i)(IV), is subchapter B (§ 635 et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, which is classified generally to subchapter II (§ 9831 et seq.) of chapter 105 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of this title](./chapter-105-community-services-programs.md#section-9801) and Tables.
 
@@ -5789,7 +5789,7 @@ Pub. L. 102–586, § 8(d), Nov. 4, 1992, 106 Stat. 5036, provided that: “(1) 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(1)(B)(v)(II)(aa), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(B)(v)(II)(aa), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (a)(1)(B)(v)(IV), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
@@ -6077,7 +6077,7 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
+The Richard B. Russell National School Lunch Act, referred to in subsec. (b)(3), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
 
 #### Amendments
 2014—Subsec. (a)(2). Pub. L. 113–186, § 9(1)(A), designated existing provisions as subpar. (A), inserted heading, substituted “2 percent” for “1 percent, and not more than 2 percent,”, and added subpar. (B).
@@ -6389,7 +6389,7 @@ The Secretary shall make allotments to eligible States under [section 9859c of t
 ### Statutory Notes
 
 #### References in Text
-The National School Lunch Act, referred to in subsec. (b)(3), probably means the Richard B. Russell National School Lunch Act, act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
+The National School Lunch Act, referred to in subsec. (b)(3), probably means the Richard B. Russell National School Lunch Act, act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751) and Tables.
 
 
 <a id="section-9859d"></a>
@@ -6683,7 +6683,7 @@ The Secretary may not prescribe for a State the manner of compliance with the re
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsec. (d), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title XIX of the Public Health Service Act is classified generally to part A (§ 300w et seq.) of subchapter XVII of chapter 6A of this title. Section 1906(a) of the Act, which is classified to [section 300w–5(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300w–5/a&num=0&edition=prelim), was amended generally by Pub. L. 102–531, title I, § 104(a), Oct. 27, 1992, 106 Stat. 3473, and, as so amended, consists of pars. (1) to (4) rather than pars. (1) to (5). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in subsec. (d), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XIX of the Public Health Service Act is classified generally to part A (§ 300w et seq.) of subchapter XVII of chapter 6A of this title. Section 1906(a) of the Act, which is classified to [section 300w–5(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300w–5/a&num=0&edition=prelim), was amended generally by Pub. L. 102–531, title I, § 104(a), Oct. 27, 1992, 106 Stat. 3473, and, as so amended, consists of pars. (1) to (4) rather than pars. (1) to (5). For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Amendments
 1990—Subsec. (c). Pub. L. 101–501, § 305(b), which directed that “until September 30, 1987,” be struck out, could not be executed, because of the intervening amendment by Pub. L. 101–501, § 304, see below.
@@ -6741,7 +6741,7 @@ For purposes of this subchapter—
 ### Statutory Notes
 
 #### References in Text
-Section 198 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), is section 198 of Pub. L. 89–10, title I, as added Pub. L. 95–561, title I, § 101(a), Nov. 1, 1978, 92 Stat. 2198, as amended, which was classified to [section 2854 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2854&num=0&edition=prelim), Education, prior to the general revision of Pub. L. 89–10 by Pub. L. 100–297, title I, § 1001, Apr. 28, 1988, 102 Stat. 140.
+Section 198 of the Elementary and Secondary Education Act of 1965, referred to in par. (4), is section 198 of Pub. L. 89–10, title I, as added Pub. L. 95–561, title I, § 101(a), Nov. 1, 1978, 92 Stat. 2198, which was classified to [section 2854 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2854&num=0&edition=prelim), Education, prior to the general revision of Pub. L. 89–10 by Pub. L. 100–297, title I, § 1001, Apr. 28, 1988, 102 Stat. 140.
 
 [Section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), referred to in par. (11), was in the original a reference to section 9101 of Pub. L. 89–10, which was renumbered section 8101 by Pub. L. 114–95, title VIII, § 8001(a)(1), Dec. 10, 2015, 129 Stat. 2089.
 

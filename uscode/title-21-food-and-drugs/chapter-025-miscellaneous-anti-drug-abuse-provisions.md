@@ -2,7 +2,7 @@
 title: 21
 chapter: '25'
 heading: MISCELLANEOUS ANTI-DRUG ABUSE PROVISIONS
-section_count: 7
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21&num=0&edition=prelim
 ---
@@ -18,7 +18,13 @@ source: >-
 
 **(b) In general** The United States Anti-Doping Agency shall—
 
-(1) serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee and be recognized worldwide as the independent national anti-doping organization for the United States;
+(1)
+
+  (A) serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic and Paralympic Committee;
+
+  (B) be responsible for certifying in advance any testing conducted by international organizations under the World Anti-Doping Code for international amateur athletes and athletic competitions occurring within the jurisdiction of the United States; and
+
+  (C) be recognized worldwide as the independent national anti-doping organization for the United States;
 
 (2) ensure that athletes participating in amateur athletic activities recognized by the United States Olympic Committee are prevented from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
 
@@ -26,12 +32,22 @@ source: >-
 
 (4) serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.
 
+(5) promote a positive youth sport experience by using a portion of the funding of the United States Anti-Doping Agency to provide educational materials on sportsmanship, character building, and healthy performance for the athletes, parents, and coaches who participate in youth sports.
+
+**(c) Due Process in arbitration proceedings** Any action taken by the United States Anti-Doping Agency to enforce a policy, procedure, or requirement of the United States Anti-Doping Agency against a person with respect to a violation of Federal law, including an investigation, a disciplinary action, a sanction, or any other administrative action, shall be carried out in a manner that provides due process protection to the person.
+
 ### Statutory Notes
 
 #### References in Text
 The Ted Stevens Olympic and Amateur Sports Act, referred to in subsec. (a)(1), is chapter 2205 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–103, § 303(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee and be recognized worldwide as the independent national anti-doping organization for the United States;”.
+
+Subsec. (b)(5). Pub. L. 117–103, § 303(1)(B), added par. (5).
+
+Subsec. (c). Pub. L. 117–103, § 303(2), added subsec. (c).
+
 2014—Subsec. (a)(4). Pub. L. 113–280, § 2(1), struck out par. (4). Text read as follows: “The term ‘gene doping’ means the nontherapeutic use of cells, genes, genetic elements, or of the modulation of gene expression, having the capacity to enhance athletic performance.”
 
 Subsec. (b)(1). Pub. L. 113–280, § 2(2)(A), inserted “and be recognized worldwide as the independent national anti-doping organization for the United States” after “Committee”.
@@ -47,11 +63,17 @@ Subsec. (b)(5). Pub. L. 113–280, § 2(2)(E), struck out par. (5) which read as
 #### Change of Name
 References to the United States Olympic Committee deemed to refer to the United States Olympic and Paralympic Committee, see [section 220502(c) of Title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section220502/c&num=0&edition=prelim), Patriotic and National Observances, Ceremonies, and Organizations.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–103, div. Q, title III, § 301, Mar. 15, 2022, 136 Stat. 816, provided that: “This title [enacting [section 2004 of this title](./chapter-025-miscellaneous-anti-drug-abuse-provisions.md#section-2004), amending this section and [section 2003 of this title](./chapter-025-miscellaneous-anti-drug-abuse-provisions.md#section-2003), and enacting provisions set out as a note below] may be cited as the ‘United States Anti-Doping Agency Reauthorization Act of 2022’.”
+
 #### Short Title of 2014 Amendment
 Pub. L. 113–280, § 1, Dec. 18, 2014, 128 Stat. 3020, provided that: “This Act [amending this section and [section 2003 of this title](./chapter-025-miscellaneous-anti-drug-abuse-provisions.md#section-2003)] may be cited as the ‘United States Anti-Doping Agency Reauthorization Act’.”
 
 #### Short Title
 Pub. L. 109–469, title X, § 1001, Dec. 29, 2006, 120 Stat. 3537, provided that: “This title [enacting subchapter II of this chapter] may be cited as the ‘National Methamphetamine Information Clearinghouse Act of 2006’.”
+
+#### Findings
+Pub. L. 117–103, div. Q, title III, § 302, Mar. 15, 2022, 136 Stat. 816, provided that: “Congress makes the following findings: “(1) The United States Anti-Doping Agency—“(A) is the independent national anti-doping organization of the United States; and “(B) manages the anti-doping program, results management processes, drug reference resources, and athlete education for all United States Olympic Committee-recognized national governing bodies and the athletes and events of such national governing bodies. “(2) The United States Anti-Doping Agency contributes to the advancement of clean sport through scientific research, anti-doping education, and outreach programs, and the mission of the United States Anti-Doping Agency is to preserve the integrity of competition and protect the rights of athletes. “(3) Participation in youth sports has the potential to equip young athletes with important skills and values necessary for success in life, and it is essential that the culture of youth sports emphasizes such skills and values. “(4) The TrueSport program of the United States Anti-Doping Agency partners with youth sport organizations across the United States to promote sportsmanship, character building, and healthy performance through the use of targeted educational materials designed to promote a positive youth sport experience. “(5) In modifying the authority of the United States Anti-Doping Agency to include the promotion of the positive values of youth sport, Congress sends a strong signal that the goals of youth sport should include instilling in young athletes the values of integrity, respect, teamwork, courage, and responsibility. “(6) Due to the unique leadership position of the United States in the global community, adequate funding of the anti-doping and clean sport programs of the United States Anti-Doping Agency is imperative to the preparation for the 2028 Summer Olympic Games, which will be held in Los Angeles, California. “(7) Increased appropriations for fiscal years 2023 through 2031 would enable the United States Anti-Doping Agency to directly affect the integrity and well-being of sport, both domestically and internationally.”
 
 
 <a id="section-2002"></a>
@@ -70,24 +92,41 @@ Pub. L. 109–469, title X, § 1001, Dec. 29, 2006, 120 Stat. 3537, provided tha
 
 There are authorized to be appropriated to the United States Anti-Doping Agency—
 
-(1) for fiscal year 2014, $11,300,000;
+(1) for fiscal year 2023, $15,500,000;
 
-(2) for fiscal year 2015, $11,700,000;
+(2) for fiscal year 2024, $16,200,000;
 
-(3) for fiscal year 2016, $12,300,000;
+(3) for fiscal year 2025, $16,900,000;
 
-(4) for fiscal year 2017, $12,900,000;
+(4) for fiscal year 2026, $17,700,000;
 
-(5) for fiscal year 2018, $13,500,000;
+(5) for fiscal year 2027, $18,500,000;
 
-(6) for fiscal year 2019, $14,100,000; and
+(6) for fiscal year 2028, $19,800,000;
 
-(7) for fiscal year 2020, $14,800,000.
+(7) for fiscal year 2029, $22,100,000;
+
+(8) for fiscal year 2030, $24,900,000; and
+
+(9) for fiscal year 2031, $23,700,000.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–103 amended section generally. Prior to amendment, section related to appropriations for fiscal years 2014 to 2020.
+
 2014—Pub. L. 113–280 amended section generally. Prior to amendment, section related to authorization of appropriations for fiscal years 2007 to 2011.
+
+
+<a id="section-2004"></a>
+## § 2004. Information sharing
+
+Except as otherwise prohibited by law and except in cases in which the integrity of a criminal investigation would be affected, pursuant to the obligation of the United States under Article 7 of the United Nations Educational, Scientific, and Cultural Organization International Convention Against Doping in Sport done at Paris October 19, 2005, and ratified by the United States in 2008, the Attorney General, the Secretary of Homeland Security, and the Commissioner of Food and Drugs shall provide to the United States Anti-Doping Agency any relevant information relating to the prevention of the use of performance-enhancing drugs or the prohibition of performance-enhancing methods.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the United States Anti-Doping Agency Reauthorization Act of 2022 and also as part of the Consolidated Appropriations Act, 2022, and not as part of title VII of Pub. L. 109–469 which comprises this chapter.
 
 
 <a id="section-2011"></a>

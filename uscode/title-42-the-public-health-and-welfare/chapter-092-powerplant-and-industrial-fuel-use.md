@@ -1264,7 +1264,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 #### References in Text
 The effective date of this chapter, referred to in subsecs. (a) and (d)(1)(E), is the effective date of Pub. L. 95–620. See section 901 of Pub. L. 95–620, set out as an Effective Date note under [section 8301 of this title](./chapter-092-powerplant-and-industrial-fuel-use.md#section-8301).
 
-The Clean Air Act, referred to in subsec. (d)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in subsec. (d)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
 
 <a id="section-8411"></a>
@@ -1909,7 +1909,7 @@ Committee on Interstate and Foreign Commerce of House of Representatives changed
 ### Statutory Notes
 
 #### References in Text
-The National Energy Conservation Policy Act, referred to in subsec. (c)(2)(A), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§ 8211 et seq.) of subchapter II of chapter 91 of this title, and was omitted from the Code pursuant to [section 8229 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8229&num=0&edition=prelim) which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (c)(2)(A), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§ 8211 et seq.) of subchapter II of chapter 91 of this title, and was omitted from the Code pursuant to [section 8229 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8229&num=0&edition=prelim) which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of this title](./chapter-091-national-energy-conservation-policy.md#section-8201) and Tables.
 
 #### Effective Date
 Section effective Aug. 13, 1981, see section 1038 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under [section 6240 of this title](./chapter-077-energy-conservation.md#section-6240).

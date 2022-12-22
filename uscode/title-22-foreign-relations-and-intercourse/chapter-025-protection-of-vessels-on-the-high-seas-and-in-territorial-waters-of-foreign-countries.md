@@ -68,7 +68,7 @@ the Secretary of State, unless there is clear and convincing credible evidence t
 ### Statutory Notes
 
 #### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended. Title I of the Act is classified generally to subchapter II (§ 1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (2)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331. Title I of the Act is classified generally to subchapter II (§ 1811 et seq.) of chapter 38 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Par. (2)(C). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
@@ -154,7 +154,7 @@ Amendment by Pub. L. 98–364 applicable with respect to seizures made after Apr
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 1984—Subsec. (a)(1)(A). Pub. L. 98–364 substituted “him” for “the Secretary of the Treasury”.
@@ -506,7 +506,7 @@ Section applicable with respect to seizure of vessels of the United States occur
 #### References in Text
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1802&num=0&edition=prelim)), referred to in subsec. (a)(1), contained a prior par. (8) defining “fishery conservation zone” which was repealed and a new par. defining “exclusive economic zone” was added by Pub. L. 99–659, title I, § 101(a), Nov. 14, 1986, 100 Stat. 3706.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1)(A), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (f)(3), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.

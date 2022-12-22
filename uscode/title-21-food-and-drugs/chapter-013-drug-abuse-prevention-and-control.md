@@ -34,10 +34,13 @@ The Congress makes the following findings and declarations:
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in par. (1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
+This subchapter, referred to in par. (1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
 
 #### Effective Date
 Pub. L. 91–513, title II, § 704, Oct. 27, 1970, 84 Stat. 1284, provided that: “(a) Except as otherwise provided in this section, this title [see Short Title note below] shall become effective on the first day of the seventh calendar month that begins after the day immediately preceding the date of enactment [Oct. 27, 1970]. “(b) Parts A, B, E, and F of this title [Parts A, B, E, and F of this subchapter], section 702 [set out as a note under [section 321 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-321)], this section, and sections 705 through 709 [sections 901 to 904 of this title and note set out below], shall become effective upon enactment [Oct. 27, 1970]. “(c) Sections 305 (relating to labels and labeling) [[section 825 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-825)], and 306 (relating to manufacturing quotas) [[section 826 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-826)] shall become effective on the date specified in subsection (a) of this section, except that the Attorney General may by order published in the Federal Register postpone the effective date of either or both of these sections for such period as he may determine to be necessary for the efficient administration of this title [see Short Title note below].”
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–215, § 1(a), Dec. 2, 2022, 136 Stat. 2257, provided that: “This Act [amending sections 802, 822, 823, 824, 827, 829a, 831, 841, 843, 882, and 958 of this title and sections 290bb–36d, 290dd–3, 1395l, 1395m, 1395cc–6, and 1396b of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section, [section 823 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-823), and sections 241 and 284 of Title 42] may be cited as the ‘Medical Marijuana and Cannabidiol Research Expansion Act’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 117–53, § 1, Nov. 10, 2021, 135 Stat. 411, provided that: “This Act [amending [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822)] may be cited as the ‘Ensuring Compliance Against Drug Diversion Act of 2021’.”
@@ -173,6 +176,11 @@ Pub. L. 106–310, div. B, title XXXVI, § 3673, Oct. 17, 2000, 114 Stat. 1246, 
 #### Continuation of Orders, Rules, and Regulations
 Pub. L. 91–513, title II, § 705, Oct. 27, 1970, 84 Stat. 1284, provided that: “Any orders, rules, and regulations which have been promulgated under any law affected by this title [see Short Title note above] and which are in effect on the day preceding enactment of this title [Oct. 27, 1970] shall continue in effect until modified, superseded, or repealed.”
 
+#### Doctor-Patient Relationship
+Pub. L. 117–215, title III, § 301, Dec. 2, 2022, 136 Stat. 2265, provided that: “It shall not be a violation of the Controlled Substances Act ([21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.) for a State-licensed physician to discuss— “(1) the currently known potential harms and benefits of marijuana derivatives, including cannabidiol, as a treatment with the legal guardian of the patient of the physician if the patient is a child; or “(2) the currently known potential harms and benefits of marijuana and marijuana derivatives, including cannabidiol, as a treatment with the patient or the legal guardian of the patient of the physician if the patient is a legal adult.”
+
+[For definitions of “State”, “marijuana”, and “cannabidiol” as used in section 301 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out below.]
+
 #### Anti-Drug Messages on Federal Government Internet Sites
 Pub. L. 106–391, title III, § 320, Oct. 30, 2000, 114 Stat. 1597, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 30, 2000], the Administrator [of the National Aeronautics and Space Administration], in consultation with the Director of the Office of National Drug Control Policy, shall place anti-drug messages on Internet sites controlled by the National Aeronautics and Space Administration.”
 
@@ -226,6 +234,9 @@ Pub. L. 99–570, title VI, § 6006, Oct. 27, 1986, 100 Stat. 3207–160, provid
 
 #### Commission on Marihuana and Drug Abuse
 Pub. L. 91–513, title II, § 601, Oct. 27, 1970, 84 Stat. 1280, as amended by Pub. L. 92–13, May 14, 1971, 85 Stat. 37, provided that: “(a) [Establishment; composition] There is established a commission to be known as the Commission on Marihuana and Drug Abuse (hereafter in this section referred to as the ‘Commission’). The Commission shall be composed of—“(1) two Members of the Senate appointed by the President of the Senate; “(2) two Members of the House of Representatives appointed by the Speaker of the House of Representatives; and “(3) nine members appointed by the President of the United States. At no time shall more than one of the members appointed under paragraph (1), or more than one of the members appointed under paragraph (2), or more than five of the members appointed under paragraph (3) be members of the same political party. “(b) [Chairman; Vice Chairman; compensation of members; meetings] (1) The President shall designate one of the members of the Commission as Chairman and one as Vice Chairman. Seven members of the Commission shall constitute a quorum, but a lesser number may conduct hearings. “(2) Members of the Commission who are Members of Congress or full-time officers or employees of the United States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties. “(3) The Commission shall meet at the call of the Chairman or at the call of a majority of the members thereof. “(c) [Personnel; experts; information from departments and agencies] (1) The Commission shall have the power to appoint and fix the compensation of such personnel as it deems advisable, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates. “(2) The Commission may procure, in accordance with the provisions of [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), United States Code, the temporary or intermittent services of experts or consultants. Persons so employed shall receive compensation at a rate to be fixed by the Commission, but not in excess of $75 per diem, including traveltime. While away from his home or regular place of business in the performance of services for the Commission, any such person may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703/b&num=0&edition=prelim), United States Code, for persons in the Government service employed intermittently. “(3) The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this section. Upon request of the Chairman of the Commission, such department or agency shall furnish such information to the Commission. “(d) [Marihuana study; report to the President and the Congress] (1) The Commission shall conduct a study of marihuana including, but not limited to, the following areas:“(A) the extent of use of marihuana in the United States to include its various sources of users, number of arrests, number of convictions, amount of marihuana seized, type of user, nature of use; “(B) an evaluation of the efficacy of existing marihuana laws; “(C) a study of the pharmacology of marihuana and its immediate and long-term effects, both physiological and psychological; “(D) the relationship of marihuana use to aggressive behavior and crime; “(E) the relationship between marihuana and the use of other drugs; and “(F) the international control of marihuana. “(2) Within one year after the date on which funds first become available to carry out this section, the Commission shall submit to the President and the Congress a comprehensive report on its study and investigation under this subsection which shall include its recommendations and such proposals for legislation and administrative action as may be necessary to carry out its recommendations. “(e) [Study and investigation of causes of drug abuse; report to the President and the Congress; termination of Commission] The Commission shall conduct a comprehensive study and investigation of the causes of drug abuse and their relative significance. The Commission shall submit to the President and the Congress such interim reports as it deems advisable and shall within two years after the date on which funds first become available to carry out this section submit to the President and the Congress a final report which shall contain a detailed statement of its findings and conclusions and also such recommendations for legislation and administrative actions as it deems appropriate. The Commission shall cease to exist sixty days after the final report is submitted under this subsection. “(f) [Limitation on expenditures] Total expenditures of the Commission shall not exceed $4,000,000.”
+
+#### Definitions
+Pub. L. 117–215, § 2(a), Dec. 2, 2022, 136 Stat. 2257, provided that: “(a) In General.—In this Act [see Short Title of 2022 Amendment note set out above]—“(1) the term ‘appropriately registered’ means that an individual or entity is registered under the Controlled Substances Act ([21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.) to engage in the type of activity that is carried out by the individual or entity with respect to a controlled substance on the schedule that is applicable to cannabidiol or marijuana, as applicable; “(2) the term ‘cannabidiol’ means—“(A) the substance, cannabidiol, as derived from marijuana that has a delta-9-tetrahydrocannabinol level that is greater than 0.3 percent; and “(B) the synthetic equivalent of the substance described in subparagraph (A); “(3) the terms ‘controlled substance’, ‘dispense’, ‘distribute’, ‘manufacture’, ‘marijuana’, and ‘practitioner’ have the meanings given such terms in section 102 of the Controlled Substances Act ([21 U.S.C. 802](./chapter-013-drug-abuse-prevention-and-control.md#section-802)), as amended by this Act; “(4) the term ‘covered institution of higher education’ means an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim))) that—“(A)(i) has highest or higher research activity, as defined by the Carnegie Classification of Institutions of Higher Education; or “(ii) is an accredited medical school or an accredited school of osteopathic medicine; and “(B) is appropriately registered under the Controlled Substances Act ([21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.); “(5) the term ‘drug’ has the meaning given the term in section 201(g)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 321(g)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section321/g/1&num=0&edition=prelim)); “(6) the term ‘medical research for drug development’ means medical research that is—“(A) a preclinical study or clinical investigation conducted in accordance with section 505(i) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/i&num=0&edition=prelim)) or otherwise permitted by the Department of Health and Human Services to determine the potential medical benefits of marijuana or cannabidiol as a drug; and “(B) conducted by a covered institution of higher education, practitioner, or manufacturer that is appropriately registered under the Controlled Substances Act ([21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.); and “(7) the term ‘State’ means any State of the United States, the District of Columbia, and any territory of the United States.”
 
 #### Executive Order No. 11599
 Ex. Ord. No. 11599, June 17, 1971, 36 F.R. 11793, which established the Special Action Office for Drug Abuse Prevention, was superseded. See Prior Provisions notes set out under [section 1111 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1111&num=0&edition=prelim).
@@ -307,7 +318,7 @@ The Congress makes the following findings and declarations:
 #### References in Text
 This Act, referred to in par. (2), is Pub. L. 95–633, Nov. 10, 1978, 92 Stat. 2768, as amended, known as the Psychotropic Substances Act of 1978, which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and [section 242a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242a&num=0&edition=prelim), The Public Health and Welfare, repealed [section 830 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-830) effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
-The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (3), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended, which is classified principally to this chapter [§ 801 et seq.]. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (3), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to this chapter [§ 801 et seq.]. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Codification
 Section was enacted as a part of the Psychotropic Substances Act of 1978, and not as a part of the Controlled Substances Act which comprises this subchapter.
@@ -369,9 +380,9 @@ As used in this subchapter:
 
 (16)
 
-  (A) Subject to subparagraph (B), the term “marihuana” means all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
+  (A) Subject to subparagraph (B), the terms “marihuana” and “marijuana” mean all parts of the plant Cannabis sativa L., whether growing or not; the seeds thereof; the resin extracted from any part of such plant; and every compound, manufacture, salt, derivative, mixture, or preparation of such plant, its seeds or resin.
 
-  (B) The term “marihuana” does not include—
+  (B) The terms “marihuana” and “marijuana” do not include—
 
     (i) hemp, as defined in section 1639o of title 7; or
 
@@ -829,11 +840,11 @@ As used in this subchapter:
 
   (B) does not include—
 
-    (i) manufacturers or distributors registered under subsection (a), (b), (d), or (e) of [section 823 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-823) who do not dispense controlled substances to an unregistered individual or entity;
+    (i) manufacturers or distributors registered under subsection (a), (b), (e), or (f) of [section 823 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-823) who do not dispense controlled substances to an unregistered individual or entity;
 
-    (ii) nonpharmacy practitioners who are registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) and whose activities are authorized by that registration;
+    (ii) nonpharmacy practitioners who are registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) and whose activities are authorized by that registration;
 
-    (iii) any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim);
+    (iii) any hospital or other medical facility that is operated by an agency of the United States (including the Armed Forces), provided such hospital or other facility is registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim);
 
     (iv) a health care facility owned or operated by an Indian tribe or tribal organization, only to the extent such facility is carrying out a contract or compact under the Indian Self-Determination and Education Assistance Act [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.];
 
@@ -843,7 +854,7 @@ As used in this subchapter:
 
     (vii) a person, entity, or Internet site that is not in the United States and does not facilitate the delivery, distribution, or dispensing of a controlled substance by means of the Internet to any person in the United States;
 
-    (viii) a pharmacy registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) whose dispensing of controlled substances via the Internet consists solely of—
+    (viii) a pharmacy registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) whose dispensing of controlled substances via the Internet consists solely of—
 
       (I) refilling prescriptions for controlled substances in schedule III, IV, or V, as defined in paragraph (55); or
 
@@ -857,7 +868,7 @@ As used in this subchapter:
 
   (A) is being conducted—
 
-    (i) while the patient is being treated by, and physically located in, a hospital or clinic registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim); and
+    (i) while the patient is being treated by, and physically located in, a hospital or clinic registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim); and
 
     (ii) by a practitioner—
 
@@ -865,7 +876,7 @@ As used in this subchapter:
 
       (II) acting in accordance with applicable State law; and
 
-      (III) registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) in the State in which the patient is located, unless the practitioner—
+      (III) registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) in the State in which the patient is located, unless the practitioner—
 
         (aa) is exempted from such registration in all States under [section 822(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section822/d&num=0&edition=prelim); or
 
@@ -873,7 +884,7 @@ As used in this subchapter:
 
           (AA) an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and
 
-          (BB) registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim);
+          (BB) registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim);
 
   (B) is being conducted while the patient is being treated by, and in the physical presence of, a practitioner—
 
@@ -881,7 +892,7 @@ As used in this subchapter:
 
     (ii) acting in accordance with applicable State law; and
 
-    (iii) registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) in the State in which the patient is located, unless the practitioner—
+    (iii) registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) in the State in which the patient is located, unless the practitioner—
 
       (I) is exempted from such registration in all States under [section 822(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section822/d&num=0&edition=prelim); or
 
@@ -889,7 +900,7 @@ As used in this subchapter:
 
         (aa) an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract; and
 
-        (bb) registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) in any State or is using the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim);
+        (bb) registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) in any State or is using the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim);
 
   (C) is being conducted by a practitioner—
 
@@ -911,9 +922,9 @@ As used in this subchapter:
 
     (i) in a medical emergency situation—
 
-      (I) that prevents the patient from being in the physical presence of a practitioner registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) who is an employee or contractor of the Veterans Health Administration acting in the usual course of business and employment and within the scope of the official duties or contract of that employee or contractor;
+      (I) that prevents the patient from being in the physical presence of a practitioner registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) who is an employee or contractor of the Veterans Health Administration acting in the usual course of business and employment and within the scope of the official duties or contract of that employee or contractor;
 
-      (II) that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim);
+      (II) that prevents the patient from being physically present at a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim);
 
       (III) during which the primary care practitioner of the patient or a practitioner otherwise practicing telemedicine within the meaning of this paragraph is unable to provide care or consultation; and
 
@@ -923,7 +934,7 @@ As used in this subchapter:
 
       (I) is an employee or contractor of the Veterans Health Administration acting within the scope of that employment or contract;
 
-      (II) is registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim); and
+      (II) is registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim); and
 
       (III) issues a controlled substance prescription in this emergency context that is limited to a maximum of a 5-day supply which may not be extended or refilled; or
 
@@ -979,6 +990,16 @@ This chapter, referred to in par. (41)(C)(i), was in the original “this Act”
 The Indian Self-Determination and Education Assistance Act, referred to in pars. (52)(B)(iv) and (54)(C)(i), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Par. (16)(A). Pub. L. 117–215, § 2(b)(1), substituted “the terms ‘marihuana’ and ‘marijuana’ mean” for “the term ‘marihuana’ means”.
+
+Par. (16)(B). Pub. L. 117–215, § 2(b)(2), substituted “The terms ‘marihuana’ and ‘marijuana’ do not” for “The term ‘marihuana’ does not” in introductory provisions.
+
+Par. (52)(B). Pub. L. 117–215, § 103(b)(1)(A)(i)(I), substituted “823(g)” for “823(f)” wherever appearing.
+
+Par. (52)(B)(i). Pub. L. 117–215, § 103(b)(1)(A)(i)(II), substituted “(e), or (f)” for “(d), or (e)”.
+
+Par. (54). Pub. L. 117–215, § 103(b)(1)(A)(ii), substituted “823(g)” for “823(f)” wherever appearing.
+
 2018—Par. (16). Pub. L. 115–334 designated first sentence as subpar. (A), substituted “Subject to subparagraph (B), the” for “The”, inserted subpar. (B) designation, introductory provisions, and cl. (i), designated second sentence as cl. (ii) of subpar. (B), and substituted “the” for “Such term does not include the” in cl. (ii).
 
 Par. (24). Pub. L. 115–271, § 3202(c), substituted “Health and Human Services” for “Health, Education, and Welfare”.
@@ -1347,15 +1368,15 @@ Rules of the Attorney General under this subsection shall be made on the record 
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsecs. (a), (c)(8), (d)(3), (4)(A), (B), and (g)(2), (3), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+This subchapter, referred to in subsecs. (a), (c)(8), (d)(3), (4)(A), (B), and (g)(2), (3), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(3) and (g)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(3) and (g)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 Schedules I, II, III, IV, and V, referred to in subsecs. (d)(4)(A), (B), (h)(1), and (j)(1), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
 The Psychotropic Substances Act of 1978, referred to in subsec. (d)(5), is Pub. L. 95–633, Nov. 10, 1978, 92 Stat. 3768, which enacted sections 801a, 830, and 852 of this title, amended sections 352, 802, 811, 812, 823, 827, 841 to 843, 872, 881, 952, 953, and 965 of this title and [section 242a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242a&num=0&edition=prelim), The Public Health and Welfare, repealed [section 830 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-830) effective Jan. 1, 1981, and enacted provisions set out as notes under sections 801, 801a, 812, and 830 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
-This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1), was in the original “titles II and III of the Comprehensive Drug Abuse Prevention and Control Act”, which was translated as meaning titles II and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970, Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285, as amended, to reflect the probable intent of Congress. Title II is classified principally to this subchapter and part A of title III comprises subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+This subchapter and subchapter II of this chapter, referred to in subsec. (g)(1), was in the original “titles II and III of the Comprehensive Drug Abuse Prevention and Control Act”, which was translated as meaning titles II and III of the Comprehensive Drug Abuse Prevention and Control Act of 1970, Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285, to reflect the probable intent of Congress. Title II is classified principally to this subchapter and part A of title III comprises subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title notes set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
 2015—Subsec. (j). Pub. L. 114–89 added subsec. (j).
@@ -2035,7 +2056,7 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
         (aa) the physician of the person receiving hospice care; and
 
-        (bb) registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim); and
+        (bb) registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim); and
 
       (II) the hospice patient no longer requires the controlled substance because the plan of care of the hospice patient has been modified.
 
@@ -2081,6 +2102,8 @@ This subchapter, referred to in subsecs. (a)(3), (b), (c), and (g)(1), was in th
 [Section 802(25) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/25&num=0&edition=prelim), referred to in subsec. (c)(3), was redesignated [section 802(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/26&num=0&edition=prelim) by Pub. L. 98–473, title II, § 507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated [section 802(27) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/27&num=0&edition=prelim) by Pub. L. 99–570, title I, § 1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
 #### Amendments
+2022—Subsec. (g)(5)(A)(iii)(I)(bb). Pub. L. 117–215 substituted “823(g)” for “823(f)”.
+
 2021—Subsec. (a)(3). Pub. L. 117–53 added par. (3).
 
 2018—Subsec. (g)(5). Pub. L. 115–271 added par. (5).
@@ -2175,9 +2198,43 @@ Pub. L. 115–271, title III, subtitle B, ch. 6, Oct. 24, 2018, 132 Stat. 3950, 
 
 (5) such other factors as may be relevant to and consistent with the public health and safety.
 
-**(c) Limits of authorized activities** Registration granted under subsections (a) and (b) of this section shall not entitle a registrant to (1) manufacture or distribute controlled substances in schedule I or II other than those specified in the registration, or (2) manufacture any quantity of those controlled substances in excess of the quota assigned pursuant to [section 826 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-826).
+**(c) Manufacturers of marijuana for research purposes**
 
-**(d) Manufacturers of controlled substances in schedule III, IV, or V** The Attorney General shall register an applicant to manufacture controlled substances in schedule III, IV, or V, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
+(1)
+
+  (A) As it relates to applications to manufacture marijuana for research purposes, when the Attorney General places a notice in the Federal Register to increase the number of entities registered under this chapter to manufacture marijuana to supply appropriately registered researchers in the United States, the Attorney General shall, not later than 60 days after the date on which the Attorney General receives a completed application—
+
+    (i) approve the application; or
+
+    (ii) request supplemental information.
+
+  (B) For purposes of subparagraph (A), an application shall be deemed complete when the applicant has submitted documentation showing each of the following:
+
+    (i) The requirements designated in the notice in the Federal Register are satisfied.
+
+    (ii) The requirements under this chapter are satisfied.
+
+    (iii) The applicant will limit the transfer and sale of any marijuana manufactured under this subsection—
+
+      (I) to researchers who are registered under this chapter to conduct research with controlled substances in schedule I; and
+
+      (II) for purposes of use in preclinical research or in a clinical investigation pursuant to an investigational new drug exemption under 355(i) 11 So in original. Probably should be preceded by “section”. of this title.
+
+    (iv) The applicant will transfer or sell any marijuana manufactured under this subsection only with prior, written consent for the transfer or sale by the Attorney General.
+
+    (v) The applicant has completed the application and review process under subsection (a) for the bulk manufacture of controlled substances in schedule I.
+
+    (vi) The applicant has established and begun operation of a process for storage and handling of controlled substances in schedule I, including for inventory control and monitoring security in accordance with section 105 of the Medical Marijuana and Cannabidiol Research Expansion Act.
+
+    (vii) The applicant is licensed by each State in which the applicant will conduct operations under this subsection, to manufacture marijuana, if that State requires such a license.
+
+  (C) Not later than 30 days after the date on which the Attorney General receives supplemental information requested under subparagraph (A)(ii) with respect to an application, the Attorney General shall approve or deny the application.
+
+(2) If an application described in this subsection is denied, the Attorney General shall provide a written explanation of the basis of denial to the applicant.
+
+**(d) Limits of authorized activities** Registration granted under subsections (a) and (b) of this section shall not entitle a registrant to (1) manufacture or distribute controlled substances in schedule I or II other than those specified in the registration, or (2) manufacture any quantity of those controlled substances in excess of the quota assigned pursuant to [section 826 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-826).
+
+**(e) Manufacturers of controlled substances in schedule III, IV, or V** The Attorney General shall register an applicant to manufacture controlled substances in schedule III, IV, or V, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
 (1) maintenance of effective controls against diversion of particular controlled substances and any controlled substance in schedule III, IV, or V compounded therefrom into other than legitimate medical, scientific, or industrial channels;
 
@@ -2191,7 +2248,7 @@ Pub. L. 115–271, title III, subtitle B, ch. 6, Oct. 24, 2018, 132 Stat. 3950, 
 
 (6) such other factors as may be relevant to and consistent with the public health and safety.
 
-**(e) Distributors of controlled substances in schedule III, IV, or V** The Attorney General shall register an applicant to distribute controlled substances in schedule III, IV, or V, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
+**(f) Distributors of controlled substances in schedule III, IV, or V** The Attorney General shall register an applicant to distribute controlled substances in schedule III, IV, or V, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
 (1) maintenance of effective controls against diversion of particular controlled substances into other than legitimate medical, scientific, and industrial channels;
 
@@ -2203,20 +2260,124 @@ Pub. L. 115–271, title III, subtitle B, ch. 6, Oct. 24, 2018, 132 Stat. 3950, 
 
 (5) such other factors as may be relevant to and consistent with the public health and safety.
 
-**(f) Research by practitioners; pharmacies; research applications; construction of Article 7 of the Convention on Psychotropic Substances** The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet, if the applicant is authorized to dispense, or conduct research with respect to, controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration or such modification of registration if the Attorney General determines that the issuance of such registration or modification would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
+**(g) Research by practitioners; pharmacies; research applications; construction of Article 7 of the Convention on Psychotropic Substances**
 
-(1) The recommendation of the appropriate State licensing board or professional disciplinary authority.
+(1) The Attorney General shall register practitioners (including pharmacies, as distinguished from pharmacists) to dispense, or conduct research with, controlled substances in schedule II, III, IV, or V and shall modify the registrations of pharmacies so registered to authorize them to dispense controlled substances by means of the Internet, if the applicant is authorized to dispense, or conduct research with respect to, controlled substances under the laws of the State in which he practices. The Attorney General may deny an application for such registration or such modification of registration if the Attorney General determines that the issuance of such registration or modification would be inconsistent with the public interest. In determining the public interest, the following factors shall be considered:
 
-(2) The applicant’s experience in dispensing, or conducting research with respect to controlled substances.
+  (A) The recommendation of the appropriate State licensing board or professional disciplinary authority.
 
-(3) The applicant’s conviction record under Federal or State laws relating to the manufacture, distribution, or dispensing of controlled substances.
+  (B) The applicant’s experience in dispensing, or conducting research with respect to controlled substances.
 
-(4) Compliance with applicable State, Federal, or local laws relating to controlled substances.
+  (C) The applicant’s conviction record under Federal or State laws relating to the manufacture, distribution, or dispensing of controlled substances.
 
-(5) Such other conduct which may threaten the public health and safety.
-Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required. Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in [section 824(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/a&num=0&edition=prelim). Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
+  (D) Compliance with applicable State, Federal, or local laws relating to controlled substances.
 
-**(g) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver**
+  (E) Such other conduct which may threaten the public health and safety.
+  Separate registration under this part for practitioners engaging in research with controlled substances in schedule II, III, IV, or V, who are already registered under this part in another capacity, shall not be required.
+
+(2)
+
+  (A) Registration applications by practitioners wishing to conduct research with controlled substances in schedule I shall be referred to the Secretary, who shall determine the qualifications and competency of each practitioner requesting registration, as well as the merits of the research protocol. The Secretary, in determining the merits of each research protocol, shall consult with the Attorney General as to effective procedures to adequately safeguard against diversion of such controlled substances from legitimate medical or scientific use. Registration for the purpose of bona fide research with controlled substances in schedule I by a practitioner deemed qualified by the Secretary may be denied by the Attorney General only on a ground specified in [section 824(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/a&num=0&edition=prelim).
+
+  (B)
+
+    (i) The Attorney General shall register a practitioner to conduct research with marijuana (including any derivative, extract, preparation, and compound thereof) if—
+
+      (I) the applicant’s research protocol has been reviewed and allowed—
+
+        (aa) by the Secretary of Health and Human Services under [section 355(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section355/i&num=0&edition=prelim);
+
+        (bb) by the National Institutes of Health or another Federal agency that funds scientific research; or
+
+        (cc) pursuant to sections 1301.18 and 1301.32 of title 21, Code of Federal Regulations, or any successors thereto; and
+
+      (II) the applicant has demonstrated to the Attorney General that there are effective procedures in place to adequately safeguard against diversion of the controlled substance for legitimate medical or scientific use pursuant to section 105 of the Medical Marijuana and Cannabidiol Research Expansion Act, including demonstrating that the security measures are adequate for storing the quantity of marijuana the applicant would be authorized to possess.
+
+    (ii) The Attorney General may deny an application for registration under this subparagraph only if the Attorney General determines that the issuance of the registration would be inconsistent with the public interest. In determining the public interest, the Attorney General shall consider the factors listed in—
+
+      (I) subparagraphs (B) through (E) of paragraph (1); and
+
+      (II) subparagraph (A) of paragraph (1), if the applicable State requires practitioners conducting research to register with a board or authority described in such subparagraph (A).
+
+    (iii)
+
+      (I) Not later than 60 days after the date on which the Attorney General receives a complete application for registration under this subparagraph, the Attorney General shall—
+
+        (aa) approve the application; or
+
+        (bb) request supplemental information.
+
+      (II) For purposes of subclause (I), an application shall be deemed complete when the applicant has submitted documentation showing that the requirements under clause (i) are satisfied.
+
+    (iv) Not later than 30 days after the date on which the Attorney General receives supplemental information as described in clause (iii)(I)(bb) in connection with an application described in this subparagraph, the Attorney General shall approve or deny the application.
+
+    (v) If an application described in this subparagraph is denied, the Attorney General shall provide a written explanation of the basis of denial to the applicant.
+
+    (vi)
+
+      (I) If the Attorney General grants an application for registration under clause (i), the registrant may amend or supplement the research protocol without notification to, or review by, the Drug Enforcement Administration if the registrant does not change—
+
+        (aa) the quantity or type of marijuana or cannabidiol (including any derivative, extract, preparation, and compound thereof);
+
+        (bb) the source of such marijuana or cannabidiol; or
+
+        (cc) the conditions under which such marijuana or cannabidiol is stored, tracked, or administered.
+
+      (II)
+
+        (aa) If a registrant under clause (i) seeks to change the type of marijuana or cannabidiol (including any derivative, extract, preparation, and compound thereof), the source of such marijuana or cannabidiol, or the conditions under which such marijuana or cannabidiol is stored, tracked, or administered, the registrant shall notify the Attorney General via registered mail, or an electronic means permitted by the Attorney General, not later than 30 days before implementing an amended or supplemental research protocol.
+
+        (bb) A registrant may proceed with an amended or supplemental research protocol described in item (aa) if the Attorney General does not explicitly object during the 30-day period beginning on the date on which the Attorney General receives the notice under item (aa).
+
+        (cc) The Attorney General may only object to an amended or supplemental research protocol under this subclause if additional security measures are needed to safeguard against diversion or abuse.
+
+        (dd) If a registrant under clause (i) seeks to address additional security measures identified by the Attorney General under item (cc), the registrant shall notify the Attorney General via registered mail, or an electronic means permitted by the Attorney General, not later than 30 days before implementing an amended or supplemental research protocol.
+
+        (ee) A registrant may proceed with an amended or supplemental research protocol described in item (dd) if the Attorney General does not explicitly object during the 30-day period beginning on the date on which the Attorney General receives the notice under item (dd).
+
+      (III)
+
+        (aa) If a registrant under clause (i) seeks to change the quantity of marijuana needed for research and the change in quantity does not impact the factors described in item (bb) or (cc) of subclause (I) of this clause, the registrant shall notify the Attorney General via registered mail or using an electronic means permitted by the Attorney General.
+
+        (bb) A notification under item (aa) shall include—
+
+          (AA) the Drug Enforcement Administration registration number of the registrant;
+
+          (BB) the quantity of marijuana or cannabidiol already obtained;
+
+          (CC) the quantity of additional marijuana or cannabidiol needed to complete the research; and
+
+          (DD) an attestation that the change in quantity does not impact the source of the marijuana or cannabidiol or the conditions under which the marijuana or cannabidiol is stored, tracked, or administered.
+
+        (cc) The Attorney General shall ensure that—
+
+          (AA) any registered mail return receipt with respect to a notification under item (aa) is submitted for delivery to the registrant providing the notification not later than 3 days after receipt of the notification by the Attorney General; and
+
+          (BB) notice of receipt of a notification using an electronic means permitted under item (aa) is provided to the registrant providing the notification not later than 3 days after receipt of the notification by the Attorney General.
+
+        (dd)
+
+          (AA) On and after the date described in subitem (BB), a registrant that submits a notification in accordance with item (aa) may proceed with the research as if the change in quantity has been approved on such date, unless the Attorney General notifies the registrant of an objection described in item (ee).
+
+          (BB) The date described in this subitem is the date on which a registrant submitting a notification under item (aa) receives the registered mail return receipt with respect to the notification or the date on which the registrant receives notice that the notification using an electronic means permitted under item (aa) was received by the Attorney General, as the case may be.
+
+        (ee) A notification submitted under item (aa) shall be deemed to be approved unless the Attorney General, not later than 10 days after receiving the notification, explicitly objects based on a finding that the change in quantity—
+
+          (AA) does impact the source of the marijuana or cannabidiol or the conditions under which the marijuana or cannabidiol is stored, tracked, or administered; or
+
+          (BB) necessitates that the registrant implement additional security measures to safeguard against diversion or abuse.
+
+      (IV) Nothing in this clause shall limit the authority of the Secretary of Health and Human Services over requirements related to research protocols, including changes in—
+
+        (aa) the method of administration of marijuana or cannabidiol;
+
+        (bb) the dosing of marijuana or cannabidiol; and
+
+        (cc) the number of individuals or patients involved in research.
+
+(3) Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
+
+**(h) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver**
 
 (1) Except as provided in paragraph (2), practitioners who dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment shall obtain annually a separate registration for that purpose. The Attorney General shall register an applicant to dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment (or both)
 
@@ -2270,17 +2431,17 @@ Separate registration under this part for practitioners engaging in research wit
 
       (I) The notification under subparagraph (B) is in writing and states the name of the practitioner.
 
-      (II) The notification identifies the registration issued for the practitioner pursuant to subsection (f).
+      (II) The notification identifies the registration issued for the practitioner pursuant to subsection (g).
 
-      (III) If the practitioner is a member of a group practice, the notification states the names of the other practitioners in the practice and identifies the registrations issued for the other practitioners pursuant to subsection (f).
+      (III) If the practitioner is a member of a group practice, the notification states the names of the other practitioners in the practice and identifies the registrations issued for the other practitioners pursuant to subsection (g).
 
-    (ii) Upon receiving a determination from the Secretary under clause (iii) finding that a practitioner meets all requirements for a waiver under subparagraph (B), the Attorney General shall assign the practitioner involved an identification number under this paragraph for inclusion with the registration issued for the practitioner pursuant to subsection (f). The identification number so assigned shall be appropriate to preserve the confidentiality of patients for whom the practitioner has dispensed narcotic drugs under a waiver under subparagraph (A).
+    (ii) Upon receiving a determination from the Secretary under clause (iii) finding that a practitioner meets all requirements for a waiver under subparagraph (B), the Attorney General shall assign the practitioner involved an identification number under this paragraph for inclusion with the registration issued for the practitioner pursuant to subsection (g). The identification number so assigned shall be appropriate to preserve the confidentiality of patients for whom the practitioner has dispensed narcotic drugs under a waiver under subparagraph (A).
 
     (iii) Not later than 45 days after the date on which the Secretary receives a notification under subparagraph (B), the Secretary shall make a determination of whether the practitioner involved meets all requirements for a waiver under subparagraph (B) and shall forward such determination to the Attorney General. If the Secretary fails to make such determination by the end of the such 45-day period, the Attorney General shall assign the practitioner an identification number described in clause (ii) at the end of such period.
 
   (E)
 
-    (i) If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of [section 824(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/a/4&num=0&edition=prelim), consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (f) to be inconsistent with the public interest.
+    (i) If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of [section 824(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/a/4&num=0&edition=prelim), consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (g) to be inconsistent with the public interest.
 
     (ii)
 
@@ -2372,7 +2533,7 @@ Separate registration under this part for practitioners engaging in research wit
       (III) Such other elements of the requirements under this paragraph as the Secretary determines necessary for purposes of implementing such requirements.
       Nothing in such regulations or practice guidelines may authorize any Federal official or employee to exercise supervision or control over the practice of medicine or the manner in which medical services are provided.
 
-    (ii) Not later than 18 months after the date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act,11 See References in Text note below. the Secretary shall update the treatment improvement protocol containing best practice guidelines for the treatment of opioid-dependent patients in office-based settings. The Secretary shall update such protocol in consultation with experts in opioid use disorder research and treatment.
+    (ii) Not later than 18 months after the date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act,22See References in Text note below. the Secretary shall update the treatment improvement protocol containing best practice guidelines for the treatment of opioid-dependent patients in office-based settings. The Secretary shall update such protocol in consultation with experts in opioid use disorder research and treatment.
 
   (I) Notwithstanding [section 903 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-903), nothing in this paragraph shall be construed to preempt any State law that—
 
@@ -2380,7 +2541,7 @@ Separate registration under this part for practitioners engaging in research wit
 
     (ii) requires a qualifying practitioner to comply with additional requirements relating to the dispensing of narcotic drugs in schedule III, IV, or V, or combinations of such drugs, including requirements relating to the practice setting in which the qualifying practitioner practices and education, training, and reporting requirements.
 
-**(h) Applicants for distribution of list I chemicals** The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under clause (iv) or (v) of [section 802(39)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/39/A&num=0&edition=prelim). In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
+**(i) Applicants for distribution of list I chemicals** The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under clause (iv) or (v) of [section 802(39)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/39/A&num=0&edition=prelim). In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
 
 (1) maintenance by the applicant of effective controls against diversion of listed chemicals into other than legitimate channels;
 
@@ -2392,23 +2553,23 @@ Separate registration under this part for practitioners engaging in research wit
 
 (5) such other factors as are relevant to and consistent with the public health and safety.
 
-**(i) Registration to manufacture certain controlled substances for use only in a clinical trial**
+**(j) Registration to manufacture certain controlled substances for use only in a clinical trial**
 
-(1) For purposes of registration to manufacture a controlled substance under subsection (d) for use only in a clinical trial, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with [section 824(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/c&num=0&edition=prelim), not later than 180 days after the date on which the application is accepted for filing.
+(1) For purposes of registration to manufacture a controlled substance under subsection (e) for use only in a clinical trial, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with [section 824(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/c&num=0&edition=prelim), not later than 180 days after the date on which the application is accepted for filing.
 
 (2) For purposes of registration to manufacture a controlled substance under subsection (a) for use only in a clinical trial, the Attorney General shall, in accordance with the regulations issued by the Attorney General, issue a notice of application not later than 90 days after the application is accepted for filing. Not later than 90 days after the date on which the period for comment pursuant to such notice ends, the Attorney General shall register the applicant, or serve an order to show cause upon the applicant in accordance with [section 824(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/c&num=0&edition=prelim), unless the Attorney General has granted a hearing on the application under [section 958(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section958/i&num=0&edition=prelim).
 
-**(j) Emergency medical services that administer controlled substances**
+**(k) Emergency medical services that administer controlled substances**
 
 (1) **Registration** — For the purpose of enabling emergency medical services professionals to administer controlled substances in schedule II, III, IV, or V to ultimate users receiving emergency medical services in accordance with the requirements of this subsection, the Attorney General—
 
   (A) shall register an emergency medical services agency if the agency submits an application demonstrating it is authorized to conduct such activity under the laws of each State in which the agency practices; and
 
-  (B) may deny an application for such registration if the Attorney General determines that the issuance of such registration would be inconsistent with the requirements of this subsection or the public interest based on the factors listed in subsection (f).
+  (B) may deny an application for such registration if the Attorney General determines that the issuance of such registration would be inconsistent with the requirements of this subsection or the public interest based on the factors listed in subsection (g).
 
 (2) **Option for single registration** — In registering an emergency medical services agency pursuant to paragraph (1), the Attorney General shall allow such agency the option of a single registration in each State where the agency administers controlled substances in lieu of requiring a separate registration for each location of the emergency medical services agency.
 
-(3) **Hospital-based agency** — If a hospital-based emergency medical services agency is registered under subsection (f), the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
+(3) **Hospital-based agency** — If a hospital-based emergency medical services agency is registered under subsection (g), the agency may use the registration of the hospital to administer controlled substances in accordance with this subsection without being registered under this subsection.
 
 (4) **Administration outside physical presence of medical director or authorizing medical professional** — Emergency medical services professionals of a registered emergency medical services agency may administer controlled substances in schedule II, III, IV, or V outside the physical presence of a medical director or authorizing medical professional in the course of providing emergency medical services if the administration is—
 
@@ -2528,7 +2689,7 @@ Separate registration under this part for practitioners engaging in research wit
 
   (G) The term “hospital-based” means, with respect to an agency, owned or operated by a hospital.
 
-  (H) The term “medical director” means a physician who is registered under subsection (f) and provides medical oversight for an emergency medical services agency.
+  (H) The term “medical director” means a physician who is registered under subsection (g) and provides medical oversight for an emergency medical services agency.
 
   (I) The term “medical oversight” means supervision of the provision of medical care by an emergency medical services agency.
 
@@ -2536,9 +2697,9 @@ Separate registration under this part for practitioners engaging in research wit
 
     (i) an emergency medical services agency that is registered pursuant to this subsection; or
 
-    (ii) a hospital-based emergency medical services agency that is covered by the registration of the hospital under subsection (f).
+    (ii) a hospital-based emergency medical services agency that is covered by the registration of the hospital under subsection (g).
 
-  (K) The term “registered location” means a location that appears on the certificate of registration issued to an emergency medical services agency under this subsection or subsection (f), which shall be where the agency receives controlled substances from distributors.
+  (K) The term “registered location” means a location that appears on the certificate of registration issued to an emergency medical services agency under this subsection or subsection (g), which shall be where the agency receives controlled substances from distributors.
 
   (L) The term “specific State authority” means a governmental agency or other such authority, including a regional oversight and coordinating body, that, pursuant to State law or regulation, develops clinical protocols regarding the delivery of emergency medical services in the geographic jurisdiction of such agency or authority within the State that may be adopted by medical directors.
 
@@ -2546,22 +2707,48 @@ Separate registration under this part for practitioners engaging in research wit
 
   (N) The term “verbal order” means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneously administer a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
 
-**(k) “Factors as may be relevant to and consistent with the public health and safety” defined** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+**(l) “Factors as may be relevant to and consistent with the public health and safety” defined** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
 ### Statutory Notes
 
 #### References in Text
-Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (f), (g)(2), and (j)(1), (4), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
+Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (g)(2), (h)(2), and (k)(1), (4), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
-This subchapter, referred to in subsecs. (f) and (j)(12)(A), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+Section 105 of the Medical Marijuana and Cannabidiol Research Expansion Act, referred to in subsecs. (c)(1)(B)(vi) and (g)(2)(B)(i)(II), is section 105 of Pub. L. 117–215, which is set out as a note below.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+This subchapter, referred to in subsecs. (g)(3) and (k)(12)(A), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
-The date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act, referred to in subsec. (g)(2)(H)(ii), probably means the date of enactment of Pub. L. 114–198, known as the Comprehensive Addiction and Recovery Act of 2016, which was approved July 22, 2016. The Opioid Use Disorder Treatment Expansion and Modernization Act was H.R. 4981 of the 114th Congress, as introduced on Apr. 18, 2016. Amendatory provisions of H.R. 4981 were incorporated into Pub. L. 114–198, but no such Short Title was enacted.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (h)(2)(C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
-This chapter, referred to in subsec. (j)(13)(A)(i), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+The date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act, referred to in subsec. (h)(2)(H)(ii), probably means the date of enactment of Pub. L. 114–198, known as the Comprehensive Addiction and Recovery Act of 2016, which was approved July 22, 2016. The Opioid Use Disorder Treatment Expansion and Modernization Act was H.R. 4981 of the 114th Congress, as introduced on Apr. 18, 2016. Amendatory provisions of H.R. 4981 were incorporated into Pub. L. 114–198, but no such Short Title was enacted.
+
+This chapter, referred to in subsecs. (c)(1)(A), (B) and (k)(13)(A)(i), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
+2022—Subsecs. (c) to (e). Pub. L. 117–215, § 103(a)(1), (2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+
+Pub. L. 117–215, § 101, designated introductory provisions through first sentence of concluding provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), designated second to fourth sentences of concluding provisions as subpar. (A) of par. (2), added subpar. (B) of par. (2), and designated last sentence of concluding provisions as par. (3).
+
+Subsec. (f)(2)(B)(vi). Pub. L. 117–215, § 102(a), added cl. (vi).
+
+Subsec. (g). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+
+Subsec. (h)(2). Pub. L. 117–215, § 103(a)(3), substituted “subsection (g)” for “subsection (f)” wherever appearing.
+
+Subsec. (i). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+
+Subsec. (j). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
+
+Subsec. (j)(1). Pub. L. 117–215, § 103(a)(4), substituted “subsection (e)” for “subsection (d)”.
+
+Subsec. (k). Pub. L. 117–215, § 103(a)(1), (5), redesignated subsec. (j) as (k) and substituted “subsection (g)” for “subsection (f)” wherever appearing. Former subsec. (k) redesignated (l).
+
+Subsec. (l). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (k) as (l).
+
 2018—Subsec. (g)(2)(B)(iii)(II). Pub. L. 115–271, § 3201(a), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.”
 
 Subsec. (g)(2)(G)(ii)(VIII). Pub. L. 115–271, § 3202(a), added subcl. (VIII).
@@ -2651,17 +2838,35 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 #### Effective Date
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
+#### Regulations
+Pub. L. 117–215, title I, § 102(b), Dec. 2, 2022, 136 Stat. 2261, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 2, 2022], the Attorney General shall promulgate regulations to carry out the amendment made by this section [amending this section].”
+
 #### Update Regulations
 Pub. L. 114–198, title III, § 303(c), July 22, 2016, 130 Stat. 723, provided that: “Not later than 18 months after the date of enactment of this Act [July 22, 2016], the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) [probably means subsec. (a)(3)(B)(vii) “of this section”, set out as a note below] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion.”
 
+#### Adequate and Uninterrupted Supply
+Pub. L. 117–215, title I, § 104, Dec. 2, 2022, 136 Stat. 2263, provided that: “(a) In General.—On an annual basis, the Attorney General, in consultation with the Secretary of Health and Human Services, shall assess whether there is an adequate and uninterrupted supply of marijuana, including of specific strains, for research purposes. “(b) Report to Congress.—If the Attorney General, in consultation with the Secretary of Health and Human Services, determines there is an inadequate or interrupted supply of marijuana, including of specific strains for research purposes, the Attorney General shall report to Congress within 60 days of the determination on at least—“(1) the factors contributing to the inadequate or interrupted supply of marijuana; “(2) expected impacts of the inadequate or interrupted supply on ongoing research protocols; and “(3) specific steps the Attorney General will take to restore an adequate and uninterrupted supply of marijuana, including of specific strains, for research purposes.”
+
+[For definition of “marijuana” as used in section 104 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).]
+
+#### Security Requirements
+Pub. L. 117–215, title I, § 105, Dec. 2, 2022, 136 Stat. 2264, provided that: “(a) In General.—An individual or entity engaged in researching marijuana or its components shall store it in a securely locked, substantially constructed cabinet. “(b) Requirements for Other Measures.—Any other security measures required by the Attorney General to safeguard against diversion shall be consistent with those required for practitioners conducting research on other controlled substances in schedules I and II in section 202(c) of the Controlled Substances Act ([21 U.S.C. 812(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim)) that have a similar risk of diversion and abuse.”
+
+[For definitions of “marijuana”, “controlled substances”, and “practitioners” as used in section 105 of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).]
+
+#### Development of Food and Drug Administration-Approved Drugs Using Cannabidiol and Marijuana
+Pub. L. 117–215, title II, Dec. 2, 2022, 136 Stat. 2264, provided that: “SEC. 201. MEDICAL RESEARCH ON CANNABIDIOL.“Notwithstanding any provision of the Controlled Substances Act ([21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.), the Safe and Drug-Free Schools and Communities Act ([20 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7101&num=0&edition=prelim) et seq.), chapter 81 of title 41, United States Code, or any other Federal law, an appropriately registered covered institution of higher education, practitioner, or manufacturer may manufacture, distribute, dispense, or possess marijuana or cannabidiol if the marijuana or cannabidiol is manufactured, distributed, dispensed, or possessed, respectively, for purposes of medical research for drug development or subsequent commercial production in accordance with section 202. “SEC. 202. REGISTRATION FOR THE COMMERCIAL PRODUCTION AND DISTRIBUTION OF FOOD AND DRUG ADMINISTRATION-APPROVED DRUGS.“The Attorney General shall register an applicant to manufacture or distribute cannabidiol or marijuana for the purpose of commercial production of a drug containing or derived from marijuana that is approved by the Secretary of Health and Human Services under section 505 of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-355)), in accordance with the applicable requirements under subsection (a) or (b) of section 303 of the Controlled Substances Act ([21 U.S.C. 823](./chapter-013-drug-abuse-prevention-and-control.md#section-823)).”
+
+[For definitions of terms used in title II of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).]
+
 #### Treatment for Children
-Pub. L. 115–271, title III, § 3202(b), Oct. 24, 2018, 132 Stat. 3945, provided that: “The Secretary of Health and Human Services shall consider ways to ensure that an adequate number of qualified practitioners, as defined in subparagraph (G)(ii) of section 303(g)(2) of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)), who have a specialty in pediatrics or the treatment of children or adolescents, are granted a waiver under such section 303(g)(2) to treat children and adolescents with substance use disorders.”
+Pub. L. 115–271, title III, § 3202(b), Oct. 24, 2018, 132 Stat. 3945, provided that: “The Secretary of Health and Human Services shall consider ways to ensure that an adequate number of qualified practitioners, as defined in subparagraph (G)(ii) of section 303(g)(2) [now 303(h)(2)] of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)) [now [21 U.S.C. 823(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim)], who have a specialty in pediatrics or the treatment of children or adolescents, are granted a waiver under such section 303(g)(2) to treat children and adolescents with substance use disorders.”
 
 #### Grants To Enhance Access to Substance Use Disorder Treatment
-Pub. L. 115–271, title III, § 3203, Oct. 24, 2018, 132 Stat. 3945, provided that: “(a) In General.—The Secretary of Health and Human Services shall establish a grant program under which the Secretary may make grants to accredited schools of allopathic medicine or osteopathic medicine and teaching hospitals located in the United States to support the development of curricula that meet the requirements under subclause (VIII) of section 303(g)(2)(G)(ii) of the Controlled Substances Act [[21 U.S.C. 823(g)(2)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2/G/ii&num=0&edition=prelim)], as added by section 3202(a) of this Act. “(b) Authorization of Appropriations.—There is authorized to be appropriated, for grants under subsection (a), $4,000,000 for each of fiscal years 2019 through 2023.”
+Pub. L. 115–271, title III, § 3203, Oct. 24, 2018, 132 Stat. 3945, provided that: “(a) In General.—The Secretary of Health and Human Services shall establish a grant program under which the Secretary may make grants to accredited schools of allopathic medicine or osteopathic medicine and teaching hospitals located in the United States to support the development of curricula that meet the requirements under subclause (VIII) of section 303(g)(2)(G)(ii) [now 303(h)(2)(G)(ii)] of the Controlled Substances Act [[21 U.S.C. 823(h)(2)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2/G/ii&num=0&edition=prelim)], as added by section 3202(a) of this Act. “(b) Authorization of Appropriations.—There is authorized to be appropriated, for grants under subsection (a), $4,000,000 for each of fiscal years 2019 through 2023.”
 
 #### Reports to Congress
-Pub. L. 114–198, title III, § 303(a)(3), July 22, 2016, 130 Stat. 722, provided that: “(A) In general.—Not later than 3 years after the date of enactment of this Act [July 22, 2016] and not later than 3 years thereafter, the Secretary of Health and Human Services, in consultation with the Drug Enforcement Administration and experts in opioid use disorder research and treatment, shall—“(i) perform a thorough review of the provision of opioid use disorder treatment services in the United States, including services provided in opioid treatment programs and other specialty and nonspecialty settings; and “(ii) submit a report to the Congress on the findings and conclusions of such review. “(B) Contents.—Each report under subparagraph (A) shall include an assessment of—“(i) compliance with the requirements of section 303(g)(2) of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)), as amended by this section; “(ii) the measures taken by the Secretary of Health and Human Services to ensure such compliance; “(iii) whether there is further need to increase or decrease the number of patients a practitioner, pursuant to a waiver under section 303(g)(2) of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)), is permitted to treat; “(iv) the extent to which, and proportions with which, the full range of Food and Drug Administration-approved treatments for opioid use disorder are used in routine health care settings and specialty substance use disorder treatment settings; “(v) access to, and use of, counseling and recovery support services, including the percentage of patients receiving such services; “(vi) changes in State or local policies and legislation relating to opioid use disorder treatment; “(vii) the use of prescription drug monitoring programs by practitioners who are permitted to dispense narcotic drugs to individuals pursuant to a waiver described in clause (iii); “(viii) the findings resulting from inspections by the Drug Enforcement Administration of practitioners described in clause (vii); and “(ix) the effectiveness of cross-agency collaboration between [the] Department of Health and Human Services and the Drug Enforcement Administration for expanding effective opioid use disorder treatment.”
+Pub. L. 114–198, title III, § 303(a)(3), July 22, 2016, 130 Stat. 722, provided that: “(A) In general.—Not later than 3 years after the date of enactment of this Act [July 22, 2016] and not later than 3 years thereafter, the Secretary of Health and Human Services, in consultation with the Drug Enforcement Administration and experts in opioid use disorder research and treatment, shall—“(i) perform a thorough review of the provision of opioid use disorder treatment services in the United States, including services provided in opioid treatment programs and other specialty and nonspecialty settings; and “(ii) submit a report to the Congress on the findings and conclusions of such review. “(B) Contents.—Each report under subparagraph (A) shall include an assessment of—“(i) compliance with the requirements of section 303(g)(2) [now 303(h)(2)] of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)) [now [21 U.S.C. 823(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim)], as amended by this section; “(ii) the measures taken by the Secretary of Health and Human Services to ensure such compliance; “(iii) whether there is further need to increase or decrease the number of patients a practitioner, pursuant to a waiver under section 303(g)(2) [now 303(h)(2)] of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)) [now [21 U.S.C. 823(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim)], is permitted to treat; “(iv) the extent to which, and proportions with which, the full range of Food and Drug Administration-approved treatments for opioid use disorder are used in routine health care settings and specialty substance use disorder treatment settings; “(v) access to, and use of, counseling and recovery support services, including the percentage of patients receiving such services; “(vi) changes in State or local policies and legislation relating to opioid use disorder treatment; “(vii) the use of prescription drug monitoring programs by practitioners who are permitted to dispense narcotic drugs to individuals pursuant to a waiver described in clause (iii); “(viii) the findings resulting from inspections by the Drug Enforcement Administration of practitioners described in clause (vii); and “(ix) the effectiveness of cross-agency collaboration between [the] Department of Health and Human Services and the Drug Enforcement Administration for expanding effective opioid use disorder treatment.”
 
 #### Provisional Registration
 For provisional registration of persons engaged in manufacturing, distributing, or dispensing of controlled substances on the day before the effective date of [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822) who are registered on such date under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) or [section 4722 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4722&num=0&edition=prelim), Internal Revenue Code, see section 703 of Pub. L. 91–513, set out as a note under [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822).
@@ -2680,7 +2885,7 @@ For provisional registration of persons engaged in manufacturing, distributing, 
 (4) has committed such acts as would render his registration under [section 823 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-823) inconsistent with the public interest as determined under such section; or
 
 (5) has been excluded (or directed to be excluded) from participation in a program pursuant to [section 1320a–7(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7/a&num=0&edition=prelim).
-A registration pursuant to [section 823(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/1&num=0&edition=prelim) to dispense a narcotic drug for maintenance treatment or detoxification treatment may be suspended or revoked by the Attorney General upon a finding that the registrant has failed to comply with any standard referred to in [section 823(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/1&num=0&edition=prelim).
+A registration pursuant to [section 823(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/1&num=0&edition=prelim) to dispense a narcotic drug for maintenance treatment or detoxification treatment may be suspended or revoked by the Attorney General upon a finding that the registrant has failed to comply with any standard referred to in [section 823(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/1&num=0&edition=prelim).
 
 **(b) Limits of revocation or suspension** The Attorney General may limit revocation or suspension of a registration to the particular controlled substance or list I chemical with respect to which grounds for revocation or suspension exist.
 
@@ -2704,7 +2909,7 @@ A registration pursuant to [section 823(g)(1) of this title](https://uscode.hous
 
 **(d) Suspension of registration in cases of imminent danger**
 
-(1) The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in [section 823(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/1&num=0&edition=prelim) may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
+(1) The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in [section 823(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/1&num=0&edition=prelim) may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
 (2) In this subsection, the phrase “imminent danger to the public health or safety” means that, due to the failure of the registrant to maintain effective controls against diversion or otherwise comply with the obligations of a registrant under this subchapter or subchapter II, there is a substantial likelihood of an immediate threat that death, serious bodily harm, or abuse of a controlled substance will occur in the absence of an immediate suspension of the registration.
 
@@ -2728,6 +2933,10 @@ This subchapter, referred to in subsecs. (a)(1), (2), (c)(4), (d)(2), and (h), w
 Subchapter II, referred to in subsecs. (a)(1), (2) and (d)(2), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–215, in concluding provisions, substituted “823(h)(1)” for “823(g)(1)” in two places.
+
+Subsec. (d)(1). Pub. L. 117–215 substituted “823(h)(1)” for “823(g)(1)”.
+
 2021—Subsec. (h). Pub. L. 117–36 added subsec. (h).
 
 2016—Subsec. (c). Pub. L. 114–145, § 2(b), struck out “The order to show cause shall contain a statement of the basis thereof and shall call upon the applicant or registrant to appear before the Attorney General at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this section in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States.” after “denied, revoked, or suspended.”, designated existing provisions as par. (1), and added pars. (2) to (5).
@@ -2992,7 +3201,7 @@ Nothing in the Convention on Psychotropic Substances shall be construed as super
 
 (1) Every manufacturer registered under [section 823 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-823) shall, at such time or times and in such form as the Attorney General may require, make periodic reports to the Attorney General of every sale, delivery or other disposal by him of any controlled substance, and each distributor shall make such reports with respect to narcotic controlled substances, identifying by the registration number assigned under this subchapter the person or establishment (unless exempt from registration under [section 822(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section822/d&num=0&edition=prelim)) to whom such sale, delivery, or other disposal was made.
 
-(2) Each pharmacy with a modified registration under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) that authorizes the dispensing of controlled substances by means of the Internet shall report to the Attorney General the controlled substances it dispenses, in the amount specified, and in such time and manner as the Attorney General by regulation shall require, except that the Attorney General, under this paragraph, may not require any pharmacy to report any information other than the total quantity of each controlled substance that the pharmacy has dispensed each month. For purposes of this paragraph, no reporting shall be required unless the pharmacy has met 1 of the following thresholds in the month for which the reporting is required:
+(2) Each pharmacy with a modified registration under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) that authorizes the dispensing of controlled substances by means of the Internet shall report to the Attorney General the controlled substances it dispenses, in the amount specified, and in such time and manner as the Attorney General by regulation shall require, except that the Attorney General, under this paragraph, may not require any pharmacy to report any information other than the total quantity of each controlled substance that the pharmacy has dispensed each month. For purposes of this paragraph, no reporting shall be required unless the pharmacy has met 1 of the following thresholds in the month for which the reporting is required:
 
   (A) 100 or more prescriptions dispensed.
 
@@ -3042,6 +3251,8 @@ Nothing in the Convention on Psychotropic Substances shall be construed as super
 Schedules II, III, IV, and V, referred to in subsec. (c), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
 #### Amendments
+2022—Subsec. (d)(2). Pub. L. 117–215 substituted “823(g)” for “823(f)” in introductory provisions.
+
 2018—Subsecs. (f) to (i). Pub. L. 115–271, § 3273(a)(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
 Subsec. (j). Pub. L. 115–271, § 3273(a)(3), added subsec. (j).
@@ -3218,7 +3429,7 @@ Pub. L. 101–647, title XIX, § 1902(c), Nov. 29, 1990, 104 Stat. 4852, provide
 
 (1) the controlled substance is delivered by the pharmacy to the prescribing practitioner or the practitioner administering the controlled substance, as applicable, at the location listed on the practitioner’s certificate of registration issued under this subchapter;
 
-(2) the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under [section 823(g)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim) and—
+(2) the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under [section 823(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim) and—
 
   (A) the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and
 
@@ -3248,6 +3459,9 @@ Pub. L. 101–647, title XIX, § 1902(c), Nov. 29, 1990, 104 Stat. 4852, provide
 
 #### References in Text
 Section 3204(b) of the SUPPORT for Patients and Communities Act, referred to in subsec. (b)(2), is section 3204(b) of Pub. L. 115–271, title III, Oct. 24, 2018, 132 Stat. 3946, which is not classified to the Code.
+
+#### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–215 substituted “823(h)(2)” for “823(g)(2)” in introductory provisions.
 
 
 <a id="section-830"></a>
@@ -3579,11 +3793,11 @@ Pub. L. 95–633, title II, § 203(c), Nov. 10, 1978, 92 Stat. 3777, required th
 
   (A) demonstrates a legitimate need for the special registration; and
 
-  (B) is registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) in the State in which the patient will be located when receiving the telemedicine treatment, unless the practitioner—
+  (B) is registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) in the State in which the patient will be located when receiving the telemedicine treatment, unless the practitioner—
 
     (i) is exempted from such registration in all States under [section 822(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section822/d&num=0&edition=prelim); or
 
-    (ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim).
+    (ii) is an employee or contractor of the Department of Veterans Affairs who is acting in the scope of such employment or contract and is registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) in any State or is utilizing the registration of a hospital or clinic operated by the Department of Veterans Affairs registered under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim).
 
 (2) **Regulations** — Not later than 1 year after October 24, 2018, in consultation with the Secretary, the Attorney General shall promulgate final regulations specifying—
 
@@ -3613,6 +3827,8 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 This chapter, referred to in subsec. (j), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
+2022—Subsec. (h)(1)(B). Pub. L. 117–215 substituted “823(g)” for “823(f)” wherever appearing.
+
 2018—Subsec. (h)(2). Pub. L. 115–271 amended par. (2) generally. Prior to amendment, text read as follows: “The Attorney General shall, with the concurrence of the Secretary, promulgate regulations specifying the limited circumstances in which a special registration under this subsection may be issued and the procedures for obtaining such a special registration.”
 
 #### Effective Date
@@ -3821,11 +4037,11 @@ shall be fined in accordance with title 18 or imprisoned not more than 20 years 
 
 (2) **Examples** — Examples of activities that violate paragraph (1) include, but are not limited to, knowingly or intentionally—
 
-  (A) delivering, distributing, or dispensing a controlled substance by means of the Internet by an online pharmacy that is not validly registered with a modification authorizing such activity as required by [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim) (unless exempt from such registration);
+  (A) delivering, distributing, or dispensing a controlled substance by means of the Internet by an online pharmacy that is not validly registered with a modification authorizing such activity as required by [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim) (unless exempt from such registration);
 
   (B) writing a prescription for a controlled substance for the purpose of delivery, distribution, or dispensation by means of the Internet in violation of [section 829(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section829/e&num=0&edition=prelim);
 
-  (C) serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 22 So in original. Probably should be “section”. 823(f) or 829(e) of this title;
+  (C) serving as an agent, intermediary, or other entity that causes the Internet to be used to bring together a buyer and seller to engage in the dispensing of a controlled substance in a manner not authorized by sections 22 So in original. Probably should be “section”. 823(g) or 829(e) of this title;
 
   (D) offering to fill a prescription for a controlled substance based solely on a consumer’s completion of an online medical questionnaire; and
 
@@ -3861,6 +4077,8 @@ Section 3(a)(1)(B) of the Hillory J. Farias and Samantha Reid Date-Rape Prohibit
 This chapter, referred to in subsec. (g)(2)(B), (3), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
+2022—Subsec. (h)(2). Pub. L. 117–215 substituted “823(g)” for “823(f)” in two places.
+
 2018—Subsec. (b)(1)(A). Pub. L. 115–391, § 401(a)(2)(A), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final, such person shall be sentenced to a term of imprisonment of not less than 15 years” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final, such person shall be sentenced to a term of imprisonment which may not be less than 20 years” and “after 2 or more prior convictions for a serious drug felony or serious violent felony have become final, such person shall be sentenced to a term of imprisonment of not less than 25 years” for “after two or more prior convictions for a felony drug offense have become final, such person shall be sentenced to a mandatory term of life imprisonment without release”.
 
 Subsec. (b)(1)(B). Pub. L. 115–391, § 401(a)(2)(B), in concluding provisions, substituted “If any person commits such a violation after a prior conviction for a serious drug felony or serious violent felony has become final” for “If any person commits such a violation after a prior conviction for a felony drug offense has become final”.
@@ -4268,7 +4486,7 @@ Pub. L. 96–359, § 8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d
 
   (A) It shall be unlawful for any person to knowingly or intentionally use the Internet, or cause the Internet to be used, to advertise the sale of, or to offer to sell, distribute, or dispense, a controlled substance where such sale, distribution, or dispensing is not authorized by this subchapter or by the Controlled Substances Import and Export Act [[21 U.S.C. 951](./chapter-013-drug-abuse-prevention-and-control.md#section-951) et seq.].
 
-  (B) Examples of activities that violate subparagraph (A) include, but are not limited to, knowingly or intentionally causing the placement on the Internet of an advertisement that refers to or directs prospective buyers to Internet sellers of controlled substances who are not registered with a modification under [section 823(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/f&num=0&edition=prelim).
+  (B) Examples of activities that violate subparagraph (A) include, but are not limited to, knowingly or intentionally causing the placement on the Internet of an advertisement that refers to or directs prospective buyers to Internet sellers of controlled substances who are not registered with a modification under [section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim).
 
   (C) Subparagraph (A) does not apply to material that either—
 
@@ -4317,6 +4535,8 @@ The Federal Rules of Civil Procedure, referred to in subsec. (f)(4), are set out
 The Federal Rules of Criminal Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+2022—Subsec. (c)(2)(B). Pub. L. 117–215 substituted “823(g)” for “823(f)”.
+
 2008—Subsec. (c). Pub. L. 110–425 designated existing provisions as par. (1) and added par. (2).
 
 2003—Subsec. (f)(1). Pub. L. 108–21 substituted “this section, [section 842 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-842), or 856 of this title” for “this section or [section 842 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-842)”.
@@ -4550,7 +4770,7 @@ Section 841(b)(1)(A), referred to in subsec. (e)(1)(A), was in the original a re
 
 Section 960(b)(1), referred to in subsec. (e)(1)(A), was in the original a reference to “section 960(b)(1)” but probably should be a reference to “section 1010(b)(1)”, meaning section 1010(b)(1) of Pub. L. 91–513, title III, Oct. 27, 1970, 84 Stat. 1290.
 
-Act of July 15, 1932 (D.C. Code, secs. 24–203—24–207), referred to in subsec. (d), is act July 15, 1932, ch. 492, 47 Stat. 696, as amended, which is not classified to the Code.
+Act of July 15, 1932 (D.C. Code, secs. 24–203—24–207), referred to in subsec. (d), is act July 15, 1932, ch. 492, 47 Stat. 696, which is not classified to the Code.
 
 #### Amendments
 2006—Subsec. (e)(2). Pub. L. 109–177, § 221(1), substituted “(1)(B)” for “(1)(b)”.
@@ -5262,7 +5482,7 @@ Subsec. (a)(1). Pub. L. 101–647, § 1002(d)(2), struck out “(as such terms a
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsecs. (a)(2), (b)(2), and (e)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
@@ -5471,9 +5691,9 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+The Controlled Substances Act, referred to in subsec. (a), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsec. (a), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951) and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (a), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-951) and Tables.
 
 #### Codification
 Section was enacted as part of the USA PATRIOT Improvement and Reauthorization Act of 2005 and also as part of the Combat Methamphetamine Epidemic Act of 2005, and not as part of the Controlled Substances Act which comprises this subchapter.
@@ -5490,7 +5710,7 @@ Section was enacted as part of the USA PATRIOT Improvement and Reauthorization A
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 
 <a id="section-871a"></a>
@@ -5516,7 +5736,7 @@ This subchapter, referred to in subsecs. (a) and (b), was in the original “thi
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 Section 711(a)(1), referred to in subsec. (a)(2)(A), is section 711(a)(1) of Pub. L. 109–177, which amended [section 802 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-802).
 
@@ -6111,7 +6331,7 @@ Section 881a, Pub. L. 99–198, title XVII, § 1764, Dec. 23, 1985, 99 Stat. 165
 
 **(c) State cause of action pertaining to online pharmacies**
 
-(1) **In general** — In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 823(f), 829(e), or 831 of this title, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
+(1) **In general** — In any case in which the State has reason to believe that an interest of the residents of that State has been or is being threatened or adversely affected by the action of a person, entity, or Internet site that violates the provisions of section 823(g), 829(e), or 831 of this title, the State may bring a civil action on behalf of such residents in a district court of the United States with appropriate jurisdiction—
 
   (A) to enjoin the conduct which violates this section;
 
@@ -6155,6 +6375,8 @@ This chapter, referred to in subsec. (c)(3), was in the original “this Act”,
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–215 substituted “823(g)” for “823(f)” in introductory provisions.
+
 2008—Subsec. (c). Pub. L. 110–425 added subsec. (c).
 
 #### Effective Date of 2008 Amendment
@@ -6339,13 +6561,13 @@ Repeal applicable to any forfeiture proceeding commenced on or after the date th
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Act of 1949, referred to in subsec. (b)(1)(A), (D), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
+The Agricultural Act of 1949, referred to in subsec. (b)(1)(A), (D), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§ 1421 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1421&num=0&edition=prelim) and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, and is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, and is classified generally to subchapter II (§ 714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 714 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section714&num=0&edition=prelim) and Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (b)(1)(C), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1501 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1501&num=0&edition=prelim) and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(1)(E), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(1)(E), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was classified to [section 881a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section881a&num=0&edition=prelim) prior to renumbering by Pub. L. 101–647.
@@ -6371,7 +6593,7 @@ If a provision of this chapter is held invalid, all valid provisions that are se
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 
 <a id="section-902"></a>
@@ -6382,7 +6604,7 @@ Nothing in this chapter, except this part and, to the extent of any inconsistenc
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 
 <a id="section-903"></a>
@@ -6393,7 +6615,7 @@ No provision of this subchapter shall be construed as indicating an intent on th
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
+This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 
 <a id="section-904"></a>
@@ -6430,7 +6652,7 @@ Subsec. (c). Pub. L. 96–132, § 13, added subsec. (c).
 #### References in Text
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (a)(2), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim), Customs Duties.
 
-This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended. Part A of title III comprises this subchapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+This subchapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises this subchapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Amendments
 1988—Subsec. (a)(2). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
@@ -6749,13 +6971,13 @@ Pub. L. 91–513, title III, § 1104, Oct. 27, 1970, 84 Stat. 1294, as amended b
 
 **(c) Applicants to import controlled substances in schedule III, IV, or V or to export controlled substances in schedule III or IV; applicants to import or export list I chemicals**
 
-(1) The Attorney General shall register an applicant to import a controlled substance in schedule III, IV, or V or to export a controlled substance in schedule III or IV, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the factors enumerated in paragraphs (1) through (6) of [section 823(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/d&num=0&edition=prelim) shall be considered.
+(1) The Attorney General shall register an applicant to import a controlled substance in schedule III, IV, or V or to export a controlled substance in schedule III or IV, unless he determines that the issuance of such registration is inconsistent with the public interest. In determining the public interest, the factors enumerated in paragraphs (1) through (6) of [section 823(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/e&num=0&edition=prelim) shall be considered.
 
 (2)
 
   (A) The Attorney General shall register an applicant to import or export a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the import or export of a drug product that is exempted under [section 802(39)(A)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/39/A/iv&num=0&edition=prelim).
 
-  (B) In determining the public interest for the purposes of subparagraph (A), the Attorney General shall consider the factors specified in [section 823(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h&num=0&edition=prelim).
+  (B) In determining the public interest for the purposes of subparagraph (A), the Attorney General shall consider the factors specified in [section 823(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/i&num=0&edition=prelim).
 
 **(d) Denial of application**
 
@@ -6786,12 +7008,16 @@ Pub. L. 91–513, title III, § 1104, Oct. 27, 1970, 84 Stat. 1294, as amended b
 #### References in Text
 Schedules I, II, III, IV, and V, referred to in subsecs. (a), (c), and (i), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
 
-This subchapter, referred to in subsecs. (d)(4) and (g), was in the original “this title”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended. Part A of title III comprises this subchapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+This subchapter, referred to in subsecs. (d)(4) and (g), was in the original “this title”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises this subchapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Codification
 In subsecs. (a) and (d), “May 1, 1971” substituted for “the effective date of this section” and “the effective date of this part”, respectively.
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–215, § 103(b)(2)(A), substituted “823(e)” for “823(d)”.
+
+Subsec. (c)(2)(B). Pub. L. 117–215, § 103(b)(2)(B), substituted “823(i)” for “823(h)”.
+
 2004—Subsec. (f). Pub. L. 108–447, which directed amendment of subsec. (f) of section 1088 of the Controlled Substances Import and Export Act by inserting “and control” after “the registration” and substituting “listed chemicals” for “list I chemicals under this section”, was executed to subsec. (f) of this section, which is section 1008 of the Controlled Substances Import and Export Act, to reflect the probable intent of Congress.
 
 1993—Subsec. (c). Pub. L. 103–200, § 3(f)(1), designated existing provisions as par. (1) and added par. (2).

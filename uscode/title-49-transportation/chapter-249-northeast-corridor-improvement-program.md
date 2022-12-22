@@ -26,7 +26,7 @@ In this chapter—
 This section is derived from 45:802 for clarity. That section contains definitions for the Railroad Revitalization and Regulatory Reform Act of 1976 (Public Law 94–210, 90 Stat. 33). Title VII of that Act is the source of the source provisions restated in this chapter. However, other titles of that Act are not being restated because they are outside the scope of the restatement. Therefore, 45:802 is not being restated in this restatement and only the relevant definitions are accounted for in this chapter.
 
 #### References in Text
-The Regional Rail Reorganization Act of 1973, referred to in par. (1), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§ 701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in par. (1), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, which is classified principally to chapter 16 (§ 701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-24902"></a>
@@ -232,9 +232,9 @@ In subsection (c)(3), the words “either before or” are omitted as surplus be
 This amends 49:24904(a)(2) to correct an error in the codification enacted by section 1 of the Act of July 5, 1994 (Public Law 103–272, 108 Stat. 934).
 
 #### References in Text
-The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (c)(2), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§ 701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (c)(2), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, which is classified principally to chapter 16 (§ 701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) and Tables.
 
-The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (a)(6) and (c)(2), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) and Tables.
+The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (a)(6) and (c)(2), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section801&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 24903, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 933; Pub. L. 104–287, § 5(48), Oct. 11, 1996, 110 Stat. 3393, related to program master plan for Boston-New York main line, prior to repeal by Pub. L. 105–134, title IV, § 405(a), Dec. 2, 1997, 111 Stat. 2586.
@@ -671,7 +671,7 @@ In subsection (b), the words “obtained by the Secretary” and “the provisio
 In subsection (c), the words “to any party for any damages, or in any other matter” are omitted as surplus. The word “because” is substituted for ‘by reason of the fact that” to eliminate unnecessary words. The words “related to the note or agreement” are substituted for “in connection with” for clarity. The words “all” and “(including fees of accountants, experts, and attorneys)” are omitted as surplus. The words “a civil action” are substituted for “any litigation” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The words “legal” and “given, issued, or entered into” are omitted as surplus.
 
 #### References in Text
-The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§ 701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (b), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, which is classified principally to chapter 16 (§ 701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Subsec. (a). Pub. L. 114–94 substituted “section 24903” for “[section 24904 of this title](./chapter-249-northeast-corridor-improvement-program.md#section-24904)”.
@@ -944,7 +944,7 @@ Amendment by Pub. L. 114–94 effective Oct. 1, 2015, see section 1003 of Pub. L
 
   (C) facilities and services used to operate and maintain lines described in subparagraphs (A) and (B).
 
-**(b) Grant Program Authorized.—** The Secretary of Transportation shall develop and implement a program for issuing grants to applicants, on a competitive basis, to fund capital projects that reduce the state of good repair backlog, improve performance, or expand or establish new intercity passenger rail service, including privately operated intercity passenger rail service if an eligible applicant is involved;.11 So in original. The semicolon preceding the period probably should be a period.
+**(b) Grant Program Authorized.—** The Secretary of Transportation shall develop and implement a program for issuing grants to applicants, on a competitive basis, to fund capital projects that reduce the state of good repair backlog, improve performance, or expand or establish new intercity passenger rail service, including privately operated intercity passenger rail service if an eligible applicant is involved;.11 So in original. The semicolon preceding the period probably should not appear.
 
 **(c) Eligible Projects.—** The following capital projects, including acquisition of real property interests, are eligible to receive grants under this section:
 

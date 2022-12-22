@@ -16,16 +16,25 @@ source: >-
 #### Derivation
 Act Feb. 12, 1925, ch. 213, § 1, 43 Stat. 883.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–90, § 1, Mar. 3, 2022, 136 Stat. 26, provided that: “This Act [enacting chapter 4 of this title, amending sections 2, 208, and 307 of this title, and enacting provisions set out as a note under [section 401 of this title](./chapter-004-arbitration-of-disputes-involving-sexual-assault-and-sexual-harassment.md#section-401)] may be cited as the ‘Ending Forced Arbitration of Sexual Assault and Sexual Harassment Act of 2021’.”
+
 
 <a id="section-2"></a>
 ## § 2. Validity, irrevocability, and enforcement of agreements to arbitrate
 
-A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract.
+A written provision in any maritime transaction or a contract evidencing a transaction involving commerce to settle by arbitration a controversy thereafter arising out of such contract or transaction, or the refusal to perform the whole or any part thereof, or an agreement in writing to submit to arbitration an existing controversy arising out of such a contract, transaction, or refusal, shall be valid, irrevocable, and enforceable, save upon such grounds as exist at law or in equity for the revocation of any contract or as otherwise provided in chapter 4.
 
 ### Statutory Notes
 
 #### Derivation
 Act Feb. 12, 1925, ch. 213, § 2, 43 Stat. 883.
+
+#### Amendments
+2022—Pub. L. 117–90 inserted “or as otherwise provided in chapter 4” before period at end.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–90 applicable with respect to any dispute or claim that arises or accrues on or after Mar. 3, 2022, see section 3 of Pub. L. 117–90, set out as an Effective Date note under [section 401 of this title](./chapter-004-arbitration-of-disputes-involving-sexual-assault-and-sexual-harassment.md#section-401).
 
 
 <a id="section-3"></a>

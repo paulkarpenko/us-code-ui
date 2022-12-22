@@ -59,10 +59,23 @@ Pub. L. 104–208, div. A, title I, § 101(f) [title VI, § 662(e)], Sept. 30, 1
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)
+Pub. L. 117–108, title II, § 209(b), (e), Apr. 6, 2022, 136 Stat. 1152, provided that, effective 180 days after Apr. 6, 2022, subsection (e) of this section is amended as follows:
+
+(1) in par. (1), by striking “The Governors shall appoint” and inserting “The Governors and the members of the Postal Regulatory Commission shall appoint, by a favorable vote of a majority of the Governors in office and of a majority of the members of the Commission in office,”; and
+
+(2) in par. (3), by inserting “and 3 members of the Postal Regulatory Commission” after “at least 7 Governors”.
+
+See 2022 Amendment notes below.
+
 #### References in Text
 Section 8G of the Inspector General Act of 1978, referred to in subsec. (e), is section 8G of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (e)(1). Pub. L. 117–108, § 209(b)(1), substituted “The Governors and the members of the Postal Regulatory Commission shall appoint, by a favorable vote of a majority of the Governors in office and of a majority of the members of the Commission in office,” for “The Governors shall appoint”.
+
+Subsec. (e)(3). Pub. L. 117–108, § 209(b)(2), inserted “and 3 members of the Postal Regulatory Commission” after “at least 7 Governors”.
+
 2006—Subsec. (a). Pub. L. 109–435, § 501(a)(1), designated existing provisions as par. (1) and substituted “The Governors shall represent the public interest generally, and shall be chosen solely on the basis of their experience in the field of public service, law or accounting or on their demonstrated ability in managing organizations or corporations (in either the public or private sector) of substantial size; except that at least 4 of the Governors shall be chosen solely on the basis of their demonstrated ability in managing organizations or corporations (in either the public or private sector) that employ at least 50,000 employees. The Governors shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.” for “The Governors shall be chosen to represent the public interest generally, and shall not be representatives of specific interests using the Postal Service, and may be removed only for cause.”
 
 Subsec. (a)(2). Pub. L. 109–435, § 501(b), added par. (2).
@@ -78,6 +91,9 @@ Subsec. (e). Pub. L. 104–208, § 101(f) [title VI, § 662(a)(1)], added subsec
 1985—Subsec. (a). Pub. L. 99–190 substituted “42” for “30” in two places.
 
 1983—Subsec. (b). Pub. L. 98–81 inserted provision that a Governor may continue to serve after the expiration of his term until his successor has qualified, but not to exceed one year.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–108 effective 180 days after Apr. 6, 2022, see section 209(e) of Pub. L. 117–108, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–435, title V, § 501(a)(2), Dec. 20, 2006, 120 Stat. 3232, provided that: “The amendment made by paragraph (1) [amending this section] shall not affect the appointment or tenure of any person serving as a Governor of the United States Postal Service under an appointment made before the date of enactment of this Act [Dec. 20, 2006][;] however, when any such office becomes vacant, the appointment of any person to fill that office shall be made in accordance with such amendment. The requirement set forth in the fourth sentence of [section 202(a)(1) of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section202/a/1&num=0&edition=prelim), United States Code (as amended by subsection (a)) shall be met beginning not later than 9 years after the date of enactment of this Act [Dec. 20, 2006].”

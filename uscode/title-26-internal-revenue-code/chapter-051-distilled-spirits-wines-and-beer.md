@@ -112,7 +112,7 @@ For purposes of refunds allowed under this paragraph, section 6611(e) shall be a
 
 See 2020 Amendment note below.
 
-Pub. L. 116–260, div. EE, title I, § 109, Dec. 27, 2020, 134 Stat. 3049, provided that, applicable to distilled spirits removed after Dec. 31, 2021, subsection (c) of this section is amended by adding at the end the following:
+Pub. L. 116–260, div. EE, title I, § 109, Dec. 27, 2020, 134 Stat. 3049, provided that, applicable to distilled spirits removed after Dec. 31, 2021, subsection (c) of this section, as amended by the preceding provisions of div. EE of Pub. L. 116–260, is amended by adding at the end the following:
 
 (5) Processed distilled spirits
 

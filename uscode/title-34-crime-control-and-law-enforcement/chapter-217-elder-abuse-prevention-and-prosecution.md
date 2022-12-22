@@ -97,18 +97,31 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
     (iii) a description of the scheme or scam; and
 
-    (iv) the outcome of the case.22 So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv).
+    (iv) the outcome of the case.22 So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv);
 
-  (B) with respect to the report by the Attorney General, including a link to the publicly available best practices identified under subsection (b)(1)(B) and the replication guides and training materials created or compiled under such subsection.
+  (B) with respect to the report by the Attorney General, including a link to the publicly available best practices identified under subsection (b)(1)(B) and the replication guides and training materials created or compiled under such subsection; and
+
+  (C) with respect to the report by the Federal Trade Commission, in relevant years, including information on—
+
+    (i) the newly created materials, guidance, or recommendations of the Senior Scams Prevention Advisory Group established under section 112 of the Stop Senior Scams Act and any relevant views or considerations made by members of the Advisory Group that were not included in the Advisory Group’s model materials or considered an official recommendation by the Advisory Group;
+
+    (ii) the Senior Scams Prevention Advisory Group’s findings about senior scams and industry educational materials and programs; and
+
+    (iii) any recommendations on ways stakeholders can continue to work together to reduce scams affecting seniors.
 
 **(d) Use of appropriated funds** No additional funds are authorized to be appropriated to carry out this section.
 
 ### Statutory Notes
 
-#### Applicability of Amendment
-Amendment of section by section 3(a) of Pub. L. 116–252 applicable with respect to the report submitted during the second year beginning after Dec. 22, 2020, and each year thereafter. See 2020 Amendment note below.
+#### Amendment of Section
+For repeal of amendment by Pub. L. 107–103, see Termination Date of 2022 Amendment note below.
+
+#### References in Text
+Section 112 of the Stop Senior Scams Act, referred to in subsec. (c)(2)(C), is section 112 of Pub. L. 117–103, div. Q, title I, Mar. 15, 2022, 136 Stat. 809, which amended this section and enacted provisions set out as notes under this section and [section 45e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45e&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments
+2022—Subsec. (c)(2)(C). Pub. L. 117–103, § 112(e), (f), temporarily added subpar. (C). See Termination Date of 2022 Amendment below.
+
 2020—Subsec. (b). Pub. L. 116–252, § 2(a)(1)–(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated former subpars. (A) to (C) of par. (2) as clauses (i) to (iii), respectively, of par. (1)(B), and realigned margins.
 
 Subsec. (b)(1)(B)(ii). Pub. L. 116–252, § 2(a)(4)(A), inserted “, including witnesses who have Alzheimer’s disease and related dementias” after “other legal issues”.
@@ -118,6 +131,9 @@ Subsec. (b)(1)(B)(iii). Pub. L. 116–252, § 2(a)(4)(B), substituted “elder a
 Subsec. (b)(2). Pub. L. 116–252, § 2(a)(5), added par. (2).
 
 Subsec. (c)(2). Pub. L. 116–252, § 3(a), substituted “a report—” for “a report” in introductory provisions, designated remainder of provisions as subpar. (A), redesignated former subpars. (A) to (D) as cls. (i) to (iv), respectively, of subpar. (A) and realigned margins, and added subpar. (B).
+
+#### Termination of 2022 Amendment
+Pub. L. 117–103, div. Q, title I, § 112(f), Mar. 15, 2022, 136 Stat. 811, provided that: “This subtitle [subtitle A of title I of div. Q of Pub. L. 117–103, amending this section and enacting provisions set out as notes under this section and sections 45e and 58 of Title 15, Commerce and Trade], and the amendments made by this subtitle, ceases to be effective on the date that is 5 years after the date of enactment of this Act [Mar. 15, 2022].”
 
 #### Effective Date and Applicability of 2020 Amendment
 Pub. L. 116–252, § 2(b), Dec. 22, 2020, 134 Stat. 1134, provided that: “The amendments made by subsection (a) [amending this section] shall— “(1) take effect on the date of enactment of this Act [Dec. 22, 2020]; and “(2) apply on and after the date that is 1 year after the date of enactment of this Act.”

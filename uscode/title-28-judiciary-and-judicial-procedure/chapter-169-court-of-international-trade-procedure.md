@@ -77,7 +77,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsecs. (b), (j)(1)(A), i
 
 Section 516A of the Tariff Act of 1930, referred to in subsecs. (c), (j)(1)(B), is classified to [section 1516a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1516a&num=0&edition=prelim).
 
-The Trade Act of 1974, referred to in subsec. (d)(1) to (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19. Sections 223, 251, and 271 of the Trade Act of 1974 are classified to sections 2273, 2341, and 2371, respectively, of Title 19. [Section 2371 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2371&num=0&edition=prelim) was omitted from the Code as terminated Sept. 30, 1982. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
+The Trade Act of 1974, referred to in subsec. (d)(1) to (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of Title 19. Sections 223, 251, and 271 of the Trade Act of 1974 are classified to sections 2273, 2341, and 2371, respectively, of Title 19. [Section 2371 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2371&num=0&edition=prelim) was omitted from the Code as terminated Sept. 30, 1982. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsecs. (e), (k)(2)(A), is classified to [section 2515(b)(1) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2515/b/1&num=0&edition=prelim).
 
@@ -204,7 +204,7 @@ A prior section 2634, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, P
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in subsecs. (a), (b)(1), and (c), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Tariff Act of 1930 is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of Title 19, Customs Duties. Sections 515, 516, 516A, and 777 of the Tariff Act of 1930 are classified to sections 1515, 1516, 1516a, and 1677f, respectively, of Title 19. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
+The Tariff Act of 1930, referred to in subsecs. (a), (b)(1), and (c), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Tariff Act of 1930 is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of Title 19, Customs Duties. Sections 515, 516, 516A, and 777 of the Tariff Act of 1930 are classified to sections 1515, 1516, 1516a, and 1677f, respectively, of Title 19. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 2635, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, Pub. L. 91–271, title I, § 116, 84 Stat. 280, related to burden of proof and evidence of value, prior to the general revision of this chapter by Pub. L. 96–417. See [section 2639 of this title](./chapter-169-court-of-international-trade-procedure.md#section-2639).
@@ -561,7 +561,8 @@ Amendment by Pub. L. 98–573 effective on close of 180th day after Oct. 30, 198
 #### Effective Date
 Subsecs. (a) and (c)(2), (4) of this section applicable with respect to civil actions commenced on or after Nov. 1, 1980, see section 701(b)(1)(B) of Pub. L. 96–417, set out as an Effective Date of 1980 Amendment note under [section 251 of this title](./chapter-011-court-of-international-trade.md#section-251).
 
-Effect of Termination of USMCA Country StatusFor provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4601&num=0&edition=prelim), Customs Duties.
+#### Effect of Termination of USMCA Country Status
+For provisions relating to effect of termination of USMCA country status on sections 401 to 432 of Pub. L. 116–113, see [section 4601 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4601&num=0&edition=prelim), Customs Duties.
 
 
 <a id="section-2644"></a>

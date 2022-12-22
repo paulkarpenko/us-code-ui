@@ -142,7 +142,7 @@ Sections 5952 and 5953 of this title, referred to in subsec. (b), were repealed 
 
 Section 9110(a) of the Department of Defense Appropriations Act, 1993, referred to in subsec. (c), is section 9110(a) of Pub. L. 102–396, title IX, Oct. 6, 1992, 106 Stat. 1928, which is not classified to the Code.
 
-Section 108 of Public Law 102–229, referred to in subsec. (c), is section 108 of Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1708, as amended, which is not classified to the Code.
+Section 108 of Public Law 102–229, referred to in subsec. (c), is section 108 of Pub. L. 102–229, title I, Dec. 12, 1991, 105 Stat. 1708, which is not classified to the Code.
 
 
 <a id="section-5955"></a>
@@ -190,7 +190,7 @@ Section, Pub. L. 103–160, div. A, title XII, § 1208, Nov. 30, 1993, 107 Stat.
 ### Statutory Notes
 
 #### References in Text
-The Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (d), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
+The Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, referred to in subsec. (d), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801) and Tables.
 
 
 <a id="section-5959"></a>

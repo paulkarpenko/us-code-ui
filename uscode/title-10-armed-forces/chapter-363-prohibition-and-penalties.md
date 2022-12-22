@@ -59,7 +59,7 @@ A prior section 4652 was renumbered [section 7652 of this title](./chapter-771-i
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355 set out as an Effective Date of 1994 Amendment note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355 set out as an Effective Date of 1994 Amendment note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 
 <a id="section-4653"></a>
@@ -131,7 +131,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 
 <a id="section-4655"></a>
@@ -177,7 +177,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 #### Effective Date
 Pub. L. 98–525, title XII, § 1234(c), Oct. 19, 1984, 98 Stat. 2604, provided that: “[Section 2402 of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2402), United States Code [now [10 U.S.C. 4655](./chapter-363-prohibition-and-penalties.md#section-4655)] (as added by subsection (a)), shall take effect at the end of the 180-day period beginning on the date of the enactment of this Act [Oct. 19, 1984].”
@@ -271,7 +271,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–456, div. A, title VIII, § 831(b), Sept. 29, 1988, 102 Stat. 2023, provided that: “[Section 2408(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2408/a&num=0&edition=prelim), United States Code [now [10 U.S.C. 4656(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4656/a&num=0&edition=prelim)], as amended by subsection (a), shall apply with respect to individuals convicted after the date of the enactment of this Act [Sept. 29, 1988].”
@@ -379,12 +379,21 @@ Subsec. (b). Pub. L. 116–283, § 1862(c)(2), as amended by Pub. L. 117–81, �
 Subsec. (b). Pub. L. 104–106, § 1503(a)(22), substituted “In” for “For purposes of”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
-#### Effective Date of 1992 Amendment
+#### Effective Date
 Pub. L. 102–484, div. A, title VIII, § 834(b), Oct. 23, 1992, 106 Stat. 2461, provided that: “[Section 2410f of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410f), United States Code [now [10 U.S.C. 4658](./chapter-363-prohibition-and-penalties.md#section-4658)], as added by subsection (a), shall take effect 90 days after the date of the enactment of this Act [Oct. 23, 1992].”
+
+#### Prohibition of Contracts
+Pub. L. 106–398, § 1 [[div. A], title VIII, § 825(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–220, provided that: “If the Secretary of Defense determines that a person has been convicted of intentionally affixing a label bearing a ‘Made in America’ inscription, or another inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the Secretary shall determine, in accordance with [section 2410f of title 10](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410f), United States Code [now [10 U.S.C. 4658](./chapter-363-prohibition-and-penalties.md#section-4658)], whether the person should be debarred from contracting with the Department of Defense.”
+
+Similar provisions were contained in the following prior authorization acts:
+
+Pub. L. 106–65, div. A, title VIII, § 816(b), Oct. 5, 1999, 113 Stat. 712.
+
+Pub. L. 103–160, div. A, title VIII, § 849(b), Nov. 30, 1993, 107 Stat. 1725.
 
 
 <a id="section-4659"></a>
@@ -477,7 +486,7 @@ Pub. L. 113–291, § 1071(f)(17)(B)(i), which directed amendment of par. (3) by
 Pub. L. 113–291, § 1071(f)(17)(A), redesignated last sentence of par. (2) as (3).
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 

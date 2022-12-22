@@ -20,6 +20,9 @@ source: >-
 #### Effective Date
 Act Aug. 5, 1954, ch. 658, § 6, 68 Stat. 675, as amended by Pub. L. 86–121, § 2, July 31, 1959, 73 Stat. 268, provided that: “Sections 1 to 5, inclusive, of this Act [enacting this subchapter and repealing sections 444 to 449 of Title 25, Indians] shall take effect July 1, 1959.”
 
+#### Short Title
+This subchapter is popuarly known as the “Transfer Act”.
+
 #### Transfer of Functions
 Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
@@ -31,11 +34,14 @@ Whenever the health needs of the Indians can be better met thereby, the Secretar
 
 ### Statutory Notes
 
+#### Change of Name
+“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date
 Section effective July 1, 1959, see section 6 of act Aug. 5, 1954, set out as a note under [section 2001 of this title](./chapter-022-indian-hospitals-and-health-facilities.md#section-2001).
 
 #### Transfer of Functions
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-2003"></a>
@@ -59,13 +65,16 @@ The personnel, property, records, and unexpended balances of appropriations, all
 
 ### Statutory Notes
 
+#### Change of Name
+“Department of Health and Human Services” substituted in text for “Department of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+
 #### Effective Date
 Section effective July 1, 1959, see section 6 of act Aug. 5, 1954, set out as a note under [section 2001 of this title](./chapter-022-indian-hospitals-and-health-facilities.md#section-2001).
 
 #### Transfer of Functions
 Functions vested by law (including reorganization plan) in Bureau of the Budget or Director of Bureau of the Budget transferred to President of the United States by section 101 of Reorg. Plan No. 2 of 1970, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, set out in the Appendix to Title 5, Government Organization and Employees. Section 102 of Reorg. Plan No. 2 of 1970, redesignated Bureau of the Budget as Office of Management and Budget.
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202).
 
 
 <a id="section-2004a"></a>
@@ -135,7 +144,7 @@ As a condition to providing assistance under [section 2005 of this title](./chap
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in par. (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in par. (b), is act July 1, 1944, ch. 373, 58 Stat. 682. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 #### Transfer of Functions
 Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under [section 202 of this title](./chapter-6a-public-health-service.md#section-202). Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
@@ -160,7 +169,7 @@ Neither assistance provided under this subchapter for meeting part of the cost o
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Title VI of the Act is classified generally to subchapter IV (§ 291 et seq.) of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 
 <a id="section-2005e"></a>

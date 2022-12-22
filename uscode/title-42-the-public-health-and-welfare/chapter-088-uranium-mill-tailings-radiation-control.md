@@ -37,7 +37,7 @@ Committee on Interstate and Foreign Commerce of the House of Representatives cha
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, as amended, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Short Title of 1988 Amendment
 Pub. L. 100–616, § 1, Nov. 5, 1988, 102 Stat. 3192, provided: “That this Act [amending sections 7916 and 7922 of this title] may be cited as the ‘Uranium Mill Tailings Remedial Action Amendments Act of 1988’.”
@@ -293,9 +293,9 @@ Any permanent transfer of lands under the jurisdiction of the Bureau of Land Man
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, as amended, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 7901 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7901) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 7901 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7901) and Tables.
 
-The National Environmental Policy Act, referred to in text, probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+The National Environmental Policy Act, referred to in text, probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 #### Amendments
 1988—Par. (2). Pub. L. 100–616 added par. (2) and concluding provisions and struck out former par. (2) and concluding provisions which read as follows:
@@ -327,7 +327,7 @@ Prior to acquisition of land under paragraph (1) or (2) of this subsection in an
 ### Statutory Notes
 
 #### References in Text
-Title II, referred to in subsec. (a)(1), is title II (§§ 201–209) of Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3033, as amended, which enacted sections 2022, 2113, and 2114 of this title, amended sections 2014, 2021, 2111, and 2201 of this title, and enacted provisions set out as notes under sections 2014, 2021, and 2113 of this title. For complete classification of title II to the Code, see Tables.
+Title II, referred to in subsec. (a)(1), is title II (§§ 201–209) of Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3033, which enacted sections 2022, 2113, and 2114 of this title, amended sections 2014, 2021, 2111, and 2201 of this title, and enacted provisions set out as notes under sections 2014, 2021, and 2113 of this title. For complete classification of title II to the Code, see Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (b), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
@@ -438,9 +438,9 @@ Such report shall be prepared in consultation with the Commission, the Secretary
 ### Statutory Notes
 
 #### References in Text
-This chapter and this Act, referred to in subsec. (a), mean Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, as amended, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 7901 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7901) and Tables.
+This chapter and this Act, referred to in subsec. (a), mean Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, known as the Uranium Mill Tailings Radiation Control Act of 1978. For complete classification of this Act to the Code, see Short Title note set out under [section 7901 of this title](./chapter-088-uranium-mill-tailings-radiation-control.md#section-7901) and Tables.
 
-Title II of this Act, referred to in subsec. (a), is title II (§§ 201–209) of Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3033, as amended, which enacted sections 2022, 2113, and 2114 of this title, amended sections 2014, 2021, 2111, and 2201 of this title, and enacted provisions set out as notes under sections 2014, 2021, and 2113 of this title. For complete classification of title II to the Code, see Tables.
+Title II of this Act, referred to in subsec. (a), is title II (§§ 201–209) of Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3033, which enacted sections 2022, 2113, and 2114 of this title, amended sections 2014, 2021, 2111, and 2201 of this title, and enacted provisions set out as notes under sections 2014, 2021, and 2113 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Change of Name
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
@@ -459,7 +459,7 @@ Committee on Interstate and Foreign Commerce of the House of Representatives cha
 #### References in Text
 The Atomic Energy Act of 1954, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-Title II, referred to in subsec. (a), is title II (§§ 201–209) of Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3033, as amended, which enacted sections 2022, 2113, 2114 of this title, amended sections 2014, 2021, 2111, and 2201 of this title, and enacted provisions set out as notes under sections 2014, 2021, and 2113 of this title. For complete classification of title II to the Code, see Tables.
+Title II, referred to in subsec. (a), is title II (§§ 201–209) of Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3033, which enacted sections 2022, 2113, 2114 of this title, amended sections 2014, 2021, 2111, and 2201 of this title, and enacted provisions set out as notes under sections 2014, 2021, and 2113 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 1996—Subsec. (a). Pub. L. 104–259 inserted at end “This subsection does not prohibit the disposal of residual radioactive material from a processing site under this subchapter at a site licensed under title II or the expenditure of funds under this subchapter for such disposal.”

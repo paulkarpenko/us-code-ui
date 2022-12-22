@@ -851,7 +851,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Civil Rights Act of 1964, referred to in subsec. (b)(6), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1968, referred to in subsec. (b)(6), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73, as amended. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1968, referred to in subsec. (b)(6), is Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 73. Title VIII of the Act, known as the Fair Housing Act, is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2008—Subsec. (b)(1). Pub. L. 110–411, § 201(1), inserted “and except with respect to loan guarantees under the demonstration program under subchapter VI,” after “paragraphs (2) and (4),”.
@@ -2010,7 +2010,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Hawaiian Homes Commission Act, 1920, referred to in pars. (1) and (4)(B), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in pars. (1) and (4)(B), is act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 This chapter, referred to in par. (5), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-043-native-american-housing-assistance-and-self-determination.md#section-4101) and Tables.
 
@@ -2213,9 +2213,9 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sect
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in subsecs. (c)(2)(E)(i)(I) and (d)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in subsecs. (c)(2)(E)(i)(I) and (d)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
-The Fair Housing Act, referred to in subsecs. (c)(2)(E)(i)(I) and (d)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
+The Fair Housing Act, referred to in subsecs. (c)(2)(E)(i)(I) and (d)(1), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 803 of Pub. L. 104–330. This section is based on the text of section 803 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513. Section 803 of Pub. L. 104–330, as added by Pub. L. 106–568, referred to title VIII of the Act popularly known as the Civil Rights Act of 1968 instead of the Fair Housing Act in subsecs. (c)(2)(E)(i)(I) and (d)(1). Title VIII of the Civil Rights Act of 1968 is title VIII of Pub. L. 90–284 which is known as the Fair Housing Act, see References in Text note above. The reference to “such title” in subsec. (c)(2)(E)(i)(I) probably refers to title VI of the Civil Rights Act of 1964 and title VIII of the Civil Rights Act of 1968 (the Fair Housing Act).
@@ -2363,7 +2363,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially 
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2), and (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a)(1), (b)(2), and (c)(4)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted substantially identical sections 806 of Pub. L. 104–330. This section is based on the text of section 806 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.
@@ -2844,7 +2844,7 @@ Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sect
 ### Statutory Notes
 
 #### References in Text
-The Hawaiian Homes Commission Act, 1920, referred to in subsec. (d)(1), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in subsec. (d)(1), is act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code.
 
 #### Codification
 Pub. L. 106–568, § 203, and Pub. L. 106–569, § 513, enacted identical sections 820 of Pub. L. 104–330. This section is based on the text of section 820 of Pub. L. 104–330, as added by Pub. L. 106–569, § 513.

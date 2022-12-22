@@ -81,11 +81,11 @@ Par. (12). Pub. L. 101–189, § 1636(a)(4), added par. (12).
 1987—Pars. (1) to (11). Pub. L. 100–180 inserted “The term” after each par. designation, and revised first word in quotes in pars. (1) to (6) and (8) to (10) to make initial letter of each word lowercase.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 
 <a id="section-9511a"></a>
-## § 9511a. Renumbered 9512]
+## § 9511a. Renumbered § 9512]
 
 
 <a id="section-9512"></a>
@@ -196,7 +196,7 @@ Pub. L. 103–355, § 3032(5), redesignated subsec. (b) of [section 9513 of this
 1984—Subsec. (b)(1). Pub. L. 98–525 substituted “App. 1401” for “1401”.
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 
 <a id="section-9514"></a>

@@ -416,8 +416,6 @@ September 30, 1996, referred to in subsec. (h)(10)(D)(i), (ii), was in the origi
 #### Change of Name
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-The Water and Power Resources Service, referred to in subsec. (h)(10)(C), changed to the Bureau of Reclamation on May 18, 1981. See 155 Dep’t of the Interior, Departmental Manual 1.1 (2008 repl.); Sec’y James G. Watt, Dep’t of the Interior, Secretarial Order 3064, §§ 3, 5 (May 18, 1981).
-
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (h)(12)(A) of this section relating to submitting annually a detailed report to the Committee on Energy and Natural Resources of the Senate and to the Committees on Energy and Commerce and on Natural Resources of the House of Representatives, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 188 of House Document No. 103–7.
 
@@ -426,6 +424,9 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Operation and Maintenance of Fish Passage Facilities Within the Yakima River Basin; Funding
 Pub. L. 98–381, title I, § 109, Aug. 17, 1984, 98 Stat. 1340, provided that: “The Secretary of the Interior, acting pursuant to Federal reclamation law (Act of June 17, 1902, 32 Stat. 388 [see Short Title note under [section 371 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section371&num=0&edition=prelim), Public Lands], and Acts amendatory thereof and supplementary thereto) and in accordance with the Pacific Northwest Electric Power Planning and Conservation Act (94 Stat. 2697) [[16 U.S.C. 839](./chapter-12h-pacific-northwest-electric-power-planning-and-conservation.md#section-839) et seq.] is authorized to design, construct, operate, and maintain fish passage facilities within the Yakima River Basin, and to accept funds from any entity, public or private, to design, construct, operate, and maintain such facilities.”
+
+#### Change of Name
+The Water and Power Resources Service, referred to in subsec. (h)(10)(C), changed to the Bureau of Reclamation on May 18, 1981. See 155 Dep’t of the Interior, Departmental Manual 1.1 (2008 repl.); Sec’y James G. Watt, Dep’t of the Interior, Secretarial Order 3064, §§ 3, 5 (May 18, 1981).
 
 
 <a id="section-839c"></a>
@@ -1011,17 +1012,17 @@ The certification under paragraph (1) shall be made in accordance with this subs
 ### Statutory Notes
 
 #### References in Text
-The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 832 of this title](./chapter-12b-bonneville-project.md#section-832) and Tables.
+The Bonneville Project Act of 1937, referred to in subsecs. (b) and (e)(5), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, which is classified generally to chapter 12B (§ 832 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 832 of this title](./chapter-12b-bonneville-project.md#section-832) and Tables.
 
-Act of August 31, 1964, referred to in subsec. (e)(5), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, as amended, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 31, 1964, referred to in subsec. (e)(5), is Pub. L. 88–552, Aug. 31, 1964, 78 Stat. 756, which is classified generally to chapter 12F (§ 837 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Columbia River Transmission System Act, referred to in subsec. (e)(5), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 838 of this title](./chapter-12g-pacific-northwest-federal-transmission-system.md#section-838) and Tables.
+The Federal Columbia River Transmission System Act, referred to in subsec. (e)(5), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, which is classified generally to chapter 12G (§ 838 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 838 of this title](./chapter-12g-pacific-northwest-federal-transmission-system.md#section-838) and Tables.
 
 [Section 103 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section103&num=0&edition=prelim), referred to in subsec. (f), which related to interest on certain governmental obligations was amended generally by Pub. L. 99–514, title XIII, § 1301(a), Oct. 22, 1986, 100 Stat. 2602, and as so amended relates to interest on State and local bonds. Section 103(b)(3), which prior to the general amendment defined exempt persons, relates to the applicability of the interest exclusion to bonds not in registered form, etc.
 
-Chapter 2C of title 15, referred to in subsec. (h), contained the Public Utility Holding Company Act of 1935, act Aug. 26, 1935, ch. 687, title I, 49 Stat. 803, as amended, and consisted of section 79 et seq. of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+Chapter 2C of title 15, referred to in subsec. (h), contained the Public Utility Holding Company Act of 1935, act Aug. 26, 1935, ch. 687, title I, 49 Stat. 803, and consisted of section 79 et seq. of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. For complete classification of this Act to Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (j)(1), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. For complete classification of this Act to Code, see Short Title note set out under [section 2601 of this title](./chapter-046-public-utility-regulatory-policies.md#section-2601) and Tables.
 
 #### Amendments
 1986—Subsec. (f). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.

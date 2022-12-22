@@ -2,7 +2,7 @@
 title: 38
 chapter: '63'
 heading: OUTREACH ACTIVITIES
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -10,11 +10,11 @@ source: >-
 ## § 6301. Purpose; definitions
 **(a) Purpose.—** The Congress declares that—
 
-(1) the outreach services program authorized by this chapter is for the purpose of ensuring that all veterans (especially those who have been recently discharged or released from active military, naval, air, or space service, or from a reserve component, and those who are eligible for readjustment or other benefits and services under laws administered by the Department) are provided timely and appropriate assistance to aid and encourage them in applying for and obtaining such benefits and services in order that they may achieve a rapid social and economic readjustment to civilian life and obtain a higher standard of living for themselves and their dependents; and
+(1) the outreach services program authorized by this subchapter is for the purpose of ensuring that all veterans (especially those who have been recently discharged or released from active military, naval, air, or space service, or from a reserve component, and those who are eligible for readjustment or other benefits and services under laws administered by the Department) are provided timely and appropriate assistance to aid and encourage them in applying for and obtaining such benefits and services in order that they may achieve a rapid social and economic readjustment to civilian life and obtain a higher standard of living for themselves and their dependents; and
 
-(2) the outreach services program authorized by this chapter is for the purpose of charging the Department with the affirmative duty of seeking out eligible veterans and eligible dependents and providing them with such services.
+(2) the outreach services program authorized by this subchapter is for the purpose of charging the Department with the affirmative duty of seeking out eligible veterans and eligible dependents and providing them with such services.
 
-**(b) Definitions.—** For the purposes of this chapter—
+**(b) Definitions.—** For the purposes of this subchapter—
 
 (1) the term “outreach” means the act or process of reaching out in a systematic manner to proactively provide information, services, and benefits counseling to veterans, and to the spouses, children, and parents of veterans who may be eligible to receive benefits under the laws administered by the Secretary, to ensure that such individuals are fully informed about, and receive assistance in applying for, such benefits;
 
@@ -28,6 +28,8 @@ source: >-
 Provisions similar to those in this section were contained in [section 7721 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7721&num=0&edition=prelim) prior to repeal by Pub. L. 109–233.
 
 #### Amendments
+2022—Pub. L. 117–205 substituted “this subchapter” for “this chapter” wherever appearing.
+
 2021—Subsecs. (a)(1), (b)(3). Pub. L. 116–283 “air, or space service” for “or air service”.
 
 2008—Subsec. (a)(1). Pub. L. 110–181, § 1710(a), inserted “, or from a reserve component,” after ”active military, naval, or air service”.
@@ -60,7 +62,7 @@ Subsec. (b). Pub. L. 110–181, § 1710(b), added par. (1) and redesignated form
 
 <a id="section-6303"></a>
 ## § 6303. Outreach services
-**(a) Requirement To Provide Services.—** In carrying out the purposes of this chapter, the Secretary shall provide the outreach services specified in subsections (b) through (d). In areas where a significant number of eligible veterans and eligible dependents speak a language other than English as their principal language, such services shall, to the maximum feasible extent, be provided in the principal language of such persons.
+**(a) Requirement To Provide Services.—** In carrying out the purposes of this subchapter, the Secretary shall provide the outreach services specified in subsections (b) through (d). In areas where a significant number of eligible veterans and eligible dependents speak a language other than English as their principal language, such services shall, to the maximum feasible extent, be provided in the principal language of such persons.
 
 **(b) Individual Notice to New Veterans.—** The Secretary shall by letter advise each veteran at the time of the veteran’s discharge or release from active military, naval, air, or space service (or as soon as possible after such discharge or release) of all benefits and services under laws administered by the Department for which the veteran may be eligible. In carrying out this subsection, the Secretary shall ensure, through the use of veteran-student services under [section 3485 of this title](./chapter-034-veterans-educational-assistance.md#section-3485), that contact, in person or by telephone, is made with those veterans who, on the basis of their military service records, do not have a high school education or equivalent at the time of discharge or release.
 
@@ -84,6 +86,8 @@ Subsec. (b). Pub. L. 110–181, § 1710(b), added par. (1) and redesignated form
 Provisions similar to those in this section were contained in [section 7722 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7722&num=0&edition=prelim) prior to repeal by Pub. L. 109–233.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–205 substituted “this subchapter” for “this chapter”.
+
 2021—Subsec. (b). Pub. L. 116–283 “air, or space service” for “or air service”.
 
 #### Fact Sheets
@@ -121,7 +125,7 @@ Pub. L. 100–687, div. B, title XII, § 1204, Nov. 18, 1988, 102 Stat. 4125, as
 
 <a id="section-6304"></a>
 ## § 6304. Veterans assistance offices
-**(a) In General.—** The Secretary shall establish and maintain veterans assistance offices at such places throughout the United States and its territories and possessions, and in the Commonwealth of Puerto Rico, as the Secretary determines to be necessary to carry out the purposes of this chapter. The Secretary may maintain such offices on such military installations located elsewhere as the Secretary, after consultation with the Secretary of Defense and taking into account recommendations, if any, of the Secretary of Labor, determines to be necessary to carry out such purposes.
+**(a) In General.—** The Secretary shall establish and maintain veterans assistance offices at such places throughout the United States and its territories and possessions, and in the Commonwealth of Puerto Rico, as the Secretary determines to be necessary to carry out the purposes of this subchapter. The Secretary may maintain such offices on such military installations located elsewhere as the Secretary, after consultation with the Secretary of Defense and taking into account recommendations, if any, of the Secretary of Labor, determines to be necessary to carry out such purposes.
 
 **(b) Location of Offices.—** In establishing and maintaining such offices, the Secretary shall give due regard to—
 
@@ -137,6 +141,8 @@ Pub. L. 100–687, div. B, title XII, § 1204, Nov. 18, 1988, 102 Stat. 4125, as
 Provisions similar to those in this section were contained in [section 7723 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7723&num=0&edition=prelim) prior to repeal by Pub. L. 109–233.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–205 substituted “this subchapter” for “this chapter”.
+
 2021—Subsec. (b)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 
@@ -147,44 +153,53 @@ The Secretary may station employees of the Department at locations other than De
 
 (1) counseling and other assistance regarding benefits under this title to veterans and other persons eligible for benefits under this title; and
 
-(2) outreach services under this chapter.
+(2) outreach services under this subchapter.
 
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 7724 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7724&num=0&edition=prelim) prior to repeal by Pub. L. 109–233.
 
+#### Amendments
+2022—Par. (2). Pub. L. 117–205 substituted “this subchapter” for “this chapter”.
+
 
 <a id="section-6306"></a>
 ## § 6306. Use of other agencies
-**(a)** In carrying out this chapter, the Secretary shall arrange with the Secretary of Labor for the State employment service to match the particular qualifications of an eligible veteran or eligible dependent with an appropriate job or job training opportunity, including, where possible, arrangements for outstationing the State employment personnel who provide such assistance at appropriate facilities of the Department.
+**(a)** In carrying out this subchapter, the Secretary shall arrange with the Secretary of Labor for the State employment service to match the particular qualifications of an eligible veteran or eligible dependent with an appropriate job or job training opportunity, including, where possible, arrangements for outstationing the State employment personnel who provide such assistance at appropriate facilities of the Department.
 
-**(b)** In carrying out this chapter, the Secretary shall, in consultation with the Secretary of Labor, actively seek to promote the development and establishment of employment opportunities, training opportunities, and other opportunities for veterans, with particular emphasis on the needs of veterans with service-connected disabilities and other eligible veterans, taking into account applicable rates of unemployment and the employment emphases set forth in chapter 42 of this title.
+**(b)** In carrying out this subchapter, the Secretary shall, in consultation with the Secretary of Labor, actively seek to promote the development and establishment of employment opportunities, training opportunities, and other opportunities for veterans, with particular emphasis on the needs of veterans with service-connected disabilities and other eligible veterans, taking into account applicable rates of unemployment and the employment emphases set forth in chapter 42 of this title.
 
-**(c)** In carrying out this chapter, the Secretary shall cooperate with and use the services of any Federal department or agency or any State or local governmental agency or recognized national or other organization.
+**(c)** In carrying out this subchapter, the Secretary shall cooperate with and use the services of any Federal department or agency or any State or local governmental agency or recognized national or other organization.
 
-**(d)** In carrying out this chapter, the Secretary shall, where appropriate, make referrals to any Federal department or agency or State or local governmental unit or recognized national or other organization.
+**(d)** In carrying out this subchapter, the Secretary shall, where appropriate, make referrals to any Federal department or agency or State or local governmental unit or recognized national or other organization.
 
-**(e)** In carrying out this chapter, the Secretary may furnish available space and office facilities for the use of authorized representatives of such governmental unit or other organization providing services.
+**(e)** In carrying out this subchapter, the Secretary may furnish available space and office facilities for the use of authorized representatives of such governmental unit or other organization providing services.
 
-**(f)** In carrying out this chapter, the Secretary shall conduct and provide for studies, in consultation with appropriate Federal departments and agencies, to determine the most effective program design to carry out the purposes of this chapter.
+**(f)** In carrying out this subchapter, the Secretary shall conduct and provide for studies, in consultation with appropriate Federal departments and agencies, to determine the most effective program design to carry out the purposes of this subchapter.
 
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 7725 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7725&num=0&edition=prelim) prior to repeal by Pub. L. 109–233.
 
+#### Amendments
+2022—Pub. L. 117–205 substituted “this subchapter” for “this chapter” wherever appearing.
+
 
 <a id="section-6307"></a>
 ## § 6307. Outreach for eligible dependents
-**(a) Needs of Dependents.—** In carrying out this chapter, the Secretary shall ensure that the needs of eligible dependents are fully addressed.
+**(a) Needs of Dependents.—** In carrying out this subchapter, the Secretary shall ensure that the needs of eligible dependents are fully addressed.
 
-**(b) Information as to Availability of Outreach Services for Dependents.—** The Secretary shall ensure that the availability of outreach services and assistance for eligible dependents under this chapter is made known through a variety of means, including the Internet, announcements in veterans publications, and announcements to the media.
+**(b) Information as to Availability of Outreach Services for Dependents.—** The Secretary shall ensure that the availability of outreach services and assistance for eligible dependents under this subchapter is made known through a variety of means, including the Internet, announcements in veterans publications, and announcements to the media.
 
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 7727 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7727&num=0&edition=prelim) prior to repeal by Pub. L. 109–233.
+
+#### Amendments
+2022—Pub. L. 117–205 substituted “this subchapter” for “this chapter” in subsecs. (a) and (b).
 
 
 <a id="section-6308"></a>
@@ -201,3 +216,48 @@ Provisions similar to those in this section were contained in [section 7727 of t
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 7726 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7726&num=0&edition=prelim) prior to repeal by Pub. L. 109–233.
+
+
+<a id="section-6320"></a>
+## § 6320. Solid Start program
+**(a) In General.—** The Secretary shall carry out a program, to be known as the “Solid Start program”, under which the Secretary shall—
+
+(1) build the capacity of the Department to efficiently and effectively respond to the queries and needs of veterans who have recently separated from the Armed Forces; and
+
+(2) systemically integrate and coordinate efforts to assist veterans, including efforts—
+
+  (A) to proactively reach out to newly separated veterans to inform them of their eligibility for programs of and benefits provided by the Department; and
+
+  (B) to connect veterans in crisis to resources that address their immediate needs.
+
+**(b) Activities of the Solid Start Program.—**
+
+(1) The Secretary, in coordination with the Secretary of Defense, shall carry out the Solid Start program of the Department by—
+
+  (A) collecting up-to-date contact information during transition classes or separation counseling for all members of the Armed Forces who are separating from the Armed Forces, while explaining the existence and purpose of the Solid Start program;
+
+  (B) calling each veteran, regardless of separation type or characterization of service, three times within the first year after separation of the veteran from the Armed Forces;
+
+  (C) providing information about the Solid Start program on the website of the Department and in materials of the Department, especially transition booklets and other resources;
+
+  (D) ensuring calls are truly tailored to the needs of each veteran’s unique situation by conducting quality assurance tests;
+
+  (E) prioritizing outreach to veterans who have accessed mental health resources prior to separation from the Armed Forces;
+
+  (F) providing women veterans with information that is tailored to their specific health care and benefit needs;
+
+  (G) as feasible, providing information on access to State and local resources, including Vet Centers and veterans service organizations; and
+
+  (H) gathering and analyzing data assessing the effectiveness of the Solid Start program.
+
+(2) The Secretary, in coordination with the Secretary of Defense, may carry out the Solid Start program by—
+
+  (A) encouraging members of the Armed Forces who are transitioning to civilian life to authorize alternate points of contact who can be reached should the member be unavailable during the first year following the separation of the member from the Armed Forces; and
+
+  (B) following up missed phone calls with tailored mailings to ensure the veteran still receives similar information.
+
+(3) In this subsection:
+
+  (A) The term “Vet Center” has the meaning given that term in [section 1712A(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A/h&num=0&edition=prelim).
+
+  (B) The term “veterans service organization” means an organization recognized by the Secretary for the representation of veterans under [section 5902 of this title](./chapter-059-agents-and-attorneys.md#section-5902).

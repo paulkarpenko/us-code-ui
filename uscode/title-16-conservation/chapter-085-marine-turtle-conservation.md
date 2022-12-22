@@ -43,7 +43,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 #### Amendments
 2019—Subsec. (b). Pub. L. 116–9 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The purpose of this chapter is to assist in the conservation of marine turtles and the nesting habitats of marine turtles in foreign countries by supporting and providing financial resources for projects to conserve the nesting habitats, conserve marine turtles in those habitats, and address other threats to the survival of marine turtles.”
@@ -159,7 +159,7 @@ Par. (2)(F). Pub. L. 116–9, § 7001(c)(3)(B)(i)(V), substituted “turtles, fr
 
 Par. (2)(H). Pub. L. 116–9, § 7001(c)(3)(B)(i)(VI), struck out “nesting” before “population” and before “habitat”.
 
-Pars. (3) to (10). Pub. L. 116–9, § 7001(c)(3)(B)(ii)–(v), added pars. (3), (5), (9), and (10) and redesignated former pars. (3) to (6) as (4), (6), (7) and (8), respectively.
+Pars. (3) to (10). Pub. L. 116–9, § 7001(c)(3)(B)(ii)–(v), added pars. (3), (5), (9), and (10) and redesignated former pars. (3) to (6) as (4), (6), (7), and (8), respectively.
 
 
 <a id="section-6603"></a>
@@ -313,7 +313,7 @@ Subsec. (b)(2). Pub. L. 116–9, § 7001(c)(3)(D)(ii), substituted “5 percent,
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2019—Subsec. (a). Pub. L. 116–9 inserted “, freshwater turtles, or tortoises” after “marine turtles”.

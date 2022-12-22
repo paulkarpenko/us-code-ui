@@ -211,7 +211,7 @@ For the purposes of this chapter—
 
 (12) The term “seniority” means longevity in employment together with any benefits of employment which accrue with, or are determined by, longevity in employment.
 
-(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)), a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim).
+(13) The term “service in the uniformed services” means the performance of duty on a voluntary or involuntary basis in a uniformed service under competent authority and includes active duty, active duty for training, initial active duty for training, inactive duty training, full-time National Guard duty, State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)), a period for which a person is absent from a position of employment for the purpose of an examination to determine the fitness of the person to perform any such duty, a period for which a System member of the National Urban Search and Rescue Response System is absent from a position of employment due to an appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, a period for which a person is absent from a position of employment due to an appointment into service in the Federal Emergency Management Agency as intermittent personnel under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5149(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5149/b/1&num=0&edition=prelim)), and a period for which a person is absent from employment for the purpose of performing funeral honors duty as authorized by [section 12503 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12503&num=0&edition=prelim) or [section 115 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section115&num=0&edition=prelim).
 
 (14) The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, and other territories of the United States (including the agencies and political subdivisions thereof).
 
@@ -223,7 +223,7 @@ For the purposes of this chapter—
 
   (C) for which the member is not entitled to pay from the Federal Government.
 
-(16) 11 So in original. Two pars. (16) have been enacted. The term “undue hardship”, in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
+(16) The term “undue hardship”, in the case of actions taken by an employer, means actions requiring significant difficulty or expense, when considered in light of—
 
   (A) the nature and cost of the action needed under this chapter;
 
@@ -233,14 +233,14 @@ For the purposes of this chapter—
 
   (D) the type of operation or operations of the employer, including the composition, structure, and functions of the work force of such employer; the geographic separateness, administrative, or fiscal relationship of the facility or facilities in question to the employer.
 
-(16) 1 The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, and any other category of persons designated by the President in time of war or national emergency.
+(17) The term “uniformed services” means the Armed Forces, the Army National Guard and the Air National Guard when engaged in active duty for training, inactive duty training, or full-time National Guard duty, the commissioned corps of the Public Health Service, the commissioned officer corps of the National Oceanic and Atmospheric Administration, System members of the National Urban Search and Rescue Response System during a period of appointment into Federal service under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, intermittent personnel who are appointed into Federal Emergency Management Agency service under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5149(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5149/b/1&num=0&edition=prelim)) or to train for such service, and any other category of persons designated by the President in time of war or national emergency.
 
 ### Statutory Notes
 
 #### References in Text
 The National Emergencies Act, referred to in par. (13), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
-Section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in pars. (13) and (16), is classified to [section 5165f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165f&num=0&edition=prelim), The Public Health and Welfare.
+Section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in pars. (13) and (17), is classified to [section 5165f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165f&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Prior Provisions
 A prior section 4303, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974, 88 Stat. 1596, § 2023; amended Pub. L. 97–295, § 4(72), Oct. 12, 1982, 96 Stat. 1310; renumbered § 4303 and amended Pub. L. 102–568, title V, § 506(a), (c)(2), Oct. 29, 1992, 106 Stat. 4340, 4341, related to reemployment by the United States, by any territory, possession, or political subdivision thereof, or by the District of Columbia, prior to the general amendment of this chapter by Pub. L. 103–353. This section, as in effect on the day before Oct. 13, 1994, continues to apply to reemployments initiated before the end of the 60-day period beginning Oct. 13, 1994, see section 8 of Pub. L. 103–353, as amended, set out as an Effective Date under [section 4301 of this title](./chapter-043-employment-and-reemployment-rights-of-members-of-the-uniformed-services.md#section-4301).
@@ -248,6 +248,10 @@ A prior section 4303, added Pub. L. 93–508, title IV, § 404(a), Dec. 3, 1974,
 Another prior section 4303 was renumbered [section 7603 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7603).
 
 #### Amendments
+2022—Par. (13). Pub. L. 117–178, § 3(a)(1), inserted “, a period for which a person is absent from a position of employment due to an appointment into service in the Federal Emergency Management Agency as intermittent personnel under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5149(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5149/b/1&num=0&edition=prelim))” before “, and a period”.
+
+Pars. (16), (17). Pub. L. 117–178, § 3(a)(2), (3), redesignated par. (16) defining “uniformed services” as (17) and inserted “intermittent personnel who are appointed into Federal Emergency Management Agency service under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5149(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5149/b/1&num=0&edition=prelim)) or to train for such service,” before “and any other category”.
+
 2021—Par. (13). Pub. L. 116–315, § 7004(1), inserted “State active duty for a period of 14 days or more, State active duty in response to a national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), State active duty in response to a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)),” after “full-time National Guard duty,”.
 
 Pars. (15), (16). Pub. L. 116–315, § 7004(2), (3), added par. (15) and redesignated former par. (15) as (16) defining “undue hardship”.
@@ -376,7 +380,19 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 
 (3) except as provided in subsection (f), the person reports to, or submits an application for reemployment to, such employer in accordance with the provisions of subsection (e).
 
-**(b)** No notice is required under subsection (a)(1) if the giving of such notice is precluded by military necessity or, under all of the relevant circumstances, the giving of such notice is otherwise impossible or unreasonable. A determination of military necessity for the purposes of this subsection shall be made pursuant to regulations prescribed by the Secretary of Defense and shall not be subject to judicial review.
+**(b)**
+
+(1) No notice is required under subsection (a)(1) if the giving of such notice is precluded by military necessity or, under all of the relevant circumstances, the giving of such notice is otherwise impossible or unreasonable.
+
+(2) A determination of military necessity for purposes of paragraph (1) shall be made—
+
+  (A) except as provided in subparagraphs (B) and (C), pursuant to regulations prescribed by the Secretary of Defense;
+
+  (B) for persons performing service to the Federal Emergency Management Agency under section 327 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5165f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165f&num=0&edition=prelim)) and as intermittent personnel under section 306(b)(1) of such Act ([42 U.S.C. 5149(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5149/b/1&num=0&edition=prelim)), by the Administrator of the Federal Emergency Management Agency as described in sections 327(j)(2) and 306(d)(2) of such Act ([42 U.S.C. 5165f(j)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5165f/j/2&num=0&edition=prelim) and 5149(d)(2)),11 So in original. The closing parenthesis probably should follow “respectively”. respectively; or
+
+  (C) for intermittent disaster-response appointees of the National Disaster Medical System, by the Secretary of Health and Human Services as described in section 2812(d)(3)(B) of the Public Health Service Act ([42 U.S.C. 300hh–11(d)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11/d/3/B&num=0&edition=prelim)).
+
+(3) A determination of military necessity under paragraph (1) shall not be subject to judicial review.
 
 **(c)** Subsection (a) shall apply to a person who is absent from a position of employment by reason of service in the uniformed services if such person’s cumulative period of service in the uniformed services, with respect to the employer relationship for which a person seeks reemployment, does not exceed five years, except that any such period of service shall not include any service—
 
@@ -388,7 +404,7 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 
 (4) performed by a member of a uniformed service who is—
 
-  (A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 11 See References in Text note below. of title 14;
+  (A) ordered to or retained on active duty under section 688, 12301(a), 12301(g), 12302, 12304, 12304a, 12304b, or 12305 of title 10 or under section 331, 332, 359, 360, 367, or 712 22 See References in Text note below. of title 14;
 
   (B) ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
 
@@ -396,7 +412,7 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 
   (D) ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the uniformed services;
 
-  (E) called into Federal service as a member of the National Guard under chapter 15 of title 10 or under [section 12406 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12406&num=0&edition=prelim); or
+  (E) called into Federal service as a member of the National Guard under chapter 15 2 of title 10 or under [section 12406 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12406&num=0&edition=prelim); or
 
   (F) ordered to full-time National Guard duty (other than for training) under [section 502(f)(2)(A) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f/2/A&num=0&edition=prelim) when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds, as determined by the Secretary concerned.
 
@@ -472,10 +488,14 @@ Section effective Oct. 13, 1994, except as otherwise provided, see section 8 of 
 #### References in Text
 Sections 331, 332, 359, 360, 367, and 712 of title 14, referred to in subsec. (c)(4)(A), were redesignated sections 2127, 2128, 2308, 2309, 2314, and 3713, respectively, of title 14 by Pub. L. 115–282, title I, §§ 112(b), 113(b), 118(b), Dec. 4, 2018, 132 Stat. 4216, 4221, 4233, and references to section 331, 332, 359, 360, 367, or 712 of title 14 deemed to refer to such redesignated sections, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
+Chapter 15 of title 10, referred to in subsec. (c)(4)(E), was redesignated chapter 13 of title 10 by Pub. L. 114–328, div. A, title XII, § 1241(a)(1), Dec. 23, 2016, 130 Stat. 2497.
+
 #### Prior Provisions
 A prior section 4312 was renumbered [section 7612 of this title](./chapter-076-health-professionals-educational-assistance-program.md#section-7612).
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–178 designated existing provisions as par. (1), struck out second sentence which read “A determination of military necessity for the purposes of this subsection shall be made pursuant to regulations prescribed by the Secretary of Defense and shall not be subject to judicial review.”, and added pars. (2) and (3).
+
 2015—Subsec. (c)(4)(A). Pub. L. 114–92 inserted “12304a, 12304b,” after “12304,”.
 
 2011—Subsec. (c)(4)(F). Pub. L. 112–81 added subpar. (F).

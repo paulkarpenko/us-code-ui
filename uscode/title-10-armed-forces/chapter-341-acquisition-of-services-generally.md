@@ -46,7 +46,7 @@ A prior section 4501, act Aug. 10, 1956, ch. 1041, 70A Stat. 251, which related 
 #### Amendments
 2021—Pub. L. 116–283, § 1856(e)(2), redesignated par. (1) of subsec. (a) as subsec. (b) and subpars. (B) to (D) of former par. (1) as subsecs. (c) to (e), respectively.
 
-Pub. L. 116–283, § 1856(d), transferred subsecs. (a)(2), (3), (b) and (c) to [section 4502 of this title](./chapter-341-acquisition-of-services-generally.md#section-4502). Amendment notes below prior to 2021 relate to section as it read before such provisions were transferred.
+Pub. L. 116–283, § 1856(d), transferred subsecs. (a)(2), (3), (b), and (c) to [section 4502 of this title](./chapter-341-acquisition-of-services-generally.md#section-4502). Amendment notes below prior to 2021 relate to section as it read before such provisions were transferred.
 
 Pub. L. 116–283, § 1856(c), renumbered [section 2330 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2330) as this section.
 
@@ -134,7 +134,7 @@ Section 4503, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, related to research an
 Section 4504, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, related to procurement of ordnance, signal, and chemical warfare supplies for experimental purposes by Secretary of the Army. See [section 4004 of this title](./chapter-301-research-and-engineering-generally.md#section-4004).
 
 #### Amendments
-2021—Pub. L. 116–283, § 1856(d), transferred subsecs. (a)(2), (3), (b) and (c) of [section 4501 of this title](./chapter-341-acquisition-of-services-generally.md#section-4501) to this section and inserted subsec. (a) designation, heading, and introductory provisions.
+2021—Pub. L. 116–283, § 1856(d), transferred subsecs. (a)(2), (3), (b), and (c) of [section 4501 of this title](./chapter-341-acquisition-of-services-generally.md#section-4501) to this section and inserted subsec. (a) designation, heading, and introductory provisions.
 
 Subsec. (a). Pub. L. 116–283, § 1856(f)(1), redesignated pars. (2) and (3) as (1) and (2), respectively.
 
@@ -144,7 +144,7 @@ Subsec. (b)(2). Pub. L. 116–283, § 1856(f)(2)(B), substituted “[section 450
 
 Subsec. (b)(3). Pub. L. 116–283, § 1856(f)(4), redesignated par. (3) as subsec. (c).
 
-Subsec. (c). Pub. L. 116–283, § 1856(f)(5)(A), as amended by Pub. L. 117–81, § 1701(b)(19)(A), inserted heading and substituted “In carrying out subsection (b)(1),” for “In carrying out paragraph (1)” in introductory provisions.
+Subsec. (c). Pub. L. 116–283, § 1856(f)(5)(A), as amended by Pub. L. 117–81, § 1701(b)(19)(A), inserted heading and substituted “In carrying out subsection (b)(1)” for “In carrying out paragraph (1)” in introductory provisions.
 
 Pub. L. 116–283, § 1856(f)(4), redesignated par. (3) of subsec. (b) as subsec. (c) and subpars. (A) to (F) as pars. (1) to (6), respectively.
 
@@ -157,7 +157,7 @@ Subsec. (c)(6). Pub. L. 116–283, § 1856(f)(5)(C), substituted “section 4505
 Subsec. (d). Pub. L. 116–283, § 1856(f)(3), redesignated subsec. (c) as (d).
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -308,7 +308,7 @@ A prior section 4505, act Aug. 10, 1956, ch. 1041, 70A Stat. 252, which related 
 #### Amendments
 2021—Pub. L. 116–283, § 1856(g), renumbered [section 2330a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2330a) as this section.
 
-Subsec. (h)(2). Pub. L. 117–81, § 1701(d)(13), which directed the substitution of “section 4508(b)(3)” for “section 2383(b)(3)”, could not be executed because of the intervening amendment by Pub. L. 116—283, § 1883(b)(2). See note below.
+Subsec. (h)(2). Pub. L. 117–81, § 1701(d)(13), which directed the substitution of “section 4508(b)(3)” for “section 2383(b)(3)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
 
 Pub. L. 116–283, § 1883(b)(2), substituted “section 4508(b)(3)” for “section 2383(b)(3)”.
 
@@ -399,9 +399,9 @@ Subsec. (f) to (h). Pub. L. 112–81, § 936(c), added subsec. (f) and redesigna
 Subsec. (g)(3) to (5). Pub. L. 110–181, § 807(a)(3), added pars. (3) to (5).
 
 #### Effective Date of 2021 Amendment
-Amendment by section 1701(b)(19)(B) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by section 1701(b)(19)(B) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
-Amendment by section 1701(d)(13) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by section 1701(d)(13) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -601,13 +601,13 @@ A prior section 4507, act Aug. 10, 1956, ch. 1041, 70A Stat. 253, which related 
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1994 Amendment
-For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302).
+For effective date and applicability of amendment by Pub. L. 103–355, see section 10001 of Pub. L. 103–355, set out as a note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
 
 #### Regulations
 Pub. L. 101–510, div. A, title VIII, § 834(b), Nov. 5, 1990, 104 Stat. 1614, provided that: “Not later than 180 days after the date of the enactment of this Act [Nov. 5, 1990], the Secretary of Defense shall publish for public comment new regulations to carry out the requirements in this section [enacting this section]. The Secretary shall promulgate final regulations to carry out such requirements not later than 270 days after the date of the enactment of this Act.”
 
 #### Provisions Not Affected by Pub. L. 103–355
-Repeal of subsec. (c) of this section by Pub. L. 103–355 not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former [40 U.S.C. 759](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759&num=0&edition=prelim) or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note under [section 2304a of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304a).
+Repeal of subsec. (c) of this section by Pub. L. 103–355 not to be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under former [40 U.S.C. 759](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section759&num=0&edition=prelim) or chapter 11 of Title 40, Public Buildings, Property, and Works, see section 1004(d) of Pub. L. 103–355, set out as a note preceding [section 3401 of this title](./chapter-245-task-and-delivery-order-contracts-multiple-award-contracts.md#section-3401).
 
 
 <a id="section-4508"></a>
@@ -704,3 +704,6 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date
 Pub. L. 103–337, div. A, title III, § 363(c), Oct. 5, 1994, 108 Stat. 2734, provided that: “Section 2410l of title 10, United States Code [now [10 U.S.C. 4509](./chapter-341-acquisition-of-services-generally.md#section-4509)], as added by subsection (a), shall take effect 180 days after the date of the enactment of this Act [Oct. 5, 1994].”
+
+#### Procedures for Conduct of Studies
+Pub. L. 103–337, div. A, title III, § 363(b), Oct. 5, 1994, 108 Stat. 2734, provided that: “The Secretary of Defense shall prescribe the following procedures: “(1) Procedures for carrying out a cost comparison study under subsection (a)(2) of section 2410l of title 10, United States Code [now [10 U.S.C. 4509(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4509/a/2&num=0&edition=prelim)], as added by subsection (a), which may contain a requirement that the cost comparison study include consideration of factors that are not related to cost, including the quality of the service required to be performed, the availability of Department of Defense personnel, the duration and recurring nature of the services to be performed, and the consistency of the workload. “(2) Procedures for reviewing contracts entered into after a waiver under subsection (b) of such section to determine whether the contract is justified and sufficiently documented.”

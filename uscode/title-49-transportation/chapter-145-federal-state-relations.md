@@ -122,7 +122,7 @@ Section effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 ## § 14502. Tax discrimination against motor carrier transportation property
 **(a) Definitions.—** In this section, the following definitions apply:
 
-(1) **Assessment.—** — The term “assessment” means valuation for a property tax levied by a taxing district.+
+(1) **Assessment.—** — The term “assessment” means valuation for a property tax levied by a taxing district.
 
 (2) **Assessment jurisdiction.—** — The term “assessment jurisdiction” means a geographical area in a State used in determining the assessed value of property for ad valorem taxation.
 
@@ -493,7 +493,7 @@ The date of enactment of this section, referred to in subsec. (a)(7), is the dat
 
 Section 13903(b), referred to in subsec. (b), was redesignated section 13903(d) by Pub. L. 112–141, div. C, title II, § 32916(a)(2), July 6, 2012, 126 Stat. 820.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsecs. (e)(1) and (g)(1), (2), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 

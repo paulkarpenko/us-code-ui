@@ -2,7 +2,7 @@
 title: 38
 chapter: '7'
 heading: EMPLOYEES
-section_count: 23
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -58,7 +58,7 @@ Pub. L. 115–46, title II, § 211, Aug. 12, 2017, 131 Stat. 966, provided that:
 ### Statutory Notes
 
 #### Prior Provisions
-Prior sections 703 and 704 were renumbered sections 1903 and 1904 of this title, respectively.
+A prior section 703 was renumbered [section 1903 of this title](./chapter-019-insurance.md#section-1903).
 
 Provisions similar to those in this section were contained in [section 233 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section233&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
 
@@ -74,7 +74,47 @@ Pub. L. 113–146, title III, § 303, Aug. 7, 2014, 128 Stat. 1788, provided tha
 [For definition of “facility of the Department” as used in section 303 of Pub. L. 113–146, set out above, see section 2 of Pub. L. 113–146, set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701).]
 
 #### Limitation on Awards and Bonuses Paid to Employees of Department of Veterans Affairs
-Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, § 951, July 22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, § 305, June 6, 2018, 132 Stat. 1469, provided that: “(a) Limitation.—The Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title or title 38, United States Code, does not exceed the following amounts:“(1) With respect to each of fiscal years 2017 through 2018, $250,000,000, of which not less than $20,000,000 shall be for recruitment, relocation, and retention bonuses. “(2) With respect to each of fiscal years 2019 through 2021, $290,000,000, of which not less than $20,000,000 shall be for recruitment, relocation, and retention bonuses. “(3) With respect to each of fiscal years 2022 through 2024, $360,000,000. “(b) Sense of Congress.—It is the sense of Congress that the limitation under subsection (a) should not disproportionately impact lower-wage employees and that the Department of Veterans Affairs is encouraged to use bonuses to incentivize high-performing employees in areas in which retention is challenging.”
+Pub. L. 113–146, title VII, § 705, Aug. 7, 2014, 128 Stat. 1798, as amended by Pub. L. 114–198, title IX, § 951, July 22, 2016, 130 Stat. 778; Pub. L. 115–182, title III, § 305, June 6, 2018, 132 Stat. 1469; Pub. L. 117–168, title IX, § 908(a), Aug. 10, 2022, 136 Stat. 1814, provided that: “(a) Limitation.—The Secretary of Veterans Affairs shall ensure that the aggregate amount of awards and bonuses paid by the Secretary in a fiscal year under chapter 45 or 53 of title 5, United States Code, or any other awards or bonuses authorized under such title or title 38, United States Code, does not exceed the following amounts:“(1) With respect to each of fiscal years 2017 through 2018, $250,000,000, of which not less than $20,000,000 shall be for recruitment, relocation, and retention bonuses. “(2) With respect to each of fiscal years 2019 through 2021, $290,000,000, of which not less than $20,000,000 shall be for recruitment, relocation, and retention bonuses. “(b) Sense of Congress.—It is the sense of Congress that the limitation under subsection (a) should not disproportionately impact lower-wage employees and that the Department of Veterans Affairs is encouraged to use bonuses to incentivize high-performing employees in areas in which retention is challenging.”
+
+[Pub. L. 117–168, title IX, § 908(b), Aug. 10, 2022, 136 Stat. 1815, provided that: “Subsection (a) [amending section 705 of Pub. L. 113–146, set out above] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and apply as if such subsection had been enacted on September 30, 2021.” ]
+
+
+<a id="section-704"></a>
+## § 704. Waiver of pay limitation for certain employees
+**(a) Employees of Veterans Health Administration Impacted by Closure or Realignment.—** Notwithstanding any other provision of law, the Secretary may waive any annual premium or aggregate limitation on pay for an employee of the Veterans Health Administration for the calendar year during which—
+
+(1) the official duty station of the employee is closed; or
+
+(2) the office, facility, activity, or organization of the employee is realigned.
+
+**(b) Employees Providing Care to Veterans Exposed to Open Burn Pits.—**
+
+(1) **In general.—** — Notwithstanding any other provision of law, the Secretary may waive any annual premium or aggregate limitation on pay for an employee of the Department whose primary duties include providing expanded care for veterans exposed to open burn pits.
+
+(2) **Open burn pit defined.—** — In this subsection, the term “open burn pit” has the meaning given that term in section 201(c) of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note).
+
+**(c) Coordination With Office of Personnel Management.—** In implementing this section, the Secretary shall coordinate with the Director of the Office of Personnel Management.
+
+**(d) Reports.—**
+
+(1) **In general.—** — For each quarter that the Secretary waives a limitation under this section, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate, the Committee on Veterans’ Affairs of the House of Representatives, and the Office of Personnel Management a report on the waiver or waivers.
+
+(2) **Contents.—** — Each report submitted under paragraph (1) with respect to a waiver or waivers shall include the following:
+
+  (A) Where the waiver or waivers were used, including in which component of the Department and, as the case may be, which medical center of the Department.
+
+  (B) For how many employees the waiver or waivers were used, disaggregated by component of the Department and, if applicable, medical center of the Department.
+
+  (C) The average amount by which each payment exceeded the pay limitation that was waived, disaggregated by component of the Department and, if applicable, medical center of the Department.
+
+**(e) Employee Defined.—** In this section, the term “employee” means any employee regardless of the authority under which the employee was hired.
+
+**(f) Termination.—** This section shall terminate on September 30, 2027.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 704 was renumbered [section 1904 of this title](./chapter-019-insurance.md#section-1904).
 
 
 <a id="section-705"></a>
@@ -85,9 +125,100 @@ The Secretary may pay for official telephone service and rental in the field whe
 ### Statutory Notes
 
 #### Prior Provisions
-Prior sections 705 and 706 were renumbered sections 1905 and 1906 of this title, respectively.
+A prior section 705 was renumbered [section 1905 of this title](./chapter-019-insurance.md#section-1905).
 
 Provisions similar to those in this section were contained in [section 234 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section234&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
+
+
+<a id="section-706"></a>
+## § 706. Additional authority relating to recruitment and retention of personnel
+**(a) Recruitment and Relocation Bonuses.—** The Secretary may pay a recruitment or relocation bonus under [section 5753(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5753/e&num=0&edition=prelim) without regard to any requirements for certification or approval under that section.
+
+**(b) Retention Bonuses.—**
+
+(1) The Secretary may pay a retention bonus under [section 5754(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5754/f&num=0&edition=prelim) without regard to any requirement for certification or approval under that subsection.
+
+(2) The Secretary may pay a retention bonus as specified in subsection (e)(2) of [section 5754 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5754&num=0&edition=prelim) and may pay the bonus as a single lump-sum payment at the beginning of the full period of service required by an agreement under subsection (d) of such section.
+
+**(c) Merit Awards.—** The Secretary may grant a cash award under [section 4502(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section4502/b&num=0&edition=prelim) without regard to any requirement for certification or approval under that section.
+
+**(d) Incentives for Critical Skills.—**
+
+(1) Subject to the provisions of this paragraph, the Secretary may provide a critical skill incentive to an employee in a case in which the Secretary determines—
+
+  (A) the employee possesses a high-demand skill or skill that is at a shortage;
+
+  (B) such skill is directly related to the duties and responsibilities of the employee’s position; and
+
+  (C) employment of an individual with such skill in such position serves a critical mission-related need of the Department.
+
+(2) An incentive provided to an employee under paragraph (1) may not to 11 So in original. The word “to” probably should not appear. exceed 25 percent of the basic pay of the employee.
+
+(3) Provision of an incentive under paragraph (1) shall be contingent on the employee entering into a written agreement to complete a period of employment with the Department.
+
+(4) An incentive provided under paragraph (1) shall not be considered basic pay for any purpose.
+
+(5) The Secretary may prescribe conditions, including with respect to eligibility, and limitations on provision of incentive under paragraph (1).
+
+(6) Incentive provided under paragraph (1) shall not be included in the calculation of total amount of compensation under [section 7431(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/e/4&num=0&edition=prelim).
+
+**(e) Student Loan Repayments.—**
+
+(1) Subject to the provisions of this subsection, the Secretary may repay a student loan pursuant to [section 5379(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5379/b&num=0&edition=prelim).
+
+(2) Paragraph (2) of such section shall not apply to payment under this subsection.
+
+(3) Payment under this subsection shall be made subject to such terms, limitations, or conditions as may be mutually agreed to by the Secretary and the employee concerned, except that the amount paid by the Secretary under this subsection may not exceed—
+
+  (A) $40,000 for any employee in any calendar year; or
+
+  (B) a total of $100,000 in the case of any employee.
+
+**(f) Expedited Hiring Authority for College Graduates; Competitive Service.—**
+
+(1) Subject to paragraph (2) of this subsection, the Secretary may expedite hiring for college graduates under [section 3115 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3115&num=0&edition=prelim) without regard to subsection (e) of such section or any regulations prescribed by the Office of Personnel Management for administration of such subsection.
+
+(2) The number of employees the Secretary may appoint under [section 3115 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3115&num=0&edition=prelim) may not exceed the number equal to 25 percent of individuals that the Secretary appointed during the previous fiscal year to a position in the competitive service classified in a professional or administrative occupational category, at the GS–11 level, or an equivalent level, or below, under a competitive examining procedure.
+
+**(g) Expedited Hiring Authority for Post-secondary Students; Competitive Service.—**
+
+(1) Subject to paragraph (2) of this subsection, the Secretary may expedite hiring of post-secondary students under [section 3116 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3116&num=0&edition=prelim), without regard to subsection (d) of such section or any regulations prescribed by the Office of Personnel Management for administration of such subsection.
+
+(2) The number of employees the Secretary may appoint under [section 3116 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3116&num=0&edition=prelim) may not exceed the number equal to 25 percent of the number of students that the Secretary appointed during the previous fiscal year to a position at the GS–11 level, or an equivalent level, or below.
+
+**(h) Pay Authority for Critical Positions.—**
+
+(1) Subject to the provisions of this subsection, the Secretary may authorize the fixing of the rate of pay for a critical position in the Department consistent with the authorities and requirements of [section 5377 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5377&num=0&edition=prelim) that apply to the Office of Personnel Management.
+
+(2) The Secretary may fix the rate of pay for a critical position under this subsection in excess of the limitation set forth by section 5377(d)(2) of such title.
+
+(3) Basic pay may not be fixed under this subsection at a rate greater than the rate payable for the Vice President of the United States established under [section 104 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), except upon written approval of the President.
+
+(4) Notwithstanding [section 5377(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5377/f&num=0&edition=prelim), the Secretary may authorize the exercise of authority under this subsection with respect to up to 200 positions at any time.
+
+**(i) Rates of Special Pay.—**
+
+(1) The Secretary may establish a rate for special pay under [section 5305(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5305/a/1&num=0&edition=prelim).
+
+(2) In applying such section to the Secretary’s authority under paragraph (1)—
+
+  (A) “50 percent” shall be substituted for “30 percent”; and
+
+  (B) “level II of the Executive Schedule” shall be substituted for “level IV of the Executive Schedule”.
+
+**(j) Waiver of Limitations on Certain Payments Under Pay Comparability System.—** The Secretary may waive the limitation in [section 5307 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307&num=0&edition=prelim) for an employee or a payment.
+
+**(k) Termination.—** The authorities under this section shall terminate on September 30, 2027.
+
+### Statutory Notes
+
+#### References in Text
+GS–11, referred to in subsecs. (f)(2) and (g)(2), is contained in the General Schedule, which is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+
+Levels II and IV of the Executive Schedule, referred to in subsec. (i)(2)(B), are set out in sections 5313 and 5315, respectively, of Title 5, Government Organization and Employees.
+
+#### Prior Provisions
+A prior section 706 was renumbered [section 1906 of this title](./chapter-019-insurance.md#section-1906).
 
 
 <a id="section-707"></a>

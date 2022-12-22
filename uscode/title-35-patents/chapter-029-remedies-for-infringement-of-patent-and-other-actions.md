@@ -278,9 +278,9 @@ The effective date of the Process Patent Amendments Act of 1988, referred to in 
 
 Section 501(c) of the Internal Revenue Code, referred to in subsec. (c)(3), is classified to [section 501(c) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim), Internal Revenue Code.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3)(B), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
-The Public Health Service Act, referred to in subsec. (c)(3)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (c)(3)(B), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 The Clinical Laboratories Improvement Act, referred to in subsec. (c)(3)(B), probably means the Clinical Laboratories Improvement Act of 1967, section 5 of Pub. L. 90–174, Dec. 5, 1967, 81 Stat. 536, which enacted [section 263a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section263a&num=0&edition=prelim) and enacted provisions set out as notes under [section 263a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section263a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 263a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section263a&num=0&edition=prelim) and Tables.
 
@@ -531,7 +531,7 @@ Section effective 6 months after Aug. 23, 1988, and, subject to enumerated excep
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of this section, as added by section 2(a)(2) of Pub. L. 102–560, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding the constitutionality of this section, as added by section 2(a)(2) of Pub. L. 102–560, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Effective Date
 Section effective with respect to violations that occur on or after Oct. 28, 1992, see section 4 of Pub. L. 102–560, set out as an Effective Date of 1992 Amendment note under [section 2541 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2541&num=0&edition=prelim), Agriculture.

@@ -2706,9 +2706,11 @@ Subsec. (c)(1)(C). Pub. L. 105–178, § 4008(g), amended subpar. (C) generally.
 Pub. L. 117–58, div. B, title III, § 23008, Nov. 15, 2021, 135 Stat. 764, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Nov. 15, 2021], the Secretary [of Transportation] shall solicit additional comment on the advance notice of proposed rulemaking entitled ‘State Inspection Programs for Passenger-Carrier Vehicles’ (81 Fed. Reg. 24769 (April 27, 2016)). “(b) Final Rule.—“(1) In general.—After reviewing all comments received in response to the solicitation under subsection (a), if the Secretary determines that data and information exist to support moving forward with a final rulemaking action, the Secretary shall issue a final rule relating to the advance notice of proposed rulemaking described in that subsection. “(2) Considerations.—In determining whether to issue a final rule under paragraph (1), the Secretary shall consider the impact of continuing to allow self-inspection as a means to satisfy periodic inspection requirements on the safety of passenger carrier operations.”
 
 #### Update of Annual Inspection Regulations
-Pub. L. 116–260, div. L, title I, § 131, Dec. 27, 2020, 134 Stat. 1844, provided that: “The Federal Motor Carrier Safety Administration shall update annual inspection regulations under Appendix G to subchapter B of chapter III of title 49, Code of Federal Regulations, as recommended by GAO–19–264.”
+Pub. L. 117–103, div. L, title I, § 131, Mar. 15, 2022, 136 Stat. 706, provided that: “The Federal Motor Carrier Safety Administration shall update annual inspection regulations under Appendix G to subchapter B of chapter III of title 49, Code of Federal Regulations, as recommended by GAO–19–264.”
 
-Similar provisions were contained in the following appropriation act:
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 116–260, div. L, title I, § 131, Dec. 27, 2020, 134 Stat. 1844.
 
 Pub. L. 116–94, div. H, title I, § 132, Dec. 20, 2019, 133 Stat. 2955.
 
@@ -3168,7 +3170,7 @@ Pub. L. 112–141, div. C, title II, § 32302(c)(2)(A), July 6, 2012, 126 Stat. 
 ### Statutory Notes
 
 #### References in Text
-The Fair Credit Reporting Act, referred to in subsec. (b)(1), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Fair Credit Reporting Act, referred to in subsec. (b)(1), is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-31151"></a>

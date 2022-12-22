@@ -319,9 +319,9 @@ The words “, other than a commissioned warrant officer,” are inserted to ref
 #### References in Text
 [Section 125(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section125/d&num=0&edition=prelim), referred to in subsec. (a)(12)(A), was repealed by Pub. L. 99–433, title III, § 301(b)(1), Oct. 1, 1986, 100 Stat. 1022.
 
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(17)(B), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687). For complete classification of this Act to the Code, see Tables.
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)(17)(B), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687). For complete classification of this Act to the Code, see Tables.
 
-The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) and Tables.
+The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623. Title II of the Act is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
@@ -492,6 +492,9 @@ Pub. L. 115–232, div. A, title VI, § 621(a), Aug. 13, 2018, 132 Stat. 1798, p
 #### Short Title of 2016 Amendment
 Pub. L. 114–328, div. E, § 5001, Dec. 23, 2016, 130 Stat. 2894, provided that: “This division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification] may be cited as the ‘Military Justice Act of 2016’.”
 
+#### Short Title of 2011 Amendment
+Pub. L. 111–383, div. A, title VIII, § 860, Jan. 7, 2011, 124 Stat. 4287, provided that: “This subtitle [subtitle F (§§ 860–896) of title VIII of div. A of Pub. L. 111–383, see Tables for classification] may be cited as the ‘Improve Acquisition Act of 2010’.”
+
 #### Short Title of 2009 Amendment
 Pub. L. 111–23, § 1(a), May 22, 2009, 123 Stat. 1704, provided that: “This Act [enacting sections 139c, 139d, 2334, and 2433a of this title, amending sections 139a, 181, 2306b, 2366a, 2366b, 2430, 2433, 2434, 2445c, 2501, and 2505 of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, enacting provisions set out as notes under sections 139a, 139c, 181, 2302, 2366a, 2366b, 2430, and 2433a of this title, and amending provisions set out as a note under [section 2304 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304)] may be cited as the ‘Weapon Systems Acquisition Reform Act of 2009’.”
 
@@ -514,6 +517,15 @@ Pub. L. 102–25, § 1, Apr. 6, 1991, 105 Stat. 75, provided that: “This Act [
 #### Short Title of 1987 Amendment
 Pub. L. 100–26, § 1, Apr. 21, 1987, 101 Stat. 273, provided that: “This Act [see Tables for classification] may be cited as the ‘Defense Technical Corrections Act of 1987’.”
 
+#### Short Title of 1986 Amendment
+Pub. L. 99–500, § 101(c) [title X, § 900], Oct. 18, 1986, 100 Stat. 1783–82, 1783–130, Pub. L. 99–591, § 101(c) [title X, § 900], Oct. 30, 1986, 100 Stat. 3341–82, 3341–130, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 900, Nov. 14, 1986, 100 Stat. 3910, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273, provided that: “This title [see Tables for classification] may be cited as the ‘Defense Acquisition Improvement Act of 1986’.”
+
+#### Short Title of 1985 Amendment
+Pub. L. 99–145, title IX, § 901, Nov. 8, 1985, 99 Stat. 682, provided that: “This title [see Tables for classification] may be cited as the ‘Defense Procurement Improvement Act of 1985’.”
+
+#### Short Title of 1984 Amendment
+Pub. L. 98–525, title XII, § 1201, Oct. 19, 1984, 98 Stat. 2588, provided that: “This title [see Tables for classification] may be cited as the ‘Defense Procurement Reform Act of 1984’.”
+
 #### Short Title of 1981 Amendment
 Pub. L. 97–22, § 1(a), July 10, 1981, 95 Stat. 124, provided that: “this Act [see Tables for classification] may be cited as the ‘Defense Officer Personnel Management Act Technical Corrections Act’.”
 
@@ -525,6 +537,21 @@ Pub. L. 96–513, title VII, § 703, Dec. 12, 1980, 94 Stat. 2956, provided that
 
 #### Rule of Construction Relating to Use of Military Force
 Pub. L. 116–283, div. A, title XII, § 1299S, Jan. 1, 2021, 134 Stat. 4028, provided that: “Nothing in this Act [see Tables for classification] or any amendment made by this Act may be construed to authorize the use of military force.”
+
+#### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661; Definitions
+Pub. L. 100–26, §§ 2, 6, Apr. 21, 1987, 101 Stat. 273, 274, provided that: “SEC. 2. REFERENCES TO 99TH CONGRESS LAWS“For purposes of this Act [Pub. L. 100–26, see Tables for classification]:“(1) The term ‘Defense Authorization Act’ means the Department of Defense Authorization Act, 1987 (division A of Public Law 99–661; 100 Stat. 3816 et seq.). “(2) The term ‘Defense Appropriations Act’ means the Department of Defense Appropriations Act, 1987 (as contained in identical form in section 101(c) of Public Law 99–500 (100 Stat. 1783–82 et seq.) and section 101(c) of Public Law 99–591 (100 Stat. 3341–82 et seq.)). “(3) The term ‘Defense Acquisition Improvement Act’ means title X of the Defense Appropriations Act [100 Stat. 1783–130, 3341–130] and title IX of the Defense Authorization Act [100 Stat. 3910] (as designated by the amendment made by section 3(5) [section 3(5) of Pub. L. 100–26]). Any reference in this Act to the Defense Acquisition Improvement Act shall be considered to be a reference to each such title.”
+
+“SEC. 6. CONSTRUCTION OF DUPLICATE AUTHORIZATION AND APPROPRIATION PROVISIONS
+
+“(a) Rule for Construction of Duplicate Provisions.—(1) In applying the provisions of Public Laws 99–500, 99–591, and 99–661 described in paragraph (2)—
+
+“(A) the identical provisions of those public laws referred to in such paragraph shall be treated as having been enacted only once, and
+
+“(B) in executing to the United States Code and other statutes of the United States the amendments made by such identical provisions, such amendments shall be executed so as to appear only once in the law as amended.
+
+“(2) Paragraph (1) applies with respect to the provisions of the Defense Appropriations Act and the Defense Authorization Act (as amended by sections 3, 4, 5, and 10(a)) referred to across from each other in the following table: “Section 101(c) of Public Law 99–500Section 101(c) of Public Law 99–591Division A ofPublic Law 99–661 “Title XTitle XTitle IX “Sec. 9122Sec. 9122Sec. 522 “Sec. 9036(b)Sec. 9036(b)Sec. 1203 “Sec. 9115Sec. 9115Sec. 1311 “(b) Rule for Date of Enactment.—(1) The date of the enactment of the provisions of law listed in the middle column, and in the right-hand column, of the table in subsection (a)(2) shall be deemed to be October 18, 1986 (the date of the enactment of Public Law 99–500). “(2) Any reference in a provision of law referred to in paragraph (1) to ‘the date of the enactment of this Act’ shall be treated as a reference to October 18, 1986.”
+
+[For classification of provisions listed in the table, see Tables.]
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).

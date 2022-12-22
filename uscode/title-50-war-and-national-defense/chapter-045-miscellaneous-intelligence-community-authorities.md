@@ -2,7 +2,7 @@
 title: 50
 chapter: '45'
 heading: MISCELLANEOUS INTELLIGENCE COMMUNITY AUTHORITIES
-section_count: 95
+section_count: 100
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -77,9 +77,9 @@ Section was formerly classified to [section 403–2a of this title](./chapter-01
 ## § 3304. Limitation on construction of facilities to be used primarily by intelligence community
 **(a) In general**
 
-(1) **In general** — Except as provided in subsection (b), no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $5,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President’s annual fiscal year budget request and is specifically authorized by the Congress.
+(1) **In general** — Except as provided in subsection (b), no project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost in excess of $6,000,000 may be undertaken in any fiscal year unless such project is specifically identified as a separate item in the President’s annual fiscal year budget request and is specifically authorized by the Congress.
 
-(2) **Notification** — In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $2,000,000 but less than $5,000,000, or where any project for the improvement, repair, or modification of such a facility has an estimated Federal cost greater than $2,000,000, the head of such component, in coordination with and subject to the approval of the Director of National Intelligence, shall submit a notification to the intelligence committees specifically identifying such project.
+(2) **Notification** — In the case of a project for the construction of any facility to be used primarily by personnel of any component of the intelligence community which has an estimated Federal cost greater than $2,000,000 but less than $6,000,000, or where any project for the improvement, repair, or modification of such a facility has an estimated Federal cost greater than $2,000,000, the head of such component, in coordination with and subject to the approval of the Director of National Intelligence, shall submit a notification to the intelligence committees specifically identifying such project.
 
 **(b) Exception**
 
@@ -114,6 +114,8 @@ Section 601, referred to in subsec. (c), means section 601 of Pub. L. 103–359,
 Section was formerly classified to [section 403–2b of this title](./chapter-015-national-security.md#section-403-2b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–103 substituted “$6,000,000” for “$5,000,000” in pars. (1) and (2).
+
 2020—Subsec. (a)(2). Pub. L. 116–260 substituted “$2,000,000” for “$1,000,000” in two places and substituted “the head of such component, in coordination with and subject to the approval of the Director of National Intelligence, shall submit a notification” for “the Director of National Intelligence shall submit a notification”.
 
 2017—Subsec. (a)(2). Pub. L. 115–31 substituted “project for the improvement, repair, or modification of” for “improvement project to”.
@@ -444,21 +446,11 @@ For definition of “congressional intelligence committees”, referred to in te
 
 
 <a id="section-3315"></a>
-## § 3315. Annual certification of controlled access programs
-(1) **In general** — Not less frequently than once each year, the Director of National Intelligence shall certify in writing to the congressional intelligence committees whether the creation, validation, or substantial modification, including termination, for all existing and proposed controlled access programs, and the compartments and subcompartments within each, are substantiated and justified based on the information required by paragraph (2).
-
-(2) **Information required** — Each certification pursuant to paragraph (1) shall include—
-
-  (A) the rationale for the revalidation, validation, or substantial modification, including termination, of each controlled access program, compartment and subcompartment;
-
-  (B) the identification of a control officer for each controlled access program; and
-
-  (C) a statement of protection requirements for each controlled access program.
+## § 3315. Repealed. Pub. L. 117–103, div. X, title V, § 504(e), Mar. 15, 2022, 136 Stat. 988
 
 ### Statutory Notes
 
-#### Definitions
-For definition of “congressional intelligence committees”, referred to in text, see section 2 of div. N of Pub. L. 115–31, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+Section, Pub. L. 115–31, div. N, title VI, § 608(b), May 5, 2017, 131 Stat. 833, required annual certification of controlled access programs to congressional intelligence committees.
 
 
 <a id="section-3316"></a>
@@ -535,7 +527,12 @@ For definitions of “intelligence community” and “congressional intelligenc
 
 (3) **Nonduplication** — The Director of National Intelligence may forgo submission of an annual report required under this subsection for a calendar year, if the Director notifies the intelligence committees in writing that, with respect to the same calendar year, an annual report required by paragraph 4.3 of the Vulnerabilities Equities Policy and Process document already has been submitted to Congress, and such annual report contains the information that would otherwise be required to be included in an annual report under this subsection.
 
+(4) **Publication** — The Director of National Intelligence shall make available to the public each unclassified appendix submitted with a report under paragraph (1) pursuant to paragraph (2).
+
 ### Statutory Notes
+
+#### Amendments
+2022—Subsec. (c)(4). Pub. L. 117–103 added par. (4).
 
 #### Definitions
 For definitions of “congressional intelligence committees” and “intelligence community”, referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
@@ -580,6 +577,77 @@ The National Emergencies Act, referred to in subsec. (a)(3), is Pub. L. 94–412
 
 #### Definitions
 For definitions of “congressional intelligence committees” and “intelligence community”, referred to in text, see section 2 of div. W of Pub. L. 116–260, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
+<a id="section-3316c"></a>
+## § 3316c. Development of definitions for certain terms relating to intelligence
+**(a) Development** Not later than September 30, 2023, the Director of National Intelligence and the Under Secretary of Defense for Intelligence and Security, in consultation with the heads of the elements of the intelligence community, shall jointly develop and publish definitions for the following terms:
+
+(1) Acoustic intelligence.
+
+(2) All-source intelligence.
+
+(3) Communications intelligence.
+
+(4) Critical intelligence.
+
+(5) Cyber-threat intelligence.
+
+(6) Electronic intelligence.
+
+(7) Explosive ordnance intelligence.
+
+(8) General military intelligence.
+
+(9) Imagery intelligence.
+
+(10) Geospatial intelligence.
+
+(11) Instrumentation signals intelligence.
+
+(12) Intelligence-related activity.
+
+(13) Joint intelligence.
+
+(14) Measurement and signature intelligence.
+
+(15) Medical intelligence.
+
+(16) Open-source intelligence.
+
+(17) Operational intelligence.
+
+(18) Scientific and technical intelligence.
+
+(19) Signals intelligence.
+
+(20) Strategic intelligence.
+
+(21) Tactical intelligence.
+
+(22) Target intelligence.
+
+(23) Technical intelligence.
+
+(24) Such others terms as may be jointly determined necessary by the Director of National Intelligence and the Under Secretary of Defense for Intelligence and Security.
+
+**(b) Application to activities of intelligence community** The Director of National Intelligence shall ensure that the definitions developed under subsection (a) are used uniformly across activities of the intelligence community with respect to the corresponding terms specified in such subsection.
+
+**(c) Notice of modifications** The Director of National Intelligence and the Under Secretary of Defense for Intelligence shall submit to the appropriate congressional committees notification of any modification by the Director and Under Secretary to a definition of a term specified in subsection (a) following the initial publication of the definition under such subsection.
+
+**(d) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
+
+(1) the congressional intelligence committees; and
+
+(2) the Committees on Armed Services of the House of Representatives and the Senate.
+
+### Statutory Notes
+
+#### Gray Zone Activity Defined; Requirement to Develop Lexicon
+Pub. L. 117–103, div. X, title VIII, § 825(b)(5), (c), Mar. 15, 2022, 136 Stat. 1028, 1029, provided that: “(b) National Intelligence Estimate.—“(5) Definitions.—In this subsection:“(A) Gray zone activity.—The term ‘gray zone activity’ means an activity to advance the national interests of a State that—“(i) falls between ordinary statecraft and open warfare; “(ii) is carried out with an intent to maximize the advancement of interests of the state without provoking a kinetic military response by the United States; and “(iii) falls on a spectrum that ranges from covert adversary operations, to detectible covert adversary operations, to unattributable adversary operations, to deniable adversary operations, to open adversary operations. “(B) Covert adversary operation.—The term ‘covert adversary operation’ means an operation by an adversary that—“(i) the adversary intends to remain below the threshold at which the United States detects the operation; and “(ii) does stay below such threshold. “(C) Detectible covert adversary operation.—The term ‘detectible covert adversary operation’ means an operation by an adversary that—“(i) the adversary intends to remain below the threshold at which the United States detects the operation; but “(ii) is ultimately detected by the United States at a level below the level at which the United States will publicly attribute the operation to the adversary. “(D) Unattributable adversary operation.—The term ‘unattributable adversary operation’ means an operation by an adversary that the adversary intends to be detected by the United States, but remains below the threshold at which the United States will publicly attribute the operation to the adversary. “(E) Deniable adversary operation.—The term ‘deniable adversary operation’ means an operation by an adversary that—“(i) the adversary intends to be detected and publicly or privately attributed by the United States; and “(ii) the adversary intends to deny, to limit the response by the United States, and any allies of the United States. “(F) Open adversary operation.—The term ‘open adversary operation’ means an operation by an adversary that the adversary openly acknowledges as attributable to the adversary. “(c) Requirement to Develop Lexicon.—“(1) Requirement.—The Director of National Intelligence, acting through the National Intelligence Council, shall develop a lexicon of common terms (and corresponding definitions for such terms) for concepts associated with gray zone activities. “(2) Considerations.—In developing the lexicon under paragraph (1), the National Intelligence Council shall include in the lexicon each term (and the corresponding definition for each term) specified in subsection (b)(5), unless the National Intelligence Council determines that an alternative term (or alternative definition)—“(A) more accurately describes a concept associated with gray zone activities; or “(B) is preferable for any other reason. “(3) Report.—“(A) Publication.—The Director of National Intelligence shall publish a report containing the lexicon developed under paragraph (1). “(B) Form.—The report under subparagraph (A) shall be published in unclassified form.”
+
+#### Definitions
+For definitions of “congressional intelligence committees” and “intelligence community”, referred to in text, see section 2 of div. X of Pub. L. 117–103, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-3321"></a>
@@ -1171,9 +1239,15 @@ For definitions of “intelligence community” and “congressional intelligenc
 
   (F) may include data in proportions or percentages to account for concerns relating to the protection of classified information.
 
-**(c) Updates** After making available a report under subsection (b), the Director of National Intelligence shall annually provide a report (which may be provided as part of an annual report required under another provision of law) to the workforce of the intelligence community (including senior leadership), the public, and the appropriate congressional committees that includes—
+**(c) Updates** Not later than March 31 of each year, the Director of National Intelligence shall provide a report (which may be provided as part of an annual report required under another provision of law) to the workforce of the intelligence community (including senior leadership), the public, and the appropriate congressional committees that includes—
 
-(1) demographic data and information on the status of diversity and inclusion efforts of the intelligence community;
+(1) demographic data and information on the status of diversity and inclusion efforts of the intelligence community, including demographic data relating to—
+
+  (A) the average years of service;
+
+  (B) the average number of years of service for each level in the General Schedule, Senior Executive Service, Senior Intelligence Service, or equivalent; and
+
+  (C) career categories;
 
 (2) an analysis of applicant flow data, including the percentage and level of positions for which data are collected, and a discussion of any resulting policy changes or recommendations; and
 
@@ -1217,6 +1291,11 @@ For definitions of “intelligence community” and “congressional intelligenc
 
 #### Codification
 Section is comprised of section 5704 of Pub. L. 116–92. Subsec. (a) of section 5704 of Pub. L. 116–92 amended [section 3050 of this title](./chapter-044-national-security.md#section-3050).
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–103, § 802(1), substituted “Not later than March 31 of each year, the Director of National Intelligence shall provide a report” for “After making available a report under subsection (b), the Director of National Intelligence shall annually provide a report” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 117–103, § 802(2), added par. (1) and struck out former par. (1) which read as follows: “demographic data and information on the status of diversity and inclusion efforts of the intelligence community;”.
 
 #### Expansion of Intelligence Community Recruitment Efforts
 Pub. L. 116–92, div. E, title LXIII, § 6316, Dec. 20, 2019, 133 Stat. 2195, provided that: “In order to further increase the diversity of the intelligence community workforce, not later than 90 days after the date of the enactment of this Act [Dec. 20, 2019], the Director of National Intelligence, in consultation with heads of elements of the Intelligence Community, shall create, implement, and submit to the congressional intelligence committees a written plan to ensure that rural and underrepresented regions are more fully and consistently represented in such elements’ employment recruitment efforts. Upon receipt of the plan, the congressional committees [probably should be “congressional intelligence committees”] shall have 60 days to submit comments to the Director of National Intelligence before such plan shall be implemented.”
@@ -1487,6 +1566,94 @@ For definitions of “intelligence community” and “congressional intelligenc
 **(d) Award amounts** In awarding contracts or grants, or entering into transactions other than contracts, under subsection (b), the Director may award not more than a total of $15,000,000.
 
 
+<a id="section-3334j"></a>
+## § 3334j. Access to certain facilities of United States Government for assessment of anomalous health conditions
+**(a) Assessment** The Director of National Intelligence shall ensure that the elements of the intelligence community provide to individuals described in subsection (c) who are experiencing symptoms of anomalous health conditions timely access for medical assessment to facilities of the United States Government with expertise in traumatic brain injury.
+
+**(b) Process for assessment and treatment** In carrying out subsection (a), the Director of National Intelligence shall coordinate with the Secretary of Defense and the heads of such Federal agencies as the Director considers appropriate to ensure that, by not later than 60 days after March 15, 2022, there is a process to provide the individuals described in subsection (c) with timely access to the National Intrepid Center of Excellence, an Intrepid Spirit Center, or an appropriate medical treatment facility for assessment as described in subsection (a) and, if necessary, treatment.
+
+**(c) Individuals described** The individuals described in this subsection are employees of elements of the intelligence community and the dependents or other immediate family members of such employees.
+
+### Statutory Notes
+
+#### Definitions
+For definition of “intelligence community”, referred to in text, see section 2 of div. X of Pub. L. 117–103, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
+<a id="section-3334k"></a>
+## § 3334k. Report on protocols for certain intelligence community employees and dependents
+**(a) In general** Beginning not later than 180 days after March 15, 2022, the President shall develop, for uniform implementation across the elements of the intelligence community, each of the protocols described in subsections (c) through (f). Such protocols shall be subject to review and revision on a periodic basis, and any implementation of such protocols shall be conducted in accordance with applicable laws and current clinical and professional practices of the interagency medical community.
+
+**(b) Privacy** No data collected pursuant to any protocol under this section may be used for research or analytical purposes without the written consent of the individual from whom such data was collected with respect to such use.
+
+**(c) Protocol on baseline medical testing** The protocol described in this subsection is a protocol for conducting voluntary baseline medical testing of covered employees, covered individuals, and the dependents of covered employees who are included on the overseas travel orders of the covered employee. Such protocol shall set forth the required elements of such baseline medical testing, such as—
+
+(1) standard lab collection and testing of relevant biofluids;
+
+(2) the conduct of relevant visual and auditory examinations;
+
+(3) the conduct of Acquired Brain Injury Tool assessments, or other relevant assessments for balance, eye motion, and cognition;
+
+(4) the assessment of relevant medical histories; and
+
+(5) the conduct of any other standard relevant medical or neurological examinations, testing, or assessments.
+
+**(d) Protocols on post-incident medical testing** The protocols described in this subsection are protocols to enable voluntary medical testing and the coordination of treatment for covered employees, covered individuals, and the dependents of covered employees, following a reported anomalous health incident, such as—
+
+(1) a protocol that sets forth elements, similar to the elements described in subsection (c), of such testing;
+
+(2) a protocol pertaining to the voluntary testing and treatment for victims of anomalous health incidents who are children;
+
+(3) a protocol for ensuring that all victims of anomalous health incidents receive access to prompt and consistent medical treatment, including from medical professionals holding appropriate security clearances and medical professionals with expertise in child care;
+
+(4) a protocol for ensuring that all victims of anomalous health incidents are offered options for psychological treatment for the effects of such incidents; and
+
+(5) a protocol for ensuring that any testing, evaluation, or collection of biofluids or other samples following a reported anomalous health incident may be compared against the baseline for the victim of the anomalous health incident, to the extent the individual participated in the baseline medical testing, consistent with subsections (b) and (c).
+
+**(e) Protocol on information collection, storage, and safeguarding** The protocol described in this subsection is a protocol for the collection, storage, and safeguarding of information acquired as a result of the protocols described in subsections (c) and (d).
+
+**(f) Protocol on reporting mechanisms** The protocol described in this subsection is a protocol for the reporting of matters relating to anomalous health incidents by covered employees, covered individuals, and the dependents of covered employees, including the development of a system for the adjudication of complaints regarding medical treatment received by such covered employees, covered individuals, and dependents of covered employees.
+
+**(g) Report and briefings**
+
+(1) **Report** — Not later than 180 days after March 15, 2022, the Director of National Intelligence shall submit to the appropriate congressional committees a report on the protocols described in subsections (c) through (f).
+
+(2) **Elements** — Such report shall include the following elements:
+
+  (A) A copy of each protocol under this section.
+
+  (B) A description of the following:
+
+    (i) Any interagency agreements, authorities, or policies required to effectively implement the protocols under this section.
+
+    (ii) Any new facilities, medical equipment, tools, training, or other resources required to effectively implement such protocols.
+
+  (C) A timeline for the implementation of the protocols under this section, including a proposal for the prioritization of implementation with respect to various categories of covered employees and the dependents of covered employees.
+
+(3) **Briefing** — Not later than 60 days following the date of submission of the report under paragraph (1), and biannually thereafter, the Director shall provide to the appropriate congressional committees a briefing regarding the implementation of the protocols under this section.
+
+**(h) Definitions** In this section:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
+
+  (A) the congressional intelligence committees; and
+
+  (B) the Committees on Armed Services of the House of Representatives and the Senate.
+
+(2) **Covered employee** — The term “covered employee” means an individual who is an employee, assignee, or detailee of an element of the intelligence community.
+
+(3) **Covered individual** — The term “covered individual” means a contractor to an element of the intelligence community.
+
+(4) **Dependent of a covered employee** — The term “dependent of a covered employee” means, with respect to a covered employee, a family member (including a child), as defined by the Director of National Intelligence.
+
+(5) **Victim of an anomalous health incident** — The term “victim of an anomalous health incident” means a covered employee, covered individual, or dependent of a covered employee, who is, or is suspected to have been, affected by an anomalous health incident.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “congressional intelligence committees” and “intelligence community”, referred to in text, see section 2 of div. X of Pub. L. 117–103, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+
 <a id="section-3341"></a>
 ## § 3341. Security clearances
 **(a) Definitions** In this section:
@@ -1495,7 +1662,7 @@ For definitions of “intelligence community” and “congressional intelligenc
 
   (A) an executive agency (as that term is defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim));
 
-  (B) a military department (as that term is defined in [section 102 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section102&num=0&edition=prelim)); and
+  (B) a military department (as that term is defined in [section 102 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section102&num=0&edition=prelim)); or
 
   (C) an element of the intelligence community.
 
@@ -1667,23 +1834,23 @@ For definitions of “intelligence community” and “congressional intelligenc
 
 **(j) Retaliatory revocation of security clearances and access determinations**
 
-(1) **In general** — Agency personnel with authority over personnel security clearance or access determinations shall not take or fail to take, or threaten to take or fail to take, any action with respect to any employee’s security clearance or access determination in retaliation for—
+(1) **In general** — Agency personnel with authority to take, direct others to take, recommend, or approve personnel security clearance or access determinations shall not take or fail to take, or threaten to take or fail to take, any action with respect to any employee’s security clearance or access determination in retaliation for—
 
-  (A) any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or the head of the employing agency (or employee designated by the head of that agency for such purpose) by an employee that the employee reasonably believes evidences—
+  (A) any lawful disclosure of information to the Director of National Intelligence (or an employee designated by the Director of National Intelligence for such purpose) or a supervisor in the employee’s direct chain of command, or a supervisor of the employing agency with responsibility for the subject matter of the disclosure, up to and including the head of the employing agency (or employee designated by the head of that agency for such purpose) by an employee that the employee reasonably believes evidences—
 
     (i) a violation of any Federal law, rule, or regulation; or
 
-    (ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+    (ii) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
 
   (B) any lawful disclosure to the Inspector General of an agency or another employee designated by the head of the agency to receive such disclosures, of information which the employee reasonably believes evidences—
 
     (i) a violation of any Federal law, rule, or regulation; or
 
-    (ii) gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
+    (ii) mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety;
 
   (C) any lawful disclosure that complies with—
 
-    (i) subsections (a)(1), (d), and (h) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);
+    (i) subsections (a)(1), (d), and (g) of section 8H of the Inspector General Act of 1978 (5 U.S.C. App.);
 
     (ii) subparagraphs (A), (D), and (H) of [section 3517(d)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3517/d/5&num=0&edition=prelim); or
 
@@ -1697,31 +1864,35 @@ For definitions of “intelligence community” and “congressional intelligenc
 
     (iii) cooperation with or disclosing information to the Inspector General of an agency, in accordance with applicable provisions of law in connection with an audit, inspection, or investigation conducted by the Inspector General.
 
-(2) **Rule of construction** — Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action against an employee who lawfully discloses information to Congress.
+(2) **Rule of construction** — Consistent with the protection of sources and methods, nothing in paragraph (1) shall be construed to authorize the withholding of information from Congress or the taking of any personnel action or clearance action against an employee who lawfully discloses information to Congress.
 
-(3) **Disclosures**
+(3) **Disclosures** — A disclosure shall not be excluded from paragraph (1) because—
 
-  (A) *In general* — A disclosure shall not be excluded from paragraph (1) because—
+  (A) the disclosure was made to a person, including a supervisor, who participated in an activity that the employee reasonably believed to be covered by paragraph (1)(A)(ii);
 
-    (i) the disclosure was made to a person, including a supervisor, who participated in an activity that the employee reasonably believed to be covered by paragraph (1)(A)(ii);
+  (B) the disclosure revealed information that had been previously disclosed;
 
-    (ii) the disclosure revealed information that had been previously disclosed;
+  (C) the disclosure was not made in writing;
 
-    (iii) the disclosure was not made in writing;
+  (D) the disclosure was made while the employee was off duty;
 
-    (iv) the disclosure was made while the employee was off duty; or
+  (E) of the amount of time which has passed since the occurrence of the events described in the disclosure; or
 
-    (v) of the amount of time which has passed since the occurrence of the events described in the disclosure.
-
-  (B) *Reprisals* — If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from paragraph (1) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.
+  (F) the disclosure was made during the normal course of duties of an employee.
 
 (4) **Agency adjudication**
 
-  (A) *Remedial procedure* — An employee or former employee who believes that he or she has been subjected to a reprisal prohibited by paragraph (1) may, within 90 days after the issuance of notice of such decision, appeal that decision within the agency of that employee or former employee through proceedings authorized by subsection (b)(7), except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts not longer than 1 year (or a longer period in accordance with a certification made under subsection (b)(7)).
+  (A) *Remedial procedure* — An employee or former employee who believes that he or she has been subjected to a reprisal prohibited by paragraph (1) may, within 90 days (except as provided by subparagraph (D)) after the issuance of notice of such decision, appeal that decision within the agency of that employee or former employee through proceedings authorized by subsection (b)(7), except that there shall be no appeal of an agency’s suspension of a security clearance or access determination for purposes of conducting an investigation, if that suspension lasts not longer than 1 year (or a longer period in accordance with a certification made under subsection (b)(7)).
 
   (B) *Corrective action* — If, in the course of proceedings authorized under subparagraph (A), it is determined that the adverse security clearance or access determination violated paragraph (1), the agency shall take specific corrective action to return the employee or former employee, as nearly as practicable and reasonable, to the position such employee or former employee would have held had the violation not occurred. Such corrective action may include back pay and related benefits, travel expenses, and compensatory damages not to exceed $300,000.
 
   (C) *Contributing factor* — In determining whether the adverse security clearance or access determination violated paragraph (1), the agency shall find that paragraph (1) was violated if a disclosure described in paragraph (1) was a contributing factor in the adverse security clearance or access determination taken against the individual, unless the agency demonstrates by a preponderance of the evidence that it would have taken the same action in the absence of such disclosure, giving the utmost deference to the agency’s assessment of the particular threat to the national security interests of the United States in the instant matter.
+
+  (D) *Tolling* — The time requirement established by subparagraph (A) for an employee or former employee to appeal the decision of an agency may be tolled if the employee or former employee presents substantial credible evidence showing why the employee or former employee did not timely initiate the appeal and why the enforcement of the time requirement would be unfair, such as evidence showing that the employee or former employee—
+
+    (i) did not receive notice of the decision; or
+
+    (ii) could not timely initiate the appeal because of factors beyond the control of the employee or former employee.
 
 (5) **Appellate review of security clearance access determinations by Director of National Intelligence**
 
@@ -1739,7 +1910,9 @@ For definitions of “intelligence community” and “congressional intelligenc
 
 (7) **Private cause of action** — Nothing in this section shall be construed to permit, authorize, or require a private cause of action to challenge the merits of a security clearance determination.
 
-(8) **Inclusion of contractor employees** — In this subsection, the term “employee” includes an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of an agency. With respect to such employees, the term “employing agency” shall be deemed to be the contracting agency.
+(8) **Enforcement** — Except as otherwise provided in this subsection, the President shall provide for the enforcement of this section consistent, to the fullest extent possible, with the policies and procedures used to adjudicate alleged violations of [section 2302(b)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/8&num=0&edition=prelim).
+
+(9) **Inclusion of contractor employees** — In this subsection, the term “employee” includes an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of an agency. With respect to such employees, the term “employing agency” shall be deemed to be the contracting agency.
 
 ### Statutory Notes
 
@@ -1756,6 +1929,26 @@ Section 8H of the Inspector General Act of 1978, referred to in subsec. (j)(1)(C
 Section was formerly classified to [section 435b of this title](./chapter-015-national-security.md#section-435b) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (a)(1)(B). Pub. L. 117–103, § 501(c), substituted “or” for “and”.
+
+Subsec. (j)(1). Pub. L. 117–103, § 501(j), substituted “to take, direct others to take, recommend, or approve” for “over” in introductory provisions.
+
+Subsec. (j)(1)(A). Pub. L. 117–103, § 501(e)(2), inserted “a supervisor in the employee’s direct chain of command, or a supervisor of the employing agency with responsibility for the subject matter of the disclosure, up to and including” before “the head of the employing agency” in introductory provisions.
+
+Subsec. (j)(1)(A)(ii), (B)(ii). Pub. L. 117–103, § 501(d)(1), substituted “mismanagement” for “gross mismanagement”.
+
+Subsec. (j)(1)(C)(i). Pub. L. 117–103, § 501(k), substituted “(g)” for “(h)”.
+
+Subsec. (j)(2). Pub. L. 117–103, § 501(i), inserted “or clearance action” after “personnel action”.
+
+Subsec. (j)(3). Pub. L. 117–103, § 501(h), reenacted heading of par. (3), designated introductory provisions of subpar. (A) as introductory provisions of par. (3), redesignated cls. (i) to (v) of former subpar. (A) as subpars. (A) to (E), respectively, of par. (3), realigned margins, added subpar. (F), and struck out former subpar. (A) heading and former subpar. (B). Text of former subpar. (B) read as follows: “If a disclosure is made during the normal course of duties of an employee, the disclosure shall not be excluded from paragraph (1) if any employee who has authority to take, direct others to take, recommend, or approve any personnel action with respect to the employee making the disclosure, took, failed to take, or threatened to take or fail to take a personnel action with respect to that employee in reprisal for the disclosure.”
+
+Subsec. (j)(4)(A). Pub. L. 117–103, § 501(b)(2)(A), inserted “(except as provided by subparagraph (D))” after “within 90 days”.
+
+Subsec. (j)(4)(D). Pub. L. 117–103, § 501(b)(2)(B), added subpar. (D).
+
+Subsec. (j)(8), (9). Pub. L. 117–103, § 501(b)(1), added par. (8) and redesignated former par. (8) as (9).
+
 2018—Subsec. (j)(8). Pub. L. 115–118 added par. (8).
 
 2014—Subsec. (a)(9). Pub. L. 113–126, § 602(c), added par. (9).
@@ -1777,6 +1970,11 @@ Committee on Government Reform of House of Representatives changed to Committee 
 
 #### Construction
 Pub. L. 113–126, title VI, § 602(e), July 7, 2014, 128 Stat. 1419, provided that: “Nothing in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3341)), as amended by this title, shall be construed to require the repeal or replacement of agency appeal procedures implementing Executive Order 12968 (60 Fed. Reg. 40245; relating to access to classified information) [[50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note], or any successor thereto, and Executive Order 10865 (25 Fed. Reg. 1583; relating to safeguarding classified information with[in] industry) [[50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note], or any successor thereto, that meet the requirements of paragraph (7) of section 3001(b) of such Act [[50 U.S.C. 3341(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/b/7&num=0&edition=prelim)], as added by this section.”
+
+#### Performance Measures Regarding Timeliness for Personnel Mobility
+Pub. L. 117–103, div. X, title III, § 311, Mar. 15, 2022, 136 Stat. 972, provided that: “(a) Policy Required.—Not later than 180 days after the date of the enactment of this Act [Mar. 15, 2022], the Director of National Intelligence shall issue a policy for measuring the total time it takes to transfer personnel with security clearances and eligibility for access to information commonly referred to as ‘sensitive compartmented information’ from one element of the intelligence community to another, or from one contract to another in the case of a contractor. “(b) Requirements.—The policy issued under subsection (a) shall—“(1) to the degree practicable, cover all personnel who are moving to positions that require a security clearance and access to sensitive compartmented information; “(2) cover the period from the first time an element of the intelligence community or company submits a request to an element of the intelligence community for the transfer of the employment of an individual with a clearance access or eligibility determination to another element of the intelligence community, to the time the individual is authorized by that receiving element to start to work in the new position; and “(3) include analysis of all appropriate phases of the process, including polygraph, suitability determination, fitness determination, human resources review, transfer of the sensitive compartmented information access, and contract actions. “(c) Updated Policies.—“(1) Modifications.—Not later than 1 year after the date on which the Director issues the policy under subsection (a), the Director shall issue modifications to such policies as the Director determines were issued before the issuance of the policy under such subsection and are relevant to such updated policy, as the Director considers appropriate. “(2) Recommendations.—Not later than 1 year after the date on which the Director issues the policy under subsection (a), the Director shall submit to the appropriate congressional committees recommendations for legislative action to update metrics specified elsewhere in statute to measure parts of the process that support transfers described in subsection (a). “(d) Annual Reports.—Not later than 180 days after issuing the policy required by subsection (a) and not less frequently than once each year thereafter until the date that is 3 years after the date of such issuance, the Director shall submit to the appropriate congressional committees a report on the implementation of such policy. Such report shall address performance by department or agency and by clearance type in meeting such policy. “(e) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional intelligence committees; and “(2) the Subcommittees on Commerce, Justice, Science, and Related Agencies of the Committees on Appropriations of the House of Representatives and the Senate.”
+
+[For definitions of “congressional intelligence committees” and “intelligence community” as used in section 311 of div. X of Pub. L. 117–103, set out above, see section 2 of div. X of Pub. L. 117–103, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).]
 
 #### Required Elements of Policies and Procedures
 Pub. L. 113–126, title VI, § 602(a)(2), July 7, 2014, 128 Stat. 1416, provided that: “The policies and procedures for appeal developed under paragraph (7) of section 3001(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 [[50 U.S.C. 3341(b)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341/b/7&num=0&edition=prelim)], as added by subsection (a), shall provide for the Inspector General of the Intelligence Community, or the inspector general of the employing agency, to conduct fact-finding and report to the agency head or the designee of the agency head within 180 days unless the employee and the agency agree to an extension or the investigating inspector general determines in writing that a greater period of time is required. To the fullest extent possible, such fact-finding shall include an opportunity for the employee to present relevant evidence such as witness testimony.”
@@ -2145,6 +2343,96 @@ Committee on Oversight and Government Reform of House of Representatives changed
 Amendment by Pub. L. 106–65 effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
 
+<a id="section-3348a"></a>
+## § 3348a. Congressional oversight of sensitive programs not covered by other provisions of law
+**(a) Reports required**
+
+(1) **In general** — Not later than February 1 of each year, the head of each covered element shall submit to congressional leadership a report on each covered program carried out by that covered element.
+
+(2) **Contents** — Each such report shall set forth—
+
+  (A) the total amount requested by the covered element for covered programs within the budget submitted under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for the fiscal year following the fiscal year in which the report is submitted; and
+
+  (B) for each program in such budget that is a covered program—
+
+    (i) a brief description of the program;
+
+    (ii) in the case of a procurement program, a brief discussion of the major milestones established for the program;
+
+    (iii) the actual cost of the program for each fiscal year during which the program has been conducted before the fiscal year during which that budget is submitted; and
+
+    (iv) the estimated total cost of the program and the estimated cost of the program for—
+
+      (I) the current fiscal year;
+
+      (II) the fiscal year for which the budget is submitted; and
+
+      (III) each of the four succeeding fiscal years during which the program is expected to be conducted.
+
+**(b) Newly designated programs**
+
+(1) **In general** — Not later than February 1 of each year, the head of each covered element shall submit to congressional leadership a report that, with respect to each new covered program of that covered element, provides—
+
+  (A) notice of the designation of the program as a special access program; and
+
+  (B) justification for such designation.
+
+(2) **Contents** — A report under paragraph (1) with respect to a program shall include—
+
+  (A) the current estimate of the total program cost for the program; and
+
+  (B) an identification, as applicable, of existing programs or technologies that are similar to the technology, or that have a mission similar to the technology, or that have a mission similar to the mission, of the program that is the subject of the notice.
+
+(3) **New covered program defined** — In this subsection, the term “new covered program” means a covered program that has not previously been covered in a notice and justification under this subsection.
+
+**(c) Revision in classification of programs**
+
+(1) **In general** — Whenever a change in the classification of a covered program of a covered element is planned to be made or whenever classified information concerning a covered program of a covered element is to be declassified and made public, the head of the covered element shall submit to congressional leadership a report containing a description of the proposed change or the information to be declassified, the reasons for the proposed change or declassification, and notice of any public announcement planned to be made with respect to the proposed change or declassification.
+
+(2) **Period for submittal** — Except as provided in paragraph (3), a report referred to in paragraph (1) shall be submitted not less than 14 days before the date on which the proposed change, declassification, or public announcement is to occur.
+
+(3) **Exception** — If the head of the covered element determines that because of exceptional circumstances the requirement of paragraph (2) cannot be met with respect to a proposed change, declassification, or public announcement concerning a covered program of the covered element, the head of the department or agency may submit the report required by paragraph (1) regarding the proposed change, declassification, or public announcement at any time before the proposed change, declassification, or public announcement is made and shall include in the report an explanation of the exceptional circumstances.
+
+**(d) Revision of criteria for designating programs** Whenever there is a modification or termination of the policy and criteria used for designating a program of a covered element as a covered program, the head of the covered element shall promptly notify congressional leadership of such modification or termination. Any such notification shall contain the reasons for the modification or termination and, in the case of a modification, the provisions of the policy as modified.
+
+**(e) Initiation of programs** A covered program may not be initiated by a covered element until—
+
+(1) congressional leadership is notified of the program; and
+
+(2) a period of 30 days elapses after such notification is received.
+
+**(f) Limitation on use of funds** No funds may be obligated or expended by any covered element to carry out a covered program until the head of the covered element has briefed congressional leadership on the covered program.
+
+**(g) Definitions** In this section:
+
+(1) **Covered element** — The term “covered element” means any element or portion of the Federal Government that is not—
+
+  (A) a covered department or agency as defined in [section 3348(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3348/g&num=0&edition=prelim);
+
+  (B) the Department of Defense (which is required to submit reports on special access programs under [section 119 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section119&num=0&edition=prelim));
+
+  (C) the National Nuclear Security Administration (which is required to submit reports on special access programs under [section 2426 of this title](./chapter-041-national-nuclear-security-administration.md#section-2426)); or
+
+  (D) an element of the intelligence community (as defined in [section 3003 of this title](./chapter-044-national-security.md#section-3003)).
+
+(2) **Congressional leadership** — The term “congressional leadership” means—
+
+  (A) the majority leader of the Senate;
+
+  (B) the minority leader of the Senate;
+
+  (C) the Speaker of the House of Representatives; and
+
+  (D) the minority leader of the House of Representatives.
+
+(3) **Covered program** — The term “covered program” means any special access program or similarly protected program established under the authority of Executive Order 12356 ([50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note; relating to prescribing a uniform system for classifying, declassifying, and safeguarding national security information), or any successor Executive order, or any similar sensitive program established anywhere in the Federal Government, including one established at the direction of the President.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order 12356, referred to in subsec. (g)(3), is Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which prescribed a uniform system for classifying, declassifying, and safeguarding national security information, and which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 12958, § 6.1(d), Apr. 17, 1995, 60 F.R. 19843.
+
+
 <a id="section-3349"></a>
 ## § 3349. Notification regarding the authorized public disclosure of national intelligence
 **(a) Notification** In the event of an authorized disclosure of national intelligence or intelligence related to national security to the persons or entities described in subsection (b), the government official responsible for authorizing the disclosure shall submit to the congressional intelligence committees on a timely basis a notification of the disclosure if—
@@ -2472,9 +2760,12 @@ For definitions of “Security Executive Agent”, “reciprocity”, and “app
 <a id="section-3352e"></a>
 ## § 3352e. Periodic report on positions in the intelligence community that can be conducted without access to classified information, networks, or facilities
 
-Not later than 180 days after December 20, 2019, and not less frequently than once every 5 years thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees a report that reviews the intelligence community for which positions can be conducted without access to classified information, networks, or facilities, or may only require a security clearance at the secret level.
+Not later than 180 days after December 20, 2019, and biennially thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees a report that reviews the intelligence community for which positions can be conducted without access to classified information, networks, or facilities, or may only require a security clearance at the secret level. Such report shall take into account the potential effect of maintaining continuity of operations during a covered national emergency (as defined by [section 3316b of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3316b)) and the assessed needs of the intelligence community to maintain such continuity of operations.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–103 substituted “December 20, 2019, and biennially thereafter,” for “December 20, 2019, and not less frequently than once every 5 years thereafter,” and inserted at end “Such report shall take into account the potential effect of maintaining continuity of operations during a covered national emergency (as defined by [section 3316b of this title](./chapter-045-miscellaneous-intelligence-community-authorities.md#section-3316b)) and the assessed needs of the intelligence community to maintain such continuity of operations.”
 
 #### Definitions
 For definitions of “congressional intelligence committees” and “intelligence community”, referred to in text, see section 5003 of div. E of Pub. L. 116–92, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
@@ -2541,6 +2832,12 @@ For definitions of “congressional intelligence committees” and “intelligen
 **(g) Review** Not later than 1 year after December 20, 2019, the Security Executive Agent and the Suitability and Credentialing Executive Agent shall jointly submit to the appropriate congressional committees and make available to appropriate industry partners a review of the plans submitted under subsections (e)(1) and (f)(1) and utility and effectiveness of the programs described in such plans.
 
 ### Statutory Notes
+
+#### Federal Policy on Sharing of Covered Insider Threat Information Pertaining to Contractor Employees in the Trusted Workforce
+Pub. L. 117–103, div. X, title VIII, § 806, Mar. 15, 2022, 136 Stat. 1014, provided that: “(a) Policy Required.—Not later than 2 years after the date of the enactment of this Act [Mar. 15, 2022], the Director of National Intelligence, in coordination with the Secretary of Defense, the Director of the Office of Management and Budget, and the Attorney General, shall issue a policy for the Federal Government on sharing covered insider threat information pertaining to contractor employees. “(b) Consent Requirement.—The Director shall ensure that the policy issued under subsection (a) requires, as a condition of obtaining and maintaining a security clearance with the Federal Government, that a contractor employee provide prior written consent for the Federal Government to share covered insider threat information with the senior official responsible for the insider threat program of the contracting agency. The Director may include in such policy restrictions on the further disclosure of such information. “(c) Consultation.—On a quarterly basis during the period in which the Director is developing the policy under subsection (a), the Director shall consult with Congress and industry partners with respect to such development. “(d) Review.—“(1) Submission.—Not later than 1 year after the date of the issuance of the policy under subsection (a), the Director of National Intelligence and the Secretary of Defense shall jointly submit to Congress and make available to such industry partners as the Director and the Secretary consider appropriate a review of the policy. “(2) Contents.—The review under paragraph (1) shall include the following:“(A) An assessment of the utility and effectiveness of the policy issued under subsection (a). “(B) Such recommendations as the Director and the Secretary determine appropriate with respect to legislative or administrative action relevant to such policy. “(e) Definitions.—In this section:“(1) Covered insider threat information.—The term ‘covered insider threat information’—“(A) means information that—“(i) is relevant with respect to adjudications relating to determinations of eligibility for access to classified information; “(ii) an agency or department of the Federal Government has vetted and verified; and “(iii) according to Director of National Intelligence policy, is considered relevant to the ability of a contractor employee to protect against insider threats as required by section 117.7(d) of title 32, Code of Federal Regulations, or successor regulation; and “(B) includes pertinent information considered in the counter-threat assessment, as authorized by a provision of Federal law or Executive Order. “(2) Contractor employee.—The term ‘contractor employee’ means an employee of a contractor, subcontractor, grantee, subgrantee, or personal services contractor, of a department or agency of the Federal Government.”
+
+#### Governance of Trusted Workforce 2.0 Initiative
+Pub. L. 117–103, div. X, title VIII, § 807(a), Mar. 15, 2022, 136 Stat. 1015, provided that: “(a) Governance.—The Director of National Intelligence, acting as the Security Executive Agent, and the Director of the Office of Personnel Management, acting as the Suitability and Credentialing Executive Agent, in coordination with the Deputy Director for Management in the Office of Management and Budget, acting as the chairman of the Performance Accountability Council, and the Under Secretary of Defense for Intelligence and Security shall jointly—“(1) not later than 180 days after the date of the enactment of this Act [Mar. 15, 2022], publish, in the Federal Register as appropriate, a policy with guidelines and standards for Federal Government agencies and industry partners to implement the Trusted Workforce 2.0 initiative; “(2) not later than 2 years after the date of the enactment of this Act and not less frequently than once every 6 months thereafter, submit to Congress a report on the timing, delivery, and adoption of Federal Government agencies’ policies, products, and services to implement the Trusted Workforce 2.0 initiative, including those associated with the National Background Investigation Service; and “(3) not later than 90 days after the date of the enactment of this Act, submit to Congress performance management metrics for the implementation of the Trusted Workforce 2.0 initiative, including performance metrics regarding timeliness, cost, and measures of effectiveness.”
 
 #### Trusted Information Provider Program for National Security Positions and Positions of Trust
 Pub. L. 115–232, div. A, title IX, § 941, Aug. 13, 2018, 132 Stat. 1941, provided that: “(a) Program Required.—Not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018], the Security Executive Agent and the Suitability/Credentialing Executive Agent shall establish and implement a program (to be known as the ‘Trusted Information Provider Program’) to share between and among agencies of the Federal Government and industry partners of the Federal Government relevant background information regarding individuals applying for and currently occupying national security positions and positions of trust, in order to ensure the Federal Government maintains a trusted workforce. “(b) Privacy Safeguards.—The Security Executive Agent and the Suitability/Credentialing Executive Agent shall ensure that the program required by subsection (a) includes such safeguards for privacy as the Security Executive Agent and the Suitability/Credentialing Executive Agent consider appropriate. “(c) Provision of Information to the Federal Government.—The program required by subsection (a) shall include requirements that enable Investigative Service Providers and agencies of the Federal Government to leverage certain pre-employment information gathered during the employment or military recruiting process, and other relevant security or human resources information obtained during employment with or for the Federal Government, that satisfy Federal investigative standards, while safeguarding personnel privacy. “(d) Information and Records.—The information and records considered under the program required by subsection (a) shall include the following:“(1) Date and place of birth. “(2) Citizenship or immigration and naturalization information. “(3) Education records. “(4) Employment records. “(5) Employment or social references. “(6) Military service records. “(7) State and local law enforcement checks. “(8) Criminal history checks. “(9) Financial records or information. “(10) Foreign travel, relatives or associations. “(11) Social media checks. “(12) Any other information or records relevant to obtaining or maintaining national security, suitability, fitness, or credentialing eligibility. “(e) Implementation Plan.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018], the Security Executive Agent and the Suitability/Credentialing Executive Agent shall jointly submit to Congress a plan for the implementation of the program required by subsection (a). “(2) Elements.—The plan required by paragraph (1) shall include the following:“(A) Mechanisms that address privacy, national security, suitability or fitness, credentialing, and human resources or military recruitment processes. “(B) Such recommendations for legislative or administrative action as the Security Executive Agent and the Suitability/Credentialing Executive Agent consider appropriate to carry out or improve the program. “(f) Definitions.—In this section:“(1) The term ‘Security Executive Agent’ means the Director of National Intelligence acting as the Security Executive Agent in accordance with Executive Order 13467 (73 Fed. Reg. 38103; [50 U.S.C. 3161](./chapter-044-national-security.md#section-3161) note). “(2) The term ‘Suitability/Credentialing Executive Agent’ means the Director of the Office of Personnel Management acting as the Suitability/Credentialing Executive Agent in accordance with Executive Order 13467.”
@@ -3990,7 +4287,7 @@ For definition of “congressional intelligence committees”, referred to in su
 
 (1) **Designation** — The Secretary, in coordination with the Director, shall designate one or more line organizations that will be primarily responsible for scientific, technical, and operational analysis of data gathered by field investigations conducted pursuant to subsection (c) and data from other sources, including with respect to the testing of materials, medical studies, and development of theoretical models, to better understand and explain unidentified aerial phenomena.
 
-(2) **Authority** — The Secretary and the Director shall each issue such directives as are necessary to ensure that the each line organization designated under paragraph (1) has authority to draw on the special expertise of persons outside the Federal Government with appropriate security clearances.
+(2) **Authority** — The Secretary and the Director shall each issue such directives as are necessary to ensure that the each 11 So in original. line organization designated under paragraph (1) has authority to draw on the special expertise of persons outside the Federal Government with appropriate security clearances.
 
 **(e) Data; intelligence collection**
 
@@ -4076,7 +4373,9 @@ For definition of “congressional intelligence committees”, referred to in su
 
 (2) strategic defense, space defense, defense of controlled air space, defense of ground, air, or naval assets, and related purposes.
 
-**(k) Task Force termination** Not later than the date on which the Secretary establishes the Office under subsection (a), the Secretary shall terminate the Unidentified Aerial Phenomenon Task Force.(l) Definitions In this section:
+**(k) Task Force termination** Not later than the date on which the Secretary establishes the Office under subsection (a), the Secretary shall terminate the Unidentified Aerial Phenomenon Task Force.
+
+**(l) Definitions** In this section:
 
 (1) The term “appropriate congressional committees” means the following:
 
@@ -4101,6 +4400,38 @@ For definition of “congressional intelligence committees”, referred to in su
   (B) transmedium objects or devices; and
 
   (C) submerged objects or devices that are not immediately identifiable and that display behavior or performance characteristics suggesting that the objects or devices may be related to the objects or devices described in subparagraph (A) or (B).
+
+
+<a id="section-3373a"></a>
+## § 3373a. Support for and oversight of Unidentified Aerial Phenomena Task Force
+**(a) Availability of data on unidentified aerial phenomena** The Director of National Intelligence and the Secretary of Defense shall jointly require that each element of the intelligence community and component of the Department of Defense with data relating to unidentified aerial phenomena makes 11 So in original. Probably should be “make”. such data available immediately to the Unidentified Aerial Phenomena Task Force, or successor entity, and to the National Air and Space Intelligence Center.
+
+**(b) Quarterly reports**
+
+(1) **In general** — Not later than 90 days after March 15, 2022, and not less frequently than quarterly thereafter, the Unidentified Aerial Phenomena Task Force, or successor entity, consistent with the protection of intelligence sources and methods, shall submit to the appropriate congressional committees a report on the findings of the Unidentified Aerial Phenomena Task Force, or successor entity.
+
+(2) **Contents** — Each report submitted under paragraph (1) shall include, at a minimum, the following:
+
+  (A) All reported unidentified aerial phenomena-related events that occurred during the period covered by the report.
+
+  (B) All reported unidentified aerial phenomena-related events that occurred during a period other than the period covered by the report but were not included in an earlier report.
+
+(3) **Form** — Each report submitted under paragraph (1) shall be submitted in classified form.
+
+**(c) Definitions** In this section:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means the following:
+
+  (A) The congressional intelligence committees.
+
+  (B) The Committees on Armed Services of the House of Representatives and the Senate.
+
+(2) **Unidentified Aerial Phenomena Task Force** — The term “Unidentified Aerial Phenomena Task Force” means the task force established by the Department of Defense on August 4, 2020, to be led by the Department of the Navy, under the Office of the Under Secretary of Defense for Intelligence and Security.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “congressional intelligence committees” and “intelligence community”, referred to in text, see section 2 of div. X of Pub. L. 117–103, set out as a note under [section 3003 of this title](./chapter-044-national-security.md#section-3003).
 
 
 <a id="section-3381"></a>

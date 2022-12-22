@@ -41,17 +41,12 @@ Subsec. (b). Pub. L. 102–83, § 5(c)(1), substituted “3483” for “1683”
 
 (2) Except as otherwise provided in this chapter, in the case of courses subject to approval by the Secretary under [section 3672 of this title](./chapter-036-administration-of-educational-benefits.md#section-3672), the provisions of this chapter which refer to a State approving agency shall be deemed to refer to the Secretary.
 
+**(c)** The Secretary may not recognize a State department or agency as the State approving agency for a State for purposes of this chapter if such department or agency is administered at, or colocated with, a university or university system that offers courses or programs of education that are subject to approval under this chapter by the State approving agency for that State.
+
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–315, title I, § 1024, Jan. 5, 2021, 134 Stat. 4960, as amended by Pub. L. 117–16, § 4, June 8, 2021, 135 Stat. 283, provided that, effective on the date that is one year after Jan. 5, 2021, this section is amended by adding at the end the following:
-
-(c) The Secretary may not recognize a State department or agency as the State approving agency for a State for purposes of this chapter if such department or agency is administered at, or colocated with, a university or university system that offers courses or programs of education that are subject to approval under this chapter by the State approving agency for that State.
-
-See 2021 Amendment note below.
-
 #### Amendments
-2021—Subsec. (c). Pub. L. 116–315, § 1024(a), as amended by Pub. L. 117–16, § 4, added subsec. (c).
+2021—Subsec. (c). Pub. L. 116–315, as amended by Pub. L. 117–16, added subsec. (c).
 
 2011—Subsec. (b)(2). Pub. L. 111–377 substituted “Except as otherwise provided in this chapter, in the case” for “In the case”.
 
@@ -785,7 +780,7 @@ Amendment by sections 504 and 513(a)(2) of Pub. L. 94–502 effective Dec. 1, 19
 
   (B) has, if such an order has been issued, given due weight to that fact; and
 
-  (C) has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period.”; and
+  (C) has reviewed the complete record of advertising, sales, or enrollment materials (and copies thereof) used by or on behalf of the institution during the preceding 12-month period.
 
 (11) The institution does not exceed its enrollment limitations as established by the State approving agency.
 
@@ -1197,11 +1192,6 @@ The State approving agency, upon determining that an educational institution has
 (8) In this subsection, the term “covered individual” means an individual who is pursuing a course of education at an educational institution under chapter 30, 31, 32, 33, or 35 of this title, or chapter 1606 or 1607 of title 10.
 
 ### Statutory Notes
-
-#### Applicability of Amendment
-Subsection (f) of this section not to be carried out until Aug. 1, 2022, with provision for submission of waiver application beginning on June 15, 2022, see Effective Date of 2021 Amendment note below.
-
-Amendment of section by section 2(a), (b) of Pub. L. 117–68 applicable with respect to an academic period that begins on or after Aug. 1, 2022. See 2021 Amendment notes below.
 
 #### References in Text
 [Section 3696(e)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3696/e/2/B&num=0&edition=prelim), referred to in subsec. (f)(2)(A)(i), probably should be a reference to [section 3696(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3696/b/2/B&num=0&edition=prelim), because section 3696(b)(2)(B), as amended generally by Pub. L. 116–315, § 1020(a)(1), defines the term “misrepresentation”, and section 3696(e) does not contain a par. (2)(B).
@@ -1625,15 +1615,53 @@ Jimmy Carter.
 
 **(d)**
 
-(1) Except as provided in paragraph (2) of this subsection, the Secretary shall not approve the enrollment of any eligible veteran, not already enrolled, in any course for any period during which the Secretary finds that more than 85 percent of the students enrolled in the course are having all or part of their tuition, fees, or other charges paid to or for them by the educational institution or by the Department of Veterans Affairs under this title or under chapter 106 of title 10. The Secretary may waive the requirements of this subsection, in whole or in part, if the Secretary determines, pursuant to regulations which the Secretary shall prescribe, it to be in the interest of the eligible veteran and the Federal Government. The provisions of this subsection shall not apply to any course offered by an educational institution if the total number of veterans and persons receiving assistance under this chapter or chapter 30, 31, 32, or 35 of this title or under chapter 106 of title 10 who are enrolled in such institution equals 35 percent or less, or such other percent as the Secretary prescribes in regulations, of the total student enrollment at such institution (computed separately for the main campus and any branch or extension of such institution), except that the Secretary may apply the provisions of this subsection with respect to any course in which the Secretary has reason to believe that the enrollment of such veterans and persons may be in excess of 85 percent of the total student enrollment in such course.
+(1) The Secretary shall not approve the enrollment of any eligible veteran, not already enrolled, in any course for any period during which the Secretary finds that more than 85 percent of the students enrolled in the course are having all or part of their tuition, fees, or other charges paid to or for them by the educational institution or by the Department of Veterans Affairs under this title or under chapter 1606 of title 10, except with respect to tuition, fees, or other charges that are paid under a payment plan at an educational institution that the Secretary determines has a history of offering payment plans that are completed not later than 180 days after the end of the applicable term, quarter, or semester.
 
-(2) Paragraph (1) of this subsection does not apply with respect to the enrollment of a veteran—
+(2) The Secretary may waive the requirements of paragraph (1), in whole or in part, if the Secretary determines, pursuant to regulations which the Secretary shall prescribe, it to be in the interest of the eligible veteran and the Federal Government.
 
-  (A) in a course offered pursuant to section 3019, 3034(a)(3), 3234, or 3241(a)(2) of this title;
+(3)
 
-  (B) in a farm cooperative training course; or
+  (A) The Secretary shall establish a process by which an educational institution may request a review of a determination that the educational institution does not meet the requirements of paragraph (1).
 
-  (C) in a course described in subsection (g).
+  (B) An educational institution that requests a review under subparagraph (A)—
+
+    (i) shall request the review not later than 30 days after the start of the term, quarter, or semester for which the determination described in subparagraph (A) applies; and
+
+    (ii) may include any information that the educational institution believes the Department should have taken into account when making the determination, including with respect to any mitigating circumstances.
+
+  (C) The Under Secretary of Benefits shall issue an initial decision for each review requested under subparagraph (A) by not later than 30 days after the date of the request, to the extent feasible.
+
+  (D) An educational institution may request the Secretary to review the decision by the Under Secretary under subparagraph (C). The Secretary shall review each decision so requested and, pursuant to such review, shall issue a final decision sustaining, modifying, or overturning the decision by the Under Secretary.
+
+  (E) The Secretary shall carry out this paragraph without regard to any review process carried out by the Secretary under chapter 51 of this title.
+
+(4) Paragraph (1) shall not apply to any course offered by an educational institution if—
+
+  (A) the majority of courses offered by the educational institution are approved under section 3672 or 3675 of this title; and
+
+  (B) the total number of veterans and persons receiving assistance under this title or under chapter 1606 of title 10 who are enrolled in such institution equals 35 percent or less of the total student enrollment at such institution (computed separately for the main campus and any branch or extension of such institution).
+
+(5)
+
+  (A) Paragraph (1) shall not apply to any course offered by an educational institution if—
+
+    (i) the majority of courses offered by the educational institution are approved under [section 3676 of this title](./chapter-036-administration-of-educational-benefits.md#section-3676); and
+
+    (ii) the total number of veterans and persons receiving assistance under this title or under chapter 1606 of title 10 who are enrolled in such institution equals 35 percent or less of the total student enrollment at such institution (computed separately for the main campus and any branch or extension of such institution).
+
+  (B) Notwithstanding subparagraph (A), on a case by case basis, the Secretary may apply paragraph (1) with respect to any course otherwise covered by such subparagraph if the Secretary has reason to believe that the enrollment of veterans and persons described in clause (ii) of such subparagraph may be in excess of 85 percent of the total student enrollment in such course.
+
+(6) The Secretary shall ensure that an educational institution that meets the requirements of paragraph (4) or (5) submits information to the Secretary on a biennial basis to verify meeting such requirements. During such biennial period in which an educational institution is covered by such verification, the Secretary may not require the educational institution to submit information with respect to meeting the requirements of paragraph (1).
+
+(7) Paragraph (1) shall not apply with respect to the enrollment of a veteran—
+
+  (A) in a program of education for which fewer than 10 students are having all or part of their tuition, fees, or other charges paid to or for them by the educational institution or by the Department of Veterans Affairs under this title or under chapter 1606 of title 10;
+
+  (B) in a course offered pursuant to section 3019, 3034(a)(3), 3234, or 3241(a)(2) of this title;
+
+  (C) in a farm cooperative training course; or
+
+  (D) in a course described in subsection (g).
 
 **(e)** The Secretary may not approve the enrollment of an eligible veteran in a course not leading to a standard college degree offered by a proprietary profit or proprietary nonprofit educational institution if—
 
@@ -1659,6 +1687,8 @@ Jimmy Carter.
 The Higher Education Act of 1965, referred to in subsec. (a)(4)(A), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see section 1 of Pub. L. 89–329, set out as a Short Title note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–174 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to disapproval of enrollment in a course for any period during which the Secretary finds that more than 85 percent of the students enrolled in the course are having all or part of their tuition, fees, or other charges paid to or for them by the educational institution or by the Department of Veterans Affairs under this title or under chapter 106 of title 10, subject to waivers and exceptions.
+
 2017—Subsec. (a). Pub. L. 115–48, § 302(1)(A), substituted “in any of the following:” for “in—” in introductory provisions.
 
 Subsec. (a)(1), (2). Pub. L. 115–48, § 302(1)(B), (C), substituted “Any” for “any” and substituted period for semicolon at end.
@@ -1684,6 +1714,9 @@ Subsec. (g). Pub. L. 105–114, § 401(e), substituted “subsections (e) and (f
 Subsec. (d)(2)(C). Pub. L. 104–275, § 103(a)(2), substituted “subsection (g)” for “3689(b)(6) of this title”.
 
 Subsecs. (e) to (g). Pub. L. 104–275, § 103(b), added subsecs. (e) to (g).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–174, § 2(b), Aug. 26, 2022, 136 Stat. 2106, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to a quarter, semester, or term, as applicable, commencing on or after the date of the enactment of this Act [Aug. 26, 2022].”
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
@@ -2735,7 +2768,7 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 
 **(b)** The Secretary shall consult with and seek the advice of the committee from time to time with respect to the administration of this chapter, chapters 30, 32, 33, and 35 of this title, and chapter 1606 of title 10. The committee may make such reports and recommendations as it considers desirable to the Secretary and the Congress.
 
-**(c)** The committee shall remain in existence until December 31, 2022.
+**(c)** The committee shall remain in existence until December 31, 2026.
 
 ### Statutory Notes
 
@@ -2743,6 +2776,8 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 Provisions similar to those comprising this section were contained in Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1190, which was classified to former [section 1662 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1662&num=0&edition=prelim), prior to repeal by section 4(a) of Pub. L. 89–358.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–180 substituted “December 31, 2026” for “December 31, 2022”.
+
 2017—Subsec. (c). Pub. L. 115–48 substituted “December 31, 2022” for “December 31, 2017”.
 
 2016—Subsec. (a). Pub. L. 114–315 substituted “a representative sample of veterans and other individuals who have used, or may in the future use, educational assistance benefits administered by the Secretary.” for “veterans representative of World War II, the Korean conflict era, the post-Korean conflict era, the Vietnam era, the post-Vietnam era, and the Persian Gulf War.”
@@ -3453,7 +3488,7 @@ The date of the enactment of this section, referred to in subsec. (c), is the da
 ### Statutory Notes
 
 #### Applicability of Amendment
-Amendment of section by section 3(a), (b) of Pub. L. 117–16 applicable with respect to the information provided under [section 3698 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3698), United States Code, beginning on the date that is two years after June 8, 2021. See 2021 Amendment notes below.
+Amendment of section by section 3(a), (b) of Pub. L. 117–16 applicable with respect to the information provided under [section 3698 of title 38](./chapter-036-administration-of-educational-benefits.md#section-3698), beginning on the date that is two years after June 8, 2021. See 2021 Amendment notes below.
 
 #### References in Text
 The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(1)(C)(iv), (vi), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. Subpart 2 of part H of title IV of the Act is classified generally to subpart 2 (§ 1099b) of part H of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.

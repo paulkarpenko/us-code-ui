@@ -1586,7 +1586,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 <a id="section-3310"></a>
 ## § 3310. Preference eligibles; examinations; guards, elevator operators, messengers, and custodians
 
-In examinations for positions of guards, elevator operators, messengers, and custodians in the competitive service, competition is restricted to preference eligibles as long as preference eligibles are available.
+In examinations for positions of guards, elevator operators, messengers, and custodians in the competitive service (other than for positions of housekeeping aides in the Department of Veterans Affairs), competition is restricted to preference eligibles as long as preference eligibles are available.
 
 ### Statutory Notes
 
@@ -1598,6 +1598,9 @@ In examinations for positions of guards, elevator operators, messengers, and cus
 The words “in the competitive service” are added for clarity. The reference to “examinations held prior to December 31, 1954, for positions of apprentices” is omitted as obsolete. Application of this section to the excepted service in the executive branch and to the government of the District of Columbia, as provided in former section 858, is carried into section 3320.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### Amendments
+2022—Pub. L. 117–168 inserted “(other than for positions of housekeeping aides in the Department of Veterans Affairs)” after “competitive service”.
 
 
 <a id="section-3311"></a>
@@ -2097,7 +2100,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(A), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), provided that subsection (c) of this section is amended by striking out “, or any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)”. See 2021 Amendment note below.
 
 #### Amendments
-2021—Subsec. (c). Pub. L. 117–81 struck out “, or any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)” after “Drug Enforcement Administration Senior Executive Service”.
+2021—Subsec. (c). Pub. L. 117–81 struck out “, or any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)” before period at end.
 
 2015—Subsec. (c). Pub. L. 114–92 inserted “, or any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)” before period at end.
 
@@ -2106,7 +2109,7 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(A), Dec. 27, 2021, 135
 1978—Pub. L. 95–454 substituted “probationary period” for “probation; period of” in section catchline, designated existing provisions as subsec. (a), substituted provisions authorizing the President to take necessary action, for provisions authorizing the President to prescribe rules, and added subsecs. (b) and (c).
 
 #### Effective Date of 2021 Amendment
-For repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), effective Dec. 31, 2022, which effective date is applied to the amendment by Pub. L. 117–81 to this section to reflect the probable intent of Congress, see Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 117–81 applied as if effective Dec. 31, 2022, to correspond to the effective date of the repeal of [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces, to reflect the probable intent of Congress. See Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
@@ -3614,7 +3617,7 @@ For the purpose of this subchapter—
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 Section 4 of the Indian Self-Determination and Education Assistance Act, referred to in par. (2)(C), is classified to [section 5304 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), Indians.
 
@@ -4186,7 +4189,7 @@ Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(B), Dec. 27, 2021, 135
 A prior section 3393, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, which related to limitations concerning part-time career employment opportunities, was renumbered as [section 3403 of this title](./chapter-034-part-time-career-employment-opportunities.md#section-3403) by Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
 
 #### Amendments
-2021—Subsec. (d). Pub. L. 117–81 struck out at end: “The preceding sentence shall not apply to any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).”
+2021—Subsec. (d). Pub. L. 117–81 struck out at end “The preceding sentence shall not apply to any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).”
 
 2015—Subsec. (d). Pub. L. 114–92 inserted at end “The preceding sentence shall not apply to any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).”
 
@@ -4203,7 +4206,7 @@ Pub. L. 101–12 substituted “1215” for “1207”.
 1981—Subsec. (g). Pub. L. 97–35 added subsec. (g).
 
 #### Effective Date of 2021 Amendment
-For repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), effective Dec. 31, 2022, which effective date is applied to the amendment by Pub. L. 117–81 to this section to reflect the probable intent of Congress, see Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces.
+Amendment by Pub. L. 117–81 applied as if effective Dec. 31, 2022, to correspond to the effective date of the repeal of [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), Armed Forces, to reflect the probable intent of Congress. See Effective Date of Repeal note under [section 1599e of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.

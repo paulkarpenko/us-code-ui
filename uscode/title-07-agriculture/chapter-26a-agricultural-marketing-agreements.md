@@ -19,7 +19,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Adjustment Act, as amended, referred to in subsec. (a), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
+The Agricultural Adjustment Act, referred to in subsec. (a), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
 
 
 <a id="section-672"></a>
@@ -31,9 +31,9 @@ The Agricultural Adjustment Act, as amended, referred to in subsec. (a), is titl
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act June 3, 1937, ch. 296, 50 Stat. 246, as amended, known as the Agricultural Marketing Agreement Act of 1937. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act June 3, 1937, ch. 296, 50 Stat. 246, known as the Agricultural Marketing Agreement Act of 1937. For complete classification of this Act to the Code, see Tables.
 
-The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
+The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
 
 #### Amendments
 1948—Act July 3, 1948, designated existing provisions as subsec. (a) and added subsec. (b).
@@ -50,9 +50,9 @@ No processing taxes or compensating taxes shall be levied or collected under the
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Adjustment Act, as amended, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, as amended, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
+The Agricultural Adjustment Act, referred to in text, is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
 
-This Act, referred to in text, is act June 3, 1937, ch. 296, 50 Stat. 246, as amended, known as the Agricultural Marketing Agreement Act of 1937. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act June 3, 1937, ch. 296, 50 Stat. 246, known as the Agricultural Marketing Agreement Act of 1937. For complete classification of this Act to the Code, see Tables.
 
 Section 1 of act June 3, 1937, ch. 296, 50 Stat. 246, referred to in text, amended sections 601, 602, 608a, 608b, 608c, 608d, 608e, 610, 612, 614, and 624 of this title.
 
@@ -65,4 +65,4 @@ This Act may be cited as the “Agricultural Marketing Agreement Act of 1937”.
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act June 3, 1937, ch. 296, 50 Stat. 246, as amended, which among other things enacted this chapter. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act June 3, 1937, ch. 296, 50 Stat. 246, which among other things enacted this chapter. For complete classification of this Act to the Code, see Tables.

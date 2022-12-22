@@ -127,7 +127,7 @@ Pub. L. 99–399, title I, § 101, Aug. 27, 1986, 100 Stat. 855, provided that: 
 #### References in Text
 [Section 2708 of this title](./chapter-038-department-of-state.md#section-2708), referred to in subsec. (a)(2)(B)(xi), was amended generally by Pub. L. 105–323, title I, § 101, Oct. 30, 1998, 112 Stat. 3029, and, as so amended, provisions authorizing awards, formerly contained in section 2708(a), are now contained in section 2708(b).
 
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 8 of part II of the Act is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 2002—Subsec. (a)(1)(A). Pub. L. 107–228 inserted “Voice of America correspondents on official assignment and” after “abroad (other than”.
@@ -362,7 +362,7 @@ Special agent positions shall be filled in accordance with the provisions of the
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–236 amended section catchline to read “Special agents” and in text substituted “Special agent positions” for “Positions in the Diplomatic Security Service” and “The qualifications” for “In the case of positions designated for special agents, the qualifications”.
@@ -444,9 +444,11 @@ Subsec. (a)(3). Pub. L. 109–140, § 3(2), added par. (3).
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
-Pub. L. 116–260, div. K, title VII, § 7034(l)(7), Dec. 27, 2020, 134 Stat. 1750, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect for facilities in Afghanistan through September 30, 2021, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
+Pub. L. 117–103, div. K, title VII, § 7034(l)(8), Mar. 15, 2022, 136 Stat. 624, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect for facilities in Afghanistan through September 30, 2022, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
 
 Prior continuations were contained in the following prior acts:
+
+Pub. L. 116–260, div. K, title VII, § 7034(l)(7), Dec. 27, 2020, 134 Stat. 1750.
 
 Pub. L. 116–94, div. G, title VII, § 7034(l)(7), Dec. 20, 2019, 133 Stat. 2873.
 
@@ -530,7 +532,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Change of Name
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
@@ -811,7 +813,7 @@ Not later than 90 days after August 27, 1986, the Secretary of State shall submi
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 8 of title II of that Act probably means chapter 8 of part II of that Act, which is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of title II of that Act probably means chapter 8 of part II of that Act, which is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 1994—Subsec. (b). Pub. L. 103–236, as amended by Pub. L. 103–415, struck out heading and text of subsec. (b). Text read as follows: “Not later than October 1 of each year, the President shall submit a report to the Congress on the progress and problems of improving perimeter security of United States diplomatic missions abroad.”
@@ -849,7 +851,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 #### References in Text
 The amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, referred to in subsec. (b), is the amendment made by section 150(a) of Pub. L. 99–93, title I, Aug. 16, 1985, 99 Stat. 427, to sections 2 and 11 of the Inspector General Act of 1978. See note below.
 
-The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e), formerly subsec. (a)(5), of section 413 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees. A former subsec. (a)(6) of section 413, which amended [section 3929 of this title](./chapter-052-foreign-service.md#section-3929), was repealed by Pub. L. 99–529, title IV, § 405, Oct. 24, 1986, 100 Stat. 3020. Another subsec. (c) of section 413 amended [section 3929a of this title](./chapter-052-foreign-service.md#section-3929a).

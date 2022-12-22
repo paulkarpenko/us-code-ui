@@ -51,11 +51,11 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Fish and Wildlife Conservation Act of 1980, referred to in subsec. (a)(10), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, as amended, which is classified generally to chapter 49 (§ 2901 et seq.) of this title. In 1988, section 2912 of that chapter was enacted and section 2910 of that chapter was amended by Pub. L. 100–653, title VIII, Nov. 14, 1988, 102 Stat. 3833. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-049-fish-and-wildlife-conservation.md#section-2901) and Tables.
+The Fish and Wildlife Conservation Act of 1980, referred to in subsec. (a)(10), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, which is classified generally to chapter 49 (§ 2901 et seq.) of this title. In 1988, section 2912 of that chapter was enacted and section 2910 of that chapter was amended by Pub. L. 100–653, title VIII, Nov. 14, 1988, 102 Stat. 3833. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-049-fish-and-wildlife-conservation.md#section-2901) and Tables.
 
-The Endangered Species Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–233, Dec. 13, 1989, 103 Stat. 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 2002—Subsec. (a)(1). Pub. L. 107–308, § 3(a), substituted “and associated habitats” for “and other habitats”.
@@ -118,11 +118,11 @@ For the purposes of this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Treaty Act, referred to in par. (5), is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act, referred to in par. (5), is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
-The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in par. (5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Fish and Wildlife Conservation Act of 1980, referred to in par. (5), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, as amended, which is classified generally to chapter 49 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-049-fish-and-wildlife-conservation.md#section-2901) and Tables.
+The Fish and Wildlife Conservation Act of 1980, referred to in par. (5), is Pub. L. 96–366, Sept. 29, 1980, 94 Stat. 1322, which is classified generally to chapter 49 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-049-fish-and-wildlife-conservation.md#section-2901) and Tables.
 
 #### Amendments
 2002—Par. (2). Pub. L. 107–308, § 8(a)(3), substituted “Committee on Resources of the House of Representatives” for “Committee on Merchant Marine and Fisheries of the United States House of Representatives”.
@@ -195,9 +195,9 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-Public Law 92–463, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, known as the Federal Advisory Committee Act, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Public Law 92–463, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, known as the Federal Advisory Committee Act, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2020—Subsec. (a)(1)(B). Pub. L. 116–188 substituted “Executive Director of the Board” for “Secretary of the Board”.
@@ -256,9 +256,9 @@ Pub. L. 105–312, title III, § 304, Oct. 30, 1998, 112 Stat. 2958, provided th
 ### Statutory Notes
 
 #### References in Text
-The Endangered Species Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (a)(5), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2002—Subsec. (a)(5). Pub. L. 107–308, § 8(a)(8), inserted “of 1973” after “Endangered Species Act”.
@@ -414,7 +414,7 @@ The Secretary shall, in 1998 and at five-year intervals thereafter, undertake wi
 #### References in Text
 The Fish and Wildlife Coordination Act, referred to in subsec. (b), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see [section 661(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-661), and Tables.
 
-The Water Resources Development Act of 1986, referred to in subsec. (b), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters, and Tables.
+The Water Resources Development Act of 1986, referred to in subsec. (b), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082. For complete classification of this Act to the Code, see Short Title note set out under [section 2201 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2201&num=0&edition=prelim), Navigation and Navigable Waters, and Tables.
 
 
 <a id="section-4412"></a>

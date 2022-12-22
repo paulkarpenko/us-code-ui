@@ -550,9 +550,9 @@ Pub. L. 103–322, title XXXIII, § 330011(d), Sept. 13, 1994, 108 Stat. 2144, a
 
 <a id="section-1170"></a>
 ## § 1170. Illegal trafficking in Native American human remains and cultural items
-**(a)** Whoever knowingly sells, purchases, uses for profit, or transports for sale or profit, the human remains of a Native American without the right of possession to those remains as provided in the Native American Graves Protection and Repatriation Act shall be fined in accordance with this title, or imprisoned not more than 12 months, or both, and in the case of a second or subsequent violation, be fined in accordance with this title, or imprisoned not more than 5 years, or both.
+**(a)** Whoever knowingly sells, purchases, uses for profit, or transports for sale or profit, the human remains of a Native American without the right of possession to those remains as provided in the Native American Graves Protection and Repatriation Act shall be fined in accordance with this title, or imprisoned not more than 1 year and 1 day, or both, and in the case of a second or subsequent violation, be fined in accordance with this title, or imprisoned not more than 10 years, or both.
 
-**(b)** Whoever knowingly sells, purchases, uses for profit, or transports for sale or profit any Native American cultural items obtained in violation of the Native American Grave Protection and Repatriation Act shall be fined in accordance with this title, imprisoned not more than one year, or both, and in the case of a second or subsequent violation, be fined in accordance with this title, imprisoned not more than 5 years, or both.
+**(b)** Whoever knowingly sells, purchases, uses for profit, or transports for sale or profit any Native American cultural items obtained in violation of the Native American Grave Protection and Repatriation Act shall be fined in accordance with this title, imprisoned not more than one year, or both, and in the case of a second or subsequent violation, be fined in accordance with this title, imprisoned not more than 10 years, or both.
 
 ### Statutory Notes
 
@@ -560,4 +560,8 @@ Pub. L. 103–322, title XXXIII, § 330011(d), Sept. 13, 1994, 108 Stat. 2144, a
 The Native American Graves Protection and Repatriation Act, referred to in text, is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–258, § 4, substituted “1 year and 1 day” for “12 months” and “10 years” for “5 years”.
+
+Subsec. (b). Pub. L. 117–258, § 4(1), substituted “10 years” for “5 years”.
+
 1994—Pub. L. 103–322 substituted “Illegal trafficking in Native American human remains and cultural items” for “Illegal Trafficking in Native American Human Remains and Cultural Items” in section catchline.

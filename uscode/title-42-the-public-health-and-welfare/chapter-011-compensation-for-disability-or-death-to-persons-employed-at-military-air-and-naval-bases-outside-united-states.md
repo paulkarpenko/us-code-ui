@@ -46,7 +46,7 @@ irrespective of the place where the injury or death occurs, and shall include an
 ### Statutory Notes
 
 #### References in Text
-The Longshore and Harbor Workers’ Compensation Act, referred to in subsecs. (a) and (d), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
+The Longshore and Harbor Workers’ Compensation Act, referred to in subsecs. (a) and (d), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
 
 For definition of Canal Zone, referred to in subsec. (a)(2), (3), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
@@ -138,7 +138,7 @@ Previously, “Federal Security Administrator” and “Administrator” substit
 ### Statutory Notes
 
 #### References in Text
-The Longshore and Harbor Workers’ Compensation Act, referred to in text, is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
+The Longshore and Harbor Workers’ Compensation Act, referred to in text, is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1984—Subsecs. (a), (b). Pub. L. 98–426 substituted “Longshore and Harbor Workers’ Compensation Act” for “Longshoremen’s and Harbor Workers’ Compensation Act”.

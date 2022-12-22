@@ -72,7 +72,7 @@ Subsec. (b). Pub. L. 116–283, § 1812(b)(1), (2)(A), designated second sentenc
 
 Subsec. (b)(2). Pub. L. 117–81, § 1701(d)(5), in introductory provisions, substituted “chapters 321, 324, and 325, subchapter I of chapter 322, and sections 3042, 4232, 4273, 4293, 4321, 4323, and 4328” for “chapter 144”.
 
-Pub. L. 116–283, § 1812(b)(2)(B), in introductory provisions, struck out “provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies” before “with respect to cost estimation” and substituted “of this title, provide guidance to and consult with—” and subpars. (A) to (E) for “of this title;”.
+Pub. L. 116–283, § 1812(b)(2)(B), struck out “provide guidance to and consult with the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense (Comptroller), the Secretaries of the military departments, and the heads of the Defense Agencies” before “with respect to cost estimation” and substituted “of this title, provide guidance to and consult with—” and subpars. (A) to (E) for “of this title;”.
 
 Subsec. (b)(6)(A)(i). Pub. L. 116–283, § 1812(b)(2)(C)(i), substituted “section 4251 or 4252” for “section 2366a or 2366b”.
 
@@ -85,9 +85,9 @@ Subsec. (c). Pub. L. 117–81, § 1701(c)(1), substituted “under this chapter�
 Pub. L. 116–283, § 1812(b)(3), redesignated subsec. (h) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim) as subsec. (c) of this section.
 
 #### Effective Date of 2021 Amendment
-Amendment by section 1701(c)(1), (d)(5) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by section 1701(c)(1), (d)(5) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
-Amendment by section 1701(o)(6)(A)(i) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by section 1701(o)(6)(A)(i) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -147,7 +147,7 @@ A prior section 3223, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to aut
 Par. (2). Pub. L. 117–81 substituted “under this chapter” for “under this section”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -217,7 +217,7 @@ Par. (3)(A). Pub. L. 116–283, § 1812(f)(2)(B), substituted “[section 3221(b
 Par. (3)(B). Pub. L. 116–283, § 1812(f)(2)(C), as amended by Pub. L. 117–81, § 1701(o)(6)(A)(ii), substituted “section 4351” for “section 2432”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

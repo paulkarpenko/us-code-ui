@@ -2,7 +2,7 @@
 title: 48
 chapter: '20'
 heading: 'PUERTO RICO OVERSIGHT, MANAGEMENT, AND ECONOMIC STABILITY'
-section_count: 64
+section_count: 65
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48&num=0&edition=prelim
 ---
@@ -217,6 +217,9 @@ It is the sense of the Congress that any durable solution for Puerto Rico’s fi
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 114–187, June 30, 2016, 130 Stat. 549, known as the Puerto Rico Oversight, Management, and Economic Stability Act and also as PROMESA, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–82, § 1, Jan. 20, 2022, 136 Stat. 3, provided that: “This Act [enacting [section 2178 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2178)] may be cited as the ‘Puerto Rico Recovery Accuracy in Disclosures Act of 2021’ or ‘PRRADA’.”
 
 #### Short Title
 Pub. L. 114–187, § 1(a), June 30, 2016, 130 Stat. 549, provided that: “This Act [enacting this chapter, amending sections 1469e and 1492a of this title, sections 632 and 644 of Title 15, Commerce and Trade, and [section 206 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206&num=0&edition=prelim), Labor, and enacting provisions set out as a note under [section 632 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)] may be cited as the ‘Puerto Rico Oversight, Management, and Economic Stability Act’ or ‘PROMESA’.”
@@ -1287,21 +1290,21 @@ The Federal Rules of Bankruptcy Procedure, referred to in text, are set out in t
 A lease to a territory or territorial instrumentality shall not be treated as an executory contract or unexpired lease for the purposes of section 365 or 502(b)(6) of title 11 solely by reason of the lease being subject to termination in the event the debtor fails to appropriate rent.
 
 
-<a id="section-2191"></a>
-## § 2191. Filing of plan of adjustment
+<a id="section-2178"></a>
+## § 2178. Filing of plan of adjustment
 **(a) Exclusivity** Only the Oversight Board, after the issuance of a certificate pursuant to [section 2124(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section2124/j&num=0&edition=prelim), may file a plan of adjustment of the debts of the debtor.
 
 **(b) Deadline for filing plan** If the Oversight Board does not file a plan of adjustment with the petition, the Oversight Board shall file a plan of adjustment at the time set by the court.
 
 
-<a id="section-2192"></a>
-## § 2192. Modification of plan
+<a id="section-2191"></a>
+## § 2191. Modification of plan
 
 The Oversight Board, after the issuance of a certification pursuant to [section 2124(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section2124/j&num=0&edition=prelim), may modify the plan at any time before confirmation, but may not modify the plan so that the plan as modified fails to meet the requirements of this subchapter. After the Oversight Board files a modification, the plan as modified becomes the plan.
 
 
-<a id="section-2193"></a>
-## § 2193. Confirmation
+<a id="section-2192"></a>
+## § 2192. Confirmation
 **(a) Objection** A special tax payer may object to confirmation of a plan.
 
 **(b) Confirmation** The court shall confirm the plan if—
@@ -1330,8 +1333,8 @@ The Oversight Board, after the issuance of a certification pursuant to [section 
 the court shall confirm the plan notwithstanding the requirements of such sections 1129(a)(8) and 1129(a)(10) of title 11 if the plan is fair and equitable and does not discriminate unfairly with respect to such impaired class.
 
 
-<a id="section-2194"></a>
-## § 2194. Role and capacity of Oversight Board
+<a id="section-2193"></a>
+## § 2193. Role and capacity of Oversight Board
 **(a) Actions of Oversight Board** For the purposes of this subchapter, the Oversight Board may take any action necessary on behalf of the debtor to prosecute the case of the debtor, including—
 
 (1) filing a petition under [section 2164 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2164);
@@ -1343,8 +1346,8 @@ the court shall confirm the plan notwithstanding the requirements of such sectio
 **(b) Representative of debtor** The Oversight Board in a case under this subchapter is the representative of the debtor.
 
 
-<a id="section-2195"></a>
-## § 2195. Compensation of professionals
+<a id="section-2194"></a>
+## § 2194. Compensation of professionals
 **(a) Compensation for services rendered and reimbursement for expenses** After notice to the parties in interest and the United States Trustee and a hearing, the court may award to a professional person employed by the debtor (in the debtor’s sole discretion), the Oversight Board (in the Oversight Board’s sole discretion), a committee under [section 1103 of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1103&num=0&edition=prelim), or a trustee appointed by the court under [section 926 of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section926&num=0&edition=prelim)—
 
 (1) reasonable compensation for actual, necessary services rendered by the professional person, or attorney and by any paraprofessional person employed by any such person; and
@@ -1387,10 +1390,83 @@ the court shall confirm the plan notwithstanding the requirements of such sectio
 This chapter, referred to in subsec. (c)(3), was so in the original, but probably should have been a reference to “this title”, meaning title III of Pub. L. 114–187, June 30, 2016, 130 Stat. 577, which is classified generally to this subchapter. Pub. L. 114–187 does not contain chapters.
 
 
-<a id="section-2196"></a>
-## § 2196. Interim compensation
+<a id="section-2195"></a>
+## § 2195. Interim compensation
 
 A debtor’s attorney, or any professional person employed by the debtor (in the debtor’s sole discretion), the Oversight Board (in the Oversight Board’s sole discretion), a committee under [section 1103 of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1103&num=0&edition=prelim), or a trustee appointed by the court under [section 926 of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section926&num=0&edition=prelim), may apply to the court not more than once every 120 days after an order for relief in a case under this subchapter, or more often if the court permits, for such compensation for services rendered before the date of such an application or reimbursement for expenses incurred before such date as is provided under [section 2176 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2176).
+
+
+<a id="section-2196"></a>
+## § 2196. Disclosure by professional persons seeking approval of compensation under section 2176 or 2177 of this title
+**(a) Definitions** In this section:
+
+(1) **List of Material Interested Parties** — The term “List of Material Interested Parties” means the List of Material Interested Parties established under subsection (c)(1).
+
+(2) **Oversight Board** — The term “Oversight Board” has the meaning given the term in [section 2104 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2104).
+
+**(b) Required disclosure**
+
+(1) **In general** — In a case commenced under [section 2164 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2164), no attorney, accountant, appraiser, auctioneer, agent, or other professional person may be compensated under section 2176 or 2177 of this title unless prior to making a request for compensation, the professional person has filed with the court a verified statement conforming to the disclosure requirements of rule 2014(a) of the Federal Rules of Bankruptcy Procedure setting forth the connection of the professional person with any entity or person on the List of Material Interested Parties.
+
+(2) **Supplement** — A professional person that submits a statement under paragraph (1) shall promptly supplement the statement with any additional relevant information that becomes known to the person.
+
+(3) **Disclosure** — Subject to any other applicable law, rule, or regulation, a professional person that fails to file or update a statement required under paragraph (1) or files a statement that the court determines does not represent a good faith effort to comply with this section shall disclose such failure in any filing required to conform to the disclosure requirements under rule 2014(a) of the Federal Rules of Bankruptcy Procedure.
+
+**(c) List of Material Interested Parties**
+
+(1) **Preparation** — Not later than 30 days after January 20, 2022, the Oversight Board shall establish a List of Material Interested Parties subject to—
+
+  (A) the approval of the court; and
+
+  (B) the right of the United States trustee or any party in interest to be heard on the approval.
+
+(2) **Inclusions** — Except as provided in paragraph (3), the List of Material Interested Parties shall include—
+
+  (A) the debtor;
+
+  (B) any creditor;
+
+  (C) any other party in interest;
+
+  (D) any attorney or accountant of—
+
+    (i) the debtor;
+
+    (ii) any creditor; or
+
+    (iii) any other party in interest;
+
+  (E) the United States trustee and any person employed in the office of the United States trustee; and
+
+  (F) the Oversight Board, including the members, the Executive Director, and the employees of the Oversight Board.
+
+(3) **Exclusions** — The List of Material Interested Parties may not include any person with a claim, the amount of which is below a threshold dollar amount established by the court that is consistent with the purpose of this section.
+
+**(d) Review**
+
+(1) **In general** — The United States trustee shall review each verified statement submitted pursuant to subsection (b) and may file with the court comments on such verified statements before the professionals filing such statements seek compensation under section 2176 or 2177 of this title.
+
+(2) **Objection** — The United States trustee may object to applications filed under section 2176 or 2177 of this title that fail to satisfy the requirements of subsection (b).
+
+**(e) Limitation on compensation** In a case commenced under [section 2164 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2164), in connection with the review and approval of professional compensation under section 2176 or 2177 of this title filed after January 20, 2022, the court may deny allowance of compensation or reimbursement of expenses if—
+
+(1) the professional person has failed to file the verified disclosure statements required under subsection (b)(1) or has filed inadequate disclosure statements under that subsection; or
+
+(2) during the professional person’s employment in connection with the case, the professional person—
+
+  (A) is not a disinterested person (as defined in [section 101 of title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section101&num=0&edition=prelim)) relative to any entity or person on the List of Material Interested Parties; or
+
+  (B) represents or holds an adverse interest in connection with the case.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b)(1), (3), are set out in the Appendix to Title 11, Bankruptcy.
+
+This section, referred to in subsec. (c)(3), was in the original “this Act”, meaning Pub. L. 117–82, Jan. 20, 2022, 136 Stat. 3, known as the Puerto Rico Recovery Accuracy in Disclosures Act of 2021 and also as PRRADA, which enacted this section and provisions set out as a note under [section 2101 of this title](./chapter-020-puerto-rico-oversight-management-and-economic-stability.md#section-2101).
+
+#### Codification
+Section was enacted as part of the Puerto Rico Recovery Accuracy in Disclosures Act of 2021, also known as PRRADA, and not as part of the Puerto Rico Oversight, Management, and Economic Stability Act, also known as PROMESA, which comprises this chapter.
 
 
 <a id="section-2197"></a>

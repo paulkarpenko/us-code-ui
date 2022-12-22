@@ -34,7 +34,7 @@ The Commission is exempt from the provisions of the Metric Conversion Act of 197
 ### Statutory Notes
 
 #### References in Text
-The Metric Conversion Act of 1975, referred to in section catchline and text, is Pub. L. 94–168, Dec. 23, 1975, 89 Stat. 1007, as amended, which is classified generally to subchapter II (§ 205a et seq.) of chapter 6 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 205a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section205a&num=0&edition=prelim) and Tables.
+The Metric Conversion Act of 1975, referred to in section catchline and text, is Pub. L. 94–168, Dec. 23, 1975, 89 Stat. 1007, which is classified generally to subchapter II (§ 205a et seq.) of chapter 6 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 205a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section205a&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 3302 of Pub. L. 96–70, title III, Sept. 27, 1979, 93 Stat. 498, amended sections 305, 5102, 5316, 5342, 5343, 5348, 5373, 5504, 5533, 5541, 5583, 6301, 6323, 8146, and 8335 of Title 5, Government Organization and Employees, and sections 191, 195, and 196 of Title 50, War and National Defense, prior to general amendment by Pub. L. 104–201, div. C, title XXXV, § 3547, Sept. 23, 1996, 110 Stat. 2868.
@@ -375,7 +375,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 #### References in Text
 Level III of the Executive Schedule, referred to in subsec. (b), is set out in [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
 
-The Foreign Agents Registration Act of 1938, referred to in subsec. (d)(1)(A), is act June 8, 1938, ch. 327, 52 Stat. 631, as amended, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of this title](./chapter-011-foreign-agents-and-propaganda.md#section-611) and Tables.
+The Foreign Agents Registration Act of 1938, referred to in subsec. (d)(1)(A), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of this title](./chapter-011-foreign-agents-and-propaganda.md#section-611) and Tables.
 
 Sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978, referred to in subsec. (d)(1)(D), are sections 501(a) and 502(a)(4) of Pub. L. 95–521, which are set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -543,7 +543,7 @@ Functions vested in President by this section delegated to Secretary of State wh
 ### Statutory Notes
 
 #### References in Text
-The Ethics in Government Act of 1978 (92 Stat. 1824), as amended, referred to in subsec. (b)(5), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978 (92 Stat. 1824), as amended, referred to in subsec. (b)(5), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 #### Codification
 In subsec. (b)(4), “sections 1343, 1344, and 1349(b) of title 31” substituted for “section 5 of the Act of July 16, 1914 ([31 U.S.C. 638a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section638a&num=0&edition=prelim)), as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -1388,11 +1388,11 @@ Cash relief granted to such a widow shall not at any time exceed 50 percent of t
 ### Statutory Notes
 
 #### References in Text
-The reference to the Act of July 8, 1937, in subsecs. (a)(1), (d), and (e), is act July 8, 1937, ch. 443, 50 Stat. 478, as amended, which was classified to [section 1372 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1372&num=0&edition=prelim), Territories and Insular Possessions, prior to repeal by Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701.
+The reference to the Act of July 8, 1937, in subsecs. (a)(1), (d), and (e), is act July 8, 1937, ch. 443, 50 Stat. 478, which was classified to [section 1372 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1372&num=0&edition=prelim), Territories and Insular Possessions, prior to repeal by Pub. L. 87–845, § 26(b), Oct. 18, 1962, 76A Stat. 701.
 
 The Canal Zone Code, referred to in subsec. (a)(2), was enacted by Pub. L. 87–845, § 1, Oct. 18, 1962, 76A Stat. 1, redesignated the Panama Canal Code by Pub. L. 96–70, title III, § 3303(b), Sept. 27, 1979, 93 Stat. 499, and repealed by Pub. L. 104–201, div. C, title XXXV, § 3549, Sept. 23, 1996, 110 Stat. 2870.
 
-Section 13(a)(1) of Act July 25, 1958, referred to in subsec. (e), probably means section 13(a) of Pub. L. 85–550, July 25, 1958, 72 Stat. 405, as amended, which is set out as a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees.
+Section 13(a)(1) of Act July 25, 1958, referred to in subsec. (e), probably means section 13(a) of Pub. L. 85–550, July 25, 1958, 72 Stat. 405, which is set out as a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
 1996—Pub. L. 104–201, §§ 3538, 3548(c)(2), amended section catchline to read “Administration of certain disability benefits”.
@@ -1601,7 +1601,7 @@ Notwithstanding section 210 of the Federal Property and Administrative Services 
 ### Statutory Notes
 
 #### References in Text
-Section 210 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section490&num=0&edition=prelim)), referred to in text, was section 210 of act June 30, 1949, ch. 288, as amended, which was classified to section 490 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 581 to 584, 588 and 589 and parts of sections 585 to 587 and 592 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For disposition of section 490 of former Title 40, see Table at beginning of Title 40.
+Section 210 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 490](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section490&num=0&edition=prelim)), referred to in text, was section 210 of act June 30, 1949, ch. 288, which was classified to section 490 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 581 to 584, 588 and 589 and parts of sections 585 to 587 and 592 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For disposition of section 490 of former Title 40, see Table at beginning of Title 40.
 
 #### Codification
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1987, and not as part of the Panama Canal Act of 1979 which comprises this chapter.
@@ -1975,7 +1975,7 @@ Amendment by Pub. L. 99–223 effective Oct. 1, 1985, see section 8 of Pub. L. 9
 ### Statutory Notes
 
 #### References in Text
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (g), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (g), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Subsec. (f). Pub. L. 105–261 made technical correction to Pub. L. 104–201. See 1996 Amendment note below.

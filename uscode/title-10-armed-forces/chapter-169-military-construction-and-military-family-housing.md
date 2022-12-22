@@ -2,7 +2,7 @@
 title: 10
 chapter: '169'
 heading: MILITARY CONSTRUCTION AND MILITARY FAMILY HOUSING
-section_count: 89
+section_count: 90
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -328,7 +328,7 @@ For effective date and applicability of section, see section 12(a) of Pub. L. 97
 ### Statutory Notes
 
 #### Amendments
-2021—Subsec. (d)(1)(B). Pub. L. 116–283, § 1843(c), substituted “section 4123(a)” for “section 2363(a)”.
+2021—Subsec. (d)(1)(B). Pub. L. 116–283, § 1843(c), as amended by Pub. L. 117–81, § 1701(u)(4)(B), substituted “section 4123(a)” for “section 2363(a)”.
 
 Subsec. (f)(3). Pub. L. 116–283, § 2802, substituted “2027” for “2022”.
 
@@ -453,7 +453,7 @@ Subsec. (c). Pub. L. 99–661, § 2702(a)(3), substituted “$200,000” for “
 Subsec. (c). Pub. L. 99–167, § 809(2), substituted “The” for “Only funds authorized for minor construction projects may be used to accomplish unspecified minor construction projects, except that the”.
 
 #### Effective Date of 2021 Amendment
-Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
+Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
 Amendment by section 1843(c) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -1090,6 +1090,79 @@ Subsec. (c). Pub. L. 116–283, § 315(a)(2), substituted “Except as provided 
 Subsecs. (d) to (f). Pub. L. 116–283, § 315(a)(3), (4), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
 
+<a id="section-2815a"></a>
+## § 2815a. Stormwater management projects for installation and defense access road resilience and waterway and ecosystems conservation
+**(a) Projects Authorized.—** The Secretary concerned may carry out a stormwater management project on or related to a military installation for the purpose of—
+
+(1) improving military installation resilience or the resilience of a defense access road or other essential civilian infrastructure supporting the military installation; and
+
+(2) protecting nearby waterways and stormwater-stressed ecosystems.
+
+**(b) Project Methods and Funding Sources.—** Using such amounts as may be provided in advance in appropriation Acts, the Secretary concerned may carry out a stormwater management project under this section as, or as part of, any of the following:
+
+(1) An authorized military construction project.
+
+(2) An unspecified minor military construction project under [section 2805 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2805), including using appropriations available for operation and maintenance subject to the limitation in subsection (c) of such section.
+
+(3) A military installation resilience project under [section 2815 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2815), including the use of appropriations available for operations and maintenance subject to the limitation of subsection (e)(3) of such section.
+
+(4) A defense community infrastructure resilience project under [section 2391(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2391/d&num=0&edition=prelim).
+
+(5) A construction project under [section 2914 of this title](./chapter-173-energy-security.md#section-2914).
+
+(6) A reserve component facility project under [section 18233 of this title](./chapter-1803-facilities-for-reserve-components.md#section-18233).
+
+(7) A defense access road project under [section 210 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section210&num=0&edition=prelim).
+
+**(c) Project Priorities.—** In selecting stormwater management projects to be carried out under this section, the Secretary concerned shall give a priority to project proposals involving the retrofitting of buildings and grounds on a military installation or retrofitting a defense access road to reduce stormwater runoff and ponding or standing water that includes the combination of stormwater runoff and water levels resulting from extreme weather conditions.
+
+**(d) Project Activities.—** Activities carried out as part of a stormwater management project under this section may include, but are not limited to, the following:
+
+(1) The installation, expansion, or refurbishment of stormwater ponds and other water-slowing and retention measures.
+
+(2) The installation of permeable pavement in lieu of, or to replace existing, nonpermeable pavement.
+
+(3) The use of planters, tree boxes, cisterns, and rain gardens to reduce stormwater runoff.
+
+**(e) Project Coordination.—** In the case of a stormwater management project carried out under this section on or related to a military installation and any project related to the same installation carried out under section 2391(d), 2815, or 2914 of this title, the Secretary concerned shall ensure coordination between the projects regarding the water access, management, conservation, security, and resilience aspects of the projects.
+
+**(f) Annual Report.—**
+
+(1) Not later than 90 days after the end of each fiscal year, each Secretary concerned shall submit to the congressional defense committees a report describing—
+
+  (A) the status of planned and active stormwater management projects carried out by that Secretary under this section; and
+
+  (B) all projects completed by the Secretary concerned during the previous fiscal year.
+
+(2) Each report shall include the following information with respect to each stormwater management project described in the report:
+
+  (A) The title, location, a brief description of the scope of work, the original project cost estimate, and the current working cost estimate.
+
+  (B) The rationale for how the project will—
+
+    (i) improve military installation resilience or the resilience of a defense access road or other essential civilian infrastructure supporting a military installation; and
+
+    (ii) protect waterways and stormwater-stressed ecosystems.
+
+  (C) Such other information as the Secretary concerned considers appropriate.
+
+**(g) Definitions.—** In this section:
+
+(1) The term “defense access road” means a road certified to the Secretary of Transportation as important to the national defense under the provisions of [section 210 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section210&num=0&edition=prelim).
+
+(2) The terms “facility” and “State” have the meanings given those terms in [section 18232 of this title](./chapter-1803-facilities-for-reserve-components.md#section-18232).
+
+(3) The term “military installation” includes a facility of a reserve component owned by a State rather than the United States.
+
+(4) The term “military installation resilience” has the meaning given that term in [section 101(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim).
+
+(5) The term “Secretary concerned” means—
+
+  (A) the Secretary of a military department with respect to military installations under the jurisdiction of that Secretary; and
+
+  (B) the Secretary of Defense with respect to matters concerning the Defense Agencies and facilities of a reserve component owned by a State rather than the United States.
+
+
 <a id="section-2816"></a>
 ## § 2816. Consideration of energy security and energy resilience in life-cycle cost for military construction
 **(a) In General.—**
@@ -1188,9 +1261,11 @@ Pub. L. 116–92, div. B, title XXX, § 3062, Dec. 20, 2019, 133 Stat. 1946, pro
 Pub. L. 114–328, div. A, title III, § 345, Dec. 23, 2016, 130 Stat. 2085, provided that: “(a) Removal of Certain Window Coverings.—Not later than three years after the date of enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall remove and replace disqualified window coverings from—“(1) military housing units owned by the Department of Defense in which children under the age of 9 may reside; and “(2) military housing units leased by the Department of Defense in which children under the age of 9 may reside if the lease for such units requires the Department to provide window coverings. “(b) Prohibition on Disqualified Window Coverings in Military Housing Units Acquired or Constructed by Contract.—All contracts entered into by the Secretary of Defense after September 30, 2017, for the acquisition or construction of military family housing, including military family housing acquired or constructed pursuant to subchapter IV of chapter 169 of title 10, United States Code, shall prohibit the use of disqualified window coverings in such housing. “(c) Disqualified Window Covering Defined.—In this section, the term ‘disqualified window covering’ means—“(1) a window covering with an accessible cord that exceeds 8 inches in length; or “(2) a window covering with an accessible continuous loop cord that does not have a cord tension device that prevents operation when the cord is not anchored to the wall.”
 
 #### Repair and Maintenance of Family Housing Units
-Pub. L. 116–260, div. J, title I, § 119, Dec. 27, 2020, 134 Stat. 1661, provided that: “Notwithstanding any other provision of law, funds made available in this title [see Tables for classification] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: Provided, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: Provided further, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
+Pub. L. 117–103, div. J, title I, § 119, Mar. 15, 2022, 136 Stat. 535, provided that: “Notwithstanding any other provision of law, funds made available in this title [see Tables for classification] for operation and maintenance of family housing shall be the exclusive source of funds for repair and maintenance of all family housing units, including general or flag officer quarters: Provided, That not more than $35,000 per unit may be spent annually for the maintenance and repair of any general or flag officer quarters without 30 days prior notification, or 14 days for a notification provided in an electronic medium pursuant to sections 480 and 2883 of title 10, United States Code, to the Committees on Appropriations of both Houses of Congress, except that an after-the-fact notification shall be submitted if the limitation is exceeded solely due to costs associated with environmental remediation that could not be reasonably anticipated at the time of the budget submission: Provided further, That the Under Secretary of Defense (Comptroller) is to report annually to the Committees on Appropriations of both Houses of Congress all operation and maintenance expenditures for each individual general or flag officer quarters for the prior fiscal year.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–260, div. J, title I, § 119, Dec. 27, 2020, 134 Stat. 1661.
 
 Pub. L. 116–94, div. F, title I, § 119, Dec. 20, 2019, 133 Stat. 2785.
 
@@ -2153,7 +2228,7 @@ Subsec. (c). Pub. L. 109–163, § 2803(a), added subsec. (c).
 #### Effective Date
 For effective date and applicability of section, see section 12(a) of Pub. L. 97–214, set out as a note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).
 
-#### Application of Amendments
+#### Application of Amendment by Pub. L. 117–81
 Pub. L. 117–81, div. B, title XXVIII, § 2801(b), Dec. 27, 2021, 135 Stat. 2184, provided that: “Subparagraph (E) of [section 2851(c)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2851/c/1&num=0&edition=prelim), United States Code, as added by subsection (a)(2), and subparagraph (F) of such section, as amended by subsection (a)(3), shall apply with respect to a military department Facilities Sustainment, Restoration, and Modernization project described in such subparagraphs for which an award of a contract or delivery order for the project is made on or after June 1, 2022.”
 
 #### Implementation of Internet Site
@@ -2195,7 +2270,7 @@ Subsec. (b)(1). Pub. L. 116–283, § 2811(a)(1)(B)(ii), inserted “covered” 
 Pub. L. 116–283, § 2811(a)(1)(B)(i), substituted “covered housing units” for “housing under subchapter IV and this subchapter” in introductory provisions.
 
 #### Notification of Designation
-Pub. L. 116–92, div. B, title XXX, § 3012(b), Dec. 20, 2019, 133 Stat. 1921, provided that: “Not later than 60 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the official of the Department of Defense designated as Chief Housing Officer under section 2890a [now 2851a] of title 10, United States Code, as added by subsection (a). Any time the designation of Chief Housing Officer changes, the Secretary of Defense shall update the notification of the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] within 30 days after the new designation.”
+Pub. L. 116–92, div. B, title XXX, § 3012(b), Dec. 20, 2019, 133 Stat. 1921, provided that: “Not later than 60 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of the official of the Department of Defense designated as Chief Housing Officer under [section 2890a of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2890a) [now [10 U.S.C. 2851a](./chapter-169-military-construction-and-military-family-housing.md#section-2851a)], United States Code, as added by subsection (a). Any time the designation of Chief Housing Officer changes, the Secretary of Defense shall update the notification of the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] within 30 days after the new designation.”
 
 
 <a id="section-2852"></a>
@@ -3005,7 +3080,7 @@ Subsec. (b). Pub. L. 113–66, § 2811(2), designated existing provisions as par
 Subsecs. (c), (d). Pub. L. 113–66, § 2811(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 #### Strategic Decisions Relating to Military Installations; Implications of Military Installation Resilience for Strategy; Plans and Planning Documents; Definitions
-Pub. L. 117–81, div. A, title III, § 311(d)–(g), (j), Dec. 27, 2021, 135 Stat. 1626, 1627, provided that: “(d) Strategic Decisions Relating to Military Installations.—The Secretary of each military department, with respect to any installation under the jurisdiction of that Secretary, and the Secretary of Defense, with respect to any installation of the Department of Defense that is not under the jurisdiction of the Secretary of a military department, shall consider the strategic risks associated with military installation resilience. “(e) National Defense Strategy and National Military Strategy.—The Secretary of Defense, in coordination with the heads of such other Federal agencies as the Secretary determines appropriate, shall incorporate the security implications of military installation resilience into the National Defense Strategy and the National Military Strategy. “(f) National Security Planning Documents.—The Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall consider the security implications associated with military installation resilience in developing the Defense Planning Guidance under [section 113(g)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g/2&num=0&edition=prelim), United States Code, the Risk Assessment of the Chairman of the Joint Chiefs of Staff under section 153(b)(2) of such title, and other relevant strategy, planning, and programming documents and processes. “(g) Campaign Plans of Combatant Commands.—The Secretary of Defense shall ensure that the national security implications associated with military installation resilience are integrated into the campaign plans of the combatant commands. “(j) Definitions.—In this section [transferring [section 118a of this title](./chapter-002-department-of-defense.md#section-118a) to [section 118b of this title](./chapter-002-department-of-defense.md#section-118b), amending sections 113, 153, and 2925 of this section, enacting provisions set out as notes under this section and [section 2925 of this title](./chapter-173-energy-security.md#section-2925), and amending provisions set out as a note under [section 118b of this title](./chapter-002-department-of-defense.md#section-118b)]:“(1) The term ‘military installation resilience’ has the meaning given that term in [section 101(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e&num=0&edition=prelim), United States Code. “(2) The term ‘National Defense Strategy’ means the national defense strategy under section 113(g)(1) of such title. “(3) The term ‘National Military Strategy’ means the national military strategy under section 153(b) of such title.”
+Pub. L. 117–81, div. A, title III, § 311(d)–(g), (j), Dec. 27, 2021, 135 Stat. 1626, 1627, provided that: “(d) Strategic Decisions Relating to Military Installations.—The Secretary of each military department, with respect to any installation under the jurisdiction of that Secretary, and the Secretary of Defense, with respect to any installation of the Department of Defense that is not under the jurisdiction of the Secretary of a military department, shall consider the strategic risks associated with military installation resilience. “(e) National Defense Strategy and National Military Strategy.—The Secretary of Defense, in coordination with the heads of such other Federal agencies as the Secretary determines appropriate, shall incorporate the security implications of military installation resilience into the National Defense Strategy and the National Military Strategy. “(f) National Security Planning Documents.—The Secretary of Defense and the Chairman of the Joint Chiefs of Staff shall consider the security implications associated with military installation resilience in developing the Defense Planning Guidance under [section 113(g)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g/2&num=0&edition=prelim), United States Code, the Risk Assessment of the Chairman of the Joint Chiefs of Staff under section 153(b)(2) of such title, and other relevant strategy, planning, and programming documents and processes. “(g) Campaign Plans of Combatant Commands.—The Secretary of Defense shall ensure that the national security implications associated with military installation resilience are integrated into the campaign plans of the combatant commands. “(j) Definitions.—In this section [transferring [section 118a of this title](./chapter-002-department-of-defense.md#section-118a) to [section 118b of this title](./chapter-002-department-of-defense.md#section-118b), amending sections 113, 153, and 2925 of this title, enacting provisions set out as notes under this section and [section 2925 of this title](./chapter-173-energy-security.md#section-2925), and amending provisions set out as a note under [section 118b of this title](./chapter-002-department-of-defense.md#section-118b)]:“(1) The term ‘military installation resilience’ has the meaning given that term in [section 101(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e&num=0&edition=prelim), United States Code. “(2) The term ‘National Defense Strategy’ means the national defense strategy under section 113(g)(1) of such title. “(3) The term ‘National Military Strategy’ means the national military strategy under section 153(b) of such title.”
 
 #### Prompt Completion of Military Installation Resilience Component of Master Plans for At-Risk Major Military Installations
 Pub. L. 117–81, div. B, title XXVIII, § 2833, Dec. 27, 2021, 135 Stat. 2199, provided that: “(a) Identification of At-Risk Installations.—Not later than 30 days after the date of the enactment of this Act [Dec. 27, 2021], each Secretary of a military department shall—“(1) identify at least two major military installations under the jurisdiction of that Secretary that the Secretary considers at risk from extreme weather events; and “(2) notify the Committees on Armed Services of the Senate and the House of Representatives of the major military installations identified under paragraph (1). “(b) Completion Deadline.—Not later than one year after the date of the enactment of this Act, each Secretary of a military department shall ensure that the military installation resilience component of the master plan for each major military installation identified by the Secretary under subsection (a) is completed. “(c) Briefings.—Not later than 60 days after completion of a master plan component as required by subsection (b) for a major military installation, the Secretary of the military department concerned shall brief the Committees on Armed Services of the Senate and the House of Representatives regarding the results of the master plan efforts for that major military installation. “(d) Definitions.—In this section:“(1) The term ‘major military installation’ has the meaning given that term in [section 2864(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2864/f&num=0&edition=prelim), United States Code. “(2) The term ‘master plan’ means the master plan required by [section 2864(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2864/a&num=0&edition=prelim), United States Code, for a major military installation.”

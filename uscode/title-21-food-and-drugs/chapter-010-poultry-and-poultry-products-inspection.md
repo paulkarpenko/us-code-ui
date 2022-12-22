@@ -163,7 +163,7 @@ For purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in pars. (x) and (y), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in pars. (x) and (y), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Amendments
 1992—Subsec. (g)(2)(D). Pub. L. 102–571 substituted “379e” for “376”.
@@ -276,7 +276,7 @@ Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L.
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in par. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in par. (b), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Amendments
 1968—Par. (a). Pub. L. 90–492 substituted provisions requiring shipping containers and immediate containers, as the Secretary may order, to bear the information required under [section 453(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section453/h&num=0&edition=prelim), and provisions, whenever the Secretary determines such action to be practicable and necessary, requiring nonconsumer packaged carcasses at the time they leave the official establishment to bear the information required under the aforementioned section, for provisions requiring shipping containers to bear the official mark and the approved plant number of the official establishment in which the contents were processed, provisions requiring immediate containers to bear the official inspection mark, the name of the product, a statement of ingredients, the net weight or other appropriate measure of the contents, the name and address of the processor, and the approved plant number of the official establishment in which the contents were processed, and provisions authorizing the Secretary to make reasonable variations and grant exemptions from the foregoing labeling requirements.
@@ -559,7 +559,7 @@ Amendment by Pub. L. 90–492 effective Aug. 18, 1968, see section 20 of Pub. L.
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Amendments
 1994—Subsec. (d)(1). Pub. L. 103–465, § 431(k)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding any other provision of law, except as provided in paragraph (2), all poultry, or parts or products thereof, capable of use as human food offered for importation into the United States shall—
@@ -690,7 +690,7 @@ Requirements within the scope of this chapter with respect to premises, faciliti
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in text, is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
 
 #### Change of Name
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (b) pursuant to section 509(b) of Pub. L. 96–88, which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
@@ -931,7 +931,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) *In general* — The Secretary shall require a recipient of a grant under this section to provide matching non-Federal funds in an amount equal to the amount of the grant.
 
-  (B) *Exception* — The Secretary shall not require any recipient of a grant under this section to provide matching funds with respect to a grant awarded in fiscal year 2021.
+  (B) *Exception* — The Secretary shall not require any recipient of a grant under this section to provide matching funds with respect to a grant awarded in fiscal year 2021 and fiscal year 2022.
 
 **(e) Reports**
 
@@ -954,6 +954,9 @@ The Poultry Products Inspection Act, referred to in subsecs. (a)(1), (2)(B), and
 
 #### Codification
 Section was enacted as part of the Consolidated Appropriations Act, 2021, and not as part of the Poultry Products Inspection Act which comprises this chapter.
+
+#### Amendments
+2022—Subsec. (d)(3)(B). Pub. L. 117–103 inserted “and fiscal year 2022” after “fiscal year 2021”.
 
 #### Definition
 For definition of “Secretary” as used in this section, see section 760 of div. N of Pub. L. 116–260, set out as a note under [section 5936a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5936a&num=0&edition=prelim), Agriculture.

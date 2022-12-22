@@ -1,7 +1,7 @@
 ---
 title: 34
 chapter: '509'
-heading: CONFIDENTIALITY OPPORTUNITIES FOR PEER SUPPORTCOUNSELING
+heading: CONFIDENTIALITY OPPORTUNITIES FOR PEER SUPPORT COUNSELING
 section_count: 2
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
@@ -97,6 +97,11 @@ source: >-
 (2) knowledge of a law enforcement officer about a peer support participant not gained from a peer support communication.
 
 **(e) Disclosure of rights** Before the initial peer support counseling session of a peer support participant, a peer support specialist shall inform the peer support participant in writing of the confidentiality requirement under subsection (b) and the exceptions to the requirement under subsection (c).
+
+### Statutory Notes
+
+#### Short Title
+For short title of Pub. L. 117–60, which is classified to this chapter, as the “Confidentiality Opportunities for Peer Support Counseling Act” and also as the “COPS Counseling Act”, see section 1 of Pub. L. 117–60, set out as a Short Title of 2021 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
 
 <a id="section-50902"></a>

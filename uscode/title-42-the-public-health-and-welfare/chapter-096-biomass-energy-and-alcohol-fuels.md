@@ -194,7 +194,7 @@ This chapter, referred to in introductory provisions and pars. (11)(A) and (14)(
 
 Subchapter III, referred to in par. (2)(B), was in the original “subtitle C”, meaning subtitle C (§§ 251–262) of title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 705, which enacted subchapter III of this chapter and sections 1435 and 3129 of Title 7, Agriculture, and amended sections 341, 342, 3104, and 3154 of Title 7 and sections 590h and 1642 of Title 16, Conservation. For complete classification of subtitle C to the Code, see Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
@@ -387,7 +387,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 ### Statutory Notes
 
 #### References in Text
-The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(3), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(3), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 
 <a id="section-8818"></a>
@@ -424,7 +424,7 @@ then the Secretary may pay to the lender under a loan guarantee agreement an amo
 ### Statutory Notes
 
 #### References in Text
-The Federal Financing Bank Act of 1973, referred to in subsec. (c), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§ 2281 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2281 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2281&num=0&edition=prelim) and Tables.
+The Federal Financing Bank Act of 1973, referred to in subsec. (c), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, which is classified generally to chapter 24 (§ 2281 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2281 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2281&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in subsec. (e), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under [section 8801 of this title](./chapter-096-biomass-energy-and-alcohol-fuels.md#section-8801) and Tables.
 
@@ -637,7 +637,7 @@ No insured loan, loan guarantee, price guarantee, or purchase agreement may be c
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, as amended, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8801 of this title](./chapter-096-biomass-energy-and-alcohol-fuels.md#section-8801) and Tables.
+This Act, referred to in text, is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8801 of this title](./chapter-096-biomass-energy-and-alcohol-fuels.md#section-8801) and Tables.
 
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.

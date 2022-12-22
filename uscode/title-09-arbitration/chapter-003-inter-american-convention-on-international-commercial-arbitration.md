@@ -79,11 +79,17 @@ Section effective upon the entry into force of the Inter-American Convention on 
 
 
 <a id="section-307"></a>
-## § 307. Chapter 1; residual application
+## § 307. Application
 
-Chapter 1 applies to actions and proceedings brought under this chapter to the extent chapter 1 is not in conflict with this chapter or the Inter-American Convention as ratified by the United States.
+Chapter 1 applies to actions and proceedings brought under this chapter to the extent chapter 1 is not in conflict with this chapter or the Inter-American Convention as ratified by the United States. This chapter applies to the extent that this chapter is not in conflict with chapter 4.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–90 substituted “Application” for “Chapter 1; residual application” in section catchline and inserted at end “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–90 applicable with respect to any dispute or claim that arises or accrues on or after Mar. 3, 2022, see section 3 of Pub. L. 117–90, set out as an Effective Date note under [section 401 of this title](./chapter-004-arbitration-of-disputes-involving-sexual-assault-and-sexual-harassment.md#section-401).
 
 #### Effective Date
 Section effective upon the entry into force of the Inter-American Convention on International Commercial Arbitration of January 30, 1975, with respect to the United States (Oct. 27, 1990), see section 3 of Pub. L. 101–369, set out as a note under [section 301 of this title](./chapter-003-inter-american-convention-on-international-commercial-arbitration.md#section-301).

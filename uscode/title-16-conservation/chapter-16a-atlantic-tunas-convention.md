@@ -145,9 +145,9 @@ Each member of the advisory committee appointed under paragraph (1) shall serve 
 ### Statutory Notes
 
 #### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(5), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(5), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 1998—Subsecs. (a)(2), (b)(5). Pub. L. 105–384 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
@@ -278,7 +278,7 @@ Pub. L. 104–43, title III, § 309(b), Nov. 3, 1995, 109 Stat. 387, as amended 
 ### Statutory Notes
 
 #### References in Text
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (c)(1)(C), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Section 3 of the Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1), was subsequently amended, and section 3(16) no longer defines the term “large-scale driftnet fishing”. However, such term is defined elsewhere in that section.
 
@@ -475,7 +475,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 ### Statutory Notes
 
 #### References in Text
-The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(3)(B), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
+The Atlantic Tunas Convention Act of 1975, referred to in subsec. (b)(3)(B), is Pub. L. 94–70, Aug. 5, 1975, 89 Stat. 385, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 971 of this title](./chapter-16a-atlantic-tunas-convention.md#section-971) and Tables.
 
 #### Codification
 Subsection (a), which required the Secretary of Commerce to prepare and submit to Congress a biennial report on the level of taking of bluefin tuna by United States fishermen in the Convention area as defined in Article I of the International Convention for the Conservation of Atlantic Tunas, the status of bluefin tuna stocks within the Convention area and the trends in their population level, and related information resulting from implementation of the observer program under [section 1827 of this title](./chapter-038-fishery-conservation-and-management.md#section-1827), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 50 of House Document No. 103–7.

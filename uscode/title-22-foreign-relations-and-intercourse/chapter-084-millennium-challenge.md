@@ -250,7 +250,7 @@ The provisos of Public Law 108–7, referred to in subsec. (e)(4), are contained
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (a)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (a)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. Part I of the Act is classified generally to subchapter I (§ 2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§ 2346 et seq.), VI (§ 2348 et seq.), and VIII (§ 2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under [section 2346 of this title](./chapter-032-foreign-assistance.md#section-2346), and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
 2018—Subsec. (a)(1)(B). Pub. L. 115–167, § 201(a)(1), substituted “(4)” for “(3)”.
@@ -684,7 +684,7 @@ This chapter, referred to in subsecs. (a)(6), (10), (d), and (g)(1), was in the 
 
 The State Department Basic Authorities Act of 1956, referred to in subsec. (d), is act Aug. 1, 1956, ch. 841, 70 Stat. 890. For complete classification of this Act to the Code, see Short Title note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651) and Tables.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Codification
 Section is comprised of section 614 of div. D of Pub. L. 108–199. Subsec. (e)(2) of section 614 of div. D of Pub. L. 108–199 amended [section 9101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101&num=0&edition=prelim), Money and Finance.

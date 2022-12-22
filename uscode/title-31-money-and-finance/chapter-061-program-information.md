@@ -96,6 +96,9 @@ Par. (7). Pub. L. 98–169, § 3(a), added par. (7).
 #### Effective Date of 1996 Amendment
 Pub. L. 104–287, § 6(a), Oct. 11, 1996, 110 Stat. 3398, provided that the amendment made by that section is effective July 5, 1994.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–219, § 1, Dec. 5, 2022, 136 Stat. 2271, provided that: “This Act [enacting [section 6309 of this title](./chapter-063-using-procurement-contracts-and-grant-and-cooperative-agreements.md#section-6309), amending [section 6102 of this title](./chapter-061-program-information.md#section-6102) and [section 3504 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3504&num=0&edition=prelim), Public Printing and Documents, and enacting provisions set out as notes under [section 6102 of this title](./chapter-061-program-information.md#section-6102)] may be cited as the ‘Metropolitan Areas Protection and Standardization Act of 2021’ or the ‘MAPS Act of 2021’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 117–40, § 1, Sept. 24, 2021, 135 Stat. 337, provided that: “This Act [amending [section 1105 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1105) and provisions set out as a note under this section] may be cited as the ‘Congressional Budget Justification Transparency Act of 2021’.”
 
@@ -221,9 +224,11 @@ George Bush.
 
   (E) types of assistance;
 
-  (F) uses, and restrictions on the use, of assistance; and
+  (F) uses, and restrictions on the use, of assistance;
 
-  (G) duties of recipients under the program.
+  (G) uses of core-based statistical area (as defined in section 4 of the MAPS Act of 2021) delineations (as chosen from standardized categories of uses determined by the Director), for purposes including prime recipient and subrecipient eligibility for, and distribution of, any Federal service, benefit, or funding; and
+
+  (H) duties of recipients under the program.
 
 (3) a specification of each formula governing eligibility for assistance or the distribution of assistance under the program, which shall be described through the use of—
 
@@ -276,7 +281,12 @@ In subsection (c)(1), the word “catalogs” is added for clarity.
 
 In subsection (c)(2), the words “further”, “officials”, and “Federal” are omitted as unnecessary.
 
+#### References in Text
+Section 4 of the MAPS Act of 2021, referred to in subsec. (a)(2)(G), is section 4 of Pub. L. 117–219, which is set out as a note under this section.
+
 #### Amendments
+2022—Subsec. (a)(2)(G), (H). Pub. L. 117–219 added subpar. (G) and redesignated former subpar. (G) as (H).
+
 1983—Subsec. (a). Pub. L. 98–169, § 2(1), substituted “collect and review information on domestic assistance programs and shall provide such information to the Administrator” for “prepare and maintain information on domestic assistance programs”.
 
 Pub. L. 98–169, § 1(2), substituted “Director” for “Director of the Office of Management and Budget”.
@@ -301,8 +311,34 @@ Committee on Government Operations of House of Representatives treated as referr
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (c)(4) of this section relating to annually transmitting information to certain committees of Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of this title](./chapter-011-the-budget-and-fiscal-budget-and-program-information.md#section-1113), and page 173 of House Document No. 103–7.
 
+#### Findings
+Pub. L. 117–219, § 2, Dec. 5, 2022, 136 Stat. 2271, provided that: “Congress finds the following: “(1) Federal programs use core-based statistical area delineations to determine the delivery of Federal services, benefits, and funding to people in the United States, such as in criteria for eligibility or distribution. “(2) Core-based statistical area delineations provide a nationally consistent set of standards for collecting, tabulating, and publishing Federal statistics for geographic areas, and they are not intended for any public or private sector non-statistical uses such as program administration or service delivery. “(3) Updates to core-based statistical area delineations may cause widespread disruption to the delivery of Federal services, benefits, and funding to people in the United States based on the reliance of Federal programs on these delineations. “(4) There does not exist any comprehensive list of Federal programs that rely on core-based statistical area delineations. Such a list is valuable for the study of how Federal services, benefits, and funding are distributed to people in the United States. “(5) Increased transparency on the impacts of any update to core-based statistical area delineations may be overly burdensome due to the anticipated variety of Federal programs that rely on these delineations. Any requirement for complete disclosure of these impacts prior to implementation of new delineations may unintentionally cause the existing delineations to ossify. “(6) In order to prevent any disruption to service delivery of Federal programs based on updates to core-based statistical area delineations, and ensure the independence of Federal statistical policymaking, Congress must sever the link between future updates to core-based statistical area delineations and any automatic impact on Federal programs that rely on these delineations.”
+
+[For definition of “core-based statistical area” as used in section 2 of Pub. L. 117–219, set out above, see section 4 of Pub. L. 117–219, set out below.]
+
+#### Purpose of Pub. L. 117–219
+Pub. L. 117–219, § 3, Dec. 5, 2022, 136 Stat. 2272, provided that: “This [sic] purpose of this Act [see Short Title of 2022 Amendment note set out under [section 6101 of this title](./chapter-061-program-information.md#section-6101)] is to ensure— “(1) transparency in how core-based statistical area delineations are used in domestic assistance programs; and “(2) independence of the Office of Management and Budget in establishing and updating core-based statistical area delineations.”
+
+[For definitions of “core-based statistical area” and “domestic assistance program” as used in section 3 of Pub. L. 117–219, set out above, see section 4 of Pub. L. 117–219, set out below.]
+
+#### Content Requirements
+Pub. L. 117–219, § 6(b), Dec. 5, 2022, 136 Stat. 2273, provided that: “In collecting and reviewing the information required under [section 6102(a)(2)(G) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6102/a/2/G&num=0&edition=prelim), United States Code, as amended by subsection (a) of this section, the Director shall include as standardized categories— “(1) whether the most current core-based statistical area delineation has been affirmatively adopted pursuant to [section 6309 of title 31](./chapter-063-using-procurement-contracts-and-grant-and-cooperative-agreements.md#section-6309), United States Coded [sic], as added by this Act; “(2) which historical core-based statistical area delineation was maintained, in cases where an updated delineation has not been affirmatively adopted pursuant to [section 6309 of title 31](./chapter-063-using-procurement-contracts-and-grant-and-cooperative-agreements.md#section-6309), United States Coded [sic], as added by this Act; “(3) what purpose the core-based statistical area delineation serves, including—“(A) to determine eligibility for any Federal service, benefit, or funding; “(B) to determine distribution of any Federal service, benefit, or funding; and “(C) any other standardized category of purpose determined by the Director; “(4) whether the use of core-based statistical area delineation directly concerns any—“(A) prime recipient of any Federal service, benefit, or funding; and “(B) subrecipient of any Federal service, benefit, or funding; and “(5) the date when the information collected in this subsection was last updated.”
+
+[For definitions of “core-based statistical area” and “Director” as used in section 6(b) of Pub. L. 117–219, set out above, see section 4 of Pub. L. 117–219, set out below.]
+
+#### Accessibility Requirements
+Pub. L. 117–219, § 6(c), Dec. 5, 2022, 136 Stat. 2273, provided that: “The Director shall ensure that the information collected and reviewed under [section 6102(a)(2)(G) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6102/a/2/G&num=0&edition=prelim), United States Code, as amended by subsection (a) of this section, shall be— “(1) publicly accessible as an open Government data asset; “(2) presented in a user-friendly visual format with search and download capabilities; “(3) easily discoverable by the public on relevant government websites; and “(4) updated not less frequently than once every year.”
+
+[For definitions of “Director” and “open Government data asset” as used in section 6(c) of Pub. L. 117–219, set out above, see section 4 of Pub. L. 117–219, set out below.]
+
+#### Implementation Timeline
+Pub. L. 117–219, § 6(d), Dec. 5, 2022, 136 Stat. 2274, provided that: “The requirements of this section [amending this section and enacting provisions set out as notes under this section] shall be fully implemented not later than 2 years after the date of enactment of this Act [December 5, 2022].”
+
 #### Consolidated Federal Funds Report
 Pub. L. 97–326, Oct. 15, 1982, 96 Stat. 1607, as amended by Pub. L. 97–452, § 4(b), Jan. 12, 1983, 96 Stat. 2480, known as the “Consolidated Federal Funds Report Act of 1982”, which required the Director of the Office of Management and Budget to prepare Consolidated Federal Funds Reports for the fiscal years 1981 through 1985, was repealed by Pub. L. 99–547, § 2(d), Oct. 27, 1986, 100 Stat. 3060, effective May 1, 1986.
+
+#### Definitions
+Pub. L. 117–219, § 4, Dec. 5, 2022, 136 Stat. 2272, provided that: “In this Act [see Short Title of 2022 Amendment note set out under [section 6101 of this title](./chapter-061-program-information.md#section-6101)]: “(1) Agency.—The term ‘agency’ has the meaning given the term in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim), United States Code. “(2) Comptroller general.—The term ‘Comptroller General’ means the Comptroller General of the United States. “(3) Core-based statistical area.—The term ‘core-based statistical area’ has the meaning given the term by the Office of Management and Budget in the Notice of Decision entitled ‘2020 Standards for Delineating Core-Based Statistical Areas’, published in the Federal Register on July 16, 2021 (86 Fed. Reg. 37770), or any successor to that Notice. “(4) Director.—The term ‘Director’ means the Director of the Office of Management and Budget. “(5) Domestic assistance program.—The term ‘domestic assistance program’ has the meaning given the term in [section 6101 of title 31](./chapter-061-program-information.md#section-6101), United States Code. “(6) Open government data asset.—The term ‘open Government data asset’ has the meaning given the term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-6102a"></a>

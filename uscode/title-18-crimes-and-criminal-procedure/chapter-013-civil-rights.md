@@ -2,7 +2,7 @@
 title: 18
 chapter: '13'
 heading: CIVIL RIGHTS
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18&num=0&edition=prelim
 ---
@@ -454,6 +454,10 @@ Pub. L. 103–259, § 2, May 26, 1994, 108 Stat. 694, provided that: “Pursuant
 
 (4) **Guidelines.—** — All prosecutions conducted by the United States under this section shall be undertaken pursuant to guidelines issued by the Attorney General, or the designee of the Attorney General, to be included in the United States Attorneys’ Manual that shall establish neutral and objective criteria for determining whether a crime was committed because of the actual or perceived status of any person.
 
+(5) **Lynching.—** — Whoever conspires to commit any offense under paragraph (1), (2), or (3) shall, if death or serious bodily injury (as defined in [section 2246 of this title](./chapter-109a-sexual-abuse.md#section-2246)) results from the offense, be imprisoned for not more than 30 years, fined in accordance with this title, or both.
+
+(6) **Other conspiracies.—** — Whoever conspires to commit any offense under paragraph (1), (2), or (3) shall, if death or serious bodily injury (as defined in [section 2246 of this title](./chapter-109a-sexual-abuse.md#section-2246)) results from the offense, or if the offense includes kidnapping or an attempt to kidnap, aggravated sexual abuse or an attempt to commit aggravated sexual abuse, or an attempt to kill, be imprisoned for not more than 30 years, fined in accordance with this title, or both.
+
 **(b) Certification Requirement.—**
 
 (1) **In general.—** — No prosecution of any offense described in this subsection may be undertaken by the United States, except under the certification in writing of the Attorney General, or a designee, that—
@@ -491,6 +495,8 @@ Pub. L. 103–259, § 2, May 26, 1994, 108 Stat. 694, provided that: “Pursuant
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(5), (6). Pub. L. 117–107 added pars. (5) and (6).
+
 2021—Subsec. (e). Pub. L. 117–13 added subsec. (e).
 
 2009—Subsec. (a)(4). Pub. L. 111–84, § 4711, added par. (4).
@@ -503,3 +509,39 @@ Pub. L. 111–84, div. E, § 4710, Oct. 28, 2009, 123 Stat. 2841, which related 
 
 #### Findings
 Pub. L. 111–84, div. E, § 4702, Oct. 28, 2009, 123 Stat. 2835, which set out Congressional findings related to hate crimes, was editorially reclassified as [section 30501 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section30501&num=0&edition=prelim), Crime Control and Law Enforcement.
+
+
+<a id="section-250"></a>
+## § 250. Penalties for civil rights offenses involving sexual misconduct
+**(a) Offense.—** It shall be unlawful for any person to, in the course of committing an offense under this chapter or under section 901 of the Fair Housing Act ([42 U.S.C. 3631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3631&num=0&edition=prelim)), engage in, or cause another to engage in, sexual misconduct.
+
+**(b) Penalties.—** Any person who violates subsection (a) shall be—
+
+(1) in the case of an offense involving aggravated sexual abuse, as defined in section 2241, or if the offense involved sexual abuse, as defined in section 2242, or if the offense involved an attempt to commit such aggravated sexual abuse or sexual abuse, fined under this title and imprisoned for any term of years or for life;
+
+(2) in the case of an offense involving abusive sexual contact of a child who has not attained the age of 16, of the type prohibited by section 2244(a)(5), fined under this title and imprisoned for any term of years or for life;
+
+(3) in the case of an offense involving a sexual act, as defined in section 2246, with another person without the other person’s permission, and it does not amount to sexual abuse or aggravated sexual abuse, be fined under this title and imprisoned for not more than 40 years;
+
+(4) in the case of an offense involving abusive sexual contact of the type prohibited by subsection (a)(1) or (b) of section 2244, but excluding abusive sexual contact through the clothing—
+
+  (A) fined under this title and imprisoned for not more than 10 years; and
+
+  (B) if the offense involves a child who has not attained the age of 12 years, imprisoned for not more than 30 years;
+
+(5) in the case of an offense involving abusive sexual contact of the type prohibited by section 2244(a)(2)—
+
+  (A) fined under this title and imprisoned for not more than 3 years; and
+
+  (B) if the offense involves a child under the age of 12, imprisoned for not more than 20 years; and
+
+(6) in the case of an offense involving abusive sexual contact through the clothing of the type prohibited by subsection (a)(3), (a)(4), or (b) of section 2244—
+
+  (A) fined under this title and imprisoned for not more than 2 years; and
+
+  (B) if the offense involves a child under the age of 12, imprisoned for not more than 10 years.
+
+### Statutory Notes
+
+#### Effective Date
+Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.

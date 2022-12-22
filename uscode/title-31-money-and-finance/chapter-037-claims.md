@@ -115,7 +115,7 @@ In subsection (d), the word “arising” is omitted as surplus.
 #### References in Text
 The Internal Revenue Code of 1986, referred to in subsecs. (a)(8) and (d)(1), is classified to Title 26, Internal Revenue Code.
 
-The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Sections 204(f) and 1631(b)(4) of the Act are classified to sections 404(f) and 1383(b)(4), respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Sections 204(f) and 1631(b)(4) of the Act are classified to sections 404(f) and 1383(b)(4), respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The tariff laws of the United States, referred to in subsec. (d)(3), are classified generally to Title 19, Customs Duties.
 
@@ -904,7 +904,7 @@ The Higher Education Act of 1965, referred to in subsec. (c)(1)(C), is Pub. L. 8
 
 The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Titles II, VIII, XVI, and XVIII of the Act are classified generally to subchapters II (§ 401 et seq.), VIII (§ 1001 et seq.), XVI (§ 1381 et seq.), and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42. Sections 205(b)(1), 809(a)(1), and 1631(c)(1) of the Act are classified to sections 405(b)(1), 1009(a)(1), and 1383(c)(1), respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part B of the Act is classified generally to part B (§ 921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see [section 901(b) of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section901/b&num=0&edition=prelim) and Tables.
+The Black Lung Benefits Act, referred to in subsec. (c)(3)(A)(i)(II), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792. Part B of the Act is classified generally to part B (§ 921 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see [section 901(b) of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section901/b&num=0&edition=prelim) and Tables.
 
 The enactment of this subparagraph, referred to in subsec. (c)(3)(D), refers to the date of enactment of Pub. L. 110–275, which was approved July 15, 2008.
 
@@ -1412,7 +1412,7 @@ Pub. L. 98–369, div. B, title VI, § 2652(a)(3), July 18, 1984, 98 Stat. 1152,
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 204 of the Act is classified to [section 404 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section404&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 204 of the Act is classified to [section 404 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section404&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (g), is the date of enactment of Pub. L. 102–589, which was approved Nov. 10, 1992.
 
@@ -1472,7 +1472,7 @@ For provisions that nothing in amendments by section 2653 of Pub. L. 98–369, e
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, as amended. Subtitle C of the Act is classified generally to subchapter III (§ 7231 et seq.) of chapter 100 of Title 7, Agriculture. For complete classification of this Act to the Code, see References in Text note set out under [section 7201 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7201&num=0&edition=prelim) and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (a), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896. Subtitle C of the Act is classified generally to subchapter III (§ 7231 et seq.) of chapter 100 of Title 7, Agriculture. For complete classification of this Act to the Code, see References in Text note set out under [section 7201 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7201&num=0&edition=prelim) and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a), is classified to Title 26, Internal Revenue Code.
 
@@ -1555,7 +1555,7 @@ Pub. L. 106–387, § 1(a) [title VIII, § 845(b)], Oct. 28, 2000, 114 Stat. 154
 ### Statutory Notes
 
 #### References in Text
-The Congressional Budget Act of 1974, referred to in subsec. (d), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title V of the Act, known as the Federal Credit Reform Act of 1990, is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
+The Congressional Budget Act of 1974, referred to in subsec. (d), is titles I through IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title V of the Act, known as the Federal Credit Reform Act of 1990, is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
 
 <a id="section-3720d"></a>

@@ -560,7 +560,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 #### References in Text
 Sections 474 and 476 of title 37, referred to in subsec. (b)(2)(B), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
-Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (b)(2)(B), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay And Allowances Of The Uniformed Services, prior to being omitted from the Code as obsolete.
+Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (b)(2)(B), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, prior to being omitted from the Code as obsolete.
 
 #### Amendments
 2013—Subsec. (b)(2)(B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
@@ -741,7 +741,7 @@ Pub. L. 102–190, div. A, title VI, § 663, Dec. 5, 1991, 105 Stat. 1399, direc
 #### References in Text
 Sections 474 and 476 of title 37, referred to in subsec. (j), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
-Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (j), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay And Allowances Of The Uniformed Services, prior to being omitted from the Code as obsolete.
+Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (j), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, prior to being omitted from the Code as obsolete.
 
 #### Amendments
 2013—Subsec. (j). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.

@@ -194,15 +194,17 @@ The words “After the completion and dedication of” are omitted as executed.
 
 (2) in any location, to protect—
 
-  (A) the Chief Justice, any Associate Justice of the Supreme Court, and any official guest of the Supreme Court; and
+  (A) the Chief Justice, any Associate Justice of the Supreme Court, and any official guest of the Supreme Court;
 
-  (B) any officer or employee of the Supreme Court while that officer or employee is performing official duties;
+  (B) any officer or employee of the Supreme Court while that officer or employee is performing official duties; and
+
+  (C) any member of the immediate family of the Chief Justice, any Associate Justice, or any officer of the Supreme Court if the Marshal determines such protection is necessary.11 So in original. The period probably should be a semicolon.
 
 (3) while performing duties necessary to carry out paragraph (1) or (2), to make arrests for any violation of Federal or State law and any regulation under Federal or State law; and
 
 (4) to carry firearms as may be required while performing duties under [section 6102 of this title](./chapter-061-united-states-supreme-court-building-and-grounds.md#section-6102), this subchapter, and subchapter IV.
 
-**(b) Authorization To Carry Firearms—** 11 So in original. The dash probably should be preceded by a period. Duties under subsection (a)(2)(A) with respect to an official guest of the Supreme Court in any location (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice or an Associate Justice, if those duties require the carrying of firearms under subsection (a)(4).
+**(b) Authorization To Carry Firearms—** 22 So in original. The dash probably should be preceded by a period. Duties under subsection (a)(2)(A) with respect to an official guest of the Supreme Court in any location (other than the District of Columbia, Maryland, and Virginia) shall be authorized in writing by the Chief Justice or an Associate Justice, if those duties require the carrying of firearms under subsection (a)(4).
 
 ### Statutory Notes
 
@@ -219,6 +221,8 @@ In subsection (a)(3), the words “federal or state law and any regulation under
 In subsection (b), the words “The Marshal of the Supreme Court shall report annually to the Congress on March 1 regarding the administrative cost of carrying out his duties under such subsection” are omitted pursuant to section 3003 of the Federal Reports Elimination and Sunset Act of 1995 ([31 U.S.C. 1113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim) note). See, also, page 13 of House Document No. 103–7.
 
 #### Amendments
+2022—Subsec. (a)(2)(C). Pub. L. 117–148 added subpar. (C).
+
 2019—Subsec. (a)(2). Pub. L. 116–75, § 2(1)(A), substituted “any location” for “any State” in introductory provisions.
 
 Subsec. (a)(3). Pub. L. 116–75, § 2(1)(B), substituted “Federal or State law” for “federal or state law” in two places.

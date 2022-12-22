@@ -84,11 +84,17 @@ Section effective upon the entry into force of the Convention on Recognition and
 
 
 <a id="section-208"></a>
-## § 208. Chapter 1; residual application
+## § 208. Application
 
-Chapter 1 applies to actions and proceedings brought under this chapter to the extent that chapter is not in conflict with this chapter or the Convention as ratified by the United States.
+Chapter 1 applies to actions and proceedings brought under this chapter to the extent that chapter is not in conflict with this chapter or the Convention as ratified by the United States. This chapter applies to the extent that this chapter is not in conflict with chapter 4.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–90 substituted “Application” for “Chapter 1; residual application” in section catchline and inserted at end “This chapter applies to the extent that this chapter is not in conflict with chapter 4.”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–90 applicable with respect to any dispute or claim that arises or accrues on or after Mar. 3, 2022, see section 3 of Pub. L. 117–90, set out as an Effective Date note under [section 401 of this title](./chapter-004-arbitration-of-disputes-involving-sexual-assault-and-sexual-harassment.md#section-401).
 
 #### Effective Date
 Section effective upon the entry into force of the Convention on Recognition and Enforcement of Foreign Arbitral Awards with respect to the United States (Dec. 29, 1970), see section 4 of Pub. L. 91–368, set out as a note under [section 201 of this title](./chapter-002-convention-on-the-recognition-and-enforcement-of-foreign-arbitral-awards.md#section-201).

@@ -95,9 +95,9 @@ It is the sense of Congress that the annual national security strategy report of
 #### References in Text
 House Concurrent Resolution 102, referred to in subsec. (a)(7)(C), is H. Con. Res. 102, June 26, 1996, 110 Stat. 4483, which is not classified to the Code.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-The International Financial Institutions Act of 1977, referred to in subsec. (b)(1)(B), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, as amended, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–13, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
+The International Financial Institutions Act of 1977, referred to in subsec. (b)(1)(B), probably means the International Financial Institutions Act, Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–15, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
 
 #### Amendments
 2016—Subsec. (a)(3). Pub. L. 114–281, § 2(a)(1), inserted “The freedom of thought, conscience, and religion is understood to protect theistic and non-theistic beliefs and the right not to profess or practice any religion.” before “Governments have the responsibility”.
@@ -109,6 +109,9 @@ Subsec. (a)(6). Pub. L. 114–281, § 2(a)(3), inserted “and the specific targ
 Subsec. (b). Pub. L. 114–281, § 2(b), designated existing provisions as par. (1) and inserted heading, substituted “The following shall be the policy of the United States:” for “It shall be the policy of the United States, as follows:”, redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
 
 2014—Subsec. (a)(4). Pub. L. 113–154 inserted “desecration of cemeteries,” after “confiscations of property,”.
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–181, § 1, Sept. 30, 2022, 136 Stat. 2177, provided that: “This Act [amending sections 6435 and 6436 of this title] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2022’.”
 
 #### Short Title of 2019 Amendment
 Pub. L. 116–94, div. J, title VIII, § 801, Dec. 20, 2019, 133 Stat. 3076, provided that: “This title [amending sections 6431 to 6432b, 6433a, and 6435 to 6436 of this title and [section 1301 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1301&num=0&edition=prelim), The Congress] may be cited as the ‘United States Commission on International Religious Freedom Reauthorization Act of 2019’.”
@@ -159,7 +162,7 @@ Sec. 5. Training for Federal Officials. (a) The Secretary shall require all Depa
 
 Sec. 6. Economic Tools. (a) The Secretary and the Secretary of the Treasury shall, in consultation with the Assistant to the President for National Security Affairs, and through the process described in National Security Presidential Memorandum–4 of April 4, 2017 (Organization of the National Security Council, the Homeland Security Council, and Subcommittees) [[50 U.S.C. 3021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim) note], develop recommendations to prioritize the appropriate use of economic tools to advance international religious freedom in countries of particular concern, countries on the Special Watch List, countries in which there are entities of particular concern, and any other countries that have engaged in or tolerated violations of religious freedom as noted in the report required by section 102(b) of the Act. These economic tools may include, as appropriate and to the extent permitted by law, increasing religious freedom programming, realigning foreign assistance to better reflect country circumstances, or restricting the issuance of visas under section 604(a) of the Act [probably means [8 U.S.C. 1182(a)(2)(G)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/a/2/G&num=0&edition=prelim), as added by section 604(a) of Pub. L. 105–292].
 
-(b) The Secretary of the Treasury, in consultation with the Secretary of State, may consider imposing sanctions under Executive Order 13818 of December 20, 2017 (Blocking the Property of Persons Involved in Serious Human Rights Abuse or Corruption) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note], which, among other things, implements the Global Magnitsky Human Rights Accountability Act (Public Law 114–328[, div. A, title XII, subtitle F]) [[22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note].
+(b) The Secretary of the Treasury, in consultation with the Secretary of State, may consider imposing sanctions under Executive Order 13818 of December 20, 2017 (Blocking the Property of Persons Involved in Serious Human Rights Abuse or Corruption) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note], which, among other things, implements the Global Magnitsky Human Rights Accountability Act (Public Law 114–328[, div. A, title XII, subtitle F]) [[22 U.S.C. 10101](./chapter-108-global-magnitsky-human-rights-accountability.md#section-10101) et seq.].
 
 Sec. 7. Definitions. For purposes of this order:
 
@@ -820,7 +823,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commis
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is classified to [section 6436 of this title](./chapter-073-international-religious-freedom.md#section-6436).
@@ -828,7 +831,7 @@ A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is class
 
 <a id="section-6436"></a>
 ## § 6436. Authorization of appropriations
-**(a) In general** There are authorized to be appropriated to the Commission $3,500,000 for each of the fiscal years 2019 through 2022 to carry out the provisions of this chapter and [section 6433a of this title](./chapter-073-international-religious-freedom.md#section-6433a).
+**(a) In general** There are authorized to be appropriated to the Commission $3,500,000 for each of the fiscal years 2023 and 2024 to carry out the provisions of this chapter and [section 6433a of this title](./chapter-073-international-religious-freedom.md#section-6433a).
 
 **(b) Availability of funds** Amounts authorized to be appropriated under subsection (a) shall remain available until the earlier of—
 
@@ -848,6 +851,8 @@ A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is class
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6401 of this title](./chapter-073-international-religious-freedom.md#section-6401) and Tables.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–181 substituted “2023 and 2024” for “2019 through 2022”.
+
 2019—Subsec. (a). Pub. L. 116–94 substituted “2019 through 2022” for “2016 to 2019”.
 
 2015—Pub. L. 114–71 amended section generally. Prior to amendment, section authorized appropriations for fiscal years 2012 through 2015.
@@ -923,7 +928,7 @@ Pub. L. 113–271, § 2, Dec. 18, 2014, 128 Stat. 2951, provided that: “The am
 #### References in Text
 [Section 6474 of this title](./chapter-073-international-religious-freedom.md#section-6474), referred to in subsec. (c)(2), was in the original a reference to section 605 of Pub. L. 105–292, which was renumbered section 606 by Pub. L. 114–281, title V, § 501(1), Dec. 16, 2016, 130 Stat. 1437.
 
-The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, as amended, which was classified principally to chapter 37 (§ 2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to [section 2625 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2625), and with limited applicability, to [section 2621 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2621), and was restated in [section 7342 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342&num=0&edition=prelim), Government Organization and Employees, by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
+The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, which was classified principally to chapter 37 (§ 2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to [section 2625 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2625), and with limited applicability, to [section 2621 of this title](./chapter-037-foreign-gifts-and-decorations.md#section-2621), and was restated in [section 7342 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342&num=0&edition=prelim), Government Organization and Employees, by Pub. L. 90–83, § 10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2019—Subsecs. (f), (g). Pub. L. 116–94 added subsecs. (f) and (g).
@@ -938,11 +943,13 @@ Subsec. (e). Pub. L. 112–75, § 5(2), substituted “Foreign Affairs” for �
 <a id="section-6442"></a>
 ## § 6442. Termination
 
-The Commission shall terminate on September 30, 2022.
+The Commission shall terminate on September 30, 2024.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–181 substituted “September 30, 2024” for “September 30, 2022”.
+
 2019—Pub. L. 116–94 substituted “2022” for “2019”.
 
 2015—Pub. L. 114–71 substituted “September 30, 2019” for “September 30, 2015”.
@@ -1304,7 +1311,7 @@ Donald J. Trump.
 #### References in Text
 The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
-The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
+The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of this title](./chapter-039-arms-export-control.md#section-2751) and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 

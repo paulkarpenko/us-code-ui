@@ -157,7 +157,7 @@ Act June 21, 1938, ch. 554, title IV, § 401, 52 Stat. 818, as amended by Pub. L
 ### Statutory Notes
 
 #### References in Text
-The Tennessee Valley Authority Act of 1933, as amended, referred to in subsec. (a), is act May 18, 1933. ch. 32. 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
+The Tennessee Valley Authority Act of 1933, referred to in subsec. (a), is act May 18, 1933. ch. 32. 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -492,11 +492,11 @@ In order to insure coordination of electric generation and transmission financin
 #### References in Text
 Section 375 of the Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), was classified to [section 2008j of this title](./chapter-050-agricultural-credit.md#section-2008j) prior to repeal by Pub. L. 87–128, title III, § 375(j)(7), as added Pub. L. 106–78, title VIII, § 816(d), Oct. 22, 1999, 113 Stat. 1182.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307. Subtitle E of the Act is classified generally to subchapter V (§ 2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, § 6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§ 5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, § 6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under [section 1421 of this title](./chapter-35a-price-support-of-agricultural-commodities.md#section-1421) and Tables.
 
-The Rural Development Act of 1972, referred to in subsec. (c)(5), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title V of the Act is classified generally to subchapter II (§ 2661 et seq.) of chapter 59 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Rural Development Act of 1972, referred to in subsec. (c)(5), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657. Title V of the Act is classified generally to subchapter II (§ 2661 et seq.) of chapter 59 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 Sections 905 and 940a of this title, referred to in subsec. (c)(6), were repealed by Pub. L. 104–127, title VII, §§ 774(a), 780, Apr. 4, 1996, 110 Stat. 1150, 1151.
 
@@ -562,7 +562,7 @@ On and after November 28, 2001, notwithstanding any other provision of law, the 
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in text, is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to this chapter (§ 901 et seq.). For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
+The Rural Electrification Act of 1936, referred to in text, is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to this chapter (§ 901 et seq.). For complete classification of this Act to the Code, see [section 901 of this title](./chapter-031-rural-electrification-and-telephone-service.md#section-901) and Tables.
 
 #### Codification
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002, and not as part of the Rural Electrification Act of 1936 which comprises this chapter.
@@ -690,7 +690,7 @@ Nothing contained in this chapter shall be construed to deprive any State commis
 ### Statutory Notes
 
 #### References in Text
-The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
+The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
 
 
 <a id="section-924"></a>
@@ -1530,7 +1530,7 @@ At the request of the borrower, the Secretary is authorized and directed to refi
 ### Statutory Notes
 
 #### References in Text
-The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 1921 of this title](./chapter-050-agricultural-credit.md#section-1921) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
@@ -1851,7 +1851,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### References in Text
-The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, as amended, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (a), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
 
 <a id="section-940g"></a>
